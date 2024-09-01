@@ -3,7 +3,7 @@
 # https://github.com/osmoscraft/osmosfeed/blob/master/docs/osmosfeed-yaml-reference.md
 #########################
 
-# cacheUrl: https://GITHUB_USERNAME.github.io/REPO_NAME/cache.json
+cacheUrl: https://ksubbu199.github.io/cache.json
 sources:
   - href: http://www.aaronsw.com/2002/feeds/pgessays.rss
   - href: https://hnrss.org/newest?points=500
