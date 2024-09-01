@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-09-01T21:45:39.867Z</updated>
+    <updated>2024-09-01T21:51:39.284Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -1978,6 +1978,40 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[The case against AI art]]></title>
+        <id>https://techcrunch.com/2024/09/01/the-case-against-ai-art/</id>
+        <link href="https://techcrunch.com/2024/09/01/the-case-against-ai-art/"/>
+        <updated>2024-09-01T09:37:27.000Z</updated>
+        <summary type="html"><![CDATA[No matter who powerful generative AI becomes, writer Ted Chiang says it will never create true art.
+Chiang is one of the most admired science fiction authors writing today, best known for the novella “Story Of Your Life” (which was adapted into the movie “Arrival”). But he’s also published terrific pieces for The New Yorker looking at the dangers and shortcomings of AI.
+
+
+
+
+You should really read his latest article in its entirety, but briefly: Chiang argues that the potential of large language models remains “largely theoretical” — thus far, generative AI has been most successful at “lowering our expectations, both of the things we read and of ourselves when we write anything for others to read. It is a fundamentally dehumanizing technology because it treats us as less than what we are: creators and apprehenders of meaning.”
+Even as LLMs improve, Chiang argues that their output will never be art — which he acknowledges is “notoriously hard to define,” but he tries anyway: “Art is something that results from making a lot of choices.” Sure, those choices might not result in a particularly good novel or painting or film, but you’re still “engaged in an act of communication between you and your audience.”
+“We are all products of what has come before us, but it’s by living our lives in interaction with others that we bring meaning into the world,” Chiang concludes. “That is something that an auto-complete algorithm can never do, and don’t let anyone tell you otherwise.”]]></summary>
+        <author>
+            <name>TechCrunch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Palantir’s CTO, and 13th employee, has become a secret weapon for Valley defense tech startups]]></title>
+        <id>https://techcrunch.com/2024/09/01/tktk/</id>
+        <link href="https://techcrunch.com/2024/09/01/tktk/"/>
+        <updated>2024-09-01T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[On August 5, Palantir’s CTO Shyam Sankar stood in front of about 20 nervous new employees at the company’s Washington, D.C. office and gave a speech you’d expect at a new hire meeting: company mission, Palantir’s history, etc. But there was one part that would’ve seemed unfathomable a few years ago: Sankar evangelized the importance of a new wave of defense tech startups, spun up by Palantir, Tesla and SpaceX alums.
+The significance was more ideological than financial. Any business Palantir gets from startups is dwarfed by its government contracts, after all. But you can’t put a price on philosophical bedfellows. 
+
+
+
+
+Palantir likes to remind the world that it’s not like other publicly traded companies; i.e. buttoned-up and appropriately distanced from its cowboy private days. Sankar ends …]]></summary>
+        <author>
+            <name>TechCrunch</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Founder Mode]]></title>
         <id>https://news.ycombinator.com/item?id=41415023</id>
         <link href="https://paulgraham.com/foundermode.html"/>
@@ -1988,6 +2022,55 @@ Points: 744
 # Comments: 442]]></summary>
         <author>
             <name>bifftastic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘Emotion AI’ may be the next trend for business software, and that could be problematic]]></title>
+        <id>https://techcrunch.com/2024/09/01/emotion-ai-could-be-the-next-trend-for-business-software-and-that-could-be-problematic/</id>
+        <link href="https://techcrunch.com/2024/09/01/emotion-ai-could-be-the-next-trend-for-business-software-and-that-could-be-problematic/"/>
+        <updated>2024-09-01T07:01:00.000Z</updated>
+        <summary type="html"><![CDATA[As businesses experiment with embedding AI everywhere, one unexpected trend is companies turning to AI to help its many newfound bots better understand human emotion. 
+It’s an area called “emotion AI,” according to PitchBook’s new Enterprise Saas Emerging Tech Research report that predicts this tech is on the rise. 
+
+
+
+
+The reasoning goes something like this: If businesses deploy AI assistants to execs and employees, make AI chatbots be front-line salespeople and customer service reps, how can an AI perform well if it doesn’t understand the difference between an angry “What do you mean by that?” and a confused “What do you mean by that?”
+Emotion AI claims to be the more sophisticated sibling of sentiment analysis, the pre-AI tech that attempts to distill human emotion from text-based inter…]]></summary>
+        <author>
+            <name>TechCrunch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why do so many home robots still suck?]]></title>
+        <id>https://techcrunch.com/2024/09/01/why-do-so-many-home-robots-still-suck/</id>
+        <link href="https://techcrunch.com/2024/09/01/why-do-so-many-home-robots-still-suck/"/>
+        <updated>2024-09-01T06:00:00.000Z</updated>
+        <summary type="html"><![CDATA[“The Jetsons” debuted September 23, 1962. The first episode, titled “Rosey the Robot,” was an origin story of sorts for the titular character, describing how an overworked Jane hired the housekeeper. Sixty-two years after her debut, Rosey remains an important pop cultural touchstone for the unfulfilled promise of home robots.
+The home of 2024 isn’t necessarily wholly devoid of robots. According to its own figures, iRobot has sold more than 50 million Roombas. That, meanwhile, is a fraction of the overall number of robot vacuums that have been sold around the globe. Robot lawnmowers and pool cleaners have gained traction as well, though those figures pale in comparison to their vacuuming counterparts.
+
+
+
+
+Home robots’ unfulfilled potential isn’t because of a lack of consumer demand or lack …]]></summary>
+        <author>
+            <name>TechCrunch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[From InstaDeep to Paystack: Here are Africa’s biggest startup exits and how much they raised]]></title>
+        <id>https://techcrunch.com/2024/09/01/from-instadeep-to-paystack-here-are-africas-biggest-startup-exits-and-how-much-they-raised/</id>
+        <link href="https://techcrunch.com/2024/09/01/from-instadeep-to-paystack-here-are-africas-biggest-startup-exits-and-how-much-they-raised/"/>
+        <updated>2024-09-01T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Startups globally have faced challenges over the last couple of years when trying to exit, due to factors like a frozen IPO market and reduced attractiveness to buyers. In addition, large mergers-and-acquisitions (M&A) deals have faced heightened regulatory scrutiny, particularly involving Big Tech or multi-billion-dollar conglomerates.
+Notably, a decline in venture investment within any startup ecosystem can often be linked to a lack of exit volume and value. In Africa, for instance, the number of M&A exits peaked at 44 in 2021, when the continent attracted nearly $6 billion in venture capital. However, in 2022, the number of exits dropped to 29, alongside a decrease in venture capital investment to over $3 billion.
+
+
+
+
+Despite these challenges, local investors remain optimistic, saying t…]]></summary>
+        <author>
+            <name>TechCrunch</name>
         </author>
     </entry>
     <entry>
@@ -2004,6 +2087,22 @@ Points: 830
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Bolt reportedly threatens legal action against Silverbear Capital]]></title>
+        <id>https://techcrunch.com/2024/08/31/bolt-reportedly-threatens-legal-action-against-silverbear-capital/</id>
+        <link href="https://techcrunch.com/2024/08/31/bolt-reportedly-threatens-legal-action-against-silverbear-capital/"/>
+        <updated>2024-08-31T13:56:08.000Z</updated>
+        <summary type="html"><![CDATA[In the latest twist in Bolt’s aggressive fundraising efforts, the fintech company’s CEO appears to have made a veiled threat of legal action against Silverbear Capital, the investment bank whose involvement in the deal remains in some dispute.
+“We believe there was some internal miscommunication at Silverbear Capital, one of our lead investors, which has caused unnecessary confusion,” CEO Justin Grooms wrote in an email reportedly viewed by Forbes. “The fact is, they signed a binding term sheet committing $200 million. Our exceptional legal team at Gibson, Dunn & Crutcher stands ready to represent the company in seeking to enforce our rights vigorously.”
+
+
+
+
+Bolt, which offers tools for one-click e-commerce checkout, did not immediately respond to a request for comment. Silverbear partner …]]></summary>
+        <author>
+            <name>TechCrunch</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Buy, Borrow, Die – Explained]]></title>
         <id>https://news.ycombinator.com/item?id=41408772</id>
         <link href="https://old.reddit.com/r/BuyBorrowDieExplained/comments/1f26rsf/buy_borrow_die_explained/"/>
@@ -2014,6 +2113,74 @@ Points: 509
 # Comments: 420]]></summary>
         <author>
             <name>nkurz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bluesky tops app charts and sees ‘all-time-highs’ after Brazil bans X]]></title>
+        <id>https://techcrunch.com/2024/08/31/bluesky-tops-app-charts-and-sees-all-time-highs-after-brazil-bans-x/</id>
+        <link href="https://techcrunch.com/2024/08/31/bluesky-tops-app-charts-and-sees-all-time-highs-after-brazil-bans-x/"/>
+        <updated>2024-08-31T13:10:28.000Z</updated>
+        <summary type="html"><![CDATA[A Brazilian court’s decision to ban X (formerly Twitter) seems to be benefiting its rivals, especially Bluesky.
+The microblogging platform announced late Friday that it was seeing “all-time-highs for activity” with 500,000 new users joining in the previous two days. It’s also number one on the free iPhone app chart in Brazil today, ranking just ahead of Meta’s Threads at number two.
+
+
+
+
+Noting the rankings, Bluesky CEO Jay Graber wrote, “good job Brazil, you made the right choice.”
+That growth is particularly impressive for a platform that only fully opened to the public in February and winkingly acknowledged its small size (especially compared to rivals X and Threads) by describing itself as “the short king of social apps.” The company says it had more than 6 million users as of May 2024.
+Bluesky was first announced in 2019 as a Twitter-backed initiative to build an open, decentralized social protocol. It has since become an independent public benefit corporation, with Twitter founder Jack Dorsey leaving the board earlier this year.
+Elon Musk’s X, meanwhile, has been engaged in an escalating legal fight with Brazil’s Supreme Court Justice Alexandre de Moraes over the company’s refusal to block certain accounts as part of a broader crackdown on what Moraes said is election disinformation. 
+X said earlier this month that it would shut down operations in Brazil, with Moraes then warning the company that it would be banned if it did not name a legal representative in the country. He followed through on Friday, and also threatened fines against users who try to circumvent the ban by using a VPN.
+As the ban approached, Brazil’s President Luiz Inácio Lula da Silva seemingly bid farewell to his X followers by linking to his other social media accounts — starting with Bluesky.]]></summary>
+        <author>
+            <name>TechCrunch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Is OpenAI worth $100B?]]></title>
+        <id>https://techcrunch.com/2024/08/31/is-openai-worth-100b/</id>
+        <link href="https://techcrunch.com/2024/08/31/is-openai-worth-100b/"/>
+        <updated>2024-08-31T09:05:00.000Z</updated>
+        <summary type="html"><![CDATA[OpenAI could reportedly increase its valuation to $100 billion. Nvidia and Apple are apparently in talks to contribute to the company’s next fundraising round, and Thrive Capital would lead the deal should it happen, according to The New York Times. OpenAI’s annualized revenue reportedly eclipsed $3.4 billion early this year, but it’s said to be on track to lose $5 billion by year end as it expands its AI training and staffing efforts.
+X is marking some links to NPR’s website as “unsafe.” When users click through to read the latest story about an altercation between a Trump campaign staffer and an Arlington National Cemetery employee, they are met with a warning typically applied to malicious links. It’s unclear why NPR’s site would have triggered this warning, though it raises questions a…]]></summary>
+        <author>
+            <name>TechCrunch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon hires the founders of AI robotics startup Covariant]]></title>
+        <id>https://techcrunch.com/2024/08/31/amazon-hires-the-founders-of-robotics-ai-startup-covariant/</id>
+        <link href="https://techcrunch.com/2024/08/31/amazon-hires-the-founders-of-robotics-ai-startup-covariant/"/>
+        <updated>2024-08-31T08:10:00.000Z</updated>
+        <summary type="html"><![CDATA[Amazon announced Friday evening that it has hired Covariant’s founders — Pieter Abbeel, Peter Chen, and Rocky Duan — along with “about a quarter” of the startup’s employees. It’s also signed a non-exclusive license to use Covariant’s robotic foundation models.
+Earlier this year, Chen told TechCrunch that Covariant is building “a large language model, but for robot language.” In other words, it’s creating AI models for robots, with an initial focus on robotic arms performing common warehouse tasks like bin picking.
+
+
+
+
+“With some of the smartest minds, we will advance fundamental research, marrying our rich expertise to unlock new ways for AI and robots to assist our operations employees,” said Joseph Quinlivan, Vice President of Amazon Fulfillment Technologies & Robotics, in a statement. “[Embedding] Covariant’s AI technology into our existing robot fleet will make them more performant and create real world value for our customers.”
+The deal sounds similar to Amazon’s hiring of the founders of AI startup Adept back in June — another deal that gave Amazon access to new talent and technology without having to fully acquire an existing startup.
+At the time, The Verge described this approach as a “reverse acquihire,” where tech giants facing antitrust scrutiny can use hiring and licensing deals to disguise their acquisitions, rather than the other way around. 
+Covariant, meanwhile, said it will continue operating under the leadership of Ted Stinson and Tianhao Zhang, with Stinson — who’d been the startup’s COO — now stepping into the CEO role. The company added that it remains “dedicated to delivering the Covariant Brain into production environments across a broad set of global industries, including apparel, health and beauty, grocery, and pharmaceuticals.”]]></summary>
+        <author>
+            <name>TechCrunch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Grammy CEO says music industry also has AI concerns]]></title>
+        <id>https://techcrunch.com/2024/08/31/grammy-ceo-says-music-industry-also-has-ai-concerns/</id>
+        <link href="https://techcrunch.com/2024/08/31/grammy-ceo-says-music-industry-also-has-ai-concerns/"/>
+        <updated>2024-08-31T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Harvey Mason Jr., CEO of the Recording Academy, caused a stir a few months ago. 
+He announced that the organization’s prestigious Grammy Awards would finally accept music made with artificial intelligence. At first, people were confused, and then Mason came out to clarify that he meant only humans can submit to the awards, but that AI can be used in the creative process. 
+
+
+
+
+“It’s a bit of a fine line, but that’s going to evolve,” he told TechCrunch about how the Academy is assessing the use of artificial intelligence in music. “My hope is that we can continue to celebrate human creativity at the highest level.” 
+The rise of AI has consumed the arts, just as it has Silicon Valley. Everyone is pondering: Will AI replace me? And within music — what happens to copyright? Royalties? To the ha…]]></summary>
+        <author>
+            <name>TechCrunch</name>
         </author>
     </entry>
     <entry>
@@ -2238,6 +2405,106 @@ Points: 643
 # Comments: 165]]></summary>
         <author>
             <name>Ameo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rewriting Strangler Fig]]></title>
+        <id>https://martinfowler.com/articles/2024-strangler-fig-rewrite.html</id>
+        <link href="https://martinfowler.com/articles/2024-strangler-fig-rewrite.html"/>
+        <updated>2024-08-22T15:51:00.000Z</updated>
+        <summary type="html"><![CDATA[Two decades ago, I posted that I found that the strangler fig plant was an interesting metaphor for the gradual replacement of a legacy system. I didn’t refer to the metaphor since, but meanwhile it grew a life of its own. Other people increasingly referred to the strangler fig approach to modernization, and traffic to that post steadily increased: currently it gets about 5000 page views a month, one of the more popular pages on this site. So I decided I needed to update that page, and have rewritten it, focusing on the core activities we need to do to make a success of such a venture.
+(This summarizes more detailed writing from Ian Cartwright, Rob Horn, and James Lewis.)]]></summary>
+        <author>
+            <name>Martin Fowler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Migrating Mess With DNS to use PowerDNS]]></title>
+        <id>https://jvns.ca/blog/2024/08/19/migrating-mess-with-dns-to-use-powerdns/</id>
+        <link href="https://jvns.ca/blog/2024/08/19/migrating-mess-with-dns-to-use-powerdns/"/>
+        <updated>2024-08-19T08:15:28.000Z</updated>
+        <summary type="html"><![CDATA[About 3 years ago, I announced Mess With DNS in
+this blog post, a playground
+where you can learn how DNS works by messing around and creating records.
+I wasn’t very careful with the DNS implementation though (to quote the release blog
+post: “following the DNS RFCs? not exactly”), and people started reporting
+problems that eventually I decided that I wanted to fix.
+the problems
+Some of the problems people have reported were:
+domain names with underscores weren’t allowed, even though they should be
+If there was a CNAME record for a domain name, it allowed you to create other records for that domain name, even if it shouldn’t
+you could create 2 different CNAME records for the same domain name, which shouldn’t be allowed
+no support for the SVCB or HTTPS record types, which seemed a little comp…]]></summary>
+        <author>
+            <name>Julia Evans</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Onboarding to a "legacy" codebase with the help of AI]]></title>
+        <id>https://martinfowler.com/articles/exploring-gen-ai.html#memo-09</id>
+        <link href="https://martinfowler.com/articles/exploring-gen-ai.html#memo-09"/>
+        <updated>2024-08-15T14:32:00.000Z</updated>
+        <summary type="html"><![CDATA[Much of the attention to generative AI in software development is
+       about generating code. But it may have a more useful role in helping us
+       understand existing code. This is especially true for older codebases
+       that are getting hard to maintain (“legacy”) or to improve onboarding in
+       teams that have a lot of fluctuation.
+Birgitta Böckeler demonstrates the possibilities here
+       by picking an issue from an open-source hospital management system and
+       exploring how AI could help her deal with it.
+more…]]></summary>
+        <author>
+            <name>Martin Fowler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Speakers for Amsterdam / Netherlands Tech Events]]></title>
+        <id>66bc8eef3afb9d0001eea483</id>
+        <link href="https://blog.pragmaticengineer.com/speakers-for-amsterdam-netherlands-tech-events/"/>
+        <updated>2024-08-14T11:04:33.000Z</updated>
+        <summary type="html"><![CDATA[I (Gergely) sometimes get reachouts to do talks at events in Amsterdam (where I am based,) the Netherlands, or somewhere in Europe. Unfortunately, rarely do talks – I do one conference per year. 
+However, I asked around in the community about tech professionals who do paid talks that software engineers]]></summary>
+        <author>
+            <name>Gergely Orosz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Klarna’s AI chatbot: how revolutionary is it, really?]]></title>
+        <id>66b4a4213a535b00018b32cd</id>
+        <link href="https://blog.pragmaticengineer.com/klarnas-ai-chatbot/"/>
+        <updated>2024-08-08T10:59:48.000Z</updated>
+        <summary type="html"><![CDATA[Klarna launched its AI chatbot, built in collaboration with OpenAI, which the company wants to use to eliminate 2/3rds of customer support positions. But is it as revolutionary, and as likely to replace jobs, as Klarna claims?]]></summary>
+        <author>
+            <name>Gergely Orosz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Go structs are copied on assignment (and other things about Go I'd missed)]]></title>
+        <id>https://jvns.ca/blog/2024/08/06/go-structs-copied-on-assignment/</id>
+        <link href="https://jvns.ca/blog/2024/08/06/go-structs-copied-on-assignment/"/>
+        <updated>2024-08-06T08:38:35.000Z</updated>
+        <summary type="html"><![CDATA[I’ve been writing Go pretty casually for years – the backends for all of my
+playgrounds (nginx, dns, memory, more DNS) are written in Go, but many of those projects are just a few hundred lines and I don’t come back to those codebases much.
+I thought I more or less understood the basics of the language, but this week
+I’ve been writing a lot more Go than usual while working on some upgrades to
+Mess with DNS, and ran into a bug that revealed I
+was missing a very basic concept!
+Then I posted about this on Mastodon and someone linked me to this very cool
+site (and book) called 100 Go Mistakes and How To Avoid Them by Teiva Harsanyi. It just came out in 2022 so it’s relatively new.
+I decided to read through the site to see what else I was missing, and found
+a couple of other misconceptions I ha…]]></summary>
+        <author>
+            <name>Julia Evans</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Negotiating Bastardry]]></title>
+        <id>https://writing.kemitchell.com/2024/08/03/Negotiating-Bastardry</id>
+        <link href="https://writing.kemitchell.com/2024/08/03/Negotiating-Bastardry"/>
+        <updated>2024-08-04T04:50:38.000Z</updated>
+        <summary type="html"><![CDATA[law, technology, and the space between]]></summary>
+        <author>
+            <name>/dev/lawyer</name>
         </author>
     </entry>
 </feed>
