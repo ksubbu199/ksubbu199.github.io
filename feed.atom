@@ -1,493 +1,2242 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-12-02T00:42:53.367Z</id>
+    <id>urn:2024-09-01T21:43:57.920Z</id>
     <title>osmos::feed</title>
-    <updated>2021-12-02T00:42:53.367Z</updated>
-    <generator>osmosfeed 1.11.3</generator>
+    <updated>2024-09-01T21:43:57.920Z</updated>
+    <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[Dock Life: Using Docker for All The Things!]]></title>
-        <id>https://css-tricks.com/?p=357985</id>
-        <link href="https://css-tricks.com/dock-life-using-docker-for-all-the-things/"/>
-        <updated>2021-12-01T21:11:53.000Z</updated>
-        <summary type="html"><![CDATA[I think if you’re a DevOps person in any capacity, the utility of Docker is very clear. Your things run in containers that are identical everywhere. Assuming Docker is working/running, the code will execute in a reliably consistent way whether …]]></summary>
+        <title type="html"><![CDATA[Taste for Makers]]></title>
+        <id>http://www.paulgraham.com/taste.html</id>
+        <link href="http://www.paulgraham.com/taste.html"/>
+        <updated>2024-09-01T21:43:57.893Z</updated>
         <author>
-            <name>Chris Coyier</name>
+            <name>Paul Graham: Essays</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Embrace the Unpredictable]]></title>
-        <id>https://css-tricks.com/?p=357344</id>
-        <link href="https://css-tricks.com/embrace-the-unpredictable/"/>
-        <updated>2021-12-01T15:47:46.000Z</updated>
-        <summary type="html"><![CDATA[In nature, no two things are ever the same. Life is imperfect, unpredictable, and beautiful. We can walk through the same forest every day and see differently colored leaves. We can look up at the clouds every minute and watch …]]></summary>
+        <title type="html"><![CDATA[How to Be Silicon Valley]]></title>
+        <id>http://www.paulgraham.com/siliconvalley.html</id>
+        <link href="http://www.paulgraham.com/siliconvalley.html"/>
+        <updated>2024-09-01T21:43:57.871Z</updated>
         <author>
-            <name>George Francis</name>
+            <name>Paul Graham: Essays</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Exactly What You Want]]></title>
-        <id>https://css-tricks.com/?p=356146</id>
-        <link href="https://css-tricks.com/exactly-what-you-want/"/>
-        <updated>2021-12-01T15:46:29.000Z</updated>
-        <summary type="html"><![CDATA[What is one thing people can do to make their website better?
- Exactly what you want to build!
-Ask yourself:
-What drew you to development in the beginning?
-Is there an experimental API that you’ve been wanting to try out?
-…]]></summary>
+        <title type="html"><![CDATA[The Need to Read]]></title>
+        <id>http://www.paulgraham.com/read.html</id>
+        <link href="http://www.paulgraham.com/read.html"/>
+        <updated>2024-09-01T21:43:57.868Z</updated>
         <author>
-            <name>Amelia Wattenberger</name>
+            <name>Paul Graham: Essays</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Headphone Jack Not Working in Windows 10 - How to Fix Headphones on PC]]></title>
-        <id>61a5f9680c0c7407b2b3e607</id>
-        <link href="https://www.freecodecamp.org/news/headphone-jack-not-working-in-windows-10-how-to-fix-headphones-on-pc/"/>
-        <updated>2021-12-01T09:49:48.000Z</updated>
-        <summary type="html"><![CDATA[In general, a headphone jack and a pair of headphones improve the sound from your PC. You'll be able to hear things more clearly, without disturbing other around you.  But sometimes, setting them up is difficult. Or they might stop working entirely. This could be due to outdated drivers, or]]></summary>
+        <title type="html"><![CDATA[Mind the Gap]]></title>
+        <id>http://www.paulgraham.com/gap.html</id>
+        <link href="http://www.paulgraham.com/gap.html"/>
+        <updated>2024-09-01T21:43:57.866Z</updated>
         <author>
-            <name>freeCodeCamp.org</name>
+            <name>Paul Graham: Essays</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Diagonal Stripes Wipe Animation]]></title>
-        <id>https://css-tricks.com/?p=357109</id>
-        <link href="https://css-tricks.com/diagonal-stripes-wipe-animation/"/>
-        <updated>2021-11-30T17:26:35.000Z</updated>
-        <summary type="html"><![CDATA[I was playing this game on Apple Arcade the other day called wurdweb. It’s a fun little game! Little touches like the little shape dudes that walk around the screen (but otherwise don’t do anything) give it a lot …]]></summary>
+        <title type="html"><![CDATA[See Randomness]]></title>
+        <id>http://www.paulgraham.com/randomness.html</id>
+        <link href="http://www.paulgraham.com/randomness.html"/>
+        <updated>2024-09-01T21:43:57.863Z</updated>
         <author>
-            <name>Chris Coyier</name>
+            <name>Paul Graham: Essays</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Using the Reflog to Restore Lost Commits]]></title>
-        <id>https://css-tricks.com/?p=357728</id>
-        <link href="https://css-tricks.com/using-the-reflog-to-restore-lost-commits/"/>
-        <updated>2021-11-30T15:53:27.000Z</updated>
-        <summary type="html"><![CDATA[This article is part of our “Advanced Git” series. Be sure to follow us on Twitter or sign up for our newsletter to hear about future articles!
-The “Reflog” is one of Git’s lesser-known features—but one that can be extremely …]]></summary>
+        <title type="html"><![CDATA[Better Bayesian Filtering]]></title>
+        <id>http://www.paulgraham.com/better.html</id>
+        <link href="http://www.paulgraham.com/better.html"/>
+        <updated>2024-09-01T21:43:57.861Z</updated>
         <author>
-            <name>Tobias Günther</name>
+            <name>Paul Graham: Essays</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A Look at the Cloudinary WordPress Plugin]]></title>
-        <id>https://css-tricks.com/?p=357679</id>
-        <link href="https://css-tricks.com/a-look-at-the-cloudinary-wordpress-plugin/"/>
-        <updated>2021-11-30T15:23:00.000Z</updated>
-        <summary type="html"><![CDATA[(This is a sponsored post.)
-Cloudinary (the media hosting and optimization service) has a brand new version (v3) of its WordPress plugin that has really nailed it. First, a high-level look at the biggest things this plugin does:
-It 
-…]]></summary>
+        <title type="html"><![CDATA[Cities and Ambition]]></title>
+        <id>http://www.paulgraham.com/cities.html</id>
+        <link href="http://www.paulgraham.com/cities.html"/>
+        <updated>2024-09-01T21:43:57.858Z</updated>
         <author>
-            <name>Chris Coyier</name>
+            <name>Paul Graham: Essays</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Learn Rust Programming Course – Interactive Rust Language Tutorial on Repl.it]]></title>
-        <id>61783ffa33422e07df364d2c</id>
-        <link href="https://www.freecodecamp.org/news/rust-in-replit/"/>
-        <updated>2021-11-30T14:35:18.000Z</updated>
-        <summary type="html"><![CDATA[For six years in a row, Rust has been voted the most loved programming language by Stack Overflow. So if you're ready to learn this popular programming language, this course will introduce you to Rust so you can start using it in your projects. You will be working entirely within]]></summary>
+        <title type="html"><![CDATA[Why to Not Not Start a Startup]]></title>
+        <id>http://www.paulgraham.com/notnot.html</id>
+        <link href="http://www.paulgraham.com/notnot.html"/>
+        <updated>2024-09-01T21:43:57.851Z</updated>
         <author>
-            <name>freeCodeCamp.org</name>
+            <name>Paul Graham: Essays</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Smashing Podcast Episode 44 With Chris Ferdinandi: Is The Web Dead?]]></title>
-        <id>https://smashingmagazine.com/2021/11/smashing-podcast-episode-44/</id>
-        <link href="https://smashingmagazine.com/2021/11/smashing-podcast-episode-44/"/>
-        <updated>2021-11-30T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In this episode, we’re asking if changes to best practises over the last year have negatively impacted the web. Is it all downhill from here? Drew McLellan talks to expert Chris Ferdinandi to find out.]]></summary>
+        <title type="html"><![CDATA[What Kate Saw in Silicon Valley]]></title>
+        <id>http://www.paulgraham.com/kate.html</id>
+        <link href="http://www.paulgraham.com/kate.html"/>
+        <updated>2024-09-01T21:43:57.846Z</updated>
         <author>
-            <name>hello@smashingmagazine.com (Drew McLellan)</name>
+            <name>Paul Graham: Essays</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[It’s That Time Of The Year (December 2021 Desktop Wallpapers Edition)]]></title>
-        <id>https://smashingmagazine.com/2021/11/desktop-wallpaper-calendars-december-2021/</id>
-        <link href="https://smashingmagazine.com/2021/11/desktop-wallpaper-calendars-december-2021/"/>
-        <updated>2021-11-30T09:45:00.000Z</updated>
-        <summary type="html"><![CDATA[Let’s welcome December with some new wallpapers! Designed by artists and designers from across the globe, they are available with and without a calendar for the month. Enjoy!]]></summary>
+        <title type="html"><![CDATA[The Hacker's Guide to Investors]]></title>
+        <id>http://www.paulgraham.com/guidetoinvestors.html</id>
+        <link href="http://www.paulgraham.com/guidetoinvestors.html"/>
+        <updated>2024-09-01T21:43:57.843Z</updated>
         <author>
-            <name>hello@smashingmagazine.com (Cosima Mielke)</name>
+            <name>Paul Graham: Essays</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[5 Valuable Skills Developers Should Learn in 2022]]></title>
-        <id>61a0f98125888a07c3e1bfbc</id>
-        <link href="https://www.freecodecamp.org/news/5-valuable-skills-developers-should-learn/"/>
-        <updated>2021-11-30T01:12:15.000Z</updated>
-        <summary type="html"><![CDATA[Everyone should learn three skills that can help them make money in their life. This means that you won't have to rely on one skill to make money, and it gives you a chance to make a side income, too. The value you can add at your job or to]]></summary>
+        <title type="html"><![CDATA[What You'll Wish You'd Known]]></title>
+        <id>http://www.paulgraham.com/hs.html</id>
+        <link href="http://www.paulgraham.com/hs.html"/>
+        <updated>2024-09-01T21:43:57.839Z</updated>
         <author>
-            <name>freeCodeCamp.org</name>
+            <name>Paul Graham: Essays</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Types of Software Development Training – A Data Analysis of IT Career Training Tool Efficacy]]></title>
-        <id>61a39f3025888a07c3e1cf08</id>
-        <link href="https://www.freecodecamp.org/news/types-of-software-development-training/"/>
-        <updated>2021-11-29T21:06:01.000Z</updated>
-        <summary type="html"><![CDATA[How you train for your career is one of the most consequential decisions you'll ever make. But it's hard to narrow down your options for a career in software development or IT. Medicine is easy: pick a medical school and apply. But programming?  Will what you learn in a four]]></summary>
+        <title type="html"><![CDATA[Great Hackers]]></title>
+        <id>http://www.paulgraham.com/gh.html</id>
+        <link href="http://www.paulgraham.com/gh.html"/>
+        <updated>2024-09-01T21:43:57.836Z</updated>
         <author>
-            <name>freeCodeCamp.org</name>
+            <name>Paul Graham: Essays</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[JSON for Beginners – JavaScript Object Notation Explained in Plain English]]></title>
-        <id>60c08938d3126007592d56f5</id>
-        <link href="https://www.freecodecamp.org/news/what-is-json-a-json-file-example/"/>
-        <updated>2021-11-29T19:16:16.000Z</updated>
-        <summary type="html"><![CDATA[Many software applications need to exchange data between a client and server.  For a long time, XML was the preferred data format when it came to information exchange between the two points. Then in early 2000, JSON was introduced as an alternate data format for information exchange. In this article,]]></summary>
+        <title type="html"><![CDATA[Return of the Mac]]></title>
+        <id>http://www.paulgraham.com/mac.html</id>
+        <link href="http://www.paulgraham.com/mac.html"/>
+        <updated>2024-09-01T21:43:57.828Z</updated>
         <author>
-            <name>freeCodeCamp.org</name>
+            <name>Paul Graham: Essays</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Improve the Accuracy of Your Image Recognition Models]]></title>
-        <id>61a0dae325888a07c3e1bee6</id>
-        <link href="https://www.freecodecamp.org/news/improve-image-recognition-model-accuracy-with-these-hacks/"/>
-        <updated>2021-11-29T17:09:30.000Z</updated>
-        <summary type="html"><![CDATA[These 7 tricks and tips will take you from 50% to 90% accuracy for your image recognition models in literally minutes. So, you have gathered a dataset, built a neural network, and trained your model. But despite the hours (and sometimes days) of work you've invested to create the model,]]></summary>
+        <title type="html"><![CDATA[Why It's Safe for Founders to Be Nice]]></title>
+        <id>http://www.paulgraham.com/safe.html</id>
+        <link href="http://www.paulgraham.com/safe.html"/>
+        <updated>2024-09-01T21:43:57.826Z</updated>
         <author>
-            <name>freeCodeCamp.org</name>
+            <name>Paul Graham: Essays</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Python Convert String to Int – How to Cast a String in Python]]></title>
-        <id>61a3882925888a07c3e1ce6d</id>
-        <link href="https://www.freecodecamp.org/news/python-convert-string-to-int-how-to-cast-a-string-in-python/"/>
-        <updated>2021-11-29T16:47:01.000Z</updated>
-        <summary type="html"><![CDATA[When you're programming, you'll often need to switch between data types.  The ability to convert one data type to another gives you great flexibility when working with information.  There are different built-in ways to convert, or cast, types in the Python programming language.  In this article, you'll learn how to]]></summary>
+        <title type="html"><![CDATA[How to Present to Investors]]></title>
+        <id>http://www.paulgraham.com/investors.html</id>
+        <link href="http://www.paulgraham.com/investors.html"/>
+        <updated>2024-09-01T21:43:57.825Z</updated>
         <author>
-            <name>freeCodeCamp.org</name>
+            <name>Paul Graham: Essays</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Recreating the Apple Music Hits Playlist Animation in CSS]]></title>
-        <id>https://css-tricks.com/?p=357565</id>
-        <link href="https://css-tricks.com/recreating-the-apple-music-hits-playlist-animation-in-css/"/>
-        <updated>2021-11-29T16:38:49.000Z</updated>
-        <summary type="html"><![CDATA[Apple Music has this “Spatial Audio” feature where the direction of the music in your headphones is based on the location of the device. It’s tough to explain just how neat it is. But that’s not what I’m here to …]]></summary>
+        <title type="html"><![CDATA[How You Know]]></title>
+        <id>http://www.paulgraham.com/know.html</id>
+        <link href="http://www.paulgraham.com/know.html"/>
+        <updated>2024-09-01T21:43:57.823Z</updated>
         <author>
-            <name>Geoff Graham</name>
+            <name>Paul Graham: Essays</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[We Analyzed 425,909 Favicons]]></title>
-        <id>https://css-tricks.com/?p=357976</id>
-        <link href="https://css-tricks.com/we-analyzed-425909-favicons/"/>
-        <updated>2021-11-29T16:38:07.000Z</updated>
-        <summary type="html"><![CDATA[This is a neat idea for a research project. The big map is fun, but the research had some tidbits in it worth looking at.
-The average favicon network request takes 130ms, at least from our speedy cloud instance.
-…]]></summary>
+        <title type="html"><![CDATA[How to Convince Investors]]></title>
+        <id>http://www.paulgraham.com/convince.html</id>
+        <link href="http://www.paulgraham.com/convince.html"/>
+        <updated>2024-09-01T21:43:57.821Z</updated>
         <author>
-            <name>Chris Coyier</name>
+            <name>Paul Graham: Essays</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[New Free Bootcamps Based on freeCodeCamp – Learn JavaScript &amp; Web Development with Weekly Live Streams]]></title>
-        <id>61924f5811d3cb08287a6648</id>
-        <link href="https://www.freecodecamp.org/news/new-free-bootcamps-based-on-freecodecamp-learn-javascript-webdev-with-weekly-live-streams/"/>
-        <updated>2021-11-29T15:55:00.000Z</updated>
-        <summary type="html"><![CDATA[On January 10, Class Central is launching two new bootcamps that are free, remote, and open to all.  You’ll complete freeCodeCamp’s JavaScript or Responsive Web Design certification, with weekly live streams, projects, and a friendly group of learners worldwide. Free Bootcamp Based on the freeCodeCamp CurriculumHi everyone, I’]]></summary>
+        <title type="html"><![CDATA[The Airbnbs]]></title>
+        <id>http://www.paulgraham.com/airbnbs.html</id>
+        <link href="http://www.paulgraham.com/airbnbs.html"/>
+        <updated>2024-09-01T21:43:57.818Z</updated>
         <author>
-            <name>freeCodeCamp.org</name>
+            <name>Paul Graham: Essays</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Learn About NoSQL Databases in This 3-hour Course]]></title>
-        <id>6140e027852f4307d372d933</id>
-        <link href="https://www.freecodecamp.org/news/learn-nosql-in-3-hours/"/>
-        <updated>2021-11-29T15:47:00.000Z</updated>
-        <summary type="html"><![CDATA[NoSQL Databases can sometimes seem confusing and overwhelming, partly because of their flexibility. This is why we have put together a 3-hour video course to help you understand exactly what a NoSQL Database is, as well as the different types available to you.  By the end of this course, you]]></summary>
+        <title type="html"><![CDATA[Learning from Founders]]></title>
+        <id>http://www.paulgraham.com/foundersatwork.html</id>
+        <link href="http://www.paulgraham.com/foundersatwork.html"/>
+        <updated>2024-09-01T21:43:57.816Z</updated>
         <author>
-            <name>freeCodeCamp.org</name>
+            <name>Paul Graham: Essays</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Spell Check Not Working in Word [Fixed on Windows 10 PC]]]></title>
-        <id>61a4b12225888a07c3e1d240</id>
-        <link href="https://www.freecodecamp.org/news/spell-check-not-working-in-word-fixed-on-windows-10-pc/"/>
-        <updated>2021-11-29T14:53:48.000Z</updated>
-        <summary type="html"><![CDATA[Spell check in Microsoft Word and other Word Processing apps is a powerful feature. With spell check, you don’t have to worry too about making small grammatical and typographical errors, because the program will point them out for you in real-time as you type.  But sometimes, the spell check]]></summary>
+        <title type="html"><![CDATA[What Doesn't Seem Like Work?]]></title>
+        <id>http://www.paulgraham.com/work.html</id>
+        <link href="http://www.paulgraham.com/work.html"/>
+        <updated>2024-09-01T21:43:57.810Z</updated>
         <author>
-            <name>freeCodeCamp.org</name>
+            <name>Paul Graham: Essays</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[3D CSS Flippy Snaps With React And GreenSock]]></title>
-        <id>https://smashingmagazine.com/2021/11/3d-css-flippy-snaps-react-greensock/</id>
-        <link href="https://smashingmagazine.com/2021/11/3d-css-flippy-snaps-react-greensock/"/>
-        <updated>2021-11-29T12:30:00.000Z</updated>
-        <summary type="html"><![CDATA[One of Jhey’s main mantras is to make learning fun.  In this article, he shows you ways to level up your skills by bringing your ideas to life, and not forgetting that [you can be playful with code](https://www.smashingmagazine.com/2020/11/playfulness-code-supercharge-fun-learning/). With that mindset, every idea is bound to become an opportunity to try something new.]]></summary>
+        <title type="html"><![CDATA[How to Get New Ideas]]></title>
+        <id>http://www.paulgraham.com/getideas.html</id>
+        <link href="http://www.paulgraham.com/getideas.html"/>
+        <updated>2024-09-01T21:43:57.801Z</updated>
         <author>
-            <name>hello@smashingmagazine.com (Jhey Tompkins)</name>
+            <name>Paul Graham: Essays</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[When is it “Right” to Reach for  contain and will-change in CSS?]]></title>
-        <id>https://css-tricks.com/?p=357271</id>
-        <link href="https://css-tricks.com/when-is-it-right-to-reach-for-contain-and-will-change-in-css/"/>
-        <updated>2021-11-26T20:43:05.000Z</updated>
-        <summary type="html"><![CDATA[I’ve got some blind spots in CSS-related performance things. One example is the will-change property. It’s a good name. You’re telling the browser some particular property (or the scroll-position or content) uh, will, change:
-.el {
-  will-change: opacity;
-
-…]]></summary>
+        <title type="html"><![CDATA[Persuade xor Discover]]></title>
+        <id>http://www.paulgraham.com/discover.html</id>
+        <link href="http://www.paulgraham.com/discover.html"/>
+        <updated>2024-09-01T21:43:52.048Z</updated>
         <author>
-            <name>Chris Coyier</name>
+            <name>Paul Graham: Essays</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A Handy Little System for Animated Entrances in CSS]]></title>
-        <id>https://css-tricks.com/?p=357239</id>
-        <link href="https://css-tricks.com/a-handy-little-system-for-animated-entrances-in-css/"/>
-        <updated>2021-11-26T16:12:33.000Z</updated>
-        <summary type="html"><![CDATA[I love little touches that make a website feel like more than just a static document. What if web content wouldn’t just “appear” when a page loaded, but instead popped, slid, faded, or spun into place? It might be a …]]></summary>
+        <title type="html"><![CDATA[Why Twitter is a Big Deal]]></title>
+        <id>http://www.paulgraham.com/twitter.html</id>
+        <link href="http://www.paulgraham.com/twitter.html"/>
+        <updated>2024-09-01T21:43:52.007Z</updated>
         <author>
-            <name>Neale Van Fleet</name>
+            <name>Paul Graham: Essays</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How To Maintain A Large Next.js Application]]></title>
-        <id>https://smashingmagazine.com/2021/11/maintain-large-nextjs-application/</id>
-        <link href="https://smashingmagazine.com/2021/11/maintain-large-nextjs-application/"/>
-        <updated>2021-11-26T12:30:00.000Z</updated>
-        <summary type="html"><![CDATA[In this article, Nirmalya discusses some of the complex problems that he faced while building and maintaining large Next.js applications. He always explains how these problems can be solved by using various tools.]]></summary>
+        <title type="html"><![CDATA[Where to See Silicon Valley]]></title>
+        <id>http://www.paulgraham.com/seesv.html</id>
+        <link href="http://www.paulgraham.com/seesv.html"/>
+        <updated>2024-09-01T21:43:51.071Z</updated>
         <author>
-            <name>hello@smashingmagazine.com (Nirmalya Ghosh)</name>
+            <name>Paul Graham: Essays</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Creating Generative Patterns with The CSS Paint API]]></title>
-        <id>https://css-tricks.com/?p=357294</id>
-        <link href="https://css-tricks.com/creating-generative-patterns-with-the-css-paint-api/"/>
-        <updated>2021-11-24T15:49:08.000Z</updated>
-        <summary type="html"><![CDATA[The browser has long been a medium for art and design. From Lynn Fisher’s joyful A Single Div creations to Diana Smith’s staggeringly detailed CSS paintings, wildly creative, highly skilled developers have — over the years — continuously pushed …]]></summary>
+        <title type="html"><![CDATA[A Fundraising Survival Guide]]></title>
+        <id>http://www.paulgraham.com/fundraising.html</id>
+        <link href="http://www.paulgraham.com/fundraising.html"/>
+        <updated>2024-09-01T21:43:51.054Z</updated>
         <author>
-            <name>George Francis</name>
+            <name>Paul Graham: Essays</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A Showcase Of Lovely Little Websites]]></title>
-        <id>https://smashingmagazine.com/2021/11/showcase-lovely-little-websites/</id>
-        <link href="https://smashingmagazine.com/2021/11/showcase-lovely-little-websites/"/>
-        <updated>2021-11-24T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Instead of spending your coffee break scrolling through your social feeds, how about a lovely little website instead? We came across some fantastic ones that are just too good not to be shared. But be warned, your break might take a bit longer than intended.]]></summary>
+        <title type="html"><![CDATA[The Future of Startup Funding]]></title>
+        <id>http://www.paulgraham.com/future.html</id>
+        <link href="http://www.paulgraham.com/future.html"/>
+        <updated>2024-09-01T21:43:51.017Z</updated>
         <author>
-            <name>hello@smashingmagazine.com (Cosima Mielke)</name>
+            <name>Paul Graham: Essays</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Which SVG technique performs best for way too many icons?]]></title>
-        <id>https://css-tricks.com/?p=357412</id>
-        <link href="https://css-tricks.com/which-svg-technique-performs-best-for-way-too-many-icons/"/>
-        <updated>2021-11-23T19:21:28.000Z</updated>
-        <summary type="html"><![CDATA[Tyler Sticka digs in here in the best possible way: by making a test page and literally measuring performance. Maybe 1,000 icons is a little bit of an edge case, but hey, 250 rows of data with four icons in …]]></summary>
+        <title type="html"><![CDATA[How to Lose Time and Money]]></title>
+        <id>http://www.paulgraham.com/selfindulgence.html</id>
+        <link href="http://www.paulgraham.com/selfindulgence.html"/>
+        <updated>2024-09-01T21:43:51.004Z</updated>
         <author>
-            <name>Chris Coyier</name>
+            <name>Paul Graham: Essays</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Control Layout in a Multi-Directional Website]]></title>
-        <id>https://css-tricks.com/?p=356977</id>
-        <link href="https://css-tricks.com/control-layout-in-a-multi-directional-website/"/>
-        <updated>2021-11-23T16:06:44.000Z</updated>
-        <summary type="html"><![CDATA[Many business websites need a multilingual setup. As with anything development-related, implementing one in an easy, efficient, and maintainable way is desirable. Designing and developing to be ready for multiple languages, whether it happens right at launch or is expected …]]></summary>
+        <title type="html"><![CDATA[Write Like You Talk]]></title>
+        <id>http://www.paulgraham.com/talk.html</id>
+        <link href="http://www.paulgraham.com/talk.html"/>
+        <updated>2024-09-01T21:43:50.977Z</updated>
         <author>
-            <name>Alaa Abd El-Rahim</name>
+            <name>Paul Graham: Essays</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Adding A Dyslexia-Friendly Mode To A Website]]></title>
-        <id>https://smashingmagazine.com/2021/11/dyslexia-friendly-mode-website/</id>
-        <link href="https://smashingmagazine.com/2021/11/dyslexia-friendly-mode-website/"/>
-        <updated>2021-11-23T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[With a little CSS, we can adapt our web designs to be more accommodating for people with dyslexia. In this article, we’ll explore those techniques by adding a dyslexia-friendly mode to an existing design.]]></summary>
+        <title type="html"><![CDATA[A Word to the Resourceful]]></title>
+        <id>http://www.paulgraham.com/word.html</id>
+        <link href="http://www.paulgraham.com/word.html"/>
+        <updated>2024-09-01T21:43:50.971Z</updated>
         <author>
-            <name>hello@smashingmagazine.com (John C Barstow)</name>
+            <name>Paul Graham: Essays</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[On User Tracking and Industry Standards on Privacy]]></title>
-        <id>https://css-tricks.com/?p=357149</id>
-        <link href="https://css-tricks.com/on-user-tracking-and-industry-standards-on-privacy/"/>
-        <updated>2021-11-22T21:00:50.000Z</updated>
-        <summary type="html"><![CDATA[Inspired by Eva PenzeyMoog’s new book, Jeremy highlights the widespread user tracking situation in this industry:
-There was a line that really stood out to me: 
-The idea that it’s alright to do whatever unethical thing is currently the 
-…]]></summary>
+        <title type="html"><![CDATA[An NFT That Saves Lives]]></title>
+        <id>http://www.paulgraham.com/nft.html</id>
+        <link href="http://www.paulgraham.com/nft.html"/>
+        <updated>2024-09-01T21:43:50.790Z</updated>
         <author>
-            <name>Chris Coyier</name>
+            <name>Paul Graham: Essays</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[CSS “decorations”]]></title>
-        <id>https://css-tricks.com/?p=357046</id>
-        <link href="https://css-tricks.com/css-decorations/"/>
-        <updated>2021-11-22T18:48:00.000Z</updated>
-        <summary type="html"><![CDATA[A reader wrote to me the other day asking about this bit of CSS they came across in Wikipedia’s Common.css:
-.mw-collapsible-leftside-toggle .mw-collapsible-toggle {
-  /* @noflip */
-  float: left;
-  /* @noflip */
-  text-align: left;
-}
-What’s that @noflip business? That’s …]]></summary>
+        <title type="html"><![CDATA[The Founder Visa]]></title>
+        <id>http://www.paulgraham.com/foundervisa.html</id>
+        <link href="http://www.paulgraham.com/foundervisa.html"/>
+        <updated>2024-09-01T21:43:50.734Z</updated>
         <author>
-            <name>Chris Coyier</name>
+            <name>Paul Graham: Essays</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Smashing Workshops: Winter 2021]]></title>
-        <id>https://smashingmagazine.com/2021/11/smashingconf-workshops-winter-2021/</id>
-        <link href="https://smashingmagazine.com/2021/11/smashingconf-workshops-winter-2021/"/>
-        <updated>2021-11-22T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[What’s the state of CSS, Vue.js and Next.js? What are new, smart interface design patterns we could use? Let’s figure it out. With our [online workshops on UX, front-end and design](https://smashingconf.com/online-workshops).]]></summary>
+        <title type="html"><![CDATA[Holding a Program in One's Head]]></title>
+        <id>http://www.paulgraham.com/head.html</id>
+        <link href="http://www.paulgraham.com/head.html"/>
+        <updated>2024-09-01T21:43:50.726Z</updated>
         <author>
-            <name>hello@smashingmagazine.com (Iris Lješnjanin)</name>
+            <name>Paul Graham: Essays</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Improving The Performance Of Wix Websites (Case Study)]]></title>
-        <id>https://smashingmagazine.com/2021/11/improving-performance-wix-websites-case-study/</id>
-        <link href="https://smashingmagazine.com/2021/11/improving-performance-wix-websites-case-study/"/>
-        <updated>2021-11-22T10:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Implementing a performance culture is very important. In this article, Dan Shappir shares which actions and processes the Wix team put in place in order to achieve dramatic improvements in the performance of websites built and hosted on their platform.]]></summary>
+        <title type="html"><![CDATA[The Submarine]]></title>
+        <id>http://www.paulgraham.com/submarine.html</id>
+        <link href="http://www.paulgraham.com/submarine.html"/>
+        <updated>2024-09-01T21:43:50.723Z</updated>
         <author>
-            <name>hello@smashingmagazine.com (Dan Shappir)</name>
+            <name>Paul Graham: Essays</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Next.js Wildcard Subdomains]]></title>
-        <id>https://smashingmagazine.com/2021/11/nextjs-wildcard-subdomains/</id>
-        <link href="https://smashingmagazine.com/2021/11/nextjs-wildcard-subdomains/"/>
-        <updated>2021-11-19T10:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Hosting with a wildcard subdomain enables your users to visit your site on any subdomain of your domain (*.example.com), and as you can imagine, we can use this to create unique user experiences which we’ll be exploring in this article through a Next.js lens.]]></summary>
+        <title type="html"><![CDATA[This Year We Can End the Death Penalty in California]]></title>
+        <id>http://www.paulgraham.com/prop62.html</id>
+        <link href="http://www.paulgraham.com/prop62.html"/>
+        <updated>2024-09-01T21:43:50.716Z</updated>
         <author>
-            <name>hello@smashingmagazine.com (Sam Poder)</name>
+            <name>Paul Graham: Essays</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A Guide To Modern CSS Colors With RGB, HSL, HWB, LAB And LCH]]></title>
-        <id>https://smashingmagazine.com/2021/11/guide-modern-css-colors/</id>
-        <link href="https://smashingmagazine.com/2021/11/guide-modern-css-colors/"/>
-        <updated>2021-11-17T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In this article, we’ll take a look at the best ways to handle colors in CSS today, some tips for using them in a design system, and what we can expect from our colors in the not-too-distant future.]]></summary>
+        <title type="html"><![CDATA[What I've Learned from Hacker News]]></title>
+        <id>http://www.paulgraham.com/hackernews.html</id>
+        <link href="http://www.paulgraham.com/hackernews.html"/>
+        <updated>2024-09-01T21:43:50.714Z</updated>
         <author>
-            <name>hello@smashingmagazine.com (Michelle Barker)</name>
+            <name>Paul Graham: Essays</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Meet Touch Design For Mobile Interfaces, A New Smashing Book By Steven Hoober]]></title>
-        <id>https://smashingmagazine.com/2021/11/touch-design-pre-release/</id>
-        <link href="https://smashingmagazine.com/2021/11/touch-design-pre-release/"/>
-        <updated>2021-11-16T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Meet “Touch Design for Mobile Interfaces”, our brand-new guide on designing for mobile with proven, universal, human-centric standards. 400 pages. Shipping starting in early January.]]></summary>
+        <title type="html"><![CDATA[Defining Property]]></title>
+        <id>http://www.paulgraham.com/property.html</id>
+        <link href="http://www.paulgraham.com/property.html"/>
+        <updated>2024-09-01T21:43:50.707Z</updated>
         <author>
-            <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
+            <name>Paul Graham: Essays</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Powerful Terminal And Command-Line (CLI) Tools For Modern Web Development]]></title>
-        <id>https://smashingmagazine.com/2021/11/powerful-terminal-commandline-tools-modern-web-development/</id>
-        <link href="https://smashingmagazine.com/2021/11/powerful-terminal-commandline-tools-modern-web-development/"/>
-        <updated>2021-11-15T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[What’s your favorite command-line tool? In this post, Louis Lazaris shares a collection of relevant command-line apps and utilities that he has personally come across in the past few years. If there’s a useful one that hasn’t been mentioned and one you use regularly, please do share it in the comments.]]></summary>
+        <title type="html"><![CDATA[What I Did this Summer]]></title>
+        <id>http://www.paulgraham.com/sfp.html</id>
+        <link href="http://www.paulgraham.com/sfp.html"/>
+        <updated>2024-09-01T21:43:50.706Z</updated>
         <author>
-            <name>hello@smashingmagazine.com (Louis Lazaris)</name>
+            <name>Paul Graham: Essays</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Useful React Hooks That You Can Use In Your Projects]]></title>
-        <id>https://smashingmagazine.com/2021/11/useful-react-hooks/</id>
-        <link href="https://smashingmagazine.com/2021/11/useful-react-hooks/"/>
-        <updated>2021-11-12T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The React team introduced several hooks in React 16.8 which you can use from third-party providers in your application, or even create your own custom hook. In this tutorial, we’ll take a look at some of the most useful hooks in React and how to use them.]]></summary>
+        <title type="html"><![CDATA[A Local Revolution?]]></title>
+        <id>http://www.paulgraham.com/revolution.html</id>
+        <link href="http://www.paulgraham.com/revolution.html"/>
+        <updated>2024-09-01T21:43:50.703Z</updated>
         <author>
-            <name>hello@smashingmagazine.com (Ifeanyi Dike)</name>
+            <name>Paul Graham: Essays</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[From Good To Great In Dashboard Design: Research, Decluttering And Data Viz]]></title>
-        <id>https://smashingmagazine.com/2021/11/dashboard-design-research-decluttering-data-viz/</id>
-        <link href="https://smashingmagazine.com/2021/11/dashboard-design-research-decluttering-data-viz/"/>
-        <updated>2021-11-11T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Dribbbleshots just might be the hotbed of questionable dashboards. Striking visuals, little context, and no research: all recipes for mediocrity. Mediocrity won’t do. We’ll pursue greatness. And in that pursuit, we’ll cover research, decluttering, and data visualization.]]></summary>
+        <title type="html"><![CDATA[Don't Talk to Corp Dev]]></title>
+        <id>http://www.paulgraham.com/corpdev.html</id>
+        <link href="http://www.paulgraham.com/corpdev.html"/>
+        <updated>2024-09-01T21:43:50.695Z</updated>
         <author>
-            <name>hello@smashingmagazine.com (Adam Fard)</name>
+            <name>Paul Graham: Essays</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Localizing Your Next.js App]]></title>
-        <id>https://smashingmagazine.com/2021/11/localizing-your-nextjs-app/</id>
-        <link href="https://smashingmagazine.com/2021/11/localizing-your-nextjs-app/"/>
-        <updated>2021-11-09T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Internationalized routing is not exactly a new feature on Next.js. In this article, we are not only checking what we get from this feature, but also how to leverage such functionalities to achieve the best user experience and a smooth developer experience as well.]]></summary>
+        <title type="html"><![CDATA[The Future of Web Startups]]></title>
+        <id>http://www.paulgraham.com/webstartups.html</id>
+        <link href="http://www.paulgraham.com/webstartups.html"/>
+        <updated>2024-09-01T21:43:50.693Z</updated>
         <author>
-            <name>hello@smashingmagazine.com (Átila Fassina)</name>
+            <name>Paul Graham: Essays</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Automatically Transforming And Optimizing Images And Videos On Your WordPress Website]]></title>
-        <id>https://smashingmagazine.com/2021/11/transforming-optimizing-images-videos-wordpress-website/</id>
-        <link href="https://smashingmagazine.com/2021/11/transforming-optimizing-images-videos-wordpress-website/"/>
-        <updated>2021-11-09T09:30:00.000Z</updated>
-        <summary type="html"><![CDATA[In this article, Leonardo Losoviz explains how Cloudinary’s integration can be used with WordPress to produce and deliver optimal digital experiences.]]></summary>
+        <title type="html"><![CDATA[The Hardware Renaissance]]></title>
+        <id>http://www.paulgraham.com/hw.html</id>
+        <link href="http://www.paulgraham.com/hw.html"/>
+        <updated>2024-09-01T21:43:50.689Z</updated>
         <author>
-            <name>hello@smashingmagazine.com (Leonardo Losoviz)</name>
+            <name>Paul Graham: Essays</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Meet Hydrogen: A React Framework For Dynamic, Contextual And Personalized E-Commerce]]></title>
-        <id>https://smashingmagazine.com/2021/11/hydrogen-react-framework-dynamic-contextual-personalized-ecommerce/</id>
-        <link href="https://smashingmagazine.com/2021/11/hydrogen-react-framework-dynamic-contextual-personalized-ecommerce/"/>
-        <updated>2021-11-08T14:30:00.000Z</updated>
-        <summary type="html"><![CDATA[A great commerce experience is not a Lighthouse score or a set of Core Web Vitals figures (although both are important inputs), but it’s also a trilemma that carefully balances competing needs of delivering a great customer experience, dynamic storefront capabilities and long-term business objectives.]]></summary>
+        <title type="html"><![CDATA[The High-Res Society]]></title>
+        <id>http://www.paulgraham.com/highres.html</id>
+        <link href="http://www.paulgraham.com/highres.html"/>
+        <updated>2024-09-01T21:43:50.681Z</updated>
         <author>
-            <name>hello@smashingmagazine.com (Ilya Grigorik)</name>
+            <name>Paul Graham: Essays</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Value Of Concept Testing As Part Of Product Design]]></title>
-        <id>https://smashingmagazine.com/2021/11/concept-testing-part-of-product-design/</id>
-        <link href="https://smashingmagazine.com/2021/11/concept-testing-part-of-product-design/"/>
-        <updated>2021-11-05T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Concept testing ideas before moving into a detailed design is good UX practice. In this article, Victor Yocco presents details on how and when to engage in concept testing, as well as case studies providing details on the insights gained in two very different settings.]]></summary>
+        <title type="html"><![CDATA[How Y Combinator Started]]></title>
+        <id>http://www.paulgraham.com/ycstart.html</id>
+        <link href="http://www.paulgraham.com/ycstart.html"/>
+        <updated>2024-09-01T21:43:50.680Z</updated>
         <author>
-            <name>hello@smashingmagazine.com (Victor Yocco)</name>
+            <name>Paul Graham: Essays</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Smashing Podcast Episode 43 With Matthew Phillips: What Is Astro?]]></title>
-        <id>https://smashingmagazine.com/2021/11/smashing-podcast-episode-43/</id>
-        <link href="https://smashingmagazine.com/2021/11/smashing-podcast-episode-43/"/>
-        <updated>2021-11-04T18:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In this episode, we’re talking about Astro. Will this modern static site builder launch you into the stratosphere? Drew McLellan talks to developer Matthew Phillips to find out.]]></summary>
+        <title type="html"><![CDATA[Tablets]]></title>
+        <id>http://www.paulgraham.com/tablets.html</id>
+        <link href="http://www.paulgraham.com/tablets.html"/>
+        <updated>2024-09-01T21:43:50.675Z</updated>
         <author>
-            <name>hello@smashingmagazine.com (Drew McLellan)</name>
+            <name>Paul Graham: Essays</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[GraphQL On The Front-End (React And Apollo)]]></title>
-        <id>https://smashingmagazine.com/2021/11/graphql-frontend-react-apollo/</id>
-        <link href="https://smashingmagazine.com/2021/11/graphql-frontend-react-apollo/"/>
-        <updated>2021-11-04T11:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Within the last decade, technologies like GraphQL have changed how we build web apps and how they communicate with each other. GraphQL provides certain benefits over REST APIs — let’s find out what they are.]]></summary>
+        <title type="html"><![CDATA[Chapter 1 of Ansi Common Lisp]]></title>
+        <id>http://www.paulgraham.com/https://sep.turbifycdn.com/ty/cdn/paulgraham/acl1.txt?t=1702479238&amp;</id>
+        <link href="http://www.paulgraham.com/https://sep.turbifycdn.com/ty/cdn/paulgraham/acl1.txt?t=1702479238&amp;"/>
+        <updated>2024-09-01T21:43:50.635Z</updated>
         <author>
-            <name>hello@smashingmagazine.com (David Atanda)</name>
+            <name>Paul Graham: Essays</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A Deep Dive Into Serverless UI With TypeScript]]></title>
-        <id>https://smashingmagazine.com/2021/11/deep-dive-into-serverless-ui-typescript/</id>
-        <link href="https://smashingmagazine.com/2021/11/deep-dive-into-serverless-ui-typescript/"/>
-        <updated>2021-11-03T11:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Serverless UI is simply a free, open-source command-line utility for quickly building and deploying serverless applications on the AWS platform. In this article, we will learn and cover everything needed on using Serverless UI to deploy our projects or serverless applications to cloud services providers.]]></summary>
+        <title type="html"><![CDATA[Chapter 2 of Ansi Common Lisp]]></title>
+        <id>http://www.paulgraham.com/https://sep.turbifycdn.com/ty/cdn/paulgraham/acl2.txt?t=1702479238&amp;</id>
+        <link href="http://www.paulgraham.com/https://sep.turbifycdn.com/ty/cdn/paulgraham/acl2.txt?t=1702479238&amp;"/>
+        <updated>2024-09-01T21:43:50.627Z</updated>
         <author>
-            <name>hello@smashingmagazine.com (Ikeh Akinyemi)</name>
+            <name>Paul Graham: Essays</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[General and Surprising]]></title>
+        <id>http://www.paulgraham.com/sun.html</id>
+        <link href="http://www.paulgraham.com/sun.html"/>
+        <updated>2024-09-01T21:43:50.598Z</updated>
+        <author>
+            <name>Paul Graham: Essays</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What the Bubble Got Right]]></title>
+        <id>http://www.paulgraham.com/bubble.html</id>
+        <link href="http://www.paulgraham.com/bubble.html"/>
+        <updated>2024-09-01T21:43:50.597Z</updated>
+        <author>
+            <name>Paul Graham: Essays</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Alien Truth]]></title>
+        <id>http://www.paulgraham.com/alien.html</id>
+        <link href="http://www.paulgraham.com/alien.html"/>
+        <updated>2024-09-01T21:43:50.593Z</updated>
+        <author>
+            <name>Paul Graham: Essays</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Five Founders]]></title>
+        <id>http://www.paulgraham.com/5founders.html</id>
+        <link href="http://www.paulgraham.com/5founders.html"/>
+        <updated>2024-09-01T21:43:50.592Z</updated>
+        <author>
+            <name>Paul Graham: Essays</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Succinctness is Power]]></title>
+        <id>http://www.paulgraham.com/power.html</id>
+        <link href="http://www.paulgraham.com/power.html"/>
+        <updated>2024-09-01T21:43:50.590Z</updated>
+        <author>
+            <name>Paul Graham: Essays</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Unified Theory of VC Suckage]]></title>
+        <id>http://www.paulgraham.com/venturecapital.html</id>
+        <link href="http://www.paulgraham.com/venturecapital.html"/>
+        <updated>2024-09-01T21:43:50.581Z</updated>
+        <author>
+            <name>Paul Graham: Essays</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Roots of Lisp]]></title>
+        <id>http://www.paulgraham.com/rootsoflisp.html</id>
+        <link href="http://www.paulgraham.com/rootsoflisp.html"/>
+        <updated>2024-09-01T21:43:50.579Z</updated>
+        <author>
+            <name>Paul Graham: Essays</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[After Credentials]]></title>
+        <id>http://www.paulgraham.com/credentials.html</id>
+        <link href="http://www.paulgraham.com/credentials.html"/>
+        <updated>2024-09-01T21:43:50.578Z</updated>
+        <author>
+            <name>Paul Graham: Essays</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Let the Other 95% of Great Programmers In]]></title>
+        <id>http://www.paulgraham.com/95.html</id>
+        <link href="http://www.paulgraham.com/95.html"/>
+        <updated>2024-09-01T21:43:50.576Z</updated>
+        <author>
+            <name>Paul Graham: Essays</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lisp for Web-Based Applications]]></title>
+        <id>http://www.paulgraham.com/lwba.html</id>
+        <link href="http://www.paulgraham.com/lwba.html"/>
+        <updated>2024-09-01T21:43:50.574Z</updated>
+        <author>
+            <name>Paul Graham: Essays</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Word "Hacker"]]></title>
+        <id>http://www.paulgraham.com/gba.html</id>
+        <link href="http://www.paulgraham.com/gba.html"/>
+        <updated>2024-09-01T21:43:50.573Z</updated>
+        <author>
+            <name>Paul Graham: Essays</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What Languages Fix]]></title>
+        <id>http://www.paulgraham.com/fix.html</id>
+        <link href="http://www.paulgraham.com/fix.html"/>
+        <updated>2024-09-01T21:43:50.571Z</updated>
+        <author>
+            <name>Paul Graham: Essays</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why to Move to a Startup Hub]]></title>
+        <id>http://www.paulgraham.com/startuphubs.html</id>
+        <link href="http://www.paulgraham.com/startuphubs.html"/>
+        <updated>2024-09-01T21:43:50.570Z</updated>
+        <author>
+            <name>Paul Graham: Essays</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Ronco Principle]]></title>
+        <id>http://www.paulgraham.com/ronco.html</id>
+        <link href="http://www.paulgraham.com/ronco.html"/>
+        <updated>2024-09-01T21:43:50.568Z</updated>
+        <author>
+            <name>Paul Graham: Essays</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What Made Lisp Different]]></title>
+        <id>http://www.paulgraham.com/diff.html</id>
+        <link href="http://www.paulgraham.com/diff.html"/>
+        <updated>2024-09-01T21:43:50.567Z</updated>
+        <author>
+            <name>Paul Graham: Essays</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Java's Cover]]></title>
+        <id>http://www.paulgraham.com/javacover.html</id>
+        <link href="http://www.paulgraham.com/javacover.html"/>
+        <updated>2024-09-01T21:43:50.565Z</updated>
+        <author>
+            <name>Paul Graham: Essays</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Trolls]]></title>
+        <id>http://www.paulgraham.com/trolls.html</id>
+        <link href="http://www.paulgraham.com/trolls.html"/>
+        <updated>2024-09-01T21:43:50.563Z</updated>
+        <author>
+            <name>Paul Graham: Essays</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Beating the Averages]]></title>
+        <id>http://www.paulgraham.com/avg.html</id>
+        <link href="http://www.paulgraham.com/avg.html"/>
+        <updated>2024-09-01T21:43:50.556Z</updated>
+        <author>
+            <name>Paul Graham: Essays</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Programming Bottom-Up]]></title>
+        <id>http://www.paulgraham.com/progbot.html</id>
+        <link href="http://www.paulgraham.com/progbot.html"/>
+        <updated>2024-09-01T21:43:50.552Z</updated>
+        <author>
+            <name>Paul Graham: Essays</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Arc Isn't Especially Object-Oriented]]></title>
+        <id>http://www.paulgraham.com/noop.html</id>
+        <link href="http://www.paulgraham.com/noop.html"/>
+        <updated>2024-09-01T21:43:50.546Z</updated>
+        <author>
+            <name>Paul Graham: Essays</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Plan for Spam]]></title>
+        <id>http://www.paulgraham.com/spam.html</id>
+        <link href="http://www.paulgraham.com/spam.html"/>
+        <updated>2024-09-01T21:43:50.545Z</updated>
+        <author>
+            <name>Paul Graham: Essays</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Revenge of the Nerds]]></title>
+        <id>http://www.paulgraham.com/icad.html</id>
+        <link href="http://www.paulgraham.com/icad.html"/>
+        <updated>2024-09-01T21:43:50.541Z</updated>
+        <author>
+            <name>Paul Graham: Essays</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Undergraduation]]></title>
+        <id>http://www.paulgraham.com/college.html</id>
+        <link href="http://www.paulgraham.com/college.html"/>
+        <updated>2024-09-01T21:43:50.537Z</updated>
+        <author>
+            <name>Paul Graham: Essays</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Being Popular]]></title>
+        <id>http://www.paulgraham.com/popular.html</id>
+        <link href="http://www.paulgraham.com/popular.html"/>
+        <updated>2024-09-01T21:43:50.528Z</updated>
+        <author>
+            <name>Paul Graham: Essays</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Design and Research]]></title>
+        <id>http://www.paulgraham.com/desres.html</id>
+        <link href="http://www.paulgraham.com/desres.html"/>
+        <updated>2024-09-01T21:43:50.520Z</updated>
+        <author>
+            <name>Paul Graham: Essays</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hackers and Painters]]></title>
+        <id>http://www.paulgraham.com/hp.html</id>
+        <link href="http://www.paulgraham.com/hp.html"/>
+        <updated>2024-09-01T21:43:50.516Z</updated>
+        <author>
+            <name>Paul Graham: Essays</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Python Paradox]]></title>
+        <id>http://www.paulgraham.com/pypar.html</id>
+        <link href="http://www.paulgraham.com/pypar.html"/>
+        <updated>2024-09-01T21:43:50.510Z</updated>
+        <author>
+            <name>Paul Graham: Essays</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What You Can't Say]]></title>
+        <id>http://www.paulgraham.com/say.html</id>
+        <link href="http://www.paulgraham.com/say.html"/>
+        <updated>2024-09-01T21:43:50.507Z</updated>
+        <author>
+            <name>Paul Graham: Essays</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Hundred-Year Language]]></title>
+        <id>http://www.paulgraham.com/hundred.html</id>
+        <link href="http://www.paulgraham.com/hundred.html"/>
+        <updated>2024-09-01T21:43:50.494Z</updated>
+        <author>
+            <name>Paul Graham: Essays</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Filters that Fight Back]]></title>
+        <id>http://www.paulgraham.com/ffb.html</id>
+        <link href="http://www.paulgraham.com/ffb.html"/>
+        <updated>2024-09-01T21:43:50.489Z</updated>
+        <author>
+            <name>Paul Graham: Essays</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Nerds are Unpopular]]></title>
+        <id>http://www.paulgraham.com/nerds.html</id>
+        <link href="http://www.paulgraham.com/nerds.html"/>
+        <updated>2024-09-01T21:43:50.486Z</updated>
+        <author>
+            <name>Paul Graham: Essays</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Start a Startup]]></title>
+        <id>http://www.paulgraham.com/start.html</id>
+        <link href="http://www.paulgraham.com/start.html"/>
+        <updated>2024-09-01T21:43:50.479Z</updated>
+        <author>
+            <name>Paul Graham: Essays</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[If Lisp is So Great]]></title>
+        <id>http://www.paulgraham.com/iflisp.html</id>
+        <link href="http://www.paulgraham.com/iflisp.html"/>
+        <updated>2024-09-01T21:43:50.465Z</updated>
+        <author>
+            <name>Paul Graham: Essays</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Five Questions about Language Design]]></title>
+        <id>http://www.paulgraham.com/langdes.html</id>
+        <link href="http://www.paulgraham.com/langdes.html"/>
+        <updated>2024-09-01T21:43:50.463Z</updated>
+        <author>
+            <name>Paul Graham: Essays</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Copy What You Like]]></title>
+        <id>http://www.paulgraham.com/copy.html</id>
+        <link href="http://www.paulgraham.com/copy.html"/>
+        <updated>2024-09-01T21:43:50.450Z</updated>
+        <author>
+            <name>Paul Graham: Essays</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[It's Charisma, Stupid]]></title>
+        <id>http://www.paulgraham.com/charisma.html</id>
+        <link href="http://www.paulgraham.com/charisma.html"/>
+        <updated>2024-09-01T21:43:50.446Z</updated>
+        <author>
+            <name>Paul Graham: Essays</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Other Road Ahead]]></title>
+        <id>http://www.paulgraham.com/road.html</id>
+        <link href="http://www.paulgraham.com/road.html"/>
+        <updated>2024-09-01T21:43:50.442Z</updated>
+        <author>
+            <name>Paul Graham: Essays</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Writing,  Briefly]]></title>
+        <id>http://www.paulgraham.com/writing44.html</id>
+        <link href="http://www.paulgraham.com/writing44.html"/>
+        <updated>2024-09-01T21:43:50.434Z</updated>
+        <author>
+            <name>Paul Graham: Essays</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hiring is Obsolete]]></title>
+        <id>http://www.paulgraham.com/hiring.html</id>
+        <link href="http://www.paulgraham.com/hiring.html"/>
+        <updated>2024-09-01T21:43:50.432Z</updated>
+        <author>
+            <name>Paul Graham: Essays</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What Business Can Learn from Open Source]]></title>
+        <id>http://www.paulgraham.com/opensource.html</id>
+        <link href="http://www.paulgraham.com/opensource.html"/>
+        <updated>2024-09-01T21:43:50.426Z</updated>
+        <author>
+            <name>Paul Graham: Essays</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Are Software Patents Evil?]]></title>
+        <id>http://www.paulgraham.com/softwarepatents.html</id>
+        <link href="http://www.paulgraham.com/softwarepatents.html"/>
+        <updated>2024-09-01T21:43:50.416Z</updated>
+        <author>
+            <name>Paul Graham: Essays</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Power of the Marginal]]></title>
+        <id>http://www.paulgraham.com/marginal.html</id>
+        <link href="http://www.paulgraham.com/marginal.html"/>
+        <updated>2024-09-01T21:43:50.413Z</updated>
+        <author>
+            <name>Paul Graham: Essays</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Do What You Love]]></title>
+        <id>http://www.paulgraham.com/love.html</id>
+        <link href="http://www.paulgraham.com/love.html"/>
+        <updated>2024-09-01T21:43:50.406Z</updated>
+        <author>
+            <name>Paul Graham: Essays</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Fund a Startup]]></title>
+        <id>http://www.paulgraham.com/startupfunding.html</id>
+        <link href="http://www.paulgraham.com/startupfunding.html"/>
+        <updated>2024-09-01T21:43:50.402Z</updated>
+        <author>
+            <name>Paul Graham: Essays</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Make Wealth]]></title>
+        <id>http://www.paulgraham.com/wealth.html</id>
+        <link href="http://www.paulgraham.com/wealth.html"/>
+        <updated>2024-09-01T21:43:50.389Z</updated>
+        <author>
+            <name>Paul Graham: Essays</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Good and Bad Procrastination]]></title>
+        <id>http://www.paulgraham.com/procrastination.html</id>
+        <link href="http://www.paulgraham.com/procrastination.html"/>
+        <updated>2024-09-01T21:43:50.384Z</updated>
+        <author>
+            <name>Paul Graham: Essays</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Smart People Have Bad Ideas]]></title>
+        <id>http://www.paulgraham.com/bronze.html</id>
+        <link href="http://www.paulgraham.com/bronze.html"/>
+        <updated>2024-09-01T21:43:50.381Z</updated>
+        <author>
+            <name>Paul Graham: Essays</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[After the Ladder]]></title>
+        <id>http://www.paulgraham.com/ladder.html</id>
+        <link href="http://www.paulgraham.com/ladder.html"/>
+        <updated>2024-09-01T21:43:50.378Z</updated>
+        <author>
+            <name>Paul Graham: Essays</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Age of the Essay]]></title>
+        <id>http://www.paulgraham.com/essay.html</id>
+        <link href="http://www.paulgraham.com/essay.html"/>
+        <updated>2024-09-01T21:43:50.376Z</updated>
+        <author>
+            <name>Paul Graham: Essays</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Made in USA]]></title>
+        <id>http://www.paulgraham.com/usa.html</id>
+        <link href="http://www.paulgraham.com/usa.html"/>
+        <updated>2024-09-01T21:43:50.366Z</updated>
+        <author>
+            <name>Paul Graham: Essays</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ideas for Startups]]></title>
+        <id>http://www.paulgraham.com/ideas.html</id>
+        <link href="http://www.paulgraham.com/ideas.html"/>
+        <updated>2024-09-01T21:43:50.364Z</updated>
+        <author>
+            <name>Paul Graham: Essays</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bradley's Ghost]]></title>
+        <id>http://www.paulgraham.com/polls.html</id>
+        <link href="http://www.paulgraham.com/polls.html"/>
+        <updated>2024-09-01T21:43:50.361Z</updated>
+        <author>
+            <name>Paul Graham: Essays</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Version 1.0]]></title>
+        <id>http://www.paulgraham.com/laundry.html</id>
+        <link href="http://www.paulgraham.com/laundry.html"/>
+        <updated>2024-09-01T21:43:50.359Z</updated>
+        <author>
+            <name>Paul Graham: Essays</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Inequality and Risk]]></title>
+        <id>http://www.paulgraham.com/inequality.html</id>
+        <link href="http://www.paulgraham.com/inequality.html"/>
+        <updated>2024-09-01T21:43:50.356Z</updated>
+        <author>
+            <name>Paul Graham: Essays</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[An Alternative Theory of Unions]]></title>
+        <id>http://www.paulgraham.com/unions.html</id>
+        <link href="http://www.paulgraham.com/unions.html"/>
+        <updated>2024-09-01T21:43:50.353Z</updated>
+        <author>
+            <name>Paul Graham: Essays</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Venture Capital Squeeze]]></title>
+        <id>http://www.paulgraham.com/vcsqueeze.html</id>
+        <link href="http://www.paulgraham.com/vcsqueeze.html"/>
+        <updated>2024-09-01T21:43:50.348Z</updated>
+        <author>
+            <name>Paul Graham: Essays</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why YC]]></title>
+        <id>http://www.paulgraham.com/whyyc.html</id>
+        <link href="http://www.paulgraham.com/whyyc.html"/>
+        <updated>2024-09-01T21:43:50.340Z</updated>
+        <author>
+            <name>Paul Graham: Essays</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Web 2.0]]></title>
+        <id>http://www.paulgraham.com/web20.html</id>
+        <link href="http://www.paulgraham.com/web20.html"/>
+        <updated>2024-09-01T21:43:50.339Z</updated>
+        <author>
+            <name>Paul Graham: Essays</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Startups Condense in America]]></title>
+        <id>http://www.paulgraham.com/america.html</id>
+        <link href="http://www.paulgraham.com/america.html"/>
+        <updated>2024-09-01T21:43:50.335Z</updated>
+        <author>
+            <name>Paul Graham: Essays</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Hardest Lessons for Startups to Learn]]></title>
+        <id>http://www.paulgraham.com/startuplessons.html</id>
+        <link href="http://www.paulgraham.com/startuplessons.html"/>
+        <updated>2024-09-01T21:43:50.331Z</updated>
+        <author>
+            <name>Paul Graham: Essays</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Two Kinds of Judgement]]></title>
+        <id>http://www.paulgraham.com/judgement.html</id>
+        <link href="http://www.paulgraham.com/judgement.html"/>
+        <updated>2024-09-01T21:43:50.307Z</updated>
+        <author>
+            <name>Paul Graham: Essays</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft is Dead]]></title>
+        <id>http://www.paulgraham.com/microsoft.html</id>
+        <link href="http://www.paulgraham.com/microsoft.html"/>
+        <updated>2024-09-01T21:43:50.306Z</updated>
+        <author>
+            <name>Paul Graham: Essays</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[6,631,372]]></title>
+        <id>http://www.paulgraham.com/6631327.html</id>
+        <link href="http://www.paulgraham.com/6631327.html"/>
+        <updated>2024-09-01T21:43:50.304Z</updated>
+        <author>
+            <name>Paul Graham: Essays</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Art Can Be Good]]></title>
+        <id>http://www.paulgraham.com/goodart.html</id>
+        <link href="http://www.paulgraham.com/goodart.html"/>
+        <updated>2024-09-01T21:43:50.303Z</updated>
+        <author>
+            <name>Paul Graham: Essays</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Island Test]]></title>
+        <id>http://www.paulgraham.com/island.html</id>
+        <link href="http://www.paulgraham.com/island.html"/>
+        <updated>2024-09-01T21:43:50.294Z</updated>
+        <author>
+            <name>Paul Graham: Essays</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Disconnecting Distraction]]></title>
+        <id>http://www.paulgraham.com/distraction.html</id>
+        <link href="http://www.paulgraham.com/distraction.html"/>
+        <updated>2024-09-01T21:43:50.292Z</updated>
+        <author>
+            <name>Paul Graham: Essays</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Student's Guide to Startups]]></title>
+        <id>http://www.paulgraham.com/mit.html</id>
+        <link href="http://www.paulgraham.com/mit.html"/>
+        <updated>2024-09-01T21:43:50.290Z</updated>
+        <author>
+            <name>Paul Graham: Essays</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stuff]]></title>
+        <id>http://www.paulgraham.com/stuff.html</id>
+        <link href="http://www.paulgraham.com/stuff.html"/>
+        <updated>2024-09-01T21:43:50.286Z</updated>
+        <author>
+            <name>Paul Graham: Essays</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Is It Worth Being Wise?]]></title>
+        <id>http://www.paulgraham.com/wisdom.html</id>
+        <link href="http://www.paulgraham.com/wisdom.html"/>
+        <updated>2024-09-01T21:43:50.284Z</updated>
+        <author>
+            <name>Paul Graham: Essays</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[News from the Front]]></title>
+        <id>http://www.paulgraham.com/colleges.html</id>
+        <link href="http://www.paulgraham.com/colleges.html"/>
+        <updated>2024-09-01T21:43:50.281Z</updated>
+        <author>
+            <name>Paul Graham: Essays</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The 18 Mistakes That Kill Startups]]></title>
+        <id>http://www.paulgraham.com/startupmistakes.html</id>
+        <link href="http://www.paulgraham.com/startupmistakes.html"/>
+        <updated>2024-09-01T21:43:50.279Z</updated>
+        <author>
+            <name>Paul Graham: Essays</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Do Philosophy]]></title>
+        <id>http://www.paulgraham.com/philosophy.html</id>
+        <link href="http://www.paulgraham.com/philosophy.html"/>
+        <updated>2024-09-01T21:43:50.267Z</updated>
+        <author>
+            <name>Paul Graham: Essays</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Other Half of "Artists Ship"]]></title>
+        <id>http://www.paulgraham.com/artistsship.html</id>
+        <link href="http://www.paulgraham.com/artistsship.html"/>
+        <updated>2024-09-01T21:43:50.263Z</updated>
+        <author>
+            <name>Paul Graham: Essays</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why TV Lost]]></title>
+        <id>http://www.paulgraham.com/convergence.html</id>
+        <link href="http://www.paulgraham.com/convergence.html"/>
+        <updated>2024-09-01T21:43:50.262Z</updated>
+        <author>
+            <name>Paul Graham: Essays</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Can You Buy a Silicon Valley?  Maybe.]]></title>
+        <id>http://www.paulgraham.com/maybe.html</id>
+        <link href="http://www.paulgraham.com/maybe.html"/>
+        <updated>2024-09-01T21:43:50.260Z</updated>
+        <author>
+            <name>Paul Graham: Essays</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why There Aren't More Googles]]></title>
+        <id>http://www.paulgraham.com/googles.html</id>
+        <link href="http://www.paulgraham.com/googles.html"/>
+        <updated>2024-09-01T21:43:50.257Z</updated>
+        <author>
+            <name>Paul Graham: Essays</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Not to Die]]></title>
+        <id>http://www.paulgraham.com/die.html</id>
+        <link href="http://www.paulgraham.com/die.html"/>
+        <updated>2024-09-01T21:43:50.256Z</updated>
+        <author>
+            <name>Paul Graham: Essays</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A New Venture Animal]]></title>
+        <id>http://www.paulgraham.com/ycombinator.html</id>
+        <link href="http://www.paulgraham.com/ycombinator.html"/>
+        <updated>2024-09-01T21:43:50.229Z</updated>
+        <author>
+            <name>Paul Graham: Essays</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Some Heroes]]></title>
+        <id>http://www.paulgraham.com/heroes.html</id>
+        <link href="http://www.paulgraham.com/heroes.html"/>
+        <updated>2024-09-01T21:43:50.219Z</updated>
+        <author>
+            <name>Paul Graham: Essays</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Six Principles for Making New Things]]></title>
+        <id>http://www.paulgraham.com/newthings.html</id>
+        <link href="http://www.paulgraham.com/newthings.html"/>
+        <updated>2024-09-01T21:43:50.217Z</updated>
+        <author>
+            <name>Paul Graham: Essays</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Maker's Schedule, Manager's Schedule]]></title>
+        <id>http://www.paulgraham.com/makersschedule.html</id>
+        <link href="http://www.paulgraham.com/makersschedule.html"/>
+        <updated>2024-09-01T21:43:50.215Z</updated>
+        <author>
+            <name>Paul Graham: Essays</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What We Look for in Founders]]></title>
+        <id>http://www.paulgraham.com/founders.html</id>
+        <link href="http://www.paulgraham.com/founders.html"/>
+        <updated>2024-09-01T21:43:50.212Z</updated>
+        <author>
+            <name>Paul Graham: Essays</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Pooled-Risk Company Management Company]]></title>
+        <id>http://www.paulgraham.com/prcmc.html</id>
+        <link href="http://www.paulgraham.com/prcmc.html"/>
+        <updated>2024-09-01T21:43:50.211Z</updated>
+        <author>
+            <name>Paul Graham: Essays</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Disagree]]></title>
+        <id>http://www.paulgraham.com/disagree.html</id>
+        <link href="http://www.paulgraham.com/disagree.html"/>
+        <updated>2024-09-01T21:43:50.179Z</updated>
+        <author>
+            <name>Paul Graham: Essays</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lies We Tell Kids]]></title>
+        <id>http://www.paulgraham.com/lies.html</id>
+        <link href="http://www.paulgraham.com/lies.html"/>
+        <updated>2024-09-01T21:43:50.176Z</updated>
+        <author>
+            <name>Paul Graham: Essays</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[You Weren't Meant to Have a Boss]]></title>
+        <id>http://www.paulgraham.com/boss.html</id>
+        <link href="http://www.paulgraham.com/boss.html"/>
+        <updated>2024-09-01T21:43:50.166Z</updated>
+        <author>
+            <name>Paul Graham: Essays</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What Startups Are Really Like]]></title>
+        <id>http://www.paulgraham.com/really.html</id>
+        <link href="http://www.paulgraham.com/really.html"/>
+        <updated>2024-09-01T21:43:50.163Z</updated>
+        <author>
+            <name>Paul Graham: Essays</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Equity Equation]]></title>
+        <id>http://www.paulgraham.com/equity.html</id>
+        <link href="http://www.paulgraham.com/equity.html"/>
+        <updated>2024-09-01T21:43:50.159Z</updated>
+        <author>
+            <name>Paul Graham: Essays</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Organic Startup Ideas]]></title>
+        <id>http://www.paulgraham.com/organic.html</id>
+        <link href="http://www.paulgraham.com/organic.html"/>
+        <updated>2024-09-01T21:43:50.145Z</updated>
+        <author>
+            <name>Paul Graham: Essays</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The List of N Things]]></title>
+        <id>http://www.paulgraham.com/nthings.html</id>
+        <link href="http://www.paulgraham.com/nthings.html"/>
+        <updated>2024-09-01T21:43:50.142Z</updated>
+        <author>
+            <name>Paul Graham: Essays</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ramen Profitable]]></title>
+        <id>http://www.paulgraham.com/ramenprofitable.html</id>
+        <link href="http://www.paulgraham.com/ramenprofitable.html"/>
+        <updated>2024-09-01T21:43:50.138Z</updated>
+        <author>
+            <name>Paul Graham: Essays</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Relentlessly Resourceful]]></title>
+        <id>http://www.paulgraham.com/relres.html</id>
+        <link href="http://www.paulgraham.com/relres.html"/>
+        <updated>2024-09-01T21:43:50.136Z</updated>
+        <author>
+            <name>Paul Graham: Essays</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Trouble with the Segway]]></title>
+        <id>http://www.paulgraham.com/segway.html</id>
+        <link href="http://www.paulgraham.com/segway.html"/>
+        <updated>2024-09-01T21:43:50.135Z</updated>
+        <author>
+            <name>Paul Graham: Essays</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Top Idea in Your Mind]]></title>
+        <id>http://www.paulgraham.com/top.html</id>
+        <link href="http://www.paulgraham.com/top.html"/>
+        <updated>2024-09-01T21:43:50.128Z</updated>
+        <author>
+            <name>Paul Graham: Essays</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Be Good]]></title>
+        <id>http://www.paulgraham.com/good.html</id>
+        <link href="http://www.paulgraham.com/good.html"/>
+        <updated>2024-09-01T21:43:50.124Z</updated>
+        <author>
+            <name>Paul Graham: Essays</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why to Start a Startup in a Bad Economy]]></title>
+        <id>http://www.paulgraham.com/badeconomy.html</id>
+        <link href="http://www.paulgraham.com/badeconomy.html"/>
+        <updated>2024-09-01T21:43:50.121Z</updated>
+        <author>
+            <name>Paul Graham: Essays</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Startups in 13 Sentences]]></title>
+        <id>http://www.paulgraham.com/13sentences.html</id>
+        <link href="http://www.paulgraham.com/13sentences.html"/>
+        <updated>2024-09-01T21:43:50.120Z</updated>
+        <author>
+            <name>Paul Graham: Essays</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Be an Angel Investor]]></title>
+        <id>http://www.paulgraham.com/angelinvesting.html</id>
+        <link href="http://www.paulgraham.com/angelinvesting.html"/>
+        <updated>2024-09-01T21:43:50.118Z</updated>
+        <author>
+            <name>Paul Graham: Essays</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple's Mistake]]></title>
+        <id>http://www.paulgraham.com/apple.html</id>
+        <link href="http://www.paulgraham.com/apple.html"/>
+        <updated>2024-09-01T21:43:50.107Z</updated>
+        <author>
+            <name>Paul Graham: Essays</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Founder Control]]></title>
+        <id>http://www.paulgraham.com/control.html</id>
+        <link href="http://www.paulgraham.com/control.html"/>
+        <updated>2024-09-01T21:43:50.105Z</updated>
+        <author>
+            <name>Paul Graham: Essays</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Writing and Speaking]]></title>
+        <id>http://www.paulgraham.com/speak.html</id>
+        <link href="http://www.paulgraham.com/speak.html"/>
+        <updated>2024-09-01T21:43:50.100Z</updated>
+        <author>
+            <name>Paul Graham: Essays</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Get Startup Ideas]]></title>
+        <id>http://www.paulgraham.com/startupideas.html</id>
+        <link href="http://www.paulgraham.com/startupideas.html"/>
+        <updated>2024-09-01T21:43:50.098Z</updated>
+        <author>
+            <name>Paul Graham: Essays</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Default Alive or Default Dead?]]></title>
+        <id>http://www.paulgraham.com/aord.html</id>
+        <link href="http://www.paulgraham.com/aord.html"/>
+        <updated>2024-09-01T21:43:50.088Z</updated>
+        <author>
+            <name>Paul Graham: Essays</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Investor Herd Dynamics]]></title>
+        <id>http://www.paulgraham.com/herd.html</id>
+        <link href="http://www.paulgraham.com/herd.html"/>
+        <updated>2024-09-01T21:43:50.086Z</updated>
+        <author>
+            <name>Paul Graham: Essays</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The New Funding Landscape]]></title>
+        <id>http://www.paulgraham.com/superangels.html</id>
+        <link href="http://www.paulgraham.com/superangels.html"/>
+        <updated>2024-09-01T21:43:50.084Z</updated>
+        <author>
+            <name>Paul Graham: Essays</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Black Swan Farming]]></title>
+        <id>http://www.paulgraham.com/swan.html</id>
+        <link href="http://www.paulgraham.com/swan.html"/>
+        <updated>2024-09-01T21:43:50.081Z</updated>
+        <author>
+            <name>Paul Graham: Essays</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Anatomy of Determination]]></title>
+        <id>http://www.paulgraham.com/determination.html</id>
+        <link href="http://www.paulgraham.com/determination.html"/>
+        <updated>2024-09-01T21:43:50.079Z</updated>
+        <author>
+            <name>Paul Graham: Essays</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Post-Medium Publishing]]></title>
+        <id>http://www.paulgraham.com/publishing.html</id>
+        <link href="http://www.paulgraham.com/publishing.html"/>
+        <updated>2024-09-01T21:43:50.076Z</updated>
+        <author>
+            <name>Paul Graham: Essays</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[High Resolution Fundraising]]></title>
+        <id>http://www.paulgraham.com/hiresfund.html</id>
+        <link href="http://www.paulgraham.com/hiresfund.html"/>
+        <updated>2024-09-01T21:43:50.073Z</updated>
+        <author>
+            <name>Paul Graham: Essays</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Schlep Blindness]]></title>
+        <id>http://www.paulgraham.com/schlep.html</id>
+        <link href="http://www.paulgraham.com/schlep.html"/>
+        <updated>2024-09-01T21:43:50.071Z</updated>
+        <author>
+            <name>Paul Graham: Essays</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Before the Startup]]></title>
+        <id>http://www.paulgraham.com/before.html</id>
+        <link href="http://www.paulgraham.com/before.html"/>
+        <updated>2024-09-01T21:43:50.069Z</updated>
+        <author>
+            <name>Paul Graham: Essays</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Subject: Airbnb]]></title>
+        <id>http://www.paulgraham.com/airbnb.html</id>
+        <link href="http://www.paulgraham.com/airbnb.html"/>
+        <updated>2024-09-01T21:43:50.059Z</updated>
+        <author>
+            <name>Paul Graham: Essays</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Startup Hubs Work]]></title>
+        <id>http://www.paulgraham.com/hubs.html</id>
+        <link href="http://www.paulgraham.com/hubs.html"/>
+        <updated>2024-09-01T21:43:50.056Z</updated>
+        <author>
+            <name>Paul Graham: Essays</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Snapshot: Viaweb, June 1998]]></title>
+        <id>http://www.paulgraham.com/vw.html</id>
+        <link href="http://www.paulgraham.com/vw.html"/>
+        <updated>2024-09-01T21:43:50.054Z</updated>
+        <author>
+            <name>Paul Graham: Essays</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Raise Money]]></title>
+        <id>http://www.paulgraham.com/fr.html</id>
+        <link href="http://www.paulgraham.com/fr.html"/>
+        <updated>2024-09-01T21:43:50.053Z</updated>
+        <author>
+            <name>Paul Graham: Essays</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What Happened to Yahoo]]></title>
+        <id>http://www.paulgraham.com/yahoo.html</id>
+        <link href="http://www.paulgraham.com/yahoo.html"/>
+        <updated>2024-09-01T21:43:50.047Z</updated>
+        <author>
+            <name>Paul Graham: Essays</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Keep Your Identity Small]]></title>
+        <id>http://www.paulgraham.com/identity.html</id>
+        <link href="http://www.paulgraham.com/identity.html"/>
+        <updated>2024-09-01T21:43:50.044Z</updated>
+        <author>
+            <name>Paul Graham: Essays</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Startup = Growth]]></title>
+        <id>http://www.paulgraham.com/growth.html</id>
+        <link href="http://www.paulgraham.com/growth.html"/>
+        <updated>2024-09-01T21:43:50.043Z</updated>
+        <author>
+            <name>Paul Graham: Essays</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Could VC be a Casualty of the Recession?]]></title>
+        <id>http://www.paulgraham.com/divergence.html</id>
+        <link href="http://www.paulgraham.com/divergence.html"/>
+        <updated>2024-09-01T21:43:50.033Z</updated>
+        <author>
+            <name>Paul Graham: Essays</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Patent Pledge]]></title>
+        <id>http://www.paulgraham.com/patentpledge.html</id>
+        <link href="http://www.paulgraham.com/patentpledge.html"/>
+        <updated>2024-09-01T21:43:50.031Z</updated>
+        <author>
+            <name>Paul Graham: Essays</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Acceleration of Addictiveness]]></title>
+        <id>http://www.paulgraham.com/addiction.html</id>
+        <link href="http://www.paulgraham.com/addiction.html"/>
+        <updated>2024-09-01T21:43:50.029Z</updated>
+        <author>
+            <name>Paul Graham: Essays</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Startup Investing Trends]]></title>
+        <id>http://www.paulgraham.com/invtrend.html</id>
+        <link href="http://www.paulgraham.com/invtrend.html"/>
+        <updated>2024-09-01T21:43:50.025Z</updated>
+        <author>
+            <name>Paul Graham: Essays</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Do Things that Don't Scale]]></title>
+        <id>http://www.paulgraham.com/ds.html</id>
+        <link href="http://www.paulgraham.com/ds.html"/>
+        <updated>2024-09-01T21:43:50.012Z</updated>
+        <author>
+            <name>Paul Graham: Essays</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Frighteningly Ambitious Startup Ideas]]></title>
+        <id>http://www.paulgraham.com/ambitious.html</id>
+        <link href="http://www.paulgraham.com/ambitious.html"/>
+        <updated>2024-09-01T21:43:50.004Z</updated>
+        <author>
+            <name>Paul Graham: Essays</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jessica Livingston]]></title>
+        <id>http://www.paulgraham.com/jessica.html</id>
+        <link href="http://www.paulgraham.com/jessica.html"/>
+        <updated>2024-09-01T21:43:50.001Z</updated>
+        <author>
+            <name>Paul Graham: Essays</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Top of My Todo List]]></title>
+        <id>http://www.paulgraham.com/todo.html</id>
+        <link href="http://www.paulgraham.com/todo.html"/>
+        <updated>2024-09-01T21:43:49.998Z</updated>
+        <author>
+            <name>Paul Graham: Essays</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Make Pittsburgh a Startup Hub]]></title>
+        <id>http://www.paulgraham.com/pgh.html</id>
+        <link href="http://www.paulgraham.com/pgh.html"/>
+        <updated>2024-09-01T21:43:49.982Z</updated>
+        <author>
+            <name>Paul Graham: Essays</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mean People Fail]]></title>
+        <id>http://www.paulgraham.com/mean.html</id>
+        <link href="http://www.paulgraham.com/mean.html"/>
+        <updated>2024-09-01T21:43:49.980Z</updated>
+        <author>
+            <name>Paul Graham: Essays</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Life is Short]]></title>
+        <id>http://www.paulgraham.com/vb.html</id>
+        <link href="http://www.paulgraham.com/vb.html"/>
+        <updated>2024-09-01T21:43:49.977Z</updated>
+        <author>
+            <name>Paul Graham: Essays</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Fatal Pinch]]></title>
+        <id>http://www.paulgraham.com/pinch.html</id>
+        <link href="http://www.paulgraham.com/pinch.html"/>
+        <updated>2024-09-01T21:43:49.974Z</updated>
+        <author>
+            <name>Paul Graham: Essays</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Be an Expert in a Changing World]]></title>
+        <id>http://www.paulgraham.com/ecw.html</id>
+        <link href="http://www.paulgraham.com/ecw.html"/>
+        <updated>2024-09-01T21:43:49.971Z</updated>
+        <author>
+            <name>Paul Graham: Essays</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Economic Inequality]]></title>
+        <id>http://www.paulgraham.com/ineq.html</id>
+        <link href="http://www.paulgraham.com/ineq.html"/>
+        <updated>2024-09-01T21:43:49.968Z</updated>
+        <author>
+            <name>Paul Graham: Essays</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What Microsoft Is this the Altair Basic of?]]></title>
+        <id>http://www.paulgraham.com/altair.html</id>
+        <link href="http://www.paulgraham.com/altair.html"/>
+        <updated>2024-09-01T21:43:49.960Z</updated>
+        <author>
+            <name>Paul Graham: Essays</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Risk of Discovery]]></title>
+        <id>http://www.paulgraham.com/disc.html</id>
+        <link href="http://www.paulgraham.com/disc.html"/>
+        <updated>2024-09-01T21:43:49.959Z</updated>
+        <author>
+            <name>Paul Graham: Essays</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Change Your Name]]></title>
+        <id>http://www.paulgraham.com/name.html</id>
+        <link href="http://www.paulgraham.com/name.html"/>
+        <updated>2024-09-01T21:43:49.923Z</updated>
+        <author>
+            <name>Paul Graham: Essays</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Way to Detect Bias]]></title>
+        <id>http://www.paulgraham.com/bias.html</id>
+        <link href="http://www.paulgraham.com/bias.html"/>
+        <updated>2024-09-01T21:43:49.919Z</updated>
+        <author>
+            <name>Paul Graham: Essays</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Refragmentation]]></title>
+        <id>http://www.paulgraham.com/re.html</id>
+        <link href="http://www.paulgraham.com/re.html"/>
+        <updated>2024-09-01T21:43:49.913Z</updated>
+        <author>
+            <name>Paul Graham: Essays</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Bus Ticket Theory of Genius]]></title>
+        <id>http://www.paulgraham.com/genius.html</id>
+        <link href="http://www.paulgraham.com/genius.html"/>
+        <updated>2024-09-01T21:43:49.863Z</updated>
+        <author>
+            <name>Paul Graham: Essays</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Billionaires Build]]></title>
+        <id>http://www.paulgraham.com/ace.html</id>
+        <link href="http://www.paulgraham.com/ace.html"/>
+        <updated>2024-09-01T21:43:49.851Z</updated>
+        <author>
+            <name>Paul Graham: Essays</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Having Kids]]></title>
+        <id>http://www.paulgraham.com/kids.html</id>
+        <link href="http://www.paulgraham.com/kids.html"/>
+        <updated>2024-09-01T21:43:49.847Z</updated>
+        <author>
+            <name>Paul Graham: Essays</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Two Kinds of Moderate]]></title>
+        <id>http://www.paulgraham.com/mod.html</id>
+        <link href="http://www.paulgraham.com/mod.html"/>
+        <updated>2024-09-01T21:43:49.844Z</updated>
+        <author>
+            <name>Paul Graham: Essays</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Haters]]></title>
+        <id>http://www.paulgraham.com/fh.html</id>
+        <link href="http://www.paulgraham.com/fh.html"/>
+        <updated>2024-09-01T21:43:49.842Z</updated>
+        <author>
+            <name>Paul Graham: Essays</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Lesson to Unlearn]]></title>
+        <id>http://www.paulgraham.com/lesson.html</id>
+        <link href="http://www.paulgraham.com/lesson.html"/>
+        <updated>2024-09-01T21:43:49.836Z</updated>
+        <author>
+            <name>Paul Graham: Essays</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fashionable Problems]]></title>
+        <id>http://www.paulgraham.com/fp.html</id>
+        <link href="http://www.paulgraham.com/fp.html"/>
+        <updated>2024-09-01T21:43:49.829Z</updated>
+        <author>
+            <name>Paul Graham: Essays</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Modeling a Wealth Tax]]></title>
+        <id>http://www.paulgraham.com/wtax.html</id>
+        <link href="http://www.paulgraham.com/wtax.html"/>
+        <updated>2024-09-01T21:43:49.827Z</updated>
+        <author>
+            <name>Paul Graham: Essays</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Novelty and Heresy]]></title>
+        <id>http://www.paulgraham.com/nov.html</id>
+        <link href="http://www.paulgraham.com/nov.html"/>
+        <updated>2024-09-01T21:43:49.817Z</updated>
+        <author>
+            <name>Paul Graham: Essays</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Early Work]]></title>
+        <id>http://www.paulgraham.com/early.html</id>
+        <link href="http://www.paulgraham.com/early.html"/>
+        <updated>2024-09-01T21:43:49.815Z</updated>
+        <author>
+            <name>Paul Graham: Essays</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Charisma / Power]]></title>
+        <id>http://www.paulgraham.com/pow.html</id>
+        <link href="http://www.paulgraham.com/pow.html"/>
+        <updated>2024-09-01T21:43:49.811Z</updated>
+        <author>
+            <name>Paul Graham: Essays</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Think for Yourself]]></title>
+        <id>http://www.paulgraham.com/think.html</id>
+        <link href="http://www.paulgraham.com/think.html"/>
+        <updated>2024-09-01T21:43:49.810Z</updated>
+        <author>
+            <name>Paul Graham: Essays</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Being a Noob]]></title>
+        <id>http://www.paulgraham.com/noob.html</id>
+        <link href="http://www.paulgraham.com/noob.html"/>
+        <updated>2024-09-01T21:43:49.806Z</updated>
+        <author>
+            <name>Paul Graham: Essays</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What I Worked On]]></title>
+        <id>http://www.paulgraham.com/worked.html</id>
+        <link href="http://www.paulgraham.com/worked.html"/>
+        <updated>2024-09-01T21:43:49.804Z</updated>
+        <author>
+            <name>Paul Graham: Essays</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Coronavirus and Credibility]]></title>
+        <id>http://www.paulgraham.com/cred.html</id>
+        <link href="http://www.paulgraham.com/cred.html"/>
+        <updated>2024-09-01T21:43:49.789Z</updated>
+        <author>
+            <name>Paul Graham: Essays</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Write Usefully]]></title>
+        <id>http://www.paulgraham.com/useful.html</id>
+        <link href="http://www.paulgraham.com/useful.html"/>
+        <updated>2024-09-01T21:43:49.787Z</updated>
+        <author>
+            <name>Paul Graham: Essays</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Four Quadrants of Conformism]]></title>
+        <id>http://www.paulgraham.com/conformism.html</id>
+        <link href="http://www.paulgraham.com/conformism.html"/>
+        <updated>2024-09-01T21:43:49.785Z</updated>
+        <author>
+            <name>Paul Graham: Essays</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Earnestness]]></title>
+        <id>http://www.paulgraham.com/earnest.html</id>
+        <link href="http://www.paulgraham.com/earnest.html"/>
+        <updated>2024-09-01T21:43:49.772Z</updated>
+        <author>
+            <name>Paul Graham: Essays</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Orthodox Privilege]]></title>
+        <id>http://www.paulgraham.com/orth.html</id>
+        <link href="http://www.paulgraham.com/orth.html"/>
+        <updated>2024-09-01T21:43:49.753Z</updated>
+        <author>
+            <name>Paul Graham: Essays</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How People Get Rich Now]]></title>
+        <id>http://www.paulgraham.com/richnow.html</id>
+        <link href="http://www.paulgraham.com/richnow.html"/>
+        <updated>2024-09-01T21:43:49.741Z</updated>
+        <author>
+            <name>Paul Graham: Essays</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Donate Unrestricted]]></title>
+        <id>http://www.paulgraham.com/donate.html</id>
+        <link href="http://www.paulgraham.com/donate.html"/>
+        <updated>2024-09-01T21:43:49.736Z</updated>
+        <author>
+            <name>Paul Graham: Essays</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Write Simply]]></title>
+        <id>http://www.paulgraham.com/simply.html</id>
+        <link href="http://www.paulgraham.com/simply.html"/>
+        <updated>2024-09-01T21:43:49.722Z</updated>
+        <author>
+            <name>Paul Graham: Essays</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Putting Ideas into Words]]></title>
+        <id>http://www.paulgraham.com/words.html</id>
+        <link href="http://www.paulgraham.com/words.html"/>
+        <updated>2024-09-01T21:43:49.665Z</updated>
+        <author>
+            <name>Paul Graham: Essays</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Work Hard]]></title>
+        <id>http://www.paulgraham.com/hwh.html</id>
+        <link href="http://www.paulgraham.com/hwh.html"/>
+        <updated>2024-09-01T21:43:49.663Z</updated>
+        <author>
+            <name>Paul Graham: Essays</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Crazy New Ideas]]></title>
+        <id>http://www.paulgraham.com/newideas.html</id>
+        <link href="http://www.paulgraham.com/newideas.html"/>
+        <updated>2024-09-01T21:43:49.648Z</updated>
+        <author>
+            <name>Paul Graham: Essays</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Beyond Smart]]></title>
+        <id>http://www.paulgraham.com/smart.html</id>
+        <link href="http://www.paulgraham.com/smart.html"/>
+        <updated>2024-09-01T21:43:49.645Z</updated>
+        <author>
+            <name>Paul Graham: Essays</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Real Reason to End the Death Penalty]]></title>
+        <id>http://www.paulgraham.com/real.html</id>
+        <link href="http://www.paulgraham.com/real.html"/>
+        <updated>2024-09-01T21:43:49.643Z</updated>
+        <author>
+            <name>Paul Graham: Essays</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What I've Learned from Users]]></title>
+        <id>http://www.paulgraham.com/users.html</id>
+        <link href="http://www.paulgraham.com/users.html"/>
+        <updated>2024-09-01T21:43:49.640Z</updated>
+        <author>
+            <name>Paul Graham: Essays</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Is There Such a Thing as Good Taste?]]></title>
+        <id>http://www.paulgraham.com/goodtaste.html</id>
+        <link href="http://www.paulgraham.com/goodtaste.html"/>
+        <updated>2024-09-01T21:43:49.636Z</updated>
+        <author>
+            <name>Paul Graham: Essays</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Heresy]]></title>
+        <id>http://www.paulgraham.com/heresy.html</id>
+        <link href="http://www.paulgraham.com/heresy.html"/>
+        <updated>2024-09-01T21:43:49.634Z</updated>
+        <author>
+            <name>Paul Graham: Essays</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Project of One's Own]]></title>
+        <id>http://www.paulgraham.com/own.html</id>
+        <link href="http://www.paulgraham.com/own.html"/>
+        <updated>2024-09-01T21:43:49.632Z</updated>
+        <author>
+            <name>Paul Graham: Essays</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Weird Languages]]></title>
+        <id>http://www.paulgraham.com/weird.html</id>
+        <link href="http://www.paulgraham.com/weird.html"/>
+        <updated>2024-09-01T21:43:49.621Z</updated>
+        <author>
+            <name>Paul Graham: Essays</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fierce Nerds]]></title>
+        <id>http://www.paulgraham.com/fn.html</id>
+        <link href="http://www.paulgraham.com/fn.html"/>
+        <updated>2024-09-01T21:43:49.613Z</updated>
+        <author>
+            <name>Paul Graham: Essays</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What You (Want to)* Want]]></title>
+        <id>http://www.paulgraham.com/want.html</id>
+        <link href="http://www.paulgraham.com/want.html"/>
+        <updated>2024-09-01T21:43:48.544Z</updated>
+        <author>
+            <name>Paul Graham: Essays</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Do Great Work]]></title>
+        <id>http://www.paulgraham.com/greatwork.html</id>
+        <link href="http://www.paulgraham.com/greatwork.html"/>
+        <updated>2024-09-01T21:43:48.392Z</updated>
+        <author>
+            <name>Paul Graham: Essays</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Superlinear Returns]]></title>
+        <id>http://www.paulgraham.com/superlinear.html</id>
+        <link href="http://www.paulgraham.com/superlinear.html"/>
+        <updated>2024-09-01T21:43:48.355Z</updated>
+        <author>
+            <name>Paul Graham: Essays</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Founder Mode]]></title>
+        <id>https://news.ycombinator.com/item?id=41415023</id>
+        <link href="https://paulgraham.com/foundermode.html"/>
+        <updated>2024-09-01T07:35:23.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://paulgraham.com/foundermode.html
+Comments URL: https://news.ycombinator.com/item?id=41415023
+Points: 744
+# Comments: 442]]></summary>
+        <author>
+            <name>bifftastic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building LLMs from the Ground Up: A 3-Hour Coding Workshop]]></title>
+        <id>https://news.ycombinator.com/item?id=41412256</id>
+        <link href="https://magazine.sebastianraschka.com/p/building-llms-from-the-ground-up"/>
+        <updated>2024-08-31T21:45:59.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://magazine.sebastianraschka.com/p/building-llms-from-the-ground-up
+Comments URL: https://news.ycombinator.com/item?id=41412256
+Points: 830
+# Comments: 99]]></summary>
+        <author>
+            <name>mdp2021</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Buy, Borrow, Die – Explained]]></title>
+        <id>https://news.ycombinator.com/item?id=41408772</id>
+        <link href="https://old.reddit.com/r/BuyBorrowDieExplained/comments/1f26rsf/buy_borrow_die_explained/"/>
+        <updated>2024-08-31T13:35:05.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://old.reddit.com/r/BuyBorrowDieExplained/comments/1f26rsf/buy_borrow_die_explained/
+Comments URL: https://news.ycombinator.com/item?id=41408772
+Points: 509
+# Comments: 420]]></summary>
+        <author>
+            <name>nkurz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Is my vision that bad? No, it's just a bug in Apple's Calculator]]></title>
+        <id>https://news.ycombinator.com/item?id=41406550</id>
+        <link href="https://martin.wojtczyk.de/2024/08/31/is-my-vision-that-bad-no-its-just-a-bug-in-apples-calculator/"/>
+        <updated>2024-08-31T04:29:09.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://martin.wojtczyk.de/2024/08/31/is-my-vision-that-bad-no-its-just-a-bug-in-apples-calculator/
+Comments URL: https://news.ycombinator.com/item?id=41406550
+Points: 604
+# Comments: 375]]></summary>
+        <author>
+            <name>wojtczyk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AnandTech Farewell]]></title>
+        <id>https://news.ycombinator.com/item?id=41399872</id>
+        <link href="https://www.anandtech.com/show/21542/end-of-the-road-an-anandtech-farewell"/>
+        <updated>2024-08-30T12:05:23.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.anandtech.com/show/21542/end-of-the-road-an-anandtech-farewell
+Comments URL: https://news.ycombinator.com/item?id=41399872
+Points: 2947
+# Comments: 587]]></summary>
+        <author>
+            <name>janice1999</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The secret inside One Million Checkboxes]]></title>
+        <id>https://news.ycombinator.com/item?id=41395413</id>
+        <link href="https://eieio.games/essays/the-secret-in-one-million-checkboxes/"/>
+        <updated>2024-08-29T21:20:12.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://eieio.games/essays/the-secret-in-one-million-checkboxes/
+Comments URL: https://news.ycombinator.com/item?id=41395413
+Points: 2306
+# Comments: 217]]></summary>
+        <author>
+            <name>todsacerdoti</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Elasticsearch is open source, again]]></title>
+        <id>https://news.ycombinator.com/item?id=41394797</id>
+        <link href="https://www.elastic.co/blog/elasticsearch-is-open-source-again"/>
+        <updated>2024-08-29T20:10:02.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.elastic.co/blog/elasticsearch-is-open-source-again
+Comments URL: https://news.ycombinator.com/item?id=41394797
+Points: 749
+# Comments: 433]]></summary>
+        <author>
+            <name>dakrone</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bypassing airport security via SQL injection]]></title>
+        <id>https://news.ycombinator.com/item?id=41392128</id>
+        <link href="https://ian.sh/tsa"/>
+        <updated>2024-08-29T15:53:08.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://ian.sh/tsa
+Comments URL: https://news.ycombinator.com/item?id=41392128
+Points: 1959
+# Comments: 426]]></summary>
+        <author>
+            <name>iancarroll</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Low Cost Mini PCs]]></title>
+        <id>https://news.ycombinator.com/item?id=41389931</id>
+        <link href="https://lowcostminipcs.com/"/>
+        <updated>2024-08-29T12:03:41.000Z</updated>
+        <summary type="html"><![CDATA[While searching for mini PCs for my home server, I figured I'd use the eBay API to find the cheapest ones. Inspired by diskprices.com, I built a static site using Eleventy and a python script that uses regex to parse the data. I tried to include as many filters as possible like OS, Wifi, HDMI etc.
+I would like to add power usage, noise levels, PCIe slots but that data is hard to find.
+Please let me know if you have any feedback / suggestions.
+Thanks!
+Comments URL: https://news.ycombinator.com/item?id=41389931
+Points: 673
+# Comments: 302]]></summary>
+        <author>
+            <name>mjcurl</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenAI is good at unminifying code]]></title>
+        <id>https://news.ycombinator.com/item?id=41389185</id>
+        <link href="https://glama.ai/blog/2024-08-29-reverse-engineering-minified-code-using-openai"/>
+        <updated>2024-08-29T10:14:50.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://glama.ai/blog/2024-08-29-reverse-engineering-minified-code-using-openai
+Comments URL: https://news.ycombinator.com/item?id=41389185
+Points: 919
+# Comments: 301]]></summary>
+        <author>
+            <name>punkpeye</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[UK rail minister got engineer sacked for raising safety concerns]]></title>
+        <id>https://news.ycombinator.com/item?id=41388888</id>
+        <link href="https://www.politico.eu/article/uk-rail-minister-peter-hendy-fired-gareth-dennis-engineer-safety-concerns-trains-london-euston-station/"/>
+        <updated>2024-08-29T09:19:36.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.politico.eu/article/uk-rail-minister-peter-hendy-fired-gareth-dennis-engineer-safety-concerns-trains-london-euston-station/
+Comments URL: https://news.ycombinator.com/item?id=41388888
+Points: 518
+# Comments: 289]]></summary>
+        <author>
+            <name>scrlk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Air Con: $1697 for an on/off switch]]></title>
+        <id>https://news.ycombinator.com/item?id=41386319</id>
+        <link href="https://blog.hopefullyuseful.com/blog/advantage-air-ezone-tablet-diy-repair/"/>
+        <updated>2024-08-29T01:28:01.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://blog.hopefullyuseful.com/blog/advantage-air-ezone-tablet-diy-repair/
+Comments URL: https://news.ycombinator.com/item?id=41386319
+Points: 1969
+# Comments: 476]]></summary>
+        <author>
+            <name>ranebo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Diffusion models are real-time game engines]]></title>
+        <id>https://news.ycombinator.com/item?id=41375548</id>
+        <link href="https://gamengen.github.io/"/>
+        <updated>2024-08-28T02:59:40.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://gamengen.github.io
+Comments URL: https://news.ycombinator.com/item?id=41375548
+Points: 1141
+# Comments: 408]]></summary>
+        <author>
+            <name>jmorgan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Collection of Free Public APIs That Is Tested Daily]]></title>
+        <id>https://news.ycombinator.com/item?id=41371170</id>
+        <link href="https://www.freepublicapis.com/"/>
+        <updated>2024-08-27T18:38:59.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.freepublicapis.com/
+Comments URL: https://news.ycombinator.com/item?id=41371170
+Points: 599
+# Comments: 122]]></summary>
+        <author>
+            <name>abhas9</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft donates the Mono Project to the Wine team]]></title>
+        <id>https://news.ycombinator.com/item?id=41371106</id>
+        <link href="https://www.mono-project.com/"/>
+        <updated>2024-08-27T18:34:09.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.mono-project.com/
+Comments URL: https://news.ycombinator.com/item?id=41371106
+Points: 1430
+# Comments: 478]]></summary>
+        <author>
+            <name>itherseed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Monospace Web]]></title>
+        <id>https://news.ycombinator.com/item?id=41370020</id>
+        <link href="https://owickstrom.github.io/the-monospace-web/"/>
+        <updated>2024-08-27T17:09:56.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://owickstrom.github.io/the-monospace-web/
+Comments URL: https://news.ycombinator.com/item?id=41370020
+Points: 608
+# Comments: 153]]></summary>
+        <author>
+            <name>mrunseen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Zuckerberg claims regret on caving to White House pressure on content]]></title>
+        <id>https://news.ycombinator.com/item?id=41365868</id>
+        <link href="https://www.politico.com/news/2024/08/26/zuckerberg-meta-white-house-pressure-00176399"/>
+        <updated>2024-08-27T09:50:15.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.politico.com/news/2024/08/26/zuckerberg-meta-white-house-pressure-00176399
+Comments URL: https://news.ycombinator.com/item?id=41365868
+Points: 637
+# Comments: 1257]]></summary>
+        <author>
+            <name>southernplaces7</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dokku: My favorite personal serverless platform]]></title>
+        <id>https://news.ycombinator.com/item?id=41358020</id>
+        <link href="https://hamel.dev/blog/posts/dokku/"/>
+        <updated>2024-08-26T15:21:56.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://hamel.dev/blog/posts/dokku/
+Comments URL: https://news.ycombinator.com/item?id=41358020
+Points: 914
+# Comments: 270]]></summary>
+        <author>
+            <name>tosh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NSA releases 1982 Grace Hopper lecture]]></title>
+        <id>https://news.ycombinator.com/item?id=41356528</id>
+        <link href="https://www.nsa.gov/helpful-links/nsa-foia/declassification-transparency-initiatives/historical-releases/view/article/3880193/capt-grace-hopper-on-future-possibilities-data-hardware-software-and-people-1982/"/>
+        <updated>2024-08-26T12:37:32.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.nsa.gov/helpful-links/nsa-foia/declassification-transparency-initiatives/historical-releases/view/article/3880193/capt-grace-hopper-on-future-possibilities-data-hardware-software-and-people-1982/
+Comments URL: https://news.ycombinator.com/item?id=41356528
+Points: 934
+# Comments: 222]]></summary>
+        <author>
+            <name>gaws</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fixing a bug in Google Chrome as a first-time contributor]]></title>
+        <id>https://news.ycombinator.com/item?id=41355303</id>
+        <link href="https://cprimozic.net/blog/fixing-a-bug-in-google-chrome/"/>
+        <updated>2024-08-26T09:10:56.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://cprimozic.net/blog/fixing-a-bug-in-google-chrome/
+Comments URL: https://news.ycombinator.com/item?id=41355303
+Points: 643
+# Comments: 165]]></summary>
+        <author>
+            <name>Ameo</name>
         </author>
     </entry>
 </feed>

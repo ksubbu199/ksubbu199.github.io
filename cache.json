@@ -1,551 +1,2409 @@
 {
   "sources": [
     {
-      "title": "Release notes from osmosfeed",
-      "feedUrl": "https://github.com/osmoscraft/osmosfeed/releases.atom",
-      "siteUrl": "https://github.com/osmoscraft/osmosfeed/releases",
-      "articles": []
-    },
-    {
-      "title": "CSS-Tricks",
-      "feedUrl": "https://css-tricks.com/feed/",
-      "siteUrl": "https://css-tricks.com",
+      "title": "Paul Graham: Essays",
+      "feedUrl": "http://www.aaronsw.com/2002/feeds/pgessays.rss",
+      "siteUrl": "http://www.paulgraham.com/",
       "articles": [
         {
-          "id": "https://css-tricks.com/?p=357985",
-          "author": "Chris Coyier",
-          "description": "I think if you’re a DevOps person in any capacity, the utility of Docker is very clear. Your things run in containers that are identical everywhere. Assuming Docker is working/running, the code will execute in a reliably consistent way whether …",
-          "link": "https://css-tricks.com/dock-life-using-docker-for-all-the-things/",
-          "publishedOn": "2021-12-01T21:11:53.000Z",
-          "wordCount": 628,
-          "title": "Dock Life: Using Docker for All The Things!"
+          "id": "http://www.paulgraham.com/taste.html",
+          "author": null,
+          "description": "",
+          "link": "http://www.paulgraham.com/taste.html",
+          "publishedOn": "2024-09-01T21:43:57.893Z",
+          "wordCount": 4478,
+          "title": "Taste for Makers",
+          "imageUrl": null
         },
         {
-          "id": "https://css-tricks.com/?p=357344",
-          "author": "George Francis",
-          "description": "In nature, no two things are ever the same. Life is imperfect, unpredictable, and beautiful. We can walk through the same forest every day and see differently colored leaves. We can look up at the clouds every minute and watch …",
-          "link": "https://css-tricks.com/embrace-the-unpredictable/",
-          "publishedOn": "2021-12-01T15:47:46.000Z",
-          "wordCount": 726,
-          "title": "Embrace the Unpredictable"
+          "id": "http://www.paulgraham.com/siliconvalley.html",
+          "author": null,
+          "description": "",
+          "link": "http://www.paulgraham.com/siliconvalley.html",
+          "publishedOn": "2024-09-01T21:43:57.871Z",
+          "wordCount": 3778,
+          "title": "How to Be Silicon Valley",
+          "imageUrl": null
         },
         {
-          "id": "https://css-tricks.com/?p=356146",
-          "author": "Amelia Wattenberger",
-          "description": "What is one thing people can do to make their website better?\n Exactly what you want to build!\nAsk yourself:\nWhat drew you to development in the beginning?\nIs there an experimental API that you’ve been wanting to try out?\n…",
-          "link": "https://css-tricks.com/exactly-what-you-want/",
-          "publishedOn": "2021-12-01T15:46:29.000Z",
-          "wordCount": 491,
-          "title": "Exactly What You Want"
+          "id": "http://www.paulgraham.com/read.html",
+          "author": null,
+          "description": "",
+          "link": "http://www.paulgraham.com/read.html",
+          "publishedOn": "2024-09-01T21:43:57.868Z",
+          "wordCount": 657,
+          "title": "The Need to Read",
+          "imageUrl": null
         },
         {
-          "id": "https://css-tricks.com/?p=357109",
-          "author": "Chris Coyier",
-          "description": "I was playing this game on Apple Arcade the other day called wurdweb. It’s a fun little game! Little touches like the little shape dudes that walk around the screen (but otherwise don’t do anything) give it a lot …",
-          "link": "https://css-tricks.com/diagonal-stripes-wipe-animation/",
-          "publishedOn": "2021-11-30T17:26:35.000Z",
-          "wordCount": 946,
-          "title": "Diagonal Stripes Wipe Animation"
+          "id": "http://www.paulgraham.com/gap.html",
+          "author": null,
+          "description": "",
+          "link": "http://www.paulgraham.com/gap.html",
+          "publishedOn": "2024-09-01T21:43:57.866Z",
+          "wordCount": 5810,
+          "title": "Mind the Gap",
+          "imageUrl": null
         },
         {
-          "id": "https://css-tricks.com/?p=357728",
-          "author": "Tobias Günther",
-          "description": "This article is part of our “Advanced Git” series. Be sure to follow us on Twitter or sign up for our newsletter to hear about future articles!\nThe “Reflog” is one of Git’s lesser-known features—but one that can be extremely …",
-          "link": "https://css-tricks.com/using-the-reflog-to-restore-lost-commits/",
-          "publishedOn": "2021-11-30T15:53:27.000Z",
-          "wordCount": 2431,
-          "title": "Using the Reflog to Restore Lost Commits"
+          "id": "http://www.paulgraham.com/randomness.html",
+          "author": null,
+          "description": "",
+          "link": "http://www.paulgraham.com/randomness.html",
+          "publishedOn": "2024-09-01T21:43:57.863Z",
+          "wordCount": 795,
+          "title": "See Randomness",
+          "imageUrl": null
         },
         {
-          "id": "https://css-tricks.com/?p=357679",
-          "author": "Chris Coyier",
-          "description": "(This is a sponsored post.)\nCloudinary (the media hosting and optimization service) has a brand new version (v3) of its WordPress plugin that has really nailed it. First, a high-level look at the biggest things this plugin does:\nIt \n…",
-          "link": "https://css-tricks.com/a-look-at-the-cloudinary-wordpress-plugin/",
-          "publishedOn": "2021-11-30T15:23:00.000Z",
-          "wordCount": 1256,
-          "title": "A Look at the Cloudinary WordPress Plugin"
+          "id": "http://www.paulgraham.com/better.html",
+          "author": null,
+          "description": "",
+          "link": "http://www.paulgraham.com/better.html",
+          "publishedOn": "2024-09-01T21:43:57.861Z",
+          "wordCount": 4469,
+          "title": "Better Bayesian Filtering",
+          "imageUrl": null
         },
         {
-          "id": "https://css-tricks.com/?p=357565",
-          "author": "Geoff Graham",
-          "description": "Apple Music has this “Spatial Audio” feature where the direction of the music in your headphones is based on the location of the device. It’s tough to explain just how neat it is. But that’s not what I’m here to …",
-          "link": "https://css-tricks.com/recreating-the-apple-music-hits-playlist-animation-in-css/",
-          "publishedOn": "2021-11-29T16:38:49.000Z",
-          "wordCount": 1516,
-          "title": "Recreating the Apple Music Hits Playlist Animation in CSS"
+          "id": "http://www.paulgraham.com/cities.html",
+          "author": null,
+          "description": "",
+          "link": "http://www.paulgraham.com/cities.html",
+          "publishedOn": "2024-09-01T21:43:57.858Z",
+          "wordCount": 3765,
+          "title": "Cities and Ambition",
+          "imageUrl": null
         },
         {
-          "id": "https://css-tricks.com/?p=357976",
-          "author": "Chris Coyier",
-          "description": "This is a neat idea for a research project. The big map is fun, but the research had some tidbits in it worth looking at.\nThe average favicon network request takes 130ms, at least from our speedy cloud instance.\n…",
-          "link": "https://css-tricks.com/we-analyzed-425909-favicons/",
-          "publishedOn": "2021-11-29T16:38:07.000Z",
-          "wordCount": 483,
-          "title": "We Analyzed 425,909 Favicons"
+          "id": "http://www.paulgraham.com/notnot.html",
+          "author": null,
+          "description": "",
+          "link": "http://www.paulgraham.com/notnot.html",
+          "publishedOn": "2024-09-01T21:43:57.851Z",
+          "wordCount": 6396,
+          "title": "Why to Not Not Start a Startup",
+          "imageUrl": null
         },
         {
-          "id": "https://css-tricks.com/?p=357271",
-          "author": "Chris Coyier",
-          "description": "I’ve got some blind spots in CSS-related performance things. One example is the will-change property. It’s a good name. You’re telling the browser some particular property (or the scroll-position or content) uh, will, change:\n.el {\n  will-change: opacity;\n\n…",
-          "link": "https://css-tricks.com/when-is-it-right-to-reach-for-contain-and-will-change-in-css/",
-          "publishedOn": "2021-11-26T20:43:05.000Z",
-          "wordCount": 2084,
-          "title": "When is it “Right” to Reach for  contain and will-change in CSS?"
+          "id": "http://www.paulgraham.com/kate.html",
+          "author": null,
+          "description": "",
+          "link": "http://www.paulgraham.com/kate.html",
+          "publishedOn": "2024-09-01T21:43:57.846Z",
+          "wordCount": 1017,
+          "title": "What Kate Saw in Silicon Valley",
+          "imageUrl": null
         },
         {
-          "id": "https://css-tricks.com/?p=357239",
-          "author": "Neale Van Fleet",
-          "description": "I love little touches that make a website feel like more than just a static document. What if web content wouldn’t just “appear” when a page loaded, but instead popped, slid, faded, or spun into place? It might be a …",
-          "link": "https://css-tricks.com/a-handy-little-system-for-animated-entrances-in-css/",
-          "publishedOn": "2021-11-26T16:12:33.000Z",
-          "wordCount": 2444,
-          "title": "A Handy Little System for Animated Entrances in CSS"
+          "id": "http://www.paulgraham.com/guidetoinvestors.html",
+          "author": null,
+          "description": "",
+          "link": "http://www.paulgraham.com/guidetoinvestors.html",
+          "publishedOn": "2024-09-01T21:43:57.843Z",
+          "wordCount": 6342,
+          "title": "The Hacker's Guide to Investors",
+          "imageUrl": null
         },
         {
-          "id": "https://css-tricks.com/?p=357294",
-          "author": "George Francis",
-          "description": "The browser has long been a medium for art and design. From Lynn Fisher’s joyful A Single Div creations to Diana Smith’s staggeringly detailed CSS paintings, wildly creative, highly skilled developers have — over the years — continuously pushed …",
-          "link": "https://css-tricks.com/creating-generative-patterns-with-the-css-paint-api/",
-          "publishedOn": "2021-11-24T15:49:08.000Z",
-          "wordCount": 5674,
-          "title": "Creating Generative Patterns with The CSS Paint API"
+          "id": "http://www.paulgraham.com/hs.html",
+          "author": null,
+          "description": "",
+          "link": "http://www.paulgraham.com/hs.html",
+          "publishedOn": "2024-09-01T21:43:57.839Z",
+          "wordCount": 5208,
+          "title": "What You'll Wish You'd Known",
+          "imageUrl": null
         },
         {
-          "id": "https://css-tricks.com/?p=357412",
-          "author": "Chris Coyier",
-          "description": "Tyler Sticka digs in here in the best possible way: by making a test page and literally measuring performance. Maybe 1,000 icons is a little bit of an edge case, but hey, 250 rows of data with four icons in …",
-          "link": "https://css-tricks.com/which-svg-technique-performs-best-for-way-too-many-icons/",
-          "publishedOn": "2021-11-23T19:21:28.000Z",
-          "wordCount": 461,
-          "title": "Which SVG technique performs best for way too many icons?"
+          "id": "http://www.paulgraham.com/gh.html",
+          "author": null,
+          "description": "",
+          "link": "http://www.paulgraham.com/gh.html",
+          "publishedOn": "2024-09-01T21:43:57.836Z",
+          "wordCount": 5386,
+          "title": "Great Hackers",
+          "imageUrl": null
         },
         {
-          "id": "https://css-tricks.com/?p=356977",
-          "author": "Alaa Abd El-Rahim",
-          "description": "Many business websites need a multilingual setup. As with anything development-related, implementing one in an easy, efficient, and maintainable way is desirable. Designing and developing to be ready for multiple languages, whether it happens right at launch or is expected …",
-          "link": "https://css-tricks.com/control-layout-in-a-multi-directional-website/",
-          "publishedOn": "2021-11-23T16:06:44.000Z",
-          "wordCount": 4908,
-          "title": "Control Layout in a Multi-Directional Website"
+          "id": "http://www.paulgraham.com/mac.html",
+          "author": null,
+          "description": "",
+          "link": "http://www.paulgraham.com/mac.html",
+          "publishedOn": "2024-09-01T21:43:57.828Z",
+          "wordCount": 1206,
+          "title": "Return of the Mac",
+          "imageUrl": null
         },
         {
-          "id": "https://css-tricks.com/?p=357149",
-          "author": "Chris Coyier",
-          "description": "Inspired by Eva PenzeyMoog’s new book, Jeremy highlights the widespread user tracking situation in this industry:\nThere was a line that really stood out to me: \nThe idea that it’s alright to do whatever unethical thing is currently the \n…",
-          "link": "https://css-tricks.com/on-user-tracking-and-industry-standards-on-privacy/",
-          "publishedOn": "2021-11-22T21:00:50.000Z",
-          "wordCount": 2662,
-          "title": "On User Tracking and Industry Standards on Privacy"
+          "id": "http://www.paulgraham.com/safe.html",
+          "author": null,
+          "description": "",
+          "link": "http://www.paulgraham.com/safe.html",
+          "publishedOn": "2024-09-01T21:43:57.826Z",
+          "wordCount": 992,
+          "title": "Why It's Safe for Founders to Be Nice",
+          "imageUrl": null
         },
         {
-          "id": "https://css-tricks.com/?p=357046",
-          "author": "Chris Coyier",
-          "description": "A reader wrote to me the other day asking about this bit of CSS they came across in Wikipedia’s Common.css:\n.mw-collapsible-leftside-toggle .mw-collapsible-toggle {\n  /* @noflip */\n  float: left;\n  /* @noflip */\n  text-align: left;\n}\nWhat’s that @noflip business? That’s …",
-          "link": "https://css-tricks.com/css-decorations/",
-          "publishedOn": "2021-11-22T18:48:00.000Z",
-          "wordCount": 1090,
-          "title": "CSS “decorations”"
+          "id": "http://www.paulgraham.com/investors.html",
+          "author": null,
+          "description": "",
+          "link": "http://www.paulgraham.com/investors.html",
+          "publishedOn": "2024-09-01T21:43:57.825Z",
+          "wordCount": 2991,
+          "title": "How to Present to Investors",
+          "imageUrl": null
+        },
+        {
+          "id": "http://www.paulgraham.com/know.html",
+          "author": null,
+          "description": "",
+          "link": "http://www.paulgraham.com/know.html",
+          "publishedOn": "2024-09-01T21:43:57.823Z",
+          "wordCount": 855,
+          "title": "How You Know",
+          "imageUrl": null
+        },
+        {
+          "id": "http://www.paulgraham.com/convince.html",
+          "author": null,
+          "description": "",
+          "link": "http://www.paulgraham.com/convince.html",
+          "publishedOn": "2024-09-01T21:43:57.821Z",
+          "wordCount": 3852,
+          "title": "How to Convince Investors",
+          "imageUrl": null
+        },
+        {
+          "id": "http://www.paulgraham.com/airbnbs.html",
+          "author": null,
+          "description": "",
+          "link": "http://www.paulgraham.com/airbnbs.html",
+          "publishedOn": "2024-09-01T21:43:57.818Z",
+          "wordCount": 1302,
+          "title": "The Airbnbs",
+          "imageUrl": null
+        },
+        {
+          "id": "http://www.paulgraham.com/foundersatwork.html",
+          "author": null,
+          "description": "",
+          "link": "http://www.paulgraham.com/foundersatwork.html",
+          "publishedOn": "2024-09-01T21:43:57.816Z",
+          "wordCount": 1038,
+          "title": "Learning from Founders",
+          "imageUrl": null
+        },
+        {
+          "id": "http://www.paulgraham.com/work.html",
+          "author": null,
+          "description": "",
+          "link": "http://www.paulgraham.com/work.html",
+          "publishedOn": "2024-09-01T21:43:57.810Z",
+          "wordCount": 698,
+          "title": "What Doesn't Seem Like Work?",
+          "imageUrl": null
+        },
+        {
+          "id": "http://www.paulgraham.com/getideas.html",
+          "author": null,
+          "description": "",
+          "link": "http://www.paulgraham.com/getideas.html",
+          "publishedOn": "2024-09-01T21:43:57.801Z",
+          "wordCount": 363,
+          "title": "How to Get New Ideas",
+          "imageUrl": null
+        },
+        {
+          "id": "http://www.paulgraham.com/discover.html",
+          "author": null,
+          "description": "",
+          "link": "http://www.paulgraham.com/discover.html",
+          "publishedOn": "2024-09-01T21:43:52.048Z",
+          "wordCount": 1496,
+          "title": "Persuade xor Discover",
+          "imageUrl": null
+        },
+        {
+          "id": "http://www.paulgraham.com/twitter.html",
+          "author": null,
+          "description": "",
+          "link": "http://www.paulgraham.com/twitter.html",
+          "publishedOn": "2024-09-01T21:43:52.007Z",
+          "wordCount": 364,
+          "title": "Why Twitter is a Big Deal",
+          "imageUrl": null
+        },
+        {
+          "id": "http://www.paulgraham.com/seesv.html",
+          "author": null,
+          "description": "",
+          "link": "http://www.paulgraham.com/seesv.html",
+          "publishedOn": "2024-09-01T21:43:51.071Z",
+          "wordCount": 1276,
+          "title": "Where to See Silicon Valley",
+          "imageUrl": null
+        },
+        {
+          "id": "http://www.paulgraham.com/fundraising.html",
+          "author": null,
+          "description": "",
+          "link": "http://www.paulgraham.com/fundraising.html",
+          "publishedOn": "2024-09-01T21:43:51.054Z",
+          "wordCount": 4973,
+          "title": "A Fundraising Survival Guide",
+          "imageUrl": null
+        },
+        {
+          "id": "http://www.paulgraham.com/future.html",
+          "author": null,
+          "description": "",
+          "link": "http://www.paulgraham.com/future.html",
+          "publishedOn": "2024-09-01T21:43:51.017Z",
+          "wordCount": 4029,
+          "title": "The Future of Startup Funding",
+          "imageUrl": null
+        },
+        {
+          "id": "http://www.paulgraham.com/selfindulgence.html",
+          "author": null,
+          "description": "",
+          "link": "http://www.paulgraham.com/selfindulgence.html",
+          "publishedOn": "2024-09-01T21:43:51.004Z",
+          "wordCount": 890,
+          "title": "How to Lose Time and Money",
+          "imageUrl": null
+        },
+        {
+          "id": "http://www.paulgraham.com/talk.html",
+          "author": null,
+          "description": "",
+          "link": "http://www.paulgraham.com/talk.html",
+          "publishedOn": "2024-09-01T21:43:50.977Z",
+          "wordCount": 914,
+          "title": "Write Like You Talk",
+          "imageUrl": null
+        },
+        {
+          "id": "http://www.paulgraham.com/word.html",
+          "author": null,
+          "description": "",
+          "link": "http://www.paulgraham.com/word.html",
+          "publishedOn": "2024-09-01T21:43:50.971Z",
+          "wordCount": 1005,
+          "title": "A Word to the Resourceful",
+          "imageUrl": null
+        },
+        {
+          "id": "http://www.paulgraham.com/nft.html",
+          "author": null,
+          "description": "",
+          "link": "http://www.paulgraham.com/nft.html",
+          "publishedOn": "2024-09-01T21:43:50.790Z",
+          "wordCount": 526,
+          "title": "An NFT That Saves Lives",
+          "imageUrl": null
+        },
+        {
+          "id": "http://www.paulgraham.com/foundervisa.html",
+          "author": null,
+          "description": "",
+          "link": "http://www.paulgraham.com/foundervisa.html",
+          "publishedOn": "2024-09-01T21:43:50.734Z",
+          "wordCount": 613,
+          "title": "The Founder Visa",
+          "imageUrl": null
+        },
+        {
+          "id": "http://www.paulgraham.com/head.html",
+          "author": null,
+          "description": "",
+          "link": "http://www.paulgraham.com/head.html",
+          "publishedOn": "2024-09-01T21:43:50.726Z",
+          "wordCount": 2043,
+          "title": "Holding a Program in One's Head",
+          "imageUrl": null
+        },
+        {
+          "id": "http://www.paulgraham.com/submarine.html",
+          "author": null,
+          "description": "",
+          "link": "http://www.paulgraham.com/submarine.html",
+          "publishedOn": "2024-09-01T21:43:50.723Z",
+          "wordCount": 2542,
+          "title": "The Submarine",
+          "imageUrl": null
+        },
+        {
+          "id": "http://www.paulgraham.com/prop62.html",
+          "author": null,
+          "description": "",
+          "link": "http://www.paulgraham.com/prop62.html",
+          "publishedOn": "2024-09-01T21:43:50.716Z",
+          "wordCount": 403,
+          "title": "This Year We Can End the Death Penalty in California",
+          "imageUrl": null
+        },
+        {
+          "id": "http://www.paulgraham.com/hackernews.html",
+          "author": null,
+          "description": "",
+          "link": "http://www.paulgraham.com/hackernews.html",
+          "publishedOn": "2024-09-01T21:43:50.714Z",
+          "wordCount": 3031,
+          "title": "What I've Learned from Hacker News",
+          "imageUrl": null
+        },
+        {
+          "id": "http://www.paulgraham.com/property.html",
+          "author": null,
+          "description": "",
+          "link": "http://www.paulgraham.com/property.html",
+          "publishedOn": "2024-09-01T21:43:50.707Z",
+          "wordCount": 1177,
+          "title": "Defining Property",
+          "imageUrl": null
+        },
+        {
+          "id": "http://www.paulgraham.com/sfp.html",
+          "author": null,
+          "description": "",
+          "link": "http://www.paulgraham.com/sfp.html",
+          "publishedOn": "2024-09-01T21:43:50.706Z",
+          "wordCount": 2741,
+          "title": "What I Did this Summer",
+          "imageUrl": null
+        },
+        {
+          "id": "http://www.paulgraham.com/revolution.html",
+          "author": null,
+          "description": "",
+          "link": "http://www.paulgraham.com/revolution.html",
+          "publishedOn": "2024-09-01T21:43:50.703Z",
+          "wordCount": 1535,
+          "title": "A Local Revolution?",
+          "imageUrl": null
+        },
+        {
+          "id": "http://www.paulgraham.com/corpdev.html",
+          "author": null,
+          "description": "",
+          "link": "http://www.paulgraham.com/corpdev.html",
+          "publishedOn": "2024-09-01T21:43:50.695Z",
+          "wordCount": 1487,
+          "title": "Don't Talk to Corp Dev",
+          "imageUrl": null
+        },
+        {
+          "id": "http://www.paulgraham.com/webstartups.html",
+          "author": null,
+          "description": "",
+          "link": "http://www.paulgraham.com/webstartups.html",
+          "publishedOn": "2024-09-01T21:43:50.693Z",
+          "wordCount": 3552,
+          "title": "The Future of Web Startups",
+          "imageUrl": null
+        },
+        {
+          "id": "http://www.paulgraham.com/hw.html",
+          "author": null,
+          "description": "",
+          "link": "http://www.paulgraham.com/hw.html",
+          "publishedOn": "2024-09-01T21:43:50.689Z",
+          "wordCount": 619,
+          "title": "The Hardware Renaissance",
+          "imageUrl": null
+        },
+        {
+          "id": "http://www.paulgraham.com/highres.html",
+          "author": null,
+          "description": "",
+          "link": "http://www.paulgraham.com/highres.html",
+          "publishedOn": "2024-09-01T21:43:50.681Z",
+          "wordCount": 1711,
+          "title": "The High-Res Society",
+          "imageUrl": null
+        },
+        {
+          "id": "http://www.paulgraham.com/ycstart.html",
+          "author": null,
+          "description": "",
+          "link": "http://www.paulgraham.com/ycstart.html",
+          "publishedOn": "2024-09-01T21:43:50.680Z",
+          "wordCount": 1665,
+          "title": "How Y Combinator Started",
+          "imageUrl": null
+        },
+        {
+          "id": "http://www.paulgraham.com/tablets.html",
+          "author": null,
+          "description": "",
+          "link": "http://www.paulgraham.com/tablets.html",
+          "publishedOn": "2024-09-01T21:43:50.675Z",
+          "wordCount": 756,
+          "title": "Tablets",
+          "imageUrl": null
+        },
+        {
+          "id": "http://www.paulgraham.com/https://sep.turbifycdn.com/ty/cdn/paulgraham/acl1.txt?t=1702479238&",
+          "author": null,
+          "description": "",
+          "link": "http://www.paulgraham.com/https://sep.turbifycdn.com/ty/cdn/paulgraham/acl1.txt?t=1702479238&",
+          "publishedOn": "2024-09-01T21:43:50.635Z",
+          "wordCount": null,
+          "title": "Chapter 1 of Ansi Common Lisp",
+          "imageUrl": null
+        },
+        {
+          "id": "http://www.paulgraham.com/https://sep.turbifycdn.com/ty/cdn/paulgraham/acl2.txt?t=1702479238&",
+          "author": null,
+          "description": "",
+          "link": "http://www.paulgraham.com/https://sep.turbifycdn.com/ty/cdn/paulgraham/acl2.txt?t=1702479238&",
+          "publishedOn": "2024-09-01T21:43:50.627Z",
+          "wordCount": null,
+          "title": "Chapter 2 of Ansi Common Lisp",
+          "imageUrl": null
+        },
+        {
+          "id": "http://www.paulgraham.com/sun.html",
+          "author": null,
+          "description": "",
+          "link": "http://www.paulgraham.com/sun.html",
+          "publishedOn": "2024-09-01T21:43:50.598Z",
+          "wordCount": 651,
+          "title": "General and Surprising",
+          "imageUrl": null
+        },
+        {
+          "id": "http://www.paulgraham.com/bubble.html",
+          "author": null,
+          "description": "",
+          "link": "http://www.paulgraham.com/bubble.html",
+          "publishedOn": "2024-09-01T21:43:50.597Z",
+          "wordCount": 3877,
+          "title": "What the Bubble Got Right",
+          "imageUrl": null
+        },
+        {
+          "id": "http://www.paulgraham.com/alien.html",
+          "author": null,
+          "description": "",
+          "link": "http://www.paulgraham.com/alien.html",
+          "publishedOn": "2024-09-01T21:43:50.593Z",
+          "wordCount": 891,
+          "title": "Alien Truth",
+          "imageUrl": null
+        },
+        {
+          "id": "http://www.paulgraham.com/5founders.html",
+          "author": null,
+          "description": "",
+          "link": "http://www.paulgraham.com/5founders.html",
+          "publishedOn": "2024-09-01T21:43:50.592Z",
+          "wordCount": 954,
+          "title": "Five Founders",
+          "imageUrl": null
+        },
+        {
+          "id": "http://www.paulgraham.com/power.html",
+          "author": null,
+          "description": "",
+          "link": "http://www.paulgraham.com/power.html",
+          "publishedOn": "2024-09-01T21:43:50.590Z",
+          "wordCount": 3192,
+          "title": "Succinctness is Power",
+          "imageUrl": null
+        },
+        {
+          "id": "http://www.paulgraham.com/venturecapital.html",
+          "author": null,
+          "description": "",
+          "link": "http://www.paulgraham.com/venturecapital.html",
+          "publishedOn": "2024-09-01T21:43:50.581Z",
+          "wordCount": 1667,
+          "title": "A Unified Theory of VC Suckage",
+          "imageUrl": null
+        },
+        {
+          "id": "http://www.paulgraham.com/rootsoflisp.html",
+          "author": null,
+          "description": "",
+          "link": "http://www.paulgraham.com/rootsoflisp.html",
+          "publishedOn": "2024-09-01T21:43:50.579Z",
+          "wordCount": 583,
+          "title": "The Roots of Lisp",
+          "imageUrl": null
+        },
+        {
+          "id": "http://www.paulgraham.com/credentials.html",
+          "author": null,
+          "description": "",
+          "link": "http://www.paulgraham.com/credentials.html",
+          "publishedOn": "2024-09-01T21:43:50.578Z",
+          "wordCount": 2550,
+          "title": "After Credentials",
+          "imageUrl": null
+        },
+        {
+          "id": "http://www.paulgraham.com/95.html",
+          "author": null,
+          "description": "",
+          "link": "http://www.paulgraham.com/95.html",
+          "publishedOn": "2024-09-01T21:43:50.576Z",
+          "wordCount": 1132,
+          "title": "Let the Other 95% of Great Programmers In",
+          "imageUrl": null
+        },
+        {
+          "id": "http://www.paulgraham.com/lwba.html",
+          "author": null,
+          "description": "",
+          "link": "http://www.paulgraham.com/lwba.html",
+          "publishedOn": "2024-09-01T21:43:50.574Z",
+          "wordCount": 275,
+          "title": "Lisp for Web-Based Applications",
+          "imageUrl": null
+        },
+        {
+          "id": "http://www.paulgraham.com/gba.html",
+          "author": null,
+          "description": "",
+          "link": "http://www.paulgraham.com/gba.html",
+          "publishedOn": "2024-09-01T21:43:50.573Z",
+          "wordCount": 2137,
+          "title": "The Word \"Hacker\"",
+          "imageUrl": null
+        },
+        {
+          "id": "http://www.paulgraham.com/fix.html",
+          "author": null,
+          "description": "",
+          "link": "http://www.paulgraham.com/fix.html",
+          "publishedOn": "2024-09-01T21:43:50.571Z",
+          "wordCount": 413,
+          "title": "What Languages Fix",
+          "imageUrl": null
+        },
+        {
+          "id": "http://www.paulgraham.com/startuphubs.html",
+          "author": null,
+          "description": "",
+          "link": "http://www.paulgraham.com/startuphubs.html",
+          "publishedOn": "2024-09-01T21:43:50.570Z",
+          "wordCount": 1653,
+          "title": "Why to Move to a Startup Hub",
+          "imageUrl": null
+        },
+        {
+          "id": "http://www.paulgraham.com/ronco.html",
+          "author": null,
+          "description": "",
+          "link": "http://www.paulgraham.com/ronco.html",
+          "publishedOn": "2024-09-01T21:43:50.568Z",
+          "wordCount": 832,
+          "title": "The Ronco Principle",
+          "imageUrl": null
+        },
+        {
+          "id": "http://www.paulgraham.com/diff.html",
+          "author": null,
+          "description": "",
+          "link": "http://www.paulgraham.com/diff.html",
+          "publishedOn": "2024-09-01T21:43:50.567Z",
+          "wordCount": 900,
+          "title": "What Made Lisp Different",
+          "imageUrl": null
+        },
+        {
+          "id": "http://www.paulgraham.com/javacover.html",
+          "author": null,
+          "description": "",
+          "link": "http://www.paulgraham.com/javacover.html",
+          "publishedOn": "2024-09-01T21:43:50.565Z",
+          "wordCount": 1570,
+          "title": "Java's Cover",
+          "imageUrl": null
+        },
+        {
+          "id": "http://www.paulgraham.com/trolls.html",
+          "author": null,
+          "description": "",
+          "link": "http://www.paulgraham.com/trolls.html",
+          "publishedOn": "2024-09-01T21:43:50.563Z",
+          "wordCount": 1093,
+          "title": "Trolls",
+          "imageUrl": null
+        },
+        {
+          "id": "http://www.paulgraham.com/avg.html",
+          "author": null,
+          "description": "",
+          "link": "http://www.paulgraham.com/avg.html",
+          "publishedOn": "2024-09-01T21:43:50.556Z",
+          "wordCount": 4638,
+          "title": "Beating the Averages",
+          "imageUrl": null
+        },
+        {
+          "id": "http://www.paulgraham.com/progbot.html",
+          "author": null,
+          "description": "",
+          "link": "http://www.paulgraham.com/progbot.html",
+          "publishedOn": "2024-09-01T21:43:50.552Z",
+          "wordCount": 1131,
+          "title": "Programming Bottom-Up",
+          "imageUrl": null
+        },
+        {
+          "id": "http://www.paulgraham.com/noop.html",
+          "author": null,
+          "description": "",
+          "link": "http://www.paulgraham.com/noop.html",
+          "publishedOn": "2024-09-01T21:43:50.546Z",
+          "wordCount": 705,
+          "title": "Why Arc Isn't Especially Object-Oriented",
+          "imageUrl": null
+        },
+        {
+          "id": "http://www.paulgraham.com/spam.html",
+          "author": null,
+          "description": "",
+          "link": "http://www.paulgraham.com/spam.html",
+          "publishedOn": "2024-09-01T21:43:50.545Z",
+          "wordCount": 5483,
+          "title": "A Plan for Spam",
+          "imageUrl": null
+        },
+        {
+          "id": "http://www.paulgraham.com/icad.html",
+          "author": null,
+          "description": "",
+          "link": "http://www.paulgraham.com/icad.html",
+          "publishedOn": "2024-09-01T21:43:50.541Z",
+          "wordCount": 5972,
+          "title": "Revenge of the Nerds",
+          "imageUrl": null
+        },
+        {
+          "id": "http://www.paulgraham.com/college.html",
+          "author": null,
+          "description": "",
+          "link": "http://www.paulgraham.com/college.html",
+          "publishedOn": "2024-09-01T21:43:50.537Z",
+          "wordCount": 3827,
+          "title": "Undergraduation",
+          "imageUrl": null
+        },
+        {
+          "id": "http://www.paulgraham.com/popular.html",
+          "author": null,
+          "description": "",
+          "link": "http://www.paulgraham.com/popular.html",
+          "publishedOn": "2024-09-01T21:43:50.528Z",
+          "wordCount": 7692,
+          "title": "Being Popular",
+          "imageUrl": null
+        },
+        {
+          "id": "http://www.paulgraham.com/desres.html",
+          "author": null,
+          "description": "",
+          "link": "http://www.paulgraham.com/desres.html",
+          "publishedOn": "2024-09-01T21:43:50.520Z",
+          "wordCount": 2844,
+          "title": "Design and Research",
+          "imageUrl": null
+        },
+        {
+          "id": "http://www.paulgraham.com/hp.html",
+          "author": null,
+          "description": "",
+          "link": "http://www.paulgraham.com/hp.html",
+          "publishedOn": "2024-09-01T21:43:50.516Z",
+          "wordCount": 5747,
+          "title": "Hackers and Painters",
+          "imageUrl": null
+        },
+        {
+          "id": "http://www.paulgraham.com/pypar.html",
+          "author": null,
+          "description": "",
+          "link": "http://www.paulgraham.com/pypar.html",
+          "publishedOn": "2024-09-01T21:43:50.510Z",
+          "wordCount": 680,
+          "title": "The Python Paradox",
+          "imageUrl": null
+        },
+        {
+          "id": "http://www.paulgraham.com/say.html",
+          "author": null,
+          "description": "",
+          "link": "http://www.paulgraham.com/say.html",
+          "publishedOn": "2024-09-01T21:43:50.507Z",
+          "wordCount": 5581,
+          "title": "What You Can't Say",
+          "imageUrl": null
+        },
+        {
+          "id": "http://www.paulgraham.com/hundred.html",
+          "author": null,
+          "description": "",
+          "link": "http://www.paulgraham.com/hundred.html",
+          "publishedOn": "2024-09-01T21:43:50.494Z",
+          "wordCount": 4944,
+          "title": "The Hundred-Year Language",
+          "imageUrl": null
+        },
+        {
+          "id": "http://www.paulgraham.com/ffb.html",
+          "author": null,
+          "description": "",
+          "link": "http://www.paulgraham.com/ffb.html",
+          "publishedOn": "2024-09-01T21:43:50.489Z",
+          "wordCount": 1032,
+          "title": "Filters that Fight Back",
+          "imageUrl": null
+        },
+        {
+          "id": "http://www.paulgraham.com/nerds.html",
+          "author": null,
+          "description": "",
+          "link": "http://www.paulgraham.com/nerds.html",
+          "publishedOn": "2024-09-01T21:43:50.486Z",
+          "wordCount": 5846,
+          "title": "Why Nerds are Unpopular",
+          "imageUrl": null
+        },
+        {
+          "id": "http://www.paulgraham.com/start.html",
+          "author": null,
+          "description": "",
+          "link": "http://www.paulgraham.com/start.html",
+          "publishedOn": "2024-09-01T21:43:50.479Z",
+          "wordCount": 9834,
+          "title": "How to Start a Startup",
+          "imageUrl": null
+        },
+        {
+          "id": "http://www.paulgraham.com/iflisp.html",
+          "author": null,
+          "description": "",
+          "link": "http://www.paulgraham.com/iflisp.html",
+          "publishedOn": "2024-09-01T21:43:50.465Z",
+          "wordCount": 630,
+          "title": "If Lisp is So Great",
+          "imageUrl": null
+        },
+        {
+          "id": "http://www.paulgraham.com/langdes.html",
+          "author": null,
+          "description": "",
+          "link": "http://www.paulgraham.com/langdes.html",
+          "publishedOn": "2024-09-01T21:43:50.463Z",
+          "wordCount": 3095,
+          "title": "Five Questions about Language Design",
+          "imageUrl": null
+        },
+        {
+          "id": "http://www.paulgraham.com/copy.html",
+          "author": null,
+          "description": "",
+          "link": "http://www.paulgraham.com/copy.html",
+          "publishedOn": "2024-09-01T21:43:50.450Z",
+          "wordCount": 1144,
+          "title": "Copy What You Like",
+          "imageUrl": null
+        },
+        {
+          "id": "http://www.paulgraham.com/charisma.html",
+          "author": null,
+          "description": "",
+          "link": "http://www.paulgraham.com/charisma.html",
+          "publishedOn": "2024-09-01T21:43:50.446Z",
+          "wordCount": 1693,
+          "title": "It's Charisma, Stupid",
+          "imageUrl": null
+        },
+        {
+          "id": "http://www.paulgraham.com/road.html",
+          "author": null,
+          "description": "",
+          "link": "http://www.paulgraham.com/road.html",
+          "publishedOn": "2024-09-01T21:43:50.442Z",
+          "wordCount": 12036,
+          "title": "The Other Road Ahead",
+          "imageUrl": null
+        },
+        {
+          "id": "http://www.paulgraham.com/writing44.html",
+          "author": null,
+          "description": "",
+          "link": "http://www.paulgraham.com/writing44.html",
+          "publishedOn": "2024-09-01T21:43:50.434Z",
+          "wordCount": 683,
+          "title": "Writing,  Briefly",
+          "imageUrl": null
+        },
+        {
+          "id": "http://www.paulgraham.com/hiring.html",
+          "author": null,
+          "description": "",
+          "link": "http://www.paulgraham.com/hiring.html",
+          "publishedOn": "2024-09-01T21:43:50.432Z",
+          "wordCount": 4927,
+          "title": "Hiring is Obsolete",
+          "imageUrl": null
+        },
+        {
+          "id": "http://www.paulgraham.com/opensource.html",
+          "author": null,
+          "description": "",
+          "link": "http://www.paulgraham.com/opensource.html",
+          "publishedOn": "2024-09-01T21:43:50.426Z",
+          "wordCount": 4499,
+          "title": "What Business Can Learn from Open Source",
+          "imageUrl": null
+        },
+        {
+          "id": "http://www.paulgraham.com/softwarepatents.html",
+          "author": null,
+          "description": "",
+          "link": "http://www.paulgraham.com/softwarepatents.html",
+          "publishedOn": "2024-09-01T21:43:50.416Z",
+          "wordCount": 4802,
+          "title": "Are Software Patents Evil?",
+          "imageUrl": null
+        },
+        {
+          "id": "http://www.paulgraham.com/marginal.html",
+          "author": null,
+          "description": "",
+          "link": "http://www.paulgraham.com/marginal.html",
+          "publishedOn": "2024-09-01T21:43:50.413Z",
+          "wordCount": 6179,
+          "title": "The Power of the Marginal",
+          "imageUrl": null
+        },
+        {
+          "id": "http://www.paulgraham.com/love.html",
+          "author": null,
+          "description": "",
+          "link": "http://www.paulgraham.com/love.html",
+          "publishedOn": "2024-09-01T21:43:50.406Z",
+          "wordCount": 4845,
+          "title": "How to Do What You Love",
+          "imageUrl": null
+        },
+        {
+          "id": "http://www.paulgraham.com/startupfunding.html",
+          "author": null,
+          "description": "",
+          "link": "http://www.paulgraham.com/startupfunding.html",
+          "publishedOn": "2024-09-01T21:43:50.402Z",
+          "wordCount": 9009,
+          "title": "How to Fund a Startup",
+          "imageUrl": null
+        },
+        {
+          "id": "http://www.paulgraham.com/wealth.html",
+          "author": null,
+          "description": "",
+          "link": "http://www.paulgraham.com/wealth.html",
+          "publishedOn": "2024-09-01T21:43:50.389Z",
+          "wordCount": 9042,
+          "title": "How to Make Wealth",
+          "imageUrl": null
+        },
+        {
+          "id": "http://www.paulgraham.com/procrastination.html",
+          "author": null,
+          "description": "",
+          "link": "http://www.paulgraham.com/procrastination.html",
+          "publishedOn": "2024-09-01T21:43:50.384Z",
+          "wordCount": 1998,
+          "title": "Good and Bad Procrastination",
+          "imageUrl": null
+        },
+        {
+          "id": "http://www.paulgraham.com/bronze.html",
+          "author": null,
+          "description": "",
+          "link": "http://www.paulgraham.com/bronze.html",
+          "publishedOn": "2024-09-01T21:43:50.381Z",
+          "wordCount": 3345,
+          "title": "Why Smart People Have Bad Ideas",
+          "imageUrl": null
+        },
+        {
+          "id": "http://www.paulgraham.com/ladder.html",
+          "author": null,
+          "description": "",
+          "link": "http://www.paulgraham.com/ladder.html",
+          "publishedOn": "2024-09-01T21:43:50.378Z",
+          "wordCount": 794,
+          "title": "After the Ladder",
+          "imageUrl": null
+        },
+        {
+          "id": "http://www.paulgraham.com/essay.html",
+          "author": null,
+          "description": "",
+          "link": "http://www.paulgraham.com/essay.html",
+          "publishedOn": "2024-09-01T21:43:50.376Z",
+          "wordCount": 4682,
+          "title": "The Age of the Essay",
+          "imageUrl": null
+        },
+        {
+          "id": "http://www.paulgraham.com/usa.html",
+          "author": null,
+          "description": "",
+          "link": "http://www.paulgraham.com/usa.html",
+          "publishedOn": "2024-09-01T21:43:50.366Z",
+          "wordCount": 2037,
+          "title": "Made in USA",
+          "imageUrl": null
+        },
+        {
+          "id": "http://www.paulgraham.com/ideas.html",
+          "author": null,
+          "description": "",
+          "link": "http://www.paulgraham.com/ideas.html",
+          "publishedOn": "2024-09-01T21:43:50.364Z",
+          "wordCount": 4088,
+          "title": "Ideas for Startups",
+          "imageUrl": null
+        },
+        {
+          "id": "http://www.paulgraham.com/polls.html",
+          "author": null,
+          "description": "",
+          "link": "http://www.paulgraham.com/polls.html",
+          "publishedOn": "2024-09-01T21:43:50.361Z",
+          "wordCount": 840,
+          "title": "Bradley's Ghost",
+          "imageUrl": null
+        },
+        {
+          "id": "http://www.paulgraham.com/laundry.html",
+          "author": null,
+          "description": "",
+          "link": "http://www.paulgraham.com/laundry.html",
+          "publishedOn": "2024-09-01T21:43:50.359Z",
+          "wordCount": 4439,
+          "title": "A Version 1.0",
+          "imageUrl": null
+        },
+        {
+          "id": "http://www.paulgraham.com/inequality.html",
+          "author": null,
+          "description": "",
+          "link": "http://www.paulgraham.com/inequality.html",
+          "publishedOn": "2024-09-01T21:43:50.356Z",
+          "wordCount": 3001,
+          "title": "Inequality and Risk",
+          "imageUrl": null
+        },
+        {
+          "id": "http://www.paulgraham.com/unions.html",
+          "author": null,
+          "description": "",
+          "link": "http://www.paulgraham.com/unions.html",
+          "publishedOn": "2024-09-01T21:43:50.353Z",
+          "wordCount": 724,
+          "title": "An Alternative Theory of Unions",
+          "imageUrl": null
+        },
+        {
+          "id": "http://www.paulgraham.com/vcsqueeze.html",
+          "author": null,
+          "description": "",
+          "link": "http://www.paulgraham.com/vcsqueeze.html",
+          "publishedOn": "2024-09-01T21:43:50.348Z",
+          "wordCount": 1770,
+          "title": "The Venture Capital Squeeze",
+          "imageUrl": null
+        },
+        {
+          "id": "http://www.paulgraham.com/whyyc.html",
+          "author": null,
+          "description": "",
+          "link": "http://www.paulgraham.com/whyyc.html",
+          "publishedOn": "2024-09-01T21:43:50.340Z",
+          "wordCount": 586,
+          "title": "Why YC",
+          "imageUrl": null
+        },
+        {
+          "id": "http://www.paulgraham.com/web20.html",
+          "author": null,
+          "description": "",
+          "link": "http://www.paulgraham.com/web20.html",
+          "publishedOn": "2024-09-01T21:43:50.339Z",
+          "wordCount": 3545,
+          "title": "Web 2.0",
+          "imageUrl": null
+        },
+        {
+          "id": "http://www.paulgraham.com/america.html",
+          "author": null,
+          "description": "",
+          "link": "http://www.paulgraham.com/america.html",
+          "publishedOn": "2024-09-01T21:43:50.335Z",
+          "wordCount": 4886,
+          "title": "Why Startups Condense in America",
+          "imageUrl": null
+        },
+        {
+          "id": "http://www.paulgraham.com/startuplessons.html",
+          "author": null,
+          "description": "",
+          "link": "http://www.paulgraham.com/startuplessons.html",
+          "publishedOn": "2024-09-01T21:43:50.331Z",
+          "wordCount": 4966,
+          "title": "The Hardest Lessons for Startups to Learn",
+          "imageUrl": null
+        },
+        {
+          "id": "http://www.paulgraham.com/judgement.html",
+          "author": null,
+          "description": "",
+          "link": "http://www.paulgraham.com/judgement.html",
+          "publishedOn": "2024-09-01T21:43:50.307Z",
+          "wordCount": 950,
+          "title": "Two Kinds of Judgement",
+          "imageUrl": null
+        },
+        {
+          "id": "http://www.paulgraham.com/microsoft.html",
+          "author": null,
+          "description": "",
+          "link": "http://www.paulgraham.com/microsoft.html",
+          "publishedOn": "2024-09-01T21:43:50.306Z",
+          "wordCount": 1485,
+          "title": "Microsoft is Dead",
+          "imageUrl": null
+        },
+        {
+          "id": "http://www.paulgraham.com/6631327.html",
+          "author": null,
+          "description": "",
+          "link": "http://www.paulgraham.com/6631327.html",
+          "publishedOn": "2024-09-01T21:43:50.304Z",
+          "wordCount": 894,
+          "title": "6,631,372",
+          "imageUrl": null
+        },
+        {
+          "id": "http://www.paulgraham.com/goodart.html",
+          "author": null,
+          "description": "",
+          "link": "http://www.paulgraham.com/goodart.html",
+          "publishedOn": "2024-09-01T21:43:50.303Z",
+          "wordCount": 3791,
+          "title": "How Art Can Be Good",
+          "imageUrl": null
+        },
+        {
+          "id": "http://www.paulgraham.com/island.html",
+          "author": null,
+          "description": "",
+          "link": "http://www.paulgraham.com/island.html",
+          "publishedOn": "2024-09-01T21:43:50.294Z",
+          "wordCount": 960,
+          "title": "The Island Test",
+          "imageUrl": null
+        },
+        {
+          "id": "http://www.paulgraham.com/distraction.html",
+          "author": null,
+          "description": "",
+          "link": "http://www.paulgraham.com/distraction.html",
+          "publishedOn": "2024-09-01T21:43:50.292Z",
+          "wordCount": 1349,
+          "title": "Disconnecting Distraction",
+          "imageUrl": null
+        },
+        {
+          "id": "http://www.paulgraham.com/mit.html",
+          "author": null,
+          "description": "",
+          "link": "http://www.paulgraham.com/mit.html",
+          "publishedOn": "2024-09-01T21:43:50.290Z",
+          "wordCount": 6594,
+          "title": "A Student's Guide to Startups",
+          "imageUrl": null
+        },
+        {
+          "id": "http://www.paulgraham.com/stuff.html",
+          "author": null,
+          "description": "",
+          "link": "http://www.paulgraham.com/stuff.html",
+          "publishedOn": "2024-09-01T21:43:50.286Z",
+          "wordCount": 1449,
+          "title": "Stuff",
+          "imageUrl": null
+        },
+        {
+          "id": "http://www.paulgraham.com/wisdom.html",
+          "author": null,
+          "description": "",
+          "link": "http://www.paulgraham.com/wisdom.html",
+          "publishedOn": "2024-09-01T21:43:50.284Z",
+          "wordCount": 3898,
+          "title": "Is It Worth Being Wise?",
+          "imageUrl": null
+        },
+        {
+          "id": "http://www.paulgraham.com/colleges.html",
+          "author": null,
+          "description": "",
+          "link": "http://www.paulgraham.com/colleges.html",
+          "publishedOn": "2024-09-01T21:43:50.281Z",
+          "wordCount": 2405,
+          "title": "News from the Front",
+          "imageUrl": null
+        },
+        {
+          "id": "http://www.paulgraham.com/startupmistakes.html",
+          "author": null,
+          "description": "",
+          "link": "http://www.paulgraham.com/startupmistakes.html",
+          "publishedOn": "2024-09-01T21:43:50.279Z",
+          "wordCount": 5714,
+          "title": "The 18 Mistakes That Kill Startups",
+          "imageUrl": null
+        },
+        {
+          "id": "http://www.paulgraham.com/philosophy.html",
+          "author": null,
+          "description": "",
+          "link": "http://www.paulgraham.com/philosophy.html",
+          "publishedOn": "2024-09-01T21:43:50.267Z",
+          "wordCount": 4857,
+          "title": "How to Do Philosophy",
+          "imageUrl": null
+        },
+        {
+          "id": "http://www.paulgraham.com/artistsship.html",
+          "author": null,
+          "description": "",
+          "link": "http://www.paulgraham.com/artistsship.html",
+          "publishedOn": "2024-09-01T21:43:50.263Z",
+          "wordCount": 1507,
+          "title": "The Other Half of \"Artists Ship\"",
+          "imageUrl": null
+        },
+        {
+          "id": "http://www.paulgraham.com/convergence.html",
+          "author": null,
+          "description": "",
+          "link": "http://www.paulgraham.com/convergence.html",
+          "publishedOn": "2024-09-01T21:43:50.262Z",
+          "wordCount": 1722,
+          "title": "Why TV Lost",
+          "imageUrl": null
+        },
+        {
+          "id": "http://www.paulgraham.com/maybe.html",
+          "author": null,
+          "description": "",
+          "link": "http://www.paulgraham.com/maybe.html",
+          "publishedOn": "2024-09-01T21:43:50.260Z",
+          "wordCount": 2092,
+          "title": "Can You Buy a Silicon Valley?  Maybe.",
+          "imageUrl": null
+        },
+        {
+          "id": "http://www.paulgraham.com/googles.html",
+          "author": null,
+          "description": "",
+          "link": "http://www.paulgraham.com/googles.html",
+          "publishedOn": "2024-09-01T21:43:50.257Z",
+          "wordCount": 1528,
+          "title": "Why There Aren't More Googles",
+          "imageUrl": null
+        },
+        {
+          "id": "http://www.paulgraham.com/die.html",
+          "author": null,
+          "description": "",
+          "link": "http://www.paulgraham.com/die.html",
+          "publishedOn": "2024-09-01T21:43:50.256Z",
+          "wordCount": 2164,
+          "title": "How Not to Die",
+          "imageUrl": null
+        },
+        {
+          "id": "http://www.paulgraham.com/ycombinator.html",
+          "author": null,
+          "description": "",
+          "link": "http://www.paulgraham.com/ycombinator.html",
+          "publishedOn": "2024-09-01T21:43:50.229Z",
+          "wordCount": 2179,
+          "title": "A New Venture Animal",
+          "imageUrl": null
+        },
+        {
+          "id": "http://www.paulgraham.com/heroes.html",
+          "author": null,
+          "description": "",
+          "link": "http://www.paulgraham.com/heroes.html",
+          "publishedOn": "2024-09-01T21:43:50.219Z",
+          "wordCount": 2867,
+          "title": "Some Heroes",
+          "imageUrl": null
+        },
+        {
+          "id": "http://www.paulgraham.com/newthings.html",
+          "author": null,
+          "description": "",
+          "link": "http://www.paulgraham.com/newthings.html",
+          "publishedOn": "2024-09-01T21:43:50.217Z",
+          "wordCount": 1371,
+          "title": "Six Principles for Making New Things",
+          "imageUrl": null
+        },
+        {
+          "id": "http://www.paulgraham.com/makersschedule.html",
+          "author": null,
+          "description": "",
+          "link": "http://www.paulgraham.com/makersschedule.html",
+          "publishedOn": "2024-09-01T21:43:50.215Z",
+          "wordCount": 1359,
+          "title": "Maker's Schedule, Manager's Schedule",
+          "imageUrl": null
+        },
+        {
+          "id": "http://www.paulgraham.com/founders.html",
+          "author": null,
+          "description": "",
+          "link": "http://www.paulgraham.com/founders.html",
+          "publishedOn": "2024-09-01T21:43:50.212Z",
+          "wordCount": 1005,
+          "title": "What We Look for in Founders",
+          "imageUrl": null
+        },
+        {
+          "id": "http://www.paulgraham.com/prcmc.html",
+          "author": null,
+          "description": "",
+          "link": "http://www.paulgraham.com/prcmc.html",
+          "publishedOn": "2024-09-01T21:43:50.211Z",
+          "wordCount": 1457,
+          "title": "The Pooled-Risk Company Management Company",
+          "imageUrl": null
+        },
+        {
+          "id": "http://www.paulgraham.com/disagree.html",
+          "author": null,
+          "description": "",
+          "link": "http://www.paulgraham.com/disagree.html",
+          "publishedOn": "2024-09-01T21:43:50.179Z",
+          "wordCount": 1701,
+          "title": "How to Disagree",
+          "imageUrl": null
+        },
+        {
+          "id": "http://www.paulgraham.com/lies.html",
+          "author": null,
+          "description": "",
+          "link": "http://www.paulgraham.com/lies.html",
+          "publishedOn": "2024-09-01T21:43:50.176Z",
+          "wordCount": 5387,
+          "title": "Lies We Tell Kids",
+          "imageUrl": null
+        },
+        {
+          "id": "http://www.paulgraham.com/boss.html",
+          "author": null,
+          "description": "",
+          "link": "http://www.paulgraham.com/boss.html",
+          "publishedOn": "2024-09-01T21:43:50.166Z",
+          "wordCount": 2712,
+          "title": "You Weren't Meant to Have a Boss",
+          "imageUrl": null
+        },
+        {
+          "id": "http://www.paulgraham.com/really.html",
+          "author": null,
+          "description": "",
+          "link": "http://www.paulgraham.com/really.html",
+          "publishedOn": "2024-09-01T21:43:50.163Z",
+          "wordCount": 5244,
+          "title": "What Startups Are Really Like",
+          "imageUrl": null
+        },
+        {
+          "id": "http://www.paulgraham.com/equity.html",
+          "author": null,
+          "description": "",
+          "link": "http://www.paulgraham.com/equity.html",
+          "publishedOn": "2024-09-01T21:43:50.159Z",
+          "wordCount": 1326,
+          "title": "The Equity Equation",
+          "imageUrl": null
+        },
+        {
+          "id": "http://www.paulgraham.com/organic.html",
+          "author": null,
+          "description": "",
+          "link": "http://www.paulgraham.com/organic.html",
+          "publishedOn": "2024-09-01T21:43:50.145Z",
+          "wordCount": 1205,
+          "title": "Organic Startup Ideas",
+          "imageUrl": null
+        },
+        {
+          "id": "http://www.paulgraham.com/nthings.html",
+          "author": null,
+          "description": "",
+          "link": "http://www.paulgraham.com/nthings.html",
+          "publishedOn": "2024-09-01T21:43:50.142Z",
+          "wordCount": 1646,
+          "title": "The List of N Things",
+          "imageUrl": null
+        },
+        {
+          "id": "http://www.paulgraham.com/ramenprofitable.html",
+          "author": null,
+          "description": "",
+          "link": "http://www.paulgraham.com/ramenprofitable.html",
+          "publishedOn": "2024-09-01T21:43:50.138Z",
+          "wordCount": 2024,
+          "title": "Ramen Profitable",
+          "imageUrl": null
+        },
+        {
+          "id": "http://www.paulgraham.com/relres.html",
+          "author": null,
+          "description": "",
+          "link": "http://www.paulgraham.com/relres.html",
+          "publishedOn": "2024-09-01T21:43:50.136Z",
+          "wordCount": 1202,
+          "title": "Relentlessly Resourceful",
+          "imageUrl": null
+        },
+        {
+          "id": "http://www.paulgraham.com/segway.html",
+          "author": null,
+          "description": "",
+          "link": "http://www.paulgraham.com/segway.html",
+          "publishedOn": "2024-09-01T21:43:50.135Z",
+          "wordCount": 591,
+          "title": "The Trouble with the Segway",
+          "imageUrl": null
+        },
+        {
+          "id": "http://www.paulgraham.com/top.html",
+          "author": null,
+          "description": "",
+          "link": "http://www.paulgraham.com/top.html",
+          "publishedOn": "2024-09-01T21:43:50.128Z",
+          "wordCount": 1366,
+          "title": "The Top Idea in Your Mind",
+          "imageUrl": null
+        },
+        {
+          "id": "http://www.paulgraham.com/good.html",
+          "author": null,
+          "description": "",
+          "link": "http://www.paulgraham.com/good.html",
+          "publishedOn": "2024-09-01T21:43:50.124Z",
+          "wordCount": 3109,
+          "title": "Be Good",
+          "imageUrl": null
+        },
+        {
+          "id": "http://www.paulgraham.com/badeconomy.html",
+          "author": null,
+          "description": "",
+          "link": "http://www.paulgraham.com/badeconomy.html",
+          "publishedOn": "2024-09-01T21:43:50.121Z",
+          "wordCount": 1314,
+          "title": "Why to Start a Startup in a Bad Economy",
+          "imageUrl": null
+        },
+        {
+          "id": "http://www.paulgraham.com/13sentences.html",
+          "author": null,
+          "description": "",
+          "link": "http://www.paulgraham.com/13sentences.html",
+          "publishedOn": "2024-09-01T21:43:50.120Z",
+          "wordCount": 1511,
+          "title": "Startups in 13 Sentences",
+          "imageUrl": null
+        },
+        {
+          "id": "http://www.paulgraham.com/angelinvesting.html",
+          "author": null,
+          "description": "",
+          "link": "http://www.paulgraham.com/angelinvesting.html",
+          "publishedOn": "2024-09-01T21:43:50.118Z",
+          "wordCount": 4107,
+          "title": "How to Be an Angel Investor",
+          "imageUrl": null
+        },
+        {
+          "id": "http://www.paulgraham.com/apple.html",
+          "author": null,
+          "description": "",
+          "link": "http://www.paulgraham.com/apple.html",
+          "publishedOn": "2024-09-01T21:43:50.107Z",
+          "wordCount": 2320,
+          "title": "Apple's Mistake",
+          "imageUrl": null
+        },
+        {
+          "id": "http://www.paulgraham.com/control.html",
+          "author": null,
+          "description": "",
+          "link": "http://www.paulgraham.com/control.html",
+          "publishedOn": "2024-09-01T21:43:50.105Z",
+          "wordCount": 982,
+          "title": "Founder Control",
+          "imageUrl": null
+        },
+        {
+          "id": "http://www.paulgraham.com/speak.html",
+          "author": null,
+          "description": "",
+          "link": "http://www.paulgraham.com/speak.html",
+          "publishedOn": "2024-09-01T21:43:50.100Z",
+          "wordCount": 1396,
+          "title": "Writing and Speaking",
+          "imageUrl": null
+        },
+        {
+          "id": "http://www.paulgraham.com/startupideas.html",
+          "author": null,
+          "description": "",
+          "link": "http://www.paulgraham.com/startupideas.html",
+          "publishedOn": "2024-09-01T21:43:50.098Z",
+          "wordCount": 7333,
+          "title": "How to Get Startup Ideas",
+          "imageUrl": null
+        },
+        {
+          "id": "http://www.paulgraham.com/aord.html",
+          "author": null,
+          "description": "",
+          "link": "http://www.paulgraham.com/aord.html",
+          "publishedOn": "2024-09-01T21:43:50.088Z",
+          "wordCount": 1691,
+          "title": "Default Alive or Default Dead?",
+          "imageUrl": null
+        },
+        {
+          "id": "http://www.paulgraham.com/herd.html",
+          "author": null,
+          "description": "",
+          "link": "http://www.paulgraham.com/herd.html",
+          "publishedOn": "2024-09-01T21:43:50.086Z",
+          "wordCount": 1309,
+          "title": "Investor Herd Dynamics",
+          "imageUrl": null
+        },
+        {
+          "id": "http://www.paulgraham.com/superangels.html",
+          "author": null,
+          "description": "",
+          "link": "http://www.paulgraham.com/superangels.html",
+          "publishedOn": "2024-09-01T21:43:50.084Z",
+          "wordCount": 3747,
+          "title": "The New Funding Landscape",
+          "imageUrl": null
+        },
+        {
+          "id": "http://www.paulgraham.com/swan.html",
+          "author": null,
+          "description": "",
+          "link": "http://www.paulgraham.com/swan.html",
+          "publishedOn": "2024-09-01T21:43:50.081Z",
+          "wordCount": 2342,
+          "title": "Black Swan Farming",
+          "imageUrl": null
+        },
+        {
+          "id": "http://www.paulgraham.com/determination.html",
+          "author": null,
+          "description": "",
+          "link": "http://www.paulgraham.com/determination.html",
+          "publishedOn": "2024-09-01T21:43:50.079Z",
+          "wordCount": 1690,
+          "title": "The Anatomy of Determination",
+          "imageUrl": null
+        },
+        {
+          "id": "http://www.paulgraham.com/publishing.html",
+          "author": null,
+          "description": "",
+          "link": "http://www.paulgraham.com/publishing.html",
+          "publishedOn": "2024-09-01T21:43:50.076Z",
+          "wordCount": 1953,
+          "title": "Post-Medium Publishing",
+          "imageUrl": null
+        },
+        {
+          "id": "http://www.paulgraham.com/hiresfund.html",
+          "author": null,
+          "description": "",
+          "link": "http://www.paulgraham.com/hiresfund.html",
+          "publishedOn": "2024-09-01T21:43:50.073Z",
+          "wordCount": 917,
+          "title": "High Resolution Fundraising",
+          "imageUrl": null
+        },
+        {
+          "id": "http://www.paulgraham.com/schlep.html",
+          "author": null,
+          "description": "",
+          "link": "http://www.paulgraham.com/schlep.html",
+          "publishedOn": "2024-09-01T21:43:50.071Z",
+          "wordCount": 1053,
+          "title": "Schlep Blindness",
+          "imageUrl": null
+        },
+        {
+          "id": "http://www.paulgraham.com/before.html",
+          "author": null,
+          "description": "",
+          "link": "http://www.paulgraham.com/before.html",
+          "publishedOn": "2024-09-01T21:43:50.069Z",
+          "wordCount": 4754,
+          "title": "Before the Startup",
+          "imageUrl": null
+        },
+        {
+          "id": "http://www.paulgraham.com/airbnb.html",
+          "author": null,
+          "description": "",
+          "link": "http://www.paulgraham.com/airbnb.html",
+          "publishedOn": "2024-09-01T21:43:50.059Z",
+          "wordCount": 1502,
+          "title": "Subject: Airbnb",
+          "imageUrl": null
+        },
+        {
+          "id": "http://www.paulgraham.com/hubs.html",
+          "author": null,
+          "description": "",
+          "link": "http://www.paulgraham.com/hubs.html",
+          "publishedOn": "2024-09-01T21:43:50.056Z",
+          "wordCount": 1991,
+          "title": "Why Startup Hubs Work",
+          "imageUrl": null
+        },
+        {
+          "id": "http://www.paulgraham.com/vw.html",
+          "author": null,
+          "description": "",
+          "link": "http://www.paulgraham.com/vw.html",
+          "publishedOn": "2024-09-01T21:43:50.054Z",
+          "wordCount": 1071,
+          "title": "Snapshot: Viaweb, June 1998",
+          "imageUrl": null
+        },
+        {
+          "id": "http://www.paulgraham.com/fr.html",
+          "author": null,
+          "description": "",
+          "link": "http://www.paulgraham.com/fr.html",
+          "publishedOn": "2024-09-01T21:43:50.053Z",
+          "wordCount": 10746,
+          "title": "How to Raise Money",
+          "imageUrl": null
+        },
+        {
+          "id": "http://www.paulgraham.com/yahoo.html",
+          "author": null,
+          "description": "",
+          "link": "http://www.paulgraham.com/yahoo.html",
+          "publishedOn": "2024-09-01T21:43:50.047Z",
+          "wordCount": 2230,
+          "title": "What Happened to Yahoo",
+          "imageUrl": null
+        },
+        {
+          "id": "http://www.paulgraham.com/identity.html",
+          "author": null,
+          "description": "",
+          "link": "http://www.paulgraham.com/identity.html",
+          "publishedOn": "2024-09-01T21:43:50.044Z",
+          "wordCount": 1071,
+          "title": "Keep Your Identity Small",
+          "imageUrl": null
+        },
+        {
+          "id": "http://www.paulgraham.com/growth.html",
+          "author": null,
+          "description": "",
+          "link": "http://www.paulgraham.com/growth.html",
+          "publishedOn": "2024-09-01T21:43:50.043Z",
+          "wordCount": 5500,
+          "title": "Startup = Growth",
+          "imageUrl": null
+        },
+        {
+          "id": "http://www.paulgraham.com/divergence.html",
+          "author": null,
+          "description": "",
+          "link": "http://www.paulgraham.com/divergence.html",
+          "publishedOn": "2024-09-01T21:43:50.033Z",
+          "wordCount": 1556,
+          "title": "Could VC be a Casualty of the Recession?",
+          "imageUrl": null
+        },
+        {
+          "id": "http://www.paulgraham.com/patentpledge.html",
+          "author": null,
+          "description": "",
+          "link": "http://www.paulgraham.com/patentpledge.html",
+          "publishedOn": "2024-09-01T21:43:50.031Z",
+          "wordCount": 888,
+          "title": "The Patent Pledge",
+          "imageUrl": null
+        },
+        {
+          "id": "http://www.paulgraham.com/addiction.html",
+          "author": null,
+          "description": "",
+          "link": "http://www.paulgraham.com/addiction.html",
+          "publishedOn": "2024-09-01T21:43:50.029Z",
+          "wordCount": 1471,
+          "title": "The Acceleration of Addictiveness",
+          "imageUrl": null
+        },
+        {
+          "id": "http://www.paulgraham.com/invtrend.html",
+          "author": null,
+          "description": "",
+          "link": "http://www.paulgraham.com/invtrend.html",
+          "publishedOn": "2024-09-01T21:43:50.025Z",
+          "wordCount": 3127,
+          "title": "Startup Investing Trends",
+          "imageUrl": null
+        },
+        {
+          "id": "http://www.paulgraham.com/ds.html",
+          "author": null,
+          "description": "",
+          "link": "http://www.paulgraham.com/ds.html",
+          "publishedOn": "2024-09-01T21:43:50.012Z",
+          "wordCount": 4508,
+          "title": "Do Things that Don't Scale",
+          "imageUrl": null
+        },
+        {
+          "id": "http://www.paulgraham.com/ambitious.html",
+          "author": null,
+          "description": "",
+          "link": "http://www.paulgraham.com/ambitious.html",
+          "publishedOn": "2024-09-01T21:43:50.004Z",
+          "wordCount": 3942,
+          "title": "Frighteningly Ambitious Startup Ideas",
+          "imageUrl": null
+        },
+        {
+          "id": "http://www.paulgraham.com/jessica.html",
+          "author": null,
+          "description": "",
+          "link": "http://www.paulgraham.com/jessica.html",
+          "publishedOn": "2024-09-01T21:43:50.001Z",
+          "wordCount": 2153,
+          "title": "Jessica Livingston",
+          "imageUrl": null
+        },
+        {
+          "id": "http://www.paulgraham.com/todo.html",
+          "author": null,
+          "description": "",
+          "link": "http://www.paulgraham.com/todo.html",
+          "publishedOn": "2024-09-01T21:43:49.998Z",
+          "wordCount": 450,
+          "title": "The Top of My Todo List",
+          "imageUrl": null
+        },
+        {
+          "id": "http://www.paulgraham.com/pgh.html",
+          "author": null,
+          "description": "",
+          "link": "http://www.paulgraham.com/pgh.html",
+          "publishedOn": "2024-09-01T21:43:49.982Z",
+          "wordCount": 2820,
+          "title": "How to Make Pittsburgh a Startup Hub",
+          "imageUrl": null
+        },
+        {
+          "id": "http://www.paulgraham.com/mean.html",
+          "author": null,
+          "description": "",
+          "link": "http://www.paulgraham.com/mean.html",
+          "publishedOn": "2024-09-01T21:43:49.980Z",
+          "wordCount": 1337,
+          "title": "Mean People Fail",
+          "imageUrl": null
+        },
+        {
+          "id": "http://www.paulgraham.com/vb.html",
+          "author": null,
+          "description": "",
+          "link": "http://www.paulgraham.com/vb.html",
+          "publishedOn": "2024-09-01T21:43:49.977Z",
+          "wordCount": 1866,
+          "title": "Life is Short",
+          "imageUrl": null
+        },
+        {
+          "id": "http://www.paulgraham.com/pinch.html",
+          "author": null,
+          "description": "",
+          "link": "http://www.paulgraham.com/pinch.html",
+          "publishedOn": "2024-09-01T21:43:49.974Z",
+          "wordCount": 1792,
+          "title": "The Fatal Pinch",
+          "imageUrl": null
+        },
+        {
+          "id": "http://www.paulgraham.com/ecw.html",
+          "author": null,
+          "description": "",
+          "link": "http://www.paulgraham.com/ecw.html",
+          "publishedOn": "2024-09-01T21:43:49.971Z",
+          "wordCount": 1267,
+          "title": "How to Be an Expert in a Changing World",
+          "imageUrl": null
+        },
+        {
+          "id": "http://www.paulgraham.com/ineq.html",
+          "author": null,
+          "description": "",
+          "link": "http://www.paulgraham.com/ineq.html",
+          "publishedOn": "2024-09-01T21:43:49.968Z",
+          "wordCount": 3595,
+          "title": "Economic Inequality",
+          "imageUrl": null
+        },
+        {
+          "id": "http://www.paulgraham.com/altair.html",
+          "author": null,
+          "description": "",
+          "link": "http://www.paulgraham.com/altair.html",
+          "publishedOn": "2024-09-01T21:43:49.960Z",
+          "wordCount": 593,
+          "title": "What Microsoft Is this the Altair Basic of?",
+          "imageUrl": null
+        },
+        {
+          "id": "http://www.paulgraham.com/disc.html",
+          "author": null,
+          "description": "",
+          "link": "http://www.paulgraham.com/disc.html",
+          "publishedOn": "2024-09-01T21:43:49.959Z",
+          "wordCount": 431,
+          "title": "The Risk of Discovery",
+          "imageUrl": null
+        },
+        {
+          "id": "http://www.paulgraham.com/name.html",
+          "author": null,
+          "description": "",
+          "link": "http://www.paulgraham.com/name.html",
+          "publishedOn": "2024-09-01T21:43:49.923Z",
+          "wordCount": 959,
+          "title": "Change Your Name",
+          "imageUrl": null
+        },
+        {
+          "id": "http://www.paulgraham.com/bias.html",
+          "author": null,
+          "description": "",
+          "link": "http://www.paulgraham.com/bias.html",
+          "publishedOn": "2024-09-01T21:43:49.919Z",
+          "wordCount": 777,
+          "title": "A Way to Detect Bias",
+          "imageUrl": null
+        },
+        {
+          "id": "http://www.paulgraham.com/re.html",
+          "author": null,
+          "description": "",
+          "link": "http://www.paulgraham.com/re.html",
+          "publishedOn": "2024-09-01T21:43:49.913Z",
+          "wordCount": 7297,
+          "title": "The Refragmentation",
+          "imageUrl": null
+        },
+        {
+          "id": "http://www.paulgraham.com/genius.html",
+          "author": null,
+          "description": "",
+          "link": "http://www.paulgraham.com/genius.html",
+          "publishedOn": "2024-09-01T21:43:49.863Z",
+          "wordCount": 2812,
+          "title": "The Bus Ticket Theory of Genius",
+          "imageUrl": null
+        },
+        {
+          "id": "http://www.paulgraham.com/ace.html",
+          "author": null,
+          "description": "",
+          "link": "http://www.paulgraham.com/ace.html",
+          "publishedOn": "2024-09-01T21:43:49.851Z",
+          "wordCount": 3590,
+          "title": "Billionaires Build",
+          "imageUrl": null
+        },
+        {
+          "id": "http://www.paulgraham.com/kids.html",
+          "author": null,
+          "description": "",
+          "link": "http://www.paulgraham.com/kids.html",
+          "publishedOn": "2024-09-01T21:43:49.847Z",
+          "wordCount": 1728,
+          "title": "Having Kids",
+          "imageUrl": null
+        },
+        {
+          "id": "http://www.paulgraham.com/mod.html",
+          "author": null,
+          "description": "",
+          "link": "http://www.paulgraham.com/mod.html",
+          "publishedOn": "2024-09-01T21:43:49.844Z",
+          "wordCount": 876,
+          "title": "The Two Kinds of Moderate",
+          "imageUrl": null
+        },
+        {
+          "id": "http://www.paulgraham.com/fh.html",
+          "author": null,
+          "description": "",
+          "link": "http://www.paulgraham.com/fh.html",
+          "publishedOn": "2024-09-01T21:43:49.842Z",
+          "wordCount": 1584,
+          "title": "Haters",
+          "imageUrl": null
+        },
+        {
+          "id": "http://www.paulgraham.com/lesson.html",
+          "author": null,
+          "description": "",
+          "link": "http://www.paulgraham.com/lesson.html",
+          "publishedOn": "2024-09-01T21:43:49.836Z",
+          "wordCount": 4202,
+          "title": "The Lesson to Unlearn",
+          "imageUrl": null
+        },
+        {
+          "id": "http://www.paulgraham.com/fp.html",
+          "author": null,
+          "description": "",
+          "link": "http://www.paulgraham.com/fp.html",
+          "publishedOn": "2024-09-01T21:43:49.829Z",
+          "wordCount": 405,
+          "title": "Fashionable Problems",
+          "imageUrl": null
+        },
+        {
+          "id": "http://www.paulgraham.com/wtax.html",
+          "author": null,
+          "description": "",
+          "link": "http://www.paulgraham.com/wtax.html",
+          "publishedOn": "2024-09-01T21:43:49.827Z",
+          "wordCount": 630,
+          "title": "Modeling a Wealth Tax",
+          "imageUrl": null
+        },
+        {
+          "id": "http://www.paulgraham.com/nov.html",
+          "author": null,
+          "description": "",
+          "link": "http://www.paulgraham.com/nov.html",
+          "publishedOn": "2024-09-01T21:43:49.817Z",
+          "wordCount": 472,
+          "title": "Novelty and Heresy",
+          "imageUrl": null
+        },
+        {
+          "id": "http://www.paulgraham.com/early.html",
+          "author": null,
+          "description": "",
+          "link": "http://www.paulgraham.com/early.html",
+          "publishedOn": "2024-09-01T21:43:49.815Z",
+          "wordCount": 2683,
+          "title": "Early Work",
+          "imageUrl": null
+        },
+        {
+          "id": "http://www.paulgraham.com/pow.html",
+          "author": null,
+          "description": "",
+          "link": "http://www.paulgraham.com/pow.html",
+          "publishedOn": "2024-09-01T21:43:49.811Z",
+          "wordCount": 336,
+          "title": "Charisma / Power",
+          "imageUrl": null
+        },
+        {
+          "id": "http://www.paulgraham.com/think.html",
+          "author": null,
+          "description": "",
+          "link": "http://www.paulgraham.com/think.html",
+          "publishedOn": "2024-09-01T21:43:49.810Z",
+          "wordCount": 3614,
+          "title": "How to Think for Yourself",
+          "imageUrl": null
+        },
+        {
+          "id": "http://www.paulgraham.com/noob.html",
+          "author": null,
+          "description": "",
+          "link": "http://www.paulgraham.com/noob.html",
+          "publishedOn": "2024-09-01T21:43:49.806Z",
+          "wordCount": 590,
+          "title": "Being a Noob",
+          "imageUrl": null
+        },
+        {
+          "id": "http://www.paulgraham.com/worked.html",
+          "author": null,
+          "description": "",
+          "link": "http://www.paulgraham.com/worked.html",
+          "publishedOn": "2024-09-01T21:43:49.804Z",
+          "wordCount": 13860,
+          "title": "What I Worked On",
+          "imageUrl": null
+        },
+        {
+          "id": "http://www.paulgraham.com/cred.html",
+          "author": null,
+          "description": "",
+          "link": "http://www.paulgraham.com/cred.html",
+          "publishedOn": "2024-09-01T21:43:49.789Z",
+          "wordCount": 451,
+          "title": "Coronavirus and Credibility",
+          "imageUrl": null
+        },
+        {
+          "id": "http://www.paulgraham.com/useful.html",
+          "author": null,
+          "description": "",
+          "link": "http://www.paulgraham.com/useful.html",
+          "publishedOn": "2024-09-01T21:43:49.787Z",
+          "wordCount": 3033,
+          "title": "How to Write Usefully",
+          "imageUrl": null
+        },
+        {
+          "id": "http://www.paulgraham.com/conformism.html",
+          "author": null,
+          "description": "",
+          "link": "http://www.paulgraham.com/conformism.html",
+          "publishedOn": "2024-09-01T21:43:49.785Z",
+          "wordCount": 2161,
+          "title": "The Four Quadrants of Conformism",
+          "imageUrl": null
+        },
+        {
+          "id": "http://www.paulgraham.com/earnest.html",
+          "author": null,
+          "description": "",
+          "link": "http://www.paulgraham.com/earnest.html",
+          "publishedOn": "2024-09-01T21:43:49.772Z",
+          "wordCount": 1856,
+          "title": "Earnestness",
+          "imageUrl": null
+        },
+        {
+          "id": "http://www.paulgraham.com/orth.html",
+          "author": null,
+          "description": "",
+          "link": "http://www.paulgraham.com/orth.html",
+          "publishedOn": "2024-09-01T21:43:49.753Z",
+          "wordCount": 855,
+          "title": "Orthodox Privilege",
+          "imageUrl": null
+        },
+        {
+          "id": "http://www.paulgraham.com/richnow.html",
+          "author": null,
+          "description": "",
+          "link": "http://www.paulgraham.com/richnow.html",
+          "publishedOn": "2024-09-01T21:43:49.741Z",
+          "wordCount": 2755,
+          "title": "How People Get Rich Now",
+          "imageUrl": null
+        },
+        {
+          "id": "http://www.paulgraham.com/donate.html",
+          "author": null,
+          "description": "",
+          "link": "http://www.paulgraham.com/donate.html",
+          "publishedOn": "2024-09-01T21:43:49.736Z",
+          "wordCount": 693,
+          "title": "Donate Unrestricted",
+          "imageUrl": null
+        },
+        {
+          "id": "http://www.paulgraham.com/simply.html",
+          "author": null,
+          "description": "",
+          "link": "http://www.paulgraham.com/simply.html",
+          "publishedOn": "2024-09-01T21:43:49.722Z",
+          "wordCount": 712,
+          "title": "Write Simply",
+          "imageUrl": null
+        },
+        {
+          "id": "http://www.paulgraham.com/words.html",
+          "author": null,
+          "description": "",
+          "link": "http://www.paulgraham.com/words.html",
+          "publishedOn": "2024-09-01T21:43:49.665Z",
+          "wordCount": 1368,
+          "title": "Putting Ideas into Words",
+          "imageUrl": null
+        },
+        {
+          "id": "http://www.paulgraham.com/hwh.html",
+          "author": null,
+          "description": "",
+          "link": "http://www.paulgraham.com/hwh.html",
+          "publishedOn": "2024-09-01T21:43:49.663Z",
+          "wordCount": 3488,
+          "title": "How to Work Hard",
+          "imageUrl": null
+        },
+        {
+          "id": "http://www.paulgraham.com/newideas.html",
+          "author": null,
+          "description": "",
+          "link": "http://www.paulgraham.com/newideas.html",
+          "publishedOn": "2024-09-01T21:43:49.648Z",
+          "wordCount": 1518,
+          "title": "Crazy New Ideas",
+          "imageUrl": null
+        },
+        {
+          "id": "http://www.paulgraham.com/smart.html",
+          "author": null,
+          "description": "",
+          "link": "http://www.paulgraham.com/smart.html",
+          "publishedOn": "2024-09-01T21:43:49.645Z",
+          "wordCount": 1618,
+          "title": "Beyond Smart",
+          "imageUrl": null
+        },
+        {
+          "id": "http://www.paulgraham.com/real.html",
+          "author": null,
+          "description": "",
+          "link": "http://www.paulgraham.com/real.html",
+          "publishedOn": "2024-09-01T21:43:49.643Z",
+          "wordCount": 987,
+          "title": "The Real Reason to End the Death Penalty",
+          "imageUrl": null
+        },
+        {
+          "id": "http://www.paulgraham.com/users.html",
+          "author": null,
+          "description": "",
+          "link": "http://www.paulgraham.com/users.html",
+          "publishedOn": "2024-09-01T21:43:49.640Z",
+          "wordCount": 2380,
+          "title": "What I've Learned from Users",
+          "imageUrl": null
+        },
+        {
+          "id": "http://www.paulgraham.com/goodtaste.html",
+          "author": null,
+          "description": "",
+          "link": "http://www.paulgraham.com/goodtaste.html",
+          "publishedOn": "2024-09-01T21:43:49.636Z",
+          "wordCount": 1331,
+          "title": "Is There Such a Thing as Good Taste?",
+          "imageUrl": null
+        },
+        {
+          "id": "http://www.paulgraham.com/heresy.html",
+          "author": null,
+          "description": "",
+          "link": "http://www.paulgraham.com/heresy.html",
+          "publishedOn": "2024-09-01T21:43:49.634Z",
+          "wordCount": 2292,
+          "title": "Heresy",
+          "imageUrl": null
+        },
+        {
+          "id": "http://www.paulgraham.com/own.html",
+          "author": null,
+          "description": "",
+          "link": "http://www.paulgraham.com/own.html",
+          "publishedOn": "2024-09-01T21:43:49.632Z",
+          "wordCount": 2699,
+          "title": "A Project of One's Own",
+          "imageUrl": null
+        },
+        {
+          "id": "http://www.paulgraham.com/weird.html",
+          "author": null,
+          "description": "",
+          "link": "http://www.paulgraham.com/weird.html",
+          "publishedOn": "2024-09-01T21:43:49.621Z",
+          "wordCount": 560,
+          "title": "Weird Languages",
+          "imageUrl": null
+        },
+        {
+          "id": "http://www.paulgraham.com/fn.html",
+          "author": null,
+          "description": "",
+          "link": "http://www.paulgraham.com/fn.html",
+          "publishedOn": "2024-09-01T21:43:49.613Z",
+          "wordCount": 1446,
+          "title": "Fierce Nerds",
+          "imageUrl": null
+        },
+        {
+          "id": "http://www.paulgraham.com/want.html",
+          "author": null,
+          "description": "",
+          "link": "http://www.paulgraham.com/want.html",
+          "publishedOn": "2024-09-01T21:43:48.544Z",
+          "wordCount": 722,
+          "title": "What You (Want to)* Want",
+          "imageUrl": null
+        },
+        {
+          "id": "http://www.paulgraham.com/greatwork.html",
+          "author": null,
+          "description": "",
+          "link": "http://www.paulgraham.com/greatwork.html",
+          "publishedOn": "2024-09-01T21:43:48.392Z",
+          "wordCount": 11838,
+          "title": "How to Do Great Work",
+          "imageUrl": null
+        },
+        {
+          "id": "http://www.paulgraham.com/superlinear.html",
+          "author": null,
+          "description": "",
+          "link": "http://www.paulgraham.com/superlinear.html",
+          "publishedOn": "2024-09-01T21:43:48.355Z",
+          "wordCount": 4411,
+          "title": "Superlinear Returns",
+          "imageUrl": null
         }
       ]
     },
     {
-      "title": "Articles on Smashing Magazine — For Web Designers And Developers",
-      "feedUrl": "https://www.smashingmagazine.com/feed/",
-      "siteUrl": "https://www.smashingmagazine.com/",
+      "title": "Hacker News: Newest",
+      "feedUrl": "https://hnrss.org/newest?points=500",
+      "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
-          "id": "https://smashingmagazine.com/2021/11/smashing-podcast-episode-44/",
-          "author": "hello@smashingmagazine.com (Drew McLellan)",
-          "description": "In this episode, we’re asking if changes to best practises over the last year have negatively impacted the web. Is it all downhill from here? Drew McLellan talks to expert Chris Ferdinandi to find out.",
-          "link": "https://smashingmagazine.com/2021/11/smashing-podcast-episode-44/",
-          "publishedOn": "2021-11-30T14:00:00.000Z",
-          "wordCount": 8722,
-          "title": "Smashing Podcast Episode 44 With Chris Ferdinandi: Is The Web Dead?",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/fa0481fb-1555-40f1-94c2-014b5553f45f/smashing-podcast-episode-44.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
+          "id": "https://news.ycombinator.com/item?id=41415023",
+          "author": "bifftastic",
+          "description": "Article URL: https://paulgraham.com/foundermode.html\nComments URL: https://news.ycombinator.com/item?id=41415023\nPoints: 744\n# Comments: 442",
+          "link": "https://paulgraham.com/foundermode.html",
+          "publishedOn": "2024-09-01T07:35:23.000Z",
+          "wordCount": 1441,
+          "title": "Founder Mode",
+          "imageUrl": null
         },
         {
-          "id": "https://smashingmagazine.com/2021/11/desktop-wallpaper-calendars-december-2021/",
-          "author": "hello@smashingmagazine.com (Cosima Mielke)",
-          "description": "Let’s welcome December with some new wallpapers! Designed by artists and designers from across the globe, they are available with and without a calendar for the month. Enjoy!",
-          "link": "https://smashingmagazine.com/2021/11/desktop-wallpaper-calendars-december-2021/",
-          "publishedOn": "2021-11-30T09:45:00.000Z",
-          "wordCount": 2814,
-          "title": "It’s That Time Of The Year (December 2021 Desktop Wallpapers Edition)",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/9b96c8c2-9305-4a64-aa40-cf22662ea698/dec-21-winter-holidays-preview-opt.png",
-            "length": "0",
-            "type": "image/png"
-          }
+          "id": "https://news.ycombinator.com/item?id=41412256",
+          "author": "mdp2021",
+          "description": "Article URL: https://magazine.sebastianraschka.com/p/building-llms-from-the-ground-up\nComments URL: https://news.ycombinator.com/item?id=41412256\nPoints: 830\n# Comments: 99",
+          "link": "https://magazine.sebastianraschka.com/p/building-llms-from-the-ground-up",
+          "publishedOn": "2024-08-31T21:45:59.000Z",
+          "wordCount": 1437,
+          "title": "Building LLMs from the Ground Up: A 3-Hour Coding Workshop",
+          "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F367b547c-9d22-4a3d-b466-1d56ccc6b055_1844x1224.png"
         },
         {
-          "id": "https://smashingmagazine.com/2021/11/3d-css-flippy-snaps-react-greensock/",
-          "author": "hello@smashingmagazine.com (Jhey Tompkins)",
-          "description": "One of Jhey’s main mantras is to make learning fun.  In this article, he shows you ways to level up your skills by bringing your ideas to life, and not forgetting that [you can be playful with code](https://www.smashingmagazine.com/2020/11/playfulness-code-supercharge-fun-learning/). With that mindset, every idea is bound to become an opportunity to try something new.",
-          "link": "https://smashingmagazine.com/2021/11/3d-css-flippy-snaps-react-greensock/",
-          "publishedOn": "2021-11-29T12:30:00.000Z",
-          "wordCount": 3237,
-          "title": "3D CSS Flippy Snaps With React And GreenSock",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/a865f227-d5a1-4a63-a889-288a84fa2bce/3d-css-flippy-snaps-react-greensock.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
+          "id": "https://news.ycombinator.com/item?id=41408772",
+          "author": "nkurz",
+          "description": "Article URL: https://old.reddit.com/r/BuyBorrowDieExplained/comments/1f26rsf/buy_borrow_die_explained/\nComments URL: https://news.ycombinator.com/item?id=41408772\nPoints: 509\n# Comments: 420",
+          "link": "https://old.reddit.com/r/BuyBorrowDieExplained/comments/1f26rsf/buy_borrow_die_explained/",
+          "publishedOn": "2024-08-31T13:35:05.000Z",
+          "wordCount": null,
+          "title": "Buy, Borrow, Die – Explained",
+          "imageUrl": null
         },
         {
-          "id": "https://smashingmagazine.com/2021/11/maintain-large-nextjs-application/",
-          "author": "hello@smashingmagazine.com (Nirmalya Ghosh)",
-          "description": "In this article, Nirmalya discusses some of the complex problems that he faced while building and maintaining large Next.js applications. He always explains how these problems can be solved by using various tools.",
-          "link": "https://smashingmagazine.com/2021/11/maintain-large-nextjs-application/",
-          "publishedOn": "2021-11-26T12:30:00.000Z",
-          "wordCount": 2622,
-          "title": "How To Maintain A Large Next.js Application",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/d36d3a50-0f3f-402e-9ceb-8164b41065bc/maintain-large-nextjs-application.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
+          "id": "https://news.ycombinator.com/item?id=41406550",
+          "author": "wojtczyk",
+          "description": "Article URL: https://martin.wojtczyk.de/2024/08/31/is-my-vision-that-bad-no-its-just-a-bug-in-apples-calculator/\nComments URL: https://news.ycombinator.com/item?id=41406550\nPoints: 604\n# Comments: 375",
+          "link": "https://martin.wojtczyk.de/2024/08/31/is-my-vision-that-bad-no-its-just-a-bug-in-apples-calculator/",
+          "publishedOn": "2024-08-31T04:29:09.000Z",
+          "wordCount": 1473,
+          "title": "Is my vision that bad? No, it's just a bug in Apple's Calculator",
+          "imageUrl": "https://martin.wojtczyk.de/wp/wp-content/uploads/2024/08/3_calculator.png"
         },
         {
-          "id": "https://smashingmagazine.com/2021/11/showcase-lovely-little-websites/",
-          "author": "hello@smashingmagazine.com (Cosima Mielke)",
-          "description": "Instead of spending your coffee break scrolling through your social feeds, how about a lovely little website instead? We came across some fantastic ones that are just too good not to be shared. But be warned, your break might take a bit longer than intended.",
-          "link": "https://smashingmagazine.com/2021/11/showcase-lovely-little-websites/",
-          "publishedOn": "2021-11-24T12:00:00.000Z",
-          "wordCount": 4228,
-          "title": "A Showcase Of Lovely Little Websites",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/5a0a3a89-ba5a-40a8-af80-f8db0554af37/radiooooo-opt.png",
-            "length": "0",
-            "type": "image/png"
-          }
+          "id": "https://news.ycombinator.com/item?id=41399872",
+          "author": "janice1999",
+          "description": "Article URL: https://www.anandtech.com/show/21542/end-of-the-road-an-anandtech-farewell\nComments URL: https://news.ycombinator.com/item?id=41399872\nPoints: 2947\n# Comments: 587",
+          "link": "https://www.anandtech.com/show/21542/end-of-the-road-an-anandtech-farewell",
+          "publishedOn": "2024-08-30T12:05:23.000Z",
+          "wordCount": 4155,
+          "title": "AnandTech Farewell",
+          "imageUrl": "https://images.anandtech.com/doci/21542/a_huge_car_678x452.png"
         },
         {
-          "id": "https://smashingmagazine.com/2021/11/dyslexia-friendly-mode-website/",
-          "author": "hello@smashingmagazine.com (John C Barstow)",
-          "description": "With a little CSS, we can adapt our web designs to be more accommodating for people with dyslexia. In this article, we’ll explore those techniques by adding a dyslexia-friendly mode to an existing design.",
-          "link": "https://smashingmagazine.com/2021/11/dyslexia-friendly-mode-website/",
-          "publishedOn": "2021-11-23T10:00:00.000Z",
-          "wordCount": 2745,
-          "title": "Adding A Dyslexia-Friendly Mode To A Website",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/e1fb4e46-6f0a-4631-a04c-d42376eddc82/dyslexia-friendly-mode-website.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
+          "id": "https://news.ycombinator.com/item?id=41395413",
+          "author": "todsacerdoti",
+          "description": "Article URL: https://eieio.games/essays/the-secret-in-one-million-checkboxes/\nComments URL: https://news.ycombinator.com/item?id=41395413\nPoints: 2306\n# Comments: 217",
+          "link": "https://eieio.games/essays/the-secret-in-one-million-checkboxes/",
+          "publishedOn": "2024-08-29T21:20:12.000Z",
+          "wordCount": 2095,
+          "title": "The secret inside One Million Checkboxes",
+          "imageUrl": "http://eieio.games/assets/images/omcb-binary/main-image.png"
         },
         {
-          "id": "https://smashingmagazine.com/2021/11/smashingconf-workshops-winter-2021/",
-          "author": "hello@smashingmagazine.com (Iris Lješnjanin)",
-          "description": "What’s the state of CSS, Vue.js and Next.js? What are new, smart interface design patterns we could use? Let’s figure it out. With our [online workshops on UX, front-end and design](https://smashingconf.com/online-workshops).",
-          "link": "https://smashingmagazine.com/2021/11/smashingconf-workshops-winter-2021/",
-          "publishedOn": "2021-11-22T16:00:00.000Z",
-          "wordCount": 1013,
-          "title": "Smashing Workshops: Winter 2021",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/d2659d54-48e0-40d0-9fea-07c199eee87d/sanfran-2022.png",
-            "length": "0",
-            "type": "image/png"
-          }
+          "id": "https://news.ycombinator.com/item?id=41394797",
+          "author": "dakrone",
+          "description": "Article URL: https://www.elastic.co/blog/elasticsearch-is-open-source-again\nComments URL: https://news.ycombinator.com/item?id=41394797\nPoints: 749\n# Comments: 433",
+          "link": "https://www.elastic.co/blog/elasticsearch-is-open-source-again",
+          "publishedOn": "2024-08-29T20:10:02.000Z",
+          "wordCount": 9585,
+          "title": "Elasticsearch is open source, again",
+          "imageUrl": "https://static-www.elastic.co/v3/assets/bltefdd0b53724fa2ce/blt12045d30d68469e7/66d0d948e6fe738e272e800b/old-logos-opengraph.png"
         },
         {
-          "id": "https://smashingmagazine.com/2021/11/improving-performance-wix-websites-case-study/",
-          "author": "hello@smashingmagazine.com (Dan Shappir)",
-          "description": "Implementing a performance culture is very important. In this article, Dan Shappir shares which actions and processes the Wix team put in place in order to achieve dramatic improvements in the performance of websites built and hosted on their platform.",
-          "link": "https://smashingmagazine.com/2021/11/improving-performance-wix-websites-case-study/",
-          "publishedOn": "2021-11-22T10:30:00.000Z",
-          "wordCount": 4743,
-          "title": "Improving The Performance Of Wix Websites (Case Study)",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/253b5a80-a208-4057-95b0-60762c922d07/improving-performance-wix-websites-case-study.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
+          "id": "https://news.ycombinator.com/item?id=41392128",
+          "author": "iancarroll",
+          "description": "Article URL: https://ian.sh/tsa\nComments URL: https://news.ycombinator.com/item?id=41392128\nPoints: 1959\n# Comments: 426",
+          "link": "https://ian.sh/tsa",
+          "publishedOn": "2024-08-29T15:53:08.000Z",
+          "wordCount": 6867,
+          "title": "Bypassing airport security via SQL injection",
+          "imageUrl": "https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/d62a8e83-afad-45b3-8c9c-7c6044ad9797/lucia-serone--0DVsjv1AHc-unsplash/public"
         },
         {
-          "id": "https://smashingmagazine.com/2021/11/nextjs-wildcard-subdomains/",
-          "author": "hello@smashingmagazine.com (Sam Poder)",
-          "description": "Hosting with a wildcard subdomain enables your users to visit your site on any subdomain of your domain (*.example.com), and as you can imagine, we can use this to create unique user experiences which we’ll be exploring in this article through a Next.js lens.",
-          "link": "https://smashingmagazine.com/2021/11/nextjs-wildcard-subdomains/",
-          "publishedOn": "2021-11-19T10:30:00.000Z",
-          "wordCount": 2192,
-          "title": "Next.js Wildcard Subdomains",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/2b24747b-6f11-4588-a119-16eaf38bc933/nextjs-wildcard-subdomains.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
+          "id": "https://news.ycombinator.com/item?id=41389931",
+          "author": "mjcurl",
+          "description": "While searching for mini PCs for my home server, I figured I'd use the eBay API to find the cheapest ones. Inspired by diskprices.com, I built a static site using Eleventy and a python script that uses regex to parse the data. I tried to include as many filters as possible like OS, Wifi, HDMI etc.\nI would like to add power usage, noise levels, PCIe slots but that data is hard to find.\nPlease let me know if you have any feedback / suggestions.\nThanks!\nComments URL: https://news.ycombinator.com/item?id=41389931\nPoints: 673\n# Comments: 302",
+          "link": "https://lowcostminipcs.com/",
+          "publishedOn": "2024-08-29T12:03:41.000Z",
+          "wordCount": 59106,
+          "title": "Low Cost Mini PCs",
+          "imageUrl": null
         },
         {
-          "id": "https://smashingmagazine.com/2021/11/guide-modern-css-colors/",
-          "author": "hello@smashingmagazine.com (Michelle Barker)",
-          "description": "In this article, we’ll take a look at the best ways to handle colors in CSS today, some tips for using them in a design system, and what we can expect from our colors in the not-too-distant future.",
-          "link": "https://smashingmagazine.com/2021/11/guide-modern-css-colors/",
-          "publishedOn": "2021-11-17T16:00:00.000Z",
-          "wordCount": 3472,
-          "title": "A Guide To Modern CSS Colors With RGB, HSL, HWB, LAB And LCH",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/b424cd2e-1e44-4ca2-8506-4e45a5bdb570/guide-modern-css-colors.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
+          "id": "https://news.ycombinator.com/item?id=41389185",
+          "author": "punkpeye",
+          "description": "Article URL: https://glama.ai/blog/2024-08-29-reverse-engineering-minified-code-using-openai\nComments URL: https://news.ycombinator.com/item?id=41389185\nPoints: 919\n# Comments: 301",
+          "link": "https://glama.ai/blog/2024-08-29-reverse-engineering-minified-code-using-openai",
+          "publishedOn": "2024-08-29T10:14:50.000Z",
+          "wordCount": null,
+          "title": "OpenAI is good at unminifying code",
+          "imageUrl": null
         },
         {
-          "id": "https://smashingmagazine.com/2021/11/touch-design-pre-release/",
-          "author": "hello@smashingmagazine.com (Vitaly Friedman)",
-          "description": "Meet “Touch Design for Mobile Interfaces”, our brand-new guide on designing for mobile with proven, universal, human-centric standards. 400 pages. Shipping starting in early January.",
-          "link": "https://smashingmagazine.com/2021/11/touch-design-pre-release/",
-          "publishedOn": "2021-11-16T16:00:00.000Z",
-          "wordCount": 2170,
-          "title": "Meet Touch Design For Mobile Interfaces, A New Smashing Book By Steven Hoober",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/b41ae541-7618-44f2-81cd-cc681c64d0d0/touch-design-for-mobile-interfaces-header.png",
-            "length": "0",
-            "type": "image/png"
-          }
+          "id": "https://news.ycombinator.com/item?id=41388888",
+          "author": "scrlk",
+          "description": "Article URL: https://www.politico.eu/article/uk-rail-minister-peter-hendy-fired-gareth-dennis-engineer-safety-concerns-trains-london-euston-station/\nComments URL: https://news.ycombinator.com/item?id=41388888\nPoints: 518\n# Comments: 289",
+          "link": "https://www.politico.eu/article/uk-rail-minister-peter-hendy-fired-gareth-dennis-engineer-safety-concerns-trains-london-euston-station/",
+          "publishedOn": "2024-08-29T09:19:36.000Z",
+          "wordCount": 5555,
+          "title": "UK rail minister got engineer sacked for raising safety concerns",
+          "imageUrl": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2024/08/28/GettyImages-1771297562-scaled.jpg"
         },
         {
-          "id": "https://smashingmagazine.com/2021/11/powerful-terminal-commandline-tools-modern-web-development/",
-          "author": "hello@smashingmagazine.com (Louis Lazaris)",
-          "description": "What’s your favorite command-line tool? In this post, Louis Lazaris shares a collection of relevant command-line apps and utilities that he has personally come across in the past few years. If there’s a useful one that hasn’t been mentioned and one you use regularly, please do share it in the comments.",
-          "link": "https://smashingmagazine.com/2021/11/powerful-terminal-commandline-tools-modern-web-development/",
-          "publishedOn": "2021-11-15T13:00:00.000Z",
-          "wordCount": 2123,
-          "title": "Powerful Terminal And Command-Line (CLI) Tools For Modern Web Development",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/a2d3081a-5a36-4763-9b94-13bf7d1cb5d6/powerful-terminal-commandline-tools-modern-web-development.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
+          "id": "https://news.ycombinator.com/item?id=41386319",
+          "author": "ranebo",
+          "description": "Article URL: https://blog.hopefullyuseful.com/blog/advantage-air-ezone-tablet-diy-repair/\nComments URL: https://news.ycombinator.com/item?id=41386319\nPoints: 1969\n# Comments: 476",
+          "link": "https://blog.hopefullyuseful.com/blog/advantage-air-ezone-tablet-diy-repair/",
+          "publishedOn": "2024-08-29T01:28:01.000Z",
+          "wordCount": 2915,
+          "title": "Air Con: $1697 for an on/off switch",
+          "imageUrl": "https://blog.hopefullyuseful.com/blog/advantage-air-ezone-tablet-diy-repair/mainboard.jpg"
         },
         {
-          "id": "https://smashingmagazine.com/2021/11/useful-react-hooks/",
-          "author": "hello@smashingmagazine.com (Ifeanyi Dike)",
-          "description": "The React team introduced several hooks in React 16.8 which you can use from third-party providers in your application, or even create your own custom hook. In this tutorial, we’ll take a look at some of the most useful hooks in React and how to use them.",
-          "link": "https://smashingmagazine.com/2021/11/useful-react-hooks/",
-          "publishedOn": "2021-11-12T10:00:00.000Z",
-          "wordCount": 10255,
-          "title": "Useful React Hooks That You Can Use In Your Projects",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/ad5f8d5b-6da6-4441-a6f7-466c79e7fb0d/useful-react-hooks.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
+          "id": "https://news.ycombinator.com/item?id=41375548",
+          "author": "jmorgan",
+          "description": "Article URL: https://gamengen.github.io\nComments URL: https://news.ycombinator.com/item?id=41375548\nPoints: 1141\n# Comments: 408",
+          "link": "https://gamengen.github.io/",
+          "publishedOn": "2024-08-28T02:59:40.000Z",
+          "wordCount": 466,
+          "title": "Diffusion models are real-time game engines",
+          "imageUrl": "static/images/embed_image.png"
         },
         {
-          "id": "https://smashingmagazine.com/2021/11/dashboard-design-research-decluttering-data-viz/",
-          "author": "hello@smashingmagazine.com (Adam Fard)",
-          "description": "Dribbbleshots just might be the hotbed of questionable dashboards. Striking visuals, little context, and no research: all recipes for mediocrity. Mediocrity won’t do. We’ll pursue greatness. And in that pursuit, we’ll cover research, decluttering, and data visualization.",
-          "link": "https://smashingmagazine.com/2021/11/dashboard-design-research-decluttering-data-viz/",
-          "publishedOn": "2021-11-11T14:00:00.000Z",
-          "wordCount": 4289,
-          "title": "From Good To Great In Dashboard Design: Research, Decluttering And Data Viz",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/835f0cba-e214-437a-a025-e69ba7691997/dashboard-design-research-decluttering-data-viz.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
+          "id": "https://news.ycombinator.com/item?id=41371170",
+          "author": "abhas9",
+          "description": "Article URL: https://www.freepublicapis.com/\nComments URL: https://news.ycombinator.com/item?id=41371170\nPoints: 599\n# Comments: 122",
+          "link": "https://www.freepublicapis.com/",
+          "publishedOn": "2024-08-27T18:38:59.000Z",
+          "wordCount": 2090,
+          "title": "A Collection of Free Public APIs That Is Tested Daily",
+          "imageUrl": null
         },
         {
-          "id": "https://smashingmagazine.com/2021/11/localizing-your-nextjs-app/",
-          "author": "hello@smashingmagazine.com (Átila Fassina)",
-          "description": "Internationalized routing is not exactly a new feature on Next.js. In this article, we are not only checking what we get from this feature, but also how to leverage such functionalities to achieve the best user experience and a smooth developer experience as well.",
-          "link": "https://smashingmagazine.com/2021/11/localizing-your-nextjs-app/",
-          "publishedOn": "2021-11-09T13:00:00.000Z",
-          "wordCount": 1902,
-          "title": "Localizing Your Next.js App",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/12e7620f-0e7b-4b95-a1b6-cd2f25ccac52/localizing-your-nextjs-app.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
+          "id": "https://news.ycombinator.com/item?id=41371106",
+          "author": "itherseed",
+          "description": "Article URL: https://www.mono-project.com/\nComments URL: https://news.ycombinator.com/item?id=41371106\nPoints: 1430\n# Comments: 478",
+          "link": "https://www.mono-project.com/",
+          "publishedOn": "2024-08-27T18:34:09.000Z",
+          "wordCount": 536,
+          "title": "Microsoft donates the Mono Project to the Wine team",
+          "imageUrl": null
         },
         {
-          "id": "https://smashingmagazine.com/2021/11/transforming-optimizing-images-videos-wordpress-website/",
-          "author": "hello@smashingmagazine.com (Leonardo Losoviz)",
-          "description": "In this article, Leonardo Losoviz explains how Cloudinary’s integration can be used with WordPress to produce and deliver optimal digital experiences.",
-          "link": "https://smashingmagazine.com/2021/11/transforming-optimizing-images-videos-wordpress-website/",
-          "publishedOn": "2021-11-09T09:30:00.000Z",
-          "wordCount": 2425,
-          "title": "Automatically Transforming And Optimizing Images And Videos On Your WordPress Website",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/8aaa9d52-375d-4e64-bdaa-151ef40a3f3c/transforming-optimizing-images-videos-wordpress-website.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
+          "id": "https://news.ycombinator.com/item?id=41370020",
+          "author": "mrunseen",
+          "description": "Article URL: https://owickstrom.github.io/the-monospace-web/\nComments URL: https://news.ycombinator.com/item?id=41370020\nPoints: 608\n# Comments: 153",
+          "link": "https://owickstrom.github.io/the-monospace-web/",
+          "publishedOn": "2024-08-27T17:09:56.000Z",
+          "wordCount": 702,
+          "title": "The Monospace Web",
+          "imageUrl": null
         },
         {
-          "id": "https://smashingmagazine.com/2021/11/hydrogen-react-framework-dynamic-contextual-personalized-ecommerce/",
-          "author": "hello@smashingmagazine.com (Ilya Grigorik)",
-          "description": "A great commerce experience is not a Lighthouse score or a set of Core Web Vitals figures (although both are important inputs), but it’s also a trilemma that carefully balances competing needs of delivering a great customer experience, dynamic storefront capabilities and long-term business objectives.",
-          "link": "https://smashingmagazine.com/2021/11/hydrogen-react-framework-dynamic-contextual-personalized-ecommerce/",
-          "publishedOn": "2021-11-08T14:30:00.000Z",
-          "wordCount": 1527,
-          "title": "Meet Hydrogen: A React Framework For Dynamic, Contextual And Personalized E-Commerce",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/ee33395f-684a-40e5-bf72-56d9e9e4d975/hydrogen-react-framework-dynamic-contextual-personalized-ecommerce.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
+          "id": "https://news.ycombinator.com/item?id=41365868",
+          "author": "southernplaces7",
+          "description": "Article URL: https://www.politico.com/news/2024/08/26/zuckerberg-meta-white-house-pressure-00176399\nComments URL: https://news.ycombinator.com/item?id=41365868\nPoints: 637\n# Comments: 1257",
+          "link": "https://www.politico.com/news/2024/08/26/zuckerberg-meta-white-house-pressure-00176399",
+          "publishedOn": "2024-08-27T09:50:15.000Z",
+          "wordCount": null,
+          "title": "Zuckerberg claims regret on caving to White House pressure on content",
+          "imageUrl": null
         },
         {
-          "id": "https://smashingmagazine.com/2021/11/concept-testing-part-of-product-design/",
-          "author": "hello@smashingmagazine.com (Victor Yocco)",
-          "description": "Concept testing ideas before moving into a detailed design is good UX practice. In this article, Victor Yocco presents details on how and when to engage in concept testing, as well as case studies providing details on the insights gained in two very different settings.",
-          "link": "https://smashingmagazine.com/2021/11/concept-testing-part-of-product-design/",
-          "publishedOn": "2021-11-05T11:00:00.000Z",
-          "wordCount": 6182,
-          "title": "The Value Of Concept Testing As Part Of Product Design",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/ca39dbc3-101c-4973-9dce-debb1ab283ff/concept-testing-part-of-product-design.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
+          "id": "https://news.ycombinator.com/item?id=41358020",
+          "author": "tosh",
+          "description": "Article URL: https://hamel.dev/blog/posts/dokku/\nComments URL: https://news.ycombinator.com/item?id=41358020\nPoints: 914\n# Comments: 270",
+          "link": "https://hamel.dev/blog/posts/dokku/",
+          "publishedOn": "2024-08-26T15:21:56.000Z",
+          "wordCount": 3277,
+          "title": "Dokku: My favorite personal serverless platform",
+          "imageUrl": "https://hamel.dev/blog/posts/dokku/images/serverless.png"
         },
         {
-          "id": "https://smashingmagazine.com/2021/11/smashing-podcast-episode-43/",
-          "author": "hello@smashingmagazine.com (Drew McLellan)",
-          "description": "In this episode, we’re talking about Astro. Will this modern static site builder launch you into the stratosphere? Drew McLellan talks to developer Matthew Phillips to find out.",
-          "link": "https://smashingmagazine.com/2021/11/smashing-podcast-episode-43/",
-          "publishedOn": "2021-11-04T18:00:00.000Z",
-          "wordCount": 5848,
-          "title": "Smashing Podcast Episode 43 With Matthew Phillips: What Is Astro?",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/475de692-46fc-4058-af10-3736770698d5/smashing-podcast-episode-43.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
+          "id": "https://news.ycombinator.com/item?id=41356528",
+          "author": "gaws",
+          "description": "Article URL: https://www.nsa.gov/helpful-links/nsa-foia/declassification-transparency-initiatives/historical-releases/view/article/3880193/capt-grace-hopper-on-future-possibilities-data-hardware-software-and-people-1982/\nComments URL: https://news.ycombinator.com/item?id=41356528\nPoints: 934\n# Comments: 222",
+          "link": "https://www.nsa.gov/helpful-links/nsa-foia/declassification-transparency-initiatives/historical-releases/view/article/3880193/capt-grace-hopper-on-future-possibilities-data-hardware-software-and-people-1982/",
+          "publishedOn": "2024-08-26T12:37:32.000Z",
+          "wordCount": 2153,
+          "title": "NSA releases 1982 Grace Hopper lecture",
+          "imageUrl": "https://media.defense.gov/2024/Aug/23/2003531704/1920/1080/0/240823-D-IM742-2024.PNG"
         },
         {
-          "id": "https://smashingmagazine.com/2021/11/graphql-frontend-react-apollo/",
-          "author": "hello@smashingmagazine.com (David Atanda)",
-          "description": "Within the last decade, technologies like GraphQL have changed how we build web apps and how they communicate with each other. GraphQL provides certain benefits over REST APIs — let’s find out what they are.",
-          "link": "https://smashingmagazine.com/2021/11/graphql-frontend-react-apollo/",
-          "publishedOn": "2021-11-04T11:30:00.000Z",
-          "wordCount": 3382,
-          "title": "GraphQL On The Front-End (React And Apollo)",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/bb584488-c16f-4409-a992-993ce92d4b51/graphql-frontend-react-apollo.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/11/deep-dive-into-serverless-ui-typescript/",
-          "author": "hello@smashingmagazine.com (Ikeh Akinyemi)",
-          "description": "Serverless UI is simply a free, open-source command-line utility for quickly building and deploying serverless applications on the AWS platform. In this article, we will learn and cover everything needed on using Serverless UI to deploy our projects or serverless applications to cloud services providers.",
-          "link": "https://smashingmagazine.com/2021/11/deep-dive-into-serverless-ui-typescript/",
-          "publishedOn": "2021-11-03T11:30:00.000Z",
-          "wordCount": 3605,
-          "title": "A Deep Dive Into Serverless UI With TypeScript",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/aff46dfe-164d-4bf7-8e14-057470001b41/deep-dive-into-serverless-ui-typescript.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
-        }
-      ]
-    },
-    {
-      "title": "freeCodeCamp.org",
-      "feedUrl": "https://www.freecodecamp.org/news/rss/",
-      "siteUrl": "https://www.freecodecamp.org/news",
-      "articles": [
-        {
-          "id": "61a5f9680c0c7407b2b3e607",
-          "author": null,
-          "description": "In general, a headphone jack and a pair of headphones improve the sound from your PC. You'll be able to hear things more clearly, without disturbing other around you.  But sometimes, setting them up is difficult. Or they might stop working entirely. This could be due to outdated drivers, or",
-          "link": "https://www.freecodecamp.org/news/headphone-jack-not-working-in-windows-10-how-to-fix-headphones-on-pc/",
-          "publishedOn": "2021-12-01T09:49:48.000Z",
-          "wordCount": 743,
-          "title": "Headphone Jack Not Working in Windows 10 - How to Fix Headphones on PC"
-        },
-        {
-          "id": "61783ffa33422e07df364d2c",
-          "author": null,
-          "description": "For six years in a row, Rust has been voted the most loved programming language by Stack Overflow. So if you're ready to learn this popular programming language, this course will introduce you to Rust so you can start using it in your projects. You will be working entirely within",
-          "link": "https://www.freecodecamp.org/news/rust-in-replit/",
-          "publishedOn": "2021-11-30T14:35:18.000Z",
-          "wordCount": 5418,
-          "title": "Learn Rust Programming Course – Interactive Rust Language Tutorial on Repl.it"
-        },
-        {
-          "id": "61a0f98125888a07c3e1bfbc",
-          "author": null,
-          "description": "Everyone should learn three skills that can help them make money in their life. This means that you won't have to rely on one skill to make money, and it gives you a chance to make a side income, too. The value you can add at your job or to",
-          "link": "https://www.freecodecamp.org/news/5-valuable-skills-developers-should-learn/",
-          "publishedOn": "2021-11-30T01:12:15.000Z",
-          "wordCount": 1098,
-          "title": "5 Valuable Skills Developers Should Learn in 2022"
-        },
-        {
-          "id": "61a39f3025888a07c3e1cf08",
-          "author": null,
-          "description": "How you train for your career is one of the most consequential decisions you'll ever make. But it's hard to narrow down your options for a career in software development or IT. Medicine is easy: pick a medical school and apply. But programming?  Will what you learn in a four",
-          "link": "https://www.freecodecamp.org/news/types-of-software-development-training/",
-          "publishedOn": "2021-11-29T21:06:01.000Z",
-          "wordCount": 2285,
-          "title": "Types of Software Development Training – A Data Analysis of IT Career Training Tool Efficacy"
-        },
-        {
-          "id": "60c08938d3126007592d56f5",
-          "author": null,
-          "description": "Many software applications need to exchange data between a client and server.  For a long time, XML was the preferred data format when it came to information exchange between the two points. Then in early 2000, JSON was introduced as an alternate data format for information exchange. In this article,",
-          "link": "https://www.freecodecamp.org/news/what-is-json-a-json-file-example/",
-          "publishedOn": "2021-11-29T19:16:16.000Z",
-          "wordCount": 1544,
-          "title": "JSON for Beginners – JavaScript Object Notation Explained in Plain English"
-        },
-        {
-          "id": "61a0dae325888a07c3e1bee6",
-          "author": null,
-          "description": "These 7 tricks and tips will take you from 50% to 90% accuracy for your image recognition models in literally minutes. So, you have gathered a dataset, built a neural network, and trained your model. But despite the hours (and sometimes days) of work you've invested to create the model,",
-          "link": "https://www.freecodecamp.org/news/improve-image-recognition-model-accuracy-with-these-hacks/",
-          "publishedOn": "2021-11-29T17:09:30.000Z",
-          "wordCount": 1153,
-          "title": "How to Improve the Accuracy of Your Image Recognition Models"
-        },
-        {
-          "id": "61a3882925888a07c3e1ce6d",
-          "author": null,
-          "description": "When you're programming, you'll often need to switch between data types.  The ability to convert one data type to another gives you great flexibility when working with information.  There are different built-in ways to convert, or cast, types in the Python programming language.  In this article, you'll learn how to",
-          "link": "https://www.freecodecamp.org/news/python-convert-string-to-int-how-to-cast-a-string-in-python/",
-          "publishedOn": "2021-11-29T16:47:01.000Z",
-          "wordCount": 1030,
-          "title": "Python Convert String to Int – How to Cast a String in Python"
-        },
-        {
-          "id": "61924f5811d3cb08287a6648",
-          "author": null,
-          "description": "On January 10, Class Central is launching two new bootcamps that are free, remote, and open to all.  You’ll complete freeCodeCamp’s JavaScript or Responsive Web Design certification, with weekly live streams, projects, and a friendly group of learners worldwide. Free Bootcamp Based on the freeCodeCamp CurriculumHi everyone, I’",
-          "link": "https://www.freecodecamp.org/news/new-free-bootcamps-based-on-freecodecamp-learn-javascript-webdev-with-weekly-live-streams/",
-          "publishedOn": "2021-11-29T15:55:00.000Z",
-          "wordCount": 1395,
-          "title": "New Free Bootcamps Based on freeCodeCamp – Learn JavaScript &amp; Web Development with Weekly Live Streams"
-        },
-        {
-          "id": "6140e027852f4307d372d933",
-          "author": null,
-          "description": "NoSQL Databases can sometimes seem confusing and overwhelming, partly because of their flexibility. This is why we have put together a 3-hour video course to help you understand exactly what a NoSQL Database is, as well as the different types available to you.  By the end of this course, you",
-          "link": "https://www.freecodecamp.org/news/learn-nosql-in-3-hours/",
-          "publishedOn": "2021-11-29T15:47:00.000Z",
-          "wordCount": 765,
-          "title": "Learn About NoSQL Databases in This 3-hour Course"
-        },
-        {
-          "id": "61a4b12225888a07c3e1d240",
-          "author": null,
-          "description": "Spell check in Microsoft Word and other Word Processing apps is a powerful feature. With spell check, you don’t have to worry too about making small grammatical and typographical errors, because the program will point them out for you in real-time as you type.  But sometimes, the spell check",
-          "link": "https://www.freecodecamp.org/news/spell-check-not-working-in-word-fixed-on-windows-10-pc/",
-          "publishedOn": "2021-11-29T14:53:48.000Z",
-          "wordCount": 741,
-          "title": "Spell Check Not Working in Word [Fixed on Windows 10 PC]"
+          "id": "https://news.ycombinator.com/item?id=41355303",
+          "author": "Ameo",
+          "description": "Article URL: https://cprimozic.net/blog/fixing-a-bug-in-google-chrome/\nComments URL: https://news.ycombinator.com/item?id=41355303\nPoints: 643\n# Comments: 165",
+          "link": "https://cprimozic.net/blog/fixing-a-bug-in-google-chrome/",
+          "publishedOn": "2024-08-26T09:10:56.000Z",
+          "wordCount": 3960,
+          "title": "Fixing a bug in Google Chrome as a first-time contributor",
+          "imageUrl": null
         }
       ]
     }
   ],
-  "cliVersion": "1.11.3"
+  "cliVersion": "1.15.1"
 }
