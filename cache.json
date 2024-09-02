@@ -86,6 +86,16 @@
           "imageUrl": "https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/d62a8e83-afad-45b3-8c9c-7c6044ad9797/lucia-serone--0DVsjv1AHc-unsplash/public"
         },
         {
+          "id": "https://news.ycombinator.com/item?id=41391412",
+          "author": "NayamAmarshe",
+          "description": "Article URL: https://brave.com/blog/related-website-sets/\nComments URL: https://news.ycombinator.com/item?id=41391412\nPoints: 500\n# Comments: 307",
+          "link": "https://brave.com/blog/related-website-sets/",
+          "publishedOn": "2024-08-29T14:53:15.000Z",
+          "wordCount": 2686,
+          "title": "Chrome is entrenching third-party cookies that will mislead users",
+          "imageUrl": null
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=41389931",
           "author": "mjcurl",
           "description": "While searching for mini PCs for my home server, I figured I'd use the eBay API to find the cheapest ones. Inspired by diskprices.com, I built a static site using Eleventy and a python script that uses regex to parse the data. I tried to include as many filters as possible like OS, Wifi, HDMI etc.\nI would like to add power usage, noise levels, PCIe slots but that data is hard to find.\nPlease let me know if you have any feedback / suggestions.\nThanks!\nComments URL: https://news.ycombinator.com/item?id=41389931\nPoints: 673\n# Comments: 302",
@@ -289,6 +299,16 @@
       "feedUrl": "https://rsshub.app/techcrunch/news",
       "siteUrl": "https://techcrunch.com",
       "articles": [
+        {
+          "id": "https://techcrunch.com/2024/09/01/validus-a-singapore-based-digital-sme-lending-platform-secures-50m-debt-financing-to-help-enterprises-in-indonesia/",
+          "author": null,
+          "description": "Validus, a Singapore-based digital lending platform for small and medium businesses, has secured $50 million in debt financing from HSBC under the ASEAN Growth Fund strategy.\nValidus will use the proceeds to support the financial inclusion of micro, small and medium enterprises (MSMEs) in Indonesia, addressing the challenges they face in accessing financial resources.\n\n\n\n\nWith 64.2 million MSMEs contributing 61% of Indonesia’s GDP, according to Indonesia’s Ministry for Economic Affairs, the potential for growth is immense. These MSMEs employ about 119.6 million people, which is 97% of the total workforce in the country. However, only about 17.5 million MSME players are tapping into the online ecosystem and e-commerce. Indonesian MSMEs face significant challenges in accessing financing, mai…",
+          "link": "https://techcrunch.com/2024/09/01/validus-a-singapore-based-digital-sme-lending-platform-secures-50m-debt-financing-to-help-enterprises-in-indonesia/",
+          "publishedOn": "2024-09-01T15:00:00.000Z",
+          "wordCount": 3827,
+          "title": "Validus, a Singapore-based digital SME lending platform, secures $50M debt financing to help enterprises in Indonesia",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2021/11/GettyImages-173545633.jpg?resize=1200,803"
+        },
         {
           "id": "https://techcrunch.com/2024/09/01/apple-may-ditch-those-old-familiar-usb-a-ports-in-the-new-mac-mini/",
           "author": null,
