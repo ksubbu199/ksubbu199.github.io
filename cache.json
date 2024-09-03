@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=41430772",
+          "author": "thunderbong",
+          "description": "Article URL: https://morizbuesing.com/blog/greppability-code-metric/\nComments URL: https://news.ycombinator.com/item?id=41430772\nPoints: 564\n# Comments: 317",
+          "link": "https://morizbuesing.com/blog/greppability-code-metric/",
+          "publishedOn": "2024-09-03T02:47:00.000Z",
+          "wordCount": 621,
+          "title": "Greppability is an underrated code metric",
+          "imageUrl": "https://morizbuesing.com/blog/greppability-code-metric/[object%20Object]"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=41430258",
           "author": "bpierre",
           "description": "Article URL: https://ismy.blue/\nComments URL: https://news.ycombinator.com/item?id=41430258\nPoints: 505\n# Comments: 246",
@@ -488,6 +498,46 @@
       "feedUrl": "https://rsshub.app/techcrunch/news",
       "siteUrl": "https://techcrunch.com",
       "articles": [
+        {
+          "id": "https://techcrunch.com/2024/09/03/oxylus-energy-strikes-beautiful-balance-to-make-e-fuels-for-aviation-and-shipping/",
+          "author": null,
+          "description": "Many airlines and shipping companies say they’ll hit net zero carbon emissions by 2050, but right now they have no clear path toward hitting that target. \nFrom a scientific perspective, ridding those industries of fossil fuels is possible; economically, it’s not. Or at least not yet, claims a young startup. Oxylus Energy thinks it has the key to one part of the equation.  \n\n\n\n\nThe company was spun out of a Yale chemistry lab last year, and it has been working to refine the production of so-called green methanol. Today, most methanol is derived from fossil fuels and used to make petrochemicals, though it can also be used as a transportation fuel. Because of that flexibility, green methanol, which is made without fossil fuels, could rid carbon pollution from a range of industries.\n“We think …",
+          "link": "https://techcrunch.com/2024/09/03/oxylus-energy-strikes-beautiful-balance-to-make-e-fuels-for-aviation-and-shipping/",
+          "publishedOn": "2024-09-03T03:00:00.000Z",
+          "wordCount": 3923,
+          "title": "Oxylus Energy strikes “beautiful balance” to make e-fuels for aviation and shipping",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2018/05/gettyimages-sb10062851ai-001.jpg?resize=1200,800"
+        },
+        {
+          "id": "https://techcrunch.com/2024/09/03/xavier-niel-replaces-coatues-laffont-on-board-of-tiktok-parent-bytedance/",
+          "author": null,
+          "description": "French billionaire Xavier Niel is joining the board of directors of TikTok’s parent, ByteDance, the company told the South China Morning Post. It’s an interesting move as Niel isn’t a name that comes up very often for high-profile board positions.\nHe is replacing Philippe Laffont, the founder of the New York-based investment firm Coatue Management, on ByteDance’s board, per the report. Coatue has been considering selling a portion of its stake in ByteDance, according to a report by The Information on August 23. \nNiel is the owner of French telecom company Iliad. He has also been an active startup investor with his seed investment firm Kima Ventures and through other investment vehicles. Additionally, he created Station F, a startup campus based in Paris, as well as setting up a computer science school called 42.",
+          "link": "https://techcrunch.com/2024/09/03/xavier-niel-replaces-coatues-laffont-on-board-of-tiktok-parent-bytedance/",
+          "publishedOn": "2024-09-03T02:34:58.000Z",
+          "wordCount": 3513,
+          "title": "Xavier Niel replaces Coatue’s Laffont on board of TikTok parent ByteDance",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2024/09/Xavier-Niel-In-Brief.jpg?resize=1200,675"
+        },
+        {
+          "id": "https://techcrunch.com/2024/09/03/clearview-ai-hit-with-its-largest-gdpr-fine-yet-as-dutch-regulator-considers-holding-execs-personally-liable/",
+          "author": null,
+          "description": "Clearview AI, the controversial U.S.-based, facial recognition startup that built a searchable database of 30 million images populated by scraping the internet for people’s selfies without their consent, has been hit with its largest privacy fine yet in Europe.\nThe Netherlands’ data protection authority, Autoriteit Persoonsgegevens (AP), said on Tuesday that it has imposed a penalty of €30.5 million — around $33.7M at current exchange rates — on Clearview AI for a raft of breaches of the European Union’s General Data Protection Regulation (GDPR) after confirming the database contains images of Dutch citizens.\n\n\n\n\nThis fine is larger than separate GDPR sanctions imposed by data protection authorities in France, Italy, Greece and the U.K. back in 2022.\nIn a press release, the AP warned it ha…",
+          "link": "https://techcrunch.com/2024/09/03/clearview-ai-hit-with-its-largest-gdpr-fine-yet-as-dutch-regulator-considers-holding-execs-personally-liable/",
+          "publishedOn": "2024-09-03T02:02:30.000Z",
+          "wordCount": 4274,
+          "title": "Clearview AI hit with its largest GDPR fine yet as Dutch regulator considers holding execs personally liable",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2024/09/GettyImages-1241292191.jpg?w=1024"
+        },
+        {
+          "id": "https://techcrunch.com/2024/09/03/x-lets-you-edit-dms-here-is-how-to-use-the-feature/",
+          "author": null,
+          "description": "X, the social network owned by Elon Musk, is finally rolling out one of the most sought-after features for direct messages: the ability to edit the message.\nOver the weekend, X made the edit message feature available to iOS users. One of the engineers at the company posted about the roll-out and said the edit messages function will be available on more platforms soon.\n\n\nsave yourself from your own bad decisions (or typos) (or both)\nDM edits are here. you’re welcome https://t.co/RzELFRZgfY\n— X (@X) August 31, 2024\n\n\nHere is how you can use it:\nOpen any direct message chat from your X iOS app.\nLong press on any message that you sent or tap on the three-dot menu beside the message.\nSelect the “Edit message” option to modify the sent message.\nAccording to a support page, there is no time limit for editing the messages. In our testing, we found out that you can also edit older DMs on the platform too. However, you can only make five edits overall to a message. The social network applies the same limit on editing posts as well.\n\n\n\n\nWhile X said that it keeps a log of edited messages for security reasons, it doesn’t show the version history of edited messages at the moment. \nUsers expect to be able to edit their messages in messaging apps, as other chat apps, such as WhatsApp, Telegram, Signal, and Messenger have had this functionality for a while now. Apple also added the ability to edit messages sent via iMessage with iOS 16.",
+          "link": "https://techcrunch.com/2024/09/03/x-lets-you-edit-dms-here-is-how-to-use-the-feature/",
+          "publishedOn": "2024-09-03T01:20:15.000Z",
+          "wordCount": 3500,
+          "title": "X lets you edit DMs — here is how to use the feature",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2023/08/twitter-x-logo-musk-2.jpg?resize=1200,675"
+        },
         {
           "id": "https://techcrunch.com/2024/09/02/ziina-banks-22m-as-growth-explodes-for-the-uae-based-fintech-for-small-businesses/",
           "author": null,
