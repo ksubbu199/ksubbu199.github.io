@@ -483,16 +483,6 @@
           "wordCount": 2285,
           "title": "Migrating Mess With DNS to use PowerDNS",
           "imageUrl": null
-        },
-        {
-          "id": "https://jvns.ca/blog/2024/08/06/go-structs-copied-on-assignment/",
-          "author": null,
-          "description": "I’ve been writing Go pretty casually for years – the backends for all of my\nplaygrounds (nginx, dns, memory, more DNS) are written in Go, but many of those projects are just a few hundred lines and I don’t come back to those codebases much.\nI thought I more or less understood the basics of the language, but this week\nI’ve been writing a lot more Go than usual while working on some upgrades to\nMess with DNS, and ran into a bug that revealed I\nwas missing a very basic concept!\nThen I posted about this on Mastodon and someone linked me to this very cool\nsite (and book) called 100 Go Mistakes and How To Avoid Them by Teiva Harsanyi. It just came out in 2022 so it’s relatively new.\nI decided to read through the site to see what else I was missing, and found\na couple of other misconceptions I ha…",
-          "link": "https://jvns.ca/blog/2024/08/06/go-structs-copied-on-assignment/",
-          "publishedOn": "2024-08-06T08:38:35.000Z",
-          "wordCount": 1451,
-          "title": "Go structs are copied on assignment (and other things about Go I'd missed)",
-          "imageUrl": null
         }
       ]
     },

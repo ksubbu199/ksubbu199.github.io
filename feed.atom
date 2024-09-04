@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-09-04T20:17:19.031Z</updated>
+    <updated>2024-09-04T21:15:08.935Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -1952,25 +1952,6 @@ However, I asked around in the community about tech professionals who do paid ta
         <summary type="html"><![CDATA[Klarna launched its AI chatbot, built in collaboration with OpenAI, which the company wants to use to eliminate 2/3rds of customer support positions. But is it as revolutionary, and as likely to replace jobs, as Klarna claims?]]></summary>
         <author>
             <name>Gergely Orosz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Go structs are copied on assignment (and other things about Go I'd missed)]]></title>
-        <id>https://jvns.ca/blog/2024/08/06/go-structs-copied-on-assignment/</id>
-        <link href="https://jvns.ca/blog/2024/08/06/go-structs-copied-on-assignment/"/>
-        <updated>2024-08-06T08:38:35.000Z</updated>
-        <summary type="html"><![CDATA[I’ve been writing Go pretty casually for years – the backends for all of my
-playgrounds (nginx, dns, memory, more DNS) are written in Go, but many of those projects are just a few hundred lines and I don’t come back to those codebases much.
-I thought I more or less understood the basics of the language, but this week
-I’ve been writing a lot more Go than usual while working on some upgrades to
-Mess with DNS, and ran into a bug that revealed I
-was missing a very basic concept!
-Then I posted about this on Mastodon and someone linked me to this very cool
-site (and book) called 100 Go Mistakes and How To Avoid Them by Teiva Harsanyi. It just came out in 2022 so it’s relatively new.
-I decided to read through the site to see what else I was missing, and found
-a couple of other misconceptions I ha…]]></summary>
-        <author>
-            <name>Julia Evans</name>
         </author>
     </entry>
 </feed>
