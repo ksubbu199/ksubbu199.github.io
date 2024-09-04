@@ -502,6 +502,16 @@
       "siteUrl": "https://martinfowler.com/feed.atom",
       "articles": [
         {
+          "id": "https://martinfowler.com/bliki/CycleTime.html",
+          "author": null,
+          "description": "Cycle Time is a measure of how long it takes to get a new feature in a\n  software system from idea to running in production. In Agile circles, we try\n  to minimize cycle time. We do this by defining and implementing very small\n  features and minimizing delays in the development process. Although the rough\n  notion of cycle time, and the importance of reducing it, is common, there is a\n  lot of variations on how cycle time is measured.\n\n\nA key characteristic of agile software development is a shift from a\n  Waterfall Process, where work is decomposed based on\n  activity (analysis, coding, testing) to an Iterative Process where work is\n  based on a subset of functionality (simple pricing, bulk discount,\n  valued-customer discount). Doing this generates a feedback loop where we can learn\n  fr…",
+          "link": "https://martinfowler.com/bliki/CycleTime.html",
+          "publishedOn": "2024-09-04T04:00:00.000Z",
+          "wordCount": 938,
+          "title": "Bliki: Cycle Time",
+          "imageUrl": "https://martinfowler.com/logo-sq.png"
+        },
+        {
           "id": "https://martinfowler.com/articles/2024-strangler-fig-rewrite.html",
           "author": null,
           "description": "Two decades ago, I posted that I found that the strangler fig plant was an interesting metaphor for the gradual replacement of a legacy system. I didn’t refer to the metaphor since, but meanwhile it grew a life of its own. Other people increasingly referred to the strangler fig approach to modernization, and traffic to that post steadily increased: currently it gets about 5000 page views a month, one of the more popular pages on this site. So I decided I needed to update that page, and have rewritten it, focusing on the core activities we need to do to make a success of such a venture.\n(This summarizes more detailed writing from Ian Cartwright, Rob Horn, and James Lewis.)",

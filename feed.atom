@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-09-04T18:18:52.635Z</updated>
+    <updated>2024-09-04T19:12:59.544Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -234,6 +234,29 @@ As founder and CEO Richard Socher puts it: “Just from first principles, where 
 It would be futile to compete on the simple questions that make up the vast bulk of Google searches – basic facts, conversions…]]></summary>
         <author>
             <name>TechCrunch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bliki: Cycle Time]]></title>
+        <id>https://martinfowler.com/bliki/CycleTime.html</id>
+        <link href="https://martinfowler.com/bliki/CycleTime.html"/>
+        <updated>2024-09-04T04:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Cycle Time is a measure of how long it takes to get a new feature in a
+  software system from idea to running in production. In Agile circles, we try
+  to minimize cycle time. We do this by defining and implementing very small
+  features and minimizing delays in the development process. Although the rough
+  notion of cycle time, and the importance of reducing it, is common, there is a
+  lot of variations on how cycle time is measured.
+
+
+A key characteristic of agile software development is a shift from a
+  Waterfall Process, where work is decomposed based on
+  activity (analysis, coding, testing) to an Iterative Process where work is
+  based on a subset of functionality (simple pricing, bulk discount,
+  valued-customer discount). Doing this generates a feedback loop where we can learn
+  fr…]]></summary>
+        <author>
+            <name>Martin Fowler</name>
         </author>
     </entry>
     <entry>
