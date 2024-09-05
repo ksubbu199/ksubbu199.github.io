@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=41448022",
+          "author": "Pulcinella",
+          "description": "Article URL: https://dynamicland.org/\nComments URL: https://news.ycombinator.com/item?id=41448022\nPoints: 505\n# Comments: 156",
+          "link": "https://dynamicland.org/",
+          "publishedOn": "2024-09-04T17:02:14.000Z",
+          "wordCount": 148,
+          "title": "Dynamicland 2024",
+          "imageUrl": "https://dynamicland.org/2024/Front_shelf/8c7c199d7fe30d0b695537dcb6d7a702.jpg"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=41447758",
           "author": "Signez",
           "description": "Article URL: https://storage.courtlistener.com/recap/gov.uscourts.ca2.60988/gov.uscourts.ca2.60988.306.1.pdf\nComments URL: https://news.ycombinator.com/item?id=41447758\nPoints: 512\n# Comments: 482",
@@ -543,6 +553,16 @@
       "siteUrl": "https://martinfowler.com/feed.atom",
       "articles": [
         {
+          "id": "https://martinfowler.com/articles/fitness-functions-data-products.html",
+          "author": null,
+          "description": "Decentralized data management requires automation to scale governance\n       effectively. Fitness functions are a powerful automated governance\n       technique my colleagues have applied to data products within the context\n       of a Data Mesh. Since data products serve as the foundational building\n       blocks of a data strategy, ensuring robust governance around them\n       significantly increases the chances of success. Kiran\n       Prakash explains how to do this, starting with simple tests for\n       key architectural characteristics and moving on to leveraging metadata\n       and Large Language Models.\nmore…",
+          "link": "https://martinfowler.com/articles/fitness-functions-data-products.html",
+          "publishedOn": "2024-09-05T13:37:00.000Z",
+          "wordCount": 3085,
+          "title": "Governing data products using fitness functions",
+          "imageUrl": "https://martinfowler.com/articles/fitness-functions-data-products/card.png"
+        },
+        {
           "id": "https://martinfowler.com/bliki/CycleTime.html",
           "author": null,
           "description": "Cycle Time is a measure of how long it takes to get a new feature in a\n  software system from idea to running in production. In Agile circles, we try\n  to minimize cycle time. We do this by defining and implementing very small\n  features and minimizing delays in the development process. Although the rough\n  notion of cycle time, and the importance of reducing it, is common, there is a\n  lot of variations on how cycle time is measured.\n\n\nA key characteristic of agile software development is a shift from a\n  Waterfall Process, where work is decomposed based on\n  activity (analysis, coding, testing) to an Iterative Process where work is\n  based on a subset of functionality (simple pricing, bulk discount,\n  valued-customer discount). Doing this generates a feedback loop where we can learn\n  fr…",
@@ -579,6 +599,36 @@
       "feedUrl": "https://rsshub.app/techcrunch/news",
       "siteUrl": "https://techcrunch.com",
       "articles": [
+        {
+          "id": "https://techcrunch.com/2024/09/05/verizon-bets-on-fibers-staying-power-as-it-acquires-frontier-for-20b/",
+          "author": null,
+          "description": "Some major consolidation is afoot in the world of internet communications — and it will have implications for competition and consumer internet access in U.S. On Thursday, Verizon announced that it would gobble up Frontier Communications for $20 billion — more than double Frontier’s market cap at the close of trading the night before.\nFrontier offers internet, phone and TV services — it has also partnered with companies like Google and Amazon over the years to bundle other digital services or find new distribution channels. But Verizon’s big interest in the company is its fiber business and the fact that it extends to places that Verizon does not currently cover as well.\n\n\n\n\nOriginally based in Tampa, Frontier currently has 2.2 million customers across 25 states, including the lucrative ma…",
+          "link": "https://techcrunch.com/2024/09/05/verizon-bets-on-fibers-staying-power-as-it-acquires-frontier-for-20b/",
+          "publishedOn": "2024-09-05T03:19:37.000Z",
+          "wordCount": 3694,
+          "title": "Verizon bets on fiber’s staying power as it acquires Frontier for $20B",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2024/09/getty-verizon-wireless-store-2024.jpg?resize=1200,800"
+        },
+        {
+          "id": "https://techcrunch.com/2024/09/05/sedric-monitors-the-communications-of-employees-at-financial-institutions-to-ensure-compliance/",
+          "author": null,
+          "description": "For financial institutions, complying with regulations is becoming a costlier proposition. According to a recent poll, 76% of financial services firms increased their compliance expenditure from 2022 to 2023, with most blaming new laws.\nWith the cost of compliance averaging out to around $10,000 per employee these days, many firms are searching for ways to reduce spending without running afoul of regulators. Entrepreneurs Nir Laznik and Eyal Peleg say that they’ve created a solution — powered by generative AI, as is the trend.\n\n\n\n\nLaznik and Peleg co-founded Sedric, an AI-powered platform designed to help financial institutions implement compliance rules and flag possible issues. Prior to Sedric, Laznik spearheaded several startups, including a photo kiosk software firm, while Peleg spent …",
+          "link": "https://techcrunch.com/2024/09/05/sedric-monitors-the-communications-of-employees-at-financial-institutions-to-ensure-compliance/",
+          "publishedOn": "2024-09-05T03:00:00.000Z",
+          "wordCount": 4199,
+          "title": "Sedric monitors the communications of employees at financial institutions to ensure compliance",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2016/07/gettyimages-528840251.jpg?resize=1200,675"
+        },
+        {
+          "id": "https://techcrunch.com/2024/09/05/kinsome-new-communication-app-for-kids-and-grandparents/",
+          "author": null,
+          "description": "Over a year ago, former Session M exec Eben Pingree received the news that his mother was diagnosed with Alzheimer’s. Two days later, his father-in-law was given the same diagnosis. \nTo create lasting memories and help his three young children bond with their grandparents, Pingree — along with his co-founders Mike Gerbush, Ashley Hawking, and Brianne Baker — developed Kinsome, a communication platform designed for kids and grandparents to share daily updates and preserve cherished memories.\n\n\n\n\nThe app has been in public beta since last year and officially launched to the public on Thursday, just ahead of Grandparents Day.\nAlongside the launch announcement, the company revealed to TechCrunch that it secured $1.2 million in pre-seed funding. It’s backed by an impressive roster of investors,…",
+          "link": "https://techcrunch.com/2024/09/05/kinsome-new-communication-app-for-kids-and-grandparents/",
+          "publishedOn": "2024-09-05T02:30:00.000Z",
+          "wordCount": 4155,
+          "title": "Kinsome aims to bridge the generation gap with its new app for kids and grandparents",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2024/09/Kinsome-founders.jpg?w=1200"
+        },
         {
           "id": "https://techcrunch.com/2024/09/04/reonic-raises-e13-million-to-help-small-installers-of-green-tech-like-heat-pumps-and-solar-panels/",
           "author": null,
