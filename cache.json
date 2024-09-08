@@ -670,6 +670,36 @@
       "siteUrl": "https://techcrunch.com",
       "articles": [
         {
+          "id": "https://techcrunch.com/2024/09/08/elon-musk-says-tesla-has-no-need-to-license-xai-models/",
+          "author": null,
+          "description": "Elon Musk has denied a report that one of his companies, Tesla, has discussed sharing revenue with another of his companies, xAI, so that it can use the startup’s AI models.\nThe Wall Street Journal wrote yesterday that under a proposed agreement described to investors, Tesla would use xAI models in its driver-assistance software (known as Full Self-Driving or FSD). The AI startup would also help develop features such as a voice assistant in Tesla vehicles and software for Tesla’s humanoid robot Optimus.\n\n\n\n\nWriting on his social media platform X (formerly Twitter), Musk said he hadn’t read the WSJ story, but he described a post summarizing the report as “not accurate.”\n“Tesla has learned a lot from discussions with engineers at xAI that have helped accelerate achieving unsupervised FSD, but there is no need to license anything from xAI,” he wrote. “The xAI models are gigantic, containing, in compressed form, most of human knowledge, and couldn’t possibly run on the Tesla vehicle inference computer, nor would we want them to.”\nMusk founded xAI as a competitor to OpenAI (which he co-founded but eventually left). TechCrunch reported earlier this year that as part of the pitch for xAI’s $6 billion funding round, the startup outlined a vision where its models would be trained on data from Musk’s various companies (Tesla, SpaceX, The Boring Company, Neuralink, and X), and its models could then improve technology across those companies.\nTesla shareholders have sued Musk over the decision to start xAI, arguing that Musk has diverted talent and resources from Tesla to what is essentially a competing company.\n\n\nHaven’t read the article, but the above is not accurate. \nTesla has learned a lot from discussions with engineers at xAI that have helped accelerate achieving unsupervised FSD, but there is no need to license anything from xAI.\nThe xAI models are gigantic, containing, in…\n— Elon Musk (@elonmusk) September 8, 2024",
+          "link": "https://techcrunch.com/2024/09/08/elon-musk-says-tesla-has-no-need-to-license-xai-models/",
+          "publishedOn": "2024-09-08T09:41:26.000Z",
+          "wordCount": 3674,
+          "title": "Elon Musk says Tesla has ‘no need’ to license xAI models",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2024/06/tesla-shareholder-meeting-2024.png?resize=1200,675"
+        },
+        {
+          "id": "https://techcrunch.com/2024/09/08/la-french-tech-gears-up-to-go-in-a-new-direction/",
+          "author": null,
+          "description": "After weeks in political limbo, France now has a new prime minister, former EU’s Brexit negotiator Michel Barnier. But parliament remains bitterly divided, generating uncertainty for many economic sectors — including the country’s dynamic startup ecosystem, which had so far benefited from public support.\nLa French Tech isn’t just a term referring to France’s 25,000 startups; it is also an initiative supported by a public administration, the French Tech Mission, whose director, Clara Chappaz, is departing this month as her three-year contract ends, she told Les Échos. The timing is coincidental, but also noteworthy. Her replacement, she told TechCrunch in late August, should hopefully be someone who is “not afraid of change” and sees it as an opportunity.\n\n\n\n\nThe role is undoubtedly unique.…",
+          "link": "https://techcrunch.com/2024/09/08/la-french-tech-gears-up-to-go-in-a-new-direction/",
+          "publishedOn": "2024-09-08T08:43:53.000Z",
+          "wordCount": 4257,
+          "title": "La French Tech gears up to go in a new direction",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2024/09/clara-chappaz.jpg?resize=1200,800"
+        },
+        {
+          "id": "https://techcrunch.com/2024/09/08/bending-spoons-plans-to-lay-off-75-of-wetransfer-staff-after-acquisition/",
+          "author": null,
+          "description": "Italy-based app company Bending Spoons, which owns Evernote and Meetup, is planning to lay off 75% of the staff of file transfer service WeTransfer, TechCrunch has learned. Bending Spoons acquired the Dutch company in July for an undisclosed amount. \nThe company confirmed the plans for the WeTransfer layoff to TechCrunch. The staff that is being let go will be informed after Bending Spoons goes through local regulations in different countries regarding lay offs. Dutch media reported that WeTransfer has over 350 employees.\n\n\n\n\nBending Spoons CEO Luca Ferrari said that typically, the company studies the organization that it is acquiring and determines what is the best vision of the business going forward with an aim to operate it forever.\n“Once the vision is clear, we try to close the gap be…",
+          "link": "https://techcrunch.com/2024/09/08/bending-spoons-plans-to-lay-off-75-of-wetransfer-staff-after-acquisition/",
+          "publishedOn": "2024-09-08T08:24:10.000Z",
+          "wordCount": 3680,
+          "title": "Bending Spoons plans to lay off 75% of WeTransfer staff after acquisition",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2024/07/Bending-Spoons_CEO-_-cofounder_Luca-Ferrari_3-e1707994418889.webp?w=1024"
+        },
+        {
           "id": "https://techcrunch.com/2024/09/08/meta-llama-everything-you-need-to-know-about-the-open-generative-ai-model/",
           "author": null,
           "description": "Like every big tech company these days, Meta has its own flagship generative AI model, called Llama. Llama is somewhat unique among major models in that it’s “open,” meaning developers can download and use it however they please (with certain limitations). That’s in contrast to models like Anthropic’s Claude, OpenAI’s GPT-4o (which powers ChatGPT) and Google’s Gemini, which can only be accessed via APIs.\nIn the interest of giving developers choice, however, Meta has also partnered with vendors including AWS, Google Cloud and Microsoft Azure to make cloud-hosted versions of Llama available. In addition, the company has released tools designed to make it easier to fine-tune and customize the model.\n\n\n\n\nHere’s everything you need to know about Llama, from its capabilities and editions to wher…",

@@ -2,10 +2,68 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-09-08T19:13:39.284Z</updated>
+    <updated>2024-09-08T20:15:41.737Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Elon Musk says Tesla has ‘no need’ to license xAI models]]></title>
+        <id>https://techcrunch.com/2024/09/08/elon-musk-says-tesla-has-no-need-to-license-xai-models/</id>
+        <link href="https://techcrunch.com/2024/09/08/elon-musk-says-tesla-has-no-need-to-license-xai-models/"/>
+        <updated>2024-09-08T09:41:26.000Z</updated>
+        <summary type="html"><![CDATA[Elon Musk has denied a report that one of his companies, Tesla, has discussed sharing revenue with another of his companies, xAI, so that it can use the startup’s AI models.
+The Wall Street Journal wrote yesterday that under a proposed agreement described to investors, Tesla would use xAI models in its driver-assistance software (known as Full Self-Driving or FSD). The AI startup would also help develop features such as a voice assistant in Tesla vehicles and software for Tesla’s humanoid robot Optimus.
+
+
+
+
+Writing on his social media platform X (formerly Twitter), Musk said he hadn’t read the WSJ story, but he described a post summarizing the report as “not accurate.”
+“Tesla has learned a lot from discussions with engineers at xAI that have helped accelerate achieving unsupervised FSD, but there is no need to license anything from xAI,” he wrote. “The xAI models are gigantic, containing, in compressed form, most of human knowledge, and couldn’t possibly run on the Tesla vehicle inference computer, nor would we want them to.”
+Musk founded xAI as a competitor to OpenAI (which he co-founded but eventually left). TechCrunch reported earlier this year that as part of the pitch for xAI’s $6 billion funding round, the startup outlined a vision where its models would be trained on data from Musk’s various companies (Tesla, SpaceX, The Boring Company, Neuralink, and X), and its models could then improve technology across those companies.
+Tesla shareholders have sued Musk over the decision to start xAI, arguing that Musk has diverted talent and resources from Tesla to what is essentially a competing company.
+
+
+Haven’t read the article, but the above is not accurate. 
+Tesla has learned a lot from discussions with engineers at xAI that have helped accelerate achieving unsupervised FSD, but there is no need to license anything from xAI.
+The xAI models are gigantic, containing, in…
+— Elon Musk (@elonmusk) September 8, 2024]]></summary>
+        <author>
+            <name>TechCrunch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[La French Tech gears up to go in a new direction]]></title>
+        <id>https://techcrunch.com/2024/09/08/la-french-tech-gears-up-to-go-in-a-new-direction/</id>
+        <link href="https://techcrunch.com/2024/09/08/la-french-tech-gears-up-to-go-in-a-new-direction/"/>
+        <updated>2024-09-08T08:43:53.000Z</updated>
+        <summary type="html"><![CDATA[After weeks in political limbo, France now has a new prime minister, former EU’s Brexit negotiator Michel Barnier. But parliament remains bitterly divided, generating uncertainty for many economic sectors — including the country’s dynamic startup ecosystem, which had so far benefited from public support.
+La French Tech isn’t just a term referring to France’s 25,000 startups; it is also an initiative supported by a public administration, the French Tech Mission, whose director, Clara Chappaz, is departing this month as her three-year contract ends, she told Les Échos. The timing is coincidental, but also noteworthy. Her replacement, she told TechCrunch in late August, should hopefully be someone who is “not afraid of change” and sees it as an opportunity.
+
+
+
+
+The role is undoubtedly unique.…]]></summary>
+        <author>
+            <name>TechCrunch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bending Spoons plans to lay off 75% of WeTransfer staff after acquisition]]></title>
+        <id>https://techcrunch.com/2024/09/08/bending-spoons-plans-to-lay-off-75-of-wetransfer-staff-after-acquisition/</id>
+        <link href="https://techcrunch.com/2024/09/08/bending-spoons-plans-to-lay-off-75-of-wetransfer-staff-after-acquisition/"/>
+        <updated>2024-09-08T08:24:10.000Z</updated>
+        <summary type="html"><![CDATA[Italy-based app company Bending Spoons, which owns Evernote and Meetup, is planning to lay off 75% of the staff of file transfer service WeTransfer, TechCrunch has learned. Bending Spoons acquired the Dutch company in July for an undisclosed amount. 
+The company confirmed the plans for the WeTransfer layoff to TechCrunch. The staff that is being let go will be informed after Bending Spoons goes through local regulations in different countries regarding lay offs. Dutch media reported that WeTransfer has over 350 employees.
+
+
+
+
+Bending Spoons CEO Luca Ferrari said that typically, the company studies the organization that it is acquiring and determines what is the best vision of the business going forward with an aim to operate it forever.
+“Once the vision is clear, we try to close the gap be…]]></summary>
+        <author>
+            <name>TechCrunch</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Meta Llama: Everything you need to know about the open generative AI model]]></title>
         <id>https://techcrunch.com/2024/09/08/meta-llama-everything-you-need-to-know-about-the-open-generative-ai-model/</id>
