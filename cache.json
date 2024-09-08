@@ -670,6 +670,26 @@
       "siteUrl": "https://techcrunch.com",
       "articles": [
         {
+          "id": "https://techcrunch.com/2024/09/08/the-coolest-startup-in-the-bay-area-is-a-baseball-team-called-the-oakland-ballers/",
+          "author": null,
+          "description": "The most cliche advice for startup founders is to identify a problem in your life and find a way to solve it. A founder with multiple exits under his belt, Paul Freedman, has a big problem: His beloved Oakland A’s are moving to Las Vegas by way of Sacramento.\n“It’s interesting how much a sports team impacts the psyche of a town,” Freedman told TechCrunch. “And if a team ever makes the decision to abandon the town, it creates heartbreak. Fans have described it like a death in the family, and the death is the family member who threw all the parties.”\n\n\n\n\nFor Oakland sports fans, this collective grief is familiar, which makes it even more devastating.\nThe A’s will be the third professional sports team to leave Oakland in the last five years; the Golden State Warriors of the NBA moved across t…",
+          "link": "https://techcrunch.com/2024/09/08/the-coolest-startup-in-the-bay-area-is-a-baseball-team-called-the-oakland-ballers/",
+          "publishedOn": "2024-09-08T05:00:00.000Z",
+          "wordCount": 4989,
+          "title": "The coolest startup in the Bay Area is a baseball team called the Oakland Ballers",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2024/09/oakland-ballers-bs-icon.jpg?resize=1200,675"
+        },
+        {
+          "id": "https://techcrunch.com/2024/09/08/electro-hydraulic-muscles-help-these-robot-legs-stand-straight-on-uneven-terrain/",
+          "author": null,
+          "description": "Researchers at ETH Zürich are very good at keeping robots standing upright. Back in 2022, the school’s robotics team taught the quadrupedal ANYmal robot how to hike up mountains without falling over. New research from the school, published in collaboration with the Stuttgart-based Max Planck Institute for Intelligent Systems, takes a unique approach to the problem of traversing uneven terrain.\nArtificial muscles showcased by the schools are powered by a hybrid electro-hydraulic system. Along with the ability to adjust automatically to the surface they’re traversing, the legs move faster and jump higher than their more standardized electric counterparts, all without requiring additional sensors or controls.\n\n\n\n\nThe legs’ actuators are surprisingly simple. The teams describe them as “oil-filled plastic bags, similar to those used to make ice cubes.” Those bags are then covered in electrodes. Honestly, the whole thing sounds a bit like a school science project.\n\n\n\n\n\n“[A]s soon as we apply a voltage to the electrodes, they are attracted to each other due to static electricity,” says grad student Thomas Buchner. “Similarly, when I rub a balloon against my head, my hair sticks to the balloon due to the same static electricity.”\nThe bags then expand or contract, based on the voltage being applied. Unlike standard electric actuators, the system doesn’t generate a lot of heat. \nSo the actuators help the system traverse uneven terrain and help it jump high. In terms of real-world use, however, the system still has a long way to go.\n“Compared to walking robots with electric motors, our system is still limited. The leg is currently attached to a rod, jumps in circles and can’t yet move freely,” says Christoph Keplinger, a professor at Max Planck Institute. “If we combine the robotic leg in a quadruped robot or a humanoid robot with two legs, maybe one day, when it is battery-powered, we can deploy it as a rescue robot.”",
+          "link": "https://techcrunch.com/2024/09/08/electro-hydraulic-muscles-help-these-robot-legs-stand-straight-on-uneven-terrain/",
+          "publishedOn": "2024-09-08T04:00:00.000Z",
+          "wordCount": null,
+          "title": "Electro-hydraulic muscles help these robot legs stand straight on uneven terrain",
+          "imageUrl": null
+        },
+        {
           "id": "https://techcrunch.com/2024/09/07/telegram-reportedly-inundated-with-illegal-and-extremist-activity/",
           "author": null,
           "description": "A New York Times analysis of more than 3.2 million Telegram messages from 16,000 channels found that the messaging platform has been “inundated” with illegal and extremist activity.\nSpecifically, The Times found 1,500 channels operated by white supremacists, two dozen channels selling weapons, and at least 22 channels where MDMA, cocaine, heroin and other drugs were advertised for delivery.\nThe company’s founder and CEO Pavel Durov was arrested in France last month, with authorities alleging that Telegram’s lack of content moderation made Durov an accomplice to illegal activity on the platform.\nThe platform subsequently updated its website to allow abuse reports, and Durov has been posting on his Telegram channel, arguing, “Using laws from the pre-smartphone era to charge a CEO with crimes committed by third parties on the platform he manages is a misguided approach.”",

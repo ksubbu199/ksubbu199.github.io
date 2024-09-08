@@ -2,10 +2,52 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-09-08T13:17:56.167Z</updated>
+    <updated>2024-09-08T14:14:20.923Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The coolest startup in the Bay Area is a baseball team called the Oakland Ballers]]></title>
+        <id>https://techcrunch.com/2024/09/08/the-coolest-startup-in-the-bay-area-is-a-baseball-team-called-the-oakland-ballers/</id>
+        <link href="https://techcrunch.com/2024/09/08/the-coolest-startup-in-the-bay-area-is-a-baseball-team-called-the-oakland-ballers/"/>
+        <updated>2024-09-08T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The most cliche advice for startup founders is to identify a problem in your life and find a way to solve it. A founder with multiple exits under his belt, Paul Freedman, has a big problem: His beloved Oakland A’s are moving to Las Vegas by way of Sacramento.
+“It’s interesting how much a sports team impacts the psyche of a town,” Freedman told TechCrunch. “And if a team ever makes the decision to abandon the town, it creates heartbreak. Fans have described it like a death in the family, and the death is the family member who threw all the parties.”
+
+
+
+
+For Oakland sports fans, this collective grief is familiar, which makes it even more devastating.
+The A’s will be the third professional sports team to leave Oakland in the last five years; the Golden State Warriors of the NBA moved across t…]]></summary>
+        <author>
+            <name>TechCrunch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Electro-hydraulic muscles help these robot legs stand straight on uneven terrain]]></title>
+        <id>https://techcrunch.com/2024/09/08/electro-hydraulic-muscles-help-these-robot-legs-stand-straight-on-uneven-terrain/</id>
+        <link href="https://techcrunch.com/2024/09/08/electro-hydraulic-muscles-help-these-robot-legs-stand-straight-on-uneven-terrain/"/>
+        <updated>2024-09-08T04:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Researchers at ETH Zürich are very good at keeping robots standing upright. Back in 2022, the school’s robotics team taught the quadrupedal ANYmal robot how to hike up mountains without falling over. New research from the school, published in collaboration with the Stuttgart-based Max Planck Institute for Intelligent Systems, takes a unique approach to the problem of traversing uneven terrain.
+Artificial muscles showcased by the schools are powered by a hybrid electro-hydraulic system. Along with the ability to adjust automatically to the surface they’re traversing, the legs move faster and jump higher than their more standardized electric counterparts, all without requiring additional sensors or controls.
+
+
+
+
+The legs’ actuators are surprisingly simple. The teams describe them as “oil-filled plastic bags, similar to those used to make ice cubes.” Those bags are then covered in electrodes. Honestly, the whole thing sounds a bit like a school science project.
+
+
+
+
+
+“[A]s soon as we apply a voltage to the electrodes, they are attracted to each other due to static electricity,” says grad student Thomas Buchner. “Similarly, when I rub a balloon against my head, my hair sticks to the balloon due to the same static electricity.”
+The bags then expand or contract, based on the voltage being applied. Unlike standard electric actuators, the system doesn’t generate a lot of heat. 
+So the actuators help the system traverse uneven terrain and help it jump high. In terms of real-world use, however, the system still has a long way to go.
+“Compared to walking robots with electric motors, our system is still limited. The leg is currently attached to a rod, jumps in circles and can’t yet move freely,” says Christoph Keplinger, a professor at Max Planck Institute. “If we combine the robotic leg in a quadruped robot or a humanoid robot with two legs, maybe one day, when it is battery-powered, we can deploy it as a rescue robot.”]]></summary>
+        <author>
+            <name>TechCrunch</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Telegram reportedly ‘inundated’ with illegal and extremist activity]]></title>
         <id>https://techcrunch.com/2024/09/07/telegram-reportedly-inundated-with-illegal-and-extremist-activity/</id>
