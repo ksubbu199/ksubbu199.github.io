@@ -2,10 +2,67 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-09-09T15:16:45.342Z</updated>
+    <updated>2024-09-09T16:19:32.925Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[YC alum Odigos aims to help enterprises find errors and stamp out latency in their systems]]></title>
+        <id>https://techcrunch.com/2024/09/09/yc-alum-odigos-aims-to-help-enterprises-find-errors-and-stamp-out-latency-in-their-systems/</id>
+        <link href="https://techcrunch.com/2024/09/09/yc-alum-odigos-aims-to-help-enterprises-find-errors-and-stamp-out-latency-in-their-systems/"/>
+        <updated>2024-09-09T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Companies’ data architecture today looks nothing like it did 20 years ago, but monitoring and tracing tools haven’t followed suit, making it difficult for engineering teams to identify the root cause of errors and latency issues. 
+Israeli developer Eden Federman thinks the solution is distributed tracing, a more advanced observability method, but he found adoption to be lower than he expected due to implementation hurdles. This led him to co-found Odigos, a startup that helps companies easily monitor complex, cloud-native systems that handle large amounts of data, as is now often the case.
+
+
+
+
+He and CEO Ari Recht aren’t related, but their wives are cousins. That’s how Federman ended up asking Recht, an investment banker (standing on the left in the picture above), if he could present him …]]></summary>
+        <author>
+            <name>TechCrunch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Miami-based AI bookkeeping startup finally has raised another big round: $200M in equity and debt]]></title>
+        <id>https://techcrunch.com/2024/09/09/miami-based-ai-bookkeeping-startup-finally-has-raised-another-big-round-200m-in-equity-and-debt/</id>
+        <link href="https://techcrunch.com/2024/09/09/miami-based-ai-bookkeeping-startup-finally-has-raised-another-big-round-200m-in-equity-and-debt/"/>
+        <updated>2024-09-09T04:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The SMB-focused bookkeeping, accounting and finance startup finally has raised $50 million in a Series B round of funding and secured a $150 million credit line, TechCrunch is the first to report.
+The financing comes just seven months after the fintech company announced it had raised $10 million in funding, and brings Miami-based finally’s total raised since its 2018 inception to $305 million in debt ($235 million in credit facilities) and equity ($74 million).
+
+
+
+
+Felix Rodriguez came up with the idea for finally after seeing his Dominican Republican-born family start their own businesses in the United States. He’d also experienced his own challenges firsthand when starting his own companies, and concluded that not all small businesses were on a level playing field when it came to bookkee…]]></summary>
+        <author>
+            <name>TechCrunch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Thousands of Avis car rental customers had personal data stolen in cyberattack]]></title>
+        <id>https://techcrunch.com/2024/09/09/thousands-of-avis-car-rental-customers-had-personal-data-stolen-in-cyberattack/</id>
+        <link href="https://techcrunch.com/2024/09/09/thousands-of-avis-car-rental-customers-had-personal-data-stolen-in-cyberattack/"/>
+        <updated>2024-09-09T03:40:08.000Z</updated>
+        <summary type="html"><![CDATA[Car rental giant Avis is notifying hundreds of thousands of people that their personal information and driver’s license numbers were stolen in an August cyberattack.
+The New Jersey-headquartered company said in a data breach notice filed with several U.S. attorneys general over the past week that it discovered intruders in one of its business applications on August 5 and took efforts to end the unauthorized access, which the company said began two days earlier. 
+
+
+
+
+Avis did not disclose the nature of the cyberattack and details of the incident remain scarce. An Avis spokesperson did not respond to an email requesting comment about the cyberattack.
+In a data breach notice filed late last week with Iowa’s attorney general, the car rental company said that the stolen information includes customer names, mailing addresses, email addresses, phone numbers, their date of birth, credit card numbers and expiration dates, and driver’s license numbers. It’s not yet known why Avis stored this sensitive customer information in a way that allowed it to be compromised.
+On Monday, a filing with Maine’s attorney general revealed that Avis’ data breach affects a total of 299,006 individuals to date. A separate filing with Texas’ attorney general reported that Texas had the most number of affected state residents at 34,592 individuals.
+Further data breach notices are expected to be filed in the coming weeks with the remaining attorneys general. It’s not yet known if the number of individuals affected by the Avis data breach will rise. 
+Avis, which owns the Budget car hire and Zipcar car-sharing brands, has more than 10,000 rental locations in 180 countries, according to the company’s most recent full-year financial earnings reported in February. Avis made $12 billion in revenue during 2023, and the company’s chief executive Joe Ferraro reported $10.2 million in total compensation that year.
+
+
+
+
+It is not clear who at Avis oversees cybersecurity for the company.]]></summary>
+        <author>
+            <name>TechCrunch</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[QUIC is not quick enough over fast internet]]></title>
         <id>https://news.ycombinator.com/item?id=41484991</id>
