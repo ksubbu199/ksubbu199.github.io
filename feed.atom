@@ -2,10 +2,66 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-09-09T11:13:34.511Z</updated>
+    <updated>2024-09-09T12:32:00.867Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Sonos delays set-top box after flawed app update]]></title>
+        <id>https://techcrunch.com/2024/09/09/sonos-delays-set-top-box-after-flawed-app-update/</id>
+        <link href="https://techcrunch.com/2024/09/09/sonos-delays-set-top-box-after-flawed-app-update/"/>
+        <updated>2024-09-09T01:30:29.000Z</updated>
+        <summary type="html"><![CDATA[It’s been an infamous year for software updates gone wrong. But what’s the worst-case scenario for a buggy update? Sonos may be trying to find the answer as its mobile app update continues to derail its best laid plans.
+In its most recent earnings call, the company announced that it had no choice but to delay two product releases due to ongoing work on the software front. Now, Bloomberg’s Mark Gurman reports that one of these two products is a set-top box that would compete with the Apple TV and other Roku-like devices.
+But that’s not all; the company’s reputation has been tarnished, and it’s going to be hard to recover. According to Bloomberg, Sonos’ new Ace headphones are underperforming, and stock is down — even after it conducted a round of layoffs.
+The question now is: has Sonos hit rock bottom, or can it spiral down even further?]]></summary>
+        <author>
+            <name>TechCrunch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EV startup Ather seeks to raise $370 million in India IPO]]></title>
+        <id>https://techcrunch.com/2024/09/09/ev-startup-ather-seeks-to-raise-370-million-in-india-ipo/</id>
+        <link href="https://techcrunch.com/2024/09/09/ev-startup-ather-seeks-to-raise-370-million-in-india-ipo/"/>
+        <updated>2024-09-09T01:23:53.000Z</updated>
+        <summary type="html"><![CDATA[Indian electric scooter manufacturer Ather Energy plans to raise about $370 million in its initial public offering, according to its draft prospectus filed on Monday (PDF), as the startup seeks to capitalize on growing demand for electric vehicles in the world’s third-largest auto market.
+The Bengaluru-based startup, which competes with recently listed rival Ola Electric, is targeting a valuation of $1.5 billion to $2 billion, people familiar with the matter told TechCrunch. The company said it will sell new shares in the IPO as well as up to 22 million shares from existing investors. 
+
+
+
+
+Ather Energy declined to comment.
+The startup said it will use the proceeds to fund a new manufacturing facility in the state of Maharashtra, repay borrowings, and for research and development.
+Ather’s I…]]></summary>
+        <author>
+            <name>TechCrunch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Electro-hydraulic muscles help these robot legs stand straight on uneven terrain]]></title>
+        <id>https://techcrunch.com/2024/09/09/electro-hydraulic-muscles-help-these-robot-legs-stand-straight-on-uneven-terrain/</id>
+        <link href="https://techcrunch.com/2024/09/09/electro-hydraulic-muscles-help-these-robot-legs-stand-straight-on-uneven-terrain/"/>
+        <updated>2024-09-09T01:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Researchers at ETH Zürich are very good at keeping robots standing upright. Back in 2022, the school’s robotics team taught the quadrupedal ANYmal robot how to hike up mountains without falling over. New research from the school, published in collaboration with the Stuttgart-based Max Planck Institute for Intelligent Systems, takes a unique approach to the problem of traversing uneven terrain.
+Artificial muscles showcased by the schools are powered by a hybrid electro-hydraulic system. Along with the ability to adjust automatically to the surface they’re traversing, the legs move faster and jump higher than their more standardized electric counterparts, all without requiring additional sensors or controls.
+
+
+
+
+The legs’ actuators are surprisingly simple. The teams describe them as “oil-filled plastic bags, similar to those used to make ice cubes.” Those bags are then covered in electrodes. Honestly, the whole thing sounds a bit like a school science project.
+
+
+
+
+
+“[A]s soon as we apply a voltage to the electrodes, they are attracted to each other due to static electricity,” says grad student Thomas Buchner. “Similarly, when I rub a balloon against my head, my hair sticks to the balloon due to the same static electricity.”
+The bags then expand or contract, based on the voltage being applied. Unlike standard electric actuators, the system doesn’t generate a lot of heat. 
+So the actuators help the system traverse uneven terrain and help it jump high. In terms of real-world use, however, the system still has a long way to go.
+“Compared to walking robots with electric motors, our system is still limited. The leg is currently attached to a rod, jumps in circles and can’t yet move freely,” says Christoph Keplinger, a professor at Max Planck Institute. “If we combine the robotic leg in a quadruped robot or a humanoid robot with two legs, maybe one day, when it is battery-powered, we can deploy it as a rescue robot.”]]></summary>
+        <author>
+            <name>TechCrunch</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[European VC Atomico closes $1.24B across two funds for early and growth-stage startups]]></title>
         <id>https://techcrunch.com/2024/09/08/european-vc-atomico-closes-1-24b-across-two-funds-for-early-and-growth-stage-startups/</id>
@@ -484,6 +540,19 @@ Lang said they realized that software providers were trying to build their own b
 The company works mainly with small and medium-sized businesses (SMBs) that employ at least five technicians such as estheticians or nail technicians. The software helps automate tasks from client b…]]></summary>
         <author>
             <name>TechCrunch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Effects of Gen AI on High Skilled Work: Experiments with Software Developers]]></title>
+        <id>https://news.ycombinator.com/item?id=41465081</id>
+        <link href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4945566"/>
+        <updated>2024-09-06T11:21:57.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4945566
+Comments URL: https://news.ycombinator.com/item?id=41465081
+Points: 323
+# Comments: 505]]></summary>
+        <author>
+            <name>Anon84</name>
         </author>
     </entry>
     <entry>
