@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-09-09T14:17:28.361Z</updated>
+    <updated>2024-09-09T15:16:45.342Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[QUIC is not quick enough over fast internet]]></title>
+        <id>https://news.ycombinator.com/item?id=41484991</id>
+        <link href="https://dl.acm.org/doi/10.1145/3589334.3645323"/>
+        <updated>2024-09-09T02:34:15.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://dl.acm.org/doi/10.1145/3589334.3645323
+Comments URL: https://news.ycombinator.com/item?id=41484991
+Points: 526
+# Comments: 242]]></summary>
+        <author>
+            <name>Shank</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Sonos delays set-top box after flawed app update]]></title>
         <id>https://techcrunch.com/2024/09/09/sonos-delays-set-top-box-after-flawed-app-update/</id>
