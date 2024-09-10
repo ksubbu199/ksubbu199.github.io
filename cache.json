@@ -26,6 +26,16 @@
           "imageUrl": "https://www.apple.com/newsroom/images/2024/09/apple-debuts-iphone-16-pro-and-iphone-16-pro-max/tile/Apple-iPhone-16-Pro-hero-240909-lp.jpg.og.jpg?202409091852"
         },
         {
+          "id": "https://news.ycombinator.com/item?id=41490290",
+          "author": "LorenDB",
+          "description": "Article URL: https://blogsystem5.substack.com/p/windows-nt-vs-unix-design\nComments URL: https://news.ycombinator.com/item?id=41490290\nPoints: 518\n# Comments: 440",
+          "link": "https://blogsystem5.substack.com/p/windows-nt-vs-unix-design",
+          "publishedOn": "2024-09-09T16:37:29.000Z",
+          "wordCount": null,
+          "title": "Windows NT vs. Unix: A design comparison",
+          "imageUrl": null
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=41490161",
           "author": "hardwaregeek",
           "description": "Article URL: https://blog.gitbutler.com/why-github-actually-won/\nComments URL: https://news.ycombinator.com/item?id=41490161\nPoints: 500\n# Comments: 413",
@@ -759,6 +769,86 @@
       "feedUrl": "https://rsshub.app/techcrunch/news",
       "siteUrl": "https://techcrunch.com",
       "articles": [
+        {
+          "id": "https://techcrunch.com/2024/09/10/lucid-motors-gravity-tesla-charging-nacs/",
+          "author": null,
+          "description": "Lucid Motors is just a few months away from finally launching its electric SUV, and the company now says the upcoming vehicle — dubbed Gravity — will have Tesla’s North American Charging Standard (NACS) built right in, making an adapter unnecessary.\nLucid announced the news ahead of a planned “Technology and Manufacturing Day” event at its Arizona factory, where the company will go into greater detail about how it has designed and will build the Gravity. The company previously announced that it would start offering adapters for its current EV, the Air, in 2025 and that it planned to integrate NACS charging in future vehicles.\n\n\n\n\nMaking the Gravity as attractive a product as possible is crucial for Lucid, which has struggled to grow sales of its Air sedan at a time when SUVs are dominant i…",
+          "link": "https://techcrunch.com/2024/09/10/lucid-motors-gravity-tesla-charging-nacs/",
+          "publishedOn": "2024-09-10T05:43:04.000Z",
+          "wordCount": 3592,
+          "title": "Lucid Motors’ Gravity SUV will have Tesla charging built in",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2024/09/lucid-gravity-suv.jpg?resize=1200,766"
+        },
+        {
+          "id": "https://techcrunch.com/2024/09/10/mariadb-goes-private-with-new-ceo-as-k1-closes-acquisition/",
+          "author": null,
+          "description": "MariaDB‘s short-lived tenure as a public company is all but over, as the struggling database business is now fully under the auspices of K1 Investment Management. MariaDB also announced a new CEO in the form of former Micro Focus executive Rohit de Souza, who replaces Paul O’Brien after just 16 months in the hotseat in preparation for life as a private company. \nThe company quietly filed a Form 25 with the Securities and Exchange Commission (SEC) on August 26th, marking the day that California-based private equity firm K1 took full-ownership of MariaDB and its shares de-listed from the New York Stock Exchange (NYSE) as in interim measure. Then last Thursday, MariaDB filed a Form 15 with the SEC, formally triggering the company’s de-registration process from the NYSE, which takes a full 90 …",
+          "link": "https://techcrunch.com/2024/09/10/mariadb-goes-private-with-new-ceo-as-k1-closes-acquisition/",
+          "publishedOn": "2024-09-10T05:15:02.000Z",
+          "wordCount": 3911,
+          "title": "MariaDB goes private with new CEO as K1 closes acquisition",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2024/09/GettyImages-1499053087-e1725966575594.jpg?resize=1200,676"
+        },
+        {
+          "id": "https://techcrunch.com/2024/09/10/jfrog-deepens-its-partnership-with-github-launches-runtime-security-service/",
+          "author": null,
+          "description": "Earlier this year, software supply chain platform (and binary specialist) JFrog announced a partnership with GitHub that, among other things, allowed developers and the teams that support them to trace code from source to binary package across the two platforms. On Tuesday, at JFrog’s SwampUp conference in Austin, the two companies are extending this early work on their integrations with a focus on security.\nIn addition, JFrog is also launching a runtime security solution, as well as an integration with Nvidia’s NIM microservices, which expands its ambition as an MLOps platform after it acquired Qwak earlier this year.\nDeeper GitHub integration\nJFrog CEO and co-founder Shlomi Ben Haim told me that the idea behind the GitHub partnership was always meant to go deeper than the original integr…",
+          "link": "https://techcrunch.com/2024/09/10/jfrog-deepens-its-partnership-with-github-launches-runtime-security-service/",
+          "publishedOn": "2024-09-10T05:15:00.000Z",
+          "wordCount": 3986,
+          "title": "JFrog deepens its partnership with GitHub, launches runtime security service",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2024/09/GettyImages-171206852.jpg?resize=1200,779"
+        },
+        {
+          "id": "https://techcrunch.com/2024/09/10/qualifyze-swallows-54m-to-improve-pharmaceutical-supply-chains/",
+          "author": null,
+          "description": "In the world of pharmaceuticals, companies aim to operate under GMP guidelines — a set of production and manufacturing measures to assure standards for medicinal products. But too often, the realities can be anything but that. \n“Officially, GMP stands for ‘Good Manufacturing Practices,’” said Dr. David Schneider, the founder and CEO of Qualifyze. “But people joke that it actually stands for ‘Give Me Paper,’ because everything is paper-based in the pharma industry.” \n\n\n\n\nThe term and the sardonic joke behind it underscore the problem in the pharmaceutical industry, as well as Schneider’s efforts to fix it through Qualifyze. \nThe Frankfurt-based startup has built out a network of quality assurance experts plus a large database of suppliers and buyers to help track how a company’s supply chai…",
+          "link": "https://techcrunch.com/2024/09/10/qualifyze-swallows-54m-to-improve-pharmaceutical-supply-chains/",
+          "publishedOn": "2024-09-10T05:14:11.000Z",
+          "wordCount": 4027,
+          "title": "Qualifyze swallows $54M to improve pharmaceutical supply chains",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2024/02/prescriptions-change-healthcare-cyberattack-hackers-ap.jpg?resize=1200,800"
+        },
+        {
+          "id": "https://techcrunch.com/2024/09/10/stackgen-raises-12-3m-for-its-infrastructure-from-code-service/",
+          "author": null,
+          "description": "AppCD is a startup that aims to make it easier for developers to set up infrastructure to run their applications by inferring what’s needed from their source code. The company on Tuesday announced that it has rebranded as StackGen and closed what is now a $12.3 million seed round (after first announcing a $6 million round in March).\nThere are plenty of infrastructure-as-code companies, where developers essentially write what the infrastructure should look like in one of their preferred programming languages, but the idea behind StackGen and similar projects is generally described as infrastructure-from-code. StackGen autogenerates the Terraform or Helm charts to set up the infrastructure after analyzing the source code, using what the company likes to call “golden standards” to ensure comp…",
+          "link": "https://techcrunch.com/2024/09/10/stackgen-raises-12-3m-for-its-infrastructure-from-code-service/",
+          "publishedOn": "2024-09-10T05:00:00.000Z",
+          "wordCount": 3815,
+          "title": "StackGen raises $12.3M for its infrastructure-from-code service",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2024/09/GettyImages-1264549280-1.jpg?resize=1200,800"
+        },
+        {
+          "id": "https://techcrunch.com/2024/09/10/inversion-space-accelerates-orbital-reentry-vehicle-tech-with-71m-space-force-contract/",
+          "author": null,
+          "description": "Goods are shipped around the world via roads, rail and air. Why not space, too?\nThat’s the question posed by Inversion Space, a Los Angeles-based startup that’s developing a reentry capsule that it says will be capable of autonomously landing anywhere on Earth to a football field-sized degree of accuracy. \n\n\n\n\nEquipped with a new $71 million contract from SpaceWERX, the technology development arm of the U.S. Space Force, Inversion is now racing toward a demonstration mission of its full-scale reentry vehicle as soon as 2026. \n“There really has not been a product that does this, that is able to land highly precisely, deliver on the order of hundreds of pounds of cargo to a location that people can quickly access,” Justin Fiaschetti, cofounder and CEO of Inversion, said in a recent interview…",
+          "link": "https://techcrunch.com/2024/09/10/inversion-space-accelerates-orbital-reentry-vehicle-tech-with-71m-space-force-contract/",
+          "publishedOn": "2024-09-10T05:00:00.000Z",
+          "wordCount": 3810,
+          "title": "Inversion Space accelerates orbital reentry vehicle tech with $71M Space Force contract",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2024/09/Inversion-Space-7.1.2024-Export-11.jpg?resize=1200,800"
+        },
+        {
+          "id": "https://techcrunch.com/2024/09/10/hardware-companies-dominate-a-list-of-promising-climate-tech-startups/",
+          "author": null,
+          "description": "What will it take for a startup to make a dent in climate change?\nThe most promising candidates tend to be hardware startups that have spent years developing and proving their technologies, according to a new report. Oh, and it helps to specialize in energy or raw materials.\n\n\n\n\nThe report, published by Congruent Ventures and Silicon Valley Bank, surveyed over 50 experts in academia, finance and private sector businesses to assemble a list that was then whittled down to 50 North American companies in four categories: agriculture and food, energy, buildings and mobility, and manufacturing and materials. \nThe majority of the final 50 were manufacturing and materials startups (18), with energy startups not far behind (13). Agriculture and food were not well represented, despite the sector bei…",
+          "link": "https://techcrunch.com/2024/09/10/hardware-companies-dominate-a-list-of-promising-climate-tech-startups/",
+          "publishedOn": "2024-09-10T04:18:37.000Z",
+          "wordCount": 3814,
+          "title": "Hardware companies dominate a list of promising climate tech startups",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2022/11/GettyImages-1145372130.jpg?resize=1200,800"
+        },
+        {
+          "id": "https://techcrunch.com/2024/09/10/smartcat-secures-43m-for-its-ai-powered-translation-platform/",
+          "author": null,
+          "description": "Can AI ever fully replace translators? Not likely. AI translations tend to lack the lexical richness of their human-translated counterparts, mainly because AI models make choices based on probability — not lived experience. Certainly, AI can produce “accurate” translations, but the translations lack the spice of life, like a textbook version of the source text.\nFor many companies, accuracy is all that’s required, making the AI translation sector an attractive one. Smartcat, founded in 2016, is among the vendors providing automated translation tools geared toward enterprises, and its co-founder and CEO, Ivan Smolnikov, says business is good.\n\n\n\n\n“We have over 1,000 corporate customers, including 20% of the Fortune 500,” he told TechCrunch. “While most of Smartcat’s clients are large global …",
+          "link": "https://techcrunch.com/2024/09/10/smartcat-secures-43m-for-its-ai-powered-translation-platform/",
+          "publishedOn": "2024-09-10T04:00:00.000Z",
+          "wordCount": 3878,
+          "title": "Smartcat secures $43M for its AI-powered translation platform",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2019/07/ai-assisted-translation.png?resize=1200,638"
+        },
         {
           "id": "https://techcrunch.com/2024/09/10/form3-a-quiet-giant-in-uk-fintech-raises-60m-at-a-570m-valuation/",
           "author": null,

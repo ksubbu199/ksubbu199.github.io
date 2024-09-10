@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-09-10T14:15:20.768Z</updated>
+    <updated>2024-09-10T15:16:42.608Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -13,6 +13,124 @@
         <updated>2024-09-10T11:50:58.000Z</updated>
         <author>
             <name>Think School</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lucid Motors’ Gravity SUV will have Tesla charging built in]]></title>
+        <id>https://techcrunch.com/2024/09/10/lucid-motors-gravity-tesla-charging-nacs/</id>
+        <link href="https://techcrunch.com/2024/09/10/lucid-motors-gravity-tesla-charging-nacs/"/>
+        <updated>2024-09-10T05:43:04.000Z</updated>
+        <summary type="html"><![CDATA[Lucid Motors is just a few months away from finally launching its electric SUV, and the company now says the upcoming vehicle — dubbed Gravity — will have Tesla’s North American Charging Standard (NACS) built right in, making an adapter unnecessary.
+Lucid announced the news ahead of a planned “Technology and Manufacturing Day” event at its Arizona factory, where the company will go into greater detail about how it has designed and will build the Gravity. The company previously announced that it would start offering adapters for its current EV, the Air, in 2025 and that it planned to integrate NACS charging in future vehicles.
+
+
+
+
+Making the Gravity as attractive a product as possible is crucial for Lucid, which has struggled to grow sales of its Air sedan at a time when SUVs are dominant i…]]></summary>
+        <author>
+            <name>TechCrunch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MariaDB goes private with new CEO as K1 closes acquisition]]></title>
+        <id>https://techcrunch.com/2024/09/10/mariadb-goes-private-with-new-ceo-as-k1-closes-acquisition/</id>
+        <link href="https://techcrunch.com/2024/09/10/mariadb-goes-private-with-new-ceo-as-k1-closes-acquisition/"/>
+        <updated>2024-09-10T05:15:02.000Z</updated>
+        <summary type="html"><![CDATA[MariaDB‘s short-lived tenure as a public company is all but over, as the struggling database business is now fully under the auspices of K1 Investment Management. MariaDB also announced a new CEO in the form of former Micro Focus executive Rohit de Souza, who replaces Paul O’Brien after just 16 months in the hotseat in preparation for life as a private company. 
+The company quietly filed a Form 25 with the Securities and Exchange Commission (SEC) on August 26th, marking the day that California-based private equity firm K1 took full-ownership of MariaDB and its shares de-listed from the New York Stock Exchange (NYSE) as in interim measure. Then last Thursday, MariaDB filed a Form 15 with the SEC, formally triggering the company’s de-registration process from the NYSE, which takes a full 90 …]]></summary>
+        <author>
+            <name>TechCrunch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JFrog deepens its partnership with GitHub, launches runtime security service]]></title>
+        <id>https://techcrunch.com/2024/09/10/jfrog-deepens-its-partnership-with-github-launches-runtime-security-service/</id>
+        <link href="https://techcrunch.com/2024/09/10/jfrog-deepens-its-partnership-with-github-launches-runtime-security-service/"/>
+        <updated>2024-09-10T05:15:00.000Z</updated>
+        <summary type="html"><![CDATA[Earlier this year, software supply chain platform (and binary specialist) JFrog announced a partnership with GitHub that, among other things, allowed developers and the teams that support them to trace code from source to binary package across the two platforms. On Tuesday, at JFrog’s SwampUp conference in Austin, the two companies are extending this early work on their integrations with a focus on security.
+In addition, JFrog is also launching a runtime security solution, as well as an integration with Nvidia’s NIM microservices, which expands its ambition as an MLOps platform after it acquired Qwak earlier this year.
+Deeper GitHub integration
+JFrog CEO and co-founder Shlomi Ben Haim told me that the idea behind the GitHub partnership was always meant to go deeper than the original integr…]]></summary>
+        <author>
+            <name>TechCrunch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Qualifyze swallows $54M to improve pharmaceutical supply chains]]></title>
+        <id>https://techcrunch.com/2024/09/10/qualifyze-swallows-54m-to-improve-pharmaceutical-supply-chains/</id>
+        <link href="https://techcrunch.com/2024/09/10/qualifyze-swallows-54m-to-improve-pharmaceutical-supply-chains/"/>
+        <updated>2024-09-10T05:14:11.000Z</updated>
+        <summary type="html"><![CDATA[In the world of pharmaceuticals, companies aim to operate under GMP guidelines — a set of production and manufacturing measures to assure standards for medicinal products. But too often, the realities can be anything but that. 
+“Officially, GMP stands for ‘Good Manufacturing Practices,’” said Dr. David Schneider, the founder and CEO of Qualifyze. “But people joke that it actually stands for ‘Give Me Paper,’ because everything is paper-based in the pharma industry.” 
+
+
+
+
+The term and the sardonic joke behind it underscore the problem in the pharmaceutical industry, as well as Schneider’s efforts to fix it through Qualifyze. 
+The Frankfurt-based startup has built out a network of quality assurance experts plus a large database of suppliers and buyers to help track how a company’s supply chai…]]></summary>
+        <author>
+            <name>TechCrunch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[StackGen raises $12.3M for its infrastructure-from-code service]]></title>
+        <id>https://techcrunch.com/2024/09/10/stackgen-raises-12-3m-for-its-infrastructure-from-code-service/</id>
+        <link href="https://techcrunch.com/2024/09/10/stackgen-raises-12-3m-for-its-infrastructure-from-code-service/"/>
+        <updated>2024-09-10T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[AppCD is a startup that aims to make it easier for developers to set up infrastructure to run their applications by inferring what’s needed from their source code. The company on Tuesday announced that it has rebranded as StackGen and closed what is now a $12.3 million seed round (after first announcing a $6 million round in March).
+There are plenty of infrastructure-as-code companies, where developers essentially write what the infrastructure should look like in one of their preferred programming languages, but the idea behind StackGen and similar projects is generally described as infrastructure-from-code. StackGen autogenerates the Terraform or Helm charts to set up the infrastructure after analyzing the source code, using what the company likes to call “golden standards” to ensure comp…]]></summary>
+        <author>
+            <name>TechCrunch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Inversion Space accelerates orbital reentry vehicle tech with $71M Space Force contract]]></title>
+        <id>https://techcrunch.com/2024/09/10/inversion-space-accelerates-orbital-reentry-vehicle-tech-with-71m-space-force-contract/</id>
+        <link href="https://techcrunch.com/2024/09/10/inversion-space-accelerates-orbital-reentry-vehicle-tech-with-71m-space-force-contract/"/>
+        <updated>2024-09-10T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Goods are shipped around the world via roads, rail and air. Why not space, too?
+That’s the question posed by Inversion Space, a Los Angeles-based startup that’s developing a reentry capsule that it says will be capable of autonomously landing anywhere on Earth to a football field-sized degree of accuracy. 
+
+
+
+
+Equipped with a new $71 million contract from SpaceWERX, the technology development arm of the U.S. Space Force, Inversion is now racing toward a demonstration mission of its full-scale reentry vehicle as soon as 2026. 
+“There really has not been a product that does this, that is able to land highly precisely, deliver on the order of hundreds of pounds of cargo to a location that people can quickly access,” Justin Fiaschetti, cofounder and CEO of Inversion, said in a recent interview…]]></summary>
+        <author>
+            <name>TechCrunch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hardware companies dominate a list of promising climate tech startups]]></title>
+        <id>https://techcrunch.com/2024/09/10/hardware-companies-dominate-a-list-of-promising-climate-tech-startups/</id>
+        <link href="https://techcrunch.com/2024/09/10/hardware-companies-dominate-a-list-of-promising-climate-tech-startups/"/>
+        <updated>2024-09-10T04:18:37.000Z</updated>
+        <summary type="html"><![CDATA[What will it take for a startup to make a dent in climate change?
+The most promising candidates tend to be hardware startups that have spent years developing and proving their technologies, according to a new report. Oh, and it helps to specialize in energy or raw materials.
+
+
+
+
+The report, published by Congruent Ventures and Silicon Valley Bank, surveyed over 50 experts in academia, finance and private sector businesses to assemble a list that was then whittled down to 50 North American companies in four categories: agriculture and food, energy, buildings and mobility, and manufacturing and materials. 
+The majority of the final 50 were manufacturing and materials startups (18), with energy startups not far behind (13). Agriculture and food were not well represented, despite the sector bei…]]></summary>
+        <author>
+            <name>TechCrunch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Smartcat secures $43M for its AI-powered translation platform]]></title>
+        <id>https://techcrunch.com/2024/09/10/smartcat-secures-43m-for-its-ai-powered-translation-platform/</id>
+        <link href="https://techcrunch.com/2024/09/10/smartcat-secures-43m-for-its-ai-powered-translation-platform/"/>
+        <updated>2024-09-10T04:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Can AI ever fully replace translators? Not likely. AI translations tend to lack the lexical richness of their human-translated counterparts, mainly because AI models make choices based on probability — not lived experience. Certainly, AI can produce “accurate” translations, but the translations lack the spice of life, like a textbook version of the source text.
+For many companies, accuracy is all that’s required, making the AI translation sector an attractive one. Smartcat, founded in 2016, is among the vendors providing automated translation tools geared toward enterprises, and its co-founder and CEO, Ivan Smolnikov, says business is good.
+
+
+
+
+“We have over 1,000 corporate customers, including 20% of the Fortune 500,” he told TechCrunch. “While most of Smartcat’s clients are large global …]]></summary>
+        <author>
+            <name>TechCrunch</name>
         </author>
     </entry>
     <entry>
@@ -154,6 +272,19 @@ Points: 506
 # Comments: 1240]]></summary>
         <author>
             <name>mfiguiere</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Windows NT vs. Unix: A design comparison]]></title>
+        <id>https://news.ycombinator.com/item?id=41490290</id>
+        <link href="https://blogsystem5.substack.com/p/windows-nt-vs-unix-design"/>
+        <updated>2024-09-09T16:37:29.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://blogsystem5.substack.com/p/windows-nt-vs-unix-design
+Comments URL: https://news.ycombinator.com/item?id=41490290
+Points: 518
+# Comments: 440]]></summary>
+        <author>
+            <name>LorenDB</name>
         </author>
     </entry>
     <entry>
