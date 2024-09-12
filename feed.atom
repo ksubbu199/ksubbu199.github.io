@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-09-12T19:12:27.808Z</updated>
+    <updated>2024-09-12T20:17:23.906Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -17,6 +17,19 @@ Points: 699
 # Comments: 431]]></summary>
         <author>
             <name>fofoz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: iFixit created a new USB-C, repairable soldering system]]></title>
+        <id>https://news.ycombinator.com/item?id=41521919</id>
+        <link href="https://hackaday.com/2024/09/12/review-ifixits-fixhub-may-be-the-last-soldering-iron-you-ever-buy/"/>
+        <updated>2024-09-12T15:18:43.000Z</updated>
+        <summary type="html"><![CDATA[After years of making screwdrivers and teaching people to repair electronics, we just made our first electronic tool. It's been a journey for us to build while hewing to our repairable principles. We're really excited about it.
+It's a USB-C powered soldering iron and smart battery power hub. Super repairable, of course. Our goal is to make soldering so easy everyone can do it:
+https://www.ifixit.com/fixhub
+We didn’t want to make just another iron, so we spent years sweating the details and crafting something that met our exacting standards. This is a high-performance iron: it can output 100W of heat, gets to soldering temperature in under 5 seconds, and automatically cools off when you set it down. The accelerometer detects when you pick it up and heats it back up. Keeping the iron at a lo…]]></summary>
+        <author>
+            <name>kwiens</name>
         </author>
     </entry>
     <entry>
