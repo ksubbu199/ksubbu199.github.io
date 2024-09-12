@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-09-12T04:20:00.455Z</updated>
+    <updated>2024-09-12T05:16:01.695Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -31,6 +31,19 @@ Points: 676
 # Comments: 267]]></summary>
         <author>
             <name>nowyoudont</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New York Times tech workers union votes to authorize a strike]]></title>
+        <id>https://news.ycombinator.com/item?id=41504026</id>
+        <link href="https://www.axios.com/2024/09/10/nyt-tech-union-strike-vote"/>
+        <updated>2024-09-10T18:30:45.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.axios.com/2024/09/10/nyt-tech-union-strike-vote
+Comments URL: https://news.ycombinator.com/item?id=41504026
+Points: 501
+# Comments: 562]]></summary>
+        <author>
+            <name>ericnkatz</name>
         </author>
     </entry>
     <entry>
