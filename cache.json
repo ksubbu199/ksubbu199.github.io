@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=41527143",
+          "author": "loganfrederick",
+          "description": "Article URL: https://simonwillison.net/2024/Sep/12/openai-o1/\nComments URL: https://news.ycombinator.com/item?id=41527143\nPoints: 517\n# Comments: 437",
+          "link": "https://simonwillison.net/2024/Sep/12/openai-o1/",
+          "publishedOn": "2024-09-13T00:48:01.000Z",
+          "wordCount": 1724,
+          "title": "Notes on OpenAI's new o1 chain-of-thought models",
+          "imageUrl": null
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=41523070",
           "author": "fofoz",
           "description": "Article URL: https://openai.com/index/learning-to-reason-with-llms/\nComments URL: https://news.ycombinator.com/item?id=41523070\nPoints: 699\n# Comments: 431",
@@ -1058,6 +1068,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC_ML5xP23TOWKUcc-oAE_Eg",
       "siteUrl": "https://www.youtube.com/channel/UC_ML5xP23TOWKUcc-oAE_Eg",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=2GAQVXGT_Zw",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=2GAQVXGT_Zw",
+          "publishedOn": "2024-09-13T14:45:00.000Z",
+          "wordCount": null,
+          "title": "Frontend and Backends Timeouts",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=1KzcJXNSzgE",
           "author": null,
