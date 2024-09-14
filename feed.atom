@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-09-14T01:11:49.084Z</updated>
+    <updated>2024-09-14T02:39:46.210Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -1309,24 +1309,6 @@ Points: 344
         <updated>2024-08-17T15:30:07.000Z</updated>
         <author>
             <name>Think School</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Onboarding to a "legacy" codebase with the help of AI]]></title>
-        <id>https://martinfowler.com/articles/exploring-gen-ai.html#memo-09</id>
-        <link href="https://martinfowler.com/articles/exploring-gen-ai.html#memo-09"/>
-        <updated>2024-08-15T14:32:00.000Z</updated>
-        <summary type="html"><![CDATA[Much of the attention to generative AI in software development is
-       about generating code. But it may have a more useful role in helping us
-       understand existing code. This is especially true for older codebases
-       that are getting hard to maintain (“legacy”) or to improve onboarding in
-       teams that have a lot of fluctuation.
-Birgitta Böckeler demonstrates the possibilities here
-       by picking an issue from an open-source hospital management system and
-       exploring how AI could help her deal with it.
-more…]]></summary>
-        <author>
-            <name>Martin Fowler</name>
         </author>
     </entry>
 </feed>

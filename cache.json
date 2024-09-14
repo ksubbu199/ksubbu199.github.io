@@ -851,16 +851,6 @@
           "wordCount": 229,
           "title": "Rewriting Strangler Fig",
           "imageUrl": "https://martinfowler.com/logo-sq.png"
-        },
-        {
-          "id": "https://martinfowler.com/articles/exploring-gen-ai.html#memo-09",
-          "author": null,
-          "description": "Much of the attention to generative AI in software development is\n       about generating code. But it may have a more useful role in helping us\n       understand existing code. This is especially true for older codebases\n       that are getting hard to maintain (“legacy”) or to improve onboarding in\n       teams that have a lot of fluctuation.\nBirgitta Böckeler demonstrates the possibilities here\n       by picking an issue from an open-source hospital management system and\n       exploring how AI could help her deal with it.\nmore…",
-          "link": "https://martinfowler.com/articles/exploring-gen-ai.html#memo-09",
-          "publishedOn": "2024-08-15T14:32:00.000Z",
-          "wordCount": 11135,
-          "title": "Onboarding to a \"legacy\" codebase with the help of AI",
-          "imageUrl": "https://martinfowler.com/logo-sq.png"
         }
       ]
     },
