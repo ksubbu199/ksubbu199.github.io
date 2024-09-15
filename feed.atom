@@ -2,10 +2,54 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-09-14T23:14:37.492Z</updated>
+    <updated>2024-09-15T01:20:15.807Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Meet.hn – Meet the Hacker News community in your city]]></title>
+        <id>https://news.ycombinator.com/item?id=41539125</id>
+        <link href="https://news.ycombinator.com/item?id=41539125"/>
+        <updated>2024-09-14T11:36:00.000Z</updated>
+        <summary type="html"><![CDATA[Hey HN!
+I just published https://meet.hn, a map to find hackers in your city.
+How it works?
+Demo of the signup process: https://x.com/meet_hn/status/1834918518904746329
+1. Fill the form: username, city+country
+2. Copy the text generated in the box below the form, and paste it in your HN description.
+3. Click "Add me on the map"
+Optionnaly (it's recommended!) you can add links to your socials as well as some tags to showcase your interests.
+Why does it exist?
+I created this because, despite its harsh reputation on the internet, I love the HN community.
+I have fewer than a handful of friends who are as curious and eager to think and reflect as the people on HN.
+Also, the city I currently live in is more focused on industry than on technology and entrepreneurship, which are core to HN.
+This led me to want to meet the HN community IRL.
+After trying `site:news.ycombinator.com/user toulouse` on Google and getting only one result, I decided to create meet.hn.
+My first goal with this is to meet at least one HN member in my city: Toulouse, France.
+If you are ever in the area, hit me up! I'm sirobg at https://meet.hn/city/fr-Toulouse
+Additional details:
+- meet.hn has a twitter page: https://x.com/meet_hn. If you meet IRL thanks to meet.hn, don't hesitate to tag it with a picture, it would mean the world to me.
+- the code is open source: https://github.com/borisghidaglia/meet-hn
+- meet.hn integrates with https://at.hn/ from @padolsey (https://padolsey.at.hn/), registered on meet.hn at https://meet.hn/city/cn-Beijing
+Finally, many thanks to these people for their help and/or feedbacks!
+Ordered alphabetically:
+- https://x.com/ericbureltech
+- https://x.com/fredkisss
+- https://x.com/JulienDuquesne1
+- https://www.linkedin.com/in/lbasseto/
+- https://x.com/lcswillems
+- https://x.com/leeerob
+- https://x.com/padolsey
+- https://x.com/tomlienard
+I hope you will enjoy this!
+Please share any feedback in the comments.
+Comments URL: https://news.ycombinator.com/item?id=41539125
+Points: 508
+# Comments: 253]]></summary>
+        <author>
+            <name>sirobg</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CrowdStrike ex-employees: 'Quality control was not part of our process']]></title>
         <id>https://news.ycombinator.com/item?id=41534716</id>
