@@ -1164,7 +1164,18 @@
       "title": "Lea Verou’s blog",
       "feedUrl": "https://lea.verou.me/feed.xml",
       "siteUrl": "https://lea.verou.me/feed.xml",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://lea.verou.me/blog/2024/awesome/",
+          "author": null,
+          "description": "Folks, I have some exciting news to share. 🤩\nToday I start a new chapter in my career.\nAfter a decade at MIT, teaching and\ndoing research at the intersection of usability and programming language design,\nI wrapped up my PhD two weeks ago\n(yes, I’m a Dr now! And damn right I will — once it actually sinks in)\nand today I start my new role as Product Lead at Font Awesome.\nI will be evaluating user needs and improving product design and usability across all company products,\nwith an emphasis on Web Awesome,\nthe product we are launching early next year to revolutionize how Web UIs are built by using web components and CSS in ways you’ve never seen before.\nBeyond improving the products themselves (all of which include extensive free & open source versions),\npart of my role will utilize my web s…",
+          "link": "https://lea.verou.me/blog/2024/awesome/",
+          "publishedOn": "2024-09-16T00:00:00.000Z",
+          "wordCount": 974,
+          "title": "Making the Web More Awesome — for everyone",
+          "imageUrl": "https://lea.verou.me/blog/2024/awesome/images/hero.png"
+        }
+      ]
     },
     {
       "title": "Ben Hoyt's technical writing",
