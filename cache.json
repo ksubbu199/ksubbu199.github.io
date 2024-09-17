@@ -864,16 +864,6 @@
           "wordCount": 2192,
           "title": "Reasons I still love the fish shell",
           "imageUrl": null
-        },
-        {
-          "id": "https://jvns.ca/blog/2024/08/19/migrating-mess-with-dns-to-use-powerdns/",
-          "author": null,
-          "description": "About 3 years ago, I announced Mess With DNS in\nthis blog post, a playground\nwhere you can learn how DNS works by messing around and creating records.\nI wasn’t very careful with the DNS implementation though (to quote the release blog\npost: “following the DNS RFCs? not exactly”), and people started reporting\nproblems that eventually I decided that I wanted to fix.\nthe problems\nSome of the problems people have reported were:\ndomain names with underscores weren’t allowed, even though they should be\nIf there was a CNAME record for a domain name, it allowed you to create other records for that domain name, even if it shouldn’t\nyou could create 2 different CNAME records for the same domain name, which shouldn’t be allowed\nno support for the SVCB or HTTPS record types, which seemed a little comp…",
-          "link": "https://jvns.ca/blog/2024/08/19/migrating-mess-with-dns-to-use-powerdns/",
-          "publishedOn": "2024-08-19T08:15:28.000Z",
-          "wordCount": 2285,
-          "title": "Migrating Mess With DNS to use PowerDNS",
-          "imageUrl": null
         }
       ]
     },

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-09-17T19:12:39.076Z</updated>
+    <updated>2024-09-17T20:17:05.665Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -1447,27 +1447,6 @@ Points: 568
         <updated>2024-08-19T14:00:29.000Z</updated>
         <author>
             <name>Think School</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Migrating Mess With DNS to use PowerDNS]]></title>
-        <id>https://jvns.ca/blog/2024/08/19/migrating-mess-with-dns-to-use-powerdns/</id>
-        <link href="https://jvns.ca/blog/2024/08/19/migrating-mess-with-dns-to-use-powerdns/"/>
-        <updated>2024-08-19T08:15:28.000Z</updated>
-        <summary type="html"><![CDATA[About 3 years ago, I announced Mess With DNS in
-this blog post, a playground
-where you can learn how DNS works by messing around and creating records.
-I wasn’t very careful with the DNS implementation though (to quote the release blog
-post: “following the DNS RFCs? not exactly”), and people started reporting
-problems that eventually I decided that I wanted to fix.
-the problems
-Some of the problems people have reported were:
-domain names with underscores weren’t allowed, even though they should be
-If there was a CNAME record for a domain name, it allowed you to create other records for that domain name, even if it shouldn’t
-you could create 2 different CNAME records for the same domain name, which shouldn’t be allowed
-no support for the SVCB or HTTPS record types, which seemed a little comp…]]></summary>
-        <author>
-            <name>Julia Evans</name>
         </author>
     </entry>
 </feed>
