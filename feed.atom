@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-09-17T13:22:26.286Z</updated>
+    <updated>2024-09-17T14:14:47.393Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -1455,19 +1455,6 @@ you could create 2 different CNAME records for the same domain name, which shoul
 no support for the SVCB or HTTPS record types, which seemed a little comp…]]></summary>
         <author>
             <name>Julia Evans</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Roblox is the biggest game in the world, but is unprofitable]]></title>
-        <id>https://news.ycombinator.com/item?id=41287099</id>
-        <link href="https://www.matthewball.co/all/roblox2024"/>
-        <updated>2024-08-19T01:45:56.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.matthewball.co/all/roblox2024
-Comments URL: https://news.ycombinator.com/item?id=41287099
-Points: 466
-# Comments: 564]]></summary>
-        <author>
-            <name>mfiguiere</name>
         </author>
     </entry>
 </feed>
