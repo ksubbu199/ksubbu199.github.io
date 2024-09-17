@@ -883,6 +883,16 @@
       "siteUrl": "https://martinfowler.com/feed.atom",
       "articles": [
         {
+          "id": "https://martinfowler.com/articles/legacy-modernization-gen-ai.html",
+          "author": null,
+          "description": "Most of the talk about the impact of GenAI on software development is\n       about its ability to write (messy) code. But many of us think it's going\n       to be much more useful to help us understand existing messy code,\n       as part of a modernization effort. My colleagues Alessio\n       Ferri, Tom Coggrave, and Shodhan\n       Sheth have been considering how GenAI can do this,\n       including building an internal tool to help explore the possibilities.\n       The tool uses an LLM to enhance a knowledge graph based on the AST of the\n       code base. It also uses an LLM to help users query this knowledge graph.\n       \nmore…",
+          "link": "https://martinfowler.com/articles/legacy-modernization-gen-ai.html",
+          "publishedOn": "2024-09-17T13:07:00.000Z",
+          "wordCount": 2567,
+          "title": "Legacy Modernization meets GenAI",
+          "imageUrl": "https://martinfowler.com/articles/legacy-modernization-gen-ai/card.png"
+        },
+        {
           "id": "https://martinfowler.com/articles/fitness-functions-data-products.html",
           "author": null,
           "description": "Decentralized data management requires automation to scale governance\n       effectively. Fitness functions are a powerful automated governance\n       technique my colleagues have applied to data products within the context\n       of a Data Mesh. Since data products serve as the foundational building\n       blocks of a data strategy, ensuring robust governance around them\n       significantly increases the chances of success. Kiran\n       Prakash explains how to do this, starting with simple tests for\n       key architectural characteristics and moving on to leveraging metadata\n       and Large Language Models.\nmore…",

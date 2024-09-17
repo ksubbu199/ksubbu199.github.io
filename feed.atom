@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-09-17T12:31:24.401Z</updated>
+    <updated>2024-09-17T13:22:26.286Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Legacy Modernization meets GenAI]]></title>
+        <id>https://martinfowler.com/articles/legacy-modernization-gen-ai.html</id>
+        <link href="https://martinfowler.com/articles/legacy-modernization-gen-ai.html"/>
+        <updated>2024-09-17T13:07:00.000Z</updated>
+        <summary type="html"><![CDATA[Most of the talk about the impact of GenAI on software development is
+       about its ability to write (messy) code. But many of us think it's going
+       to be much more useful to help us understand existing messy code,
+       as part of a modernization effort. My colleagues Alessio
+       Ferri, Tom Coggrave, and Shodhan
+       Sheth have been considering how GenAI can do this,
+       including building an internal tool to help explore the possibilities.
+       The tool uses an LLM to enhance a knowledge graph based on the AST of the
+       code base. It also uses an LLM to help users query this knowledge graph.
+       
+more…]]></summary>
+        <author>
+            <name>Martin Fowler</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Amazon tells employees to return to office five days a week]]></title>
         <id>https://news.ycombinator.com/item?id=41558554</id>
