@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-09-18T14:15:43.913Z</updated>
+    <updated>2024-09-18T15:17:47.200Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -32,6 +32,19 @@ more…]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Why wordfreq will not be updated]]></title>
+        <id>https://news.ycombinator.com/item?id=41578483</id>
+        <link href="https://github.com/rspeer/wordfreq/blob/master/SUNSET.md"/>
+        <updated>2024-09-18T11:41:55.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://github.com/rspeer/wordfreq/blob/master/SUNSET.md
+Comments URL: https://news.ycombinator.com/item?id=41578483
+Points: 530
+# Comments: 149]]></summary>
+        <author>
+            <name>tomthe</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[From Aspiring Chef to MasterChef India’s Presenting Sponsor]]></title>
         <id>https://www.youtube.com/watch?v=LEN0L1_qZTo</id>
         <link href="https://www.youtube.com/watch?v=LEN0L1_qZTo"/>
@@ -51,6 +64,19 @@ Points: 512
 # Comments: 177]]></summary>
         <author>
             <name>colinprince</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Independent directors of 23andMe resign from board]]></title>
+        <id>https://news.ycombinator.com/item?id=41573034</id>
+        <link href="https://investors.23andme.com/news-releases/news-release-details/independent-directors-23andme-resign-board/"/>
+        <updated>2024-09-17T21:31:49.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://investors.23andme.com/news-releases/news-release-details/independent-directors-23andme-resign-board/
+Comments URL: https://news.ycombinator.com/item?id=41573034
+Points: 518
+# Comments: 275]]></summary>
+        <author>
+            <name>LarsDu88</name>
         </author>
     </entry>
     <entry>
@@ -97,6 +123,16 @@ Points: 504
 more…]]></summary>
         <author>
             <name>Martin Fowler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Build a Blog Aggregator]]></title>
+        <id>https://blog.boot.dev/tutorials/build-blog-aggregator/</id>
+        <link href="https://blog.boot.dev/tutorials/build-blog-aggregator/"/>
+        <updated>2024-09-17T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[We’re going to build an RSS feed aggregator in Go! It’s a web server that allows clients to:]]></summary>
+        <author>
+            <name>Boot.dev Blog</name>
         </author>
     </entry>
     <entry>

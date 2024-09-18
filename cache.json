@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=41578483",
+          "author": "tomthe",
+          "description": "Article URL: https://github.com/rspeer/wordfreq/blob/master/SUNSET.md\nComments URL: https://news.ycombinator.com/item?id=41578483\nPoints: 530\n# Comments: 149",
+          "link": "https://github.com/rspeer/wordfreq/blob/master/SUNSET.md",
+          "publishedOn": "2024-09-18T11:41:55.000Z",
+          "wordCount": 4109,
+          "title": "Why wordfreq will not be updated",
+          "imageUrl": "https://opengraph.githubassets.com/8837954de9aab166e20ab2fb5e1ac9ce7289c7ebd51a4c4b23485e1b922256bb/rspeer/wordfreq"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=41574844",
           "author": "colinprince",
           "description": "Article URL: https://timculpan.substack.com/p/apple-mobile-processors-are-now-made\nComments URL: https://news.ycombinator.com/item?id=41574844\nPoints: 512\n# Comments: 177",
@@ -13,6 +23,16 @@
           "publishedOn": "2024-09-18T01:38:01.000Z",
           "wordCount": null,
           "title": "Apple Mobile Processors Are Now Made in America. By TSMC",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=41573034",
+          "author": "LarsDu88",
+          "description": "Article URL: https://investors.23andme.com/news-releases/news-release-details/independent-directors-23andme-resign-board/\nComments URL: https://news.ycombinator.com/item?id=41573034\nPoints: 518\n# Comments: 275",
+          "link": "https://investors.23andme.com/news-releases/news-release-details/independent-directors-23andme-resign-board/",
+          "publishedOn": "2024-09-17T21:31:49.000Z",
+          "wordCount": 821,
+          "title": "Independent directors of 23andMe resign from board",
           "imageUrl": null
         },
         {
@@ -858,6 +878,16 @@
       "feedUrl": "https://blog.boot.dev/index.xml",
       "siteUrl": "https://blog.boot.dev/",
       "articles": [
+        {
+          "id": "https://blog.boot.dev/tutorials/build-blog-aggregator/",
+          "author": null,
+          "description": "We’re going to build an RSS feed aggregator in Go! It’s a web server that allows clients to:",
+          "link": "https://blog.boot.dev/tutorials/build-blog-aggregator/",
+          "publishedOn": "2024-09-17T00:00:00.000Z",
+          "wordCount": 4899,
+          "title": "Build a Blog Aggregator",
+          "imageUrl": "https://blog.boot.dev/img/800/blog_aggregator_art.png.webp"
+        },
         {
           "id": "https://blog.boot.dev/news/bootdev-beat-2024-09/",
           "author": null,
