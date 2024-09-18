@@ -2,10 +2,35 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-09-18T12:31:34.011Z</updated>
+    <updated>2024-09-18T13:22:29.005Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Using GenAI to extract low-level details and high-level               explanations from legacy systems]]></title>
+        <id>https://martinfowler.com/articles/legacy-modernization-gen-ai.html#ReverseEngineeringDrawingOutLow-levelRequirements</id>
+        <link href="https://martinfowler.com/articles/legacy-modernization-gen-ai.html#ReverseEngineeringDrawingOutLow-levelRequirements"/>
+        <updated>2024-09-18T13:08:00.000Z</updated>
+        <summary type="html"><![CDATA[Alessio Ferri, Tom Coggrave, and
+       Shodhan Sheth use their combination of an AST-fueled
+       knowledge graph and LLMs to gain understanding of legacy systems. They
+       have found it aids them both in extracting the low-level details of the
+       code and can provide high-level explanations to support human-centered
+       approaches such as event storming.
+more…]]></summary>
+        <author>
+            <name>Martin Fowler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why did Patanjali fail in India? : Business case study]]></title>
+        <id>https://www.youtube.com/watch?v=yF6rTIrlcwc</id>
+        <link href="https://www.youtube.com/watch?v=yF6rTIrlcwc"/>
+        <updated>2024-09-18T12:07:40.000Z</updated>
+        <author>
+            <name>Think School</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[From Aspiring Chef to MasterChef India’s Presenting Sponsor]]></title>
         <id>https://www.youtube.com/watch?v=LEN0L1_qZTo</id>
@@ -1473,19 +1498,6 @@ Points: 795
         <updated>2024-08-21T15:12:51.000Z</updated>
         <author>
             <name>Think School</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Artificial intelligence is losing hype]]></title>
-        <id>https://news.ycombinator.com/item?id=41295923</id>
-        <link href="https://www.economist.com/finance-and-economics/2024/08/19/artificial-intelligence-is-losing-hype"/>
-        <updated>2024-08-20T01:13:23.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.economist.com/finance-and-economics/2024/08/19/artificial-intelligence-is-losing-hype
-Comments URL: https://news.ycombinator.com/item?id=41295923
-Points: 568
-# Comments: 782]]></summary>
-        <author>
-            <name>bx376</name>
         </author>
     </entry>
 </feed>

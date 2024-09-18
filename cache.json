@@ -844,16 +844,6 @@
           "wordCount": 1511,
           "title": "DOJ sues realpage for algorithmic pricing scheme that harms renters",
           "imageUrl": "https://www.justice.gov/sites/all/modules/features/doj_sharing/images/doj-seal-fb.jpg"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=41295923",
-          "author": "bx376",
-          "description": "Article URL: https://www.economist.com/finance-and-economics/2024/08/19/artificial-intelligence-is-losing-hype\nComments URL: https://news.ycombinator.com/item?id=41295923\nPoints: 568\n# Comments: 782",
-          "link": "https://www.economist.com/finance-and-economics/2024/08/19/artificial-intelligence-is-losing-hype",
-          "publishedOn": "2024-08-20T01:13:23.000Z",
-          "wordCount": 4302,
-          "title": "Artificial intelligence is losing hype",
-          "imageUrl": "https://www.economist.com/content-assets/images/20240824_FND000.jpg"
         }
       ]
     },
@@ -902,6 +892,16 @@
       "feedUrl": "https://martinfowler.com/feed.atom",
       "siteUrl": "https://martinfowler.com/feed.atom",
       "articles": [
+        {
+          "id": "https://martinfowler.com/articles/legacy-modernization-gen-ai.html#ReverseEngineeringDrawingOutLow-levelRequirements",
+          "author": null,
+          "description": "Alessio Ferri, Tom Coggrave, and\n       Shodhan Sheth use their combination of an AST-fueled\n       knowledge graph and LLMs to gain understanding of legacy systems. They\n       have found it aids them both in extracting the low-level details of the\n       code and can provide high-level explanations to support human-centered\n       approaches such as event storming.\nmore…",
+          "link": "https://martinfowler.com/articles/legacy-modernization-gen-ai.html#ReverseEngineeringDrawingOutLow-levelRequirements",
+          "publishedOn": "2024-09-18T13:08:00.000Z",
+          "wordCount": 4015,
+          "title": "Using GenAI to extract low-level details and high-level               explanations from legacy systems",
+          "imageUrl": "https://martinfowler.com/articles/legacy-modernization-gen-ai/card.png"
+        },
         {
           "id": "https://martinfowler.com/articles/legacy-modernization-gen-ai.html",
           "author": null,
@@ -961,6 +961,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKZozRVHRYsYHGEyNKuhhdA",
       "siteUrl": "https://www.youtube.com/channel/UCKZozRVHRYsYHGEyNKuhhdA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=yF6rTIrlcwc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=yF6rTIrlcwc",
+          "publishedOn": "2024-09-18T12:07:40.000Z",
+          "wordCount": null,
+          "title": "Why did Patanjali fail in India? : Business case study",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=LEN0L1_qZTo",
           "author": null,
