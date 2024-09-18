@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-09-18T15:17:47.200Z</updated>
+    <updated>2024-09-18T16:19:28.253Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -77,6 +77,19 @@ Points: 518
 # Comments: 275]]></summary>
         <author>
             <name>LarsDu88</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[macOS Sequoia 15 may bypass DNS encryption]]></title>
+        <id>https://news.ycombinator.com/item?id=41571862</id>
+        <link href="https://www.obdev.at/blog/warning-macos-sequoia-15-may-bypass-dns-encryption/"/>
+        <updated>2024-09-17T19:46:05.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.obdev.at/blog/warning-macos-sequoia-15-may-bypass-dns-encryption/
+Comments URL: https://news.ycombinator.com/item?id=41571862
+Points: 501
+# Comments: 178]]></summary>
+        <author>
+            <name>HelenePhisher</name>
         </author>
     </entry>
     <entry>
