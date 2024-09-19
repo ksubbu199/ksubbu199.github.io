@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-09-19T15:17:22.235Z</updated>
+    <updated>2024-09-19T16:20:08.321Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Paying down tech debt: further learnings]]></title>
+        <id>66ec426eba50ce00012fbbb6</id>
+        <link href="https://blog.pragmaticengineer.com/paying-down-tech-debt-further-learnings/"/>
+        <updated>2024-09-19T15:28:07.000Z</updated>
+        <summary type="html"><![CDATA[In a counter-intuitive observation: by making small, non-functional improvements, you gain more confidence in a new codebase, and can start to move faster.]]></summary>
+        <author>
+            <name>Gergely Orosz</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Is Tor still safe to use?]]></title>
         <id>https://news.ycombinator.com/item?id=41583847</id>

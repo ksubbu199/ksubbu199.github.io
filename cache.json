@@ -1054,7 +1054,18 @@
       "title": "The Pragmatic Engineer",
       "feedUrl": "https://blog.pragmaticengineer.com/rss/",
       "siteUrl": "https://blog.pragmaticengineer.com/",
-      "articles": []
+      "articles": [
+        {
+          "id": "66ec426eba50ce00012fbbb6",
+          "author": "Gergely Orosz",
+          "description": "In a counter-intuitive observation: by making small, non-functional improvements, you gain more confidence in a new codebase, and can start to move faster.",
+          "link": "https://blog.pragmaticengineer.com/paying-down-tech-debt-further-learnings/",
+          "publishedOn": "2024-09-19T15:28:07.000Z",
+          "wordCount": 2168,
+          "title": "Paying down tech debt: further learnings",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "Think School",
