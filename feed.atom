@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-09-20T09:20:19.630Z</updated>
+    <updated>2024-09-20T10:17:06.375Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -152,6 +152,19 @@ Points: 504
 # Comments: 1256]]></summary>
         <author>
             <name>logicchains</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rga: Ripgrep, but also search in PDFs, E-Books, Office documents, zip, etc.]]></title>
+        <id>https://news.ycombinator.com/item?id=41567262</id>
+        <link href="https://github.com/phiresky/ripgrep-all"/>
+        <updated>2024-09-17T13:11:31.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://github.com/phiresky/ripgrep-all
+Comments URL: https://news.ycombinator.com/item?id=41567262
+Points: 500
+# Comments: 57]]></summary>
+        <author>
+            <name>bukacdan</name>
         </author>
     </entry>
     <entry>
