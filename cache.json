@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=41597250",
+          "author": "xyzeva",
+          "description": "Article URL: https://kibty.town/blog/arc/\nComments URL: https://news.ycombinator.com/item?id=41597250\nPoints: 509\n# Comments: 130",
+          "link": "https://kibty.town/blog/arc/",
+          "publishedOn": "2024-09-19T23:04:42.000Z",
+          "wordCount": 1197,
+          "title": "Gaining access to anyones Arc browser without them even visiting a website",
+          "imageUrl": null
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=41583847",
           "author": "Sami_Lehtinen",
           "description": "Article URL: https://blog.torproject.org/tor-is-still-safe/\nComments URL: https://news.ycombinator.com/item?id=41583847\nPoints: 525\n# Comments: 350",
@@ -1279,6 +1289,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC_ML5xP23TOWKUcc-oAE_Eg",
       "siteUrl": "https://www.youtube.com/channel/UC_ML5xP23TOWKUcc-oAE_Eg",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=ERaGORGfLF4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=ERaGORGfLF4",
+          "publishedOn": "2024-09-20T13:00:15.000Z",
+          "wordCount": null,
+          "title": "How many kernel system calls do runtimes make?",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=2GAQVXGT_Zw",
           "author": null,

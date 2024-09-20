@@ -2,10 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-09-20T12:31:38.016Z</updated>
+    <updated>2024-09-20T13:22:09.575Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How many kernel system calls do runtimes make?]]></title>
+        <id>https://www.youtube.com/watch?v=ERaGORGfLF4</id>
+        <link href="https://www.youtube.com/watch?v=ERaGORGfLF4"/>
+        <updated>2024-09-20T13:00:15.000Z</updated>
+        <author>
+            <name>Hussein Nasser</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gaining access to anyones Arc browser without them even visiting a website]]></title>
+        <id>https://news.ycombinator.com/item?id=41597250</id>
+        <link href="https://kibty.town/blog/arc/"/>
+        <updated>2024-09-19T23:04:42.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://kibty.town/blog/arc/
+Comments URL: https://news.ycombinator.com/item?id=41597250
+Points: 509
+# Comments: 130]]></summary>
+        <author>
+            <name>xyzeva</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Paying down tech debt: further learnings]]></title>
         <id>66ec426eba50ce00012fbbb6</id>
