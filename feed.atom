@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-09-21T03:17:19.945Z</updated>
+    <updated>2024-09-21T04:18:52.796Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -1654,17 +1654,6 @@ Points: 795
         <updated>2024-08-23T12:31:52.000Z</updated>
         <author>
             <name>Think School</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rewriting Strangler Fig]]></title>
-        <id>https://martinfowler.com/articles/2024-strangler-fig-rewrite.html</id>
-        <link href="https://martinfowler.com/articles/2024-strangler-fig-rewrite.html"/>
-        <updated>2024-08-22T15:51:00.000Z</updated>
-        <summary type="html"><![CDATA[Two decades ago, I posted that I found that the strangler fig plant was an interesting metaphor for the gradual replacement of a legacy system. I didn’t refer to the metaphor since, but meanwhile it grew a life of its own. Other people increasingly referred to the strangler fig approach to modernization, and traffic to that post steadily increased: currently it gets about 5000 page views a month, one of the more popular pages on this site. So I decided I needed to update that page, and have rewritten it, focusing on the core activities we need to do to make a success of such a venture.
-(This summarizes more detailed writing from Ian Cartwright, Rob Horn, and James Lewis.)]]></summary>
-        <author>
-            <name>Martin Fowler</name>
         </author>
     </entry>
 </feed>

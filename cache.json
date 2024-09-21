@@ -1061,16 +1061,6 @@
           "wordCount": 938,
           "title": "Bliki: Cycle Time",
           "imageUrl": "https://martinfowler.com/logo-sq.png"
-        },
-        {
-          "id": "https://martinfowler.com/articles/2024-strangler-fig-rewrite.html",
-          "author": null,
-          "description": "Two decades ago, I posted that I found that the strangler fig plant was an interesting metaphor for the gradual replacement of a legacy system. I didn’t refer to the metaphor since, but meanwhile it grew a life of its own. Other people increasingly referred to the strangler fig approach to modernization, and traffic to that post steadily increased: currently it gets about 5000 page views a month, one of the more popular pages on this site. So I decided I needed to update that page, and have rewritten it, focusing on the core activities we need to do to make a success of such a venture.\n(This summarizes more detailed writing from Ian Cartwright, Rob Horn, and James Lewis.)",
-          "link": "https://martinfowler.com/articles/2024-strangler-fig-rewrite.html",
-          "publishedOn": "2024-08-22T15:51:00.000Z",
-          "wordCount": 229,
-          "title": "Rewriting Strangler Fig",
-          "imageUrl": "https://martinfowler.com/logo-sq.png"
         }
       ]
     },
