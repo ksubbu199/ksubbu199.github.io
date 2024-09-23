@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-09-23T20:18:52.642Z</updated>
+    <updated>2024-09-23T21:15:23.147Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -26,6 +26,29 @@ Points: 570
 # Comments: 162]]></summary>
         <author>
             <name>farslan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Build a Web Server in Go [Deprecated]]]></title>
+        <id>https://blog.boot.dev/tutorials/learn-http-servers-golang-deprecated/</id>
+        <link href="https://blog.boot.dev/tutorials/learn-http-servers-golang-deprecated/"/>
+        <updated>2024-09-23T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Let’s build a fully-fledged HTTP server from scratch in Go. This course assumes you already have a solid understanding of Go.]]></summary>
+        <author>
+            <name>Boot.dev Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Brainfuck Enterprise Solutions]]></title>
+        <id>https://news.ycombinator.com/item?id=41620198</id>
+        <link href="https://github.com/bf-enterprise-solutions"/>
+        <updated>2024-09-22T21:24:07.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://github.com/bf-enterprise-solutions
+Comments URL: https://news.ycombinator.com/item?id=41620198
+Points: 502
+# Comments: 126]]></summary>
+        <author>
+            <name>linkdd</name>
         </author>
     </entry>
     <entry>
@@ -364,6 +387,16 @@ Points: 500
 # Comments: 91]]></summary>
         <author>
             <name>miles</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Build a Blog Aggregator in Go [Deprecated]]]></title>
+        <id>https://blog.boot.dev/tutorials/build-blog-aggregator-golang-deprecated/</id>
+        <link href="https://blog.boot.dev/tutorials/build-blog-aggregator-golang-deprecated/"/>
+        <updated>2024-09-17T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[We’re going to build an RSS feed aggregator in Go! It’s a web server that allows clients to:]]></summary>
+        <author>
+            <name>Boot.dev Blog</name>
         </author>
     </entry>
     <entry>

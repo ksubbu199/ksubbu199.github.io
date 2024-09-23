@@ -16,6 +16,16 @@
           "imageUrl": "https://arslan.io/content/images/size/w1200/2024/09/L1005075--1--1.jpeg"
         },
         {
+          "id": "https://news.ycombinator.com/item?id=41620198",
+          "author": "linkdd",
+          "description": "Article URL: https://github.com/bf-enterprise-solutions\nComments URL: https://news.ycombinator.com/item?id=41620198\nPoints: 502\n# Comments: 126",
+          "link": "https://github.com/bf-enterprise-solutions",
+          "publishedOn": "2024-09-22T21:24:07.000Z",
+          "wordCount": 860,
+          "title": "Brainfuck Enterprise Solutions",
+          "imageUrl": "https://avatars.githubusercontent.com/u/126903709?s=280&v=4"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=41614490",
           "author": "sounds",
           "description": "Article URL: https://www.jeffgeerling.com/blog/2024/they-stole-my-voice-ai\nComments URL: https://news.ycombinator.com/item?id=41614490\nPoints: 500\n# Comments: 390",
@@ -1008,6 +1018,26 @@
       "feedUrl": "https://blog.boot.dev/index.xml",
       "siteUrl": "https://blog.boot.dev/",
       "articles": [
+        {
+          "id": "https://blog.boot.dev/tutorials/learn-http-servers-golang-deprecated/",
+          "author": null,
+          "description": "Let’s build a fully-fledged HTTP server from scratch in Go. This course assumes you already have a solid understanding of Go.",
+          "link": "https://blog.boot.dev/tutorials/learn-http-servers-golang-deprecated/",
+          "publishedOn": "2024-09-23T00:00:00.000Z",
+          "wordCount": 12695,
+          "title": "Build a Web Server in Go [Deprecated]",
+          "imageUrl": "https://blog.boot.dev/img/800/webservers.png.webp"
+        },
+        {
+          "id": "https://blog.boot.dev/tutorials/build-blog-aggregator-golang-deprecated/",
+          "author": null,
+          "description": "We’re going to build an RSS feed aggregator in Go! It’s a web server that allows clients to:",
+          "link": "https://blog.boot.dev/tutorials/build-blog-aggregator-golang-deprecated/",
+          "publishedOn": "2024-09-17T00:00:00.000Z",
+          "wordCount": 4914,
+          "title": "Build a Blog Aggregator in Go [Deprecated]",
+          "imageUrl": "https://blog.boot.dev/img/800/blog_aggregator_art.png.webp"
+        },
         {
           "id": "https://blog.boot.dev/tutorials/build-blog-aggregator/",
           "author": null,
