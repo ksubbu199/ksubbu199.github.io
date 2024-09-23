@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-09-23T14:15:41.400Z</updated>
+    <updated>2024-09-23T15:17:40.698Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -22,6 +22,19 @@
         <updated>2024-09-22T11:56:55.000Z</updated>
         <author>
             <name>Think School</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[They stole my voice with AI]]></title>
+        <id>https://news.ycombinator.com/item?id=41614490</id>
+        <link href="https://www.jeffgeerling.com/blog/2024/they-stole-my-voice-ai"/>
+        <updated>2024-09-22T03:49:10.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.jeffgeerling.com/blog/2024/they-stole-my-voice-ai
+Comments URL: https://news.ycombinator.com/item?id=41614490
+Points: 500
+# Comments: 390]]></summary>
+        <author>
+            <name>sounds</name>
         </author>
     </entry>
     <entry>
