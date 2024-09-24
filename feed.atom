@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-09-24T13:23:52.387Z</updated>
+    <updated>2024-09-24T14:14:33.178Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Using GenAI to build a capability map and translate legacy               systems]]></title>
+        <id>https://martinfowler.com/articles/legacy-modernization-gen-ai.html#DiscoveringACapabilityMapOfASystem</id>
+        <link href="https://martinfowler.com/articles/legacy-modernization-gen-ai.html#DiscoveringACapabilityMapOfASystem"/>
+        <updated>2024-09-24T13:51:00.000Z</updated>
+        <summary type="html"><![CDATA[Alessio Ferri, Tom Coggrave, and
+       Shodhan Sheth complete their article on what they have
+       learned from using GenAI with legacy systems. They describe how GenAI's
+       ability to process unstructured information makes it much easier to build
+       a capability map of a legacy system, tying the capabilities of a system
+       to the relevant parts of the source code. GenAI is also useful for
+       identifying areas of dead code, and has promise for better translations
+       of a system between platforms and languages.
+more…]]></summary>
+        <author>
+            <name>Martin Fowler</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How Identifying Market Demand Can Lead to 1000 Crore company? Ft. @viraj.bahl]]></title>
         <id>https://www.youtube.com/watch?v=U38tANUftE4</id>

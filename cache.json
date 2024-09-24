@@ -1063,6 +1063,16 @@
       "siteUrl": "https://martinfowler.com/feed.atom",
       "articles": [
         {
+          "id": "https://martinfowler.com/articles/legacy-modernization-gen-ai.html#DiscoveringACapabilityMapOfASystem",
+          "author": null,
+          "description": "Alessio Ferri, Tom Coggrave, and\n       Shodhan Sheth complete their article on what they have\n       learned from using GenAI with legacy systems. They describe how GenAI's\n       ability to process unstructured information makes it much easier to build\n       a capability map of a legacy system, tying the capabilities of a system\n       to the relevant parts of the source code. GenAI is also useful for\n       identifying areas of dead code, and has promise for better translations\n       of a system between platforms and languages.\nmore…",
+          "link": "https://martinfowler.com/articles/legacy-modernization-gen-ai.html#DiscoveringACapabilityMapOfASystem",
+          "publishedOn": "2024-09-24T13:51:00.000Z",
+          "wordCount": 5817,
+          "title": "Using GenAI to build a capability map and translate legacy               systems",
+          "imageUrl": "https://martinfowler.com/articles/legacy-modernization-gen-ai/card.png"
+        },
+        {
           "id": "https://martinfowler.com/articles/legacy-modernization-gen-ai.html#ReverseEngineeringDrawingOutLow-levelRequirements",
           "author": null,
           "description": "Alessio Ferri, Tom Coggrave, and\n       Shodhan Sheth use their combination of an AST-fueled\n       knowledge graph and LLMs to gain understanding of legacy systems. They\n       have found it aids them both in extracting the low-level details of the\n       code and can provide high-level explanations to support human-centered\n       approaches such as event storming.\nmore…",
