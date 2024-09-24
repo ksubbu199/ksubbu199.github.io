@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=41636804",
+          "author": "gjvc",
+          "description": "Article URL: https://github.com/WinampDesktop/winamp\nComments URL: https://news.ycombinator.com/item?id=41636804\nPoints: 515\n# Comments: 245",
+          "link": "https://github.com/WinampDesktop/winamp",
+          "publishedOn": "2024-09-24T14:27:09.000Z",
+          "wordCount": 3274,
+          "title": "Winamp Legacy player source code",
+          "imageUrl": "https://opengraph.githubassets.com/1e884126f8e2d5a49c25af5262615e5409ec0621c3d6520114a7bb44b0c72630/WinampDesktop/winamp"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=41635592",
           "author": "hyperknot",
           "description": "Hi HN,\nAfter 9 years of running my own OpenStreetMap tile server infra for MapHub (https://news.ycombinator.com/item?id=11389989), I've open-sourced it and launched OpenFreeMap.\nYou can either self-host or use our public instance. Everything is open-source, including the full production setup — there’s no 'open-core' model here. Check out the repo (https://github.com/hyperknot/openfreemap). The map data comes from OpenStreetMap.\nI also provide weekly full planet downloads both in Btrfs and MBTiles formats.\nI aim to cover the running costs of the public instance through donations.\nLooking forwards for your feedback.\nComments URL: https://news.ycombinator.com/item?id=41635592\nPoints: 500\n# Comments: 147",
@@ -1004,16 +1014,6 @@
           "wordCount": 2153,
           "title": "NSA releases 1982 Grace Hopper lecture",
           "imageUrl": "https://media.defense.gov/2024/Aug/23/2003531704/1920/1080/0/240823-D-IM742-2024.PNG"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=41355303",
-          "author": "Ameo",
-          "description": "Article URL: https://cprimozic.net/blog/fixing-a-bug-in-google-chrome/\nComments URL: https://news.ycombinator.com/item?id=41355303\nPoints: 643\n# Comments: 165",
-          "link": "https://cprimozic.net/blog/fixing-a-bug-in-google-chrome/",
-          "publishedOn": "2024-08-26T09:10:56.000Z",
-          "wordCount": 3960,
-          "title": "Fixing a bug in Google Chrome as a first-time contributor",
-          "imageUrl": null
         }
       ]
     },

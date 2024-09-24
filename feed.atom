@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-09-24T20:18:15.287Z</updated>
+    <updated>2024-09-24T21:14:32.953Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Winamp Legacy player source code]]></title>
+        <id>https://news.ycombinator.com/item?id=41636804</id>
+        <link href="https://github.com/WinampDesktop/winamp"/>
+        <updated>2024-09-24T14:27:09.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://github.com/WinampDesktop/winamp
+Comments URL: https://news.ycombinator.com/item?id=41636804
+Points: 515
+# Comments: 245]]></summary>
+        <author>
+            <name>gjvc</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Using GenAI to build a capability map and translate legacy               systems]]></title>
         <id>https://martinfowler.com/articles/legacy-modernization-gen-ai.html#DiscoveringACapabilityMapOfASystem</id>
@@ -1755,19 +1768,6 @@ Points: 934
         <updated>2024-08-26T12:30:35.000Z</updated>
         <author>
             <name>Hussein Nasser</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fixing a bug in Google Chrome as a first-time contributor]]></title>
-        <id>https://news.ycombinator.com/item?id=41355303</id>
-        <link href="https://cprimozic.net/blog/fixing-a-bug-in-google-chrome/"/>
-        <updated>2024-08-26T09:10:56.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://cprimozic.net/blog/fixing-a-bug-in-google-chrome/
-Comments URL: https://news.ycombinator.com/item?id=41355303
-Points: 643
-# Comments: 165]]></summary>
-        <author>
-            <name>Ameo</name>
         </author>
     </entry>
 </feed>
