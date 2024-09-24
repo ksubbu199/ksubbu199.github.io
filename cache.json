@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=41635592",
+          "author": "hyperknot",
+          "description": "Hi HN,\nAfter 9 years of running my own OpenStreetMap tile server infra for MapHub (https://news.ycombinator.com/item?id=11389989), I've open-sourced it and launched OpenFreeMap.\nYou can either self-host or use our public instance. Everything is open-source, including the full production setup — there’s no 'open-core' model here. Check out the repo (https://github.com/hyperknot/openfreemap). The map data comes from OpenStreetMap.\nI also provide weekly full planet downloads both in Btrfs and MBTiles formats.\nI aim to cover the running costs of the public instance through donations.\nLooking forwards for your feedback.\nComments URL: https://news.ycombinator.com/item?id=41635592\nPoints: 500\n# Comments: 147",
+          "link": "https://openfreemap.org/",
+          "publishedOn": "2024-09-24T11:59:22.000Z",
+          "wordCount": 748,
+          "title": "Show HN: OpenFreeMap – Open-Source Map Hosting",
+          "imageUrl": null
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=41629475",
           "author": "mailyk",
           "description": "Article URL: https://www.atomsonly.news/p/franklin-oil\nComments URL: https://news.ycombinator.com/item?id=41629475\nPoints: 511\n# Comments: 173",
@@ -1340,16 +1350,6 @@
           "publishedOn": "2024-08-27T13:30:12.000Z",
           "wordCount": null,
           "title": "How Nike Lost $27 billion in one day? : Direct-to- Consumer Business case study",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=IG36kWLgM6c",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=IG36kWLgM6c",
-          "publishedOn": "2024-08-26T07:15:19.000Z",
-          "wordCount": null,
-          "title": "Together let's make sure we create a safer place for women!",
           "imageUrl": null
         }
       ]

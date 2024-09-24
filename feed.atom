@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-09-24T19:13:19.520Z</updated>
+    <updated>2024-09-24T20:18:15.287Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -22,6 +22,24 @@
 more…]]></summary>
         <author>
             <name>Martin Fowler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: OpenFreeMap – Open-Source Map Hosting]]></title>
+        <id>https://news.ycombinator.com/item?id=41635592</id>
+        <link href="https://openfreemap.org/"/>
+        <updated>2024-09-24T11:59:22.000Z</updated>
+        <summary type="html"><![CDATA[Hi HN,
+After 9 years of running my own OpenStreetMap tile server infra for MapHub (https://news.ycombinator.com/item?id=11389989), I've open-sourced it and launched OpenFreeMap.
+You can either self-host or use our public instance. Everything is open-source, including the full production setup — there’s no 'open-core' model here. Check out the repo (https://github.com/hyperknot/openfreemap). The map data comes from OpenStreetMap.
+I also provide weekly full planet downloads both in Btrfs and MBTiles formats.
+I aim to cover the running costs of the public instance through donations.
+Looking forwards for your feedback.
+Comments URL: https://news.ycombinator.com/item?id=41635592
+Points: 500
+# Comments: 147]]></summary>
+        <author>
+            <name>hyperknot</name>
         </author>
     </entry>
     <entry>
@@ -1750,15 +1768,6 @@ Points: 643
 # Comments: 165]]></summary>
         <author>
             <name>Ameo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Together let's make sure we create a safer place for women!]]></title>
-        <id>https://www.youtube.com/watch?v=IG36kWLgM6c</id>
-        <link href="https://www.youtube.com/watch?v=IG36kWLgM6c"/>
-        <updated>2024-08-26T07:15:19.000Z</updated>
-        <author>
-            <name>Think School</name>
         </author>
     </entry>
 </feed>
