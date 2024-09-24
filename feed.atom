@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-09-24T07:15:42.983Z</updated>
+    <updated>2024-09-24T08:21:59.288Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How Identifying Market Demand Can Lead to 1000 Crore company? Ft. @viraj.bahl]]></title>
+        <id>https://www.youtube.com/watch?v=U38tANUftE4</id>
+        <link href="https://www.youtube.com/watch?v=U38tANUftE4"/>
+        <updated>2024-09-24T08:02:21.000Z</updated>
+        <author>
+            <name>Think School</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How we got Domino's as a client?]]></title>
         <id>https://www.youtube.com/watch?v=dg4XYZV5R04</id>
@@ -1700,19 +1709,6 @@ Points: 643
         <updated>2024-08-26T07:15:19.000Z</updated>
         <author>
             <name>Think School</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Is Telegram really an encrypted messaging app?]]></title>
-        <id>https://news.ycombinator.com/item?id=41350530</id>
-        <link href="https://blog.cryptographyengineering.com/2024/08/25/telegram-is-not-really-an-encrypted-messaging-app/"/>
-        <updated>2024-08-25T19:34:53.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://blog.cryptographyengineering.com/2024/08/25/telegram-is-not-really-an-encrypted-messaging-app/
-Comments URL: https://news.ycombinator.com/item?id=41350530
-Points: 594
-# Comments: 581]]></summary>
-        <author>
-            <name>md224</name>
         </author>
     </entry>
 </feed>
