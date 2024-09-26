@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-09-26T06:23:34.324Z</updated>
+    <updated>2024-09-26T07:16:22.786Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -1746,32 +1746,6 @@ Points: 1141
 # Comments: 408]]></summary>
         <author>
             <name>jmorgan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Collection of Free Public APIs That Is Tested Daily]]></title>
-        <id>https://news.ycombinator.com/item?id=41371170</id>
-        <link href="https://www.freepublicapis.com/"/>
-        <updated>2024-08-27T18:38:59.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.freepublicapis.com/
-Comments URL: https://news.ycombinator.com/item?id=41371170
-Points: 599
-# Comments: 122]]></summary>
-        <author>
-            <name>abhas9</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft donates the Mono Project to the Wine team]]></title>
-        <id>https://news.ycombinator.com/item?id=41371106</id>
-        <link href="https://www.mono-project.com/"/>
-        <updated>2024-08-27T18:34:09.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.mono-project.com/
-Comments URL: https://news.ycombinator.com/item?id=41371106
-Points: 1430
-# Comments: 478]]></summary>
-        <author>
-            <name>itherseed</name>
         </author>
     </entry>
 </feed>
