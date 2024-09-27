@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=41667652",
+          "author": "Liriel",
+          "description": "Article URL: https://www.ontestautomation.com/i-am-tired-of-ai/\nComments URL: https://news.ycombinator.com/item?id=41667652\nPoints: 525\n# Comments: 517",
+          "link": "https://www.ontestautomation.com/i-am-tired-of-ai/",
+          "publishedOn": "2024-09-27T08:20:24.000Z",
+          "wordCount": 1457,
+          "title": "I Am Tired of AI",
+          "imageUrl": "https://www.ontestautomation.com/images/logo_large.png"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=41659458",
           "author": "jimbob45",
           "description": "Article URL: https://www.theatlantic.com/ideas/archive/2024/09/legal-sports-gambling-was-mistake/679925/\nComments URL: https://news.ycombinator.com/item?id=41659458\nPoints: 573\n# Comments: 525",
@@ -14,6 +24,16 @@
           "wordCount": 2449,
           "title": "Legalizing Sports Gambling Was a Mistake",
           "imageUrl": "https://cdn.theatlantic.com/thumbor/Hvo7IQBOR6gOuOGlbI--Zsi9x8w=/0x480:2000x1522/1200x625/media/img/mt/2024/09/SportsGambling/original.png"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=41658733",
+          "author": "speckx",
+          "description": "Article URL: https://samcurry.net/hacking-kia\nComments URL: https://news.ycombinator.com/item?id=41658733\nPoints: 524\n# Comments: 310",
+          "link": "https://samcurry.net/hacking-kia",
+          "publishedOn": "2024-09-26T14:22:07.000Z",
+          "wordCount": 6958,
+          "title": "Hacking Kia: Remotely controlling cars with just a license plate",
+          "imageUrl": "https://samcurry-11fcyf1zb-sam-currys-projects.vercel.app/images/hacking-kia/zlz.webp"
         },
         {
           "id": "https://news.ycombinator.com/item?id=41657986",
@@ -1044,16 +1064,6 @@
           "wordCount": 5555,
           "title": "UK rail minister got engineer sacked for raising safety concerns",
           "imageUrl": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2024/08/28/GettyImages-1771297562-scaled.jpg"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=41386319",
-          "author": "ranebo",
-          "description": "Article URL: https://blog.hopefullyuseful.com/blog/advantage-air-ezone-tablet-diy-repair/\nComments URL: https://news.ycombinator.com/item?id=41386319\nPoints: 1969\n# Comments: 476",
-          "link": "https://blog.hopefullyuseful.com/blog/advantage-air-ezone-tablet-diy-repair/",
-          "publishedOn": "2024-08-29T01:28:01.000Z",
-          "wordCount": 2915,
-          "title": "Air Con: $1697 for an on/off switch",
-          "imageUrl": "https://blog.hopefullyuseful.com/blog/advantage-air-ezone-tablet-diy-repair/mainboard.jpg"
         }
       ]
     },
@@ -1409,6 +1419,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC_ML5xP23TOWKUcc-oAE_Eg",
       "siteUrl": "https://www.youtube.com/channel/UC_ML5xP23TOWKUcc-oAE_Eg",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=0Ih7FhVZ21s",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=0Ih7FhVZ21s",
+          "publishedOn": "2024-09-27T13:45:00.000Z",
+          "wordCount": null,
+          "title": "SQL IN clauses are miles faster in Postgres 17",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=ERaGORGfLF4",
           "author": null,
