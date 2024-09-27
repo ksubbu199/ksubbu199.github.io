@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=41672599",
+          "author": "nabla9",
+          "description": "Article URL: https://www.science.org/content/blog-post/fraud-so-much-fraud\nComments URL: https://news.ycombinator.com/item?id=41672599\nPoints: 636\n# Comments: 407",
+          "link": "https://www.science.org/content/blog-post/fraud-so-much-fraud",
+          "publishedOn": "2024-09-27T16:33:37.000Z",
+          "wordCount": null,
+          "title": "Fraud, so much fraud",
+          "imageUrl": null
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=41670210",
           "author": "greg_V",
           "description": "Article URL: https://larslofgren.com/cnn-usa-today-forbes-marketplace/\nComments URL: https://news.ycombinator.com/item?id=41670210\nPoints: 517\n# Comments: 199",
@@ -1054,26 +1064,6 @@
           "wordCount": 59106,
           "title": "Low Cost Mini PCs",
           "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=41389185",
-          "author": "punkpeye",
-          "description": "Article URL: https://glama.ai/blog/2024-08-29-reverse-engineering-minified-code-using-openai\nComments URL: https://news.ycombinator.com/item?id=41389185\nPoints: 919\n# Comments: 301",
-          "link": "https://glama.ai/blog/2024-08-29-reverse-engineering-minified-code-using-openai",
-          "publishedOn": "2024-08-29T10:14:50.000Z",
-          "wordCount": null,
-          "title": "OpenAI is good at unminifying code",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=41388888",
-          "author": "scrlk",
-          "description": "Article URL: https://www.politico.eu/article/uk-rail-minister-peter-hendy-fired-gareth-dennis-engineer-safety-concerns-trains-london-euston-station/\nComments URL: https://news.ycombinator.com/item?id=41388888\nPoints: 518\n# Comments: 289",
-          "link": "https://www.politico.eu/article/uk-rail-minister-peter-hendy-fired-gareth-dennis-engineer-safety-concerns-trains-london-euston-station/",
-          "publishedOn": "2024-08-29T09:19:36.000Z",
-          "wordCount": 5555,
-          "title": "UK rail minister got engineer sacked for raising safety concerns",
-          "imageUrl": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2024/08/28/GettyImages-1771297562-scaled.jpg"
         }
       ]
     },

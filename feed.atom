@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-09-27T21:14:54.879Z</updated>
+    <updated>2024-09-27T22:15:30.050Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Fraud, so much fraud]]></title>
+        <id>https://news.ycombinator.com/item?id=41672599</id>
+        <link href="https://www.science.org/content/blog-post/fraud-so-much-fraud"/>
+        <updated>2024-09-27T16:33:37.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.science.org/content/blog-post/fraud-so-much-fraud
+Comments URL: https://news.ycombinator.com/item?id=41672599
+Points: 636
+# Comments: 407]]></summary>
+        <author>
+            <name>nabla9</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SQL IN clauses are miles faster in Postgres 17]]></title>
         <id>https://www.youtube.com/watch?v=0Ih7FhVZ21s</id>
@@ -1859,32 +1872,6 @@ Points: 673
 # Comments: 302]]></summary>
         <author>
             <name>mjcurl</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenAI is good at unminifying code]]></title>
-        <id>https://news.ycombinator.com/item?id=41389185</id>
-        <link href="https://glama.ai/blog/2024-08-29-reverse-engineering-minified-code-using-openai"/>
-        <updated>2024-08-29T10:14:50.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://glama.ai/blog/2024-08-29-reverse-engineering-minified-code-using-openai
-Comments URL: https://news.ycombinator.com/item?id=41389185
-Points: 919
-# Comments: 301]]></summary>
-        <author>
-            <name>punkpeye</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[UK rail minister got engineer sacked for raising safety concerns]]></title>
-        <id>https://news.ycombinator.com/item?id=41388888</id>
-        <link href="https://www.politico.eu/article/uk-rail-minister-peter-hendy-fired-gareth-dennis-engineer-safety-concerns-trains-london-euston-station/"/>
-        <updated>2024-08-29T09:19:36.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.politico.eu/article/uk-rail-minister-peter-hendy-fired-gareth-dennis-engineer-safety-concerns-trains-london-euston-station/
-Comments URL: https://news.ycombinator.com/item?id=41388888
-Points: 518
-# Comments: 289]]></summary>
-        <author>
-            <name>scrlk</name>
         </author>
     </entry>
 </feed>
