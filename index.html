@@ -65,6 +65,59 @@
                     class="source-heading__name"
                     data-action="toggle-accordions"
                     title="Click to toggle the source, Ctrl + click to toggle all."
+                  >Julia Evans</button>
+                  <a class="source-heading__link" href="http://jvns.ca/atom.xml">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://jvns.ca/blog/2024/09/27/some-go-web-dev-notes/"
+                        open
+                      >
+                        <summary class="article-expander__title">Some Go web dev notes</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://jvns.ca/blog/2024/09/27/some-go-web-dev-notes/">
+                          <div class="article-summary-box-inner media-object">
+                            <span class="media-object__text">
+                              <span>I spent a lot of time in the past couple of weeks working on a website in Go
+that may or may not ever see the light of day, but I learned a couple of things
+along the way I wanted to write down. Here they are:
+go 1.22 now has better routing
+I’ve never felt motivated to learn any of the Go routing libraries
+(gorilla/mux, chi, etc), so I’ve been doing all my routing by hand, like this.
+	// DELETE /records:
+	case r.Method &#x3D;&#x3D; &quot;DELETE&quot; &amp;&amp; n &#x3D;&#x3D; 1 &amp;&amp; p[0] &#x3D;&#x3D; &quot;records&quot;:
+		if !requireLogin(username, r.URL.Path, r, w) {
+			return
+		}
+		deleteAllRecords(ctx, username, rs, w, r)
+	// POST /records/
+	case r.Method &#x3D;&#x3D; &quot;POST&quot; &amp;&amp; n &#x3D;&#x3D; 2 &amp;&amp; p[0] &#x3D;&#x3D; &quot;records&quot; &amp;&amp; len(p[1]) &gt; 0:
+		if !requireLogin(username, r.URL.Path, r, w) {
+			return
+		}
+		updateRecord(ctx, username, p[1], rs, w, r)
+
+
+But apparently as …</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;5
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
                   >Hacker News: Newest</button>
                   <a class="source-heading__link" href="https://news.ycombinator.com/newest">Open</a>
                 </h3>
@@ -4453,8 +4506,8 @@ Points: 518
       </section>
 
     <footer>
-      <a class="footer-link" href="https://github.com/ksubbu199/ksubbu199.github.io/actions/runs/11074145488">
-        <time id="build-timestamp" datetime="2024-09-27T16:20:13.222Z">2024-09-27T16:20:13.222Z</time>
+      <a class="footer-link" href="https://github.com/ksubbu199/ksubbu199.github.io/actions/runs/11074880819">
+        <time id="build-timestamp" datetime="2024-09-27T17:15:19.028Z">2024-09-27T17:15:19.028Z</time>
       </a>
       <a class="footer-link" href="https://github.com/osmoscraft/osmosfeed">osmosfeed 1.15.1</a>
     </footer>

@@ -1126,6 +1126,16 @@
       "siteUrl": "http://jvns.ca/atom.xml",
       "articles": [
         {
+          "id": "https://jvns.ca/blog/2024/09/27/some-go-web-dev-notes/",
+          "author": null,
+          "description": "I spent a lot of time in the past couple of weeks working on a website in Go\nthat may or may not ever see the light of day, but I learned a couple of things\nalong the way I wanted to write down. Here they are:\ngo 1.22 now has better routing\nI’ve never felt motivated to learn any of the Go routing libraries\n(gorilla/mux, chi, etc), so I’ve been doing all my routing by hand, like this.\n\t// DELETE /records:\n\tcase r.Method == \"DELETE\" && n == 1 && p[0] == \"records\":\n\t\tif !requireLogin(username, r.URL.Path, r, w) {\n\t\t\treturn\n\t\t}\n\t\tdeleteAllRecords(ctx, username, rs, w, r)\n\t// POST /records/<ID>\n\tcase r.Method == \"POST\" && n == 2 && p[0] == \"records\" && len(p[1]) > 0:\n\t\tif !requireLogin(username, r.URL.Path, r, w) {\n\t\t\treturn\n\t\t}\n\t\tupdateRecord(ctx, username, p[1], rs, w, r)\n\n\nBut apparently as …",
+          "link": "https://jvns.ca/blog/2024/09/27/some-go-web-dev-notes/",
+          "publishedOn": "2024-09-27T11:16:00.000Z",
+          "wordCount": 1392,
+          "title": "Some Go web dev notes",
+          "imageUrl": null
+        },
+        {
           "id": "https://jvns.ca/blog/2024/09/12/reasons-i--still--love-fish/",
           "author": null,
           "description": "I wrote about how much I love fish in this blog post from 2017 and, 7 years\nof using it every day later, I’ve found even more reasons to love it. So I\nthought I’d write a new post with both the old reasons I loved it and some\nreasons.\nThis came up today because I was trying to figure out why my terminal doesn’t\nbreak anymore when I cat a binary to my terminal, the answer was “fish fixes\nthe terminal!“, and I just thought that was really nice.\n1. no configuration\nIn 10 years of using fish I have never found a single thing I wanted to configure. It just works the way I want. My fish config file just has:\nenvironment variables\naliases (alias ls eza, alias vim nvim, etc)\nthe occasional direnv hook fish | source to integrate a tool like direnv\na script I run to set up my terminal colours\n2. aut…",
