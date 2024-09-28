@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-09-28T17:13:06.150Z</updated>
+    <updated>2024-09-28T18:20:21.020Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -22,6 +22,19 @@
         <updated>2024-09-28T09:12:39.000Z</updated>
         <author>
             <name>Think School</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FFT-based ocean-wave rendering, implemented in Godot]]></title>
+        <id>https://news.ycombinator.com/item?id=41678412</id>
+        <link href="https://github.com/2Retr0/GodotOceanWaves"/>
+        <updated>2024-09-28T06:51:41.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://github.com/2Retr0/GodotOceanWaves
+Comments URL: https://news.ycombinator.com/item?id=41678412
+Points: 500
+# Comments: 72]]></summary>
+        <author>
+            <name>RafelMri</name>
         </author>
     </entry>
     <entry>
