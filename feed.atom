@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-09-28T03:20:23.123Z</updated>
+    <updated>2024-09-28T04:19:13.260Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -69,6 +69,19 @@ I’ve never felt motivated to learn any of the Go routing libraries
 But apparently as …]]></summary>
         <author>
             <name>Julia Evans</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TSMC execs allegedly dismissed OpenAI CEO Sam Altman as 'podcasting bro']]></title>
+        <id>https://news.ycombinator.com/item?id=41668824</id>
+        <link href="https://www.tomshardware.com/tech-industry/tsmc-execs-allegedly-dismissed-openai-ceo-sam-altman-as-podcasting-bro"/>
+        <updated>2024-09-27T11:01:26.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.tomshardware.com/tech-industry/tsmc-execs-allegedly-dismissed-openai-ceo-sam-altman-as-podcasting-bro
+Comments URL: https://news.ycombinator.com/item?id=41668824
+Points: 457
+# Comments: 518]]></summary>
+        <author>
+            <name>WithinReason</name>
         </author>
     </entry>
     <entry>
@@ -1808,19 +1821,6 @@ Points: 749
 # Comments: 433]]></summary>
         <author>
             <name>dakrone</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bypassing airport security via SQL injection]]></title>
-        <id>https://news.ycombinator.com/item?id=41392128</id>
-        <link href="https://ian.sh/tsa"/>
-        <updated>2024-08-29T15:53:08.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://ian.sh/tsa
-Comments URL: https://news.ycombinator.com/item?id=41392128
-Points: 1959
-# Comments: 426]]></summary>
-        <author>
-            <name>iancarroll</name>
         </author>
     </entry>
 </feed>
