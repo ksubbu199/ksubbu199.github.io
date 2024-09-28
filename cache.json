@@ -1054,16 +1054,6 @@
           "wordCount": 9089,
           "title": "Can solar costs keep shrinking?",
           "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F96ea2baf-1de4-4589-828e-f8c5375f1e0f_1600x657.png"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=41389931",
-          "author": "mjcurl",
-          "description": "While searching for mini PCs for my home server, I figured I'd use the eBay API to find the cheapest ones. Inspired by diskprices.com, I built a static site using Eleventy and a python script that uses regex to parse the data. I tried to include as many filters as possible like OS, Wifi, HDMI etc.\nI would like to add power usage, noise levels, PCIe slots but that data is hard to find.\nPlease let me know if you have any feedback / suggestions.\nThanks!\nComments URL: https://news.ycombinator.com/item?id=41389931\nPoints: 673\n# Comments: 302",
-          "link": "https://lowcostminipcs.com/",
-          "publishedOn": "2024-08-29T12:03:41.000Z",
-          "wordCount": 59106,
-          "title": "Low Cost Mini PCs",
-          "imageUrl": null
         }
       ]
     },
