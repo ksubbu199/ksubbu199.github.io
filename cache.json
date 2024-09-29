@@ -1011,7 +1011,18 @@
       "title": "/dev/lawyer",
       "feedUrl": "https://writing.kemitchell.com/feed.xml",
       "siteUrl": "https://writing.kemitchell.com",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://writing.kemitchell.com/2024/09/29/Open-Source-as-Costco",
+          "author": null,
+          "description": "parallels weak and strong",
+          "link": "https://writing.kemitchell.com/2024/09/29/Open-Source-as-Costco",
+          "publishedOn": "2024-09-29T23:00:12.000Z",
+          "wordCount": 1147,
+          "title": "Open Source Company as Costco",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "Boot.dev Blog",
