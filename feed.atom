@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-09-30T15:18:21.767Z</updated>
+    <updated>2024-09-30T16:21:09.130Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Bop Spotter]]></title>
+        <id>https://news.ycombinator.com/item?id=41694044</id>
+        <link href="https://walzr.com/bop-spotter"/>
+        <updated>2024-09-30T06:09:53.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://walzr.com/bop-spotter
+Comments URL: https://news.ycombinator.com/item?id=41694044
+Points: 672
+# Comments: 141]]></summary>
+        <author>
+            <name>walz</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[NotebookLM's automatically generated podcasts are surprisingly effective]]></title>
         <id>https://news.ycombinator.com/item?id=41693087</id>
