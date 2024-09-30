@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-09-29T23:15:11.510Z</updated>
+    <updated>2024-09-30T01:18:15.701Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -302,6 +302,19 @@ Points: 502
         <updated>2024-09-25T16:09:57.000Z</updated>
         <author>
             <name>Think School</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Being Raised by the Internet]]></title>
+        <id>https://news.ycombinator.com/item?id=41646749</id>
+        <link href="https://jimmyhmiller.github.io/raised"/>
+        <updated>2024-09-25T12:39:45.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://jimmyhmiller.github.io/raised
+Comments URL: https://news.ycombinator.com/item?id=41646749
+Points: 512
+# Comments: 158]]></summary>
+        <author>
+            <name>DamonHD</name>
         </author>
     </entry>
     <entry>
