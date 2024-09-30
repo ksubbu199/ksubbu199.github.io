@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-09-30T09:19:21.389Z</updated>
+    <updated>2024-09-30T10:19:09.774Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -14,6 +14,19 @@
         <summary type="html"><![CDATA[parallels weak and strong]]></summary>
         <author>
             <name>/dev/lawyer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gavin Newsom vetoes SB 1047]]></title>
+        <id>https://news.ycombinator.com/item?id=41690302</id>
+        <link href="https://www.gov.ca.gov/wp-content/uploads/2024/09/SB-1047-Veto-Message.pdf"/>
+        <updated>2024-09-29T20:43:32.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.gov.ca.gov/wp-content/uploads/2024/09/SB-1047-Veto-Message.pdf
+Comments URL: https://news.ycombinator.com/item?id=41690302
+Points: 517
+# Comments: 298]]></summary>
+        <author>
+            <name>atlasunshrugged</name>
         </author>
     </entry>
     <entry>
@@ -1744,19 +1757,6 @@ Points: 744
 # Comments: 442]]></summary>
         <author>
             <name>bifftastic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Building LLMs from the Ground Up: A 3-Hour Coding Workshop]]></title>
-        <id>https://news.ycombinator.com/item?id=41412256</id>
-        <link href="https://magazine.sebastianraschka.com/p/building-llms-from-the-ground-up"/>
-        <updated>2024-08-31T21:45:59.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://magazine.sebastianraschka.com/p/building-llms-from-the-ground-up
-Comments URL: https://news.ycombinator.com/item?id=41412256
-Points: 830
-# Comments: 99]]></summary>
-        <author>
-            <name>mdp2021</name>
         </author>
     </entry>
 </feed>

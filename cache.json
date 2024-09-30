@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=41690302",
+          "author": "atlasunshrugged",
+          "description": "Article URL: https://www.gov.ca.gov/wp-content/uploads/2024/09/SB-1047-Veto-Message.pdf\nComments URL: https://news.ycombinator.com/item?id=41690302\nPoints: 517\n# Comments: 298",
+          "link": "https://www.gov.ca.gov/wp-content/uploads/2024/09/SB-1047-Veto-Message.pdf",
+          "publishedOn": "2024-09-29T20:43:32.000Z",
+          "wordCount": 10814,
+          "title": "Gavin Newsom vetoes SB 1047",
+          "imageUrl": null
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=41684082",
           "author": "feyman_r",
           "description": "Article URL: https://sohl-dickstein.github.io/2022/11/06/strong-Goodhart.html\nComments URL: https://news.ycombinator.com/item?id=41684082\nPoints: 513\n# Comments: 203",
@@ -974,16 +984,6 @@
           "wordCount": 1441,
           "title": "Founder Mode",
           "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=41412256",
-          "author": "mdp2021",
-          "description": "Article URL: https://magazine.sebastianraschka.com/p/building-llms-from-the-ground-up\nComments URL: https://news.ycombinator.com/item?id=41412256\nPoints: 830\n# Comments: 99",
-          "link": "https://magazine.sebastianraschka.com/p/building-llms-from-the-ground-up",
-          "publishedOn": "2024-08-31T21:45:59.000Z",
-          "wordCount": 1437,
-          "title": "Building LLMs from the Ground Up: A 3-Hour Coding Workshop",
-          "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F367b547c-9d22-4a3d-b466-1d56ccc6b055_1844x1224.png"
         }
       ]
     },
