@@ -2,10 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-10-01T14:16:03.889Z</updated>
+    <updated>2024-10-01T15:17:46.127Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[California bans legacy admissions at private universities]]></title>
+        <id>https://news.ycombinator.com/item?id=41700516</id>
+        <link href="https://www.nytimes.com/2024/09/30/us/california-bans-legacy-admissions-private-universities.html"/>
+        <updated>2024-09-30T18:42:03.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.nytimes.com/2024/09/30/us/california-bans-legacy-admissions-private-universities.html
+Comments URL: https://news.ycombinator.com/item?id=41700516
+Points: 513
+# Comments: 545]]></summary>
+        <author>
+            <name>JumpCrisscross</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Y Combinator Traded Prestige for Growth]]></title>
+        <id>https://news.ycombinator.com/item?id=41697032</id>
+        <link href="https://unfashionable.blog/p/yc/"/>
+        <updated>2024-09-30T13:48:03.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://unfashionable.blog/p/yc/
+Comments URL: https://news.ycombinator.com/item?id=41697032
+Points: 502
+# Comments: 240]]></summary>
+        <author>
+            <name>SvenSchnieders</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Bop Spotter]]></title>
         <id>https://news.ycombinator.com/item?id=41694044</id>
@@ -1731,19 +1757,6 @@ Points: 502
         <updated>2024-09-02T12:00:12.000Z</updated>
         <author>
             <name>Think School</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[1M Users]]></title>
-        <id>https://news.ycombinator.com/item?id=41422311</id>
-        <link href="https://blog.spacehey.com/entry?id=1245177"/>
-        <updated>2024-09-02T03:13:08.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://blog.spacehey.com/entry?id=1245177
-Comments URL: https://news.ycombinator.com/item?id=41422311
-Points: 519
-# Comments: 125]]></summary>
-        <author>
-            <name>theneedful</name>
         </author>
     </entry>
 </feed>
