@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-10-01T17:15:04.880Z</updated>
+    <updated>2024-10-01T18:22:40.562Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Web Components are not Framework Components — and That’s Okay]]></title>
+        <id>https://lea.verou.me/blog/2024/wcs-vs-frameworks/</id>
+        <link href="https://lea.verou.me/blog/2024/wcs-vs-frameworks/"/>
+        <updated>2024-10-01T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Disclaimer: This post expresses my opinions, which do not necessarily reflect consensus by the whole Web Components community.
+A blog post by Ryan Carniato
+titled “Web Components Are Not the Future” has recently stirred a lot of controversy.
+A few other JS framework authors pitched in, expressing frustration and disillusionment around Web Components.
+Some Web Components folks wrote rebuttals,
+while others repeatedly tried to get to the bottom of the issues,
+so they could be addressed in the future.
+When you are on the receiving end of such an onslaught,
+the initial reaction is to feel threatened and become defensive.
+However, these kinds of posts can often end up shaking things up and pushing a technology forwards in the end.
+I have some personal experience:
+after I published my 2020 post …]]></summary>
+        <author>
+            <name>Lea Verou’s blog</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[California bans legacy admissions at private universities]]></title>
         <id>https://news.ycombinator.com/item?id=41700516</id>

@@ -1398,6 +1398,16 @@
       "siteUrl": "https://lea.verou.me/feed.xml",
       "articles": [
         {
+          "id": "https://lea.verou.me/blog/2024/wcs-vs-frameworks/",
+          "author": null,
+          "description": "Disclaimer: This post expresses my opinions, which do not necessarily reflect consensus by the whole Web Components community.\nA blog post by Ryan Carniato\ntitled “Web Components Are Not the Future” has recently stirred a lot of controversy.\nA few other JS framework authors pitched in, expressing frustration and disillusionment around Web Components.\nSome Web Components folks wrote rebuttals,\nwhile others repeatedly tried to get to the bottom of the issues,\nso they could be addressed in the future.\nWhen you are on the receiving end of such an onslaught,\nthe initial reaction is to feel threatened and become defensive.\nHowever, these kinds of posts can often end up shaking things up and pushing a technology forwards in the end.\nI have some personal experience:\nafter I published my 2020 post …",
+          "link": "https://lea.verou.me/blog/2024/wcs-vs-frameworks/",
+          "publishedOn": "2024-10-01T00:00:00.000Z",
+          "wordCount": 2102,
+          "title": "Web Components are not Framework Components — and That’s Okay",
+          "imageUrl": "https://lea.verou.me/blog/2024/wcs-vs-frameworks/images/component-types.png"
+        },
+        {
           "id": "https://lea.verou.me/blog/2024/awesome/",
           "author": null,
           "description": "Folks, I have some exciting news to share. 🤩\nToday I start a new chapter in my career.\nAfter a decade at MIT, teaching and\ndoing research at the intersection of usability and programming language design,\nI wrapped up my PhD two weeks ago\n(yes, I’m a Dr now! And damn right I will — once it actually sinks in)\nand today I start my new role as Product Lead at Font Awesome.\nI will be evaluating user needs and improving product design and usability across all company products,\nwith an emphasis on Web Awesome,\nthe product we are launching early next year to revolutionize how Web UIs are built by using web components and CSS in ways you’ve never seen before.\nBeyond improving the products themselves (all of which include extensive free & open source versions),\npart of my role will utilize my web s…",
