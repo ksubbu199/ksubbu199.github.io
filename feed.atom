@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-10-02T14:15:13.206Z</updated>
+    <updated>2024-10-02T15:18:00.208Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -17,6 +17,30 @@ Points: 501
 # Comments: 207]]></summary>
         <author>
             <name>bo0tzz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Terminal colours are tricky]]></title>
+        <id>https://jvns.ca/blog/2024/10/01/terminal-colours/</id>
+        <link href="https://jvns.ca/blog/2024/10/01/terminal-colours/"/>
+        <updated>2024-10-01T10:01:44.000Z</updated>
+        <summary type="html"><![CDATA[Yesterday I was thinking about how long it took me to get a colorscheme in my
+terminal that I was mostly happy with (SO MANY YEARS), and it made me wonder
+what about terminal colours made it so hard.
+So I asked people on Mastodon what problems
+they’ve run into with colours in the terminal, and I got a ton of interesting
+responses! Let’s talk about some of the problems and a few possible ways to fix
+them.
+problem 1: blue on black
+One of the top complaints was “blue on black is hard to read”. Here’s an
+example of that: if I open Terminal.app, set the background to black, and run
+ls, the directories are displayed in a blue that isn’t that easy to read:
+
+To understand why we’re seeing this blue, let’s talk about ANSI colours!
+the 16 ANSI colours
+Your terminal has 16 numbered colours – black, r…]]></summary>
+        <author>
+            <name>Julia Evans</name>
         </author>
     </entry>
     <entry>
@@ -1756,19 +1780,6 @@ Points: 508
         <updated>2024-09-03T09:29:51.000Z</updated>
         <author>
             <name>Think School</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Greppability is an underrated code metric]]></title>
-        <id>https://news.ycombinator.com/item?id=41430772</id>
-        <link href="https://morizbuesing.com/blog/greppability-code-metric/"/>
-        <updated>2024-09-03T02:47:00.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://morizbuesing.com/blog/greppability-code-metric/
-Comments URL: https://news.ycombinator.com/item?id=41430772
-Points: 564
-# Comments: 317]]></summary>
-        <author>
-            <name>thunderbong</name>
         </author>
     </entry>
 </feed>

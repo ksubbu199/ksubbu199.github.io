@@ -974,16 +974,6 @@
           "wordCount": 2382,
           "title": "EUCLEAK Side-Channel Attack on the YubiKey 5 Series",
           "imageUrl": "https://ninjalab.io/wp-content/uploads/2024/09/20240830_eucleak_illu_from_romain_light.jpg"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=41430772",
-          "author": "thunderbong",
-          "description": "Article URL: https://morizbuesing.com/blog/greppability-code-metric/\nComments URL: https://news.ycombinator.com/item?id=41430772\nPoints: 564\n# Comments: 317",
-          "link": "https://morizbuesing.com/blog/greppability-code-metric/",
-          "publishedOn": "2024-09-03T02:47:00.000Z",
-          "wordCount": 621,
-          "title": "Greppability is an underrated code metric",
-          "imageUrl": "https://morizbuesing.com/blog/greppability-code-metric/[object%20Object]"
         }
       ]
     },
@@ -1056,6 +1046,16 @@
       "feedUrl": "https://jvns.ca/atom.xml",
       "siteUrl": "http://jvns.ca/atom.xml",
       "articles": [
+        {
+          "id": "https://jvns.ca/blog/2024/10/01/terminal-colours/",
+          "author": null,
+          "description": "Yesterday I was thinking about how long it took me to get a colorscheme in my\nterminal that I was mostly happy with (SO MANY YEARS), and it made me wonder\nwhat about terminal colours made it so hard.\nSo I asked people on Mastodon what problems\nthey’ve run into with colours in the terminal, and I got a ton of interesting\nresponses! Let’s talk about some of the problems and a few possible ways to fix\nthem.\nproblem 1: blue on black\nOne of the top complaints was “blue on black is hard to read”. Here’s an\nexample of that: if I open Terminal.app, set the background to black, and run\nls, the directories are displayed in a blue that isn’t that easy to read:\n\nTo understand why we’re seeing this blue, let’s talk about ANSI colours!\nthe 16 ANSI colours\nYour terminal has 16 numbered colours – black, r…",
+          "link": "https://jvns.ca/blog/2024/10/01/terminal-colours/",
+          "publishedOn": "2024-10-01T10:01:44.000Z",
+          "wordCount": 2454,
+          "title": "Terminal colours are tricky",
+          "imageUrl": null
+        },
         {
           "id": "https://jvns.ca/blog/2024/09/27/some-go-web-dev-notes/",
           "author": null,
