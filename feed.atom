@@ -2,10 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-10-02T23:16:31.540Z</updated>
+    <updated>2024-10-03T01:16:11.868Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The Fastest Mutexes]]></title>
+        <id>https://news.ycombinator.com/item?id=41721668</id>
+        <link href="https://justine.lol/mutex/"/>
+        <updated>2024-10-02T15:31:45.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://justine.lol/mutex/
+Comments URL: https://news.ycombinator.com/item?id=41721668
+Points: 545
+# Comments: 212]]></summary>
+        <author>
+            <name>jart</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pledging $300k to the Zig Software Foundation]]></title>
+        <id>https://news.ycombinator.com/item?id=41711601</id>
+        <link href="https://mitchellh.com/writing/zig-donation"/>
+        <updated>2024-10-01T17:37:14.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://mitchellh.com/writing/zig-donation
+Comments URL: https://news.ycombinator.com/item?id=41711601
+Points: 504
+# Comments: 160]]></summary>
+        <author>
+            <name>tosh</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[A $1k Wheelchair]]></title>
         <id>https://news.ycombinator.com/item?id=41711437</id>
@@ -1758,19 +1784,6 @@ Points: 500
 # Comments: 305]]></summary>
         <author>
             <name>impish9208</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EUCLEAK Side-Channel Attack on the YubiKey 5 Series]]></title>
-        <id>https://news.ycombinator.com/item?id=41434500</id>
-        <link href="https://ninjalab.io/eucleak/"/>
-        <updated>2024-09-03T12:54:47.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://ninjalab.io/eucleak/
-Comments URL: https://news.ycombinator.com/item?id=41434500
-Points: 508
-# Comments: 187]]></summary>
-        <author>
-            <name>GTP</name>
         </author>
     </entry>
 </feed>

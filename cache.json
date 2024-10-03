@@ -6,6 +6,26 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=41721668",
+          "author": "jart",
+          "description": "Article URL: https://justine.lol/mutex/\nComments URL: https://news.ycombinator.com/item?id=41721668\nPoints: 545\n# Comments: 212",
+          "link": "https://justine.lol/mutex/",
+          "publishedOn": "2024-10-02T15:31:45.000Z",
+          "wordCount": 2433,
+          "title": "The Fastest Mutexes",
+          "imageUrl": "https://justine.lol/mutex/honeybadger.png"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=41711601",
+          "author": "tosh",
+          "description": "Article URL: https://mitchellh.com/writing/zig-donation\nComments URL: https://news.ycombinator.com/item?id=41711601\nPoints: 504\n# Comments: 160",
+          "link": "https://mitchellh.com/writing/zig-donation",
+          "publishedOn": "2024-10-01T17:37:14.000Z",
+          "wordCount": 897,
+          "title": "Pledging $300k to the Zig Software Foundation",
+          "imageUrl": null
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=41711437",
           "author": "bo0tzz",
           "description": "Article URL: https://newmobility.com/not-a-wheelchair/\nComments URL: https://news.ycombinator.com/item?id=41711437\nPoints: 501\n# Comments: 207",
@@ -964,16 +984,6 @@
           "wordCount": 3045,
           "title": "The Engineering of Landfills",
           "imageUrl": "http://static1.squarespace.com/static/55ac34e4e4b0170ef54be632/55ac3907e4b03d1c8c9deff1/66d72b25b10d8b6630558966/1725377455767/Landfills+Thumbnail+2.jpg?format=1500w"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=41434500",
-          "author": "GTP",
-          "description": "Article URL: https://ninjalab.io/eucleak/\nComments URL: https://news.ycombinator.com/item?id=41434500\nPoints: 508\n# Comments: 187",
-          "link": "https://ninjalab.io/eucleak/",
-          "publishedOn": "2024-09-03T12:54:47.000Z",
-          "wordCount": 2382,
-          "title": "EUCLEAK Side-Channel Attack on the YubiKey 5 Series",
-          "imageUrl": "https://ninjalab.io/wp-content/uploads/2024/09/20240830_eucleak_illu_from_romain_light.jpg"
         }
       ]
     },
