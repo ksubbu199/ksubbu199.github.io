@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=41722159",
+          "author": "teleforce",
+          "description": "Article URL: https://www.economist.com/science-and-technology/2024/10/02/an-adult-fruit-fly-brain-has-been-mapped-human-brains-could-follow\nComments URL: https://news.ycombinator.com/item?id=41722159\nPoints: 507\n# Comments: 168",
+          "link": "https://www.economist.com/science-and-technology/2024/10/02/an-adult-fruit-fly-brain-has-been-mapped-human-brains-could-follow",
+          "publishedOn": "2024-10-02T16:16:03.000Z",
+          "wordCount": 5002,
+          "title": "An adult fruit fly brain has been mapped",
+          "imageUrl": "https://www.economist.com/content-assets/images/20241005_STP001.jpg"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=41721668",
           "author": "jart",
           "description": "Article URL: https://justine.lol/mutex/\nComments URL: https://news.ycombinator.com/item?id=41721668\nPoints: 545\n# Comments: 212",
@@ -1112,16 +1122,6 @@
           "wordCount": 3085,
           "title": "Governing data products using fitness functions",
           "imageUrl": "https://martinfowler.com/articles/fitness-functions-data-products/card.png"
-        },
-        {
-          "id": "https://martinfowler.com/bliki/CycleTime.html",
-          "author": null,
-          "description": "Cycle Time is a measure of how long it takes to get a new feature in a\n  software system from idea to running in production. In Agile circles, we try\n  to minimize cycle time. We do this by defining and implementing very small\n  features and minimizing delays in the development process. Although the rough\n  notion of cycle time, and the importance of reducing it, is common, there is a\n  lot of variations on how cycle time is measured.\n\n\nA key characteristic of agile software development is a shift from a\n  Waterfall Process, where work is decomposed based on\n  activity (analysis, coding, testing) to an Iterative Process where work is\n  based on a subset of functionality (simple pricing, bulk discount,\n  valued-customer discount). Doing this generates a feedback loop where we can learn\n  fr…",
-          "link": "https://martinfowler.com/bliki/CycleTime.html",
-          "publishedOn": "2024-09-04T04:00:00.000Z",
-          "wordCount": 938,
-          "title": "Bliki: Cycle Time",
-          "imageUrl": "https://martinfowler.com/logo-sq.png"
         }
       ]
     },

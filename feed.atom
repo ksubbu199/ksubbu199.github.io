@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-10-03T15:18:10.036Z</updated>
+    <updated>2024-10-03T16:20:39.417Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -22,6 +22,19 @@
         <updated>2024-10-03T09:42:08.000Z</updated>
         <author>
             <name>Think School</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[An adult fruit fly brain has been mapped]]></title>
+        <id>https://news.ycombinator.com/item?id=41722159</id>
+        <link href="https://www.economist.com/science-and-technology/2024/10/02/an-adult-fruit-fly-brain-has-been-mapped-human-brains-could-follow"/>
+        <updated>2024-10-02T16:16:03.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.economist.com/science-and-technology/2024/10/02/an-adult-fruit-fly-brain-has-been-mapped-human-brains-could-follow
+Comments URL: https://news.ycombinator.com/item?id=41722159
+Points: 507
+# Comments: 168]]></summary>
+        <author>
+            <name>teleforce</name>
         </author>
     </entry>
     <entry>
@@ -1756,29 +1769,6 @@ Points: 527
 # Comments: 452]]></summary>
         <author>
             <name>buro9</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bliki: Cycle Time]]></title>
-        <id>https://martinfowler.com/bliki/CycleTime.html</id>
-        <link href="https://martinfowler.com/bliki/CycleTime.html"/>
-        <updated>2024-09-04T04:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Cycle Time is a measure of how long it takes to get a new feature in a
-  software system from idea to running in production. In Agile circles, we try
-  to minimize cycle time. We do this by defining and implementing very small
-  features and minimizing delays in the development process. Although the rough
-  notion of cycle time, and the importance of reducing it, is common, there is a
-  lot of variations on how cycle time is measured.
-
-
-A key characteristic of agile software development is a shift from a
-  Waterfall Process, where work is decomposed based on
-  activity (analysis, coding, testing) to an Iterative Process where work is
-  based on a subset of functionality (simple pricing, bulk discount,
-  valued-customer discount). Doing this generates a feedback loop where we can learn
-  fr…]]></summary>
-        <author>
-            <name>Martin Fowler</name>
         </author>
     </entry>
 </feed>
