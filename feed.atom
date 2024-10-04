@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-10-04T05:16:10.055Z</updated>
+    <updated>2024-10-04T06:32:12.563Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -1756,19 +1756,6 @@ Points: 503
 more…]]></summary>
         <author>
             <name>Martin Fowler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CSS @property and the new style]]></title>
-        <id>https://news.ycombinator.com/item?id=41448740</id>
-        <link href="https://ryanmulligan.dev/blog/css-property-new-style/"/>
-        <updated>2024-09-04T18:13:51.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://ryanmulligan.dev/blog/css-property-new-style/
-Comments URL: https://news.ycombinator.com/item?id=41448740
-Points: 501
-# Comments: 160]]></summary>
-        <author>
-            <name>surprisetalk</name>
         </author>
     </entry>
 </feed>
