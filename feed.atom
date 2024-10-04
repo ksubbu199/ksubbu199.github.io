@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-10-04T12:32:25.366Z</updated>
+    <updated>2024-10-04T13:23:17.085Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -27,6 +27,19 @@
 more…]]></summary>
         <author>
             <name>Martin Fowler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why does man print "gimme gimme gimme" at 00:30? (2017)]]></title>
+        <id>https://news.ycombinator.com/item?id=41736903</id>
+        <link href="https://unix.stackexchange.com/questions/405783/why-does-man-print-gimme-gimme-gimme-at-0030"/>
+        <updated>2024-10-04T01:25:51.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://unix.stackexchange.com/questions/405783/why-does-man-print-gimme-gimme-gimme-at-0030
+Comments URL: https://news.ycombinator.com/item?id=41736903
+Points: 544
+# Comments: 219]]></summary>
+        <author>
+            <name>jamesy0ung</name>
         </author>
     </entry>
     <entry>
@@ -136,6 +149,19 @@ Points: 501
 # Comments: 207]]></summary>
         <author>
             <name>bo0tzz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Is the world really running out of sand?]]></title>
+        <id>https://news.ycombinator.com/item?id=41710166</id>
+        <link href="https://practical.engineering/blog/2024/10/1/is-the-world-really-running-out-of-sand"/>
+        <updated>2024-10-01T16:00:46.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://practical.engineering/blog/2024/10/1/is-the-world-really-running-out-of-sand
+Comments URL: https://news.ycombinator.com/item?id=41710166
+Points: 500
+# Comments: 207]]></summary>
+        <author>
+            <name>chmaynard</name>
         </author>
     </entry>
     <entry>
