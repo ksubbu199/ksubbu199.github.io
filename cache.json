@@ -1074,6 +1074,16 @@
       "siteUrl": "https://martinfowler.com/feed.atom",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=CjCJ76oZXTE",
+          "author": null,
+          "description": "I was interviewed on the Book Overflow podcast about the Refactoring\n       book. We talked about the origins of the book, the relationship\n       between refactoring, testing, and extreme programming, how refactoring is\n       used in the wild, and the role of books and long-form prose today.\nmore…",
+          "link": "https://www.youtube.com/watch?v=CjCJ76oZXTE",
+          "publishedOn": "2024-10-04T07:16:00.000Z",
+          "wordCount": null,
+          "title": "Interviewed by Book Overflow podcast on Refactoring",
+          "imageUrl": null
+        },
+        {
           "id": "https://martinfowler.com/articles/legacy-modernization-gen-ai.html#DiscoveringACapabilityMapOfASystem",
           "author": null,
           "description": "Alessio Ferri, Tom Coggrave, and\n       Shodhan Sheth complete their article on what they have\n       learned from using GenAI with legacy systems. They describe how GenAI's\n       ability to process unstructured information makes it much easier to build\n       a capability map of a legacy system, tying the capabilities of a system\n       to the relevant parts of the source code. GenAI is also useful for\n       identifying areas of dead code, and has promise for better translations\n       of a system between platforms and languages.\nmore…",

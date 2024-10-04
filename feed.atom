@@ -2,10 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-10-04T07:15:38.909Z</updated>
+    <updated>2024-10-04T08:21:14.017Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Interviewed by Book Overflow podcast on Refactoring]]></title>
+        <id>https://www.youtube.com/watch?v=CjCJ76oZXTE</id>
+        <link href="https://www.youtube.com/watch?v=CjCJ76oZXTE"/>
+        <updated>2024-10-04T07:16:00.000Z</updated>
+        <summary type="html"><![CDATA[I was interviewed on the Book Overflow podcast about the Refactoring
+       book. We talked about the origins of the book, the relationship
+       between refactoring, testing, and extreme programming, how refactoring is
+       used in the wild, and the role of books and long-form prose today.
+more…]]></summary>
+        <author>
+            <name>Martin Fowler</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Canvas is a new way to write and code with ChatGPT]]></title>
         <id>https://news.ycombinator.com/item?id=41732634</id>
