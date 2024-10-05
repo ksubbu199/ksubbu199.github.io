@@ -1162,16 +1162,6 @@
           "wordCount": 2567,
           "title": "Legacy Modernization meets GenAI",
           "imageUrl": "https://martinfowler.com/articles/legacy-modernization-gen-ai/card.png"
-        },
-        {
-          "id": "https://martinfowler.com/articles/fitness-functions-data-products.html",
-          "author": null,
-          "description": "Decentralized data management requires automation to scale governance\n       effectively. Fitness functions are a powerful automated governance\n       technique my colleagues have applied to data products within the context\n       of a Data Mesh. Since data products serve as the foundational building\n       blocks of a data strategy, ensuring robust governance around them\n       significantly increases the chances of success. Kiran\n       Prakash explains how to do this, starting with simple tests for\n       key architectural characteristics and moving on to leveraging metadata\n       and Large Language Models.\nmore…",
-          "link": "https://martinfowler.com/articles/fitness-functions-data-products.html",
-          "publishedOn": "2024-09-05T13:37:00.000Z",
-          "wordCount": 3085,
-          "title": "Governing data products using fitness functions",
-          "imageUrl": "https://martinfowler.com/articles/fitness-functions-data-products/card.png"
         }
       ]
     },

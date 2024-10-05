@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-10-05T01:15:12.324Z</updated>
+    <updated>2024-10-05T02:45:46.119Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -1834,25 +1834,6 @@ Points: 503
 # Comments: 202]]></summary>
         <author>
             <name>tuyguntn</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Governing data products using fitness functions]]></title>
-        <id>https://martinfowler.com/articles/fitness-functions-data-products.html</id>
-        <link href="https://martinfowler.com/articles/fitness-functions-data-products.html"/>
-        <updated>2024-09-05T13:37:00.000Z</updated>
-        <summary type="html"><![CDATA[Decentralized data management requires automation to scale governance
-       effectively. Fitness functions are a powerful automated governance
-       technique my colleagues have applied to data products within the context
-       of a Data Mesh. Since data products serve as the foundational building
-       blocks of a data strategy, ensuring robust governance around them
-       significantly increases the chances of success. Kiran
-       Prakash explains how to do this, starting with simple tests for
-       key architectural characteristics and moving on to leveraging metadata
-       and Large Language Models.
-more…]]></summary>
-        <author>
-            <name>Martin Fowler</name>
         </author>
     </entry>
 </feed>
