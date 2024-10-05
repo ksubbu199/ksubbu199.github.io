@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-10-04T23:16:00.550Z</updated>
+    <updated>2024-10-05T01:15:12.324Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Getting my daily news from a dot matrix printer]]></title>
+        <id>https://news.ycombinator.com/item?id=41742210</id>
+        <link href="https://aschmelyun.com/blog/getting-my-daily-news-from-a-dot-matrix-printer/"/>
+        <updated>2024-10-04T15:08:42.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://aschmelyun.com/blog/getting-my-daily-news-from-a-dot-matrix-printer/
+Comments URL: https://news.ycombinator.com/item?id=41742210
+Points: 541
+# Comments: 168]]></summary>
+        <author>
+            <name>chrisdemarco</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Beauty of Assembly]]></title>
         <id>https://www.youtube.com/watch?v=cOYK3nbpa2w</id>
@@ -49,6 +62,19 @@ Points: 511
 more…]]></summary>
         <author>
             <name>Martin Fowler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Experimental web browser optimized for rabbit-holing]]></title>
+        <id>https://news.ycombinator.com/item?id=41738502</id>
+        <link href="https://szymonkaliski.com/projects/cartographist/"/>
+        <updated>2024-10-04T06:47:57.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://szymonkaliski.com/projects/cartographist/
+Comments URL: https://news.ycombinator.com/item?id=41738502
+Points: 514
+# Comments: 98]]></summary>
+        <author>
+            <name>cernocky</name>
         </author>
     </entry>
     <entry>
