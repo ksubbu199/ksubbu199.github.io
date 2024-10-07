@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-10-07T20:19:28.046Z</updated>
+    <updated>2024-10-07T21:16:02.039Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -13,6 +13,28 @@
         <updated>2024-10-07T10:40:03.000Z</updated>
         <author>
             <name>Think School</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Some notes on upgrading Hugo]]></title>
+        <id>https://jvns.ca/blog/2024/10/07/some-notes-on-upgrading-hugo/</id>
+        <link href="https://jvns.ca/blog/2024/10/07/some-notes-on-upgrading-hugo/"/>
+        <updated>2024-10-07T09:19:57.000Z</updated>
+        <summary type="html"><![CDATA[Warning: this is a post about very boring yakshaving, probably only of interest
+to people who are trying to upgrade Hugo from a very old version to a new
+version. But what are blogs for if not documenting one’s very boring yakshaves
+from time to time?
+So yesterday I decided to try to upgrade Hugo. There’s no real reason to do
+this – I’ve been using Hugo version 0.40 to generate this blog since 2018, it
+works fine, and I don’t have any problems with it. But I thought – maybe it
+won’t be as hard as I think, and I kind of like a tedious computer task sometimes!
+I thought I’d document what I learned along the way in case it’s useful to
+anyone else doing this very specific migration. I upgraded from Hugo v0.40
+(from 2018) to v0.135 (from 2024).
+Here are most of the changes I had to make:
+change…]]></summary>
+        <author>
+            <name>Julia Evans</name>
         </author>
     </entry>
     <entry>
@@ -1770,19 +1792,6 @@ Points: 441
 # Comments: 793]]></summary>
         <author>
             <name>mef</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[An NFC movie library for my kids]]></title>
-        <id>https://news.ycombinator.com/item?id=41479141</id>
-        <link href="https://simplyexplained.com/blog/how-i-built-an-nfc-movie-library-for-my-kids/"/>
-        <updated>2024-09-08T09:06:31.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://simplyexplained.com/blog/how-i-built-an-nfc-movie-library-for-my-kids/
-Comments URL: https://news.ycombinator.com/item?id=41479141
-Points: 548
-# Comments: 115]]></summary>
-        <author>
-            <name>kzrdude</name>
         </author>
     </entry>
 </feed>
