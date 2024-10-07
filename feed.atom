@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-10-07T14:16:04.762Z</updated>
+    <updated>2024-10-07T15:18:01.458Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -13,6 +13,19 @@
         <updated>2024-10-07T10:40:03.000Z</updated>
         <author>
             <name>Think School</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sq.io: jq for databases and more]]></title>
+        <id>https://news.ycombinator.com/item?id=41760697</id>
+        <link href="https://sq.io/"/>
+        <updated>2024-10-06T22:02:34.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://sq.io
+Comments URL: https://news.ycombinator.com/item?id=41760697
+Points: 510
+# Comments: 102]]></summary>
+        <author>
+            <name>stavepan</name>
         </author>
     </entry>
     <entry>
