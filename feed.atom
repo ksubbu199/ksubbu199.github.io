@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-10-08T15:18:03.756Z</updated>
+    <updated>2024-10-08T16:21:16.847Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -17,6 +17,19 @@ Points: 508
 # Comments: 389]]></summary>
         <author>
             <name>dblitt</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What's New in Ruby on Rails 8]]></title>
+        <id>https://news.ycombinator.com/item?id=41766515</id>
+        <link href="https://blog.appsignal.com/2024/10/07/whats-new-in-ruby-on-rails-8.html"/>
+        <updated>2024-10-07T14:45:12.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://blog.appsignal.com/2024/10/07/whats-new-in-ruby-on-rails-8.html
+Comments URL: https://news.ycombinator.com/item?id=41766515
+Points: 504
+# Comments: 242]]></summary>
+        <author>
+            <name>amalinovic</name>
         </author>
     </entry>
     <entry>
