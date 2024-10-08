@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-10-08T17:14:52.544Z</updated>
+    <updated>2024-10-08T18:22:27.981Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Nobel Prize in Physics awarded to John Hopfield and Geoffrey Hinton [pdf]]]></title>
+        <id>https://news.ycombinator.com/item?id=41775463</id>
+        <link href="https://www.nobelprize.org/uploads/2024/09/advanced-physicsprize2024.pdf"/>
+        <updated>2024-10-08T09:52:46.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.nobelprize.org/uploads/2024/09/advanced-physicsprize2024.pdf
+Comments URL: https://news.ycombinator.com/item?id=41775463
+Points: 598
+# Comments: 565]]></summary>
+        <author>
+            <name>drpossum</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Nobel Prize in Physics Awarded for Machine Learning and Neural Networks]]></title>
         <id>https://news.ycombinator.com/item?id=41775463</id>
