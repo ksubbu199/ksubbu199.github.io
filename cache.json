@@ -1000,6 +1000,16 @@
       "siteUrl": "https://blog.boot.dev/",
       "articles": [
         {
+          "id": "https://blog.boot.dev/news/bootdev-beat-2024-10/",
+          "author": null,
+          "description": "The “learn computer science basics” section of the backend developer learning path is now complete! We have no big plans to make serious modifications (tbh I always say this though, so idk).",
+          "link": "https://blog.boot.dev/news/bootdev-beat-2024-10/",
+          "publishedOn": "2024-10-07T00:00:00.000Z",
+          "wordCount": 1027,
+          "title": "The Boot.dev Beat. October 2024",
+          "imageUrl": "https://blog.boot.dev/img/800/bootsoctober.png.webp"
+        },
+        {
           "id": "https://blog.boot.dev/tutorials/learn-http-servers-golang-deprecated/",
           "author": null,
           "description": "Let’s build a fully-fledged HTTP server from scratch in Go. This course assumes you already have a solid understanding of Go.",

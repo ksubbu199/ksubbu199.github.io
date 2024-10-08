@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-10-07T23:15:40.611Z</updated>
+    <updated>2024-10-08T01:16:00.513Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -35,6 +35,16 @@ Here are most of the changes I had to make:
 change…]]></summary>
         <author>
             <name>Julia Evans</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Boot.dev Beat. October 2024]]></title>
+        <id>https://blog.boot.dev/news/bootdev-beat-2024-10/</id>
+        <link href="https://blog.boot.dev/news/bootdev-beat-2024-10/"/>
+        <updated>2024-10-07T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The “learn computer science basics” section of the backend developer learning path is now complete! We have no big plans to make serious modifications (tbh I always say this though, so idk).]]></summary>
+        <author>
+            <name>Boot.dev Blog</name>
         </author>
     </entry>
     <entry>
