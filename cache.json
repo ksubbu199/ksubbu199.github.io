@@ -46,6 +46,16 @@
           "imageUrl": "https://cdn.theatlantic.com/thumbor/-f1-pf7FJHD5RjA1P6DzBMDXdAk=/0x204:4792x2700/1200x625/media/img/mt/2024/10/HR_1258550648/original.jpg"
         },
         {
+          "id": "https://news.ycombinator.com/item?id=41742278",
+          "author": "nwienert",
+          "description": "Hey HN, I'm Nate, the creator of Tamagui.\nOne is a React framework that does two things differently in hopes of simplifying how we build websites and apps:\n1. It unifies React Native and React web with typed file system routing by making Vite able to serve RN. This lets you share (or diverge) your code in a simpler way for cross-platform apps.\n2. We've partnered with Zero (https://zerosync.dev) to make local-first work well. We've been building a solution in One that makes Zero supporting server rendering, without waterfalls, and with seamless server/client handoff.\n---\nHonestly - I'm a bit hesitant to post One here.\nHN has really soured on frontend/frameworks. And I get it. We've collectively complicated the hell out of things.\nThat's why I decided to build One. I loved Rails, it made me …",
+          "link": "https://onestack.dev/",
+          "publishedOn": "2024-10-04T15:15:24.000Z",
+          "wordCount": 1391,
+          "title": "Show HN: One – A new React framework unifying web, native and local-first",
+          "imageUrl": "https://onestack.dev/og.jpg"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=41742210",
           "author": "chrisdemarco",
           "description": "Article URL: https://aschmelyun.com/blog/getting-my-daily-news-from-a-dot-matrix-printer/\nComments URL: https://news.ycombinator.com/item?id=41742210\nPoints: 541\n# Comments: 168",
@@ -984,16 +994,6 @@
           "wordCount": 3528,
           "title": "QUIC is not quick enough over fast internet",
           "imageUrl": "https://dl.acm.org/cms/asset/0b935d33-efc6-48f2-9b6e-d8b94bc6fc57/3589334.cover.jpg"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=41484634",
-          "author": "mef",
-          "description": "Article URL: https://www.matthewball.co/all/fansprofitandloss\nComments URL: https://news.ycombinator.com/item?id=41484634\nPoints: 441\n# Comments: 793",
-          "link": "https://www.matthewball.co/all/fansprofitandloss",
-          "publishedOn": "2024-09-09T01:06:26.000Z",
-          "wordCount": 2490,
-          "title": "Breaking Down OnlyFans' Economics",
-          "imageUrl": "http://static1.squarespace.com/static/5d8e9007bc3d0e18a4c49673/t/66dceabc40dfdd16c58f8e06/1725754047197/63454023-fc12-4f70-8bbd-3d7101790540.jpeg?format=1500w"
         }
       ]
     },

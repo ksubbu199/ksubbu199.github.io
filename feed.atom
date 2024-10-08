@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-10-08T12:31:17.817Z</updated>
+    <updated>2024-10-08T13:23:17.244Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -115,6 +115,23 @@ Points: 551
         <updated>2024-10-05T06:56:31.000Z</updated>
         <author>
             <name>Think School</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: One – A new React framework unifying web, native and local-first]]></title>
+        <id>https://news.ycombinator.com/item?id=41742278</id>
+        <link href="https://onestack.dev/"/>
+        <updated>2024-10-04T15:15:24.000Z</updated>
+        <summary type="html"><![CDATA[Hey HN, I'm Nate, the creator of Tamagui.
+One is a React framework that does two things differently in hopes of simplifying how we build websites and apps:
+1. It unifies React Native and React web with typed file system routing by making Vite able to serve RN. This lets you share (or diverge) your code in a simpler way for cross-platform apps.
+2. We've partnered with Zero (https://zerosync.dev) to make local-first work well. We've been building a solution in One that makes Zero supporting server rendering, without waterfalls, and with seamless server/client handoff.
+---
+Honestly - I'm a bit hesitant to post One here.
+HN has really soured on frontend/frameworks. And I get it. We've collectively complicated the hell out of things.
+That's why I decided to build One. I loved Rails, it made me …]]></summary>
+        <author>
+            <name>nwienert</name>
         </author>
     </entry>
     <entry>
@@ -1815,19 +1832,6 @@ Points: 526
 # Comments: 242]]></summary>
         <author>
             <name>Shank</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Breaking Down OnlyFans' Economics]]></title>
-        <id>https://news.ycombinator.com/item?id=41484634</id>
-        <link href="https://www.matthewball.co/all/fansprofitandloss"/>
-        <updated>2024-09-09T01:06:26.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.matthewball.co/all/fansprofitandloss
-Comments URL: https://news.ycombinator.com/item?id=41484634
-Points: 441
-# Comments: 793]]></summary>
-        <author>
-            <name>mef</name>
         </author>
     </entry>
 </feed>
