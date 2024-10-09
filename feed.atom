@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-10-09T11:14:17.891Z</updated>
+    <updated>2024-10-09T12:32:40.233Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Differential Transformer]]></title>
+        <id>https://news.ycombinator.com/item?id=41776324</id>
+        <link href="https://arxiv.org/abs/2410.05258"/>
+        <updated>2024-10-08T11:54:30.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://arxiv.org/abs/2410.05258
+Comments URL: https://news.ycombinator.com/item?id=41776324
+Points: 506
+# Comments: 164]]></summary>
+        <author>
+            <name>weirdcat</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Nobel Prize in Physics awarded to John Hopfield and Geoffrey Hinton [pdf]]]></title>
         <id>https://news.ycombinator.com/item?id=41775463</id>
