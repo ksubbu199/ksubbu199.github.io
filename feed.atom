@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-10-10T05:16:12.170Z</updated>
+    <updated>2024-10-10T06:23:48.347Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -39,6 +39,19 @@ Points: 503
         <updated>2024-10-09T15:00:07.000Z</updated>
         <author>
             <name>Think School</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chemistry Nobel: Computational protein design and protein structure prediction]]></title>
+        <id>https://news.ycombinator.com/item?id=41786101</id>
+        <link href="https://www.nobelprize.org/prizes/chemistry/2024/press-release/"/>
+        <updated>2024-10-09T09:54:38.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.nobelprize.org/prizes/chemistry/2024/press-release/
+Comments URL: https://news.ycombinator.com/item?id=41786101
+Points: 501
+# Comments: 282]]></summary>
+        <author>
+            <name>mitchbob</name>
         </author>
     </entry>
     <entry>
@@ -91,6 +104,19 @@ Points: 533
 # Comments: 367]]></summary>
         <author>
             <name>drpossum</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Static Site Paradox]]></title>
+        <id>https://news.ycombinator.com/item?id=41775238</id>
+        <link href="https://kristoff.it/blog/static-site-paradox/"/>
+        <updated>2024-10-08T09:08:51.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://kristoff.it/blog/static-site-paradox/
+Comments URL: https://news.ycombinator.com/item?id=41775238
+Points: 501
+# Comments: 339]]></summary>
+        <author>
+            <name>alraj</name>
         </author>
     </entry>
     <entry>
@@ -197,6 +223,19 @@ Points: 510
 # Comments: 102]]></summary>
         <author>
             <name>stavepan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[John Carmack on inlined code (2014)]]></title>
+        <id>https://news.ycombinator.com/item?id=41758371</id>
+        <link href="http://number-none.com/blow/blog/programming/2014/09/26/carmack-on-inlined-code.html"/>
+        <updated>2024-10-06T16:47:18.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: http://number-none.com/blow/blog/programming/2014/09/26/carmack-on-inlined-code.html
+Comments URL: https://news.ycombinator.com/item?id=41758371
+Points: 500
+# Comments: 339]]></summary>
+        <author>
+            <name>bpierre</name>
         </author>
     </entry>
     <entry>
