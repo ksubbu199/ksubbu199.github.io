@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-10-11T09:17:39.929Z</updated>
+    <updated>2024-10-11T10:17:06.309Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -14,6 +14,19 @@
         <summary type="html"><![CDATA[Automattic, creator of Wordpress, is being sued by one of the largest WordPress hosting providers. The conflict fits into a trend of billion-dollar companies struggling to effectively monetize open source, and are changing tactics to limit their competition and increase their revenue.]]></summary>
         <author>
             <name>Gergely Orosz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Copenhagen Book: general guideline on implementing auth in web applications]]></title>
+        <id>https://news.ycombinator.com/item?id=41801883</id>
+        <link href="https://thecopenhagenbook.com/"/>
+        <updated>2024-10-10T18:37:01.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://thecopenhagenbook.com/
+Comments URL: https://news.ycombinator.com/item?id=41801883
+Points: 500
+# Comments: 118]]></summary>
+        <author>
+            <name>sebnun</name>
         </author>
     </entry>
     <entry>
