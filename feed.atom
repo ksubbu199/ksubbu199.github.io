@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-10-11T14:15:45.168Z</updated>
+    <updated>2024-10-11T15:17:07.376Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -36,6 +36,19 @@ Points: 500
 # Comments: 118]]></summary>
         <author>
             <name>sebnun</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: HTML for People]]></title>
+        <id>https://news.ycombinator.com/item?id=41801334</id>
+        <link href="https://htmlforpeople.com/"/>
+        <updated>2024-10-10T17:47:42.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://htmlforpeople.com
+Comments URL: https://news.ycombinator.com/item?id=41801334
+Points: 505
+# Comments: 165]]></summary>
+        <author>
+            <name>blakewatson</name>
         </author>
     </entry>
     <entry>
