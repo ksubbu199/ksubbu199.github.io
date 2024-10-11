@@ -226,6 +226,16 @@
           "imageUrl": "https://www.niemanlab.org/images/AM-radio-getty-700x395.jpg"
         },
         {
+          "id": "https://news.ycombinator.com/item?id=41742432",
+          "author": "misiti3780",
+          "description": "Article URL: https://isaak.net/mandarin/\nComments URL: https://news.ycombinator.com/item?id=41742432\nPoints: 500\n# Comments: 295",
+          "link": "https://isaak.net/mandarin/",
+          "publishedOn": "2024-10-04T15:28:51.000Z",
+          "wordCount": 3210,
+          "title": "12 Months of Mandarin",
+          "imageUrl": "https://isaak.net/content/images/size/w1200/2024/09/daydreaming-3.png"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=41742278",
           "author": "nwienert",
           "description": "Hey HN, I'm Nate, the creator of Tamagui.\nOne is a React framework that does two things differently in hopes of simplifying how we build websites and apps:\n1. It unifies React Native and React web with typed file system routing by making Vite able to serve RN. This lets you share (or diverge) your code in a simpler way for cross-platform apps.\n2. We've partnered with Zero (https://zerosync.dev) to make local-first work well. We've been building a solution in One that makes Zero supporting server rendering, without waterfalls, and with seamless server/client handoff.\n---\nHonestly - I'm a bit hesitant to post One here.\nHN has really soured on frontend/frameworks. And I get it. We've collectively complicated the hell out of things.\nThat's why I decided to build One. I loved Rails, it made me …",
