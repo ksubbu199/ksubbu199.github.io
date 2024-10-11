@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-10-11T12:32:16.616Z</updated>
+    <updated>2024-10-11T13:21:40.053Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[MySQL is having a bumpy journey]]></title>
+        <id>https://www.youtube.com/watch?v=s-xeAEVdWbs</id>
+        <link href="https://www.youtube.com/watch?v=s-xeAEVdWbs"/>
+        <updated>2024-10-11T13:15:05.000Z</updated>
+        <author>
+            <name>Hussein Nasser</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Open source business model struggles at WordPress]]></title>
         <id>6708c072dd28bf0001ed478a</id>
