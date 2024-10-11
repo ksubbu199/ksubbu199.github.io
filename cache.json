@@ -1197,6 +1197,16 @@
       "siteUrl": "https://blog.pragmaticengineer.com/",
       "articles": [
         {
+          "id": "6708c072dd28bf0001ed478a",
+          "author": "Gergely Orosz",
+          "description": "Automattic, creator of Wordpress, is being sued by one of the largest WordPress hosting providers. The conflict fits into a trend of billion-dollar companies struggling to effectively monetize open source, and are changing tactics to limit their competition and increase their revenue.",
+          "link": "https://blog.pragmaticengineer.com/wordpress-struggles/",
+          "publishedOn": "2024-10-11T06:20:52.000Z",
+          "wordCount": 3232,
+          "title": "Open source business model struggles at WordPress",
+          "imageUrl": "https://blog.pragmaticengineer.com/content/images/size/w1200/2024/10/Screenshot-2024-10-11-at-08.19.59.png"
+        },
+        {
           "id": "66ec426eba50ce00012fbbb6",
           "author": "Gergely Orosz",
           "description": "In a counter-intuitive observation: by making small, non-functional improvements, you gain more confidence in a new codebase, and can start to move faster.",

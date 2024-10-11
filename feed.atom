@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-10-11T05:15:55.190Z</updated>
+    <updated>2024-10-11T06:23:46.563Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Open source business model struggles at WordPress]]></title>
+        <id>6708c072dd28bf0001ed478a</id>
+        <link href="https://blog.pragmaticengineer.com/wordpress-struggles/"/>
+        <updated>2024-10-11T06:20:52.000Z</updated>
+        <summary type="html"><![CDATA[Automattic, creator of Wordpress, is being sued by one of the largest WordPress hosting providers. The conflict fits into a trend of billion-dollar companies struggling to effectively monetize open source, and are changing tactics to limit their competition and increase their revenue.]]></summary>
+        <author>
+            <name>Gergely Orosz</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[DeskPad – A virtual monitor for screen sharing]]></title>
         <id>https://news.ycombinator.com/item?id=41800602</id>
