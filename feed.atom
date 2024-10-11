@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-10-10T23:16:05.792Z</updated>
+    <updated>2024-10-11T01:15:50.497Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[DeskPad – A virtual monitor for screen sharing]]></title>
+        <id>https://news.ycombinator.com/item?id=41800602</id>
+        <link href="https://github.com/Stengo/DeskPad"/>
+        <updated>2024-10-10T16:36:54.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://github.com/Stengo/DeskPad
+Comments URL: https://news.ycombinator.com/item?id=41800602
+Points: 564
+# Comments: 93]]></summary>
+        <author>
+            <name>geerlingguy</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Strategy for Branding?]]></title>
         <id>https://www.youtube.com/watch?v=SYsjllEMlk4</id>
@@ -1854,19 +1867,6 @@ Points: 419
 # Comments: 571]]></summary>
         <author>
             <name>mesaoptimizer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[We spent $20 to achieve RCE and accidentally became the admins of .mobi]]></title>
-        <id>https://news.ycombinator.com/item?id=41510252</id>
-        <link href="https://labs.watchtowr.com/we-spent-20-to-achieve-rce-and-accidentally-became-the-admins-of-mobi/"/>
-        <updated>2024-09-11T11:19:12.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://labs.watchtowr.com/we-spent-20-to-achieve-rce-and-accidentally-became-the-admins-of-mobi/
-Comments URL: https://news.ycombinator.com/item?id=41510252
-Points: 587
-# Comments: 140]]></summary>
-        <author>
-            <name>notmine1337</name>
         </author>
     </entry>
 </feed>

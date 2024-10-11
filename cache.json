@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=41800602",
+          "author": "geerlingguy",
+          "description": "Article URL: https://github.com/Stengo/DeskPad\nComments URL: https://news.ycombinator.com/item?id=41800602\nPoints: 564\n# Comments: 93",
+          "link": "https://github.com/Stengo/DeskPad",
+          "publishedOn": "2024-10-10T16:36:54.000Z",
+          "wordCount": 2558,
+          "title": "DeskPad – A virtual monitor for screen sharing",
+          "imageUrl": "https://opengraph.githubassets.com/b297883d40fe062f00a4b5df71245677b9d57cd32d02c96b98c8073f83d7da4b/Stengo/DeskPad"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=41797719",
           "author": "creatonez",
           "description": "Article URL: https://weirdgloop.org/blog/why-were-helping-more-wikis-move-away-from-fandom\nComments URL: https://news.ycombinator.com/item?id=41797719\nPoints: 530\n# Comments: 254",
@@ -1004,16 +1014,6 @@
           "wordCount": 7938,
           "title": "Why Haskell?",
           "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=41510252",
-          "author": "notmine1337",
-          "description": "Article URL: https://labs.watchtowr.com/we-spent-20-to-achieve-rce-and-accidentally-became-the-admins-of-mobi/\nComments URL: https://news.ycombinator.com/item?id=41510252\nPoints: 587\n# Comments: 140",
-          "link": "https://labs.watchtowr.com/we-spent-20-to-achieve-rce-and-accidentally-became-the-admins-of-mobi/",
-          "publishedOn": "2024-09-11T11:19:12.000Z",
-          "wordCount": 5220,
-          "title": "We spent $20 to achieve RCE and accidentally became the admins of .mobi",
-          "imageUrl": "https://labs.watchtowr.com/content/images/size/w1200/2024/09/mobi-1.png"
         }
       ]
     },
