@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-10-12T02:43:33.197Z</updated>
+    <updated>2024-10-12T03:19:32.104Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -1889,42 +1889,6 @@ Points: 699
 # Comments: 431]]></summary>
         <author>
             <name>fofoz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: iFixit created a new USB-C, repairable soldering system]]></title>
-        <id>https://news.ycombinator.com/item?id=41521919</id>
-        <link href="https://hackaday.com/2024/09/12/review-ifixits-fixhub-may-be-the-last-soldering-iron-you-ever-buy/"/>
-        <updated>2024-09-12T15:18:43.000Z</updated>
-        <summary type="html"><![CDATA[After years of making screwdrivers and teaching people to repair electronics, we just made our first electronic tool. It's been a journey for us to build while hewing to our repairable principles. We're really excited about it.
-It's a USB-C powered soldering iron and smart battery power hub. Super repairable, of course. Our goal is to make soldering so easy everyone can do it:
-https://www.ifixit.com/fixhub
-We didn’t want to make just another iron, so we spent years sweating the details and crafting something that met our exacting standards. This is a high-performance iron: it can output 100W of heat, gets to soldering temperature in under 5 seconds, and automatically cools off when you set it down. The accelerometer detects when you pick it up and heats it back up. Keeping the iron at a lo…]]></summary>
-        <author>
-            <name>kwiens</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Reasons I still love the fish shell]]></title>
-        <id>https://jvns.ca/blog/2024/09/12/reasons-i--still--love-fish/</id>
-        <link href="https://jvns.ca/blog/2024/09/12/reasons-i--still--love-fish/"/>
-        <updated>2024-09-12T15:09:12.000Z</updated>
-        <summary type="html"><![CDATA[I wrote about how much I love fish in this blog post from 2017 and, 7 years
-of using it every day later, I’ve found even more reasons to love it. So I
-thought I’d write a new post with both the old reasons I loved it and some
-reasons.
-This came up today because I was trying to figure out why my terminal doesn’t
-break anymore when I cat a binary to my terminal, the answer was “fish fixes
-the terminal!“, and I just thought that was really nice.
-1. no configuration
-In 10 years of using fish I have never found a single thing I wanted to configure. It just works the way I want. My fish config file just has:
-environment variables
-aliases (alias ls eza, alias vim nvim, etc)
-the occasional direnv hook fish | source to integrate a tool like direnv
-a script I run to set up my terminal colours
-2. aut…]]></summary>
-        <author>
-            <name>Julia Evans</name>
         </author>
     </entry>
 </feed>
