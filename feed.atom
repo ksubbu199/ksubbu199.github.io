@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-10-13T21:15:19.538Z</updated>
+    <updated>2024-10-13T22:14:29.297Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -26,6 +26,19 @@ Points: 545
 # Comments: 355]]></summary>
         <author>
             <name>alecco</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Exploring Typst, a new typesetting system similar to LaTeX]]></title>
+        <id>https://news.ycombinator.com/item?id=41821361</id>
+        <link href="https://blog.jreyesr.com/posts/typst/"/>
+        <updated>2024-10-12T18:41:31.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://blog.jreyesr.com/posts/typst/
+Comments URL: https://news.ycombinator.com/item?id=41821361
+Points: 503
+# Comments: 198]]></summary>
+        <author>
+            <name>judell</name>
         </author>
     </entry>
     <entry>
