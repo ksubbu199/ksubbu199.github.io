@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-10-13T09:16:17.391Z</updated>
+    <updated>2024-10-13T10:15:57.531Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -69,6 +69,19 @@ Points: 402
 # Comments: 1390]]></summary>
         <author>
             <name>thehoff</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["Begin disabling installed extensions still using Manifest V2 in Chrome stable"]]></title>
+        <id>https://news.ycombinator.com/item?id=41809698</id>
+        <link href="https://developer.chrome.com/docs/extensions/develop/migrate/mv2-deprecation-timeline"/>
+        <updated>2024-10-11T14:20:26.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://developer.chrome.com/docs/extensions/develop/migrate/mv2-deprecation-timeline
+Comments URL: https://news.ycombinator.com/item?id=41809698
+Points: 500
+# Comments: 436]]></summary>
+        <author>
+            <name>freedomben</name>
         </author>
     </entry>
     <entry>
