@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-10-14T19:12:58.369Z</updated>
+    <updated>2024-10-14T20:18:14.445Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Busy Status Bar]]></title>
+        <id>https://news.ycombinator.com/item?id=41838337</id>
+        <link href="https://busy.bar/?hn"/>
+        <updated>2024-10-14T15:19:12.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://busy.bar/?hn
+Comments URL: https://news.ycombinator.com/item?id=41838337
+Points: 505
+# Comments: 179]]></summary>
+        <author>
+            <name>aleksi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The quiet art of attention]]></title>
         <id>https://news.ycombinator.com/item?id=41828601</id>
@@ -1888,15 +1901,6 @@ Points: 546
 # Comments: 347]]></summary>
         <author>
             <name>babelfish</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[From Failed Restaurant owner to 1000 crore Sauce company? | Founder of Veeba Sauce Viraj Bahl]]></title>
-        <id>https://www.youtube.com/watch?v=n5ipHOFj-Hw</id>
-        <link href="https://www.youtube.com/watch?v=n5ipHOFj-Hw"/>
-        <updated>2024-09-15T07:37:08.000Z</updated>
-        <author>
-            <name>Think School</name>
         </author>
     </entry>
 </feed>
