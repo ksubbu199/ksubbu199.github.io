@@ -2,10 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-10-15T21:16:00.020Z</updated>
+    <updated>2024-10-15T22:15:30.939Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Show HN: I built the most over-engineered Deal With It emoji generator]]></title>
+        <id>https://news.ycombinator.com/item?id=41848150</id>
+        <link href="https://emoji.build/deal-with-it-generator/"/>
+        <updated>2024-10-15T13:05:05.000Z</updated>
+        <summary type="html"><![CDATA[Hi, all! Author here. What started as a small tool I built for a job interview, became "The Most Over-engineered Deal With It Emoji Generator":
+- All operations done fully client-side - no backend, no private data leaves your browser.
+- Uses machine learning models (MediaPipe Face Detector task) to automatically scale and position glasses on the detected faces.
+- Extensive customization options for glasses:
+  - Placement of glasses anywhere on the input image (including slightly going outside it).
+  - Change the size of glasses.
+  - No limit on the number of glasses.
+  - Flip the glasses vertically or horizontally.
+  - Customize the direction from which the glasses appear on the image.
+  - Different types of glasses.
+- GIF output options:
+  - Looping mode.
+  - Number of frames.
+  - Frame delay.
+  - Separate delay setting for last frame.
+  - Output size.
+- Celebration confetti 
+- Easter eggs.
+I've been working remotely for the last >9 years. When using non-verbal communication, it's important that your tone and intent comes across accurately.. Custom emojis became for me part of expressing yourself, creating bonds and camaraderie. I've originally created an MVP of this tool while applying for a exciting new job opportunity. As a showcase of my passion for programming, building teams and creating delightful user experiences. Unfortunately, they were not impressed and ultimately did not offer me the job :( But I wanted to polish it and release it for everyone to use for free, so that you can too "Deal With It"!
+I have more ideas for even more features (check GitHub[1]), but wanted to launch it and see what's the feedback and ideas from the community!
+And if you're looking for a Fullstack Developer with >14 years of experience, with passion for great customer experience (remote work or locally in Iceland), let's chat!
+[1] - https://github.com/klimeryk/dealwithit
+Comments URL: https://news.ycombinator.com/item?id=41848150
+Points: 507
+# Comments: 104]]></summary>
+        <author>
+            <name>klimeryk</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Web Browser Engineering]]></title>
         <id>https://news.ycombinator.com/item?id=41846780</id>

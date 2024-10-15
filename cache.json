@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=41848150",
+          "author": "klimeryk",
+          "description": "Hi, all! Author here. What started as a small tool I built for a job interview, became \"The Most Over-engineered Deal With It Emoji Generator\":\n- All operations done fully client-side - no backend, no private data leaves your browser.\n- Uses machine learning models (MediaPipe Face Detector task) to automatically scale and position glasses on the detected faces.\n- Extensive customization options for glasses:\n  - Placement of glasses anywhere on the input image (including slightly going outside it).\n  - Change the size of glasses.\n  - No limit on the number of glasses.\n  - Flip the glasses vertically or horizontally.\n  - Customize the direction from which the glasses appear on the image.\n  - Different types of glasses.\n- GIF output options:\n  - Looping mode.\n  - Number of frames.\n  - Frame delay.\n  - Separate delay setting for last frame.\n  - Output size.\n- Celebration confetti \n- Easter eggs.\nI've been working remotely for the last >9 years. When using non-verbal communication, it's important that your tone and intent comes across accurately.. Custom emojis became for me part of expressing yourself, creating bonds and camaraderie. I've originally created an MVP of this tool while applying for a exciting new job opportunity. As a showcase of my passion for programming, building teams and creating delightful user experiences. Unfortunately, they were not impressed and ultimately did not offer me the job :( But I wanted to polish it and release it for everyone to use for free, so that you can too \"Deal With It\"!\nI have more ideas for even more features (check GitHub[1]), but wanted to launch it and see what's the feedback and ideas from the community!\nAnd if you're looking for a Fullstack Developer with >14 years of experience, with passion for great customer experience (remote work or locally in Iceland), let's chat!\n[1] - https://github.com/klimeryk/dealwithit\nComments URL: https://news.ycombinator.com/item?id=41848150\nPoints: 507\n# Comments: 104",
+          "link": "https://emoji.build/deal-with-it-generator/",
+          "publishedOn": "2024-10-15T13:05:05.000Z",
+          "wordCount": 8,
+          "title": "Show HN: I built the most over-engineered Deal With It emoji generator",
+          "imageUrl": null
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=41846780",
           "author": "MrVandemar",
           "description": "Article URL: https://browser.engineering/index.html\nComments URL: https://news.ycombinator.com/item?id=41846780\nPoints: 520\n# Comments: 92",
