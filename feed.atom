@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-10-15T11:14:05.905Z</updated>
+    <updated>2024-10-15T12:33:35.737Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -1854,27 +1854,6 @@ Points: 507
         <updated>2024-09-16T14:18:37.000Z</updated>
         <author>
             <name>Think School</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Making the Web More Awesome — for everyone]]></title>
-        <id>https://lea.verou.me/blog/2024/awesome/</id>
-        <link href="https://lea.verou.me/blog/2024/awesome/"/>
-        <updated>2024-09-16T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Folks, I have some exciting news to share. 🤩
-Today I start a new chapter in my career.
-After a decade at MIT, teaching and
-doing research at the intersection of usability and programming language design,
-I wrapped up my PhD two weeks ago
-(yes, I’m a Dr now! And damn right I will — once it actually sinks in)
-and today I start my new role as Product Lead at Font Awesome.
-I will be evaluating user needs and improving product design and usability across all company products,
-with an emphasis on Web Awesome,
-the product we are launching early next year to revolutionize how Web UIs are built by using web components and CSS in ways you’ve never seen before.
-Beyond improving the products themselves (all of which include extensive free & open source versions),
-part of my role will utilize my web s…]]></summary>
-        <author>
-            <name>Lea Verou’s blog</name>
         </author>
     </entry>
 </feed>
