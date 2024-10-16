@@ -1138,26 +1138,6 @@
           "wordCount": 12695,
           "title": "Build a Web Server in Go [Deprecated]",
           "imageUrl": "https://blog.boot.dev/img/800/webservers.png.webp"
-        },
-        {
-          "id": "https://blog.boot.dev/tutorials/build-blog-aggregator-golang-deprecated/",
-          "author": null,
-          "description": "We’re going to build an RSS feed aggregator in Go! It’s a web server that allows clients to:",
-          "link": "https://blog.boot.dev/tutorials/build-blog-aggregator-golang-deprecated/",
-          "publishedOn": "2024-09-17T00:00:00.000Z",
-          "wordCount": 4914,
-          "title": "Build a Blog Aggregator in Go [Deprecated]",
-          "imageUrl": "https://blog.boot.dev/img/800/blog_aggregator_art.png.webp"
-        },
-        {
-          "id": "https://blog.boot.dev/tutorials/build-blog-aggregator/",
-          "author": null,
-          "description": "We’re going to build an RSS feed aggregator in Go! It’s a web server that allows clients to:",
-          "link": "https://blog.boot.dev/tutorials/build-blog-aggregator/",
-          "publishedOn": "2024-09-17T00:00:00.000Z",
-          "wordCount": 4899,
-          "title": "Build a Blog Aggregator",
-          "imageUrl": "https://blog.boot.dev/img/800/blog_aggregator_art.png.webp"
         }
       ]
     },

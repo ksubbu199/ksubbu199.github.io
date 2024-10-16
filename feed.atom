@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-10-16T11:14:38.165Z</updated>
+    <updated>2024-10-16T12:33:09.517Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -1898,26 +1898,6 @@ Points: 500
 # Comments: 91]]></summary>
         <author>
             <name>miles</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Build a Blog Aggregator in Go [Deprecated]]]></title>
-        <id>https://blog.boot.dev/tutorials/build-blog-aggregator-golang-deprecated/</id>
-        <link href="https://blog.boot.dev/tutorials/build-blog-aggregator-golang-deprecated/"/>
-        <updated>2024-09-17T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[We’re going to build an RSS feed aggregator in Go! It’s a web server that allows clients to:]]></summary>
-        <author>
-            <name>Boot.dev Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Build a Blog Aggregator]]></title>
-        <id>https://blog.boot.dev/tutorials/build-blog-aggregator/</id>
-        <link href="https://blog.boot.dev/tutorials/build-blog-aggregator/"/>
-        <updated>2024-09-17T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[We’re going to build an RSS feed aggregator in Go! It’s a web server that allows clients to:]]></summary>
-        <author>
-            <name>Boot.dev Blog</name>
         </author>
     </entry>
 </feed>
