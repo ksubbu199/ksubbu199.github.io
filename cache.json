@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=41858665",
+          "author": "pseudolus",
+          "description": "Article URL: https://www.ftc.gov/news-events/news/press-releases/2024/10/federal-trade-commission-announces-final-click-cancel-rule-making-it-easier-consumers-end-recurring\nComments URL: https://news.ycombinator.com/item?id=41858665\nPoints: 609\n# Comments: 295",
+          "link": "https://www.ftc.gov/news-events/news/press-releases/2024/10/federal-trade-commission-announces-final-click-cancel-rule-making-it-easier-consumers-end-recurring",
+          "publishedOn": "2024-10-16T13:09:04.000Z",
+          "wordCount": 1968,
+          "title": "FTC Announces \"Click-to-Cancel\" Rule Making It Easier to Cancel Subscriptions",
+          "imageUrl": "https://www.ftc.gov/themes/custom/ftc_uswds/img/ftc_social_share_default_en.jpg"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=41853810",
           "author": "Keavon",
           "description": "For the past three years I've been building what I hope will be the next Blender, tackling the lack of any good 2D design or image editing tools outside the Adobe monopoly. This was our first year participating in Google Summer of Code and this Q3 update includes the big payoff from that, covering the most progress we've made so far as a project. If you're a Rust dev, consider getting involved as we apply for the next GSoC in the new year— you could be our intern next summer :)\nQ3 progress report: https://graphite.rs/blog/graphite-progress-report-q3-2024/\nComments URL: https://news.ycombinator.com/item?id=41853810\nPoints: 505\n# Comments: 71",
