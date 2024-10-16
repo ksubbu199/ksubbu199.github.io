@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-10-16T07:16:29.360Z</updated>
+    <updated>2024-10-16T08:22:01.082Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Sqlite3 WebAssembly]]></title>
+        <id>https://news.ycombinator.com/item?id=41851051</id>
+        <link href="https://sqlite.org/wasm/doc/trunk/index.md"/>
+        <updated>2024-10-15T17:45:27.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://sqlite.org/wasm/doc/trunk/index.md
+Comments URL: https://news.ycombinator.com/item?id=41851051
+Points: 501
+# Comments: 144]]></summary>
+        <author>
+            <name>whatever3</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Show HN: I built the most over-engineered Deal With It emoji generator]]></title>
         <id>https://news.ycombinator.com/item?id=41848150</id>
@@ -1892,19 +1905,6 @@ Points: 500
         <summary type="html"><![CDATA[We’re going to build an RSS feed aggregator in Go! It’s a web server that allows clients to:]]></summary>
         <author>
             <name>Boot.dev Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[macOS Sequoia is available today]]></title>
-        <id>https://news.ycombinator.com/item?id=41559761</id>
-        <link href="https://www.apple.com/newsroom/2024/09/macos-sequoia-is-available-today/"/>
-        <updated>2024-09-16T19:37:21.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.apple.com/newsroom/2024/09/macos-sequoia-is-available-today/
-Comments URL: https://news.ycombinator.com/item?id=41559761
-Points: 384
-# Comments: 607]]></summary>
-        <author>
-            <name>mfiguiere</name>
         </author>
     </entry>
 </feed>
