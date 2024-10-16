@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=41853810",
+          "author": "Keavon",
+          "description": "For the past three years I've been building what I hope will be the next Blender, tackling the lack of any good 2D design or image editing tools outside the Adobe monopoly. This was our first year participating in Google Summer of Code and this Q3 update includes the big payoff from that, covering the most progress we've made so far as a project. If you're a Rust dev, consider getting involved as we apply for the next GSoC in the new year— you could be our intern next summer :)\nQ3 progress report: https://graphite.rs/blog/graphite-progress-report-q3-2024/\nComments URL: https://news.ycombinator.com/item?id=41853810\nPoints: 505\n# Comments: 71",
+          "link": "https://graphite.rs/",
+          "publishedOn": "2024-10-15T22:32:06.000Z",
+          "wordCount": 968,
+          "title": "Show HN: Graphite, a Blender-inspired 2D procedural design Rust app",
+          "imageUrl": "https://static.graphite.rs/logos/splash.png"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=41851051",
           "author": "whatever3",
           "description": "Article URL: https://sqlite.org/wasm/doc/trunk/index.md\nComments URL: https://news.ycombinator.com/item?id=41851051\nPoints: 501\n# Comments: 144",
