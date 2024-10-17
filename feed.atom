@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-10-17T05:16:41.410Z</updated>
+    <updated>2024-10-17T06:23:44.356Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ArchiveBox is evolving: the future of self-hosted internet archives]]></title>
+        <id>https://news.ycombinator.com/item?id=41860909</id>
+        <link href="https://docs.sweeting.me/s/archivebox-plugin-ecosystem-announcement"/>
+        <updated>2024-10-16T16:18:39.000Z</updated>
+        <summary type="html"><![CDATA[We've been pushing really hard over the last 6mo to develop this release. I'd love to hear feedback from people who've worked on big plugin systems in the past, or anyone who's tried our betas!
+Comments URL: https://news.ycombinator.com/item?id=41860909
+Points: 507
+# Comments: 120]]></summary>
+        <author>
+            <name>nikisweeting</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[FTC Announces "Click-to-Cancel" Rule Making It Easier to Cancel Subscriptions]]></title>
         <id>https://news.ycombinator.com/item?id=41858665</id>
