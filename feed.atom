@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-10-17T16:21:57.487Z</updated>
+    <updated>2024-10-17T17:14:42.391Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Interesting startup idea: benchmarking cloud platform pricing]]></title>
+        <id>67113d9fee3cb30001741d9f</id>
+        <link href="https://blog.pragmaticengineer.com/spare-cores/"/>
+        <updated>2024-10-17T16:39:58.000Z</updated>
+        <summary type="html"><![CDATA[A team of 3 developers built a neat platform called Spare Cores that makes cloud instance pricing more transparent. A deepdive on how exactly they did it.]]></summary>
+        <author>
+            <name>Gergely Orosz</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to build a profitable subscription model to get 75,000 paid customers?|Level supermind IBP Ep 17]]></title>
         <id>https://www.youtube.com/watch?v=xJmO3B98DlQ</id>

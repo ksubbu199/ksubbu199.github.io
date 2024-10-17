@@ -1197,6 +1197,16 @@
       "siteUrl": "https://blog.pragmaticengineer.com/",
       "articles": [
         {
+          "id": "67113d9fee3cb30001741d9f",
+          "author": "Gergely Orosz",
+          "description": "A team of 3 developers built a neat platform called Spare Cores that makes cloud instance pricing more transparent. A deepdive on how exactly they did it.",
+          "link": "https://blog.pragmaticengineer.com/spare-cores/",
+          "publishedOn": "2024-10-17T16:39:58.000Z",
+          "wordCount": 2769,
+          "title": "Interesting startup idea: benchmarking cloud platform pricing",
+          "imageUrl": null
+        },
+        {
           "id": "6708c072dd28bf0001ed478a",
           "author": "Gergely Orosz",
           "description": "Automattic, creator of Wordpress, is being sued by one of the largest WordPress hosting providers. The conflict fits into a trend of billion-dollar companies struggling to effectively monetize open source, and are changing tactics to limit their competition and increase their revenue.",
