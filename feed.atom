@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-10-17T20:18:16.952Z</updated>
+    <updated>2024-10-17T21:15:58.701Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -14,6 +14,19 @@
         <summary type="html"><![CDATA[A team of 3 developers built a neat platform called Spare Cores that makes cloud instance pricing more transparent. A deepdive on how exactly they did it.]]></summary>
         <author>
             <name>Gergely Orosz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Adobe's new image rotation tool is one of the most impressive AI tools seen]]></title>
+        <id>https://news.ycombinator.com/item?id=41870040</id>
+        <link href="https://www.creativebloq.com/design/adobes-new-image-rotation-tool-is-one-of-the-most-impressive-ai-concepts-weve-seen"/>
+        <updated>2024-10-17T14:31:18.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.creativebloq.com/design/adobes-new-image-rotation-tool-is-one-of-the-most-impressive-ai-concepts-weve-seen
+Comments URL: https://news.ycombinator.com/item?id=41870040
+Points: 538
+# Comments: 181]]></summary>
+        <author>
+            <name>ralusek</name>
         </author>
     </entry>
     <entry>
