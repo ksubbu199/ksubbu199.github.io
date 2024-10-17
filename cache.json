@@ -46,6 +46,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://news.ycombinator.com/item?id=41850017",
+          "author": "bwidlar",
+          "description": "Article URL: https://gustedt.wordpress.com/2024/10/15/the-c23-edition-of-modern-c/\nComments URL: https://news.ycombinator.com/item?id=41850017\nPoints: 500\n# Comments: 320",
+          "link": "https://gustedt.wordpress.com/2024/10/15/the-c23-edition-of-modern-c/",
+          "publishedOn": "2024-10-15T16:06:29.000Z",
+          "wordCount": 3811,
+          "title": "The C23 edition of Modern C",
+          "imageUrl": "https://s0.wp.com/i/blank.jpg"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=41848150",
           "author": "klimeryk",
           "description": "Hi, all! Author here. What started as a small tool I built for a job interview, became \"The Most Over-engineered Deal With It Emoji Generator\":\n- All operations done fully client-side - no backend, no private data leaves your browser.\n- Uses machine learning models (MediaPipe Face Detector task) to automatically scale and position glasses on the detected faces.\n- Extensive customization options for glasses:\n  - Placement of glasses anywhere on the input image (including slightly going outside it).\n  - Change the size of glasses.\n  - No limit on the number of glasses.\n  - Flip the glasses vertically or horizontally.\n  - Customize the direction from which the glasses appear on the image.\n  - Different types of glasses.\n- GIF output options:\n  - Looping mode.\n  - Number of frames.\n  - Frame delay.\n  - Separate delay setting for last frame.\n  - Output size.\n- Celebration confetti \n- Easter eggs.\nI've been working remotely for the last >9 years. When using non-verbal communication, it's important that your tone and intent comes across accurately.. Custom emojis became for me part of expressing yourself, creating bonds and camaraderie. I've originally created an MVP of this tool while applying for a exciting new job opportunity. As a showcase of my passion for programming, building teams and creating delightful user experiences. Unfortunately, they were not impressed and ultimately did not offer me the job :( But I wanted to polish it and release it for everyone to use for free, so that you can too \"Deal With It\"!\nI have more ideas for even more features (check GitHub[1]), but wanted to launch it and see what's the feedback and ideas from the community!\nAnd if you're looking for a Fullstack Developer with >14 years of experience, with passion for great customer experience (remote work or locally in Iceland), let's chat!\n[1] - https://github.com/klimeryk/dealwithit\nComments URL: https://news.ycombinator.com/item?id=41848150\nPoints: 507\n# Comments: 104",
@@ -1054,16 +1064,6 @@
           "wordCount": 4109,
           "title": "Why wordfreq will not be updated",
           "imageUrl": "https://opengraph.githubassets.com/8837954de9aab166e20ab2fb5e1ac9ce7289c7ebd51a4c4b23485e1b922256bb/rspeer/wordfreq"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=41574844",
-          "author": "colinprince",
-          "description": "Article URL: https://timculpan.substack.com/p/apple-mobile-processors-are-now-made\nComments URL: https://news.ycombinator.com/item?id=41574844\nPoints: 512\n# Comments: 177",
-          "link": "https://timculpan.substack.com/p/apple-mobile-processors-are-now-made",
-          "publishedOn": "2024-09-18T01:38:01.000Z",
-          "wordCount": null,
-          "title": "Apple Mobile Processors Are Now Made in America. By TSMC",
-          "imageUrl": null
         }
       ]
     },
@@ -1223,6 +1223,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKZozRVHRYsYHGEyNKuhhdA",
       "siteUrl": "https://www.youtube.com/channel/UCKZozRVHRYsYHGEyNKuhhdA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=xJmO3B98DlQ",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=xJmO3B98DlQ",
+          "publishedOn": "2024-10-17T14:01:01.000Z",
+          "wordCount": null,
+          "title": "How to build a profitable subscription model to get 75,000 paid customers?|Level supermind IBP Ep 17",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=apYrD2BV7FI",
           "author": null,
