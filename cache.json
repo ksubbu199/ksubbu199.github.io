@@ -1084,26 +1084,6 @@
           "wordCount": null,
           "title": "Dozens of Hezbollah members said to be seriously injured  as devices explode",
           "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=41567299",
-          "author": "logicchains",
-          "description": "Article URL: https://www.reuters.com/world/middle-east/dozens-hezbollah-members-wounded-lebanon-when-pagers-exploded-sources-witnesses-2024-09-17/\nComments URL: https://news.ycombinator.com/item?id=41567299\nPoints: 504\n# Comments: 1256",
-          "link": "https://www.reuters.com/world/middle-east/dozens-hezbollah-members-wounded-lebanon-when-pagers-exploded-sources-witnesses-2024-09-17/",
-          "publishedOn": "2024-09-17T13:15:57.000Z",
-          "wordCount": null,
-          "title": "Hezbollah pager explosions kill several people in Lebanon",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=41567262",
-          "author": "bukacdan",
-          "description": "Article URL: https://github.com/phiresky/ripgrep-all\nComments URL: https://news.ycombinator.com/item?id=41567262\nPoints: 500\n# Comments: 57",
-          "link": "https://github.com/phiresky/ripgrep-all",
-          "publishedOn": "2024-09-17T13:11:31.000Z",
-          "wordCount": 6068,
-          "title": "Rga: Ripgrep, but also search in PDFs, E-Books, Office documents, zip, etc.",
-          "imageUrl": "https://opengraph.githubassets.com/fa64b3ca8b7ec79806732cb0e32c246236b437559f06f002e39d417c441c505c/phiresky/ripgrep-all"
         }
       ]
     },
@@ -1221,16 +1201,6 @@
           "publishedOn": "2024-09-18T13:08:00.000Z",
           "wordCount": 4015,
           "title": "Using GenAI to extract low-level details and high-level               explanations from legacy systems",
-          "imageUrl": "https://martinfowler.com/articles/legacy-modernization-gen-ai/card.png"
-        },
-        {
-          "id": "https://martinfowler.com/articles/legacy-modernization-gen-ai.html",
-          "author": null,
-          "description": "Most of the talk about the impact of GenAI on software development is\n       about its ability to write (messy) code. But many of us think it's going\n       to be much more useful to help us understand existing messy code,\n       as part of a modernization effort. My colleagues Alessio\n       Ferri, Tom Coggrave, and Shodhan\n       Sheth have been considering how GenAI can do this,\n       including building an internal tool to help explore the possibilities.\n       The tool uses an LLM to enhance a knowledge graph based on the AST of the\n       code base. It also uses an LLM to help users query this knowledge graph.\n       \nmore…",
-          "link": "https://martinfowler.com/articles/legacy-modernization-gen-ai.html",
-          "publishedOn": "2024-09-17T13:07:00.000Z",
-          "wordCount": 2567,
-          "title": "Legacy Modernization meets GenAI",
           "imageUrl": "https://martinfowler.com/articles/legacy-modernization-gen-ai/card.png"
         }
       ]

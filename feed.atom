@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-10-16T23:17:09.796Z</updated>
+    <updated>2024-10-17T01:16:18.763Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -1866,52 +1866,6 @@ Points: 535
 # Comments: 513]]></summary>
         <author>
             <name>FridayoLeary</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hezbollah pager explosions kill several people in Lebanon]]></title>
-        <id>https://news.ycombinator.com/item?id=41567299</id>
-        <link href="https://www.reuters.com/world/middle-east/dozens-hezbollah-members-wounded-lebanon-when-pagers-exploded-sources-witnesses-2024-09-17/"/>
-        <updated>2024-09-17T13:15:57.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.reuters.com/world/middle-east/dozens-hezbollah-members-wounded-lebanon-when-pagers-exploded-sources-witnesses-2024-09-17/
-Comments URL: https://news.ycombinator.com/item?id=41567299
-Points: 504
-# Comments: 1256]]></summary>
-        <author>
-            <name>logicchains</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rga: Ripgrep, but also search in PDFs, E-Books, Office documents, zip, etc.]]></title>
-        <id>https://news.ycombinator.com/item?id=41567262</id>
-        <link href="https://github.com/phiresky/ripgrep-all"/>
-        <updated>2024-09-17T13:11:31.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://github.com/phiresky/ripgrep-all
-Comments URL: https://news.ycombinator.com/item?id=41567262
-Points: 500
-# Comments: 57]]></summary>
-        <author>
-            <name>bukacdan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Legacy Modernization meets GenAI]]></title>
-        <id>https://martinfowler.com/articles/legacy-modernization-gen-ai.html</id>
-        <link href="https://martinfowler.com/articles/legacy-modernization-gen-ai.html"/>
-        <updated>2024-09-17T13:07:00.000Z</updated>
-        <summary type="html"><![CDATA[Most of the talk about the impact of GenAI on software development is
-       about its ability to write (messy) code. But many of us think it's going
-       to be much more useful to help us understand existing messy code,
-       as part of a modernization effort. My colleagues Alessio
-       Ferri, Tom Coggrave, and Shodhan
-       Sheth have been considering how GenAI can do this,
-       including building an internal tool to help explore the possibilities.
-       The tool uses an LLM to enhance a knowledge graph based on the AST of the
-       code base. It also uses an LLM to help users query this knowledge graph.
-       
-more…]]></summary>
-        <author>
-            <name>Martin Fowler</name>
         </author>
     </entry>
 </feed>
