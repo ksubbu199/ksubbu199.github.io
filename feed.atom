@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-10-18T12:32:28.095Z</updated>
+    <updated>2024-10-18T13:23:44.307Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Did Automattic commit open source theft?]]></title>
+        <id>67125cecee3cb30001741e4e</id>
+        <link href="https://blog.pragmaticengineer.com/did-automattic-commit-open-source-theft/"/>
+        <updated>2024-10-18T13:11:20.000Z</updated>
+        <summary type="html"><![CDATA[The maker of WordPress took 2M customers from its biggest rival: has a red line been crossed?]]></summary>
+        <author>
+            <name>Gergely Orosz</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Crokinole]]></title>
         <id>https://news.ycombinator.com/item?id=41871375</id>

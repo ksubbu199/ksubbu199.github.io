@@ -1197,6 +1197,16 @@
       "siteUrl": "https://blog.pragmaticengineer.com/",
       "articles": [
         {
+          "id": "67125cecee3cb30001741e4e",
+          "author": "Gergely Orosz",
+          "description": "The maker of WordPress took 2M customers from its biggest rival: has a red line been crossed?",
+          "link": "https://blog.pragmaticengineer.com/did-automattic-commit-open-source-theft/",
+          "publishedOn": "2024-10-18T13:11:20.000Z",
+          "wordCount": 2845,
+          "title": "Did Automattic commit open source theft?",
+          "imageUrl": "https://blog.pragmaticengineer.com/content/images/size/w1200/2024/10/Screenshot-2024-10-18-at-15.13.48.png"
+        },
+        {
           "id": "67113d9fee3cb30001741d9f",
           "author": "Gergely Orosz",
           "description": "A team of 3 developers built a neat platform called Spare Cores that makes cloud instance pricing more transparent. A deepdive on how exactly they did it.",
