@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-10-19T22:15:33.799Z</updated>
+    <updated>2024-10-19T23:15:49.128Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -145,6 +145,19 @@ Points: 510
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Traveling with Apple Vision Pro]]></title>
+        <id>https://news.ycombinator.com/item?id=41859012</id>
+        <link href="https://azadux.blog/2024/10/08/traveling-with-apple-vision-pro/"/>
+        <updated>2024-10-16T13:48:51.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://azadux.blog/2024/10/08/traveling-with-apple-vision-pro/
+Comments URL: https://news.ycombinator.com/item?id=41859012
+Points: 462
+# Comments: 587]]></summary>
+        <author>
+            <name>tosh</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[FTC Announces "Click-to-Cancel" Rule Making It Easier to Cancel Subscriptions]]></title>
         <id>https://news.ycombinator.com/item?id=41858665</id>
         <link href="https://www.ftc.gov/news-events/news/press-releases/2024/10/federal-trade-commission-announces-final-click-cancel-rule-making-it-easier-consumers-end-recurring"/>
@@ -155,6 +168,19 @@ Points: 609
 # Comments: 295]]></summary>
         <author>
             <name>pseudolus</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Reflections on Palantir]]></title>
+        <id>https://news.ycombinator.com/item?id=41855006</id>
+        <link href="https://nabeelqu.substack.com/p/reflections-on-palantir"/>
+        <updated>2024-10-16T02:18:29.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://nabeelqu.substack.com/p/reflections-on-palantir
+Comments URL: https://news.ycombinator.com/item?id=41855006
+Points: 474
+# Comments: 568]]></summary>
+        <author>
+            <name>freditup</name>
         </author>
     </entry>
     <entry>
@@ -1830,19 +1856,6 @@ Points: 502
         <updated>2024-09-20T13:00:15.000Z</updated>
         <author>
             <name>Hussein Nasser</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Linux/4004: booting Linux on Intel 4004 for fun, art, and no profit]]></title>
-        <id>https://news.ycombinator.com/item?id=41600756</id>
-        <link href="https://dmitry.gr/?r=05.Projects&amp;proj=35.%20Linux4004"/>
-        <updated>2024-09-20T11:04:15.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://dmitry.gr/?r=05.Projects&proj=35.%20Linux4004
-Comments URL: https://news.ycombinator.com/item?id=41600756
-Points: 500
-# Comments: 127]]></summary>
-        <author>
-            <name>dmitrygr</name>
         </author>
     </entry>
 </feed>
