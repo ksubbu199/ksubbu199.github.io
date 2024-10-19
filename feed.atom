@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-10-19T03:20:44.122Z</updated>
+    <updated>2024-10-19T04:19:16.533Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -1860,16 +1860,6 @@ Points: 501
 # Comments: 321]]></summary>
         <author>
             <name>nabla9</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Paying down tech debt: further learnings]]></title>
-        <id>66ec426eba50ce00012fbbb6</id>
-        <link href="https://blog.pragmaticengineer.com/paying-down-tech-debt-further-learnings/"/>
-        <updated>2024-09-19T15:28:07.000Z</updated>
-        <summary type="html"><![CDATA[In a counter-intuitive observation: by making small, non-functional improvements, you gain more confidence in a new codebase, and can start to move faster.]]></summary>
-        <author>
-            <name>Gergely Orosz</name>
         </author>
     </entry>
 </feed>
