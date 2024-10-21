@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=41893524",
+          "author": "yunusabd",
+          "description": "I feel like it was inevitable, with the recent buzz around NotebookLM. I'm just surprised that it hasn't been done yet.\nComments URL: https://news.ycombinator.com/item?id=41893524\nPoints: 511\n# Comments: 160",
+          "link": "https://hnup.date/",
+          "publishedOn": "2024-10-20T07:10:31.000Z",
+          "wordCount": 637,
+          "title": "Show HN: HN Update – Hourly news broadcast of top HN stories",
+          "imageUrl": null
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=41880981",
           "author": "rntn",
           "description": "Article URL: https://gizmodo.com/the-feds-are-coming-for-john-deere-over-the-right-to-repair-2000513521\nComments URL: https://news.ycombinator.com/item?id=41880981\nPoints: 500\n# Comments: 208",
@@ -1034,16 +1044,6 @@
           "wordCount": 860,
           "title": "Brainfuck Enterprise Solutions",
           "imageUrl": "https://avatars.githubusercontent.com/u/126903709?s=280&v=4"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=41614490",
-          "author": "sounds",
-          "description": "Article URL: https://www.jeffgeerling.com/blog/2024/they-stole-my-voice-ai\nComments URL: https://news.ycombinator.com/item?id=41614490\nPoints: 500\n# Comments: 390",
-          "link": "https://www.jeffgeerling.com/blog/2024/they-stole-my-voice-ai",
-          "publishedOn": "2024-09-22T03:49:10.000Z",
-          "wordCount": 1112,
-          "title": "They stole my voice with AI",
-          "imageUrl": null
         }
       ]
     },

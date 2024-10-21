@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-10-21T15:18:38.697Z</updated>
+    <updated>2024-10-21T16:20:25.077Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -14,6 +14,19 @@
         <summary type="html"><![CDATA[I’ve been building a learning curriculum for backend developers for the last 3 years, but I’ve mostly been relying on qualitative feedback and my own intuitions.]]></summary>
         <author>
             <name>Boot.dev Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: HN Update – Hourly news broadcast of top HN stories]]></title>
+        <id>https://news.ycombinator.com/item?id=41893524</id>
+        <link href="https://hnup.date/"/>
+        <updated>2024-10-20T07:10:31.000Z</updated>
+        <summary type="html"><![CDATA[I feel like it was inevitable, with the recent buzz around NotebookLM. I'm just surprised that it hasn't been done yet.
+Comments URL: https://news.ycombinator.com/item?id=41893524
+Points: 511
+# Comments: 160]]></summary>
+        <author>
+            <name>yunusabd</name>
         </author>
     </entry>
     <entry>
@@ -1796,19 +1809,6 @@ Points: 502
         <updated>2024-09-22T11:56:55.000Z</updated>
         <author>
             <name>Think School</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[They stole my voice with AI]]></title>
-        <id>https://news.ycombinator.com/item?id=41614490</id>
-        <link href="https://www.jeffgeerling.com/blog/2024/they-stole-my-voice-ai"/>
-        <updated>2024-09-22T03:49:10.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.jeffgeerling.com/blog/2024/they-stole-my-voice-ai
-Comments URL: https://news.ycombinator.com/item?id=41614490
-Points: 500
-# Comments: 390]]></summary>
-        <author>
-            <name>sounds</name>
         </author>
     </entry>
 </feed>
