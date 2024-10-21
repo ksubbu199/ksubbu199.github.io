@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-10-21T13:25:23.385Z</updated>
+    <updated>2024-10-21T14:16:03.031Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The State of Learning to Code - 2024 Report]]></title>
+        <id>https://blog.boot.dev/education/state-of-learning-to-code-2024/</id>
+        <link href="https://blog.boot.dev/education/state-of-learning-to-code-2024/"/>
+        <updated>2024-10-21T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[I’ve been building a learning curriculum for backend developers for the last 3 years, but I’ve mostly been relying on qualitative feedback and my own intuitions.]]></summary>
+        <author>
+            <name>Boot.dev Blog</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Legendary Rise of Dhirubhai Ambani: Think School Documentary (Part 1)]]></title>
         <id>https://www.youtube.com/watch?v=bSx6hDjALkQ</id>
