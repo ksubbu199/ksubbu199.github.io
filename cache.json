@@ -16,6 +16,16 @@
           "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/4c8c/live/6088f470-8f18-11ef-911c-e95731cf9d6e.jpg"
         },
         {
+          "id": "https://news.ycombinator.com/item?id=41896973",
+          "author": "JumpCrisscross",
+          "description": "Article URL: https://www.bloomberg.com/news/features/2024-10-18/do-ai-detectors-work-students-face-false-cheating-accusations\nComments URL: https://news.ycombinator.com/item?id=41896973\nPoints: 436\n# Comments: 913",
+          "link": "https://www.bloomberg.com/news/features/2024-10-18/do-ai-detectors-work-students-face-false-cheating-accusations",
+          "publishedOn": "2024-10-20T17:26:46.000Z",
+          "wordCount": 576,
+          "title": "Do AI detectors work? Students face false cheating accusations",
+          "imageUrl": null
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=41893524",
           "author": "yunusabd",
           "description": "I feel like it was inevitable, with the recent buzz around NotebookLM. I'm just surprised that it hasn't been done yet.\nComments URL: https://news.ycombinator.com/item?id=41893524\nPoints: 511\n# Comments: 160",
@@ -34,6 +44,26 @@
           "wordCount": 4058,
           "title": "The feds are coming for John Deere over the right to repair",
           "imageUrl": "https://gizmodo.com/app/uploads/2024/10/JohnDeereTractor.jpg"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=41880649",
+          "author": "jjulius",
+          "description": "Article URL: https://www.reuters.com/business/autos-transportation/nhtsa-opens-probe-into-24-mln-tesla-vehicles-over-full-self-driving-collisions-2024-10-18/\nComments URL: https://news.ycombinator.com/item?id=41880649\nPoints: 411\n# Comments: 965",
+          "link": "https://www.reuters.com/business/autos-transportation/nhtsa-opens-probe-into-24-mln-tesla-vehicles-over-full-self-driving-collisions-2024-10-18/",
+          "publishedOn": "2024-10-18T16:01:40.000Z",
+          "wordCount": null,
+          "title": "US probes Tesla's Full Self-Driving software after fatal crash",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=41878281",
+          "author": "jhunter1016",
+          "description": "Article URL: https://www.nytimes.com/2024/10/17/technology/microsoft-openai-partnership-deal.html\nComments URL: https://news.ycombinator.com/item?id=41878281\nPoints: 321\n# Comments: 508",
+          "link": "https://www.nytimes.com/2024/10/17/technology/microsoft-openai-partnership-deal.html",
+          "publishedOn": "2024-10-18T11:11:10.000Z",
+          "wordCount": null,
+          "title": "Microsoft and OpenAI's close partnership shows signs of fraying",
+          "imageUrl": null
         },
         {
           "id": "https://news.ycombinator.com/item?id=41877513",
@@ -1044,16 +1074,6 @@
           "wordCount": 1460,
           "title": "I Designed a Dieter Rams Inspired iPhone Dock",
           "imageUrl": "https://arslan.io/content/images/size/w1200/2024/09/L1005075--1--1.jpeg"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=41620198",
-          "author": "linkdd",
-          "description": "Article URL: https://github.com/bf-enterprise-solutions\nComments URL: https://news.ycombinator.com/item?id=41620198\nPoints: 502\n# Comments: 126",
-          "link": "https://github.com/bf-enterprise-solutions",
-          "publishedOn": "2024-09-22T21:24:07.000Z",
-          "wordCount": 860,
-          "title": "Brainfuck Enterprise Solutions",
-          "imageUrl": "https://avatars.githubusercontent.com/u/126903709?s=280&v=4"
         }
       ]
     },
@@ -1098,16 +1118,6 @@
           "wordCount": 1027,
           "title": "The Boot.dev Beat. October 2024",
           "imageUrl": "https://blog.boot.dev/img/800/bootsoctober.png.webp"
-        },
-        {
-          "id": "https://blog.boot.dev/tutorials/learn-http-servers-golang-deprecated/",
-          "author": null,
-          "description": "Let’s build a fully-fledged HTTP server from scratch in Go. This course assumes you already have a solid understanding of Go.",
-          "link": "https://blog.boot.dev/tutorials/learn-http-servers-golang-deprecated/",
-          "publishedOn": "2024-09-23T00:00:00.000Z",
-          "wordCount": 12695,
-          "title": "Build a Web Server in Go [Deprecated]",
-          "imageUrl": "https://blog.boot.dev/img/800/webservers.png.webp"
         }
       ]
     },
