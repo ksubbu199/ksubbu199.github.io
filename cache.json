@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=41914989",
+          "author": "weirdcat",
+          "description": "Article URL: https://www.anthropic.com/news/3-5-models-and-computer-use\nComments URL: https://news.ycombinator.com/item?id=41914989\nPoints: 1375\n# Comments: 698",
+          "link": "https://www.anthropic.com/news/3-5-models-and-computer-use",
+          "publishedOn": "2024-10-22T15:02:46.000Z",
+          "wordCount": 2448,
+          "title": "Computer use, a new Claude 3.5 Sonnet, and Claude 3.5 Haiku",
+          "imageUrl": "https://cdn.sanity.io/images/4zrzovbb/website/80e83b2423639e5b10a75109cc99e77db7e2a949-2400x1260.png"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=41903616",
           "author": "thunderbong",
           "description": "Article URL: https://www.bbc.com/news/articles/cm2yl8pjgn2o\nComments URL: https://news.ycombinator.com/item?id=41903616\nPoints: 514\n# Comments: 54",
@@ -194,6 +204,16 @@
           "wordCount": 3811,
           "title": "The C23 edition of Modern C",
           "imageUrl": "https://s0.wp.com/i/blank.jpg"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=41849058",
+          "author": "diwank",
+          "description": "Article URL: https://www.apple.com/newsroom/2024/10/apple-introduces-powerful-new-ipad-mini-built-for-apple-intelligence/\nComments URL: https://news.ycombinator.com/item?id=41849058\nPoints: 317\n# Comments: 500",
+          "link": "https://www.apple.com/newsroom/2024/10/apple-introduces-powerful-new-ipad-mini-built-for-apple-intelligence/",
+          "publishedOn": "2024-10-15T14:35:29.000Z",
+          "wordCount": 8917,
+          "title": "Apple introduces iPad mini built for Apple Intelligence",
+          "imageUrl": "https://www.apple.com/newsroom/images/2024/10/apple-introduces-powerful-new-ipad-mini-built-for-apple-intelligence/tile/Apple-iPad-mini-hero-241015-lp.jpg.og.jpg?202410231551"
         },
         {
           "id": "https://news.ycombinator.com/item?id=41848150",
@@ -1044,36 +1064,6 @@
           "wordCount": 748,
           "title": "Show HN: OpenFreeMap – Open-Source Map Hosting",
           "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=41629475",
-          "author": "mailyk",
-          "description": "Article URL: https://www.atomsonly.news/p/franklin-oil\nComments URL: https://news.ycombinator.com/item?id=41629475\nPoints: 511\n# Comments: 173",
-          "link": "https://www.atomsonly.news/p/franklin-oil",
-          "publishedOn": "2024-09-23T19:08:14.000Z",
-          "wordCount": 2249,
-          "title": "In 1870, Lord Rayleigh used oil and water to calculate the size of molecules",
-          "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa1c801df-29b1-42ef-8eed-87c23c9127c9_1200x800.png"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=41629377",
-          "author": "goostavos",
-          "description": "https://www.manning.com/books/data-oriented-programming-in-j...\nThis book is a distillation of everything I’ve learned about what effective development looks like in Java (so far!). It's about how to organize programs around data \"as plain data\" and the surprisingly benefits that emerge when we do. Programs that are built around the data they manage tend to be simpler, smaller, and significantly easier understand.\nJava has changed radically over the last several years. It has picked up all kinds of new language features which support data oriented programming (records, pattern matching, `with` expressions, sum and product types). However, this is not a book about tools. No amount of studying a screw-driver will teach you how to build a house. This book focuses on house building. We'll pick out a plot of land, lay a foundation, and build upon it house that can weather any storm.\nDoP is based around a very simple idea, and one people have been rediscovering since the dawn of computing, \"representation is the essence of programming.\" When we do a really good job of capturing the data in our domain, the rest of the system tends to fall into place in a way which can feel like it’s writing itself.\nThat's my elevator pitch! The book is currently in early access. I hope you check it out. I'd love to hear your feedback.\nYou can get 50% off (thru October 9th) with code `mlkiehl`\nhttps://www.manning.com/books/data-oriented-programming-in-j...\nComments URL: https://news.ycombinator.com/item?id=41629377\nPoints: 513\n# Comments: 135",
-          "link": "https://news.ycombinator.com/item?id=41629377",
-          "publishedOn": "2024-09-23T18:56:44.000Z",
-          "wordCount": 11307,
-          "title": "Show HN: I Wrote a Book on Java",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=41623467",
-          "author": "farslan",
-          "description": "Article URL: https://arslan.io/2024/09/23/dieter-rams-inspired-iphone-dock/\nComments URL: https://news.ycombinator.com/item?id=41623467\nPoints: 570\n# Comments: 162",
-          "link": "https://arslan.io/2024/09/23/dieter-rams-inspired-iphone-dock/",
-          "publishedOn": "2024-09-23T07:51:26.000Z",
-          "wordCount": 1460,
-          "title": "I Designed a Dieter Rams Inspired iPhone Dock",
-          "imageUrl": "https://arslan.io/content/images/size/w1200/2024/09/L1005075--1--1.jpeg"
         }
       ]
     },
@@ -1411,16 +1401,6 @@
           "publishedOn": "2024-09-24T08:02:21.000Z",
           "wordCount": null,
           "title": "How Identifying Market Demand Can Lead to 1000 Crore company? Ft. @viraj.bahl",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=dg4XYZV5R04",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=dg4XYZV5R04",
-          "publishedOn": "2024-09-23T08:10:42.000Z",
-          "wordCount": null,
-          "title": "How we got Domino's as a client?",
           "imageUrl": null
         }
       ]
