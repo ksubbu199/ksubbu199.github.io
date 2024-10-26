@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=41949297",
+          "author": "donsupreme",
+          "description": "Article URL: https://www.cnbc.com/2024/10/25/jeff-bezos-killed-washington-post-endorsement-of-kamala-harris-.html\nComments URL: https://news.ycombinator.com/item?id=41949297\nPoints: 638\n# Comments: 748",
+          "link": "https://www.cnbc.com/2024/10/25/jeff-bezos-killed-washington-post-endorsement-of-kamala-harris-.html",
+          "publishedOn": "2024-10-25T20:22:52.000Z",
+          "wordCount": 29231,
+          "title": "Jeff Bezos killed Washington Post endorsement of Kamala Harris",
+          "imageUrl": "https://image.cnbcfm.com/api/v1/image/106944637-1632178358304-gettyimages-1341554748-img_3875_2021092061521093.jpeg?v=1729889891&w=1920&h=1080"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=41914989",
           "author": "weirdcat",
           "description": "Article URL: https://www.anthropic.com/news/3-5-models-and-computer-use\nComments URL: https://news.ycombinator.com/item?id=41914989\nPoints: 1375\n# Comments: 698",
@@ -924,66 +934,6 @@
           "wordCount": 1457,
           "title": "I Am Tired of AI",
           "imageUrl": "https://www.ontestautomation.com/images/logo_large.png"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=41659458",
-          "author": "jimbob45",
-          "description": "Article URL: https://www.theatlantic.com/ideas/archive/2024/09/legal-sports-gambling-was-mistake/679925/\nComments URL: https://news.ycombinator.com/item?id=41659458\nPoints: 573\n# Comments: 525",
-          "link": "https://www.theatlantic.com/ideas/archive/2024/09/legal-sports-gambling-was-mistake/679925/",
-          "publishedOn": "2024-09-26T15:24:25.000Z",
-          "wordCount": 2449,
-          "title": "Legalizing Sports Gambling Was a Mistake",
-          "imageUrl": "https://cdn.theatlantic.com/thumbor/Hvo7IQBOR6gOuOGlbI--Zsi9x8w=/0x480:2000x1522/1200x625/media/img/mt/2024/09/SportsGambling/original.png"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=41658733",
-          "author": "speckx",
-          "description": "Article URL: https://samcurry.net/hacking-kia\nComments URL: https://news.ycombinator.com/item?id=41658733\nPoints: 524\n# Comments: 310",
-          "link": "https://samcurry.net/hacking-kia",
-          "publishedOn": "2024-09-26T14:22:07.000Z",
-          "wordCount": 6958,
-          "title": "Hacking Kia: Remotely controlling cars with just a license plate",
-          "imageUrl": "https://samcurry-11fcyf1zb-sam-currys-projects.vercel.app/images/hacking-kia/zlz.webp"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=41657986",
-          "author": "jkatz05",
-          "description": "Article URL: https://www.postgresql.org/about/news/postgresql-17-released-2936/\nComments URL: https://news.ycombinator.com/item?id=41657986\nPoints: 510\n# Comments: 105",
-          "link": "https://www.postgresql.org/about/news/postgresql-17-released-2936/",
-          "publishedOn": "2024-09-26T13:10:24.000Z",
-          "wordCount": 1195,
-          "title": "PostgreSQL 17",
-          "imageUrl": "https://www.postgresql.org/media/img/about/press/elephant.png"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=41655967",
-          "author": "openplatypus",
-          "description": "Article URL: https://techcrunch.com/2024/09/25/wordpress-org-bans-wp-engine-blocks-it-from-accessing-its-resources/\nComments URL: https://news.ycombinator.com/item?id=41655967\nPoints: 504\n# Comments: 419",
-          "link": "https://techcrunch.com/2024/09/25/wordpress-org-bans-wp-engine-blocks-it-from-accessing-its-resources/",
-          "publishedOn": "2024-09-26T08:36:14.000Z",
-          "wordCount": 4126,
-          "title": "WordPress.org bans WP Engine",
-          "imageUrl": "https://techcrunch.com/wp-content/uploads/2024/09/GettyImages-488606871-e1727009839635.jpg?resize=1200,676"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=41655954",
-          "author": "jspann",
-          "description": "Article URL: https://www.reuters.com/technology/artificial-intelligence/openai-remove-non-profit-control-give-sam-altman-equity-sources-say-2024-09-25/\nComments URL: https://news.ycombinator.com/item?id=41655954\nPoints: 922\n# Comments: 540",
-          "link": "https://www.reuters.com/technology/artificial-intelligence/openai-remove-non-profit-control-give-sam-altman-equity-sources-say-2024-09-25/",
-          "publishedOn": "2024-09-26T08:34:43.000Z",
-          "wordCount": null,
-          "title": "OpenAI to become for-profit company",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=41655954",
-          "author": "jspann",
-          "description": "Article URL: https://www.wsj.com/tech/ai/openai-chief-technology-officer-resigns-7a8b4639\nComments URL: https://news.ycombinator.com/item?id=41655954\nPoints: 594\n# Comments: 322",
-          "link": "https://www.wsj.com/tech/ai/openai-chief-technology-officer-resigns-7a8b4639",
-          "publishedOn": "2024-09-26T08:34:43.000Z",
-          "wordCount": null,
-          "title": "OpenAI to Become For-Profit Company",
-          "imageUrl": null
         }
       ]
     },
@@ -1301,16 +1251,6 @@
           "publishedOn": "2024-09-27T05:30:25.000Z",
           "wordCount": null,
           "title": "Jumboking vs Mcdonald’s?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=hDSn3PuInac",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=hDSn3PuInac",
-          "publishedOn": "2024-09-26T14:15:27.000Z",
-          "wordCount": null,
-          "title": "Failed Sweetshop to 110 crore Company : How did Dheeraj Gupta build Jumboking? | IBP Ep 15",
           "imageUrl": null
         }
       ]
