@@ -894,46 +894,6 @@
           "wordCount": 363,
           "title": "Amusing Ourselves to Death (2009)",
           "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=41672599",
-          "author": "nabla9",
-          "description": "Article URL: https://www.science.org/content/blog-post/fraud-so-much-fraud\nComments URL: https://news.ycombinator.com/item?id=41672599\nPoints: 636\n# Comments: 407",
-          "link": "https://www.science.org/content/blog-post/fraud-so-much-fraud",
-          "publishedOn": "2024-09-27T16:33:37.000Z",
-          "wordCount": null,
-          "title": "Fraud, so much fraud",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=41670210",
-          "author": "greg_V",
-          "description": "Article URL: https://larslofgren.com/cnn-usa-today-forbes-marketplace/\nComments URL: https://news.ycombinator.com/item?id=41670210\nPoints: 517\n# Comments: 199",
-          "link": "https://larslofgren.com/cnn-usa-today-forbes-marketplace/",
-          "publishedOn": "2024-09-27T13:29:30.000Z",
-          "wordCount": 7428,
-          "title": "CNN and USA Today have fake websites, I believe Forbes Marketplace runs them",
-          "imageUrl": "http://larslofgren.com/wp-content/uploads/2024/09/CNN_Underscore_Homepage-scaled.jpg"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=41668824",
-          "author": "WithinReason",
-          "description": "Article URL: https://www.tomshardware.com/tech-industry/tsmc-execs-allegedly-dismissed-openai-ceo-sam-altman-as-podcasting-bro\nComments URL: https://news.ycombinator.com/item?id=41668824\nPoints: 457\n# Comments: 518",
-          "link": "https://www.tomshardware.com/tech-industry/tsmc-execs-allegedly-dismissed-openai-ceo-sam-altman-as-podcasting-bro",
-          "publishedOn": "2024-09-27T11:01:26.000Z",
-          "wordCount": 14650,
-          "title": "TSMC execs allegedly dismissed OpenAI CEO Sam Altman as 'podcasting bro'",
-          "imageUrl": "https://cdn.mos.cms.futurecdn.net/7rF2nNJkzmuNTHQ6DKfNsY-1200-80.jpg"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=41667652",
-          "author": "Liriel",
-          "description": "Article URL: https://www.ontestautomation.com/i-am-tired-of-ai/\nComments URL: https://news.ycombinator.com/item?id=41667652\nPoints: 525\n# Comments: 517",
-          "link": "https://www.ontestautomation.com/i-am-tired-of-ai/",
-          "publishedOn": "2024-09-27T08:20:24.000Z",
-          "wordCount": 1457,
-          "title": "I Am Tired of AI",
-          "imageUrl": "https://www.ontestautomation.com/images/logo_large.png"
         }
       ]
     },
@@ -1004,16 +964,6 @@
           "publishedOn": "2024-10-01T10:01:44.000Z",
           "wordCount": 2454,
           "title": "Terminal colours are tricky",
-          "imageUrl": null
-        },
-        {
-          "id": "https://jvns.ca/blog/2024/09/27/some-go-web-dev-notes/",
-          "author": null,
-          "description": "I spent a lot of time in the past couple of weeks working on a website in Go\nthat may or may not ever see the light of day, but I learned a couple of things\nalong the way I wanted to write down. Here they are:\ngo 1.22 now has better routing\nI’ve never felt motivated to learn any of the Go routing libraries\n(gorilla/mux, chi, etc), so I’ve been doing all my routing by hand, like this.\n\t// DELETE /records:\n\tcase r.Method == \"DELETE\" && n == 1 && p[0] == \"records\":\n\t\tif !requireLogin(username, r.URL.Path, r, w) {\n\t\t\treturn\n\t\t}\n\t\tdeleteAllRecords(ctx, username, rs, w, r)\n\t// POST /records/<ID>\n\tcase r.Method == \"POST\" && n == 2 && p[0] == \"records\" && len(p[1]) > 0:\n\t\tif !requireLogin(username, r.URL.Path, r, w) {\n\t\t\treturn\n\t\t}\n\t\tupdateRecord(ctx, username, p[1], rs, w, r)\n\n\nBut apparently as …",
-          "link": "https://jvns.ca/blog/2024/09/27/some-go-web-dev-notes/",
-          "publishedOn": "2024-09-27T11:16:00.000Z",
-          "wordCount": 1392,
-          "title": "Some Go web dev notes",
           "imageUrl": null
         }
       ]
@@ -1242,16 +1192,6 @@
           "wordCount": null,
           "title": "Madness Inspires Great Products!",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=vgjkzFIq_94",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=vgjkzFIq_94",
-          "publishedOn": "2024-09-27T05:30:25.000Z",
-          "wordCount": null,
-          "title": "Jumboking vs Mcdonald’s?",
-          "imageUrl": null
         }
       ]
     },
@@ -1298,16 +1238,6 @@
           "publishedOn": "2024-10-04T14:45:01.000Z",
           "wordCount": null,
           "title": "The Beauty of Assembly",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=0Ih7FhVZ21s",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=0Ih7FhVZ21s",
-          "publishedOn": "2024-09-27T13:45:00.000Z",
-          "wordCount": null,
-          "title": "SQL IN clauses are miles faster in Postgres 17",
           "imageUrl": null
         }
       ]
