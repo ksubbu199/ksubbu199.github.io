@@ -22,6 +22,73 @@
             data-action="toggle-accordions"
             title="Click to toggle the day, Ctrl + click to toggle all."
           >
+            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2024-10-27 datetime="2024-10-27T07:47:04.000Z">2024-10-27</time>
+            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2024-10-27 datetime="2024-10-27T07:47:04.000Z"></time>
+          </button>
+        </h2>
+        <ul class="sources card">
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >Julia Evans</button>
+                  <a class="source-heading__link" href="http://jvns.ca/atom.xml">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://jvns.ca/blog/2024/10/27/asn-ip-address-memory/"
+                        open
+                      >
+                        <summary class="article-expander__title">Using less memory to look up IP addresses in Mess With DNS</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://jvns.ca/blog/2024/10/27/asn-ip-address-memory/">
+                          <div class="article-summary-box-inner media-object">
+                            <span class="media-object__text">
+                              <span>I’ve been having problems for the last 3 years or so where Mess With DNS
+periodically runs out of memory and gets OOM killed.
+This hasn’t been a big priority for me: usually it just goes down for a few
+minutes while it restarts, and it only happens once a day at most, so I’ve just
+been ignoring. But last week it started actually causing a problem so I decided
+to look into it.
+This was kind of winding road where I learned a lot so here’s a table of contents:
+there’s about 100MB of memory available
+the problem: OOM killing the backup script
+attempt 1: use SQLite
+
+problem: how to store IPv6 addresses
+problem: it’s 500x slower
+time for EXPLAIN QUERY PLAN
+attempt 2: use a trie
+
+some notes on memory profiling
+attempt 3: make my array use less memory
+
+idea 3.1: deduplicate the Name and Country
+ho…</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;8
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+        </ul>
+      </section>
+      <section class="daily-content js-toggle-accordions-scope">
+        <h2 class="daily-heading">
+          <button
+            class="daily-heading-toggle"
+            data-action="toggle-accordions"
+            title="Click to toggle the day, Ctrl + click to toggle all."
+          >
             <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2024-10-25 datetime="2024-10-25T20:22:52.000Z">2024-10-25</time>
             <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2024-10-25 datetime="2024-10-25T20:22:52.000Z"></time>
           </button>
@@ -3590,131 +3657,10 @@ Points: 513
             </li>
         </ul>
       </section>
-      <section class="daily-content js-toggle-accordions-scope">
-        <h2 class="daily-heading">
-          <button
-            class="daily-heading-toggle"
-            data-action="toggle-accordions"
-            title="Click to toggle the day, Ctrl + click to toggle all."
-          >
-            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2024-09-28 datetime="2024-09-28T14:45:31.000Z">2024-09-28</time>
-            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2024-09-28 datetime="2024-09-28T14:45:31.000Z"></time>
-          </button>
-        </h2>
-        <ul class="sources card">
-            <li class="card__section">
-              <section class="js-toggle-accordions-scope">
-                <h3 class="source-heading">
-                  <button
-                    class="source-heading__name"
-                    data-action="toggle-accordions"
-                    title="Click to toggle the source, Ctrl + click to toggle all."
-                  >Think School</button>
-                  <a class="source-heading__link" href="https://www.youtube.com/channel/UCKZozRVHRYsYHGEyNKuhhdA">Open</a>
-                </h3>
-                <section class="articles-per-source">
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://www.youtube.com/watch?v&#x3D;xTh__usZ44k"
-                        open
-                      >
-                        <summary class="article-expander__title">How did a 26 yo. Indian take Royal Enfield from 0 to 4001cr? | Business case study</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://www.youtube.com/watch?v&#x3D;xTh__usZ44k">
-                          <div class="article-summary-box-inner media-object">
-                            <span class="media-object__text">
-                              <span>No content preview</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://www.youtube.com/watch?v&#x3D;eqH-TKQa-1Y"
-                        open
-                      >
-                        <summary class="article-expander__title">Madness Inspires Great Products!</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://www.youtube.com/watch?v&#x3D;eqH-TKQa-1Y">
-                          <div class="article-summary-box-inner media-object">
-                            <span class="media-object__text">
-                              <span>No content preview</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                </section>
-              </section>
-            </li>
-            <li class="card__section">
-              <section class="js-toggle-accordions-scope">
-                <h3 class="source-heading">
-                  <button
-                    class="source-heading__name"
-                    data-action="toggle-accordions"
-                    title="Click to toggle the source, Ctrl + click to toggle all."
-                  >Hacker News: Newest</button>
-                  <a class="source-heading__link" href="https://news.ycombinator.com/newest">Open</a>
-                </h3>
-                <section class="articles-per-source">
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://news.ycombinator.com/item?id&#x3D;41678412"
-                        open
-                      >
-                        <summary class="article-expander__title">FFT-based ocean-wave rendering, implemented in Godot</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://github.com/2Retr0/GodotOceanWaves">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://opengraph.githubassets.com/993fefff20223c106ab9f3d93a923d020276478ef6864d4ad564fbc4704cacf5/2Retr0/GodotOceanWaves" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>Article URL: https://github.com/2Retr0/GodotOceanWaves
-Comments URL: https://news.ycombinator.com/item?id&#x3D;41678412
-Points: 500
-# Comments: 72</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;22
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://news.ycombinator.com/item?id&#x3D;41678208"
-                        open
-                      >
-                        <summary class="article-expander__title">Amusing Ourselves to Death (2009)</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://web.archive.org/web/20100111052839/http://www.recombinantrecords.net/docs/2009-05-Amusing-Ourselves-to-Death.html">
-                          <div class="article-summary-box-inner media-object">
-                            <span class="media-object__text">
-                              <span>Article URL: https://web.archive.org/web/20100111052839/http://www.recombinantrecords.net/docs/2009-05-Amusing-Ourselves-to-Death.html
-Comments URL: https://news.ycombinator.com/item?id&#x3D;41678208
-Points: 500
-# Comments: 317</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;1
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                </section>
-              </section>
-            </li>
-        </ul>
-      </section>
 
     <footer>
-      <a class="footer-link" href="https://github.com/ksubbu199/ksubbu199.github.io/actions/runs/11539994049">
-        <time id="build-timestamp" datetime="2024-10-27T11:12:49.963Z">2024-10-27T11:12:49.963Z</time>
+      <a class="footer-link" href="https://github.com/ksubbu199/ksubbu199.github.io/actions/runs/11546783055">
+        <time id="build-timestamp" datetime="2024-10-28T03:26:56.033Z">2024-10-28T03:26:56.033Z</time>
       </a>
       <a class="footer-link" href="https://github.com/osmoscraft/osmosfeed">osmosfeed 1.15.1</a>
     </footer>

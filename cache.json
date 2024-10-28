@@ -874,26 +874,6 @@
           "wordCount": 3853,
           "title": "Too much efficiency makes everything worse (2022)",
           "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=41678412",
-          "author": "RafelMri",
-          "description": "Article URL: https://github.com/2Retr0/GodotOceanWaves\nComments URL: https://news.ycombinator.com/item?id=41678412\nPoints: 500\n# Comments: 72",
-          "link": "https://github.com/2Retr0/GodotOceanWaves",
-          "publishedOn": "2024-09-28T06:51:41.000Z",
-          "wordCount": 6577,
-          "title": "FFT-based ocean-wave rendering, implemented in Godot",
-          "imageUrl": "https://opengraph.githubassets.com/993fefff20223c106ab9f3d93a923d020276478ef6864d4ad564fbc4704cacf5/2Retr0/GodotOceanWaves"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=41678208",
-          "author": "yamrzou",
-          "description": "Article URL: https://web.archive.org/web/20100111052839/http://www.recombinantrecords.net/docs/2009-05-Amusing-Ourselves-to-Death.html\nComments URL: https://news.ycombinator.com/item?id=41678208\nPoints: 500\n# Comments: 317",
-          "link": "https://web.archive.org/web/20100111052839/http://www.recombinantrecords.net/docs/2009-05-Amusing-Ourselves-to-Death.html",
-          "publishedOn": "2024-09-28T05:56:37.000Z",
-          "wordCount": 363,
-          "title": "Amusing Ourselves to Death (2009)",
-          "imageUrl": null
         }
       ]
     },
@@ -946,6 +926,16 @@
       "feedUrl": "https://jvns.ca/atom.xml",
       "siteUrl": "http://jvns.ca/atom.xml",
       "articles": [
+        {
+          "id": "https://jvns.ca/blog/2024/10/27/asn-ip-address-memory/",
+          "author": null,
+          "description": "I’ve been having problems for the last 3 years or so where Mess With DNS\nperiodically runs out of memory and gets OOM killed.\nThis hasn’t been a big priority for me: usually it just goes down for a few\nminutes while it restarts, and it only happens once a day at most, so I’ve just\nbeen ignoring. But last week it started actually causing a problem so I decided\nto look into it.\nThis was kind of winding road where I learned a lot so here’s a table of contents:\nthere’s about 100MB of memory available\nthe problem: OOM killing the backup script\nattempt 1: use SQLite\n\nproblem: how to store IPv6 addresses\nproblem: it’s 500x slower\ntime for EXPLAIN QUERY PLAN\nattempt 2: use a trie\n\nsome notes on memory profiling\nattempt 3: make my array use less memory\n\nidea 3.1: deduplicate the Name and Country\nho…",
+          "link": "https://jvns.ca/blog/2024/10/27/asn-ip-address-memory/",
+          "publishedOn": "2024-10-27T07:47:04.000Z",
+          "wordCount": 2522,
+          "title": "Using less memory to look up IP addresses in Mess With DNS",
+          "imageUrl": null
+        },
         {
           "id": "https://jvns.ca/blog/2024/10/07/some-notes-on-upgrading-hugo/",
           "author": null,
@@ -1171,26 +1161,6 @@
           "publishedOn": "2024-09-29T04:38:30.000Z",
           "wordCount": null,
           "title": "100cr Sales Strategy of Veeba!",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=xTh__usZ44k",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=xTh__usZ44k",
-          "publishedOn": "2024-09-28T14:45:31.000Z",
-          "wordCount": null,
-          "title": "How did a 26 yo. Indian take Royal Enfield from 0 to 4001cr? | Business case study",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=eqH-TKQa-1Y",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=eqH-TKQa-1Y",
-          "publishedOn": "2024-09-28T09:12:39.000Z",
-          "wordCount": null,
-          "title": "Madness Inspires Great Products!",
           "imageUrl": null
         }
       ]
