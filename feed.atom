@@ -2,10 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-10-28T03:26:56.053Z</updated>
+    <updated>2024-10-28T14:16:20.556Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Key to Customer Loyalty?  | Level Supermind]]></title>
+        <id>https://www.youtube.com/watch?v=r4X_G9AHg8k</id>
+        <link href="https://www.youtube.com/watch?v=r4X_G9AHg8k"/>
+        <updated>2024-10-28T12:02:39.000Z</updated>
+        <author>
+            <name>Think School</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ask HN: What Are You Working On? (October 2024)]]></title>
+        <id>https://news.ycombinator.com/item?id=41966114</id>
+        <link href="https://news.ycombinator.com/item?id=41966114"/>
+        <updated>2024-10-27T22:14:45.000Z</updated>
+        <summary type="html"><![CDATA[What are you working on?  Any new ideas that you're thinking about?
+Comments URL: https://news.ycombinator.com/item?id=41966114
+Points: 233
+# Comments: 660]]></summary>
+        <author>
+            <name>david927</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Using less memory to look up IP addresses in Mess With DNS]]></title>
         <id>https://jvns.ca/blog/2024/10/27/asn-ip-address-memory/</id>
@@ -1482,19 +1504,6 @@ Points: 349
         <updated>2024-09-29T04:38:30.000Z</updated>
         <author>
             <name>Think School</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Too much efficiency makes everything worse (2022)]]></title>
-        <id>https://news.ycombinator.com/item?id=41684082</id>
-        <link href="https://sohl-dickstein.github.io/2022/11/06/strong-Goodhart.html"/>
-        <updated>2024-09-29T01:19:44.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://sohl-dickstein.github.io/2022/11/06/strong-Goodhart.html
-Comments URL: https://news.ycombinator.com/item?id=41684082
-Points: 513
-# Comments: 203]]></summary>
-        <author>
-            <name>feyman_r</name>
         </author>
     </entry>
 </feed>
