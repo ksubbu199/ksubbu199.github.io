@@ -2,10 +2,92 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-10-28T14:16:20.556Z</updated>
+    <updated>2024-10-29T16:21:19.403Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Using the Strangler Fig with Mobile Apps]]></title>
+        <id>https://martinfowler.com/articles/strangler-fig-mobile-apps.html</id>
+        <link href="https://martinfowler.com/articles/strangler-fig-mobile-apps.html"/>
+        <updated>2024-10-29T14:34:00.000Z</updated>
+        <summary type="html"><![CDATA[My colleagues are often involved in modernizing legacy systems, and
+       our approach is to do this in an incremental fashion. Doing this with a
+       mobile application raises some specific challenges. Matthew
+       Foster and John Mikel Amiel Regida share their
+       experiences of a recent engagement to do this, shifting from a monolithic
+       legacy application to one using a modular micro-app architecture. 
+more…]]></summary>
+        <author>
+            <name>Martin Fowler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jumboking's Secret Recipe]]></title>
+        <id>https://www.youtube.com/watch?v=tL9IWnOLnIs</id>
+        <link href="https://www.youtube.com/watch?v=tL9IWnOLnIs"/>
+        <updated>2024-10-29T07:54:39.000Z</updated>
+        <author>
+            <name>Think School</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Strategy to Streamline Supply Chain]]></title>
+        <id>https://www.youtube.com/watch?v=FBJf6KiARYo</id>
+        <link href="https://www.youtube.com/watch?v=FBJf6KiARYo"/>
+        <updated>2024-10-29T07:52:53.000Z</updated>
+        <author>
+            <name>Think School</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A return to hand-written notes by learning to read and write]]></title>
+        <id>https://news.ycombinator.com/item?id=41976311</id>
+        <link href="https://research.google/blog/a-return-to-hand-written-notes-by-learning-to-read-write/"/>
+        <updated>2024-10-28T21:08:16.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://research.google/blog/a-return-to-hand-written-notes-by-learning-to-read-write/
+Comments URL: https://news.ycombinator.com/item?id=41976311
+Points: 508
+# Comments: 165]]></summary>
+        <author>
+            <name>mfiguiere</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[We're forking Flutter]]></title>
+        <id>https://news.ycombinator.com/item?id=41975047</id>
+        <link href="https://flutterfoundation.dev/blog/posts/we-are-forking-flutter-this-is-why/"/>
+        <updated>2024-10-28T19:24:19.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://flutterfoundation.dev/blog/posts/we-are-forking-flutter-this-is-why/
+Comments URL: https://news.ycombinator.com/item?id=41975047
+Points: 756
+# Comments: 626]]></summary>
+        <author>
+            <name>alexzeitler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New iMac with M4]]></title>
+        <id>https://news.ycombinator.com/item?id=41971726</id>
+        <link href="https://www.apple.com/newsroom/2024/10/apple-introduces-new-imac-supercharged-by-m4-and-apple-intelligence/"/>
+        <updated>2024-10-28T15:03:01.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.apple.com/newsroom/2024/10/apple-introduces-new-imac-supercharged-by-m4-and-apple-intelligence/
+Comments URL: https://news.ycombinator.com/item?id=41971726
+Points: 502
+# Comments: 1040]]></summary>
+        <author>
+            <name>tosh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Is Make In India Failing? | Case study]]></title>
+        <id>https://www.youtube.com/watch?v=0DrAzdRo3RM</id>
+        <link href="https://www.youtube.com/watch?v=0DrAzdRo3RM"/>
+        <updated>2024-10-28T15:01:08.000Z</updated>
+        <author>
+            <name>Think School</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Key to Customer Loyalty?  | Level Supermind]]></title>
         <id>https://www.youtube.com/watch?v=r4X_G9AHg8k</id>
@@ -59,6 +141,32 @@ ho…]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Before you buy a domain name, first check to see if it's haunted]]></title>
+        <id>https://news.ycombinator.com/item?id=41951131</id>
+        <link href="https://www.bryanbraun.com/2024/10/25/before-you-buy-a-domain-name-first-check-to-see-if-its-haunted/"/>
+        <updated>2024-10-25T23:43:41.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.bryanbraun.com/2024/10/25/before-you-buy-a-domain-name-first-check-to-see-if-its-haunted/
+Comments URL: https://news.ycombinator.com/item?id=41951131
+Points: 919
+# Comments: 185]]></summary>
+        <author>
+            <name>bryanbraun</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wikipedia article blocked worldwide by Delhi high court]]></title>
+        <id>https://news.ycombinator.com/item?id=41950392</id>
+        <link href="https://en.wikipedia.org/wiki/Asian_News_International_vs._Wikimedia_Foundation"/>
+        <updated>2024-10-25T22:17:57.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://en.wikipedia.org/wiki/Asian_News_International_vs._Wikimedia_Foundation
+Comments URL: https://news.ycombinator.com/item?id=41950392
+Points: 699
+# Comments: 474]]></summary>
+        <author>
+            <name>intunderflow</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Jeff Bezos killed Washington Post endorsement of Kamala Harris]]></title>
         <id>https://news.ycombinator.com/item?id=41949297</id>
         <link href="https://www.cnbc.com/2024/10/25/jeff-bezos-killed-washington-post-endorsement-of-kamala-harris-.html"/>
@@ -69,6 +177,32 @@ Points: 638
 # Comments: 748]]></summary>
         <author>
             <name>donsupreme</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[We can now fix McDonald's ice cream machines]]></title>
+        <id>https://news.ycombinator.com/item?id=41949098</id>
+        <link href="https://www.ifixit.com/News/102368/victory-is-sweet-we-can-now-fix-mcdonalds-ice-cream-machines"/>
+        <updated>2024-10-25T20:02:36.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.ifixit.com/News/102368/victory-is-sweet-we-can-now-fix-mcdonalds-ice-cream-machines
+Comments URL: https://news.ycombinator.com/item?id=41949098
+Points: 1100
+# Comments: 303]]></summary>
+        <author>
+            <name>LorenDB</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Company named "><SCRIPT SRC=HTTPS://MJT.XSS.HT> LTD" forced to change it (2020)]]></title>
+        <id>https://news.ycombinator.com/item?id=41948666</id>
+        <link href="https://www.theguardian.com/uk-news/2020/nov/06/companies-house-forces-business-name-change-to-prevent-security-risk"/>
+        <updated>2024-10-25T19:20:21.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.theguardian.com/uk-news/2020/nov/06/companies-house-forces-business-name-change-to-prevent-security-risk
+Comments URL: https://news.ycombinator.com/item?id=41948666
+Points: 563
+# Comments: 248]]></summary>
+        <author>
+            <name>jakey_bakey</name>
         </author>
     </entry>
     <entry>
@@ -90,12 +224,152 @@ Points: 638
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Bitwarden SDK relicensed from proprietary to GPLv3]]></title>
+        <id>https://news.ycombinator.com/item?id=41940580</id>
+        <link href="https://github.com/bitwarden/sdk-internal/commit/db648d7ea85878e9cce03283694d01d878481f6b"/>
+        <updated>2024-10-24T22:41:03.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://github.com/bitwarden/sdk-internal/commit/db648d7ea85878e9cce03283694d01d878481f6b
+Comments URL: https://news.ycombinator.com/item?id=41940580
+Points: 1003
+# Comments: 364]]></summary>
+        <author>
+            <name>ferbivore</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Quantized Llama models with increased speed and a reduced memory footprint]]></title>
+        <id>https://news.ycombinator.com/item?id=41938473</id>
+        <link href="https://ai.meta.com/blog/meta-llama-quantized-lightweight-models/?_fb_noscript=1"/>
+        <updated>2024-10-24T18:52:44.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://ai.meta.com/blog/meta-llama-quantized-lightweight-models/?_fb_noscript=1
+Comments URL: https://news.ycombinator.com/item?id=41938473
+Points: 505
+# Comments: 120]]></summary>
+        <author>
+            <name>egnehots</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[How to make 1cr/year with farming? | Bharat Agri Co-founders |Indian Business Podcast EP18]]></title>
         <id>https://www.youtube.com/watch?v=nNP4o1wE6Vo</id>
         <link href="https://www.youtube.com/watch?v=nNP4o1wE6Vo"/>
         <updated>2024-10-24T15:02:00.000Z</updated>
         <author>
             <name>Think School</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rider is now free for non-commercial use]]></title>
+        <id>https://news.ycombinator.com/item?id=41936001</id>
+        <link href="https://www.jetbrains.com/rider/"/>
+        <updated>2024-10-24T14:43:26.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.jetbrains.com/rider/
+Comments URL: https://news.ycombinator.com/item?id=41936001
+Points: 824
+# Comments: 418]]></summary>
+        <author>
+            <name>kretaceous</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: 2048 turned 10 this year, I built an updated version to celebrate]]></title>
+        <id>https://news.ycombinator.com/item?id=41934746</id>
+        <link href="https://play2048.co/"/>
+        <updated>2024-10-24T12:15:27.000Z</updated>
+        <summary type="html"><![CDATA[Hi all! My name is Gabriele Cirulli, I’m the original creator of 2048. Ten years ago, someone posted 2048 on HN[1] and suddenly it seemed like everyone was playing it. Back then, I wrote a bit about my experience during those weeks[2].
+Even after all these years, that experience still feels a bit surreal to me. I’m deeply grateful to everyone who connected with the game, whether in small or significant ways, and for the stories shared along the way. Some people expressed how they were going through tough times and found some comfort, however small, in playing 2048.
+At the start of last year, I wanted to breathe new life into the game as it was starting to show its age. I quit my job last October to work on 2048 full time and spent a year building this new version (the original took just 5 days!). I wanted to pay tribute to what made 2048 great while modernizing and polishing the experience.
+The idea of adding powerups came when Prime Gaming and I connected to see if we could create a special version of 2048 for their members, with some exclusive extras. Some of those powerups made it into the main game, though there’s still a Classic[3] mode just like the original for those who prefer a more hardcore experience. The old site is also still online[4].
+2048 is now my full-time focus, and I’m excited about the ways it can keep improving. I wanted to share this update with the community where it all began, both for a bit of nostalgia and to hear your thoughts and feedback!
+Thank you all so much!
+— Gabriele
+[1]: https://news.ycombinator.com/item?id=7373566
+[2]: https://medium.com/@gabrielecirulli/2048-success-and-me-7dc6...
+[3]: https://play2048.co/classic
+[4]: https://classic.play2048.co
+Comments URL: https://news.ycombinator.com/item?id=41934746
+Points: 665
+# Comments: 210]]></summary>
+        <author>
+            <name>terabytest</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS data center latencies, visualized]]></title>
+        <id>https://news.ycombinator.com/item?id=41931572</id>
+        <link href="https://benjdd.com/aws/"/>
+        <updated>2024-10-24T03:18:23.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://benjdd.com/aws/
+Comments URL: https://news.ycombinator.com/item?id=41931572
+Points: 526
+# Comments: 207]]></summary>
+        <author>
+            <name>orliesaurus</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: RF Hunter – Find hidden cameras and other devices]]></title>
+        <id>https://news.ycombinator.com/item?id=41930628</id>
+        <link href="https://github.com/RamboRogers/rfhunter"/>
+        <updated>2024-10-24T00:21:36.000Z</updated>
+        <summary type="html"><![CDATA[This project is an RF Signal Scanner built using an ESP32, AD8317 RF detector, and various other components. It's designed to detect and measure RF signals in the environment and display the signal strength on an OLED display. It's useful to find hidden cameras, wiretapping devices, and other RF-enabled devices.
+Comments URL: https://news.ycombinator.com/item?id=41930628
+Points: 593
+# Comments: 175]]></summary>
+        <author>
+            <name>RamboRogers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Everything I built with Claude Artifacts this week]]></title>
+        <id>https://news.ycombinator.com/item?id=41929174</id>
+        <link href="https://simonwillison.net/2024/Oct/21/claude-artifacts/"/>
+        <updated>2024-10-23T20:52:13.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://simonwillison.net/2024/Oct/21/claude-artifacts/
+Comments URL: https://news.ycombinator.com/item?id=41929174
+Points: 633
+# Comments: 465]]></summary>
+        <author>
+            <name>recvonline</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Arm is canceling Qualcomm's chip design license]]></title>
+        <id>https://news.ycombinator.com/item?id=41920401</id>
+        <link href="https://www.bloomberg.com/news/articles/2024-10-23/arm-to-cancel-qualcomm-chip-design-license-in-escalation-of-feud"/>
+        <updated>2024-10-23T00:48:24.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.bloomberg.com/news/articles/2024-10-23/arm-to-cancel-qualcomm-chip-design-license-in-escalation-of-feud
+Comments URL: https://news.ycombinator.com/item?id=41920401
+Points: 621
+# Comments: 445]]></summary>
+        <author>
+            <name>necubi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Tragedy of Google Books (2017)]]></title>
+        <id>https://news.ycombinator.com/item?id=41917016</id>
+        <link href="https://www.theatlantic.com/technology/archive/2017/04/the-tragedy-of-google-books/523320/"/>
+        <updated>2024-10-22T18:11:03.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.theatlantic.com/technology/archive/2017/04/the-tragedy-of-google-books/523320/
+Comments URL: https://news.ycombinator.com/item?id=41917016
+Points: 501
+# Comments: 181]]></summary>
+        <author>
+            <name>lispybanana</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FTC's rule banning fake online reviews goes into effect]]></title>
+        <id>https://news.ycombinator.com/item?id=41915187</id>
+        <link href="https://abcnews.go.com/US/wireStory/ftcs-rule-banning-fake-online-reviews-effect-115009298"/>
+        <updated>2024-10-22T15:21:58.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://abcnews.go.com/US/wireStory/ftcs-rule-banning-fake-online-reviews-effect-115009298
+Comments URL: https://news.ycombinator.com/item?id=41915187
+Points: 607
+# Comments: 341]]></summary>
+        <author>
+            <name>indus</name>
         </author>
     </entry>
     <entry>
@@ -109,6 +383,19 @@ Points: 1375
 # Comments: 698]]></summary>
         <author>
             <name>weirdcat</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Math is still catching up to the genius of Ramanujan]]></title>
+        <id>https://news.ycombinator.com/item?id=41909564</id>
+        <link href="https://www.quantamagazine.org/srinivasa-ramanujan-was-a-genius-math-is-still-catching-up-20241021/"/>
+        <updated>2024-10-21T23:19:00.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.quantamagazine.org/srinivasa-ramanujan-was-a-genius-math-is-still-catching-up-20241021/
+Comments URL: https://news.ycombinator.com/item?id=41909564
+Points: 825
+# Comments: 414]]></summary>
+        <author>
+            <name>philiplu</name>
         </author>
     </entry>
     <entry>
@@ -1446,64 +1733,6 @@ Points: 672
 # Comments: 141]]></summary>
         <author>
             <name>walz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NotebookLM's automatically generated podcasts are surprisingly effective]]></title>
-        <id>https://news.ycombinator.com/item?id=41693087</id>
-        <link href="https://simonwillison.net/2024/Sep/29/notebooklm-audio-overview/"/>
-        <updated>2024-09-30T02:58:02.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://simonwillison.net/2024/Sep/29/notebooklm-audio-overview/
-Comments URL: https://news.ycombinator.com/item?id=41693087
-Points: 548
-# Comments: 245]]></summary>
-        <author>
-            <name>simonw</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Open Source Company as Costco]]></title>
-        <id>https://writing.kemitchell.com/2024/09/29/Open-Source-as-Costco</id>
-        <link href="https://writing.kemitchell.com/2024/09/29/Open-Source-as-Costco"/>
-        <updated>2024-09-29T23:00:12.000Z</updated>
-        <summary type="html"><![CDATA[parallels weak and strong]]></summary>
-        <author>
-            <name>/dev/lawyer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gavin Newsom vetoes SB 1047]]></title>
-        <id>https://news.ycombinator.com/item?id=41690302</id>
-        <link href="https://www.gov.ca.gov/wp-content/uploads/2024/09/SB-1047-Veto-Message.pdf"/>
-        <updated>2024-09-29T20:43:32.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.gov.ca.gov/wp-content/uploads/2024/09/SB-1047-Veto-Message.pdf
-Comments URL: https://news.ycombinator.com/item?id=41690302
-Points: 517
-# Comments: 298]]></summary>
-        <author>
-            <name>atlasunshrugged</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ask HN: What are you working on (September 2024)?]]></title>
-        <id>https://news.ycombinator.com/item?id=41690087</id>
-        <link href="https://news.ycombinator.com/item?id=41690087"/>
-        <updated>2024-09-29T20:16:40.000Z</updated>
-        <summary type="html"><![CDATA[What are you working on? Any new ideas that you're thinking about?
-Comments URL: https://news.ycombinator.com/item?id=41690087
-Points: 349
-# Comments: 1003]]></summary>
-        <author>
-            <name>david927</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[100cr Sales Strategy of Veeba!]]></title>
-        <id>https://www.youtube.com/watch?v=HJ5FD5mqvEU</id>
-        <link href="https://www.youtube.com/watch?v=HJ5FD5mqvEU"/>
-        <updated>2024-09-29T04:38:30.000Z</updated>
-        <author>
-            <name>Think School</name>
         </author>
     </entry>
 </feed>
