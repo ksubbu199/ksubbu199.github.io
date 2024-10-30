@@ -1093,6 +1093,16 @@
       "siteUrl": "https://martinfowler.com/feed.atom",
       "articles": [
         {
+          "id": "https://martinfowler.com/articles/strangler-fig-mobile-apps.html#DivingDeeperx2026",
+          "author": null,
+          "description": "Matthew Foster and John Mikel Amiel\n       Regida dive into the details of incrementally modernizing a\n       legacy mobile application. They look at how to implant the strangler fig\n       into the existing app, setting up bi-directional communication between\n       the new app and the legacy, and ensuring effective regression testing on the\n       overall system.\nmore…",
+          "link": "https://martinfowler.com/articles/strangler-fig-mobile-apps.html#DivingDeeperx2026",
+          "publishedOn": "2024-10-30T14:29:00.000Z",
+          "wordCount": 4858,
+          "title": "Diving deeper into using the Strangler Fig with Mobile Apps",
+          "imageUrl": "https://martinfowler.com/articles/strangler-fig-mobile-apps/card.png"
+        },
+        {
           "id": "https://martinfowler.com/articles/strangler-fig-mobile-apps.html",
           "author": null,
           "description": "My colleagues are often involved in modernizing legacy systems, and\n       our approach is to do this in an incremental fashion. Doing this with a\n       mobile application raises some specific challenges. Matthew\n       Foster and John Mikel Amiel Regida share their\n       experiences of a recent engagement to do this, shifting from a monolithic\n       legacy application to one using a modular micro-app architecture. \nmore…",
@@ -1162,6 +1172,46 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKZozRVHRYsYHGEyNKuhhdA",
       "siteUrl": "https://www.youtube.com/channel/UCKZozRVHRYsYHGEyNKuhhdA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=C0Cum0Gy2gE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=C0Cum0Gy2gE",
+          "publishedOn": "2024-10-30T14:29:20.000Z",
+          "wordCount": null,
+          "title": "India’s Growth Potential!",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=uGfV-g0EvUY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=uGfV-g0EvUY",
+          "publishedOn": "2024-10-30T14:25:46.000Z",
+          "wordCount": null,
+          "title": "Research is Expensive?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=P-3UoEIX9XA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=P-3UoEIX9XA",
+          "publishedOn": "2024-10-30T14:22:38.000Z",
+          "wordCount": null,
+          "title": "Strategies to Thrive in Crowded Market!",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=ixfqRWfw0kQ",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=ixfqRWfw0kQ",
+          "publishedOn": "2024-10-30T14:14:13.000Z",
+          "wordCount": null,
+          "title": "Profitable E-commerce Strategy?",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=tL9IWnOLnIs",
           "author": null,
