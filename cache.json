@@ -1375,18 +1375,7 @@
       "title": "Lea Verou’s blog",
       "feedUrl": "https://lea.verou.me/feed.xml",
       "siteUrl": "https://lea.verou.me/feed.xml",
-      "articles": [
-        {
-          "id": "https://lea.verou.me/blog/2024/wcs-vs-frameworks/",
-          "author": null,
-          "description": "Disclaimer: This post expresses my opinions, which do not necessarily reflect consensus by the whole Web Components community.\nA blog post by Ryan Carniato\ntitled “Web Components Are Not the Future” has recently stirred a lot of controversy.\nA few other JS framework authors pitched in, expressing frustration and disillusionment around Web Components.\nSome Web Components folks wrote rebuttals,\nwhile others repeatedly tried to get to the bottom of the issues,\nso they could be addressed in the future.\nWhen you are on the receiving end of such an onslaught,\nthe initial reaction is to feel threatened and become defensive.\nHowever, these kinds of posts can often end up shaking things up and pushing a technology forwards in the end.\nI have some personal experience:\nafter I published my 2020 post …",
-          "link": "https://lea.verou.me/blog/2024/wcs-vs-frameworks/",
-          "publishedOn": "2024-10-01T00:00:00.000Z",
-          "wordCount": 2102,
-          "title": "Web Components are not Framework Components — and That’s Okay",
-          "imageUrl": "https://lea.verou.me/blog/2024/wcs-vs-frameworks/images/component-types.png"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Ben Hoyt's technical writing",
