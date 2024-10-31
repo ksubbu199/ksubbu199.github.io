@@ -2,10 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-10-31T13:23:35.319Z</updated>
+    <updated>2024-10-31T14:16:09.543Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ASCII control characters in my terminal]]></title>
+        <id>https://jvns.ca/blog/2024/10/31/ascii-control-characters/</id>
+        <link href="https://jvns.ca/blog/2024/10/31/ascii-control-characters/"/>
+        <updated>2024-10-31T08:00:10.000Z</updated>
+        <summary type="html"><![CDATA[Hello! I’ve been thinking about the terminal a lot and yesterday I got curious
+about all these “control codes”, like Ctrl-A, Ctrl-C, Ctrl-W, etc. What’s
+the deal with all of them?
+a table of ASCII control characters
+Here’s a table of all 33 ASCII control characters, and what they do on my
+machine (on Mac OS), more or less. There are about a million caveats, but I’ll talk about
+what it means and all the problems with this diagram that I know about.
+
+You can also view it as an HTML page (I just made it an image so
+it would show up in RSS).
+different kinds of codes are mixed together
+The first surprising thing about this diagram to me is that there are 33
+control codes, split into (very roughly speaking) these categories:
+Codes that are handled by the operating system’s terminal driver, for
+e…]]></summary>
+        <author>
+            <name>Julia Evans</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Steam games will need to disclose kernel-level anti-cheat on store pages]]></title>
         <id>https://news.ycombinator.com/item?id=41999314</id>
