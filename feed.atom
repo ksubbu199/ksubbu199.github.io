@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-10-31T02:51:39.664Z</updated>
+    <updated>2024-10-31T04:20:53.563Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Steam games will need to disclose kernel-level anti-cheat on store pages]]></title>
+        <id>https://news.ycombinator.com/item?id=41999314</id>
+        <link href="https://www.gamingonlinux.com/2024/10/steam-games-will-now-need-to-fully-disclose-kernel-level-anti-cheat-on-store-pages/"/>
+        <updated>2024-10-30T19:39:59.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.gamingonlinux.com/2024/10/steam-games-will-now-need-to-fully-disclose-kernel-level-anti-cheat-on-store-pages/
+Comments URL: https://news.ycombinator.com/item?id=41999314
+Points: 517
+# Comments: 326]]></summary>
+        <author>
+            <name>jrepinc</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[M4 MacBook Pro]]></title>
         <id>https://news.ycombinator.com/item?id=41995701</id>
@@ -1792,19 +1805,6 @@ Points: 501
 # Comments: 207]]></summary>
         <author>
             <name>bo0tzz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Is the world really running out of sand?]]></title>
-        <id>https://news.ycombinator.com/item?id=41710166</id>
-        <link href="https://practical.engineering/blog/2024/10/1/is-the-world-really-running-out-of-sand"/>
-        <updated>2024-10-01T16:00:46.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://practical.engineering/blog/2024/10/1/is-the-world-really-running-out-of-sand
-Comments URL: https://news.ycombinator.com/item?id=41710166
-Points: 500
-# Comments: 207]]></summary>
-        <author>
-            <name>chmaynard</name>
         </author>
     </entry>
 </feed>
