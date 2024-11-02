@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-11-02T15:18:09.680Z</updated>
+    <updated>2024-11-02T16:19:56.806Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -39,6 +39,19 @@ Points: 598
         <updated>2024-11-01T14:15:01.000Z</updated>
         <author>
             <name>Hussein Nasser</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Make It Yourself]]></title>
+        <id>https://news.ycombinator.com/item?id=42016597</id>
+        <link href="https://makeityourself.org/"/>
+        <updated>2024-11-01T13:09:50.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://makeityourself.org/
+Comments URL: https://news.ycombinator.com/item?id=42016597
+Points: 519
+# Comments: 65]]></summary>
+        <author>
+            <name>deivid</name>
         </author>
     </entry>
     <entry>
