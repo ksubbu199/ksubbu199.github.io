@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-11-03T02:54:22.840Z</updated>
+    <updated>2024-11-03T03:26:11.691Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -1706,36 +1706,6 @@ Points: 500
 # Comments: 295]]></summary>
         <author>
             <name>misiti3780</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: One – A new React framework unifying web, native and local-first]]></title>
-        <id>https://news.ycombinator.com/item?id=41742278</id>
-        <link href="https://onestack.dev/"/>
-        <updated>2024-10-04T15:15:24.000Z</updated>
-        <summary type="html"><![CDATA[Hey HN, I'm Nate, the creator of Tamagui.
-One is a React framework that does two things differently in hopes of simplifying how we build websites and apps:
-1. It unifies React Native and React web with typed file system routing by making Vite able to serve RN. This lets you share (or diverge) your code in a simpler way for cross-platform apps.
-2. We've partnered with Zero (https://zerosync.dev) to make local-first work well. We've been building a solution in One that makes Zero supporting server rendering, without waterfalls, and with seamless server/client handoff.
----
-Honestly - I'm a bit hesitant to post One here.
-HN has really soured on frontend/frameworks. And I get it. We've collectively complicated the hell out of things.
-That's why I decided to build One. I loved Rails, it made me …]]></summary>
-        <author>
-            <name>nwienert</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Getting my daily news from a dot matrix printer]]></title>
-        <id>https://news.ycombinator.com/item?id=41742210</id>
-        <link href="https://aschmelyun.com/blog/getting-my-daily-news-from-a-dot-matrix-printer/"/>
-        <updated>2024-10-04T15:08:42.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://aschmelyun.com/blog/getting-my-daily-news-from-a-dot-matrix-printer/
-Comments URL: https://news.ycombinator.com/item?id=41742210
-Points: 541
-# Comments: 168]]></summary>
-        <author>
-            <name>chrisdemarco</name>
         </author>
     </entry>
 </feed>
