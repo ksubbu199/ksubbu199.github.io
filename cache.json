@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=42040795",
+          "author": "ChrisArchitect",
+          "description": "Article URL: https://www.washingtonpost.com/style/media/2024/11/04/new-york-times-tech-strike-walkout/\nComments URL: https://news.ycombinator.com/item?id=42040795\nPoints: 429\n# Comments: 809",
+          "link": "https://www.washingtonpost.com/style/media/2024/11/04/new-york-times-tech-strike-walkout/",
+          "publishedOn": "2024-11-04T12:08:30.000Z",
+          "wordCount": null,
+          "title": "New York Times Tech Guild goes on strike",
+          "imageUrl": null
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=42037386",
           "author": "Jerry2",
           "description": "Article URL: https://med.stanford.edu/news/all-news/2024/10/protein-cancer.html\nComments URL: https://news.ycombinator.com/item?id=42037386\nPoints: 515\n# Comments: 128",
@@ -46,6 +56,16 @@
           "imageUrl": "https://blog-cdn.pixelmator.com/2024-11-new-home/img_social.jpg"
         },
         {
+          "id": "https://news.ycombinator.com/item?id=42016931",
+          "author": "retskrad",
+          "description": "Article URL: https://twitter.com/LeakerApple/status/1852280766471999661\nComments URL: https://news.ycombinator.com/item?id=42016931\nPoints: 357\n# Comments: 522",
+          "link": "https://twitter.com/LeakerApple/status/1852280766471999661",
+          "publishedOn": "2024-11-01T13:53:32.000Z",
+          "wordCount": 6,
+          "title": "Apple's M4 Max chip is the fastest single-core performer in consumer computing",
+          "imageUrl": null
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=42016597",
           "author": "deivid",
           "description": "Article URL: https://makeityourself.org/\nComments URL: https://news.ycombinator.com/item?id=42016597\nPoints: 519\n# Comments: 65",
@@ -54,6 +74,16 @@
           "wordCount": 96,
           "title": "Make It Yourself",
           "imageUrl": null
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=42012301",
+          "author": "rbanffy",
+          "description": "Article URL: https://arstechnica.com/tech-policy/2024/10/colorado-scrambles-to-change-voting-system-passwords-after-accidental-leak/\nComments URL: https://news.ycombinator.com/item?id=42012301\nPoints: 224\n# Comments: 625",
+          "link": "https://arstechnica.com/tech-policy/2024/10/colorado-scrambles-to-change-voting-system-passwords-after-accidental-leak/",
+          "publishedOn": "2024-10-31T22:42:05.000Z",
+          "wordCount": 2619,
+          "title": "Colorado scrambles to change voting-system passwords after accidental leak",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2024/10/jena-griswold-1152x648-1730408602.jpg"
         },
         {
           "id": "https://news.ycombinator.com/item?id=42011239",

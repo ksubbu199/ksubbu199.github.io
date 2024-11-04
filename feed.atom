@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-11-04T19:14:00.927Z</updated>
+    <updated>2024-11-04T20:18:34.851Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[New York Times Tech Guild goes on strike]]></title>
+        <id>https://news.ycombinator.com/item?id=42040795</id>
+        <link href="https://www.washingtonpost.com/style/media/2024/11/04/new-york-times-tech-strike-walkout/"/>
+        <updated>2024-11-04T12:08:30.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.washingtonpost.com/style/media/2024/11/04/new-york-times-tech-strike-walkout/
+Comments URL: https://news.ycombinator.com/item?id=42040795
+Points: 429
+# Comments: 809]]></summary>
+        <author>
+            <name>ChrisArchitect</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Scientists glue two proteins together, driving cancer cells to self-destruct]]></title>
         <id>https://news.ycombinator.com/item?id=42037386</id>
@@ -77,6 +90,19 @@ Points: 598
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Apple's M4 Max chip is the fastest single-core performer in consumer computing]]></title>
+        <id>https://news.ycombinator.com/item?id=42016931</id>
+        <link href="https://twitter.com/LeakerApple/status/1852280766471999661"/>
+        <updated>2024-11-01T13:53:32.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://twitter.com/LeakerApple/status/1852280766471999661
+Comments URL: https://news.ycombinator.com/item?id=42016931
+Points: 357
+# Comments: 522]]></summary>
+        <author>
+            <name>retskrad</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Make It Yourself]]></title>
         <id>https://news.ycombinator.com/item?id=42016597</id>
         <link href="https://makeityourself.org/"/>
@@ -87,6 +113,19 @@ Points: 519
 # Comments: 65]]></summary>
         <author>
             <name>deivid</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Colorado scrambles to change voting-system passwords after accidental leak]]></title>
+        <id>https://news.ycombinator.com/item?id=42012301</id>
+        <link href="https://arstechnica.com/tech-policy/2024/10/colorado-scrambles-to-change-voting-system-passwords-after-accidental-leak/"/>
+        <updated>2024-10-31T22:42:05.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://arstechnica.com/tech-policy/2024/10/colorado-scrambles-to-change-voting-system-passwords-after-accidental-leak/
+Comments URL: https://news.ycombinator.com/item?id=42012301
+Points: 224
+# Comments: 625]]></summary>
+        <author>
+            <name>rbanffy</name>
         </author>
     </entry>
     <entry>
