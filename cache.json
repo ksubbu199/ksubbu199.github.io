@@ -1093,6 +1093,16 @@
       "siteUrl": "https://martinfowler.com/feed.atom",
       "articles": [
         {
+          "id": "https://martinfowler.com/articles/strangler-fig-mobile-apps.html#Results",
+          "author": null,
+          "description": "Matthew Foster and John Mikel Amiel\n       Regida finish their account of how they incrementally modernized\n       a mobile application by looking at the results of their work. They\n       achieved a significant shortening of time to new value, and found that\n       changes in the new application could be prepared in about half the time\n       it took on the old codebase.\nmore…",
+          "link": "https://martinfowler.com/articles/strangler-fig-mobile-apps.html#Results",
+          "publishedOn": "2024-11-05T13:55:00.000Z",
+          "wordCount": 5935,
+          "title": "Assessing the results of using the Strangler Fig on a Mobile App",
+          "imageUrl": "https://martinfowler.com/articles/strangler-fig-mobile-apps/card.png"
+        },
+        {
           "id": "https://martinfowler.com/articles/strangler-fig-mobile-apps.html#DivingDeeperx2026",
           "author": null,
           "description": "Matthew Foster and John Mikel Amiel\n       Regida dive into the details of incrementally modernizing a\n       legacy mobile application. They look at how to implant the strangler fig\n       into the existing app, setting up bi-directional communication between\n       the new app and the legacy, and ensuring effective regression testing on the\n       overall system.\nmore…",
