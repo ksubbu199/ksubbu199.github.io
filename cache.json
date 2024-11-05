@@ -1084,16 +1084,6 @@
           "wordCount": 2522,
           "title": "Using less memory to look up IP addresses in Mess With DNS",
           "imageUrl": null
-        },
-        {
-          "id": "https://jvns.ca/blog/2024/10/07/some-notes-on-upgrading-hugo/",
-          "author": null,
-          "description": "Warning: this is a post about very boring yakshaving, probably only of interest\nto people who are trying to upgrade Hugo from a very old version to a new\nversion. But what are blogs for if not documenting one’s very boring yakshaves\nfrom time to time?\nSo yesterday I decided to try to upgrade Hugo. There’s no real reason to do\nthis – I’ve been using Hugo version 0.40 to generate this blog since 2018, it\nworks fine, and I don’t have any problems with it. But I thought – maybe it\nwon’t be as hard as I think, and I kind of like a tedious computer task sometimes!\nI thought I’d document what I learned along the way in case it’s useful to\nanyone else doing this very specific migration. I upgraded from Hugo v0.40\n(from 2018) to v0.135 (from 2024).\nHere are most of the changes I had to make:\nchange…",
-          "link": "https://jvns.ca/blog/2024/10/07/some-notes-on-upgrading-hugo/",
-          "publishedOn": "2024-10-07T09:19:57.000Z",
-          "wordCount": 1941,
-          "title": "Some notes on upgrading Hugo",
-          "imageUrl": null
         }
       ]
     },
