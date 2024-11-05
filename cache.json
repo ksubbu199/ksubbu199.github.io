@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=42052143",
+          "author": "mooreds",
+          "description": "Article URL: https://battleda.sh/blog/ea-account-takeover\nComments URL: https://news.ycombinator.com/item?id=42052143\nPoints: 521\n# Comments: 99",
+          "link": "https://battleda.sh/blog/ea-account-takeover",
+          "publishedOn": "2024-11-05T15:18:34.000Z",
+          "wordCount": 11,
+          "title": "Hacking 700M Electronic Arts accounts",
+          "imageUrl": "/assets/blog/ea-account-takeover/cover4.png"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=42040795",
           "author": "ChrisArchitect",
           "description": "Article URL: https://www.washingtonpost.com/style/media/2024/11/04/new-york-times-tech-strike-walkout/\nComments URL: https://news.ycombinator.com/item?id=42040795\nPoints: 429\n# Comments: 809",
@@ -1340,16 +1350,6 @@
           "publishedOn": "2024-10-09T15:00:07.000Z",
           "wordCount": null,
           "title": "SWIGGY IPO: Fluff or Goldmine? Detailed Analysis",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=ZYOtgB2kwX8",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=ZYOtgB2kwX8",
-          "publishedOn": "2024-10-07T10:40:03.000Z",
-          "wordCount": null,
-          "title": "Why Starbucks Failed?",
           "imageUrl": null
         }
       ]
