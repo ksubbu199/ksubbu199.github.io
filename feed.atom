@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-11-08T15:17:24.893Z</updated>
+    <updated>2024-11-08T16:20:13.741Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Spin an HTTP/3 Reverse Proxy (using mitmproxy)]]></title>
+        <id>https://www.youtube.com/watch?v=S-5Sx561jnk</id>
+        <link href="https://www.youtube.com/watch?v=S-5Sx561jnk"/>
+        <updated>2024-11-08T15:15:03.000Z</updated>
+        <author>
+            <name>Hussein Nasser</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[QNX is now free for anything non-commercial, plus there's an RPi image]]></title>
         <id>https://news.ycombinator.com/item?id=42079460</id>
