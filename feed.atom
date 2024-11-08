@@ -2,10 +2,27 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-11-08T05:16:17.799Z</updated>
+    <updated>2024-11-08T06:22:58.092Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[QNX is now free for anything non-commercial, plus there's an RPi image]]></title>
+        <id>https://news.ycombinator.com/item?id=42079460</id>
+        <link href="https://blackberry.qnx.com/en/products/qnx-everywhere"/>
+        <updated>2024-11-07T18:35:22.000Z</updated>
+        <summary type="html"><![CDATA[Hiya folks!
+I'm John from the Developer Relations team at QNX. I'm a loooong time lurker of this forum and excited to make my first post.
+I just wanted to let you know that we've kicked off a new program to start opening the doors to QNX like things used to be. Many of you probably used or tinkered with (the very open) QNX back in the day. You can now easily get a free non-commercial license to use the newest QNX. We've also just released some sample apps and a ready-to-go QNX 8.0 quick start target image for Raspberry Pi. So you can get QNX and the development tools for free now to learn, experiment, and build.
+It's been a long time in the making, so I'm really excited to get to post about this first phase of the QNX Everywhere initiative. My team and management have open ears, so please share feedback about what more we can do to open things up, be more transparent, and get you what you need to create an awesome embedded QNX project.
+Cheers!
+Comments URL: https://news.ycombinator.com/item?id=42079460
+Points: 505
+# Comments: 227]]></summary>
+        <author>
+            <name>JohnAtQNX</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Donald Trump's SHOCKING impact on India? : Geopolitical Case study]]></title>
         <id>https://www.youtube.com/watch?v=TmD8t5XWPJ0</id>
@@ -1647,19 +1664,6 @@ Points: 519
 # Comments: 334]]></summary>
         <author>
             <name>ewenjo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dookie Demastered]]></title>
-        <id>https://news.ycombinator.com/item?id=41790295</id>
-        <link href="https://www.dookiedemastered.com/"/>
-        <updated>2024-10-09T17:18:19.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.dookiedemastered.com/
-Comments URL: https://news.ycombinator.com/item?id=41790295
-Points: 503
-# Comments: 146]]></summary>
-        <author>
-            <name>nickthegreek</name>
         </author>
     </entry>
 </feed>
