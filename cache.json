@@ -6,6 +6,26 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=42088758",
+          "author": "mailyk",
+          "description": "Article URL: https://www.asimov.press/p/mitochondria\nComments URL: https://news.ycombinator.com/item?id=42088758\nPoints: 504\n# Comments: 320",
+          "link": "https://www.asimov.press/p/mitochondria",
+          "publishedOn": "2024-11-08T17:39:43.000Z",
+          "wordCount": 4687,
+          "title": "Mitochondria Are Alive",
+          "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa99be069-1e83-4925-a028-569aa66f6679_1200x800.png"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=42084588",
+          "author": "transpute",
+          "description": "Article URL: https://jhftss.github.io/A-New-Era-of-macOS-Sandbox-Escapes/\nComments URL: https://news.ycombinator.com/item?id=42084588\nPoints: 504\n# Comments: 149",
+          "link": "https://jhftss.github.io/A-New-Era-of-macOS-Sandbox-Escapes/",
+          "publishedOn": "2024-11-08T06:10:14.000Z",
+          "wordCount": 5316,
+          "title": "Multiple new macOS sandbox escape vulnerabilities",
+          "imageUrl": null
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=42079460",
           "author": "JohnAtQNX",
           "description": "Hiya folks!\nI'm John from the Developer Relations team at QNX. I'm a loooong time lurker of this forum and excited to make my first post.\nI just wanted to let you know that we've kicked off a new program to start opening the doors to QNX like things used to be. Many of you probably used or tinkered with (the very open) QNX back in the day. You can now easily get a free non-commercial license to use the newest QNX. We've also just released some sample apps and a ready-to-go QNX 8.0 quick start target image for Raspberry Pi. So you can get QNX and the development tools for free now to learn, experiment, and build.\nIt's been a long time in the making, so I'm really excited to get to post about this first phase of the QNX Everywhere initiative. My team and management have open ears, so please share feedback about what more we can do to open things up, be more transparent, and get you what you need to create an awesome embedded QNX project.\nCheers!\nComments URL: https://news.ycombinator.com/item?id=42079460\nPoints: 505\n# Comments: 227",
