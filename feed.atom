@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-11-09T18:19:49.779Z</updated>
+    <updated>2024-11-09T19:12:04.076Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -76,6 +76,19 @@ Points: 504
 # Comments: 149]]></summary>
         <author>
             <name>transpute</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stabilizing the Obra Dinn 1-bit dithering process (2017)]]></title>
+        <id>https://news.ycombinator.com/item?id=42084080</id>
+        <link href="https://forums.tigsource.com/index.php?topic=40832.msg1363742#msg1363742"/>
+        <updated>2024-11-08T04:15:59.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://forums.tigsource.com/index.php?topic=40832.msg1363742#msg1363742
+Comments URL: https://news.ycombinator.com/item?id=42084080
+Points: 500
+# Comments: 103]]></summary>
+        <author>
+            <name>CharlesW</name>
         </author>
     </entry>
     <entry>
@@ -1652,16 +1665,6 @@ Points: 500
         <updated>2024-10-11T13:15:05.000Z</updated>
         <author>
             <name>Hussein Nasser</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Open source business model struggles at WordPress]]></title>
-        <id>6708c072dd28bf0001ed478a</id>
-        <link href="https://blog.pragmaticengineer.com/wordpress-struggles/"/>
-        <updated>2024-10-11T06:20:52.000Z</updated>
-        <summary type="html"><![CDATA[Automattic, creator of Wordpress, is being sued by one of the largest WordPress hosting providers. The conflict fits into a trend of billion-dollar companies struggling to effectively monetize open source, and are changing tactics to limit their competition and increase their revenue.]]></summary>
-        <author>
-            <name>Gergely Orosz</name>
         </author>
     </entry>
 </feed>

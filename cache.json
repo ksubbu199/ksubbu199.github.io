@@ -36,6 +36,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://news.ycombinator.com/item?id=42084080",
+          "author": "CharlesW",
+          "description": "Article URL: https://forums.tigsource.com/index.php?topic=40832.msg1363742#msg1363742\nComments URL: https://news.ycombinator.com/item?id=42084080\nPoints: 500\n# Comments: 103",
+          "link": "https://forums.tigsource.com/index.php?topic=40832.msg1363742#msg1363742",
+          "publishedOn": "2024-11-08T04:15:59.000Z",
+          "wordCount": null,
+          "title": "Stabilizing the Obra Dinn 1-bit dithering process (2017)",
+          "imageUrl": null
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=42079460",
           "author": "JohnAtQNX",
           "description": "Hiya folks!\nI'm John from the Developer Relations team at QNX. I'm a loooong time lurker of this forum and excited to make my first post.\nI just wanted to let you know that we've kicked off a new program to start opening the doors to QNX like things used to be. Many of you probably used or tinkered with (the very open) QNX back in the day. You can now easily get a free non-commercial license to use the newest QNX. We've also just released some sample apps and a ready-to-go QNX 8.0 quick start target image for Raspberry Pi. So you can get QNX and the development tools for free now to learn, experiment, and build.\nIt's been a long time in the making, so I'm really excited to get to post about this first phase of the QNX Everywhere initiative. My team and management have open ears, so please share feedback about what more we can do to open things up, be more transparent, and get you what you need to create an awesome embedded QNX project.\nCheers!\nComments URL: https://news.ycombinator.com/item?id=42079460\nPoints: 505\n# Comments: 227",
@@ -1104,16 +1114,6 @@
           "wordCount": 2769,
           "title": "Interesting startup idea: benchmarking cloud platform pricing",
           "imageUrl": null
-        },
-        {
-          "id": "6708c072dd28bf0001ed478a",
-          "author": "Gergely Orosz",
-          "description": "Automattic, creator of Wordpress, is being sued by one of the largest WordPress hosting providers. The conflict fits into a trend of billion-dollar companies struggling to effectively monetize open source, and are changing tactics to limit their competition and increase their revenue.",
-          "link": "https://blog.pragmaticengineer.com/wordpress-struggles/",
-          "publishedOn": "2024-10-11T06:20:52.000Z",
-          "wordCount": 3232,
-          "title": "Open source business model struggles at WordPress",
-          "imageUrl": "https://blog.pragmaticengineer.com/content/images/size/w1200/2024/10/Screenshot-2024-10-11-at-08.19.59.png"
         }
       ]
     },
