@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-11-10T09:15:23.098Z</updated>
+    <updated>2024-11-10T10:15:23.564Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Scientist treated her own cancer with viruses she grew in the lab]]></title>
+        <id>https://news.ycombinator.com/item?id=42094573</id>
+        <link href="https://www.nature.com/articles/d41586-024-03647-0"/>
+        <updated>2024-11-09T14:23:30.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.nature.com/articles/d41586-024-03647-0
+Comments URL: https://news.ycombinator.com/item?id=42094573
+Points: 513
+# Comments: 181]]></summary>
+        <author>
+            <name>dataminer</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[New microblog with TILs]]></title>
         <id>https://jvns.ca/blog/2024/11/09/new-microblog/</id>
