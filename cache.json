@@ -6,6 +6,26 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=42095580",
+          "author": "pil0u",
+          "description": "Article URL: https://opencoder-llm.github.io/\nComments URL: https://news.ycombinator.com/item?id=42095580\nPoints: 506\n# Comments: 60",
+          "link": "https://opencoder-llm.github.io/",
+          "publishedOn": "2024-11-09T17:27:30.000Z",
+          "wordCount": 348,
+          "title": "OpenCoder: Open Cookbook for Top-Tier Code Large Language Models",
+          "imageUrl": "./static/images/banner.jpg"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=42095292",
+          "author": "kaathewise",
+          "description": "Article URL: https://www.ironcalc.com/\nComments URL: https://news.ycombinator.com/item?id=42095292\nPoints: 520\n# Comments: 157",
+          "link": "https://www.ironcalc.com/",
+          "publishedOn": "2024-11-09T16:36:19.000Z",
+          "wordCount": 645,
+          "title": "IronCalc – Open-Source Spreadsheet Engine",
+          "imageUrl": "https://www.ironcalc.com/images/ironcalc-og.png"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=42094573",
           "author": "dataminer",
           "description": "Article URL: https://www.nature.com/articles/d41586-024-03647-0\nComments URL: https://news.ycombinator.com/item?id=42094573\nPoints: 513\n# Comments: 181",
