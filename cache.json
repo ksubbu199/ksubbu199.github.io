@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=42102506",
+          "author": "bewal416",
+          "description": "Article URL: https://ben-mini.github.io/2024/img-0416\nComments URL: https://news.ycombinator.com/item?id=42102506\nPoints: 681\n# Comments: 101",
+          "link": "https://ben-mini.github.io/2024/img-0416",
+          "publishedOn": "2024-11-10T20:45:33.000Z",
+          "wordCount": 915,
+          "title": "IMG_0416",
+          "imageUrl": "https://ben-mini.github.io/assets/images/logo-square.png"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=42095580",
           "author": "pil0u",
           "description": "Article URL: https://opencoder-llm.github.io/\nComments URL: https://news.ycombinator.com/item?id=42095580\nPoints: 506\n# Comments: 60",
@@ -934,46 +944,6 @@
           "wordCount": 770,
           "title": "Germany's 49-euro ticket resulted in significant shift from road to rail",
           "imageUrl": "https://www.mcc-berlin.net/fileadmin/data/C1.1_Web-Bilder/241008_Hauptbahnhof_K%C3%B6ln_2474346251_Shutterstock-Dimitrios_1000.jpg"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=41818779",
-          "author": "Tomte",
-          "description": "Article URL: https://www.youtube.com/watch?v=rbu7Zu5X1zI\nComments URL: https://news.ycombinator.com/item?id=41818779\nPoints: 528\n# Comments: 83",
-          "link": "https://www.youtube.com/watch?v=rbu7Zu5X1zI",
-          "publishedOn": "2024-10-12T13:06:31.000Z",
-          "wordCount": null,
-          "title": "How I animate 3Blue1Brown [video]",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=41818609",
-          "author": "thcipriani",
-          "description": "Article URL: https://www.kv4p.com/\nComments URL: https://news.ycombinator.com/item?id=41818609\nPoints: 500\n# Comments: 185",
-          "link": "https://www.kv4p.com/",
-          "publishedOn": "2024-10-12T12:32:29.000Z",
-          "wordCount": 269,
-          "title": "Turn your Android phone into a modern ham radio transceiver",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=41818459",
-          "author": "mmsc",
-          "description": "Article URL: https://gist.github.com/hackermondev/68ec8ed145fcee49d2f5e2b9d2cf2e52\nComments URL: https://news.ycombinator.com/item?id=41818459\nPoints: 580\n# Comments: 179",
-          "link": "https://gist.github.com/hackermondev/68ec8ed145fcee49d2f5e2b9d2cf2e52",
-          "publishedOn": "2024-10-12T11:55:12.000Z",
-          "wordCount": 2988,
-          "title": "1 bug, $50k in bounties, a Zendesk backdoor",
-          "imageUrl": "https://github.githubassets.com/assets/gist-og-image-54fd7dc0713e.png"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=41818420",
-          "author": "Thomvis",
-          "description": "Article URL: https://www.medscape.com/viewarticle/psilocybin-bests-ssri-major-depression-first-long-term-2024a1000h77\nComments URL: https://news.ycombinator.com/item?id=41818420\nPoints: 501\n# Comments: 323",
-          "link": "https://www.medscape.com/viewarticle/psilocybin-bests-ssri-major-depression-first-long-term-2024a1000h77",
-          "publishedOn": "2024-10-12T11:46:44.000Z",
-          "wordCount": 18175,
-          "title": "Psilocybin bests SSRI for major depression in first long-term comparison",
-          "imageUrl": "https://img.medscapestatic.com/vim/live/professional_assets/medscape/images/thumbnail_library/gty_220908_psilocybin_magic_mushrooms_800x450.jpg"
         }
       ]
     },

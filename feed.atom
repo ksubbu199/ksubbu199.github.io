@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-11-10T23:15:44.476Z</updated>
+    <updated>2024-11-11T01:17:00.036Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[IMG_0416]]></title>
+        <id>https://news.ycombinator.com/item?id=42102506</id>
+        <link href="https://ben-mini.github.io/2024/img-0416"/>
+        <updated>2024-11-10T20:45:33.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://ben-mini.github.io/2024/img-0416
+Comments URL: https://news.ycombinator.com/item?id=42102506
+Points: 681
+# Comments: 101]]></summary>
+        <author>
+            <name>bewal416</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[OpenCoder: Open Cookbook for Top-Tier Code Large Language Models]]></title>
         <id>https://news.ycombinator.com/item?id=42095580</id>
@@ -1604,58 +1617,6 @@ Points: 528
 # Comments: 496]]></summary>
         <author>
             <name>mpweiher</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How I animate 3Blue1Brown [video]]]></title>
-        <id>https://news.ycombinator.com/item?id=41818779</id>
-        <link href="https://www.youtube.com/watch?v=rbu7Zu5X1zI"/>
-        <updated>2024-10-12T13:06:31.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.youtube.com/watch?v=rbu7Zu5X1zI
-Comments URL: https://news.ycombinator.com/item?id=41818779
-Points: 528
-# Comments: 83]]></summary>
-        <author>
-            <name>Tomte</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Turn your Android phone into a modern ham radio transceiver]]></title>
-        <id>https://news.ycombinator.com/item?id=41818609</id>
-        <link href="https://www.kv4p.com/"/>
-        <updated>2024-10-12T12:32:29.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.kv4p.com/
-Comments URL: https://news.ycombinator.com/item?id=41818609
-Points: 500
-# Comments: 185]]></summary>
-        <author>
-            <name>thcipriani</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[1 bug, $50k in bounties, a Zendesk backdoor]]></title>
-        <id>https://news.ycombinator.com/item?id=41818459</id>
-        <link href="https://gist.github.com/hackermondev/68ec8ed145fcee49d2f5e2b9d2cf2e52"/>
-        <updated>2024-10-12T11:55:12.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://gist.github.com/hackermondev/68ec8ed145fcee49d2f5e2b9d2cf2e52
-Comments URL: https://news.ycombinator.com/item?id=41818459
-Points: 580
-# Comments: 179]]></summary>
-        <author>
-            <name>mmsc</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Psilocybin bests SSRI for major depression in first long-term comparison]]></title>
-        <id>https://news.ycombinator.com/item?id=41818420</id>
-        <link href="https://www.medscape.com/viewarticle/psilocybin-bests-ssri-major-depression-first-long-term-2024a1000h77"/>
-        <updated>2024-10-12T11:46:44.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.medscape.com/viewarticle/psilocybin-bests-ssri-major-depression-first-long-term-2024a1000h77
-Comments URL: https://news.ycombinator.com/item?id=41818420
-Points: 501
-# Comments: 323]]></summary>
-        <author>
-            <name>Thomvis</name>
         </author>
     </entry>
 </feed>
