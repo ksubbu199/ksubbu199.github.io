@@ -96,6 +96,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://news.ycombinator.com/item?id=42082430",
+          "author": "chipweinberger",
+          "description": "Hey HN!\nA few years ago, I left my cushy big tech job to make hardware.\nAnd made the device I always wanted - an automatic piano recorder!\nI usually play piano improvisationally, and manually hitting record never meshed well with that. But there are always moments I wish I recorded, and now they are!\nHopefully it scratches a similar itch for some of you as well!\nA few of the tech details:\n* built on an esp32-s3\n* custom injection molded enclosure\n* BLE comms, sd card storage, DS1302 RTC \n* android & ios apps with Flutter \n* Shadertoy vfx support for video sharing\n- Chip\nComments URL: https://news.ycombinator.com/item?id=42082430\nPoints: 510\n# Comments: 160",
+          "link": "https://jamcorder.com/",
+          "publishedOn": "2024-11-07T23:41:39.000Z",
+          "wordCount": 2046,
+          "title": "Show HN: I made a tiny device for automatically recording digital pianos",
+          "imageUrl": null
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=42079460",
           "author": "JohnAtQNX",
           "description": "Hiya folks!\nI'm John from the Developer Relations team at QNX. I'm a loooong time lurker of this forum and excited to make my first post.\nI just wanted to let you know that we've kicked off a new program to start opening the doors to QNX like things used to be. Many of you probably used or tinkered with (the very open) QNX back in the day. You can now easily get a free non-commercial license to use the newest QNX. We've also just released some sample apps and a ready-to-go QNX 8.0 quick start target image for Raspberry Pi. So you can get QNX and the development tools for free now to learn, experiment, and build.\nIt's been a long time in the making, so I'm really excited to get to post about this first phase of the QNX Everywhere initiative. My team and management have open ears, so please share feedback about what more we can do to open things up, be more transparent, and get you what you need to create an awesome embedded QNX project.\nCheers!\nComments URL: https://news.ycombinator.com/item?id=42079460\nPoints: 505\n# Comments: 227",
