@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-11-13T14:15:29.590Z</updated>
+    <updated>2024-11-13T15:17:40.944Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[No GPS required: our app can now locate underground trains]]></title>
+        <id>https://news.ycombinator.com/item?id=42122085</id>
+        <link href="https://blog.transitapp.com/go-underground/"/>
+        <updated>2024-11-13T01:46:20.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://blog.transitapp.com/go-underground/
+Comments URL: https://news.ycombinator.com/item?id=42122085
+Points: 569
+# Comments: 188]]></summary>
+        <author>
+            <name>dotcoma</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[M4 Mac mini's efficiency]]></title>
         <id>https://news.ycombinator.com/item?id=42120311</id>
@@ -1606,19 +1619,6 @@ Points: 520
 # Comments: 92]]></summary>
         <author>
             <name>MrVandemar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[World conker champion found with steel chestnut, cleared of cheating]]></title>
-        <id>https://news.ycombinator.com/item?id=41844545</id>
-        <link href="https://www.theguardian.com/sport/2024/oct/14/cheating-alleged-after-mens-world-conker-champion-found-with-steel-chestnut"/>
-        <updated>2024-10-15T03:12:00.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.theguardian.com/sport/2024/oct/14/cheating-alleged-after-mens-world-conker-champion-found-with-steel-chestnut
-Comments URL: https://news.ycombinator.com/item?id=41844545
-Points: 401
-# Comments: 559]]></summary>
-        <author>
-            <name>notamy</name>
         </author>
     </entry>
 </feed>

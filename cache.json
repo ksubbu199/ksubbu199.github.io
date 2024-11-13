@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=42122085",
+          "author": "dotcoma",
+          "description": "Article URL: https://blog.transitapp.com/go-underground/\nComments URL: https://news.ycombinator.com/item?id=42122085\nPoints: 569\n# Comments: 188",
+          "link": "https://blog.transitapp.com/go-underground/",
+          "publishedOn": "2024-11-13T01:46:20.000Z",
+          "wordCount": 2609,
+          "title": "No GPS required: our app can now locate underground trains",
+          "imageUrl": "https://blog.transitapp.com/wp-content/uploads/2024/10/Go-station-counting-header-1.png"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=42120311",
           "author": "marinesebastian",
           "description": "Article URL: https://www.jeffgeerling.com/blog/2024/m4-mac-minis-efficiency-incredible\nComments URL: https://news.ycombinator.com/item?id=42120311\nPoints: 501\n# Comments: 494",
@@ -934,16 +944,6 @@
           "wordCount": 334,
           "title": "Web Browser Engineering",
           "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=41844545",
-          "author": "notamy",
-          "description": "Article URL: https://www.theguardian.com/sport/2024/oct/14/cheating-alleged-after-mens-world-conker-champion-found-with-steel-chestnut\nComments URL: https://news.ycombinator.com/item?id=41844545\nPoints: 401\n# Comments: 559",
-          "link": "https://www.theguardian.com/sport/2024/oct/14/cheating-alleged-after-mens-world-conker-champion-found-with-steel-chestnut",
-          "publishedOn": "2024-10-15T03:12:00.000Z",
-          "wordCount": 4331,
-          "title": "World conker champion found with steel chestnut, cleared of cheating",
-          "imageUrl": "https://i.guim.co.uk/img/media/d0094e8d41d270b9c21a2ddc65e8b8df032478f9/0_209_5565_3340/master/5565.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f7ad8b874cf4a94fb143dd7911def549"
         }
       ]
     },
