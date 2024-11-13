@@ -1033,6 +1033,16 @@
       "siteUrl": "https://martinfowler.com/feed.atom",
       "articles": [
         {
+          "id": "https://martinfowler.com/articles/2024-social-media.html",
+          "author": null,
+          "description": "With the recent uptick in tech activity on Bluesky, I've decided that\n       I will start posting there in addition to\n       my current locations.\nI've also put together my general thoughts on the state of social\n       media, and how I'm using it, now that it's two years since The Muskover. \nmore…",
+          "link": "https://martinfowler.com/articles/2024-social-media.html",
+          "publishedOn": "2024-11-13T17:33:00.000Z",
+          "wordCount": 1784,
+          "title": "Posting on Bluesky, and other thoughts on social media",
+          "imageUrl": "https://martinfowler.com/logo-sq.png"
+        },
+        {
           "id": "https://martinfowler.com/articles/strangler-fig-mobile-apps.html#Results",
           "author": null,
           "description": "Matthew Foster and John Mikel Amiel\n       Regida finish their account of how they incrementally modernized\n       a mobile application by looking at the results of their work. They\n       achieved a significant shortening of time to new value, and found that\n       changes in the new application could be prepared in about half the time\n       it took on the old codebase.\nmore…",
