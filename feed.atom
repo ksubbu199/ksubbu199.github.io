@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-11-14T14:15:51.682Z</updated>
+    <updated>2024-11-14T15:17:46.699Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Business Exposure to a 5 year old Vedant]]></title>
+        <id>https://www.youtube.com/watch?v=p_gZtzF2i9M</id>
+        <link href="https://www.youtube.com/watch?v=p_gZtzF2i9M"/>
+        <updated>2024-11-14T14:58:27.000Z</updated>
+        <author>
+            <name>Think School</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How did Manyavar become a 30,000 crore company? : Indian Business Podcast Ep 19]]></title>
         <id>https://www.youtube.com/watch?v=-tbJl3rrN78</id>
@@ -1565,19 +1574,6 @@ Points: 609
 # Comments: 295]]></summary>
         <author>
             <name>pseudolus</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Reflections on Palantir]]></title>
-        <id>https://news.ycombinator.com/item?id=41855006</id>
-        <link href="https://nabeelqu.substack.com/p/reflections-on-palantir"/>
-        <updated>2024-10-16T02:18:29.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://nabeelqu.substack.com/p/reflections-on-palantir
-Comments URL: https://news.ycombinator.com/item?id=41855006
-Points: 474
-# Comments: 568]]></summary>
-        <author>
-            <name>freditup</name>
         </author>
     </entry>
 </feed>
