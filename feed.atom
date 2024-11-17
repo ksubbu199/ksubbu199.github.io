@@ -2,10 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-11-17T04:20:06.267Z</updated>
+    <updated>2024-11-17T05:16:52.751Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Show HN: I built a(nother) house optimized for LAN parties]]></title>
+        <id>https://news.ycombinator.com/item?id=42156977</id>
+        <link href="https://lanparty.house/"/>
+        <updated>2024-11-16T15:52:39.000Z</updated>
+        <summary type="html"><![CDATA[I wasn't quite sure if this qualified as "Show HN" given you can't really download it and try it out. However, dang said[0]:
+> If it's hardware or something that's not so easy to try out over the internet, find a different way to show how it actually works—a video, for example, or a detailed post with photos.
+Hopefully I did that?
+Additionally, I've put code and a detailed guide for the netboot computer management setup on GitHub:
+https://github.com/kentonv/lanparty
+Anyway, if this shouldn't have been Show HN, I apologize!
+[0] https://news.ycombinator.com/item?id=22336638
+Comments URL: https://news.ycombinator.com/item?id=42156977
+Points: 503
+# Comments: 204]]></summary>
+        <author>
+            <name>kentonv</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Why is Maharashtra going Bankrupt? | Maharashtra Election 2024]]></title>
         <id>https://www.youtube.com/watch?v=D_wV_gASkqk</id>
@@ -1628,19 +1647,6 @@ Points: 511
         <updated>2024-10-19T13:07:32.000Z</updated>
         <author>
             <name>Think School</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The feds are coming for John Deere over the right to repair]]></title>
-        <id>https://news.ycombinator.com/item?id=41880981</id>
-        <link href="https://gizmodo.com/the-feds-are-coming-for-john-deere-over-the-right-to-repair-2000513521"/>
-        <updated>2024-10-18T16:32:13.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://gizmodo.com/the-feds-are-coming-for-john-deere-over-the-right-to-repair-2000513521
-Comments URL: https://news.ycombinator.com/item?id=41880981
-Points: 500
-# Comments: 208]]></summary>
-        <author>
-            <name>rntn</name>
         </author>
     </entry>
 </feed>

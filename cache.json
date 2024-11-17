@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=42156977",
+          "author": "kentonv",
+          "description": "I wasn't quite sure if this qualified as \"Show HN\" given you can't really download it and try it out. However, dang said[0]:\n> If it's hardware or something that's not so easy to try out over the internet, find a different way to show how it actually works—a video, for example, or a detailed post with photos.\nHopefully I did that?\nAdditionally, I've put code and a detailed guide for the netboot computer management setup on GitHub:\nhttps://github.com/kentonv/lanparty\nAnyway, if this shouldn't have been Show HN, I apologize!\n[0] https://news.ycombinator.com/item?id=22336638\nComments URL: https://news.ycombinator.com/item?id=42156977\nPoints: 503\n# Comments: 204",
+          "link": "https://lanparty.house/",
+          "publishedOn": "2024-11-16T15:52:39.000Z",
+          "wordCount": 4329,
+          "title": "Show HN: I built a(nother) house optimized for LAN parties",
+          "imageUrl": "https://lanparty.house/images/og-image.jpg"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=42153953",
           "author": "storf45",
           "description": "Article URL: https://www.sportingnews.com/us/boxing/news/netflix-buffering-livestream-issues-boxing-jake-paul-mike-tyson/327ee972d4b14d90cc370461\nComments URL: https://news.ycombinator.com/item?id=42153953\nPoints: 401\n# Comments: 740",
@@ -904,16 +914,6 @@
           "wordCount": 637,
           "title": "Show HN: HN Update – Hourly news broadcast of top HN stories",
           "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=41880981",
-          "author": "rntn",
-          "description": "Article URL: https://gizmodo.com/the-feds-are-coming-for-john-deere-over-the-right-to-repair-2000513521\nComments URL: https://news.ycombinator.com/item?id=41880981\nPoints: 500\n# Comments: 208",
-          "link": "https://gizmodo.com/the-feds-are-coming-for-john-deere-over-the-right-to-repair-2000513521",
-          "publishedOn": "2024-10-18T16:32:13.000Z",
-          "wordCount": 4058,
-          "title": "The feds are coming for John Deere over the right to repair",
-          "imageUrl": "https://gizmodo.com/app/uploads/2024/10/JohnDeereTractor.jpg"
         }
       ]
     },
