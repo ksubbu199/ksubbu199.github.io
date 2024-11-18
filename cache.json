@@ -997,6 +997,16 @@
       "siteUrl": "http://jvns.ca/atom.xml",
       "articles": [
         {
+          "id": "https://jvns.ca/blog/2024/11/18/how-to-import-a-javascript-library/",
+          "author": null,
+          "description": "I like writing Javascript without a build system\nand for the millionth time yesterday I ran into a problem where I needed to\nfigure out how to import a Javascript library in my code without using a build\nsystem, and it took FOREVER to figure out how to import it because the\nlibrary’s setup instructions assume that you’re using a build system.\nLuckily at this point I’ve mostly learned how to navigate this situation and\neither successfully use the library or decide it’s too difficult and switch to\na different library, so here’s the guide I wish I had to importing Javascript\nlibraries years ago.\nI’m only going to talk about using Javacript libraries on the frontend, and\nonly about how to use them in a no-build-system setup.\nIn this post I’m going to talk about:\nthe three main types of Javascr…",
+          "link": "https://jvns.ca/blog/2024/11/18/how-to-import-a-javascript-library/",
+          "publishedOn": "2024-11-18T09:35:42.000Z",
+          "wordCount": 2363,
+          "title": "Importing a frontend Javascript library without a build system",
+          "imageUrl": null
+        },
+        {
           "id": "https://jvns.ca/blog/2024/11/09/new-microblog/",
           "author": null,
           "description": "I added a new section to this site a couple weeks ago called\nTIL (“today I learned”).\nthe goal: save interesting tools & facts I posted on social media\nOne kind of thing I like to post on Mastodon/Bluesky is “hey, here’s a cool\nthing”, like the great SQLite repl litecli, or\nthe fact that cross compiling in Go Just Works and it’s amazing, or\ncryptographic right answers,\nor this great diff tool. Usually I don’t want to write\na whole blog post about those things because I really don’t have much more to\nsay than “hey this is useful!”\nIt started to bother me that I didn’t have anywhere to put those things: for\nexample recently I wanted to use diffdiff and I just\ncould not remember what it was called.\nthe solution: make a new section of this blog\nSo I quickly made a new folder called /til/, adde…",
