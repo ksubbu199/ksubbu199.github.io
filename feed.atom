@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-11-21T23:16:52.136Z</updated>
+    <updated>2024-11-22T01:20:50.074Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -91,6 +91,19 @@ Points: 479
 # Comments: 596]]></summary>
         <author>
             <name>perihelions</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Let's Encrypt is 10 years old now]]></title>
+        <id>https://news.ycombinator.com/item?id=42191228</id>
+        <link href="https://letsencrypt.org/2014/11/18/announcing-lets-encrypt/"/>
+        <updated>2024-11-20T06:13:40.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://letsencrypt.org/2014/11/18/announcing-lets-encrypt/
+Comments URL: https://news.ycombinator.com/item?id=42191228
+Points: 501
+# Comments: 185]]></summary>
+        <author>
+            <name>gslin</name>
         </author>
     </entry>
     <entry>
