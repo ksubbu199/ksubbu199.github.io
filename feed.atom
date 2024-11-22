@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-11-22T11:14:42.147Z</updated>
+    <updated>2024-11-22T12:34:19.121Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -1816,19 +1816,6 @@ Points: 526
 # Comments: 207]]></summary>
         <author>
             <name>orliesaurus</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: RF Hunter – Find hidden cameras and other devices]]></title>
-        <id>https://news.ycombinator.com/item?id=41930628</id>
-        <link href="https://github.com/RamboRogers/rfhunter"/>
-        <updated>2024-10-24T00:21:36.000Z</updated>
-        <summary type="html"><![CDATA[This project is an RF Signal Scanner built using an ESP32, AD8317 RF detector, and various other components. It's designed to detect and measure RF signals in the environment and display the signal strength on an OLED display. It's useful to find hidden cameras, wiretapping devices, and other RF-enabled devices.
-Comments URL: https://news.ycombinator.com/item?id=41930628
-Points: 593
-# Comments: 175]]></summary>
-        <author>
-            <name>RamboRogers</name>
         </author>
     </entry>
 </feed>
