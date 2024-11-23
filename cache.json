@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=42215126",
+          "author": "swyx",
+          "description": "Article URL: https://www.cnbc.com/2024/11/22/amazon-to-invest-another-4-billion-in-anthropic-openais-biggest-rival.html\nComments URL: https://news.ycombinator.com/item?id=42215126\nPoints: 510\n# Comments: 286",
+          "link": "https://www.cnbc.com/2024/11/22/amazon-to-invest-another-4-billion-in-anthropic-openais-biggest-rival.html",
+          "publishedOn": "2024-11-22T16:25:17.000Z",
+          "wordCount": 28871,
+          "title": "Amazon to invest another $4B in Anthropic",
+          "imageUrl": "https://image.cnbcfm.com/api/v1/image/108066948-1732286555480-108066948-1732286380649-gettyimages-2147920473-AA_19042024_1633891.jpg?v=1732286576&w=1920&h=1080"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=42208383",
           "author": "PaulPauls",
           "description": "I spent a lot of time and money on this rather big side project of mine that attempts to replicate the mechanistic interpretability research on proprietary LLMs that was quite popular this year and produced great research papers by Anthropic [1], OpenAI [2] and Deepmind [3].\nI am quite proud of this project and since I consider myself the target audience for HackerNews did I think that maybe some of you would appreciate this open research replication as well. Happy to answer any questions or face any feedback.\nCheers\n[1] https://transformer-circuits.pub/2024/scaling-monosemanticit...\n[2] https://arxiv.org/abs/2406.04093\n[3] https://arxiv.org/abs/2408.05147\nComments URL: https://news.ycombinator.com/item?id=42208383\nPoints: 507\n# Comments: 73",
