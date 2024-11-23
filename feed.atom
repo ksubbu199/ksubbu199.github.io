@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-11-23T08:20:11.067Z</updated>
+    <updated>2024-11-23T09:16:15.802Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -35,6 +35,25 @@ Points: 510
         <updated>2024-11-22T10:34:31.000Z</updated>
         <author>
             <name>Think School</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: A Marble Madness-inspired WebGL game we built for Netlify]]></title>
+        <id>https://news.ycombinator.com/item?id=42212644</id>
+        <link href="https://5-million-devs.netlify.com/"/>
+        <updated>2024-11-22T10:31:56.000Z</updated>
+        <summary type="html"><![CDATA[Hello HN! We’re a small creative studio specializing in real-time 3D experiences. Netlify approached us to design and build an interactive experience to celebrate reaching 5 million developers.
+Inspired by the classic game Marble Madness, we created a gamified experience where users control a ball through playful, interactive levels. The goal was to blend marketing content with the look and feel of a game to engage users.
+The app is built with Three.js [1], using our custom render pipeline and shaders, and uses Rapier for physics simulation [2]. The 2D content is overlaid on the WebGL view using CSS 3D transforms for a seamless integration with the 3D view.
+We’d love for you to try it out and share your thoughts!
+[1] https://threejs.org
+[2] https://rapier.rs
+EDIT: More info on this project here: https://www.littleworkshop.fr/projects/5milliondevs/
+Comments URL: https://news.ycombinator.com/item?id=42212644
+Points: 502
+# Comments: 192]]></summary>
+        <author>
+            <name>franck</name>
         </author>
     </entry>
     <entry>
