@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-11-23T10:16:10.650Z</updated>
+    <updated>2024-11-23T11:12:47.179Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -1804,19 +1804,6 @@ Points: 563
         <updated>2024-10-25T12:05:01.000Z</updated>
         <author>
             <name>Think School</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bitwarden SDK relicensed from proprietary to GPLv3]]></title>
-        <id>https://news.ycombinator.com/item?id=41940580</id>
-        <link href="https://github.com/bitwarden/sdk-internal/commit/db648d7ea85878e9cce03283694d01d878481f6b"/>
-        <updated>2024-10-24T22:41:03.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://github.com/bitwarden/sdk-internal/commit/db648d7ea85878e9cce03283694d01d878481f6b
-Comments URL: https://news.ycombinator.com/item?id=41940580
-Points: 1003
-# Comments: 364]]></summary>
-        <author>
-            <name>ferbivore</name>
         </author>
     </entry>
 </feed>
