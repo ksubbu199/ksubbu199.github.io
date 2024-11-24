@@ -46,6 +46,16 @@
           "imageUrl": "https://opengraph.githubassets.com/9660952a0a9d79e577239505028f6ac31a9b2e2dc4fdbb181c734696f157e2c5/PaulPauls/llama3_interpretability_sae"
         },
         {
+          "id": "https://news.ycombinator.com/item?id=42206817",
+          "author": "dmazin",
+          "description": "Article URL: https://dynomight.net/more-chess/\nComments URL: https://news.ycombinator.com/item?id=42206817\nPoints: 500\n# Comments: 446",
+          "link": "https://dynomight.net/more-chess/",
+          "publishedOn": "2024-11-21T17:55:06.000Z",
+          "wordCount": 5110,
+          "title": "OK, I can partly explain the LLM chess weirdness now",
+          "imageUrl": "https://dynomight.net/img/more-chess/chess2.jpg"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=42206556",
           "author": "todsacerdoti",
           "description": "Article URL: https://grayduck.mn/2024/11/21/handling-cookies-is-a-minefield/\nComments URL: https://news.ycombinator.com/item?id=42206556\nPoints: 501\n# Comments: 231",
@@ -984,26 +994,6 @@
           "wordCount": 29231,
           "title": "Jeff Bezos killed Washington Post endorsement of Kamala Harris",
           "imageUrl": "https://image.cnbcfm.com/api/v1/image/106944637-1632178358304-gettyimages-1341554748-img_3875_2021092061521093.jpeg?v=1729889891&w=1920&h=1080"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=41949098",
-          "author": "LorenDB",
-          "description": "Article URL: https://www.ifixit.com/News/102368/victory-is-sweet-we-can-now-fix-mcdonalds-ice-cream-machines\nComments URL: https://news.ycombinator.com/item?id=41949098\nPoints: 1100\n# Comments: 303",
-          "link": "https://www.ifixit.com/News/102368/victory-is-sweet-we-can-now-fix-mcdonalds-ice-cream-machines",
-          "publishedOn": "2024-10-25T20:02:36.000Z",
-          "wordCount": 6887,
-          "title": "We can now fix McDonald's ice cream machines",
-          "imageUrl": "https://valkyrie.cdn.ifixit.com/media/2023/08/28192421/shahram_icecream_3x2.jpg"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=41948666",
-          "author": "jakey_bakey",
-          "description": "Article URL: https://www.theguardian.com/uk-news/2020/nov/06/companies-house-forces-business-name-change-to-prevent-security-risk\nComments URL: https://news.ycombinator.com/item?id=41948666\nPoints: 563\n# Comments: 248",
-          "link": "https://www.theguardian.com/uk-news/2020/nov/06/companies-house-forces-business-name-change-to-prevent-security-risk",
-          "publishedOn": "2024-10-25T19:20:21.000Z",
-          "wordCount": 4305,
-          "title": "Company named \"><SCRIPT SRC=HTTPS://MJT.XSS.HT> LTD\" forced to change it (2020)",
-          "imageUrl": "https://i.guim.co.uk/img/media/2abe5a9bee5769168843fc873d39aa2696a7cc0d/0_139_4467_2681/master/4467.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctYWdlLTIwMjAucG5n&enable=upscale&s=acc1e1c543502e1dc256e525ad8e5e9c"
         }
       ]
     },

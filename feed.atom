@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-11-24T07:15:17.781Z</updated>
+    <updated>2024-11-24T08:20:02.614Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -103,6 +103,19 @@ Points: 507
 # Comments: 73]]></summary>
         <author>
             <name>PaulPauls</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OK, I can partly explain the LLM chess weirdness now]]></title>
+        <id>https://news.ycombinator.com/item?id=42206817</id>
+        <link href="https://dynomight.net/more-chess/"/>
+        <updated>2024-11-21T17:55:06.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://dynomight.net/more-chess/
+Comments URL: https://news.ycombinator.com/item?id=42206817
+Points: 500
+# Comments: 446]]></summary>
+        <author>
+            <name>dmazin</name>
         </author>
     </entry>
     <entry>
@@ -1791,32 +1804,6 @@ Points: 638
 # Comments: 748]]></summary>
         <author>
             <name>donsupreme</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[We can now fix McDonald's ice cream machines]]></title>
-        <id>https://news.ycombinator.com/item?id=41949098</id>
-        <link href="https://www.ifixit.com/News/102368/victory-is-sweet-we-can-now-fix-mcdonalds-ice-cream-machines"/>
-        <updated>2024-10-25T20:02:36.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.ifixit.com/News/102368/victory-is-sweet-we-can-now-fix-mcdonalds-ice-cream-machines
-Comments URL: https://news.ycombinator.com/item?id=41949098
-Points: 1100
-# Comments: 303]]></summary>
-        <author>
-            <name>LorenDB</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Company named "><SCRIPT SRC=HTTPS://MJT.XSS.HT> LTD" forced to change it (2020)]]></title>
-        <id>https://news.ycombinator.com/item?id=41948666</id>
-        <link href="https://www.theguardian.com/uk-news/2020/nov/06/companies-house-forces-business-name-change-to-prevent-security-risk"/>
-        <updated>2024-10-25T19:20:21.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.theguardian.com/uk-news/2020/nov/06/companies-house-forces-business-name-change-to-prevent-security-risk
-Comments URL: https://news.ycombinator.com/item?id=41948666
-Points: 563
-# Comments: 248]]></summary>
-        <author>
-            <name>jakey_bakey</name>
         </author>
     </entry>
 </feed>
