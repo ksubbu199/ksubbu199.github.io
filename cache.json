@@ -1075,16 +1075,6 @@
           "wordCount": 2163,
           "title": "ASCII control characters in my terminal",
           "imageUrl": null
-        },
-        {
-          "id": "https://jvns.ca/blog/2024/10/27/asn-ip-address-memory/",
-          "author": null,
-          "description": "I’ve been having problems for the last 3 years or so where Mess With DNS\nperiodically runs out of memory and gets OOM killed.\nThis hasn’t been a big priority for me: usually it just goes down for a few\nminutes while it restarts, and it only happens once a day at most, so I’ve just\nbeen ignoring. But last week it started actually causing a problem so I decided\nto look into it.\nThis was kind of winding road where I learned a lot so here’s a table of contents:\nthere’s about 100MB of memory available\nthe problem: OOM killing the backup script\nattempt 1: use SQLite\n\nproblem: how to store IPv6 addresses\nproblem: it’s 500x slower\ntime for EXPLAIN QUERY PLAN\nattempt 2: use a trie\n\nsome notes on memory profiling\nattempt 3: make my array use less memory\n\nidea 3.1: deduplicate the Name and Country\nho…",
-          "link": "https://jvns.ca/blog/2024/10/27/asn-ip-address-memory/",
-          "publishedOn": "2024-10-27T07:47:04.000Z",
-          "wordCount": 2522,
-          "title": "Using less memory to look up IP addresses in Mess With DNS",
-          "imageUrl": null
         }
       ]
     },

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-11-25T19:13:56.443Z</updated>
+    <updated>2024-11-25T20:19:24.511Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -1796,36 +1796,6 @@ Points: 233
 # Comments: 660]]></summary>
         <author>
             <name>david927</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Using less memory to look up IP addresses in Mess With DNS]]></title>
-        <id>https://jvns.ca/blog/2024/10/27/asn-ip-address-memory/</id>
-        <link href="https://jvns.ca/blog/2024/10/27/asn-ip-address-memory/"/>
-        <updated>2024-10-27T07:47:04.000Z</updated>
-        <summary type="html"><![CDATA[I’ve been having problems for the last 3 years or so where Mess With DNS
-periodically runs out of memory and gets OOM killed.
-This hasn’t been a big priority for me: usually it just goes down for a few
-minutes while it restarts, and it only happens once a day at most, so I’ve just
-been ignoring. But last week it started actually causing a problem so I decided
-to look into it.
-This was kind of winding road where I learned a lot so here’s a table of contents:
-there’s about 100MB of memory available
-the problem: OOM killing the backup script
-attempt 1: use SQLite
-
-problem: how to store IPv6 addresses
-problem: it’s 500x slower
-time for EXPLAIN QUERY PLAN
-attempt 2: use a trie
-
-some notes on memory profiling
-attempt 3: make my array use less memory
-
-idea 3.1: deduplicate the Name and Country
-ho…]]></summary>
-        <author>
-            <name>Julia Evans</name>
         </author>
     </entry>
 </feed>
