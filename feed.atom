@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-11-25T10:19:22.873Z</updated>
+    <updated>2024-11-25T11:14:41.486Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -17,6 +17,19 @@ Points: 546
 # Comments: 126]]></summary>
         <author>
             <name>zkldi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[This website is hosted on Bluesky]]></title>
+        <id>https://news.ycombinator.com/item?id=42230392</id>
+        <link href="https://danielmangum.com/posts/this-website-is-hosted-on-bluesky/"/>
+        <updated>2024-11-24T20:43:33.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://danielmangum.com/posts/this-website-is-hosted-on-bluesky/
+Comments URL: https://news.ycombinator.com/item?id=42230392
+Points: 504
+# Comments: 88]]></summary>
+        <author>
+            <name>hasheddan</name>
         </author>
     </entry>
     <entry>
