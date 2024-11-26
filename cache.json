@@ -1175,7 +1175,18 @@
       "title": "The Pragmatic Engineer",
       "feedUrl": "https://blog.pragmaticengineer.com/rss/",
       "siteUrl": "https://blog.pragmaticengineer.com/",
-      "articles": []
+      "articles": [
+        {
+          "id": "6745fe61bb09ed00018ab2d7",
+          "author": "Gergely Orosz",
+          "description": "oftware engineers shared their favorite IDEs on social media, and the most-mentioned one by a comfortable margin was Cursor. WindSurf and Zed also seem to be getting traction at the expense of Visual Studio, and JetBrains.",
+          "link": "https://blog.pragmaticengineer.com/ide-that-software-engineers-love/",
+          "publishedOn": "2024-11-26T17:23:16.000Z",
+          "wordCount": 3750,
+          "title": "Which IDEs do software engineers love, and why?",
+          "imageUrl": "https://blog.pragmaticengineer.com/content/images/size/w1200/2024/11/Screenshot-2024-11-26-at-17.49.12.png"
+        }
+      ]
     },
     {
       "title": "Think School",
