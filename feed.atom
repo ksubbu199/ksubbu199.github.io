@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-11-26T10:19:00.545Z</updated>
+    <updated>2024-11-26T11:14:35.156Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -39,6 +39,19 @@ Points: 546
 # Comments: 126]]></summary>
         <author>
             <name>zkldi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SQLiteStudio: Create, edit, browse SQLite databases]]></title>
+        <id>https://news.ycombinator.com/item?id=42232000</id>
+        <link href="https://sqlitestudio.pl/"/>
+        <updated>2024-11-25T00:36:46.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://sqlitestudio.pl/
+Comments URL: https://news.ycombinator.com/item?id=42232000
+Points: 504
+# Comments: 98]]></summary>
+        <author>
+            <name>thunderbong</name>
         </author>
     </entry>
     <entry>
