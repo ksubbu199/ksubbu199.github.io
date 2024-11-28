@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-11-28T01:21:51.437Z</updated>
+    <updated>2024-11-28T02:58:54.729Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -1767,22 +1767,6 @@ Points: 453
 # Comments: 699]]></summary>
         <author>
             <name>victorbjorklund</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Using the Strangler Fig with Mobile Apps]]></title>
-        <id>https://martinfowler.com/articles/strangler-fig-mobile-apps.html</id>
-        <link href="https://martinfowler.com/articles/strangler-fig-mobile-apps.html"/>
-        <updated>2024-10-29T14:34:00.000Z</updated>
-        <summary type="html"><![CDATA[My colleagues are often involved in modernizing legacy systems, and
-       our approach is to do this in an incremental fashion. Doing this with a
-       mobile application raises some specific challenges. Matthew
-       Foster and John Mikel Amiel Regida share their
-       experiences of a recent engagement to do this, shifting from a monolithic
-       legacy application to one using a modular micro-app architecture. 
-more…]]></summary>
-        <author>
-            <name>Martin Fowler</name>
         </author>
     </entry>
 </feed>
