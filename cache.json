@@ -997,6 +997,16 @@
       "siteUrl": "http://jvns.ca/atom.xml",
       "articles": [
         {
+          "id": "https://jvns.ca/blog/2024/11/29/why-pipes-get-stuck-buffering/",
+          "author": null,
+          "description": "Here’s a niche terminal problem that has bothered me for years but that I never\nreally understood until a few weeks ago. Let’s say you’re running this command\nto watch for some specific output in a log file:\ntail -f /some/log/file | grep thing1 | grep thing2\n\nIf log lines are being added to the file relatively slowly, the result I’d see\nis… nothing! It doesn’t matter if there were matches in the log file or not,\nthere just wouldn’t be any output.\nI internalized this as “uh, I guess pipes just get stuck sometimes and don’t\nshow me the output, that’s weird”, and I’d handle it by just\nrunning grep thing1 /some/log/file | grep thing2 instead, which would work.\nSo as I’ve been doing a terminal deep dive over the last few months I was\nreally excited to finally learn exactly why this happens.\nwhy…",
+          "link": "https://jvns.ca/blog/2024/11/29/why-pipes-get-stuck-buffering/",
+          "publishedOn": "2024-11-29T08:23:31.000Z",
+          "wordCount": 1978,
+          "title": "Why pipes sometimes get \"stuck\": buffering",
+          "imageUrl": null
+        },
+        {
           "id": "https://jvns.ca/blog/2024/11/18/how-to-import-a-javascript-library/",
           "author": null,
           "description": "I like writing Javascript without a build system\nand for the millionth time yesterday I ran into a problem where I needed to\nfigure out how to import a Javascript library in my code without using a build\nsystem, and it took FOREVER to figure out how to import it because the\nlibrary’s setup instructions assume that you’re using a build system.\nLuckily at this point I’ve mostly learned how to navigate this situation and\neither successfully use the library or decide it’s too difficult and switch to\na different library, so here’s the guide I wish I had to importing Javascript\nlibraries years ago.\nI’m only going to talk about using Javacript libraries on the frontend, and\nonly about how to use them in a no-build-system setup.\nIn this post I’m going to talk about:\nthe three main types of Javascr…",

@@ -91,6 +91,52 @@
                 </section>
               </section>
             </li>
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >Julia Evans</button>
+                  <a class="source-heading__link" href="http://jvns.ca/atom.xml">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://jvns.ca/blog/2024/11/29/why-pipes-get-stuck-buffering/"
+                        open
+                      >
+                        <summary class="article-expander__title">Why pipes sometimes get &quot;stuck&quot;: buffering</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://jvns.ca/blog/2024/11/29/why-pipes-get-stuck-buffering/">
+                          <div class="article-summary-box-inner media-object">
+                            <span class="media-object__text">
+                              <span>Here’s a niche terminal problem that has bothered me for years but that I never
+really understood until a few weeks ago. Let’s say you’re running this command
+to watch for some specific output in a log file:
+tail -f /some/log/file | grep thing1 | grep thing2
+
+If log lines are being added to the file relatively slowly, the result I’d see
+is… nothing! It doesn’t matter if there were matches in the log file or not,
+there just wouldn’t be any output.
+I internalized this as “uh, I guess pipes just get stuck sometimes and don’t
+show me the output, that’s weird”, and I’d handle it by just
+running grep thing1 /some/log/file | grep thing2 instead, which would work.
+So as I’ve been doing a terminal deep dive over the last few months I was
+really excited to finally learn exactly why this happens.
+why…</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;7
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
         </ul>
       </section>
       <section class="daily-content js-toggle-accordions-scope">
@@ -3964,8 +4010,8 @@ e…</span>
       </section>
 
     <footer>
-      <a class="footer-link" href="https://github.com/ksubbu199/ksubbu199.github.io/actions/runs/12087948487">
-        <time id="build-timestamp" datetime="2024-11-29T16:21:49.997Z">2024-11-29T16:21:49.997Z</time>
+      <a class="footer-link" href="https://github.com/ksubbu199/ksubbu199.github.io/actions/runs/12088542576">
+        <time id="build-timestamp" datetime="2024-11-29T17:15:28.607Z">2024-11-29T17:15:28.607Z</time>
       </a>
       <a class="footer-link" href="https://github.com/osmoscraft/osmosfeed">osmosfeed 1.15.1</a>
     </footer>
