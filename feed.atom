@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-11-29T12:35:05.070Z</updated>
+    <updated>2024-11-29T13:26:26.193Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The Pragmatic Engineer in 2024]]></title>
+        <id>674989ebbb09ed00018ab3e6</id>
+        <link href="https://blog.pragmaticengineer.com/the-pragmatic-engineer-in-2024/"/>
+        <updated>2024-11-29T12:58:29.000Z</updated>
+        <summary type="html"><![CDATA[The last 12 months, The Pragmatic Engineer covered a variety of deepdives, revealing previously unshared details like what Stripe's engineering culture is like, The architecture evolution of Bluesky, How the ChatGPT scaled to meet demand, How Anthropic builds products, How and why hardware startup threaOxide built two new]]></summary>
+        <author>
+            <name>Gergely Orosz</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Send someone you appreciate an official 'Continue and Persist' Letter]]></title>
         <id>https://news.ycombinator.com/item?id=42268580</id>
