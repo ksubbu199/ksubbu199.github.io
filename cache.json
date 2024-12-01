@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=42276865",
+          "author": "hazebooth",
+          "description": "Article URL: https://www.nullpt.rs/breaking-the-4chan-captcha\nComments URL: https://news.ycombinator.com/item?id=42276865\nPoints: 501\n# Comments: 312",
+          "link": "https://www.nullpt.rs/breaking-the-4chan-captcha",
+          "publishedOn": "2024-11-29T20:32:22.000Z",
+          "wordCount": 6349,
+          "title": "Breaking the 4Chan CAPTCHA",
+          "imageUrl": null
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=42276620",
           "author": "Koenvh",
           "description": "Article URL: https://blog.koenvh.nl/what-does-this-button-do-cm42u2oi7000a09l42f54g2pr\nComments URL: https://news.ycombinator.com/item?id=42276620\nPoints: 516\n# Comments: 367",
@@ -914,26 +924,6 @@
           "wordCount": 448,
           "title": "Apple acquires Pixelmator",
           "imageUrl": "https://blog-cdn.pixelmator.com/2024-11-new-home/img_social.jpg"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=42017580",
-          "author": "whoishiring",
-          "description": "New: Please only post a job if you actually intend to fill a position\nand are committed to responding to everyone who applies.\n----\nPlease state the location and include REMOTE for remote work, REMOTE (US)\nor similar if the country is restricted, and ONSITE when remote work is not an option.\nPlease only post if you personally are part of the hiring company—no\nrecruiting firms or job boards. One post per company. If it isn't a household name,\nexplain what your company does.\nCommenters: please don't reply to job posts to complain about\nsomething. It's off topic here.\nReaders: please only email if you are personally interested in the job.\nSearchers: try http://nchelluri.github.io/hnjobs/, https://hnresumetojobs.com,\nhttps://hnhired.fly.dev, https://kennytilton.github.io/whoishiring/, https://hnjobs.emilburzo.com.\nDon't miss these other fine threads:\nWho wants to be hired? https://news.ycombinator.com/item?id=42017578\nFreelancer? Seeking freelancer? https://news.ycombinator.com/item?id=42017579\nComments URL: https://news.ycombinator.com/item?id=42017580\nPoints: 379\n# Comments: 500",
-          "link": "https://news.ycombinator.com/item?id=42017580",
-          "publishedOn": "2024-11-01T15:01:57.000Z",
-          "wordCount": 54887,
-          "title": "Ask HN: Who is hiring? (November 2024)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=42016931",
-          "author": "retskrad",
-          "description": "Article URL: https://twitter.com/LeakerApple/status/1852280766471999661\nComments URL: https://news.ycombinator.com/item?id=42016931\nPoints: 357\n# Comments: 522",
-          "link": "https://twitter.com/LeakerApple/status/1852280766471999661",
-          "publishedOn": "2024-11-01T13:53:32.000Z",
-          "wordCount": 6,
-          "title": "Apple's M4 Max chip is the fastest single-core performer in consumer computing",
-          "imageUrl": null
         }
       ]
     },
@@ -1318,16 +1308,6 @@
           "publishedOn": "2024-11-08T15:15:03.000Z",
           "wordCount": null,
           "title": "Spin an HTTP/3 Reverse Proxy (using mitmproxy)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=OoXN1wY2LrI",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=OoXN1wY2LrI",
-          "publishedOn": "2024-11-01T14:15:01.000Z",
-          "wordCount": null,
-          "title": "Six stages of a good software engineer",
           "imageUrl": null
         }
       ]

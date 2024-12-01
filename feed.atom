@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-12-01T01:41:47.565Z</updated>
+    <updated>2024-12-01T03:14:08.690Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -13,6 +13,19 @@
         <updated>2024-11-30T12:20:40.000Z</updated>
         <author>
             <name>Think School</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Breaking the 4Chan CAPTCHA]]></title>
+        <id>https://news.ycombinator.com/item?id=42276865</id>
+        <link href="https://www.nullpt.rs/breaking-the-4chan-captcha"/>
+        <updated>2024-11-29T20:32:22.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.nullpt.rs/breaking-the-4chan-captcha
+Comments URL: https://news.ycombinator.com/item?id=42276865
+Points: 501
+# Comments: 312]]></summary>
+        <author>
+            <name>hazebooth</name>
         </author>
     </entry>
     <entry>
@@ -1589,56 +1602,6 @@ Points: 598
 # Comments: 330]]></summary>
         <author>
             <name>dm</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ask HN: Who is hiring? (November 2024)]]></title>
-        <id>https://news.ycombinator.com/item?id=42017580</id>
-        <link href="https://news.ycombinator.com/item?id=42017580"/>
-        <updated>2024-11-01T15:01:57.000Z</updated>
-        <summary type="html"><![CDATA[New: Please only post a job if you actually intend to fill a position
-and are committed to responding to everyone who applies.
-----
-Please state the location and include REMOTE for remote work, REMOTE (US)
-or similar if the country is restricted, and ONSITE when remote work is not an option.
-Please only post if you personally are part of the hiring company—no
-recruiting firms or job boards. One post per company. If it isn't a household name,
-explain what your company does.
-Commenters: please don't reply to job posts to complain about
-something. It's off topic here.
-Readers: please only email if you are personally interested in the job.
-Searchers: try http://nchelluri.github.io/hnjobs/, https://hnresumetojobs.com,
-https://hnhired.fly.dev, https://kennytilton.github.io/whoishiring/, https://hnjobs.emilburzo.com.
-Don't miss these other fine threads:
-Who wants to be hired? https://news.ycombinator.com/item?id=42017578
-Freelancer? Seeking freelancer? https://news.ycombinator.com/item?id=42017579
-Comments URL: https://news.ycombinator.com/item?id=42017580
-Points: 379
-# Comments: 500]]></summary>
-        <author>
-            <name>whoishiring</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Six stages of a good software engineer]]></title>
-        <id>https://www.youtube.com/watch?v=OoXN1wY2LrI</id>
-        <link href="https://www.youtube.com/watch?v=OoXN1wY2LrI"/>
-        <updated>2024-11-01T14:15:01.000Z</updated>
-        <author>
-            <name>Hussein Nasser</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Apple's M4 Max chip is the fastest single-core performer in consumer computing]]></title>
-        <id>https://news.ycombinator.com/item?id=42016931</id>
-        <link href="https://twitter.com/LeakerApple/status/1852280766471999661"/>
-        <updated>2024-11-01T13:53:32.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://twitter.com/LeakerApple/status/1852280766471999661
-Comments URL: https://news.ycombinator.com/item?id=42016931
-Points: 357
-# Comments: 522]]></summary>
-        <author>
-            <name>retskrad</name>
         </author>
     </entry>
 </feed>
