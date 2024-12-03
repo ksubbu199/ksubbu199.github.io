@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-12-03T21:16:48.376Z</updated>
+    <updated>2024-12-03T22:17:01.232Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -20,6 +20,19 @@
 more…]]></summary>
         <author>
             <name>Martin Fowler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[South Korean president declares martial law, parliament votes to lift it]]></title>
+        <id>https://news.ycombinator.com/item?id=42306020</id>
+        <link href="https://apnews.com/article/south-korea-yoon-martial-law-997c22ac93f6a9bece68454597e577c1"/>
+        <updated>2024-12-03T13:53:50.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://apnews.com/article/south-korea-yoon-martial-law-997c22ac93f6a9bece68454597e577c1
+Comments URL: https://news.ycombinator.com/item?id=42306020
+Points: 522
+# Comments: 551]]></summary>
+        <author>
+            <name>Inocez</name>
         </author>
     </entry>
     <entry>
@@ -111,6 +124,19 @@ Points: 502
         <updated>2024-11-30T12:20:40.000Z</updated>
         <author>
             <name>Think School</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[If not React, then what?]]></title>
+        <id>https://news.ycombinator.com/item?id=42279172</id>
+        <link href="https://infrequently.org/2024/11/if-not-react-then-what/"/>
+        <updated>2024-11-30T03:35:00.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://infrequently.org/2024/11/if-not-react-then-what/
+Comments URL: https://news.ycombinator.com/item?id=42279172
+Points: 361
+# Comments: 730]]></summary>
+        <author>
+            <name>pier25</name>
         </author>
     </entry>
     <entry>
@@ -222,6 +248,19 @@ Points: 501
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Hetzner cuts traffic on US VPSs, raises prices]]></title>
+        <id>https://news.ycombinator.com/item?id=42264427</id>
+        <link href="https://news.ycombinator.com/item?id=42264427"/>
+        <updated>2024-11-28T11:22:44.000Z</updated>
+        <summary type="html"><![CDATA[Just received by email:
+We are writing to inform you about important changes to the tariff structure of our Cloud servers (CCX and CPX lines) and our Load balancers at our US locations in Ashburn and Hillsboro.
+What will change?
+Starting on 1 December 2024, 01:00 am CET, we will begin charging new prices for newly-created Cloud servers and introduce new amounts for included traffic for Cloud Servers and Load balancers at the US locations in Ashburn (ASH) and Hillsboro (HIL). This also applies to existing Cloud servers and Load balancers that are switched to a different tariff using the “Rescale” function. For any existing Cloud servers and Load balancers you have at these locations, the new prices and the new amounts for included traffic will apply later, starting on 1 February 2025, 01:00…]]></summary>
+        <author>
+            <name>hyperknot</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Malware can turn off webcam LED and record video, demonstrated on ThinkPad X230]]></title>
         <id>https://news.ycombinator.com/item?id=42259278</id>
         <link href="https://github.com/xairy/lights-out"/>
@@ -268,6 +307,32 @@ Points: 500
         <summary type="html"><![CDATA[oftware engineers shared their favorite IDEs on social media, and the most-mentioned one by a comfortable margin was Cursor. WindSurf and Zed also seem to be getting traction at the expense of Visual Studio, and JetBrains.]]></summary>
         <author>
             <name>Gergely Orosz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[California's most neglected group of students: the gifted ones]]></title>
+        <id>https://news.ycombinator.com/item?id=42247334</id>
+        <link href="https://www.latimes.com/opinion/story/2024-11-18/special-education-schools-gifted"/>
+        <updated>2024-11-26T16:53:35.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.latimes.com/opinion/story/2024-11-18/special-education-schools-gifted
+Comments URL: https://news.ycombinator.com/item?id=42247334
+Points: 410
+# Comments: 525]]></summary>
+        <author>
+            <name>tafda</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lies we tell ourselves to keep using Golang (2022)]]></title>
+        <id>https://news.ycombinator.com/item?id=42243500</id>
+        <link href="https://fasterthanli.me/articles/lies-we-tell-ourselves-to-keep-using-golang"/>
+        <updated>2024-11-26T08:01:33.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://fasterthanli.me/articles/lies-we-tell-ourselves-to-keep-using-golang
+Comments URL: https://news.ycombinator.com/item?id=42243500
+Points: 342
+# Comments: 510]]></summary>
+        <author>
+            <name>reillyse</name>
         </author>
     </entry>
     <entry>
