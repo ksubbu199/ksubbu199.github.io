@@ -1014,6 +1014,16 @@
       "siteUrl": "https://martinfowler.com/feed.atom",
       "articles": [
         {
+          "id": "https://martinfowler.com/articles/designing-data-products.html",
+          "author": null,
+          "description": "Increasingly the industry is seeing the value of creating data\n       products as a core organizing principle for analytic data. Kiran\n       Prakash has helped many clients design their data products, and\n       shares what he's learned. In particular his methodical approach doesn't\n       begin by thinking about some data that might be handy to share, but\n       instead works from what consumers of a data product need.\nmore…",
+          "link": "https://martinfowler.com/articles/designing-data-products.html",
+          "publishedOn": "2024-12-03T14:04:00.000Z",
+          "wordCount": 2100,
+          "title": "Designing data products: Working backwards from use cases",
+          "imageUrl": "https://martinfowler.com/articles/designing-data-products/card.png"
+        },
+        {
           "id": "https://martinfowler.com/articles/exploring-gen-ai.html#memo-11",
           "author": null,
           "description": "A very powerful new coding assistance feature made its way into GitHub\n       Copilot at the end of October. This new “multi-file editing” capability\n       expands the scope of AI assistance from small, localized suggestions to\n       larger implementations across multiple files. Birgitta\n       Böckeler tries out this new capability and finds\n       out how useful its changes tend to be, and wonders about what feedback\n       loops are needed with them.\nmore…",
