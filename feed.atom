@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-12-04T07:18:34.984Z</updated>
+    <updated>2024-12-04T08:24:23.552Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[What Do Rich Farmers Know That Others Don’t?]]></title>
+        <id>https://www.youtube.com/watch?v=0SKhJiaY9hY</id>
+        <link href="https://www.youtube.com/watch?v=0SKhJiaY9hY"/>
+        <updated>2024-12-04T07:41:29.000Z</updated>
+        <author>
+            <name>Think School</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Farming Can Outperform Stock Investments?]]></title>
         <id>https://www.youtube.com/watch?v=dfPShrILZtM</id>
@@ -22,6 +31,26 @@
         <updated>2024-12-04T06:14:23.000Z</updated>
         <author>
             <name>Think School</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[My son (9 yrs old) used plain JavaScript to make a game, and wants your feedback]]></title>
+        <id>https://news.ycombinator.com/item?id=42312121</id>
+        <link href="https://www.armaansahni.com/game/"/>
+        <updated>2024-12-03T22:08:16.000Z</updated>
+        <summary type="html"><![CDATA[My 9 year old son has been learning to code.  He learned HTML & CSS over the last year or two.
+Recently, we had a breakthrough where he learned how to leverage Google Gemini as a learning tool (not to write code for him, but as a better search and as a coding teacher). This leveled him up big time and he decided to make his own game.
+Game link here: https://www.armaansahni.com/game/
+He's coded all the HTML, CSS & JS by hand in VSCode. He's made the animated graphics on his own using a web based sprite editor called Piskel.
+For the game, I provided hints along the way and Gemini has helped him with syntax.  View source to see the code. He's excited to share with the community.
+He also wrote a blog post about how he made this game: https://www.armaansahni.com/how-i-coded-a-game-using-ai/ (he independently figured out how to leverage Gemini effectively and writes about it here).
+Regarding the blog post - We had a discussion about who the target audience is (ie not 9 year olds!), what they would be interested in learning about and the general outline. He then dictated his words into the computer (which gets around spelling issues), and he went through multiple rounds of feedback from his parents (improving clarity, punctuation, etc).  In other words, its his words & thoughts but he had help along the way!
+NOTE: both parents are programmers, who provided valuable guidance through his coding journey.
+Comments URL: https://news.ycombinator.com/item?id=42312121
+Points: 508
+# Comments: 251]]></summary>
+        <author>
+            <name>veesahni</name>
         </author>
     </entry>
     <entry>
