@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-12-04T03:01:13.800Z</updated>
+    <updated>2024-12-04T04:21:21.811Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Intel announces Arc B-series "Battlemage" discrete graphics with Linux support]]></title>
+        <id>https://news.ycombinator.com/item?id=42308590</id>
+        <link href="https://www.phoronix.com/review/intel-arc-b580-battlemage#google_vignette"/>
+        <updated>2024-12-03T17:19:37.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.phoronix.com/review/intel-arc-b580-battlemage#google_vignette
+Comments URL: https://news.ycombinator.com/item?id=42308590
+Points: 351
+# Comments: 522]]></summary>
+        <author>
+            <name>rbanffy</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Designing data products: Working backwards from use cases]]></title>
         <id>https://martinfowler.com/articles/designing-data-products.html</id>
