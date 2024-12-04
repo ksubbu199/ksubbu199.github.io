@@ -1028,18 +1028,7 @@
       "title": "Boot.dev Blog",
       "feedUrl": "https://blog.boot.dev/index.xml",
       "siteUrl": "https://blog.boot.dev/",
-      "articles": [
-        {
-          "id": "https://blog.boot.dev/news/bootdev-beat-2024-11/",
-          "author": null,
-          "description": "Mortrunk has fallen. The community rallied in our Halloween boss fight spectacular. Well done. The Boots’ aura XP boost even hit 2x for a while there.",
-          "link": "https://blog.boot.dev/news/bootdev-beat-2024-11/",
-          "publishedOn": "2024-11-05T00:00:00.000Z",
-          "wordCount": 1088,
-          "title": "The Boot.dev Beat. November 2024",
-          "imageUrl": "https://blog.boot.dev/img/800/bootsthanksgiving.png.webp"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Julia Evans",
@@ -1173,6 +1162,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKZozRVHRYsYHGEyNKuhhdA",
       "siteUrl": "https://www.youtube.com/channel/UCKZozRVHRYsYHGEyNKuhhdA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=TnkTZlfxy7w",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=TnkTZlfxy7w",
+          "publishedOn": "2024-12-04T10:58:35.000Z",
+          "wordCount": null,
+          "title": "The Secret to Picking The Right Crop",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=80xoKI5cGuQ",
           "author": null,

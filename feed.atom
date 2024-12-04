@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-12-04T11:15:17.333Z</updated>
+    <updated>2024-12-04T12:35:59.243Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The Secret to Picking The Right Crop]]></title>
+        <id>https://www.youtube.com/watch?v=TnkTZlfxy7w</id>
+        <link href="https://www.youtube.com/watch?v=TnkTZlfxy7w"/>
+        <updated>2024-12-04T10:58:35.000Z</updated>
+        <author>
+            <name>Think School</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[50 Lakhs to build an app]]></title>
         <id>https://www.youtube.com/watch?v=80xoKI5cGuQ</id>
@@ -1763,16 +1772,6 @@ Points: 521
 more…]]></summary>
         <author>
             <name>Martin Fowler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Boot.dev Beat. November 2024]]></title>
-        <id>https://blog.boot.dev/news/bootdev-beat-2024-11/</id>
-        <link href="https://blog.boot.dev/news/bootdev-beat-2024-11/"/>
-        <updated>2024-11-05T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Mortrunk has fallen. The community rallied in our Halloween boss fight spectacular. Well done. The Boots’ aura XP boost even hit 2x for a while there.]]></summary>
-        <author>
-            <name>Boot.dev Blog</name>
         </author>
     </entry>
 </feed>
