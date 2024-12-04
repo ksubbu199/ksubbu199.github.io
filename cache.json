@@ -1073,6 +1073,16 @@
       "siteUrl": "https://martinfowler.com/feed.atom",
       "articles": [
         {
+          "id": "https://martinfowler.com/articles/designing-data-products.html#OverlayAdditionalUseCasesAndGeneralise",
+          "author": null,
+          "description": "Having got an initial data product, Kiran Prakash\n       leads us through the next steps: covering similar uses cases to\n       generalize the data product, determining which domains the products fit\n       into, and considering service level objectives. \nmore…",
+          "link": "https://martinfowler.com/articles/designing-data-products.html#OverlayAdditionalUseCasesAndGeneralise",
+          "publishedOn": "2024-12-04T15:36:00.000Z",
+          "wordCount": 2915,
+          "title": "Generalizing the design of data products",
+          "imageUrl": "https://martinfowler.com/articles/designing-data-products/card.png"
+        },
+        {
           "id": "https://martinfowler.com/articles/designing-data-products.html",
           "author": null,
           "description": "Increasingly the industry is seeing the value of creating data\n       products as a core organizing principle for analytic data. Kiran\n       Prakash has helped many clients design their data products, and\n       shares what he's learned. In particular his methodical approach doesn't\n       begin by thinking about some data that might be handy to share, but\n       instead works from what consumers of a data product need.\nmore…",
