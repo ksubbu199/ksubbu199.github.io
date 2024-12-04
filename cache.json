@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=42314547",
+          "author": "walz",
+          "description": "Article URL: https://walzr.com/IMG_0001/\nComments URL: https://news.ycombinator.com/item?id=42314547\nPoints: 571\n# Comments: 70",
+          "link": "https://walzr.com/IMG_0001/",
+          "publishedOn": "2024-12-04T04:46:12.000Z",
+          "wordCount": 1943,
+          "title": "IMG_0001",
+          "imageUrl": null
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=42312121",
           "author": "veesahni",
           "description": "My 9 year old son has been learning to code.  He learned HTML & CSS over the last year or two.\nRecently, we had a breakthrough where he learned how to leverage Google Gemini as a learning tool (not to write code for him, but as a better search and as a coding teacher). This leveled him up big time and he decided to make his own game.\nGame link here: https://www.armaansahni.com/game/\nHe's coded all the HTML, CSS & JS by hand in VSCode. He's made the animated graphics on his own using a web based sprite editor called Piskel.\nFor the game, I provided hints along the way and Gemini has helped him with syntax.  View source to see the code. He's excited to share with the community.\nHe also wrote a blog post about how he made this game: https://www.armaansahni.com/how-i-coded-a-game-using-ai/ (he independently figured out how to leverage Gemini effectively and writes about it here).\nRegarding the blog post - We had a discussion about who the target audience is (ie not 9 year olds!), what they would be interested in learning about and the general outline. He then dictated his words into the computer (which gets around spelling issues), and he went through multiple rounds of feedback from his parents (improving clarity, punctuation, etc).  In other words, its his words & thoughts but he had help along the way!\nNOTE: both parents are programmers, who provided valuable guidance through his coding journey.\nComments URL: https://news.ycombinator.com/item?id=42312121\nPoints: 508\n# Comments: 251",
@@ -14,6 +24,16 @@
           "wordCount": 875,
           "title": "My son (9 yrs old) used plain JavaScript to make a game, and wants your feedback",
           "imageUrl": null
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=42311069",
+          "author": "mcfunley",
+          "description": "Article URL: https://egoless.engineering\nComments URL: https://news.ycombinator.com/item?id=42311069\nPoints: 521\n# Comments: 191",
+          "link": "https://egoless.engineering/",
+          "publishedOn": "2024-12-03T20:38:23.000Z",
+          "wordCount": 3552,
+          "title": "Egoless Engineering",
+          "imageUrl": "https://egoless.engineering/slides/slides.001.jpeg"
         },
         {
           "id": "https://news.ycombinator.com/item?id=42308590",
@@ -1143,6 +1163,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKZozRVHRYsYHGEyNKuhhdA",
       "siteUrl": "https://www.youtube.com/channel/UCKZozRVHRYsYHGEyNKuhhdA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=80xoKI5cGuQ",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=80xoKI5cGuQ",
+          "publishedOn": "2024-12-04T09:34:56.000Z",
+          "wordCount": null,
+          "title": "50 Lakhs to build an app",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=0SKhJiaY9hY",
           "author": null,

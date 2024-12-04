@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-12-04T09:19:39.202Z</updated>
+    <updated>2024-12-04T10:19:17.287Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[50 Lakhs to build an app]]></title>
+        <id>https://www.youtube.com/watch?v=80xoKI5cGuQ</id>
+        <link href="https://www.youtube.com/watch?v=80xoKI5cGuQ"/>
+        <updated>2024-12-04T09:34:56.000Z</updated>
+        <author>
+            <name>Think School</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What Do Rich Farmers Know That Others Don’t?]]></title>
         <id>https://www.youtube.com/watch?v=0SKhJiaY9hY</id>
@@ -34,6 +43,19 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[IMG_0001]]></title>
+        <id>https://news.ycombinator.com/item?id=42314547</id>
+        <link href="https://walzr.com/IMG_0001/"/>
+        <updated>2024-12-04T04:46:12.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://walzr.com/IMG_0001/
+Comments URL: https://news.ycombinator.com/item?id=42314547
+Points: 571
+# Comments: 70]]></summary>
+        <author>
+            <name>walz</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[My son (9 yrs old) used plain JavaScript to make a game, and wants your feedback]]></title>
         <id>https://news.ycombinator.com/item?id=42312121</id>
         <link href="https://www.armaansahni.com/game/"/>
@@ -51,6 +73,19 @@ Points: 508
 # Comments: 251]]></summary>
         <author>
             <name>veesahni</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Egoless Engineering]]></title>
+        <id>https://news.ycombinator.com/item?id=42311069</id>
+        <link href="https://egoless.engineering/"/>
+        <updated>2024-12-03T20:38:23.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://egoless.engineering
+Comments URL: https://news.ycombinator.com/item?id=42311069
+Points: 521
+# Comments: 191]]></summary>
+        <author>
+            <name>mcfunley</name>
         </author>
     </entry>
     <entry>
