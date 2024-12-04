@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-12-04T01:23:53.516Z</updated>
+    <updated>2024-12-04T03:01:13.800Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -1665,19 +1665,6 @@ Points: 500
 # Comments: 121]]></summary>
         <author>
             <name>ulrischa</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[We're Leaving Kubernetes]]></title>
-        <id>https://news.ycombinator.com/item?id=42041917</id>
-        <link href="https://www.gitpod.io/blog/we-are-leaving-kubernetes"/>
-        <updated>2024-11-04T14:41:28.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.gitpod.io/blog/we-are-leaving-kubernetes
-Comments URL: https://news.ycombinator.com/item?id=42041917
-Points: 501
-# Comments: 330]]></summary>
-        <author>
-            <name>filiptronicek</name>
         </author>
     </entry>
 </feed>
