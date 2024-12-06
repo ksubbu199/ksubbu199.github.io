@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-12-06T01:22:31.829Z</updated>
+    <updated>2024-12-06T03:00:50.908Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ChatGPT Pro]]></title>
+        <id>https://news.ycombinator.com/item?id=42330732</id>
+        <link href="https://openai.com/index/introducing-chatgpt-pro/"/>
+        <updated>2024-12-05T18:09:31.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://openai.com/index/introducing-chatgpt-pro/
+Comments URL: https://news.ycombinator.com/item?id=42330732
+Points: 543
+# Comments: 819]]></summary>
+        <author>
+            <name>meetpateltech</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Generalizing the design of data products]]></title>
         <id>https://martinfowler.com/articles/designing-data-products.html#OverlayAdditionalUseCasesAndGeneralise</id>
