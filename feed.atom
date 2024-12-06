@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-12-06T13:26:53.080Z</updated>
+    <updated>2024-12-06T14:16:34.971Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The genius of long polling]]></title>
+        <id>https://www.youtube.com/watch?v=5aRamFLgtis</id>
+        <link href="https://www.youtube.com/watch?v=5aRamFLgtis"/>
+        <updated>2024-12-06T14:00:04.000Z</updated>
+        <author>
+            <name>Hussein Nasser</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The correct amount of ads is zero]]></title>
         <id>https://news.ycombinator.com/item?id=42334327</id>
