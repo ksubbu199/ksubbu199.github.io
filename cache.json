@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=42334327",
+          "author": "surprisetalk",
+          "description": "Article URL: https://manuelmoreale.com/the-correct-amount-of-ads-is-zero\nComments URL: https://news.ycombinator.com/item?id=42334327\nPoints: 532\n# Comments: 319",
+          "link": "https://manuelmoreale.com/the-correct-amount-of-ads-is-zero",
+          "publishedOn": "2024-12-06T00:02:27.000Z",
+          "wordCount": 2068,
+          "title": "The correct amount of ads is zero",
+          "imageUrl": null
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=42330732",
           "author": "meetpateltech",
           "description": "Article URL: https://openai.com/index/introducing-chatgpt-pro/\nComments URL: https://news.ycombinator.com/item?id=42330732\nPoints: 543\n# Comments: 819",
@@ -934,16 +944,6 @@
           "wordCount": 2222,
           "title": "QNX is now free for anything non-commercial, plus there's an RPi image",
           "imageUrl": "/etc.clientlibs/bbcom/clientlibs/clientlib-etc-legacy/resources/cylance-web/global/bb-default-thumbnail-social.png"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=42071310",
-          "author": "robbiet480",
-          "description": "Article URL: https://www.reuters.com/technology/cybersecurity/australia-proposes-ban-social-media-those-under-16-2024-11-06/\nComments URL: https://news.ycombinator.com/item?id=42071310\nPoints: 470\n# Comments: 508",
-          "link": "https://www.reuters.com/technology/cybersecurity/australia-proposes-ban-social-media-those-under-16-2024-11-06/",
-          "publishedOn": "2024-11-06T23:38:58.000Z",
-          "wordCount": null,
-          "title": "Australia proposes ban on social media for those under 16",
-          "imageUrl": null
         }
       ]
     },

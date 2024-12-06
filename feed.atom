@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-12-06T11:14:53.666Z</updated>
+    <updated>2024-12-06T12:35:23.360Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The correct amount of ads is zero]]></title>
+        <id>https://news.ycombinator.com/item?id=42334327</id>
+        <link href="https://manuelmoreale.com/the-correct-amount-of-ads-is-zero"/>
+        <updated>2024-12-06T00:02:27.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://manuelmoreale.com/the-correct-amount-of-ads-is-zero
+Comments URL: https://news.ycombinator.com/item?id=42334327
+Points: 532
+# Comments: 319]]></summary>
+        <author>
+            <name>surprisetalk</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ChatGPT Pro]]></title>
         <id>https://news.ycombinator.com/item?id=42330732</id>
@@ -1661,19 +1674,6 @@ Points: 505
         <updated>2024-11-07T12:30:06.000Z</updated>
         <author>
             <name>Think School</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Australia proposes ban on social media for those under 16]]></title>
-        <id>https://news.ycombinator.com/item?id=42071310</id>
-        <link href="https://www.reuters.com/technology/cybersecurity/australia-proposes-ban-social-media-those-under-16-2024-11-06/"/>
-        <updated>2024-11-06T23:38:58.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.reuters.com/technology/cybersecurity/australia-proposes-ban-social-media-those-under-16-2024-11-06/
-Comments URL: https://news.ycombinator.com/item?id=42071310
-Points: 470
-# Comments: 508]]></summary>
-        <author>
-            <name>robbiet480</name>
         </author>
     </entry>
 </feed>
