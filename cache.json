@@ -978,7 +978,18 @@
       "title": "Boot.dev Blog",
       "feedUrl": "https://blog.boot.dev/index.xml",
       "siteUrl": "https://blog.boot.dev/",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://blog.boot.dev/news/bootdev-beat-2024-12/",
+          "author": null,
+          "description": "Potions got a rework, solutions were added to the Git course, and I’ve been sick for like 10 days straight… hope your Holidays are staying healthier than mine!",
+          "link": "https://blog.boot.dev/news/bootdev-beat-2024-12/",
+          "publishedOn": "2024-12-06T00:00:00.000Z",
+          "wordCount": 953,
+          "title": "The Boot.dev Beat. December 2024",
+          "imageUrl": "https://blog.boot.dev/img/800/bootsdecember2024.png.webp"
+        }
+      ]
     },
     {
       "title": "Julia Evans",
