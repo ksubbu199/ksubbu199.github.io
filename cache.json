@@ -944,16 +944,6 @@
           "wordCount": 1242,
           "title": "FDA proposes ending use of oral phenylephrine as OTC nasal decongestant",
           "imageUrl": "https://www.fda.gov/themes/custom/preview/img/FDA-Social-Graphic.png"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=42082430",
-          "author": "chipweinberger",
-          "description": "Hey HN!\nA few years ago, I left my cushy big tech job to make hardware.\nAnd made the device I always wanted - an automatic piano recorder!\nI usually play piano improvisationally, and manually hitting record never meshed well with that. But there are always moments I wish I recorded, and now they are!\nHopefully it scratches a similar itch for some of you as well!\nA few of the tech details:\n* built on an esp32-s3\n* custom injection molded enclosure\n* BLE comms, sd card storage, DS1302 RTC \n* android & ios apps with Flutter \n* Shadertoy vfx support for video sharing\n- Chip\nComments URL: https://news.ycombinator.com/item?id=42082430\nPoints: 510\n# Comments: 160",
-          "link": "https://jamcorder.com/",
-          "publishedOn": "2024-11-07T23:41:39.000Z",
-          "wordCount": 2046,
-          "title": "Show HN: I made a tiny device for automatically recording digital pianos",
-          "imageUrl": null
         }
       ]
     },
