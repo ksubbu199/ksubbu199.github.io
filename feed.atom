@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-12-07T06:23:49.135Z</updated>
+    <updated>2024-12-07T07:16:24.668Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -1674,42 +1674,6 @@ Points: 510
 # Comments: 160]]></summary>
         <author>
             <name>chipweinberger</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ask HN: Life-changing purchases since 2020? (Under $100 and under $1000)]]></title>
-        <id>https://news.ycombinator.com/item?id=42079768</id>
-        <link href="https://news.ycombinator.com/item?id=42079768"/>
-        <updated>2024-11-07T19:06:14.000Z</updated>
-        <summary type="html"><![CDATA[Hey folks,
-I’m curious – is there anything you've bought in the past few years (since 2020) that really changed something in your life? Could be anything, like a gadget, a course, a subscription, even a massage or some random item you didn't think much of at first.
-Let’s split it up into two categories:
-- Under $100
- - Under $1000
-What did you get? And what was the impact? I’d love to hear the stories – big or small changes, whatever made a difference for you.
-Thanks in advance for sharing!
-Comments URL: https://news.ycombinator.com/item?id=42079768
-Points: 287
-# Comments: 598]]></summary>
-        <author>
-            <name>systemkwiat</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[QNX is now free for anything non-commercial, plus there's an RPi image]]></title>
-        <id>https://news.ycombinator.com/item?id=42079460</id>
-        <link href="https://blackberry.qnx.com/en/products/qnx-everywhere"/>
-        <updated>2024-11-07T18:35:22.000Z</updated>
-        <summary type="html"><![CDATA[Hiya folks!
-I'm John from the Developer Relations team at QNX. I'm a loooong time lurker of this forum and excited to make my first post.
-I just wanted to let you know that we've kicked off a new program to start opening the doors to QNX like things used to be. Many of you probably used or tinkered with (the very open) QNX back in the day. You can now easily get a free non-commercial license to use the newest QNX. We've also just released some sample apps and a ready-to-go QNX 8.0 quick start target image for Raspberry Pi. So you can get QNX and the development tools for free now to learn, experiment, and build.
-It's been a long time in the making, so I'm really excited to get to post about this first phase of the QNX Everywhere initiative. My team and management have open ears, so please share feedback about what more we can do to open things up, be more transparent, and get you what you need to create an awesome embedded QNX project.
-Cheers!
-Comments URL: https://news.ycombinator.com/item?id=42079460
-Points: 505
-# Comments: 227]]></summary>
-        <author>
-            <name>JohnAtQNX</name>
         </author>
     </entry>
 </feed>
