@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-12-08T11:13:19.026Z</updated>
+    <updated>2024-12-08T12:33:11.694Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -1673,19 +1673,6 @@ the solution: make a new section of this blog
 So I quickly made a new folder called /til/, adde…]]></summary>
         <author>
             <name>Julia Evans</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Delta: A syntax-highlighting pager for Git, diff, grep, and blame output]]></title>
-        <id>https://news.ycombinator.com/item?id=42091365</id>
-        <link href="https://github.com/dandavison/delta"/>
-        <updated>2024-11-08T23:46:46.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://github.com/dandavison/delta
-Comments URL: https://news.ycombinator.com/item?id=42091365
-Points: 509
-# Comments: 68]]></summary>
-        <author>
-            <name>nateb2022</name>
         </author>
     </entry>
 </feed>
