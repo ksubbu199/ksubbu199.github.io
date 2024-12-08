@@ -995,16 +995,6 @@
           "wordCount": 2363,
           "title": "Importing a frontend Javascript library without a build system",
           "imageUrl": null
-        },
-        {
-          "id": "https://jvns.ca/blog/2024/11/09/new-microblog/",
-          "author": null,
-          "description": "I added a new section to this site a couple weeks ago called\nTIL (“today I learned”).\nthe goal: save interesting tools & facts I posted on social media\nOne kind of thing I like to post on Mastodon/Bluesky is “hey, here’s a cool\nthing”, like the great SQLite repl litecli, or\nthe fact that cross compiling in Go Just Works and it’s amazing, or\ncryptographic right answers,\nor this great diff tool. Usually I don’t want to write\na whole blog post about those things because I really don’t have much more to\nsay than “hey this is useful!”\nIt started to bother me that I didn’t have anywhere to put those things: for\nexample recently I wanted to use diffdiff and I just\ncould not remember what it was called.\nthe solution: make a new section of this blog\nSo I quickly made a new folder called /til/, adde…",
-          "link": "https://jvns.ca/blog/2024/11/09/new-microblog/",
-          "publishedOn": "2024-11-09T09:24:29.000Z",
-          "wordCount": 718,
-          "title": "New microblog with TILs",
-          "imageUrl": null
         }
       ]
     },

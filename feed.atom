@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-12-08T21:15:18.248Z</updated>
+    <updated>2024-12-08T22:15:55.303Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -1662,30 +1662,6 @@ Points: 513
 # Comments: 181]]></summary>
         <author>
             <name>dataminer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New microblog with TILs]]></title>
-        <id>https://jvns.ca/blog/2024/11/09/new-microblog/</id>
-        <link href="https://jvns.ca/blog/2024/11/09/new-microblog/"/>
-        <updated>2024-11-09T09:24:29.000Z</updated>
-        <summary type="html"><![CDATA[I added a new section to this site a couple weeks ago called
-TIL (“today I learned”).
-the goal: save interesting tools & facts I posted on social media
-One kind of thing I like to post on Mastodon/Bluesky is “hey, here’s a cool
-thing”, like the great SQLite repl litecli, or
-the fact that cross compiling in Go Just Works and it’s amazing, or
-cryptographic right answers,
-or this great diff tool. Usually I don’t want to write
-a whole blog post about those things because I really don’t have much more to
-say than “hey this is useful!”
-It started to bother me that I didn’t have anywhere to put those things: for
-example recently I wanted to use diffdiff and I just
-could not remember what it was called.
-the solution: make a new section of this blog
-So I quickly made a new folder called /til/, adde…]]></summary>
-        <author>
-            <name>Julia Evans</name>
         </author>
     </entry>
 </feed>
