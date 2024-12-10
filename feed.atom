@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-12-10T21:16:37.762Z</updated>
+    <updated>2024-12-10T22:16:47.285Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -14,6 +14,19 @@
         <summary type="html"><![CDATA[Currently, Audible’s position is hurting audiobook authors. My audiobook isn’t on Audible due to a mix of their monopolistic pricing practices, and the company’s own complacency in how long they take to approve new titles.]]></summary>
         <author>
             <name>Gergely Orosz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[From where I left]]></title>
+        <id>https://news.ycombinator.com/item?id=42378488</id>
+        <link href="https://antirez.com/news/144"/>
+        <updated>2024-12-10T16:41:52.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://antirez.com/news/144
+Comments URL: https://news.ycombinator.com/item?id=42378488
+Points: 557
+# Comments: 199]]></summary>
+        <author>
+            <name>tilt</name>
         </author>
     </entry>
     <entry>
