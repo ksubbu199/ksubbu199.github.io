@@ -1014,6 +1014,16 @@
       "siteUrl": "https://martinfowler.com/feed.atom",
       "articles": [
         {
+          "id": "https://martinfowler.com/articles/designing-data-products.html#HowBigShouldDataProductsBe",
+          "author": null,
+          "description": "Once we've designed our initial data products, Kiran\n       Prakash finishes his article by leading us through the\n       next steps: identifying common patterns, improving the developer\n       experience, and handling governance.\nmore…",
+          "link": "https://martinfowler.com/articles/designing-data-products.html#HowBigShouldDataProductsBe",
+          "publishedOn": "2024-12-10T14:22:00.000Z",
+          "wordCount": 3738,
+          "title": "Designing Data Products: next steps",
+          "imageUrl": "https://martinfowler.com/articles/designing-data-products/card.png"
+        },
+        {
           "id": "https://martinfowler.com/articles/designing-data-products.html#OverlayAdditionalUseCasesAndGeneralise",
           "author": null,
           "description": "Having got an initial data product, Kiran Prakash\n       leads us through the next steps: covering similar uses cases to\n       generalize the data product, determining which domains the products fit\n       into, and considering service level objectives. \nmore…",

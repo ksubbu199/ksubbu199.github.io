@@ -2,10 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-12-10T14:17:38.909Z</updated>
+    <updated>2024-12-10T15:19:33.844Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Designing Data Products: next steps]]></title>
+        <id>https://martinfowler.com/articles/designing-data-products.html#HowBigShouldDataProductsBe</id>
+        <link href="https://martinfowler.com/articles/designing-data-products.html#HowBigShouldDataProductsBe"/>
+        <updated>2024-12-10T14:22:00.000Z</updated>
+        <summary type="html"><![CDATA[Once we've designed our initial data products, Kiran
+       Prakash finishes his article by leading us through the
+       next steps: identifying common patterns, improving the developer
+       experience, and handling governance.
+more…]]></summary>
+        <author>
+            <name>Martin Fowler</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA["This is not a joke, Funko just called my mom"]]></title>
         <id>https://news.ycombinator.com/item?id=42371481</id>
