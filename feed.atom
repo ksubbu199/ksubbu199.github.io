@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-12-11T03:00:45.557Z</updated>
+    <updated>2024-12-11T04:21:43.992Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -27,6 +27,19 @@ Points: 557
 # Comments: 199]]></summary>
         <author>
             <name>tilt</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Google Willow Thing]]></title>
+        <id>https://news.ycombinator.com/item?id=42378407</id>
+        <link href="https://scottaaronson.blog/?p=8525"/>
+        <updated>2024-12-10T16:34:02.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://scottaaronson.blog/?p=8525
+Comments URL: https://news.ycombinator.com/item?id=42378407
+Points: 507
+# Comments: 230]]></summary>
+        <author>
+            <name>Bootvis</name>
         </author>
     </entry>
     <entry>
