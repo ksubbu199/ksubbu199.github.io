@@ -2,10 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-12-12T10:19:19.629Z</updated>
+    <updated>2024-12-12T11:15:00.428Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Design Token-Based UI Architecture]]></title>
+        <id>https://martinfowler.com/articles/design-token-based-ui-architecture.html</id>
+        <link href="https://martinfowler.com/articles/design-token-based-ui-architecture.html"/>
+        <updated>2024-12-12T09:36:00.000Z</updated>
+        <summary type="html"><![CDATA[Design tokens are fundamental design decisions represented as data.
+       Andreas Kutschmann explains how they work
+       and how to organize them to balance scalability, maintainability and
+       developer experience.
+more…]]></summary>
+        <author>
+            <name>Martin Fowler</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[FCC opens entire 6 GHz band to low power device operations]]></title>
         <id>https://news.ycombinator.com/item?id=42390344</id>

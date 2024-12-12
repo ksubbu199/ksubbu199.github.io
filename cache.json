@@ -1004,6 +1004,16 @@
       "siteUrl": "https://martinfowler.com/feed.atom",
       "articles": [
         {
+          "id": "https://martinfowler.com/articles/design-token-based-ui-architecture.html",
+          "author": null,
+          "description": "Design tokens are fundamental design decisions represented as data.\n       Andreas Kutschmann explains how they work\n       and how to organize them to balance scalability, maintainability and\n       developer experience.\nmore…",
+          "link": "https://martinfowler.com/articles/design-token-based-ui-architecture.html",
+          "publishedOn": "2024-12-12T09:36:00.000Z",
+          "wordCount": 3825,
+          "title": "Design Token-Based UI Architecture",
+          "imageUrl": "https://martinfowler.com/articles/design-token-based-ui-architecture/card.png"
+        },
+        {
           "id": "https://martinfowler.com/articles/designing-data-products.html#HowBigShouldDataProductsBe",
           "author": null,
           "description": "Once we've designed our initial data products, Kiran\n       Prakash finishes his article by leading us through the\n       next steps: identifying common patterns, improving the developer\n       experience, and handling governance.\nmore…",
