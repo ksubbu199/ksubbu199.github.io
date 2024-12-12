@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-12-12T13:27:37.182Z</updated>
+    <updated>2024-12-12T14:17:27.124Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Ad0be is a fake website?]]></title>
+        <id>https://www.youtube.com/watch?v=TeDB9hw7hDg</id>
+        <link href="https://www.youtube.com/watch?v=TeDB9hw7hDg"/>
+        <updated>2024-12-12T13:49:42.000Z</updated>
+        <author>
+            <name>Think School</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Design Token-Based UI Architecture]]></title>
         <id>https://martinfowler.com/articles/design-token-based-ui-architecture.html</id>
@@ -1712,19 +1721,6 @@ Points: 516
 # Comments: 511]]></summary>
         <author>
             <name>lukebennett</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[No GPS required: our app can now locate underground trains]]></title>
-        <id>https://news.ycombinator.com/item?id=42122085</id>
-        <link href="https://blog.transitapp.com/go-underground/"/>
-        <updated>2024-11-13T01:46:20.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://blog.transitapp.com/go-underground/
-Comments URL: https://news.ycombinator.com/item?id=42122085
-Points: 569
-# Comments: 188]]></summary>
-        <author>
-            <name>dotcoma</name>
         </author>
     </entry>
 </feed>
