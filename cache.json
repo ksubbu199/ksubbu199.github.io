@@ -967,6 +967,16 @@
       "siteUrl": "http://jvns.ca/atom.xml",
       "articles": [
         {
+          "id": "https://jvns.ca/blog/2024/11/26/terminal-rules/",
+          "author": null,
+          "description": "Recently I’ve been thinking about how everything that happens in the terminal\nis some combination of:\nYour operating system’s job\nYour shell’s job\nYour terminal emulator’s job\nThe job of whatever program you happen to be running (like top or vim or cat)\nThe first three (your operating system, shell, and terminal emulator) are all kind of\nknown quantities – if you’re using bash in GNOME Terminal on Linux, you can\nmore or less reason about how how all of those things interact, and some of\ntheir behaviour is standardized by POSIX.\nBut the fourth one (“whatever program you happen to be running”) feels like it\ncould do ANYTHING. How are you supposed to know how a program is going to\nbehave?\nThis post is kind of long so here’s a quick table of contents:\nprograms behave surprisingly consistently\n…",
+          "link": "https://jvns.ca/blog/2024/11/26/terminal-rules/",
+          "publishedOn": "2024-12-12T09:28:22.000Z",
+          "wordCount": 2076,
+          "title": "\"Rules\" that terminal programs follow",
+          "imageUrl": null
+        },
+        {
           "id": "https://jvns.ca/blog/2024/11/29/why-pipes-get-stuck-buffering/",
           "author": null,
           "description": "Here’s a niche terminal problem that has bothered me for years but that I never\nreally understood until a few weeks ago. Let’s say you’re running this command\nto watch for some specific output in a log file:\ntail -f /some/log/file | grep thing1 | grep thing2\n\nIf log lines are being added to the file relatively slowly, the result I’d see\nis… nothing! It doesn’t matter if there were matches in the log file or not,\nthere just wouldn’t be any output.\nI internalized this as “uh, I guess pipes just get stuck sometimes and don’t\nshow me the output, that’s weird”, and I’d handle it by just\nrunning grep thing1 /some/log/file | grep thing2 instead, which would work.\nSo as I’ve been doing a terminal deep dive over the last few months I was\nreally excited to finally learn exactly why this happens.\nwhy…",
