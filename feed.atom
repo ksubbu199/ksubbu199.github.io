@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-12-13T05:17:37.336Z</updated>
+    <updated>2024-12-13T06:25:42.171Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -1735,21 +1735,6 @@ Points: 500
 # Comments: 214]]></summary>
         <author>
             <name>atan2</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Posting on Bluesky, and other thoughts on social media]]></title>
-        <id>https://martinfowler.com/articles/2024-social-media.html</id>
-        <link href="https://martinfowler.com/articles/2024-social-media.html"/>
-        <updated>2024-11-13T17:33:00.000Z</updated>
-        <summary type="html"><![CDATA[With the recent uptick in tech activity on Bluesky, I've decided that
-       I will start posting there in addition to
-       my current locations.
-I've also put together my general thoughts on the state of social
-       media, and how I'm using it, now that it's two years since The Muskover. 
-more…]]></summary>
-        <author>
-            <name>Martin Fowler</name>
         </author>
     </entry>
 </feed>
