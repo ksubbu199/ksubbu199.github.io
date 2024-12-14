@@ -934,16 +934,6 @@
           "wordCount": null,
           "title": "The Onion Buys Alex Jones's Infowars Out of Bankruptcy",
           "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=42135520",
-          "author": "pabs3",
-          "description": "Article URL: https://jan.miksovsky.com/posts/2024/11-12-momboard\nComments URL: https://news.ycombinator.com/item?id=42135520\nPoints: 507\n# Comments: 48",
-          "link": "https://jan.miksovsky.com/posts/2024/11-12-momboard",
-          "publishedOn": "2024-11-14T12:20:40.000Z",
-          "wordCount": 1726,
-          "title": "MomBoard: E-ink display for a parent with amnesia",
-          "imageUrl": "https://jan.miksovsky.com/previews/2024/11-12-momboard.png"
         }
       ]
     },
@@ -969,6 +959,26 @@
       "feedUrl": "https://blog.boot.dev/index.xml",
       "siteUrl": "https://blog.boot.dev/",
       "articles": [
+        {
+          "id": "https://blog.boot.dev/tutorials/python/functions/",
+          "author": null,
+          "description": "Functions in Python allow us to reuse and organize code. For example, say we have some code that calculates the area of a circle:",
+          "link": "https://blog.boot.dev/tutorials/python/functions/",
+          "publishedOn": "2024-12-14T00:00:00.000Z",
+          "wordCount": 2320,
+          "title": "Functions in Python",
+          "imageUrl": "https://blog.boot.dev/img/800/functionsinpythonscreen.png.webp"
+        },
+        {
+          "id": "https://blog.boot.dev/tutorials/python/variables/",
+          "author": null,
+          "description": "Variables are how we store data as our program runs. You’re probably already familiar with printing data by passing it straight into print():",
+          "link": "https://blog.boot.dev/tutorials/python/variables/",
+          "publishedOn": "2024-12-13T00:00:00.000Z",
+          "wordCount": 1973,
+          "title": "Variables and Types in Python",
+          "imageUrl": "https://blog.boot.dev/img/800/symbolsonboard.png.webp"
+        },
         {
           "id": "https://blog.boot.dev/news/bootdev-beat-2024-12/",
           "author": null,
