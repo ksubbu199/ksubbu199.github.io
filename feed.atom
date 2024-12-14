@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-12-14T08:20:35.828Z</updated>
+    <updated>2024-12-14T09:16:46.417Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -27,6 +27,19 @@ Points: 527
 # Comments: 187]]></summary>
         <author>
             <name>mmorearty</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Test]]></title>
+        <id>https://news.ycombinator.com/item?id=42408202</id>
+        <link href="https://www.defense.gov/News/News-Stories/Article/Article/4000004/test/"/>
+        <updated>2024-12-13T13:23:54.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.defense.gov/News/News-Stories/Article/Article/4000004/test/
+Comments URL: https://news.ycombinator.com/item?id=42408202
+Points: 509
+# Comments: 123]]></summary>
+        <author>
+            <name>ajdude</name>
         </author>
     </entry>
     <entry>
