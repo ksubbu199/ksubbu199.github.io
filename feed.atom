@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-12-17T19:14:18.632Z</updated>
+    <updated>2024-12-17T20:18:50.589Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Moon]]></title>
+        <id>https://news.ycombinator.com/item?id=42443229</id>
+        <link href="https://ciechanow.ski/moon/"/>
+        <updated>2024-12-17T17:26:26.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://ciechanow.ski/moon/
+Comments URL: https://news.ycombinator.com/item?id=42443229
+Points: 756
+# Comments: 85]]></summary>
+        <author>
+            <name>todsacerdoti</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Lfgss shutting down 16th March 2025 (day before Online Safety Act is enforced)]]></title>
         <id>https://news.ycombinator.com/item?id=42433044</id>
