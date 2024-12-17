@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-12-17T21:14:19.869Z</updated>
+    <updated>2024-12-17T22:16:23.765Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -1674,28 +1674,6 @@ Points: 520
 # Comments: 889]]></summary>
         <author>
             <name>mooreds</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Importing a frontend Javascript library without a build system]]></title>
-        <id>https://jvns.ca/blog/2024/11/18/how-to-import-a-javascript-library/</id>
-        <link href="https://jvns.ca/blog/2024/11/18/how-to-import-a-javascript-library/"/>
-        <updated>2024-11-18T09:35:42.000Z</updated>
-        <summary type="html"><![CDATA[I like writing Javascript without a build system
-and for the millionth time yesterday I ran into a problem where I needed to
-figure out how to import a Javascript library in my code without using a build
-system, and it took FOREVER to figure out how to import it because the
-library’s setup instructions assume that you’re using a build system.
-Luckily at this point I’ve mostly learned how to navigate this situation and
-either successfully use the library or decide it’s too difficult and switch to
-a different library, so here’s the guide I wish I had to importing Javascript
-libraries years ago.
-I’m only going to talk about using Javacript libraries on the frontend, and
-only about how to use them in a no-build-system setup.
-In this post I’m going to talk about:
-the three main types of Javascr…]]></summary>
-        <author>
-            <name>Julia Evans</name>
         </author>
     </entry>
 </feed>
