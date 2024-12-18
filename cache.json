@@ -904,16 +904,6 @@
           "wordCount": 3690,
           "title": "Scientific American's departing editor and the politicization of science",
           "imageUrl": "https://d2eehagpk5cl65.cloudfront.net/img/q60/uploads/2024/11/scientific-american.jpg"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=42174204",
-          "author": "huntaub",
-          "description": "Hey HN, I’m Hunter the founder of Regatta Storage (https://regattastorage.com). Regatta Storage is a new cloud file system that provides unlimited pay-as-you-go capacity, local-like performance, and automatic synchronization to S3-compatible storage. For example, you can use Regatta to instantly access massive data sets in S3 with Spark, Pytorch, or pandas without paying for large, local disks or waiting for the data to download.\nCheck out an overview of how the service works here: https://www.youtube.com/watch?v=xh1q5p7E4JY, and you can try it for free at https://regattastorage.com after signing up for an account. We wanted to let you try it without an account, but we figured that “Hacker News shares a file system and S3 bucket” wouldn’t be the best experience for the community.\nI built R…",
-          "link": "https://news.ycombinator.com/item?id=42174204",
-          "publishedOn": "2024-11-18T16:49:09.000Z",
-          "wordCount": 20205,
-          "title": "Launch HN: Regatta Storage (YC F24) – Turn S3 into a local-like, POSIX cloud FS",
-          "imageUrl": null
         }
       ]
     },
