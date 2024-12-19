@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-12-19T14:16:07.726Z</updated>
+    <updated>2024-12-19T15:18:12.213Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -26,6 +26,19 @@ Points: 509
 # Comments: 212]]></summary>
         <author>
             <name>teekert</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GitHub Copilot is now available for free]]></title>
+        <id>https://news.ycombinator.com/item?id=42453341</id>
+        <link href="https://github.com/features/copilot"/>
+        <updated>2024-12-18T18:29:55.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://github.com/features/copilot
+Comments URL: https://news.ycombinator.com/item?id=42453341
+Points: 500
+# Comments: 323]]></summary>
+        <author>
+            <name>ksec</name>
         </author>
     </entry>
     <entry>
