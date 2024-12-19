@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-12-19T02:56:04.894Z</updated>
+    <updated>2024-12-19T03:29:33.746Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -1667,23 +1667,6 @@ Points: 501
 # Comments: 185]]></summary>
         <author>
             <name>gslin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Exploring Gen AI: Copilot's new multi-file editing]]></title>
-        <id>https://martinfowler.com/articles/exploring-gen-ai.html#memo-11</id>
-        <link href="https://martinfowler.com/articles/exploring-gen-ai.html#memo-11"/>
-        <updated>2024-11-19T15:17:00.000Z</updated>
-        <summary type="html"><![CDATA[A very powerful new coding assistance feature made its way into GitHub
-       Copilot at the end of October. This new “multi-file editing” capability
-       expands the scope of AI assistance from small, localized suggestions to
-       larger implementations across multiple files. Birgitta
-       Böckeler tries out this new capability and finds
-       out how useful its changes tend to be, and wonders about what feedback
-       loops are needed with them.
-more…]]></summary>
-        <author>
-            <name>Martin Fowler</name>
         </author>
     </entry>
 </feed>
