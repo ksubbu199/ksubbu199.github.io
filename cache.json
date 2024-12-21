@@ -924,16 +924,6 @@
           "wordCount": 28871,
           "title": "Amazon to invest another $4B in Anthropic",
           "imageUrl": "https://image.cnbcfm.com/api/v1/image/108066948-1732286555480-108066948-1732286380649-gettyimages-2147920473-AA_19042024_1633891.jpg?v=1732286576&w=1920&h=1080"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=42212644",
-          "author": "franck",
-          "description": "Hello HN! We’re a small creative studio specializing in real-time 3D experiences. Netlify approached us to design and build an interactive experience to celebrate reaching 5 million developers.\nInspired by the classic game Marble Madness, we created a gamified experience where users control a ball through playful, interactive levels. The goal was to blend marketing content with the look and feel of a game to engage users.\nThe app is built with Three.js [1], using our custom render pipeline and shaders, and uses Rapier for physics simulation [2]. The 2D content is overlaid on the WebGL view using CSS 3D transforms for a seamless integration with the 3D view.\nWe’d love for you to try it out and share your thoughts!\n[1] https://threejs.org\n[2] https://rapier.rs\nEDIT: More info on this project here: https://www.littleworkshop.fr/projects/5milliondevs/\nComments URL: https://news.ycombinator.com/item?id=42212644\nPoints: 502\n# Comments: 192",
-          "link": "https://5-million-devs.netlify.com/",
-          "publishedOn": "2024-11-22T10:31:56.000Z",
-          "wordCount": 34,
-          "title": "Show HN: A Marble Madness-inspired WebGL game we built for Netlify",
-          "imageUrl": "https://5-million-devs.netlify.com/og-image.jpg"
         }
       ]
     },
@@ -1370,16 +1360,6 @@
           "publishedOn": "2024-11-23T11:49:36.000Z",
           "wordCount": null,
           "title": "Is this the End of Indigo? | Detailed Business Documentary",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=Oi818givByY",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=Oi818givByY",
-          "publishedOn": "2024-11-22T10:34:31.000Z",
-          "wordCount": null,
-          "title": "Why Manyavar chose Virat Kohli?",
           "imageUrl": null
         }
       ]
