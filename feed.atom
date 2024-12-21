@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-12-21T08:19:14.281Z</updated>
+    <updated>2024-12-21T09:15:11.441Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -1662,24 +1662,6 @@ Points: 502
 # Comments: 192]]></summary>
         <author>
             <name>franck</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: Llama 3.2 Interpretability with Sparse Autoencoders]]></title>
-        <id>https://news.ycombinator.com/item?id=42208383</id>
-        <link href="https://github.com/PaulPauls/llama3_interpretability_sae"/>
-        <updated>2024-11-21T20:37:56.000Z</updated>
-        <summary type="html"><![CDATA[I spent a lot of time and money on this rather big side project of mine that attempts to replicate the mechanistic interpretability research on proprietary LLMs that was quite popular this year and produced great research papers by Anthropic [1], OpenAI [2] and Deepmind [3].
-I am quite proud of this project and since I consider myself the target audience for HackerNews did I think that maybe some of you would appreciate this open research replication as well. Happy to answer any questions or face any feedback.
-Cheers
-[1] https://transformer-circuits.pub/2024/scaling-monosemanticit...
-[2] https://arxiv.org/abs/2406.04093
-[3] https://arxiv.org/abs/2408.05147
-Comments URL: https://news.ycombinator.com/item?id=42208383
-Points: 507
-# Comments: 73]]></summary>
-        <author>
-            <name>PaulPauls</name>
         </author>
     </entry>
 </feed>
