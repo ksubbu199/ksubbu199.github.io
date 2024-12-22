@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=42476828",
+          "author": "o999",
+          "description": "Article URL: https://www.reuters.com/technology/cybersecurity/us-judge-finds-israels-nso-group-liable-hacking-whatsapp-lawsuit-2024-12-21/\nComments URL: https://news.ycombinator.com/item?id=42476828\nPoints: 503\n# Comments: 168",
+          "link": "https://www.reuters.com/technology/cybersecurity/us-judge-finds-israels-nso-group-liable-hacking-whatsapp-lawsuit-2024-12-21/",
+          "publishedOn": "2024-12-21T01:38:23.000Z",
+          "wordCount": null,
+          "title": "US judge finds NSO Group liable for hacking journalists via WhatsApp",
+          "imageUrl": null
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=42473321",
           "author": "maurycy",
           "description": "Article URL: https://arcprize.org/blog/oai-o3-pub-breakthrough\nComments URL: https://news.ycombinator.com/item?id=42473321\nPoints: 571\n# Comments: 415",
@@ -914,26 +924,6 @@
           "wordCount": 3142,
           "title": "Highest-resolution images ever captured of the sun’s surface",
           "imageUrl": "https://th-thumbnailer.cdn-si-edu.com/ibQuOvP_nSaBGozhQc4iPwKkiKU=/fit-in/1200x0/filters:focal(1394x903:1395x904)/https%3A%2F%2Ftf-cmsv2-smithsonianmag-media.s3.amazonaws.com%2Ffiler_public%2F01%2F52%2F0152b828-56b8-4e46-8263-e48660486d42%2Fscreenshot_2024-11-21_at_44419_pm.png"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=42215552",
-          "author": "bglazer",
-          "description": "Article URL: https://benwang.dev/2023/02/26/Phased-Array-Microphone.html\nComments URL: https://news.ycombinator.com/item?id=42215552\nPoints: 502\n# Comments: 161",
-          "link": "https://benwang.dev/2023/02/26/Phased-Array-Microphone.html",
-          "publishedOn": "2024-11-22T17:10:44.000Z",
-          "wordCount": 2867,
-          "title": "Phased Array Microphone (2023)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=42215126",
-          "author": "swyx",
-          "description": "Article URL: https://www.cnbc.com/2024/11/22/amazon-to-invest-another-4-billion-in-anthropic-openais-biggest-rival.html\nComments URL: https://news.ycombinator.com/item?id=42215126\nPoints: 510\n# Comments: 286",
-          "link": "https://www.cnbc.com/2024/11/22/amazon-to-invest-another-4-billion-in-anthropic-openais-biggest-rival.html",
-          "publishedOn": "2024-11-22T16:25:17.000Z",
-          "wordCount": 28871,
-          "title": "Amazon to invest another $4B in Anthropic",
-          "imageUrl": "https://image.cnbcfm.com/api/v1/image/108066948-1732286555480-108066948-1732286380649-gettyimages-2147920473-AA_19042024_1633891.jpg?v=1732286576&w=1920&h=1080"
         }
       ]
     },

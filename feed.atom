@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-12-22T04:19:17.853Z</updated>
+    <updated>2024-12-22T05:14:52.719Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -13,6 +13,19 @@
         <updated>2024-12-21T06:39:50.000Z</updated>
         <author>
             <name>Think School</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[US judge finds NSO Group liable for hacking journalists via WhatsApp]]></title>
+        <id>https://news.ycombinator.com/item?id=42476828</id>
+        <link href="https://www.reuters.com/technology/cybersecurity/us-judge-finds-israels-nso-group-liable-hacking-whatsapp-lawsuit-2024-12-21/"/>
+        <updated>2024-12-21T01:38:23.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.reuters.com/technology/cybersecurity/us-judge-finds-israels-nso-group-liable-hacking-whatsapp-lawsuit-2024-12-21/
+Comments URL: https://news.ycombinator.com/item?id=42476828
+Points: 503
+# Comments: 168]]></summary>
+        <author>
+            <name>o999</name>
         </author>
     </entry>
     <entry>
@@ -1651,32 +1664,6 @@ Points: 502
 # Comments: 128]]></summary>
         <author>
             <name>Brajeshwar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Phased Array Microphone (2023)]]></title>
-        <id>https://news.ycombinator.com/item?id=42215552</id>
-        <link href="https://benwang.dev/2023/02/26/Phased-Array-Microphone.html"/>
-        <updated>2024-11-22T17:10:44.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://benwang.dev/2023/02/26/Phased-Array-Microphone.html
-Comments URL: https://news.ycombinator.com/item?id=42215552
-Points: 502
-# Comments: 161]]></summary>
-        <author>
-            <name>bglazer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon to invest another $4B in Anthropic]]></title>
-        <id>https://news.ycombinator.com/item?id=42215126</id>
-        <link href="https://www.cnbc.com/2024/11/22/amazon-to-invest-another-4-billion-in-anthropic-openais-biggest-rival.html"/>
-        <updated>2024-11-22T16:25:17.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.cnbc.com/2024/11/22/amazon-to-invest-another-4-billion-in-anthropic-openais-biggest-rival.html
-Comments URL: https://news.ycombinator.com/item?id=42215126
-Points: 510
-# Comments: 286]]></summary>
-        <author>
-            <name>swyx</name>
         </author>
     </entry>
 </feed>
