@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-12-22T17:13:43.806Z</updated>
+    <updated>2024-12-22T18:20:11.762Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -49,6 +49,19 @@
         <updated>2024-12-22T12:50:14.000Z</updated>
         <author>
             <name>Think School</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[We use our own hardware at Fastmail]]></title>
+        <id>https://news.ycombinator.com/item?id=42485124</id>
+        <link href="https://www.fastmail.com/blog/why-we-use-our-own-hardware/"/>
+        <updated>2024-12-22T08:36:31.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.fastmail.com/blog/why-we-use-our-own-hardware/
+Comments URL: https://news.ycombinator.com/item?id=42485124
+Points: 558
+# Comments: 280]]></summary>
+        <author>
+            <name>nmjenkins</name>
         </author>
     </entry>
     <entry>
