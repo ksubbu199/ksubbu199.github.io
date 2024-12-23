@@ -914,16 +914,6 @@
           "wordCount": 6,
           "title": "The size of BYD's factory",
           "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=42226185",
-          "author": "geox",
-          "description": "Article URL: https://apnews.com/article/denmark-forest-trees-fertilizer-e55416347fcc385a3ea8e2415726f908\nComments URL: https://news.ycombinator.com/item?id=42226185\nPoints: 506\n# Comments: 376",
-          "link": "https://apnews.com/article/denmark-forest-trees-fertilizer-e55416347fcc385a3ea8e2415726f908",
-          "publishedOn": "2024-11-24T05:59:06.000Z",
-          "wordCount": null,
-          "title": "Denmark will plant 1B trees and convert 10% of farmland into forest",
-          "imageUrl": null
         }
       ]
     },
@@ -938,6 +928,16 @@
       "feedUrl": "https://blog.boot.dev/index.xml",
       "siteUrl": "https://blog.boot.dev/",
       "articles": [
+        {
+          "id": "https://blog.boot.dev/tutorials/python/loops/",
+          "author": null,
+          "description": "If you’re new to Python, or perhaps coding in general (welcome!), loops are what allow us to do the same thing over and over and over again, without having to re-type the same code each time.",
+          "link": "https://blog.boot.dev/tutorials/python/loops/",
+          "publishedOn": "2024-12-23T00:00:00.000Z",
+          "wordCount": 1169,
+          "title": "Loops in Python",
+          "imageUrl": "https://blog.boot.dev/img/800/loopsinthesky.png.webp"
+        },
         {
           "id": "https://blog.boot.dev/tutorials/python/functions/",
           "author": null,

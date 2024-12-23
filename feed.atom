@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-12-23T17:14:27.912Z</updated>
+    <updated>2024-12-23T18:22:04.333Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Loops in Python]]></title>
+        <id>https://blog.boot.dev/tutorials/python/loops/</id>
+        <link href="https://blog.boot.dev/tutorials/python/loops/"/>
+        <updated>2024-12-23T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[If you’re new to Python, or perhaps coding in general (welcome!), loops are what allow us to do the same thing over and over and over again, without having to re-type the same code each time.]]></summary>
+        <author>
+            <name>Boot.dev Blog</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Selling Packet Milk is Hardest?]]></title>
         <id>https://www.youtube.com/watch?v=rMHaNzoWCLs</id>
@@ -1678,19 +1688,6 @@ Points: 356
 # Comments: 596]]></summary>
         <author>
             <name>elsewhen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Denmark will plant 1B trees and convert 10% of farmland into forest]]></title>
-        <id>https://news.ycombinator.com/item?id=42226185</id>
-        <link href="https://apnews.com/article/denmark-forest-trees-fertilizer-e55416347fcc385a3ea8e2415726f908"/>
-        <updated>2024-11-24T05:59:06.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://apnews.com/article/denmark-forest-trees-fertilizer-e55416347fcc385a3ea8e2415726f908
-Comments URL: https://news.ycombinator.com/item?id=42226185
-Points: 506
-# Comments: 376]]></summary>
-        <author>
-            <name>geox</name>
         </author>
     </entry>
 </feed>
