@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-12-23T16:20:10.850Z</updated>
+    <updated>2024-12-23T17:14:27.912Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -49,6 +49,19 @@
         <updated>2024-12-22T12:50:14.000Z</updated>
         <author>
             <name>Think School</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GPT-5 is behind schedule]]></title>
+        <id>https://news.ycombinator.com/item?id=42485938</id>
+        <link href="https://www.wsj.com/tech/ai/openai-gpt5-orion-delays-639e7693"/>
+        <updated>2024-12-22T12:29:33.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.wsj.com/tech/ai/openai-gpt5-orion-delays-639e7693
+Comments URL: https://news.ycombinator.com/item?id=42485938
+Points: 500
+# Comments: 891]]></summary>
+        <author>
+            <name>owenthejumper</name>
         </author>
     </entry>
     <entry>
