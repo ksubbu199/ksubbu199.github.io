@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=42497093",
+          "author": "ecliptik",
+          "description": "Article URL: https://www.youtube.com/watch?v=JfZxOuc9Qwk\nComments URL: https://news.ycombinator.com/item?id=42497093\nPoints: 502\n# Comments: 233",
+          "link": "https://www.youtube.com/watch?v=JfZxOuc9Qwk",
+          "publishedOn": "2024-12-23T19:49:34.000Z",
+          "wordCount": null,
+          "title": "What happened to the world's largest tube TV? [video]",
+          "imageUrl": null
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=42485938",
           "author": "owenthejumper",
           "description": "Article URL: https://www.wsj.com/tech/ai/openai-gpt5-orion-delays-639e7693\nComments URL: https://news.ycombinator.com/item?id=42485938\nPoints: 500\n# Comments: 891",
@@ -854,26 +864,6 @@
           "wordCount": 1602,
           "title": "Model Context Protocol",
           "imageUrl": "https://cdn.sanity.io/images/4zrzovbb/website/1aef864f9b246c740fe3cef6e1068f2220995d5e-2400x1260.png"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=42232040",
-          "author": "zkldi",
-          "description": "Article URL: https://www.5snb.club/posts/2023/do-not-stab/\nComments URL: https://news.ycombinator.com/item?id=42232040\nPoints: 546\n# Comments: 126",
-          "link": "https://www.5snb.club/posts/2023/do-not-stab/",
-          "publishedOn": "2024-11-25T00:43:03.000Z",
-          "wordCount": 761,
-          "title": "RFC 35140: HTTP Do-Not-Stab (2023)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=42232000",
-          "author": "thunderbong",
-          "description": "Article URL: https://sqlitestudio.pl/\nComments URL: https://news.ycombinator.com/item?id=42232000\nPoints: 504\n# Comments: 98",
-          "link": "https://sqlitestudio.pl/",
-          "publishedOn": "2024-11-25T00:36:46.000Z",
-          "wordCount": 112,
-          "title": "SQLiteStudio: Create, edit, browse SQLite databases",
-          "imageUrl": null
         }
       ]
     },

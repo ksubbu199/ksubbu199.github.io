@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-12-24T12:32:35.525Z</updated>
+    <updated>2024-12-24T13:20:53.184Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[What happened to the world's largest tube TV? [video]]]></title>
+        <id>https://news.ycombinator.com/item?id=42497093</id>
+        <link href="https://www.youtube.com/watch?v=JfZxOuc9Qwk"/>
+        <updated>2024-12-23T19:49:34.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.youtube.com/watch?v=JfZxOuc9Qwk
+Comments URL: https://news.ycombinator.com/item?id=42497093
+Points: 502
+# Comments: 233]]></summary>
+        <author>
+            <name>ecliptik</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Loops in Python]]></title>
         <id>https://blog.boot.dev/tutorials/python/loops/</id>
@@ -1610,32 +1623,6 @@ Points: 528
         <updated>2024-11-25T12:49:05.000Z</updated>
         <author>
             <name>Think School</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RFC 35140: HTTP Do-Not-Stab (2023)]]></title>
-        <id>https://news.ycombinator.com/item?id=42232040</id>
-        <link href="https://www.5snb.club/posts/2023/do-not-stab/"/>
-        <updated>2024-11-25T00:43:03.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.5snb.club/posts/2023/do-not-stab/
-Comments URL: https://news.ycombinator.com/item?id=42232040
-Points: 546
-# Comments: 126]]></summary>
-        <author>
-            <name>zkldi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SQLiteStudio: Create, edit, browse SQLite databases]]></title>
-        <id>https://news.ycombinator.com/item?id=42232000</id>
-        <link href="https://sqlitestudio.pl/"/>
-        <updated>2024-11-25T00:36:46.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://sqlitestudio.pl/
-Comments URL: https://news.ycombinator.com/item?id=42232000
-Points: 504
-# Comments: 98]]></summary>
-        <author>
-            <name>thunderbong</name>
         </author>
     </entry>
 </feed>
