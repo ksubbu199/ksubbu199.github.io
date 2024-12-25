@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=42506577",
+          "author": "joshagilend",
+          "description": "What are some of your favorite memories from Christmas? Share them here :)\n- Josh :)\nComments URL: https://news.ycombinator.com/item?id=42506577\nPoints: 528\n# Comments: 162",
+          "link": "https://news.ycombinator.com/item?id=42506577",
+          "publishedOn": "2024-12-25T03:10:07.000Z",
+          "wordCount": 10942,
+          "title": "Merry Christmas Everyone",
+          "imageUrl": null
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=42505454",
           "author": "ajdude",
           "description": "Article URL: https://github.com/Jaennaet/pISSStream\nComments URL: https://news.ycombinator.com/item?id=42505454\nPoints: 513\n# Comments: 130",
@@ -864,16 +874,6 @@
           "wordCount": 5963,
           "title": "Lies we tell ourselves to keep using Golang (2022)",
           "imageUrl": "https://cdn.fasterthanli.me/content/img/logo-square-2~12319eaafaaf55d3.png"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=42240678",
-          "author": "Sirupsen",
-          "description": "Article URL: https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-s3-functionality-conditional-writes/\nComments URL: https://news.ycombinator.com/item?id=42240678\nPoints: 501\n# Comments: 146",
-          "link": "https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-s3-functionality-conditional-writes/",
-          "publishedOn": "2024-11-25T22:11:31.000Z",
-          "wordCount": 1019,
-          "title": "Amazon S3 Adds Put-If-Match (Compare-and-Swap)",
-          "imageUrl": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
         }
       ]
     },

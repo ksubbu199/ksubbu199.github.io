@@ -2,10 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-12-25T09:16:58.692Z</updated>
+    <updated>2024-12-25T10:16:41.241Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Merry Christmas Everyone]]></title>
+        <id>https://news.ycombinator.com/item?id=42506577</id>
+        <link href="https://news.ycombinator.com/item?id=42506577"/>
+        <updated>2024-12-25T03:10:07.000Z</updated>
+        <summary type="html"><![CDATA[What are some of your favorite memories from Christmas? Share them here :)
+- Josh :)
+Comments URL: https://news.ycombinator.com/item?id=42506577
+Points: 528
+# Comments: 162]]></summary>
+        <author>
+            <name>joshagilend</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[macOS menu bar app that shows how full the ISS urine tank is in real time]]></title>
         <id>https://news.ycombinator.com/item?id=42505454</id>
@@ -1614,19 +1628,6 @@ Points: 342
 # Comments: 510]]></summary>
         <author>
             <name>reillyse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon S3 Adds Put-If-Match (Compare-and-Swap)]]></title>
-        <id>https://news.ycombinator.com/item?id=42240678</id>
-        <link href="https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-s3-functionality-conditional-writes/"/>
-        <updated>2024-11-25T22:11:31.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-s3-functionality-conditional-writes/
-Comments URL: https://news.ycombinator.com/item?id=42240678
-Points: 501
-# Comments: 146]]></summary>
-        <author>
-            <name>Sirupsen</name>
         </author>
     </entry>
 </feed>
