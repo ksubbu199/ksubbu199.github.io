@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-12-25T23:15:30.353Z</updated>
+    <updated>2024-12-26T01:16:00.609Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -89,6 +89,19 @@ Points: 501
         <summary type="html"><![CDATA[If you’re new to Python, or perhaps coding in general (welcome!), loops are what allow us to do the same thing over and over and over again, without having to re-type the same code each time.]]></summary>
         <author>
             <name>Boot.dev Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cognitive load is what matters]]></title>
+        <id>https://news.ycombinator.com/item?id=42489645</id>
+        <link href="https://minds.md/zakirullin/cognitive"/>
+        <updated>2024-12-22T22:18:12.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://minds.md/zakirullin/cognitive
+Comments URL: https://news.ycombinator.com/item?id=42489645
+Points: 621
+# Comments: 256]]></summary>
+        <author>
+            <name>zdw</name>
         </author>
     </entry>
     <entry>
