@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-12-26T05:15:58.476Z</updated>
+    <updated>2024-12-26T06:23:55.451Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -1627,16 +1627,6 @@ Points: 500
 # Comments: 234]]></summary>
         <author>
             <name>zdw</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Which IDEs do software engineers love, and why?]]></title>
-        <id>6745fe61bb09ed00018ab2d7</id>
-        <link href="https://blog.pragmaticengineer.com/ide-that-software-engineers-love/"/>
-        <updated>2024-11-26T17:23:16.000Z</updated>
-        <summary type="html"><![CDATA[oftware engineers shared their favorite IDEs on social media, and the most-mentioned one by a comfortable margin was Cursor. WindSurf and Zed also seem to be getting traction at the expense of Visual Studio, and JetBrains.]]></summary>
-        <author>
-            <name>Gergely Orosz</name>
         </author>
     </entry>
 </feed>
