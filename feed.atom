@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-12-26T23:15:32.714Z</updated>
+    <updated>2024-12-27T01:16:18.238Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -53,6 +53,16 @@ Points: 528
 # Comments: 162]]></summary>
         <author>
             <name>joshagilend</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lists in Python]]></title>
+        <id>https://blog.boot.dev/tutorials/python/lists/</id>
+        <link href="https://blog.boot.dev/tutorials/python/lists/"/>
+        <updated>2024-12-25T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Lists 🔗 A natural way to organize and store data is in a List. Some languages call them “arrays”, but in Python, we just call them lists.]]></summary>
+        <author>
+            <name>Boot.dev Blog</name>
         </author>
     </entry>
     <entry>

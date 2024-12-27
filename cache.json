@@ -889,6 +889,16 @@
       "siteUrl": "https://blog.boot.dev/",
       "articles": [
         {
+          "id": "https://blog.boot.dev/tutorials/python/lists/",
+          "author": null,
+          "description": "Lists 🔗 A natural way to organize and store data is in a List. Some languages call them “arrays”, but in Python, we just call them lists.",
+          "link": "https://blog.boot.dev/tutorials/python/lists/",
+          "publishedOn": "2024-12-25T00:00:00.000Z",
+          "wordCount": 1988,
+          "title": "Lists in Python",
+          "imageUrl": "https://blog.boot.dev/img/800/wagslane_snakes_all_slithering_in_a_line__studio_ghibli_anime_92c11046-1c25-44da-a9df-550614ab5404_0.png.webp"
+        },
+        {
           "id": "https://blog.boot.dev/tutorials/python/loops/",
           "author": null,
           "description": "If you’re new to Python, or perhaps coding in general (welcome!), loops are what allow us to do the same thing over and over and over again, without having to re-type the same code each time.",
