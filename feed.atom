@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-12-27T07:16:20.880Z</updated>
+    <updated>2024-12-27T08:20:48.043Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -1624,19 +1624,6 @@ What will change?
 Starting on 1 December 2024, 01:00 am CET, we will begin charging new prices for newly-created Cloud servers and introduce new amounts for included traffic for Cloud Servers and Load balancers at the US locations in Ashburn (ASH) and Hillsboro (HIL). This also applies to existing Cloud servers and Load balancers that are switched to a different tariff using the “Rescale” function. For any existing Cloud servers and Load balancers you have at these locations, the new prices and the new amounts for included traffic will apply later, starting on 1 February 2025, 01:00…]]></summary>
         <author>
             <name>hyperknot</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Malware can turn off webcam LED and record video, demonstrated on ThinkPad X230]]></title>
-        <id>https://news.ycombinator.com/item?id=42259278</id>
-        <link href="https://github.com/xairy/lights-out"/>
-        <updated>2024-11-27T20:10:55.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://github.com/xairy/lights-out
-Comments URL: https://news.ycombinator.com/item?id=42259278
-Points: 528
-# Comments: 310]]></summary>
-        <author>
-            <name>xairy</name>
         </author>
     </entry>
 </feed>
