@@ -26,6 +26,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://news.ycombinator.com/item?id=42524174",
+          "author": "nabla9",
+          "description": "Article URL: https://www.lloydslist.com/LL1151955/Russia-linked-cable-cutting-tanker-seized-by-Finland-was-loaded-with-spying-equipment\nComments URL: https://news.ycombinator.com/item?id=42524174\nPoints: 508\n# Comments: 393",
+          "link": "https://www.lloydslist.com/LL1151955/Russia-linked-cable-cutting-tanker-seized-by-Finland-was-loaded-with-spying-equipment",
+          "publishedOn": "2024-12-27T17:36:50.000Z",
+          "wordCount": 3844,
+          "title": "Cable-cutting tanker seized by Finland 'was loaded with spying equipment'",
+          "imageUrl": "https://www.lloydslist.com/-/media/lloyds-list/images/tankers-and-gas/2024-new-pictures/finnish-coastguard-eagle-s.png?rev=00dfe07f8a074a4bace0f17ae9788014"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=42523745",
           "author": "uticus",
           "description": "Article URL: https://www.lucaiaconistewart.com/model-777\nComments URL: https://news.ycombinator.com/item?id=42523745\nPoints: 501\n# Comments: 89",
@@ -64,6 +74,16 @@
           "wordCount": 56042,
           "title": "Ghostty 1.0",
           "imageUrl": "/social-share-card.jpg"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=42514105",
+          "author": "Geekette",
+          "description": "Article URL: https://www.architecturaldigest.com/story/should-more-of-us-be-moving-to-live-near-friends\nComments URL: https://news.ycombinator.com/item?id=42514105\nPoints: 500\n# Comments: 368",
+          "link": "https://www.architecturaldigest.com/story/should-more-of-us-be-moving-to-live-near-friends",
+          "publishedOn": "2024-12-26T09:23:08.000Z",
+          "wordCount": 29592,
+          "title": "Should more of us be moving to live near friends?",
+          "imageUrl": "https://media.architecturaldigest.com/photos/6761de954397e661294fc286/16:9/w_1280,c_limit/livingnearfriends-3%20copy.jpg"
         },
         {
           "id": "https://news.ycombinator.com/item?id=42512896",
@@ -953,16 +973,6 @@
           "publishedOn": "2024-12-12T09:28:22.000Z",
           "wordCount": 2076,
           "title": "\"Rules\" that terminal programs follow",
-          "imageUrl": null
-        },
-        {
-          "id": "https://jvns.ca/blog/2024/11/29/why-pipes-get-stuck-buffering/",
-          "author": null,
-          "description": "Here’s a niche terminal problem that has bothered me for years but that I never\nreally understood until a few weeks ago. Let’s say you’re running this command\nto watch for some specific output in a log file:\ntail -f /some/log/file | grep thing1 | grep thing2\n\nIf log lines are being added to the file relatively slowly, the result I’d see\nis… nothing! It doesn’t matter if there were matches in the log file or not,\nthere just wouldn’t be any output.\nI internalized this as “uh, I guess pipes just get stuck sometimes and don’t\nshow me the output, that’s weird”, and I’d handle it by just\nrunning grep thing1 /some/log/file | grep thing2 instead, which would work.\nSo as I’ve been doing a terminal deep dive over the last few months I was\nreally excited to finally learn exactly why this happens.\nwhy…",
-          "link": "https://jvns.ca/blog/2024/11/29/why-pipes-get-stuck-buffering/",
-          "publishedOn": "2024-11-29T08:23:31.000Z",
-          "wordCount": 1978,
-          "title": "Why pipes sometimes get \"stuck\": buffering",
           "imageUrl": null
         }
       ]

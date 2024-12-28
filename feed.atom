@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-12-28T20:16:55.676Z</updated>
+    <updated>2024-12-28T21:13:45.782Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -30,6 +30,19 @@ Points: 503
 # Comments: 85]]></summary>
         <author>
             <name>hacka22</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cable-cutting tanker seized by Finland 'was loaded with spying equipment']]></title>
+        <id>https://news.ycombinator.com/item?id=42524174</id>
+        <link href="https://www.lloydslist.com/LL1151955/Russia-linked-cable-cutting-tanker-seized-by-Finland-was-loaded-with-spying-equipment"/>
+        <updated>2024-12-27T17:36:50.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.lloydslist.com/LL1151955/Russia-linked-cable-cutting-tanker-seized-by-Finland-was-loaded-with-spying-equipment
+Comments URL: https://news.ycombinator.com/item?id=42524174
+Points: 508
+# Comments: 393]]></summary>
+        <author>
+            <name>nabla9</name>
         </author>
     </entry>
     <entry>
@@ -100,6 +113,19 @@ Points: 593
 # Comments: 136]]></summary>
         <author>
             <name>matrixhelix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Should more of us be moving to live near friends?]]></title>
+        <id>https://news.ycombinator.com/item?id=42514105</id>
+        <link href="https://www.architecturaldigest.com/story/should-more-of-us-be-moving-to-live-near-friends"/>
+        <updated>2024-12-26T09:23:08.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.architecturaldigest.com/story/should-more-of-us-be-moving-to-live-near-friends
+Comments URL: https://news.ycombinator.com/item?id=42514105
+Points: 500
+# Comments: 368]]></summary>
+        <author>
+            <name>Geekette</name>
         </author>
     </entry>
     <entry>
@@ -1631,29 +1657,6 @@ Points: 516
         <summary type="html"><![CDATA[The last 12 months, The Pragmatic Engineer covered a variety of deepdives, revealing previously unshared details like what Stripe's engineering culture is like, The architecture evolution of Bluesky, How the ChatGPT scaled to meet demand, How Anthropic builds products, How and why hardware startup threaOxide built two new]]></summary>
         <author>
             <name>Gergely Orosz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why pipes sometimes get "stuck": buffering]]></title>
-        <id>https://jvns.ca/blog/2024/11/29/why-pipes-get-stuck-buffering/</id>
-        <link href="https://jvns.ca/blog/2024/11/29/why-pipes-get-stuck-buffering/"/>
-        <updated>2024-11-29T08:23:31.000Z</updated>
-        <summary type="html"><![CDATA[Here’s a niche terminal problem that has bothered me for years but that I never
-really understood until a few weeks ago. Let’s say you’re running this command
-to watch for some specific output in a log file:
-tail -f /some/log/file | grep thing1 | grep thing2
-
-If log lines are being added to the file relatively slowly, the result I’d see
-is… nothing! It doesn’t matter if there were matches in the log file or not,
-there just wouldn’t be any output.
-I internalized this as “uh, I guess pipes just get stuck sometimes and don’t
-show me the output, that’s weird”, and I’d handle it by just
-running grep thing1 /some/log/file | grep thing2 instead, which would work.
-So as I’ve been doing a terminal deep dive over the last few months I was
-really excited to finally learn exactly why this happens.
-why…]]></summary>
-        <author>
-            <name>Julia Evans</name>
         </author>
     </entry>
 </feed>
