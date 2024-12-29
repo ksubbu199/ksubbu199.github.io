@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-12-29T07:14:10.066Z</updated>
+    <updated>2024-12-29T08:19:50.688Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -31,6 +31,19 @@
         <updated>2024-12-29T06:53:21.000Z</updated>
         <author>
             <name>Think School</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fish 4.0: The Fish of Theseus]]></title>
+        <id>https://news.ycombinator.com/item?id=42535217</id>
+        <link href="https://fishshell.com/blog/rustport/"/>
+        <updated>2024-12-28T22:07:15.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://fishshell.com/blog/rustport/
+Comments URL: https://news.ycombinator.com/item?id=42535217
+Points: 510
+# Comments: 83]]></summary>
+        <author>
+            <name>jdxcode</name>
         </author>
     </entry>
     <entry>
@@ -1678,19 +1691,6 @@ Points: 501
 # Comments: 312]]></summary>
         <author>
             <name>hazebooth</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What does this button do? – My new car has a mysterious and undocumented switch]]></title>
-        <id>https://news.ycombinator.com/item?id=42276620</id>
-        <link href="https://blog.koenvh.nl/what-does-this-button-do-cm42u2oi7000a09l42f54g2pr"/>
-        <updated>2024-11-29T19:59:47.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://blog.koenvh.nl/what-does-this-button-do-cm42u2oi7000a09l42f54g2pr
-Comments URL: https://news.ycombinator.com/item?id=42276620
-Points: 516
-# Comments: 367]]></summary>
-        <author>
-            <name>Koenvh</name>
         </author>
     </entry>
 </feed>

@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=42535217",
+          "author": "jdxcode",
+          "description": "Article URL: https://fishshell.com/blog/rustport/\nComments URL: https://news.ycombinator.com/item?id=42535217\nPoints: 510\n# Comments: 83",
+          "link": "https://fishshell.com/blog/rustport/",
+          "publishedOn": "2024-12-28T22:07:15.000Z",
+          "wordCount": 4546,
+          "title": "Fish 4.0: The Fish of Theseus",
+          "imageUrl": null
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=42533685",
           "author": "latexr",
           "description": "Article URL: https://lapcatsoftware.com/articles/2024/12/3.html\nComments URL: https://news.ycombinator.com/item?id=42533685\nPoints: 525\n# Comments: 414",
@@ -904,16 +914,6 @@
           "wordCount": 6349,
           "title": "Breaking the 4Chan CAPTCHA",
           "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=42276620",
-          "author": "Koenvh",
-          "description": "Article URL: https://blog.koenvh.nl/what-does-this-button-do-cm42u2oi7000a09l42f54g2pr\nComments URL: https://news.ycombinator.com/item?id=42276620\nPoints: 516\n# Comments: 367",
-          "link": "https://blog.koenvh.nl/what-does-this-button-do-cm42u2oi7000a09l42f54g2pr",
-          "publishedOn": "2024-11-29T19:59:47.000Z",
-          "wordCount": 9420,
-          "title": "What does this button do? – My new car has a mysterious and undocumented switch",
-          "imageUrl": "https://blog.koenvh.nl/api/og/post?og=eyJ0aXRsZSI6IldoYXQlMjBkb2VzJTIwdGhpcyUyMGJ1dHRvbiUyMGRvJTNGIiwiYXV0aG9yIjoiS29lbiUyMHZhbiUyMEhvdmUiLCJkb21haW4iOiJibG9nLmtvZW52aC5ubCIsInBob3RvIjoiaHR0cHM6Ly9jZG4uaGFzaG5vZGUuY29tL3Jlcy9oYXNobm9kZS9pbWFnZS91cGxvYWQvdjE3MjM2Njc3NDQ1MDAvMFJpUk1TTGdMLnBuZyIsImJnY29sb3IiOiIjMDAwMDAwIiwicmVhZFRpbWUiOjQsInJlYWN0aW9ucyI6MiwiY29tbWVudHMiOjF9"
         }
       ]
     },
