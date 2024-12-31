@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-12-31T08:20:58.135Z</updated>
+    <updated>2024-12-31T09:16:35.993Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -262,6 +262,19 @@ Points: 522
         <updated>2024-12-25T13:48:08.000Z</updated>
         <author>
             <name>Think School</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[This open problem taught me what topology is [video]]]></title>
+        <id>https://news.ycombinator.com/item?id=42507185</id>
+        <link href="https://www.youtube.com/watch?v=IQqtsm-bBRU"/>
+        <updated>2024-12-25T06:08:45.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.youtube.com/watch?v=IQqtsm-bBRU
+Comments URL: https://news.ycombinator.com/item?id=42507185
+Points: 500
+# Comments: 83]]></summary>
+        <author>
+            <name>surprisetalk</name>
         </author>
     </entry>
     <entry>
