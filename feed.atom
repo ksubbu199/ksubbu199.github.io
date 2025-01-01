@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-01-01T01:22:47.536Z</updated>
+    <updated>2025-01-01T02:54:57.224Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Things we learned about LLMs in 2024]]></title>
+        <id>https://news.ycombinator.com/item?id=42560558</id>
+        <link href="https://simonwillison.net/2024/Dec/31/llms-in-2024/"/>
+        <updated>2024-12-31T18:11:06.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://simonwillison.net/2024/Dec/31/llms-in-2024/
+Comments URL: https://news.ycombinator.com/item?id=42560558
+Points: 514
+# Comments: 381]]></summary>
+        <author>
+            <name>simonw</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Tell HN: John Friel my father, internet pioneer and creator of QModem, has died]]></title>
         <id>https://news.ycombinator.com/item?id=42551900</id>
@@ -1674,19 +1687,6 @@ Points: 500
 # Comments: 262]]></summary>
         <author>
             <name>heshiebee</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Intel announces retirement of Pat Gelsinger]]></title>
-        <id>https://news.ycombinator.com/item?id=42296067</id>
-        <link href="https://www.intel.com/content/www/us/en/newsroom/news/intel-ceo-news-dec-2024.html"/>
-        <updated>2024-12-02T13:37:42.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.intel.com/content/www/us/en/newsroom/news/intel-ceo-news-dec-2024.html
-Comments URL: https://news.ycombinator.com/item?id=42296067
-Points: 534
-# Comments: 379]]></summary>
-        <author>
-            <name>tybulewicz</name>
         </author>
     </entry>
 </feed>
