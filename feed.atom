@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-01-01T20:17:20.839Z</updated>
+    <updated>2025-01-01T21:15:42.503Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[DOOM CAPTCHA]]></title>
+        <id>https://news.ycombinator.com/item?id=42566112</id>
+        <link href="https://doom-captcha.vercel.app/"/>
+        <updated>2025-01-01T14:12:15.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://doom-captcha.vercel.app/
+Comments URL: https://news.ycombinator.com/item?id=42566112
+Points: 534
+# Comments: 129]]></summary>
+        <author>
+            <name>denysvitali</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Static search trees: faster than binary search]]></title>
         <id>https://news.ycombinator.com/item?id=42562847</id>
