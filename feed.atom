@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-01-01T07:16:08.889Z</updated>
+    <updated>2025-01-01T08:21:00.068Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Happy New Year 2025]]></title>
+        <id>https://news.ycombinator.com/item?id=42562750</id>
+        <link href="https://news.ycombinator.com/item?id=42562750"/>
+        <updated>2024-12-31T23:48:36.000Z</updated>
+        <summary type="html"><![CDATA[Hey HN, this site always drags me back to visit it everyday. So for that Happy New year !
+Comments URL: https://news.ycombinator.com/item?id=42562750
+Points: 530
+# Comments: 145]]></summary>
+        <author>
+            <name>martynvandijke</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Things we learned about LLMs in 2024]]></title>
         <id>https://news.ycombinator.com/item?id=42560558</id>
@@ -1674,19 +1687,6 @@ Points: 522
 # Comments: 551]]></summary>
         <author>
             <name>Inocez</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Facebook's Little Red Book]]></title>
-        <id>https://news.ycombinator.com/item?id=42299863</id>
-        <link href="https://www.map.cv/blog/redbook"/>
-        <updated>2024-12-02T20:07:35.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.map.cv/blog/redbook
-Comments URL: https://news.ycombinator.com/item?id=42299863
-Points: 500
-# Comments: 262]]></summary>
-        <author>
-            <name>heshiebee</name>
         </author>
     </entry>
 </feed>
