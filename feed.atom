@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-01-02T01:15:46.070Z</updated>
+    <updated>2025-01-02T02:46:26.937Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -1684,35 +1684,6 @@ Points: 351
 # Comments: 522]]></summary>
         <author>
             <name>rbanffy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Designing data products: Working backwards from use cases]]></title>
-        <id>https://martinfowler.com/articles/designing-data-products.html</id>
-        <link href="https://martinfowler.com/articles/designing-data-products.html"/>
-        <updated>2024-12-03T14:04:00.000Z</updated>
-        <summary type="html"><![CDATA[Increasingly the industry is seeing the value of creating data
-       products as a core organizing principle for analytic data. Kiran
-       Prakash has helped many clients design their data products, and
-       shares what he's learned. In particular his methodical approach doesn't
-       begin by thinking about some data that might be handy to share, but
-       instead works from what consumers of a data product need.
-more…]]></summary>
-        <author>
-            <name>Martin Fowler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[South Korean president declares martial law, parliament votes to lift it]]></title>
-        <id>https://news.ycombinator.com/item?id=42306020</id>
-        <link href="https://apnews.com/article/south-korea-yoon-martial-law-997c22ac93f6a9bece68454597e577c1"/>
-        <updated>2024-12-03T13:53:50.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://apnews.com/article/south-korea-yoon-martial-law-997c22ac93f6a9bece68454597e577c1
-Comments URL: https://news.ycombinator.com/item?id=42306020
-Points: 522
-# Comments: 551]]></summary>
-        <author>
-            <name>Inocez</name>
         </author>
     </entry>
 </feed>
