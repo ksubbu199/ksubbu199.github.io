@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-01-02T04:19:44.059Z</updated>
+    <updated>2025-01-02T05:15:59.303Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[One of my papers got declined today]]></title>
+        <id>https://news.ycombinator.com/item?id=42568399</id>
+        <link href="https://mathstodon.xyz/@tao/113721192051328193"/>
+        <updated>2025-01-01T19:12:57.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://mathstodon.xyz/@tao/113721192051328193
+Comments URL: https://news.ycombinator.com/item?id=42568399
+Points: 512
+# Comments: 169]]></summary>
+        <author>
+            <name>GavCo</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[DOOM CAPTCHA]]></title>
         <id>https://news.ycombinator.com/item?id=42566112</id>
