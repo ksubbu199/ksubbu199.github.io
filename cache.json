@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=42572662",
+          "author": "AbuAssar",
+          "description": "Article URL: https://github.com/alufers/mitmproxy2swagger\nComments URL: https://news.ycombinator.com/item?id=42572662\nPoints: 514\n# Comments: 59",
+          "link": "https://github.com/alufers/mitmproxy2swagger",
+          "publishedOn": "2025-01-02T08:08:15.000Z",
+          "wordCount": 3373,
+          "title": "MitmProxy2Swagger: Automagically reverse-engineer REST APIs",
+          "imageUrl": "https://opengraph.githubassets.com/51c921ddc86fc6476898ed24860da04dea8d7fd051c15bac60612cf978bacda3/alufers/mitmproxy2swagger"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=42568399",
           "author": "GavCo",
           "description": "Article URL: https://mathstodon.xyz/@tao/113721192051328193\nComments URL: https://news.ycombinator.com/item?id=42568399\nPoints: 512\n# Comments: 169",
@@ -1340,16 +1350,6 @@
           "publishedOn": "2024-12-07T09:12:53.000Z",
           "wordCount": null,
           "title": "Biggest guest on Indian business podcast?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=TnkTZlfxy7w",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=TnkTZlfxy7w",
-          "publishedOn": "2024-12-04T10:58:35.000Z",
-          "wordCount": null,
-          "title": "The Secret to Picking The Right Crop",
           "imageUrl": null
         }
       ]
