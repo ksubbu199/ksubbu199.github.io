@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-01-02T10:16:51.948Z</updated>
+    <updated>2025-01-02T11:13:19.077Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -1664,19 +1664,6 @@ Points: 571
 # Comments: 70]]></summary>
         <author>
             <name>walz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Phoenix LiveView 1.0.0 is here]]></title>
-        <id>https://news.ycombinator.com/item?id=42312301</id>
-        <link href="https://www.phoenixframework.org/blog/phoenix-liveview-1.0-released?release=1.0"/>
-        <updated>2024-12-03T22:28:47.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.phoenixframework.org/blog/phoenix-liveview-1.0-released?release=1.0
-Comments URL: https://news.ycombinator.com/item?id=42312301
-Points: 510
-# Comments: 86]]></summary>
-        <author>
-            <name>bcardarella</name>
         </author>
     </entry>
 </feed>
