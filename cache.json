@@ -26,6 +26,16 @@
           "imageUrl": "https://doom-captcha.vercel.app/card.png"
         },
         {
+          "id": "https://news.ycombinator.com/item?id=42565606",
+          "author": "optimalsolver",
+          "description": "Article URL: https://openreview.net/forum?id=YXnwlZe0yf¬eId=yrsGpHd0Sf\nComments URL: https://news.ycombinator.com/item?id=42565606\nPoints: 505\n# Comments: 463",
+          "link": "https://openreview.net/forum?id=YXnwlZe0yf&noteId=yrsGpHd0Sf",
+          "publishedOn": "2025-01-01T12:21:18.000Z",
+          "wordCount": 702,
+          "title": "30% drop in O1-preview accuracy when Putnam problems are slightly variated",
+          "imageUrl": "https://openreview.net/images/openreview_logo_512.png"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=42562847",
           "author": "atombender",
           "description": "Article URL: https://curiouscoding.nl/posts/static-search-tree/\nComments URL: https://news.ycombinator.com/item?id=42562847\nPoints: 514\n# Comments: 154",
@@ -934,16 +944,6 @@
           "wordCount": 3552,
           "title": "Egoless Engineering",
           "imageUrl": "https://egoless.engineering/slides/slides.001.jpeg"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=42308590",
-          "author": "rbanffy",
-          "description": "Article URL: https://www.phoronix.com/review/intel-arc-b580-battlemage#google_vignette\nComments URL: https://news.ycombinator.com/item?id=42308590\nPoints: 351\n# Comments: 522",
-          "link": "https://www.phoronix.com/review/intel-arc-b580-battlemage#google_vignette",
-          "publishedOn": "2024-12-03T17:19:37.000Z",
-          "wordCount": 2061,
-          "title": "Intel announces Arc B-series \"Battlemage\" discrete graphics with Linux support",
-          "imageUrl": null
         }
       ]
     },
