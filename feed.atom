@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-01-02T17:14:27.693Z</updated>
+    <updated>2025-01-02T18:22:40.125Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The Boot.dev Beat. January 2025]]></title>
+        <id>https://blog.boot.dev/news/bootdev-beat-2025-01/</id>
+        <link href="https://blog.boot.dev/news/bootdev-beat-2025-01/"/>
+        <updated>2025-01-02T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Fastest boss defeat in the history of Boot.dev, a new AWS course, embers are live, and my chilren just won’t stop being sick for more than 4 days at a time.]]></summary>
+        <author>
+            <name>Boot.dev Blog</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[One of my papers got declined today]]></title>
         <id>https://news.ycombinator.com/item?id=42568399</id>
@@ -1640,15 +1650,6 @@ Points: 506
         <id>https://www.youtube.com/watch?v=dfPShrILZtM</id>
         <link href="https://www.youtube.com/watch?v=dfPShrILZtM"/>
         <updated>2024-12-04T06:52:10.000Z</updated>
-        <author>
-            <name>Think School</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Increase Focus?]]></title>
-        <id>https://www.youtube.com/watch?v=zDxtWcMvL3E</id>
-        <link href="https://www.youtube.com/watch?v=zDxtWcMvL3E"/>
-        <updated>2024-12-04T06:14:23.000Z</updated>
         <author>
             <name>Think School</name>
         </author>
