@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-01-02T23:15:40.623Z</updated>
+    <updated>2025-01-03T01:16:45.696Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[uBlock Origin GPL code being stolen by team behind honey browser extension]]></title>
+        <id>https://news.ycombinator.com/item?id=42576443</id>
+        <link href="https://old.reddit.com/r/uBlockOrigin/comments/1hr6xjc/ubo_quick_filters_list_being_stolen_by_team/"/>
+        <updated>2025-01-02T17:27:28.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://old.reddit.com/r/uBlockOrigin/comments/1hr6xjc/ubo_quick_filters_list_being_stolen_by_team/
+Comments URL: https://news.ycombinator.com/item?id=42576443
+Points: 572
+# Comments: 270]]></summary>
+        <author>
+            <name>extesy</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[MitmProxy2Swagger: Automagically reverse-engineer REST APIs]]></title>
         <id>https://news.ycombinator.com/item?id=42572662</id>
