@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-01-05T04:19:09.393Z</updated>
+    <updated>2025-01-05T05:15:07.967Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -17,6 +17,21 @@ Points: 501
 # Comments: 116]]></summary>
         <author>
             <name>trainsarebetter</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: I completed shipping my desktop app]]></title>
+        <id>https://news.ycombinator.com/item?id=42585009</id>
+        <link href="https://pimosa.app/"/>
+        <updated>2025-01-03T12:20:27.000Z</updated>
+        <summary type="html"><![CDATA[Hi, I'm a developer and first time i shipped the real product after observing the startups and indie hackers community for years.
+I had made so many useless apps [you should check my website https://ansh.life], but this time I built a very useful product that has a number of super easy-to-use tools in one app for video, music, and photo files. Users can compress, convert, resize, and do so much more with easy-to-use tools.
+Background: I developed a frame-by-frame video cropper to upload cropped landscape videos to Instagram Reels. However, it required FFmpeg, and as a noob video editor, I decided to incorporate more user-friendly video tools. I then introduced image and audio tools to maximize the capabilities of FFmpeg. I use my app daily, and it has surprisingly generated a few thousand dollars for me.
+Comments URL: https://news.ycombinator.com/item?id=42585009
+Points: 500
+# Comments: 270]]></summary>
+        <author>
+            <name>anshrathodfr</name>
         </author>
     </entry>
     <entry>
