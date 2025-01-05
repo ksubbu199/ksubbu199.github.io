@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-01-05T19:12:10.979Z</updated>
+    <updated>2025-01-05T20:16:30.360Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -123,6 +123,26 @@ Points: 516
 # Comments: 287]]></summary>
         <author>
             <name>tjwds</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tell HN: Impassable Cloudflare challenges are ruining my browsing experience]]></title>
+        <id>https://news.ycombinator.com/item?id=42577076</id>
+        <link href="https://news.ycombinator.com/item?id=42577076"/>
+        <updated>2025-01-02T18:19:48.000Z</updated>
+        <summary type="html"><![CDATA[I travel often. Sometimes I use a VPN, sometimes I don't. I use a heavily customized Firefox config on Linux.
+Cloudflare challenges have made large portions of the web unusable for me.
+Some recent examples
+  - The "unsubscribe" button in Indeed's job notification emails leads me to an impassable Cloudflare challenge. The "Contact Us" page is also behind an impassable Cloudflare challenge.
+  - While migrating a non-profit off of A2 Hosting, their login forces me to re-enter credentials after failing a challenge, looping endlessly.
+  - On a particularly ironic note, I tried to complain on the Cloudflare Forums—met with another impassable challenge.
+
+Is anyone else dealing with this mess?
+Comments URL: https://news.ycombinator.com/item?id=42577076
+Points: 500
+# Comments: 294]]></summary>
+        <author>
+            <name>blakeashleyjr</name>
         </author>
     </entry>
     <entry>
