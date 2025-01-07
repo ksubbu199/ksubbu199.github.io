@@ -1083,6 +1083,16 @@
       "siteUrl": "https://martinfowler.com/feed.atom",
       "articles": [
         {
+          "id": "https://martinfowler.com/articles/codemods-api-refactoring.html",
+          "author": null,
+          "description": "As a library developer, you may create a popular utility that hundreds\n      of thousands of developers rely on daily, such as lodash or React. Over\n      time, usage patterns might emerge that go beyond your initial design. When\n      this happens, you may need to extend an API by adding parameters or\n      modifying function signatures to fix edge cases. The challenge lies in\n      rolling out these breaking changes without disrupting your users’\n      workflows. Juntao Qiu begins an article to explain how we\n      can use codemods to tackle this. Codemods are a tool automating\n      large-scale code transformations, allowing developers to introduce\n      breaking API changes, and refactor legacy codebases.\nmore…",
+          "link": "https://martinfowler.com/articles/codemods-api-refactoring.html",
+          "publishedOn": "2025-01-07T14:34:00.000Z",
+          "wordCount": 2480,
+          "title": "Refactoring with Codemods to Automate API Changes",
+          "imageUrl": "https://martinfowler.com/articles/codemods-api-refactoring/card.png"
+        },
+        {
           "id": "https://martinfowler.com/articles/design-token-based-ui-architecture.html",
           "author": null,
           "description": "Design tokens are fundamental design decisions represented as data.\n       Andreas Kutschmann explains how they work\n       and how to organize them to balance scalability, maintainability and\n       developer experience.\nmore…",
@@ -1132,6 +1142,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKZozRVHRYsYHGEyNKuhhdA",
       "siteUrl": "https://www.youtube.com/channel/UCKZozRVHRYsYHGEyNKuhhdA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=Ih-nBopdJz4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Ih-nBopdJz4",
+          "publishedOn": "2025-01-07T15:01:29.000Z",
+          "wordCount": null,
+          "title": "From Naukri.com to Unicorns: Sanjeev Bikhchandani’s Entrepreneurial Secrets?",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=sbv0CfUv2TU",
           "author": null,
