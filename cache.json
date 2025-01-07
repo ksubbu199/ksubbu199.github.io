@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=42617645",
+          "author": "stpn",
+          "description": "Article URL: https://crawshaw.io/blog/programming-with-llms\nComments URL: https://news.ycombinator.com/item?id=42617645\nPoints: 534\n# Comments: 206",
+          "link": "https://crawshaw.io/blog/programming-with-llms",
+          "publishedOn": "2025-01-07T00:07:49.000Z",
+          "wordCount": 4614,
+          "title": "How I program with LLMs",
+          "imageUrl": null
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=42613221",
           "author": "polyrand",
           "description": "Article URL: https://htmx.org/essays/future/\nComments URL: https://news.ycombinator.com/item?id=42613221\nPoints: 507\n# Comments: 240",
@@ -1142,6 +1152,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKZozRVHRYsYHGEyNKuhhdA",
       "siteUrl": "https://www.youtube.com/channel/UCKZozRVHRYsYHGEyNKuhhdA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=mOaH85TWdMc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=mOaH85TWdMc",
+          "publishedOn": "2025-01-07T16:15:34.000Z",
+          "wordCount": null,
+          "title": "Investor’s Mastersclass?",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=Ih-nBopdJz4",
           "author": null,
