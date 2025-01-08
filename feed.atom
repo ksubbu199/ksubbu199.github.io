@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-01-08T15:17:47.683Z</updated>
+    <updated>2025-01-08T16:20:40.264Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -37,6 +37,19 @@ more…]]></summary>
 After each episode, you’ll walk away with pragmatic approaches you]]></summary>
         <author>
             <name>Gergely Orosz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Operating System in 1,000 Lines – Intro]]></title>
+        <id>https://news.ycombinator.com/item?id=42631873</id>
+        <link href="https://operating-system-in-1000-lines.vercel.app/en"/>
+        <updated>2025-01-08T07:18:50.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://operating-system-in-1000-lines.vercel.app/en
+Comments URL: https://news.ycombinator.com/item?id=42631873
+Points: 504
+# Comments: 56]]></summary>
+        <author>
+            <name>ingve</name>
         </author>
     </entry>
     <entry>
