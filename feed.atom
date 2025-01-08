@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-01-08T10:18:03.155Z</updated>
+    <updated>2025-01-08T11:13:33.786Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -17,6 +17,19 @@ Points: 513
 # Comments: 331]]></summary>
         <author>
             <name>gepeto42</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mistakes engineers make in large established codebases]]></title>
+        <id>https://news.ycombinator.com/item?id=42627227</id>
+        <link href="https://www.seangoedecke.com/large-established-codebases/"/>
+        <updated>2025-01-07T20:44:35.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.seangoedecke.com/large-established-codebases/
+Comments URL: https://news.ycombinator.com/item?id=42627227
+Points: 505
+# Comments: 222]]></summary>
+        <author>
+            <name>BerislavLopac</name>
         </author>
     </entry>
     <entry>
@@ -1734,19 +1747,6 @@ Points: 500
 # Comments: 597]]></summary>
         <author>
             <name>cvbox</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["This is not a joke, Funko just called my mom"]]></title>
-        <id>https://news.ycombinator.com/item?id=42371481</id>
-        <link href="https://twitter.com/itchio/status/1866239798924763227"/>
-        <updated>2024-12-09T22:56:44.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://twitter.com/itchio/status/1866239798924763227
-Comments URL: https://news.ycombinator.com/item?id=42371481
-Points: 500
-# Comments: 120]]></summary>
-        <author>
-            <name>haunter</name>
         </author>
     </entry>
 </feed>
