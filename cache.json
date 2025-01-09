@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=42645218",
+          "author": "ThomasRinsma",
+          "description": "I realized that the PDF engines of modern desktop browsers (PDFium and PDF.js) support JavaScript with enough I/O primitives to make a basic game like Tetris.\nIt was a bit tricky to find a union of features that work in both engines, but in the end it turns out that showing/hiding annotation \"fields\" works well to make monochrome pixels, and keyboard input can be achieved by typing in a text input box.\nAll in all it's quite janky but a nice reminder of how general purpose PDF scripting can be. The linked PDF is all ASCII so you can just open it in a text editor, or have a look at the source code here: https://github.com/ThomasRinsma/pdftris/blob/main/gengrid.py\nComments URL: https://news.ycombinator.com/item?id=42645218\nPoints: 502\n# Comments: 101",
+          "link": "https://th0mas.nl/downloads/pdftris.pdf",
+          "publishedOn": "2025-01-09T13:31:33.000Z",
+          "wordCount": 13165,
+          "title": "Show HN: Tetris in a PDF",
+          "imageUrl": null
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=42642089",
           "author": "OsrsNeedsf2P",
           "description": "Article URL: https://substack.evancarroll.com/p/the-erasure-of-luigi-mangione\nComments URL: https://news.ycombinator.com/item?id=42642089\nPoints: 582\n# Comments: 369",
