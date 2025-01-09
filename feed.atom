@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-01-09T18:23:27.385Z</updated>
+    <updated>2025-01-09T19:12:53.103Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -87,6 +87,19 @@ Points: 511
 more…]]></summary>
         <author>
             <name>Martin Fowler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fidget]]></title>
+        <id>https://news.ycombinator.com/item?id=42634624</id>
+        <link href="https://www.mattkeeter.com/projects/fidget/"/>
+        <updated>2025-01-08T14:30:58.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.mattkeeter.com/projects/fidget/
+Comments URL: https://news.ycombinator.com/item?id=42634624
+Points: 505
+# Comments: 48]]></summary>
+        <author>
+            <name>todsacerdoti</name>
         </author>
     </entry>
     <entry>
