@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-01-09T04:19:50.223Z</updated>
+    <updated>2025-01-09T05:15:54.239Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[I had to take down my course-swapping site or be expelled]]></title>
+        <id>https://news.ycombinator.com/item?id=42638626</id>
+        <link href="https://www.linkedin.com/posts/jdkaim_github-jdkaimhuskyswap-huskyswap-project-activity-7282609173316415488-1jdb"/>
+        <updated>2025-01-08T21:27:12.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.linkedin.com/posts/jdkaim_github-jdkaimhuskyswap-huskyswap-project-activity-7282609173316415488-1jdb
+Comments URL: https://news.ycombinator.com/item?id=42638626
+Points: 532
+# Comments: 282]]></summary>
+        <author>
+            <name>jdkaim</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[A more complex codemod]]></title>
         <id>https://martinfowler.com/articles/codemods-api-refactoring.html#RefactoringAnAvatarComponent</id>
@@ -1746,32 +1759,6 @@ Points: 513
         <summary type="html"><![CDATA[Currently, Audible’s position is hurting audiobook authors. My audiobook isn’t on Audible due to a mix of their monopolistic pricing practices, and the company’s own complacency in how long they take to approve new titles.]]></summary>
         <author>
             <name>Gergely Orosz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[From where I left]]></title>
-        <id>https://news.ycombinator.com/item?id=42378488</id>
-        <link href="https://antirez.com/news/144"/>
-        <updated>2024-12-10T16:41:52.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://antirez.com/news/144
-Comments URL: https://news.ycombinator.com/item?id=42378488
-Points: 557
-# Comments: 199]]></summary>
-        <author>
-            <name>tilt</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Google Willow Thing]]></title>
-        <id>https://news.ycombinator.com/item?id=42378407</id>
-        <link href="https://scottaaronson.blog/?p=8525"/>
-        <updated>2024-12-10T16:34:02.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://scottaaronson.blog/?p=8525
-Comments URL: https://news.ycombinator.com/item?id=42378407
-Points: 507
-# Comments: 230]]></summary>
-        <author>
-            <name>Bootvis</name>
         </author>
     </entry>
 </feed>
