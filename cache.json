@@ -1074,18 +1074,7 @@
       "title": "Julia Evans",
       "feedUrl": "https://jvns.ca/atom.xml",
       "siteUrl": "http://jvns.ca/atom.xml",
-      "articles": [
-        {
-          "id": "https://jvns.ca/blog/2024/11/26/terminal-rules/",
-          "author": null,
-          "description": "Recently I’ve been thinking about how everything that happens in the terminal\nis some combination of:\nYour operating system’s job\nYour shell’s job\nYour terminal emulator’s job\nThe job of whatever program you happen to be running (like top or vim or cat)\nThe first three (your operating system, shell, and terminal emulator) are all kind of\nknown quantities – if you’re using bash in GNOME Terminal on Linux, you can\nmore or less reason about how how all of those things interact, and some of\ntheir behaviour is standardized by POSIX.\nBut the fourth one (“whatever program you happen to be running”) feels like it\ncould do ANYTHING. How are you supposed to know how a program is going to\nbehave?\nThis post is kind of long so here’s a quick table of contents:\nprograms behave surprisingly consistently\n…",
-          "link": "https://jvns.ca/blog/2024/11/26/terminal-rules/",
-          "publishedOn": "2024-12-12T09:28:22.000Z",
-          "wordCount": 2076,
-          "title": "\"Rules\" that terminal programs follow",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Martin Fowler",
@@ -1121,16 +1110,6 @@
           "wordCount": 2480,
           "title": "Refactoring with Codemods to Automate API Changes",
           "imageUrl": "https://martinfowler.com/articles/codemods-api-refactoring/card.png"
-        },
-        {
-          "id": "https://martinfowler.com/articles/design-token-based-ui-architecture.html",
-          "author": null,
-          "description": "Design tokens are fundamental design decisions represented as data.\n       Andreas Kutschmann explains how they work\n       and how to organize them to balance scalability, maintainability and\n       developer experience.\nmore…",
-          "link": "https://martinfowler.com/articles/design-token-based-ui-architecture.html",
-          "publishedOn": "2024-12-12T09:36:00.000Z",
-          "wordCount": 3825,
-          "title": "Design Token-Based UI Architecture",
-          "imageUrl": "https://martinfowler.com/articles/design-token-based-ui-architecture/card.png"
         }
       ]
     },

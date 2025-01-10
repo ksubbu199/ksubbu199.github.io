@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-01-10T21:15:05.845Z</updated>
+    <updated>2025-01-10T22:15:25.091Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -1712,45 +1712,6 @@ Points: 537
 # Comments: 227]]></summary>
         <author>
             <name>alexmolas</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Design Token-Based UI Architecture]]></title>
-        <id>https://martinfowler.com/articles/design-token-based-ui-architecture.html</id>
-        <link href="https://martinfowler.com/articles/design-token-based-ui-architecture.html"/>
-        <updated>2024-12-12T09:36:00.000Z</updated>
-        <summary type="html"><![CDATA[Design tokens are fundamental design decisions represented as data.
-       Andreas Kutschmann explains how they work
-       and how to organize them to balance scalability, maintainability and
-       developer experience.
-more…]]></summary>
-        <author>
-            <name>Martin Fowler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["Rules" that terminal programs follow]]></title>
-        <id>https://jvns.ca/blog/2024/11/26/terminal-rules/</id>
-        <link href="https://jvns.ca/blog/2024/11/26/terminal-rules/"/>
-        <updated>2024-12-12T09:28:22.000Z</updated>
-        <summary type="html"><![CDATA[Recently I’ve been thinking about how everything that happens in the terminal
-is some combination of:
-Your operating system’s job
-Your shell’s job
-Your terminal emulator’s job
-The job of whatever program you happen to be running (like top or vim or cat)
-The first three (your operating system, shell, and terminal emulator) are all kind of
-known quantities – if you’re using bash in GNOME Terminal on Linux, you can
-more or less reason about how how all of those things interact, and some of
-their behaviour is standardized by POSIX.
-But the fourth one (“whatever program you happen to be running”) feels like it
-could do ANYTHING. How are you supposed to know how a program is going to
-behave?
-This post is kind of long so here’s a quick table of contents:
-programs behave surprisingly consistently
-…]]></summary>
-        <author>
-            <name>Julia Evans</name>
         </author>
     </entry>
 </feed>
