@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=42655870",
+          "author": "wirtzdan",
+          "description": "Article URL: https://danielwirtz.com/blog/spot-the-difference-superpower\nComments URL: https://news.ycombinator.com/item?id=42655870\nPoints: 529\n# Comments: 241",
+          "link": "https://danielwirtz.com/blog/spot-the-difference-superpower",
+          "publishedOn": "2025-01-10T14:34:34.000Z",
+          "wordCount": 1717,
+          "title": "I've acquired a new superpower",
+          "imageUrl": "https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2Fc60cb9d6-ff5a-4eb2-823a-c07963f46657%2F3a7e37ad-3416-4eb1-bbf0-238e8ae70b57%2Fannual-review-2020%25281%2529.png?table=block&id=1775e32d-8082-80be-8fab-f25be14dfce1&cache=v2"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=42645218",
           "author": "ThomasRinsma",
           "description": "I realized that the PDF engines of modern desktop browsers (PDFium and PDF.js) support JavaScript with enough I/O primitives to make a basic game like Tetris.\nIt was a bit tricky to find a union of features that work in both engines, but in the end it turns out that showing/hiding annotation \"fields\" works well to make monochrome pixels, and keyboard input can be achieved by typing in a text input box.\nAll in all it's quite janky but a nice reminder of how general purpose PDF scripting can be. The linked PDF is all ASCII so you can just open it in a text editor, or have a look at the source code here: https://github.com/ThomasRinsma/pdftris/blob/main/gengrid.py\nComments URL: https://news.ycombinator.com/item?id=42645218\nPoints: 502\n# Comments: 101",
