@@ -1054,7 +1054,18 @@
       "title": "Julia Evans",
       "feedUrl": "https://jvns.ca/atom.xml",
       "siteUrl": "http://jvns.ca/atom.xml",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://jvns.ca/blog/2025/01/11/getting-a-modern-terminal-setup/",
+          "author": null,
+          "description": "Hello! Recently I ran a terminal survey and I asked people what frustrated\nthem. One person commented:\nThere are so many pieces to having a modern terminal experience. I wish it\nall came out of the box.\nMy immediate reaction was “oh, getting a modern terminal experience isn’t that\nhard, you just need to….”, but the more I thought about it, the longer the\n“you just need to…” list got, and I kept thinking about more and more\ncaveats.\nSo I thought I would write down some notes about what it means to me personally\nto have a “modern” terminal experience and what I think can make it hard for\npeople to get there.\nwhat is a “modern terminal experience”?\nHere are a few things that are important to me, with which part of the system\nis responsible for them:\nmultiline support for copy and paste: if yo…",
+          "link": "https://jvns.ca/blog/2025/01/11/getting-a-modern-terminal-setup/",
+          "publishedOn": "2025-01-11T09:46:01.000Z",
+          "wordCount": 2134,
+          "title": "What's involved in getting a \"modern\" terminal setup?",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "Martin Fowler",

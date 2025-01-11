@@ -2,10 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-01-11T16:18:37.133Z</updated>
+    <updated>2025-01-11T17:13:30.210Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[What's involved in getting a "modern" terminal setup?]]></title>
+        <id>https://jvns.ca/blog/2025/01/11/getting-a-modern-terminal-setup/</id>
+        <link href="https://jvns.ca/blog/2025/01/11/getting-a-modern-terminal-setup/"/>
+        <updated>2025-01-11T09:46:01.000Z</updated>
+        <summary type="html"><![CDATA[Hello! Recently I ran a terminal survey and I asked people what frustrated
+them. One person commented:
+There are so many pieces to having a modern terminal experience. I wish it
+all came out of the box.
+My immediate reaction was “oh, getting a modern terminal experience isn’t that
+hard, you just need to….”, but the more I thought about it, the longer the
+“you just need to…” list got, and I kept thinking about more and more
+caveats.
+So I thought I would write down some notes about what it means to me personally
+to have a “modern” terminal experience and what I think can make it hard for
+people to get there.
+what is a “modern terminal experience”?
+Here are a few things that are important to me, with which part of the system
+is responsible for them:
+multiline support for copy and paste: if yo…]]></summary>
+        <author>
+            <name>Julia Evans</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Meta's memo to employees rolling back DEI programs]]></title>
         <id>https://news.ycombinator.com/item?id=42657901</id>
