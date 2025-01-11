@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-01-11T11:12:39.429Z</updated>
+    <updated>2025-01-11T12:30:35.911Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -1693,16 +1693,6 @@ Points: 509
 I felt like espresso machines were getting very large, plasticky, and app-integrated without actually improving the underlying technologies that make them work. The noisy vibratory pumps in particular are from 1977 and haven’t really changed since then. So I wanted to focus on making the most advanced internals I could and leaving everything else as minimalist as possible. The pump is, as far as I know, completely unique in terms of power density and price. Without spending sever…]]></summary>
         <author>
             <name>smeeeeeeeeeeeee</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Variables and Types in Python]]></title>
-        <id>https://blog.boot.dev/tutorials/python/variables/</id>
-        <link href="https://blog.boot.dev/tutorials/python/variables/"/>
-        <updated>2024-12-13T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Variables are how we store data as our program runs. You’re probably already familiar with printing data by passing it straight into print():]]></summary>
-        <author>
-            <name>Boot.dev Blog</name>
         </author>
     </entry>
 </feed>
