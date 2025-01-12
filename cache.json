@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=42671472",
+          "author": "memalign",
+          "description": "Article URL: https://www.kenney.nl/\nComments URL: https://news.ycombinator.com/item?id=42671472\nPoints: 511\n# Comments: 45",
+          "link": "https://www.kenney.nl/",
+          "publishedOn": "2025-01-12T05:17:50.000Z",
+          "wordCount": 288,
+          "title": "Kenney.nl: Free Game Assets",
+          "imageUrl": "https://www.kenney.nl/data/img/kenney-promo.png"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=42669754",
           "author": "birdculture",
           "description": "Article URL: https://matduggan.com/stop-trying-to-schedule-a-call-with-me/\nComments URL: https://news.ycombinator.com/item?id=42669754\nPoints: 505\n# Comments: 175",
@@ -1320,16 +1330,6 @@
           "publishedOn": "2024-12-14T13:03:26.000Z",
           "wordCount": null,
           "title": "Third-Party Apps Steal Accounts?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=eCIS08HQTLI",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=eCIS08HQTLI",
-          "publishedOn": "2024-12-14T11:14:43.000Z",
-          "wordCount": null,
-          "title": "Hackers Targeting Creators?",
           "imageUrl": null
         }
       ]
