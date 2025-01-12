@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-01-12T11:13:01.638Z</updated>
+    <updated>2025-01-12T12:30:24.340Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -1657,16 +1657,6 @@ Points: 502
         <updated>2024-12-14T11:14:43.000Z</updated>
         <author>
             <name>Think School</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Functions in Python]]></title>
-        <id>https://blog.boot.dev/tutorials/python/functions/</id>
-        <link href="https://blog.boot.dev/tutorials/python/functions/"/>
-        <updated>2024-12-14T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Functions in Python allow us to reuse and organize code. For example, say we have some code that calculates the area of a circle:]]></summary>
-        <author>
-            <name>Boot.dev Blog</name>
         </author>
     </entry>
 </feed>
