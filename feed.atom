@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-01-14T20:17:19.593Z</updated>
+    <updated>2025-01-14T21:15:15.736Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[I Switched to Firefox and Never Looked Back]]></title>
+        <id>https://news.ycombinator.com/item?id=42696081</id>
+        <link href="https://www.howtogeek.com/why-i-switched-to-firefox-and-never-looked-back/"/>
+        <updated>2025-01-14T11:37:58.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.howtogeek.com/why-i-switched-to-firefox-and-never-looked-back/
+Comments URL: https://news.ycombinator.com/item?id=42696081
+Points: 519
+# Comments: 433]]></summary>
+        <author>
+            <name>Vinnl</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Snyk security researcher deploys malicious NPM packages targeting cursor.com]]></title>
         <id>https://news.ycombinator.com/item?id=42690473</id>
