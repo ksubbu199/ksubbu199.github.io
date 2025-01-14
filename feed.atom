@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-01-14T15:16:52.919Z</updated>
+    <updated>2025-01-14T16:20:13.587Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -71,6 +71,19 @@ Points: 545
         <updated>2025-01-13T13:34:00.000Z</updated>
         <author>
             <name>Think School</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Debugging: Indispensable rules for finding even the most elusive problems (2004)]]></title>
+        <id>https://news.ycombinator.com/item?id=42682602</id>
+        <link href="https://dwheeler.com/essays/debugging-agans.html"/>
+        <updated>2025-01-13T12:07:42.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://dwheeler.com/essays/debugging-agans.html
+Comments URL: https://news.ycombinator.com/item?id=42682602
+Points: 501
+# Comments: 215]]></summary>
+        <author>
+            <name>omkar-foss</name>
         </author>
     </entry>
     <entry>
@@ -1736,19 +1749,6 @@ Points: 500
 # Comments: 422]]></summary>
         <author>
             <name>janandonly</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenERV]]></title>
-        <id>https://news.ycombinator.com/item?id=42427888</id>
-        <link href="https://www.openerv.ca/"/>
-        <updated>2024-12-16T03:55:10.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.openerv.ca
-Comments URL: https://news.ycombinator.com/item?id=42427888
-Points: 517
-# Comments: 149]]></summary>
-        <author>
-            <name>graboy</name>
         </author>
     </entry>
 </feed>
