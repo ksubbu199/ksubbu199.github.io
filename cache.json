@@ -1053,6 +1053,16 @@
       "siteUrl": "https://martinfowler.com/feed.atom",
       "articles": [
         {
+          "id": "https://martinfowler.com/articles/codemods-api-refactoring.html#FixingCommonPitfallsOfCodemods",
+          "author": null,
+          "description": "So far the codemods that Juntao Qiu has described are\n      fascinating, but rather straightforward. Real codebases offer more\n      challenges. In this installment, he goes into how to tackle more\n      complicated cases by composing codemods.\nmore…",
+          "link": "https://martinfowler.com/articles/codemods-api-refactoring.html#FixingCommonPitfallsOfCodemods",
+          "publishedOn": "2025-01-15T14:43:00.000Z",
+          "wordCount": 4565,
+          "title": "Fixing Common Pitfalls of Codemods",
+          "imageUrl": "https://martinfowler.com/articles/codemods-api-refactoring/card.png"
+        },
+        {
           "id": "https://martinfowler.com/articles/2024-music.html",
           "author": null,
           "description": "I've got into the habit of starting the New Year by sharing six\n      favorite albums I discovered during the last year. This years set includes\n      Celtic jazz, trip-hop neo-fado, jazz-fusion for the 2020's, playful\n      harmonies, and a vibrant collaboration between  Indian classical musicians and a\n      string quartet. (I was also unable to limit myself to six.)\nmore…",

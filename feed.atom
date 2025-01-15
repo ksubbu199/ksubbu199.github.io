@@ -2,10 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-01-15T14:14:59.127Z</updated>
+    <updated>2025-01-15T15:16:52.824Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Fixing Common Pitfalls of Codemods]]></title>
+        <id>https://martinfowler.com/articles/codemods-api-refactoring.html#FixingCommonPitfallsOfCodemods</id>
+        <link href="https://martinfowler.com/articles/codemods-api-refactoring.html#FixingCommonPitfallsOfCodemods"/>
+        <updated>2025-01-15T14:43:00.000Z</updated>
+        <summary type="html"><![CDATA[So far the codemods that Juntao Qiu has described are
+      fascinating, but rather straightforward. Real codebases offer more
+      challenges. In this installment, he goes into how to tackle more
+      complicated cases by composing codemods.
+more…]]></summary>
+        <author>
+            <name>Martin Fowler</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[I Switched to Firefox and Never Looked Back]]></title>
         <id>https://news.ycombinator.com/item?id=42696081</id>
