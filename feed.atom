@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-01-16T09:16:56.612Z</updated>
+    <updated>2025-01-16T10:16:59.450Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -17,6 +17,19 @@ Points: 501
 # Comments: 228]]></summary>
         <author>
             <name>toomuchtodo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why is Cloudflare Pages' bandwidth unlimited?]]></title>
+        <id>https://news.ycombinator.com/item?id=42712433</id>
+        <link href="https://mattsayar.com/why-does-cloudflare-pages-have-such-a-generous-free-tier/"/>
+        <updated>2025-01-15T15:55:13.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://mattsayar.com/why-does-cloudflare-pages-have-such-a-generous-free-tier/
+Comments URL: https://news.ycombinator.com/item?id=42712433
+Points: 510
+# Comments: 307]]></summary>
+        <author>
+            <name>MattSayar</name>
         </author>
     </entry>
     <entry>
