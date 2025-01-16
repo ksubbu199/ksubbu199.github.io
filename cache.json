@@ -16,6 +16,16 @@
           "imageUrl": "https://keygen.sh/images/no-calls.png"
         },
         {
+          "id": "https://news.ycombinator.com/item?id=42724621",
+          "author": "HelloUsername",
+          "description": "Article URL: https://www.youtube.com/watch?v=itpcsQQvgAQ\nComments URL: https://news.ycombinator.com/item?id=42724621\nPoints: 536\n# Comments: 708",
+          "link": "https://www.youtube.com/watch?v=itpcsQQvgAQ",
+          "publishedOn": "2025-01-16T13:08:14.000Z",
+          "wordCount": null,
+          "title": "Nintendo announces the Switch 2 [video]",
+          "imageUrl": null
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=42717234",
           "author": "toomuchtodo",
           "description": "Article URL: https://hindenburgresearch.com/gratitude/\nComments URL: https://news.ycombinator.com/item?id=42717234\nPoints: 501\n# Comments: 228",
@@ -1011,7 +1021,18 @@
       "title": "/dev/lawyer",
       "feedUrl": "https://writing.kemitchell.com/feed.xml",
       "siteUrl": "https://writing.kemitchell.com",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://writing.kemitchell.com/2025/01/16/Provisional-Guidance-LLM-Code",
+          "author": null,
+          "description": "available intuition for avoiding big risks",
+          "link": "https://writing.kemitchell.com/2025/01/16/Provisional-Guidance-LLM-Code",
+          "publishedOn": "2025-01-16T19:38:14.000Z",
+          "wordCount": 3220,
+          "title": "Provisional Guidance for Users of LLM-Based Code Generators",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "Boot.dev Blog",
