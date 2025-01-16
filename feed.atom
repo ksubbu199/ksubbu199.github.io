@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-01-16T07:15:08.261Z</updated>
+    <updated>2025-01-16T08:20:18.037Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[I have made the decision to disband Hindenburg Research]]></title>
+        <id>https://news.ycombinator.com/item?id=42717234</id>
+        <link href="https://hindenburgresearch.com/gratitude/"/>
+        <updated>2025-01-15T21:23:55.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://hindenburgresearch.com/gratitude/
+Comments URL: https://news.ycombinator.com/item?id=42717234
+Points: 501
+# Comments: 228]]></summary>
+        <author>
+            <name>toomuchtodo</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Fixing Common Pitfalls of Codemods]]></title>
         <id>https://martinfowler.com/articles/codemods-api-refactoring.html#FixingCommonPitfallsOfCodemods</id>
@@ -31,6 +44,19 @@ Points: 513
 # Comments: 1422]]></summary>
         <author>
             <name>xnhbx</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nobody cares]]></title>
+        <id>https://news.ycombinator.com/item?id=42707238</id>
+        <link href="https://grantslatton.com/nobody-cares"/>
+        <updated>2025-01-15T04:15:43.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://grantslatton.com/nobody-cares
+Comments URL: https://news.ycombinator.com/item?id=42707238
+Points: 527
+# Comments: 484]]></summary>
+        <author>
+            <name>fzliu</name>
         </author>
     </entry>
     <entry>
