@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=42710339",
+          "author": "xnhbx",
+          "description": "Article URL: https://www.reuters.com/technology/tiktok-preparing-us-shut-off-sunday-information-reports-2025-01-15/\nComments URL: https://news.ycombinator.com/item?id=42710339\nPoints: 513\n# Comments: 1422",
+          "link": "https://www.reuters.com/technology/tiktok-preparing-us-shut-off-sunday-information-reports-2025-01-15/",
+          "publishedOn": "2025-01-15T12:57:31.000Z",
+          "wordCount": null,
+          "title": "TikTok preparing for U.S. shut-off on Sunday",
+          "imageUrl": null
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=42696081",
           "author": "Vinnl",
           "description": "Article URL: https://www.howtogeek.com/why-i-switched-to-firefox-and-never-looked-back/\nComments URL: https://news.ycombinator.com/item?id=42696081\nPoints: 519\n# Comments: 433",
@@ -964,16 +974,6 @@
           "wordCount": 16379,
           "title": "Moon",
           "imageUrl": "https://ciechanow.ski/images/og/moon.png"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=42441333",
-          "author": "vinnyglennon",
-          "description": "Article URL: https://brightonruby.com/2024/getting-to-2-million-users-as-a-one-woman-dev-team/\nComments URL: https://news.ycombinator.com/item?id=42441333\nPoints: 526\n# Comments: 206",
-          "link": "https://brightonruby.com/2024/getting-to-2-million-users-as-a-one-woman-dev-team/",
-          "publishedOn": "2024-12-17T13:53:42.000Z",
-          "wordCount": 255,
-          "title": "Getting to 2M users as a one woman dev team [video]",
-          "imageUrl": null
         }
       ]
     },

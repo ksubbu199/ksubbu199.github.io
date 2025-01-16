@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-01-16T01:14:34.655Z</updated>
+    <updated>2025-01-16T02:41:23.234Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -18,6 +18,19 @@
 more…]]></summary>
         <author>
             <name>Martin Fowler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TikTok preparing for U.S. shut-off on Sunday]]></title>
+        <id>https://news.ycombinator.com/item?id=42710339</id>
+        <link href="https://www.reuters.com/technology/tiktok-preparing-us-shut-off-sunday-information-reports-2025-01-15/"/>
+        <updated>2025-01-15T12:57:31.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.reuters.com/technology/tiktok-preparing-us-shut-off-sunday-information-reports-2025-01-15/
+Comments URL: https://news.ycombinator.com/item?id=42710339
+Points: 513
+# Comments: 1422]]></summary>
+        <author>
+            <name>xnhbx</name>
         </author>
     </entry>
     <entry>
@@ -1664,19 +1677,6 @@ Points: 756
 # Comments: 85]]></summary>
         <author>
             <name>todsacerdoti</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Getting to 2M users as a one woman dev team [video]]]></title>
-        <id>https://news.ycombinator.com/item?id=42441333</id>
-        <link href="https://brightonruby.com/2024/getting-to-2-million-users-as-a-one-woman-dev-team/"/>
-        <updated>2024-12-17T13:53:42.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://brightonruby.com/2024/getting-to-2-million-users-as-a-one-woman-dev-team/
-Comments URL: https://news.ycombinator.com/item?id=42441333
-Points: 526
-# Comments: 206]]></summary>
-        <author>
-            <name>vinnyglennon</name>
         </author>
     </entry>
 </feed>
