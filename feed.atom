@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-01-17T10:16:56.144Z</updated>
+    <updated>2025-01-17T11:14:15.352Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Starship Flight 7]]></title>
+        <id>https://news.ycombinator.com/item?id=42731091</id>
+        <link href="https://www.spacex.com/launches/mission/?missionId=starship-flight-7?submit"/>
+        <updated>2025-01-16T21:25:24.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.spacex.com/launches/mission/?missionId=starship-flight-7?submit
+Comments URL: https://news.ycombinator.com/item?id=42731091
+Points: 508
+# Comments: 403]]></summary>
+        <author>
+            <name>chinathrow</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Provisional Guidance for Users of LLM-Based Code Generators]]></title>
         <id>https://writing.kemitchell.com/2025/01/16/Provisional-Guidance-LLM-Code</id>
