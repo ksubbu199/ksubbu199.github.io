@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-01-17T19:13:28.116Z</updated>
+    <updated>2025-01-17T20:16:59.108Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -75,6 +75,16 @@ Points: 570
 # Comments: 318]]></summary>
         <author>
             <name>romanzipp</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[18 Months with GPT-4: Now Can I Fire my Developers?]]></title>
+        <id>https://blog.boot.dev/computer-science/18-months-with-gpt-4/</id>
+        <link href="https://blog.boot.dev/computer-science/18-months-with-gpt-4/"/>
+        <updated>2025-01-17T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[As the founder of a company where my largest static expense is engineering salaries, I’m over here just chomping at the bit, eagerly awaiting the moment I can fire everyone and line my pockets with all those juicy savings.]]></summary>
+        <author>
+            <name>Boot.dev Blog</name>
         </author>
     </entry>
     <entry>
