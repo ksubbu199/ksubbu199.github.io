@@ -26,6 +26,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://news.ycombinator.com/item?id=42749402",
+          "author": "kai-tub",
+          "description": "I created a TUI for systemd/systemctl called isd (interactive systemd).\nIt provides a fuzzy search for units, auto-refreshing previews, smart sudo handling, and a fully customizable, keyboard-focused interface for power users and newcomers alike.\nIt is a more powerful (but heavier) version of sysz, which was the inspiration for the project.\nThis should be a huge timesaver for anybody who frequently interacts with or edits systemd units/services. And if not, please let me know why! :)\nComments URL: https://news.ycombinator.com/item?id=42749402\nPoints: 504\n# Comments: 193",
+          "link": "https://isd-project.github.io/isd/",
+          "publishedOn": "2025-01-18T16:22:03.000Z",
+          "wordCount": 1520,
+          "title": "Show HN: Interactive systemd – a better way to work with systemd units",
+          "imageUrl": "https://isd-project.github.io/isd/assets/images/social/index.png"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=42743019",
           "author": "dban",
           "description": "Article URL: https://blog.railway.com/p/data-center-build-part-one\nComments URL: https://news.ycombinator.com/item?id=42743019\nPoints: 503\n# Comments: 220",

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-01-19T21:13:50.682Z</updated>
+    <updated>2025-01-19T22:15:31.873Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -30,6 +30,22 @@ Points: 509
 # Comments: 196]]></summary>
         <author>
             <name>OptionOfT</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Interactive systemd – a better way to work with systemd units]]></title>
+        <id>https://news.ycombinator.com/item?id=42749402</id>
+        <link href="https://isd-project.github.io/isd/"/>
+        <updated>2025-01-18T16:22:03.000Z</updated>
+        <summary type="html"><![CDATA[I created a TUI for systemd/systemctl called isd (interactive systemd).
+It provides a fuzzy search for units, auto-refreshing previews, smart sudo handling, and a fully customizable, keyboard-focused interface for power users and newcomers alike.
+It is a more powerful (but heavier) version of sysz, which was the inspiration for the project.
+This should be a huge timesaver for anybody who frequently interacts with or edits systemd units/services. And if not, please let me know why! :)
+Comments URL: https://news.ycombinator.com/item?id=42749402
+Points: 504
+# Comments: 193]]></summary>
+        <author>
+            <name>kai-tub</name>
         </author>
     </entry>
     <entry>
