@@ -26,6 +26,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://news.ycombinator.com/item?id=42750195",
+          "author": "vortex_ape",
+          "description": "Article URL: https://github.com/tonybaloney/vscode-pets\nComments URL: https://news.ycombinator.com/item?id=42750195\nPoints: 503\n# Comments: 126",
+          "link": "https://github.com/tonybaloney/vscode-pets",
+          "publishedOn": "2025-01-18T18:17:59.000Z",
+          "wordCount": 2240,
+          "title": "VS Code Pets",
+          "imageUrl": "https://opengraph.githubassets.com/2f4008e21d7cefb63bd5892ab95d66760a6a82ba440ba0032b6ec6e8d38dc81c/tonybaloney/vscode-pets"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=42749402",
           "author": "kai-tub",
           "description": "I created a TUI for systemd/systemctl called isd (interactive systemd).\nIt provides a fuzzy search for units, auto-refreshing previews, smart sudo handling, and a fully customizable, keyboard-focused interface for power users and newcomers alike.\nIt is a more powerful (but heavier) version of sysz, which was the inspiration for the project.\nThis should be a huge timesaver for anybody who frequently interacts with or edits systemd units/services. And if not, please let me know why! :)\nComments URL: https://news.ycombinator.com/item?id=42749402\nPoints: 504\n# Comments: 193",
