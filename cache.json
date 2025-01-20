@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=42768072",
+          "author": "meetpateltech",
+          "description": "Article URL: https://github.com/deepseek-ai/DeepSeek-R1\nComments URL: https://news.ycombinator.com/item?id=42768072\nPoints: 594\n# Comments: 196",
+          "link": "https://github.com/deepseek-ai/DeepSeek-R1",
+          "publishedOn": "2025-01-20T12:37:58.000Z",
+          "wordCount": 4673,
+          "title": "DeepSeek-R1",
+          "imageUrl": "https://opengraph.githubassets.com/7e6300cd1025ea430771717c5f8cc2a5c45b9c314d195c56478a29e6c89176bb/deepseek-ai/DeepSeek-R1"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=42763095",
           "author": "mariuz",
           "description": "Article URL: https://www.vintagecomputing.com/index.php/archives/3292/the-pc-is-dead-its-time-to-make-computing-personal-again\nComments URL: https://news.ycombinator.com/item?id=42763095\nPoints: 504\n# Comments: 228",
@@ -64,6 +74,16 @@
           "wordCount": 1520,
           "title": "Show HN: Interactive systemd – a better way to work with systemd units",
           "imageUrl": "https://isd-project.github.io/isd/assets/images/social/index.png"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=42743033",
+          "author": "zdw",
+          "description": "Article URL: https://lcamtuf.substack.com/p/investigating-an-evil-rj45-dongle\nComments URL: https://news.ycombinator.com/item?id=42743033\nPoints: 500\n# Comments: 167",
+          "link": "https://lcamtuf.substack.com/p/investigating-an-evil-rj45-dongle",
+          "publishedOn": "2025-01-17T20:41:56.000Z",
+          "wordCount": null,
+          "title": "Investigating an “evil” RJ45 dongle",
+          "imageUrl": null
         },
         {
           "id": "https://news.ycombinator.com/item?id=42743019",

@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-01-20T17:13:58.361Z</updated>
+    <updated>2025-01-20T18:21:23.572Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[DeepSeek-R1]]></title>
+        <id>https://news.ycombinator.com/item?id=42768072</id>
+        <link href="https://github.com/deepseek-ai/DeepSeek-R1"/>
+        <updated>2025-01-20T12:37:58.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://github.com/deepseek-ai/DeepSeek-R1
+Comments URL: https://news.ycombinator.com/item?id=42768072
+Points: 594
+# Comments: 196]]></summary>
+        <author>
+            <name>meetpateltech</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[It's time to make computing personal again]]></title>
         <id>https://news.ycombinator.com/item?id=42763095</id>
@@ -85,6 +98,19 @@ Points: 504
 # Comments: 193]]></summary>
         <author>
             <name>kai-tub</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Investigating an “evil” RJ45 dongle]]></title>
+        <id>https://news.ycombinator.com/item?id=42743033</id>
+        <link href="https://lcamtuf.substack.com/p/investigating-an-evil-rj45-dongle"/>
+        <updated>2025-01-17T20:41:56.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://lcamtuf.substack.com/p/investigating-an-evil-rj45-dongle
+Comments URL: https://news.ycombinator.com/item?id=42743033
+Points: 500
+# Comments: 167]]></summary>
+        <author>
+            <name>zdw</name>
         </author>
     </entry>
     <entry>
