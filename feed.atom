@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-01-21T18:22:36.889Z</updated>
+    <updated>2025-01-21T19:12:34.056Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -14,6 +14,19 @@
         <summary type="html"><![CDATA[Fresh data shows that the number of questions asked on StackOverflow are as low as they were back in 2009 – which was when StackOverflow was one years old. The drop suggests that ChatGPT – and LLMs – managed to make StackOverflow’s business model irrelevant in about two years’ time.]]></summary>
         <author>
             <name>Gergely Orosz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[0-click deanonymization attack targeting Signal, Discord, other platforms]]></title>
+        <id>https://news.ycombinator.com/item?id=42780816</id>
+        <link href="https://gist.github.com/hackermondev/45a3cdfa52246f1d1201c1e8cdef6117"/>
+        <updated>2025-01-21T14:59:44.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://gist.github.com/hackermondev/45a3cdfa52246f1d1201c1e8cdef6117
+Comments URL: https://news.ycombinator.com/item?id=42780816
+Points: 564
+# Comments: 196]]></summary>
+        <author>
+            <name>hackermondev</name>
         </author>
     </entry>
     <entry>
