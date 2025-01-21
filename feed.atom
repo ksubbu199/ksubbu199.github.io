@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-01-21T17:15:35.342Z</updated>
+    <updated>2025-01-21T18:22:36.889Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Are LLMs making StackOverflow irrelevant?]]></title>
+        <id>678fd76300f6800001aed569</id>
+        <link href="https://blog.pragmaticengineer.com/are-llms-making-stackoverflow-irrelevant/"/>
+        <updated>2025-01-21T17:28:36.000Z</updated>
+        <summary type="html"><![CDATA[Fresh data shows that the number of questions asked on StackOverflow are as low as they were back in 2009 – which was when StackOverflow was one years old. The drop suggests that ChatGPT – and LLMs – managed to make StackOverflow’s business model irrelevant in about two years’ time.]]></summary>
+        <author>
+            <name>Gergely Orosz</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Elon Musk’s Masterstroke!]]></title>
         <id>https://www.youtube.com/watch?v=hySf1Sk9QRg</id>
