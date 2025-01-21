@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-01-21T01:14:23.661Z</updated>
+    <updated>2025-01-21T02:42:19.856Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -30,6 +30,19 @@ Points: 542
 # Comments: 336]]></summary>
         <author>
             <name>DamonHD</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Reverse Engineering Bambu Connect]]></title>
+        <id>https://news.ycombinator.com/item?id=42764602</id>
+        <link href="https://wiki.rossmanngroup.com/wiki/Reverse_Engineering_Bambu_Connect"/>
+        <updated>2025-01-20T03:08:49.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://wiki.rossmanngroup.com/wiki/Reverse_Engineering_Bambu_Connect
+Comments URL: https://news.ycombinator.com/item?id=42764602
+Points: 500
+# Comments: 316]]></summary>
+        <author>
+            <name>pabs3</name>
         </author>
     </entry>
     <entry>
