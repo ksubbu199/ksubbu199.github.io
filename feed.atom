@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-01-22T15:17:14.299Z</updated>
+    <updated>2025-01-22T16:20:51.999Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Codemods in other languages]]></title>
+        <id>https://martinfowler.com/articles/codemods-api-refactoring.html#CodemodsInOtherLanguages</id>
+        <link href="https://martinfowler.com/articles/codemods-api-refactoring.html#CodemodsInOtherLanguages"/>
+        <updated>2025-01-22T15:54:00.000Z</updated>
+        <summary type="html"><![CDATA[Juntao Qiu finishes his description of codemods by
+      looking at some other approaches outside the JavaScript world such as
+      JavaParser and OpenRewrite.
+more…]]></summary>
+        <author>
+            <name>Martin Fowler</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ross Ulbricht granted a full pardon]]></title>
         <id>https://news.ycombinator.com/item?id=42786962</id>
@@ -30,6 +43,19 @@ Points: 518
 # Comments: 558]]></summary>
         <author>
             <name>tedsanders</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ask HN: Is anyone doing anything cool with tiny language models?]]></title>
+        <id>https://news.ycombinator.com/item?id=42784365</id>
+        <link href="https://news.ycombinator.com/item?id=42784365"/>
+        <updated>2025-01-21T19:39:39.000Z</updated>
+        <summary type="html"><![CDATA[I mean anything in the 0.5B-3B range that's available on Ollama (for example). Have you built any cool tooling that uses these models as part of your work flow?
+Comments URL: https://news.ycombinator.com/item?id=42784365
+Points: 511
+# Comments: 263]]></summary>
+        <author>
+            <name>prettyblocks</name>
         </author>
     </entry>
     <entry>
@@ -1864,19 +1890,6 @@ Points: 513
 # Comments: 130]]></summary>
         <author>
             <name>ajdude</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The number pi has an evil twin]]></title>
-        <id>https://news.ycombinator.com/item?id=42499567</id>
-        <link href="https://mathstodon.xyz/@johncarlosbaez/113703444230936435"/>
-        <updated>2024-12-24T03:41:22.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://mathstodon.xyz/@johncarlosbaez/113703444230936435
-Comments URL: https://news.ycombinator.com/item?id=42499567
-Points: 501
-# Comments: 189]]></summary>
-        <author>
-            <name>pkaeding</name>
         </author>
     </entry>
 </feed>

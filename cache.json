@@ -26,6 +26,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://news.ycombinator.com/item?id=42784365",
+          "author": "prettyblocks",
+          "description": "I mean anything in the 0.5B-3B range that's available on Ollama (for example). Have you built any cool tooling that uses these models as part of your work flow?\nComments URL: https://news.ycombinator.com/item?id=42784365\nPoints: 511\n# Comments: 263",
+          "link": "https://news.ycombinator.com/item?id=42784365",
+          "publishedOn": "2025-01-21T19:39:39.000Z",
+          "wordCount": 12596,
+          "title": "Ask HN: Is anyone doing anything cool with tiny language models?",
+          "imageUrl": null
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=42780816",
           "author": "hackermondev",
           "description": "Article URL: https://gist.github.com/hackermondev/45a3cdfa52246f1d1201c1e8cdef6117\nComments URL: https://news.ycombinator.com/item?id=42780816\nPoints: 564\n# Comments: 196",
@@ -1114,16 +1124,6 @@
           "wordCount": 1347,
           "title": "macOS menu bar app that shows how full the ISS urine tank is in real time",
           "imageUrl": "https://opengraph.githubassets.com/b9773dd0b681f07ae44ae890ad8ed79f546b8f5e928d6908ff1cc80f3ce2d03c/Jaennaet/pISSStream"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=42499567",
-          "author": "pkaeding",
-          "description": "Article URL: https://mathstodon.xyz/@johncarlosbaez/113703444230936435\nComments URL: https://news.ycombinator.com/item?id=42499567\nPoints: 501\n# Comments: 189",
-          "link": "https://mathstodon.xyz/@johncarlosbaez/113703444230936435",
-          "publishedOn": "2024-12-24T03:41:22.000Z",
-          "wordCount": 130,
-          "title": "The number pi has an evil twin",
-          "imageUrl": "https://media.mathstodon.xyz/media_attachments/files/113/703/358/405/037/392/original/12262b712b868b80.jpg"
         }
       ]
     },
@@ -1203,6 +1203,16 @@
       "feedUrl": "https://martinfowler.com/feed.atom",
       "siteUrl": "https://martinfowler.com/feed.atom",
       "articles": [
+        {
+          "id": "https://martinfowler.com/articles/codemods-api-refactoring.html#CodemodsInOtherLanguages",
+          "author": null,
+          "description": "Juntao Qiu finishes his description of codemods by\n      looking at some other approaches outside the JavaScript world such as\n      JavaParser and OpenRewrite.\nmore…",
+          "link": "https://martinfowler.com/articles/codemods-api-refactoring.html#CodemodsInOtherLanguages",
+          "publishedOn": "2025-01-22T15:54:00.000Z",
+          "wordCount": 5713,
+          "title": "Codemods in other languages",
+          "imageUrl": "https://martinfowler.com/articles/codemods-api-refactoring/card.png"
+        },
         {
           "id": "https://martinfowler.com/articles/codemods-api-refactoring.html#FixingCommonPitfallsOfCodemods",
           "author": null,
