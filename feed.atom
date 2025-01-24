@@ -2,10 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-01-24T17:13:57.991Z</updated>
+    <updated>2025-01-24T18:22:04.470Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Podcast with Luca Rossi]]></title>
+        <id>https://refactoring.fm/p/growing-the-development-forest-with</id>
+        <link href="https://refactoring.fm/p/growing-the-development-forest-with"/>
+        <updated>2025-01-24T18:01:00.000Z</updated>
+        <summary type="html"><![CDATA[Luca Rossi hosts a podcast (and newsletter) called Refactoring, so it's
+      obvious that we have some interests in common. The tile comes from me
+      leaning heavily on Beth Anders-Beck and Kent Beck's metaphor of The Forest and The Desert. We talk
+      about the impact of AI on software development, the metaphor of technical
+      debt, and the current state of agile software development.
+more…]]></summary>
+        <author>
+            <name>Martin Fowler</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AAP Round Table: Tanker Mafia, Delhi Freebie Model, Mohalla Clinic & Delhi 2025 Elections]]></title>
         <id>https://www.youtube.com/watch?v=8nES01011GY</id>
@@ -32,6 +47,19 @@ Points: 555
 # Comments: 92]]></summary>
         <author>
             <name>paraschopra</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hacking Subaru: Tracking and controlling cars via the admin panel]]></title>
+        <id>https://news.ycombinator.com/item?id=42803279</id>
+        <link href="https://samcurry.net/hacking-subaru"/>
+        <updated>2025-01-23T12:22:19.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://samcurry.net/hacking-subaru
+Comments URL: https://news.ycombinator.com/item?id=42803279
+Points: 508
+# Comments: 291]]></summary>
+        <author>
+            <name>ramimac</name>
         </author>
     </entry>
     <entry>

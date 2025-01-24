@@ -16,6 +16,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://news.ycombinator.com/item?id=42803279",
+          "author": "ramimac",
+          "description": "Article URL: https://samcurry.net/hacking-subaru\nComments URL: https://news.ycombinator.com/item?id=42803279\nPoints: 508\n# Comments: 291",
+          "link": "https://samcurry.net/hacking-subaru",
+          "publishedOn": "2025-01-23T12:22:19.000Z",
+          "wordCount": 4123,
+          "title": "Hacking Subaru: Tracking and controlling cars via the admin panel",
+          "imageUrl": "https://samcurry-mmcw4he30-sam-currys-projects.vercel.app/images/hacking-subaru/leaked.png"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=42797260",
           "author": "Hello9999901",
           "description": "Hello! I'm Byran. I spent the past ~6 months engineering a laptop from scratch. It's fully open-source on GH at: https://github.com/Hello9999901/laptop\nComments URL: https://news.ycombinator.com/item?id=42797260\nPoints: 524\n# Comments: 71",
@@ -1203,6 +1213,16 @@
       "feedUrl": "https://martinfowler.com/feed.atom",
       "siteUrl": "https://martinfowler.com/feed.atom",
       "articles": [
+        {
+          "id": "https://refactoring.fm/p/growing-the-development-forest-with",
+          "author": null,
+          "description": "Luca Rossi hosts a podcast (and newsletter) called Refactoring, so it's\n      obvious that we have some interests in common. The tile comes from me\n      leaning heavily on Beth Anders-Beck and Kent Beck's metaphor of The Forest and The Desert. We talk\n      about the impact of AI on software development, the metaphor of technical\n      debt, and the current state of agile software development.\nmore…",
+          "link": "https://refactoring.fm/p/growing-the-development-forest-with",
+          "publishedOn": "2025-01-24T18:01:00.000Z",
+          "wordCount": 2731,
+          "title": "Podcast with Luca Rossi",
+          "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0b42308a-fe90-475e-be63-628d433c6158_1690x1124.png"
+        },
         {
           "id": "https://martinfowler.com/articles/codemods-api-refactoring.html#CodemodsInOtherLanguages",
           "author": null,
