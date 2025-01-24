@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-01-24T21:14:16.903Z</updated>
+    <updated>2025-01-24T22:15:06.146Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -50,6 +50,19 @@ Points: 500
 # Comments: 69]]></summary>
         <author>
             <name>zdw</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Llama.vim – Local LLM-assisted text completion]]></title>
+        <id>https://news.ycombinator.com/item?id=42806328</id>
+        <link href="https://github.com/ggml-org/llama.vim"/>
+        <updated>2025-01-23T18:06:42.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://github.com/ggml-org/llama.vim
+Comments URL: https://news.ycombinator.com/item?id=42806328
+Points: 500
+# Comments: 98]]></summary>
+        <author>
+            <name>kgwgk</name>
         </author>
     </entry>
     <entry>
@@ -1944,19 +1957,6 @@ Points: 593
 # Comments: 136]]></summary>
         <author>
             <name>matrixhelix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Should more of us be moving to live near friends?]]></title>
-        <id>https://news.ycombinator.com/item?id=42514105</id>
-        <link href="https://www.architecturaldigest.com/story/should-more-of-us-be-moving-to-live-near-friends"/>
-        <updated>2024-12-26T09:23:08.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.architecturaldigest.com/story/should-more-of-us-be-moving-to-live-near-friends
-Comments URL: https://news.ycombinator.com/item?id=42514105
-Points: 500
-# Comments: 368]]></summary>
-        <author>
-            <name>Geekette</name>
         </author>
     </entry>
 </feed>
