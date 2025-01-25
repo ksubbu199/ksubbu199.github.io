@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-01-25T11:12:51.103Z</updated>
+    <updated>2025-01-25T12:28:49.554Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -1939,24 +1939,6 @@ Points: 519
 # Comments: 368]]></summary>
         <author>
             <name>JumpCrisscross</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Context Chips in Survey Design: “Okay, but how does it _feel_?”]]></title>
-        <id>https://lea.verou.me/blog/2024/context-chips/</id>
-        <link href="https://lea.verou.me/blog/2024/context-chips/"/>
-        <updated>2024-12-27T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[One would think that we’ve more or less figured survey UI out by now.
-Multiple choice questions, checkbox questions, matrix questions, dropdown questions, freeform textfields, numerical scales,
-what more could one possibly need?!
-And yet, every time Google sponsored me to lead one of the State Of … surveys, and especially the inaugural State of HTML 2023 Survey,
-I kept hitting the same wall: how the established options for answering UIs were woefully inadequate for
-collecting good insights with minimal friction for end-users.
-The State Of surveys used a completely custom survey infrastructure,
-so I could often (but not always) convince engineering to implement new question UIs.
-After joining Font Awesome, I somehow found myself leading yet another survey, despite swearing never to do this …]]></summary>
-        <author>
-            <name>Lea Verou’s blog</name>
         </author>
     </entry>
 </feed>

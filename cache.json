@@ -1585,16 +1585,6 @@
           "wordCount": 2385,
           "title": "Product",
           "imageUrl": null
-        },
-        {
-          "id": "https://lea.verou.me/blog/2024/context-chips/",
-          "author": null,
-          "description": "One would think that we’ve more or less figured survey UI out by now.\nMultiple choice questions, checkbox questions, matrix questions, dropdown questions, freeform textfields, numerical scales,\nwhat more could one possibly need?!\nAnd yet, every time Google sponsored me to lead one of the State Of … surveys, and especially the inaugural State of HTML 2023 Survey,\nI kept hitting the same wall: how the established options for answering UIs were woefully inadequate for\ncollecting good insights with minimal friction for end-users.\nThe State Of surveys used a completely custom survey infrastructure,\nso I could often (but not always) convince engineering to implement new question UIs.\nAfter joining Font Awesome, I somehow found myself leading yet another survey, despite swearing never to do this …",
-          "link": "https://lea.verou.me/blog/2024/context-chips/",
-          "publishedOn": "2024-12-27T00:00:00.000Z",
-          "wordCount": 5040,
-          "title": "Context Chips in Survey Design: “Okay, but how does it _feel_?”",
-          "imageUrl": "https://lea.verou.me/blog/2024/context-chips/images/cover.png"
         }
       ]
     },
