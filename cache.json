@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=42823568",
+          "author": "gradus_ad",
+          "description": "Article URL: https://arxiv.org/abs/2501.12948\nComments URL: https://news.ycombinator.com/item?id=42823568\nPoints: 519\n# Comments: 434",
+          "link": "https://arxiv.org/abs/2501.12948",
+          "publishedOn": "2025-01-25T18:39:49.000Z",
+          "wordCount": 1163,
+          "title": "DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via RL",
+          "imageUrl": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=42814110",
           "author": "samke-",
           "description": "Article URL: https://cs16.samke.me\nComments URL: https://news.ycombinator.com/item?id=42814110\nPoints: 508\n# Comments: 105",
@@ -1134,16 +1144,6 @@
           "wordCount": 1012,
           "title": "Scale Model of Boeing 777-300ER, Made from Manila Folders",
           "imageUrl": "http://static1.squarespace.com/static/5c3a5cc1cef372cccbae2b57/t/5d0976ab1d43230001ffd8f4/1560901300569/_DSC3814.jpg?format=1500w"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=42521865",
-          "author": "jnord",
-          "description": "Article URL: https://www.bcs.org/articles-opinion-and-research/does-current-ai-represent-a-dead-end/\nComments URL: https://news.ycombinator.com/item?id=42521865\nPoints: 502\n# Comments: 936",
-          "link": "https://www.bcs.org/articles-opinion-and-research/does-current-ai-represent-a-dead-end/",
-          "publishedOn": "2024-12-27T13:24:17.000Z",
-          "wordCount": 2853,
-          "title": "Does current AI represent a dead end?",
-          "imageUrl": "https://www.bcs.org/media/c3lli4vs/applied-ai.jpg"
         }
       ]
     },

@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-01-26T01:17:12.431Z</updated>
+    <updated>2025-01-26T02:45:10.813Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via RL]]></title>
+        <id>https://news.ycombinator.com/item?id=42823568</id>
+        <link href="https://arxiv.org/abs/2501.12948"/>
+        <updated>2025-01-25T18:39:49.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://arxiv.org/abs/2501.12948
+Comments URL: https://news.ycombinator.com/item?id=42823568
+Points: 519
+# Comments: 434]]></summary>
+        <author>
+            <name>gradus_ad</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[You don’t know this about Kejriwal & his Team]]></title>
         <id>https://www.youtube.com/watch?v=8Lhkt_9Xx9s</id>
@@ -1913,19 +1926,6 @@ Points: 501
 # Comments: 89]]></summary>
         <author>
             <name>uticus</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Does current AI represent a dead end?]]></title>
-        <id>https://news.ycombinator.com/item?id=42521865</id>
-        <link href="https://www.bcs.org/articles-opinion-and-research/does-current-ai-represent-a-dead-end/"/>
-        <updated>2024-12-27T13:24:17.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.bcs.org/articles-opinion-and-research/does-current-ai-represent-a-dead-end/
-Comments URL: https://news.ycombinator.com/item?id=42521865
-Points: 502
-# Comments: 936]]></summary>
-        <author>
-            <name>jnord</name>
         </author>
     </entry>
 </feed>
