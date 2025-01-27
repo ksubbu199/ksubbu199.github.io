@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-01-27T22:15:20.036Z</updated>
+    <updated>2025-01-27T23:15:21.538Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -19,6 +19,19 @@ Points: 597
 # Comments: 139]]></summary>
         <author>
             <name>erohead</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DeepSeek releases Janus Pro, a text-to-image generator [pdf]]]></title>
+        <id>https://news.ycombinator.com/item?id=42843131</id>
+        <link href="https://github.com/deepseek-ai/Janus/blob/main/janus_pro_tech_report.pdf"/>
+        <updated>2025-01-27T16:57:45.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://github.com/deepseek-ai/Janus/blob/main/janus_pro_tech_report.pdf
+Comments URL: https://news.ycombinator.com/item?id=42843131
+Points: 511
+# Comments: 374]]></summary>
+        <author>
+            <name>reissbaker</name>
         </author>
     </entry>
     <entry>
