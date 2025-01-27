@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-01-27T15:15:30.990Z</updated>
+    <updated>2025-01-27T16:20:55.230Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[A layoff fundamentally changed how I perceive work]]></title>
+        <id>https://news.ycombinator.com/item?id=42838700</id>
+        <link href="https://mertbulan.com/2025/01/26/once-you-are-laid-off-you-will-never-be-the-same-again/"/>
+        <updated>2025-01-27T08:22:41.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://mertbulan.com/2025/01/26/once-you-are-laid-off-you-will-never-be-the-same-again/
+Comments URL: https://news.ycombinator.com/item?id=42838700
+Points: 544
+# Comments: 501]]></summary>
+        <author>
+            <name>mertbio</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hard numbers in the Wayland vs. X11 input latency discussion]]></title>
         <id>https://news.ycombinator.com/item?id=42831509</id>
@@ -17,6 +30,19 @@ Points: 503
 # Comments: 385]]></summary>
         <author>
             <name>todsacerdoti</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Microsoft 365 Copilot launch was a disaster]]></title>
+        <id>https://news.ycombinator.com/item?id=42831281</id>
+        <link href="https://www.zdnet.com/home-and-office/work-life/the-microsoft-365-copilot-launch-was-a-total-disaster/"/>
+        <updated>2025-01-26T16:33:51.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.zdnet.com/home-and-office/work-life/the-microsoft-365-copilot-launch-was-a-total-disaster/
+Comments URL: https://news.ycombinator.com/item?id=42831281
+Points: 509
+# Comments: 491]]></summary>
+        <author>
+            <name>belter</name>
         </author>
     </entry>
     <entry>
