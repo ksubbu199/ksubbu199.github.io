@@ -1264,6 +1264,16 @@
       "siteUrl": "https://martinfowler.com/feed.atom",
       "articles": [
         {
+          "id": "https://martinfowler.com/articles/gen-ai-patterns/",
+          "author": null,
+          "description": "Everyone is fascinated about using generative AI these days, and my\n      colleagues are no exception. Some of them have had the opportunity to put\n      these system into practice, both as proof-of-concept, and more importantly\n      as production system. I've known Bharani Subramaniam for\n      many years as a technology leader in India, he's been assembling the\n      lessons we've learned and I've worked with him to describe them as\n      patterns.\nIn this first installment, we look the limits of the base case of\n      Direct Prompting, and how we might assess the capability of a system using\n      Evals.\nmore…",
+          "link": "https://martinfowler.com/articles/gen-ai-patterns/",
+          "publishedOn": "2025-01-28T12:43:00.000Z",
+          "wordCount": 2353,
+          "title": "Emerging Patterns in Building GenAI Products",
+          "imageUrl": "https://martinfowler.com/articles/gen-ai-patterns/card.png"
+        },
+        {
           "id": "https://refactoring.fm/p/growing-the-development-forest-with",
           "author": null,
           "description": "Luca Rossi hosts a podcast (and newsletter) called Refactoring, so it's\n      obvious that we have some interests in common. The tile comes from me\n      leaning heavily on Beth Anders-Beck and Kent Beck's metaphor of The Forest and The Desert. We talk\n      about the impact of AI on software development, the metaphor of technical\n      debt, and the current state of agile software development.\nmore…",

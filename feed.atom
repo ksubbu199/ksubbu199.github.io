@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-01-28T12:32:06.004Z</updated>
+    <updated>2025-01-28T13:20:57.091Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Emerging Patterns in Building GenAI Products]]></title>
+        <id>https://martinfowler.com/articles/gen-ai-patterns/</id>
+        <link href="https://martinfowler.com/articles/gen-ai-patterns/"/>
+        <updated>2025-01-28T12:43:00.000Z</updated>
+        <summary type="html"><![CDATA[Everyone is fascinated about using generative AI these days, and my
+      colleagues are no exception. Some of them have had the opportunity to put
+      these system into practice, both as proof-of-concept, and more importantly
+      as production system. I've known Bharani Subramaniam for
+      many years as a technology leader in India, he's been assembling the
+      lessons we've learned and I've worked with him to describe them as
+      patterns.
+In this first installment, we look the limits of the base case of
+      Direct Prompting, and how we might assess the capability of a system using
+      Evals.
+more…]]></summary>
+        <author>
+            <name>Martin Fowler</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[We're bringing Pebble back]]></title>
         <id>https://news.ycombinator.com/item?id=42845091</id>
