@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-01-28T15:17:38.682Z</updated>
+    <updated>2025-01-28T16:20:02.023Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -24,6 +24,19 @@ In this first installment, we look the limits of the base case of
 more…]]></summary>
         <author>
             <name>Martin Fowler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Run DeepSeek R1 Dynamic 1.58-bit]]></title>
+        <id>https://news.ycombinator.com/item?id=42850222</id>
+        <link href="https://unsloth.ai/blog/deepseekr1-dynamic"/>
+        <updated>2025-01-28T08:52:47.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://unsloth.ai/blog/deepseekr1-dynamic
+Comments URL: https://news.ycombinator.com/item?id=42850222
+Points: 520
+# Comments: 211]]></summary>
+        <author>
+            <name>noch</name>
         </author>
     </entry>
     <entry>
