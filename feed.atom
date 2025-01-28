@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-01-28T19:12:57.300Z</updated>
+    <updated>2025-01-28T20:17:24.045Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Promising results from DeepSeek R1 for code]]></title>
+        <id>https://news.ycombinator.com/item?id=42852866</id>
+        <link href="https://simonwillison.net/2025/Jan/27/llamacpp-pr/"/>
+        <updated>2025-01-28T14:44:06.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://simonwillison.net/2025/Jan/27/llamacpp-pr/
+Comments URL: https://news.ycombinator.com/item?id=42852866
+Points: 581
+# Comments: 361]]></summary>
+        <author>
+            <name>k__</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Emerging Patterns in Building GenAI Products]]></title>
         <id>https://martinfowler.com/articles/gen-ai-patterns/</id>
