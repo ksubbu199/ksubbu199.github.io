@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-01-29T05:15:38.051Z</updated>
+    <updated>2025-01-29T06:22:38.092Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -17,6 +17,19 @@ Points: 503
 # Comments: 181]]></summary>
         <author>
             <name>cylo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Boom XB-1 First Supersonic Flight [video]]]></title>
+        <id>https://news.ycombinator.com/item?id=42853633</id>
+        <link href="https://www.youtube.com/watch?v=-qisIViAHwI"/>
+        <updated>2025-01-28T15:46:53.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.youtube.com/watch?v=-qisIViAHwI
+Comments URL: https://news.ycombinator.com/item?id=42853633
+Points: 518
+# Comments: 385]]></summary>
+        <author>
+            <name>rayhaanj</name>
         </author>
     </entry>
     <entry>
@@ -1990,19 +2003,6 @@ Points: 500
 # Comments: 88]]></summary>
         <author>
             <name>memalign</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tell HN: John Friel my father, internet pioneer and creator of QModem, has died]]></title>
-        <id>https://news.ycombinator.com/item?id=42551900</id>
-        <link href="https://news.ycombinator.com/item?id=42551900"/>
-        <updated>2024-12-30T18:11:47.000Z</updated>
-        <summary type="html"><![CDATA[If you knew him in life or remember his contribution to the world, please share your stories.
-Comments URL: https://news.ycombinator.com/item?id=42551900
-Points: 579
-# Comments: 57]]></summary>
-        <author>
-            <name>AaronFriel</name>
         </author>
     </entry>
 </feed>
