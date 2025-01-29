@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=42865527",
+          "author": "latexr",
+          "description": "Article URL: https://www.404media.co/openai-furious-deepseek-might-have-stolen-all-the-data-openai-stole-from-us/\nComments URL: https://news.ycombinator.com/item?id=42865527\nPoints: 629\n# Comments: 271",
+          "link": "https://www.404media.co/openai-furious-deepseek-might-have-stolen-all-the-data-openai-stole-from-us/",
+          "publishedOn": "2025-01-29T14:52:34.000Z",
+          "wordCount": 2129,
+          "title": "OpenAI Furious DeepSeek Might Have Stolen All the Data OpenAI Stole from Us",
+          "imageUrl": "https://www.404media.co/content/images/size/w1200/2025/01/CleanShot-2025-01-29-at-06.42.15@2x.png"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=42862246",
           "author": "james2doyle",
           "description": "Article URL: https://ohdoylerules.com/workflows/why-i-still-like-sublime-text-in-2025/\nComments URL: https://news.ycombinator.com/item?id=42862246\nPoints: 522\n# Comments: 321",
@@ -14,6 +24,16 @@
           "wordCount": 3962,
           "title": "I still like Sublime Text",
           "imageUrl": "/icons/logo.png"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=42862118",
+          "author": "m348e912",
+          "description": "Article URL: https://www.youtube.com/shorts/2ntx91cOYEc\nComments URL: https://news.ycombinator.com/item?id=42862118\nPoints: 550\n# Comments: 186",
+          "link": "https://www.youtube.com/shorts/2ntx91cOYEc",
+          "publishedOn": "2025-01-29T06:16:14.000Z",
+          "wordCount": 1607,
+          "title": "Science YouTuber physicsgirl (Dianna Cowern) stands for the first time in 2 yrs",
+          "imageUrl": null
         },
         {
           "id": "https://news.ycombinator.com/item?id=42856023",
@@ -1293,6 +1313,16 @@
       "feedUrl": "https://martinfowler.com/feed.atom",
       "siteUrl": "https://martinfowler.com/feed.atom",
       "articles": [
+        {
+          "id": "https://martinfowler.com/articles/gen-ai-patterns/#embedding",
+          "author": null,
+          "description": "GenAI systems, like many modern AI approaches, have to handle vast\n      quantities of data, and find similarities between elements in an image or\n      chunk of words. Bharani Subramaniam and I describe a key tool\n      to do this - Embeddings - transforming large data blocks into\n      numeric vectors so that embeddings near each other represent related\n      concepts\nmore…",
+          "link": "https://martinfowler.com/articles/gen-ai-patterns/#embedding",
+          "publishedOn": "2025-01-29T15:55:00.000Z",
+          "wordCount": 3651,
+          "title": "Embeddings in GenAI Products",
+          "imageUrl": "https://martinfowler.com/articles/gen-ai-patterns/card.png"
+        },
         {
           "id": "https://martinfowler.com/articles/gen-ai-patterns/",
           "author": null,
