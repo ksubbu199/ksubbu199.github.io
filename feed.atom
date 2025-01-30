@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-01-30T07:14:34.761Z</updated>
+    <updated>2025-01-30T08:19:59.834Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Can Yamuna be cleaned?]]></title>
+        <id>https://www.youtube.com/watch?v=RSogF2DDpaI</id>
+        <link href="https://www.youtube.com/watch?v=RSogF2DDpaI"/>
+        <updated>2025-01-30T07:37:18.000Z</updated>
+        <author>
+            <name>Think School</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Freebies: Boon or Bane?]]></title>
         <id>https://www.youtube.com/watch?v=dpGAShsUX3M</id>
@@ -29,6 +38,19 @@ Points: 503
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[An analysis of DeepSeek's R1-Zero and R1]]></title>
+        <id>https://news.ycombinator.com/item?id=42868390</id>
+        <link href="https://arcprize.org/blog/r1-zero-r1-results-analysis"/>
+        <updated>2025-01-29T17:44:45.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://arcprize.org/blog/r1-zero-r1-results-analysis
+Comments URL: https://news.ycombinator.com/item?id=42868390
+Points: 506
+# Comments: 194]]></summary>
+        <author>
+            <name>meetpateltech</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Embeddings in GenAI Products]]></title>
         <id>https://martinfowler.com/articles/gen-ai-patterns/#embedding</id>
         <link href="https://martinfowler.com/articles/gen-ai-patterns/#embedding"/>
@@ -42,6 +64,19 @@ Points: 503
 more…]]></summary>
         <author>
             <name>Martin Fowler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why DeepSeek had to be open source]]></title>
+        <id>https://news.ycombinator.com/item?id=42866201</id>
+        <link href="https://www.getlago.com/blog/deepseek-open-source"/>
+        <updated>2025-01-29T15:37:31.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.getlago.com/blog/deepseek-open-source
+Comments URL: https://news.ycombinator.com/item?id=42866201
+Points: 500
+# Comments: 271]]></summary>
+        <author>
+            <name>AnhTho_FR</name>
         </author>
     </entry>
     <entry>
