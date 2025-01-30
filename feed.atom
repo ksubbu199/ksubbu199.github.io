@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-01-30T05:16:40.378Z</updated>
+    <updated>2025-01-30T06:22:38.213Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Exposed DeepSeek database leaking sensitive information, including chat history]]></title>
+        <id>https://news.ycombinator.com/item?id=42871371</id>
+        <link href="https://www.wiz.io/blog/wiz-research-uncovers-exposed-deepseek-database-leak"/>
+        <updated>2025-01-29T21:25:36.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.wiz.io/blog/wiz-research-uncovers-exposed-deepseek-database-leak
+Comments URL: https://news.ycombinator.com/item?id=42871371
+Points: 503
+# Comments: 326]]></summary>
+        <author>
+            <name>talhof8</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Embeddings in GenAI Products]]></title>
         <id>https://martinfowler.com/articles/gen-ai-patterns/#embedding</id>
@@ -59,6 +72,19 @@ Points: 550
 # Comments: 186]]></summary>
         <author>
             <name>m348e912</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenAI says it has evidence DeepSeek used its model to train competitor]]></title>
+        <id>https://news.ycombinator.com/item?id=42861475</id>
+        <link href="https://www.ft.com/content/a0dfedd1-5255-4fa9-8ccc-1fe01de87ea6"/>
+        <updated>2025-01-29T04:21:20.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.ft.com/content/a0dfedd1-5255-4fa9-8ccc-1fe01de87ea6
+Comments URL: https://news.ycombinator.com/item?id=42861475
+Points: 511
+# Comments: 1300]]></summary>
+        <author>
+            <name>timsuchanek</name>
         </author>
     </entry>
     <entry>
@@ -2019,19 +2045,6 @@ Points: 530
 # Comments: 145]]></summary>
         <author>
             <name>martynvandijke</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Things we learned about LLMs in 2024]]></title>
-        <id>https://news.ycombinator.com/item?id=42560558</id>
-        <link href="https://simonwillison.net/2024/Dec/31/llms-in-2024/"/>
-        <updated>2024-12-31T18:11:06.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://simonwillison.net/2024/Dec/31/llms-in-2024/
-Comments URL: https://news.ycombinator.com/item?id=42560558
-Points: 514
-# Comments: 381]]></summary>
-        <author>
-            <name>simonw</name>
         </author>
     </entry>
 </feed>

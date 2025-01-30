@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=42871371",
+          "author": "talhof8",
+          "description": "Article URL: https://www.wiz.io/blog/wiz-research-uncovers-exposed-deepseek-database-leak\nComments URL: https://news.ycombinator.com/item?id=42871371\nPoints: 503\n# Comments: 326",
+          "link": "https://www.wiz.io/blog/wiz-research-uncovers-exposed-deepseek-database-leak",
+          "publishedOn": "2025-01-29T21:25:36.000Z",
+          "wordCount": 8711,
+          "title": "Exposed DeepSeek database leaking sensitive information, including chat history",
+          "imageUrl": "https://www.datocms-assets.com/75231/1738180897-ds-2x.png?fm=webp"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=42865527",
           "author": "latexr",
           "description": "Article URL: https://www.404media.co/openai-furious-deepseek-might-have-stolen-all-the-data-openai-stole-from-us/\nComments URL: https://news.ycombinator.com/item?id=42865527\nPoints: 629\n# Comments: 271",
@@ -34,6 +44,16 @@
           "wordCount": 1607,
           "title": "Science YouTuber physicsgirl (Dianna Cowern) stands for the first time in 2 yrs",
           "imageUrl": null
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=42861475",
+          "author": "timsuchanek",
+          "description": "Article URL: https://www.ft.com/content/a0dfedd1-5255-4fa9-8ccc-1fe01de87ea6\nComments URL: https://news.ycombinator.com/item?id=42861475\nPoints: 511\n# Comments: 1300",
+          "link": "https://www.ft.com/content/a0dfedd1-5255-4fa9-8ccc-1fe01de87ea6",
+          "publishedOn": "2025-01-29T04:21:20.000Z",
+          "wordCount": 2015,
+          "title": "OpenAI says it has evidence DeepSeek used its model to train competitor",
+          "imageUrl": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fada4bd99-8ac4-4056-b48a-dfe72e06f73d.jpg?source=next-barrier-page"
         },
         {
           "id": "https://news.ycombinator.com/item?id=42856023",
@@ -1214,16 +1234,6 @@
           "wordCount": 4281,
           "title": "Happy New Year 2025",
           "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=42560558",
-          "author": "simonw",
-          "description": "Article URL: https://simonwillison.net/2024/Dec/31/llms-in-2024/\nComments URL: https://news.ycombinator.com/item?id=42560558\nPoints: 514\n# Comments: 381",
-          "link": "https://simonwillison.net/2024/Dec/31/llms-in-2024/",
-          "publishedOn": "2024-12-31T18:11:06.000Z",
-          "wordCount": 7060,
-          "title": "Things we learned about LLMs in 2024",
-          "imageUrl": "https://static.simonwillison.net/static/2024/arena-dec-2024.jpg"
         }
       ]
     },
