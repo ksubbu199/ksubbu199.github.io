@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-01-31T19:12:43.137Z</updated>
+    <updated>2025-01-31T20:16:58.320Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -2187,19 +2187,6 @@ Points: 572
 # Comments: 270]]></summary>
         <author>
             <name>extesy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MitmProxy2Swagger: Automagically reverse-engineer REST APIs]]></title>
-        <id>https://news.ycombinator.com/item?id=42572662</id>
-        <link href="https://github.com/alufers/mitmproxy2swagger"/>
-        <updated>2025-01-02T08:08:15.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://github.com/alufers/mitmproxy2swagger
-Comments URL: https://news.ycombinator.com/item?id=42572662
-Points: 514
-# Comments: 59]]></summary>
-        <author>
-            <name>AbuAssar</name>
         </author>
     </entry>
 </feed>
