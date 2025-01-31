@@ -26,6 +26,16 @@
           "imageUrl": "https://mistral.ai/images/news/announcing-mistral.png"
         },
         {
+          "id": "https://news.ycombinator.com/item?id=42877709",
+          "author": "max_",
+          "description": "Article URL: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20250128_antiqua-et-nova_en.html\nComments URL: https://news.ycombinator.com/item?id=42877709\nPoints: 500\n# Comments: 406",
+          "link": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20250128_antiqua-et-nova_en.html",
+          "publishedOn": "2025-01-30T14:01:27.000Z",
+          "wordCount": 21066,
+          "title": "Antiqua et Nova: Note on the relationship between AI and human intelligence",
+          "imageUrl": null
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=42876840",
           "author": "SigmundurM",
           "description": "Article URL: https://developer.mozilla.org/en-US/blog/javascript-temporal-is-coming/\nComments URL: https://news.ycombinator.com/item?id=42876840\nPoints: 553\n# Comments: 195",
@@ -1288,16 +1298,6 @@
           "wordCount": 2192,
           "title": "18 Months with GPT-4: Now Can I Fire my Developers?",
           "imageUrl": "https://blog.boot.dev/img/800/golemnumber2.png.webp"
-        },
-        {
-          "id": "https://blog.boot.dev/news/bootdev-beat-2025-01/",
-          "author": null,
-          "description": "Fastest boss defeat in the history of Boot.dev, a new AWS course, embers are live, and my chilren just won’t stop being sick for more than 4 days at a time.",
-          "link": "https://blog.boot.dev/news/bootdev-beat-2025-01/",
-          "publishedOn": "2025-01-02T00:00:00.000Z",
-          "wordCount": 1010,
-          "title": "The Boot.dev Beat. January 2025",
-          "imageUrl": "https://blog.boot.dev/img/800/bootsandsky.png.webp"
         }
       ]
     },

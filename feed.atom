@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-01-31T11:13:08.243Z</updated>
+    <updated>2025-01-31T12:31:43.482Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -39,6 +39,19 @@ Points: 512
 # Comments: 160]]></summary>
         <author>
             <name>jasondavies</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Antiqua et Nova: Note on the relationship between AI and human intelligence]]></title>
+        <id>https://news.ycombinator.com/item?id=42877709</id>
+        <link href="https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20250128_antiqua-et-nova_en.html"/>
+        <updated>2025-01-30T14:01:27.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20250128_antiqua-et-nova_en.html
+Comments URL: https://news.ycombinator.com/item?id=42877709
+Points: 500
+# Comments: 406]]></summary>
+        <author>
+            <name>max_</name>
         </author>
     </entry>
     <entry>
@@ -2161,16 +2174,6 @@ Points: 514
 # Comments: 59]]></summary>
         <author>
             <name>AbuAssar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Boot.dev Beat. January 2025]]></title>
-        <id>https://blog.boot.dev/news/bootdev-beat-2025-01/</id>
-        <link href="https://blog.boot.dev/news/bootdev-beat-2025-01/"/>
-        <updated>2025-01-02T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Fastest boss defeat in the history of Boot.dev, a new AWS course, embers are live, and my chilren just won’t stop being sick for more than 4 days at a time.]]></summary>
-        <author>
-            <name>Boot.dev Blog</name>
         </author>
     </entry>
 </feed>
