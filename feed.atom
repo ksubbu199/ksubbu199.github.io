@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-02-01T14:13:02.852Z</updated>
+    <updated>2025-02-01T15:17:38.693Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -2115,45 +2115,6 @@ Points: 527
 # Comments: 308]]></summary>
         <author>
             <name>rcarmo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Engineering Momentum as a Prioritization Factor]]></title>
-        <id>https://lea.verou.me/blog/2025/eng-momentum/</id>
-        <link href="https://lea.verou.me/blog/2025/eng-momentum/"/>
-        <updated>2025-01-03T02:23:37.000Z</updated>
-        <summary type="html"><![CDATA[When developing a software product[1], there are always way more ideas about what to do next than there is time to do them.
-This is where roadmap prioritization comes in.
-However, prioritization is anything but straightforward. There are so many different factors to balance, such as:
-How much overall value will this bring to users?
-How much (design/product/engineering) work is it to implement? (Effort)
-How confident are we that this will work?
-Many of these can be broken down further, for example 1. can be broken down into:
-How many users will this affect? (Reach)
-How much of a difference will it make for each of them? (Impact)
-Smaller or grassroots teams tend to do this kind of cost-benefit analysis with their gut,
-but there are actually entire frameworks and methodologies to assist with …]]></summary>
-        <author>
-            <name>Lea Verou’s blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Product]]></title>
-        <id>https://lea.verou.me/blog/2025/product/</id>
-        <link href="https://lea.verou.me/blog/2025/product/"/>
-        <updated>2025-01-03T02:23:37.000Z</updated>
-        <summary type="html"><![CDATA[My fascination with products began years before I discovered programming,
-My memories around it start as young as six or so.
-Most kids make paper airplanes or boats;
-instead my crafts focused on utility: notepads, bags, wallets, cushions.
-I was obsessed with making things that people would use.
-My interest in these crafts was not artistic; it was entrepreneurial.
-I was obsessed with making things or offering services that people would find useful enough to actually buy.
-By eight, I had a string of failed ventures behind me, including:
-A café I tried to operate on the pavement outside my mother’s office (she came back from her errand driving the venture to early closure)
-A bar I tried to operate out of our guest bedroom (I had failed to realize the beverages I was trying to sell needed refr…]]></summary>
-        <author>
-            <name>Lea Verou’s blog</name>
         </author>
     </entry>
 </feed>

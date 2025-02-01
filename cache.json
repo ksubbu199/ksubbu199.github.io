@@ -1715,28 +1715,7 @@
       "title": "Lea Verou’s blog",
       "feedUrl": "https://lea.verou.me/feed.xml",
       "siteUrl": "https://lea.verou.me/feed.xml",
-      "articles": [
-        {
-          "id": "https://lea.verou.me/blog/2025/eng-momentum/",
-          "author": null,
-          "description": "When developing a software product[1], there are always way more ideas about what to do next than there is time to do them.\nThis is where roadmap prioritization comes in.\nHowever, prioritization is anything but straightforward. There are so many different factors to balance, such as:\nHow much overall value will this bring to users?\nHow much (design/product/engineering) work is it to implement? (Effort)\nHow confident are we that this will work?\nMany of these can be broken down further, for example 1. can be broken down into:\nHow many users will this affect? (Reach)\nHow much of a difference will it make for each of them? (Impact)\nSmaller or grassroots teams tend to do this kind of cost-benefit analysis with their gut,\nbut there are actually entire frameworks and methodologies to assist with …",
-          "link": "https://lea.verou.me/blog/2025/eng-momentum/",
-          "publishedOn": "2025-01-03T02:23:37.000Z",
-          "wordCount": 1132,
-          "title": "Engineering Momentum as a Prioritization Factor",
-          "imageUrl": null
-        },
-        {
-          "id": "https://lea.verou.me/blog/2025/product/",
-          "author": null,
-          "description": "My fascination with products began years before I discovered programming,\nMy memories around it start as young as six or so.\nMost kids make paper airplanes or boats;\ninstead my crafts focused on utility: notepads, bags, wallets, cushions.\nI was obsessed with making things that people would use.\nMy interest in these crafts was not artistic; it was entrepreneurial.\nI was obsessed with making things or offering services that people would find useful enough to actually buy.\nBy eight, I had a string of failed ventures behind me, including:\nA café I tried to operate on the pavement outside my mother’s office (she came back from her errand driving the venture to early closure)\nA bar I tried to operate out of our guest bedroom (I had failed to realize the beverages I was trying to sell needed refr…",
-          "link": "https://lea.verou.me/blog/2025/product/",
-          "publishedOn": "2025-01-03T02:23:37.000Z",
-          "wordCount": 2385,
-          "title": "Product",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Ben Hoyt's technical writing",
