@@ -16,6 +16,16 @@
           "imageUrl": "https://gizmodo.com/app/uploads/2024/09/AI-search-monopoly-antitrust-google-senators-ftc-1.jpg"
         },
         {
+          "id": "https://news.ycombinator.com/item?id=42891042",
+          "author": "MedadNewman",
+          "description": "Article URL: https://substack.com/home/post/p-156004330\nComments URL: https://news.ycombinator.com/item?id=42891042\nPoints: 681\n# Comments: 351",
+          "link": "https://substack.com/home/post/p-156004330",
+          "publishedOn": "2025-01-31T19:41:49.000Z",
+          "wordCount": null,
+          "title": "Bypass DeepSeek censorship by speaking in hex",
+          "imageUrl": null
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=42890627",
           "author": "johnneville",
           "description": "Article URL: https://openai.com/index/openai-o3-mini/\nComments URL: https://news.ycombinator.com/item?id=42890627\nPoints: 541\n# Comments: 543",
@@ -23,6 +33,16 @@
           "publishedOn": "2025-01-31T19:08:15.000Z",
           "wordCount": null,
           "title": "OpenAI O3-Mini",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=42885520",
+          "author": "ahub",
+          "description": "Article URL: https://gamedev.city/\nComments URL: https://news.ycombinator.com/item?id=42885520\nPoints: 509\n# Comments: 215",
+          "link": "https://gamedev.city/",
+          "publishedOn": "2025-01-31T07:56:23.000Z",
+          "wordCount": 655,
+          "title": "Hacker News for Gamedev",
           "imageUrl": null
         },
         {
@@ -1234,16 +1254,6 @@
           "wordCount": 2049,
           "title": "Self driving 1993 Volvo with open pilot",
           "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=42585009",
-          "author": "anshrathodfr",
-          "description": "Hi, I'm a developer and first time i shipped the real product after observing the startups and indie hackers community for years.\nI had made so many useless apps [you should check my website https://ansh.life], but this time I built a very useful product that has a number of super easy-to-use tools in one app for video, music, and photo files. Users can compress, convert, resize, and do so much more with easy-to-use tools.\nBackground: I developed a frame-by-frame video cropper to upload cropped landscape videos to Instagram Reels. However, it required FFmpeg, and as a noob video editor, I decided to incorporate more user-friendly video tools. I then introduced image and audio tools to maximize the capabilities of FFmpeg. I use my app daily, and it has surprisingly generated a few thousand dollars for me.\nComments URL: https://news.ycombinator.com/item?id=42585009\nPoints: 500\n# Comments: 270",
-          "link": "https://pimosa.app/",
-          "publishedOn": "2025-01-03T12:20:27.000Z",
-          "wordCount": 5801,
-          "title": "Show HN: I completed shipping my desktop app",
-          "imageUrl": "https://pimosa.app/social_meta.webp"
         }
       ]
     },
