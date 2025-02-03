@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-02-03T20:17:29.557Z</updated>
+    <updated>2025-02-03T21:15:11.811Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -17,6 +17,19 @@ Points: 501
 # Comments: 363]]></summary>
         <author>
             <name>mfiguiere</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The young, inexperienced engineers aiding DOGE]]></title>
+        <id>https://news.ycombinator.com/item?id=42910910</id>
+        <link href="https://www.wired.com/story/elon-musk-government-young-engineers/"/>
+        <updated>2025-02-02T19:12:13.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.wired.com/story/elon-musk-government-young-engineers/
+Comments URL: https://news.ycombinator.com/item?id=42910910
+Points: 558
+# Comments: 451]]></summary>
+        <author>
+            <name>medler</name>
         </author>
     </entry>
     <entry>
@@ -2161,19 +2174,6 @@ Points: 505
 # Comments: 60]]></summary>
         <author>
             <name>anigbrowl</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I made $100K from a dick joke]]></title>
-        <id>https://news.ycombinator.com/item?id=42600595</id>
-        <link href="https://imgur.com/gallery/KZ4u3c4"/>
-        <updated>2025-01-05T09:03:28.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://imgur.com/gallery/KZ4u3c4
-Comments URL: https://news.ycombinator.com/item?id=42600595
-Points: 500
-# Comments: 240]]></summary>
-        <author>
-            <name>imglorp</name>
         </author>
     </entry>
 </feed>
