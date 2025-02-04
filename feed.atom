@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-02-04T21:15:17.046Z</updated>
+    <updated>2025-02-04T22:15:20.101Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[WikiTok]]></title>
+        <id>https://news.ycombinator.com/item?id=42936723</id>
+        <link href="https://wikitok.vercel.app/"/>
+        <updated>2025-02-04T18:40:55.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://wikitok.vercel.app/
+Comments URL: https://news.ycombinator.com/item?id=42936723
+Points: 581
+# Comments: 107]]></summary>
+        <author>
+            <name>Group_B</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Chat is a bad UI pattern for development tools]]></title>
         <id>https://news.ycombinator.com/item?id=42934190</id>
