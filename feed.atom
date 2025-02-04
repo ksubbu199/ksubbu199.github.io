@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-02-04T08:20:50.080Z</updated>
+    <updated>2025-02-04T09:17:13.138Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -17,6 +17,19 @@ Points: 527
 # Comments: 352]]></summary>
         <author>
             <name>smallerfish</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Httptap: View HTTP/HTTPS requests made by any Linux program]]></title>
+        <id>https://news.ycombinator.com/item?id=42919909</id>
+        <link href="https://github.com/monasticacademy/httptap"/>
+        <updated>2025-02-03T16:28:45.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://github.com/monasticacademy/httptap
+Comments URL: https://news.ycombinator.com/item?id=42919909
+Points: 506
+# Comments: 115]]></summary>
+        <author>
+            <name>alexflint</name>
         </author>
     </entry>
     <entry>
