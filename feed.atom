@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-02-04T19:12:44.290Z</updated>
+    <updated>2025-02-04T20:17:39.501Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -45,6 +45,16 @@ Points: 527
 # Comments: 352]]></summary>
         <author>
             <name>smallerfish</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Boot.dev Beat. February 2025]]></title>
+        <id>https://blog.boot.dev/news/bootdev-beat-2025-02/</id>
+        <link href="https://blog.boot.dev/news/bootdev-beat-2025-02/"/>
+        <updated>2025-02-04T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[It’s official: TJ’s C course walkthrough was released before GTA6! This is a great month for Boot.]]></summary>
+        <author>
+            <name>Boot.dev Blog</name>
         </author>
     </entry>
     <entry>
