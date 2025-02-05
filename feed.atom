@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-02-05T11:14:14.193Z</updated>
+    <updated>2025-02-05T12:32:55.242Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -2316,19 +2316,6 @@ Points: 500
 # Comments: 751]]></summary>
         <author>
             <name>somebee</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How I program with LLMs]]></title>
-        <id>https://news.ycombinator.com/item?id=42617645</id>
-        <link href="https://crawshaw.io/blog/programming-with-llms"/>
-        <updated>2025-01-07T00:07:49.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://crawshaw.io/blog/programming-with-llms
-Comments URL: https://news.ycombinator.com/item?id=42617645
-Points: 534
-# Comments: 206]]></summary>
-        <author>
-            <name>stpn</name>
         </author>
     </entry>
 </feed>
