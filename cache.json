@@ -1364,16 +1364,6 @@
           "wordCount": 2768,
           "title": "Nvidia's Project Digits is a 'personal AI supercomputer'",
           "imageUrl": "https://techcrunch.com/wp-content/uploads/2025/01/Screenshot-2025-01-06-at-11.07.56PM.png?resize=1200,769"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=42618761",
-          "author": "somebee",
-          "description": "Article URL: https://www.theverge.com/2025/1/6/24337396/nvidia-rtx-5080-5090-5070-ti-5070-price-release-date\nComments URL: https://news.ycombinator.com/item?id=42618761\nPoints: 500\n# Comments: 751",
-          "link": "https://www.theverge.com/2025/1/6/24337396/nvidia-rtx-5080-5090-5070-ti-5070-price-release-date",
-          "publishedOn": "2025-01-07T03:12:11.000Z",
-          "wordCount": 7083,
-          "title": "Nvidia announces next-gen RTX 5090 and RTX 5080 GPUs",
-          "imageUrl": "https://cdn.vox-cdn.com/thumbor/Fami8NKlBBjmN9FLJlT6SMFQFWg=/0x0:1320x737/1200x628/filters:focal(660x369:661x370)/cdn.vox-cdn.com/uploads/chorus_asset/file/25820616/chrome_la2bFSFN4P.png"
         }
       ]
     },
@@ -1443,6 +1433,16 @@
       "feedUrl": "https://martinfowler.com/feed.atom",
       "siteUrl": "https://martinfowler.com/feed.atom",
       "articles": [
+        {
+          "id": "https://martinfowler.com/articles/gen-ai-patterns/#RagInPractice",
+          "author": null,
+          "description": "Today Bharani Subramaniam and I outline four\n      limitations to the simple RAG from yesterday, and the pattern that\n      addresses the first of these: Hybrid Retriever. This tackles the\n      inefficiencies of embeddings-based search by combining it with other\n      search techniques.\nmore…",
+          "link": "https://martinfowler.com/articles/gen-ai-patterns/#RagInPractice",
+          "publishedOn": "2025-02-05T15:03:00.000Z",
+          "wordCount": 5497,
+          "title": "GenAI Patterns: RAG Limitations and Hybrid Retriever",
+          "imageUrl": "https://martinfowler.com/articles/gen-ai-patterns/card.png"
+        },
         {
           "id": "https://www.youtube.com/watch?v=86-Dy5U2p5Y",
           "author": null,
