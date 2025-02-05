@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-02-05T05:17:16.147Z</updated>
+    <updated>2025-02-05T06:23:07.236Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -2238,19 +2238,6 @@ Points: 534
 # Comments: 206]]></summary>
         <author>
             <name>stpn</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Future of Htmx]]></title>
-        <id>https://news.ycombinator.com/item?id=42613221</id>
-        <link href="https://htmx.org/essays/future/"/>
-        <updated>2025-01-06T18:05:43.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://htmx.org/essays/future/
-Comments URL: https://news.ycombinator.com/item?id=42613221
-Points: 507
-# Comments: 240]]></summary>
-        <author>
-            <name>polyrand</name>
         </author>
     </entry>
 </feed>
