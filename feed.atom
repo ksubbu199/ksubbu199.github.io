@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-02-05T10:17:18.761Z</updated>
+    <updated>2025-02-05T11:14:14.193Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Kagi – Introducing Fair Pricing]]></title>
+        <id>https://news.ycombinator.com/item?id=42944371</id>
+        <link href="https://kagi.com/changelog#6155"/>
+        <updated>2025-02-05T05:50:16.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://kagi.com/changelog#6155
+Comments URL: https://news.ycombinator.com/item?id=42944371
+Points: 506
+# Comments: 217]]></summary>
+        <author>
+            <name>CleverLikeAnOx</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Beej's Guide to Git]]></title>
         <id>https://news.ycombinator.com/item?id=42941283</id>
@@ -43,6 +56,19 @@ Points: 520
 # Comments: 130]]></summary>
         <author>
             <name>healsdata</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google drops pledge not to use AI for weapons or surveillance]]></title>
+        <id>https://news.ycombinator.com/item?id=42938125</id>
+        <link href="https://www.washingtonpost.com/technology/2025/02/04/google-ai-policies-weapons-harm"/>
+        <updated>2025-02-04T20:28:16.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.washingtonpost.com/technology/2025/02/04/google-ai-policies-weapons-harm
+Comments URL: https://news.ycombinator.com/item?id=42938125
+Points: 502
+# Comments: 469]]></summary>
+        <author>
+            <name>jbegley</name>
         </author>
     </entry>
     <entry>
