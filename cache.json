@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=42946281",
+          "author": "belter",
+          "description": "Article URL: https://chriskiehl.com/article/thoughts-after-10-years\nComments URL: https://news.ycombinator.com/item?id=42946281\nPoints: 507\n# Comments: 516",
+          "link": "https://chriskiehl.com/article/thoughts-after-10-years",
+          "publishedOn": "2025-02-05T09:50:30.000Z",
+          "wordCount": 502,
+          "title": "Software development topics I've changed my mind on",
+          "imageUrl": null
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=42944371",
           "author": "CleverLikeAnOx",
           "description": "Article URL: https://kagi.com/changelog#6155\nComments URL: https://news.ycombinator.com/item?id=42944371\nPoints: 506\n# Comments: 217",
@@ -1416,6 +1426,16 @@
       "feedUrl": "https://jvns.ca/atom.xml",
       "siteUrl": "http://jvns.ca/atom.xml",
       "articles": [
+        {
+          "id": "https://jvns.ca/blog/2025/02/05/some-terminal-frustrations/",
+          "author": null,
+          "description": "A few weeks ago I ran a terminal survey (you can read the results here) and at the end I asked:\nWhat’s the most frustrating thing about using the terminal for you?\n1600 people answered, and I decided to spend a few days categorizing all the\nresponses. Along the way I learned that classifying qualitative data is not\neasy but I gave it my best shot. I ended up building a custom\ntool to make it faster to categorize\neverything.\nAs with all of my surveys the methodology isn’t particularly scientific. I just\nposted the survey to Mastodon and Twitter, ran it for a couple of days, and got\nanswers from whoever happened to see it and felt like responding.\nHere are the top categories of frustrations!\nI think it’s worth keeping in mind while reading these comments that\n40% of people answering this sur…",
+          "link": "https://jvns.ca/blog/2025/02/05/some-terminal-frustrations/",
+          "publishedOn": "2025-02-05T16:57:00.000Z",
+          "wordCount": 1715,
+          "title": "Some terminal frustrations",
+          "imageUrl": null
+        },
         {
           "id": "https://jvns.ca/blog/2025/01/11/getting-a-modern-terminal-setup/",
           "author": null,

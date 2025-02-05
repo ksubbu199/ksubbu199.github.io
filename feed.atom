@@ -2,10 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-02-05T19:14:10.526Z</updated>
+    <updated>2025-02-05T20:18:26.450Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Some terminal frustrations]]></title>
+        <id>https://jvns.ca/blog/2025/02/05/some-terminal-frustrations/</id>
+        <link href="https://jvns.ca/blog/2025/02/05/some-terminal-frustrations/"/>
+        <updated>2025-02-05T16:57:00.000Z</updated>
+        <summary type="html"><![CDATA[A few weeks ago I ran a terminal survey (you can read the results here) and at the end I asked:
+What’s the most frustrating thing about using the terminal for you?
+1600 people answered, and I decided to spend a few days categorizing all the
+responses. Along the way I learned that classifying qualitative data is not
+easy but I gave it my best shot. I ended up building a custom
+tool to make it faster to categorize
+everything.
+As with all of my surveys the methodology isn’t particularly scientific. I just
+posted the survey to Mastodon and Twitter, ran it for a couple of days, and got
+answers from whoever happened to see it and felt like responding.
+Here are the top categories of frustrations!
+I think it’s worth keeping in mind while reading these comments that
+40% of people answering this sur…]]></summary>
+        <author>
+            <name>Julia Evans</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Pragmatic Engineer 100K Giveaway]]></title>
         <id>67a384dfac88250001c78277</id>
@@ -32,6 +54,19 @@
 more…]]></summary>
         <author>
             <name>Martin Fowler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Software development topics I've changed my mind on]]></title>
+        <id>https://news.ycombinator.com/item?id=42946281</id>
+        <link href="https://chriskiehl.com/article/thoughts-after-10-years"/>
+        <updated>2025-02-05T09:50:30.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://chriskiehl.com/article/thoughts-after-10-years
+Comments URL: https://news.ycombinator.com/item?id=42946281
+Points: 507
+# Comments: 516]]></summary>
+        <author>
+            <name>belter</name>
         </author>
     </entry>
     <entry>
