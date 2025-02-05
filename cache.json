@@ -16,6 +16,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://news.ycombinator.com/item?id=42943973",
+          "author": "thunderbong",
+          "description": "Article URL: https://press.uchicago.edu/Misc/Chicago/511928.htm\nComments URL: https://news.ycombinator.com/item?id=42943973\nPoints: 501\n# Comments: 376",
+          "link": "https://press.uchicago.edu/Misc/Chicago/511928.htm",
+          "publishedOn": "2025-02-05T04:54:04.000Z",
+          "wordCount": 2988,
+          "title": "They Thought They Were Free: The Germans, 1933-45 (1955)",
+          "imageUrl": null
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=42941283",
           "author": "mixto",
           "description": "Article URL: https://beej.us/guide/bggit/\nComments URL: https://news.ycombinator.com/item?id=42941283\nPoints: 542\n# Comments: 142",
@@ -1354,16 +1364,6 @@
           "wordCount": 7925,
           "title": "A minimax chess engine in regular expressions",
           "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=42619139",
-          "author": "magicalhippo",
-          "description": "Article URL: https://techcrunch.com/2025/01/06/nvidias-project-digits-is-a-personal-ai-computer/\nComments URL: https://news.ycombinator.com/item?id=42619139\nPoints: 515\n# Comments: 380",
-          "link": "https://techcrunch.com/2025/01/06/nvidias-project-digits-is-a-personal-ai-computer/",
-          "publishedOn": "2025-01-07T04:14:05.000Z",
-          "wordCount": 2768,
-          "title": "Nvidia's Project Digits is a 'personal AI supercomputer'",
-          "imageUrl": "https://techcrunch.com/wp-content/uploads/2025/01/Screenshot-2025-01-06-at-11.07.56PM.png?resize=1200,769"
         }
       ]
     },
@@ -1566,6 +1566,16 @@
       "feedUrl": "https://blog.pragmaticengineer.com/rss/",
       "siteUrl": "https://blog.pragmaticengineer.com/",
       "articles": [
+        {
+          "id": "67a384dfac88250001c78277",
+          "author": "Gergely Orosz",
+          "description": "The Pragmatic Engineer's YouTube channel crossed 100K subscribers. Celebrating with a giveaway of 100 books and newsletter subs:\n\n10x signed physical books (The Software Engineer’s Guidebook [in English or German - your choice!], Building Mobile Apps at Scale; winners get both; shipping is on me)\n90x",
+          "link": "https://blog.pragmaticengineer.com/the-pragmatic-engineer-100k-giveaway/",
+          "publishedOn": "2025-02-05T15:36:18.000Z",
+          "wordCount": 937,
+          "title": "The Pragmatic Engineer 100K Giveaway",
+          "imageUrl": "https://blog.pragmaticengineer.com/content/images/size/w1200/2025/02/IMG_5914-2.JPG"
+        },
         {
           "id": "678fd76300f6800001aed569",
           "author": "Gergely Orosz",

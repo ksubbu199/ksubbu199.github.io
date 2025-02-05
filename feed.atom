@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-02-05T15:17:31.123Z</updated>
+    <updated>2025-02-05T16:20:29.485Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The Pragmatic Engineer 100K Giveaway]]></title>
+        <id>67a384dfac88250001c78277</id>
+        <link href="https://blog.pragmaticengineer.com/the-pragmatic-engineer-100k-giveaway/"/>
+        <updated>2025-02-05T15:36:18.000Z</updated>
+        <summary type="html"><![CDATA[The Pragmatic Engineer's YouTube channel crossed 100K subscribers. Celebrating with a giveaway of 100 books and newsletter subs:
+
+10x signed physical books (The Software Engineer’s Guidebook [in English or German - your choice!], Building Mobile Apps at Scale; winners get both; shipping is on me)
+90x]]></summary>
+        <author>
+            <name>Gergely Orosz</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[GenAI Patterns: RAG Limitations and Hybrid Retriever]]></title>
         <id>https://martinfowler.com/articles/gen-ai-patterns/#RagInPractice</id>
@@ -32,6 +45,19 @@ Points: 506
 # Comments: 217]]></summary>
         <author>
             <name>CleverLikeAnOx</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[They Thought They Were Free: The Germans, 1933-45 (1955)]]></title>
+        <id>https://news.ycombinator.com/item?id=42943973</id>
+        <link href="https://press.uchicago.edu/Misc/Chicago/511928.htm"/>
+        <updated>2025-02-05T04:54:04.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://press.uchicago.edu/Misc/Chicago/511928.htm
+Comments URL: https://news.ycombinator.com/item?id=42943973
+Points: 501
+# Comments: 376]]></summary>
+        <author>
+            <name>thunderbong</name>
         </author>
     </entry>
     <entry>
@@ -2305,19 +2331,6 @@ Points: 501
 # Comments: 89]]></summary>
         <author>
             <name>ilya_m</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nvidia's Project Digits is a 'personal AI supercomputer']]></title>
-        <id>https://news.ycombinator.com/item?id=42619139</id>
-        <link href="https://techcrunch.com/2025/01/06/nvidias-project-digits-is-a-personal-ai-computer/"/>
-        <updated>2025-01-07T04:14:05.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://techcrunch.com/2025/01/06/nvidias-project-digits-is-a-personal-ai-computer/
-Comments URL: https://news.ycombinator.com/item?id=42619139
-Points: 515
-# Comments: 380]]></summary>
-        <author>
-            <name>magicalhippo</name>
         </author>
     </entry>
 </feed>
