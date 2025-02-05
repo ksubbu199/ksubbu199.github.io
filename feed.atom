@@ -2,10 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-02-05T08:19:35.698Z</updated>
+    <updated>2025-02-05T09:18:06.754Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Beej's Guide to Git]]></title>
+        <id>https://news.ycombinator.com/item?id=42941283</id>
+        <link href="https://beej.us/guide/bggit/"/>
+        <updated>2025-02-05T00:07:24.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://beej.us/guide/bggit/
+Comments URL: https://news.ycombinator.com/item?id=42941283
+Points: 542
+# Comments: 142]]></summary>
+        <author>
+            <name>mixto</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What's happening inside the NIH and NSF]]></title>
+        <id>https://news.ycombinator.com/item?id=42940257</id>
+        <link href="https://www.science.org/content/blog-post/what-s-happening-inside-nih"/>
+        <updated>2025-02-04T22:51:36.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.science.org/content/blog-post/what-s-happening-inside-nih
+Comments URL: https://news.ycombinator.com/item?id=42940257
+Points: 505
+# Comments: 563]]></summary>
+        <author>
+            <name>rrock</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Oracle justified its JavaScript trademark with Node.js–now it wants that ignored]]></title>
         <id>https://news.ycombinator.com/item?id=42939940</id>
@@ -30,6 +56,19 @@ Points: 581
 # Comments: 107]]></summary>
         <author>
             <name>Group_B</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple Invites]]></title>
+        <id>https://news.ycombinator.com/item?id=42934422</id>
+        <link href="https://www.apple.com/newsroom/2025/02/introducing-apple-invites-a-new-app-that-brings-people-together/"/>
+        <updated>2025-02-04T16:21:58.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.apple.com/newsroom/2025/02/introducing-apple-invites-a-new-app-that-brings-people-together/
+Comments URL: https://news.ycombinator.com/item?id=42934422
+Points: 517
+# Comments: 739]]></summary>
+        <author>
+            <name>openchampagne</name>
         </author>
     </entry>
     <entry>

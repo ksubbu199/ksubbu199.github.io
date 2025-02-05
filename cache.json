@@ -6,6 +6,26 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=42941283",
+          "author": "mixto",
+          "description": "Article URL: https://beej.us/guide/bggit/\nComments URL: https://news.ycombinator.com/item?id=42941283\nPoints: 542\n# Comments: 142",
+          "link": "https://beej.us/guide/bggit/",
+          "publishedOn": "2025-02-05T00:07:24.000Z",
+          "wordCount": 152,
+          "title": "Beej's Guide to Git",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=42940257",
+          "author": "rrock",
+          "description": "Article URL: https://www.science.org/content/blog-post/what-s-happening-inside-nih\nComments URL: https://news.ycombinator.com/item?id=42940257\nPoints: 505\n# Comments: 563",
+          "link": "https://www.science.org/content/blog-post/what-s-happening-inside-nih",
+          "publishedOn": "2025-02-04T22:51:36.000Z",
+          "wordCount": null,
+          "title": "What's happening inside the NIH and NSF",
+          "imageUrl": null
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=42939940",
           "author": "healsdata",
           "description": "Article URL: https://deno.com/blog/deno-v-oracle2\nComments URL: https://news.ycombinator.com/item?id=42939940\nPoints: 520\n# Comments: 130",
@@ -24,6 +44,16 @@
           "wordCount": 3,
           "title": "WikiTok",
           "imageUrl": null
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=42934422",
+          "author": "openchampagne",
+          "description": "Article URL: https://www.apple.com/newsroom/2025/02/introducing-apple-invites-a-new-app-that-brings-people-together/\nComments URL: https://news.ycombinator.com/item?id=42934422\nPoints: 517\n# Comments: 739",
+          "link": "https://www.apple.com/newsroom/2025/02/introducing-apple-invites-a-new-app-that-brings-people-together/",
+          "publishedOn": "2025-02-04T16:21:58.000Z",
+          "wordCount": 4643,
+          "title": "Apple Invites",
+          "imageUrl": "https://www.apple.com/newsroom/images/2025/02/introducing-apple-invites-a-new-app-that-brings-people-together/tile/Apple-Invites-upcoming-lp.jpg.og.jpg?202502041601"
         },
         {
           "id": "https://news.ycombinator.com/item?id=42934190",
