@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-02-06T01:16:22.751Z</updated>
+    <updated>2025-02-06T02:45:17.519Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -2396,26 +2396,6 @@ Points: 509
         <updated>2025-01-07T15:01:29.000Z</updated>
         <author>
             <name>Think School</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Refactoring with Codemods to Automate API Changes]]></title>
-        <id>https://martinfowler.com/articles/codemods-api-refactoring.html</id>
-        <link href="https://martinfowler.com/articles/codemods-api-refactoring.html"/>
-        <updated>2025-01-07T14:34:00.000Z</updated>
-        <summary type="html"><![CDATA[As a library developer, you may create a popular utility that hundreds
-      of thousands of developers rely on daily, such as lodash or React. Over
-      time, usage patterns might emerge that go beyond your initial design. When
-      this happens, you may need to extend an API by adding parameters or
-      modifying function signatures to fix edge cases. The challenge lies in
-      rolling out these breaking changes without disrupting your users’
-      workflows. Juntao Qiu begins an article to explain how we
-      can use codemods to tackle this. Codemods are a tool automating
-      large-scale code transformations, allowing developers to introduce
-      breaking API changes, and refactor legacy codebases.
-more…]]></summary>
-        <author>
-            <name>Martin Fowler</name>
         </author>
     </entry>
 </feed>
