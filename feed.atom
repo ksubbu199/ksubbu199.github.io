@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-02-06T17:14:07.928Z</updated>
+    <updated>2025-02-06T18:22:33.845Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Where did TikTok’s software engineers go?]]></title>
+        <id>67a4ee50ac88250001c782c9</id>
+        <link href="https://blog.pragmaticengineer.com/where-did-tiktoks-software-engineers-go/"/>
+        <updated>2025-02-06T17:17:21.000Z</updated>
+        <summary type="html"><![CDATA[How has this uncertainty affected software engineers at the Chinese-owned social network?]]></summary>
+        <author>
+            <name>Gergely Orosz</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The DeepSeek Series: A Technical Overview]]></title>
         <id>https://martinfowler.com/articles/deepseek-papers.html</id>
