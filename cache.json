@@ -6,6 +6,26 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=42953508",
+          "author": "Hold-And-Modify",
+          "description": "Hello.\nCloudflare's Browser Intergrity Check/Verification/Challenge feature used by many websites, is denying access to users of non-mainstream browsers like Pale Moon.\nUsers reports began on January 31:\nhttps://forum.palemoon.org/viewtopic.php?f=3&t=32045\nThis situation occurs at least once a year, and there is no easy way to contact Cloudflare. Their \"Submit feedback\" tool yields no results. A Cloudflare Community topic was flagged as \"spam\" by members of that community and was promptly locked with no real solution, and no official response from Cloudflare:\nhttps://community.cloudflare.com/t/access-denied-to-pale-moo...\nPartial list of other browsers that are being denied access:\nFalkon, SeaMonkey, IceCat, Basilisk.\nHacker News 2022 post about the same issue, which brought attention and had Cloudflare quickly patching the issue:\nhttps://news.ycombinator.com/item?id=31317886\nA Cloudflare product manager declared back then: \"...we do not want to be in the business of saying one browser is more legitimate than another.\"\nAs of now, there is no official response from Cloudflare. Internet access is still denied by their tool.\nComments URL: https://news.ycombinator.com/item?id=42953508\nPoints: 546\n# Comments: 186",
+          "link": "https://news.ycombinator.com/item?id=42953508",
+          "publishedOn": "2025-02-05T19:08:12.000Z",
+          "wordCount": 14801,
+          "title": "Tell HN: Cloudflare is blocking Pale Moon and other non-mainstream browsers",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=42952605",
+          "author": "serjester",
+          "description": "Article URL: https://www.sergey.fyi/articles/gemini-flash-2\nComments URL: https://news.ycombinator.com/item?id=42952605\nPoints: 569\n# Comments: 200",
+          "link": "https://www.sergey.fyi/articles/gemini-flash-2",
+          "publishedOn": "2025-02-05T18:05:28.000Z",
+          "wordCount": 79,
+          "title": "Ingesting PDFs and why Gemini 2.0 changes everything",
+          "imageUrl": "https://sergey-filimonov.nyc3.cdn.digitaloceanspaces.com/personal-site/botmoji-peaking-out.png"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=42946854",
           "author": "tkellogg",
           "description": "Article URL: https://timkellogg.me/blog/2025/02/03/s1\nComments URL: https://news.ycombinator.com/item?id=42946854\nPoints: 513\n# Comments: 199",
@@ -34,6 +54,16 @@
           "wordCount": 14668,
           "title": "Kagi – Introducing Fair Pricing",
           "imageUrl": null
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=42944203",
+          "author": "firebaze",
+          "description": "Article URL: https://www.tracingwoodgrains.com/p/the-full-story-of-the-faas-hiring\nComments URL: https://news.ycombinator.com/item?id=42944203\nPoints: 521\n# Comments: 457",
+          "link": "https://www.tracingwoodgrains.com/p/the-full-story-of-the-faas-hiring",
+          "publishedOn": "2025-02-05T05:25:19.000Z",
+          "wordCount": 14195,
+          "title": "The FAA’s Hiring Scandal",
+          "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc92f502e-b4ef-48a0-8125-bfa49afe9efc_1024x1024.webp"
         },
         {
           "id": "https://news.ycombinator.com/item?id=42943973",
@@ -1374,16 +1404,6 @@
           "wordCount": 989,
           "title": "Show HN: Tramway SDK – An unholy union between Half-Life and Morrowind engines",
           "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=42621627",
-          "author": "impish9208",
-          "description": "Article URL: https://about.fb.com/news/2025/01/meta-more-speech-fewer-mistakes/\nComments URL: https://news.ycombinator.com/item?id=42621627\nPoints: 502\n# Comments: 754",
-          "link": "https://about.fb.com/news/2025/01/meta-more-speech-fewer-mistakes/",
-          "publishedOn": "2025-01-07T12:15:22.000Z",
-          "wordCount": 7195,
-          "title": "Ending our third party fact-checking program and moving to Community Notes model",
-          "imageUrl": "https://about.fb.com/wp-content/uploads/2025/01/470056936_632024679169522_5559036304973464125_n.jpg?w=1200"
         }
       ]
     },

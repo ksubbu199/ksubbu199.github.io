@@ -2,10 +2,47 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-02-05T23:15:50.848Z</updated>
+    <updated>2025-02-06T01:16:22.751Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Tell HN: Cloudflare is blocking Pale Moon and other non-mainstream browsers]]></title>
+        <id>https://news.ycombinator.com/item?id=42953508</id>
+        <link href="https://news.ycombinator.com/item?id=42953508"/>
+        <updated>2025-02-05T19:08:12.000Z</updated>
+        <summary type="html"><![CDATA[Hello.
+Cloudflare's Browser Intergrity Check/Verification/Challenge feature used by many websites, is denying access to users of non-mainstream browsers like Pale Moon.
+Users reports began on January 31:
+https://forum.palemoon.org/viewtopic.php?f=3&t=32045
+This situation occurs at least once a year, and there is no easy way to contact Cloudflare. Their "Submit feedback" tool yields no results. A Cloudflare Community topic was flagged as "spam" by members of that community and was promptly locked with no real solution, and no official response from Cloudflare:
+https://community.cloudflare.com/t/access-denied-to-pale-moo...
+Partial list of other browsers that are being denied access:
+Falkon, SeaMonkey, IceCat, Basilisk.
+Hacker News 2022 post about the same issue, which brought attention and had Cloudflare quickly patching the issue:
+https://news.ycombinator.com/item?id=31317886
+A Cloudflare product manager declared back then: "...we do not want to be in the business of saying one browser is more legitimate than another."
+As of now, there is no official response from Cloudflare. Internet access is still denied by their tool.
+Comments URL: https://news.ycombinator.com/item?id=42953508
+Points: 546
+# Comments: 186]]></summary>
+        <author>
+            <name>Hold-And-Modify</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ingesting PDFs and why Gemini 2.0 changes everything]]></title>
+        <id>https://news.ycombinator.com/item?id=42952605</id>
+        <link href="https://www.sergey.fyi/articles/gemini-flash-2"/>
+        <updated>2025-02-05T18:05:28.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.sergey.fyi/articles/gemini-flash-2
+Comments URL: https://news.ycombinator.com/item?id=42952605
+Points: 569
+# Comments: 200]]></summary>
+        <author>
+            <name>serjester</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Some terminal frustrations]]></title>
         <id>https://jvns.ca/blog/2025/02/05/some-terminal-frustrations/</id>
@@ -93,6 +130,19 @@ Points: 506
 # Comments: 217]]></summary>
         <author>
             <name>CleverLikeAnOx</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The FAA’s Hiring Scandal]]></title>
+        <id>https://news.ycombinator.com/item?id=42944203</id>
+        <link href="https://www.tracingwoodgrains.com/p/the-full-story-of-the-faas-hiring"/>
+        <updated>2025-02-05T05:25:19.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.tracingwoodgrains.com/p/the-full-story-of-the-faas-hiring
+Comments URL: https://news.ycombinator.com/item?id=42944203
+Points: 521
+# Comments: 457]]></summary>
+        <author>
+            <name>firebaze</name>
         </author>
     </entry>
     <entry>
@@ -2366,19 +2416,6 @@ Points: 509
 more…]]></summary>
         <author>
             <name>Martin Fowler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ending our third party fact-checking program and moving to Community Notes model]]></title>
-        <id>https://news.ycombinator.com/item?id=42621627</id>
-        <link href="https://about.fb.com/news/2025/01/meta-more-speech-fewer-mistakes/"/>
-        <updated>2025-01-07T12:15:22.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://about.fb.com/news/2025/01/meta-more-speech-fewer-mistakes/
-Comments URL: https://news.ycombinator.com/item?id=42621627
-Points: 502
-# Comments: 754]]></summary>
-        <author>
-            <name>impish9208</name>
         </author>
     </entry>
 </feed>
