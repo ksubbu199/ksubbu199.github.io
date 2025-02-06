@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-02-06T08:20:59.021Z</updated>
+    <updated>2025-02-06T09:17:12.015Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -76,6 +76,19 @@ Points: 501
 # Comments: 658]]></summary>
         <author>
             <name>throwaway5752</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gemini 2.0 is now available to everyone]]></title>
+        <id>https://news.ycombinator.com/item?id=42950454</id>
+        <link href="https://blog.google/technology/google-deepmind/gemini-model-updates-february-2025/"/>
+        <updated>2025-02-05T16:03:18.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://blog.google/technology/google-deepmind/gemini-model-updates-february-2025/
+Comments URL: https://news.ycombinator.com/item?id=42950454
+Points: 500
+# Comments: 209]]></summary>
+        <author>
+            <name>meetpateltech</name>
         </author>
     </entry>
     <entry>
@@ -2359,32 +2372,6 @@ Points: 504
 # Comments: 56]]></summary>
         <author>
             <name>ingve</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Magic/tragic email links: don't make them the only option]]></title>
-        <id>https://news.ycombinator.com/item?id=42627453</id>
-        <link href="https://recyclebin.zip/posts/annoyinglinks/"/>
-        <updated>2025-01-07T21:06:24.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://recyclebin.zip/posts/annoyinglinks/
-Comments URL: https://news.ycombinator.com/item?id=42627453
-Points: 513
-# Comments: 331]]></summary>
-        <author>
-            <name>gepeto42</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mistakes engineers make in large established codebases]]></title>
-        <id>https://news.ycombinator.com/item?id=42627227</id>
-        <link href="https://www.seangoedecke.com/large-established-codebases/"/>
-        <updated>2025-01-07T20:44:35.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.seangoedecke.com/large-established-codebases/
-Comments URL: https://news.ycombinator.com/item?id=42627227
-Points: 505
-# Comments: 222]]></summary>
-        <author>
-            <name>BerislavLopac</name>
         </author>
     </entry>
 </feed>
