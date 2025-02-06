@@ -1494,6 +1494,16 @@
       "siteUrl": "https://martinfowler.com/feed.atom",
       "articles": [
         {
+          "id": "https://martinfowler.com/articles/deepseek-papers.html",
+          "author": null,
+          "description": "The appearance of DeepSeek Large-Language Models has caused a lot of\n      discussion and angst since their latest versions appeared at the beginning\n      of 2025. But much of the value of DeepSeek's work comes from the papers\n      they have published over the last year. Shayan Mohanty\n      provides an overview of these papers, highlighting three main arcs in this\n      research: a focus on improving cost and memory efficiency, the use of HPC\n      Co-Design to train large models on limited hardware, and the development\n      of emergent reasoning from large-scale reinforcement learning\nmore…",
+          "link": "https://martinfowler.com/articles/deepseek-papers.html",
+          "publishedOn": "2025-02-06T14:17:00.000Z",
+          "wordCount": 3696,
+          "title": "The DeepSeek Series: A Technical Overview",
+          "imageUrl": "https://martinfowler.com/logo-sq.png"
+        },
+        {
           "id": "https://martinfowler.com/articles/gen-ai-patterns/#RagInPractice",
           "author": null,
           "description": "Today Bharani Subramaniam and I outline four\n      limitations to the simple RAG from yesterday, and the pattern that\n      addresses the first of these: Hybrid Retriever. This tackles the\n      inefficiencies of embeddings-based search by combining it with other\n      search techniques.\nmore…",
