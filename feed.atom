@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-02-06T04:19:18.903Z</updated>
+    <updated>2025-02-06T05:17:44.281Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -91,6 +91,19 @@ I think it’s worth keeping in mind while reading these comments that
 more…]]></summary>
         <author>
             <name>Martin Fowler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Avoiding outrage fatigue while staying informed]]></title>
+        <id>https://news.ycombinator.com/item?id=42949277</id>
+        <link href="https://www.scientificamerican.com/podcast/episode/how-to-avoid-outrage-fatigue-and-tune-in-without-burning-out/"/>
+        <updated>2025-02-05T14:55:03.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.scientificamerican.com/podcast/episode/how-to-avoid-outrage-fatigue-and-tune-in-without-burning-out/
+Comments URL: https://news.ycombinator.com/item?id=42949277
+Points: 513
+# Comments: 504]]></summary>
+        <author>
+            <name>headalgorithm</name>
         </author>
     </entry>
     <entry>
@@ -2359,25 +2372,6 @@ Points: 505
 # Comments: 222]]></summary>
         <author>
             <name>BerislavLopac</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: Tramway SDK – An unholy union between Half-Life and Morrowind engines]]></title>
-        <id>https://news.ycombinator.com/item?id=42624116</id>
-        <link href="https://racenis.github.io/tram-sdk/why.html"/>
-        <updated>2025-01-07T16:22:09.000Z</updated>
-        <summary type="html"><![CDATA[Hello everyone, I would like to see if there is any interest in this little project that I have been working on for the past few years.
-Could be relevant, seeing the direction in which the mainstream game engines are going.
-I didn't really like any of the already existing options, so I tried to make my own and it turned out to be easier than expected.
-It's sort of like a low-budget Unreal/Source, but with open-world streaming support and it is free and open source. Very old-school. But optimized for more modern hardware. Very fast too.
-Still not production ready, but it seems like it is mostly working.
-I want to finish a few larger projects with it to see what happens.
-Btw, the name is probably temporary.
-Comments URL: https://news.ycombinator.com/item?id=42624116
-Points: 509
-# Comments: 175]]></summary>
-        <author>
-            <name>racenis</name>
         </author>
     </entry>
 </feed>

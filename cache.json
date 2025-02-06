@@ -26,6 +26,16 @@
           "imageUrl": "https://sergey-filimonov.nyc3.cdn.digitaloceanspaces.com/personal-site/botmoji-peaking-out.png"
         },
         {
+          "id": "https://news.ycombinator.com/item?id=42949277",
+          "author": "headalgorithm",
+          "description": "Article URL: https://www.scientificamerican.com/podcast/episode/how-to-avoid-outrage-fatigue-and-tune-in-without-burning-out/\nComments URL: https://news.ycombinator.com/item?id=42949277\nPoints: 513\n# Comments: 504",
+          "link": "https://www.scientificamerican.com/podcast/episode/how-to-avoid-outrage-fatigue-and-tune-in-without-burning-out/",
+          "publishedOn": "2025-02-05T14:55:03.000Z",
+          "wordCount": 3599,
+          "title": "Avoiding outrage fatigue while staying informed",
+          "imageUrl": "https://static.scientificamerican.com/dam/m/225cfca2d98f2cb5/original/SQ-Wednesday-EP-Art.png?m=1716342177.955&w=1200"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=42946854",
           "author": "tkellogg",
           "description": "Article URL: https://timkellogg.me/blog/2025/02/03/s1\nComments URL: https://news.ycombinator.com/item?id=42946854\nPoints: 513\n# Comments: 199",
@@ -1393,16 +1403,6 @@
           "publishedOn": "2025-01-07T20:44:35.000Z",
           "wordCount": 1521,
           "title": "Mistakes engineers make in large established codebases",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=42624116",
-          "author": "racenis",
-          "description": "Hello everyone, I would like to see if there is any interest in this little project that I have been working on for the past few years.\nCould be relevant, seeing the direction in which the mainstream game engines are going.\nI didn't really like any of the already existing options, so I tried to make my own and it turned out to be easier than expected.\nIt's sort of like a low-budget Unreal/Source, but with open-world streaming support and it is free and open source. Very old-school. But optimized for more modern hardware. Very fast too.\nStill not production ready, but it seems like it is mostly working.\nI want to finish a few larger projects with it to see what happens.\nBtw, the name is probably temporary.\nComments URL: https://news.ycombinator.com/item?id=42624116\nPoints: 509\n# Comments: 175",
-          "link": "https://racenis.github.io/tram-sdk/why.html",
-          "publishedOn": "2025-01-07T16:22:09.000Z",
-          "wordCount": 989,
-          "title": "Show HN: Tramway SDK – An unholy union between Half-Life and Morrowind engines",
           "imageUrl": null
         }
       ]
