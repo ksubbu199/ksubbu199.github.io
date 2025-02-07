@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-02-07T01:16:21.756Z</updated>
+    <updated>2025-02-07T02:47:23.300Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -2376,32 +2376,6 @@ Points: 511
 # Comments: 102]]></summary>
         <author>
             <name>pieix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A more complex codemod]]></title>
-        <id>https://martinfowler.com/articles/codemods-api-refactoring.html#RefactoringAnAvatarComponent</id>
-        <link href="https://martinfowler.com/articles/codemods-api-refactoring.html#RefactoringAnAvatarComponent"/>
-        <updated>2025-01-08T14:44:00.000Z</updated>
-        <summary type="html"><![CDATA[Juntao Qiu moves onto a more complex example of a
-      codemod, one that extracts a tooltip responsibility from a JSX component.
-      This illustrates how to manipulate the AST in several steps.
-more…]]></summary>
-        <author>
-            <name>Martin Fowler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fidget]]></title>
-        <id>https://news.ycombinator.com/item?id=42634624</id>
-        <link href="https://www.mattkeeter.com/projects/fidget/"/>
-        <updated>2025-01-08T14:30:58.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.mattkeeter.com/projects/fidget/
-Comments URL: https://news.ycombinator.com/item?id=42634624
-Points: 505
-# Comments: 48]]></summary>
-        <author>
-            <name>todsacerdoti</name>
         </author>
     </entry>
 </feed>
