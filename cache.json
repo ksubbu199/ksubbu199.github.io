@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=42960144",
+          "author": "bluebirdfirewin",
+          "description": "Article URL: https://gladdendesign.com/collections/paper-apps\nComments URL: https://news.ycombinator.com/item?id=42960144\nPoints: 526\n# Comments: 85",
+          "link": "https://gladdendesign.com/collections/paper-apps",
+          "publishedOn": "2025-02-06T07:58:33.000Z",
+          "wordCount": 2161,
+          "title": "Paper Apps",
+          "imageUrl": "http://gladdendesign.com/cdn/shop/collections/IMG_7428.jpg?v=1733973949"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=42953508",
           "author": "Hold-And-Modify",
           "description": "Hello.\nCloudflare's Browser Intergrity Check/Verification/Challenge feature used by many websites, is denying access to users of non-mainstream browsers like Pale Moon.\nUsers reports began on January 31:\nhttps://forum.palemoon.org/viewtopic.php?f=3&t=32045\nThis situation occurs at least once a year, and there is no easy way to contact Cloudflare. Their \"Submit feedback\" tool yields no results. A Cloudflare Community topic was flagged as \"spam\" by members of that community and was promptly locked with no real solution, and no official response from Cloudflare:\nhttps://community.cloudflare.com/t/access-denied-to-pale-moo...\nPartial list of other browsers that are being denied access:\nFalkon, SeaMonkey, IceCat, Basilisk.\nHacker News 2022 post about the same issue, which brought attention and had Cloudflare quickly patching the issue:\nhttps://news.ycombinator.com/item?id=31317886\nA Cloudflare product manager declared back then: \"...we do not want to be in the business of saying one browser is more legitimate than another.\"\nAs of now, there is no official response from Cloudflare. Internet access is still denied by their tool.\nComments URL: https://news.ycombinator.com/item?id=42953508\nPoints: 546\n# Comments: 186",
@@ -1404,16 +1414,6 @@
           "wordCount": 4332,
           "title": "Fidget",
           "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=42633501",
-          "author": "awulf",
-          "description": "Article URL: https://dmarcchecker.app/articles/crack-512-bit-dkim-rsa-key\nComments URL: https://news.ycombinator.com/item?id=42633501\nPoints: 521\n# Comments: 271",
-          "link": "https://dmarcchecker.app/articles/crack-512-bit-dkim-rsa-key",
-          "publishedOn": "2025-01-08T12:32:34.000Z",
-          "wordCount": 901,
-          "title": "Cracking a 512-bit DKIM key for less than $8 in the cloud",
-          "imageUrl": null
         }
       ]
     },
@@ -1911,16 +1911,6 @@
           "publishedOn": "2025-01-13T13:34:00.000Z",
           "wordCount": null,
           "title": "How Zudio and Westside conquered India’s Fashion market and made 11069 crores?  |  IBP",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=uZis94azCzk",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=uZis94azCzk",
-          "publishedOn": "2025-01-08T12:41:31.000Z",
-          "wordCount": null,
-          "title": "Learn to Build AI model using NVIDIA!",
           "imageUrl": null
         }
       ]
