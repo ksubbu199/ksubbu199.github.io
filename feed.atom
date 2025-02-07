@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-02-07T02:47:23.300Z</updated>
+    <updated>2025-02-07T03:20:37.564Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -2360,22 +2360,6 @@ Points: 525
 # Comments: 51]]></summary>
         <author>
             <name>lnyan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: Atlas of Space]]></title>
-        <id>https://news.ycombinator.com/item?id=42634787</id>
-        <link href="https://atlasof.space/"/>
-        <updated>2025-01-08T14:47:34.000Z</updated>
-        <summary type="html"><![CDATA[Hello HN! Sharing a recent side project of mine, the Atlas of Space, that I built out to explore the Solar System.
-As a long-time space nerd, I realized recently that I didn't have a good intuition on the scale, speed, and relative orientation of the celestial bodies around us. So over the break I built out a kind of spatial Wikipedia to click around and learn about planets, moons, asteroids, and other bodies orbiting the Sun.
-The physics is all simulated in the browser using simple Newtonian mechanics. There's a lot left to do from here, including modeling objects in non-Keplerian orbits and replaying different spacecraft missions.
-Hope you have fun clicking around, and curious to hear what I should improve next!
-Comments URL: https://news.ycombinator.com/item?id=42634787
-Points: 511
-# Comments: 102]]></summary>
-        <author>
-            <name>pieix</name>
         </author>
     </entry>
 </feed>
