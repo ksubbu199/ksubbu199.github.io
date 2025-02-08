@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-02-08T15:15:41.836Z</updated>
+    <updated>2025-02-08T16:17:54.015Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[VSCode’s SSH agent is bananas]]></title>
+        <id>https://news.ycombinator.com/item?id=42979467</id>
+        <link href="https://fly.io/blog/vscode-ssh-wtf/"/>
+        <updated>2025-02-08T01:25:32.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://fly.io/blog/vscode-ssh-wtf/
+Comments URL: https://news.ycombinator.com/item?id=42979467
+Points: 535
+# Comments: 351]]></summary>
+        <author>
+            <name>zdyxry</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Asahi Linux lead developer Hector Martin resigns from Linux kernel]]></title>
         <id>https://news.ycombinator.com/item?id=42972062</id>
