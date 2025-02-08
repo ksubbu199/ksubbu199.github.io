@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=42972062",
+          "author": "Mond_",
+          "description": "Article URL: https://lkml.org/lkml/2025/2/7/9\nComments URL: https://news.ycombinator.com/item?id=42972062\nPoints: 521\n# Comments: 451",
+          "link": "https://lkml.org/lkml/2025/2/7/9",
+          "publishedOn": "2025-02-07T13:02:03.000Z",
+          "wordCount": 201,
+          "title": "Asahi Linux lead developer Hector Martin resigns from Linux kernel",
+          "imageUrl": null
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=42971761",
           "author": "throw0101d",
           "description": "Article URL: https://www.macrumors.com/2025/02/07/uk-government-orders-access-icloud/\nComments URL: https://news.ycombinator.com/item?id=42971761\nPoints: 514\n# Comments: 244",
@@ -1363,26 +1373,6 @@
           "publishedOn": "2025-01-09T21:15:33.000Z",
           "wordCount": 6831,
           "title": "Why is my CPU usage always 100%?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=42645859",
-          "author": "dxs",
-          "description": "Article URL: http://charleshughsmith.blogspot.com/2025/01/i-quit-tsunami-of-burnout-few-see.html\nComments URL: https://news.ycombinator.com/item?id=42645859\nPoints: 514\n# Comments: 286",
-          "link": "http://charleshughsmith.blogspot.com/2025/01/i-quit-tsunami-of-burnout-few-see.html",
-          "publishedOn": "2025-01-09T14:25:21.000Z",
-          "wordCount": 8542,
-          "title": "The Tsunami of Burnout Few See",
-          "imageUrl": "https://lh3.googleusercontent.com/blogger_img_proxy/AEn0k_ssIlxad1BbaR0B2kPpXzxEVM0j0wH_agVjF-u49r8f8CI_B3ecXvNrPcrb6NWlUKWkp-DboEtcaf1CgpckwiwVbbbeubtG5XB8IfcDp82M9i5md0DTW1BvCD5JSA=w1200-h630-p-k-no-nu"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=42645218",
-          "author": "ThomasRinsma",
-          "description": "I realized that the PDF engines of modern desktop browsers (PDFium and PDF.js) support JavaScript with enough I/O primitives to make a basic game like Tetris.\nIt was a bit tricky to find a union of features that work in both engines, but in the end it turns out that showing/hiding annotation \"fields\" works well to make monochrome pixels, and keyboard input can be achieved by typing in a text input box.\nAll in all it's quite janky but a nice reminder of how general purpose PDF scripting can be. The linked PDF is all ASCII so you can just open it in a text editor, or have a look at the source code here: https://github.com/ThomasRinsma/pdftris/blob/main/gengrid.py\nComments URL: https://news.ycombinator.com/item?id=42645218\nPoints: 502\n# Comments: 101",
-          "link": "https://th0mas.nl/downloads/pdftris.pdf",
-          "publishedOn": "2025-01-09T13:31:33.000Z",
-          "wordCount": 13165,
-          "title": "Show HN: Tetris in a PDF",
           "imageUrl": null
         }
       ]

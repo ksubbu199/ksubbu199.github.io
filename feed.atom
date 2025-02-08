@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-02-08T01:14:01.662Z</updated>
+    <updated>2025-02-08T02:40:35.292Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Asahi Linux lead developer Hector Martin resigns from Linux kernel]]></title>
+        <id>https://news.ycombinator.com/item?id=42972062</id>
+        <link href="https://lkml.org/lkml/2025/2/7/9"/>
+        <updated>2025-02-07T13:02:03.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://lkml.org/lkml/2025/2/7/9
+Comments URL: https://news.ycombinator.com/item?id=42972062
+Points: 521
+# Comments: 451]]></summary>
+        <author>
+            <name>Mond_</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Apple Ordered by UK to Create Global iCloud Encryption Backdoor]]></title>
         <id>https://news.ycombinator.com/item?id=42971761</id>
@@ -2319,34 +2332,6 @@ Points: 500
 more…]]></summary>
         <author>
             <name>Martin Fowler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Tsunami of Burnout Few See]]></title>
-        <id>https://news.ycombinator.com/item?id=42645859</id>
-        <link href="http://charleshughsmith.blogspot.com/2025/01/i-quit-tsunami-of-burnout-few-see.html"/>
-        <updated>2025-01-09T14:25:21.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: http://charleshughsmith.blogspot.com/2025/01/i-quit-tsunami-of-burnout-few-see.html
-Comments URL: https://news.ycombinator.com/item?id=42645859
-Points: 514
-# Comments: 286]]></summary>
-        <author>
-            <name>dxs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: Tetris in a PDF]]></title>
-        <id>https://news.ycombinator.com/item?id=42645218</id>
-        <link href="https://th0mas.nl/downloads/pdftris.pdf"/>
-        <updated>2025-01-09T13:31:33.000Z</updated>
-        <summary type="html"><![CDATA[I realized that the PDF engines of modern desktop browsers (PDFium and PDF.js) support JavaScript with enough I/O primitives to make a basic game like Tetris.
-It was a bit tricky to find a union of features that work in both engines, but in the end it turns out that showing/hiding annotation "fields" works well to make monochrome pixels, and keyboard input can be achieved by typing in a text input box.
-All in all it's quite janky but a nice reminder of how general purpose PDF scripting can be. The linked PDF is all ASCII so you can just open it in a text editor, or have a look at the source code here: https://github.com/ThomasRinsma/pdftris/blob/main/gengrid.py
-Comments URL: https://news.ycombinator.com/item?id=42645218
-Points: 502
-# Comments: 101]]></summary>
-        <author>
-            <name>ThomasRinsma</name>
         </author>
     </entry>
 </feed>
