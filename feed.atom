@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-02-09T02:48:17.645Z</updated>
+    <updated>2025-02-09T03:20:07.387Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[We are destroying software]]></title>
+        <id>https://news.ycombinator.com/item?id=42983275</id>
+        <link href="https://antirez.com/news/145"/>
+        <updated>2025-02-08T14:48:25.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://antirez.com/news/145
+Comments URL: https://news.ycombinator.com/item?id=42983275
+Points: 505
+# Comments: 360]]></summary>
+        <author>
+            <name>antirez</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[VSCode’s SSH agent is bananas]]></title>
         <id>https://news.ycombinator.com/item?id=42979467</id>
