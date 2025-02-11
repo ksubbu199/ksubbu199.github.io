@@ -1534,6 +1534,16 @@
       "siteUrl": "https://martinfowler.com/feed.atom",
       "articles": [
         {
+          "id": "https://martinfowler.com/articles/gen-ai-patterns/#query-rewrite",
+          "author": null,
+          "description": "Users often have difficulty writing the most effective queries.\n      Bharani Subramaniam and I explain Query Rewriting:\n      getting an LLM to formulate alternative queries to send to a RAG's\n      retriever. \nmore…",
+          "link": "https://martinfowler.com/articles/gen-ai-patterns/#query-rewrite",
+          "publishedOn": "2025-02-11T20:58:00.000Z",
+          "wordCount": 5906,
+          "title": "GenAI Patterns: Query Rewriting",
+          "imageUrl": "https://martinfowler.com/articles/gen-ai-patterns/card.png"
+        },
+        {
           "id": "https://martinfowler.com/articles/deepseek-papers.html",
           "author": null,
           "description": "The appearance of DeepSeek Large-Language Models has caused a lot of\n      discussion and angst since their latest versions appeared at the beginning\n      of 2025. But much of the value of DeepSeek's work comes from the papers\n      they have published over the last year. Shayan Mohanty\n      provides an overview of these papers, highlighting three main arcs in this\n      research: a focus on improving cost and memory efficiency, the use of HPC\n      Co-Design to train large models on limited hardware, and the development\n      of emergent reasoning from large-scale reinforcement learning\nmore…",

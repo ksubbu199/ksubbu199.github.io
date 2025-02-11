@@ -2,10 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-02-11T20:17:51.045Z</updated>
+    <updated>2025-02-11T21:15:23.108Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[GenAI Patterns: Query Rewriting]]></title>
+        <id>https://martinfowler.com/articles/gen-ai-patterns/#query-rewrite</id>
+        <link href="https://martinfowler.com/articles/gen-ai-patterns/#query-rewrite"/>
+        <updated>2025-02-11T20:58:00.000Z</updated>
+        <summary type="html"><![CDATA[Users often have difficulty writing the most effective queries.
+      Bharani Subramaniam and I explain Query Rewriting:
+      getting an LLM to formulate alternative queries to send to a RAG's
+      retriever. 
+more…]]></summary>
+        <author>
+            <name>Martin Fowler</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[I Tasted Honda's Spicy Rodent-Repelling Tape – And I will do it again]]></title>
         <id>https://news.ycombinator.com/item?id=43013615</id>
