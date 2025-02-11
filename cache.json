@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=43004889",
+          "author": "jdoliner",
+          "description": "Article URL: https://www.reuters.com/markets/deals/elon-musk-led-group-makes-974-billion-bid-control-openai-wsj-reports-2025-02-10/\nComments URL: https://news.ycombinator.com/item?id=43004889\nPoints: 523\n# Comments: 600",
+          "link": "https://www.reuters.com/markets/deals/elon-musk-led-group-makes-974-billion-bid-control-openai-wsj-reports-2025-02-10/",
+          "publishedOn": "2025-02-10T20:42:18.000Z",
+          "wordCount": null,
+          "title": "Musk-led group makes $97B bid for control of OpenAI",
+          "imageUrl": null
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=43002511",
           "author": "Jhsto",
           "description": "Article URL: https://www.quantamagazine.org/undergraduate-upends-a-40-year-old-data-science-conjecture-20250210/\nComments URL: https://news.ycombinator.com/item?id=43002511\nPoints: 541\n# Comments: 249",
@@ -1434,16 +1444,6 @@
           "wordCount": 322,
           "title": "Uv's killer feature is making ad-hoc environments easy",
           "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=42674116",
-          "author": "vortex_ape",
-          "description": "Article URL: https://eieio.games/blog/bad-apple-with-regex-in-vim/\nComments URL: https://news.ycombinator.com/item?id=42674116\nPoints: 513\n# Comments: 51",
-          "link": "https://eieio.games/blog/bad-apple-with-regex-in-vim/",
-          "publishedOn": "2025-01-12T15:13:14.000Z",
-          "wordCount": 3063,
-          "title": "Bad Apple but it's 6,500 regexes that I search for in Vim",
-          "imageUrl": "https://eieio.games/images/bad-apple-with-regex-in-vim/title-image.png"
         }
       ]
     },
