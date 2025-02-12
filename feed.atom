@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-02-12T15:18:20.169Z</updated>
+    <updated>2025-02-12T16:21:48.810Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Leaking the email of any YouTube user for $10,000]]></title>
+        <id>https://news.ycombinator.com/item?id=43024221</id>
+        <link href="https://brutecat.com/articles/leaking-youtube-emails"/>
+        <updated>2025-02-12T11:19:42.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://brutecat.com/articles/leaking-youtube-emails
+Comments URL: https://news.ycombinator.com/item?id=43024221
+Points: 631
+# Comments: 201]]></summary>
+        <author>
+            <name>brutecat</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Style-observer: JS to observe CSS property changes, for reals]]></title>
         <id>https://lea.verou.me/blog/2025/style-observer/</id>
