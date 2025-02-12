@@ -1424,16 +1424,6 @@
           "wordCount": 839,
           "title": "FFmpeg by Example",
           "imageUrl": "https://ffmpegbyexample.com/img/ffmpeg-by-example.png"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=42690473",
-          "author": "arkadiyt",
-          "description": "Article URL: https://sourcecodered.com/snyk-malicious-npm-package/\nComments URL: https://news.ycombinator.com/item?id=42690473\nPoints: 512\n# Comments: 252",
-          "link": "https://sourcecodered.com/snyk-malicious-npm-package/",
-          "publishedOn": "2025-01-13T22:38:27.000Z",
-          "wordCount": 6513,
-          "title": "Snyk security researcher deploys malicious NPM packages targeting cursor.com",
-          "imageUrl": "https://sourcecodered.com/wp-content/uploads/2025/01/snyk-cursor-malicious-package-banner.png"
         }
       ]
     },
@@ -1865,7 +1855,18 @@
       "title": "Lea Verou’s blog",
       "feedUrl": "https://lea.verou.me/feed.xml",
       "siteUrl": "https://lea.verou.me/feed.xml",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://lea.verou.me/blog/2025/style-observer/",
+          "author": null,
+          "description": "I cannot count the number of times in my career I wished I could run JS in response to CSS property changes,\nregardless of what triggered them: media queries, user actions, or even other JS.\nUse cases abound.\nHere are some of mine:\nImplement higher level custom properties in components, where one custom property changes multiple others in nontrivial ways (e.g. a --variant: danger that sets 10 color tokens).\nPolyfill missing CSS features\nChange certain HTML attributes via CSS (hello --aria-expanded!)\nThe most recent time I needed this was to prototype an idea I had for Web Awesome,\nand I decided this was it:\nI’d either find a good, bulletproof solution, or I would build it myself.\nSpoiler alert:\nOops, I did it again\nA Brief History of Style Observers\nThe quest for a JS style observer has be…",
+          "link": "https://lea.verou.me/blog/2025/style-observer/",
+          "publishedOn": "2025-02-12T10:43:32.000Z",
+          "wordCount": 959,
+          "title": "Style-observer: JS to observe CSS property changes, for reals",
+          "imageUrl": "https://lea.verou.me/blog/2025/style-observer/images/social.gif"
+        }
+      ]
     },
     {
       "title": "Ben Hoyt's technical writing",

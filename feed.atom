@@ -2,10 +2,33 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-02-12T10:17:35.599Z</updated>
+    <updated>2025-02-12T11:14:06.626Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Style-observer: JS to observe CSS property changes, for reals]]></title>
+        <id>https://lea.verou.me/blog/2025/style-observer/</id>
+        <link href="https://lea.verou.me/blog/2025/style-observer/"/>
+        <updated>2025-02-12T10:43:32.000Z</updated>
+        <summary type="html"><![CDATA[I cannot count the number of times in my career I wished I could run JS in response to CSS property changes,
+regardless of what triggered them: media queries, user actions, or even other JS.
+Use cases abound.
+Here are some of mine:
+Implement higher level custom properties in components, where one custom property changes multiple others in nontrivial ways (e.g. a --variant: danger that sets 10 color tokens).
+Polyfill missing CSS features
+Change certain HTML attributes via CSS (hello --aria-expanded!)
+The most recent time I needed this was to prototype an idea I had for Web Awesome,
+and I decided this was it:
+I’d either find a good, bulletproof solution, or I would build it myself.
+Spoiler alert:
+Oops, I did it again
+A Brief History of Style Observers
+The quest for a JS style observer has be…]]></summary>
+        <author>
+            <name>Lea Verou’s blog</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[GenAI Patterns: Query Rewriting]]></title>
         <id>https://martinfowler.com/articles/gen-ai-patterns/#query-rewrite</id>
@@ -2323,19 +2346,6 @@ Points: 536
 # Comments: 138]]></summary>
         <author>
             <name>piyushsthr</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Snyk security researcher deploys malicious NPM packages targeting cursor.com]]></title>
-        <id>https://news.ycombinator.com/item?id=42690473</id>
-        <link href="https://sourcecodered.com/snyk-malicious-npm-package/"/>
-        <updated>2025-01-13T22:38:27.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://sourcecodered.com/snyk-malicious-npm-package/
-Comments URL: https://news.ycombinator.com/item?id=42690473
-Points: 512
-# Comments: 252]]></summary>
-        <author>
-            <name>arkadiyt</name>
         </author>
     </entry>
 </feed>
