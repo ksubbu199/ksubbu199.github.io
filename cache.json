@@ -1504,6 +1504,16 @@
       "siteUrl": "https://martinfowler.com/feed.atom",
       "articles": [
         {
+          "id": "https://martinfowler.com/articles/gen-ai-patterns/#reranker",
+          "author": null,
+          "description": "LLMs struggle with large amounts of context. Bharani\n      Subramaniam and I explain how to mitigate this common RAG\n      problem with a Reranker which takes the document\n      fragments from the retriever, and ranks them according to their usefulness.\nmore…",
+          "link": "https://martinfowler.com/articles/gen-ai-patterns/#reranker",
+          "publishedOn": "2025-02-13T10:16:00.000Z",
+          "wordCount": 6259,
+          "title": "GenAI Patterns: Reranker",
+          "imageUrl": "https://martinfowler.com/articles/gen-ai-patterns/card.png"
+        },
+        {
           "id": "https://martinfowler.com/articles/gen-ai-patterns/#query-rewrite",
           "author": null,
           "description": "Users often have difficulty writing the most effective queries.\n      Bharani Subramaniam and I explain Query Rewriting:\n      getting an LLM to formulate alternative queries to send to a RAG's\n      retriever. \nmore…",
