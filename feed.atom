@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-02-14T01:16:14.212Z</updated>
+    <updated>2025-02-14T02:46:31.277Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Privacy Pass Authentication for Kagi Search]]></title>
+        <id>https://news.ycombinator.com/item?id=43040521</id>
+        <link href="https://blog.kagi.com/kagi-privacy-pass"/>
+        <updated>2025-02-13T19:57:29.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://blog.kagi.com/kagi-privacy-pass
+Comments URL: https://news.ycombinator.com/item?id=43040521
+Points: 522
+# Comments: 188]]></summary>
+        <author>
+            <name>b3n</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Resigning as Asahi Linux project lead]]></title>
         <id>https://news.ycombinator.com/item?id=43036904</id>
@@ -2379,20 +2392,6 @@ Points: 510
 # Comments: 307]]></summary>
         <author>
             <name>MattSayar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fixing Common Pitfalls of Codemods]]></title>
-        <id>https://martinfowler.com/articles/codemods-api-refactoring.html#FixingCommonPitfallsOfCodemods</id>
-        <link href="https://martinfowler.com/articles/codemods-api-refactoring.html#FixingCommonPitfallsOfCodemods"/>
-        <updated>2025-01-15T14:43:00.000Z</updated>
-        <summary type="html"><![CDATA[So far the codemods that Juntao Qiu has described are
-      fascinating, but rather straightforward. Real codebases offer more
-      challenges. In this installment, he goes into how to tackle more
-      complicated cases by composing codemods.
-more…]]></summary>
-        <author>
-            <name>Martin Fowler</name>
         </author>
     </entry>
 </feed>
