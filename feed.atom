@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-02-16T06:21:18.171Z</updated>
+    <updated>2025-02-16T07:15:13.941Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -69,6 +69,19 @@ Points: 561
 # Comments: 387]]></summary>
         <author>
             <name>mahkeiro</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Zed now predicts your next edit with Zeta, our new open model]]></title>
+        <id>https://news.ycombinator.com/item?id=43045606</id>
+        <link href="https://zed.dev/blog/edit-prediction"/>
+        <updated>2025-02-14T06:50:47.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://zed.dev/blog/edit-prediction
+Comments URL: https://news.ycombinator.com/item?id=43045606
+Points: 501
+# Comments: 284]]></summary>
+        <author>
+            <name>ahamez</name>
         </author>
     </entry>
     <entry>
