@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-02-17T12:34:09.502Z</updated>
+    <updated>2025-02-17T13:23:52.405Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -62,6 +62,21 @@ Points: 557
 # Comments: 193]]></summary>
         <author>
             <name>lumerina</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Uchū – Color palette for internet lovers]]></title>
+        <id>https://news.ycombinator.com/item?id=43072338</id>
+        <link href="https://uchu.style/"/>
+        <updated>2025-02-16T22:22:40.000Z</updated>
+        <summary type="html"><![CDATA[Hey everyone,
+About a year ago I embarked on creating a color scheme for a project and I loved it so much I began using it for everything. I decided to make an official repo for it to share with the world.
+Anyhoo, hope y'all enjoy it.
+Comments URL: https://news.ycombinator.com/item?id=43072338
+Points: 502
+# Comments: 201]]></summary>
+        <author>
+            <name>NetOpWibby</name>
         </author>
     </entry>
     <entry>
