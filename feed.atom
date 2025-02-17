@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-02-17T08:22:53.078Z</updated>
+    <updated>2025-02-17T09:19:05.183Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Caddy – The Ultimate Server with Automatic HTTPS]]></title>
+        <id>https://news.ycombinator.com/item?id=43070025</id>
+        <link href="https://caddyserver.com/"/>
+        <updated>2025-02-16T17:56:15.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://caddyserver.com/
+Comments URL: https://news.ycombinator.com/item?id=43070025
+Points: 504
+# Comments: 183]]></summary>
+        <author>
+            <name>huang_chung</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“A calculator app? Anyone could make that”]]></title>
         <id>https://news.ycombinator.com/item?id=43066953</id>
