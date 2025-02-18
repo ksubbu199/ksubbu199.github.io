@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=43094260",
+          "author": "davikr",
+          "description": "Article URL: https://github.com/ValveSoftware/source-sdk-2013/commit/0759e2e8e179d5352d81d0d4aaded72c1704b7a9\nComments URL: https://news.ycombinator.com/item?id=43094260\nPoints: 511\n# Comments: 137",
+          "link": "https://github.com/ValveSoftware/source-sdk-2013/commit/0759e2e8e179d5352d81d0d4aaded72c1704b7a9",
+          "publishedOn": "2025-02-18T19:57:17.000Z",
+          "wordCount": 7431,
+          "title": "Valve releases Team Fortress 2 game code",
+          "imageUrl": "https://opengraph.githubassets.com/b586a6e9bbc3d649dd88b2f5a96cc97a9b88077b3f530bb00a44fd7c72bbb693/ValveSoftware/source-sdk-2013/commit/0759e2e8e179d5352d81d0d4aaded72c1704b7a9"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=43086479",
           "author": "dlazaro",
           "description": "As a fun evening project, I made a live-updating version of the 'What a week, huh?' meme (based on a panel from The Adventures of Tintin comics [1]).\nThere's a page for every timeframe:\n- 'What a day': https://tintin.dlazaro.ca/day\n- 'What a week': https://tintin.dlazaro.ca/week\n- 'What a month': https://tintin.dlazaro.ca/month\n- 'What a year': https://tintin.dlazaro.ca/year\nCurrent time is determined by a Cloudflare Worker using the request IP (not logged or stored). No JavaScript is sent to the browser.\n[1] https://knowyourmeme.com/memes/what-a-week-huh\nComments URL: https://news.ycombinator.com/item?id=43086479\nPoints: 531\n# Comments: 100",
