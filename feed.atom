@@ -2,10 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-02-17T23:15:22.280Z</updated>
+    <updated>2025-02-18T01:16:21.248Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[What role does LLM reasoning play for software tasks?]]></title>
+        <id>https://martinfowler.com/articles/exploring-gen-ai.html#memo-12</id>
+        <link href="https://martinfowler.com/articles/exploring-gen-ai.html#memo-12"/>
+        <updated>2025-02-18T00:02:00.000Z</updated>
+        <summary type="html"><![CDATA[Recent LLM models have provided “reasoning” capabilities. Birgitta
+       Böckeler asks what role these play with coding tasks. She
+      doesn't have an answer, but does have questions and thoughts - and has
+      not found such capabilities worthwhile so far. 
+more…]]></summary>
+        <author>
+            <name>Martin Fowler</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Entrepreneurs are making big mistakes?]]></title>
         <id>https://www.youtube.com/watch?v=dL31EFJwiAk</id>
@@ -207,6 +221,19 @@ Points: 529
 # Comments: 74]]></summary>
         <author>
             <name>robinhouston</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[You're not a senior engineer until you've worked on a legacy project (2023)]]></title>
+        <id>https://news.ycombinator.com/item?id=43047341</id>
+        <link href="https://www.infobip.com/developers/blog/seniors-working-on-a-legacy-project"/>
+        <updated>2025-02-14T11:36:39.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.infobip.com/developers/blog/seniors-working-on-a-legacy-project
+Comments URL: https://news.ycombinator.com/item?id=43047341
+Points: 539
+# Comments: 326]]></summary>
+        <author>
+            <name>tonkkatonka</name>
         </author>
     </entry>
     <entry>

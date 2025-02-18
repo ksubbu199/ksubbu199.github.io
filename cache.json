@@ -126,6 +126,16 @@
           "imageUrl": "https://aresluna.org/images/the-hardest-working-font-in-manhattan/ogimage.png"
         },
         {
+          "id": "https://news.ycombinator.com/item?id=43047341",
+          "author": "tonkkatonka",
+          "description": "Article URL: https://www.infobip.com/developers/blog/seniors-working-on-a-legacy-project\nComments URL: https://news.ycombinator.com/item?id=43047341\nPoints: 539\n# Comments: 326",
+          "link": "https://www.infobip.com/developers/blog/seniors-working-on-a-legacy-project",
+          "publishedOn": "2025-02-14T11:36:39.000Z",
+          "wordCount": 1586,
+          "title": "You're not a senior engineer until you've worked on a legacy project (2023)",
+          "imageUrl": "https://www.infobip.com/developers/wp-content/uploads/2023/03/antique-manometers-measuring-instruments-with-cont-2021-08-26-18-12-26-utc.jpg"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=43045835",
           "author": "mahkeiro",
           "description": "Article URL: https://www.404media.co/anyone-can-push-updates-to-the-doge-gov-website-2/\nComments URL: https://news.ycombinator.com/item?id=43045835\nPoints: 561\n# Comments: 387",
@@ -1492,6 +1502,16 @@
       "feedUrl": "https://martinfowler.com/feed.atom",
       "siteUrl": "https://martinfowler.com/feed.atom",
       "articles": [
+        {
+          "id": "https://martinfowler.com/articles/exploring-gen-ai.html#memo-12",
+          "author": null,
+          "description": "Recent LLM models have provided “reasoning” capabilities. Birgitta\n       Böckeler asks what role these play with coding tasks. She\n      doesn't have an answer, but does have questions and thoughts - and has\n      not found such capabilities worthwhile so far. \nmore…",
+          "link": "https://martinfowler.com/articles/exploring-gen-ai.html#memo-12",
+          "publishedOn": "2025-02-18T00:02:00.000Z",
+          "wordCount": 14083,
+          "title": "What role does LLM reasoning play for software tasks?",
+          "imageUrl": "https://martinfowler.com/logo-sq.png"
+        },
         {
           "id": "https://martinfowler.com/articles/gen-ai-patterns/#reranker",
           "author": null,
