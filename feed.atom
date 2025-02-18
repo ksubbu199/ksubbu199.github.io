@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-02-18T02:45:06.772Z</updated>
+    <updated>2025-02-18T03:19:25.456Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -117,6 +117,19 @@ Points: 502
 # Comments: 201]]></summary>
         <author>
             <name>NetOpWibby</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I helped fix sleep-wake hangs on Linux with AMD GPUs]]></title>
+        <id>https://news.ycombinator.com/item?id=43071983</id>
+        <link href="https://nyanpasu64.gitlab.io/blog/amdgpu-sleep-wake-hang/"/>
+        <updated>2025-02-16T21:42:03.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://nyanpasu64.gitlab.io/blog/amdgpu-sleep-wake-hang/
+Comments URL: https://news.ycombinator.com/item?id=43071983
+Points: 508
+# Comments: 138]]></summary>
+        <author>
+            <name>fanf2</name>
         </author>
     </entry>
     <entry>
