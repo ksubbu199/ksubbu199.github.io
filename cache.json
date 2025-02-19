@@ -1444,26 +1444,6 @@
           "wordCount": 547,
           "title": "Mixxx: GPL DJ Software",
           "imageUrl": "https://mixxx.org/theme/images/splash-1080x717.png"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=42768072",
-          "author": "meetpateltech",
-          "description": "Article URL: https://github.com/deepseek-ai/DeepSeek-R1\nComments URL: https://news.ycombinator.com/item?id=42768072\nPoints: 594\n# Comments: 196",
-          "link": "https://github.com/deepseek-ai/DeepSeek-R1",
-          "publishedOn": "2025-01-20T12:37:58.000Z",
-          "wordCount": 4673,
-          "title": "DeepSeek-R1",
-          "imageUrl": "https://opengraph.githubassets.com/7e6300cd1025ea430771717c5f8cc2a5c45b9c314d195c56478a29e6c89176bb/deepseek-ai/DeepSeek-R1"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=42767507",
-          "author": "DamonHD",
-          "description": "Article URL: http://okayfail.com/2025/i-met-pg-once.html\nComments URL: https://news.ycombinator.com/item?id=42767507\nPoints: 542\n# Comments: 336",
-          "link": "http://okayfail.com/2025/i-met-pg-once.html",
-          "publishedOn": "2025-01-20T11:20:02.000Z",
-          "wordCount": 2101,
-          "title": "I Met Paul Graham Once",
-          "imageUrl": null
         }
       ]
     },
@@ -1522,6 +1502,16 @@
       "feedUrl": "https://martinfowler.com/feed.atom",
       "siteUrl": "https://martinfowler.com/feed.atom",
       "articles": [
+        {
+          "id": "https://martinfowler.com/articles/gen-ai-patterns/#guardrails",
+          "author": null,
+          "description": "Gen AI systems are gullible, and can easily be tricked into responding\n      in ways that are contrary to an enterprise's policies or leak\n      confidential information. Bharani\n      Subramaniam and I describe how we can counter this by adding\n      guardrails at the boundaries of the request/response flow. We also\n      conclude our discussion of RAG with an overview of how all the RAG\n      component patterns fit together.\nmore…",
+          "link": "https://martinfowler.com/articles/gen-ai-patterns/#guardrails",
+          "publishedOn": "2025-02-19T00:02:00.000Z",
+          "wordCount": 7514,
+          "title": "GenAI Patterns: Guardrails and RAG overview",
+          "imageUrl": "https://martinfowler.com/articles/gen-ai-patterns/card.png"
+        },
         {
           "id": "https://martinfowler.com/articles/exploring-gen-ai.html#memo-12",
           "author": null,

@@ -2,10 +2,27 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-02-18T23:15:41.652Z</updated>
+    <updated>2025-02-19T01:16:52.638Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[GenAI Patterns: Guardrails and RAG overview]]></title>
+        <id>https://martinfowler.com/articles/gen-ai-patterns/#guardrails</id>
+        <link href="https://martinfowler.com/articles/gen-ai-patterns/#guardrails"/>
+        <updated>2025-02-19T00:02:00.000Z</updated>
+        <summary type="html"><![CDATA[Gen AI systems are gullible, and can easily be tricked into responding
+      in ways that are contrary to an enterprise's policies or leak
+      confidential information. Bharani
+      Subramaniam and I describe how we can counter this by adding
+      guardrails at the boundaries of the request/response flow. We also
+      conclude our discussion of RAG with an overview of how all the RAG
+      component patterns fit together.
+more…]]></summary>
+        <author>
+            <name>Martin Fowler</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Valve releases Team Fortress 2 game code]]></title>
         <id>https://news.ycombinator.com/item?id=43094260</id>
@@ -2416,32 +2433,6 @@ Points: 509
 # Comments: 105]]></summary>
         <author>
             <name>brudgers</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DeepSeek-R1]]></title>
-        <id>https://news.ycombinator.com/item?id=42768072</id>
-        <link href="https://github.com/deepseek-ai/DeepSeek-R1"/>
-        <updated>2025-01-20T12:37:58.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://github.com/deepseek-ai/DeepSeek-R1
-Comments URL: https://news.ycombinator.com/item?id=42768072
-Points: 594
-# Comments: 196]]></summary>
-        <author>
-            <name>meetpateltech</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I Met Paul Graham Once]]></title>
-        <id>https://news.ycombinator.com/item?id=42767507</id>
-        <link href="http://okayfail.com/2025/i-met-pg-once.html"/>
-        <updated>2025-01-20T11:20:02.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: http://okayfail.com/2025/i-met-pg-once.html
-Comments URL: https://news.ycombinator.com/item?id=42767507
-Points: 542
-# Comments: 336]]></summary>
-        <author>
-            <name>DamonHD</name>
         </author>
     </entry>
 </feed>
