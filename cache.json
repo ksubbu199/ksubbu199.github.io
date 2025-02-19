@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=43095157",
+          "author": "bertdb",
+          "description": "Article URL: https://www.bitecode.dev/p/a-year-of-uv-pros-cons-and-should\nComments URL: https://news.ycombinator.com/item?id=43095157\nPoints: 511\n# Comments: 264",
+          "link": "https://www.bitecode.dev/p/a-year-of-uv-pros-cons-and-should",
+          "publishedOn": "2025-02-18T21:09:19.000Z",
+          "wordCount": 9481,
+          "title": "A year of uv: pros, cons, and should you migrate",
+          "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9b67b659-6da9-4da4-a6e5-007a2856ebef_1024x1024.webp"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=43094260",
           "author": "davikr",
           "description": "Article URL: https://github.com/ValveSoftware/source-sdk-2013/commit/0759e2e8e179d5352d81d0d4aaded72c1704b7a9\nComments URL: https://news.ycombinator.com/item?id=43094260\nPoints: 511\n# Comments: 137",
@@ -1413,16 +1423,6 @@
           "publishedOn": "2025-01-21T09:10:13.000Z",
           "wordCount": 1361,
           "title": "The Most Mario Colors",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=42774221",
-          "author": "deverton",
-          "description": "Article URL: https://ssno.cc/posts/reversing-tac-1-4-2025/\nComments URL: https://news.ycombinator.com/item?id=42774221\nPoints: 500\n# Comments: 202",
-          "link": "https://ssno.cc/posts/reversing-tac-1-4-2025/",
-          "publishedOn": "2025-01-20T23:07:10.000Z",
-          "wordCount": 8308,
-          "title": "Reverse engineering Call of Duty anti-cheat",
           "imageUrl": null
         }
       ]

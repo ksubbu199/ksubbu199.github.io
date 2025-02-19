@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-02-19T10:17:49.725Z</updated>
+    <updated>2025-02-19T11:13:49.977Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -39,6 +39,19 @@
 more…]]></summary>
         <author>
             <name>Martin Fowler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A year of uv: pros, cons, and should you migrate]]></title>
+        <id>https://news.ycombinator.com/item?id=43095157</id>
+        <link href="https://www.bitecode.dev/p/a-year-of-uv-pros-cons-and-should"/>
+        <updated>2025-02-18T21:09:19.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.bitecode.dev/p/a-year-of-uv-pros-cons-and-should
+Comments URL: https://news.ycombinator.com/item?id=43095157
+Points: 511
+# Comments: 264]]></summary>
+        <author>
+            <name>bertdb</name>
         </author>
     </entry>
     <entry>
@@ -2412,19 +2425,6 @@ Points: 506
 # Comments: 57]]></summary>
         <author>
             <name>ingve</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Reverse engineering Call of Duty anti-cheat]]></title>
-        <id>https://news.ycombinator.com/item?id=42774221</id>
-        <link href="https://ssno.cc/posts/reversing-tac-1-4-2025/"/>
-        <updated>2025-01-20T23:07:10.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://ssno.cc/posts/reversing-tac-1-4-2025/
-Comments URL: https://news.ycombinator.com/item?id=42774221
-Points: 500
-# Comments: 202]]></summary>
-        <author>
-            <name>deverton</name>
         </author>
     </entry>
 </feed>
