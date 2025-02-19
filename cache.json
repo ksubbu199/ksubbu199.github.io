@@ -36,6 +36,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://news.ycombinator.com/item?id=43087944",
+          "author": "mariuz",
+          "description": "Article URL: https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/xor/\nComments URL: https://news.ycombinator.com/item?id=43087944\nPoints: 511\n# Comments: 88",
+          "link": "https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/xor/",
+          "publishedOn": "2025-02-18T10:02:30.000Z",
+          "wordCount": 18447,
+          "title": "XOR",
+          "imageUrl": null
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=43086479",
           "author": "dlazaro",
           "description": "As a fun evening project, I made a live-updating version of the 'What a week, huh?' meme (based on a panel from The Adventures of Tintin comics [1]).\nThere's a page for every timeframe:\n- 'What a day': https://tintin.dlazaro.ca/day\n- 'What a week': https://tintin.dlazaro.ca/week\n- 'What a month': https://tintin.dlazaro.ca/month\n- 'What a year': https://tintin.dlazaro.ca/year\nCurrent time is determined by a Cloudflare Worker using the request IP (not logged or stored). No JavaScript is sent to the browser.\n[1] https://knowyourmeme.com/memes/what-a-week-huh\nComments URL: https://news.ycombinator.com/item?id=43086479\nPoints: 531\n# Comments: 100",
