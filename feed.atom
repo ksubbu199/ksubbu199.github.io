@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-02-20T19:13:15.217Z</updated>
+    <updated>2025-02-20T21:13:55.591Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Software engineering job openings hit five-year low?]]></title>
+        <id>67b78da5dd523e0001b17ccb</id>
+        <link href="https://blog.pragmaticengineer.com/software-engineer-jobs-five-year-low/"/>
+        <updated>2025-02-20T20:27:33.000Z</updated>
+        <summary type="html"><![CDATA[There are 35% fewer software developer job listings on Indeed today, than five years ago. Compared to other industries, job listings for software engineers grew much more in 2021-2022, but have declined much faster since. A look into possible reasons for this, and what could come next.]]></summary>
+        <author>
+            <name>Gergely Orosz</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[DOGE has 'god mode' access to government data]]></title>
         <id>https://news.ycombinator.com/item?id=43112084</id>
