@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-02-21T07:16:22.921Z</updated>
+    <updated>2025-02-21T08:21:06.936Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Immersive Gaussian Splat experience of Sutro Tower, San Francisco]]></title>
+        <id>https://news.ycombinator.com/item?id=43120582</id>
+        <link href="https://vincentwoo.com/3d/sutro_tower/"/>
+        <updated>2025-02-20T21:39:19.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://vincentwoo.com/3d/sutro_tower/
+Comments URL: https://news.ycombinator.com/item?id=43120582
+Points: 537
+# Comments: 143]]></summary>
+        <author>
+            <name>akanet</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Software engineering job openings hit five-year low?]]></title>
         <id>67b78da5dd523e0001b17ccb</id>
@@ -2355,19 +2368,6 @@ Points: 524
 # Comments: 71]]></summary>
         <author>
             <name>Hello9999901</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to improve your WFH lighting to reduce eye strain]]></title>
-        <id>https://news.ycombinator.com/item?id=42796950</id>
-        <link href="https://rustle.ca/posts/articles/work-from-home-lighting"/>
-        <updated>2025-01-22T20:08:57.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://rustle.ca/posts/articles/work-from-home-lighting
-Comments URL: https://news.ycombinator.com/item?id=42796950
-Points: 512
-# Comments: 233]]></summary>
-        <author>
-            <name>jahfer</name>
         </author>
     </entry>
 </feed>

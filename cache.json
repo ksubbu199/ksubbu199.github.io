@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=43120582",
+          "author": "akanet",
+          "description": "Article URL: https://vincentwoo.com/3d/sutro_tower/\nComments URL: https://news.ycombinator.com/item?id=43120582\nPoints: 537\n# Comments: 143",
+          "link": "https://vincentwoo.com/3d/sutro_tower/",
+          "publishedOn": "2025-02-20T21:39:19.000Z",
+          "wordCount": 228,
+          "title": "Show HN: Immersive Gaussian Splat experience of Sutro Tower, San Francisco",
+          "imageUrl": "https://vincentwoo.com/3d/sutro_tower/preview.jpg"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=43112084",
           "author": "perihelions",
           "description": "Article URL: https://www.theatlantic.com/technology/archive/2025/02/doge-god-mode-access/681719/\nComments URL: https://news.ycombinator.com/item?id=43112084\nPoints: 533\n# Comments: 1021",
@@ -1394,16 +1404,6 @@
           "wordCount": 2138,
           "title": "Show HN: I Made an Open-Source Laptop from Scratch",
           "imageUrl": "https://byran.ee/open-graph.jpg"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=42796950",
-          "author": "jahfer",
-          "description": "Article URL: https://rustle.ca/posts/articles/work-from-home-lighting\nComments URL: https://news.ycombinator.com/item?id=42796950\nPoints: 512\n# Comments: 233",
-          "link": "https://rustle.ca/posts/articles/work-from-home-lighting",
-          "publishedOn": "2025-01-22T20:08:57.000Z",
-          "wordCount": 1607,
-          "title": "How to improve your WFH lighting to reduce eye strain",
-          "imageUrl": "https://rustle.ca/assets/media/images/OG_IMAGE_JUMBLE.png"
         }
       ]
     },
