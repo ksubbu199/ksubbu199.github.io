@@ -56,6 +56,16 @@
           "imageUrl": "https://static.scientificamerican.com/dam/m/2536f2bc1f78d195/original/sa0325SoH01.jpg?m=1738864029.009&w=1200"
         },
         {
+          "id": "https://news.ycombinator.com/item?id=43101204",
+          "author": "mustache_kimono",
+          "description": "Article URL: https://lore.kernel.org/rust-for-linux/2025021954-flaccid-pucker-f7d9@gregkh/\nComments URL: https://news.ycombinator.com/item?id=43101204\nPoints: 516\n# Comments: 268",
+          "link": "https://lore.kernel.org/rust-for-linux/2025021954-flaccid-pucker-f7d9@gregkh/",
+          "publishedOn": "2025-02-19T12:12:52.000Z",
+          "wordCount": 1825,
+          "title": "Greg K-H: \"Writing new code in Rust is a win for all of us\"",
+          "imageUrl": null
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=43098705",
           "author": "martialg",
           "description": "Article URL: https://www.whitehouse.gov/presidential-actions/2025/02/ensuring-accountability-for-all-agencies/\nComments URL: https://news.ycombinator.com/item?id=43098705\nPoints: 549\n# Comments: 872",
@@ -1394,16 +1404,6 @@
           "wordCount": 4123,
           "title": "Hacking Subaru: Tracking and controlling cars via the admin panel",
           "imageUrl": "https://samcurry-mmcw4he30-sam-currys-projects.vercel.app/images/hacking-subaru/leaked.png"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=42797260",
-          "author": "Hello9999901",
-          "description": "Hello! I'm Byran. I spent the past ~6 months engineering a laptop from scratch. It's fully open-source on GH at: https://github.com/Hello9999901/laptop\nComments URL: https://news.ycombinator.com/item?id=42797260\nPoints: 524\n# Comments: 71",
-          "link": "https://www.byran.ee/posts/creation/",
-          "publishedOn": "2025-01-22T20:41:52.000Z",
-          "wordCount": 2138,
-          "title": "Show HN: I Made an Open-Source Laptop from Scratch",
-          "imageUrl": "https://byran.ee/open-graph.jpg"
         }
       ]
     },
