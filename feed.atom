@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-02-23T05:15:15.589Z</updated>
+    <updated>2025-02-23T06:21:36.471Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -2422,30 +2422,6 @@ Points: 516
 # Comments: 327]]></summary>
         <author>
             <name>eigenvalue</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[You don’t know this about Kejriwal & his Team]]></title>
-        <id>https://www.youtube.com/watch?v=8Lhkt_9Xx9s</id>
-        <link href="https://www.youtube.com/watch?v=8Lhkt_9Xx9s"/>
-        <updated>2025-01-24T18:21:28.000Z</updated>
-        <author>
-            <name>Think School</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Podcast with Luca Rossi]]></title>
-        <id>https://refactoring.fm/p/growing-the-development-forest-with</id>
-        <link href="https://refactoring.fm/p/growing-the-development-forest-with"/>
-        <updated>2025-01-24T18:01:00.000Z</updated>
-        <summary type="html"><![CDATA[Luca Rossi hosts a podcast (and newsletter) called Refactoring, so it's
-      obvious that we have some interests in common. The tile comes from me
-      leaning heavily on Beth Anders-Beck and Kent Beck's metaphor of The Forest and The Desert. We talk
-      about the impact of AI on software development, the metaphor of technical
-      debt, and the current state of agile software development.
-more…]]></summary>
-        <author>
-            <name>Martin Fowler</name>
         </author>
     </entry>
 </feed>
