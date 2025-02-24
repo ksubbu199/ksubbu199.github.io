@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-02-24T19:13:50.860Z</updated>
+    <updated>2025-02-24T20:19:05.592Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Claude 3.7 Sonnet and Claude Code]]></title>
+        <id>https://news.ycombinator.com/item?id=43163011</id>
+        <link href="https://www.anthropic.com/news/claude-3-7-sonnet"/>
+        <updated>2025-02-24T18:28:59.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.anthropic.com/news/claude-3-7-sonnet
+Comments URL: https://news.ycombinator.com/item?id=43163011
+Points: 598
+# Comments: 267]]></summary>
+        <author>
+            <name>bakugo</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[I built an app to stop me doomscrolling by touching grass]]></title>
         <id>https://news.ycombinator.com/item?id=43158660</id>
