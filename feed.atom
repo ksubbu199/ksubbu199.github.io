@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-02-24T06:25:31.865Z</updated>
+    <updated>2025-02-24T07:16:34.102Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -2474,32 +2474,6 @@ Points: 500
 # Comments: 132]]></summary>
         <author>
             <name>sbarre</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenRA – Classic strategy games rebuilt for the modern era]]></title>
-        <id>https://news.ycombinator.com/item?id=42823667</id>
-        <link href="https://www.openra.net/"/>
-        <updated>2025-01-25T18:55:07.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.openra.net/
-Comments URL: https://news.ycombinator.com/item?id=42823667
-Points: 500
-# Comments: 87]]></summary>
-        <author>
-            <name>tosh</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via RL]]></title>
-        <id>https://news.ycombinator.com/item?id=42823568</id>
-        <link href="https://arxiv.org/abs/2501.12948"/>
-        <updated>2025-01-25T18:39:49.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://arxiv.org/abs/2501.12948
-Comments URL: https://news.ycombinator.com/item?id=42823568
-Points: 519
-# Comments: 434]]></summary>
-        <author>
-            <name>gradus_ad</name>
         </author>
     </entry>
 </feed>
