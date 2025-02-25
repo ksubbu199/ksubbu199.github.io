@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-02-25T22:16:02.688Z</updated>
+    <updated>2025-02-25T23:15:49.684Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Hyperspace]]></title>
+        <id>https://news.ycombinator.com/item?id=43173462</id>
+        <link href="https://hypercritical.co/2025/02/25/hyperspace"/>
+        <updated>2025-02-25T15:51:54.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://hypercritical.co/2025/02/25/hyperspace
+Comments URL: https://news.ycombinator.com/item?id=43173462
+Points: 503
+# Comments: 295]]></summary>
+        <author>
+            <name>tobr</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[GenAI Patterns: Fine Tuning]]></title>
         <id>https://martinfowler.com/articles/gen-ai-patterns/#fine-tuning</id>
@@ -2476,19 +2489,6 @@ Points: 511
 # Comments: 374]]></summary>
         <author>
             <name>reissbaker</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Facebook ban on discussing Linux?]]></title>
-        <id>https://news.ycombinator.com/item?id=42839502</id>
-        <link href="https://distrowatch.com/weekly-mobile.php?issue=20250127#sitenews"/>
-        <updated>2025-01-27T10:32:36.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://distrowatch.com/weekly-mobile.php?issue=20250127#sitenews
-Comments URL: https://news.ycombinator.com/item?id=42839502
-Points: 509
-# Comments: 251]]></summary>
-        <author>
-            <name>rogerthis</name>
         </author>
     </entry>
 </feed>
