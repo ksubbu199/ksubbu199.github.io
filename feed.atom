@@ -2,10 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-02-25T11:14:08.720Z</updated>
+    <updated>2025-02-25T12:34:15.939Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[GenAI Patterns: Fine Tuning]]></title>
+        <id>https://martinfowler.com/articles/gen-ai-patterns/#fine-tuning</id>
+        <link href="https://martinfowler.com/articles/gen-ai-patterns/#fine-tuning"/>
+        <updated>2025-02-25T12:20:00.000Z</updated>
+        <summary type="html"><![CDATA[While RAG is the most common way to focus a foundation model on
+      material outside its training set, Bharani Subramaniam
+      and I now finish our current batch of patterns by examining our experience
+      with Fine Tuning where we learned to prioritize
+      curating high-quality data.
+more…]]></summary>
+        <author>
+            <name>Martin Fowler</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Claude 3.7 Sonnet and Claude Code]]></title>
         <id>https://news.ycombinator.com/item?id=43163011</id>

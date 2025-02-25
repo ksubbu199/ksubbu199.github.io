@@ -1533,6 +1533,16 @@
       "siteUrl": "https://martinfowler.com/feed.atom",
       "articles": [
         {
+          "id": "https://martinfowler.com/articles/gen-ai-patterns/#fine-tuning",
+          "author": null,
+          "description": "While RAG is the most common way to focus a foundation model on\n      material outside its training set, Bharani Subramaniam\n      and I now finish our current batch of patterns by examining our experience\n      with Fine Tuning where we learned to prioritize\n      curating high-quality data.\nmore…",
+          "link": "https://martinfowler.com/articles/gen-ai-patterns/#fine-tuning",
+          "publishedOn": "2025-02-25T12:20:00.000Z",
+          "wordCount": 8377,
+          "title": "GenAI Patterns: Fine Tuning",
+          "imageUrl": "https://martinfowler.com/articles/gen-ai-patterns/card.png"
+        },
+        {
           "id": "https://martinfowler.com/articles/gen-ai-patterns/#guardrails",
           "author": null,
           "description": "Gen AI systems are gullible, and can easily be tricked into responding\n      in ways that are contrary to an enterprise's policies or leak\n      confidential information. Bharani\n      Subramaniam and I describe how we can counter this by adding\n      guardrails at the boundaries of the request/response flow. We also\n      conclude our discussion of RAG with an overview of how all the RAG\n      component patterns fit together.\nmore…",
