@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-02-26T07:16:17.664Z</updated>
+    <updated>2025-02-26T08:22:22.036Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -45,6 +45,28 @@ Points: 503
 more…]]></summary>
         <author>
             <name>Martin Fowler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tell HN: Y Combinator backing AI company to abuse factory workers]]></title>
+        <id>https://news.ycombinator.com/item?id=43170850</id>
+        <link href="https://news.ycombinator.com/item?id=43170850"/>
+        <updated>2025-02-25T12:04:00.000Z</updated>
+        <summary type="html"><![CDATA[Optifye.ai is a dystopian company backed by Y Combinator. They’re using AI to further dehumanise and abuse individual factory workers and treat them like disposable automatons.
+See a now deleted post where they show how it works:
+https://hachyderm.io/@YvanDaSilva/114063748264591929
+The founders look to be a couple of rich kids with little world and work experience:
+> We’re CS grads from Duke and because our families run manufacturing companies (…)
+They also display a profound lack of empathy by bragging about lowering stress for rich company owners, which they do by increasing the stress of everyone who works for them:
+> Know any manufacturing company owners?
+> Let us know at founders@optifye.ai, and we’ll help them drop their cortisol levels :)
+https://www.ycombinator.com/companies/optifye-ai
+This is the AI world we all know is coming, brought to you by Y Combinator investors and founders. It doesn’t “benefit humanity”, it just serves to “put you in your place”.
+Comments URL: https://news.ycombinator.com/item?id=43170850
+Points: 508
+# Comments: 167]]></summary>
+        <author>
+            <name>latexr</name>
         </author>
     </entry>
     <entry>
@@ -2487,34 +2509,6 @@ Points: 500
 # Comments: 110]]></summary>
         <author>
             <name>amrrs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[We're bringing Pebble back]]></title>
-        <id>https://news.ycombinator.com/item?id=42845091</id>
-        <link href="https://repebble.com/"/>
-        <updated>2025-01-27T20:11:19.000Z</updated>
-        <summary type="html"><![CDATA[Thank you, Google. You didn't have to, but you did. We (the Pebble team and community) are extraordinarily grateful.
-I wrote a blog post about our plans to bring Pebble back, sustainably. https://ericmigi.com/blog/why-were-bringing-pebble-back
-We got our original start on HN (https://news.ycombinator.com/item?id=3827868), it's a pleasure to be back.
-Comments URL: https://news.ycombinator.com/item?id=42845091
-Points: 597
-# Comments: 139]]></summary>
-        <author>
-            <name>erohead</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google open-sources the Pebble OS]]></title>
-        <id>https://news.ycombinator.com/item?id=42845070</id>
-        <link href="https://opensource.googleblog.com/2025/01/see-code-that-powered-pebble-smartwatches.html"/>
-        <updated>2025-01-27T20:09:09.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://opensource.googleblog.com/2025/01/see-code-that-powered-pebble-smartwatches.html
-Comments URL: https://news.ycombinator.com/item?id=42845070
-Points: 649
-# Comments: 109]]></summary>
-        <author>
-            <name>hexxeh</name>
         </author>
     </entry>
 </feed>
