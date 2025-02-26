@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-02-26T05:16:48.001Z</updated>
+    <updated>2025-02-26T06:24:22.066Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -58,6 +58,19 @@ Points: 500
 # Comments: 112]]></summary>
         <author>
             <name>lnkl</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DeepSeek open source DeepEP – library for MoE training and Inference]]></title>
+        <id>https://news.ycombinator.com/item?id=43167373</id>
+        <link href="https://github.com/deepseek-ai/DeepEP"/>
+        <updated>2025-02-25T02:27:29.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://github.com/deepseek-ai/DeepEP
+Comments URL: https://news.ycombinator.com/item?id=43167373
+Points: 503
+# Comments: 69]]></summary>
+        <author>
+            <name>helloericsf</name>
         </author>
     </entry>
     <entry>
