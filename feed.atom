@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-02-26T02:50:43.063Z</updated>
+    <updated>2025-02-26T03:23:19.249Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -45,6 +45,19 @@ Points: 503
 more…]]></summary>
         <author>
             <name>Martin Fowler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Core Git Developers Configure Git]]></title>
+        <id>https://news.ycombinator.com/item?id=43169435</id>
+        <link href="https://blog.gitbutler.com/how-git-core-devs-configure-git/"/>
+        <updated>2025-02-25T08:17:11.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://blog.gitbutler.com/how-git-core-devs-configure-git/
+Comments URL: https://news.ycombinator.com/item?id=43169435
+Points: 500
+# Comments: 112]]></summary>
+        <author>
+            <name>lnkl</name>
         </author>
     </entry>
     <entry>
