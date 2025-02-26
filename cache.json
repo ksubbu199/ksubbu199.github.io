@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=43184291",
+          "author": "franky47",
+          "description": "Article URL: https://www.youtube.com/watch?v=0mCsluv5FXA\nComments URL: https://news.ycombinator.com/item?id=43184291\nPoints: 542\n# Comments: 138",
+          "link": "https://www.youtube.com/watch?v=0mCsluv5FXA",
+          "publishedOn": "2025-02-26T15:05:02.000Z",
+          "wordCount": null,
+          "title": "TypeScript types can run DOOM [video]",
+          "imageUrl": null
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=43176314",
           "author": "perihelions",
           "description": "Article URL: https://arstechnica.com/gadgets/2025/02/framework-known-for-upgradable-laptops-intros-not-particularly-upgradable-desktop/\nComments URL: https://news.ycombinator.com/item?id=43176314\nPoints: 500\n# Comments: 479",
@@ -1463,16 +1473,6 @@
           "publishedOn": "2025-01-28T14:44:06.000Z",
           "wordCount": 480,
           "title": "Promising results from DeepSeek R1 for code",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=42850222",
-          "author": "noch",
-          "description": "Article URL: https://unsloth.ai/blog/deepseekr1-dynamic\nComments URL: https://news.ycombinator.com/item?id=42850222\nPoints: 520\n# Comments: 211",
-          "link": "https://unsloth.ai/blog/deepseekr1-dynamic",
-          "publishedOn": "2025-01-28T08:52:47.000Z",
-          "wordCount": null,
-          "title": "Run DeepSeek R1 Dynamic 1.58-bit",
           "imageUrl": null
         }
       ]
