@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-02-27T18:24:03.054Z</updated>
+    <updated>2025-02-27T19:13:47.791Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -190,6 +190,19 @@ Points: 500
 # Comments: 112]]></summary>
         <author>
             <name>lnkl</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Winners of the $10k ISBN visualization bounty]]></title>
+        <id>https://news.ycombinator.com/item?id=43168838</id>
+        <link href="https://annas-archive.org/blog/all-isbns-winners.html"/>
+        <updated>2025-02-25T06:26:56.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://annas-archive.org/blog/all-isbns-winners.html
+Comments URL: https://news.ycombinator.com/item?id=43168838
+Points: 517
+# Comments: 58]]></summary>
+        <author>
+            <name>yamrzou</name>
         </author>
     </entry>
     <entry>
@@ -2469,19 +2482,6 @@ Points: 503
 # Comments: 339]]></summary>
         <author>
             <name>2-3-7-43-1807</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I still like Sublime Text]]></title>
-        <id>https://news.ycombinator.com/item?id=42862246</id>
-        <link href="https://ohdoylerules.com/workflows/why-i-still-like-sublime-text-in-2025/"/>
-        <updated>2025-01-29T06:43:43.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://ohdoylerules.com/workflows/why-i-still-like-sublime-text-in-2025/
-Comments URL: https://news.ycombinator.com/item?id=42862246
-Points: 522
-# Comments: 321]]></summary>
-        <author>
-            <name>james2doyle</name>
         </author>
     </entry>
 </feed>
