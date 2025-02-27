@@ -2,10 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-02-27T03:24:21.824Z</updated>
+    <updated>2025-02-27T04:20:27.201Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Show HN: I got laid off from Meta and created a minor hit on Steam]]></title>
+        <id>https://news.ycombinator.com/item?id=43186406</id>
+        <link href="https://news.ycombinator.com/item?id=43186406"/>
+        <updated>2025-02-26T18:19:05.000Z</updated>
+        <summary type="html"><![CDATA[I was at FB/Meta from late 2013 to early 2023, mostly working in the compiler/runtime spaces. I got hit in the spring 2023 layoff wave. I immediately started making games in my newfound free time (a lifelong interest, and I even worked in AA(A?) back ca. ~2000), and in October 2023 I stumbled upon the idea of a roguelike pachinko/plinko game inspired by Luck Be A Landlord. Things snowballed quickly, I started talking to publishers, then worked like crazy through all of 2024, almost the hardest I've ever worked in my career, and launched the game in December 2024. It's sold ~200,000 units in its first 10 weeks on Steam. So it's no Balatro, but I'd still say it did very well :) AMA?
+(my game is Ballionaire: https://store.steampowered.com/news/app/2667120/view/5264614...)
+Comments URL: https://news.ycombinator.com/item?id=43186406
+Points: 564
+# Comments: 172]]></summary>
+        <author>
+            <name>newobj</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Commenting on removing "X" on US passports]]></title>
         <id>https://martinfowler.com/articles/2025-passport-x.html</id>
@@ -2475,19 +2489,6 @@ Points: 514
 # Comments: 72]]></summary>
         <author>
             <name>andrewchilds</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Boom XB-1 First Supersonic Flight [video]]]></title>
-        <id>https://news.ycombinator.com/item?id=42853633</id>
-        <link href="https://www.youtube.com/watch?v=-qisIViAHwI"/>
-        <updated>2025-01-28T15:46:53.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.youtube.com/watch?v=-qisIViAHwI
-Comments URL: https://news.ycombinator.com/item?id=42853633
-Points: 518
-# Comments: 385]]></summary>
-        <author>
-            <name>rayhaanj</name>
         </author>
     </entry>
 </feed>
