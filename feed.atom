@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-02-28T16:21:27.864Z</updated>
+    <updated>2025-02-28T17:14:09.707Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -17,6 +17,19 @@ Points: 530
 # Comments: 230]]></summary>
         <author>
             <name>notRobot</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft begins turning off uBlock Origin and other extensions in Edge]]></title>
+        <id>https://news.ycombinator.com/item?id=43201974</id>
+        <link href="https://www.neowin.net/news/microsoft-begins-turning-off-ublock-origin-and-other-extensions-in-edge/"/>
+        <updated>2025-02-28T05:20:13.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.neowin.net/news/microsoft-begins-turning-off-ublock-origin-and-other-extensions-in-edge/
+Comments URL: https://news.ycombinator.com/item?id=43201974
+Points: 539
+# Comments: 307]]></summary>
+        <author>
+            <name>thombles</name>
         </author>
     </entry>
     <entry>
@@ -2442,43 +2455,6 @@ Points: 553
         <updated>2025-01-30T06:33:53.000Z</updated>
         <author>
             <name>Think School</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bliki: Forest And Desert]]></title>
-        <id>https://martinfowler.com/bliki/ForestAndDesert.html</id>
-        <link href="https://martinfowler.com/bliki/ForestAndDesert.html"/>
-        <updated>2025-01-30T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The Forest and the Desert is a metaphor for thinking about software
-  development processes, developed by Beth Anders-Beck and her father Kent Beck.
-  It posits that two communities of software developers have great difficulty
-  communicating to each other because they live in very different contexts, so
-  advice that applies to one sounds like nonsense to the other.
-The desert is the common world of software development, where bugs are
-  plentiful, skill isn't cultivated, and communications with users is difficult.
-  The forest is the world of a well-run team that uses something like Extreme Programming, where developers swiftly put changes into
-  production, protected by their tests, code is invested in to keep it healthy,
-  and there is regular contact with The Customer.
-Clearly Beth and Kent prefer The Forest (as do I). But the metaphor is more
-  about how description of The Forest and the advice for how to work there often
-  sounds nonsensical to those whose only experience is The Desert. It reminds us
-  that any lessons we draw about software development practice, or architectural
-  patterns, are governed by the context that we experienced them. It is possible
-  to change Desert into Forest, but it's difficult - often requiring people to do
-  things that are both hard and counter-intuitive. (It seems sadly easier for
-  The Forest to submit to desertification.) 
-In this framing I'm definitely a Forest Dweller, and seek with Thoughtworks
-  to cultivate a healthy forest for us and our clients. I work to explain The Forest to Desert
-  Dwellers, and help my fellow Forest Dwellers to make their forest even more
-  plentiful.
-Further Reading
-The best short summary from Beth and Kent is on Kent's Substack. For more depth, take a look at
-    their keynote at Øredev. 
-Acknowledgements
-Kent Beck supplied the image, which he may have painstakingly drew pixel by
-    pixel. Or not.]]></summary>
-        <author>
-            <name>Martin Fowler</name>
         </author>
     </entry>
 </feed>

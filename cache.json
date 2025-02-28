@@ -16,6 +16,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://news.ycombinator.com/item?id=43201974",
+          "author": "thombles",
+          "description": "Article URL: https://www.neowin.net/news/microsoft-begins-turning-off-ublock-origin-and-other-extensions-in-edge/\nComments URL: https://news.ycombinator.com/item?id=43201974\nPoints: 539\n# Comments: 307",
+          "link": "https://www.neowin.net/news/microsoft-begins-turning-off-ublock-origin-and-other-extensions-in-edge/",
+          "publishedOn": "2025-02-28T05:20:13.000Z",
+          "wordCount": 2293,
+          "title": "Microsoft begins turning off uBlock Origin and other extensions in Edge",
+          "imageUrl": "https://cdn.neowin.com/news/images/uploaded/2024/02/1708122724_microsoft_edge_story.jpg"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=43201417",
           "author": "pavel_lishin",
           "description": "Article URL: https://saurabhs.org/macos-tips\nComments URL: https://news.ycombinator.com/item?id=43201417\nPoints: 527\n# Comments: 267",
@@ -1591,16 +1601,6 @@
           "wordCount": 4296,
           "title": "Retrieval Augmented Generation (RAG)",
           "imageUrl": "https://martinfowler.com/articles/gen-ai-patterns/card.png"
-        },
-        {
-          "id": "https://martinfowler.com/bliki/ForestAndDesert.html",
-          "author": null,
-          "description": "The Forest and the Desert is a metaphor for thinking about software\n  development processes, developed by Beth Anders-Beck and her father Kent Beck.\n  It posits that two communities of software developers have great difficulty\n  communicating to each other because they live in very different contexts, so\n  advice that applies to one sounds like nonsense to the other.\nThe desert is the common world of software development, where bugs are\n  plentiful, skill isn't cultivated, and communications with users is difficult.\n  The forest is the world of a well-run team that uses something like Extreme Programming, where developers swiftly put changes into\n  production, protected by their tests, code is invested in to keep it healthy,\n  and there is regular contact with The Customer.\nClearly Beth and Kent prefer The Forest (as do I). But the metaphor is more\n  about how description of The Forest and the advice for how to work there often\n  sounds nonsensical to those whose only experience is The Desert. It reminds us\n  that any lessons we draw about software development practice, or architectural\n  patterns, are governed by the context that we experienced them. It is possible\n  to change Desert into Forest, but it's difficult - often requiring people to do\n  things that are both hard and counter-intuitive. (It seems sadly easier for\n  The Forest to submit to desertification.) \nIn this framing I'm definitely a Forest Dweller, and seek with Thoughtworks\n  to cultivate a healthy forest for us and our clients. I work to explain The Forest to Desert\n  Dwellers, and help my fellow Forest Dwellers to make their forest even more\n  plentiful.\nFurther Reading\nThe best short summary from Beth and Kent is on Kent's Substack. For more depth, take a look at\n    their keynote at Øredev. \nAcknowledgements\nKent Beck supplied the image, which he may have painstakingly drew pixel by\n    pixel. Or not.",
-          "link": "https://martinfowler.com/bliki/ForestAndDesert.html",
-          "publishedOn": "2025-01-30T05:00:00.000Z",
-          "wordCount": 418,
-          "title": "Bliki: Forest And Desert",
-          "imageUrl": "https://martinfowler.com/bliki/images/forest-desert.png"
         }
       ]
     },
