@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-02-28T03:24:42.895Z</updated>
+    <updated>2025-02-28T04:20:30.785Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -2453,35 +2453,6 @@ Points: 506
 # Comments: 194]]></summary>
         <author>
             <name>meetpateltech</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Embeddings in GenAI Products]]></title>
-        <id>https://martinfowler.com/articles/gen-ai-patterns/#embedding</id>
-        <link href="https://martinfowler.com/articles/gen-ai-patterns/#embedding"/>
-        <updated>2025-01-29T15:55:00.000Z</updated>
-        <summary type="html"><![CDATA[GenAI systems, like many modern AI approaches, have to handle vast
-      quantities of data, and find similarities between elements in an image or
-      chunk of words. Bharani Subramaniam and I describe a key tool
-      to do this - Embeddings - transforming large data blocks into
-      numeric vectors so that embeddings near each other represent related
-      concepts
-more…]]></summary>
-        <author>
-            <name>Martin Fowler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why DeepSeek had to be open source]]></title>
-        <id>https://news.ycombinator.com/item?id=42866201</id>
-        <link href="https://www.getlago.com/blog/deepseek-open-source"/>
-        <updated>2025-01-29T15:37:31.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.getlago.com/blog/deepseek-open-source
-Comments URL: https://news.ycombinator.com/item?id=42866201
-Points: 500
-# Comments: 271]]></summary>
-        <author>
-            <name>AnhTho_FR</name>
         </author>
     </entry>
 </feed>

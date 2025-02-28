@@ -1414,16 +1414,6 @@
           "wordCount": 1818,
           "title": "An analysis of DeepSeek's R1-Zero and R1",
           "imageUrl": "https://arcprize.org/media/images/og-image-default.jpg"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=42866201",
-          "author": "AnhTho_FR",
-          "description": "Article URL: https://www.getlago.com/blog/deepseek-open-source\nComments URL: https://news.ycombinator.com/item?id=42866201\nPoints: 500\n# Comments: 271",
-          "link": "https://www.getlago.com/blog/deepseek-open-source",
-          "publishedOn": "2025-01-29T15:37:31.000Z",
-          "wordCount": 1678,
-          "title": "Why DeepSeek had to be open source",
-          "imageUrl": "https://cdn.prod.website-files.com/63569f390f3a7ad4c76d2bd6/67992c3a95bd0573753960b4_deeepseek.png"
         }
       ]
     },
@@ -1591,16 +1581,6 @@
           "wordCount": 418,
           "title": "Bliki: Forest And Desert",
           "imageUrl": "https://martinfowler.com/bliki/images/forest-desert.png"
-        },
-        {
-          "id": "https://martinfowler.com/articles/gen-ai-patterns/#embedding",
-          "author": null,
-          "description": "GenAI systems, like many modern AI approaches, have to handle vast\n      quantities of data, and find similarities between elements in an image or\n      chunk of words. Bharani Subramaniam and I describe a key tool\n      to do this - Embeddings - transforming large data blocks into\n      numeric vectors so that embeddings near each other represent related\n      concepts\nmore…",
-          "link": "https://martinfowler.com/articles/gen-ai-patterns/#embedding",
-          "publishedOn": "2025-01-29T15:55:00.000Z",
-          "wordCount": 3651,
-          "title": "Embeddings in GenAI Products",
-          "imageUrl": "https://martinfowler.com/articles/gen-ai-patterns/card.png"
         }
       ]
     },
