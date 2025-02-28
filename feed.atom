@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-02-28T09:18:15.407Z</updated>
+    <updated>2025-02-28T10:18:00.450Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -17,6 +17,19 @@ Points: 506
 # Comments: 184]]></summary>
         <author>
             <name>goplayoutside</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mozilla owns "information you input through Firefox"]]></title>
+        <id>https://news.ycombinator.com/item?id=43200065</id>
+        <link href="https://www.mozilla.org/en-US/about/legal/terms/firefox/"/>
+        <updated>2025-02-28T00:05:31.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.mozilla.org/en-US/about/legal/terms/firefox/
+Comments URL: https://news.ycombinator.com/item?id=43200065
+Points: 513
+# Comments: 270]]></summary>
+        <author>
+            <name>tomp</name>
         </author>
     </entry>
     <entry>
@@ -2440,19 +2453,6 @@ Points: 501
 # Comments: 404]]></summary>
         <author>
             <name>mzmzmzm</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Exposed DeepSeek database leaking sensitive information, including chat history]]></title>
-        <id>https://news.ycombinator.com/item?id=42871371</id>
-        <link href="https://www.wiz.io/blog/wiz-research-uncovers-exposed-deepseek-database-leak"/>
-        <updated>2025-01-29T21:25:36.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.wiz.io/blog/wiz-research-uncovers-exposed-deepseek-database-leak
-Comments URL: https://news.ycombinator.com/item?id=42871371
-Points: 503
-# Comments: 326]]></summary>
-        <author>
-            <name>talhof8</name>
         </author>
     </entry>
 </feed>
