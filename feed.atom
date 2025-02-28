@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-02-28T22:15:54.830Z</updated>
+    <updated>2025-02-28T23:15:32.324Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -30,6 +30,19 @@ Points: 530
 # Comments: 230]]></summary>
         <author>
             <name>notRobot</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft is killing Skype]]></title>
+        <id>https://news.ycombinator.com/item?id=43202052</id>
+        <link href="https://www.windowscentral.com/microsoft/microsoft-is-reportedly-killing-skype-after-14-years-of-neglect"/>
+        <updated>2025-02-28T05:31:49.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.windowscentral.com/microsoft/microsoft-is-reportedly-killing-skype-after-14-years-of-neglect
+Comments URL: https://news.ycombinator.com/item?id=43202052
+Points: 532
+# Comments: 515]]></summary>
+        <author>
+            <name>thund</name>
         </author>
     </entry>
     <entry>
