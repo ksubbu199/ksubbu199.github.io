@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-03-01T19:12:24.835Z</updated>
+    <updated>2025-03-01T20:16:43.117Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -2353,19 +2353,6 @@ Points: 541
 # Comments: 543]]></summary>
         <author>
             <name>johnneville</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hacker News for Gamedev]]></title>
-        <id>https://news.ycombinator.com/item?id=42885520</id>
-        <link href="https://gamedev.city/"/>
-        <updated>2025-01-31T07:56:23.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://gamedev.city/
-Comments URL: https://news.ycombinator.com/item?id=42885520
-Points: 509
-# Comments: 215]]></summary>
-        <author>
-            <name>ahub</name>
         </author>
     </entry>
 </feed>
