@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=43232255",
+          "author": "kappi",
+          "description": "Article URL: https://twitter.com/EthanEvansVP/status/1895845734177452369\nComments URL: https://news.ycombinator.com/item?id=43232255\nPoints: 508\n# Comments: 359",
+          "link": "https://twitter.com/EthanEvansVP/status/1895845734177452369",
+          "publishedOn": "2025-03-02T16:47:30.000Z",
+          "wordCount": null,
+          "title": "Executive wealth as a factor in return-to-office",
+          "imageUrl": null
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=43224350",
           "author": "erentz",
           "description": "Article URL: https://18f.org/\nComments URL: https://news.ycombinator.com/item?id=43224350\nPoints: 835\n# Comments: 391",
@@ -1424,16 +1434,6 @@
           "wordCount": 838,
           "title": "Apple is open sourcing Swift Build",
           "imageUrl": "https://swift.org/apple-touch-icon-180x180.png"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=42897696",
-          "author": "doener",
-          "description": "Article URL: https://www.theatlantic.com/health/archive/2025/01/cdc-dei-scientific-data/681531/\nComments URL: https://news.ycombinator.com/item?id=42897696\nPoints: 516\n# Comments: 396",
-          "link": "https://www.theatlantic.com/health/archive/2025/01/cdc-dei-scientific-data/681531/",
-          "publishedOn": "2025-02-01T11:52:18.000Z",
-          "wordCount": 2645,
-          "title": "CDC data are disappearing",
-          "imageUrl": "https://cdn.theatlantic.com/thumbor/rjHp9FwJxrw_GVbADInsfy5Redc=/0x108:5072x2750/1200x625/media/img/mt/2025/01/GettyImages_944677862/original.jpg"
         }
       ]
     },

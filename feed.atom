@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-03-02T23:15:42.468Z</updated>
+    <updated>2025-03-03T01:20:54.069Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Executive wealth as a factor in return-to-office]]></title>
+        <id>https://news.ycombinator.com/item?id=43232255</id>
+        <link href="https://twitter.com/EthanEvansVP/status/1895845734177452369"/>
+        <updated>2025-03-02T16:47:30.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://twitter.com/EthanEvansVP/status/1895845734177452369
+Comments URL: https://news.ycombinator.com/item?id=43232255
+Points: 508
+# Comments: 359]]></summary>
+        <author>
+            <name>kappi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[A Letter to the American People]]></title>
         <id>https://news.ycombinator.com/item?id=43224350</id>
@@ -2366,19 +2379,6 @@ Points: 502
 # Comments: 212]]></summary>
         <author>
             <name>dayanruben</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CDC data are disappearing]]></title>
-        <id>https://news.ycombinator.com/item?id=42897696</id>
-        <link href="https://www.theatlantic.com/health/archive/2025/01/cdc-dei-scientific-data/681531/"/>
-        <updated>2025-02-01T11:52:18.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.theatlantic.com/health/archive/2025/01/cdc-dei-scientific-data/681531/
-Comments URL: https://news.ycombinator.com/item?id=42897696
-Points: 516
-# Comments: 396]]></summary>
-        <author>
-            <name>doener</name>
         </author>
     </entry>
 </feed>
