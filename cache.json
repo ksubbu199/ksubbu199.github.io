@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=43243075",
+          "author": "ajdude",
+          "description": "Article URL: https://www.eliseomartelli.it/blog/2025-03-02-apple-quality\nComments URL: https://news.ycombinator.com/item?id=43243075\nPoints: 539\n# Comments: 630",
+          "link": "https://www.eliseomartelli.it/blog/2025-03-02-apple-quality",
+          "publishedOn": "2025-03-03T16:04:13.000Z",
+          "wordCount": 2114,
+          "title": "Apple's Software Quality Crisis",
+          "imageUrl": "https://eliseomartelli.it/api/og/blog/2025-03-02-apple-quality"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=43237581",
           "author": "hello12343214",
           "description": "Article URL: https://focusfurnace.com/scroll_buddy.html\nComments URL: https://news.ycombinator.com/item?id=43237581\nPoints: 501\n# Comments: 171",
@@ -1414,16 +1424,6 @@
           "wordCount": 23796,
           "title": "The young, inexperienced engineers aiding DOGE",
           "imageUrl": "https://media.wired.com/photos/679d0c5342d9dede15f552a9/191:100/w_1280,c_limit/musk-teens-pol-%202195703755.jpg"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=42909921",
-          "author": "apokryptein",
-          "description": "Article URL: https://timsh.org/tracking-myself-down-through-in-app-ads/\nComments URL: https://news.ycombinator.com/item?id=42909921\nPoints: 531\n# Comments: 177",
-          "link": "https://timsh.org/tracking-myself-down-through-in-app-ads/",
-          "publishedOn": "2025-02-02T17:07:31.000Z",
-          "wordCount": 3164,
-          "title": "Everyone knows your location: tracking myself down through in-app ads",
-          "imageUrl": "https://timsh.org/content/images/2025/02/dataflow_upd.png"
         }
       ]
     },

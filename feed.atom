@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-03-04T04:20:18.349Z</updated>
+    <updated>2025-03-04T05:16:41.754Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Apple's Software Quality Crisis]]></title>
+        <id>https://news.ycombinator.com/item?id=43243075</id>
+        <link href="https://www.eliseomartelli.it/blog/2025-03-02-apple-quality"/>
+        <updated>2025-03-03T16:04:13.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.eliseomartelli.it/blog/2025-03-02-apple-quality
+Comments URL: https://news.ycombinator.com/item?id=43243075
+Points: 539
+# Comments: 630]]></summary>
+        <author>
+            <name>ajdude</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Made a scroll bar buddy that walks down the page when you scroll]]></title>
         <id>https://news.ycombinator.com/item?id=43237581</id>
@@ -2344,19 +2357,6 @@ Points: 558
 # Comments: 451]]></summary>
         <author>
             <name>medler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Everyone knows your location: tracking myself down through in-app ads]]></title>
-        <id>https://news.ycombinator.com/item?id=42909921</id>
-        <link href="https://timsh.org/tracking-myself-down-through-in-app-ads/"/>
-        <updated>2025-02-02T17:07:31.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://timsh.org/tracking-myself-down-through-in-app-ads/
-Comments URL: https://news.ycombinator.com/item?id=42909921
-Points: 531
-# Comments: 177]]></summary>
-        <author>
-            <name>apokryptein</name>
         </author>
     </entry>
 </feed>
