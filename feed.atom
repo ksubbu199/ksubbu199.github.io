@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-03-05T08:22:49.616Z</updated>
+    <updated>2025-03-05T09:18:52.831Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Why fastDOOM is fast]]></title>
+        <id>https://news.ycombinator.com/item?id=43258709</id>
+        <link href="https://fabiensanglard.net/fastdoom/index.html"/>
+        <updated>2025-03-04T19:05:43.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://fabiensanglard.net/fastdoom/index.html
+Comments URL: https://news.ycombinator.com/item?id=43258709
+Points: 509
+# Comments: 157]]></summary>
+        <author>
+            <name>wicket</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Show HN: Bayleaf – Building a low-profile wireless split keyboard]]></title>
         <id>https://news.ycombinator.com/item?id=43255529</id>
