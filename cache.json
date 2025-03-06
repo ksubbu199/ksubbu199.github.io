@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=43266537",
+          "author": "tosh",
+          "description": "Article URL: https://www.apple.com/macbook-air/\nComments URL: https://news.ycombinator.com/item?id=43266537\nPoints: 507\n# Comments: 602",
+          "link": "https://www.apple.com/macbook-air/",
+          "publishedOn": "2025-03-05T14:06:54.000Z",
+          "wordCount": 10335,
+          "title": "MacBook Air M4",
+          "imageUrl": "https://www.apple.com/v/macbook-air/t/images/meta/macbook_air_mx__ez5y0k5yy7au_og.png?202503051508"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=43266453",
           "author": "ksec",
           "description": "Article URL: https://www.apple.com/newsroom/2025/03/apple-reveals-m3-ultra-taking-apple-silicon-to-a-new-extreme/\nComments URL: https://news.ycombinator.com/item?id=43266453\nPoints: 543\n# Comments: 554",
@@ -1414,16 +1424,6 @@
           "wordCount": 4643,
           "title": "Apple Invites",
           "imageUrl": "https://www.apple.com/newsroom/images/2025/02/introducing-apple-invites-a-new-app-that-brings-people-together/tile/Apple-Invites-upcoming-lp.jpg.og.jpg?202502041601"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=42934190",
-          "author": "cryptophreak",
-          "description": "Article URL: https://danieldelaney.net/chat/\nComments URL: https://news.ycombinator.com/item?id=42934190\nPoints: 544\n# Comments: 303",
-          "link": "https://danieldelaney.net/chat/",
-          "publishedOn": "2025-02-04T16:06:32.000Z",
-          "wordCount": 410,
-          "title": "Chat is a bad UI pattern for development tools",
-          "imageUrl": null
         }
       ]
     },

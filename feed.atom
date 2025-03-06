@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-03-06T03:26:17.065Z</updated>
+    <updated>2025-03-06T04:20:27.306Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[MacBook Air M4]]></title>
+        <id>https://news.ycombinator.com/item?id=43266537</id>
+        <link href="https://www.apple.com/macbook-air/"/>
+        <updated>2025-03-05T14:06:54.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.apple.com/macbook-air/
+Comments URL: https://news.ycombinator.com/item?id=43266537
+Points: 507
+# Comments: 602]]></summary>
+        <author>
+            <name>tosh</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Apple M3 Ultra]]></title>
         <id>https://news.ycombinator.com/item?id=43266453</id>
@@ -2308,19 +2321,6 @@ Points: 517
 # Comments: 739]]></summary>
         <author>
             <name>openchampagne</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chat is a bad UI pattern for development tools]]></title>
-        <id>https://news.ycombinator.com/item?id=42934190</id>
-        <link href="https://danieldelaney.net/chat/"/>
-        <updated>2025-02-04T16:06:32.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://danieldelaney.net/chat/
-Comments URL: https://news.ycombinator.com/item?id=42934190
-Points: 544
-# Comments: 303]]></summary>
-        <author>
-            <name>cryptophreak</name>
         </author>
     </entry>
 </feed>
