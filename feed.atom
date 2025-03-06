@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-03-06T10:18:14.770Z</updated>
+    <updated>2025-03-06T11:14:08.251Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -17,6 +17,19 @@ Points: 527
 # Comments: 280]]></summary>
         <author>
             <name>marban</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple takes UK to court over 'backdoor' order]]></title>
+        <id>https://news.ycombinator.com/item?id=43270079</id>
+        <link href="https://www.theregister.com/2025/03/05/apple_reportedly_ipt_complaint/"/>
+        <updated>2025-03-05T18:07:06.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.theregister.com/2025/03/05/apple_reportedly_ipt_complaint/
+Comments URL: https://news.ycombinator.com/item?id=43270079
+Points: 507
+# Comments: 178]]></summary>
+        <author>
+            <name>latexr</name>
         </author>
     </entry>
     <entry>
@@ -2269,32 +2282,6 @@ Points: 542
 # Comments: 142]]></summary>
         <author>
             <name>mixto</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What's happening inside the NIH and NSF]]></title>
-        <id>https://news.ycombinator.com/item?id=42940257</id>
-        <link href="https://www.science.org/content/blog-post/what-s-happening-inside-nih"/>
-        <updated>2025-02-04T22:51:36.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.science.org/content/blog-post/what-s-happening-inside-nih
-Comments URL: https://news.ycombinator.com/item?id=42940257
-Points: 505
-# Comments: 563]]></summary>
-        <author>
-            <name>rrock</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Oracle justified its JavaScript trademark with Node.js–now it wants that ignored]]></title>
-        <id>https://news.ycombinator.com/item?id=42939940</id>
-        <link href="https://deno.com/blog/deno-v-oracle2"/>
-        <updated>2025-02-04T22:29:48.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://deno.com/blog/deno-v-oracle2
-Comments URL: https://news.ycombinator.com/item?id=42939940
-Points: 520
-# Comments: 130]]></summary>
-        <author>
-            <name>healsdata</name>
         </author>
     </entry>
 </feed>

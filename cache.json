@@ -16,6 +16,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://news.ycombinator.com/item?id=43270079",
+          "author": "latexr",
+          "description": "Article URL: https://www.theregister.com/2025/03/05/apple_reportedly_ipt_complaint/\nComments URL: https://news.ycombinator.com/item?id=43270079\nPoints: 507\n# Comments: 178",
+          "link": "https://www.theregister.com/2025/03/05/apple_reportedly_ipt_complaint/",
+          "publishedOn": "2025-03-05T18:07:06.000Z",
+          "wordCount": 1753,
+          "title": "Apple takes UK to court over 'backdoor' order",
+          "imageUrl": "https://regmedia.co.uk/2020/11/12/shutterstock_encryption_backdoor.jpg"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=43266537",
           "author": "tosh",
           "description": "Article URL: https://www.apple.com/macbook-air/\nComments URL: https://news.ycombinator.com/item?id=43266537\nPoints: 507\n# Comments: 602",
@@ -1384,26 +1394,6 @@
           "wordCount": 152,
           "title": "Beej's Guide to Git",
           "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=42940257",
-          "author": "rrock",
-          "description": "Article URL: https://www.science.org/content/blog-post/what-s-happening-inside-nih\nComments URL: https://news.ycombinator.com/item?id=42940257\nPoints: 505\n# Comments: 563",
-          "link": "https://www.science.org/content/blog-post/what-s-happening-inside-nih",
-          "publishedOn": "2025-02-04T22:51:36.000Z",
-          "wordCount": null,
-          "title": "What's happening inside the NIH and NSF",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=42939940",
-          "author": "healsdata",
-          "description": "Article URL: https://deno.com/blog/deno-v-oracle2\nComments URL: https://news.ycombinator.com/item?id=42939940\nPoints: 520\n# Comments: 130",
-          "link": "https://deno.com/blog/deno-v-oracle2",
-          "publishedOn": "2025-02-04T22:29:48.000Z",
-          "wordCount": 1222,
-          "title": "Oracle justified its JavaScript trademark with Node.js–now it wants that ignored",
-          "imageUrl": "https://deno.com/blog/deno-v-oracle2/og.png"
         }
       ]
     },
