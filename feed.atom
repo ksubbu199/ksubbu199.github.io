@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-03-06T11:14:08.251Z</updated>
+    <updated>2025-03-06T12:35:04.090Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The US stops sharing air quality data from embassies worldwide]]></title>
+        <id>https://news.ycombinator.com/item?id=43274821</id>
+        <link href="https://apnews.com/article/us-air-quality-monitors-8270927bbd0f166238243ac9d14bce03"/>
+        <updated>2025-03-06T00:53:32.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://apnews.com/article/us-air-quality-monitors-8270927bbd0f166238243ac9d14bce03
+Comments URL: https://news.ycombinator.com/item?id=43274821
+Points: 516
+# Comments: 305]]></summary>
+        <author>
+            <name>geox</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Tailscale is pretty useful]]></title>
         <id>https://news.ycombinator.com/item?id=43270835</id>
@@ -2269,19 +2282,6 @@ Points: 500
 # Comments: 509]]></summary>
         <author>
             <name>DannyPage</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Beej's Guide to Git]]></title>
-        <id>https://news.ycombinator.com/item?id=42941283</id>
-        <link href="https://beej.us/guide/bggit/"/>
-        <updated>2025-02-05T00:07:24.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://beej.us/guide/bggit/
-Comments URL: https://news.ycombinator.com/item?id=42941283
-Points: 542
-# Comments: 142]]></summary>
-        <author>
-            <name>mixto</name>
         </author>
     </entry>
 </feed>

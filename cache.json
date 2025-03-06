@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=43274821",
+          "author": "geox",
+          "description": "Article URL: https://apnews.com/article/us-air-quality-monitors-8270927bbd0f166238243ac9d14bce03\nComments URL: https://news.ycombinator.com/item?id=43274821\nPoints: 516\n# Comments: 305",
+          "link": "https://apnews.com/article/us-air-quality-monitors-8270927bbd0f166238243ac9d14bce03",
+          "publishedOn": "2025-03-06T00:53:32.000Z",
+          "wordCount": null,
+          "title": "The US stops sharing air quality data from embassies worldwide",
+          "imageUrl": null
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=43270835",
           "author": "marban",
           "description": "Article URL: https://blog.6nok.org/tailscale-is-pretty-useful/\nComments URL: https://news.ycombinator.com/item?id=43270835\nPoints: 527\n# Comments: 280",
@@ -1383,16 +1393,6 @@
           "publishedOn": "2025-02-05T01:43:10.000Z",
           "wordCount": 511,
           "title": "Suspension of inbound parcels from China and Hong Kong",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=42941283",
-          "author": "mixto",
-          "description": "Article URL: https://beej.us/guide/bggit/\nComments URL: https://news.ycombinator.com/item?id=42941283\nPoints: 542\n# Comments: 142",
-          "link": "https://beej.us/guide/bggit/",
-          "publishedOn": "2025-02-05T00:07:24.000Z",
-          "wordCount": 152,
-          "title": "Beej's Guide to Git",
           "imageUrl": null
         }
       ]
