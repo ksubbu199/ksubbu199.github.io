@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-03-06T02:53:42.851Z</updated>
+    <updated>2025-03-06T03:26:17.065Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -2321,47 +2321,6 @@ Points: 544
 # Comments: 303]]></summary>
         <author>
             <name>cryptophreak</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Panel at goto Copenhagen: "Where is SW development Going]]></title>
-        <id>https://www.youtube.com/watch?v=86-Dy5U2p5Y</id>
-        <link href="https://www.youtube.com/watch?v=86-Dy5U2p5Y"/>
-        <updated>2025-02-04T15:23:00.000Z</updated>
-        <summary type="html"><![CDATA[was on a panel at goto Copenhagen last September with Holly Cummings,
-      Trisha Gee, Dave Farley, and Daniel Terhorst-North. We discussed the
-      current state of software development and where it was heading. Given the
-      timing, there was much discussion about the role AI would play in our
-      profession's future.
-more…]]></summary>
-        <author>
-            <name>Martin Fowler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Payments crisis of 2025: Not “read only” access anymore]]></title>
-        <id>https://news.ycombinator.com/item?id=42933219</id>
-        <link href="https://www.crisesnotes.com/day-five-of-the-trump-musk-treasury-payments-crisis-of-2025-not-read-only-access-anymore/"/>
-        <updated>2025-02-04T15:05:34.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.crisesnotes.com/day-five-of-the-trump-musk-treasury-payments-crisis-of-2025-not-read-only-access-anymore/
-Comments URL: https://news.ycombinator.com/item?id=42933219
-Points: 501
-# Comments: 547]]></summary>
-        <author>
-            <name>shinryuu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Retrieval Augmented Generation (RAG)]]></title>
-        <id>https://martinfowler.com/articles/gen-ai-patterns/#rag</id>
-        <link href="https://martinfowler.com/articles/gen-ai-patterns/#rag"/>
-        <updated>2025-02-04T14:57:00.000Z</updated>
-        <summary type="html"><![CDATA[A pre-trained GenAI model lacks recent and specific information about a
-      domain. Bharani Subramaniam and I explain how Retrieval
-      Augmented Generation (RAG) can fill that gap.
-more…]]></summary>
-        <author>
-            <name>Martin Fowler</name>
         </author>
     </entry>
 </feed>

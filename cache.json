@@ -1424,16 +1424,6 @@
           "wordCount": 410,
           "title": "Chat is a bad UI pattern for development tools",
           "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=42933219",
-          "author": "shinryuu",
-          "description": "Article URL: https://www.crisesnotes.com/day-five-of-the-trump-musk-treasury-payments-crisis-of-2025-not-read-only-access-anymore/\nComments URL: https://news.ycombinator.com/item?id=42933219\nPoints: 501\n# Comments: 547",
-          "link": "https://www.crisesnotes.com/day-five-of-the-trump-musk-treasury-payments-crisis-of-2025-not-read-only-access-anymore/",
-          "publishedOn": "2025-02-04T15:05:34.000Z",
-          "wordCount": 2435,
-          "title": "Payments crisis of 2025: Not “read only” access anymore",
-          "imageUrl": "https://www.crisesnotes.com/content/images/size/w1200/2025/02/Day-Five-of-the-Trum-Musk-Treasury-Payments-Crisis-of-2025-d15c8111570de44a.png"
         }
       ]
     },
@@ -1559,26 +1549,6 @@
           "publishedOn": "2025-02-05T15:03:00.000Z",
           "wordCount": 5497,
           "title": "GenAI Patterns: RAG Limitations and Hybrid Retriever",
-          "imageUrl": "https://martinfowler.com/articles/gen-ai-patterns/card.png"
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=86-Dy5U2p5Y",
-          "author": null,
-          "description": "was on a panel at goto Copenhagen last September with Holly Cummings,\n      Trisha Gee, Dave Farley, and Daniel Terhorst-North. We discussed the\n      current state of software development and where it was heading. Given the\n      timing, there was much discussion about the role AI would play in our\n      profession's future.\nmore…",
-          "link": "https://www.youtube.com/watch?v=86-Dy5U2p5Y",
-          "publishedOn": "2025-02-04T15:23:00.000Z",
-          "wordCount": null,
-          "title": "Panel at goto Copenhagen: \"Where is SW development Going",
-          "imageUrl": null
-        },
-        {
-          "id": "https://martinfowler.com/articles/gen-ai-patterns/#rag",
-          "author": null,
-          "description": "A pre-trained GenAI model lacks recent and specific information about a\n      domain. Bharani Subramaniam and I explain how Retrieval\n      Augmented Generation (RAG) can fill that gap.\nmore…",
-          "link": "https://martinfowler.com/articles/gen-ai-patterns/#rag",
-          "publishedOn": "2025-02-04T14:57:00.000Z",
-          "wordCount": 4296,
-          "title": "Retrieval Augmented Generation (RAG)",
           "imageUrl": "https://martinfowler.com/articles/gen-ai-patterns/card.png"
         }
       ]
