@@ -1344,16 +1344,6 @@
           "wordCount": 2006,
           "title": "Gemini 2.0 is now available to everyone",
           "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini_28.01.25_keyword_social.width-1300.png"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=42949277",
-          "author": "headalgorithm",
-          "description": "Article URL: https://www.scientificamerican.com/podcast/episode/how-to-avoid-outrage-fatigue-and-tune-in-without-burning-out/\nComments URL: https://news.ycombinator.com/item?id=42949277\nPoints: 513\n# Comments: 504",
-          "link": "https://www.scientificamerican.com/podcast/episode/how-to-avoid-outrage-fatigue-and-tune-in-without-burning-out/",
-          "publishedOn": "2025-02-05T14:55:03.000Z",
-          "wordCount": 3599,
-          "title": "Avoiding outrage fatigue while staying informed",
-          "imageUrl": "https://static.scientificamerican.com/dam/m/225cfca2d98f2cb5/original/SQ-Wednesday-EP-Art.png?m=1716342177.955&w=1200"
         }
       ]
     },
@@ -1470,16 +1460,6 @@
           "wordCount": 3696,
           "title": "The DeepSeek Series: A Technical Overview",
           "imageUrl": "https://martinfowler.com/logo-sq.png"
-        },
-        {
-          "id": "https://martinfowler.com/articles/gen-ai-patterns/#RagInPractice",
-          "author": null,
-          "description": "Today Bharani Subramaniam and I outline four\n      limitations to the simple RAG from yesterday, and the pattern that\n      addresses the first of these: Hybrid Retriever. This tackles the\n      inefficiencies of embeddings-based search by combining it with other\n      search techniques.\nmore…",
-          "link": "https://martinfowler.com/articles/gen-ai-patterns/#RagInPractice",
-          "publishedOn": "2025-02-05T15:03:00.000Z",
-          "wordCount": 5497,
-          "title": "GenAI Patterns: RAG Limitations and Hybrid Retriever",
-          "imageUrl": "https://martinfowler.com/articles/gen-ai-patterns/card.png"
         }
       ]
     },
