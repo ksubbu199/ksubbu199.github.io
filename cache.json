@@ -1274,16 +1274,6 @@
           "wordCount": null,
           "title": "U.K. orders Apple to let it spy on users’ encrypted accounts",
           "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=42960144",
-          "author": "bluebirdfirewin",
-          "description": "Article URL: https://gladdendesign.com/collections/paper-apps\nComments URL: https://news.ycombinator.com/item?id=42960144\nPoints: 526\n# Comments: 85",
-          "link": "https://gladdendesign.com/collections/paper-apps",
-          "publishedOn": "2025-02-06T07:58:33.000Z",
-          "wordCount": 2161,
-          "title": "Paper Apps",
-          "imageUrl": "http://gladdendesign.com/cdn/shop/collections/IMG_7428.jpg?v=1733973949"
         }
       ]
     },
@@ -1304,6 +1294,16 @@
       "feedUrl": "https://jvns.ca/atom.xml",
       "siteUrl": "http://jvns.ca/atom.xml",
       "articles": [
+        {
+          "id": "https://jvns.ca/blog/2025/03/07/escape-code-standards/",
+          "author": null,
+          "description": "Hello! Today I want to talk about ANSI escape codes.\nFor a long time I was vaguely aware of ANSI escape codes (“that’s how you make\ntext red in the terminal and stuff”) but I had no real understanding of where they were\nsupposed to be defined or whether or not there were standards for them. I just\nhad a kind of vague “there be dragons” feeling around them. While learning\nabout the terminal this year, I’ve learned that:\nANSI escape codes are responsible for a lot of usability improvements\nin the terminal (did you know there’s a way to copy to your system clipboard\nwhen SSHed into a remote machine?? It’s an escape code called OSC 52!)\nThey aren’t completely standardized, and because of that they don’t always\nwork reliably. And because they’re also invisible, it’s extremely\nfrustrating to tro…",
+          "link": "https://jvns.ca/blog/2025/03/07/escape-code-standards/",
+          "publishedOn": "2025-03-07T00:00:00.000Z",
+          "wordCount": 1703,
+          "title": "Standards for ANSI escape codes",
+          "imageUrl": null
+        },
         {
           "id": "https://jvns.ca/blog/2025/02/13/how-to-add-a-directory-to-your-path/",
           "author": null,

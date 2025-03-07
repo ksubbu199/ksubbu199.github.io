@@ -22,6 +22,64 @@
             data-action="toggle-accordions"
             title="Click to toggle the day, Ctrl + click to toggle all."
           >
+            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2025-03-07 datetime="2025-03-07T00:00:00.000Z">2025-03-07</time>
+            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2025-03-07 datetime="2025-03-07T00:00:00.000Z"></time>
+          </button>
+        </h2>
+        <ul class="sources card">
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >Julia Evans</button>
+                  <a class="source-heading__link" href="http://jvns.ca/atom.xml">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://jvns.ca/blog/2025/03/07/escape-code-standards/"
+                        open
+                      >
+                        <summary class="article-expander__title">Standards for ANSI escape codes</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://jvns.ca/blog/2025/03/07/escape-code-standards/">
+                          <div class="article-summary-box-inner media-object">
+                            <span class="media-object__text">
+                              <span>Hello! Today I want to talk about ANSI escape codes.
+For a long time I was vaguely aware of ANSI escape codes (“that’s how you make
+text red in the terminal and stuff”) but I had no real understanding of where they were
+supposed to be defined or whether or not there were standards for them. I just
+had a kind of vague “there be dragons” feeling around them. While learning
+about the terminal this year, I’ve learned that:
+ANSI escape codes are responsible for a lot of usability improvements
+in the terminal (did you know there’s a way to copy to your system clipboard
+when SSHed into a remote machine?? It’s an escape code called OSC 52!)
+They aren’t completely standardized, and because of that they don’t always
+work reliably. And because they’re also invisible, it’s extremely
+frustrating to tro…</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;6
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+        </ul>
+      </section>
+      <section class="daily-content js-toggle-accordions-scope">
+        <h2 class="daily-heading">
+          <button
+            class="daily-heading-toggle"
+            data-action="toggle-accordions"
+            title="Click to toggle the day, Ctrl + click to toggle all."
+          >
             <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2025-03-06 datetime="2025-03-06T17:48:37.000Z">2025-03-06</time>
             <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2025-03-06 datetime="2025-03-06T17:48:37.000Z"></time>
           </button>
@@ -4578,49 +4636,12 @@ more…</span>
                 </section>
               </section>
             </li>
-            <li class="card__section">
-              <section class="js-toggle-accordions-scope">
-                <h3 class="source-heading">
-                  <button
-                    class="source-heading__name"
-                    data-action="toggle-accordions"
-                    title="Click to toggle the source, Ctrl + click to toggle all."
-                  >Hacker News: Newest</button>
-                  <a class="source-heading__link" href="https://news.ycombinator.com/newest">Open</a>
-                </h3>
-                <section class="articles-per-source">
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://news.ycombinator.com/item?id&#x3D;42960144"
-                        open
-                      >
-                        <summary class="article-expander__title">Paper Apps</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://gladdendesign.com/collections/paper-apps">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="http://gladdendesign.com/cdn/shop/collections/IMG_7428.jpg?v&#x3D;1733973949" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>Article URL: https://gladdendesign.com/collections/paper-apps
-Comments URL: https://news.ycombinator.com/item?id&#x3D;42960144
-Points: 526
-# Comments: 85</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;7
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                </section>
-              </section>
-            </li>
         </ul>
       </section>
 
     <footer>
-      <a class="footer-link" href="https://github.com/ksubbu199/ksubbu199.github.io/actions/runs/13727645209">
-        <time id="build-timestamp" datetime="2025-03-07T19:13:39.383Z">2025-03-07T19:13:39.383Z</time>
+      <a class="footer-link" href="https://github.com/ksubbu199/ksubbu199.github.io/actions/runs/13728587609">
+        <time id="build-timestamp" datetime="2025-03-07T20:18:26.337Z">2025-03-07T20:18:26.337Z</time>
       </a>
       <a class="footer-link" href="https://github.com/osmoscraft/osmosfeed">osmosfeed 1.15.1</a>
     </footer>

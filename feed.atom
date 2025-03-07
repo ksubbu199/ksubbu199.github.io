@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-03-07T19:13:39.404Z</updated>
+    <updated>2025-03-07T20:18:26.363Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Standards for ANSI escape codes]]></title>
+        <id>https://jvns.ca/blog/2025/03/07/escape-code-standards/</id>
+        <link href="https://jvns.ca/blog/2025/03/07/escape-code-standards/"/>
+        <updated>2025-03-07T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Hello! Today I want to talk about ANSI escape codes.
+For a long time I was vaguely aware of ANSI escape codes (“that’s how you make
+text red in the terminal and stuff”) but I had no real understanding of where they were
+supposed to be defined or whether or not there were standards for them. I just
+had a kind of vague “there be dragons” feeling around them. While learning
+about the terminal this year, I’ve learned that:
+ANSI escape codes are responsible for a lot of usability improvements
+in the terminal (did you know there’s a way to copy to your system clipboard
+when SSHed into a remote machine?? It’s an escape code called OSC 52!)
+They aren’t completely standardized, and because of that they don’t always
+work reliably. And because they’re also invisible, it’s extremely
+frustrating to tro…]]></summary>
+        <author>
+            <name>Julia Evans</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Succinct data structures]]></title>
         <id>https://news.ycombinator.com/item?id=43282995</id>
@@ -2065,19 +2086,6 @@ more…]]></summary>
         <updated>2025-02-06T12:30:07.000Z</updated>
         <author>
             <name>Think School</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Paper Apps]]></title>
-        <id>https://news.ycombinator.com/item?id=42960144</id>
-        <link href="https://gladdendesign.com/collections/paper-apps"/>
-        <updated>2025-02-06T07:58:33.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://gladdendesign.com/collections/paper-apps
-Comments URL: https://news.ycombinator.com/item?id=42960144
-Points: 526
-# Comments: 85]]></summary>
-        <author>
-            <name>bluebirdfirewin</name>
         </author>
     </entry>
 </feed>
