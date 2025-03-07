@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-03-07T04:20:56.767Z</updated>
+    <updated>2025-03-07T05:17:05.265Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -2141,41 +2141,6 @@ Points: 569
 # Comments: 200]]></summary>
         <author>
             <name>serjester</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Some terminal frustrations]]></title>
-        <id>https://jvns.ca/blog/2025/02/05/some-terminal-frustrations/</id>
-        <link href="https://jvns.ca/blog/2025/02/05/some-terminal-frustrations/"/>
-        <updated>2025-02-05T16:57:00.000Z</updated>
-        <summary type="html"><![CDATA[A few weeks ago I ran a terminal survey (you can read the results here) and at the end I asked:
-What’s the most frustrating thing about using the terminal for you?
-1600 people answered, and I decided to spend a few days categorizing all the
-responses. Along the way I learned that classifying qualitative data is not
-easy but I gave it my best shot. I ended up building a custom
-tool to make it faster to categorize
-everything.
-As with all of my surveys the methodology isn’t particularly scientific. I just
-posted the survey to Mastodon and Twitter, ran it for a couple of days, and got
-answers from whoever happened to see it and felt like responding.
-Here are the top categories of frustrations!
-I think it’s worth keeping in mind while reading these comments that
-40% of people answering this sur…]]></summary>
-        <author>
-            <name>Julia Evans</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Eggs US – Price – Chart]]></title>
-        <id>https://news.ycombinator.com/item?id=42950929</id>
-        <link href="https://tradingeconomics.com/commodity/eggs-us"/>
-        <updated>2025-02-05T16:31:24.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://tradingeconomics.com/commodity/eggs-us
-Comments URL: https://news.ycombinator.com/item?id=42950929
-Points: 501
-# Comments: 658]]></summary>
-        <author>
-            <name>throwaway5752</name>
         </author>
     </entry>
 </feed>
