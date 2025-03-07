@@ -1294,26 +1294,6 @@
           "wordCount": 12383,
           "title": "Programming SDF animations of Rick and Morty",
           "imageUrl": "https://danielchasehooper.com/images/rick-banner.jpg"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=42953508",
-          "author": "Hold-And-Modify",
-          "description": "Hello.\nCloudflare's Browser Intergrity Check/Verification/Challenge feature used by many websites, is denying access to users of non-mainstream browsers like Pale Moon.\nUsers reports began on January 31:\nhttps://forum.palemoon.org/viewtopic.php?f=3&t=32045\nThis situation occurs at least once a year, and there is no easy way to contact Cloudflare. Their \"Submit feedback\" tool yields no results. A Cloudflare Community topic was flagged as \"spam\" by members of that community and was promptly locked with no real solution, and no official response from Cloudflare:\nhttps://community.cloudflare.com/t/access-denied-to-pale-moo...\nPartial list of other browsers that are being denied access:\nFalkon, SeaMonkey, IceCat, Basilisk.\nHacker News 2022 post about the same issue, which brought attention and had Cloudflare quickly patching the issue:\nhttps://news.ycombinator.com/item?id=31317886\nA Cloudflare product manager declared back then: \"...we do not want to be in the business of saying one browser is more legitimate than another.\"\nAs of now, there is no official response from Cloudflare. Internet access is still denied by their tool.\nComments URL: https://news.ycombinator.com/item?id=42953508\nPoints: 546\n# Comments: 186",
-          "link": "https://news.ycombinator.com/item?id=42953508",
-          "publishedOn": "2025-02-05T19:08:12.000Z",
-          "wordCount": 14801,
-          "title": "Tell HN: Cloudflare is blocking Pale Moon and other non-mainstream browsers",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=42952960",
-          "author": "leroman",
-          "description": "Article URL: https://www.youtube.com/watch?v=7xTGNNLPyMI\nComments URL: https://news.ycombinator.com/item?id=42952960\nPoints: 505\n# Comments: 41",
-          "link": "https://www.youtube.com/watch?v=7xTGNNLPyMI",
-          "publishedOn": "2025-02-05T18:29:30.000Z",
-          "wordCount": null,
-          "title": "Andrej Karpathy: Deep Dive into LLMs Like ChatGPT [video]",
-          "imageUrl": null
         }
       ]
     },
