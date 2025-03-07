@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-03-07T05:17:05.265Z</updated>
+    <updated>2025-03-07T06:24:26.739Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -2128,19 +2128,6 @@ Points: 505
 # Comments: 41]]></summary>
         <author>
             <name>leroman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ingesting PDFs and why Gemini 2.0 changes everything]]></title>
-        <id>https://news.ycombinator.com/item?id=42952605</id>
-        <link href="https://www.sergey.fyi/articles/gemini-flash-2"/>
-        <updated>2025-02-05T18:05:28.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.sergey.fyi/articles/gemini-flash-2
-Comments URL: https://news.ycombinator.com/item?id=42952605
-Points: 569
-# Comments: 200]]></summary>
-        <author>
-            <name>serjester</name>
         </author>
     </entry>
 </feed>
