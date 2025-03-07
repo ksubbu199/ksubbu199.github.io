@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-03-07T17:14:57.176Z</updated>
+    <updated>2025-03-07T18:23:33.875Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Succinct data structures]]></title>
+        <id>https://news.ycombinator.com/item?id=43282995</id>
+        <link href="https://blog.startifact.com/posts/succinct/"/>
+        <updated>2025-03-06T17:48:37.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://blog.startifact.com/posts/succinct/
+Comments URL: https://news.ycombinator.com/item?id=43282995
+Points: 501
+# Comments: 82]]></summary>
+        <author>
+            <name>pavel_lishin</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Mistral OCR]]></title>
         <id>https://news.ycombinator.com/item?id=43282905</id>
