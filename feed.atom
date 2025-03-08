@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-03-08T01:04:18.310Z</updated>
+    <updated>2025-03-08T02:27:59.677Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -2078,24 +2078,6 @@ Points: 528
         <summary type="html"><![CDATA[How has this uncertainty affected software engineers at the Chinese-owned social network?]]></summary>
         <author>
             <name>Gergely Orosz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The DeepSeek Series: A Technical Overview]]></title>
-        <id>https://martinfowler.com/articles/deepseek-papers.html</id>
-        <link href="https://martinfowler.com/articles/deepseek-papers.html"/>
-        <updated>2025-02-06T14:17:00.000Z</updated>
-        <summary type="html"><![CDATA[The appearance of DeepSeek Large-Language Models has caused a lot of
-      discussion and angst since their latest versions appeared at the beginning
-      of 2025. But much of the value of DeepSeek's work comes from the papers
-      they have published over the last year. Shayan Mohanty
-      provides an overview of these papers, highlighting three main arcs in this
-      research: a focus on improving cost and memory efficiency, the use of HPC
-      Co-Design to train large models on limited hardware, and the development
-      of emergent reasoning from large-scale reinforcement learning
-more…]]></summary>
-        <author>
-            <name>Martin Fowler</name>
         </author>
     </entry>
 </feed>
