@@ -2,10 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-03-07T23:13:28.603Z</updated>
+    <updated>2025-03-08T01:04:18.310Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[New Course - Node Internals and Architecture]]></title>
+        <id>https://www.youtube.com/watch?v=4GmJMktMFGw</id>
+        <link href="https://www.youtube.com/watch?v=4GmJMktMFGw"/>
+        <updated>2025-03-07T23:32:04.000Z</updated>
+        <author>
+            <name>Hussein Nasser</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Boot.dev Beat. March 2025]]></title>
+        <id>https://blog.boot.dev/news/bootdev-beat-2025-02/</id>
+        <link href="https://blog.boot.dev/news/bootdev-beat-2025-02/"/>
+        <updated>2025-03-07T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Our new JavaScript course is live! ThePrimeagen’s course on building your own HTTP server from scratch is just around the corner, and the TypeScript track couldn’t be closer.]]></summary>
+        <author>
+            <name>Boot.dev Blog</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Standards for ANSI escape codes]]></title>
         <id>https://jvns.ca/blog/2025/03/07/escape-code-standards/</id>
@@ -2077,15 +2096,6 @@ Points: 528
 more…]]></summary>
         <author>
             <name>Martin Fowler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Will Reliance and Shein destroy ZARA, H&M and ZUDIO? | Business case Study]]></title>
-        <id>https://www.youtube.com/watch?v=a-a5kuLYtTo</id>
-        <link href="https://www.youtube.com/watch?v=a-a5kuLYtTo"/>
-        <updated>2025-02-06T12:30:07.000Z</updated>
-        <author>
-            <name>Think School</name>
         </author>
     </entry>
 </feed>
