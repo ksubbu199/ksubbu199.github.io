@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-03-09T14:12:44.685Z</updated>
+    <updated>2025-03-09T15:15:15.731Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -85,6 +85,19 @@
         <updated>2025-03-09T04:01:01.000Z</updated>
         <author>
             <name>Think School</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[My 16-month theanine self-experiment]]></title>
+        <id>https://news.ycombinator.com/item?id=43305803</id>
+        <link href="https://dynomight.net/theanine/"/>
+        <updated>2025-03-09T03:08:12.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://dynomight.net/theanine/
+Comments URL: https://news.ycombinator.com/item?id=43305803
+Points: 520
+# Comments: 286]]></summary>
+        <author>
+            <name>dynm</name>
         </author>
     </entry>
     <entry>
