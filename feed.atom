@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-03-11T19:15:04.116Z</updated>
+    <updated>2025-03-11T20:19:19.941Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -17,6 +17,19 @@ Points: 652
 # Comments: 324]]></summary>
         <author>
             <name>DanRosenwasser</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Factorio Learning Environment – Agents Build Factories]]></title>
+        <id>https://news.ycombinator.com/item?id=43331582</id>
+        <link href="https://jackhopkins.github.io/factorio-learning-environment/"/>
+        <updated>2025-03-11T12:02:02.000Z</updated>
+        <summary type="html"><![CDATA[I'm Jack, and I'm excited to share a project that has channeled my Factorio addiction recently: the Factorio Learning Environment (FLE).
+FLE is an open-source framework for developing and evaluating LLM agents in Factorio. It provides a controlled environment where AI models can attempt complex automation, resource management, and optimisation tasks in a grounded world with meaningful constraints.
+A critical advantage of Factorio as a benchmark is its unbounded nature. Unlike many evals that are quickly saturated by newer models, Factorio's geometric complexity scaling means it won't be "solved" in the next 6 months (or possibly even years). This allows us to meaningfully compare models by the order-of-magnitude of resources they can produce - creating a benchmark with longevity.
+The proje…]]></summary>
+        <author>
+            <name>noddybear</name>
         </author>
     </entry>
     <entry>
