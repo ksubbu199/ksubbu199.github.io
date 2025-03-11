@@ -16,6 +16,16 @@
           "imageUrl": "https://devblogs.microsoft.com/typescript/wp-content/uploads/sites/11/2018/08/typescriptfeature.png"
         },
         {
+          "id": "https://news.ycombinator.com/item?id=43332658",
+          "author": "btilly",
+          "description": "Article URL: https://twitter.com/garrytan/status/1899092996702048709\nComments URL: https://news.ycombinator.com/item?id=43332658\nPoints: 533\n# Comments: 112",
+          "link": "https://twitter.com/garrytan/status/1899092996702048709",
+          "publishedOn": "2025-03-11T14:14:35.000Z",
+          "wordCount": null,
+          "title": "Happy 20th Birthday, Y Combinator",
+          "imageUrl": null
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=43331582",
           "author": "noddybear",
           "description": "I'm Jack, and I'm excited to share a project that has channeled my Factorio addiction recently: the Factorio Learning Environment (FLE).\nFLE is an open-source framework for developing and evaluating LLM agents in Factorio. It provides a controlled environment where AI models can attempt complex automation, resource management, and optimisation tasks in a grounded world with meaningful constraints.\nA critical advantage of Factorio as a benchmark is its unbounded nature. Unlike many evals that are quickly saturated by newer models, Factorio's geometric complexity scaling means it won't be \"solved\" in the next 6 months (or possibly even years). This allows us to meaningfully compare models by the order-of-magnitude of resources they can produce - creating a benchmark with longevity.\nThe proje…",

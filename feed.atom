@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-03-11T20:19:19.941Z</updated>
+    <updated>2025-03-11T21:13:22.977Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -17,6 +17,19 @@ Points: 652
 # Comments: 324]]></summary>
         <author>
             <name>DanRosenwasser</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Happy 20th Birthday, Y Combinator]]></title>
+        <id>https://news.ycombinator.com/item?id=43332658</id>
+        <link href="https://twitter.com/garrytan/status/1899092996702048709"/>
+        <updated>2025-03-11T14:14:35.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://twitter.com/garrytan/status/1899092996702048709
+Comments URL: https://news.ycombinator.com/item?id=43332658
+Points: 533
+# Comments: 112]]></summary>
+        <author>
+            <name>btilly</name>
         </author>
     </entry>
     <entry>
