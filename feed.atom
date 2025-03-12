@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-03-12T19:13:54.668Z</updated>
+    <updated>2025-03-12T20:19:29.055Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The Startup CTO's Handbook]]></title>
+        <id>https://news.ycombinator.com/item?id=43337703</id>
+        <link href="https://github.com/ZachGoldberg/Startup-CTO-Handbook/blob/main/StartupCTOHandbook.md"/>
+        <updated>2025-03-11T22:18:42.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://github.com/ZachGoldberg/Startup-CTO-Handbook/blob/main/StartupCTOHandbook.md
+Comments URL: https://news.ycombinator.com/item?id=43337703
+Points: 505
+# Comments: 171]]></summary>
+        <author>
+            <name>simonebrunozzi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[A 10x Faster TypeScript]]></title>
         <id>https://news.ycombinator.com/item?id=43332830</id>
