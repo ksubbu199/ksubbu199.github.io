@@ -1411,16 +1411,6 @@
           "wordCount": 6259,
           "title": "GenAI Patterns: Reranker",
           "imageUrl": "https://martinfowler.com/articles/gen-ai-patterns/card.png"
-        },
-        {
-          "id": "https://martinfowler.com/articles/gen-ai-patterns/#query-rewrite",
-          "author": null,
-          "description": "Users often have difficulty writing the most effective queries.\n      Bharani Subramaniam and I explain Query Rewriting:\n      getting an LLM to formulate alternative queries to send to a RAG's\n      retriever. \nmore…",
-          "link": "https://martinfowler.com/articles/gen-ai-patterns/#query-rewrite",
-          "publishedOn": "2025-02-11T20:58:00.000Z",
-          "wordCount": 5906,
-          "title": "GenAI Patterns: Query Rewriting",
-          "imageUrl": "https://martinfowler.com/articles/gen-ai-patterns/card.png"
         }
       ]
     },

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-03-13T08:23:29.576Z</updated>
+    <updated>2025-03-13T09:18:31.377Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -2251,20 +2251,6 @@ Points: 539
 # Comments: 135]]></summary>
         <author>
             <name>LaurenSerino</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GenAI Patterns: Query Rewriting]]></title>
-        <id>https://martinfowler.com/articles/gen-ai-patterns/#query-rewrite</id>
-        <link href="https://martinfowler.com/articles/gen-ai-patterns/#query-rewrite"/>
-        <updated>2025-02-11T20:58:00.000Z</updated>
-        <summary type="html"><![CDATA[Users often have difficulty writing the most effective queries.
-      Bharani Subramaniam and I explain Query Rewriting:
-      getting an LLM to formulate alternative queries to send to a RAG's
-      retriever. 
-more…]]></summary>
-        <author>
-            <name>Martin Fowler</name>
         </author>
     </entry>
 </feed>
