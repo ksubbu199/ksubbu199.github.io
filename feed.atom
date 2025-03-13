@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-03-13T22:15:54.950Z</updated>
+    <updated>2025-03-13T23:16:24.958Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -2228,29 +2228,6 @@ Points: 631
 # Comments: 201]]></summary>
         <author>
             <name>brutecat</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Style-observer: JS to observe CSS property changes, for reals]]></title>
-        <id>https://lea.verou.me/blog/2025/style-observer/</id>
-        <link href="https://lea.verou.me/blog/2025/style-observer/"/>
-        <updated>2025-02-12T10:43:32.000Z</updated>
-        <summary type="html"><![CDATA[I cannot count the number of times in my career I wished I could run JS in response to CSS property changes,
-regardless of what triggered them: media queries, user actions, or even other JS.
-Use cases abound.
-Here are some of mine:
-Implement higher level custom properties in components, where one custom property changes multiple others in nontrivial ways (e.g. a --variant: danger that sets 10 color tokens).
-Polyfill missing CSS features
-Change certain HTML attributes via CSS (hello --aria-expanded!)
-The most recent time I needed this was to prototype an idea I had for Web Awesome,
-and I decided this was it:
-I’d either find a good, bulletproof solution, or I would build it myself.
-Spoiler alert:
-Oops, I did it again
-A Brief History of Style Observers
-The quest for a JS style observer has be…]]></summary>
-        <author>
-            <name>Lea Verou’s blog</name>
         </author>
     </entry>
 </feed>
