@@ -1294,16 +1294,6 @@
           "wordCount": 2218,
           "title": "Why young parents should focus on building trust with their kids",
           "imageUrl": "https://desunit.com/blog/wp-content/uploads/2025/01/1_aGKGgWlfq_MxBn_ahEy9Bg.jpg"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=43024221",
-          "author": "brutecat",
-          "description": "Article URL: https://brutecat.com/articles/leaking-youtube-emails\nComments URL: https://news.ycombinator.com/item?id=43024221\nPoints: 631\n# Comments: 201",
-          "link": "https://brutecat.com/articles/leaking-youtube-emails",
-          "publishedOn": "2025-02-12T11:19:42.000Z",
-          "wordCount": 2796,
-          "title": "Leaking the email of any YouTube user for $10,000",
-          "imageUrl": "/assets/youtube-email-disclosure.png"
         }
       ]
     },
@@ -1855,7 +1845,18 @@
       "title": "Lea Verou’s blog",
       "feedUrl": "https://lea.verou.me/feed.xml",
       "siteUrl": "https://lea.verou.me/feed.xml",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://lea.verou.me/blog/2025/style-observer/",
+          "author": null,
+          "description": "I cannot count the number of times in my career I wished I could run JS in response to CSS property changes,\nregardless of what triggered them: media queries, user actions, or even other JS.\nUse cases abound.\nHere are some of mine:\nImplement higher level custom properties in components, where one custom property changes multiple others in nontrivial ways (e.g. a --variant: danger that sets 10 color tokens).\nPolyfill missing CSS features\nChange certain HTML attributes via CSS (hello --aria-expanded!)\nSet CSS properties based on other CSS properties without having to mirror them as custom properties\nThe most recent time I needed this was to prototype an idea I had for Web Awesome,\nand I decided this was it:\nI’d either find a good, bulletproof solution, or I would build it myself.\nSpoiler ale…",
+          "link": "https://lea.verou.me/blog/2025/style-observer/",
+          "publishedOn": "2025-03-13T07:26:10.000Z",
+          "wordCount": 975,
+          "title": "Style-observer: JS to observe CSS property changes, for reals",
+          "imageUrl": "https://lea.verou.me/blog/2025/style-observer/images/social.gif"
+        }
+      ]
     },
     {
       "title": "Ben Hoyt's technical writing",
