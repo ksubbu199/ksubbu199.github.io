@@ -126,6 +126,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://news.ycombinator.com/item?id=43331847",
+          "author": "ksec",
+          "description": "Article URL: https://github.com/crmne/ruby_llm\nComments URL: https://news.ycombinator.com/item?id=43331847\nPoints: 508\n# Comments: 115",
+          "link": "https://github.com/crmne/ruby_llm",
+          "publishedOn": "2025-03-11T12:40:55.000Z",
+          "wordCount": 3819,
+          "title": "RubyLLM: A delightful Ruby way to work with AI",
+          "imageUrl": "https://opengraph.githubassets.com/d235c100159fe3b081f940a3b80b8180fb8e3fbdfca77f6a9176c2408307825c/crmne/ruby_llm"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=43331582",
           "author": "noddybear",
           "description": "I'm Jack, and I'm excited to share a project that has channeled my Factorio addiction recently: the Factorio Learning Environment (FLE).\nFLE is an open-source framework for developing and evaluating LLM agents in Factorio. It provides a controlled environment where AI models can attempt complex automation, resource management, and optimisation tasks in a grounded world with meaningful constraints.\nA critical advantage of Factorio as a benchmark is its unbounded nature. Unlike many evals that are quickly saturated by newer models, Factorio's geometric complexity scaling means it won't be \"solved\" in the next 6 months (or possibly even years). This allows us to meaningfully compare models by the order-of-magnitude of resources they can produce - creating a benchmark with longevity.\nThe proje…",
