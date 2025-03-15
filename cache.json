@@ -1294,16 +1294,6 @@
           "wordCount": 4338,
           "title": "Privacy Pass Authentication for Kagi Search",
           "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=43039308",
-          "author": "rushingcreek",
-          "description": "Hi HN! Michael here. We've spent the last 6 months rebuilding Phind. We asked ourselves what types of answers we would ideally like and crafted a new UI and model series to help get us there. Our new 70B is completely different from the one we launched a year ago.\nThe new Phind goes beyond text to present answers visually with inline images, diagrams, cards, and other widgets to make answers more meaningful:\n- \"explain photosynthesis\" - https://www.youtube.com/watch?v=cTCpnyICukM#t=7\n- \"how to cook the perfect steak\" - https://www.youtube.com/watch?v=cTCpnyICukM#t=55\n- \"quicksort in rust\" - https://www.youtube.com/watch?v=cTCpnyICukM#t=105\nPhind is also now able to seek out information on its own. If it needs more, it will do multiple rounds of additional searches to get you a more comprehensive answer:\n- \"top 10 Thai restaurants in SF, their prices, and key dishes\" - https://www.youtube.com/watch?v=rIQQcDIIHFQ#t=11\nIt can also perform calculations, visualize their results, and verify them in a Jupyter notebook:\n- \"simulate 100 coin flips and make graphs\" - https://www.youtube.com/watch?v=YP3PZ4MKGCg#t=8\n- \"train a perceptron neural network using Jupyter\" - https://www.youtube.com/watch?v=YP3PZ4MKGCg#t=45\nThis blog post contains an overview of what we did as well as technical deep dives into how we built the new frontend and models.\nI'm super grateful for all of the feedback we've gotten from this community and can't wait to hear your thoughts!\nComments URL: https://news.ycombinator.com/item?id=43039308\nPoints: 502\n# Comments: 176",
-          "link": "https://www.phind.com/blog/phind-2",
-          "publishedOn": "2025-02-13T18:20:29.000Z",
-          "wordCount": null,
-          "title": "Phind 2: AI search with visual answers and multi-step reasoning",
-          "imageUrl": null
         }
       ]
     },

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-03-15T05:15:49.621Z</updated>
+    <updated>2025-03-15T06:22:41.707Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -2187,30 +2187,6 @@ Points: 522
 # Comments: 188]]></summary>
         <author>
             <name>b3n</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Phind 2: AI search with visual answers and multi-step reasoning]]></title>
-        <id>https://news.ycombinator.com/item?id=43039308</id>
-        <link href="https://www.phind.com/blog/phind-2"/>
-        <updated>2025-02-13T18:20:29.000Z</updated>
-        <summary type="html"><![CDATA[Hi HN! Michael here. We've spent the last 6 months rebuilding Phind. We asked ourselves what types of answers we would ideally like and crafted a new UI and model series to help get us there. Our new 70B is completely different from the one we launched a year ago.
-The new Phind goes beyond text to present answers visually with inline images, diagrams, cards, and other widgets to make answers more meaningful:
-- "explain photosynthesis" - https://www.youtube.com/watch?v=cTCpnyICukM#t=7
-- "how to cook the perfect steak" - https://www.youtube.com/watch?v=cTCpnyICukM#t=55
-- "quicksort in rust" - https://www.youtube.com/watch?v=cTCpnyICukM#t=105
-Phind is also now able to seek out information on its own. If it needs more, it will do multiple rounds of additional searches to get you a more comprehensive answer:
-- "top 10 Thai restaurants in SF, their prices, and key dishes" - https://www.youtube.com/watch?v=rIQQcDIIHFQ#t=11
-It can also perform calculations, visualize their results, and verify them in a Jupyter notebook:
-- "simulate 100 coin flips and make graphs" - https://www.youtube.com/watch?v=YP3PZ4MKGCg#t=8
-- "train a perceptron neural network using Jupyter" - https://www.youtube.com/watch?v=YP3PZ4MKGCg#t=45
-This blog post contains an overview of what we did as well as technical deep dives into how we built the new frontend and models.
-I'm super grateful for all of the feedback we've gotten from this community and can't wait to hear your thoughts!
-Comments URL: https://news.ycombinator.com/item?id=43039308
-Points: 502
-# Comments: 176]]></summary>
-        <author>
-            <name>rushingcreek</name>
         </author>
     </entry>
 </feed>
