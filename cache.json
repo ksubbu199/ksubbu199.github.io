@@ -1364,16 +1364,6 @@
           "wordCount": 1703,
           "title": "Standards for ANSI escape codes",
           "imageUrl": null
-        },
-        {
-          "id": "https://jvns.ca/blog/2025/02/13/how-to-add-a-directory-to-your-path/",
-          "author": null,
-          "description": "I was talking to a friend about how to add a directory to your PATH today. It’s\nsomething that feels “obvious” to me since I’ve been using the terminal for a\nlong time, but when I searched for instructions for how to do it, I actually\ncouldn’t find something that explained all of the steps – a lot of them just\nsaid “add this to ~/.bashrc”, but what if you’re not using bash? What if your\nbash config is actually in a different file? And how are you supposed to figure\nout which directory to add anyway?\nSo I wanted to try to write down some more complete directions and mention some\nof the gotchas I’ve run into over the years.\nHere’s a table of contents:\nstep 1: what shell are you using?\nstep 2: find your shell’s config file\n\na note on bash’s config file\nstep 3: figure out which directory to ad…",
-          "link": "https://jvns.ca/blog/2025/02/13/how-to-add-a-directory-to-your-path/",
-          "publishedOn": "2025-02-13T12:27:56.000Z",
-          "wordCount": 1824,
-          "title": "How to add a directory to your PATH",
-          "imageUrl": null
         }
       ]
     },

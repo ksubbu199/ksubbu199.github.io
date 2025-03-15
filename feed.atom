@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-03-14T23:16:38.895Z</updated>
+    <updated>2025-03-15T01:19:05.795Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -2237,30 +2237,6 @@ Points: 605
 # Comments: 398]]></summary>
         <author>
             <name>Shank</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to add a directory to your PATH]]></title>
-        <id>https://jvns.ca/blog/2025/02/13/how-to-add-a-directory-to-your-path/</id>
-        <link href="https://jvns.ca/blog/2025/02/13/how-to-add-a-directory-to-your-path/"/>
-        <updated>2025-02-13T12:27:56.000Z</updated>
-        <summary type="html"><![CDATA[I was talking to a friend about how to add a directory to your PATH today. It’s
-something that feels “obvious” to me since I’ve been using the terminal for a
-long time, but when I searched for instructions for how to do it, I actually
-couldn’t find something that explained all of the steps – a lot of them just
-said “add this to ~/.bashrc”, but what if you’re not using bash? What if your
-bash config is actually in a different file? And how are you supposed to figure
-out which directory to add anyway?
-So I wanted to try to write down some more complete directions and mention some
-of the gotchas I’ve run into over the years.
-Here’s a table of contents:
-step 1: what shell are you using?
-step 2: find your shell’s config file
-
-a note on bash’s config file
-step 3: figure out which directory to ad…]]></summary>
-        <author>
-            <name>Julia Evans</name>
         </author>
     </entry>
 </feed>
