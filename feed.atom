@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-03-16T01:25:49.753Z</updated>
+    <updated>2025-03-16T02:58:48.651Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -17,6 +17,19 @@ Points: 502
 # Comments: 416]]></summary>
         <author>
             <name>ftufek</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A look at Firefox forks]]></title>
+        <id>https://news.ycombinator.com/item?id=43361959</id>
+        <link href="https://lwn.net/Articles/1012453/"/>
+        <updated>2025-03-14T12:25:04.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://lwn.net/Articles/1012453/
+Comments URL: https://news.ycombinator.com/item?id=43361959
+Points: 506
+# Comments: 337]]></summary>
+        <author>
+            <name>sohkamyung</name>
         </author>
     </entry>
     <entry>
