@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=43396795",
+          "author": "MartijnHols",
+          "description": "Article URL: https://martijnhols.nl/blog/moving-away-from-us-cloud-services\nComments URL: https://news.ycombinator.com/item?id=43396795\nPoints: 503\n# Comments: 312",
+          "link": "https://martijnhols.nl/blog/moving-away-from-us-cloud-services",
+          "publishedOn": "2025-03-18T08:09:37.000Z",
+          "wordCount": 2590,
+          "title": "Moving away from US cloud services",
+          "imageUrl": "https://martijnhols.nl/_next/static/media/ogimage.63e7ea0d.png"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=43393822",
           "author": "wicket",
           "description": "Article URL: https://testing.gimp.org/news/2025/03/16/gimp-3-0-released/\nComments URL: https://news.ycombinator.com/item?id=43393822\nPoints: 515\n# Comments: 152",
@@ -1224,16 +1234,6 @@
           "wordCount": 840,
           "title": "All Kindles can now be jailbroken",
           "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=43073808",
-          "author": "picture",
-          "description": "Article URL: https://hforsten.com/homemade-polarimetric-synthetic-aperture-radar-drone.html\nComments URL: https://news.ycombinator.com/item?id=43073808\nPoints: 507\n# Comments: 46",
-          "link": "https://hforsten.com/homemade-polarimetric-synthetic-aperture-radar-drone.html",
-          "publishedOn": "2025-02-17T01:22:49.000Z",
-          "wordCount": 9758,
-          "title": "Homemade polarimetric synthetic aperture radar drone",
-          "imageUrl": null
         }
       ]
     },
@@ -1352,6 +1352,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKZozRVHRYsYHGEyNKuhhdA",
       "siteUrl": "https://www.youtube.com/channel/UCKZozRVHRYsYHGEyNKuhhdA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=GwYqInPCcSk",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=GwYqInPCcSk",
+          "publishedOn": "2025-03-18T12:53:53.000Z",
+          "wordCount": null,
+          "title": "From HDFC to India’s No. 1 Restaurant Billing Solution",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=FrP3ymZ09GY",
           "author": null,
