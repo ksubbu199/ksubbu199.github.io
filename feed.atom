@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-03-19T18:25:24.865Z</updated>
+    <updated>2025-03-19T19:14:36.112Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -17,6 +17,19 @@ Points: 551
 # Comments: 482]]></summary>
         <author>
             <name>n1b0m</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Make Ubuntu packages 90% faster by rebuilding them]]></title>
+        <id>https://news.ycombinator.com/item?id=43406710</id>
+        <link href="https://gist.github.com/jwbee/7e8b27e298de8bbbf8abfa4c232db097"/>
+        <updated>2025-03-18T23:55:17.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://gist.github.com/jwbee/7e8b27e298de8bbbf8abfa4c232db097
+Comments URL: https://news.ycombinator.com/item?id=43406710
+Points: 501
+# Comments: 321]]></summary>
+        <author>
+            <name>jeffbee</name>
         </author>
     </entry>
     <entry>
