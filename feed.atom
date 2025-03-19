@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-03-19T15:19:02.767Z</updated>
+    <updated>2025-03-19T16:22:34.604Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[I'm the Canadian who was detained by ICE for two weeks]]></title>
+        <id>https://news.ycombinator.com/item?id=43410548</id>
+        <link href="https://www.theguardian.com/us-news/2025/mar/19/canadian-detained-us-immigration-jasmine-mooney"/>
+        <updated>2025-03-19T11:21:12.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.theguardian.com/us-news/2025/mar/19/canadian-detained-us-immigration-jasmine-mooney
+Comments URL: https://news.ycombinator.com/item?id=43410548
+Points: 551
+# Comments: 482]]></summary>
+        <author>
+            <name>n1b0m</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Turkish university annuls Erdogan rival's degree, preventing run for president]]></title>
         <id>https://news.ycombinator.com/item?id=43404679</id>
@@ -2183,19 +2196,6 @@ Points: 531
 # Comments: 100]]></summary>
         <author>
             <name>dlazaro</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Grok3 Launch [video]]]></title>
-        <id>https://news.ycombinator.com/item?id=43085957</id>
-        <link href="https://x.com/xai/status/1891699715298730482"/>
-        <updated>2025-02-18T04:04:54.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://x.com/xai/status/1891699715298730482
-Comments URL: https://news.ycombinator.com/item?id=43085957
-Points: 520
-# Comments: 1059]]></summary>
-        <author>
-            <name>travelhead</name>
         </author>
     </entry>
 </feed>
