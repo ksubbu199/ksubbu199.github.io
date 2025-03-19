@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-03-19T11:14:51.854Z</updated>
+    <updated>2025-03-19T12:35:22.871Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -190,6 +190,19 @@ Points: 515
 # Comments: 152]]></summary>
         <author>
             <name>wicket</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rippling sues Deel over spying]]></title>
+        <id>https://news.ycombinator.com/item?id=43388133</id>
+        <link href="https://twitter.com/parkerconrad/status/1901615179718406276"/>
+        <updated>2025-03-17T13:03:52.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://twitter.com/parkerconrad/status/1901615179718406276
+Comments URL: https://news.ycombinator.com/item?id=43388133
+Points: 503
+# Comments: 126]]></summary>
+        <author>
+            <name>amacneil</name>
         </author>
     </entry>
     <entry>
@@ -2183,20 +2196,6 @@ Points: 520
 # Comments: 1059]]></summary>
         <author>
             <name>travelhead</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What role does LLM reasoning play for software tasks?]]></title>
-        <id>https://martinfowler.com/articles/exploring-gen-ai.html#memo-12</id>
-        <link href="https://martinfowler.com/articles/exploring-gen-ai.html#memo-12"/>
-        <updated>2025-02-18T00:02:00.000Z</updated>
-        <summary type="html"><![CDATA[Recent LLM models have provided “reasoning” capabilities. Birgitta
-       Böckeler asks what role these play with coding tasks. She
-      doesn't have an answer, but does have questions and thoughts - and has
-      not found such capabilities worthwhile so far. 
-more…]]></summary>
-        <author>
-            <name>Martin Fowler</name>
         </author>
     </entry>
 </feed>

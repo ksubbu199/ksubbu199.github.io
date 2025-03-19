@@ -86,6 +86,16 @@
           "imageUrl": "https://testing.gimp.org/news/2025/03/16/gimp-3-0-released//gimp-3.0-splash.jpg"
         },
         {
+          "id": "https://news.ycombinator.com/item?id=43388133",
+          "author": "amacneil",
+          "description": "Article URL: https://twitter.com/parkerconrad/status/1901615179718406276\nComments URL: https://news.ycombinator.com/item?id=43388133\nPoints: 503\n# Comments: 126",
+          "link": "https://twitter.com/parkerconrad/status/1901615179718406276",
+          "publishedOn": "2025-03-17T13:03:52.000Z",
+          "wordCount": null,
+          "title": "Rippling sues Deel over spying",
+          "imageUrl": null
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=43385268",
           "author": "luu",
           "description": "Article URL: https://discuss.systems/@dev/114161826926246661\nComments URL: https://news.ycombinator.com/item?id=43385268\nPoints: 563\n# Comments: 324",
@@ -1341,16 +1351,6 @@
           "wordCount": 7514,
           "title": "GenAI Patterns: Guardrails and RAG overview",
           "imageUrl": "https://martinfowler.com/articles/gen-ai-patterns/card.png"
-        },
-        {
-          "id": "https://martinfowler.com/articles/exploring-gen-ai.html#memo-12",
-          "author": null,
-          "description": "Recent LLM models have provided “reasoning” capabilities. Birgitta\n       Böckeler asks what role these play with coding tasks. She\n      doesn't have an answer, but does have questions and thoughts - and has\n      not found such capabilities worthwhile so far. \nmore…",
-          "link": "https://martinfowler.com/articles/exploring-gen-ai.html#memo-12",
-          "publishedOn": "2025-02-18T00:02:00.000Z",
-          "wordCount": 14083,
-          "title": "What role does LLM reasoning play for software tasks?",
-          "imageUrl": "https://martinfowler.com/logo-sq.png"
         }
       ]
     },
