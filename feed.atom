@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-03-19T17:16:26.662Z</updated>
+    <updated>2025-03-19T18:25:24.865Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -2176,26 +2176,6 @@ Points: 511
 # Comments: 88]]></summary>
         <author>
             <name>mariuz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: Live-updating version of the 'What a week, huh?' meme]]></title>
-        <id>https://news.ycombinator.com/item?id=43086479</id>
-        <link href="https://tintin.dlazaro.ca/"/>
-        <updated>2025-02-18T05:53:55.000Z</updated>
-        <summary type="html"><![CDATA[As a fun evening project, I made a live-updating version of the 'What a week, huh?' meme (based on a panel from The Adventures of Tintin comics [1]).
-There's a page for every timeframe:
-- 'What a day': https://tintin.dlazaro.ca/day
-- 'What a week': https://tintin.dlazaro.ca/week
-- 'What a month': https://tintin.dlazaro.ca/month
-- 'What a year': https://tintin.dlazaro.ca/year
-Current time is determined by a Cloudflare Worker using the request IP (not logged or stored). No JavaScript is sent to the browser.
-[1] https://knowyourmeme.com/memes/what-a-week-huh
-Comments URL: https://news.ycombinator.com/item?id=43086479
-Points: 531
-# Comments: 100]]></summary>
-        <author>
-            <name>dlazaro</name>
         </author>
     </entry>
 </feed>
