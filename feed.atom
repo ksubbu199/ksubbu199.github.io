@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-03-19T08:23:26.650Z</updated>
+    <updated>2025-03-19T09:19:19.533Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Turkish university annuls Erdogan rival's degree, preventing run for president]]></title>
+        <id>https://news.ycombinator.com/item?id=43404679</id>
+        <link href="https://www.reuters.com/world/asia-pacific/istanbul-university-annuls-istanbul-mayor-imamoglus-diploma-over-irregularities-2025-03-18/"/>
+        <updated>2025-03-18T20:31:22.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.reuters.com/world/asia-pacific/istanbul-university-annuls-istanbul-mayor-imamoglus-diploma-over-irregularities-2025-03-18/
+Comments URL: https://news.ycombinator.com/item?id=43404679
+Points: 520
+# Comments: 325]]></summary>
+        <author>
+            <name>perihelions</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[US appeals court rules AI generated art cannot be copyrighted]]></title>
         <id>https://news.ycombinator.com/item?id=43402790</id>
@@ -2171,19 +2184,6 @@ Points: 520
 more…]]></summary>
         <author>
             <name>Martin Fowler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Plane crashes, overturns during landing at Toronto airport]]></title>
-        <id>https://news.ycombinator.com/item?id=43083012</id>
-        <link href="https://www.cbc.ca/news/canada/toronto/toronto-pearson-overturned-airplane-1.7461227"/>
-        <updated>2025-02-17T20:30:04.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.cbc.ca/news/canada/toronto/toronto-pearson-overturned-airplane-1.7461227
-Comments URL: https://news.ycombinator.com/item?id=43083012
-Points: 507
-# Comments: 603]]></summary>
-        <author>
-            <name>jaredwiener</name>
         </author>
     </entry>
 </feed>

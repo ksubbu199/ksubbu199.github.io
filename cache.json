@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=43404679",
+          "author": "perihelions",
+          "description": "Article URL: https://www.reuters.com/world/asia-pacific/istanbul-university-annuls-istanbul-mayor-imamoglus-diploma-over-irregularities-2025-03-18/\nComments URL: https://news.ycombinator.com/item?id=43404679\nPoints: 520\n# Comments: 325",
+          "link": "https://www.reuters.com/world/asia-pacific/istanbul-university-annuls-istanbul-mayor-imamoglus-diploma-over-irregularities-2025-03-18/",
+          "publishedOn": "2025-03-18T20:31:22.000Z",
+          "wordCount": null,
+          "title": "Turkish university annuls Erdogan rival's degree, preventing run for president",
+          "imageUrl": null
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=43402790",
           "author": "rvz",
           "description": "Article URL: https://www.reuters.com/world/us/us-appeals-court-rejects-copyrights-ai-generated-art-lacking-human-creator-2025-03-18/\nComments URL: https://news.ycombinator.com/item?id=43402790\nPoints: 508\n# Comments: 358",
@@ -1244,16 +1254,6 @@
           "wordCount": 6,
           "title": "Grok3 Launch [video]",
           "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=43083012",
-          "author": "jaredwiener",
-          "description": "Article URL: https://www.cbc.ca/news/canada/toronto/toronto-pearson-overturned-airplane-1.7461227\nComments URL: https://news.ycombinator.com/item?id=43083012\nPoints: 507\n# Comments: 603",
-          "link": "https://www.cbc.ca/news/canada/toronto/toronto-pearson-overturned-airplane-1.7461227",
-          "publishedOn": "2025-02-17T20:30:04.000Z",
-          "wordCount": 5378,
-          "title": "Plane crashes, overturns during landing at Toronto airport",
-          "imageUrl": "https://i.cbc.ca/1.7461403.1739843807!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_1180/ont-pearson-plane-crash-20250217.jpg?im=Resize%3D620"
         }
       ]
     },
