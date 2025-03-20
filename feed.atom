@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-03-19T23:17:39.847Z</updated>
+    <updated>2025-03-20T01:20:15.264Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[fd: A simple, fast and user-friendly alternative to 'find']]></title>
+        <id>https://news.ycombinator.com/item?id=43410692</id>
+        <link href="https://github.com/sharkdp/fd"/>
+        <updated>2025-03-19T11:44:17.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://github.com/sharkdp/fd
+Comments URL: https://news.ycombinator.com/item?id=43410692
+Points: 521
+# Comments: 221]]></summary>
+        <author>
+            <name>tosh</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[I'm the Canadian who was detained by ICE for two weeks]]></title>
         <id>https://news.ycombinator.com/item?id=43410548</id>
@@ -56,6 +69,19 @@ Points: 508
 # Comments: 358]]></summary>
         <author>
             <name>rvz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: I made a tool to port tweets to Bluesky mantaining their original date]]></title>
+        <id>https://news.ycombinator.com/item?id=43401855</id>
+        <link href="https://bluemigrate.com/"/>
+        <updated>2025-03-18T17:07:39.000Z</updated>
+        <summary type="html"><![CDATA[Bluesky allows to backdate their posts with their API, so I made this tool to copy your twitter (X) profile to Bluesky keeping the backdated dates of your tweets, showing as if they were posted back then
+Comments URL: https://news.ycombinator.com/item?id=43401855
+Points: 503
+# Comments: 195]]></summary>
+        <author>
+            <name>nols05</name>
         </author>
     </entry>
     <entry>
