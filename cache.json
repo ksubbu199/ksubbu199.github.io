@@ -1321,16 +1321,6 @@
           "wordCount": 8377,
           "title": "GenAI Patterns: Fine Tuning",
           "imageUrl": "https://martinfowler.com/articles/gen-ai-patterns/card.png"
-        },
-        {
-          "id": "https://martinfowler.com/articles/gen-ai-patterns/#guardrails",
-          "author": null,
-          "description": "Gen AI systems are gullible, and can easily be tricked into responding\n      in ways that are contrary to an enterprise's policies or leak\n      confidential information. Bharani\n      Subramaniam and I describe how we can counter this by adding\n      guardrails at the boundaries of the request/response flow. We also\n      conclude our discussion of RAG with an overview of how all the RAG\n      component patterns fit together.\nmore…",
-          "link": "https://martinfowler.com/articles/gen-ai-patterns/#guardrails",
-          "publishedOn": "2025-02-19T00:02:00.000Z",
-          "wordCount": 7514,
-          "title": "GenAI Patterns: Guardrails and RAG overview",
-          "imageUrl": "https://martinfowler.com/articles/gen-ai-patterns/card.png"
         }
       ]
     },
