@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=43425655",
+          "author": "meetpateltech",
+          "description": "Article URL: https://www.anthropic.com/news/web-search\nComments URL: https://news.ycombinator.com/item?id=43425655\nPoints: 518\n# Comments: 265",
+          "link": "https://www.anthropic.com/news/web-search",
+          "publishedOn": "2025-03-20T16:51:12.000Z",
+          "wordCount": 7455,
+          "title": "Claude can now search the web",
+          "imageUrl": "https://cdn.sanity.io/images/4zrzovbb/website/1ea9218af422ddb7fc319edd3633cd26080558cf-2400x1260.png"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=43422413",
           "author": "todsacerdoti",
           "description": "Article URL: https://thelibre.news/foss-infrastructure-is-under-attack-by-ai-companies/\nComments URL: https://news.ycombinator.com/item?id=43422413\nPoints: 583\n# Comments: 341",
@@ -14,6 +24,16 @@
           "wordCount": 3182,
           "title": "FOSS infrastructure is under attack by AI companies",
           "imageUrl": "https://thelibre.news/content/images/2025/03/out-28c6c9ca2e350f7f.png"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=43419701",
+          "author": "qianli_cs",
+          "description": "Article URL: https://www.feldera.com/blog/the-pain-that-is-github-actions\nComments URL: https://news.ycombinator.com/item?id=43419701\nPoints: 505\n# Comments: 391",
+          "link": "https://www.feldera.com/blog/the-pain-that-is-github-actions",
+          "publishedOn": "2025-03-20T03:37:31.000Z",
+          "wordCount": 3862,
+          "title": "The Pain That Is GitHub Actions",
+          "imageUrl": "https://cdn.sanity.io/images/nlte859i/production/a2fc38527ee4b136b7c92e4e1a1b4773e5681c69-1792x1024.webp"
         },
         {
           "id": "https://news.ycombinator.com/item?id=43414393",
@@ -1830,16 +1850,6 @@
           "publishedOn": "2025-02-21T14:00:07.000Z",
           "wordCount": null,
           "title": "Learnings from Indian Army, Mukesh Ambani, Adani and Mahindra! | ft. Capt. Raghu Raman | IBP",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=B-QzDmZOuik",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=B-QzDmZOuik",
-          "publishedOn": "2025-02-19T08:54:52.000Z",
-          "wordCount": null,
-          "title": "Leadership Lessons from Indian Army",
           "imageUrl": null
         }
       ]
