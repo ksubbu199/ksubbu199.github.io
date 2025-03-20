@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-03-20T07:16:53.699Z</updated>
+    <updated>2025-03-20T08:22:52.534Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How fast the days are getting longer (2023)]]></title>
+        <id>https://news.ycombinator.com/item?id=43413935</id>
+        <link href="https://joe-antognini.github.io/astronomy/daylight"/>
+        <updated>2025-03-19T16:13:20.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://joe-antognini.github.io/astronomy/daylight
+Comments URL: https://news.ycombinator.com/item?id=43413935
+Points: 510
+# Comments: 174]]></summary>
+        <author>
+            <name>antognini</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[fd: A simple, fast and user-friendly alternative to 'find']]></title>
         <id>https://news.ycombinator.com/item?id=43410692</id>
@@ -2163,32 +2176,6 @@ Points: 511
 # Comments: 264]]></summary>
         <author>
             <name>bertdb</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Valve releases Team Fortress 2 game code]]></title>
-        <id>https://news.ycombinator.com/item?id=43094260</id>
-        <link href="https://github.com/ValveSoftware/source-sdk-2013/commit/0759e2e8e179d5352d81d0d4aaded72c1704b7a9"/>
-        <updated>2025-02-18T19:57:17.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://github.com/ValveSoftware/source-sdk-2013/commit/0759e2e8e179d5352d81d0d4aaded72c1704b7a9
-Comments URL: https://news.ycombinator.com/item?id=43094260
-Points: 511
-# Comments: 137]]></summary>
-        <author>
-            <name>davikr</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[My LLM codegen workflow]]></title>
-        <id>https://news.ycombinator.com/item?id=43094006</id>
-        <link href="https://harper.blog/2025/02/16/my-llm-codegen-workflow-atm/"/>
-        <updated>2025-02-18T19:33:32.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://harper.blog/2025/02/16/my-llm-codegen-workflow-atm/
-Comments URL: https://news.ycombinator.com/item?id=43094006
-Points: 500
-# Comments: 159]]></summary>
-        <author>
-            <name>lolptdr</name>
         </author>
     </entry>
 </feed>
