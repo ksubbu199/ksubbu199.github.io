@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-03-21T05:17:08.093Z</updated>
+    <updated>2025-03-21T06:26:47.102Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -43,6 +43,19 @@ Points: 583
 # Comments: 341]]></summary>
         <author>
             <name>todsacerdoti</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Frontend Treadmill]]></title>
+        <id>https://news.ycombinator.com/item?id=43422162</id>
+        <link href="https://polotek.net/posts/the-frontend-treadmill/"/>
+        <updated>2025-03-20T12:25:31.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://polotek.net/posts/the-frontend-treadmill/
+Comments URL: https://news.ycombinator.com/item?id=43422162
+Points: 501
+# Comments: 504]]></summary>
+        <author>
+            <name>Kerrick</name>
         </author>
     </entry>
     <entry>
@@ -2173,19 +2186,6 @@ Points: 533
 # Comments: 1021]]></summary>
         <author>
             <name>perihelions</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[When imperfect systems are good: Bluesky's lossy timelines]]></title>
-        <id>https://news.ycombinator.com/item?id=43105028</id>
-        <link href="https://jazco.dev/2025/02/19/imperfection/"/>
-        <updated>2025-02-19T17:48:08.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://jazco.dev/2025/02/19/imperfection/
-Comments URL: https://news.ycombinator.com/item?id=43105028
-Points: 516
-# Comments: 195]]></summary>
-        <author>
-            <name>cyndunlop</name>
         </author>
     </entry>
 </feed>
