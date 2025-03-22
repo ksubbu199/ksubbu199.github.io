@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-03-22T16:19:38.695Z</updated>
+    <updated>2025-03-22T17:13:33.288Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -26,6 +26,19 @@ Points: 505
         <updated>2025-03-21T15:43:21.000Z</updated>
         <author>
             <name>Think School</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Career Development: What It Means to Be a Manager, Director, or VP (2015)]]></title>
+        <id>https://news.ycombinator.com/item?id=43434093</id>
+        <link href="https://kellblog.com/2015/03/08/career-development-what-it-really-means-to-be-a-manager-director-or-vp/"/>
+        <updated>2025-03-21T10:49:41.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://kellblog.com/2015/03/08/career-development-what-it-really-means-to-be-a-manager-director-or-vp/
+Comments URL: https://news.ycombinator.com/item?id=43434093
+Points: 500
+# Comments: 225]]></summary>
+        <author>
+            <name>AnhTho_FR</name>
         </author>
     </entry>
     <entry>
@@ -2185,19 +2198,6 @@ Points: 516
 # Comments: 351]]></summary>
         <author>
             <name>isaacfrond</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DeepSeek Open Infra: Open-Sourcing 5 AI Repos in 5 Days]]></title>
-        <id>https://news.ycombinator.com/item?id=43124018</id>
-        <link href="https://github.com/deepseek-ai/open-infra-index"/>
-        <updated>2025-02-21T04:24:39.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://github.com/deepseek-ai/open-infra-index
-Comments URL: https://news.ycombinator.com/item?id=43124018
-Points: 515
-# Comments: 147]]></summary>
-        <author>
-            <name>ahsmha_</name>
         </author>
     </entry>
 </feed>
