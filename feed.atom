@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-03-24T04:21:27.002Z</updated>
+    <updated>2025-03-24T05:17:58.331Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -2018,19 +2018,6 @@ Points: 503
 # Comments: 290]]></summary>
         <author>
             <name>angristan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FFmpeg School of Assembly Language]]></title>
-        <id>https://news.ycombinator.com/item?id=43140614</id>
-        <link href="https://github.com/FFmpeg/asm-lessons/blob/main/lesson_01/index.md"/>
-        <updated>2025-02-22T16:52:49.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://github.com/FFmpeg/asm-lessons/blob/main/lesson_01/index.md
-Comments URL: https://news.ycombinator.com/item?id=43140614
-Points: 536
-# Comments: 131]]></summary>
-        <author>
-            <name>davikr</name>
         </author>
     </entry>
 </feed>
