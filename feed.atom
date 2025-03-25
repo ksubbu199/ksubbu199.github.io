@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-03-25T02:58:20.938Z</updated>
+    <updated>2025-03-25T03:34:43.249Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -17,6 +17,19 @@ Points: 532
 # Comments: 138]]></summary>
         <author>
             <name>_tk_</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Landrun: Sandbox any Linux process using Landlock, no root or containers]]></title>
+        <id>https://news.ycombinator.com/item?id=43445662</id>
+        <link href="https://github.com/Zouuup/landrun"/>
+        <updated>2025-03-22T13:56:59.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://github.com/Zouuup/landrun
+Comments URL: https://news.ycombinator.com/item?id=43445662
+Points: 500
+# Comments: 167]]></summary>
+        <author>
+            <name>Zoup</name>
         </author>
     </entry>
     <entry>
