@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-03-25T07:19:17.096Z</updated>
+    <updated>2025-03-25T08:23:29.062Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -30,6 +30,19 @@ Points: 532
 # Comments: 138]]></summary>
         <author>
             <name>_tk_</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Triforce – a beamformer for Apple Silicon laptops]]></title>
+        <id>https://news.ycombinator.com/item?id=43461701</id>
+        <link href="https://github.com/chadmed/triforce"/>
+        <updated>2025-03-24T14:45:34.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://github.com/chadmed/triforce
+Comments URL: https://news.ycombinator.com/item?id=43461701
+Points: 512
+# Comments: 190]]></summary>
+        <author>
+            <name>tosh</name>
         </author>
     </entry>
     <entry>
