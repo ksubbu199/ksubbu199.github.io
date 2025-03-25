@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-03-25T22:17:44.176Z</updated>
+    <updated>2025-03-25T23:16:26.885Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -17,6 +17,19 @@ Points: 579
 # Comments: 223]]></summary>
         <author>
             <name>surprisetalk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gemini 2.5]]></title>
+        <id>https://news.ycombinator.com/item?id=43473489</id>
+        <link href="https://blog.google/technology/google-deepmind/gemini-model-thinking-updates-march-2025/"/>
+        <updated>2025-03-25T17:01:54.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://blog.google/technology/google-deepmind/gemini-model-thinking-updates-march-2025/
+Comments URL: https://news.ycombinator.com/item?id=43473489
+Points: 534
+# Comments: 253]]></summary>
+        <author>
+            <name>meetpateltech</name>
         </author>
     </entry>
     <entry>
@@ -2095,19 +2108,6 @@ Points: 532
 # Comments: 148]]></summary>
         <author>
             <name>risquer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Apple says it will add 20k jobs, spend $500B, produce AI servers in US]]></title>
-        <id>https://news.ycombinator.com/item?id=43158168</id>
-        <link href="https://www.bloomberg.com/news/articles/2025-02-24/apple-says-it-will-add-20-000-jobs-spend-500-billion-produce-ai-servers-in-us"/>
-        <updated>2025-02-24T11:05:34.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.bloomberg.com/news/articles/2025-02-24/apple-says-it-will-add-20-000-jobs-spend-500-billion-produce-ai-servers-in-us
-Comments URL: https://news.ycombinator.com/item?id=43158168
-Points: 519
-# Comments: 502]]></summary>
-        <author>
-            <name>helsinkiandrew</name>
         </author>
     </entry>
 </feed>
