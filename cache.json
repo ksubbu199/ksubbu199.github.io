@@ -6,6 +6,26 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=43466509",
+          "author": "mxschll",
+          "description": "Article URL: https://abstimmung.eu/git/2024\nComments URL: https://news.ycombinator.com/item?id=43466509\nPoints: 508\n# Comments: 140",
+          "link": "https://abstimmung.eu/git/2024",
+          "publishedOn": "2025-03-24T23:29:03.000Z",
+          "wordCount": 2542,
+          "title": "German parliament votes as a Git contribution graph",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=43464068",
+          "author": "tosh",
+          "description": "Article URL: https://qwenlm.github.io/blog/qwen2.5-vl-32b/\nComments URL: https://news.ycombinator.com/item?id=43464068\nPoints: 505\n# Comments: 262",
+          "link": "https://qwenlm.github.io/blog/qwen2.5-vl-32b/",
+          "publishedOn": "2025-03-24T18:35:12.000Z",
+          "wordCount": 3934,
+          "title": "Qwen2.5-VL-32B: Smarter and Lighter",
+          "imageUrl": "https://qwenlm.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=43463200",
           "author": "HieronymusBosch",
           "description": "Article URL: https://www.jeffgeerling.com/blog/2025/i-wont-connect-my-dishwasher-your-stupid-cloud\nComments URL: https://news.ycombinator.com/item?id=43463200\nPoints: 521\n# Comments: 338",
@@ -1252,6 +1272,16 @@
       "feedUrl": "https://martinfowler.com/feed.atom",
       "siteUrl": "https://martinfowler.com/feed.atom",
       "articles": [
+        {
+          "id": "https://martinfowler.com/articles/exploring-gen-ai.html#memo-13",
+          "author": null,
+          "description": "As agentic coding assistants get more capable, \n      Birgitta Böckeler is trying them to change existing\n      codebases. This has led to some impressive collaboration sessions, but\n      she's needed to intervene, correct and steer all the time. In her latest\n      post, she describes examples of these interventions, giving ideas of the\n      types of skills we currently need to correct the tools' missteps. \nmore…",
+          "link": "https://martinfowler.com/articles/exploring-gen-ai.html#memo-13",
+          "publishedOn": "2025-03-25T14:39:00.000Z",
+          "wordCount": 16188,
+          "title": "The role of developer skills in agentic coding",
+          "imageUrl": "https://martinfowler.com/logo-sq.png"
+        },
         {
           "id": "https://martinfowler.com/articles/2025-passport-x.html",
           "author": null,

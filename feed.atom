@@ -2,10 +2,52 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-03-25T14:18:02.352Z</updated>
+    <updated>2025-03-25T15:19:50.147Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The role of developer skills in agentic coding]]></title>
+        <id>https://martinfowler.com/articles/exploring-gen-ai.html#memo-13</id>
+        <link href="https://martinfowler.com/articles/exploring-gen-ai.html#memo-13"/>
+        <updated>2025-03-25T14:39:00.000Z</updated>
+        <summary type="html"><![CDATA[As agentic coding assistants get more capable, 
+      Birgitta Böckeler is trying them to change existing
+      codebases. This has led to some impressive collaboration sessions, but
+      she's needed to intervene, correct and steer all the time. In her latest
+      post, she describes examples of these interventions, giving ideas of the
+      types of skills we currently need to correct the tools' missteps. 
+more…]]></summary>
+        <author>
+            <name>Martin Fowler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[German parliament votes as a Git contribution graph]]></title>
+        <id>https://news.ycombinator.com/item?id=43466509</id>
+        <link href="https://abstimmung.eu/git/2024"/>
+        <updated>2025-03-24T23:29:03.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://abstimmung.eu/git/2024
+Comments URL: https://news.ycombinator.com/item?id=43466509
+Points: 508
+# Comments: 140]]></summary>
+        <author>
+            <name>mxschll</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Qwen2.5-VL-32B: Smarter and Lighter]]></title>
+        <id>https://news.ycombinator.com/item?id=43464068</id>
+        <link href="https://qwenlm.github.io/blog/qwen2.5-vl-32b/"/>
+        <updated>2025-03-24T18:35:12.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://qwenlm.github.io/blog/qwen2.5-vl-32b/
+Comments URL: https://news.ycombinator.com/item?id=43464068
+Points: 505
+# Comments: 262]]></summary>
+        <author>
+            <name>tosh</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[I won't connect my dishwasher to your cloud]]></title>
         <id>https://news.ycombinator.com/item?id=43463200</id>
