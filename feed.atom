@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-03-26T16:23:23.781Z</updated>
+    <updated>2025-03-26T17:16:14.968Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Coordinating the Superbowl's visual fidelity with Elixir]]></title>
+        <id>https://news.ycombinator.com/item?id=43479094</id>
+        <link href="https://elixir-lang.org/blog/2025/03/25/cyanview-elixir-case/"/>
+        <updated>2025-03-26T05:19:22.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://elixir-lang.org/blog/2025/03/25/cyanview-elixir-case/
+Comments URL: https://news.ycombinator.com/item?id=43479094
+Points: 516
+# Comments: 123]]></summary>
+        <author>
+            <name>lawik</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[4o Image Generation]]></title>
         <id>https://news.ycombinator.com/item?id=43474112</id>
