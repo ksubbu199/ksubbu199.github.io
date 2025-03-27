@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=43489114",
+          "author": "babuloseo",
+          "description": "Article URL: https://www.blender.org/download/releases/4-4/\nComments URL: https://news.ycombinator.com/item?id=43489114\nPoints: 512\n# Comments: 149",
+          "link": "https://www.blender.org/download/releases/4-4/",
+          "publishedOn": "2025-03-27T00:27:03.000Z",
+          "wordCount": 4660,
+          "title": "Blender releases their Oscar winning version tool",
+          "imageUrl": "https://www.blender.org/wp-content/uploads/2025/03/splash.webp"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=43485566",
           "author": "gronky_",
           "description": "Article URL: https://openai.github.io/openai-agents-python/mcp/\nComments URL: https://news.ycombinator.com/item?id=43485566\nPoints: 518\n# Comments: 161",
@@ -1154,16 +1164,6 @@
           "wordCount": null,
           "title": "TypeScript types can run DOOM [video]",
           "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=43176314",
-          "author": "perihelions",
-          "description": "Article URL: https://arstechnica.com/gadgets/2025/02/framework-known-for-upgradable-laptops-intros-not-particularly-upgradable-desktop/\nComments URL: https://news.ycombinator.com/item?id=43176314\nPoints: 500\n# Comments: 479",
-          "link": "https://arstechnica.com/gadgets/2025/02/framework-known-for-upgradable-laptops-intros-not-particularly-upgradable-desktop/",
-          "publishedOn": "2025-02-25T19:39:21.000Z",
-          "wordCount": 2882,
-          "title": "Framework's first desktop is a strange–but unique–mini ITX gaming PC",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2025/02/FWDesktop-Mainboard-Hero-1-1152x648.jpg"
         }
       ]
     },
