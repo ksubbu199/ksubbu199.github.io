@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-03-27T15:19:39.503Z</updated>
+    <updated>2025-03-27T16:23:11.570Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -53,6 +53,16 @@ Points: 512
 # Comments: 149]]></summary>
         <author>
             <name>babuloseo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Boot.dev Beat. April 2025]]></title>
+        <id>https://blog.boot.dev/news/bootdev-beat-2025-04/</id>
+        <link href="https://blog.boot.dev/news/bootdev-beat-2025-04/"/>
+        <updated>2025-03-27T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The Lord of the Mire has been the hardest boss yet (by far), weighing it with 150,000,000 HP.]]></summary>
+        <author>
+            <name>Boot.dev Blog</name>
         </author>
     </entry>
     <entry>
@@ -1418,6 +1428,16 @@ Points: 502
 # Comments: 334]]></summary>
         <author>
             <name>hn_acker</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Boot.dev Beat. March 2025]]></title>
+        <id>https://blog.boot.dev/news/bootdev-beat-2025-03/</id>
+        <link href="https://blog.boot.dev/news/bootdev-beat-2025-03/"/>
+        <updated>2025-03-07T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Our new JavaScript course is live! ThePrimeagen’s course on building your own HTTP server from scratch is just around the corner, and the TypeScript track couldn’t be closer.]]></summary>
+        <author>
+            <name>Boot.dev Blog</name>
         </author>
     </entry>
     <entry>
