@@ -2,10 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-03-27T04:20:45.876Z</updated>
+    <updated>2025-03-27T05:17:31.229Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[OpenAI adds MCP support to Agents SDK]]></title>
+        <id>https://news.ycombinator.com/item?id=43485566</id>
+        <link href="https://openai.github.io/openai-agents-python/mcp/"/>
+        <updated>2025-03-26T18:55:29.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://openai.github.io/openai-agents-python/mcp/
+Comments URL: https://news.ycombinator.com/item?id=43485566
+Points: 518
+# Comments: 161]]></summary>
+        <author>
+            <name>gronky_</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Debian bookworm live images now reproducible]]></title>
+        <id>https://news.ycombinator.com/item?id=43484520</id>
+        <link href="https://lwn.net/Articles/1015402/"/>
+        <updated>2025-03-26T17:22:22.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://lwn.net/Articles/1015402/
+Comments URL: https://news.ycombinator.com/item?id=43484520
+Points: 501
+# Comments: 106]]></summary>
+        <author>
+            <name>bertman</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Coordinating the Superbowl's visual fidelity with Elixir]]></title>
         <id>https://news.ycombinator.com/item?id=43479094</id>

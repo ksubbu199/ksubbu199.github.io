@@ -6,6 +6,26 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=43485566",
+          "author": "gronky_",
+          "description": "Article URL: https://openai.github.io/openai-agents-python/mcp/\nComments URL: https://news.ycombinator.com/item?id=43485566\nPoints: 518\n# Comments: 161",
+          "link": "https://openai.github.io/openai-agents-python/mcp/",
+          "publishedOn": "2025-03-26T18:55:29.000Z",
+          "wordCount": 589,
+          "title": "OpenAI adds MCP support to Agents SDK",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=43484520",
+          "author": "bertman",
+          "description": "Article URL: https://lwn.net/Articles/1015402/\nComments URL: https://news.ycombinator.com/item?id=43484520\nPoints: 501\n# Comments: 106",
+          "link": "https://lwn.net/Articles/1015402/",
+          "publishedOn": "2025-03-26T17:22:22.000Z",
+          "wordCount": 170,
+          "title": "Debian bookworm live images now reproducible",
+          "imageUrl": null
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=43479094",
           "author": "lawik",
           "description": "Article URL: https://elixir-lang.org/blog/2025/03/25/cyanview-elixir-case/\nComments URL: https://news.ycombinator.com/item?id=43479094\nPoints: 516\n# Comments: 123",
