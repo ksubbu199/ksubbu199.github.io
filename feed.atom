@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-03-28T05:17:46.828Z</updated>
+    <updated>2025-03-28T06:25:19.568Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Apple needs a Snow Sequoia]]></title>
+        <id>https://news.ycombinator.com/item?id=43498984</id>
+        <link href="https://reviews.ofb.biz/safari/article/1300.html"/>
+        <updated>2025-03-27T22:32:45.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://reviews.ofb.biz/safari/article/1300.html
+Comments URL: https://news.ycombinator.com/item?id=43498984
+Points: 513
+# Comments: 349]]></summary>
+        <author>
+            <name>trbutler</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Tracing the thoughts of a large language model]]></title>
         <id>https://news.ycombinator.com/item?id=43495617</id>
@@ -2023,20 +2036,6 @@ Points: 500
         <updated>2025-02-27T09:05:42.000Z</updated>
         <author>
             <name>Think School</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: I got laid off from Meta and created a minor hit on Steam]]></title>
-        <id>https://news.ycombinator.com/item?id=43186406</id>
-        <link href="https://news.ycombinator.com/item?id=43186406"/>
-        <updated>2025-02-26T18:19:05.000Z</updated>
-        <summary type="html"><![CDATA[I was at FB/Meta from late 2013 to early 2023, mostly working in the compiler/runtime spaces. I got hit in the spring 2023 layoff wave. I immediately started making games in my newfound free time (a lifelong interest, and I even worked in AA(A?) back ca. ~2000), and in October 2023 I stumbled upon the idea of a roguelike pachinko/plinko game inspired by Luck Be A Landlord. Things snowballed quickly, I started talking to publishers, then worked like crazy through all of 2024, almost the hardest I've ever worked in my career, and launched the game in December 2024. It's sold ~200,000 units in its first 10 weeks on Steam. So it's no Balatro, but I'd still say it did very well :) AMA?
-(my game is Ballionaire: https://store.steampowered.com/news/app/2667120/view/5264614...)
-Comments URL: https://news.ycombinator.com/item?id=43186406
-Points: 564
-# Comments: 172]]></summary>
-        <author>
-            <name>newobj</name>
         </author>
     </entry>
 </feed>
