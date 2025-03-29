@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-03-29T08:20:55.610Z</updated>
+    <updated>2025-03-29T09:17:15.464Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -17,6 +17,19 @@ Points: 504
 # Comments: 599]]></summary>
         <author>
             <name>rvz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[We hacked Gemini's Python sandbox and leaked its source code (at least some)]]></title>
+        <id>https://news.ycombinator.com/item?id=43508418</id>
+        <link href="https://www.landh.tech/blog/20250327-we-hacked-gemini-source-code/"/>
+        <updated>2025-03-28T18:12:58.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.landh.tech/blog/20250327-we-hacked-gemini-source-code/
+Comments URL: https://news.ycombinator.com/item?id=43508418
+Points: 502
+# Comments: 107]]></summary>
+        <author>
+            <name>topsycatt</name>
         </author>
     </entry>
     <entry>
