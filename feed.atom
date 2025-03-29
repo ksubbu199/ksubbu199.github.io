@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-03-29T15:17:51.750Z</updated>
+    <updated>2025-03-29T16:19:50.037Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -43,6 +43,19 @@ Points: 500
 # Comments: 401]]></summary>
         <author>
             <name>bookofjoe</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to write blog posts that developers read]]></title>
+        <id>https://news.ycombinator.com/item?id=43503872</id>
+        <link href="https://refactoringenglish.com/chapters/write-blog-posts-developers-read/"/>
+        <updated>2025-03-28T11:01:19.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://refactoringenglish.com/chapters/write-blog-posts-developers-read/
+Comments URL: https://news.ycombinator.com/item?id=43503872
+Points: 507
+# Comments: 147]]></summary>
+        <author>
+            <name>rbanffy</name>
         </author>
     </entry>
     <entry>
@@ -1991,19 +2004,6 @@ Points: 539
 # Comments: 307]]></summary>
         <author>
             <name>thombles</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[macOS Tips and Tricks (2022)]]></title>
-        <id>https://news.ycombinator.com/item?id=43201417</id>
-        <link href="https://saurabhs.org/macos-tips"/>
-        <updated>2025-02-28T03:34:14.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://saurabhs.org/macos-tips
-Comments URL: https://news.ycombinator.com/item?id=43201417
-Points: 527
-# Comments: 267]]></summary>
-        <author>
-            <name>pavel_lishin</name>
         </author>
     </entry>
 </feed>
