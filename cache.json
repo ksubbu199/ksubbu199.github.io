@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=43509923",
+          "author": "rvz",
+          "description": "Article URL: https://twitter.com/elonmusk/status/1905731750275510312\nComments URL: https://news.ycombinator.com/item?id=43509923\nPoints: 504\n# Comments: 599",
+          "link": "https://twitter.com/elonmusk/status/1905731750275510312",
+          "publishedOn": "2025-03-28T21:23:42.000Z",
+          "wordCount": null,
+          "title": "xAI has acquired X, xAI now valued at $80B",
+          "imageUrl": null
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=43504413",
           "author": "bookofjoe",
           "description": "Article URL: https://cardinalnews.org/2025/03/28/i-drove-300-miles-in-rural-virginia-then-asked-police-to-send-me-their-public-surveillance-footage-of-my-car-heres-what-i-learned/\nComments URL: https://news.ycombinator.com/item?id=43504413\nPoints: 500\n# Comments: 401",
@@ -1204,16 +1214,6 @@
           "wordCount": 1910,
           "title": "EA Open Sources Command and Conquer: Red Alert",
           "imageUrl": "https://opengraph.githubassets.com/f782106567ae1c8ffee375f84b72aa1a6944d694dda302e909cb83e47e6e19d9/electronicarts/CnC_Red_Alert"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=43196207",
-          "author": "layer8",
-          "description": "Article URL: https://nroottag.github.io/\nComments URL: https://news.ycombinator.com/item?id=43196207\nPoints: 500\n# Comments: 81",
-          "link": "https://nroottag.github.io/",
-          "publishedOn": "2025-02-27T17:03:39.000Z",
-          "wordCount": 867,
-          "title": "Turning a Bluetooth device into an Apple AirTag without root privileges",
-          "imageUrl": "static/images/main.jpg"
         }
       ]
     },

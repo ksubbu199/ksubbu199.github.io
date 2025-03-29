@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-03-29T04:22:16.806Z</updated>
+    <updated>2025-03-29T05:16:10.100Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[xAI has acquired X, xAI now valued at $80B]]></title>
+        <id>https://news.ycombinator.com/item?id=43509923</id>
+        <link href="https://twitter.com/elonmusk/status/1905731750275510312"/>
+        <updated>2025-03-28T21:23:42.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://twitter.com/elonmusk/status/1905731750275510312
+Comments URL: https://news.ycombinator.com/item?id=43509923
+Points: 504
+# Comments: 599]]></summary>
+        <author>
+            <name>rvz</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[I asked police to send me their public surveillance footage of my car]]></title>
         <id>https://news.ycombinator.com/item?id=43504413</id>
@@ -2030,19 +2043,6 @@ Points: 555
 # Comments: 134]]></summary>
         <author>
             <name>Klaster_1</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Turning a Bluetooth device into an Apple AirTag without root privileges]]></title>
-        <id>https://news.ycombinator.com/item?id=43196207</id>
-        <link href="https://nroottag.github.io/"/>
-        <updated>2025-02-27T17:03:39.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://nroottag.github.io/
-Comments URL: https://news.ycombinator.com/item?id=43196207
-Points: 500
-# Comments: 81]]></summary>
-        <author>
-            <name>layer8</name>
         </author>
     </entry>
 </feed>
