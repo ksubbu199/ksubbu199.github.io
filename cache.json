@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=43518866",
+          "author": "gniting",
+          "description": "Article URL: https://peabee.substack.com/p/everyone-knows-what-apps-you-use\nComments URL: https://news.ycombinator.com/item?id=43518866\nPoints: 546\n# Comments: 239",
+          "link": "https://peabee.substack.com/p/everyone-knows-what-apps-you-use",
+          "publishedOn": "2025-03-29T21:26:32.000Z",
+          "wordCount": null,
+          "title": "Everyone knows all the apps on your phone",
+          "imageUrl": null
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=43509923",
           "author": "rvz",
           "description": "Article URL: https://twitter.com/elonmusk/status/1905731750275510312\nComments URL: https://news.ycombinator.com/item?id=43509923\nPoints: 504\n# Comments: 599",
@@ -1124,26 +1134,6 @@
           "wordCount": 4290,
           "title": "Inheriting is becoming nearly as important as working",
           "imageUrl": "https://www.economist.com/content-assets/images/20250301_LDD002.jpg"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=43210858",
-          "author": "xyzeva",
-          "description": "Article URL: https://kibty.town/blog/todesktop/\nComments URL: https://news.ycombinator.com/item?id=43210858\nPoints: 521\n# Comments: 121",
-          "link": "https://kibty.town/blog/todesktop/",
-          "publishedOn": "2025-02-28T21:05:35.000Z",
-          "wordCount": 778,
-          "title": "How to gain code execution on hundreds of millions of people and popular apps",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=43210536",
-          "author": "SlyHive",
-          "description": "Article URL: https://azsh.it\nComments URL: https://news.ycombinator.com/item?id=43210536\nPoints: 509\n# Comments: 269",
-          "link": "https://azsh.it/",
-          "publishedOn": "2025-02-28T20:51:34.000Z",
-          "wordCount": null,
-          "title": "400 reasons to not use Microsoft Azure",
-          "imageUrl": null
         }
       ]
     },

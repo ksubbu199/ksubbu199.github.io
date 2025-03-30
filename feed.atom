@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-03-30T08:20:37.934Z</updated>
+    <updated>2025-03-30T09:16:51.460Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -13,6 +13,19 @@
         <updated>2025-03-30T08:03:01.000Z</updated>
         <author>
             <name>Hussein Nasser</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Everyone knows all the apps on your phone]]></title>
+        <id>https://news.ycombinator.com/item?id=43518866</id>
+        <link href="https://peabee.substack.com/p/everyone-knows-what-apps-you-use"/>
+        <updated>2025-03-29T21:26:32.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://peabee.substack.com/p/everyone-knows-what-apps-you-use
+Comments URL: https://news.ycombinator.com/item?id=43518866
+Points: 546
+# Comments: 239]]></summary>
+        <author>
+            <name>gniting</name>
         </author>
     </entry>
     <entry>
@@ -1935,32 +1948,6 @@ Points: 505
 # Comments: 676]]></summary>
         <author>
             <name>pseudolus</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to gain code execution on hundreds of millions of people and popular apps]]></title>
-        <id>https://news.ycombinator.com/item?id=43210858</id>
-        <link href="https://kibty.town/blog/todesktop/"/>
-        <updated>2025-02-28T21:05:35.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://kibty.town/blog/todesktop/
-Comments URL: https://news.ycombinator.com/item?id=43210858
-Points: 521
-# Comments: 121]]></summary>
-        <author>
-            <name>xyzeva</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[400 reasons to not use Microsoft Azure]]></title>
-        <id>https://news.ycombinator.com/item?id=43210536</id>
-        <link href="https://azsh.it/"/>
-        <updated>2025-02-28T20:51:34.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://azsh.it
-Comments URL: https://news.ycombinator.com/item?id=43210536
-Points: 509
-# Comments: 269]]></summary>
-        <author>
-            <name>SlyHive</name>
         </author>
     </entry>
 </feed>
