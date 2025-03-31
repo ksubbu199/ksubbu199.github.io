@@ -26,6 +26,16 @@
           "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/02/GettyImages-73534290-1152x648.jpg"
         },
         {
+          "id": "https://news.ycombinator.com/item?id=43524937",
+          "author": "elvis70",
+          "description": "Article URL: https://github.com/winblues/blue95\nComments URL: https://news.ycombinator.com/item?id=43524937\nPoints: 505\n# Comments: 258",
+          "link": "https://github.com/winblues/blue95",
+          "publishedOn": "2025-03-30T15:30:22.000Z",
+          "wordCount": 2175,
+          "title": "Blue95: a desktop for your childhood home's computer room",
+          "imageUrl": "https://repository-images.githubusercontent.com/903167385/baa29cc3-468a-43a2-9b38-bdd8ee8a9e88"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=43522966",
           "author": "Jyaif",
           "description": "Article URL: https://hilariusbookbinder.substack.com/p/the-average-college-student-today\nComments URL: https://news.ycombinator.com/item?id=43522966\nPoints: 550\n# Comments: 666",
@@ -1124,16 +1134,6 @@
           "wordCount": 70390,
           "title": "Firefly ‘Blue Ghost’ lunar lander touches down on the moon",
           "imageUrl": "https://media.cnn.com/api/v1/images/stellar/prod/glbr-jix0aalh-d.jpg?c=16x9&q=w_800,c_fill"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=43224350",
-          "author": "erentz",
-          "description": "Article URL: https://18f.org/\nComments URL: https://news.ycombinator.com/item?id=43224350\nPoints: 835\n# Comments: 391",
-          "link": "https://18f.org/",
-          "publishedOn": "2025-03-01T22:22:12.000Z",
-          "wordCount": 552,
-          "title": "A Letter to the American People",
-          "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/57/18f-og.png"
         }
       ]
     },
@@ -1242,6 +1242,26 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKZozRVHRYsYHGEyNKuhhdA",
       "siteUrl": "https://www.youtube.com/channel/UCKZozRVHRYsYHGEyNKuhhdA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=UlJpevKpIoE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=UlJpevKpIoE",
+          "publishedOn": "2025-03-31T10:16:38.000Z",
+          "wordCount": null,
+          "title": "Location can Boost your Business?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=lBRFzr8BS8E",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=lBRFzr8BS8E",
+          "publishedOn": "2025-03-31T10:16:17.000Z",
+          "wordCount": null,
+          "title": "Tool to help you scale?",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=AFs008aYdSs",
           "author": null,
