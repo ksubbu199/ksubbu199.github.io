@@ -2,10 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-04-01T21:16:39.638Z</updated>
+    <updated>2025-04-01T22:17:00.880Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[I've been kidnapped by Robert Caro]]></title>
+        <id>https://martinfowler.com/articles/2025-caro.html</id>
+        <link href="https://martinfowler.com/articles/2025-caro.html"/>
+        <updated>2025-04-01T21:22:00.000Z</updated>
+        <summary type="html"><![CDATA[I've always enjoyed reading, and for most of my life I've particularly
+      enjoyed reading history. I've head many great things about Robert
+      Caro's books, but was deterred by their size. Finally, with his
+      first book newly available as an ebook, I decided to dip my toes in. The
+      books are too good for me to escape.
+more…]]></summary>
+        <author>
+            <name>Martin Fowler</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Electron band structure in germanium, my ass]]></title>
         <id>https://news.ycombinator.com/item?id=43545917</id>
