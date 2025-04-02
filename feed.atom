@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-04-02T14:17:34.448Z</updated>
+    <updated>2025-04-02T15:19:34.197Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -58,6 +58,19 @@ Points: 515
 # Comments: 254]]></summary>
         <author>
             <name>tantalor</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stop syncing everything]]></title>
+        <id>https://news.ycombinator.com/item?id=43537272</id>
+        <link href="https://sqlsync.dev/posts/stop-syncing-everything/"/>
+        <updated>2025-03-31T17:07:44.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://sqlsync.dev/posts/stop-syncing-everything/
+Comments URL: https://news.ycombinator.com/item?id=43537272
+Points: 538
+# Comments: 84]]></summary>
+        <author>
+            <name>neilk</name>
         </author>
     </entry>
     <entry>
