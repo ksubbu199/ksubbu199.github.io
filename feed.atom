@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-04-02T19:14:41.896Z</updated>
+    <updated>2025-04-02T20:19:35.062Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Tell HN: Announcing tomhow as a public moderator]]></title>
+        <id>https://news.ycombinator.com/item?id=43558671</id>
+        <link href="https://news.ycombinator.com/item?id=43558671"/>
+        <updated>2025-04-02T16:49:56.000Z</updated>
+        <summary type="html"><![CDATA[Hi all,
+Tom Howard is going public as HN moderator today. He has been doing HN moderation work for years already and knows the site and its practices inside-out, so the only new thing you'll see is mod comments from Tom showing up in the threads the way mine do. I'm not going anywhere, so you'll have two of us to put up with going forward :)
+I've known Tom since he was sctb's and my batchmate back in YC W09. Many of you know him as the kind and thoughtful community member tomhoward (https://news.ycombinator.com/user?id=tomhoward). He's still kind and thoughtful, but he's going to post as tomhow from now on (https://news.ycombinator.com/user?id=tomhow), the same way I switched to dang when I went through this rite of passage years ago.
+Below is a bit from Tom about himself. Please join me i…]]></summary>
+        <author>
+            <name>dang</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[I've been kidnapped by Robert Caro]]></title>
         <id>https://martinfowler.com/articles/2025-caro.html</id>
