@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-04-03T02:58:27.340Z</updated>
+    <updated>2025-04-03T03:37:40.521Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -2041,21 +2041,6 @@ Points: 509
 # Comments: 157]]></summary>
         <author>
             <name>wicket</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: Bayleaf – Building a low-profile wireless split keyboard]]></title>
-        <id>https://news.ycombinator.com/item?id=43255529</id>
-        <link href="https://www.graz.io/articles/bayleaf-wireless-keyboard"/>
-        <updated>2025-03-04T15:00:51.000Z</updated>
-        <summary type="html"><![CDATA[Hey HN,
-I built a wireless, split, ultra-low profile keyboard from scratch called Bayleaf. As a beginner I learned all things electronics, PCB-building, designing for manufacturing, and many other hardware-related skills to put this together.
-This case study dives into the build process and of course the final result, hope you enjoy!
-Comments URL: https://news.ycombinator.com/item?id=43255529
-Points: 530
-# Comments: 164]]></summary>
-        <author>
-            <name>sgraz</name>
         </author>
     </entry>
 </feed>
