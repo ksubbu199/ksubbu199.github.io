@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-04-03T15:17:18.460Z</updated>
+    <updated>2025-04-03T16:21:52.115Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -32,6 +32,19 @@ Points: 546
 # Comments: 912]]></summary>
         <author>
             <name>belter</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pico.sh – SSH powered services for developers]]></title>
+        <id>https://news.ycombinator.com/item?id=43560899</id>
+        <link href="https://pico.sh/"/>
+        <updated>2025-04-02T20:02:09.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://pico.sh/
+Comments URL: https://news.ycombinator.com/item?id=43560899
+Points: 515
+# Comments: 108]]></summary>
+        <author>
+            <name>TheTaytay</name>
         </author>
     </entry>
     <entry>
