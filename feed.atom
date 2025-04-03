@@ -2,10 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-04-03T13:27:03.741Z</updated>
+    <updated>2025-04-03T14:17:08.607Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Social Media Engagement in Early 2025]]></title>
+        <id>https://martinfowler.com/articles/2025-social-traffic.html</id>
+        <link href="https://martinfowler.com/articles/2025-social-traffic.html"/>
+        <updated>2025-04-03T13:41:00.000Z</updated>
+        <summary type="html"><![CDATA[A few years ago, whenever I published a new article here, I would just
+      announce it on Twitter, but since the Muskover its importance has
+      declined, and now I post updates to several services. To compare
+      engagement on these services, I've looked at reposts, likes, and replies
+      to two dozen of my recent posts.
+more…]]></summary>
+        <author>
+            <name>Martin Fowler</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[US Administration announces 34% tariffs on China, 20% on EU]]></title>
         <id>https://news.ycombinator.com/item?id=43561253</id>
@@ -2054,19 +2069,6 @@ Points: 501
 # Comments: 312]]></summary>
         <author>
             <name>m463</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mox – modern, secure, all-in-one email server]]></title>
-        <id>https://news.ycombinator.com/item?id=43261729</id>
-        <link href="https://www.xmox.nl/"/>
-        <updated>2025-03-05T01:58:11.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.xmox.nl/
-Comments URL: https://news.ycombinator.com/item?id=43261729
-Points: 500
-# Comments: 278]]></summary>
-        <author>
-            <name>yamrzou</name>
         </author>
     </entry>
 </feed>

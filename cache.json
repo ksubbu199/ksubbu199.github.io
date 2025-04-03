@@ -1164,16 +1164,6 @@
           "wordCount": 15272,
           "title": "Brother accused of locking down third-party printer ink cartridges",
           "imageUrl": "https://cdn.mos.cms.futurecdn.net/UYyMKvs4i434HgXSxP6QZL-1200-80.jpg"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=43261729",
-          "author": "yamrzou",
-          "description": "Article URL: https://www.xmox.nl/\nComments URL: https://news.ycombinator.com/item?id=43261729\nPoints: 500\n# Comments: 278",
-          "link": "https://www.xmox.nl/",
-          "publishedOn": "2025-03-05T01:58:11.000Z",
-          "wordCount": 1040,
-          "title": "Mox – modern, secure, all-in-one email server",
-          "imageUrl": null
         }
       ]
     },
@@ -1242,6 +1232,16 @@
       "feedUrl": "https://martinfowler.com/feed.atom",
       "siteUrl": "https://martinfowler.com/feed.atom",
       "articles": [
+        {
+          "id": "https://martinfowler.com/articles/2025-social-traffic.html",
+          "author": null,
+          "description": "A few years ago, whenever I published a new article here, I would just\n      announce it on Twitter, but since the Muskover its importance has\n      declined, and now I post updates to several services. To compare\n      engagement on these services, I've looked at reposts, likes, and replies\n      to two dozen of my recent posts.\nmore…",
+          "link": "https://martinfowler.com/articles/2025-social-traffic.html",
+          "publishedOn": "2025-04-03T13:41:00.000Z",
+          "wordCount": 770,
+          "title": "Social Media Engagement in Early 2025",
+          "imageUrl": "https://martinfowler.com/articles/2025-social-traffic/card.png"
+        },
         {
           "id": "https://martinfowler.com/articles/2025-caro.html",
           "author": null,
