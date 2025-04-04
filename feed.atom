@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-04-04T13:26:23.611Z</updated>
+    <updated>2025-04-04T14:17:01.390Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -283,6 +283,19 @@ Points: 521
         <updated>2025-03-31T09:46:09.000Z</updated>
         <author>
             <name>Think School</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The <select> element can now be customized with CSS]]></title>
+        <id>https://news.ycombinator.com/item?id=43532830</id>
+        <link href="https://developer.chrome.com/blog/a-customizable-select"/>
+        <updated>2025-03-31T09:11:47.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://developer.chrome.com/blog/a-customizable-select
+Comments URL: https://news.ycombinator.com/item?id=43532830
+Points: 500
+# Comments: 187]]></summary>
+        <author>
+            <name>tosh</name>
         </author>
     </entry>
     <entry>
