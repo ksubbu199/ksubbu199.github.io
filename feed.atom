@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-04-04T01:22:07.893Z</updated>
+    <updated>2025-04-04T02:58:32.350Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[An image of an archeologist adventurer who wears a hat and uses a bullwhip]]></title>
+        <id>https://news.ycombinator.com/item?id=43573156</id>
+        <link href="https://theaiunderwriter.substack.com/p/an-image-of-an-archeologist-adventurer"/>
+        <updated>2025-04-03T17:55:20.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://theaiunderwriter.substack.com/p/an-image-of-an-archeologist-adventurer
+Comments URL: https://news.ycombinator.com/item?id=43573156
+Points: 523
+# Comments: 369]]></summary>
+        <author>
+            <name>participant3</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AnimeJs v4 Is Here]]></title>
         <id>https://news.ycombinator.com/item?id=43570533</id>
@@ -2069,32 +2082,6 @@ Points: 507
 # Comments: 178]]></summary>
         <author>
             <name>latexr</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MacBook Air M4]]></title>
-        <id>https://news.ycombinator.com/item?id=43266537</id>
-        <link href="https://www.apple.com/macbook-air/"/>
-        <updated>2025-03-05T14:06:54.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.apple.com/macbook-air/
-Comments URL: https://news.ycombinator.com/item?id=43266537
-Points: 507
-# Comments: 602]]></summary>
-        <author>
-            <name>tosh</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Apple M3 Ultra]]></title>
-        <id>https://news.ycombinator.com/item?id=43266453</id>
-        <link href="https://www.apple.com/newsroom/2025/03/apple-reveals-m3-ultra-taking-apple-silicon-to-a-new-extreme/"/>
-        <updated>2025-03-05T13:59:50.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.apple.com/newsroom/2025/03/apple-reveals-m3-ultra-taking-apple-silicon-to-a-new-extreme/
-Comments URL: https://news.ycombinator.com/item?id=43266453
-Points: 543
-# Comments: 554]]></summary>
-        <author>
-            <name>ksec</name>
         </author>
     </entry>
 </feed>
