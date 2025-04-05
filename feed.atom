@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-04-04T23:16:44.641Z</updated>
+    <updated>2025-04-05T01:21:07.687Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -56,6 +56,19 @@ Points: 503
 # Comments: 322]]></summary>
         <author>
             <name>Tenoke</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Curl-impersonate: Special build of curl that can impersonate the major browsers]]></title>
+        <id>https://news.ycombinator.com/item?id=43571099</id>
+        <link href="https://github.com/lwthiker/curl-impersonate"/>
+        <updated>2025-04-03T15:24:49.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://github.com/lwthiker/curl-impersonate
+Comments URL: https://news.ycombinator.com/item?id=43571099
+Points: 503
+# Comments: 140]]></summary>
+        <author>
+            <name>mmh0000</name>
         </author>
     </entry>
     <entry>
@@ -2082,19 +2095,6 @@ Points: 500
 # Comments: 229]]></summary>
         <author>
             <name>classichasclass</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Age and cognitive skills: Use it or lose it]]></title>
-        <id>https://news.ycombinator.com/item?id=43279494</id>
-        <link href="https://www.science.org/doi/full/10.1126/sciadv.ads1560?af=R"/>
-        <updated>2025-03-06T12:33:27.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.science.org/doi/full/10.1126/sciadv.ads1560?af=R
-Comments URL: https://news.ycombinator.com/item?id=43279494
-Points: 508
-# Comments: 288]]></summary>
-        <author>
-            <name>nabla9</name>
         </author>
     </entry>
 </feed>
