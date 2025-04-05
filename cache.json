@@ -1177,26 +1177,6 @@
           "wordCount": 846,
           "title": "The Boot.dev Beat. April 2025",
           "imageUrl": "https://blog.boot.dev/img/800/bootscrystal.png.webp"
-        },
-        {
-          "id": "https://blog.boot.dev/news/bootdev-beat-2025-03/",
-          "author": null,
-          "description": "Our new JavaScript course is live! ThePrimeagen’s course on building your own HTTP server from scratch is just around the corner, and the TypeScript track couldn’t be closer.",
-          "link": "https://blog.boot.dev/news/bootdev-beat-2025-03/",
-          "publishedOn": "2025-03-07T00:00:00.000Z",
-          "wordCount": 961,
-          "title": "The Boot.dev Beat. March 2025",
-          "imageUrl": "https://blog.boot.dev/img/800/bootsmarch.png.webp"
-        },
-        {
-          "id": "https://blog.boot.dev/news/bootdev-beat-2025-02/",
-          "author": null,
-          "description": "Our new JavaScript course is live! ThePrimeagen’s course on building your own HTTP server from scratch is just around the corner, and the TypeScript track couldn’t be closer.",
-          "link": "https://blog.boot.dev/news/bootdev-beat-2025-02/",
-          "publishedOn": "2025-03-07T00:00:00.000Z",
-          "wordCount": 961,
-          "title": "The Boot.dev Beat. March 2025",
-          "imageUrl": "https://blog.boot.dev/img/800/bootsmarch.png.webp"
         }
       ]
     },
@@ -1204,18 +1184,7 @@
       "title": "Julia Evans",
       "feedUrl": "https://jvns.ca/atom.xml",
       "siteUrl": "http://jvns.ca/atom.xml",
-      "articles": [
-        {
-          "id": "https://jvns.ca/blog/2025/03/07/escape-code-standards/",
-          "author": null,
-          "description": "Hello! Today I want to talk about ANSI escape codes.\nFor a long time I was vaguely aware of ANSI escape codes (“that’s how you make\ntext red in the terminal and stuff”) but I had no real understanding of where they were\nsupposed to be defined or whether or not there were standards for them. I just\nhad a kind of vague “there be dragons” feeling around them. While learning\nabout the terminal this year, I’ve learned that:\nANSI escape codes are responsible for a lot of usability improvements\nin the terminal (did you know there’s a way to copy to your system clipboard\nwhen SSHed into a remote machine?? It’s an escape code called OSC 52!)\nThey aren’t completely standardized, and because of that they don’t always\nwork reliably. And because they’re also invisible, it’s extremely\nfrustrating to tro…",
-          "link": "https://jvns.ca/blog/2025/03/07/escape-code-standards/",
-          "publishedOn": "2025-03-07T00:00:00.000Z",
-          "wordCount": 1703,
-          "title": "Standards for ANSI escape codes",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Martin Fowler",

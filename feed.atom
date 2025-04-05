@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-04-05T11:13:32.773Z</updated>
+    <updated>2025-04-05T12:32:08.190Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -2015,47 +2015,6 @@ Points: 502
 # Comments: 334]]></summary>
         <author>
             <name>hn_acker</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Boot.dev Beat. March 2025]]></title>
-        <id>https://blog.boot.dev/news/bootdev-beat-2025-03/</id>
-        <link href="https://blog.boot.dev/news/bootdev-beat-2025-03/"/>
-        <updated>2025-03-07T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Our new JavaScript course is live! ThePrimeagen’s course on building your own HTTP server from scratch is just around the corner, and the TypeScript track couldn’t be closer.]]></summary>
-        <author>
-            <name>Boot.dev Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Boot.dev Beat. March 2025]]></title>
-        <id>https://blog.boot.dev/news/bootdev-beat-2025-02/</id>
-        <link href="https://blog.boot.dev/news/bootdev-beat-2025-02/"/>
-        <updated>2025-03-07T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Our new JavaScript course is live! ThePrimeagen’s course on building your own HTTP server from scratch is just around the corner, and the TypeScript track couldn’t be closer.]]></summary>
-        <author>
-            <name>Boot.dev Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Standards for ANSI escape codes]]></title>
-        <id>https://jvns.ca/blog/2025/03/07/escape-code-standards/</id>
-        <link href="https://jvns.ca/blog/2025/03/07/escape-code-standards/"/>
-        <updated>2025-03-07T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Hello! Today I want to talk about ANSI escape codes.
-For a long time I was vaguely aware of ANSI escape codes (“that’s how you make
-text red in the terminal and stuff”) but I had no real understanding of where they were
-supposed to be defined or whether or not there were standards for them. I just
-had a kind of vague “there be dragons” feeling around them. While learning
-about the terminal this year, I’ve learned that:
-ANSI escape codes are responsible for a lot of usability improvements
-in the terminal (did you know there’s a way to copy to your system clipboard
-when SSHed into a remote machine?? It’s an escape code called OSC 52!)
-They aren’t completely standardized, and because of that they don’t always
-work reliably. And because they’re also invisible, it’s extremely
-frustrating to tro…]]></summary>
-        <author>
-            <name>Julia Evans</name>
         </author>
     </entry>
 </feed>
