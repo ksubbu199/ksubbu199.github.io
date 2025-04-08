@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-04-07T23:17:56.983Z</updated>
+    <updated>2025-04-08T01:22:34.125Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[A startup doesn't need to be a unicorn]]></title>
+        <id>https://news.ycombinator.com/item?id=43609242</id>
+        <link href="https://mattgiustwilliamson.substack.com/p/your-startup-doesnt-need-to-be-a"/>
+        <updated>2025-04-07T08:42:43.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://mattgiustwilliamson.substack.com/p/your-startup-doesnt-need-to-be-a
+Comments URL: https://news.ycombinator.com/item?id=43609242
+Points: 508
+# Comments: 304]]></summary>
+        <author>
+            <name>MattSWilliamson</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Rsync replaced with openrsync on macOS Sequoia]]></title>
         <id>https://news.ycombinator.com/item?id=43605003</id>
