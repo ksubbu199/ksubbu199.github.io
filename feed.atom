@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-04-08T01:22:34.125Z</updated>
+    <updated>2025-04-08T02:59:10.370Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Middle-aged man trading cards go viral in rural Japan town]]></title>
+        <id>https://news.ycombinator.com/item?id=43615912</id>
+        <link href="https://www.tokyoweekender.com/entertainment/middle-aged-man-trading-cards-go-viral-in-japan/"/>
+        <updated>2025-04-07T21:03:16.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.tokyoweekender.com/entertainment/middle-aged-man-trading-cards-go-viral-in-japan/
+Comments URL: https://news.ycombinator.com/item?id=43615912
+Points: 605
+# Comments: 110]]></summary>
+        <author>
+            <name>PaulHoule</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[A startup doesn't need to be a unicorn]]></title>
         <id>https://news.ycombinator.com/item?id=43609242</id>
@@ -1933,19 +1946,6 @@ Points: 500
 # Comments: 167]]></summary>
         <author>
             <name>amarcheschi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[It is as if you were on your phone]]></title>
-        <id>https://news.ycombinator.com/item?id=43308994</id>
-        <link href="https://pippinbarr.com/it-is-as-if-you-were-on-your-phone/info/"/>
-        <updated>2025-03-09T13:40:35.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://pippinbarr.com/it-is-as-if-you-were-on-your-phone/info/
-Comments URL: https://news.ycombinator.com/item?id=43308994
-Points: 504
-# Comments: 79]]></summary>
-        <author>
-            <name>bookofjoe</name>
         </author>
     </entry>
 </feed>
