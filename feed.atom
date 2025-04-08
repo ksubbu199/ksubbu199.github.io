@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-04-08T21:16:59.260Z</updated>
+    <updated>2025-04-08T22:17:12.164Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Apache ECharts]]></title>
+        <id>https://news.ycombinator.com/item?id=43624220</id>
+        <link href="https://echarts.apache.org/en/index.html"/>
+        <updated>2025-04-08T17:23:29.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://echarts.apache.org/en/index.html
+Comments URL: https://news.ycombinator.com/item?id=43624220
+Points: 559
+# Comments: 109]]></summary>
+        <author>
+            <name>tomtomistaken</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Thank HN: The puzzle game I posted here 6 weeks ago got licensed by The Atlantic]]></title>
         <id>https://news.ycombinator.com/item?id=43622719</id>
@@ -1933,19 +1946,6 @@ Points: 505
 # Comments: 127]]></summary>
         <author>
             <name>ExAr</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Go European: Discover European products and services]]></title>
-        <id>https://news.ycombinator.com/item?id=43318798</id>
-        <link href="https://www.goeuropean.org/"/>
-        <updated>2025-03-10T10:15:47.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.goeuropean.org/
-Comments URL: https://news.ycombinator.com/item?id=43318798
-Points: 526
-# Comments: 265]]></summary>
-        <author>
-            <name>doener</name>
         </author>
     </entry>
 </feed>

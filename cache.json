@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=43624220",
+          "author": "tomtomistaken",
+          "description": "Article URL: https://echarts.apache.org/en/index.html\nComments URL: https://news.ycombinator.com/item?id=43624220\nPoints: 559\n# Comments: 109",
+          "link": "https://echarts.apache.org/en/index.html",
+          "publishedOn": "2025-04-08T17:23:29.000Z",
+          "wordCount": 462,
+          "title": "Apache ECharts",
+          "imageUrl": null
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=43622719",
           "author": "brgross",
           "description": "Article URL: https://www.theatlantic.com/games/bracket-city/\nComments URL: https://news.ycombinator.com/item?id=43622719\nPoints: 534\n# Comments: 113",
@@ -1174,16 +1184,6 @@
           "wordCount": 10234,
           "title": "Canon EF and RF Lenses – All Autofocus Motors",
           "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=43318798",
-          "author": "doener",
-          "description": "Article URL: https://www.goeuropean.org/\nComments URL: https://news.ycombinator.com/item?id=43318798\nPoints: 526\n# Comments: 265",
-          "link": "https://www.goeuropean.org/",
-          "publishedOn": "2025-03-10T10:15:47.000Z",
-          "wordCount": 5093,
-          "title": "Go European: Discover European products and services",
-          "imageUrl": "https://assets.softr-files.com/applications/4cdaff72-2516-4459-aa46-882dc4e846d6/assets/63588e9f-f703-4b50-933d-c5d9b29edde6.png"
         }
       ]
     },
