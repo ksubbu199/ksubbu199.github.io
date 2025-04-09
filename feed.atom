@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-04-09T06:26:46.872Z</updated>
+    <updated>2025-04-09T07:18:00.541Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -43,6 +43,19 @@ Points: 511
 # Comments: 590]]></summary>
         <author>
             <name>jcartw</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tailscale has raised $160M]]></title>
+        <id>https://news.ycombinator.com/item?id=43620141</id>
+        <link href="https://tailscale.com/blog/series-c"/>
+        <updated>2025-04-08T10:36:07.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://tailscale.com/blog/series-c
+Comments URL: https://news.ycombinator.com/item?id=43620141
+Points: 511
+# Comments: 225]]></summary>
+        <author>
+            <name>louis-paul</name>
         </author>
     </entry>
     <entry>
