@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-04-09T05:17:38.602Z</updated>
+    <updated>2025-04-09T06:26:46.872Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -30,6 +30,19 @@ Points: 534
 # Comments: 113]]></summary>
         <author>
             <name>brgross</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Brazil's government-run payments system has become dominant]]></title>
+        <id>https://news.ycombinator.com/item?id=43620279</id>
+        <link href="https://www.economist.com/the-americas/2025/04/03/brazils-government-run-payments-system-has-become-dominant"/>
+        <updated>2025-04-08T10:59:26.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.economist.com/the-americas/2025/04/03/brazils-government-run-payments-system-has-become-dominant
+Comments URL: https://news.ycombinator.com/item?id=43620279
+Points: 511
+# Comments: 590]]></summary>
+        <author>
+            <name>jcartw</name>
         </author>
     </entry>
     <entry>
@@ -1911,19 +1924,6 @@ Points: 512
 # Comments: 254]]></summary>
         <author>
             <name>mklyons</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[uBlock Origin is no longer available on the Chrome Store]]></title>
-        <id>https://news.ycombinator.com/item?id=43322922</id>
-        <link href="https://chromewebstore.google.com/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm?hl=en"/>
-        <updated>2025-03-10T17:30:34.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://chromewebstore.google.com/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm?hl=en
-Comments URL: https://news.ycombinator.com/item?id=43322922
-Points: 656
-# Comments: 351]]></summary>
-        <author>
-            <name>non-</name>
         </author>
     </entry>
 </feed>
