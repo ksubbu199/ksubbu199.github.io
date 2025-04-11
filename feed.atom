@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-04-11T19:14:37.078Z</updated>
+    <updated>2025-04-11T20:19:32.197Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -1918,40 +1918,6 @@ Points: 511
 # Comments: 504]]></summary>
         <author>
             <name>jonbaer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cursor told me I should learn coding instead of asking it to generate it]]></title>
-        <id>https://news.ycombinator.com/item?id=43351137</id>
-        <link href="https://forum.cursor.com/t/cursor-told-me-i-should-learn-coding-instead-of-asking-it-to-generate-it-limit-of-800-locs/61132"/>
-        <updated>2025-03-13T07:59:55.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://forum.cursor.com/t/cursor-told-me-i-should-learn-coding-instead-of-asking-it-to-generate-it-limit-of-800-locs/61132
-Comments URL: https://news.ycombinator.com/item?id=43351137
-Points: 513
-# Comments: 321]]></summary>
-        <author>
-            <name>nomilk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Style-observer: JS to observe CSS property changes, for reals]]></title>
-        <id>https://lea.verou.me/blog/2025/style-observer/</id>
-        <link href="https://lea.verou.me/blog/2025/style-observer/"/>
-        <updated>2025-03-13T07:26:10.000Z</updated>
-        <summary type="html"><![CDATA[I cannot count the number of times in my career I wished I could run JS in response to CSS property changes,
-regardless of what triggered them: media queries, user actions, or even other JS.
-Use cases abound.
-Here are some of mine:
-Implement higher level custom properties in components, where one custom property changes multiple others in nontrivial ways (e.g. a --variant: danger that sets 10 color tokens).
-Polyfill missing CSS features
-Change certain HTML attributes via CSS (hello --aria-expanded!)
-Set CSS properties based on other CSS properties without having to mirror them as custom properties
-The most recent time I needed this was to prototype an idea I had for Web Awesome,
-and I decided this was it:
-I’d either find a good, bulletproof solution, or I would build it myself.
-Spoiler ale…]]></summary>
-        <author>
-            <name>Lea Verou’s blog</name>
         </author>
     </entry>
 </feed>
