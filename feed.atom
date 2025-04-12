@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-04-12T13:21:56.997Z</updated>
+    <updated>2025-04-12T14:14:40.356Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -1886,24 +1886,6 @@ Points: 506
 # Comments: 337]]></summary>
         <author>
             <name>sohkamyung</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: Nash, I made a standalone note with single HTML file]]></title>
-        <id>https://news.ycombinator.com/item?id=43358914</id>
-        <link href="https://keepworking.github.io/nash/"/>
-        <updated>2025-03-14T01:51:22.000Z</updated>
-        <summary type="html"><![CDATA[Hello HN,
-I hope it will posted as well.
-I made a note in single html file.
-This does not require a separate membership or installation of the software, and if you download and modify an empty file, you can modify and read it at any time, regardless of online or offline.
-It can be shared through messengers such as Telegram, so it is also suitable to share contents with long articles and images. 
-It is also possible to host and blog because it is static html file content.
-Comments URL: https://news.ycombinator.com/item?id=43358914
-Points: 500
-# Comments: 137]]></summary>
-        <author>
-            <name>yevgenyhong</name>
         </author>
     </entry>
 </feed>
