@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-04-14T04:21:28.584Z</updated>
+    <updated>2025-04-14T05:19:04.988Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -241,6 +241,19 @@ Points: 512
         <updated>2025-04-09T13:47:52.000Z</updated>
         <author>
             <name>Think School</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google will let companies run Gemini models in their own data centers]]></title>
+        <id>https://news.ycombinator.com/item?id=43632049</id>
+        <link href="https://www.cnbc.com/2025/04/09/google-will-let-companies-run-gemini-models-in-their-own-data-centers.html"/>
+        <updated>2025-04-09T13:47:27.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.cnbc.com/2025/04/09/google-will-let-companies-run-gemini-models-in-their-own-data-centers.html
+Comments URL: https://news.ycombinator.com/item?id=43632049
+Points: 500
+# Comments: 181]]></summary>
+        <author>
+            <name>jonbaer</name>
         </author>
     </entry>
     <entry>
