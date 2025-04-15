@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-04-15T15:19:41.237Z</updated>
+    <updated>2025-04-15T16:21:11.896Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Tech hiring: is this an inflection point?]]></title>
+        <id>67fe8308f8004b0001d89203</id>
+        <link href="https://blog.pragmaticengineer.com/tech-hiring-is-this-an-inflection-point/"/>
+        <updated>2025-04-15T16:03:33.000Z</updated>
+        <summary type="html"><![CDATA[We might be seeing the end of remote coding interviews as we know them, and a return of in-person interviews, trial days and longer trial periods. Could hiring be returning to pre-pandemic norms?]]></summary>
+        <author>
+            <name>Gergely Orosz</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Harvard's response to federal government letter demanding changes]]></title>
         <id>https://news.ycombinator.com/item?id=43684536</id>
