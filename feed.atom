@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-04-15T03:04:14.633Z</updated>
+    <updated>2025-04-15T04:21:51.120Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -17,6 +17,19 @@ Points: 540
 # Comments: 384]]></summary>
         <author>
             <name>impish9208</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GPT-4.1 in the API]]></title>
+        <id>https://news.ycombinator.com/item?id=43683410</id>
+        <link href="https://openai.com/index/gpt-4-1/"/>
+        <updated>2025-04-14T17:01:45.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://openai.com/index/gpt-4-1/
+Comments URL: https://news.ycombinator.com/item?id=43683410
+Points: 501
+# Comments: 386]]></summary>
+        <author>
+            <name>maheshrijal</name>
         </author>
     </entry>
     <entry>
