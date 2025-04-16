@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-04-16T19:13:03.835Z</updated>
+    <updated>2025-04-16T20:20:20.737Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -2073,32 +2073,6 @@ Points: 506
         <updated>2025-03-18T12:15:33.000Z</updated>
         <author>
             <name>Think School</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Moving away from US cloud services]]></title>
-        <id>https://news.ycombinator.com/item?id=43396795</id>
-        <link href="https://martijnhols.nl/blog/moving-away-from-us-cloud-services"/>
-        <updated>2025-03-18T08:09:37.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://martijnhols.nl/blog/moving-away-from-us-cloud-services
-Comments URL: https://news.ycombinator.com/item?id=43396795
-Points: 503
-# Comments: 312]]></summary>
-        <author>
-            <name>MartijnHols</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Block YouTube ads on AppleTV by decrypting and stripping ads from Profobuf (2022)]]></title>
-        <id>https://news.ycombinator.com/item?id=43396735</id>
-        <link href="https://ericdraken.com/pfsense-decrypt-ad-traffic/"/>
-        <updated>2025-03-18T07:59:50.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://ericdraken.com/pfsense-decrypt-ad-traffic/
-Comments URL: https://news.ycombinator.com/item?id=43396735
-Points: 518
-# Comments: 304]]></summary>
-        <author>
-            <name>udev4096</name>
         </author>
     </entry>
 </feed>
