@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-04-15T23:17:23.376Z</updated>
+    <updated>2025-04-16T01:24:56.627Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -66,6 +66,31 @@ Points: 501
 # Comments: 386]]></summary>
         <author>
             <name>maheshrijal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cursor IDE support hallucinates lockout policy, causes user cancellations]]></title>
+        <id>https://news.ycombinator.com/item?id=43683012</id>
+        <link href="https://old.reddit.com/r/cursor/comments/1jyy5am/psa_cursor_now_restricts_logins_to_a_single/"/>
+        <updated>2025-04-14T16:24:28.000Z</updated>
+        <summary type="html"><![CDATA[Earlier today Cursor, the magical AI-powered IDE started kicking users off when they logged in from multiple machines.
+Like,you’d be working on your desktop, switch to your laptop, and all of a sudden you're forcibly logged out. No warning, no notification, just gone.
+Naturally, people thought this was a new policy.
+So they asked support.
+And here’s where it gets batshit: Cursor has a support email, so users emailed them to find out. The support peson told everyone this was “expected behavior” under their new login policy.
+One problem. There was no support team, it was an AI designed to 'mimic human responses'
+That answer, totally made up by the bot, spread like wildfire.
+Users assumed it was real (because why wouldn’t they? It's their own support system lol), and within hours the community was in revolt. Dozens of users publicly canceled their subscriptions, myself included. Multi-device workflows are table stakes for devs, and if you're going to pull something that disruptive, you'd at least expect a changelog entry or smth.
+Nope.
+And just as people started comparing notes and figuring out that the story didn’t quite add up… the main Reddit thread got locked. Then deleted. Like, no public resolution, no real response, just silence.
+To be clear: this wasn’t an actual policy change, just a backend session bug, and a hallucinated excuse from a support bot that somehow did more damage than the bug itself.
+But at that point, it didn’t matter. People were already gone.
+Honestly one of the most surreal product screwups I’ve seen in a while. Not because they made a mistake, but because the AI support system invented a lie, and nobody caught it until the userbase imploded.
+Comments URL: https://news.ycombinator.com/item?id=43683012
+Points: 640
+# Comments: 184]]></summary>
+        <author>
+            <name>scaredpelican</name>
         </author>
     </entry>
     <entry>
@@ -2022,19 +2047,6 @@ Points: 515
 # Comments: 152]]></summary>
         <author>
             <name>wicket</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rippling sues Deel over spying]]></title>
-        <id>https://news.ycombinator.com/item?id=43388133</id>
-        <link href="https://twitter.com/parkerconrad/status/1901615179718406276"/>
-        <updated>2025-03-17T13:03:52.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://twitter.com/parkerconrad/status/1901615179718406276
-Comments URL: https://news.ycombinator.com/item?id=43388133
-Points: 503
-# Comments: 126]]></summary>
-        <author>
-            <name>amacneil</name>
         </author>
     </entry>
 </feed>
