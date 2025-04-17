@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-04-17T17:16:00.269Z</updated>
+    <updated>2025-04-17T18:24:55.023Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[TikTok Is Harming Children at an Industrial Scale]]></title>
+        <id>https://news.ycombinator.com/item?id=43716665</id>
+        <link href="https://www.afterbabel.com/p/industrial-scale-harm-tiktok"/>
+        <updated>2025-04-17T13:39:28.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.afterbabel.com/p/industrial-scale-harm-tiktok
+Comments URL: https://news.ycombinator.com/item?id=43716665
+Points: 516
+# Comments: 566]]></summary>
+        <author>
+            <name>cwwc</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Guiding an LLM for Robust Java ByteBuffer Code]]></title>
         <id>https://martinfowler.com/articles/exploring-gen-ai/14-guiding-llm-java-bytebuffer.html</id>
