@@ -1202,6 +1202,16 @@
       "siteUrl": "https://martinfowler.com/feed.atom",
       "articles": [
         {
+          "id": "https://martinfowler.com/articles/exploring-gen-ai/14-guiding-llm-java-bytebuffer.html",
+          "author": null,
+          "description": "AI editors like Cursor can generate code with remarkable speed using\n      LLMs, handling boilerplate and providing functional snippets for various\n      tasks. However, when building robust systems, functional correctness is\n      only the starting point. Code must also be safe, predictable,\n      maintainable, and free from subtle side effects. Unmesh\n      Joshi demonstrates, through a dialogue between a developer and an\n      LLM, how expert guidance is crucial to transform an initial, potentially\n      unsafe code snippet into a robust, system-ready component.\nmore…",
+          "link": "https://martinfowler.com/articles/exploring-gen-ai/14-guiding-llm-java-bytebuffer.html",
+          "publishedOn": "2025-04-17T13:39:00.000Z",
+          "wordCount": 1582,
+          "title": "Guiding an LLM for Robust Java ByteBuffer Code",
+          "imageUrl": "https://martinfowler.com/articles/exploring-gen-ai/donkey-card.png"
+        },
+        {
           "id": "https://martinfowler.com/articles/2025-social-traffic.html",
           "author": null,
           "description": "A few years ago, whenever I published a new article here, I would just\n      announce it on Twitter, but since the Muskover its importance has\n      declined, and now I post updates to several services. To compare\n      engagement on these services, I've looked at reposts, likes, and replies\n      to two dozen of my recent posts.\nmore…",

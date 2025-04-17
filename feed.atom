@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-04-17T13:27:14.730Z</updated>
+    <updated>2025-04-17T14:17:21.606Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Guiding an LLM for Robust Java ByteBuffer Code]]></title>
+        <id>https://martinfowler.com/articles/exploring-gen-ai/14-guiding-llm-java-bytebuffer.html</id>
+        <link href="https://martinfowler.com/articles/exploring-gen-ai/14-guiding-llm-java-bytebuffer.html"/>
+        <updated>2025-04-17T13:39:00.000Z</updated>
+        <summary type="html"><![CDATA[AI editors like Cursor can generate code with remarkable speed using
+      LLMs, handling boilerplate and providing functional snippets for various
+      tasks. However, when building robust systems, functional correctness is
+      only the starting point. Code must also be safe, predictable,
+      maintainable, and free from subtle side effects. Unmesh
+      Joshi demonstrates, through a dialogue between a developer and an
+      LLM, how expert guidance is crucial to transform an initial, potentially
+      unsafe code snippet into a robust, system-ready component.
+more…]]></summary>
+        <author>
+            <name>Martin Fowler</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Man who built ISP instead of paying Comcast expands to hundreds of homes (2022)]]></title>
         <id>https://news.ycombinator.com/item?id=43709770</id>
