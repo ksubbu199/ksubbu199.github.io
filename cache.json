@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=43717705",
+          "author": "IdealeZahlen",
+          "description": "Article URL: https://www.nytimes.com/2025/04/17/technology/google-ad-tech-antitrust-ruling.html\nComments URL: https://news.ycombinator.com/item?id=43717705\nPoints: 533\n# Comments: 276",
+          "link": "https://www.nytimes.com/2025/04/17/technology/google-ad-tech-antitrust-ruling.html",
+          "publishedOn": "2025-04-17T14:47:46.000Z",
+          "wordCount": null,
+          "title": "Google is illegally monopolizing online advertising tech, judge rules",
+          "imageUrl": null
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=43716665",
           "author": "cwwc",
           "description": "Article URL: https://www.afterbabel.com/p/industrial-scale-harm-tiktok\nComments URL: https://news.ycombinator.com/item?id=43716665\nPoints: 516\n# Comments: 566",
@@ -34,6 +44,16 @@
           "wordCount": 3111,
           "title": "Man who built ISP instead of paying Comcast expands to hundreds of homes (2022)",
           "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/08/mauch-equipment-1152x648.jpg"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=43708025",
+          "author": "mfiguiere",
+          "description": "Article URL: https://github.com/openai/codex\nComments URL: https://news.ycombinator.com/item?id=43708025\nPoints: 501\n# Comments: 269",
+          "link": "https://github.com/openai/codex",
+          "publishedOn": "2025-04-16T17:24:50.000Z",
+          "wordCount": 8889,
+          "title": "OpenAI Codex CLI: Lightweight coding agent that runs in your terminal",
+          "imageUrl": "https://opengraph.githubassets.com/42cddaf431fb25a9fe98f6b953b864245bf5256fd07f67a411bbee3ef6f34413/openai/codex"
         },
         {
           "id": "https://news.ycombinator.com/item?id=43707719",
