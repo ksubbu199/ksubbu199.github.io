@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-04-17T14:17:21.606Z</updated>
+    <updated>2025-04-17T15:19:07.285Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -22,6 +22,19 @@
 more…]]></summary>
         <author>
             <name>Martin Fowler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Zoom outage caused by accidental 'shutting down' of the zoom.us domain]]></title>
+        <id>https://news.ycombinator.com/item?id=43711957</id>
+        <link href="https://status.zoom.us/incidents/pw9r9vnq5rvk"/>
+        <updated>2025-04-17T00:55:49.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://status.zoom.us/incidents/pw9r9vnq5rvk
+Comments URL: https://news.ycombinator.com/item?id=43711957
+Points: 522
+# Comments: 238]]></summary>
+        <author>
+            <name>RVRX</name>
         </author>
     </entry>
     <entry>
