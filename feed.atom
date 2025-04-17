@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-04-17T04:21:53.646Z</updated>
+    <updated>2025-04-17T05:18:17.777Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -1939,42 +1939,6 @@ Points: 508
 # Comments: 358]]></summary>
         <author>
             <name>rvz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: I made a tool to port tweets to Bluesky mantaining their original date]]></title>
-        <id>https://news.ycombinator.com/item?id=43401855</id>
-        <link href="https://bluemigrate.com/"/>
-        <updated>2025-03-18T17:07:39.000Z</updated>
-        <summary type="html"><![CDATA[Bluesky allows to backdate their posts with their API, so I made this tool to copy your twitter (X) profile to Bluesky keeping the backdated dates of your tweets, showing as if they were posted back then
-Comments URL: https://news.ycombinator.com/item?id=43401855
-Points: 503
-# Comments: 195]]></summary>
-        <author>
-            <name>nols05</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Survey: What’s in your tech stack?]]></title>
-        <id>67d9a4b06456fc0001bd715c</id>
-        <link href="https://blog.pragmaticengineer.com/survey-whats-in-your-tech-stack/"/>
-        <updated>2025-03-18T16:53:22.000Z</updated>
-        <summary type="html"><![CDATA[We want to capture an accurate snapshot of software engineering, today – and need your help! Tell us about your tech stack and get early access to the final report, plus extra analysis]]></summary>
-        <author>
-            <name>Gergely Orosz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Apple restricts Pebble from being awesome with iPhones]]></title>
-        <id>https://news.ycombinator.com/item?id=43401245</id>
-        <link href="https://ericmigi.com/blog/apple-restricts-pebble-from-being-awesome-with-iphones/"/>
-        <updated>2025-03-18T16:23:21.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://ericmigi.com/blog/apple-restricts-pebble-from-being-awesome-with-iphones/
-Comments URL: https://news.ycombinator.com/item?id=43401245
-Points: 583
-# Comments: 295]]></summary>
-        <author>
-            <name>griffinli</name>
         </author>
     </entry>
 </feed>
