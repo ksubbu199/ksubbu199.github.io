@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=43720845",
+          "author": "meetpateltech",
+          "description": "Article URL: https://developers.googleblog.com/en/start-building-with-gemini-25-flash/\nComments URL: https://news.ycombinator.com/item?id=43720845\nPoints: 503\n# Comments: 284",
+          "link": "https://developers.googleblog.com/en/start-building-with-gemini-25-flash/",
+          "publishedOn": "2025-04-17T19:03:39.000Z",
+          "wordCount": 1239,
+          "title": "Gemini 2.5 Flash",
+          "imageUrl": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/Gemini-2-5-Flash-ai.dev.2e16d0ba.fill-1200x600.png"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=43717705",
           "author": "IdealeZahlen",
           "description": "Article URL: https://www.nytimes.com/2025/04/17/technology/google-ad-tech-antitrust-ruling.html\nComments URL: https://news.ycombinator.com/item?id=43717705\nPoints: 533\n# Comments: 276",
@@ -1204,26 +1214,6 @@
           "wordCount": 2312,
           "title": "How fast the days are getting longer (2023)",
           "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=43410692",
-          "author": "tosh",
-          "description": "Article URL: https://github.com/sharkdp/fd\nComments URL: https://news.ycombinator.com/item?id=43410692\nPoints: 521\n# Comments: 221",
-          "link": "https://github.com/sharkdp/fd",
-          "publishedOn": "2025-03-19T11:44:17.000Z",
-          "wordCount": 15385,
-          "title": "fd: A simple, fast and user-friendly alternative to 'find'",
-          "imageUrl": "https://opengraph.githubassets.com/0c1c6b64c46ee4ecab253aaf16babfc16610fc2369a14632f23cd9a5bb6e236e/sharkdp/fd"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=43410548",
-          "author": "n1b0m",
-          "description": "Article URL: https://www.theguardian.com/us-news/2025/mar/19/canadian-detained-us-immigration-jasmine-mooney\nComments URL: https://news.ycombinator.com/item?id=43410548\nPoints: 551\n# Comments: 482",
-          "link": "https://www.theguardian.com/us-news/2025/mar/19/canadian-detained-us-immigration-jasmine-mooney",
-          "publishedOn": "2025-03-19T11:21:12.000Z",
-          "wordCount": 7700,
-          "title": "I'm the Canadian who was detained by ICE for two weeks",
-          "imageUrl": "https://i.guim.co.uk/img/media/f41c61bf043a09effe0d6ca8cb365bf583a1460a/0_111_4284_2571/master/4284.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=79d62e0f80e19549ab2dbd708c10d801"
         }
       ]
     },

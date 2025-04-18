@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-04-17T23:17:01.156Z</updated>
+    <updated>2025-04-18T01:23:07.866Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Gemini 2.5 Flash]]></title>
+        <id>https://news.ycombinator.com/item?id=43720845</id>
+        <link href="https://developers.googleblog.com/en/start-building-with-gemini-25-flash/"/>
+        <updated>2025-04-17T19:03:39.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://developers.googleblog.com/en/start-building-with-gemini-25-flash/
+Comments URL: https://news.ycombinator.com/item?id=43720845
+Points: 503
+# Comments: 284]]></summary>
+        <author>
+            <name>meetpateltech</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Google is illegally monopolizing online advertising tech, judge rules]]></title>
         <id>https://news.ycombinator.com/item?id=43717705</id>
@@ -1996,32 +2009,6 @@ Points: 510
 # Comments: 174]]></summary>
         <author>
             <name>antognini</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[fd: A simple, fast and user-friendly alternative to 'find']]></title>
-        <id>https://news.ycombinator.com/item?id=43410692</id>
-        <link href="https://github.com/sharkdp/fd"/>
-        <updated>2025-03-19T11:44:17.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://github.com/sharkdp/fd
-Comments URL: https://news.ycombinator.com/item?id=43410692
-Points: 521
-# Comments: 221]]></summary>
-        <author>
-            <name>tosh</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I'm the Canadian who was detained by ICE for two weeks]]></title>
-        <id>https://news.ycombinator.com/item?id=43410548</id>
-        <link href="https://www.theguardian.com/us-news/2025/mar/19/canadian-detained-us-immigration-jasmine-mooney"/>
-        <updated>2025-03-19T11:21:12.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.theguardian.com/us-news/2025/mar/19/canadian-detained-us-immigration-jasmine-mooney
-Comments URL: https://news.ycombinator.com/item?id=43410548
-Points: 551
-# Comments: 482]]></summary>
-        <author>
-            <name>n1b0m</name>
         </author>
     </entry>
 </feed>
