@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-04-20T13:24:20.281Z</updated>
+    <updated>2025-04-20T14:15:20.770Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -48,6 +48,19 @@ Points: 508
         <updated>2025-04-19T11:53:04.000Z</updated>
         <author>
             <name>Think School</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Claude Code: Best practices for agentic coding]]></title>
+        <id>https://news.ycombinator.com/item?id=43735550</id>
+        <link href="https://www.anthropic.com/engineering/claude-code-best-practices"/>
+        <updated>2025-04-19T10:48:30.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.anthropic.com/engineering/claude-code-best-practices
+Comments URL: https://news.ycombinator.com/item?id=43735550
+Points: 502
+# Comments: 219]]></summary>
+        <author>
+            <name>sqs</name>
         </author>
     </entry>
     <entry>
