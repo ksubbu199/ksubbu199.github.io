@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-04-20T03:07:05.573Z</updated>
+    <updated>2025-04-20T04:20:11.003Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -57,6 +57,19 @@ Points: 502
         <updated>2025-04-18T10:00:02.000Z</updated>
         <author>
             <name>Think School</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Potatoes in the Mail]]></title>
+        <id>https://news.ycombinator.com/item?id=43722486</id>
+        <link href="https://facts.usps.com/mailing-potatoes/"/>
+        <updated>2025-04-17T21:35:45.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://facts.usps.com/mailing-potatoes/
+Comments URL: https://news.ycombinator.com/item?id=43722486
+Points: 500
+# Comments: 254]]></summary>
+        <author>
+            <name>mooreds</name>
         </author>
     </entry>
     <entry>
@@ -1891,28 +1904,6 @@ Points: 505
 # Comments: 125]]></summary>
         <author>
             <name>hn_acker</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Is Dubai Real Estate Really a Goldmine or a Landmine? | Business Case study]]></title>
-        <id>https://www.youtube.com/watch?v=JX916HnPgyQ</id>
-        <link href="https://www.youtube.com/watch?v=JX916HnPgyQ"/>
-        <updated>2025-03-21T15:43:21.000Z</updated>
-        <author>
-            <name>Think School</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[IronRDP: a Rust implementation of Microsoft's RDP protocol]]></title>
-        <id>https://news.ycombinator.com/item?id=43436894</id>
-        <link href="https://github.com/Devolutions/IronRDP"/>
-        <updated>2025-03-21T15:35:27.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://github.com/Devolutions/IronRDP
-Comments URL: https://news.ycombinator.com/item?id=43436894
-Points: 501
-# Comments: 208]]></summary>
-        <author>
-            <name>mikece</name>
         </author>
     </entry>
 </feed>
