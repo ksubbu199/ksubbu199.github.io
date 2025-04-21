@@ -1233,6 +1233,16 @@
       "siteUrl": "https://martinfowler.com/feed.atom",
       "articles": [
         {
+          "id": "https://martinfowler.com/articles/deepseek-papers.html",
+          "author": null,
+          "description": "A couple of months ago, my colleague Shayan Mohanty\n      published a technical overview of the series of papers describing\n      the deepseek AI models. He's now gone through that article, adding\n      more explanations to make it more digestible for those of us who don't\n      have a background in building these kinds of models.\nmore…",
+          "link": "https://martinfowler.com/articles/deepseek-papers.html",
+          "publishedOn": "2025-04-21T13:07:00.000Z",
+          "wordCount": 4893,
+          "title": "Additional explanatory material for the Deepseek Overview",
+          "imageUrl": "https://martinfowler.com/logo-sq.png"
+        },
+        {
           "id": "https://martinfowler.com/articles/exploring-gen-ai/14-guiding-llm-java-bytebuffer.html",
           "author": null,
           "description": "AI editors like Cursor can generate code with remarkable speed using\n      LLMs, handling boilerplate and providing functional snippets for various\n      tasks. However, when building robust systems, functional correctness is\n      only the starting point. Code must also be safe, predictable,\n      maintainable, and free from subtle side effects. Unmesh\n      Joshi demonstrates, through a dialogue between a developer and an\n      LLM, how expert guidance is crucial to transform an initial, potentially\n      unsafe code snippet into a robust, system-ready component.\nmore…",
