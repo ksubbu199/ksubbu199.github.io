@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-04-22T16:22:46.057Z</updated>
+    <updated>2025-04-22T17:16:26.985Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -17,6 +17,19 @@ Points: 624
 # Comments: 243]]></summary>
         <author>
             <name>whalesalad</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Evertop: E-ink IBM XT clone with 100+ hours of battery life]]></title>
+        <id>https://news.ycombinator.com/item?id=43757037</id>
+        <link href="https://github.com/ericjenott/Evertop"/>
+        <updated>2025-04-21T22:07:49.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://github.com/ericjenott/Evertop
+Comments URL: https://news.ycombinator.com/item?id=43757037
+Points: 505
+# Comments: 164]]></summary>
+        <author>
+            <name>harryvederci</name>
         </author>
     </entry>
     <entry>
