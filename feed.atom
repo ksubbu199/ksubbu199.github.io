@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-04-24T03:04:53.237Z</updated>
+    <updated>2025-04-24T04:21:39.917Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -30,6 +30,19 @@ Points: 516
 # Comments: 151]]></summary>
         <author>
             <name>todsacerdoti</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI Horseless Carriages]]></title>
+        <id>https://news.ycombinator.com/item?id=43773813</id>
+        <link href="https://koomen.dev/essays/horseless-carriages/"/>
+        <updated>2025-04-23T16:19:56.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://koomen.dev/essays/horseless-carriages/
+Comments URL: https://news.ycombinator.com/item?id=43773813
+Points: 518
+# Comments: 339]]></summary>
+        <author>
+            <name>petekoomen</name>
         </author>
     </entry>
     <entry>
@@ -1996,15 +2009,6 @@ Points: 534
 # Comments: 253]]></summary>
         <author>
             <name>meetpateltech</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Recession fears in America again? India in Trouble? : Economic Case study]]></title>
-        <id>https://www.youtube.com/watch?v=AsEKIBskAqY</id>
-        <link href="https://www.youtube.com/watch?v=AsEKIBskAqY"/>
-        <updated>2025-03-25T15:36:07.000Z</updated>
-        <author>
-            <name>Think School</name>
         </author>
     </entry>
 </feed>
