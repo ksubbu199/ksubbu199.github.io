@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-04-25T11:15:09.408Z</updated>
+    <updated>2025-04-25T12:36:42.656Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -1921,29 +1921,6 @@ Points: 551
         <updated>2025-03-27T14:30:08.000Z</updated>
         <author>
             <name>Think School</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Blender releases their Oscar winning version tool]]></title>
-        <id>https://news.ycombinator.com/item?id=43489114</id>
-        <link href="https://www.blender.org/download/releases/4-4/"/>
-        <updated>2025-03-27T00:27:03.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.blender.org/download/releases/4-4/
-Comments URL: https://news.ycombinator.com/item?id=43489114
-Points: 512
-# Comments: 149]]></summary>
-        <author>
-            <name>babuloseo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Boot.dev Beat. April 2025]]></title>
-        <id>https://blog.boot.dev/news/bootdev-beat-2025-04/</id>
-        <link href="https://blog.boot.dev/news/bootdev-beat-2025-04/"/>
-        <updated>2025-03-27T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The Lord of the Mire has been the hardest boss yet (by far), weighing it with 150,000,000 HP.]]></summary>
-        <author>
-            <name>Boot.dev Blog</name>
         </author>
     </entry>
 </feed>
