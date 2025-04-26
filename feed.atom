@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-04-26T04:20:31.138Z</updated>
+    <updated>2025-04-26T05:16:59.521Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -52,6 +52,19 @@ Points: 580
         <updated>2025-04-25T14:30:34.000Z</updated>
         <author>
             <name>Hussein Nasser</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Writing "/etc/hosts" breaks the Substack editor]]></title>
+        <id>https://news.ycombinator.com/item?id=43793526</id>
+        <link href="https://scalewithlee.substack.com/p/when-etchsts-breaks-your-substack"/>
+        <updated>2025-04-25T13:48:30.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://scalewithlee.substack.com/p/when-etchsts-breaks-your-substack
+Comments URL: https://news.ycombinator.com/item?id=43793526
+Points: 505
+# Comments: 282]]></summary>
+        <author>
+            <name>scalewithlee</name>
         </author>
     </entry>
     <entry>
@@ -1933,19 +1946,6 @@ Points: 514
 # Comments: 214]]></summary>
         <author>
             <name>fouronnes3</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tracing the thoughts of a large language model]]></title>
-        <id>https://news.ycombinator.com/item?id=43495617</id>
-        <link href="https://www.anthropic.com/research/tracing-thoughts-language-model"/>
-        <updated>2025-03-27T17:05:36.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.anthropic.com/research/tracing-thoughts-language-model
-Comments URL: https://news.ycombinator.com/item?id=43495617
-Points: 551
-# Comments: 220]]></summary>
-        <author>
-            <name>Philpax</name>
         </author>
     </entry>
 </feed>
