@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=43799302",
+          "author": "coloneltcb",
+          "description": "Article URL: https://www.washingtonpost.com/technology/2025/04/25/wikipedia-nonprofit-ed-martin-letter/\nComments URL: https://news.ycombinator.com/item?id=43799302\nPoints: 507\n# Comments: 399",
+          "link": "https://www.washingtonpost.com/technology/2025/04/25/wikipedia-nonprofit-ed-martin-letter/",
+          "publishedOn": "2025-04-25T23:03:55.000Z",
+          "wordCount": null,
+          "title": "Wikipedia’s nonprofit status questioned by D.C. U.S. attorney",
+          "imageUrl": null
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=43794576",
           "author": "eterps",
           "description": "Article URL: https://apnews.com/article/immigration-judge-arrested-7997186bbca5730e70a25f2347e631f6\nComments URL: https://news.ycombinator.com/item?id=43794576\nPoints: 762\n# Comments: 542",
@@ -194,6 +204,16 @@
           "wordCount": 857,
           "title": "Python's new t-strings",
           "imageUrl": null
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=43748486",
+          "author": "imakwana",
+          "description": "Article URL: https://www.nber.org/papers/w33697\nComments URL: https://news.ycombinator.com/item?id=43748486\nPoints: 500\n# Comments: 497",
+          "link": "https://www.nber.org/papers/w33697",
+          "publishedOn": "2025-04-21T04:24:15.000Z",
+          "wordCount": 1643,
+          "title": "The effect of deactivating Facebook and Instagram on users' emotional state",
+          "imageUrl": "https://www.nber.org/sites/default/files/2022-06/NBER-FB-Share-Tile-1200.jpg"
         },
         {
           "id": "https://news.ycombinator.com/item?id=43743337",
@@ -1204,26 +1224,6 @@
           "wordCount": null,
           "title": "I genuinely don't understand why some people are still bullish about LLMs",
           "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=43497719",
-          "author": "Stratoscope",
-          "description": "Article URL: https://www.merriam-webster.com/grammar/em-dash-en-dash-how-to-use\nComments URL: https://news.ycombinator.com/item?id=43497719\nPoints: 512\n# Comments: 383",
-          "link": "https://www.merriam-webster.com/grammar/em-dash-en-dash-how-to-use",
-          "publishedOn": "2025-03-27T20:19:38.000Z",
-          "wordCount": 2690,
-          "title": "How to Use Em Dashes (–), En Dashes (–), and Hyphens (-)",
-          "imageUrl": "https://merriam-webster.com/assets/mw/images/article/art-wap-landing-mp-lg/emdash endash-8433-81d2d02ce473916e60f75d124d59be42@1x.jpg"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=43497394",
-          "author": "fouronnes3",
-          "description": "Article URL: https://victorpoughon.fr/i-tried-making-artificial-sunlight-at-home/\nComments URL: https://news.ycombinator.com/item?id=43497394\nPoints: 514\n# Comments: 214",
-          "link": "https://victorpoughon.fr/i-tried-making-artificial-sunlight-at-home/",
-          "publishedOn": "2025-03-27T19:49:28.000Z",
-          "wordCount": 4065,
-          "title": "I tried making artificial sunlight at home",
-          "imageUrl": "https://bear-images.sfo2.cdn.digitaloceanspaces.com/herman-1683556668-0.png"
         }
       ]
     },

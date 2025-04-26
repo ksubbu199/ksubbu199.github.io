@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-04-26T07:16:04.724Z</updated>
+    <updated>2025-04-26T08:22:10.599Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Wikipedia’s nonprofit status questioned by D.C. U.S. attorney]]></title>
+        <id>https://news.ycombinator.com/item?id=43799302</id>
+        <link href="https://www.washingtonpost.com/technology/2025/04/25/wikipedia-nonprofit-ed-martin-letter/"/>
+        <updated>2025-04-25T23:03:55.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.washingtonpost.com/technology/2025/04/25/wikipedia-nonprofit-ed-martin-letter/
+Comments URL: https://news.ycombinator.com/item?id=43799302
+Points: 507
+# Comments: 399]]></summary>
+        <author>
+            <name>coloneltcb</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[FBI arrests judge accused of helping man evade immigration authorities]]></title>
         <id>https://news.ycombinator.com/item?id=43794576</id>
@@ -284,6 +297,19 @@ Points: 513
 # Comments: 375]]></summary>
         <author>
             <name>tambourine_man</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The effect of deactivating Facebook and Instagram on users' emotional state]]></title>
+        <id>https://news.ycombinator.com/item?id=43748486</id>
+        <link href="https://www.nber.org/papers/w33697"/>
+        <updated>2025-04-21T04:24:15.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.nber.org/papers/w33697
+Comments URL: https://news.ycombinator.com/item?id=43748486
+Points: 500
+# Comments: 497]]></summary>
+        <author>
+            <name>imakwana</name>
         </author>
     </entry>
     <entry>
@@ -1920,32 +1946,6 @@ Points: 536
 # Comments: 927]]></summary>
         <author>
             <name>ksec</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use Em Dashes (–), En Dashes (–), and Hyphens (-)]]></title>
-        <id>https://news.ycombinator.com/item?id=43497719</id>
-        <link href="https://www.merriam-webster.com/grammar/em-dash-en-dash-how-to-use"/>
-        <updated>2025-03-27T20:19:38.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.merriam-webster.com/grammar/em-dash-en-dash-how-to-use
-Comments URL: https://news.ycombinator.com/item?id=43497719
-Points: 512
-# Comments: 383]]></summary>
-        <author>
-            <name>Stratoscope</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I tried making artificial sunlight at home]]></title>
-        <id>https://news.ycombinator.com/item?id=43497394</id>
-        <link href="https://victorpoughon.fr/i-tried-making-artificial-sunlight-at-home/"/>
-        <updated>2025-03-27T19:49:28.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://victorpoughon.fr/i-tried-making-artificial-sunlight-at-home/
-Comments URL: https://news.ycombinator.com/item?id=43497394
-Points: 514
-# Comments: 214]]></summary>
-        <author>
-            <name>fouronnes3</name>
         </author>
     </entry>
 </feed>
