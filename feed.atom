@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-04-27T16:20:31.976Z</updated>
+    <updated>2025-04-27T17:16:04.481Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -17,6 +17,19 @@ Points: 527
 # Comments: 259]]></summary>
         <author>
             <name>simonw</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: My self-written hobby OS is finally running on my vintage IBM ThinkPad]]></title>
+        <id>https://news.ycombinator.com/item?id=43803148</id>
+        <link href="https://github.com/joexbayer/RetrOS-32"/>
+        <updated>2025-04-26T12:51:41.000Z</updated>
+        <summary type="html"><![CDATA[Finally got my hobby OS up and running on real hardware. I love the old IBM thinkpads, so thought it was the perfect machine to get it working on. Been working on it for quite some time now, but this has been a big milestone!
+Comments URL: https://news.ycombinator.com/item?id=43803148
+Points: 509
+# Comments: 102]]></summary>
+        <author>
+            <name>joexbayer</name>
         </author>
     </entry>
     <entry>
