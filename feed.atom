@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-04-26T23:16:31.822Z</updated>
+    <updated>2025-04-27T01:37:23.098Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -30,6 +30,19 @@ Points: 557
 # Comments: 408]]></summary>
         <author>
             <name>mandmandam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[An end to all this prostate trouble?]]></title>
+        <id>https://news.ycombinator.com/item?id=43801906</id>
+        <link href="https://yarchive.net/blog/prostate/"/>
+        <updated>2025-04-26T08:39:29.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://yarchive.net/blog/prostate/
+Comments URL: https://news.ycombinator.com/item?id=43801906
+Points: 505
+# Comments: 221]]></summary>
+        <author>
+            <name>bondarchuk</name>
         </author>
     </entry>
     <entry>
@@ -1920,19 +1933,6 @@ Points: 502
 # Comments: 107]]></summary>
         <author>
             <name>topsycatt</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I asked police to send me their public surveillance footage of my car]]></title>
-        <id>https://news.ycombinator.com/item?id=43504413</id>
-        <link href="https://cardinalnews.org/2025/03/28/i-drove-300-miles-in-rural-virginia-then-asked-police-to-send-me-their-public-surveillance-footage-of-my-car-heres-what-i-learned/"/>
-        <updated>2025-03-28T12:14:06.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://cardinalnews.org/2025/03/28/i-drove-300-miles-in-rural-virginia-then-asked-police-to-send-me-their-public-surveillance-footage-of-my-car-heres-what-i-learned/
-Comments URL: https://news.ycombinator.com/item?id=43504413
-Points: 500
-# Comments: 401]]></summary>
-        <author>
-            <name>bookofjoe</name>
         </author>
     </entry>
 </feed>
