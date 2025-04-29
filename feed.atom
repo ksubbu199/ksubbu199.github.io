@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-04-29T20:20:20.407Z</updated>
+    <updated>2025-04-29T21:17:05.234Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Try Switching to Kagi]]></title>
+        <id>https://news.ycombinator.com/item?id=43829490</id>
+        <link href="https://daringfireball.net/2025/04/try_switching_to_kagi"/>
+        <updated>2025-04-29T07:08:50.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://daringfireball.net/2025/04/try_switching_to_kagi
+Comments URL: https://news.ycombinator.com/item?id=43829490
+Points: 514
+# Comments: 355]]></summary>
+        <author>
+            <name>Ch00k</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[LibreLingo – FOSS Alternative to Duolingo]]></title>
         <id>https://news.ycombinator.com/item?id=43829035</id>
@@ -1891,19 +1904,6 @@ Points: 521
         <updated>2025-03-31T09:46:09.000Z</updated>
         <author>
             <name>Think School</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The <select> element can now be customized with CSS]]></title>
-        <id>https://news.ycombinator.com/item?id=43532830</id>
-        <link href="https://developer.chrome.com/blog/a-customizable-select"/>
-        <updated>2025-03-31T09:11:47.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://developer.chrome.com/blog/a-customizable-select
-Comments URL: https://news.ycombinator.com/item?id=43532830
-Points: 500
-# Comments: 187]]></summary>
-        <author>
-            <name>tosh</name>
         </author>
     </entry>
 </feed>
