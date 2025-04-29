@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=43825900",
+          "author": "synthwave",
+          "description": "Article URL: https://qwenlm.github.io/blog/qwen3/\nComments URL: https://news.ycombinator.com/item?id=43825900\nPoints: 504\n# Comments: 197",
+          "link": "https://qwenlm.github.io/blog/qwen3/",
+          "publishedOn": "2025-04-28T20:44:25.000Z",
+          "wordCount": 4078,
+          "title": "Qwen3: Think deeper, act faster",
+          "imageUrl": "https://qwenlm.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=43820228",
           "author": "hwpythonner",
           "description": "Hi everyone,\nI built PyXL — a hardware processor that executes a custom assembly generated from Python programs, without using a traditional interpreter or virtual machine. It compiles Python -> CPython Bytecode -> Instruction set designed for direct hardware execution.\nI’m sharing an early benchmark: a GPIO test where PyXL achieves a 480ns round-trip toggle — compared to 14-25 micro seconds on a MicroPython Pyboard - even though PyXL runs at a lower clock (100MHz vs. 168MHz).\nThe design is stack-based, fully pipelined, and preserves Python's dynamic typing without static type restrictions.\nI independently developed the full stack — toolchain (compiler, linker, codegen), and hardware — to validate the core idea. Full technical details will be presented at PyCon 2025.\nDemo and explanation here: https://runpyxl.com/gpio\nHappy to answer any questions\nComments URL: https://news.ycombinator.com/item?id=43820228\nPoints: 586\n# Comments: 165",
