@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-04-30T19:14:44.384Z</updated>
+    <updated>2025-04-30T20:20:04.010Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -222,6 +222,19 @@ Points: 518
 # Comments: 133]]></summary>
         <author>
             <name>homebrewer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How a single line of code could brick your iPhone]]></title>
+        <id>https://news.ycombinator.com/item?id=43814360</id>
+        <link href="https://rambo.codes/posts/2025-04-24-how-a-single-line-of-code-could-brick-your-iphone"/>
+        <updated>2025-04-27T19:12:43.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://rambo.codes/posts/2025-04-24-how-a-single-line-of-code-could-brick-your-iphone
+Comments URL: https://news.ycombinator.com/item?id=43814360
+Points: 500
+# Comments: 118]]></summary>
+        <author>
+            <name>sashk</name>
         </author>
     </entry>
     <entry>
