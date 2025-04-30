@@ -1222,6 +1222,16 @@
       "siteUrl": "https://martinfowler.com/feed.atom",
       "articles": [
         {
+          "id": "https://martinfowler.com/articles/exploring-gen-ai/15-building-tmt-mirror-visualization.html",
+          "author": null,
+          "description": "Creating a user interface that visualizes a real-world structure —\n       like the Thirty Meter Telescope's mirror — might seem like a task that\n       demands deep knowledge of geometry, D3.js, and SVG graphics. But with a\n       Large Language Model (LLM) like Claude or ChatGPT, you don't need to know\n       everything upfront. Unmesh Joshi describes how working\n       with an LLM gave him a working prototype even when he's\n       unfamiliar with the underlying tech. \nmore…",
+          "link": "https://martinfowler.com/articles/exploring-gen-ai/15-building-tmt-mirror-visualization.html",
+          "publishedOn": "2025-04-30T13:54:00.000Z",
+          "wordCount": 1361,
+          "title": "Building TMT Mirror Visualization with LLM",
+          "imageUrl": "https://martinfowler.com/articles/exploring-gen-ai/donkey-card.png"
+        },
+        {
           "id": "https://martinfowler.com/articles/deepseek-papers.html",
           "author": null,
           "description": "A couple of months ago, my colleague Shayan Mohanty\n      published a technical overview of the series of papers describing\n      the deepseek AI models. He's now gone through that article, adding\n      more explanations to make it more digestible for those of us who don't\n      have a background in building these kinds of models.\nmore…",
