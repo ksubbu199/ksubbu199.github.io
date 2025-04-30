@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-04-30T14:18:03.256Z</updated>
+    <updated>2025-04-30T15:19:43.194Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -24,6 +24,19 @@ more…]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Finland Bans Smartphones in Schools]]></title>
+        <id>https://news.ycombinator.com/item?id=43842856</id>
+        <link href="https://yle.fi/a/74-20158886"/>
+        <updated>2025-04-30T09:17:30.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://yle.fi/a/74-20158886
+Comments URL: https://news.ycombinator.com/item?id=43842856
+Points: 524
+# Comments: 344]]></summary>
+        <author>
+            <name>freetonik</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Only Teslas exempt from new auto tariffs thanks to 85% domestic content rule]]></title>
         <id>https://news.ycombinator.com/item?id=43837993</id>
         <link href="https://fuelarc.com/cars/only-tesla-exempt-from-new-auto-tariffs-thanks-to-85-domestic-content-rule/"/>
@@ -37,6 +50,19 @@ Points: 519
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Chain of Recursive Thoughts: Make AI think harder by making it argue with itself]]></title>
+        <id>https://news.ycombinator.com/item?id=43835445</id>
+        <link href="https://github.com/PhialsBasement/Chain-of-Recursive-Thoughts"/>
+        <updated>2025-04-29T17:19:04.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://github.com/PhialsBasement/Chain-of-Recursive-Thoughts
+Comments URL: https://news.ycombinator.com/item?id=43835445
+Points: 502
+# Comments: 220]]></summary>
+        <author>
+            <name>miles</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Firefox tab groups are here]]></title>
         <id>https://news.ycombinator.com/item?id=43834101</id>
         <link href="https://blog.mozilla.org/en/firefox/tab-groups-community/"/>
@@ -47,6 +73,19 @@ Points: 506
 # Comments: 305]]></summary>
         <author>
             <name>TangerineDream</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jepsen: Amazon RDS for PostgreSQL 17.4]]></title>
+        <id>https://news.ycombinator.com/item?id=43833195</id>
+        <link href="https://jepsen.io/analyses/amazon-rds-for-postgresql-17.4"/>
+        <updated>2025-04-29T14:30:11.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://jepsen.io/analyses/amazon-rds-for-postgresql-17.4
+Comments URL: https://news.ycombinator.com/item?id=43833195
+Points: 506
+# Comments: 118]]></summary>
+        <author>
+            <name>aphyr</name>
         </author>
     </entry>
     <entry>
