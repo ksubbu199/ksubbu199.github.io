@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=43846487",
+          "author": "jaydenmilne",
+          "description": "Article URL: https://jayd.ml/2025/04/30/someone-at-youtube-needs-glasses.html\nComments URL: https://news.ycombinator.com/item?id=43846487\nPoints: 542\n# Comments: 357",
+          "link": "https://jayd.ml/2025/04/30/someone-at-youtube-needs-glasses.html",
+          "publishedOn": "2025-04-30T15:18:47.000Z",
+          "wordCount": 198,
+          "title": "Someone at YouTube needs glasses",
+          "imageUrl": null
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=43842856",
           "author": "freetonik",
           "description": "Article URL: https://yle.fi/a/74-20158886\nComments URL: https://news.ycombinator.com/item?id=43842856\nPoints: 524\n# Comments: 344",
@@ -1204,16 +1214,6 @@
           "wordCount": 5341,
           "title": "The April Fools joke that might have got me fired",
           "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=43543241",
-          "author": "tipiirai",
-          "description": "Article URL: https://nuejs.org/blog/large-scale-apps/\nComments URL: https://news.ycombinator.com/item?id=43543241\nPoints: 511\n# Comments: 368",
-          "link": "https://nuejs.org/blog/large-scale-apps/",
-          "publishedOn": "2025-04-01T05:47:41.000Z",
-          "wordCount": 435,
-          "title": "Show HN: Nue – Apps lighter than a React button",
-          "imageUrl": "https://nuejs.org/img/standards-first.png"
         }
       ]
     },

@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-04-30T17:16:11.523Z</updated>
+    <updated>2025-04-30T18:25:58.149Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Someone at YouTube needs glasses]]></title>
+        <id>https://news.ycombinator.com/item?id=43846487</id>
+        <link href="https://jayd.ml/2025/04/30/someone-at-youtube-needs-glasses.html"/>
+        <updated>2025-04-30T15:18:47.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://jayd.ml/2025/04/30/someone-at-youtube-needs-glasses.html
+Comments URL: https://news.ycombinator.com/item?id=43846487
+Points: 542
+# Comments: 357]]></summary>
+        <author>
+            <name>jaydenmilne</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Building TMT Mirror Visualization with LLM]]></title>
         <id>https://martinfowler.com/articles/exploring-gen-ai/15-building-tmt-mirror-visualization.html</id>
@@ -1880,19 +1893,6 @@ Points: 500
 # Comments: 243]]></summary>
         <author>
             <name>goldenskye</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: Nue – Apps lighter than a React button]]></title>
-        <id>https://news.ycombinator.com/item?id=43543241</id>
-        <link href="https://nuejs.org/blog/large-scale-apps/"/>
-        <updated>2025-04-01T05:47:41.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://nuejs.org/blog/large-scale-apps/
-Comments URL: https://news.ycombinator.com/item?id=43543241
-Points: 511
-# Comments: 368]]></summary>
-        <author>
-            <name>tipiirai</name>
         </author>
     </entry>
 </feed>
