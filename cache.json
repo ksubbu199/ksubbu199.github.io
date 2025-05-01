@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=43852162",
+          "author": "airstrike",
+          "description": "Article URL: https://www.pcworld.com/article/2651749/office-is-too-slow-so-microsoft-is-making-it-load-at-windows-startup.html\nComments URL: https://news.ycombinator.com/item?id=43852162\nPoints: 515\n# Comments: 681",
+          "link": "https://www.pcworld.com/article/2651749/office-is-too-slow-so-microsoft-is-making-it-load-at-windows-startup.html",
+          "publishedOn": "2025-05-01T00:06:00.000Z",
+          "wordCount": 4398,
+          "title": "Office is too slow, so Microsoft is making it load at Windows startup",
+          "imageUrl": "https://www.pcworld.com/wp-content/uploads/2025/03/Microsoft-Office-apps-Word-Excel-and-PowerPoint-overlapping-screenshot.png?w=1024"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=43852145",
           "author": "shayneo",
           "description": "Article URL: https://www.wsj.com/tech/apple-violated-antitrust-ruling-federal-judge-finds-66b85957\nComments URL: https://news.ycombinator.com/item?id=43852145\nPoints: 532\n# Comments: 166",
@@ -124,6 +134,16 @@
           "wordCount": 90,
           "title": "LibreLingo – FOSS Alternative to Duolingo",
           "imageUrl": "https://librelingo.app/images/social_cover_1.png"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=43827054",
+          "author": "dfabulich",
+          "description": "Article URL: https://danfabulich.medium.com/all-four-major-web-browsers-are-about-to-lose-80-of-their-funding-0e42ceb358f1\nComments URL: https://news.ycombinator.com/item?id=43827054\nPoints: 524\n# Comments: 522",
+          "link": "https://danfabulich.medium.com/all-four-major-web-browsers-are-about-to-lose-80-of-their-funding-0e42ceb358f1",
+          "publishedOn": "2025-04-28T23:03:19.000Z",
+          "wordCount": null,
+          "title": "All four major web browsers are about to lose 80% of their funding",
+          "imageUrl": null
         },
         {
           "id": "https://news.ycombinator.com/item?id=43826798",

@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-05-01T15:18:39.349Z</updated>
+    <updated>2025-05-01T16:23:20.999Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Office is too slow, so Microsoft is making it load at Windows startup]]></title>
+        <id>https://news.ycombinator.com/item?id=43852162</id>
+        <link href="https://www.pcworld.com/article/2651749/office-is-too-slow-so-microsoft-is-making-it-load-at-windows-startup.html"/>
+        <updated>2025-05-01T00:06:00.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.pcworld.com/article/2651749/office-is-too-slow-so-microsoft-is-making-it-load-at-windows-startup.html
+Comments URL: https://news.ycombinator.com/item?id=43852162
+Points: 515
+# Comments: 681]]></summary>
+        <author>
+            <name>airstrike</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Apple violated antitrust ruling, judge finds]]></title>
         <id>https://news.ycombinator.com/item?id=43852145</id>
@@ -177,6 +190,19 @@ Points: 534
 # Comments: 230]]></summary>
         <author>
             <name>hyperific</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[All four major web browsers are about to lose 80% of their funding]]></title>
+        <id>https://news.ycombinator.com/item?id=43827054</id>
+        <link href="https://danfabulich.medium.com/all-four-major-web-browsers-are-about-to-lose-80-of-their-funding-0e42ceb358f1"/>
+        <updated>2025-04-28T23:03:19.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://danfabulich.medium.com/all-four-major-web-browsers-are-about-to-lose-80-of-their-funding-0e42ceb358f1
+Comments URL: https://news.ycombinator.com/item?id=43827054
+Points: 524
+# Comments: 522]]></summary>
+        <author>
+            <name>dfabulich</name>
         </author>
     </entry>
     <entry>
