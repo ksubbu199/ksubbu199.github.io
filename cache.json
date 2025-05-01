@@ -6,6 +6,26 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=43859446",
+          "author": "antirez",
+          "description": "Article URL: https://antirez.com/news/151\nComments URL: https://news.ycombinator.com/item?id=43859446\nPoints: 536\n# Comments: 205",
+          "link": "https://antirez.com/news/151",
+          "publishedOn": "2025-05-01T15:56:35.000Z",
+          "wordCount": 611,
+          "title": "Redis is open source again",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=43856795",
+          "author": "connor11528",
+          "description": "Article URL: https://www.thebignewsletter.com/p/judge-rules-apple-executive-lied\nComments URL: https://news.ycombinator.com/item?id=43856795\nPoints: 520\n# Comments: 190",
+          "link": "https://www.thebignewsletter.com/p/judge-rules-apple-executive-lied",
+          "publishedOn": "2025-05-01T12:27:51.000Z",
+          "wordCount": null,
+          "title": "Judge Rules Apple Executive Lied Under Oath, Makes Criminal Contempt Referral",
+          "imageUrl": null
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=43852162",
           "author": "airstrike",
           "description": "Article URL: https://www.pcworld.com/article/2651749/office-is-too-slow-so-microsoft-is-making-it-load-at-windows-startup.html\nComments URL: https://news.ycombinator.com/item?id=43852162\nPoints: 515\n# Comments: 681",
@@ -44,6 +64,16 @@
           "wordCount": 27997,
           "title": "Port of Los Angeles says shipping volume will plummet 35% next week",
           "imageUrl": "https://image.cnbcfm.com/api/v1/image/108137934-17459285282021-11-22t184820z_625011072_rc2rzq920mpi_rtrmadp_0_supply-chain-usa-shipping.jpeg?v=1745928561&w=1920&h=1080"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=43843821",
+          "author": "andrewfromx",
+          "description": "Article URL: https://fortune.com/article/retailers-weeks-of-inventory-left-trump-china-trade-war/\nComments URL: https://news.ycombinator.com/item?id=43843821\nPoints: 505\n# Comments: 878",
+          "link": "https://fortune.com/article/retailers-weeks-of-inventory-left-trump-china-trade-war/",
+          "publishedOn": "2025-04-30T11:42:06.000Z",
+          "wordCount": 7053,
+          "title": "Retailers will soon have only about 7 weeks of full inventories left",
+          "imageUrl": "https://fortune.com/img-assets/wp-content/uploads/2025/04/GettyImages-1923252904-e1745942509982.jpg?resize=1200,600"
         },
         {
           "id": "https://news.ycombinator.com/item?id=43842856",
@@ -134,6 +164,16 @@
           "wordCount": 90,
           "title": "LibreLingo – FOSS Alternative to Duolingo",
           "imageUrl": "https://librelingo.app/images/social_cover_1.png"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=43827214",
+          "author": "zdw",
+          "description": "Article URL: https://devblogs.microsoft.com/oldnewthing/20250428-00/?p=111121\nComments URL: https://news.ycombinator.com/item?id=43827214\nPoints: 500\n# Comments: 292",
+          "link": "https://devblogs.microsoft.com/oldnewthing/20250428-00/?p=111121",
+          "publishedOn": "2025-04-28T23:27:11.000Z",
+          "wordCount": 7868,
+          "title": "Why did Windows 7 log on slower for months if you had a solid color background?",
+          "imageUrl": "https://devblogs.microsoft.com/oldnewthing/wp-content/uploads/sites/38/2024/10/banner-oldnewthing-blue-16x9-1.png"
         },
         {
           "id": "https://news.ycombinator.com/item?id=43827054",
