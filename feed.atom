@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-05-02T05:18:17.101Z</updated>
+    <updated>2025-05-02T06:26:34.003Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Claude Integrations]]></title>
+        <id>https://news.ycombinator.com/item?id=43859536</id>
+        <link href="https://www.anthropic.com/news/integrations"/>
+        <updated>2025-05-01T16:02:14.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.anthropic.com/news/integrations
+Comments URL: https://news.ycombinator.com/item?id=43859536
+Points: 512
+# Comments: 189]]></summary>
+        <author>
+            <name>bryanh</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Redis is open source again]]></title>
         <id>https://news.ycombinator.com/item?id=43859446</id>
@@ -17,6 +30,19 @@ Points: 536
 # Comments: 205]]></summary>
         <author>
             <name>antirez</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Starting July 1, academic publishers can't paywall NIH-funded research]]></title>
+        <id>https://news.ycombinator.com/item?id=43858568</id>
+        <link href="https://www.nih.gov/about-nih/who-we-are/nih-director/statements/accelerating-access-research-results-new-implementation-date-2024-nih-public-access-policy"/>
+        <updated>2025-05-01T15:01:44.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.nih.gov/about-nih/who-we-are/nih-director/statements/accelerating-access-research-results-new-implementation-date-2024-nih-public-access-policy
+Comments URL: https://news.ycombinator.com/item?id=43858568
+Points: 503
+# Comments: 89]]></summary>
+        <author>
+            <name>m463</name>
         </author>
     </entry>
     <entry>
@@ -1943,19 +1969,6 @@ Points: 515
 # Comments: 108]]></summary>
         <author>
             <name>TheTaytay</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why I don't discuss politics with friends]]></title>
-        <id>https://news.ycombinator.com/item?id=43559605</id>
-        <link href="https://shwin.co/blog/why-i-dont-discuss-politics-with-friends"/>
-        <updated>2025-04-02T18:14:44.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://shwin.co/blog/why-i-dont-discuss-politics-with-friends
-Comments URL: https://news.ycombinator.com/item?id=43559605
-Points: 501
-# Comments: 973]]></summary>
-        <author>
-            <name>shw1n</name>
         </author>
     </entry>
 </feed>

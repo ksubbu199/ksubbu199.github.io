@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=43859536",
+          "author": "bryanh",
+          "description": "Article URL: https://www.anthropic.com/news/integrations\nComments URL: https://news.ycombinator.com/item?id=43859536\nPoints: 512\n# Comments: 189",
+          "link": "https://www.anthropic.com/news/integrations",
+          "publishedOn": "2025-05-01T16:02:14.000Z",
+          "wordCount": 8156,
+          "title": "Claude Integrations",
+          "imageUrl": "https://cdn.sanity.io/images/4zrzovbb/website/823ff5e709d270e101840e349b539c4cb636dab9-1201x1201.png"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=43859446",
           "author": "antirez",
           "description": "Article URL: https://antirez.com/news/151\nComments URL: https://news.ycombinator.com/item?id=43859446\nPoints: 536\n# Comments: 205",
@@ -13,6 +23,16 @@
           "publishedOn": "2025-05-01T15:56:35.000Z",
           "wordCount": 611,
           "title": "Redis is open source again",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=43858568",
+          "author": "m463",
+          "description": "Article URL: https://www.nih.gov/about-nih/who-we-are/nih-director/statements/accelerating-access-research-results-new-implementation-date-2024-nih-public-access-policy\nComments URL: https://news.ycombinator.com/item?id=43858568\nPoints: 503\n# Comments: 89",
+          "link": "https://www.nih.gov/about-nih/who-we-are/nih-director/statements/accelerating-access-research-results-new-implementation-date-2024-nih-public-access-policy",
+          "publishedOn": "2025-05-01T15:01:44.000Z",
+          "wordCount": 977,
+          "title": "Starting July 1, academic publishers can't paywall NIH-funded research",
           "imageUrl": null
         },
         {
@@ -1263,16 +1283,6 @@
           "publishedOn": "2025-04-02T20:02:09.000Z",
           "wordCount": 388,
           "title": "Pico.sh – SSH powered services for developers",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=43559605",
-          "author": "shw1n",
-          "description": "Article URL: https://shwin.co/blog/why-i-dont-discuss-politics-with-friends\nComments URL: https://news.ycombinator.com/item?id=43559605\nPoints: 501\n# Comments: 973",
-          "link": "https://shwin.co/blog/why-i-dont-discuss-politics-with-friends",
-          "publishedOn": "2025-04-02T18:14:44.000Z",
-          "wordCount": 18595,
-          "title": "Why I don't discuss politics with friends",
           "imageUrl": null
         }
       ]
