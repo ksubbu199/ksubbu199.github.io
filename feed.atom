@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-05-03T03:02:39.128Z</updated>
+    <updated>2025-05-03T04:21:07.147Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -1840,6 +1840,20 @@ Points: 501
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Updating yesterday's post on social media engagement]]></title>
+        <id>https://martinfowler.com/articles/2025-social-traffic.html</id>
+        <link href="https://martinfowler.com/articles/2025-social-traffic.html"/>
+        <updated>2025-04-04T18:32:00.000Z</updated>
+        <summary type="html"><![CDATA[Some people asked about how many people clicked through the links on
+      these social media posts. I've added some more to the article, partly to
+      explain why I don't have that information, and partly to show overall
+      source data for traffic to the site. 
+more…]]></summary>
+        <author>
+            <name>Martin Fowler</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Bored of It]]></title>
         <id>https://news.ycombinator.com/item?id=43580449</id>
         <link href="https://paulrobertlloyd.com/2025/087/a1/bored/"/>
@@ -1876,32 +1890,6 @@ Points: 523
 # Comments: 369]]></summary>
         <author>
             <name>participant3</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI 2027]]></title>
-        <id>https://news.ycombinator.com/item?id=43571851</id>
-        <link href="https://ai-2027.com/"/>
-        <updated>2025-04-03T16:13:02.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://ai-2027.com/
-Comments URL: https://news.ycombinator.com/item?id=43571851
-Points: 503
-# Comments: 322]]></summary>
-        <author>
-            <name>Tenoke</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Curl-impersonate: Special build of curl that can impersonate the major browsers]]></title>
-        <id>https://news.ycombinator.com/item?id=43571099</id>
-        <link href="https://github.com/lwthiker/curl-impersonate"/>
-        <updated>2025-04-03T15:24:49.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://github.com/lwthiker/curl-impersonate
-Comments URL: https://news.ycombinator.com/item?id=43571099
-Points: 503
-# Comments: 140]]></summary>
-        <author>
-            <name>mmh0000</name>
         </author>
     </entry>
 </feed>

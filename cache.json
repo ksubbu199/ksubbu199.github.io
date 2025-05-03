@@ -1224,26 +1224,6 @@
           "wordCount": null,
           "title": "An image of an archeologist adventurer who wears a hat and uses a bullwhip",
           "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=43571851",
-          "author": "Tenoke",
-          "description": "Article URL: https://ai-2027.com/\nComments URL: https://news.ycombinator.com/item?id=43571851\nPoints: 503\n# Comments: 322",
-          "link": "https://ai-2027.com/",
-          "publishedOn": "2025-04-03T16:13:02.000Z",
-          "wordCount": 137419,
-          "title": "AI 2027",
-          "imageUrl": "https://ai-2027.com/opengraph.png"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=43571099",
-          "author": "mmh0000",
-          "description": "Article URL: https://github.com/lwthiker/curl-impersonate\nComments URL: https://news.ycombinator.com/item?id=43571099\nPoints: 503\n# Comments: 140",
-          "link": "https://github.com/lwthiker/curl-impersonate",
-          "publishedOn": "2025-04-03T15:24:49.000Z",
-          "wordCount": 5772,
-          "title": "Curl-impersonate: Special build of curl that can impersonate the major browsers",
-          "imageUrl": "https://opengraph.githubassets.com/26547c20789233d16a337e2cc058d040993439ee9de0147c6b0028308db75bae/lwthiker/curl-impersonate"
         }
       ]
     },
@@ -1310,6 +1290,16 @@
           "wordCount": 1582,
           "title": "Guiding an LLM for Robust Java ByteBuffer Code",
           "imageUrl": "https://martinfowler.com/articles/exploring-gen-ai/donkey-card.png"
+        },
+        {
+          "id": "https://martinfowler.com/articles/2025-social-traffic.html",
+          "author": null,
+          "description": "Some people asked about how many people clicked through the links on\n      these social media posts. I've added some more to the article, partly to\n      explain why I don't have that information, and partly to show overall\n      source data for traffic to the site. \nmore…",
+          "link": "https://martinfowler.com/articles/2025-social-traffic.html",
+          "publishedOn": "2025-04-04T18:32:00.000Z",
+          "wordCount": 1111,
+          "title": "Updating yesterday's post on social media engagement",
+          "imageUrl": "https://martinfowler.com/articles/2025-social-traffic/card.png"
         }
       ]
     },
