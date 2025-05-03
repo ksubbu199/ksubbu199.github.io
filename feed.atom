@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-05-03T22:16:24.689Z</updated>
+    <updated>2025-05-03T23:16:28.478Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Accountability Sinks]]></title>
+        <id>https://news.ycombinator.com/item?id=43877301</id>
+        <link href="https://250bpm.substack.com/p/accountability-sinks"/>
+        <updated>2025-05-03T06:45:00.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://250bpm.substack.com/p/accountability-sinks
+Comments URL: https://news.ycombinator.com/item?id=43877301
+Points: 513
+# Comments: 317]]></summary>
+        <author>
+            <name>msustrik</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to live an intellectually rich life]]></title>
         <id>https://news.ycombinator.com/item?id=43868192</id>
@@ -1864,19 +1877,6 @@ Points: 501
 more…]]></summary>
         <author>
             <name>Martin Fowler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bored of It]]></title>
-        <id>https://news.ycombinator.com/item?id=43580449</id>
-        <link href="https://paulrobertlloyd.com/2025/087/a1/bored/"/>
-        <updated>2025-04-04T10:54:10.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://paulrobertlloyd.com/2025/087/a1/bored/
-Comments URL: https://news.ycombinator.com/item?id=43580449
-Points: 501
-# Comments: 414]]></summary>
-        <author>
-            <name>NotInOurNames</name>
         </author>
     </entry>
 </feed>
