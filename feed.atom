@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-05-04T06:25:10.253Z</updated>
+    <updated>2025-05-04T07:16:26.975Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -1863,20 +1863,6 @@ Points: 501
 # Comments: 126]]></summary>
         <author>
             <name>ingve</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Updating yesterday's post on social media engagement]]></title>
-        <id>https://martinfowler.com/articles/2025-social-traffic.html</id>
-        <link href="https://martinfowler.com/articles/2025-social-traffic.html"/>
-        <updated>2025-04-04T18:32:00.000Z</updated>
-        <summary type="html"><![CDATA[Some people asked about how many people clicked through the links on
-      these social media posts. I've added some more to the article, partly to
-      explain why I don't have that information, and partly to show overall
-      source data for traffic to the site. 
-more…]]></summary>
-        <author>
-            <name>Martin Fowler</name>
         </author>
     </entry>
 </feed>
