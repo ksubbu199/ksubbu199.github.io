@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-05-05T06:27:54.125Z</updated>
+    <updated>2025-05-05T07:19:08.672Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -17,6 +17,19 @@ Points: 570
 # Comments: 395]]></summary>
         <author>
             <name>claytonwramsey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Design for 3D-Printing]]></title>
+        <id>https://news.ycombinator.com/item?id=43888117</id>
+        <link href="https://blog.rahix.de/design-for-3d-printing/"/>
+        <updated>2025-05-04T17:38:13.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://blog.rahix.de/design-for-3d-printing/
+Comments URL: https://news.ycombinator.com/item?id=43888117
+Points: 507
+# Comments: 140]]></summary>
+        <author>
+            <name>q3k</name>
         </author>
     </entry>
     <entry>
@@ -1774,19 +1787,6 @@ Points: 543
 # Comments: 115]]></summary>
         <author>
             <name>tosh</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Llama 4 herd]]></title>
-        <id>https://news.ycombinator.com/item?id=43595585</id>
-        <link href="https://ai.meta.com/blog/llama-4-multimodal-intelligence/"/>
-        <updated>2025-04-05T18:33:56.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://ai.meta.com/blog/llama-4-multimodal-intelligence/
-Comments URL: https://news.ycombinator.com/item?id=43595585
-Points: 558
-# Comments: 285]]></summary>
-        <author>
-            <name>georgehill</name>
         </author>
     </entry>
 </feed>
