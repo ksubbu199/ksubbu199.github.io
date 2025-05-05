@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-05-05T22:18:06.865Z</updated>
+    <updated>2025-05-05T23:17:15.633Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The Death of Daydreaming]]></title>
+        <id>https://news.ycombinator.com/item?id=43894305</id>
+        <link href="https://www.afterbabel.com/p/on-the-death-of-daydreaming"/>
+        <updated>2025-05-05T12:22:10.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.afterbabel.com/p/on-the-death-of-daydreaming
+Comments URL: https://news.ycombinator.com/item?id=43894305
+Points: 506
+# Comments: 203]]></summary>
+        <author>
+            <name>isolli</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[I'd rather read the prompt]]></title>
         <id>https://news.ycombinator.com/item?id=43888803</id>
@@ -69,6 +82,19 @@ Points: 513
 # Comments: 317]]></summary>
         <author>
             <name>msustrik</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Technical analysis of the Signal clone used by Trump officials]]></title>
+        <id>https://news.ycombinator.com/item?id=43875476</id>
+        <link href="https://micahflee.com/tm-sgnl-the-obscure-unofficial-signal-app-mike-waltz-uses-to-text-with-trump-officials/"/>
+        <updated>2025-05-02T23:20:59.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://micahflee.com/tm-sgnl-the-obscure-unofficial-signal-app-mike-waltz-uses-to-text-with-trump-officials/
+Comments URL: https://news.ycombinator.com/item?id=43875476
+Points: 508
+# Comments: 238]]></summary>
+        <author>
+            <name>micahflee</name>
         </author>
     </entry>
     <entry>
