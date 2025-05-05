@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-05-05T19:12:59.668Z</updated>
+    <updated>2025-05-05T20:20:17.537Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -30,6 +30,19 @@ Points: 507
 # Comments: 140]]></summary>
         <author>
             <name>q3k</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[We fell out of love with Next.js and back in love with Ruby on Rails]]></title>
+        <id>https://news.ycombinator.com/item?id=43881035</id>
+        <link href="https://hardcover.app/blog/part-1-how-we-fell-out-of-love-with-next-js-and-back-in-love-with-ruby-on-rails-inertia-js"/>
+        <updated>2025-05-03T18:26:06.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://hardcover.app/blog/part-1-how-we-fell-out-of-love-with-next-js-and-back-in-love-with-ruby-on-rails-inertia-js
+Comments URL: https://news.ycombinator.com/item?id=43881035
+Points: 500
+# Comments: 486]]></summary>
+        <author>
+            <name>mike1o1</name>
         </author>
     </entry>
     <entry>
@@ -1787,19 +1800,6 @@ Points: 531
 # Comments: 144]]></summary>
         <author>
             <name>skilldeliver</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Standard Ebooks: liberated ebooks, carefully produced for the true book lover]]></title>
-        <id>https://news.ycombinator.com/item?id=43599637</id>
-        <link href="https://standardebooks.org/"/>
-        <updated>2025-04-06T07:36:12.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://standardebooks.org
-Comments URL: https://news.ycombinator.com/item?id=43599637
-Points: 543
-# Comments: 115]]></summary>
-        <author>
-            <name>tosh</name>
         </author>
     </entry>
 </feed>
