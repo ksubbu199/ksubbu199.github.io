@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=43888803",
+          "author": "claytonwramsey",
+          "description": "Article URL: https://claytonwramsey.com/blog/prompt/\nComments URL: https://news.ycombinator.com/item?id=43888803\nPoints: 570\n# Comments: 395",
+          "link": "https://claytonwramsey.com/blog/prompt/",
+          "publishedOn": "2025-05-04T19:17:28.000Z",
+          "wordCount": 2020,
+          "title": "I'd rather read the prompt",
+          "imageUrl": null
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=43880962",
           "author": "philjohnson",
           "description": "Add text, input boxes, pictures, signatures, delete pages, merge PDFs and password protect them. All happening in the browser, 100% free and no sign-up.\nComments URL: https://news.ycombinator.com/item?id=43880962\nPoints: 515\n# Comments: 110",
@@ -1204,16 +1214,6 @@
           "wordCount": 2287,
           "title": "What If We Made Advertising Illegal?",
           "imageUrl": "https://simone.org/content/images/size/w1200/2025/04/DSC08956-1.jpg"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=43593789",
-          "author": "mkate",
-          "description": "Article URL: https://www.whatsit.today/\nComments URL: https://news.ycombinator.com/item?id=43593789\nPoints: 500\n# Comments: 247",
-          "link": "https://www.whatsit.today/",
-          "publishedOn": "2025-04-05T14:26:02.000Z",
-          "wordCount": 75,
-          "title": "Show HN: I built a word game. My mom thinks it's great. What do you think?",
-          "imageUrl": null
         }
       ]
     },
@@ -1440,56 +1440,6 @@
           "wordCount": null,
           "title": "@nikhil.kamath  on Indian Business podcast",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=5G1Xaj3gIP0",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=5G1Xaj3gIP0",
-          "publishedOn": "2025-04-05T14:37:54.000Z",
-          "wordCount": null,
-          "title": "Grok AI Exposed?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=JkxHxb_iTzI",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=JkxHxb_iTzI",
-          "publishedOn": "2025-04-05T14:36:21.000Z",
-          "wordCount": null,
-          "title": "AI can build websites without Code!",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=ZCf2U9J32xI",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=ZCf2U9J32xI",
-          "publishedOn": "2025-04-05T14:35:40.000Z",
-          "wordCount": null,
-          "title": "Will AI Replace Indian Engineers?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=YywwpnCGOE0",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=YywwpnCGOE0",
-          "publishedOn": "2025-04-05T14:34:49.000Z",
-          "wordCount": null,
-          "title": "AI will steal your Job?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=Rt7qxyDzc_Y",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=Rt7qxyDzc_Y",
-          "publishedOn": "2025-04-05T14:00:07.000Z",
-          "wordCount": null,
-          "title": "Ultimate AI Masterclass for Founders and Executives 💰| Vaibhav Sisinty | Indian Business podcast",
-          "imageUrl": null
         }
       ]
     },
@@ -1516,16 +1466,6 @@
           "publishedOn": "2025-04-11T14:45:03.000Z",
           "wordCount": null,
           "title": "Does discipline work?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=rn8r1RdhEUQ",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=rn8r1RdhEUQ",
-          "publishedOn": "2025-04-05T14:30:23.000Z",
-          "wordCount": null,
-          "title": "Socket management and Kernel Data structures",
           "imageUrl": null
         }
       ]
