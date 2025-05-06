@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-05-06T21:17:22.958Z</updated>
+    <updated>2025-05-06T22:17:41.074Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Clippy – 90s UI for local LLMs]]></title>
+        <id>https://news.ycombinator.com/item?id=43905942</id>
+        <link href="https://felixrieseberg.github.io/clippy/"/>
+        <updated>2025-05-06T15:02:22.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://felixrieseberg.github.io/clippy/
+Comments URL: https://news.ycombinator.com/item?id=43905942
+Points: 527
+# Comments: 145]]></summary>
+        <author>
+            <name>felixrieseberg</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Function calling using LLMs]]></title>
         <id>https://martinfowler.com/articles/function-call-LLM.html</id>
