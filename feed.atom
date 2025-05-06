@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-05-06T12:39:19.141Z</updated>
+    <updated>2025-05-06T13:31:11.502Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Function calling using LLMs]]></title>
+        <id>https://martinfowler.com/articles/function-call-LLM.html</id>
+        <link href="https://martinfowler.com/articles/function-call-LLM.html"/>
+        <updated>2025-05-06T13:02:00.000Z</updated>
+        <summary type="html"><![CDATA[While LLMs excel at generating cogent text based on their training
+      data, they may also need to interact with external systems. Kiran
+      Prakash describes how we get them to construct external function
+      calls to do this. The LLM does not execute these calls directly, instead
+      it creates a data structure that describes the call, passing that to a
+      separate program for execution and further processing. The LLM's prompt
+      includes details about possible function calls and when they should be
+      used.
+more…]]></summary>
+        <author>
+            <name>Martin Fowler</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Evolving OpenAI's Structure]]></title>
         <id>https://news.ycombinator.com/item?id=43897772</id>

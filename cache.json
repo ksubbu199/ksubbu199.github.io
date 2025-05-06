@@ -1262,6 +1262,16 @@
       "siteUrl": "https://martinfowler.com/feed.atom",
       "articles": [
         {
+          "id": "https://martinfowler.com/articles/function-call-LLM.html",
+          "author": null,
+          "description": "While LLMs excel at generating cogent text based on their training\n      data, they may also need to interact with external systems. Kiran\n      Prakash describes how we get them to construct external function\n      calls to do this. The LLM does not execute these calls directly, instead\n      it creates a data structure that describes the call, passing that to a\n      separate program for execution and further processing. The LLM's prompt\n      includes details about possible function calls and when they should be\n      used.\nmore…",
+          "link": "https://martinfowler.com/articles/function-call-LLM.html",
+          "publishedOn": "2025-05-06T13:02:00.000Z",
+          "wordCount": 3606,
+          "title": "Function calling using LLMs",
+          "imageUrl": "https://martinfowler.com/articles/function-call-LLM/card.png"
+        },
+        {
           "id": "https://martinfowler.com/articles/exploring-gen-ai/15-building-tmt-mirror-visualization.html",
           "author": null,
           "description": "Creating a user interface that visualizes a real-world structure —\n       like the Thirty Meter Telescope's mirror — might seem like a task that\n       demands deep knowledge of geometry, D3.js, and SVG graphics. But with a\n       Large Language Model (LLM) like Claude or ChatGPT, you don't need to know\n       everything upfront. Unmesh Joshi describes how working\n       with an LLM gave him a working prototype even when he's\n       unfamiliar with the underlying tech. \nmore…",
