@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-05-06T11:15:35.798Z</updated>
+    <updated>2025-05-06T12:39:19.141Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -108,6 +108,25 @@ Points: 508
 # Comments: 238]]></summary>
         <author>
             <name>micahflee</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: I built a synthesizer based on 3D physics]]></title>
+        <id>https://news.ycombinator.com/item?id=43873074</id>
+        <link href="https://anukari.com/"/>
+        <updated>2025-05-02T18:12:15.000Z</updated>
+        <summary type="html"><![CDATA[I've been working on the Anukari 3D Physics Synthesizer for a little over two years now. It's one of the earliest virtual instruments to rely on the GPU for audio processing, which has been incredibly challenging and fun. In the end, predictably, the GUI for manipulating the 3D system actually ended up being a lot more work than the physics simulation.
+So far I am only selling it direct on my website, which seems to be working well. I hope to turn it into a sustainable business, and ideally I'd have enough revenue to hire folks to help with it. So far it's been 99% a solo project, with (awesome) contractors brought in for some of the stuff that I'm bad at, like the 3D models and making instrument presets/videos.
+The official launch announcement video is here: https://www.youtube.com/watch?v=NYX_eeNVIEU
+But if you REALLY want to see what it can do, check out what Mick Cormick did with in on the first day: https://x.com/Mick_Gordon/status/1918146487948919222
+I've kept a fairly detailed developer log about my progress on the project since October 2023, which might be of interest to the hardcore technical folks here:
+https://anukari.com/blog/devlog
+I also gave a talk at Audio Developer Conference 2023 (ADC23) that goes deep into a couple of the problems I solved for Anukari: https://www.youtube.com/watch?v=lb8b1SYy73Q
+Comments URL: https://news.ycombinator.com/item?id=43873074
+Points: 502
+# Comments: 123]]></summary>
+        <author>
+            <name>humbledrone</name>
         </author>
     </entry>
     <entry>
