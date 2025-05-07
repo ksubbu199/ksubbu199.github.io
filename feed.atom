@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-05-07T01:27:24.594Z</updated>
+    <updated>2025-05-07T03:08:50.251Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Gemini 2.5 Pro Preview]]></title>
+        <id>https://news.ycombinator.com/item?id=43906018</id>
+        <link href="https://developers.googleblog.com/en/gemini-2-5-pro-io-improved-coding-performance/"/>
+        <updated>2025-05-06T15:10:00.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://developers.googleblog.com/en/gemini-2-5-pro-io-improved-coding-performance/
+Comments URL: https://news.ycombinator.com/item?id=43906018
+Points: 500
+# Comments: 469]]></summary>
+        <author>
+            <name>meetpateltech</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Show HN: Clippy – 90s UI for local LLMs]]></title>
         <id>https://news.ycombinator.com/item?id=43905942</id>
