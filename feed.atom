@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-05-07T22:18:15.289Z</updated>
+    <updated>2025-05-07T23:17:29.601Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Zed: High-performance AI Code Editor]]></title>
+        <id>https://news.ycombinator.com/item?id=43912844</id>
+        <link href="https://zed.dev/blog/fastest-ai-code-editor"/>
+        <updated>2025-05-07T06:38:40.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://zed.dev/blog/fastest-ai-code-editor
+Comments URL: https://news.ycombinator.com/item?id=43912844
+Points: 526
+# Comments: 335]]></summary>
+        <author>
+            <name>vquemener</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Claude's system prompt is over 24k tokens with tools]]></title>
         <id>https://news.ycombinator.com/item?id=43909409</id>
@@ -1889,32 +1902,6 @@ Points: 534
 # Comments: 113]]></summary>
         <author>
             <name>brgross</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Brazil's government-run payments system has become dominant]]></title>
-        <id>https://news.ycombinator.com/item?id=43620279</id>
-        <link href="https://www.economist.com/the-americas/2025/04/03/brazils-government-run-payments-system-has-become-dominant"/>
-        <updated>2025-04-08T10:59:26.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.economist.com/the-americas/2025/04/03/brazils-government-run-payments-system-has-become-dominant
-Comments URL: https://news.ycombinator.com/item?id=43620279
-Points: 511
-# Comments: 590]]></summary>
-        <author>
-            <name>jcartw</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tailscale has raised $160M]]></title>
-        <id>https://news.ycombinator.com/item?id=43620141</id>
-        <link href="https://tailscale.com/blog/series-c"/>
-        <updated>2025-04-08T10:36:07.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://tailscale.com/blog/series-c
-Comments URL: https://news.ycombinator.com/item?id=43620141
-Points: 511
-# Comments: 225]]></summary>
-        <author>
-            <name>louis-paul</name>
         </author>
     </entry>
 </feed>
