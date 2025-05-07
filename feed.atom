@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-05-07T16:24:59.589Z</updated>
+    <updated>2025-05-07T17:16:53.088Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Claude's system prompt is over 24k tokens with tools]]></title>
+        <id>https://news.ycombinator.com/item?id=43909409</id>
+        <link href="https://github.com/asgeirtj/system_prompts_leaks/blob/main/claude.txt"/>
+        <updated>2025-05-06T20:39:35.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://github.com/asgeirtj/system_prompts_leaks/blob/main/claude.txt
+Comments URL: https://news.ycombinator.com/item?id=43909409
+Points: 505
+# Comments: 254]]></summary>
+        <author>
+            <name>mike210</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Matt Godbolt sold me on Rust by showing me C++]]></title>
         <id>https://news.ycombinator.com/item?id=43907820</id>
