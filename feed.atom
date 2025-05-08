@@ -2,10 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-05-07T23:17:29.601Z</updated>
+    <updated>2025-05-08T01:27:32.497Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Ty: A fast Python type checker and language server]]></title>
+        <id>https://news.ycombinator.com/item?id=43918484</id>
+        <link href="https://github.com/astral-sh/ty"/>
+        <updated>2025-05-07T17:32:26.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://github.com/astral-sh/ty
+Comments URL: https://news.ycombinator.com/item?id=43918484
+Points: 532
+# Comments: 153]]></summary>
+        <author>
+            <name>arathore</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CLion Is Now Free for Non-Commercial Use]]></title>
+        <id>https://news.ycombinator.com/item?id=43914705</id>
+        <link href="https://blog.jetbrains.com/clion/2025/05/clion-is-now-free-for-non-commercial-use/"/>
+        <updated>2025-05-07T12:18:38.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://blog.jetbrains.com/clion/2025/05/clion-is-now-free-for-non-commercial-use/
+Comments URL: https://news.ycombinator.com/item?id=43914705
+Points: 522
+# Comments: 321]]></summary>
+        <author>
+            <name>AlexeyBrin</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Zed: High-performance AI Code Editor]]></title>
         <id>https://news.ycombinator.com/item?id=43912844</id>
