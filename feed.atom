@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-05-10T01:24:02.989Z</updated>
+    <updated>2025-05-10T03:02:55.707Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -30,6 +30,19 @@ Points: 546
 # Comments: 138]]></summary>
         <author>
             <name>mattl</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Reservoir Sampling]]></title>
+        <id>https://news.ycombinator.com/item?id=43928315</id>
+        <link href="https://samwho.dev/reservoir-sampling/"/>
+        <updated>2025-05-08T17:02:10.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://samwho.dev/reservoir-sampling/
+Comments URL: https://news.ycombinator.com/item?id=43928315
+Points: 500
+# Comments: 104]]></summary>
+        <author>
+            <name>chrisdemarco</name>
         </author>
     </entry>
     <entry>
@@ -1896,42 +1909,6 @@ Points: 517
 # Comments: 186]]></summary>
         <author>
             <name>mike1o1</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Apple’s Darkest Hour]]></title>
-        <id>https://www.youtube.com/watch?v=G8Lq06naiHI</id>
-        <link href="https://www.youtube.com/watch?v=G8Lq06naiHI"/>
-        <updated>2025-04-10T13:49:08.000Z</updated>
-        <author>
-            <name>Think School</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Will AI End Us?]]></title>
-        <id>https://www.youtube.com/watch?v=GlnC0O-56ks</id>
-        <link href="https://www.youtube.com/watch?v=GlnC0O-56ks"/>
-        <updated>2025-04-10T13:44:40.000Z</updated>
-        <author>
-            <name>Think School</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Truth about ChatGPT]]></title>
-        <id>https://www.youtube.com/watch?v=h-z1_nWybDM</id>
-        <link href="https://www.youtube.com/watch?v=h-z1_nWybDM"/>
-        <updated>2025-04-10T13:44:28.000Z</updated>
-        <author>
-            <name>Think School</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The DANGEROUS Side of AI]]></title>
-        <id>https://www.youtube.com/watch?v=X5y2SZ8Yyng</id>
-        <link href="https://www.youtube.com/watch?v=X5y2SZ8Yyng"/>
-        <updated>2025-04-10T13:44:17.000Z</updated>
-        <author>
-            <name>Think School</name>
         </author>
     </entry>
 </feed>
