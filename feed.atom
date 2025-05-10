@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-05-10T05:16:57.716Z</updated>
+    <updated>2025-05-10T06:23:57.592Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -17,6 +17,19 @@ Points: 507
 # Comments: 263]]></summary>
         <author>
             <name>miiiiiike</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NSF faces shake-up as officials abolish its 37 divisions]]></title>
+        <id>https://news.ycombinator.com/item?id=43935913</id>
+        <link href="https://www.science.org/content/article/exclusive-nsf-faces-radical-shake-officials-abolish-its-37-divisions"/>
+        <updated>2025-05-09T12:13:36.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.science.org/content/article/exclusive-nsf-faces-radical-shake-officials-abolish-its-37-divisions
+Comments URL: https://news.ycombinator.com/item?id=43935913
+Points: 506
+# Comments: 665]]></summary>
+        <author>
+            <name>magicalist</name>
         </author>
     </entry>
     <entry>
@@ -1909,19 +1922,6 @@ Points: 527
 # Comments: 249]]></summary>
         <author>
             <name>saeedesmaili</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Garfield Minus Garfield]]></title>
-        <id>https://news.ycombinator.com/item?id=43646095</id>
-        <link href="https://garfieldminusgarfield.net/"/>
-        <updated>2025-04-10T17:21:03.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://garfieldminusgarfield.net
-Comments URL: https://news.ycombinator.com/item?id=43646095
-Points: 517
-# Comments: 186]]></summary>
-        <author>
-            <name>mike1o1</name>
         </author>
     </entry>
 </feed>
