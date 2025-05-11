@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-05-11T03:13:45.149Z</updated>
+    <updated>2025-05-11T04:21:30.118Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -165,6 +165,19 @@ Points: 506
 # Comments: 129]]></summary>
         <author>
             <name>lfittl</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mistral ships Le Chat – enterprise AI assistant that can run on prem]]></title>
+        <id>https://news.ycombinator.com/item?id=43916098</id>
+        <link href="https://mistral.ai/news/le-chat-enterprise"/>
+        <updated>2025-05-07T14:24:09.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://mistral.ai/news/le-chat-enterprise
+Comments URL: https://news.ycombinator.com/item?id=43916098
+Points: 500
+# Comments: 156]]></summary>
+        <author>
+            <name>_lateralus_</name>
         </author>
     </entry>
     <entry>
