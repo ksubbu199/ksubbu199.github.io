@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-05-11T22:16:45.974Z</updated>
+    <updated>2025-05-11T23:16:34.851Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Plain Vanilla Web]]></title>
+        <id>https://news.ycombinator.com/item?id=43954896</id>
+        <link href="https://plainvanillaweb.com/index.html"/>
+        <updated>2025-05-11T16:31:58.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://plainvanillaweb.com/index.html
+Comments URL: https://news.ycombinator.com/item?id=43954896
+Points: 539
+# Comments: 295]]></summary>
+        <author>
+            <name>andrewrn</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Boot.dev Beat. May 2025]]></title>
         <id>https://blog.boot.dev/news/bootdev-beat-2025-05/</id>
