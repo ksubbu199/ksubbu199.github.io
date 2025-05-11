@@ -1328,7 +1328,28 @@
       "title": "Boot.dev Blog",
       "feedUrl": "https://blog.boot.dev/index.xml",
       "siteUrl": "https://blog.boot.dev/",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://blog.boot.dev/news/bootdev-beat-2025-05/",
+          "author": null,
+          "description": "Out biggest content release ever just dropped: the complete backend learning path, but now in Python and TypeScript!",
+          "link": "https://blog.boot.dev/news/bootdev-beat-2025-05/",
+          "publishedOn": "2025-05-11T00:00:00.000Z",
+          "wordCount": 1224,
+          "title": "The Boot.dev Beat. May 2025",
+          "imageUrl": "https://blog.boot.dev/img/800/bootssketches.png.webp"
+        },
+        {
+          "id": "https://blog.boot.dev/news/bootdev-beat-2025-04/",
+          "author": null,
+          "description": "The Lord of the Mire has been the hardest boss yet (by far), weighing it with 150,000,000 HP.",
+          "link": "https://blog.boot.dev/news/bootdev-beat-2025-04/",
+          "publishedOn": "2025-04-27T00:00:00.000Z",
+          "wordCount": 846,
+          "title": "The Boot.dev Beat. April 2025",
+          "imageUrl": "https://blog.boot.dev/img/800/bootscrystal.png.webp"
+        }
+      ]
     },
     {
       "title": "Julia Evans",
