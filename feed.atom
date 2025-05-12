@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-05-12T18:26:41.377Z</updated>
+    <updated>2025-05-12T19:15:22.257Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -17,6 +17,19 @@ Points: 539
 # Comments: 295]]></summary>
         <author>
             <name>andrewrn</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[One-Click RCE in Asus's Preinstalled Driver Software]]></title>
+        <id>https://news.ycombinator.com/item?id=43951588</id>
+        <link href="https://mrbruh.com/asusdriverhub/"/>
+        <updated>2025-05-11T05:11:18.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://mrbruh.com/asusdriverhub/
+Comments URL: https://news.ycombinator.com/item?id=43951588
+Points: 500
+# Comments: 236]]></summary>
+        <author>
+            <name>MrBruh</name>
         </author>
     </entry>
     <entry>
