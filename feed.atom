@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-05-13T11:16:24.026Z</updated>
+    <updated>2025-05-13T12:39:19.520Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Mozilla Firefox – Official GitHub repo]]></title>
+        <id>https://news.ycombinator.com/item?id=43969827</id>
+        <link href="https://github.com/mozilla-firefox/firefox"/>
+        <updated>2025-05-13T05:23:10.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://github.com/mozilla-firefox/firefox
+Comments URL: https://news.ycombinator.com/item?id=43969827
+Points: 549
+# Comments: 309]]></summary>
+        <author>
+            <name>thefilmore</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[I hacked a dating app (and how not to treat a security researcher)]]></title>
         <id>https://news.ycombinator.com/item?id=43964937</id>
@@ -1901,19 +1914,6 @@ Points: 513
 # Comments: 79]]></summary>
         <author>
             <name>calme_toi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Everything wrong with MCP]]></title>
-        <id>https://news.ycombinator.com/item?id=43676771</id>
-        <link href="https://blog.sshh.io/p/everything-wrong-with-mcp"/>
-        <updated>2025-04-13T23:53:35.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://blog.sshh.io/p/everything-wrong-with-mcp
-Comments URL: https://news.ycombinator.com/item?id=43676771
-Points: 500
-# Comments: 222]]></summary>
-        <author>
-            <name>sshh12</name>
         </author>
     </entry>
 </feed>
