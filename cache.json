@@ -1373,6 +1373,16 @@
       "siteUrl": "https://martinfowler.com/feed.atom",
       "articles": [
         {
+          "id": "https://martinfowler.com/articles/exploring-gen-ai/software-supply-chain-attack-surface.html",
+          "author": null,
+          "description": "We have long recognized that developer environments represent a weak\n       point in the software supply chain. Jim Gumbley and Lilly\n       Ryan explore how agentic coding assistants expand the attack\n       surface of software supply chains and what measures we need to do to\n       safeguard security when using them.\nmore…",
+          "link": "https://martinfowler.com/articles/exploring-gen-ai/software-supply-chain-attack-surface.html",
+          "publishedOn": "2025-05-13T13:11:00.000Z",
+          "wordCount": 1035,
+          "title": "Coding Assistants Threaten the Software Supply Chain",
+          "imageUrl": "https://martinfowler.com/articles/exploring-gen-ai/donkey-card.png"
+        },
+        {
           "id": "https://martinfowler.com/articles/function-call-LLM.html",
           "author": null,
           "description": "While LLMs excel at generating cogent text based on their training\n      data, they may also need to interact with external systems. Kiran\n      Prakash describes how we get them to construct external function\n      calls to do this. The LLM does not execute these calls directly, instead\n      it creates a data structure that describes the call, passing that to a\n      separate program for execution and further processing. The LLM's prompt\n      includes details about possible function calls and when they should be\n      used.\nmore…",
