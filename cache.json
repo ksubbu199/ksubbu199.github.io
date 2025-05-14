@@ -1274,26 +1274,6 @@
           "wordCount": 1574,
           "title": "Harvard's response to federal government letter demanding changes",
           "imageUrl": "https://www.harvard.edu/president/wp-content/uploads/sites/2/2025/04/062923_Features_SM_258_blur.jpg?resize=1200,630"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=43683410",
-          "author": "maheshrijal",
-          "description": "Article URL: https://openai.com/index/gpt-4-1/\nComments URL: https://news.ycombinator.com/item?id=43683410\nPoints: 501\n# Comments: 386",
-          "link": "https://openai.com/index/gpt-4-1/",
-          "publishedOn": "2025-04-14T17:01:45.000Z",
-          "wordCount": null,
-          "title": "GPT-4.1 in the API",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=43683012",
-          "author": "scaredpelican",
-          "description": "Earlier today Cursor, the magical AI-powered IDE started kicking users off when they logged in from multiple machines.\nLike,you’d be working on your desktop, switch to your laptop, and all of a sudden you're forcibly logged out. No warning, no notification, just gone.\nNaturally, people thought this was a new policy.\nSo they asked support.\nAnd here’s where it gets batshit: Cursor has a support email, so users emailed them to find out. The support peson told everyone this was “expected behavior” under their new login policy.\nOne problem. There was no support team, it was an AI designed to 'mimic human responses'\nThat answer, totally made up by the bot, spread like wildfire.\nUsers assumed it was real (because why wouldn’t they? It's their own support system lol), and within hours the community was in revolt. Dozens of users publicly canceled their subscriptions, myself included. Multi-device workflows are table stakes for devs, and if you're going to pull something that disruptive, you'd at least expect a changelog entry or smth.\nNope.\nAnd just as people started comparing notes and figuring out that the story didn’t quite add up… the main Reddit thread got locked. Then deleted. Like, no public resolution, no real response, just silence.\nTo be clear: this wasn’t an actual policy change, just a backend session bug, and a hallucinated excuse from a support bot that somehow did more damage than the bug itself.\nBut at that point, it didn’t matter. People were already gone.\nHonestly one of the most surreal product screwups I’ve seen in a while. Not because they made a mistake, but because the AI support system invented a lie, and nobody caught it until the userbase imploded.\nComments URL: https://news.ycombinator.com/item?id=43683012\nPoints: 640\n# Comments: 184",
-          "link": "https://old.reddit.com/r/cursor/comments/1jyy5am/psa_cursor_now_restricts_logins_to_a_single/",
-          "publishedOn": "2025-04-14T16:24:28.000Z",
-          "wordCount": null,
-          "title": "Cursor IDE support hallucinates lockout policy, causes user cancellations",
-          "imageUrl": null
         }
       ]
     },
