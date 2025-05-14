@@ -1333,6 +1333,16 @@
       "siteUrl": "https://martinfowler.com/feed.atom",
       "articles": [
         {
+          "id": "https://martinfowler.com/articles/exploring-gen-ai/16-building-custom-tooling-with-llms.html",
+          "author": null,
+          "description": "Tools that treat diagrams as code, such as PlantUML, are invaluable\n       for communicating complex system behavior. But Unmesh\n       Joshi often wished for an extension to walk through these\n       diagrams step-by-step. Yet, extending established tools like PlantUML\n       often involves significant initial setup - parsing hooks, build scripts,\n       viewer code, packaging - enough “plumbing” to deter rapid prototyping.\nHe narrates now he used an LLM to build a small extension adding step-wise\n       playback to PlantUML sequence diagrams. This illustrates how\n       syntax design, parsing, SVG generation, build automation, and an HTML\n       viewer were iteratively developed through a conversation with an LLM -\n       turning tedious tasks into manageable steps.\nmore…",
+          "link": "https://martinfowler.com/articles/exploring-gen-ai/16-building-custom-tooling-with-llms.html",
+          "publishedOn": "2025-05-14T14:10:00.000Z",
+          "wordCount": 2917,
+          "title": "Building Custom Tooling with LLMs",
+          "imageUrl": "https://martinfowler.com/articles/exploring-gen-ai/donkey-card.png"
+        },
+        {
           "id": "https://martinfowler.com/articles/exploring-gen-ai/software-supply-chain-attack-surface.html",
           "author": null,
           "description": "We have long recognized that developer environments represent a weak\n       point in the software supply chain. Jim Gumbley and Lilly\n       Ryan explore how agentic coding assistants expand the attack\n       surface of software supply chains and what measures we need to do to\n       safeguard security when using them.\nmore…",

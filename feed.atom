@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-05-14T13:30:07.693Z</updated>
+    <updated>2025-05-14T14:19:08.369Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Building Custom Tooling with LLMs]]></title>
+        <id>https://martinfowler.com/articles/exploring-gen-ai/16-building-custom-tooling-with-llms.html</id>
+        <link href="https://martinfowler.com/articles/exploring-gen-ai/16-building-custom-tooling-with-llms.html"/>
+        <updated>2025-05-14T14:10:00.000Z</updated>
+        <summary type="html"><![CDATA[Tools that treat diagrams as code, such as PlantUML, are invaluable
+       for communicating complex system behavior. But Unmesh
+       Joshi often wished for an extension to walk through these
+       diagrams step-by-step. Yet, extending established tools like PlantUML
+       often involves significant initial setup - parsing hooks, build scripts,
+       viewer code, packaging - enough “plumbing” to deter rapid prototyping.
+He narrates now he used an LLM to build a small extension adding step-wise
+       playback to PlantUML sequence diagrams. This illustrates how
+       syntax design, parsing, SVG generation, build automation, and an HTML
+       viewer were iteratively developed through a conversation with an LLM -
+       turning tedious tasks into manageable steps.
+more…]]></summary>
+        <author>
+            <name>Martin Fowler</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Coding Assistants Threaten the Software Supply Chain]]></title>
         <id>https://martinfowler.com/articles/exploring-gen-ai/software-supply-chain-attack-surface.html</id>
