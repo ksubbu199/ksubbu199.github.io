@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-05-14T15:20:30.862Z</updated>
+    <updated>2025-05-14T16:23:37.532Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[600 Million Indians Need Internet - Can Starlink Be The GAME CHANGER?]]></title>
+        <id>https://www.youtube.com/watch?v=eq5JDN5hglY</id>
+        <link href="https://www.youtube.com/watch?v=eq5JDN5hglY"/>
+        <updated>2025-05-14T15:45:10.000Z</updated>
+        <author>
+            <name>Think School</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Building Custom Tooling with LLMs]]></title>
         <id>https://martinfowler.com/articles/exploring-gen-ai/16-building-custom-tooling-with-llms.html</id>
