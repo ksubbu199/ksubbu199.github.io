@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-05-14T23:16:45.160Z</updated>
+    <updated>2025-05-15T01:25:18.940Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -47,6 +47,19 @@ He narrates now he used an LLM to build a small extension adding step-wise
 more…]]></summary>
         <author>
             <name>Martin Fowler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is HDR, anyway?]]></title>
+        <id>https://news.ycombinator.com/item?id=43983871</id>
+        <link href="https://www.lux.camera/what-is-hdr/"/>
+        <updated>2025-05-14T12:46:39.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.lux.camera/what-is-hdr/
+Comments URL: https://news.ycombinator.com/item?id=43983871
+Points: 502
+# Comments: 249]]></summary>
+        <author>
+            <name>_kush</name>
         </author>
     </entry>
     <entry>
@@ -1864,19 +1877,6 @@ Points: 522
 # Comments: 698]]></summary>
         <author>
             <name>putzdown</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[4chan Sharty Hack And Janitor Email Leak]]></title>
-        <id>https://news.ycombinator.com/item?id=43691334</id>
-        <link href="https://knowyourmeme.com/memes/events/april-2025-4chan-sharty-hack-and-janitor-email-leak"/>
-        <updated>2025-04-15T11:30:56.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://knowyourmeme.com/memes/events/april-2025-4chan-sharty-hack-and-janitor-email-leak
-Comments URL: https://news.ycombinator.com/item?id=43691334
-Points: 505
-# Comments: 636]]></summary>
-        <author>
-            <name>LookAtThatBacon</name>
         </author>
     </entry>
 </feed>
