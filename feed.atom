@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-05-15T03:08:59.574Z</updated>
+    <updated>2025-05-15T04:22:24.097Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -1828,29 +1828,6 @@ Points: 635
 # Comments: 281]]></summary>
         <author>
             <name>healsdata</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tech hiring: is this an inflection point?]]></title>
-        <id>67fe8308f8004b0001d89203</id>
-        <link href="https://blog.pragmaticengineer.com/tech-hiring-is-this-an-inflection-point/"/>
-        <updated>2025-04-15T16:03:33.000Z</updated>
-        <summary type="html"><![CDATA[We might be seeing the end of remote coding interviews as we know them, and a return of in-person interviews, trial days and longer trial periods. Could hiring be returning to pre-pandemic norms?]]></summary>
-        <author>
-            <name>Gergely Orosz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TLS certificate lifetimes will officially reduce to 47 days]]></title>
-        <id>https://news.ycombinator.com/item?id=43693900</id>
-        <link href="https://www.digicert.com/blog/tls-certificate-lifetimes-will-officially-reduce-to-47-days"/>
-        <updated>2025-04-15T15:09:22.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.digicert.com/blog/tls-certificate-lifetimes-will-officially-reduce-to-47-days
-Comments URL: https://news.ycombinator.com/item?id=43693900
-Points: 501
-# Comments: 639]]></summary>
-        <author>
-            <name>crtasm</name>
         </author>
     </entry>
 </feed>
