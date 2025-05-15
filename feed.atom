@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-05-15T16:24:10.229Z</updated>
+    <updated>2025-05-15T17:16:34.816Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -98,6 +98,19 @@ Points: 502
 more…]]></summary>
         <author>
             <name>Martin Fowler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Internet Artifacts]]></title>
+        <id>https://news.ycombinator.com/item?id=43971853</id>
+        <link href="https://neal.fun/internet-artifacts/"/>
+        <updated>2025-05-13T11:49:56.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://neal.fun/internet-artifacts/
+Comments URL: https://news.ycombinator.com/item?id=43971853
+Points: 523
+# Comments: 96]]></summary>
+        <author>
+            <name>mikerg87</name>
         </author>
     </entry>
     <entry>
