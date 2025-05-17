@@ -1164,26 +1164,6 @@
           "wordCount": 1239,
           "title": "Gemini 2.5 Flash",
           "imageUrl": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/Gemini-2-5-Flash-ai.dev.2e16d0ba.fill-1200x600.png"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=43717705",
-          "author": "IdealeZahlen",
-          "description": "Article URL: https://www.nytimes.com/2025/04/17/technology/google-ad-tech-antitrust-ruling.html\nComments URL: https://news.ycombinator.com/item?id=43717705\nPoints: 533\n# Comments: 276",
-          "link": "https://www.nytimes.com/2025/04/17/technology/google-ad-tech-antitrust-ruling.html",
-          "publishedOn": "2025-04-17T14:47:46.000Z",
-          "wordCount": null,
-          "title": "Google is illegally monopolizing online advertising tech, judge rules",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=43716665",
-          "author": "cwwc",
-          "description": "Article URL: https://www.afterbabel.com/p/industrial-scale-harm-tiktok\nComments URL: https://news.ycombinator.com/item?id=43716665\nPoints: 516\n# Comments: 566",
-          "link": "https://www.afterbabel.com/p/industrial-scale-harm-tiktok",
-          "publishedOn": "2025-04-17T13:39:28.000Z",
-          "wordCount": 16362,
-          "title": "TikTok Is Harming Children at an Industrial Scale",
-          "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd953d01e-1c9b-4e23-855f-4b15ba8f66ee_1600x1065.jpeg"
         }
       ]
     },
@@ -1291,16 +1271,6 @@
           "wordCount": 4893,
           "title": "Additional explanatory material for the Deepseek Overview",
           "imageUrl": "https://martinfowler.com/logo-sq.png"
-        },
-        {
-          "id": "https://martinfowler.com/articles/exploring-gen-ai/14-guiding-llm-java-bytebuffer.html",
-          "author": null,
-          "description": "AI editors like Cursor can generate code with remarkable speed using\n      LLMs, handling boilerplate and providing functional snippets for various\n      tasks. However, when building robust systems, functional correctness is\n      only the starting point. Code must also be safe, predictable,\n      maintainable, and free from subtle side effects. Unmesh\n      Joshi demonstrates, through a dialogue between a developer and an\n      LLM, how expert guidance is crucial to transform an initial, potentially\n      unsafe code snippet into a robust, system-ready component.\nmore…",
-          "link": "https://martinfowler.com/articles/exploring-gen-ai/14-guiding-llm-java-bytebuffer.html",
-          "publishedOn": "2025-04-17T13:39:00.000Z",
-          "wordCount": 1582,
-          "title": "Guiding an LLM for Robust Java ByteBuffer Code",
-          "imageUrl": "https://martinfowler.com/articles/exploring-gen-ai/donkey-card.png"
         }
       ]
     },
