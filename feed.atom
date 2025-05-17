@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-05-16T23:17:51.173Z</updated>
+    <updated>2025-05-17T01:26:44.419Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -1773,19 +1773,6 @@ Points: 516
 more…]]></summary>
         <author>
             <name>Martin Fowler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[An intro to DeepSeek's distributed file system]]></title>
-        <id>https://news.ycombinator.com/item?id=43716058</id>
-        <link href="https://maknee.github.io/blog/2025/3FS-Performance-Journal-1/"/>
-        <updated>2025-04-17T12:50:37.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://maknee.github.io/blog/2025/3FS-Performance-Journal-1/
-Comments URL: https://news.ycombinator.com/item?id=43716058
-Points: 508
-# Comments: 76]]></summary>
-        <author>
-            <name>sebg</name>
         </author>
     </entry>
 </feed>
