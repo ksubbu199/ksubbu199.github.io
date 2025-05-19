@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-05-19T15:21:21.691Z</updated>
+    <updated>2025-05-19T16:24:04.713Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Don't guess my language]]></title>
+        <id>https://news.ycombinator.com/item?id=44028153</id>
+        <link href="https://vitonsky.net/blog/2025/05/17/language-detection/"/>
+        <updated>2025-05-19T10:12:53.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://vitonsky.net/blog/2025/05/17/language-detection/
+Comments URL: https://news.ycombinator.com/item?id=44028153
+Points: 504
+# Comments: 293]]></summary>
+        <author>
+            <name>e-topy</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[France Endorses UN Open Source Principles]]></title>
         <id>https://news.ycombinator.com/item?id=44024759</id>
