@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-05-19T22:18:49.293Z</updated>
+    <updated>2025-05-19T23:18:05.123Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -17,6 +17,19 @@ Points: 658
 # Comments: 391]]></summary>
         <author>
             <name>pentagrama</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Zod 4]]></title>
+        <id>https://news.ycombinator.com/item?id=44030850</id>
+        <link href="https://zod.dev/v4"/>
+        <updated>2025-05-19T15:24:58.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://zod.dev/v4
+Comments URL: https://news.ycombinator.com/item?id=44030850
+Points: 526
+# Comments: 174]]></summary>
+        <author>
+            <name>bpierre</name>
         </author>
     </entry>
     <entry>
