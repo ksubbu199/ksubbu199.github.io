@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-05-20T07:18:59.730Z</updated>
+    <updated>2025-05-20T08:26:40.623Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Have I Been Pwned 2.0]]></title>
+        <id>https://news.ycombinator.com/item?id=44035158</id>
+        <link href="https://www.troyhunt.com/have-i-been-pwned-2-0-is-now-live/"/>
+        <updated>2025-05-19T21:37:23.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.troyhunt.com/have-i-been-pwned-2-0-is-now-live/
+Comments URL: https://news.ycombinator.com/item?id=44035158
+Points: 528
+# Comments: 164]]></summary>
+        <author>
+            <name>LorenDB</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Windows Subsystem for Linux is now open source]]></title>
         <id>https://news.ycombinator.com/item?id=44031385</id>
