@@ -2,10 +2,45 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-05-20T12:39:48.442Z</updated>
+    <updated>2025-05-20T13:32:25.282Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Refresh of Agile Threat Modeling]]></title>
+        <id>https://martinfowler.com/articles/agile-threat-modelling.html</id>
+        <link href="https://martinfowler.com/articles/agile-threat-modelling.html"/>
+        <updated>2025-05-20T13:20:00.000Z</updated>
+        <summary type="html"><![CDATA[Threat modeling is a systems engineering practice where teams examine
+      how data flows through systems to identify what can go wrong - a
+      deceptively simple act that reveals security risks that automated tools
+      cannot anticipate. Often this is done by security analysts as a separate
+      or upfront activity, but Jim Gumbly wrote an article in
+      2020 explaining how it could be done by teams through small and regular
+      work.
+Now Gayathri Mohan has joined Jim to rewrite the
+      article, incorporating what both have them learned about doing and
+      teaching this practice in the last few years. In particular they have
+      extended their approach to perform threat modeling with platform
+      teams.
+more…]]></summary>
+        <author>
+            <name>Martin Fowler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DDoSecrets publishes 410 GB of heap dumps, hacked from TeleMessage]]></title>
+        <id>https://news.ycombinator.com/item?id=44036647</id>
+        <link href="https://micahflee.com/ddosecrets-publishes-410-gb-of-heap-dumps-hacked-from-telemessages-archive-server/"/>
+        <updated>2025-05-20T00:52:27.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://micahflee.com/ddosecrets-publishes-410-gb-of-heap-dumps-hacked-from-telemessages-archive-server/
+Comments URL: https://news.ycombinator.com/item?id=44036647
+Points: 508
+# Comments: 136]]></summary>
+        <author>
+            <name>micahflee</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Have I Been Pwned 2.0]]></title>
         <id>https://news.ycombinator.com/item?id=44035158</id>

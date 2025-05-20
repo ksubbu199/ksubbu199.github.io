@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=44036647",
+          "author": "micahflee",
+          "description": "Article URL: https://micahflee.com/ddosecrets-publishes-410-gb-of-heap-dumps-hacked-from-telemessages-archive-server/\nComments URL: https://news.ycombinator.com/item?id=44036647\nPoints: 508\n# Comments: 136",
+          "link": "https://micahflee.com/ddosecrets-publishes-410-gb-of-heap-dumps-hacked-from-telemessages-archive-server/",
+          "publishedOn": "2025-05-20T00:52:27.000Z",
+          "wordCount": 886,
+          "title": "DDoSecrets publishes 410 GB of heap dumps, hacked from TeleMessage",
+          "imageUrl": "https://images.unsplash.com/photo-1642204705127-accc0dcc5779?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDN8fGxhbmRmaWxsfGVufDB8fHx8MTc0NzY3MTQzMnww&ixlib=rb-4.1.0&q=80&w=2000"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=44035158",
           "author": "LorenDB",
           "description": "Article URL: https://www.troyhunt.com/have-i-been-pwned-2-0-is-now-live/\nComments URL: https://news.ycombinator.com/item?id=44035158\nPoints: 528\n# Comments: 164",
@@ -1231,6 +1241,16 @@
       "feedUrl": "https://martinfowler.com/feed.atom",
       "siteUrl": "https://martinfowler.com/feed.atom",
       "articles": [
+        {
+          "id": "https://martinfowler.com/articles/agile-threat-modelling.html",
+          "author": null,
+          "description": "Threat modeling is a systems engineering practice where teams examine\n      how data flows through systems to identify what can go wrong - a\n      deceptively simple act that reveals security risks that automated tools\n      cannot anticipate. Often this is done by security analysts as a separate\n      or upfront activity, but Jim Gumbly wrote an article in\n      2020 explaining how it could be done by teams through small and regular\n      work.\nNow Gayathri Mohan has joined Jim to rewrite the\n      article, incorporating what both have them learned about doing and\n      teaching this practice in the last few years. In particular they have\n      extended their approach to perform threat modeling with platform\n      teams.\nmore…",
+          "link": "https://martinfowler.com/articles/agile-threat-modelling.html",
+          "publishedOn": "2025-05-20T13:20:00.000Z",
+          "wordCount": 7101,
+          "title": "Refresh of Agile Threat Modeling",
+          "imageUrl": "https://martinfowler.com/articles/agile-threat-modelling/card.png"
+        },
         {
           "id": "https://martinfowler.com/articles/exploring-gen-ai/16-building-custom-tooling-with-llms.html",
           "author": null,
