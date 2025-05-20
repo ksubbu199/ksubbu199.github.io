@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-05-19T23:18:05.123Z</updated>
+    <updated>2025-05-20T01:37:22.943Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -1745,19 +1745,6 @@ Points: 500
         <summary type="html"><![CDATA[a line-by-line reading]]></summary>
         <author>
             <name>/dev/lawyer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gemma 3 QAT Models: Bringing AI to Consumer GPUs]]></title>
-        <id>https://news.ycombinator.com/item?id=43743337</id>
-        <link href="https://developers.googleblog.com/en/gemma-3-quantized-aware-trained-state-of-the-art-ai-to-consumer-gpus/"/>
-        <updated>2025-04-20T12:22:06.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://developers.googleblog.com/en/gemma-3-quantized-aware-trained-state-of-the-art-ai-to-consumer-gpus/
-Comments URL: https://news.ycombinator.com/item?id=43743337
-Points: 505
-# Comments: 228]]></summary>
-        <author>
-            <name>emrah</name>
         </author>
     </entry>
 </feed>
