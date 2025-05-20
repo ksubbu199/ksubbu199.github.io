@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-05-20T13:32:25.282Z</updated>
+    <updated>2025-05-20T14:19:37.873Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -52,6 +52,19 @@ Points: 528
 # Comments: 164]]></summary>
         <author>
             <name>LorenDB</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GitHub Copilot Coding Agent]]></title>
+        <id>https://news.ycombinator.com/item?id=44031432</id>
+        <link href="https://github.blog/changelog/2025-05-19-github-copilot-coding-agent-in-public-preview/"/>
+        <updated>2025-05-19T16:17:56.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://github.blog/changelog/2025-05-19-github-copilot-coding-agent-in-public-preview/
+Comments URL: https://news.ycombinator.com/item?id=44031432
+Points: 500
+# Comments: 316]]></summary>
+        <author>
+            <name>net01</name>
         </author>
     </entry>
     <entry>
