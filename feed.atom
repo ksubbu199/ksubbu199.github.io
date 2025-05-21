@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-05-20T23:17:14.185Z</updated>
+    <updated>2025-05-21T01:36:58.007Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -1742,21 +1742,6 @@ Points: 510
 # Comments: 153]]></summary>
         <author>
             <name>toebee</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Additional explanatory material for the Deepseek Overview]]></title>
-        <id>https://martinfowler.com/articles/deepseek-papers.html</id>
-        <link href="https://martinfowler.com/articles/deepseek-papers.html"/>
-        <updated>2025-04-21T13:07:00.000Z</updated>
-        <summary type="html"><![CDATA[A couple of months ago, my colleague Shayan Mohanty
-      published a technical overview of the series of papers describing
-      the deepseek AI models. He's now gone through that article, adding
-      more explanations to make it more digestible for those of us who don't
-      have a background in building these kinds of models.
-more…]]></summary>
-        <author>
-            <name>Martin Fowler</name>
         </author>
     </entry>
 </feed>
