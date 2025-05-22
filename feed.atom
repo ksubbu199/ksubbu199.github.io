@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-05-22T08:26:13.679Z</updated>
+    <updated>2025-05-22T09:20:20.968Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Gemini Diffusion]]></title>
+        <id>https://news.ycombinator.com/item?id=44057820</id>
+        <link href="https://simonwillison.net/2025/May/21/gemini-diffusion/"/>
+        <updated>2025-05-22T01:13:50.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://simonwillison.net/2025/May/21/gemini-diffusion/
+Comments URL: https://news.ycombinator.com/item?id=44057820
+Points: 503
+# Comments: 119]]></summary>
+        <author>
+            <name>mdp2021</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[OpenAI to buy AI startup from Jony Ive]]></title>
         <id>https://news.ycombinator.com/item?id=44053518</id>
@@ -17,6 +30,19 @@ Points: 529
 # Comments: 718]]></summary>
         <author>
             <name>minimaxir</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Devstral]]></title>
+        <id>https://news.ycombinator.com/item?id=44051733</id>
+        <link href="https://mistral.ai/news/devstral"/>
+        <updated>2025-05-21T14:21:10.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://mistral.ai/news/devstral
+Comments URL: https://news.ycombinator.com/item?id=44051733
+Points: 524
+# Comments: 114]]></summary>
+        <author>
+            <name>mfiguiere</name>
         </author>
     </entry>
     <entry>
@@ -1738,19 +1764,6 @@ Points: 548
 # Comments: 98]]></summary>
         <author>
             <name>yett</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Atuin Desktop: Runbooks That Run]]></title>
-        <id>https://news.ycombinator.com/item?id=43766200</id>
-        <link href="https://blog.atuin.sh/atuin-desktop-runbooks-that-run/"/>
-        <updated>2025-04-22T20:54:52.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://blog.atuin.sh/atuin-desktop-runbooks-that-run/
-Comments URL: https://news.ycombinator.com/item?id=43766200
-Points: 501
-# Comments: 134]]></summary>
-        <author>
-            <name>freetonik</name>
         </author>
     </entry>
 </feed>

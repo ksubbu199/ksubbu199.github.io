@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=44057820",
+          "author": "mdp2021",
+          "description": "Article URL: https://simonwillison.net/2025/May/21/gemini-diffusion/\nComments URL: https://news.ycombinator.com/item?id=44057820\nPoints: 503\n# Comments: 119",
+          "link": "https://simonwillison.net/2025/May/21/gemini-diffusion/",
+          "publishedOn": "2025-05-22T01:13:50.000Z",
+          "wordCount": 511,
+          "title": "Gemini Diffusion",
+          "imageUrl": "https://static.simonwillison.net/static/2025/gemini-diffusion.jpg"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=44053518",
           "author": "minimaxir",
           "description": "Article URL: https://www.bloomberg.com/news/articles/2025-05-21/openai-to-buy-apple-veteran-jony-ive-s-ai-device-startup-in-6-5-billion-deal\nComments URL: https://news.ycombinator.com/item?id=44053518\nPoints: 529\n# Comments: 718",
@@ -14,6 +24,16 @@
           "wordCount": null,
           "title": "OpenAI to buy AI startup from Jony Ive",
           "imageUrl": null
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=44051733",
+          "author": "mfiguiere",
+          "description": "Article URL: https://mistral.ai/news/devstral\nComments URL: https://news.ycombinator.com/item?id=44051733\nPoints: 524\n# Comments: 114",
+          "link": "https://mistral.ai/news/devstral",
+          "publishedOn": "2025-05-21T14:21:10.000Z",
+          "wordCount": 2395,
+          "title": "Devstral",
+          "imageUrl": "https://mistral.ai/img/mistral-cover.png"
         },
         {
           "id": "https://news.ycombinator.com/item?id=44050152",
@@ -1164,16 +1184,6 @@
           "wordCount": 3839,
           "title": "How a 20 year old bug in GTA San Andreas surfaced in Windows 11 24H2",
           "imageUrl": "https://cookieplmonster.github.io/assets/img/posts/sa-win11-24h2-bug/gta_sa_Bg0aamH1rZ.jpg"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=43766200",
-          "author": "freetonik",
-          "description": "Article URL: https://blog.atuin.sh/atuin-desktop-runbooks-that-run/\nComments URL: https://news.ycombinator.com/item?id=43766200\nPoints: 501\n# Comments: 134",
-          "link": "https://blog.atuin.sh/atuin-desktop-runbooks-that-run/",
-          "publishedOn": "2025-04-22T20:54:52.000Z",
-          "wordCount": 1084,
-          "title": "Atuin Desktop: Runbooks That Run",
-          "imageUrl": "https://blog.atuin.sh/content/images/size/w1200/2025/04/Screenshot-from-Photopea-1.png"
         }
       ]
     },
