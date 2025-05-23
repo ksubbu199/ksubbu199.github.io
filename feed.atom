@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-05-23T15:20:14.526Z</updated>
+    <updated>2025-05-23T16:22:55.915Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -43,6 +43,19 @@ Points: 571
 # Comments: 374]]></summary>
         <author>
             <name>phantomathkg</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[That fractal that's been up on my wall for years]]></title>
+        <id>https://news.ycombinator.com/item?id=44063248</id>
+        <link href="https://chriskw.xyz/2025/05/21/Fractal/"/>
+        <updated>2025-05-22T15:50:16.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://chriskw.xyz/2025/05/21/Fractal/
+Comments URL: https://news.ycombinator.com/item?id=44063248
+Points: 505
+# Comments: 35]]></summary>
+        <author>
+            <name>chriskw</name>
         </author>
     </entry>
     <entry>
