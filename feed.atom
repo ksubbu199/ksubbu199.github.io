@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-05-23T21:15:29.635Z</updated>
+    <updated>2025-05-23T22:17:46.670Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -22,6 +22,19 @@
 more…]]></summary>
         <author>
             <name>Martin Fowler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Postgres IDE in VS Code]]></title>
+        <id>https://news.ycombinator.com/item?id=44073588</id>
+        <link href="https://techcommunity.microsoft.com/blog/adforpostgresql/announcing-a-new-ide-for-postgresql-in-vs-code-from-microsoft/4414648"/>
+        <updated>2025-05-23T15:12:44.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://techcommunity.microsoft.com/blog/adforpostgresql/announcing-a-new-ide-for-postgresql-in-vs-code-from-microsoft/4414648
+Comments URL: https://news.ycombinator.com/item?id=44073588
+Points: 538
+# Comments: 242]]></summary>
+        <author>
+            <name>Dowwie</name>
         </author>
     </entry>
     <entry>
