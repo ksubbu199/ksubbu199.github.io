@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-05-23T23:17:33.240Z</updated>
+    <updated>2025-05-24T01:25:17.349Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -198,6 +198,19 @@ Points: 516
 # Comments: 306]]></summary>
         <author>
             <name>youssefarizk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Deep Learning Is Applied Topology]]></title>
+        <id>https://news.ycombinator.com/item?id=44041738</id>
+        <link href="https://theahura.substack.com/p/deep-learning-is-applied-topology"/>
+        <updated>2025-05-20T13:54:54.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://theahura.substack.com/p/deep-learning-is-applied-topology
+Comments URL: https://news.ycombinator.com/item?id=44041738
+Points: 500
+# Comments: 180]]></summary>
+        <author>
+            <name>theahura</name>
         </author>
     </entry>
     <entry>
@@ -1784,19 +1797,6 @@ Points: 505
 # Comments: 282]]></summary>
         <author>
             <name>scalewithlee</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I wrote to the address in the GPLv2 license notice (2022)]]></title>
-        <id>https://news.ycombinator.com/item?id=43781888</id>
-        <link href="https://code.mendhak.com/gpl-v2-address-letter/"/>
-        <updated>2025-04-24T12:26:38.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://code.mendhak.com/gpl-v2-address-letter/
-Comments URL: https://news.ycombinator.com/item?id=43781888
-Points: 515
-# Comments: 421]]></summary>
-        <author>
-            <name>ekiauhce</name>
         </author>
     </entry>
 </feed>
