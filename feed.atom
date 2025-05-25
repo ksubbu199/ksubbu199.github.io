@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-05-25T15:18:04.570Z</updated>
+    <updated>2025-05-25T16:21:17.851Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Reinvent the Wheel]]></title>
+        <id>https://news.ycombinator.com/item?id=44083467</id>
+        <link href="https://endler.dev/2025/reinvent-the-wheel/"/>
+        <updated>2025-05-24T20:05:12.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://endler.dev/2025/reinvent-the-wheel/
+Comments URL: https://news.ycombinator.com/item?id=44083467
+Points: 504
+# Comments: 195]]></summary>
+        <author>
+            <name>zdw</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[I used o3 to find a remote zeroday in the Linux SMB implementation]]></title>
         <id>https://news.ycombinator.com/item?id=44081338</id>
