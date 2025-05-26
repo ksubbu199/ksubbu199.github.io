@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-05-26T16:22:39.460Z</updated>
+    <updated>2025-05-26T17:16:29.077Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -49,6 +49,19 @@
         <updated>2025-05-26T12:01:01.000Z</updated>
         <author>
             <name>Think School</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[At Amazon, some coders say their jobs have begun to resemble warehouse work]]></title>
+        <id>https://news.ycombinator.com/item?id=44087150</id>
+        <link href="https://www.nytimes.com/2025/05/25/business/amazon-ai-coders.html"/>
+        <updated>2025-05-25T11:48:30.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.nytimes.com/2025/05/25/business/amazon-ai-coders.html
+Comments URL: https://news.ycombinator.com/item?id=44087150
+Points: 503
+# Comments: 727]]></summary>
+        <author>
+            <name>milkshakes</name>
         </author>
     </entry>
     <entry>
