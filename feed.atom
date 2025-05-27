@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-05-27T08:26:41.297Z</updated>
+    <updated>2025-05-27T09:19:55.933Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -88,6 +88,19 @@ Points: 518
         <updated>2025-05-26T12:01:01.000Z</updated>
         <author>
             <name>Think School</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Open Source Society University – Path to a free self-taught education in CS]]></title>
+        <id>https://news.ycombinator.com/item?id=44089150</id>
+        <link href="https://github.com/ossu/computer-science"/>
+        <updated>2025-05-25T17:06:55.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://github.com/ossu/computer-science
+Comments URL: https://news.ycombinator.com/item?id=44089150
+Points: 500
+# Comments: 150]]></summary>
+        <author>
+            <name>saikatsg</name>
         </author>
     </entry>
     <entry>
