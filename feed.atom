@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-05-28T11:16:42.644Z</updated>
+    <updated>2025-05-28T12:39:20.888Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Safest City in India?]]></title>
+        <id>https://www.youtube.com/watch?v=ycGsB6Mzz6M</id>
+        <link href="https://www.youtube.com/watch?v=ycGsB6Mzz6M"/>
+        <updated>2025-05-28T12:01:50.000Z</updated>
+        <author>
+            <name>Think School</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Negotiate like a Pro]]></title>
+        <id>https://www.youtube.com/watch?v=qVwP6JExZuA</id>
+        <link href="https://www.youtube.com/watch?v=qVwP6JExZuA"/>
+        <updated>2025-05-28T11:45:05.000Z</updated>
+        <author>
+            <name>Think School</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Before you buy a house]]></title>
+        <id>https://www.youtube.com/watch?v=Hp7FupUm9Pc</id>
+        <link href="https://www.youtube.com/watch?v=Hp7FupUm9Pc"/>
+        <updated>2025-05-28T11:15:02.000Z</updated>
+        <author>
+            <name>Think School</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What is Absorption Rate?]]></title>
         <id>https://www.youtube.com/watch?v=aStMWu3t6CQ</id>
@@ -1843,19 +1870,6 @@ Points: 534
 # Comments: 230]]></summary>
         <author>
             <name>hyperific</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why did Windows 7 log on slower for months if you had a solid color background?]]></title>
-        <id>https://news.ycombinator.com/item?id=43827214</id>
-        <link href="https://devblogs.microsoft.com/oldnewthing/20250428-00/?p=111121"/>
-        <updated>2025-04-28T23:27:11.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://devblogs.microsoft.com/oldnewthing/20250428-00/?p=111121
-Comments URL: https://news.ycombinator.com/item?id=43827214
-Points: 500
-# Comments: 292]]></summary>
-        <author>
-            <name>zdw</name>
         </author>
     </entry>
 </feed>
