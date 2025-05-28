@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-05-27T23:18:04.723Z</updated>
+    <updated>2025-05-28T01:37:11.386Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -1877,25 +1877,6 @@ Points: 514
 # Comments: 461]]></summary>
         <author>
             <name>rc00</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: I built a hardware processor that runs Python]]></title>
-        <id>https://news.ycombinator.com/item?id=43820228</id>
-        <link href="https://www.runpyxl.com/gpio"/>
-        <updated>2025-04-28T11:44:54.000Z</updated>
-        <summary type="html"><![CDATA[Hi everyone,
-I built PyXL — a hardware processor that executes a custom assembly generated from Python programs, without using a traditional interpreter or virtual machine. It compiles Python -> CPython Bytecode -> Instruction set designed for direct hardware execution.
-I’m sharing an early benchmark: a GPIO test where PyXL achieves a 480ns round-trip toggle — compared to 14-25 micro seconds on a MicroPython Pyboard - even though PyXL runs at a lower clock (100MHz vs. 168MHz).
-The design is stack-based, fully pipelined, and preserves Python's dynamic typing without static type restrictions.
-I independently developed the full stack — toolchain (compiler, linker, codegen), and hardware — to validate the core idea. Full technical details will be presented at PyCon 2025.
-Demo and explanation here: https://runpyxl.com/gpio
-Happy to answer any questions
-Comments URL: https://news.ycombinator.com/item?id=43820228
-Points: 586
-# Comments: 165]]></summary>
-        <author>
-            <name>hwpythonner</name>
         </author>
     </entry>
 </feed>

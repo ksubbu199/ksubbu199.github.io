@@ -1164,16 +1164,6 @@
           "wordCount": 3022,
           "title": "Migrating away from Rust",
           "imageUrl": "https://static.manakeep.com/photos/2025/04/25/89bxt1fal1_covershot1.png"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=43820228",
-          "author": "hwpythonner",
-          "description": "Hi everyone,\nI built PyXL — a hardware processor that executes a custom assembly generated from Python programs, without using a traditional interpreter or virtual machine. It compiles Python -> CPython Bytecode -> Instruction set designed for direct hardware execution.\nI’m sharing an early benchmark: a GPIO test where PyXL achieves a 480ns round-trip toggle — compared to 14-25 micro seconds on a MicroPython Pyboard - even though PyXL runs at a lower clock (100MHz vs. 168MHz).\nThe design is stack-based, fully pipelined, and preserves Python's dynamic typing without static type restrictions.\nI independently developed the full stack — toolchain (compiler, linker, codegen), and hardware — to validate the core idea. Full technical details will be presented at PyCon 2025.\nDemo and explanation here: https://runpyxl.com/gpio\nHappy to answer any questions\nComments URL: https://news.ycombinator.com/item?id=43820228\nPoints: 586\n# Comments: 165",
-          "link": "https://www.runpyxl.com/gpio",
-          "publishedOn": "2025-04-28T11:44:54.000Z",
-          "wordCount": 1320,
-          "title": "Show HN: I built a hardware processor that runs Python",
-          "imageUrl": "https://runpyxl.com/static/gpio_thumbnail_1200x630.png"
         }
       ]
     },
