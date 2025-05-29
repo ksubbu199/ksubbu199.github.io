@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-05-29T14:18:22.593Z</updated>
+    <updated>2025-05-29T15:20:25.257Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -49,6 +49,19 @@
         <updated>2025-05-29T10:38:56.000Z</updated>
         <author>
             <name>Think School</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[US Trade Court finds Trump tariffs illegal]]></title>
+        <id>https://news.ycombinator.com/item?id=44121732</id>
+        <link href="https://www.bloomberg.com/news/articles/2025-05-28/trump-s-global-tariffs-blocked-by-us-trade-court"/>
+        <updated>2025-05-29T00:06:19.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.bloomberg.com/news/articles/2025-05-28/trump-s-global-tariffs-blocked-by-us-trade-court
+Comments URL: https://news.ycombinator.com/item?id=44121732
+Points: 511
+# Comments: 420]]></summary>
+        <author>
+            <name>master_crab</name>
         </author>
     </entry>
     <entry>
@@ -1912,19 +1925,6 @@ Points: 519
 # Comments: 295]]></summary>
         <author>
             <name>sochix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sycophancy in GPT-4o]]></title>
-        <id>https://news.ycombinator.com/item?id=43840842</id>
-        <link href="https://openai.com/index/sycophancy-in-gpt-4o/"/>
-        <updated>2025-04-30T03:06:26.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://openai.com/index/sycophancy-in-gpt-4o/
-Comments URL: https://news.ycombinator.com/item?id=43840842
-Points: 503
-# Comments: 405]]></summary>
-        <author>
-            <name>dsr12</name>
         </author>
     </entry>
 </feed>

@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=44121732",
+          "author": "master_crab",
+          "description": "Article URL: https://www.bloomberg.com/news/articles/2025-05-28/trump-s-global-tariffs-blocked-by-us-trade-court\nComments URL: https://news.ycombinator.com/item?id=44121732\nPoints: 511\n# Comments: 420",
+          "link": "https://www.bloomberg.com/news/articles/2025-05-28/trump-s-global-tariffs-blocked-by-us-trade-court",
+          "publishedOn": "2025-05-29T00:06:19.000Z",
+          "wordCount": null,
+          "title": "US Trade Court finds Trump tariffs illegal",
+          "imageUrl": null
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=44118023",
           "author": "katrinarodri",
           "description": "A year ago, my co-founder launched Desktop Docs here on HN. It's a Mac app we built with Electron that uses CLIP embeddings to search photos and videos locally with natural language. We got positive feedback from HN and our first paying customers, but the app was almost 1GB and clunky to use.\nTLDR; rebuilding in Rust was the right move.\nSo we rewrote the app with Rust and Tauri and here are the results:\n- App size is 83% smaller: 1GB → 172MB\n- DMG Installer is 70% smaller: 232MB → 69.5MB\n- Indexing files is faster: A 38-minute video now indexes in ~3 minutes instead of 10-14 minutes\n- Overall more stability (old app used to randomly crash)\nThe original version worked, but it didn't perform well when you tried indexing thousands of images or large videos. We lost a lot of time struggling to…",
@@ -1084,16 +1094,6 @@
           "wordCount": 3978,
           "title": "I created Perfect Wiki and reached $250k in annual revenue without investors",
           "imageUrl": "https://habrastorage.org/getpro/habr/upload_files/9ac/319/7a7/9ac3197a7f489007bedf5826bd13a07c.png"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=43840842",
-          "author": "dsr12",
-          "description": "Article URL: https://openai.com/index/sycophancy-in-gpt-4o/\nComments URL: https://news.ycombinator.com/item?id=43840842\nPoints: 503\n# Comments: 405",
-          "link": "https://openai.com/index/sycophancy-in-gpt-4o/",
-          "publishedOn": "2025-04-30T03:06:26.000Z",
-          "wordCount": null,
-          "title": "Sycophancy in GPT-4o",
-          "imageUrl": null
         }
       ]
     },
