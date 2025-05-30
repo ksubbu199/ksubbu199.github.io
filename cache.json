@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=44127109",
+          "author": "adam_gyroscope",
+          "description": "Article URL: https://weatherstar.netbymatt.com/\nComments URL: https://news.ycombinator.com/item?id=44127109\nPoints: 529\n# Comments: 96",
+          "link": "https://weatherstar.netbymatt.com/",
+          "publishedOn": "2025-05-29T15:38:45.000Z",
+          "wordCount": 49,
+          "title": "WeatherStar 4000+: Weather Channel Simulator",
+          "imageUrl": "https://weatherstar.netbymatt.com/images/social/1200x600.png"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=44121732",
           "author": "master_crab",
           "description": "Article URL: https://www.bloomberg.com/news/articles/2025-05-28/trump-s-global-tariffs-blocked-by-us-trade-court\nComments URL: https://news.ycombinator.com/item?id=44121732\nPoints: 511\n# Comments: 420",
@@ -1171,16 +1181,6 @@
           "wordCount": 3606,
           "title": "Function calling using LLMs",
           "imageUrl": "https://martinfowler.com/articles/function-call-LLM/card.png"
-        },
-        {
-          "id": "https://martinfowler.com/articles/exploring-gen-ai/15-building-tmt-mirror-visualization.html",
-          "author": null,
-          "description": "Creating a user interface that visualizes a real-world structure —\n       like the Thirty Meter Telescope's mirror — might seem like a task that\n       demands deep knowledge of geometry, D3.js, and SVG graphics. But with a\n       Large Language Model (LLM) like Claude or ChatGPT, you don't need to know\n       everything upfront. Unmesh Joshi describes how working\n       with an LLM gave him a working prototype even when he's\n       unfamiliar with the underlying tech. \nmore…",
-          "link": "https://martinfowler.com/articles/exploring-gen-ai/15-building-tmt-mirror-visualization.html",
-          "publishedOn": "2025-04-30T13:54:00.000Z",
-          "wordCount": 1361,
-          "title": "Building TMT Mirror Visualization with LLM",
-          "imageUrl": "https://martinfowler.com/articles/exploring-gen-ai/donkey-card.png"
         }
       ]
     },
