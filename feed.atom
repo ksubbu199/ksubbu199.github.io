@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-05-31T06:25:19.469Z</updated>
+    <updated>2025-05-31T07:17:46.237Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -54,6 +54,19 @@ Points: 503
         <summary type="html"><![CDATA[what the court actually said about Trump's tariffs]]></summary>
         <author>
             <name>/dev/lawyer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FLUX.1 Kontext]]></title>
+        <id>https://news.ycombinator.com/item?id=44128322</id>
+        <link href="https://bfl.ai/models/flux-kontext"/>
+        <updated>2025-05-29T17:40:35.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://bfl.ai/models/flux-kontext
+Comments URL: https://news.ycombinator.com/item?id=44128322
+Points: 501
+# Comments: 115]]></summary>
+        <author>
+            <name>minimaxir</name>
         </author>
     </entry>
     <entry>
