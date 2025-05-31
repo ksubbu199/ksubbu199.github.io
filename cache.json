@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=44139626",
+          "author": "worik",
+          "description": "Article URL: https://www.dpreview.com/photography/5400934096/probe-lenses-and-focus-stacking-the-secrets-to-incredible-photos-taken-inside-instruments\nComments URL: https://news.ycombinator.com/item?id=44139626\nPoints: 503\n# Comments: 25",
+          "link": "https://www.dpreview.com/photography/5400934096/probe-lenses-and-focus-stacking-the-secrets-to-incredible-photos-taken-inside-instruments",
+          "publishedOn": "2025-05-30T20:32:19.000Z",
+          "wordCount": null,
+          "title": "Photos taken inside musical instruments",
+          "imageUrl": null
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=44127739",
           "author": "longwave",
           "description": "Article URL: https://antirez.com/news/153\nComments URL: https://news.ycombinator.com/item?id=44127739\nPoints: 507\n# Comments: 576",
@@ -124,6 +134,16 @@
           "wordCount": 3943,
           "title": "German court sends VW execs to prison over Dieselgate scandal",
           "imageUrl": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2025/05/26/13042824-scaled.jpg"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=44097390",
+          "author": "andy99",
+          "description": "Related: https://simonwillison.net/2025/May/26/github-mcp-exploited/\nComments URL: https://news.ycombinator.com/item?id=44097390\nPoints: 500\n# Comments: 297",
+          "link": "https://invariantlabs.ai/blog/mcp-github-vulnerability",
+          "publishedOn": "2025-05-26T13:46:25.000Z",
+          "wordCount": 1667,
+          "title": "GitHub MCP exploited: Accessing private repositories via MCP",
+          "imageUrl": "https://invariantlabs.ai/blog/mcp-github-vulnerability.png"
         },
         {
           "id": "https://news.ycombinator.com/item?id=44089150",

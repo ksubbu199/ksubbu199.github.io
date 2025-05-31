@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-05-31T05:18:36.160Z</updated>
+    <updated>2025-05-31T06:25:19.469Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Photos taken inside musical instruments]]></title>
+        <id>https://news.ycombinator.com/item?id=44139626</id>
+        <link href="https://www.dpreview.com/photography/5400934096/probe-lenses-and-focus-stacking-the-secrets-to-incredible-photos-taken-inside-instruments"/>
+        <updated>2025-05-30T20:32:19.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.dpreview.com/photography/5400934096/probe-lenses-and-focus-stacking-the-secrets-to-incredible-photos-taken-inside-instruments
+Comments URL: https://news.ycombinator.com/item?id=44139626
+Points: 503
+# Comments: 25]]></summary>
+        <author>
+            <name>worik</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Is India’s $4 Trillion GDP Actually a Trap? | Economic Case Study]]></title>
         <id>https://www.youtube.com/watch?v=eWiBLgxOcW0</id>
@@ -444,6 +457,19 @@ Points: 518
 # Comments: 216]]></summary>
         <author>
             <name>Tomte</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GitHub MCP exploited: Accessing private repositories via MCP]]></title>
+        <id>https://news.ycombinator.com/item?id=44097390</id>
+        <link href="https://invariantlabs.ai/blog/mcp-github-vulnerability"/>
+        <updated>2025-05-26T13:46:25.000Z</updated>
+        <summary type="html"><![CDATA[Related: https://simonwillison.net/2025/May/26/github-mcp-exploited/
+Comments URL: https://news.ycombinator.com/item?id=44097390
+Points: 500
+# Comments: 297]]></summary>
+        <author>
+            <name>andy99</name>
         </author>
     </entry>
     <entry>
