@@ -1024,16 +1024,6 @@
           "wordCount": 3265,
           "title": "Technical analysis of the Signal clone used by Trump officials",
           "imageUrl": "https://micahflee.com/content/images/size/w1200/2025/05/vlcsnap-2025-05-01-20h11m53s958.png"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=43873074",
-          "author": "humbledrone",
-          "description": "I've been working on the Anukari 3D Physics Synthesizer for a little over two years now. It's one of the earliest virtual instruments to rely on the GPU for audio processing, which has been incredibly challenging and fun. In the end, predictably, the GUI for manipulating the 3D system actually ended up being a lot more work than the physics simulation.\nSo far I am only selling it direct on my website, which seems to be working well. I hope to turn it into a sustainable business, and ideally I'd have enough revenue to hire folks to help with it. So far it's been 99% a solo project, with (awesome) contractors brought in for some of the stuff that I'm bad at, like the 3D models and making instrument presets/videos.\nThe official launch announcement video is here: https://www.youtube.com/watch?v=NYX_eeNVIEU\nBut if you REALLY want to see what it can do, check out what Mick Cormick did with in on the first day: https://x.com/Mick_Gordon/status/1918146487948919222\nI've kept a fairly detailed developer log about my progress on the project since October 2023, which might be of interest to the hardcore technical folks here:\nhttps://anukari.com/blog/devlog\nI also gave a talk at Audio Developer Conference 2023 (ADC23) that goes deep into a couple of the problems I solved for Anukari: https://www.youtube.com/watch?v=lb8b1SYy73Q\nComments URL: https://news.ycombinator.com/item?id=43873074\nPoints: 502\n# Comments: 123",
-          "link": "https://anukari.com/",
-          "publishedOn": "2025-05-02T18:12:15.000Z",
-          "wordCount": 3136,
-          "title": "Show HN: I built a synthesizer based on 3D physics",
-          "imageUrl": null
         }
       ]
     },
