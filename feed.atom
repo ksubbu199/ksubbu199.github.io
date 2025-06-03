@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-06-03T06:29:44.463Z</updated>
+    <updated>2025-06-03T07:20:05.361Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -71,6 +71,19 @@ Points: 668
         <updated>2025-06-02T14:32:29.000Z</updated>
         <author>
             <name>Think School</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cloudlflare builds OAuth with Claude and publishes all the prompts]]></title>
+        <id>https://news.ycombinator.com/item?id=44159166</id>
+        <link href="https://github.com/cloudflare/workers-oauth-provider/"/>
+        <updated>2025-06-02T14:24:54.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://github.com/cloudflare/workers-oauth-provider/
+Comments URL: https://news.ycombinator.com/item?id=44159166
+Points: 513
+# Comments: 343]]></summary>
+        <author>
+            <name>gregorywegory</name>
         </author>
     </entry>
     <entry>
@@ -1894,19 +1907,6 @@ Points: 506
 # Comments: 203]]></summary>
         <author>
             <name>isolli</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I'd rather read the prompt]]></title>
-        <id>https://news.ycombinator.com/item?id=43888803</id>
-        <link href="https://claytonwramsey.com/blog/prompt/"/>
-        <updated>2025-05-04T19:17:28.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://claytonwramsey.com/blog/prompt/
-Comments URL: https://news.ycombinator.com/item?id=43888803
-Points: 570
-# Comments: 395]]></summary>
-        <author>
-            <name>claytonwramsey</name>
         </author>
     </entry>
 </feed>

@@ -16,6 +16,16 @@
           "imageUrl": "https://fly.io/blog/youre-all-nuts/assets/whoah.png"
         },
         {
+          "id": "https://news.ycombinator.com/item?id=44159166",
+          "author": "gregorywegory",
+          "description": "Article URL: https://github.com/cloudflare/workers-oauth-provider/\nComments URL: https://news.ycombinator.com/item?id=44159166\nPoints: 513\n# Comments: 343",
+          "link": "https://github.com/cloudflare/workers-oauth-provider/",
+          "publishedOn": "2025-06-02T14:24:54.000Z",
+          "wordCount": 8978,
+          "title": "Cloudlflare builds OAuth with Claude and publishes all the prompts",
+          "imageUrl": "https://opengraph.githubassets.com/f60511e4f80adba140cda49deed3cfd7a8b106fbea8e3a5e4d9b5321cedab2f9/cloudflare/workers-oauth-provider"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=44156935",
           "author": "weltview",
           "description": "Article URL: https://betterthanrandom.substack.com/p/if-you-are-useful-it-doesnt-mean\nComments URL: https://news.ycombinator.com/item?id=44156935\nPoints: 546\n# Comments: 255",
@@ -1004,16 +1014,6 @@
           "wordCount": 8725,
           "title": "The Death of Daydreaming",
           "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc045dcff-c182-4cc1-b063-23afb0578a5a_3840x2160.jpeg"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=43888803",
-          "author": "claytonwramsey",
-          "description": "Article URL: https://claytonwramsey.com/blog/prompt/\nComments URL: https://news.ycombinator.com/item?id=43888803\nPoints: 570\n# Comments: 395",
-          "link": "https://claytonwramsey.com/blog/prompt/",
-          "publishedOn": "2025-05-04T19:17:28.000Z",
-          "wordCount": 2020,
-          "title": "I'd rather read the prompt",
-          "imageUrl": null
         }
       ]
     },
