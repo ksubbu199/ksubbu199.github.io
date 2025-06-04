@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-06-04T18:27:52.460Z</updated>
+    <updated>2025-06-04T19:16:41.496Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -19,6 +19,19 @@
 more…]]></summary>
         <author>
             <name>Martin Fowler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Merlin Bird ID]]></title>
+        <id>https://news.ycombinator.com/item?id=44176829</id>
+        <link href="https://merlin.allaboutbirds.org/"/>
+        <updated>2025-06-04T02:58:40.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://merlin.allaboutbirds.org/
+Comments URL: https://news.ycombinator.com/item?id=44176829
+Points: 500
+# Comments: 179]]></summary>
+        <author>
+            <name>twitchard</name>
         </author>
     </entry>
     <entry>
