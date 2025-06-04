@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=44174965",
+          "author": "chmaynard",
+          "description": "Article URL: https://rachel.fast.ai/posts/2025-06-04-enzyme-ml-fails/index.html\nComments URL: https://news.ycombinator.com/item?id=44174965\nPoints: 506\n# Comments: 112",
+          "link": "https://rachel.fast.ai/posts/2025-06-04-enzyme-ml-fails/index.html",
+          "publishedOn": "2025-06-03T21:31:56.000Z",
+          "wordCount": 2666,
+          "title": "Deep learning gets the glory, deep fact checking gets ignored",
+          "imageUrl": "https://rachel.fast.ai/posts/2025-06-04-enzyme-ml-fails/tsac-ycio.jpeg"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=44167592",
           "author": "asicsp",
           "description": "Article URL: https://github.com/iamgio/quarkdown\nComments URL: https://news.ycombinator.com/item?id=44167592\nPoints: 518\n# Comments: 233",
@@ -1052,6 +1062,16 @@
       "feedUrl": "https://martinfowler.com/feed.atom",
       "siteUrl": "https://martinfowler.com/feed.atom",
       "articles": [
+        {
+          "id": "https://martinfowler.com/articles/exploring-gen-ai/autonomous-agents-codex-example.html",
+          "author": null,
+          "description": "In the past few weeks, multiple “autonomous background coding agents”\n      have been released. Birgitta Böckeler tried out giving a\n      task to OpenAI Codex to see what she could learn. Here she describes one\n      particular Codex run, to help us look behind the scenes, and make some\n      observations about its contribution to our work.\nmore…",
+          "link": "https://martinfowler.com/articles/exploring-gen-ai/autonomous-agents-codex-example.html",
+          "publishedOn": "2025-06-04T13:50:00.000Z",
+          "wordCount": 3085,
+          "title": "Autonomous coding agents: A Codex example",
+          "imageUrl": "https://martinfowler.com/articles/exploring-gen-ai/donkey-card.png"
+        },
         {
           "id": "https://martinfowler.com/articles/202506-whither-analytics.html",
           "author": null,

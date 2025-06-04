@@ -2,10 +2,38 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-06-04T13:34:18.926Z</updated>
+    <updated>2025-06-04T14:16:37.516Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Autonomous coding agents: A Codex example]]></title>
+        <id>https://martinfowler.com/articles/exploring-gen-ai/autonomous-agents-codex-example.html</id>
+        <link href="https://martinfowler.com/articles/exploring-gen-ai/autonomous-agents-codex-example.html"/>
+        <updated>2025-06-04T13:50:00.000Z</updated>
+        <summary type="html"><![CDATA[In the past few weeks, multiple “autonomous background coding agents”
+      have been released. Birgitta Böckeler tried out giving a
+      task to OpenAI Codex to see what she could learn. Here she describes one
+      particular Codex run, to help us look behind the scenes, and make some
+      observations about its contribution to our work.
+more…]]></summary>
+        <author>
+            <name>Martin Fowler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Deep learning gets the glory, deep fact checking gets ignored]]></title>
+        <id>https://news.ycombinator.com/item?id=44174965</id>
+        <link href="https://rachel.fast.ai/posts/2025-06-04-enzyme-ml-fails/index.html"/>
+        <updated>2025-06-03T21:31:56.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://rachel.fast.ai/posts/2025-06-04-enzyme-ml-fails/index.html
+Comments URL: https://news.ycombinator.com/item?id=44174965
+Points: 506
+# Comments: 112]]></summary>
+        <author>
+            <name>chmaynard</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[King Kohli for a reason]]></title>
         <id>https://www.youtube.com/watch?v=ebHhxxhA35Y</id>
