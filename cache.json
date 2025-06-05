@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=44182186",
+          "author": "Sean-Der",
+          "description": "Article URL: https://git.ffmpeg.org/gitweb/ffmpeg.git/commit/167e343bbe75515a80db8ee72ffa0c607c944a00\nComments URL: https://news.ycombinator.com/item?id=44182186\nPoints: 529\n# Comments: 120",
+          "link": "https://git.ffmpeg.org/gitweb/ffmpeg.git/commit/167e343bbe75515a80db8ee72ffa0c607c944a00",
+          "publishedOn": "2025-06-04T15:58:50.000Z",
+          "wordCount": 416,
+          "title": "FFmpeg merges WebRTC support",
+          "imageUrl": null
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=44176829",
           "author": "twitchard",
           "description": "Article URL: https://merlin.allaboutbirds.org/\nComments URL: https://news.ycombinator.com/item?id=44176829\nPoints: 500\n# Comments: 179",
@@ -1131,16 +1141,6 @@
           "wordCount": 1035,
           "title": "Coding Assistants Threaten the Software Supply Chain",
           "imageUrl": "https://martinfowler.com/articles/exploring-gen-ai/donkey-card.png"
-        },
-        {
-          "id": "https://martinfowler.com/articles/function-call-LLM.html",
-          "author": null,
-          "description": "While LLMs excel at generating cogent text based on their training\n      data, they may also need to interact with external systems. Kiran\n      Prakash describes how we get them to construct external function\n      calls to do this. The LLM does not execute these calls directly, instead\n      it creates a data structure that describes the call, passing that to a\n      separate program for execution and further processing. The LLM's prompt\n      includes details about possible function calls and when they should be\n      used.\nmore…",
-          "link": "https://martinfowler.com/articles/function-call-LLM.html",
-          "publishedOn": "2025-05-06T13:02:00.000Z",
-          "wordCount": 3606,
-          "title": "Function calling using LLMs",
-          "imageUrl": "https://martinfowler.com/articles/function-call-LLM/card.png"
         }
       ]
     },
