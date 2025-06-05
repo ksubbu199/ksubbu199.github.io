@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-06-05T17:14:36.996Z</updated>
+    <updated>2025-06-05T19:13:57.694Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -2031,19 +2031,6 @@ Points: 522
 # Comments: 321]]></summary>
         <author>
             <name>AlexeyBrin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Zed: High-performance AI Code Editor]]></title>
-        <id>https://news.ycombinator.com/item?id=43912844</id>
-        <link href="https://zed.dev/blog/fastest-ai-code-editor"/>
-        <updated>2025-05-07T06:38:40.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://zed.dev/blog/fastest-ai-code-editor
-Comments URL: https://news.ycombinator.com/item?id=43912844
-Points: 526
-# Comments: 335]]></summary>
-        <author>
-            <name>vquemener</name>
         </author>
     </entry>
 </feed>
