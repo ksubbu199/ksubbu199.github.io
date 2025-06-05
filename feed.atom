@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-06-05T15:21:14.770Z</updated>
+    <updated>2025-06-05T16:25:14.546Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[From Shortages to Abundance: India’s Growth Story]]></title>
+        <id>https://www.youtube.com/watch?v=2RrfkYQikpE</id>
+        <link href="https://www.youtube.com/watch?v=2RrfkYQikpE"/>
+        <updated>2025-06-05T15:41:57.000Z</updated>
+        <author>
+            <name>Think School</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Branding starts with observation]]></title>
+        <id>https://www.youtube.com/watch?v=1kGbfVe_5Lw</id>
+        <link href="https://www.youtube.com/watch?v=1kGbfVe_5Lw"/>
+        <updated>2025-06-05T15:30:34.000Z</updated>
+        <author>
+            <name>Think School</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What GenZ Is Solving Now?]]></title>
+        <id>https://www.youtube.com/watch?v=a8LHeAEi24s</id>
+        <link href="https://www.youtube.com/watch?v=a8LHeAEi24s"/>
+        <updated>2025-06-05T15:15:43.000Z</updated>
+        <author>
+            <name>Think School</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[OpenAI slams court order to save all ChatGPT logs, including deleted chats]]></title>
         <id>https://news.ycombinator.com/item?id=44185913</id>
@@ -43,6 +70,19 @@ Points: 505
 # Comments: 387]]></summary>
         <author>
             <name>ecz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A proposal to restrict sites from accessing a users’ local network]]></title>
+        <id>https://news.ycombinator.com/item?id=44183799</id>
+        <link href="https://github.com/explainers-by-googlers/local-network-access"/>
+        <updated>2025-06-04T18:15:54.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://github.com/explainers-by-googlers/local-network-access
+Comments URL: https://news.ycombinator.com/item?id=44183799
+Points: 522
+# Comments: 297]]></summary>
+        <author>
+            <name>doener</name>
         </author>
     </entry>
     <entry>
