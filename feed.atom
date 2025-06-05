@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-06-05T11:17:31.882Z</updated>
+    <updated>2025-06-05T12:40:08.466Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -130,6 +130,19 @@ Points: 506
 But last month I finally did something, having come across some information that did I thought did what I wanted. Essentially I want things set up so that I don’t need to bother with a cookie banner because I only track things that are trackable when someone says “deny all”. Based on some google doc…]]></summary>
         <author>
             <name>Martin Fowler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Covert web-to-app tracking via localhost on Android]]></title>
+        <id>https://news.ycombinator.com/item?id=44169115</id>
+        <link href="https://localmess.github.io/"/>
+        <updated>2025-06-03T12:12:28.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://localmess.github.io/
+Comments URL: https://news.ycombinator.com/item?id=44169115
+Points: 501
+# Comments: 327]]></summary>
+        <author>
+            <name>sebastian_z</name>
         </author>
     </entry>
     <entry>
