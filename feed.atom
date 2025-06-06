@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-06-06T05:19:59.292Z</updated>
+    <updated>2025-06-06T06:29:48.821Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -1979,19 +1979,6 @@ Points: 500
         <updated>2025-05-08T10:27:00.000Z</updated>
         <author>
             <name>Think School</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ty: A fast Python type checker and language server]]></title>
-        <id>https://news.ycombinator.com/item?id=43918484</id>
-        <link href="https://github.com/astral-sh/ty"/>
-        <updated>2025-05-07T17:32:26.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://github.com/astral-sh/ty
-Comments URL: https://news.ycombinator.com/item?id=43918484
-Points: 532
-# Comments: 153]]></summary>
-        <author>
-            <name>arathore</name>
         </author>
     </entry>
 </feed>
