@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-06-06T01:37:49.825Z</updated>
+    <updated>2025-06-06T03:15:19.205Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -1979,32 +1979,6 @@ Points: 532
 # Comments: 153]]></summary>
         <author>
             <name>arathore</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Waiting for Postgres 18: Accelerating Disk Reads with Asynchronous I/O]]></title>
-        <id>https://news.ycombinator.com/item?id=43916577</id>
-        <link href="https://pganalyze.com/blog/postgres-18-async-io"/>
-        <updated>2025-05-07T14:57:03.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://pganalyze.com/blog/postgres-18-async-io
-Comments URL: https://news.ycombinator.com/item?id=43916577
-Points: 506
-# Comments: 129]]></summary>
-        <author>
-            <name>lfittl</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mistral ships Le Chat – enterprise AI assistant that can run on prem]]></title>
-        <id>https://news.ycombinator.com/item?id=43916098</id>
-        <link href="https://mistral.ai/news/le-chat-enterprise"/>
-        <updated>2025-05-07T14:24:09.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://mistral.ai/news/le-chat-enterprise
-Comments URL: https://news.ycombinator.com/item?id=43916098
-Points: 500
-# Comments: 156]]></summary>
-        <author>
-            <name>_lateralus_</name>
         </author>
     </entry>
 </feed>
