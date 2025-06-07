@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-06-07T20:19:46.564Z</updated>
+    <updated>2025-06-07T21:17:11.782Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Bill Atkinson has died]]></title>
+        <id>https://news.ycombinator.com/item?id=44210606</id>
+        <link href="https://daringfireball.net/linked/2025/06/07/bill-atkinson-rip"/>
+        <updated>2025-06-07T16:19:58.000Z</updated>
+        <summary type="html"><![CDATA[https://facebook.com/story.php?story_fbid=10238073579963378&...
+Comments URL: https://news.ycombinator.com/item?id=44210606
+Points: 620
+# Comments: 128]]></summary>
+        <author>
+            <name>romanhn</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Truth About College Donations]]></title>
         <id>https://www.youtube.com/watch?v=uhXIAxDMous</id>
@@ -85,6 +98,19 @@
         <updated>2025-06-07T11:45:11.000Z</updated>
         <author>
             <name>Think School</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How we decreased GitLab repo backup times from 48 hours to 41 minutes]]></title>
+        <id>https://news.ycombinator.com/item?id=44201975</id>
+        <link href="https://about.gitlab.com/blog/2025/06/05/how-we-decreased-gitlab-repo-backup-times-from-48-hours-to-41-minutes/"/>
+        <updated>2025-06-06T15:43:05.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://about.gitlab.com/blog/2025/06/05/how-we-decreased-gitlab-repo-backup-times-from-48-hours-to-41-minutes/
+Comments URL: https://news.ycombinator.com/item?id=44201975
+Points: 500
+# Comments: 210]]></summary>
+        <author>
+            <name>immortaljoe</name>
         </author>
     </entry>
     <entry>
