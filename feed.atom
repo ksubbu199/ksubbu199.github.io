@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-06-07T04:23:27.888Z</updated>
+    <updated>2025-06-07T05:18:19.686Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -1954,45 +1954,6 @@ Points: 546
 # Comments: 138]]></summary>
         <author>
             <name>mattl</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Reservoir Sampling]]></title>
-        <id>https://news.ycombinator.com/item?id=43928315</id>
-        <link href="https://samwho.dev/reservoir-sampling/"/>
-        <updated>2025-05-08T17:02:10.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://samwho.dev/reservoir-sampling/
-Comments URL: https://news.ycombinator.com/item?id=43928315
-Points: 500
-# Comments: 104]]></summary>
-        <author>
-            <name>chrisdemarco</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Void: Open-source Cursor alternative]]></title>
-        <id>https://news.ycombinator.com/item?id=43927926</id>
-        <link href="https://github.com/voideditor/void"/>
-        <updated>2025-05-08T16:35:34.000Z</updated>
-        <summary type="html"><![CDATA[https://voideditor.com/download-beta
-Comments URL: https://news.ycombinator.com/item?id=43927926
-Points: 553
-# Comments: 237]]></summary>
-        <author>
-            <name>sharjeelsayed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[First American pope elected and will be known as Pope Leo XIV]]></title>
-        <id>https://news.ycombinator.com/item?id=43927856</id>
-        <link href="https://www.cnn.com/world/live-news/new-pope-conclave-day-two-05-08-25"/>
-        <updated>2025-05-08T16:30:45.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.cnn.com/world/live-news/new-pope-conclave-day-two-05-08-25
-Comments URL: https://news.ycombinator.com/item?id=43927856
-Points: 504
-# Comments: 779]]></summary>
-        <author>
-            <name>saikatsg</name>
         </author>
     </entry>
 </feed>
