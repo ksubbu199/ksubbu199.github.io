@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-06-09T11:17:50.489Z</updated>
+    <updated>2025-06-09T12:39:58.596Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -2027,16 +2027,6 @@ Points: 500
 # Comments: 312]]></summary>
         <author>
             <name>todsacerdoti</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Boot.dev Beat. May 2025]]></title>
-        <id>https://blog.boot.dev/news/bootdev-beat-2025-05/</id>
-        <link href="https://blog.boot.dev/news/bootdev-beat-2025-05/"/>
-        <updated>2025-05-11T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Out biggest content release ever just dropped: the complete backend learning path, but now in Python and TypeScript!]]></summary>
-        <author>
-            <name>Boot.dev Blog</name>
         </author>
     </entry>
 </feed>
