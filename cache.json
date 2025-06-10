@@ -1035,7 +1035,18 @@
       "title": "Julia Evans",
       "feedUrl": "https://jvns.ca/atom.xml",
       "siteUrl": "http://jvns.ca/atom.xml",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://jvns.ca/blog/2025/06/10/how-to-compile-a-c-program/",
+          "author": null,
+          "description": "I have never been a C programmer but every so often I need to compile a C/C++\nprogram from source. This has been kind of a struggle for me: for a\nlong time, my approach was basically “install the dependencies, run make, if\nit doesn’t work, either try to find a binary someone has compiled or give up”.\n“Hope someone else has compiled it” worked pretty well when I was running Linux\nbut since I’ve been using a Mac for the last couple of years I’ve been running\ninto more situations where I have to actually compile programs myself.\nSo let’s talk about what you might have to do to compile a C program! I’ll use\na couple of examples of specific C programs I’ve compiled and talk about a few\nthings that can go wrong. Here are three programs we’ll be talking about\ncompiling:\npaperjam\nsqlite\nqf (a page…",
+          "link": "https://jvns.ca/blog/2025/06/10/how-to-compile-a-c-program/",
+          "publishedOn": "2025-06-10T00:00:00.000Z",
+          "wordCount": 2031,
+          "title": "Using `make` to compile C programs (for non-C-programmers)",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "Martin Fowler",
