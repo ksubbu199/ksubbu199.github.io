@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-06-10T01:40:28.080Z</updated>
+    <updated>2025-06-10T03:18:20.257Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Apple announces Foundation Models and Containerization frameworks, etc]]></title>
+        <id>https://news.ycombinator.com/item?id=44226978</id>
+        <link href="https://www.apple.com/newsroom/2025/06/apple-supercharges-its-tools-and-technologies-for-developers/"/>
+        <updated>2025-06-09T17:44:16.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.apple.com/newsroom/2025/06/apple-supercharges-its-tools-and-technologies-for-developers/
+Comments URL: https://news.ycombinator.com/item?id=44226978
+Points: 540
+# Comments: 341]]></summary>
+        <author>
+            <name>thm</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Tell HN: Help restore the tax deduction for software dev in the US (Section 174)]]></title>
         <id>https://news.ycombinator.com/item?id=44226145</id>
@@ -77,6 +90,19 @@ Points: 648
         <updated>2025-06-09T07:36:29.000Z</updated>
         <author>
             <name>Think School</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kagi Reaches 50k Users]]></title>
+        <id>https://news.ycombinator.com/item?id=44221450</id>
+        <link href="https://kagi.com/stats?stat=members"/>
+        <updated>2025-06-09T04:38:32.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://kagi.com/stats?stat=members
+Comments URL: https://news.ycombinator.com/item?id=44221450
+Points: 502
+# Comments: 301]]></summary>
+        <author>
+            <name>tigroferoce</name>
         </author>
     </entry>
     <entry>
