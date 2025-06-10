@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-06-10T04:28:02.828Z</updated>
+    <updated>2025-06-10T05:19:38.411Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -17,6 +17,19 @@ Points: 540
 # Comments: 341]]></summary>
         <author>
             <name>thm</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple introduces a universal design across platforms]]></title>
+        <id>https://news.ycombinator.com/item?id=44226612</id>
+        <link href="https://www.apple.com/newsroom/2025/06/apple-introduces-a-delightful-and-elegant-new-software-design/"/>
+        <updated>2025-06-09T17:09:47.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.apple.com/newsroom/2025/06/apple-introduces-a-delightful-and-elegant-new-software-design/
+Comments URL: https://news.ycombinator.com/item?id=44226612
+Points: 509
+# Comments: 811]]></summary>
+        <author>
+            <name>meetpateltech</name>
         </author>
     </entry>
     <entry>
@@ -2033,19 +2046,6 @@ Points: 500
 # Comments: 482]]></summary>
         <author>
             <name>JSLegendDev</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Plain Vanilla Web]]></title>
-        <id>https://news.ycombinator.com/item?id=43954896</id>
-        <link href="https://plainvanillaweb.com/index.html"/>
-        <updated>2025-05-11T16:31:58.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://plainvanillaweb.com/index.html
-Comments URL: https://news.ycombinator.com/item?id=43954896
-Points: 539
-# Comments: 295]]></summary>
-        <author>
-            <name>andrewrn</name>
         </author>
     </entry>
 </feed>
