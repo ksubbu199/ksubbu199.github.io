@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-06-10T08:27:30.247Z</updated>
+    <updated>2025-06-10T09:21:23.339Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Containerization is a Swift package for running Linux containers on macOS]]></title>
+        <id>https://news.ycombinator.com/item?id=44229348</id>
+        <link href="https://github.com/apple/containerization"/>
+        <updated>2025-06-09T20:53:29.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://github.com/apple/containerization
+Comments URL: https://news.ycombinator.com/item?id=44229348
+Points: 511
+# Comments: 236]]></summary>
+        <author>
+            <name>gok</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Apple announces Foundation Models and Containerization frameworks, etc]]></title>
         <id>https://news.ycombinator.com/item?id=44226978</id>
