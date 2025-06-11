@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=44240302",
+          "author": "charleszyong",
+          "description": "Hi HN — I’m Charles from Vassar Robotics (https://vassarrobotics.com/ - not much there but you can order the robot at https://shop.vassarrobotics.com/products/navrim-robot-that-l...)\nEdit: the entire run sold out thanks to HN today—thank you all! And sorry to anyone who missed out. You can get in on the next batch here: https://vassarrobotics.com/newsletter.\nWe are bringing an upgraded version of the long beloved SO-101 robot arms to a $219 price point with improved mechanical design and added intelligence. See what it can do here: https://youtube.com/shorts/xNyPKJZI400 (demos are sped up as shown in the video)\nI’ve spent a few years building RC planes (https://cyo.ng/hangar/) and micro gas turbines (https://set.mit.edu), and I’ve always wished hardware were cheaper so more people could ex…",
+          "link": "https://news.ycombinator.com/item?id=44240302",
+          "publishedOn": "2025-06-10T19:12:17.000Z",
+          "wordCount": 9481,
+          "title": "Launch HN: Vassar Robotics (YC X25) – $219 robot arm that learns new skills",
+          "imageUrl": null
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=44236997",
           "author": "meetpateltech",
           "description": "Article URL: https://mistral.ai/news/magistral\nComments URL: https://news.ycombinator.com/item?id=44236997\nPoints: 526\n# Comments: 215",
@@ -14,6 +24,16 @@
           "wordCount": 2964,
           "title": "Magistral — the first reasoning model by Mistral AI",
           "imageUrl": "https://mistral.ai/img/mistral-cover.png"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=44235467",
+          "author": "donohoe",
+          "description": "Article URL: https://www.zeropartydata.es/p/localhost-tracking-explained-it-could\nComments URL: https://news.ycombinator.com/item?id=44235467\nPoints: 500\n# Comments: 249",
+          "link": "https://www.zeropartydata.es/p/localhost-tracking-explained-it-could",
+          "publishedOn": "2025-06-10T11:29:29.000Z",
+          "wordCount": 5800,
+          "title": "\"Localhost tracking\" explained. It could cost Meta €32B",
+          "imageUrl": "https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3808b62b-e2a1-44c8-bcd5-fcf8224f7d25_925x778.png"
         },
         {
           "id": "https://news.ycombinator.com/item?id=44230182",
@@ -989,6 +1009,16 @@
       "feedUrl": "https://blog.boot.dev/index.xml",
       "siteUrl": "https://blog.boot.dev/",
       "articles": [
+        {
+          "id": "https://blog.boot.dev/news/bootdev-beat-2025-06/",
+          "author": null,
+          "description": "We’ve capitulated into the vibe coding era? Well… not really. But it’s cool to understand how AI agents like Cursor and Claude Code work under the hood.",
+          "link": "https://blog.boot.dev/news/bootdev-beat-2025-06/",
+          "publishedOn": "2025-06-10T00:00:00.000Z",
+          "wordCount": 1006,
+          "title": "The Boot.dev Beat. June 2025",
+          "imageUrl": "https://blog.boot.dev/img/800/412509565-af264412-8653-4409-94b1-1da5a3251503.png.webp"
+        },
         {
           "id": "https://blog.boot.dev/education/is-boot-dev-free/",
           "author": null,
