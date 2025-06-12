@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-06-12T17:17:54.277Z</updated>
+    <updated>2025-06-12T20:21:32.141Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[GCP Outage]]></title>
+        <id>https://news.ycombinator.com/item?id=44260810</id>
+        <link href="https://status.cloud.google.com/"/>
+        <updated>2025-06-12T18:11:07.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://status.cloud.google.com/
+Comments URL: https://news.ycombinator.com/item?id=44260810
+Points: 933
+# Comments: 345]]></summary>
+        <author>
+            <name>thanhhaimai</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Builder.ai did not “fake AI with 700 engineers”]]></title>
         <id>684afff575195c00010e06e0</id>
