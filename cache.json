@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=44256499",
+          "author": "laurieherault",
+          "description": "Article URL: https://www.laurieherault.com/articles/a-thermal-receipt-printer-cured-my-procrastination\nComments URL: https://news.ycombinator.com/item?id=44256499\nPoints: 504\n# Comments: 287",
+          "link": "https://www.laurieherault.com/articles/a-thermal-receipt-printer-cured-my-procrastination",
+          "publishedOn": "2025-06-12T11:41:04.000Z",
+          "wordCount": 2645,
+          "title": "A receipt printer cured my procrastination",
+          "imageUrl": "https://www.laurieherault.com/og/receipt-printer-procrastination-og.png"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=44252076",
           "author": "petercooper",
           "description": "Article URL: https://github.com/AasishPokhrel/shit/issues/1\nComments URL: https://news.ycombinator.com/item?id=44252076\nPoints: 503\n# Comments: 116",
@@ -1116,6 +1126,16 @@
       "feedUrl": "https://blog.pragmaticengineer.com/rss/",
       "siteUrl": "https://blog.pragmaticengineer.com/",
       "articles": [
+        {
+          "id": "684afff575195c00010e06e0",
+          "author": "Gergely Orosz",
+          "description": "The claim that the AI startup “faked AI” with hundreds of engineers went viral – and I also fell for it, initially. The reality is much more sobering: Builder.ai built a code generator on top of Claude and other LLMs; it did not build a so-called “Mechanical Turk.”",
+          "link": "https://blog.pragmaticengineer.com/builder-ai-did-not-fake-ai/",
+          "publishedOn": "2025-06-12T16:39:29.000Z",
+          "wordCount": 3068,
+          "title": "Builder.ai did not “fake AI with 700 engineers”",
+          "imageUrl": "https://blog.pragmaticengineer.com/content/images/size/w1200/2025/06/Screenshot-2025-06-12-at-12.36.34.png"
+        },
         {
           "id": "6826078558dc81000103cb3e",
           "author": "Gergely Orosz",
