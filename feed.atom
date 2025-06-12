@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-06-12T14:19:25.914Z</updated>
+    <updated>2025-06-12T15:21:35.581Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -57,6 +57,19 @@ Points: 503
 # Comments: 116]]></summary>
         <author>
             <name>petercooper</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chatterbox TTS]]></title>
+        <id>https://news.ycombinator.com/item?id=44251411</id>
+        <link href="https://github.com/resemble-ai/chatterbox"/>
+        <updated>2025-06-11T20:23:52.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://github.com/resemble-ai/chatterbox
+Comments URL: https://news.ycombinator.com/item?id=44251411
+Points: 502
+# Comments: 147]]></summary>
+        <author>
+            <name>pinter69</name>
         </author>
     </entry>
     <entry>
