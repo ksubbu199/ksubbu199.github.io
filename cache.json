@@ -1004,16 +1004,6 @@
           "wordCount": null,
           "title": "Baby is healed with first personalized gene-editing treatment",
           "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=43991396",
-          "author": "surprisetalk",
-          "description": "Article URL: https://quarter--mile.com/Human\nComments URL: https://news.ycombinator.com/item?id=43991396\nPoints: 511\n# Comments: 201",
-          "link": "https://quarter--mile.com/Human",
-          "publishedOn": "2025-05-15T02:57:19.000Z",
-          "wordCount": 7551,
-          "title": "Human",
-          "imageUrl": "https://freight.cargo.site/i/a5cb9b27d0cec33a4f49d6a8afe44e10993d39cae45cc48aaa3263b4b65abd35/matteo-paganelli-rRJ0aA6AIpQ-unsplash.jpg"
         }
       ]
     },
@@ -2099,13 +2089,34 @@
       "title": "Hussein Nasser",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC_ML5xP23TOWKUcc-oAE_Eg",
       "siteUrl": "https://www.youtube.com/channel/UC_ML5xP23TOWKUcc-oAE_Eg",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=SyrgSKEi4Sc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=SyrgSKEi4Sc",
+          "publishedOn": "2025-06-13T14:30:15.000Z",
+          "wordCount": null,
+          "title": "kTLS - Kernel level TLS",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "Lea Verou’s blog",
       "feedUrl": "https://lea.verou.me/feed.xml",
       "siteUrl": "https://lea.verou.me/feed.xml",
       "articles": [
+        {
+          "id": "https://lea.verou.me/blog/2025/construction-lines/",
+          "author": null,
+          "description": "#logo-with-lines {\n\tmax-height: 50vh;\n\tmargin: auto;\n\tbackground: radial-gradient(white 30%, transparent 80%);\n\tdisplay: block;\n}\n\n\nI recently stumbled across The Oatmeal’s series on Creativity.\nWhile all of it is spot on, the part on erasers hit especially hard.\n“There is a lot of shame associated with backpedaling;\nthings like quitting your job, getting a divorce, or simply starting over are considered shameful.\nBut forward isn’t always progress.\nAnd backward isn’t always regress.\nSometimes going down the wrong path isn’t a mistake —\nit’s a construction line.”\n— Matthew Inman (The Oatmeal)\nIt was exactly what I needed to hear.\nYou see, only a few days prior, Font Awesome and I had parted ways — the end of a short, but transformative chapter.\nI’m proud of what we built together, and grate…",
+          "link": "https://lea.verou.me/blog/2025/construction-lines/",
+          "publishedOn": "2025-06-13T00:00:00.000Z",
+          "wordCount": 1592,
+          "title": "Construction Lines",
+          "imageUrl": "https://lea.verou.me/blog/2025/construction-lines/images/logo-with-lines.png"
+        },
         {
           "id": "https://lea.verou.me/blog/2025/style-observer/",
           "author": null,

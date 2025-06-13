@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-06-13T14:19:19.121Z</updated>
+    <updated>2025-06-13T15:20:59.712Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[kTLS - Kernel level TLS]]></title>
+        <id>https://www.youtube.com/watch?v=SyrgSKEi4Sc</id>
+        <link href="https://www.youtube.com/watch?v=SyrgSKEi4Sc"/>
+        <updated>2025-06-13T14:30:15.000Z</updated>
+        <author>
+            <name>Hussein Nasser</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Jemalloc Postmortem]]></title>
         <id>https://news.ycombinator.com/item?id=44264958</id>
@@ -17,6 +26,35 @@ Points: 518
 # Comments: 142]]></summary>
         <author>
             <name>jasone</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Construction Lines]]></title>
+        <id>https://lea.verou.me/blog/2025/construction-lines/</id>
+        <link href="https://lea.verou.me/blog/2025/construction-lines/"/>
+        <updated>2025-06-13T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[#logo-with-lines {
+	max-height: 50vh;
+	margin: auto;
+	background: radial-gradient(white 30%, transparent 80%);
+	display: block;
+}
+
+
+I recently stumbled across The Oatmeal’s series on Creativity.
+While all of it is spot on, the part on erasers hit especially hard.
+“There is a lot of shame associated with backpedaling;
+things like quitting your job, getting a divorce, or simply starting over are considered shameful.
+But forward isn’t always progress.
+And backward isn’t always regress.
+Sometimes going down the wrong path isn’t a mistake —
+it’s a construction line.”
+— Matthew Inman (The Oatmeal)
+It was exactly what I needed to hear.
+You see, only a few days prior, Font Awesome and I had parted ways — the end of a short, but transformative chapter.
+I’m proud of what we built together, and grate…]]></summary>
+        <author>
+            <name>Lea Verou’s blog</name>
         </author>
     </entry>
     <entry>
@@ -2364,19 +2402,6 @@ Points: 503
         <summary type="html"><![CDATA[Today, Stack overflow has almost as few questions asked per month, as when it launched back in 2009. A recap of its slow, then rapid, downfall.]]></summary>
         <author>
             <name>Gergely Orosz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Human]]></title>
-        <id>https://news.ycombinator.com/item?id=43991396</id>
-        <link href="https://quarter--mile.com/Human"/>
-        <updated>2025-05-15T02:57:19.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://quarter--mile.com/Human
-Comments URL: https://news.ycombinator.com/item?id=43991396
-Points: 511
-# Comments: 201]]></summary>
-        <author>
-            <name>surprisetalk</name>
         </author>
     </entry>
 </feed>
