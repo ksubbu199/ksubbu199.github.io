@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-06-13T01:39:04.872Z</updated>
+    <updated>2025-06-13T03:17:38.048Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -541,6 +541,19 @@ Points: 509
         <updated>2025-06-09T07:36:29.000Z</updated>
         <author>
             <name>Think School</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How I Program with Agents]]></title>
+        <id>https://news.ycombinator.com/item?id=44221655</id>
+        <link href="https://crawshaw.io/blog/programming-with-agents"/>
+        <updated>2025-06-09T05:30:14.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://crawshaw.io/blog/programming-with-agents
+Comments URL: https://news.ycombinator.com/item?id=44221655
+Points: 501
+# Comments: 280]]></summary>
+        <author>
+            <name>bumbledraven</name>
         </author>
     </entry>
     <entry>
@@ -2334,53 +2347,6 @@ Points: 511
         <updated>2025-05-14T15:45:10.000Z</updated>
         <author>
             <name>Think School</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Coding without a laptop: Two weeks with AR glasses and Linux on Android]]></title>
-        <id>https://news.ycombinator.com/item?id=43985513</id>
-        <link href="https://holdtherobot.com/blog/2025/05/11/linux-on-android-with-ar-glasses/"/>
-        <updated>2025-05-14T15:11:57.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://holdtherobot.com/blog/2025/05/11/linux-on-android-with-ar-glasses/
-Comments URL: https://news.ycombinator.com/item?id=43985513
-Points: 538
-# Comments: 223]]></summary>
-        <author>
-            <name>mikenew</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AlphaEvolve: A Gemini-powered coding agent for designing advanced algorithms]]></title>
-        <id>https://news.ycombinator.com/item?id=43985489</id>
-        <link href="https://deepmind.google/discover/blog/alphaevolve-a-gemini-powered-coding-agent-for-designing-advanced-algorithms/"/>
-        <updated>2025-05-14T15:10:15.000Z</updated>
-        <summary type="html"><![CDATA[See also https://www.nature.com/articles/d41586-025-01523-z (https://archive.is/NBaXE)
-Comments URL: https://news.ycombinator.com/item?id=43985489
-Points: 538
-# Comments: 154]]></summary>
-        <author>
-            <name>Fysi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Building Custom Tooling with LLMs]]></title>
-        <id>https://martinfowler.com/articles/exploring-gen-ai/16-building-custom-tooling-with-llms.html</id>
-        <link href="https://martinfowler.com/articles/exploring-gen-ai/16-building-custom-tooling-with-llms.html"/>
-        <updated>2025-05-14T14:10:00.000Z</updated>
-        <summary type="html"><![CDATA[Tools that treat diagrams as code, such as PlantUML, are invaluable
-       for communicating complex system behavior. But Unmesh
-       Joshi often wished for an extension to walk through these
-       diagrams step-by-step. Yet, extending established tools like PlantUML
-       often involves significant initial setup - parsing hooks, build scripts,
-       viewer code, packaging - enough “plumbing” to deter rapid prototyping.
-He narrates now he used an LLM to build a small extension adding step-wise
-       playback to PlantUML sequence diagrams. This illustrates how
-       syntax design, parsing, SVG generation, build automation, and an HTML
-       viewer were iteratively developed through a conversation with an LLM -
-       turning tedious tasks into manageable steps.
-more…]]></summary>
-        <author>
-            <name>Martin Fowler</name>
         </author>
     </entry>
 </feed>
