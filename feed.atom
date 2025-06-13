@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-06-12T23:18:49.710Z</updated>
+    <updated>2025-06-13T01:39:04.872Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Frequent reauth doesn't make you more secure]]></title>
+        <id>https://news.ycombinator.com/item?id=44261777</id>
+        <link href="https://tailscale.com/blog/frequent-reath-security"/>
+        <updated>2025-06-12T19:05:12.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://tailscale.com/blog/frequent-reath-security
+Comments URL: https://news.ycombinator.com/item?id=44261777
+Points: 586
+# Comments: 267]]></summary>
+        <author>
+            <name>ingve</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[GCP Outage]]></title>
         <id>https://news.ycombinator.com/item?id=44260810</id>
@@ -2368,19 +2381,6 @@ He narrates now he used an LLM to build a small extension adding step-wise
 more…]]></summary>
         <author>
             <name>Martin Fowler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is HDR, anyway?]]></title>
-        <id>https://news.ycombinator.com/item?id=43983871</id>
-        <link href="https://www.lux.camera/what-is-hdr/"/>
-        <updated>2025-05-14T12:46:39.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.lux.camera/what-is-hdr/
-Comments URL: https://news.ycombinator.com/item?id=43983871
-Points: 502
-# Comments: 249]]></summary>
-        <author>
-            <name>_kush</name>
         </author>
     </entry>
 </feed>

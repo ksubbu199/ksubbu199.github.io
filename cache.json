@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=44261777",
+          "author": "ingve",
+          "description": "Article URL: https://tailscale.com/blog/frequent-reath-security\nComments URL: https://news.ycombinator.com/item?id=44261777\nPoints: 586\n# Comments: 267",
+          "link": "https://tailscale.com/blog/frequent-reath-security",
+          "publishedOn": "2025-06-12T19:05:12.000Z",
+          "wordCount": 2734,
+          "title": "Frequent reauth doesn't make you more secure",
+          "imageUrl": "https://tailscale.com/api/og-image?id=2c6cdf4d-1171-40e1-8147-49a14b12d7c3"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=44260810",
           "author": "thanhhaimai",
           "description": "Article URL: https://status.cloud.google.com/\nComments URL: https://news.ycombinator.com/item?id=44260810\nPoints: 933\n# Comments: 345",
@@ -984,16 +994,6 @@
           "wordCount": 2040,
           "title": "AlphaEvolve: A Gemini-powered coding agent for designing advanced algorithms",
           "imageUrl": "https://lh3.googleusercontent.com/Gw688MNwkQVBeUALSFtQz46Oh4NFoZAe10mEpvtmZhKuWhlQsi5uh2KFHKbxH8NhBnOGUNza6O6-0HElml2zEN06vI_9oAsjAxFVzxjDL5DOw7HsAw=w1200-h630-n-nu"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=43983871",
-          "author": "_kush",
-          "description": "Article URL: https://www.lux.camera/what-is-hdr/\nComments URL: https://news.ycombinator.com/item?id=43983871\nPoints: 502\n# Comments: 249",
-          "link": "https://www.lux.camera/what-is-hdr/",
-          "publishedOn": "2025-05-14T12:46:39.000Z",
-          "wordCount": 4121,
-          "title": "What is HDR, anyway?",
-          "imageUrl": "https://www.lux.camera/content/images/size/w1200/2025/05/HDR-sunset.jpg"
         }
       ]
     },
