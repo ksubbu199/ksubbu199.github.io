@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-06-13T11:17:19.532Z</updated>
+    <updated>2025-06-13T12:39:26.579Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Jemalloc Postmortem]]></title>
+        <id>https://news.ycombinator.com/item?id=44264958</id>
+        <link href="https://jasone.github.io/2025/06/12/jemalloc-postmortem/"/>
+        <updated>2025-06-13T01:37:17.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://jasone.github.io/2025/06/12/jemalloc-postmortem/
+Comments URL: https://news.ycombinator.com/item?id=44264958
+Points: 518
+# Comments: 142]]></summary>
+        <author>
+            <name>jasone</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Frequent reauth doesn't make you more secure]]></title>
         <id>https://news.ycombinator.com/item?id=44261777</id>
@@ -318,6 +331,19 @@ We are bringing an upgraded version of the long beloved SO-101 robot arms to a $
 I’ve spent a few years building RC planes (https://cyo.ng/hangar/) and micro gas turbines (https://set.mit.edu), and I’ve always wished hardware were cheaper so more people could ex…]]></summary>
         <author>
             <name>charleszyong</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenAI dropped the price of o3 by 80%]]></title>
+        <id>https://news.ycombinator.com/item?id=44239359</id>
+        <link href="https://twitter.com/sama/status/1932434606558462459"/>
+        <updated>2025-06-10T17:41:29.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://twitter.com/sama/status/1932434606558462459
+Comments URL: https://news.ycombinator.com/item?id=44239359
+Points: 500
+# Comments: 489]]></summary>
+        <author>
+            <name>mfiguiere</name>
         </author>
     </entry>
     <entry>
