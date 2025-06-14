@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-06-14T05:19:40.361Z</updated>
+    <updated>2025-06-14T06:26:22.274Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[I convinced HP's board to buy Palm and watched them kill it]]></title>
+        <id>https://news.ycombinator.com/item?id=44270709</id>
+        <link href="https://philmckinney.substack.com/p/i-convinced-hps-board-to-buy-palm"/>
+        <updated>2025-06-13T18:03:30.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://philmckinney.substack.com/p/i-convinced-hps-board-to-buy-palm
+Comments URL: https://news.ycombinator.com/item?id=44270709
+Points: 509
+# Comments: 433]]></summary>
+        <author>
+            <name>AndrewDucker</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[kTLS - Kernel level TLS]]></title>
         <id>https://www.youtube.com/watch?v=SyrgSKEi4Sc</id>
@@ -2392,19 +2405,6 @@ Points: 500
 # Comments: 188]]></summary>
         <author>
             <name>plam503711</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Baby is healed with first personalized gene-editing treatment]]></title>
-        <id>https://news.ycombinator.com/item?id=43997636</id>
-        <link href="https://www.nytimes.com/2025/05/15/health/gene-editing-personalized-rare-disorders.html"/>
-        <updated>2025-05-15T18:06:06.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.nytimes.com/2025/05/15/health/gene-editing-personalized-rare-disorders.html
-Comments URL: https://news.ycombinator.com/item?id=43997636
-Points: 503
-# Comments: 234]]></summary>
-        <author>
-            <name>jbredeche</name>
         </author>
     </entry>
 </feed>
