@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-06-14T03:11:42.628Z</updated>
+    <updated>2025-06-14T04:24:02.092Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -2405,16 +2405,6 @@ Points: 503
 # Comments: 234]]></summary>
         <author>
             <name>jbredeche</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stack overflow is almost dead]]></title>
-        <id>6826078558dc81000103cb3e</id>
-        <link href="https://blog.pragmaticengineer.com/stack-overflow-is-almost-dead/"/>
-        <updated>2025-05-15T15:29:06.000Z</updated>
-        <summary type="html"><![CDATA[Today, Stack overflow has almost as few questions asked per month, as when it launched back in 2009. A recap of its slow, then rapid, downfall.]]></summary>
-        <author>
-            <name>Gergely Orosz</name>
         </author>
     </entry>
 </feed>
