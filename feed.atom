@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-06-16T18:28:22.442Z</updated>
+    <updated>2025-06-16T19:15:25.731Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Working on databases from prison]]></title>
+        <id>https://news.ycombinator.com/item?id=44288937</id>
+        <link href="https://turso.tech/blog/working-on-databases-from-prison"/>
+        <updated>2025-06-16T12:32:02.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://turso.tech/blog/working-on-databases-from-prison
+Comments URL: https://news.ycombinator.com/item?id=44288937
+Points: 527
+# Comments: 336]]></summary>
+        <author>
+            <name>dvektor</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Short polling is too chatty on the backend]]></title>
         <id>https://www.youtube.com/watch?v=BMIc4MuTFyw</id>
