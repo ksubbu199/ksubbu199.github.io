@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-06-16T22:19:11.515Z</updated>
+    <updated>2025-06-16T23:18:40.863Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -30,6 +30,19 @@ Points: 507
 # Comments: 282]]></summary>
         <author>
             <name>todsacerdoti</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why SSL was renamed to TLS in late 90s (2014)]]></title>
+        <id>https://news.ycombinator.com/item?id=44282378</id>
+        <link href="https://tim.dierks.org/2014/05/security-standards-and-name-changes-in.html"/>
+        <updated>2025-06-15T14:10:37.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://tim.dierks.org/2014/05/security-standards-and-name-changes-in.html
+Comments URL: https://news.ycombinator.com/item?id=44282378
+Points: 501
+# Comments: 220]]></summary>
+        <author>
+            <name>Bogdanp</name>
         </author>
     </entry>
     <entry>
