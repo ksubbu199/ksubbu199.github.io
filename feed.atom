@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-06-17T21:19:11.466Z</updated>
+    <updated>2025-06-17T22:18:14.712Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -17,6 +17,30 @@ Points: 561
 # Comments: 198]]></summary>
         <author>
             <name>LorenDB</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bluesky Likes Web Components]]></title>
+        <id>https://lea.verou.me/blog/2025/bluesky-likes/</id>
+        <link href="https://lea.verou.me/blog/2025/bluesky-likes/"/>
+        <updated>2025-06-17T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Just want the components? Here you go:
+
+ Demo
+
+ Repo
+
+ NPM
+A love letter to the Bluesky API
+I’m old enough to remember the golden Web 2.0 era, when many of today’s big social media platforms grew up.
+A simpler time, when the Web was much more extroverted.
+It was common for websites to embed data from others (the peak of mashups),
+and prominently feature widgets from various platforms to showcase a post’s likes or shares.
+Especially Twitter was so ubiquitous that the number of Twitter shares was my primary metric for how much people were interested in a blog post I wrote.
+Then, websites started progressively becoming walled gardens, guarding their data with more fervor than Gollum guarding the Precious.
+Features disappeared or got locked behind API keys, ridiculous rate limits, expensive pa…]]></summary>
+        <author>
+            <name>Lea Verou’s blog</name>
         </author>
     </entry>
     <entry>
@@ -213,6 +237,19 @@ Points: 513
         <updated>2025-06-12T15:20:00.000Z</updated>
         <author>
             <name>Think School</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Waymo rides cost more than Uber or Lyft and people are paying anyway]]></title>
+        <id>https://news.ycombinator.com/item?id=44258139</id>
+        <link href="https://techcrunch.com/2025/06/12/waymo-rides-cost-more-than-uber-or-lyft-and-people-are-paying-anyway/"/>
+        <updated>2025-06-12T14:19:43.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://techcrunch.com/2025/06/12/waymo-rides-cost-more-than-uber-or-lyft-and-people-are-paying-anyway/
+Comments URL: https://news.ycombinator.com/item?id=44258139
+Points: 501
+# Comments: 880]]></summary>
+        <author>
+            <name>achristmascarl</name>
         </author>
     </entry>
     <entry>
@@ -2358,19 +2395,6 @@ Points: 526
 # Comments: 174]]></summary>
         <author>
             <name>bpierre</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Don't guess my language]]></title>
-        <id>https://news.ycombinator.com/item?id=44028153</id>
-        <link href="https://vitonsky.net/blog/2025/05/17/language-detection/"/>
-        <updated>2025-05-19T10:12:53.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://vitonsky.net/blog/2025/05/17/language-detection/
-Comments URL: https://news.ycombinator.com/item?id=44028153
-Points: 504
-# Comments: 293]]></summary>
-        <author>
-            <name>e-topy</name>
         </author>
     </entry>
 </feed>

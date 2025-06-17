@@ -116,6 +116,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://news.ycombinator.com/item?id=44258139",
+          "author": "achristmascarl",
+          "description": "Article URL: https://techcrunch.com/2025/06/12/waymo-rides-cost-more-than-uber-or-lyft-and-people-are-paying-anyway/\nComments URL: https://news.ycombinator.com/item?id=44258139\nPoints: 501\n# Comments: 880",
+          "link": "https://techcrunch.com/2025/06/12/waymo-rides-cost-more-than-uber-or-lyft-and-people-are-paying-anyway/",
+          "publishedOn": "2025-06-12T14:19:43.000Z",
+          "wordCount": 3306,
+          "title": "Waymo rides cost more than Uber or Lyft and people are paying anyway",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2025/03/GettyImages-2206294608.jpg?resize=1200,800"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=44256499",
           "author": "laurieherault",
           "description": "Article URL: https://www.laurieherault.com/articles/a-thermal-receipt-printer-cured-my-procrastination\nComments URL: https://news.ycombinator.com/item?id=44256499\nPoints: 504\n# Comments: 287",
@@ -994,16 +1004,6 @@
           "wordCount": 12950,
           "title": "Zod 4",
           "imageUrl": "https://zod.dev/og.png?title=Introducing%20Zod%204&description=&path=zod.dev%2Fv4"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=44028153",
-          "author": "e-topy",
-          "description": "Article URL: https://vitonsky.net/blog/2025/05/17/language-detection/\nComments URL: https://news.ycombinator.com/item?id=44028153\nPoints: 504\n# Comments: 293",
-          "link": "https://vitonsky.net/blog/2025/05/17/language-detection/",
-          "publishedOn": "2025-05-19T10:12:53.000Z",
-          "wordCount": 740,
-          "title": "Don't guess my language",
-          "imageUrl": "https://vitonsky.net/_astro/the-dreamers-2003.DK9vJg4z.jpg"
         }
       ]
     },
@@ -2097,6 +2097,16 @@
       "feedUrl": "https://lea.verou.me/feed.xml",
       "siteUrl": "https://lea.verou.me/feed.xml",
       "articles": [
+        {
+          "id": "https://lea.verou.me/blog/2025/bluesky-likes/",
+          "author": null,
+          "description": "Just want the components? Here you go:\n\n Demo\n\n Repo\n\n NPM\nA love letter to the Bluesky API\nI’m old enough to remember the golden Web 2.0 era, when many of today’s big social media platforms grew up.\nA simpler time, when the Web was much more extroverted.\nIt was common for websites to embed data from others (the peak of mashups),\nand prominently feature widgets from various platforms to showcase a post’s likes or shares.\nEspecially Twitter was so ubiquitous that the number of Twitter shares was my primary metric for how much people were interested in a blog post I wrote.\nThen, websites started progressively becoming walled gardens, guarding their data with more fervor than Gollum guarding the Precious.\nFeatures disappeared or got locked behind API keys, ridiculous rate limits, expensive pa…",
+          "link": "https://lea.verou.me/blog/2025/bluesky-likes/",
+          "publishedOn": "2025-06-17T00:00:00.000Z",
+          "wordCount": 4323,
+          "title": "Bluesky Likes Web Components",
+          "imageUrl": "https://lea.verou.me/blog/2025/bluesky-likes/images/demo.png"
+        },
         {
           "id": "https://lea.verou.me/blog/2025/construction-lines/",
           "author": null,
