@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=44289412",
+          "author": "greenburger",
+          "description": "Article URL: https://www.nytimes.com/2025/06/16/technology/whatsapp-ads.html\nComments URL: https://news.ycombinator.com/item?id=44289412\nPoints: 508\n# Comments: 689",
+          "link": "https://www.nytimes.com/2025/06/16/technology/whatsapp-ads.html",
+          "publishedOn": "2025-06-16T13:38:59.000Z",
+          "wordCount": null,
+          "title": "WhatsApp introduces ads in its app",
+          "imageUrl": null
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=44288937",
           "author": "dvektor",
           "description": "Article URL: https://turso.tech/blog/working-on-databases-from-prison\nComments URL: https://news.ycombinator.com/item?id=44288937\nPoints: 527\n# Comments: 336",
@@ -984,16 +994,6 @@
           "wordCount": 740,
           "title": "Don't guess my language",
           "imageUrl": "https://vitonsky.net/_astro/the-dreamers-2003.DK9vJg4z.jpg"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=44024759",
-          "author": "bzg",
-          "description": "Article URL: https://social.numerique.gouv.fr/@codegouvfr/114529954373492878\nComments URL: https://news.ycombinator.com/item?id=44024759\nPoints: 507\n# Comments: 163",
-          "link": "https://social.numerique.gouv.fr/@codegouvfr/114529954373492878",
-          "publishedOn": "2025-05-18T22:27:07.000Z",
-          "wordCount": 123,
-          "title": "France Endorses UN Open Source Principles",
-          "imageUrl": null
         }
       ]
     },
@@ -2096,16 +2096,6 @@
           "wordCount": 1592,
           "title": "Construction Lines",
           "imageUrl": "https://lea.verou.me/blog/2025/construction-lines/images/logo-with-lines.png"
-        },
-        {
-          "id": "https://lea.verou.me/blog/2025/style-observer/",
-          "author": null,
-          "description": "I cannot count the number of times in my career I wished I could run JS in response to CSS property changes,\nregardless of what triggered them: media queries, user actions, or even other JS.\nUse cases abound.\nHere are some of mine:\nImplement higher level custom properties in components, where one custom property changes multiple others in nontrivial ways (e.g. a --variant: danger that sets 10 color tokens).\nPolyfill missing CSS features\nChange certain HTML attributes via CSS (hello --aria-expanded!)\nSet CSS properties based on other CSS properties without having to mirror them as custom properties\nThe most recent time I needed this was to prototype an idea I had for Web Awesome,\nand I decided this was it:\nI’d either find a good, bulletproof solution, or I would build it myself.\nSpoiler ale…",
-          "link": "https://lea.verou.me/blog/2025/style-observer/",
-          "publishedOn": "2025-05-18T22:23:54.000Z",
-          "wordCount": 975,
-          "title": "Style-observer: JS to observe CSS property changes, for reals",
-          "imageUrl": "https://lea.verou.me/blog/2025/style-observer/images/social.gif"
         }
       ]
     },
