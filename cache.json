@@ -964,16 +964,6 @@
           "wordCount": 2576,
           "title": "Making video games (without an engine) in 2025",
           "imageUrl": "https://noelberry.ca/posts/making_games_in_2025/postcard.png"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=44036647",
-          "author": "micahflee",
-          "description": "Article URL: https://micahflee.com/ddosecrets-publishes-410-gb-of-heap-dumps-hacked-from-telemessages-archive-server/\nComments URL: https://news.ycombinator.com/item?id=44036647\nPoints: 508\n# Comments: 136",
-          "link": "https://micahflee.com/ddosecrets-publishes-410-gb-of-heap-dumps-hacked-from-telemessages-archive-server/",
-          "publishedOn": "2025-05-20T00:52:27.000Z",
-          "wordCount": 886,
-          "title": "DDoSecrets publishes 410 GB of heap dumps, hacked from TeleMessage",
-          "imageUrl": "https://images.unsplash.com/photo-1642204705127-accc0dcc5779?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDN8fGxhbmRmaWxsfGVufDB8fHx8MTc0NzY3MTQzMnww&ixlib=rb-4.1.0&q=80&w=2000"
         }
       ]
     },
@@ -1043,6 +1033,16 @@
       "feedUrl": "https://martinfowler.com/feed.atom",
       "siteUrl": "https://martinfowler.com/feed.atom",
       "articles": [
+        {
+          "id": "https://martinfowler.com/articles/expert-generalist.html",
+          "author": null,
+          "description": "As computer systems get more sophisticated we've seen a growing trend\n      to value deep specialists. But we've found that our most effective\n      colleagues have a skill that comes from spanning many specialties. We are thus starting\n      to explicitly recognize this as a first-class skill of “Expert\n      Generalist”. This is the first installment of an article detailing how we\n      think about this skill, starting with the first three characteristics of an\n      Expert Generalist.\nmore…",
+          "link": "https://martinfowler.com/articles/expert-generalist.html",
+          "publishedOn": "2025-06-18T13:13:00.000Z",
+          "wordCount": 2058,
+          "title": "Expert Generalists: first three characteristics",
+          "imageUrl": "https://martinfowler.com/articles/expert-generalist/card.png"
+        },
         {
           "id": "https://martinfowler.com/articles/exploring-gen-ai/autonomous-agents-codex-example.html",
           "author": null,
