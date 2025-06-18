@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-06-18T22:18:51.561Z</updated>
+    <updated>2025-06-18T23:18:45.076Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -33,6 +33,28 @@ more…]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Show HN: Workout.cool – Open-source fitness coaching platform]]></title>
+        <id>https://news.ycombinator.com/item?id=44309320</id>
+        <link href="https://github.com/Snouzy/workout-cool"/>
+        <updated>2025-06-18T12:33:49.000Z</updated>
+        <summary type="html"><![CDATA[I was the main contributor to workout.lol, an open-source fitness app to easily build a workout routine. The project had traction (1.4k GitHub stars, 95 forks, ~20K visits/month), but was eventually sold due to video licensing hurdles. 
+The new owner stopped maintaining it, and the repo went abandoned.
+Over the next 9 months, I sent 15 emails to try to save it : no replies. Feature requests & issues were ignored. The community was left with a "broken" tool let's say.
+I couldn't just let it die So I built the new version from scratch with the same open-source spirit, but a better architecture long-term vision, more features and no license problems.
+It's called : Workout.cool (https://workout.cool). What it offers: 100% open-source, MIT-licensed - 1200+ exercises (with videos, attributes, translations) - Progress tracking - Multilingual-ready - Self-hostable
+I'm not doing this for money. I'm doing it because I believe in open fitness tools, and I’ve been passionate about strength training for 15+ years.
+If this resonates with you, feel free to: - Star the repo - Share with fitness/tech friends - Suggest features - Contribute code/design/docs
+Together, we can build the open-source fitness platform we all wanted to easily build a workout routine and get in shape
+Website: https://workout.cool
+GitHub: https://github.com/Snouzy/workout-cool
+Comments URL: https://news.ycombinator.com/item?id=44309320
+Points: 510
+# Comments: 162]]></summary>
+        <author>
+            <name>surgomat</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Databases are just pages of bytes]]></title>
         <id>https://www.youtube.com/watch?v=mVzztGo0kZM</id>
         <link href="https://www.youtube.com/watch?v=mVzztGo0kZM"/>
@@ -52,6 +74,19 @@ Points: 541
 # Comments: 198]]></summary>
         <author>
             <name>smartmic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building Effective AI Agents]]></title>
+        <id>https://news.ycombinator.com/item?id=44301809</id>
+        <link href="https://www.anthropic.com/engineering/building-effective-agents"/>
+        <updated>2025-06-17T17:50:05.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.anthropic.com/engineering/building-effective-agents
+Comments URL: https://news.ycombinator.com/item?id=44301809
+Points: 500
+# Comments: 85]]></summary>
+        <author>
+            <name>Anon84</name>
         </author>
     </entry>
     <entry>
