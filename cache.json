@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=44314423",
+          "author": "sandslash",
+          "description": "Article URL: https://www.youtube.com/watch?v=LCEmiRjPEtQ\nComments URL: https://news.ycombinator.com/item?id=44314423\nPoints: 538\n# Comments: 188",
+          "link": "https://www.youtube.com/watch?v=LCEmiRjPEtQ",
+          "publishedOn": "2025-06-19T00:33:21.000Z",
+          "wordCount": null,
+          "title": "Andrej Karpathy: Software in the era of AI [video]",
+          "imageUrl": null
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=44309320",
           "author": "surgomat",
           "description": "I was the main contributor to workout.lol, an open-source fitness app to easily build a workout routine. The project had traction (1.4k GitHub stars, 95 forks, ~20K visits/month), but was eventually sold due to video licensing hurdles. \nThe new owner stopped maintaining it, and the repo went abandoned.\nOver the next 9 months, I sent 15 emails to try to save it : no replies. Feature requests & issues were ignored. The community was left with a \"broken\" tool let's say.\nI couldn't just let it die So I built the new version from scratch with the same open-source spirit, but a better architecture long-term vision, more features and no license problems.\nIt's called : Workout.cool (https://workout.cool). What it offers: 100% open-source, MIT-licensed - 1200+ exercises (with videos, attributes, translations) - Progress tracking - Multilingual-ready - Self-hostable\nI'm not doing this for money. I'm doing it because I believe in open fitness tools, and I’ve been passionate about strength training for 15+ years.\nIf this resonates with you, feel free to: - Star the repo - Share with fitness/tech friends - Suggest features - Contribute code/design/docs\nTogether, we can build the open-source fitness platform we all wanted to easily build a workout routine and get in shape\nWebsite: https://workout.cool\nGitHub: https://github.com/Snouzy/workout-cool\nComments URL: https://news.ycombinator.com/item?id=44309320\nPoints: 510\n# Comments: 162",
