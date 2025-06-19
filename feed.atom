@@ -2,10 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-06-19T12:40:23.807Z</updated>
+    <updated>2025-06-19T13:31:57.916Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Expert Generalists: three more characteristics]]></title>
+        <id>https://martinfowler.com/articles/expert-generalist.html#FavorFundamentalKnowledge</id>
+        <link href="https://martinfowler.com/articles/expert-generalist.html#FavorFundamentalKnowledge"/>
+        <updated>2025-06-19T12:48:00.000Z</updated>
+        <summary type="html"><![CDATA[Unmesh, Gitanjali, and I finish our list of characteristics of an
+      Expert Generalist by describing how these folks favor fundamental
+      knowledge in a domain, possess a blend of broad and deep skills, and know
+      how to build a rough, perceptive sense - a sympathy - for related domains.
+more…]]></summary>
+        <author>
+            <name>Martin Fowler</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[This is how MongoDB and MySQL are similar]]></title>
         <id>https://www.youtube.com/watch?v=3Qj5th1KNvU</id>
