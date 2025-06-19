@@ -16,6 +16,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://news.ycombinator.com/item?id=44314085",
+          "author": "psviderski",
+          "description": "I got tired of the push-to-registry/pull-from-registry dance every time I needed to deploy a Docker image.\nIn certain cases, using a full-fledged external (or even local) registry is annoying overhead. And if you think about it, there's already a form of registry present on any of your Docker-enabled hosts — the Docker's own image storage.\nSo I built Unregistry [1] that exposes Docker's (containerd) image storage through a standard registry API. It adds a `docker pussh` command that pushes images directly to remote Docker daemons over SSH. It transfers only the missing layers, making it fast and efficient.\n  docker pussh myapp:latest user@server\n\nI've built it as a byproduct while working on Uncloud [2], a tool for deploying containers across a network of Docker hosts, and figured it'd be useful as a standalone project.\nWould love to hear your thoughts and use cases!\n[1]: https://github.com/psviderski/unregistry\n[2]: https://github.com/psviderski/uncloud\nComments URL: https://news.ycombinator.com/item?id=44314085\nPoints: 510\n# Comments: 108",
+          "link": "https://github.com/psviderski/unregistry",
+          "publishedOn": "2025-06-18T23:17:10.000Z",
+          "wordCount": 5099,
+          "title": "Show HN: Unregistry – “docker push” directly to servers without a registry",
+          "imageUrl": "https://opengraph.githubassets.com/1b3fccab1a33af229348870e9cecf1d632bfad90e790111c82693b307f9bdbb2/psviderski/unregistry"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=44309320",
           "author": "surgomat",
           "description": "I was the main contributor to workout.lol, an open-source fitness app to easily build a workout routine. The project had traction (1.4k GitHub stars, 95 forks, ~20K visits/month), but was eventually sold due to video licensing hurdles. \nThe new owner stopped maintaining it, and the repo went abandoned.\nOver the next 9 months, I sent 15 emails to try to save it : no replies. Feature requests & issues were ignored. The community was left with a \"broken\" tool let's say.\nI couldn't just let it die So I built the new version from scratch with the same open-source spirit, but a better architecture long-term vision, more features and no license problems.\nIt's called : Workout.cool (https://workout.cool). What it offers: 100% open-source, MIT-licensed - 1200+ exercises (with videos, attributes, translations) - Progress tracking - Multilingual-ready - Self-hostable\nI'm not doing this for money. I'm doing it because I believe in open fitness tools, and I’ve been passionate about strength training for 15+ years.\nIf this resonates with you, feel free to: - Star the repo - Share with fitness/tech friends - Suggest features - Contribute code/design/docs\nTogether, we can build the open-source fitness platform we all wanted to easily build a workout routine and get in shape\nWebsite: https://workout.cool\nGitHub: https://github.com/Snouzy/workout-cool\nComments URL: https://news.ycombinator.com/item?id=44309320\nPoints: 510\n# Comments: 162",
