@@ -1092,16 +1092,6 @@
           "wordCount": null,
           "title": "Interviewed by James Lewis at goto Copenhagen",
           "imageUrl": null
-        },
-        {
-          "id": "https://martinfowler.com/articles/agile-threat-modelling.html",
-          "author": null,
-          "description": "Threat modeling is a systems engineering practice where teams examine\n      how data flows through systems to identify what can go wrong - a\n      deceptively simple act that reveals security risks that automated tools\n      cannot anticipate. Often this is done by security analysts as a separate\n      or upfront activity, but Jim Gumbly wrote an article in\n      2020 explaining how it could be done by teams through small and regular\n      work.\nNow Gayathri Mohan has joined Jim to rewrite the\n      article, incorporating what both have them learned about doing and\n      teaching this practice in the last few years. In particular they have\n      extended their approach to perform threat modeling with platform\n      teams.\nmore…",
-          "link": "https://martinfowler.com/articles/agile-threat-modelling.html",
-          "publishedOn": "2025-05-20T13:20:00.000Z",
-          "wordCount": 7101,
-          "title": "Refresh of Agile Threat Modeling",
-          "imageUrl": "https://martinfowler.com/articles/agile-threat-modelling/card.png"
         }
       ]
     },
