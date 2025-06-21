@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-06-21T15:18:37.924Z</updated>
+    <updated>2025-06-21T16:22:26.530Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -110,6 +110,19 @@ Points: 525
 # Comments: 811]]></summary>
         <author>
             <name>smitop</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Phoenix.new – Remote AI Runtime for Phoenix]]></title>
+        <id>https://news.ycombinator.com/item?id=44328326</id>
+        <link href="https://fly.io/blog/phoenix-new-the-remote-ai-runtime/"/>
+        <updated>2025-06-20T14:57:04.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://fly.io/blog/phoenix-new-the-remote-ai-runtime/
+Comments URL: https://news.ycombinator.com/item?id=44328326
+Points: 501
+# Comments: 225]]></summary>
+        <author>
+            <name>wut42</name>
         </author>
     </entry>
     <entry>
