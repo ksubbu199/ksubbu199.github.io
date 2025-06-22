@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-06-22T05:19:07.600Z</updated>
+    <updated>2025-06-22T06:27:15.683Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[U.S. bombs Iranian nuclear sites]]></title>
+        <id>https://news.ycombinator.com/item?id=44341639</id>
+        <link href="https://www.bbc.co.uk/news/live/ckg3rzj8emjt"/>
+        <updated>2025-06-22T00:00:16.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.bbc.co.uk/news/live/ckg3rzj8emjt
+Comments URL: https://news.ycombinator.com/item?id=44341639
+Points: 554
+# Comments: 1501]]></summary>
+        <author>
+            <name>mattcollins</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Amazon vs Nykaa Inventory Models]]></title>
         <id>https://www.youtube.com/shorts/6DX8jLJNwM0</id>
@@ -2482,24 +2495,6 @@ Points: 514
 # Comments: 152]]></summary>
         <author>
             <name>zielmicha</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Interviewed by James Lewis at goto Copenhagen]]></title>
-        <id>https://www.youtube.com/watch?v=xsMUuOwv7IA</id>
-        <link href="https://www.youtube.com/watch?v=xsMUuOwv7IA"/>
-        <updated>2025-05-23T17:48:00.000Z</updated>
-        <summary type="html"><![CDATA[At goto copenhagen last year, my friend James Lewis interviewed
-      me and Goto have just released the video. I talk about when I
-      learned about iterative design from Kent Beck, the dangers of product
-      owners interfering with business-developer communication, and writing the
-      agile manifesto. During this he specifically asked about my essay Is
-      Design Dead. There's also a some audience questions asking if pair
-      programming is a bad thing for introverts like us (no), and (inevitably)
-      the role of LLMs for programmers today.
-more…]]></summary>
-        <author>
-            <name>Martin Fowler</name>
         </author>
     </entry>
 </feed>

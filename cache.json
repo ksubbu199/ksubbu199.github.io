@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=44341639",
+          "author": "mattcollins",
+          "description": "Article URL: https://www.bbc.co.uk/news/live/ckg3rzj8emjt\nComments URL: https://news.ycombinator.com/item?id=44341639\nPoints: 554\n# Comments: 1501",
+          "link": "https://www.bbc.co.uk/news/live/ckg3rzj8emjt",
+          "publishedOn": "2025-06-22T00:00:16.000Z",
+          "wordCount": 11572,
+          "title": "U.S. bombs Iranian nuclear sites",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b96e/live/c3685550-4f2e-11f0-a466-d54f65b60deb.jpg"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=44334167",
           "author": "the-anarchist",
           "description": "Article URL: https://smex.org/open-letter-to-samsung-end-forced-israeli-app-installations-in-the-wana-region/\nComments URL: https://news.ycombinator.com/item?id=44334167\nPoints: 517\n# Comments: 320",
@@ -992,16 +1002,6 @@
           "wordCount": 538,
           "title": "Bliki: Say Your Writing",
           "imageUrl": "https://martinfowler.com/logo-sq.png"
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=xsMUuOwv7IA",
-          "author": null,
-          "description": "At goto copenhagen last year, my friend James Lewis interviewed\n      me and Goto have just released the video. I talk about when I\n      learned about iterative design from Kent Beck, the dangers of product\n      owners interfering with business-developer communication, and writing the\n      agile manifesto. During this he specifically asked about my essay Is\n      Design Dead. There's also a some audience questions asking if pair\n      programming is a bad thing for introverts like us (no), and (inevitably)\n      the role of LLMs for programmers today.\nmore…",
-          "link": "https://www.youtube.com/watch?v=xsMUuOwv7IA",
-          "publishedOn": "2025-05-23T17:48:00.000Z",
-          "wordCount": null,
-          "title": "Interviewed by James Lewis at goto Copenhagen",
-          "imageUrl": null
         }
       ]
     },
