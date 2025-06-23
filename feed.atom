@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-06-23T01:45:45.943Z</updated>
+    <updated>2025-06-23T03:26:10.255Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -2518,19 +2518,6 @@ Points: 504
 # Comments: 195]]></summary>
         <author>
             <name>zdw</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I used o3 to find a remote zeroday in the Linux SMB implementation]]></title>
-        <id>https://news.ycombinator.com/item?id=44081338</id>
-        <link href="https://sean.heelan.io/2025/05/22/how-i-used-o3-to-find-cve-2025-37899-a-remote-zeroday-vulnerability-in-the-linux-kernels-smb-implementation/"/>
-        <updated>2025-05-24T14:25:45.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://sean.heelan.io/2025/05/22/how-i-used-o3-to-find-cve-2025-37899-a-remote-zeroday-vulnerability-in-the-linux-kernels-smb-implementation/
-Comments URL: https://news.ycombinator.com/item?id=44081338
-Points: 514
-# Comments: 152]]></summary>
-        <author>
-            <name>zielmicha</name>
         </author>
     </entry>
 </feed>
