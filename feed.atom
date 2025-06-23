@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-06-23T15:22:06.089Z</updated>
+    <updated>2025-06-23T16:26:31.829Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -339,6 +339,19 @@ more…]]></summary>
         <updated>2025-06-19T12:01:56.000Z</updated>
         <author>
             <name>Think School</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Zed Debugger Is Here]]></title>
+        <id>https://news.ycombinator.com/item?id=44314977</id>
+        <link href="https://zed.dev/blog/debugger"/>
+        <updated>2025-06-19T02:42:15.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://zed.dev/blog/debugger
+Comments URL: https://news.ycombinator.com/item?id=44314977
+Points: 500
+# Comments: 201]]></summary>
+        <author>
+            <name>SupremumLimit</name>
         </author>
     </entry>
     <entry>
