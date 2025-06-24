@@ -2,10 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-06-24T13:34:07.933Z</updated>
+    <updated>2025-06-24T14:20:38.108Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[LLMs bring new nature of abstraction]]></title>
+        <id>https://martinfowler.com/articles/2025-nature-abstraction.html</id>
+        <link href="https://martinfowler.com/articles/2025-nature-abstraction.html"/>
+        <updated>2025-06-24T14:02:00.000Z</updated>
+        <summary type="html"><![CDATA[Like most loudmouths in this field, I’ve been paying a lot of attention to the role that generative AI systems may play in software development. I think the appearance of LLMs will change software development to a similar degree as the change from assembler to the first high-level programming languages. The further development of languages and frameworks increased our abstraction level and productivity, but didn’t have that kind of impact on the nature of programming. LLMs are making that degree of impact, but with the distinction that it isn’t just raising the level of abstraction, but also forcing us to consider what it means to program with non-deterministic tools.
+I’ve witnessed many “game-changing” tools that didn’t really have very much of an impact. At one time there was a loud crew…]]></summary>
+        <author>
+            <name>Martin Fowler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Assessing Expert Generalists]]></title>
+        <id>https://martinfowler.com/articles/expert-generalist.html#AssessingExpertGeneralists</id>
+        <link href="https://martinfowler.com/articles/expert-generalist.html#AssessingExpertGeneralists"/>
+        <updated>2025-06-24T13:45:00.000Z</updated>
+        <summary type="html"><![CDATA[We have two crucial checkpoints for spotting — and then nurturing —
+      expert generalists. Unmesh, Gitanjali, and I look at hiring and career
+      progression.
+more…]]></summary>
+        <author>
+            <name>Martin Fowler</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Why Russia and China wont let IRAN Fall? Iran attacks Bravely | Geopolitical Case Study]]></title>
         <id>https://www.youtube.com/watch?v=cfpIxv8vqr0</id>
@@ -26,6 +50,19 @@ Points: 537
 # Comments: 251]]></summary>
         <author>
             <name>chirau</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vera C. Rubin Observatory first images]]></title>
+        <id>https://news.ycombinator.com/item?id=44356890</id>
+        <link href="https://rubinobservatory.org/news/rubin-first-look/cosmic-treasure-chest"/>
+        <updated>2025-06-23T15:41:00.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://rubinobservatory.org/news/rubin-first-look/cosmic-treasure-chest
+Comments URL: https://news.ycombinator.com/item?id=44356890
+Points: 509
+# Comments: 130]]></summary>
+        <author>
+            <name>phsilva</name>
         </author>
     </entry>
     <entry>
