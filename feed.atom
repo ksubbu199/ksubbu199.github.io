@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-06-24T01:40:36.777Z</updated>
+    <updated>2025-06-24T03:18:38.685Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[uv: An extremely fast Python package and project manager, written in Rust]]></title>
+        <id>https://news.ycombinator.com/item?id=44357411</id>
+        <link href="https://github.com/astral-sh/uv"/>
+        <updated>2025-06-23T16:27:25.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://github.com/astral-sh/uv
+Comments URL: https://news.ycombinator.com/item?id=44357411
+Points: 537
+# Comments: 251]]></summary>
+        <author>
+            <name>chirau</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[I wrote my PhD Thesis in Typst]]></title>
         <id>https://news.ycombinator.com/item?id=44350322</id>
