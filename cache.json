@@ -2378,6 +2378,16 @@
       "siteUrl": "https://lea.verou.me/feed.xml",
       "articles": [
         {
+          "id": "https://lea.verou.me/blog/2025/hovercar/",
+          "author": null,
+          "description": "You may be familiar with this wonderful illustration and accompanying\nblog post by Henrik Kniberg about good MVPs:\nIt’s a very visual way to illustrate the age-old concept that\nthat a good MVP is not the one developed in isolation over months or years,\ngrounded on assumptions about user needs and goals,\nbut one that delivers value to users as early as possible,\nso that future iterations can take advantage of the lessons learned from real users.\nFrom Hovercar to Skateboard\nI love Henrik’s metaphor so much, I have been using a similar system to flesh out product requirements and shipping goals, especially early on.\nIt can be immediately understood by anyone who has seen Henrik’s illustration,\nand I find it can be a lot more pragmatic and flexible than the usual simple two tiered system (core…",
+          "link": "https://lea.verou.me/blog/2025/hovercar/",
+          "publishedOn": "2025-06-25T00:00:00.000Z",
+          "wordCount": 4176,
+          "title": "The Hovercar Framework for Deliberate Product Design",
+          "imageUrl": "https://lea.verou.me/blog/2025/hovercar/images/disconnect.png"
+        },
+        {
           "id": "https://lea.verou.me/blog/2025/bluesky-likes/",
           "author": null,
           "description": "Just want the components? Here you go:\n\n Demo\n\n Repo\n\n NPM\nA love letter to the Bluesky API\nI’m old enough to remember the golden Web 2.0 era, when many of today’s big social media platforms grew up.\nA simpler time, when the Web was much more extroverted.\nIt was common for websites to embed data from others (the peak of mashups),\nand prominently feature widgets from various platforms to showcase a post’s likes or shares.\nEspecially Twitter was so ubiquitous that the number of Twitter shares was my primary metric for how much people were interested in a blog post I wrote.\nThen, websites started progressively becoming walled gardens, guarding their data with more fervor than Gollum guarding the Precious.\nFeatures disappeared or got locked behind API keys, ridiculous rate limits, expensive pa…",
