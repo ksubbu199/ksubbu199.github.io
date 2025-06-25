@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=44373504",
+          "author": "tbillington",
+          "description": "Article URL: https://www.programmax.net/articles/png-is-back/\nComments URL: https://news.ycombinator.com/item?id=44373504\nPoints: 523\n# Comments: 245",
+          "link": "https://www.programmax.net/articles/png-is-back/",
+          "publishedOn": "2025-06-25T03:54:43.000Z",
+          "wordCount": 885,
+          "title": "A new PNG spec",
+          "imageUrl": null
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=44369388",
           "author": "deepakjois",
           "description": "Article URL: https://www.cottongeeks.com/articles/2025-06-24-fun-with-uv-and-pep-723\nComments URL: https://news.ycombinator.com/item?id=44369388\nPoints: 500\n# Comments: 171",
@@ -973,6 +983,16 @@
       "feedUrl": "https://martinfowler.com/feed.atom",
       "siteUrl": "https://martinfowler.com/feed.atom",
       "articles": [
+        {
+          "id": "https://martinfowler.com/articles/expert-generalist.html#GrowingExpertGeneralists",
+          "author": null,
+          "description": "To grow Expert Generalists we need to focus attention on fundamentals\n      rather tools. As an example, Unmesh, Gitanjali, and I describe a workshop we've used to\n      break silos of application development, data engineering, and devops\nmore…",
+          "link": "https://martinfowler.com/articles/expert-generalist.html#GrowingExpertGeneralists",
+          "publishedOn": "2025-06-25T12:48:00.000Z",
+          "wordCount": 5232,
+          "title": "Growing Expert Generalists",
+          "imageUrl": "https://martinfowler.com/articles/expert-generalist/card.png"
+        },
         {
           "id": "https://martinfowler.com/articles/2025-nature-abstraction.html",
           "author": null,

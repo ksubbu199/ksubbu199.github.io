@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-06-25T12:41:23.268Z</updated>
+    <updated>2025-06-25T13:34:26.692Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Growing Expert Generalists]]></title>
+        <id>https://martinfowler.com/articles/expert-generalist.html#GrowingExpertGeneralists</id>
+        <link href="https://martinfowler.com/articles/expert-generalist.html#GrowingExpertGeneralists"/>
+        <updated>2025-06-25T12:48:00.000Z</updated>
+        <summary type="html"><![CDATA[To grow Expert Generalists we need to focus attention on fundamentals
+      rather tools. As an example, Unmesh, Gitanjali, and I describe a workshop we've used to
+      break silos of application development, data engineering, and devops
+more…]]></summary>
+        <author>
+            <name>Martin Fowler</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[@MarkRober  NASA Engineer to YouTuber]]></title>
         <id>https://www.youtube.com/shorts/a2bReBOl91U</id>
@@ -14,6 +27,19 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>Think School</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A new PNG spec]]></title>
+        <id>https://news.ycombinator.com/item?id=44373504</id>
+        <link href="https://www.programmax.net/articles/png-is-back/"/>
+        <updated>2025-06-25T03:54:43.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.programmax.net/articles/png-is-back/
+Comments URL: https://news.ycombinator.com/item?id=44373504
+Points: 523
+# Comments: 245]]></summary>
+        <author>
+            <name>tbillington</name>
         </author>
     </entry>
     <entry>
