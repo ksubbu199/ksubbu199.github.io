@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-06-25T04:30:09.184Z</updated>
+    <updated>2025-06-25T05:20:48.675Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Man 'refused entry into US' as border control catch him with bald JD Vance meme]]></title>
+        <id>https://news.ycombinator.com/item?id=44369140</id>
+        <link href="https://www.dublinlive.ie/news/world-news/man-refused-entry-us-border-31925059"/>
+        <updated>2025-06-24T18:21:13.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.dublinlive.ie/news/world-news/man-refused-entry-us-border-31925059
+Comments URL: https://news.ycombinator.com/item?id=44369140
+Points: 502
+# Comments: 445]]></summary>
+        <author>
+            <name>miles</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Writing toy software is a joy]]></title>
         <id>https://news.ycombinator.com/item?id=44367084</id>
@@ -2529,19 +2542,6 @@ Points: 520
 # Comments: 55]]></summary>
         <author>
             <name>mudkipdev</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hacker News now runs on top of Common Lisp]]></title>
-        <id>https://news.ycombinator.com/item?id=44099006</id>
-        <link href="https://lisp-journey.gitlab.io/blog/hacker-news-now-runs-on-top-of-common-lisp/"/>
-        <updated>2025-05-26T16:37:02.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://lisp-journey.gitlab.io/blog/hacker-news-now-runs-on-top-of-common-lisp/
-Comments URL: https://news.ycombinator.com/item?id=44099006
-Points: 511
-# Comments: 291]]></summary>
-        <author>
-            <name>Tomte</name>
         </author>
     </entry>
 </feed>

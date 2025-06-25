@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=44369140",
+          "author": "miles",
+          "description": "Article URL: https://www.dublinlive.ie/news/world-news/man-refused-entry-us-border-31925059\nComments URL: https://news.ycombinator.com/item?id=44369140\nPoints: 502\n# Comments: 445",
+          "link": "https://www.dublinlive.ie/news/world-news/man-refused-entry-us-border-31925059",
+          "publishedOn": "2025-06-24T18:21:13.000Z",
+          "wordCount": 14260,
+          "title": "Man 'refused entry into US' as border control catch him with bald JD Vance meme",
+          "imageUrl": "https://i2-prod.dublinlive.ie/news/world-news/article31925057.ece/ALTERNATES/s1200/0_Meme-depicting-JD-Vance-as-bald.jpg"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=44367084",
           "author": "bundie",
           "description": "Article URL: https://blog.jsbarretto.com/post/software-is-joy\nComments URL: https://news.ycombinator.com/item?id=44367084\nPoints: 507\n# Comments: 212",
@@ -914,16 +924,6 @@
           "wordCount": 85,
           "title": "CSS Minecraft",
           "imageUrl": "https://benjaminaster.com/css-minecraft/assets/screenshot.png"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=44099006",
-          "author": "Tomte",
-          "description": "Article URL: https://lisp-journey.gitlab.io/blog/hacker-news-now-runs-on-top-of-common-lisp/\nComments URL: https://news.ycombinator.com/item?id=44099006\nPoints: 511\n# Comments: 291",
-          "link": "https://lisp-journey.gitlab.io/blog/hacker-news-now-runs-on-top-of-common-lisp/",
-          "publishedOn": "2025-05-26T16:37:02.000Z",
-          "wordCount": 977,
-          "title": "Hacker News now runs on top of Common Lisp",
-          "imageUrl": "/images/default.png"
         }
       ]
     },
