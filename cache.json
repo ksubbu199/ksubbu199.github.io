@@ -987,6 +987,16 @@
       "siteUrl": "http://jvns.ca/atom.xml",
       "articles": [
         {
+          "id": "https://jvns.ca/blog/2025/06/24/new-zine--the-secret-rules-of-the-terminal/",
+          "author": null,
+          "description": "Hello! After many months of writing deep dive blog posts about the terminal, on\nTuesday I released a new zine called “The Secret Rules of the Terminal”!\nYou can get it for $12 here:\nhttps://wizardzines.com/zines/terminal, or get\nan 15-pack of all my zines here.\nHere’s the cover:\nthe table of contents\nHere’s the table of contents:\nwhy the terminal?\nAt first when I thought about writing about the terminal I was a bit baffled.\nAfter all – you just type in a command and run it, right? How hard could it\nbe?\nBut then I ran a terminal workshop for some folks who were new to the terminal,\nand somebody asked this question:\n“how do I quit? Ctrl+C isn’t working!”\nThis question has a very simple answer (they’d run man pngquant, so they just\nneeded to press q to quit). But it made me think about how ev…",
+          "link": "https://jvns.ca/blog/2025/06/24/new-zine--the-secret-rules-of-the-terminal/",
+          "publishedOn": "2025-06-26T00:00:00.000Z",
+          "wordCount": 1459,
+          "title": "New zine: The Secret Rules of the Terminal",
+          "imageUrl": null
+        },
+        {
           "id": "https://jvns.ca/blog/2025/06/10/how-to-compile-a-c-program/",
           "author": null,
           "description": "I have never been a C programmer but every so often I need to compile a C/C++\nprogram from source. This has been kind of a struggle for me: for a\nlong time, my approach was basically “install the dependencies, run make, if\nit doesn’t work, either try to find a binary someone has compiled or give up”.\n“Hope someone else has compiled it” worked pretty well when I was running Linux\nbut since I’ve been using a Mac for the last couple of years I’ve been running\ninto more situations where I have to actually compile programs myself.\nSo let’s talk about what you might have to do to compile a C program! I’ll use\na couple of examples of specific C programs I’ve compiled and talk about a few\nthings that can go wrong. Here are three programs we’ll be talking about\ncompiling:\npaperjam\nsqlite\nqf (a page…",
