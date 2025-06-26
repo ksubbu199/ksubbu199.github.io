@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-06-26T08:27:18.041Z</updated>
+    <updated>2025-06-26T09:21:43.162Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -2618,19 +2618,6 @@ Points: 500
         <updated>2025-05-28T07:41:03.000Z</updated>
         <author>
             <name>Think School</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: My LLM CLI tool can run tools now, from Python code or plugins]]></title>
-        <id>https://news.ycombinator.com/item?id=44110584</id>
-        <link href="https://simonwillison.net/2025/May/27/llm-tools/"/>
-        <updated>2025-05-27T20:53:03.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://simonwillison.net/2025/May/27/llm-tools/
-Comments URL: https://news.ycombinator.com/item?id=44110584
-Points: 500
-# Comments: 160]]></summary>
-        <author>
-            <name>simonw</name>
         </author>
     </entry>
 </feed>
