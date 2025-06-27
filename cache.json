@@ -934,16 +934,6 @@
           "wordCount": null,
           "title": "US Trade Court finds Trump tariffs illegal",
           "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=44118023",
-          "author": "katrinarodri",
-          "description": "A year ago, my co-founder launched Desktop Docs here on HN. It's a Mac app we built with Electron that uses CLIP embeddings to search photos and videos locally with natural language. We got positive feedback from HN and our first paying customers, but the app was almost 1GB and clunky to use.\nTLDR; rebuilding in Rust was the right move.\nSo we rewrote the app with Rust and Tauri and here are the results:\n- App size is 83% smaller: 1GB → 172MB\n- DMG Installer is 70% smaller: 232MB → 69.5MB\n- Indexing files is faster: A 38-minute video now indexes in ~3 minutes instead of 10-14 minutes\n- Overall more stability (old app used to randomly crash)\nThe original version worked, but it didn't perform well when you tried indexing thousands of images or large videos. We lost a lot of time struggling to…",
-          "link": "https://desktopdocs.com/?v=2025",
-          "publishedOn": "2025-05-28T16:53:11.000Z",
-          "wordCount": 1420,
-          "title": "Show HN: I rewrote my Mac Electron app in Rust",
-          "imageUrl": "https://desktopdocs.com/desktop-docs-og-image-1200x630.jpg"
         }
       ]
     },
