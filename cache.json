@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=44382752",
+          "author": "todsacerdoti",
+          "description": "Article URL: https://github.com/qemu/qemu/commit/3d40db0efc22520fa6c399cf73960dced423b048\nComments URL: https://news.ycombinator.com/item?id=44382752\nPoints: 505\n# Comments: 368",
+          "link": "https://github.com/qemu/qemu/commit/3d40db0efc22520fa6c399cf73960dced423b048",
+          "publishedOn": "2025-06-25T23:26:55.000Z",
+          "wordCount": 2359,
+          "title": "Define policy forbidding use of AI code generators",
+          "imageUrl": "https://opengraph.githubassets.com/3e42b624d7d1bc246b824f1cc500ec5c7f586cdf00a5dfead96c5de3e988f6c8/qemu/qemu/commit/3d40db0efc22520fa6c399cf73960dced423b048"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=44381297",
           "author": "robinhouston",
           "description": "Article URL: https://www.quantamagazine.org/a-new-pyramid-like-shape-always-lands-the-same-side-up-20250625/\nComments URL: https://news.ycombinator.com/item?id=44381297\nPoints: 501\n# Comments: 123",
@@ -934,26 +944,6 @@
           "wordCount": 1420,
           "title": "Show HN: I rewrote my Mac Electron app in Rust",
           "imageUrl": "https://desktopdocs.com/desktop-docs-og-image-1200x630.jpg"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=44115620",
-          "author": "NotInOurNames",
-          "description": "Article URL: https://dansinker.com/posts/2025-05-23-who-cares/\nComments URL: https://news.ycombinator.com/item?id=44115620\nPoints: 529\n# Comments: 496",
-          "link": "https://dansinker.com/posts/2025-05-23-who-cares/",
-          "publishedOn": "2025-05-28T13:07:57.000Z",
-          "wordCount": 1214,
-          "title": "The Who Cares Era",
-          "imageUrl": "/images/headshot.webp"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=44114982",
-          "author": "surprisetalk",
-          "description": "Article URL: https://goodinternetmagazine.com/my-website-is-ugly-because-i-made-it/\nComments URL: https://news.ycombinator.com/item?id=44114982\nPoints: 500\n# Comments: 122",
-          "link": "https://goodinternetmagazine.com/my-website-is-ugly-because-i-made-it/",
-          "publishedOn": "2025-05-28T11:53:47.000Z",
-          "wordCount": 1751,
-          "title": "My website is ugly because I made it",
-          "imageUrl": "https://goodinternetmagazine.com/content/images/2025/05/thumbnail_worst-homepage2.jpg"
         }
       ]
     },
@@ -2151,26 +2141,6 @@
           "publishedOn": "2025-05-29T10:38:56.000Z",
           "wordCount": null,
           "title": "What makes Hyderabad Special?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=ycGsB6Mzz6M",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=ycGsB6Mzz6M",
-          "publishedOn": "2025-05-28T12:01:50.000Z",
-          "wordCount": null,
-          "title": "Safest City in India?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=qVwP6JExZuA",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=qVwP6JExZuA",
-          "publishedOn": "2025-05-28T11:45:05.000Z",
-          "wordCount": null,
-          "title": "How to Negotiate like a Pro",
           "imageUrl": null
         }
       ]

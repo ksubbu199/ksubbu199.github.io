@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-06-26T23:19:18.684Z</updated>
+    <updated>2025-06-27T01:41:07.116Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -80,6 +80,19 @@ This question has a very simple answer (they’d run man pngquant, so they just
 needed to press q to quit). But it made me think about how ev…]]></summary>
         <author>
             <name>Julia Evans</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Define policy forbidding use of AI code generators]]></title>
+        <id>https://news.ycombinator.com/item?id=44382752</id>
+        <link href="https://github.com/qemu/qemu/commit/3d40db0efc22520fa6c399cf73960dced423b048"/>
+        <updated>2025-06-25T23:26:55.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://github.com/qemu/qemu/commit/3d40db0efc22520fa6c399cf73960dced423b048
+Comments URL: https://news.ycombinator.com/item?id=44382752
+Points: 505
+# Comments: 368]]></summary>
+        <author>
+            <name>todsacerdoti</name>
         </author>
     </entry>
     <entry>
@@ -2619,50 +2632,6 @@ Notes
       and ruinous.]]></summary>
         <author>
             <name>Martin Fowler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Who Cares Era]]></title>
-        <id>https://news.ycombinator.com/item?id=44115620</id>
-        <link href="https://dansinker.com/posts/2025-05-23-who-cares/"/>
-        <updated>2025-05-28T13:07:57.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://dansinker.com/posts/2025-05-23-who-cares/
-Comments URL: https://news.ycombinator.com/item?id=44115620
-Points: 529
-# Comments: 496]]></summary>
-        <author>
-            <name>NotInOurNames</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Safest City in India?]]></title>
-        <id>https://www.youtube.com/watch?v=ycGsB6Mzz6M</id>
-        <link href="https://www.youtube.com/watch?v=ycGsB6Mzz6M"/>
-        <updated>2025-05-28T12:01:50.000Z</updated>
-        <author>
-            <name>Think School</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[My website is ugly because I made it]]></title>
-        <id>https://news.ycombinator.com/item?id=44114982</id>
-        <link href="https://goodinternetmagazine.com/my-website-is-ugly-because-i-made-it/"/>
-        <updated>2025-05-28T11:53:47.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://goodinternetmagazine.com/my-website-is-ugly-because-i-made-it/
-Comments URL: https://news.ycombinator.com/item?id=44114982
-Points: 500
-# Comments: 122]]></summary>
-        <author>
-            <name>surprisetalk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Negotiate like a Pro]]></title>
-        <id>https://www.youtube.com/watch?v=qVwP6JExZuA</id>
-        <link href="https://www.youtube.com/watch?v=qVwP6JExZuA"/>
-        <updated>2025-05-28T11:45:05.000Z</updated>
-        <author>
-            <name>Think School</name>
         </author>
     </entry>
 </feed>
