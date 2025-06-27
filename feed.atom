@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-06-27T17:17:25.959Z</updated>
+    <updated>2025-06-27T18:27:21.021Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -59,6 +59,19 @@ Points: 559
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>Think School</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AlphaGenome: AI for better understanding the genome]]></title>
+        <id>https://news.ycombinator.com/item?id=44387659</id>
+        <link href="https://deepmind.google/discover/blog/alphagenome-ai-for-better-understanding-the-genome/"/>
+        <updated>2025-06-26T14:16:00.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://deepmind.google/discover/blog/alphagenome-ai-for-better-understanding-the-genome/
+Comments URL: https://news.ycombinator.com/item?id=44387659
+Points: 501
+# Comments: 169]]></summary>
+        <author>
+            <name>i_love_limes</name>
         </author>
     </entry>
     <entry>
