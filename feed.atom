@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-06-30T12:40:32.880Z</updated>
+    <updated>2025-06-30T13:33:28.914Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -2596,19 +2596,6 @@ Points: 543
         <updated>2025-06-01T04:30:10.000Z</updated>
         <author>
             <name>Think School</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Progressive JSON]]></title>
-        <id>https://news.ycombinator.com/item?id=44147945</id>
-        <link href="https://overreacted.io/progressive-json/"/>
-        <updated>2025-06-01T00:58:00.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://overreacted.io/progressive-json/
-Comments URL: https://news.ycombinator.com/item?id=44147945
-Points: 506
-# Comments: 201]]></summary>
-        <author>
-            <name>kacesensitive</name>
         </author>
     </entry>
 </feed>
