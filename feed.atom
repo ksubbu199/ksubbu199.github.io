@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-07-01T05:23:19.077Z</updated>
+    <updated>2025-07-01T06:30:27.071Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The new skill in AI is not prompting, it's context engineering]]></title>
+        <id>https://news.ycombinator.com/item?id=44427757</id>
+        <link href="https://www.philschmid.de/context-engineering"/>
+        <updated>2025-06-30T20:53:55.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.philschmid.de/context-engineering
+Comments URL: https://news.ycombinator.com/item?id=44427757
+Points: 517
+# Comments: 274]]></summary>
+        <author>
+            <name>robotswantdata</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Zero Copy File Transfer - Kernel TLS]]></title>
         <id>https://www.youtube.com/shorts/fjgCNN2bfNQ</id>
