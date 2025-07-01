@@ -2,10 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-07-01T12:40:56.920Z</updated>
+    <updated>2025-07-01T13:33:32.545Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Expert Generalists need specialists (and LLMs)]]></title>
+        <id>https://martinfowler.com/articles/expert-generalist.html#ExpertGeneralistsStillNeedSpecialists</id>
+        <link href="https://martinfowler.com/articles/expert-generalist.html#ExpertGeneralistsStillNeedSpecialists"/>
+        <updated>2025-07-01T13:17:00.000Z</updated>
+        <summary type="html"><![CDATA[While we've spent this article praising the Expert Generalist, Unmesh,
+      Gitanjali, and I simultaneously do not deny the value of specialist
+      knowledge. To be the most efficient, a team needs some specialist skill.
+      We've also observed that Expert Generalist capabilities are considerably
+      more valuable when working with LLMs.
+more…]]></summary>
+        <author>
+            <name>Martin Fowler</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Kernel Software vs Hardware TLS]]></title>
         <id>https://www.youtube.com/shorts/_sTUX3c0BZo</id>
