@@ -2,10 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-07-02T13:32:47.481Z</updated>
+    <updated>2025-07-02T14:19:37.024Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Why Organizations Need Expert Generalists]]></title>
+        <id>https://martinfowler.com/articles/expert-generalist.html#WhyOrganizationsNeedExpertGeneralists</id>
+        <link href="https://martinfowler.com/articles/expert-generalist.html#WhyOrganizationsNeedExpertGeneralists"/>
+        <updated>2025-07-02T14:05:00.000Z</updated>
+        <summary type="html"><![CDATA[In complex environments, the characteristics of Expert Generalists lead
+      them to be particularly valuable in driving tasks to completion. Unmesh,
+      Gitanjali, and I thus complete our article by summarizing the value of
+      this skill.
+more…]]></summary>
+        <author>
+            <name>Martin Fowler</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[TLS done in the NIC?]]></title>
         <id>https://www.youtube.com/shorts/Xq7bf-NXsnk</id>
