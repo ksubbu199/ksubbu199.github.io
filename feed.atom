@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-07-03T22:18:08.907Z</updated>
+    <updated>2025-07-03T23:19:05.750Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Introducing tmux-rs]]></title>
+        <id>https://news.ycombinator.com/item?id=44455787</id>
+        <link href="https://richardscollin.github.io/tmux-rs/"/>
+        <updated>2025-07-03T15:03:14.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://richardscollin.github.io/tmux-rs/
+Comments URL: https://news.ycombinator.com/item?id=44455787
+Points: 522
+# Comments: 185]]></summary>
+        <author>
+            <name>Jtsummers</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Package-lock json is terrible name for a critical file]]></title>
         <id>https://www.youtube.com/shorts/FylSr43y1AI</id>
@@ -2502,19 +2515,6 @@ Points: 581
 # Comments: 403]]></summary>
         <author>
             <name>booleanbetrayal</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why I wrote the BEAM book]]></title>
-        <id>https://news.ycombinator.com/item?id=44179257</id>
-        <link href="https://happihacking.com/blog/posts/2025/why_I_wrote_theBEAMBook/"/>
-        <updated>2025-06-04T10:36:49.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://happihacking.com/blog/posts/2025/why_I_wrote_theBEAMBook/
-Comments URL: https://news.ycombinator.com/item?id=44179257
-Points: 505
-# Comments: 127]]></summary>
-        <author>
-            <name>lawik</name>
         </author>
     </entry>
 </feed>

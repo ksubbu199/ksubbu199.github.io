@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=44455787",
+          "author": "Jtsummers",
+          "description": "Article URL: https://richardscollin.github.io/tmux-rs/\nComments URL: https://news.ycombinator.com/item?id=44455787\nPoints: 522\n# Comments: 185",
+          "link": "https://richardscollin.github.io/tmux-rs/",
+          "publishedOn": "2025-07-03T15:03:14.000Z",
+          "wordCount": 2934,
+          "title": "Introducing tmux-rs",
+          "imageUrl": null
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=44448868",
           "author": "geox",
           "description": "Article URL: https://apnews.com/article/climate-change-national-assessment-nasa-white-house-057cec699caef90832d8b10f21a6ffe8\nComments URL: https://news.ycombinator.com/item?id=44448868\nPoints: 505\n# Comments: 320",
@@ -934,16 +944,6 @@
           "wordCount": 9479,
           "title": "The time bomb in the tax code that's fueling mass tech layoffs",
           "imageUrl": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/0c16a3601a5e2bb8a760e92e8a15e861.jpg"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=44179257",
-          "author": "lawik",
-          "description": "Article URL: https://happihacking.com/blog/posts/2025/why_I_wrote_theBEAMBook/\nComments URL: https://news.ycombinator.com/item?id=44179257\nPoints: 505\n# Comments: 127",
-          "link": "https://happihacking.com/blog/posts/2025/why_I_wrote_theBEAMBook/",
-          "publishedOn": "2025-06-04T10:36:49.000Z",
-          "wordCount": 1171,
-          "title": "Why I wrote the BEAM book",
-          "imageUrl": "/images/og/thebeambooks.jpg"
         }
       ]
     },
