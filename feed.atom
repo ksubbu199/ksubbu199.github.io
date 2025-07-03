@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-07-03T05:23:37.436Z</updated>
+    <updated>2025-07-03T06:30:33.959Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -2479,26 +2479,6 @@ Points: 506
 # Comments: 112]]></summary>
         <author>
             <name>chmaynard</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[King Kohli for a reason]]></title>
-        <id>https://www.youtube.com/watch?v=ebHhxxhA35Y</id>
-        <link href="https://www.youtube.com/watch?v=ebHhxxhA35Y"/>
-        <updated>2025-06-03T18:05:57.000Z</updated>
-        <author>
-            <name>Think School</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Should I still use analytics?]]></title>
-        <id>https://martinfowler.com/articles/202506-whither-analytics.html</id>
-        <link href="https://martinfowler.com/articles/202506-whither-analytics.html"/>
-        <updated>2025-06-03T13:23:00.000Z</updated>
-        <summary type="html"><![CDATA[I set up Google Analytics on my site in 2010, and since then use it to track page views to my site. I only care about page views, which I find useful to figure out which pages get the most traffic. It’s interesting data, and sometimes rather useful. But Google collects much more information than just page views, and it’s tracking is more intrusive than I would like. But I had other things I’d rather spend to spend my time on, so doing anything about it never made it high enough up my todo list.
-But last month I finally did something, having come across some information that did I thought did what I wanted. Essentially I want things set up so that I don’t need to bother with a cookie banner because I only track things that are trackable when someone says “deny all”. Based on some google doc…]]></summary>
-        <author>
-            <name>Martin Fowler</name>
         </author>
     </entry>
 </feed>
