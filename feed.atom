@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-07-04T09:21:24.842Z</updated>
+    <updated>2025-07-04T10:21:23.215Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -23,6 +23,19 @@
         <updated>2025-07-04T06:43:00.000Z</updated>
         <author>
             <name>Think School</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[My open source project was relicensed by a YC company [license updated]]]></title>
+        <id>https://news.ycombinator.com/item?id=44460552</id>
+        <link href="https://twitter.com/soham_btw/status/1940952786491027886"/>
+        <updated>2025-07-04T02:04:55.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://twitter.com/soham_btw/status/1940952786491027886
+Comments URL: https://news.ycombinator.com/item?id=44460552
+Points: 502
+# Comments: 213]]></summary>
+        <author>
+            <name>sohzm</name>
         </author>
     </entry>
     <entry>
@@ -2454,32 +2467,6 @@ Points: 500
 # Comments: 418]]></summary>
         <author>
             <name>kklisura</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenAI slams court order to save all ChatGPT logs, including deleted chats]]></title>
-        <id>https://news.ycombinator.com/item?id=44185913</id>
-        <link href="https://arstechnica.com/tech-policy/2025/06/openai-says-court-forcing-it-to-save-all-chatgpt-logs-is-a-privacy-nightmare/"/>
-        <updated>2025-06-04T21:47:33.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://arstechnica.com/tech-policy/2025/06/openai-says-court-forcing-it-to-save-all-chatgpt-logs-is-a-privacy-nightmare/
-Comments URL: https://news.ycombinator.com/item?id=44185913
-Points: 677
-# Comments: 471]]></summary>
-        <author>
-            <name>ColinWright</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[After court order, OpenAI is now preserving all ChatGPT user logs]]></title>
-        <id>https://news.ycombinator.com/item?id=44185913</id>
-        <link href="https://mastodon.laurenweinstein.org/@lauren/114627064774788581"/>
-        <updated>2025-06-04T21:47:33.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://mastodon.laurenweinstein.org/@lauren/114627064774788581
-Comments URL: https://news.ycombinator.com/item?id=44185913
-Points: 543
-# Comments: 373]]></summary>
-        <author>
-            <name>ColinWright</name>
         </author>
     </entry>
 </feed>

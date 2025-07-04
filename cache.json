@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=44460552",
+          "author": "sohzm",
+          "description": "Article URL: https://twitter.com/soham_btw/status/1940952786491027886\nComments URL: https://news.ycombinator.com/item?id=44460552\nPoints: 502\n# Comments: 213",
+          "link": "https://twitter.com/soham_btw/status/1940952786491027886",
+          "publishedOn": "2025-07-04T02:04:55.000Z",
+          "wordCount": null,
+          "title": "My open source project was relicensed by a YC company [license updated]",
+          "imageUrl": null
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=44455787",
           "author": "Jtsummers",
           "description": "Article URL: https://richardscollin.github.io/tmux-rs/\nComments URL: https://news.ycombinator.com/item?id=44455787\nPoints: 522\n# Comments: 185",
@@ -893,26 +903,6 @@
           "publishedOn": "2025-06-04T23:40:47.000Z",
           "wordCount": null,
           "title": "Tesla seeks to guard crash data from public disclosure",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=44185913",
-          "author": "ColinWright",
-          "description": "Article URL: https://arstechnica.com/tech-policy/2025/06/openai-says-court-forcing-it-to-save-all-chatgpt-logs-is-a-privacy-nightmare/\nComments URL: https://news.ycombinator.com/item?id=44185913\nPoints: 677\n# Comments: 471",
-          "link": "https://arstechnica.com/tech-policy/2025/06/openai-says-court-forcing-it-to-save-all-chatgpt-logs-is-a-privacy-nightmare/",
-          "publishedOn": "2025-06-04T21:47:33.000Z",
-          "wordCount": 2794,
-          "title": "OpenAI slams court order to save all ChatGPT logs, including deleted chats",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2025/06/GettyImages-1412435889-1152x648.jpg"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=44185913",
-          "author": "ColinWright",
-          "description": "Article URL: https://mastodon.laurenweinstein.org/@lauren/114627064774788581\nComments URL: https://news.ycombinator.com/item?id=44185913\nPoints: 543\n# Comments: 373",
-          "link": "https://mastodon.laurenweinstein.org/@lauren/114627064774788581",
-          "publishedOn": "2025-06-04T21:47:33.000Z",
-          "wordCount": 126,
-          "title": "After court order, OpenAI is now preserving all ChatGPT user logs",
           "imageUrl": null
         }
       ]
