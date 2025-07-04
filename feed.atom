@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-07-04T01:40:09.424Z</updated>
+    <updated>2025-07-04T03:17:55.881Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -2487,21 +2487,6 @@ Points: 529
 # Comments: 120]]></summary>
         <author>
             <name>Sean-Der</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Autonomous coding agents: A Codex example]]></title>
-        <id>https://martinfowler.com/articles/exploring-gen-ai/autonomous-agents-codex-example.html</id>
-        <link href="https://martinfowler.com/articles/exploring-gen-ai/autonomous-agents-codex-example.html"/>
-        <updated>2025-06-04T13:50:00.000Z</updated>
-        <summary type="html"><![CDATA[In the past few weeks, multiple “autonomous background coding agents”
-      have been released. Birgitta Böckeler tried out giving a
-      task to OpenAI Codex to see what she could learn. Here she describes one
-      particular Codex run, to help us look behind the scenes, and make some
-      observations about its contribution to our work.
-more…]]></summary>
-        <author>
-            <name>Martin Fowler</name>
         </author>
     </entry>
 </feed>
