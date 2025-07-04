@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-07-04T05:22:17.639Z</updated>
+    <updated>2025-07-04T06:30:33.078Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -2474,19 +2474,6 @@ Points: 505
 # Comments: 387]]></summary>
         <author>
             <name>ecz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A proposal to restrict sites from accessing a users’ local network]]></title>
-        <id>https://news.ycombinator.com/item?id=44183799</id>
-        <link href="https://github.com/explainers-by-googlers/local-network-access"/>
-        <updated>2025-06-04T18:15:54.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://github.com/explainers-by-googlers/local-network-access
-Comments URL: https://news.ycombinator.com/item?id=44183799
-Points: 522
-# Comments: 297]]></summary>
-        <author>
-            <name>doener</name>
         </author>
     </entry>
 </feed>
