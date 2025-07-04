@@ -36,6 +36,26 @@
           "imageUrl": "https://blog.mgdproductions.com/content/images/2024/10/IMG_3221-1-2.jpg"
         },
         {
+          "id": "https://news.ycombinator.com/item?id=44443622",
+          "author": "ceejayoz",
+          "description": "Article URL: https://www.cnbc.com/2025/07/02/adp-jobs-report-june-2025.html\nComments URL: https://news.ycombinator.com/item?id=44443622\nPoints: 500\n# Comments: 325",
+          "link": "https://www.cnbc.com/2025/07/02/adp-jobs-report-june-2025.html",
+          "publishedOn": "2025-07-02T13:40:33.000Z",
+          "wordCount": 26952,
+          "title": "Private sector lost 33k jobs, badly missing expectations of 100k increase",
+          "imageUrl": "https://image.cnbcfm.com/api/v1/image/108138827-1746203264391-108138827-1746032489603-gettyimages-2212774223-jr_18835_uzd1yntc.jpeg?v=1746205217&w=1920&h=1080"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=44442473",
+          "author": "theandrewbailey",
+          "description": "Article URL: https://www.w3.org/QA/Tips/noClickHere\nComments URL: https://news.ycombinator.com/item?id=44442473\nPoints: 501\n# Comments: 338",
+          "link": "https://www.w3.org/QA/Tips/noClickHere",
+          "publishedOn": "2025-07-02T11:39:12.000Z",
+          "wordCount": 395,
+          "title": "Don’t use “click here” as link text (2001)",
+          "imageUrl": null
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=44437316",
           "author": "kualto",
           "description": "https://www.sec.gov/Archives/edgar/data/1579878/000162828025...\nComments URL: https://news.ycombinator.com/item?id=44437316\nPoints: 500\n# Comments: 225",
@@ -914,26 +934,6 @@
           "wordCount": 13316,
           "title": "A proposal to restrict sites from accessing a users’ local network",
           "imageUrl": "https://opengraph.githubassets.com/38de07edbf5f489edcc9c955e4460158b9d0c074e810fb1270be590a2966c709/explainers-by-googlers/local-network-access"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=44182356",
-          "author": "nickthegreek",
-          "description": "https://github.com/IRS-Public/direct-file\nComments URL: https://news.ycombinator.com/item?id=44182356\nPoints: 510\n# Comments: 222",
-          "link": "https://chrisgiven.com/2025/05/direct-file-on-github/",
-          "publishedOn": "2025-06-04T16:16:39.000Z",
-          "wordCount": 998,
-          "title": "IRS Direct File on GitHub",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=44182186",
-          "author": "Sean-Der",
-          "description": "Article URL: https://git.ffmpeg.org/gitweb/ffmpeg.git/commit/167e343bbe75515a80db8ee72ffa0c607c944a00\nComments URL: https://news.ycombinator.com/item?id=44182186\nPoints: 529\n# Comments: 120",
-          "link": "https://git.ffmpeg.org/gitweb/ffmpeg.git/commit/167e343bbe75515a80db8ee72ffa0c607c944a00",
-          "publishedOn": "2025-06-04T15:58:50.000Z",
-          "wordCount": 416,
-          "title": "FFmpeg merges WebRTC support",
-          "imageUrl": null
         }
       ]
     },
