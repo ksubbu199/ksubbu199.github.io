@@ -2,10 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-07-05T13:27:38.624Z</updated>
+    <updated>2025-07-05T14:18:13.912Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Software engineering with LLMs in 2025: temperature check]]></title>
+        <id>68692c405c77030001957cea</id>
+        <link href="https://blog.pragmaticengineer.com/software-engineering-with-llms-in-2025/"/>
+        <updated>2025-07-05T13:49:01.000Z</updated>
+        <summary type="html"><![CDATA[How are devs using AI tools at Big Tech and startups, and what do they actually think of them? This was the topic of my annual conference talk, in June 2025, in London, at LDX3 by LeadDev. 
+At LDX3 by LeadDev
+To research, I talked with devs at:
+
+AI]]></summary>
+        <author>
+            <name>Gergely Orosz</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Secret Formula Behind Viral Reels]]></title>
         <id>https://www.youtube.com/shorts/uFe9wEC-wRI</id>
