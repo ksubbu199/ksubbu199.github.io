@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-07-07T13:33:35.473Z</updated>
+    <updated>2025-07-07T14:20:03.422Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -14,6 +14,19 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>Hussein Nasser</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bitchat – A decentralized messaging app that works over Bluetooth mesh networks]]></title>
+        <id>https://news.ycombinator.com/item?id=44485342</id>
+        <link href="https://github.com/jackjackbits/bitchat"/>
+        <updated>2025-07-07T00:05:46.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://github.com/jackjackbits/bitchat
+Comments URL: https://news.ycombinator.com/item?id=44485342
+Points: 501
+# Comments: 212]]></summary>
+        <author>
+            <name>ananddtyagi</name>
         </author>
     </entry>
     <entry>
