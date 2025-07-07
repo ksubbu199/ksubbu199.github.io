@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-07-07T22:19:34.112Z</updated>
+    <updated>2025-07-07T23:18:59.015Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -40,6 +40,19 @@ Points: 501
 # Comments: 212]]></summary>
         <author>
             <name>ananddtyagi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I extracted the safety filters from Apple Intelligence models]]></title>
+        <id>https://news.ycombinator.com/item?id=44483485</id>
+        <link href="https://github.com/BlueFalconHD/apple_generative_model_safety_decrypted"/>
+        <updated>2025-07-06T19:50:02.000Z</updated>
+        <summary type="html"><![CDATA[I managed to reverse engineer the encryption (refered to as “Obfuscation” in the framework) responsible for managing the safety filters of Apple Intelligence models. I have extracted them into a repository. I encourage you to take a look around.
+Comments URL: https://news.ycombinator.com/item?id=44483485
+Points: 503
+# Comments: 391]]></summary>
+        <author>
+            <name>BlueFalconHD</name>
         </author>
     </entry>
     <entry>
