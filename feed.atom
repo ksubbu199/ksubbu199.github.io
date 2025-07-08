@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-07-08T21:19:30.330Z</updated>
+    <updated>2025-07-08T22:19:37.835Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -14,6 +14,19 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>Hussein Nasser</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Open letter accuses BBC board member of having a conflict of interest on Gaza]]></title>
+        <id>https://news.ycombinator.com/item?id=44496391</id>
+        <link href="https://www.theguardian.com/media/2025/jul/02/more-than-400-media-figures-urge-bbc-board-to-remove-robbie-gibb-over-gaza"/>
+        <updated>2025-07-08T02:18:01.000Z</updated>
+        <summary type="html"><![CDATA[Open Letter: https://docs.google.com/document/d/1n3926pSPNwXd8j7I716CBJEz...
+Comments URL: https://news.ycombinator.com/item?id=44496391
+Points: 503
+# Comments: 310]]></summary>
+        <author>
+            <name>mhga</name>
         </author>
     </entry>
     <entry>
@@ -2394,25 +2407,6 @@ Points: 509
 # Comments: 168]]></summary>
         <author>
             <name>brutecat</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Business lessons from family]]></title>
-        <id>https://www.youtube.com/shorts/RsXjTf8UVEc</id>
-        <link href="https://www.youtube.com/shorts/RsXjTf8UVEc"/>
-        <updated>2025-06-09T09:59:35.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Think School</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Business lessons from family]]></title>
-        <id>https://www.youtube.com/watch?v=RsXjTf8UVEc</id>
-        <link href="https://www.youtube.com/watch?v=RsXjTf8UVEc"/>
-        <updated>2025-06-09T09:59:35.000Z</updated>
-        <author>
-            <name>Think School</name>
         </author>
     </entry>
 </feed>
