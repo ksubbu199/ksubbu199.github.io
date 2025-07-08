@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-07-08T14:19:20.452Z</updated>
+    <updated>2025-07-08T15:21:31.485Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -27,6 +27,19 @@ Points: 517
 # Comments: 194]]></summary>
         <author>
             <name>adrianh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mercury: Ultra-fast language models based on diffusion]]></title>
+        <id>https://news.ycombinator.com/item?id=44489690</id>
+        <link href="https://arxiv.org/abs/2506.17298"/>
+        <updated>2025-07-07T12:31:08.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://arxiv.org/abs/2506.17298
+Comments URL: https://news.ycombinator.com/item?id=44489690
+Points: 509
+# Comments: 215]]></summary>
+        <author>
+            <name>PaulHoule</name>
         </author>
     </entry>
     <entry>
