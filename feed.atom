@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-07-08T15:21:31.485Z</updated>
+    <updated>2025-07-08T16:26:24.544Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -101,6 +101,19 @@ This is a web OS I wrote in vanilla JS that looks like the Apple Lisa Office Sys
 This is a complete recreation of the UI in JS; it all renders to a single canvas element. It's not a CSS theme, and not an emulator ported to JS. None of the code is written by Apple. I'll be happy to elaborate more in the comments, but the short version is the entire UI is defined outside the …]]></summary>
         <author>
             <name>ayaros</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jane Street barred from Indian markets as regulator freezes $566M]]></title>
+        <id>https://news.ycombinator.com/item?id=44480916</id>
+        <link href="https://www.cnbc.com/2025/07/04/indian-regulator-bars-us-trading-firm-jane-street-from-accessing-securities-market.html"/>
+        <updated>2025-07-06T14:03:51.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.cnbc.com/2025/07/04/indian-regulator-bars-us-trading-firm-jane-street-from-accessing-securities-market.html
+Comments URL: https://news.ycombinator.com/item?id=44480916
+Points: 501
+# Comments: 329]]></summary>
+        <author>
+            <name>bwfan123</name>
         </author>
     </entry>
     <entry>
