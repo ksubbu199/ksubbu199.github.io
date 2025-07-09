@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-07-09T14:19:44.250Z</updated>
+    <updated>2025-07-09T15:21:55.789Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[I still care about the code]]></title>
+        <id>https://martinfowler.com/articles/exploring-gen-ai/i-still-care-about-the-code.html</id>
+        <link href="https://martinfowler.com/articles/exploring-gen-ai/i-still-care-about-the-code.html"/>
+        <updated>2025-07-09T14:33:00.000Z</updated>
+        <summary type="html"><![CDATA[Even with LLMs, Birgitta Böckeler still cares about
+      the code: “LLMs are NOT compilers, interpreters, transpilers or assemblers
+      of natural language, they are inferrers. 
+more…]]></summary>
+        <author>
+            <name>Martin Fowler</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[404 isn't an error]]></title>
         <id>https://www.youtube.com/shorts/hr5Nerlw8Ws</id>

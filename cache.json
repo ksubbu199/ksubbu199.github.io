@@ -972,6 +972,16 @@
       "siteUrl": "https://martinfowler.com/feed.atom",
       "articles": [
         {
+          "id": "https://martinfowler.com/articles/exploring-gen-ai/i-still-care-about-the-code.html",
+          "author": null,
+          "description": "Even with LLMs, Birgitta Böckeler still cares about\n      the code: “LLMs are NOT compilers, interpreters, transpilers or assemblers\n      of natural language, they are inferrers. \nmore…",
+          "link": "https://martinfowler.com/articles/exploring-gen-ai/i-still-care-about-the-code.html",
+          "publishedOn": "2025-07-09T14:33:00.000Z",
+          "wordCount": 733,
+          "title": "I still care about the code",
+          "imageUrl": "https://martinfowler.com/articles/exploring-gen-ai/donkey-card.png"
+        },
+        {
           "id": "https://martinfowler.com/articles/expert-generalist.html#WhyOrganizationsNeedExpertGeneralists",
           "author": null,
           "description": "In complex environments, the characteristics of Expert Generalists lead\n      them to be particularly valuable in driving tasks to completion. Unmesh,\n      Gitanjali, and I thus complete our article by summarizing the value of\n      this skill.\nmore…",
