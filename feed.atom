@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-07-08T23:19:56.179Z</updated>
+    <updated>2025-07-09T01:42:09.874Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Supabase MCP can leak your entire SQL database]]></title>
+        <id>https://news.ycombinator.com/item?id=44502318</id>
+        <link href="https://www.generalanalysis.com/blog/supabase-mcp-blog"/>
+        <updated>2025-07-08T17:46:55.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.generalanalysis.com/blog/supabase-mcp-blog
+Comments URL: https://news.ycombinator.com/item?id=44502318
+Points: 512
+# Comments: 269]]></summary>
+        <author>
+            <name>rexpository</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Anxiety Engineering]]></title>
         <id>https://www.youtube.com/shorts/tvcQkEkx3WQ</id>
@@ -60,6 +73,19 @@ Points: 517
 # Comments: 194]]></summary>
         <author>
             <name>adrianh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I used o3 to profile myself from my saved Pocket links]]></title>
+        <id>https://news.ycombinator.com/item?id=44489803</id>
+        <link href="https://noperator.dev/posts/o3-pocket-profile/"/>
+        <updated>2025-07-07T12:44:19.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://noperator.dev/posts/o3-pocket-profile/
+Comments URL: https://news.ycombinator.com/item?id=44489803
+Points: 501
+# Comments: 191]]></summary>
+        <author>
+            <name>noperator</name>
         </author>
     </entry>
     <entry>
