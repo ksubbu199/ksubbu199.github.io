@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-07-09T08:28:03.210Z</updated>
+    <updated>2025-07-09T09:23:28.854Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -70,6 +70,19 @@ The results made it all worth it.
 Turnout was the highest ever for a new Devographics [1] survey: 21 thousand partici…]]></summary>
         <author>
             <name>Lea Verou’s blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bootstrapping a side project into a profitable seven-figure business]]></title>
+        <id>https://news.ycombinator.com/item?id=44495428</id>
+        <link href="https://projectionlab.com/blog/we-reached-1m-arr-with-zero-funding"/>
+        <updated>2025-07-07T22:58:45.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://projectionlab.com/blog/we-reached-1m-arr-with-zero-funding
+Comments URL: https://news.ycombinator.com/item?id=44495428
+Points: 516
+# Comments: 110]]></summary>
+        <author>
+            <name>jonkuipers</name>
         </author>
     </entry>
     <entry>
@@ -2372,19 +2385,6 @@ Points: 530
 # Comments: 928]]></summary>
         <author>
             <name>sapphicsnail</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Containerization is a Swift package for running Linux containers on macOS]]></title>
-        <id>https://news.ycombinator.com/item?id=44229348</id>
-        <link href="https://github.com/apple/containerization"/>
-        <updated>2025-06-09T20:53:29.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://github.com/apple/containerization
-Comments URL: https://news.ycombinator.com/item?id=44229348
-Points: 511
-# Comments: 236]]></summary>
-        <author>
-            <name>gok</name>
         </author>
     </entry>
 </feed>
