@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-07-09T06:30:32.037Z</updated>
+    <updated>2025-07-09T07:20:25.391Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[404 isn't an error]]></title>
+        <id>https://www.youtube.com/shorts/hr5Nerlw8Ws</id>
+        <link href="https://www.youtube.com/shorts/hr5Nerlw8Ws"/>
+        <updated>2025-07-09T07:00:52.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Hussein Nasser</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Supabase MCP can leak your entire SQL database]]></title>
         <id>https://news.ycombinator.com/item?id=44502318</id>
