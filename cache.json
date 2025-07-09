@@ -947,18 +947,7 @@
       "title": "Boot.dev Blog",
       "feedUrl": "https://blog.boot.dev/index.xml",
       "siteUrl": "https://blog.boot.dev/",
-      "articles": [
-        {
-          "id": "https://blog.boot.dev/news/bootdev-beat-2025-06/",
-          "author": null,
-          "description": "We’ve capitulated into the vibe coding era? Well… not really. But it’s cool to understand how AI agents like Cursor and Claude Code work under the hood.",
-          "link": "https://blog.boot.dev/news/bootdev-beat-2025-06/",
-          "publishedOn": "2025-06-10T00:00:00.000Z",
-          "wordCount": 1006,
-          "title": "The Boot.dev Beat. June 2025",
-          "imageUrl": "https://blog.boot.dev/img/800/412509565-af264412-8653-4409-94b1-1da5a3251503.png.webp"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Julia Evans",
@@ -973,16 +962,6 @@
           "publishedOn": "2025-06-26T00:00:00.000Z",
           "wordCount": 1459,
           "title": "New zine: The Secret Rules of the Terminal",
-          "imageUrl": null
-        },
-        {
-          "id": "https://jvns.ca/blog/2025/06/10/how-to-compile-a-c-program/",
-          "author": null,
-          "description": "I have never been a C programmer but every so often I need to compile a C/C++\nprogram from source. This has been kind of a struggle for me: for a\nlong time, my approach was basically “install the dependencies, run make, if\nit doesn’t work, either try to find a binary someone has compiled or give up”.\n“Hope someone else has compiled it” worked pretty well when I was running Linux\nbut since I’ve been using a Mac for the last couple of years I’ve been running\ninto more situations where I have to actually compile programs myself.\nSo let’s talk about what you might have to do to compile a C program! I’ll use\na couple of examples of specific C programs I’ve compiled and talk about a few\nthings that can go wrong. Here are three programs we’ll be talking about\ncompiling:\npaperjam\nsqlite\nqf (a page…",
-          "link": "https://jvns.ca/blog/2025/06/10/how-to-compile-a-c-program/",
-          "publishedOn": "2025-06-10T00:00:00.000Z",
-          "wordCount": 2031,
-          "title": "Using `make` to compile C programs (for non-C-programmers)",
           "imageUrl": null
         }
       ]
