@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=44510731",
+          "author": "donohoe",
+          "description": "Article URL: https://www.nytimes.com/2025/07/09/technology/linda-yaccarino-x-steps-down.html\nComments URL: https://news.ycombinator.com/item?id=44510731\nPoints: 504\n# Comments: 915",
+          "link": "https://www.nytimes.com/2025/07/09/technology/linda-yaccarino-x-steps-down.html",
+          "publishedOn": "2025-07-09T14:52:04.000Z",
+          "wordCount": null,
+          "title": "Linda Yaccarino is leaving X",
+          "imageUrl": null
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=44510600",
           "author": "zdw",
           "description": "Article URL: https://plf.inf.ethz.ch/research/pldi25-tree-borrows.html\nComments URL: https://news.ycombinator.com/item?id=44510600\nPoints: 503\n# Comments: 131",
@@ -972,6 +982,16 @@
       "feedUrl": "https://martinfowler.com/feed.atom",
       "siteUrl": "https://martinfowler.com/feed.atom",
       "articles": [
+        {
+          "id": "https://martinfowler.com/articles/202507-three-links.html",
+          "author": null,
+          "description": "Three articles I enjoyed yesterday:\nStephen O’Grady talks about how Gen AI tools break two common constants with developer tools: they are willing to flit between Gen AI tools and they are willing to pay for them. This implies that it’s not too late for new tools to appear, and that enterprise adoption will be slowed by a lack of consensus on which direction to go.\nPete Hodgson continues his excellent writing on Gen AI by proposing an approach to leading engineers towards an AI-assisted future, centered around a the concept of aligned autonomy. He advocates an explicit experimentation phase, followed by supporting adoption and measuring their impact.\nCharity Majors reflects on her career. I really resonated with her words: “I think I’m less interested in my own happiness (whatever that means) than I am interested in doing work that feels worth doing.”",
+          "link": "https://martinfowler.com/articles/202507-three-links.html",
+          "publishedOn": "2025-07-10T14:58:00.000Z",
+          "wordCount": 232,
+          "title": "Three worthwhile articles yesterday",
+          "imageUrl": "https://martinfowler.com/logo-sq.png"
+        },
         {
           "id": "https://martinfowler.com/articles/exploring-gen-ai/i-still-care-about-the-code.html",
           "author": null,
