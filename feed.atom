@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-07-10T01:42:32.816Z</updated>
+    <updated>2025-07-10T03:21:49.478Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -27,6 +27,16 @@ more…]]></summary>
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>Hussein Nasser</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Boot.dev Beat. July 2025]]></title>
+        <id>https://blog.boot.dev/news/bootdev-beat-2025-07/</id>
+        <link href="https://blog.boot.dev/news/bootdev-beat-2025-07/"/>
+        <updated>2025-07-09T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[This month we were heads down building a lot of background stuff for big releases that are coming up - but we still did manage to get a few new features out the door!]]></summary>
+        <author>
+            <name>Boot.dev Blog</name>
         </author>
     </entry>
     <entry>
@@ -2343,19 +2353,6 @@ Points: 500
 # Comments: 489]]></summary>
         <author>
             <name>mfiguiere</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Magistral — the first reasoning model by Mistral AI]]></title>
-        <id>https://news.ycombinator.com/item?id=44236997</id>
-        <link href="https://mistral.ai/news/magistral"/>
-        <updated>2025-06-10T14:08:01.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://mistral.ai/news/magistral
-Comments URL: https://news.ycombinator.com/item?id=44236997
-Points: 526
-# Comments: 215]]></summary>
-        <author>
-            <name>meetpateltech</name>
         </author>
     </entry>
 </feed>

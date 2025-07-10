@@ -934,16 +934,6 @@
           "wordCount": null,
           "title": "OpenAI dropped the price of o3 by 80%",
           "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=44236997",
-          "author": "meetpateltech",
-          "description": "Article URL: https://mistral.ai/news/magistral\nComments URL: https://news.ycombinator.com/item?id=44236997\nPoints: 526\n# Comments: 215",
-          "link": "https://mistral.ai/news/magistral",
-          "publishedOn": "2025-06-10T14:08:01.000Z",
-          "wordCount": 2964,
-          "title": "Magistral — the first reasoning model by Mistral AI",
-          "imageUrl": "https://mistral.ai/img/mistral-cover.png"
         }
       ]
     },
@@ -957,7 +947,18 @@
       "title": "Boot.dev Blog",
       "feedUrl": "https://blog.boot.dev/index.xml",
       "siteUrl": "https://blog.boot.dev/",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://blog.boot.dev/news/bootdev-beat-2025-07/",
+          "author": null,
+          "description": "This month we were heads down building a lot of background stuff for big releases that are coming up - but we still did manage to get a few new features out the door!",
+          "link": "https://blog.boot.dev/news/bootdev-beat-2025-07/",
+          "publishedOn": "2025-07-09T00:00:00.000Z",
+          "wordCount": 825,
+          "title": "The Boot.dev Beat. July 2025",
+          "imageUrl": "https://blog.boot.dev/img/800/bootsstandinggold.png.webp"
+        }
+      ]
     },
     {
       "title": "Julia Evans",
