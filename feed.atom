@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-07-09T23:19:47.128Z</updated>
+    <updated>2025-07-10T01:42:32.816Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -53,6 +53,19 @@ Points: 512
 # Comments: 269]]></summary>
         <author>
             <name>rexpository</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SVGs that feel like GIFs]]></title>
+        <id>https://news.ycombinator.com/item?id=44498133</id>
+        <link href="https://koaning.io/posts/svg-gifs/"/>
+        <updated>2025-07-08T08:23:05.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://koaning.io/posts/svg-gifs/
+Comments URL: https://news.ycombinator.com/item?id=44498133
+Points: 501
+# Comments: 125]]></summary>
+        <author>
+            <name>cantdutchthis</name>
         </author>
     </entry>
     <entry>
@@ -2343,28 +2356,6 @@ Points: 526
 # Comments: 215]]></summary>
         <author>
             <name>meetpateltech</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How America CHEATS the World With Its DOLLAR $$ | Economic Case Study]]></title>
-        <id>https://www.youtube.com/watch?v=MZQvvg_x3gg</id>
-        <link href="https://www.youtube.com/watch?v=MZQvvg_x3gg"/>
-        <updated>2025-06-10T13:30:07.000Z</updated>
-        <author>
-            <name>Think School</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["Localhost tracking" explained. It could cost Meta €32B]]></title>
-        <id>https://news.ycombinator.com/item?id=44235467</id>
-        <link href="https://www.zeropartydata.es/p/localhost-tracking-explained-it-could"/>
-        <updated>2025-06-10T11:29:29.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.zeropartydata.es/p/localhost-tracking-explained-it-could
-Comments URL: https://news.ycombinator.com/item?id=44235467
-Points: 500
-# Comments: 249]]></summary>
-        <author>
-            <name>donohoe</name>
         </author>
     </entry>
 </feed>
