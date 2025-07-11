@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-07-10T23:19:30.349Z</updated>
+    <updated>2025-07-11T01:43:17.873Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Measuring the impact of AI on experienced open-source developer productivity]]></title>
+        <id>https://news.ycombinator.com/item?id=44522772</id>
+        <link href="https://metr.org/blog/2025-07-10-early-2025-ai-experienced-os-dev-study/"/>
+        <updated>2025-07-10T16:29:18.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://metr.org/blog/2025-07-10-early-2025-ai-experienced-os-dev-study/
+Comments URL: https://news.ycombinator.com/item?id=44522772
+Points: 500
+# Comments: 319]]></summary>
+        <author>
+            <name>dheerajvs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Three worthwhile articles yesterday]]></title>
         <id>https://martinfowler.com/articles/202507-three-links.html</id>
@@ -2235,25 +2248,6 @@ Points: 501
 # Comments: 439]]></summary>
         <author>
             <name>zaik</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MBA won't teach you this!]]></title>
-        <id>https://www.youtube.com/shorts/PZX82POfJ1g</id>
-        <link href="https://www.youtube.com/shorts/PZX82POfJ1g"/>
-        <updated>2025-06-11T12:50:10.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Think School</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MBA won't teach you this!]]></title>
-        <id>https://www.youtube.com/watch?v=PZX82POfJ1g</id>
-        <link href="https://www.youtube.com/watch?v=PZX82POfJ1g"/>
-        <updated>2025-06-11T12:50:10.000Z</updated>
-        <author>
-            <name>Think School</name>
         </author>
     </entry>
 </feed>
