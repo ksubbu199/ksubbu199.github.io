@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-07-11T14:20:06.191Z</updated>
+    <updated>2025-07-11T15:21:18.477Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ISB Students Beat IIM Candidates]]></title>
+        <id>https://www.youtube.com/shorts/h-Q0777sxpk</id>
+        <link href="https://www.youtube.com/shorts/h-Q0777sxpk"/>
+        <updated>2025-07-11T14:50:03.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Think School</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ordinary vs Legendary People]]></title>
+        <id>https://www.youtube.com/shorts/cw06YhrrofU</id>
+        <link href="https://www.youtube.com/shorts/cw06YhrrofU"/>
+        <updated>2025-07-11T14:12:32.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Think School</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Inside Facebook’s Ruthless Meritocracy]]></title>
         <id>https://www.youtube.com/shorts/Jtlhil-ZrSw</id>
@@ -279,6 +299,19 @@ Points: 517
 # Comments: 194]]></summary>
         <author>
             <name>adrianh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Postgres LISTEN/NOTIFY does not scale]]></title>
+        <id>https://news.ycombinator.com/item?id=44490510</id>
+        <link href="https://www.recall.ai/blog/postgres-listen-notify-does-not-scale"/>
+        <updated>2025-07-07T14:05:06.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.recall.ai/blog/postgres-listen-notify-does-not-scale
+Comments URL: https://news.ycombinator.com/item?id=44490510
+Points: 508
+# Comments: 233]]></summary>
+        <author>
+            <name>davidgu</name>
         </author>
     </entry>
     <entry>
