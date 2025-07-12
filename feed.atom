@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-07-12T05:20:28.913Z</updated>
+    <updated>2025-07-12T06:28:21.287Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -2219,19 +2219,6 @@ Points: 586
 # Comments: 267]]></summary>
         <author>
             <name>ingve</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GCP Outage]]></title>
-        <id>https://news.ycombinator.com/item?id=44260810</id>
-        <link href="https://status.cloud.google.com/"/>
-        <updated>2025-06-12T18:11:07.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://status.cloud.google.com/
-Comments URL: https://news.ycombinator.com/item?id=44260810
-Points: 933
-# Comments: 345]]></summary>
-        <author>
-            <name>thanhhaimai</name>
         </author>
     </entry>
 </feed>
