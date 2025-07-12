@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-07-12T06:28:21.287Z</updated>
+    <updated>2025-07-12T07:19:05.702Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[They love Rust]]></title>
+        <id>https://www.youtube.com/shorts/9g2PFGx2B7w</id>
+        <link href="https://www.youtube.com/shorts/9g2PFGx2B7w"/>
+        <updated>2025-07-12T07:00:15.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Hussein Nasser</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[OpenAI’s Windsurf deal is off, and Windsurf’s CEO is going to Google]]></title>
         <id>https://news.ycombinator.com/item?id=44536988</id>
@@ -2206,19 +2216,6 @@ You see, only a few days prior, Font Awesome and I had parted ways — the end o
 I’m proud of what we built together, and grate…]]></summary>
         <author>
             <name>Lea Verou’s blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Frequent reauth doesn't make you more secure]]></title>
-        <id>https://news.ycombinator.com/item?id=44261777</id>
-        <link href="https://tailscale.com/blog/frequent-reath-security"/>
-        <updated>2025-06-12T19:05:12.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://tailscale.com/blog/frequent-reath-security
-Comments URL: https://news.ycombinator.com/item?id=44261777
-Points: 586
-# Comments: 267]]></summary>
-        <author>
-            <name>ingve</name>
         </author>
     </entry>
 </feed>

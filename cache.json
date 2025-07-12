@@ -904,16 +904,6 @@
           "wordCount": 1667,
           "title": "Jemalloc Postmortem",
           "imageUrl": "https://avatars.githubusercontent.com/u/245970?v=4"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=44261777",
-          "author": "ingve",
-          "description": "Article URL: https://tailscale.com/blog/frequent-reath-security\nComments URL: https://news.ycombinator.com/item?id=44261777\nPoints: 586\n# Comments: 267",
-          "link": "https://tailscale.com/blog/frequent-reath-security",
-          "publishedOn": "2025-06-12T19:05:12.000Z",
-          "wordCount": 2734,
-          "title": "Frequent reauth doesn't make you more secure",
-          "imageUrl": "https://tailscale.com/api/og-image?id=2c6cdf4d-1171-40e1-8147-49a14b12d7c3"
         }
       ]
     },
@@ -1569,6 +1559,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC_ML5xP23TOWKUcc-oAE_Eg",
       "siteUrl": "https://www.youtube.com/channel/UC_ML5xP23TOWKUcc-oAE_Eg",
       "articles": [
+        {
+          "id": "https://www.youtube.com/shorts/9g2PFGx2B7w",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/9g2PFGx2B7w",
+          "publishedOn": "2025-07-12T07:00:15.000Z",
+          "wordCount": 2050,
+          "title": "They love Rust",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/shorts/aujGtj3vm44",
           "author": null,
