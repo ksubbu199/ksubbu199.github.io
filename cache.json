@@ -16,6 +16,16 @@
           "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/gettyimages-2224341249.jpg?quality=90&strip=all&crop=0%2C10.752607989199%2C100%2C78.494784021602&w=1200"
         },
         {
+          "id": "https://news.ycombinator.com/item?id=44535637",
+          "author": "andy99",
+          "description": "Article URL: https://ethz.ch/en/news-and-events/eth-news/news/2025/07/a-language-model-built-for-the-public-good.html\nComments URL: https://news.ycombinator.com/item?id=44535637\nPoints: 502\n# Comments: 78",
+          "link": "https://ethz.ch/en/news-and-events/eth-news/news/2025/07/a-language-model-built-for-the-public-good.html",
+          "publishedOn": "2025-07-11T18:45:10.000Z",
+          "wordCount": 2050,
+          "title": "ETH Zurich and EPFL to release a LLM developed on public infrastructure",
+          "imageUrl": "https://ethz.ch/en/news-and-events/eth-news/news/2025/07/a-language-model-built-for-the-public-good/_jcr_content/pageimages/imageCarousel.imageformat.lightbox.1905958724.jpg"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=44531120",
           "author": "xbryanx",
           "description": "Article URL: https://www.nytimes.com/2025/07/10/world/europe/uk-post-office-scandal-report.html\nComments URL: https://news.ycombinator.com/item?id=44531120\nPoints: 502\n# Comments: 432",
@@ -1885,16 +1895,6 @@
           "wordCount": 4323,
           "title": "Bluesky Likes Web Components",
           "imageUrl": "https://lea.verou.me/blog/2025/bluesky-likes/images/demo.png"
-        },
-        {
-          "id": "https://lea.verou.me/blog/2025/construction-lines/",
-          "author": null,
-          "description": "#logo-with-lines {\n\tmax-height: 50vh;\n\tmargin: auto;\n\tbackground: radial-gradient(white 30%, transparent 80%);\n\tdisplay: block;\n}\n\n\nI recently stumbled across The Oatmeal’s series on Creativity.\nWhile all of it is spot on, the part on erasers hit especially hard.\n“There is a lot of shame associated with backpedaling;\nthings like quitting your job, getting a divorce, or simply starting over are considered shameful.\nBut forward isn’t always progress.\nAnd backward isn’t always regress.\nSometimes going down the wrong path isn’t a mistake —\nit’s a construction line.”\n— Matthew Inman (The Oatmeal)\nIt was exactly what I needed to hear.\nYou see, only a few days prior, Font Awesome and I had parted ways — the end of a short, but transformative chapter.\nI’m proud of what we built together, and grate…",
-          "link": "https://lea.verou.me/blog/2025/construction-lines/",
-          "publishedOn": "2025-06-13T00:00:00.000Z",
-          "wordCount": 1592,
-          "title": "Construction Lines",
-          "imageUrl": "https://lea.verou.me/blog/2025/construction-lines/images/logo-with-lines.png"
         }
       ]
     },

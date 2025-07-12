@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-07-12T11:17:02.967Z</updated>
+    <updated>2025-07-12T12:37:49.366Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -27,6 +27,19 @@ Points: 519
 # Comments: 327]]></summary>
         <author>
             <name>rcchen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ETH Zurich and EPFL to release a LLM developed on public infrastructure]]></title>
+        <id>https://news.ycombinator.com/item?id=44535637</id>
+        <link href="https://ethz.ch/en/news-and-events/eth-news/news/2025/07/a-language-model-built-for-the-public-good.html"/>
+        <updated>2025-07-11T18:45:10.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://ethz.ch/en/news-and-events/eth-news/news/2025/07/a-language-model-built-for-the-public-good.html
+Comments URL: https://news.ycombinator.com/item?id=44535637
+Points: 502
+# Comments: 78]]></summary>
+        <author>
+            <name>andy99</name>
         </author>
     </entry>
     <entry>
@@ -2187,35 +2200,6 @@ Points: 518
 # Comments: 142]]></summary>
         <author>
             <name>jasone</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Construction Lines]]></title>
-        <id>https://lea.verou.me/blog/2025/construction-lines/</id>
-        <link href="https://lea.verou.me/blog/2025/construction-lines/"/>
-        <updated>2025-06-13T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[#logo-with-lines {
-	max-height: 50vh;
-	margin: auto;
-	background: radial-gradient(white 30%, transparent 80%);
-	display: block;
-}
-
-
-I recently stumbled across The Oatmeal’s series on Creativity.
-While all of it is spot on, the part on erasers hit especially hard.
-“There is a lot of shame associated with backpedaling;
-things like quitting your job, getting a divorce, or simply starting over are considered shameful.
-But forward isn’t always progress.
-And backward isn’t always regress.
-Sometimes going down the wrong path isn’t a mistake —
-it’s a construction line.”
-— Matthew Inman (The Oatmeal)
-It was exactly what I needed to hear.
-You see, only a few days prior, Font Awesome and I had parted ways — the end of a short, but transformative chapter.
-I’m proud of what we built together, and grate…]]></summary>
-        <author>
-            <name>Lea Verou’s blog</name>
         </author>
     </entry>
 </feed>
