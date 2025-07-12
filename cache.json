@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=44536988",
+          "author": "rcchen",
+          "description": "Article URL: https://www.theverge.com/openai/705999/google-windsurf-ceo-openai\nComments URL: https://news.ycombinator.com/item?id=44536988\nPoints: 519\n# Comments: 327",
+          "link": "https://www.theverge.com/openai/705999/google-windsurf-ceo-openai",
+          "publishedOn": "2025-07-11T21:35:31.000Z",
+          "wordCount": 6224,
+          "title": "OpenAI’s Windsurf deal is off, and Windsurf’s CEO is going to Google",
+          "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/gettyimages-2224341249.jpg?quality=90&strip=all&crop=0%2C10.752607989199%2C100%2C78.494784021602&w=1200"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=44531120",
           "author": "xbryanx",
           "description": "Article URL: https://www.nytimes.com/2025/07/10/world/europe/uk-post-office-scandal-report.html\nComments URL: https://news.ycombinator.com/item?id=44531120\nPoints: 502\n# Comments: 432",
@@ -1074,16 +1084,6 @@
           "wordCount": 1007,
           "title": "Software engineering with LLMs in 2025: temperature check",
           "imageUrl": "https://blog.pragmaticengineer.com/content/images/size/w1200/2025/07/Screenshot-2025-07-05-at-15.34.30.png"
-        },
-        {
-          "id": "684afff575195c00010e06e0",
-          "author": "Gergely Orosz",
-          "description": "The claim that the AI startup “faked AI” with hundreds of engineers went viral – and I also fell for it, initially. The reality is much more sobering: Builder.ai built a code generator on top of Claude and other LLMs; it did not build a so-called “Mechanical Turk.”",
-          "link": "https://blog.pragmaticengineer.com/builder-ai-did-not-fake-ai/",
-          "publishedOn": "2025-06-12T16:39:29.000Z",
-          "wordCount": 3068,
-          "title": "Builder.ai did not “fake AI with 700 engineers”",
-          "imageUrl": "https://blog.pragmaticengineer.com/content/images/size/w1200/2025/06/Screenshot-2025-06-12-at-12.36.34.png"
         }
       ]
     },

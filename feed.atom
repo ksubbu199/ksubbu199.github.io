@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-07-12T04:31:35.722Z</updated>
+    <updated>2025-07-12T05:20:28.913Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[OpenAI’s Windsurf deal is off, and Windsurf’s CEO is going to Google]]></title>
+        <id>https://news.ycombinator.com/item?id=44536988</id>
+        <link href="https://www.theverge.com/openai/705999/google-windsurf-ceo-openai"/>
+        <updated>2025-07-11T21:35:31.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.theverge.com/openai/705999/google-windsurf-ceo-openai
+Comments URL: https://news.ycombinator.com/item?id=44536988
+Points: 519
+# Comments: 327]]></summary>
+        <author>
+            <name>rcchen</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ISB Students Beat IIM Candidates]]></title>
         <id>https://www.youtube.com/shorts/h-Q0777sxpk</id>
@@ -2219,16 +2232,6 @@ Points: 933
 # Comments: 345]]></summary>
         <author>
             <name>thanhhaimai</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Builder.ai did not “fake AI with 700 engineers”]]></title>
-        <id>684afff575195c00010e06e0</id>
-        <link href="https://blog.pragmaticengineer.com/builder-ai-did-not-fake-ai/"/>
-        <updated>2025-06-12T16:39:29.000Z</updated>
-        <summary type="html"><![CDATA[The claim that the AI startup “faked AI” with hundreds of engineers went viral – and I also fell for it, initially. The reality is much more sobering: Builder.ai built a code generator on top of Claude and other LLMs; it did not build a so-called “Mechanical Turk.”]]></summary>
-        <author>
-            <name>Gergely Orosz</name>
         </author>
     </entry>
 </feed>
