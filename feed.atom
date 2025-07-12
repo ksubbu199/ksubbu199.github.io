@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-07-12T13:28:34.601Z</updated>
+    <updated>2025-07-12T14:17:54.791Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -2187,19 +2187,6 @@ Points: 518
 # Comments: 183]]></summary>
         <author>
             <name>sdoering</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Jemalloc Postmortem]]></title>
-        <id>https://news.ycombinator.com/item?id=44264958</id>
-        <link href="https://jasone.github.io/2025/06/12/jemalloc-postmortem/"/>
-        <updated>2025-06-13T01:37:17.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://jasone.github.io/2025/06/12/jemalloc-postmortem/
-Comments URL: https://news.ycombinator.com/item?id=44264958
-Points: 518
-# Comments: 142]]></summary>
-        <author>
-            <name>jasone</name>
         </author>
     </entry>
 </feed>
