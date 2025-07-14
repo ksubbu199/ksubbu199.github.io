@@ -96,6 +96,16 @@
           "imageUrl": "https://metr.org/assets/images/logo/logo-montserrat-ratio-2-1-white-bg.png?1"
         },
         {
+          "id": "https://news.ycombinator.com/item?id=44522683",
+          "author": "friggeri",
+          "description": "Today marks ten years, 3653 consecutive days, of running at least one mile every day under the USRSA rules [1]. To celebrate, I built an interactive dashboard that turns a decade of GPX files into charts you can explore.\nRunning has truly changed my life: I've made lifelong friends, explored beautiful places, and more importantly invested into my own health and fitness, which I'm starting to see the positive benefits as I get older.\nThe stack is pretty simple: a NextJS app, with a Postgres database to keep all my running data, and all the stats are pre-computed and cached in Redis, so I effectively only hit the database once a day when a new run is ingested. On the fronted, I toyed with the idea of using D3 or pre-existing data viz libraries, but ended up rolling my own using SVGs directly, it gave me more control on the visualizations.\nI used the Strava bulk export to pre-populate the database, and I'm using their webhook API to do incremental updates. I have to tap into OpenWeatherMap and OpenCageDate to enrich the running data a little bit.\nHappy to answer anything about the stack, data pipeline, or how I stayed motivated for 10 years!\n[1] https://www.runeveryday.com Run Streak Association rules: ≥ 1 mile per day\nComments URL: https://news.ycombinator.com/item?id=44522683\nPoints: 525\n# Comments: 218",
+          "link": "https://nodaysoff.run/",
+          "publishedOn": "2025-07-10T16:21:13.000Z",
+          "wordCount": 13098,
+          "title": "Show HN: Ten years of running every day, visualized",
+          "imageUrl": "https://nodaysoff.run/og-image.png"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=44510731",
           "author": "donohoe",
           "description": "Article URL: https://www.nytimes.com/2025/07/09/technology/linda-yaccarino-x-steps-down.html\nComments URL: https://news.ycombinator.com/item?id=44510731\nPoints: 504\n# Comments: 915",
