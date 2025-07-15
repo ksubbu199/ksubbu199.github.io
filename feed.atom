@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-07-15T18:31:16.894Z</updated>
+    <updated>2025-07-15T19:17:57.434Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -47,6 +47,19 @@ Points: 532
 # Comments: 502]]></summary>
         <author>
             <name>SwoopsFromAbove</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple's MLX adding CUDA support]]></title>
+        <id>https://news.ycombinator.com/item?id=44565668</id>
+        <link href="https://github.com/ml-explore/mlx/pull/1983"/>
+        <updated>2025-07-14T21:40:30.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://github.com/ml-explore/mlx/pull/1983
+Comments URL: https://news.ycombinator.com/item?id=44565668
+Points: 503
+# Comments: 178]]></summary>
+        <author>
+            <name>nsagent</name>
         </author>
     </entry>
     <entry>
