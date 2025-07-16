@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-07-16T11:18:28.825Z</updated>
+    <updated>2025-07-16T12:42:55.833Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -37,6 +37,19 @@ Points: 504
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>Think School</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Shoggoth Mini – A soft tentacle robot powered by GPT-4o and RL]]></title>
+        <id>https://news.ycombinator.com/item?id=44572377</id>
+        <link href="https://www.matthieulc.com/posts/shoggoth-mini"/>
+        <updated>2025-07-15T15:46:41.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.matthieulc.com/posts/shoggoth-mini
+Comments URL: https://news.ycombinator.com/item?id=44572377
+Points: 504
+# Comments: 95]]></summary>
+        <author>
+            <name>cataPhil</name>
         </author>
     </entry>
     <entry>
@@ -2323,30 +2336,6 @@ Points: 561
 # Comments: 198]]></summary>
         <author>
             <name>LorenDB</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bluesky Likes Web Components]]></title>
-        <id>https://lea.verou.me/blog/2025/bluesky-likes/</id>
-        <link href="https://lea.verou.me/blog/2025/bluesky-likes/"/>
-        <updated>2025-06-17T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Just want the components? Here you go:
-
- Demo
-
- Repo
-
- NPM
-A love letter to the Bluesky API
-I’m old enough to remember the golden Web 2.0 era, when many of today’s big social media platforms grew up.
-A simpler time, when the Web was much more extroverted.
-It was common for websites to embed data from others (the peak of mashups),
-and prominently feature widgets from various platforms to showcase a post’s likes or shares.
-Especially Twitter was so ubiquitous that the number of Twitter shares was my primary metric for how much people were interested in a blog post I wrote.
-Then, websites started progressively becoming walled gardens, guarding their data with more fervor than Gollum guarding the Precious.
-Features disappeared or got locked behind API keys, ridiculous rate limits, expensive pa…]]></summary>
-        <author>
-            <name>Lea Verou’s blog</name>
         </author>
     </entry>
 </feed>
