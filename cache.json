@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=44573195",
+          "author": "calvinfo",
+          "description": "Article URL: https://calv.info/openai-reflections\nComments URL: https://news.ycombinator.com/item?id=44573195\nPoints: 504\n# Comments: 273",
+          "link": "https://calv.info/openai-reflections",
+          "publishedOn": "2025-07-15T16:49:06.000Z",
+          "wordCount": 3924,
+          "title": "Reflections on OpenAI",
+          "imageUrl": "https://calv.info/api/og?title=Reflections%20on%20OpenAI"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=44567857",
           "author": "SwoopsFromAbove",
           "description": "Article URL: https://tomrenner.com/posts/llm-inevitabilism/\nComments URL: https://news.ycombinator.com/item?id=44567857\nPoints: 532\n# Comments: 502",
@@ -1669,6 +1679,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC_ML5xP23TOWKUcc-oAE_Eg",
       "siteUrl": "https://www.youtube.com/channel/UC_ML5xP23TOWKUcc-oAE_Eg",
       "articles": [
+        {
+          "id": "https://www.youtube.com/shorts/P488jHIGx6U",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/P488jHIGx6U",
+          "publishedOn": "2025-07-16T07:00:20.000Z",
+          "wordCount": 2153,
+          "title": "Why Cloudflare Ditched NGINX",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/shorts/FC3uDvaaavY",
           "author": null,
