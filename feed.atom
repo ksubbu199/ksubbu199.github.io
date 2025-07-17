@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-07-17T05:25:08.902Z</updated>
+    <updated>2025-07-17T06:31:17.415Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ESOPs vs Salary]]></title>
+        <id>https://www.youtube.com/shorts/hMoK4u1mXZA</id>
+        <link href="https://www.youtube.com/shorts/hMoK4u1mXZA"/>
+        <updated>2025-07-17T05:44:24.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Think School</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Linux Reaches 5% Desktop Market Share in USA]]></title>
         <id>https://news.ycombinator.com/item?id=44580682</id>
@@ -2336,32 +2346,6 @@ Points: 541
 # Comments: 198]]></summary>
         <author>
             <name>smartmic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Building Effective AI Agents]]></title>
-        <id>https://news.ycombinator.com/item?id=44301809</id>
-        <link href="https://www.anthropic.com/engineering/building-effective-agents"/>
-        <updated>2025-06-17T17:50:05.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.anthropic.com/engineering/building-effective-agents
-Comments URL: https://news.ycombinator.com/item?id=44301809
-Points: 500
-# Comments: 85]]></summary>
-        <author>
-            <name>Anon84</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Resurrecting a dead torrent tracker and finding 3M peers]]></title>
-        <id>https://news.ycombinator.com/item?id=44301686</id>
-        <link href="https://kianbradley.com/2025/06/15/resurrecting-a-dead-tracker.html"/>
-        <updated>2025-06-17T17:40:19.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://kianbradley.com/2025/06/15/resurrecting-a-dead-tracker.html
-Comments URL: https://news.ycombinator.com/item?id=44301686
-Points: 513
-# Comments: 158]]></summary>
-        <author>
-            <name>k-ian</name>
         </author>
     </entry>
 </feed>
