@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-07-17T23:20:49.318Z</updated>
+    <updated>2025-07-18T01:47:02.444Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -2295,45 +2295,6 @@ Points: 500
         <updated>2025-06-18T14:45:13.000Z</updated>
         <author>
             <name>Hussein Nasser</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Expert Generalists: first three characteristics]]></title>
-        <id>https://martinfowler.com/articles/expert-generalist.html</id>
-        <link href="https://martinfowler.com/articles/expert-generalist.html"/>
-        <updated>2025-06-18T13:13:00.000Z</updated>
-        <summary type="html"><![CDATA[As computer systems get more sophisticated we've seen a growing trend
-      to value deep specialists. But we've found that our most effective
-      colleagues have a skill that comes from spanning many specialties. We are thus starting
-      to explicitly recognize this as a first-class skill of “Expert
-      Generalist”. This is the first installment of an article detailing how we
-      think about this skill, starting with the first three characteristics of an
-      Expert Generalist.
-more…]]></summary>
-        <author>
-            <name>Martin Fowler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: Workout.cool – Open-source fitness coaching platform]]></title>
-        <id>https://news.ycombinator.com/item?id=44309320</id>
-        <link href="https://github.com/Snouzy/workout-cool"/>
-        <updated>2025-06-18T12:33:49.000Z</updated>
-        <summary type="html"><![CDATA[I was the main contributor to workout.lol, an open-source fitness app to easily build a workout routine. The project had traction (1.4k GitHub stars, 95 forks, ~20K visits/month), but was eventually sold due to video licensing hurdles. 
-The new owner stopped maintaining it, and the repo went abandoned.
-Over the next 9 months, I sent 15 emails to try to save it : no replies. Feature requests & issues were ignored. The community was left with a "broken" tool let's say.
-I couldn't just let it die So I built the new version from scratch with the same open-source spirit, but a better architecture long-term vision, more features and no license problems.
-It's called : Workout.cool (https://workout.cool). What it offers: 100% open-source, MIT-licensed - 1200+ exercises (with videos, attributes, translations) - Progress tracking - Multilingual-ready - Self-hostable
-I'm not doing this for money. I'm doing it because I believe in open fitness tools, and I’ve been passionate about strength training for 15+ years.
-If this resonates with you, feel free to: - Star the repo - Share with fitness/tech friends - Suggest features - Contribute code/design/docs
-Together, we can build the open-source fitness platform we all wanted to easily build a workout routine and get in shape
-Website: https://workout.cool
-GitHub: https://github.com/Snouzy/workout-cool
-Comments URL: https://news.ycombinator.com/item?id=44309320
-Points: 510
-# Comments: 162]]></summary>
-        <author>
-            <name>surgomat</name>
         </author>
     </entry>
 </feed>
