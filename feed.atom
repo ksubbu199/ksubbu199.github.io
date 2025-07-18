@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-07-18T08:28:14.101Z</updated>
+    <updated>2025-07-18T09:25:10.185Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -70,6 +70,19 @@ Points: 522
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>Think School</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ex-Waymo engineers launch Bedrock Robotics to automate construction]]></title>
+        <id>https://news.ycombinator.com/item?id=44584372</id>
+        <link href="https://techcrunch.com/2025/07/16/ex-waymo-engineers-launch-bedrock-robotics-with-80m-to-automate-construction/"/>
+        <updated>2025-07-16T16:48:48.000Z</updated>
+        <summary type="html"><![CDATA[Company announcement: https://bedrockrobotics.com/news/introducing-bedrock-robotic...
+Comments URL: https://news.ycombinator.com/item?id=44584372
+Points: 501
+# Comments: 377]]></summary>
+        <author>
+            <name>boulos</name>
         </author>
     </entry>
     <entry>
