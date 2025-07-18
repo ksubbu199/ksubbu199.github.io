@@ -984,26 +984,6 @@
           "wordCount": null,
           "title": "Andrej Karpathy: Software in the era of AI [video]",
           "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=44314085",
-          "author": "psviderski",
-          "description": "I got tired of the push-to-registry/pull-from-registry dance every time I needed to deploy a Docker image.\nIn certain cases, using a full-fledged external (or even local) registry is annoying overhead. And if you think about it, there's already a form of registry present on any of your Docker-enabled hosts — the Docker's own image storage.\nSo I built Unregistry [1] that exposes Docker's (containerd) image storage through a standard registry API. It adds a `docker pussh` command that pushes images directly to remote Docker daemons over SSH. It transfers only the missing layers, making it fast and efficient.\n  docker pussh myapp:latest user@server\n\nI've built it as a byproduct while working on Uncloud [2], a tool for deploying containers across a network of Docker hosts, and figured it'd be useful as a standalone project.\nWould love to hear your thoughts and use cases!\n[1]: https://github.com/psviderski/unregistry\n[2]: https://github.com/psviderski/uncloud\nComments URL: https://news.ycombinator.com/item?id=44314085\nPoints: 510\n# Comments: 108",
-          "link": "https://github.com/psviderski/unregistry",
-          "publishedOn": "2025-06-18T23:17:10.000Z",
-          "wordCount": 5099,
-          "title": "Show HN: Unregistry – “docker push” directly to servers without a registry",
-          "imageUrl": "https://opengraph.githubassets.com/1b3fccab1a33af229348870e9cecf1d632bfad90e790111c82693b307f9bdbb2/psviderski/unregistry"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=44314054",
-          "author": "sva_",
-          "description": "Article URL: https://www.theguardian.com/us-news/2025/jun/18/social-media-student-visa-screening\nComments URL: https://news.ycombinator.com/item?id=44314054\nPoints: 500\n# Comments: 658",
-          "link": "https://www.theguardian.com/us-news/2025/jun/18/social-media-student-visa-screening",
-          "publishedOn": "2025-06-18T23:11:03.000Z",
-          "wordCount": 4046,
-          "title": "New US visa rules will force foreign students to unlock social media profiles",
-          "imageUrl": "https://i.guim.co.uk/img/media/f12ec06e040209f3ea3826242f04c448f795a313/284_0_2841_2273/master/2841.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f9b261fc8107b64c7070132801304285"
         }
       ]
     },

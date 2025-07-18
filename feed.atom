@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-07-18T10:22:58.647Z</updated>
+    <updated>2025-07-18T11:18:00.379Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -2291,40 +2291,6 @@ Points: 538
 # Comments: 188]]></summary>
         <author>
             <name>sandslash</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: Unregistry – “docker push” directly to servers without a registry]]></title>
-        <id>https://news.ycombinator.com/item?id=44314085</id>
-        <link href="https://github.com/psviderski/unregistry"/>
-        <updated>2025-06-18T23:17:10.000Z</updated>
-        <summary type="html"><![CDATA[I got tired of the push-to-registry/pull-from-registry dance every time I needed to deploy a Docker image.
-In certain cases, using a full-fledged external (or even local) registry is annoying overhead. And if you think about it, there's already a form of registry present on any of your Docker-enabled hosts — the Docker's own image storage.
-So I built Unregistry [1] that exposes Docker's (containerd) image storage through a standard registry API. It adds a `docker pussh` command that pushes images directly to remote Docker daemons over SSH. It transfers only the missing layers, making it fast and efficient.
-  docker pussh myapp:latest user@server
-
-I've built it as a byproduct while working on Uncloud [2], a tool for deploying containers across a network of Docker hosts, and figured it'd be useful as a standalone project.
-Would love to hear your thoughts and use cases!
-[1]: https://github.com/psviderski/unregistry
-[2]: https://github.com/psviderski/uncloud
-Comments URL: https://news.ycombinator.com/item?id=44314085
-Points: 510
-# Comments: 108]]></summary>
-        <author>
-            <name>psviderski</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New US visa rules will force foreign students to unlock social media profiles]]></title>
-        <id>https://news.ycombinator.com/item?id=44314054</id>
-        <link href="https://www.theguardian.com/us-news/2025/jun/18/social-media-student-visa-screening"/>
-        <updated>2025-06-18T23:11:03.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.theguardian.com/us-news/2025/jun/18/social-media-student-visa-screening
-Comments URL: https://news.ycombinator.com/item?id=44314054
-Points: 500
-# Comments: 658]]></summary>
-        <author>
-            <name>sva_</name>
         </author>
     </entry>
 </feed>
