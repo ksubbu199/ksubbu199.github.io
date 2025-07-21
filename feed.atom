@@ -2,10 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-07-21T05:27:30.467Z</updated>
+    <updated>2025-07-21T06:31:59.500Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[XMLUI]]></title>
+        <id>https://news.ycombinator.com/item?id=44625292</id>
+        <link href="https://blog.jonudell.net/2025/07/18/introducing-xmlui/"/>
+        <updated>2025-07-20T14:03:39.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://blog.jonudell.net/2025/07/18/introducing-xmlui/
+Comments URL: https://news.ycombinator.com/item?id=44625292
+Points: 500
+# Comments: 259]]></summary>
+        <author>
+            <name>mpweiher</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nobody knows how to build with AI yet]]></title>
+        <id>https://news.ycombinator.com/item?id=44616479</id>
+        <link href="https://worksonmymachine.substack.com/p/nobody-knows-how-to-build-with-ai"/>
+        <updated>2025-07-19T15:45:01.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://worksonmymachine.substack.com/p/nobody-knows-how-to-build-with-ai
+Comments URL: https://news.ycombinator.com/item?id=44616479
+Points: 500
+# Comments: 381]]></summary>
+        <author>
+            <name>Stwerner</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Death by AI]]></title>
         <id>https://news.ycombinator.com/item?id=44615801</id>
