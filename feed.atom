@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-07-21T11:18:42.308Z</updated>
+    <updated>2025-07-21T12:43:34.076Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Dark Truth of Gurgaon Real Estate Ft. Vishal Bhargava | Indian Business Podcast]]></title>
+        <id>https://www.youtube.com/watch?v=i_Y-yBW7kCU</id>
+        <link href="https://www.youtube.com/watch?v=i_Y-yBW7kCU"/>
+        <updated>2025-07-21T12:30:50.000Z</updated>
+        <author>
+            <name>Think School</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Generative AI in software and essaying]]></title>
         <id>https://martinfowler.com/articles/20250721-links.html</id>
@@ -2095,19 +2104,6 @@ Points: 504
 # Comments: 121]]></summary>
         <author>
             <name>Delgan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[U.S. bombs Iranian nuclear sites]]></title>
-        <id>https://news.ycombinator.com/item?id=44341639</id>
-        <link href="https://www.bbc.co.uk/news/live/ckg3rzj8emjt"/>
-        <updated>2025-06-22T00:00:16.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.bbc.co.uk/news/live/ckg3rzj8emjt
-Comments URL: https://news.ycombinator.com/item?id=44341639
-Points: 554
-# Comments: 1501]]></summary>
-        <author>
-            <name>mattcollins</name>
         </author>
     </entry>
 </feed>
