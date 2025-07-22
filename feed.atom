@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-07-22T07:23:16.862Z</updated>
+    <updated>2025-07-22T08:29:00.031Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Who is LLM]]></title>
+        <id>https://martinfowler.com/articles/who-is-llm.html</id>
+        <link href="https://martinfowler.com/articles/who-is-llm.html"/>
+        <updated>2025-07-22T08:08:00.000Z</updated>
+        <summary type="html"><![CDATA[It's become a common habit for developers to give Large Language Models
+      (LLMs) a persona when working with them. I describe four of them, a
+      stubborn donkey, a genie, a slot machine, and Uriah Heep.
+more…]]></summary>
+        <author>
+            <name>Martin Fowler</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[TrackWeight: Turn your MacBook's trackpad into a digital weighing scale]]></title>
         <id>https://news.ycombinator.com/item?id=44635808</id>
