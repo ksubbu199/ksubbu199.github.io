@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-07-23T03:39:47.061Z</updated>
+    <updated>2025-07-23T04:41:22.462Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -2201,32 +2201,6 @@ more…]]></summary>
         <updated>2025-06-24T05:33:10.000Z</updated>
         <author>
             <name>Think School</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[uv: An extremely fast Python package and project manager, written in Rust]]></title>
-        <id>https://news.ycombinator.com/item?id=44357411</id>
-        <link href="https://github.com/astral-sh/uv"/>
-        <updated>2025-06-23T16:27:25.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://github.com/astral-sh/uv
-Comments URL: https://news.ycombinator.com/item?id=44357411
-Points: 537
-# Comments: 251]]></summary>
-        <author>
-            <name>chirau</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vera C. Rubin Observatory first images]]></title>
-        <id>https://news.ycombinator.com/item?id=44356890</id>
-        <link href="https://rubinobservatory.org/news/rubin-first-look/cosmic-treasure-chest"/>
-        <updated>2025-06-23T15:41:00.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://rubinobservatory.org/news/rubin-first-look/cosmic-treasure-chest
-Comments URL: https://news.ycombinator.com/item?id=44356890
-Points: 509
-# Comments: 130]]></summary>
-        <author>
-            <name>phsilva</name>
         </author>
     </entry>
 </feed>
