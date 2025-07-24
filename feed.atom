@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-07-24T11:18:49.266Z</updated>
+    <updated>2025-07-24T12:43:32.904Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -2187,39 +2187,6 @@ Points: 523
 # Comments: 245]]></summary>
         <author>
             <name>tbillington</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Thnickels]]></title>
-        <id>https://news.ycombinator.com/item?id=44372424</id>
-        <link href="https://thick-coins.net/?_bhlid=8a5736885893b7837e681aa73f890b9805a4673e"/>
-        <updated>2025-06-25T00:13:27.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://thick-coins.net/?_bhlid=8a5736885893b7837e681aa73f890b9805a4673e
-Comments URL: https://news.ycombinator.com/item?id=44372424
-Points: 505
-# Comments: 111]]></summary>
-        <author>
-            <name>jxmorris12</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Hovercar Framework for Deliberate Product Design]]></title>
-        <id>https://lea.verou.me/blog/2025/hovercar/</id>
-        <link href="https://lea.verou.me/blog/2025/hovercar/"/>
-        <updated>2025-06-25T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[You may be familiar with this wonderful illustration and accompanying
-blog post by Henrik Kniberg about good MVPs:
-It’s a very visual way to illustrate the age-old concept that
-that a good MVP is not the one developed in isolation over months or years,
-grounded on assumptions about user needs and goals,
-but one that delivers value to users as early as possible,
-so that future iterations can take advantage of the lessons learned from real users.
-From Hovercar to Skateboard
-I love Henrik’s metaphor so much, I have been using a similar system to flesh out product requirements and shipping goals, especially early on.
-It can be immediately understood by anyone who has seen Henrik’s illustration,
-and I find it can be a lot more pragmatic and flexible than the usual simple two tiered system (core…]]></summary>
-        <author>
-            <name>Lea Verou’s blog</name>
         </author>
     </entry>
 </feed>
