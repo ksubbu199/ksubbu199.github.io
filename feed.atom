@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-07-24T17:19:38.379Z</updated>
+    <updated>2025-07-24T18:30:42.663Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Cursor makes developers less effective?]]></title>
+        <id>68827513b0013900017c5097</id>
+        <link href="https://blog.pragmaticengineer.com/cursor-makes-developers-less-effective/"/>
+        <updated>2025-07-24T18:09:09.000Z</updated>
+        <summary type="html"><![CDATA[A study into the workflows of experienced developers found that devs who use Cursor for bugfixes are around 19% slower than devs who use no AI tools at all. One possible takeaway is that AI tools can be harder work than we’re led to believe.]]></summary>
+        <author>
+            <name>Gergely Orosz</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to route Docker containers]]></title>
         <id>https://www.youtube.com/shorts/yPXekKor_4M</id>
