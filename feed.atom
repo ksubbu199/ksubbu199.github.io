@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-07-24T01:46:30.027Z</updated>
+    <updated>2025-07-24T03:37:56.927Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -2194,40 +2194,6 @@ Points: 502
 # Comments: 445]]></summary>
         <author>
             <name>miles</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Writing toy software is a joy]]></title>
-        <id>https://news.ycombinator.com/item?id=44367084</id>
-        <link href="https://blog.jsbarretto.com/post/software-is-joy"/>
-        <updated>2025-06-24T15:09:12.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://blog.jsbarretto.com/post/software-is-joy
-Comments URL: https://news.ycombinator.com/item?id=44367084
-Points: 507
-# Comments: 212]]></summary>
-        <author>
-            <name>bundie</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why MongoDB's _id lookup is fast (internals)]]></title>
-        <id>https://www.youtube.com/shorts/-7JPIIISjBU</id>
-        <link href="https://www.youtube.com/shorts/-7JPIIISjBU"/>
-        <updated>2025-06-24T14:30:01.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Hussein Nasser</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LLMs bring new nature of abstraction]]></title>
-        <id>https://martinfowler.com/articles/2025-nature-abstraction.html</id>
-        <link href="https://martinfowler.com/articles/2025-nature-abstraction.html"/>
-        <updated>2025-06-24T14:02:00.000Z</updated>
-        <summary type="html"><![CDATA[Like most loudmouths in this field, I’ve been paying a lot of attention to the role that generative AI systems may play in software development. I think the appearance of LLMs will change software development to a similar degree as the change from assembler to the first high-level programming languages. The further development of languages and frameworks increased our abstraction level and productivity, but didn’t have that kind of impact on the nature of programming. LLMs are making that degree of impact, but with the distinction that it isn’t just raising the level of abstraction, but also forcing us to consider what it means to program with non-deterministic tools.
-I’ve witnessed many “game-changing” tools that didn’t really have very much of an impact. At one time there was a loud crew…]]></summary>
-        <author>
-            <name>Martin Fowler</name>
         </author>
     </entry>
 </feed>
