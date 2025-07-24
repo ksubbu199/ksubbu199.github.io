@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-07-24T13:38:30.361Z</updated>
+    <updated>2025-07-24T14:22:10.387Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -17,6 +17,19 @@ Points: 504
 # Comments: 118]]></summary>
         <author>
             <name>risquer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI overviews cause massive drop in search clicks]]></title>
+        <id>https://news.ycombinator.com/item?id=44663227</id>
+        <link href="https://arstechnica.com/ai/2025/07/research-shows-google-ai-overviews-reduce-website-clicks-by-almost-half/"/>
+        <updated>2025-07-23T19:50:12.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://arstechnica.com/ai/2025/07/research-shows-google-ai-overviews-reduce-website-clicks-by-almost-half/
+Comments URL: https://news.ycombinator.com/item?id=44663227
+Points: 508
+# Comments: 584]]></summary>
+        <author>
+            <name>jonbaer</name>
         </author>
     </entry>
     <entry>
