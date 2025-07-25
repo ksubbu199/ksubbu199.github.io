@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-07-25T11:18:21.565Z</updated>
+    <updated>2025-07-25T12:42:24.564Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Graphene OS: a security-enhanced Android build]]></title>
+        <id>https://news.ycombinator.com/item?id=44676691</id>
+        <link href="https://lwn.net/SubscriberLink/1030004/898017c7953c0946/"/>
+        <updated>2025-07-24T21:48:53.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://lwn.net/SubscriberLink/1030004/898017c7953c0946/
+Comments URL: https://news.ycombinator.com/item?id=44676691
+Points: 514
+# Comments: 299]]></summary>
+        <author>
+            <name>madars</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Cursor makes developers less effective?]]></title>
         <id>68827513b0013900017c5097</id>
@@ -2017,45 +2030,6 @@ Points: 501
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>Think School</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New zine: The Secret Rules of the Terminal]]></title>
-        <id>https://jvns.ca/blog/2025/06/24/new-zine--the-secret-rules-of-the-terminal/</id>
-        <link href="https://jvns.ca/blog/2025/06/24/new-zine--the-secret-rules-of-the-terminal/"/>
-        <updated>2025-06-26T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Hello! After many months of writing deep dive blog posts about the terminal, on
-Tuesday I released a new zine called “The Secret Rules of the Terminal”!
-You can get it for $12 here:
-https://wizardzines.com/zines/terminal, or get
-an 15-pack of all my zines here.
-Here’s the cover:
-the table of contents
-Here’s the table of contents:
-why the terminal?
-At first when I thought about writing about the terminal I was a bit baffled.
-After all – you just type in a command and run it, right? How hard could it
-be?
-But then I ran a terminal workshop for some folks who were new to the terminal,
-and somebody asked this question:
-“how do I quit? Ctrl+C isn’t working!”
-This question has a very simple answer (they’d run man pngquant, so they just
-needed to press q to quit). But it made me think about how ev…]]></summary>
-        <author>
-            <name>Julia Evans</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Define policy forbidding use of AI code generators]]></title>
-        <id>https://news.ycombinator.com/item?id=44382752</id>
-        <link href="https://github.com/qemu/qemu/commit/3d40db0efc22520fa6c399cf73960dced423b048"/>
-        <updated>2025-06-25T23:26:55.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://github.com/qemu/qemu/commit/3d40db0efc22520fa6c399cf73960dced423b048
-Comments URL: https://news.ycombinator.com/item?id=44382752
-Points: 505
-# Comments: 368]]></summary>
-        <author>
-            <name>todsacerdoti</name>
         </author>
     </entry>
 </feed>

@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=44676691",
+          "author": "madars",
+          "description": "Article URL: https://lwn.net/SubscriberLink/1030004/898017c7953c0946/\nComments URL: https://news.ycombinator.com/item?id=44676691\nPoints: 514\n# Comments: 299",
+          "link": "https://lwn.net/SubscriberLink/1030004/898017c7953c0946/",
+          "publishedOn": "2025-07-24T21:48:53.000Z",
+          "wordCount": 4776,
+          "title": "Graphene OS: a security-enhanced Android build",
+          "imageUrl": null
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=44666157",
           "author": "tzs",
           "description": "Report: https://www.eiturbanmobility.eu/knowledge-hub/mastering-mobi...\nComments URL: https://news.ycombinator.com/item?id=44666157\nPoints: 500\n# Comments: 721",
@@ -1014,16 +1024,6 @@
           "wordCount": 2759,
           "title": "AlphaGenome: AI for better understanding the genome",
           "imageUrl": "https://lh3.googleusercontent.com/SZkcKUQyLUhSQ06Rq-PJbxAqn1OpMeEa3khkrBVB1MGyHfxyftoqWwEb2aLP9JxX7CjhpLFODcc5zIoMoNdu0bl6ELsZV2nP9fDwZC6SYS36lzAKDw=w1200-h630-n-nu"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=44382752",
-          "author": "todsacerdoti",
-          "description": "Article URL: https://github.com/qemu/qemu/commit/3d40db0efc22520fa6c399cf73960dced423b048\nComments URL: https://news.ycombinator.com/item?id=44382752\nPoints: 505\n# Comments: 368",
-          "link": "https://github.com/qemu/qemu/commit/3d40db0efc22520fa6c399cf73960dced423b048",
-          "publishedOn": "2025-06-25T23:26:55.000Z",
-          "wordCount": 2359,
-          "title": "Define policy forbidding use of AI code generators",
-          "imageUrl": "https://opengraph.githubassets.com/3e42b624d7d1bc246b824f1cc500ec5c7f586cdf00a5dfead96c5de3e988f6c8/qemu/qemu/commit/3d40db0efc22520fa6c399cf73960dced423b048"
         }
       ]
     },
@@ -1054,18 +1054,7 @@
       "title": "Julia Evans",
       "feedUrl": "https://jvns.ca/atom.xml",
       "siteUrl": "http://jvns.ca/atom.xml",
-      "articles": [
-        {
-          "id": "https://jvns.ca/blog/2025/06/24/new-zine--the-secret-rules-of-the-terminal/",
-          "author": null,
-          "description": "Hello! After many months of writing deep dive blog posts about the terminal, on\nTuesday I released a new zine called “The Secret Rules of the Terminal”!\nYou can get it for $12 here:\nhttps://wizardzines.com/zines/terminal, or get\nan 15-pack of all my zines here.\nHere’s the cover:\nthe table of contents\nHere’s the table of contents:\nwhy the terminal?\nAt first when I thought about writing about the terminal I was a bit baffled.\nAfter all – you just type in a command and run it, right? How hard could it\nbe?\nBut then I ran a terminal workshop for some folks who were new to the terminal,\nand somebody asked this question:\n“how do I quit? Ctrl+C isn’t working!”\nThis question has a very simple answer (they’d run man pngquant, so they just\nneeded to press q to quit). But it made me think about how ev…",
-          "link": "https://jvns.ca/blog/2025/06/24/new-zine--the-secret-rules-of-the-terminal/",
-          "publishedOn": "2025-06-26T00:00:00.000Z",
-          "wordCount": 1459,
-          "title": "New zine: The Secret Rules of the Terminal",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Martin Fowler",
