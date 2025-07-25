@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-07-24T23:20:33.608Z</updated>
+    <updated>2025-07-25T01:46:06.819Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -2148,55 +2148,6 @@ Points: 501
         <updated>2025-06-25T14:30:14.000Z</updated>
         <author>
             <name>Think School</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SQL is an API, its all about data storage]]></title>
-        <id>https://www.youtube.com/shorts/fMTUowmDTnM</id>
-        <link href="https://www.youtube.com/shorts/fMTUowmDTnM"/>
-        <updated>2025-06-25T13:45:06.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Hussein Nasser</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenAI charges by the minute, so speed up your audio]]></title>
-        <id>https://news.ycombinator.com/item?id=44376989</id>
-        <link href="https://george.mand.is/2025/06/openai-charges-by-the-minute-so-make-the-minutes-shorter/"/>
-        <updated>2025-06-25T13:17:25.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://george.mand.is/2025/06/openai-charges-by-the-minute-so-make-the-minutes-shorter/
-Comments URL: https://news.ycombinator.com/item?id=44376989
-Points: 514
-# Comments: 153]]></summary>
-        <author>
-            <name>georgemandis</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gemini CLI]]></title>
-        <id>https://news.ycombinator.com/item?id=44376919</id>
-        <link href="https://blog.google/technology/developers/introducing-gemini-cli-open-source-ai-agent/"/>
-        <updated>2025-06-25T13:10:46.000Z</updated>
-        <summary type="html"><![CDATA[GitHub: https://github.com/google-gemini/gemini-cli
-Comments URL: https://news.ycombinator.com/item?id=44376919
-Points: 570
-# Comments: 326]]></summary>
-        <author>
-            <name>sync</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Growing Expert Generalists]]></title>
-        <id>https://martinfowler.com/articles/expert-generalist.html#GrowingExpertGeneralists</id>
-        <link href="https://martinfowler.com/articles/expert-generalist.html#GrowingExpertGeneralists"/>
-        <updated>2025-06-25T12:48:00.000Z</updated>
-        <summary type="html"><![CDATA[To grow Expert Generalists we need to focus attention on fundamentals
-      rather tools. As an example, Unmesh, Gitanjali, and I describe a workshop we've used to
-      break silos of application development, data engineering, and devops
-more…]]></summary>
-        <author>
-            <name>Martin Fowler</name>
         </author>
     </entry>
 </feed>
