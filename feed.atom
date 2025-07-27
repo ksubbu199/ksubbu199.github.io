@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-07-27T04:43:32.965Z</updated>
+    <updated>2025-07-27T05:25:36.687Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -13,6 +13,19 @@
         <updated>2025-07-26T12:40:02.000Z</updated>
         <author>
             <name>Think School</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rust running on every GPU]]></title>
+        <id>https://news.ycombinator.com/item?id=44692876</id>
+        <link href="https://rust-gpu.github.io/blog/2025/07/25/rust-on-every-gpu/"/>
+        <updated>2025-07-26T10:08:09.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://rust-gpu.github.io/blog/2025/07/25/rust-on-every-gpu/
+Comments URL: https://news.ycombinator.com/item?id=44692876
+Points: 507
+# Comments: 171]]></summary>
+        <author>
+            <name>littlestymaar</name>
         </author>
     </entry>
     <entry>
