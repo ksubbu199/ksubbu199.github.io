@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=44705240",
+          "author": "cft",
+          "description": "Article URL: https://www.reddit.com/r/degoogle/s/YxmPgFes8a\nComments URL: https://news.ycombinator.com/item?id=44705240\nPoints: 507\n# Comments: 266",
+          "link": "https://www.reddit.com/r/degoogle/s/YxmPgFes8a",
+          "publishedOn": "2025-07-27T22:18:44.000Z",
+          "wordCount": null,
+          "title": "EU age verification app to ban any Android system not licensed by Google",
+          "imageUrl": null
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=44703164",
           "author": "segfault22",
           "description": "Hi HN,\nI was evaluating IDEs for a personal project and decided to test Trae, ByteDance's fork of VSCode. I immediately noticed some significant performance and privacy issues that I felt were worth sharing. I've written up a full analysis with screenshots, network logs, and data payloads in the linked post.\nHere are the key findings:\n1. Extreme Resource Consumption:\nOut of the box, Trae used 6.3x more RAM (~5.7 GB) and spawned 3.7x more processes (33 total) than a standard VSCode setup with the same project open. The team has since made improvements, but it's still significantly heavier.\n2. Telemetry Opt-Out Doesn't Work (It Makes It Worse):\nI found Trae was constantly sending data to ByteDance servers (byteoversea.com). I went into the settings and disabled all telemetry. To my surprise, this didn't stop the traffic. In fact, it increased the frequency of batch data collection. The telemetry \"off\" switch appears to be purely cosmetic.\n3. What's Being Sent:\nEven with telemetry \"disabled,\" Trae sends detailed payloads including:\nHardware specs (CPU, memory, etc.)\nPersistent user, device, and machine IDs\nOS version, app language, user name\nGranular usage data like time-on-ide, window focus state, and active file types.\n4. Community Censorship:\nWhen I tried to discuss these findings on their official Discord, my posts were deleted and my account was muted for 7 days. It seems words like \"track\" trigger an automated gag rule, which prevents any real discussion about privacy.\nI believe developers should be aware of this behavior. The combination of resource drain, non-functional privacy settings, and censorship of technical feedback is a major red flag. The full, detailed analysis with all the evidence (process lists, Fiddler captures, JSON payloads, and screenshots of the Discord moderation) is available at the link. Happy to answer any questions.\nComments URL: https://news.ycombinator.com/item?id=44703164\nPoints: 532\n# Comments: 188",
@@ -1191,6 +1201,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKZozRVHRYsYHGEyNKuhhdA",
       "siteUrl": "https://www.youtube.com/channel/UCKZozRVHRYsYHGEyNKuhhdA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/shorts/LrH36jzRFyE",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/LrH36jzRFyE",
+          "publishedOn": "2025-07-28T06:22:52.000Z",
+          "wordCount": 2069,
+          "title": "Join us at Odoo Community Days",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=gLeMTK3PeC8",
           "author": null,
