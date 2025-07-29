@@ -6,6 +6,26 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=44716106",
+          "author": "timje1",
+          "description": "Hi HN - \nI made a site that takes a UK postcode, grabs the local MP's information and generates an AI mockup of what their ID might look like.\nIt's a small, silly protest at the stupidity of the Online Safety Act that just came into force.\nedit - My open AI credits got hugged to death, please use a known postcode (like one from Kier Starmer's constituency, WC2B6NH) in the meantime.\nComments URL: https://news.ycombinator.com/item?id=44716106\nPoints: 541\n# Comments: 132",
+          "link": "https://use-their-id.com/",
+          "publishedOn": "2025-07-28T21:49:10.000Z",
+          "wordCount": 5,
+          "title": "Show HN: Use Their Dd – Use your local UK MP's ID for the online safety act",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=44714221",
+          "author": "nathanyz",
+          "description": "Article URL: https://www.bbc.com/news/videos/cy8k8045nx9o\nComments URL: https://news.ycombinator.com/item?id=44714221\nPoints: 546\n# Comments: 491",
+          "link": "https://www.bbc.com/news/videos/cy8k8045nx9o",
+          "publishedOn": "2025-07-28T19:05:41.000Z",
+          "wordCount": 5172,
+          "title": "‘I witnessed war crimes’ in Gaza – former worker at GHF aid site [video]",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/f756/live/cfff6660-69a4-11f0-8dbd-f3d32ebd3327.jpg"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=44711519",
           "author": "saint11",
           "description": "Article URL: https://github.com/9001/copyparty\nComments URL: https://news.ycombinator.com/item?id=44711519\nPoints: 530\n# Comments: 91",
@@ -1676,16 +1696,6 @@
           "publishedOn": "2025-06-30T07:00:50.000Z",
           "wordCount": 2114,
           "title": "Zero Copy File Transfer - Kernel TLS",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/shorts/LgNNn_fFa9k",
-          "author": null,
-          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-          "link": "https://www.youtube.com/shorts/LgNNn_fFa9k",
-          "publishedOn": "2025-06-29T15:00:39.000Z",
-          "wordCount": 2129,
-          "title": "Predictable backend design with long polling and queues",
           "imageUrl": null
         }
       ]
