@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-07-29T09:26:42.670Z</updated>
+    <updated>2025-07-29T10:22:56.454Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -43,6 +43,34 @@ Points: 546
 # Comments: 491]]></summary>
         <author>
             <name>nathanyz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Claude Code weekly rate limits]]></title>
+        <id>https://news.ycombinator.com/item?id=44713757</id>
+        <link href="https://news.ycombinator.com/item?id=44713757"/>
+        <updated>2025-07-28T18:27:51.000Z</updated>
+        <summary type="html"><![CDATA[Hi there,
+Next month, we're introducing new weekly rate limits for Claude subscribers, affecting less than 5% of users based on current usage patterns.
+Claude Code, especially as part of our subscription bundle, has seen unprecedented growth. At the same time, we’ve identified policy violations like account sharing and reselling access—and advanced usage patterns like running Claude 24/7 in the background—that are impacting system capacity for all. Our new rate limits address these issues and provide a more equitable experience for all users.
+What’s changing:
+Starting August 28, we're introducing weekly usage limits alongside our existing 5-hour limits:
+Current: Usage limit that resets every 5 hours (no change)
+New: Overall weekly limit that resets every 7 days
+New: Claude Opus 4 weekly limit that resets every 7 days
+As we learn more about how developers use Claude Code, we may adjust usage limits to better serve our community. 
+What this means for you:
+Most users won't notice any difference. The weekly limits are designed to support typical daily use across your projects. 
+Most Max 5x users can expect 140-280 hours of Sonnet 4 and 15-35 hours of Opus 4 within their weekly rate limits. Heavy Opus users with large codebases or those running multiple Claude Code instances in parallel will hit their limits sooner.
+You can manage or cancel your subscription anytime in Settings.
+We take these decisions seriously. We're committed to supporting long-running use cases through other options in the future, but until then, weekly limits will help us maintain reliable service for everyone.
+We also recognize that during this same period, users have encountered several reliability and performance issues. We've been working to fix these as quickly as possible, and will continue addressing any remaining issues over the coming days and weeks.
+–The Anthropic Team
+Comments URL: https://news.ycombinator.com/item?id=44713757
+Points: 514
+# Comments: 613]]></summary>
+        <author>
+            <name>thebestmoshe</name>
         </author>
     </entry>
     <entry>
