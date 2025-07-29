@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-07-28T23:21:13.441Z</updated>
+    <updated>2025-07-29T01:58:38.734Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Copyparty – Turn almost any device into a file server]]></title>
+        <id>https://news.ycombinator.com/item?id=44711519</id>
+        <link href="https://github.com/9001/copyparty"/>
+        <updated>2025-07-28T14:57:55.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://github.com/9001/copyparty
+Comments URL: https://news.ycombinator.com/item?id=44711519
+Points: 530
+# Comments: 91]]></summary>
+        <author>
+            <name>saint11</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Can AI Agents replace HR?]]></title>
         <id>https://www.youtube.com/shorts/5ijaf7i5TIY</id>
@@ -2017,19 +2030,6 @@ Points: 505
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>Hussein Nasser</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I made my VM think it has a CPU fan]]></title>
-        <id>https://news.ycombinator.com/item?id=44413185</id>
-        <link href="https://wbenny.github.io/2025/06/29/i-made-my-vm-think-it-has-a-cpu-fan.html"/>
-        <updated>2025-06-29T13:55:18.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://wbenny.github.io/2025/06/29/i-made-my-vm-think-it-has-a-cpu-fan.html
-Comments URL: https://news.ycombinator.com/item?id=44413185
-Points: 504
-# Comments: 124]]></summary>
-        <author>
-            <name>todsacerdoti</name>
         </author>
     </entry>
 </feed>
