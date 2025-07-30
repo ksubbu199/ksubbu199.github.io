@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-07-30T08:29:29.239Z</updated>
+    <updated>2025-07-30T09:28:41.165Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Gurgaon's Real Estate Bubble]]></title>
+        <id>https://www.youtube.com/shorts/EXaungV5q3U</id>
+        <link href="https://www.youtube.com/shorts/EXaungV5q3U"/>
+        <updated>2025-07-30T08:36:58.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Think School</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Tools Amplify You, Not Change You]]></title>
         <id>https://www.youtube.com/shorts/QMP7KPKjgh4</id>
@@ -2139,19 +2149,6 @@ Points: 533
 # Comments: 272]]></summary>
         <author>
             <name>phire</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The new skill in AI is not prompting, it's context engineering]]></title>
-        <id>https://news.ycombinator.com/item?id=44427757</id>
-        <link href="https://www.philschmid.de/context-engineering"/>
-        <updated>2025-06-30T20:53:55.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.philschmid.de/context-engineering
-Comments URL: https://news.ycombinator.com/item?id=44427757
-Points: 517
-# Comments: 274]]></summary>
-        <author>
-            <name>robotswantdata</name>
         </author>
     </entry>
 </feed>
