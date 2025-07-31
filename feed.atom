@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-07-30T23:20:32.081Z</updated>
+    <updated>2025-07-31T01:48:05.100Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -2209,21 +2209,6 @@ Points: 586
 # Comments: 238]]></summary>
         <author>
             <name>c249709</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Expert Generalists need specialists (and LLMs)]]></title>
-        <id>https://martinfowler.com/articles/expert-generalist.html#ExpertGeneralistsStillNeedSpecialists</id>
-        <link href="https://martinfowler.com/articles/expert-generalist.html#ExpertGeneralistsStillNeedSpecialists"/>
-        <updated>2025-07-01T13:17:00.000Z</updated>
-        <summary type="html"><![CDATA[While we've spent this article praising the Expert Generalist, Unmesh,
-      Gitanjali, and I simultaneously do not deny the value of specialist
-      knowledge. To be the most efficient, a team needs some specialist skill.
-      We've also observed that Expert Generalist capabilities are considerably
-      more valuable when working with LLMs.
-more…]]></summary>
-        <author>
-            <name>Martin Fowler</name>
         </author>
     </entry>
 </feed>
