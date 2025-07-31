@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-07-31T07:24:09.414Z</updated>
+    <updated>2025-07-31T08:29:47.003Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Vibe code is legacy code]]></title>
+        <id>https://news.ycombinator.com/item?id=44739556</id>
+        <link href="https://blog.val.town/vibe-code"/>
+        <updated>2025-07-30T21:13:20.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://blog.val.town/vibe-code
+Comments URL: https://news.ycombinator.com/item?id=44739556
+Points: 515
+# Comments: 296]]></summary>
+        <author>
+            <name>simonw</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Fast]]></title>
         <id>https://news.ycombinator.com/item?id=44736967</id>
@@ -2183,19 +2196,6 @@ Points: 501
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>Hussein Nasser</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Figma files for proposed IPO]]></title>
-        <id>https://news.ycombinator.com/item?id=44437316</id>
-        <link href="https://www.figma.com/blog/s1-public/"/>
-        <updated>2025-07-01T19:39:14.000Z</updated>
-        <summary type="html"><![CDATA[https://www.sec.gov/Archives/edgar/data/1579878/000162828025...
-Comments URL: https://news.ycombinator.com/item?id=44437316
-Points: 500
-# Comments: 225]]></summary>
-        <author>
-            <name>kualto</name>
         </author>
     </entry>
 </feed>
