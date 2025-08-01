@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-08-01T18:30:38.166Z</updated>
+    <updated>2025-08-01T19:18:16.771Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -76,6 +76,19 @@ Points: 518
         <updated>2025-07-31T14:30:39.000Z</updated>
         <author>
             <name>Think School</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Partner with the AI, throw away the code]]></title>
+        <id>https://martinfowler.com/articles/exploring-gen-ai/partner-with-ai-and-throw-away-the-code.html</id>
+        <link href="https://martinfowler.com/articles/exploring-gen-ai/partner-with-ai-and-throw-away-the-code.html"/>
+        <updated>2025-07-31T14:16:00.000Z</updated>
+        <summary type="html"><![CDATA[Matteo Vaccari shows why the common metric of AI code
+      acceptance has big hole. An LLM can be helpful even if you throw away its
+      code.
+more…]]></summary>
+        <author>
+            <name>Martin Fowler</name>
         </author>
     </entry>
     <entry>
@@ -348,6 +361,21 @@ Points: 500
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>Think School</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Draw a fish and watch it swim with the others]]></title>
+        <id>https://news.ycombinator.com/item?id=44719222</id>
+        <link href="https://drawafish.com/"/>
+        <updated>2025-07-29T04:57:22.000Z</updated>
+        <summary type="html"><![CDATA[Made this website as an exercise in vibe-coding and GCP. It was posted about a few times around the internet, on sites like [Morning Brew](https://www.morningbrew.com/issues/business-buzzkill), [MetaFilter](https://www.metafilter.com/209703/Draw-A-Fish), boingboing.net, etc. I think it's cute!
+I built a basic CNN trained against penises and swastikas, and then anything that doesn't hit the 63% confidence score gets sent to a mod queue, a [vibe-coded fish-tinder](https://bsky.app/profile/bigass.bsky.social/post/3luvikxn3f2...).
+Was a fun exercise, spent about a month on it. Frontend is HTML5 hosted on github pages, backend is Node.JS on GCP.
+Comments URL: https://news.ycombinator.com/item?id=44719222
+Points: 527
+# Comments: 166]]></summary>
+        <author>
+            <name>hallak</name>
         </author>
     </entry>
     <entry>
@@ -2222,16 +2250,6 @@ Points: 522
 # Comments: 185]]></summary>
         <author>
             <name>Jtsummers</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Package-lock json is terrible name for a critical file]]></title>
-        <id>https://www.youtube.com/shorts/FylSr43y1AI</id>
-        <link href="https://www.youtube.com/shorts/FylSr43y1AI"/>
-        <updated>2025-07-03T07:00:12.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Hussein Nasser</name>
         </author>
     </entry>
 </feed>

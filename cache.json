@@ -126,6 +126,16 @@
           "imageUrl": "https://static.simonwillison.net/static/2025/space-invaders-card.jpg"
         },
         {
+          "id": "https://news.ycombinator.com/item?id=44719222",
+          "author": "hallak",
+          "description": "Made this website as an exercise in vibe-coding and GCP. It was posted about a few times around the internet, on sites like [Morning Brew](https://www.morningbrew.com/issues/business-buzzkill), [MetaFilter](https://www.metafilter.com/209703/Draw-A-Fish), boingboing.net, etc. I think it's cute!\nI built a basic CNN trained against penises and swastikas, and then anything that doesn't hit the 63% confidence score gets sent to a mod queue, a [vibe-coded fish-tinder](https://bsky.app/profile/bigass.bsky.social/post/3luvikxn3f2...).\nWas a fun exercise, spent about a month on it. Frontend is HTML5 hosted on github pages, backend is Node.JS on GCP.\nComments URL: https://news.ycombinator.com/item?id=44719222\nPoints: 527\n# Comments: 166",
+          "link": "https://drawafish.com/",
+          "publishedOn": "2025-07-29T04:57:22.000Z",
+          "wordCount": 122,
+          "title": "Show HN: Draw a fish and watch it swim with the others",
+          "imageUrl": "https://drawafish.com/public/favicon.ico"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=44716106",
           "author": "timje1",
           "description": "Hi HN - \nI made a site that takes a UK postcode, grabs the local MP's information and generates an AI mockup of what their ID might look like.\nIt's a small, silly protest at the stupidity of the Online Safety Act that just came into force.\nedit - My open AI credits got hugged to death, please use a known postcode (like one from Kier Starmer's constituency, WC2B6NH) in the meantime.\nComments URL: https://news.ycombinator.com/item?id=44716106\nPoints: 541\n# Comments: 132",
@@ -1172,6 +1182,16 @@
       "siteUrl": "https://martinfowler.com/feed.atom",
       "articles": [
         {
+          "id": "https://martinfowler.com/articles/exploring-gen-ai/partner-with-ai-and-throw-away-the-code.html",
+          "author": null,
+          "description": "Matteo Vaccari shows why the common metric of AI code\n      acceptance has big hole. An LLM can be helpful even if you throw away its\n      code.\nmore…",
+          "link": "https://martinfowler.com/articles/exploring-gen-ai/partner-with-ai-and-throw-away-the-code.html",
+          "publishedOn": "2025-07-31T14:16:00.000Z",
+          "wordCount": 2182,
+          "title": "Partner with the AI, throw away the code",
+          "imageUrl": "https://martinfowler.com/articles/exploring-gen-ai/donkey-card.png"
+        },
+        {
           "id": "https://martinfowler.com/articles/who-is-llm.html",
           "author": null,
           "description": "It's become a common habit for developers to give Large Language Models\n      (LLMs) a persona when working with them. I describe four of them, a\n      stubborn donkey, a genie, a slot machine, and Uriah Heep.\nmore…",
@@ -1846,16 +1866,6 @@
           "publishedOn": "2025-07-04T07:15:09.000Z",
           "wordCount": 2188,
           "title": "Package.json",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/shorts/FylSr43y1AI",
-          "author": null,
-          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-          "link": "https://www.youtube.com/shorts/FylSr43y1AI",
-          "publishedOn": "2025-07-03T07:00:12.000Z",
-          "wordCount": 2100,
-          "title": "Package-lock json is terrible name for a critical file",
           "imageUrl": null
         }
       ]
