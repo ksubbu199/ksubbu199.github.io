@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=44748934",
+          "author": "calvinfo",
+          "description": "Article URL: https://michaelnotebook.com/slow/index.html\nComments URL: https://news.ycombinator.com/item?id=44748934\nPoints: 518\n# Comments: 126",
+          "link": "https://michaelnotebook.com/slow/index.html",
+          "publishedOn": "2025-07-31T19:00:58.000Z",
+          "wordCount": 1005,
+          "title": "Slow",
+          "imageUrl": null
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=44739632",
           "author": "BUFU",
           "description": "Article URL: https://ollama.com/blog/new-app\nComments URL: https://news.ycombinator.com/item?id=44739632\nPoints: 511\n# Comments: 263",
@@ -1124,26 +1134,6 @@
           "wordCount": 2484,
           "title": "Exploiting the IKKO Activebuds “AI powered” earbuds (2024)",
           "imageUrl": "https://blog.mgdproductions.com/content/images/2024/10/IMG_3221-1-2.jpg"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=44443622",
-          "author": "ceejayoz",
-          "description": "Article URL: https://www.cnbc.com/2025/07/02/adp-jobs-report-june-2025.html\nComments URL: https://news.ycombinator.com/item?id=44443622\nPoints: 500\n# Comments: 325",
-          "link": "https://www.cnbc.com/2025/07/02/adp-jobs-report-june-2025.html",
-          "publishedOn": "2025-07-02T13:40:33.000Z",
-          "wordCount": 26952,
-          "title": "Private sector lost 33k jobs, badly missing expectations of 100k increase",
-          "imageUrl": "https://image.cnbcfm.com/api/v1/image/108138827-1746203264391-108138827-1746032489603-gettyimages-2212774223-jr_18835_uzd1yntc.jpeg?v=1746205217&w=1920&h=1080"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=44442473",
-          "author": "theandrewbailey",
-          "description": "Article URL: https://www.w3.org/QA/Tips/noClickHere\nComments URL: https://news.ycombinator.com/item?id=44442473\nPoints: 501\n# Comments: 338",
-          "link": "https://www.w3.org/QA/Tips/noClickHere",
-          "publishedOn": "2025-07-02T11:39:12.000Z",
-          "wordCount": 395,
-          "title": "Don’t use “click here” as link text (2001)",
-          "imageUrl": null
         }
       ]
     },

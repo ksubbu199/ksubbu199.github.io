@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-07-31T23:20:34.177Z</updated>
+    <updated>2025-08-01T01:58:18.062Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Slow]]></title>
+        <id>https://news.ycombinator.com/item?id=44748934</id>
+        <link href="https://michaelnotebook.com/slow/index.html"/>
+        <updated>2025-07-31T19:00:58.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://michaelnotebook.com/slow/index.html
+Comments URL: https://news.ycombinator.com/item?id=44748934
+Points: 518
+# Comments: 126]]></summary>
+        <author>
+            <name>calvinfo</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What Sets Sam Altman Apart]]></title>
         <id>https://www.youtube.com/shorts/P74BcjfET7Y</id>
@@ -2225,32 +2238,6 @@ Points: 506
 more…]]></summary>
         <author>
             <name>Martin Fowler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Private sector lost 33k jobs, badly missing expectations of 100k increase]]></title>
-        <id>https://news.ycombinator.com/item?id=44443622</id>
-        <link href="https://www.cnbc.com/2025/07/02/adp-jobs-report-june-2025.html"/>
-        <updated>2025-07-02T13:40:33.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.cnbc.com/2025/07/02/adp-jobs-report-june-2025.html
-Comments URL: https://news.ycombinator.com/item?id=44443622
-Points: 500
-# Comments: 325]]></summary>
-        <author>
-            <name>ceejayoz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Don’t use “click here” as link text (2001)]]></title>
-        <id>https://news.ycombinator.com/item?id=44442473</id>
-        <link href="https://www.w3.org/QA/Tips/noClickHere"/>
-        <updated>2025-07-02T11:39:12.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.w3.org/QA/Tips/noClickHere
-Comments URL: https://news.ycombinator.com/item?id=44442473
-Points: 501
-# Comments: 338]]></summary>
-        <author>
-            <name>theandrewbailey</name>
         </author>
     </entry>
 </feed>
