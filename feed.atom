@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-08-02T01:43:27.780Z</updated>
+    <updated>2025-08-02T03:25:45.180Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -2250,19 +2250,6 @@ Points: 502
 # Comments: 213]]></summary>
         <author>
             <name>sohzm</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Introducing tmux-rs]]></title>
-        <id>https://news.ycombinator.com/item?id=44455787</id>
-        <link href="https://richardscollin.github.io/tmux-rs/"/>
-        <updated>2025-07-03T15:03:14.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://richardscollin.github.io/tmux-rs/
-Comments URL: https://news.ycombinator.com/item?id=44455787
-Points: 522
-# Comments: 185]]></summary>
-        <author>
-            <name>Jtsummers</name>
         </author>
     </entry>
 </feed>
