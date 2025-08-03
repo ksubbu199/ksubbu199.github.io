@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-08-03T18:29:02.679Z</updated>
+    <updated>2025-08-03T19:16:52.171Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -106,6 +106,19 @@ Points: 518
 # Comments: 126]]></summary>
         <author>
             <name>calvinfo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[6 weeks of Claude Code]]></title>
+        <id>https://news.ycombinator.com/item?id=44746621</id>
+        <link href="https://blog.puzzmo.com/posts/2025/07/30/six-weeks-of-claude-code/"/>
+        <updated>2025-07-31T15:25:49.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://blog.puzzmo.com/posts/2025/07/30/six-weeks-of-claude-code/
+Comments URL: https://news.ycombinator.com/item?id=44746621
+Points: 507
+# Comments: 513]]></summary>
+        <author>
+            <name>mike1o1</name>
         </author>
     </entry>
     <entry>
@@ -2218,16 +2231,6 @@ AI]]></summary>
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>Think School</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why is Windows slower than Linux here?]]></title>
-        <id>https://www.youtube.com/shorts/qVm6pWC8sJo</id>
-        <link href="https://www.youtube.com/shorts/qVm6pWC8sJo"/>
-        <updated>2025-07-05T07:00:49.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Hussein Nasser</name>
         </author>
     </entry>
 </feed>
