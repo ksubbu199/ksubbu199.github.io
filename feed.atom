@@ -2,10 +2,33 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-08-03T08:25:57.573Z</updated>
+    <updated>2025-08-03T09:20:34.923Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Indian Business podcast]]></title>
+        <id>https://www.youtube.com/shorts/smU64rAUFMo</id>
+        <link href="https://www.youtube.com/shorts/smU64rAUFMo"/>
+        <updated>2025-08-03T08:23:52.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Think School</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Telo MT1]]></title>
+        <id>https://news.ycombinator.com/item?id=44769039</id>
+        <link href="https://www.telotrucks.com/"/>
+        <updated>2025-08-02T16:40:51.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.telotrucks.com/
+Comments URL: https://news.ycombinator.com/item?id=44769039
+Points: 507
+# Comments: 460]]></summary>
+        <author>
+            <name>turtleyacht</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Corporation for Public Broadcasting ceasing operations]]></title>
         <id>https://news.ycombinator.com/item?id=44759382</id>
@@ -2205,19 +2228,6 @@ Points: 506
 # Comments: 250]]></summary>
         <author>
             <name>todsacerdoti</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Being too ambitious is a clever form of self-sabotage]]></title>
-        <id>https://news.ycombinator.com/item?id=44467912</id>
-        <link href="https://maalvika.substack.com/p/being-too-ambitious-is-a-clever-form"/>
-        <updated>2025-07-04T21:11:24.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://maalvika.substack.com/p/being-too-ambitious-is-a-clever-form
-Comments URL: https://news.ycombinator.com/item?id=44467912
-Points: 524
-# Comments: 157]]></summary>
-        <author>
-            <name>alihm</name>
         </author>
     </entry>
 </feed>
