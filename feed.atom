@@ -2,10 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-08-04T20:24:42.982Z</updated>
+    <updated>2025-08-04T21:21:03.408Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Show HN: I spent 6 years building a ridiculous wooden pixel display]]></title>
+        <id>https://news.ycombinator.com/item?id=44787902</id>
+        <link href="https://benholmen.com/blog/kilopixel/"/>
+        <updated>2025-08-04T16:16:21.000Z</updated>
+        <summary type="html"><![CDATA[I built the world's most impractical 1000-pixel display and anyone in the world can draw on it. It draws a single pixel at a time and takes 30-60 minutes to complete a single image. Anyone can participate in the project by voting for the next image to be drawn, and submitting images.
+https://kilopx.com/
+Comments URL: https://news.ycombinator.com/item?id=44787902
+Points: 505
+# Comments: 72]]></summary>
+        <author>
+            <name>benholmen</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Perplexity is using stealth, undeclared crawlers to evade no-crawl directives]]></title>
         <id>https://news.ycombinator.com/item?id=44785636</id>
