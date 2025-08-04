@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-08-03T23:20:37.321Z</updated>
+    <updated>2025-08-04T01:55:57.876Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -63,6 +63,19 @@ Points: 501
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>Think School</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Live coding interviews measure stress, not coding skills]]></title>
+        <id>https://news.ycombinator.com/item?id=44756045</id>
+        <link href="https://hadid.dev/posts/living-coding/"/>
+        <updated>2025-08-01T12:51:38.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://hadid.dev/posts/living-coding/
+Comments URL: https://news.ycombinator.com/item?id=44756045
+Points: 502
+# Comments: 500]]></summary>
+        <author>
+            <name>mustaphah</name>
         </author>
     </entry>
     <entry>
@@ -151,6 +164,19 @@ Points: 507
         <updated>2025-07-31T14:30:39.000Z</updated>
         <author>
             <name>Think School</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MacBook Pro Insomnia]]></title>
+        <id>https://news.ycombinator.com/item?id=44745897</id>
+        <link href="https://manuel.bernhardt.io/posts/2025-07-24-macbook-pro-insomnia"/>
+        <updated>2025-07-31T14:16:07.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://manuel.bernhardt.io/posts/2025-07-24-macbook-pro-insomnia
+Comments URL: https://news.ycombinator.com/item?id=44745897
+Points: 500
+# Comments: 227]]></summary>
+        <author>
+            <name>speckx</name>
         </author>
     </entry>
     <entry>
@@ -2220,20 +2246,6 @@ Points: 503
 # Comments: 150]]></summary>
         <author>
             <name>gasull</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Software engineering with LLMs in 2025: temperature check]]></title>
-        <id>68692c405c77030001957cea</id>
-        <link href="https://blog.pragmaticengineer.com/software-engineering-with-llms-in-2025/"/>
-        <updated>2025-07-05T13:49:01.000Z</updated>
-        <summary type="html"><![CDATA[How are devs using AI tools at Big Tech and startups, and what do they actually think of them? This was the topic of my annual conference talk, in June 2025, in London, at LDX3 by LeadDev. 
-At LDX3 by LeadDev
-To research, I talked with devs at:
-
-AI]]></summary>
-        <author>
-            <name>Gergely Orosz</name>
         </author>
     </entry>
 </feed>
