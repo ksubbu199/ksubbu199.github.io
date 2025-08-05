@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-08-05T05:29:16.720Z</updated>
+    <updated>2025-08-05T06:34:05.548Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -2281,18 +2281,6 @@ Points: 503
 # Comments: 391]]></summary>
         <author>
             <name>BlueFalconHD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: I wrote a "web OS" based on the Apple Lisa's UI, with 1-bit graphics]]></title>
-        <id>https://news.ycombinator.com/item?id=44482965</id>
-        <link href="https://alpha.lisagui.com/"/>
-        <updated>2025-07-06T18:32:55.000Z</updated>
-        <summary type="html"><![CDATA[https://lisagui.com/info.html
-This is a web OS I wrote in vanilla JS that looks like the Apple Lisa Office System (1983-85), with other contemporaneous influences and additional improvements and features. It's currently in alpha and isn't remotely bug free. I had been holding off on posting this here until it was somewhat presentable and useful. Please note; the Lisa conforms more literally to the desktop metaphor than most modern GUIs - some of the important differences are mentioned in the readme.
-This is a complete recreation of the UI in JS; it all renders to a single canvas element. It's not a CSS theme, and not an emulator ported to JS. None of the code is written by Apple. I'll be happy to elaborate more in the comments, but the short version is the entire UI is defined outside the …]]></summary>
-        <author>
-            <name>ayaros</name>
         </author>
     </entry>
 </feed>
