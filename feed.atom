@@ -2,10 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-08-05T17:19:50.976Z</updated>
+    <updated>2025-08-05T18:33:30.886Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Open models by OpenAI]]></title>
+        <id>https://news.ycombinator.com/item?id=44800746</id>
+        <link href="https://openai.com/open-models/"/>
+        <updated>2025-08-05T17:02:02.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://openai.com/open-models/
+Comments URL: https://news.ycombinator.com/item?id=44800746
+Points: 511
+# Comments: 187]]></summary>
+        <author>
+            <name>lackoftactics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Genie 3: A new frontier for world models]]></title>
+        <id>https://news.ycombinator.com/item?id=44798166</id>
+        <link href="https://deepmind.google/discover/blog/genie-3-a-new-frontier-for-world-models/"/>
+        <updated>2025-08-05T14:08:52.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://deepmind.google/discover/blog/genie-3-a-new-frontier-for-world-models/
+Comments URL: https://news.ycombinator.com/item?id=44798166
+Points: 675
+# Comments: 259]]></summary>
+        <author>
+            <name>bradleyg223</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How far can we push AI autonomy in code generation?]]></title>
         <id>https://martinfowler.com/articles/pushing-ai-autonomy.html</id>
