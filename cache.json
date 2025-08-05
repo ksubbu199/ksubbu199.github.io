@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=44795825",
+          "author": "Jiahang",
+          "description": "Article URL: https://apps.apple.com/app/ublock-origin-lite/id6745342698\nComments URL: https://news.ycombinator.com/item?id=44795825\nPoints: 516\n# Comments: 219",
+          "link": "https://apps.apple.com/app/ublock-origin-lite/id6745342698",
+          "publishedOn": "2025-08-05T09:01:54.000Z",
+          "wordCount": 10393,
+          "title": "uBlock Origin Lite now available for Safari",
+          "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f6/8c/b4/f68cb410-97cf-3514-0278-7dc838243199/AppIcon-0-0-85-220-0-0-5-0-2x.png/1200x630wa.png"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=44787902",
           "author": "benholmen",
           "description": "I built the world's most impractical 1000-pixel display and anyone in the world can draw on it. It draws a single pixel at a time and takes 30-60 minutes to complete a single image. Anyone can participate in the project by voting for the next image to be drawn, and submitting images.\nhttps://kilopx.com/\nComments URL: https://news.ycombinator.com/item?id=44787902\nPoints: 505\n# Comments: 72",
@@ -14,6 +24,16 @@
           "wordCount": 2258,
           "title": "Show HN: I spent 6 years building a ridiculous wooden pixel display",
           "imageUrl": "https://benholmen.com/assets/images/kilopixel/open-graph.jpg?v=3"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=44787631",
+          "author": "meetpateltech",
+          "description": "https://huggingface.co/Qwen/Qwen-Image\nhttps://qianwen-res.oss-cn-beijing.aliyuncs.com/Qwen-Image/Q...\nComments URL: https://news.ycombinator.com/item?id=44787631\nPoints: 506\n# Comments: 145",
+          "link": "https://qwenlm.github.io/blog/qwen-image/",
+          "publishedOn": "2025-08-04T15:56:40.000Z",
+          "wordCount": 2527,
+          "title": "Qwen-Image: Crafting with native text rendering",
+          "imageUrl": "https://qwenlm.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E"
         },
         {
           "id": "https://news.ycombinator.com/item?id=44785636",

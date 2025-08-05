@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-08-05T14:25:12.776Z</updated>
+    <updated>2025-08-05T15:24:59.431Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -40,6 +40,19 @@ more…]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[uBlock Origin Lite now available for Safari]]></title>
+        <id>https://news.ycombinator.com/item?id=44795825</id>
+        <link href="https://apps.apple.com/app/ublock-origin-lite/id6745342698"/>
+        <updated>2025-08-05T09:01:54.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://apps.apple.com/app/ublock-origin-lite/id6745342698
+Comments URL: https://news.ycombinator.com/item?id=44795825
+Points: 516
+# Comments: 219]]></summary>
+        <author>
+            <name>Jiahang</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Show HN: I spent 6 years building a ridiculous wooden pixel display]]></title>
         <id>https://news.ycombinator.com/item?id=44787902</id>
         <link href="https://benholmen.com/blog/kilopixel/"/>
@@ -51,6 +64,20 @@ Points: 505
 # Comments: 72]]></summary>
         <author>
             <name>benholmen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Qwen-Image: Crafting with native text rendering]]></title>
+        <id>https://news.ycombinator.com/item?id=44787631</id>
+        <link href="https://qwenlm.github.io/blog/qwen-image/"/>
+        <updated>2025-08-04T15:56:40.000Z</updated>
+        <summary type="html"><![CDATA[https://huggingface.co/Qwen/Qwen-Image
+https://qianwen-res.oss-cn-beijing.aliyuncs.com/Qwen-Image/Q...
+Comments URL: https://news.ycombinator.com/item?id=44787631
+Points: 506
+# Comments: 145]]></summary>
+        <author>
+            <name>meetpateltech</name>
         </author>
     </entry>
     <entry>
