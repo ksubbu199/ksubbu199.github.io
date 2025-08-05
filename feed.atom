@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-08-05T21:20:21.701Z</updated>
+    <updated>2025-08-05T22:21:27.869Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -17,6 +17,19 @@ Points: 511
 # Comments: 187]]></summary>
         <author>
             <name>lackoftactics</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Claude Opus 4.1]]></title>
+        <id>https://news.ycombinator.com/item?id=44800185</id>
+        <link href="https://www.anthropic.com/news/claude-opus-4-1"/>
+        <updated>2025-08-05T16:28:05.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.anthropic.com/news/claude-opus-4-1
+Comments URL: https://news.ycombinator.com/item?id=44800185
+Points: 543
+# Comments: 201]]></summary>
+        <author>
+            <name>meetpateltech</name>
         </author>
     </entry>
     <entry>
