@@ -2,10 +2,33 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-08-05T13:41:45.310Z</updated>
+    <updated>2025-08-05T14:25:12.776Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How far can we push AI autonomy in code generation?]]></title>
+        <id>https://martinfowler.com/articles/pushing-ai-autonomy.html</id>
+        <link href="https://martinfowler.com/articles/pushing-ai-autonomy.html"/>
+        <updated>2025-08-05T13:53:00.000Z</updated>
+        <summary type="html"><![CDATA[Birgitta Böckeler reports on a series of
+      experiments we did to explore how far Generative AI can currently
+      be pushed toward autonomously developing high-quality, up-to-date software
+      without human intervention. As a test case, we created an agentic workflow
+      to build a simple Spring Boot application end to end. We found that the
+      workflow could ultimately generate these simple applications, but still
+      observed significant issues in the results—especially as we increased the
+      complexity. The model would generate features we hadn't asked for, make
+      shifting assumptions around gaps in the requirements, and declare success
+      even when tests were failing. We concluded that while many of our
+      strategies — such as reusable prompts or a reference application — are
+      valuable for enhancing AI-assisted workflows, a human in the loop to
+      supervise generation remains essential.
+more…]]></summary>
+        <author>
+            <name>Martin Fowler</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Indian business podcast]]></title>
         <id>https://www.youtube.com/shorts/DWTnlMBsV8I</id>

@@ -1202,6 +1202,16 @@
       "siteUrl": "https://martinfowler.com/feed.atom",
       "articles": [
         {
+          "id": "https://martinfowler.com/articles/pushing-ai-autonomy.html",
+          "author": null,
+          "description": "Birgitta Böckeler reports on a series of\n      experiments we did to explore how far Generative AI can currently\n      be pushed toward autonomously developing high-quality, up-to-date software\n      without human intervention. As a test case, we created an agentic workflow\n      to build a simple Spring Boot application end to end. We found that the\n      workflow could ultimately generate these simple applications, but still\n      observed significant issues in the results—especially as we increased the\n      complexity. The model would generate features we hadn't asked for, make\n      shifting assumptions around gaps in the requirements, and declare success\n      even when tests were failing. We concluded that while many of our\n      strategies — such as reusable prompts or a reference application — are\n      valuable for enhancing AI-assisted workflows, a human in the loop to\n      supervise generation remains essential.\nmore…",
+          "link": "https://martinfowler.com/articles/pushing-ai-autonomy.html",
+          "publishedOn": "2025-08-05T13:53:00.000Z",
+          "wordCount": 5369,
+          "title": "How far can we push AI autonomy in code generation?",
+          "imageUrl": "https://martinfowler.com/articles/pushing-ai-autonomy/card.png"
+        },
+        {
           "id": "https://martinfowler.com/articles/exploring-gen-ai/partner-with-ai-and-throw-away-the-code.html",
           "author": null,
           "description": "Matteo Vaccari shows why the common metric of AI code\n      acceptance has big hole. An LLM can be helpful even if you throw away its\n      code.\nmore…",
