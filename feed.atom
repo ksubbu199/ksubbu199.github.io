@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-08-05T23:20:37.667Z</updated>
+    <updated>2025-08-06T01:49:35.363Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -2331,32 +2331,6 @@ Points: 508
 # Comments: 233]]></summary>
         <author>
             <name>davidgu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I used o3 to profile myself from my saved Pocket links]]></title>
-        <id>https://news.ycombinator.com/item?id=44489803</id>
-        <link href="https://noperator.dev/posts/o3-pocket-profile/"/>
-        <updated>2025-07-07T12:44:19.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://noperator.dev/posts/o3-pocket-profile/
-Comments URL: https://news.ycombinator.com/item?id=44489803
-Points: 501
-# Comments: 191]]></summary>
-        <author>
-            <name>noperator</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mercury: Ultra-fast language models based on diffusion]]></title>
-        <id>https://news.ycombinator.com/item?id=44489690</id>
-        <link href="https://arxiv.org/abs/2506.17298"/>
-        <updated>2025-07-07T12:31:08.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://arxiv.org/abs/2506.17298
-Comments URL: https://news.ycombinator.com/item?id=44489690
-Points: 509
-# Comments: 215]]></summary>
-        <author>
-            <name>PaulHoule</name>
         </author>
     </entry>
 </feed>
