@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-08-06T11:19:21.657Z</updated>
+    <updated>2025-08-06T12:46:15.138Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -40,6 +40,15 @@ Points: 543
 # Comments: 201]]></summary>
         <author>
             <name>meetpateltech</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Israel Attacks Syria, Fears Iran’s Bomb & Faces Global Pressure : Israeli Ambassador Explains]]></title>
+        <id>https://www.youtube.com/watch?v=6FzfkIGuscc</id>
+        <link href="https://www.youtube.com/watch?v=6FzfkIGuscc"/>
+        <updated>2025-08-05T15:40:53.000Z</updated>
+        <author>
+            <name>Think School</name>
         </author>
     </entry>
     <entry>
@@ -2282,26 +2291,6 @@ Points: 503
 # Comments: 310]]></summary>
         <author>
             <name>mhga</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Influence the State of HTML 2025 Survey!]]></title>
-        <id>https://lea.verou.me/blog/2025/design-state-of-html/</id>
-        <link href="https://lea.verou.me/blog/2025/design-state-of-html/"/>
-        <updated>2025-07-08T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Mamma mia, here we go again!
-
-
-Two years ago, I was funded by Google to design the inaugural State of HTML survey.
-While I had led State of … surveys before (also graciously sponsored by Google), that was by far the most intense, as 0→1 projects often are.
-In addition to the research, content, and analysis work that goes into every State of … survey,
-the unique challenges it presented were a forcing function for finally tackling some longstanding UX issues with these surveys.
-As a result, we pioneered new survey interaction UIs, and validated them via usability testing.
-This work did not just affect State of HTML, but had ripple effects on all subsequent State of … surveys.
-The results made it all worth it.
-Turnout was the highest ever for a new Devographics [1] survey: 21 thousand partici…]]></summary>
-        <author>
-            <name>Lea Verou’s blog</name>
         </author>
     </entry>
 </feed>
