@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=44808794",
+          "author": "serhack_",
+          "description": "Article URL: https://grell.dev/blog/ai_rejection\nComments URL: https://news.ycombinator.com/item?id=44808794\nPoints: 513\n# Comments: 235",
+          "link": "https://grell.dev/blog/ai_rejection",
+          "publishedOn": "2025-08-06T07:25:43.000Z",
+          "wordCount": 923,
+          "title": "I gave the AI arms and legs then it rejected me",
+          "imageUrl": "https://grell.dev/assets/img/ai_rejection/1280.jpg"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=44800746",
           "author": "lackoftactics",
           "description": "Article URL: https://openai.com/open-models/\nComments URL: https://news.ycombinator.com/item?id=44800746\nPoints: 511\n# Comments: 187",
@@ -1221,6 +1231,16 @@
       "feedUrl": "https://martinfowler.com/feed.atom",
       "siteUrl": "https://martinfowler.com/feed.atom",
       "articles": [
+        {
+          "id": "https://martinfowler.com/articles/impact-intel.html",
+          "author": null,
+          "description": "The productivity of knowledge workers is hard to quantify and often\n      decoupled from direct business outcomes. The lack of understanding leads\n      to many initiatives, bloated tech spend, and ill-chosen efforts to improve\n      this productivity. Sriram Narayan begins an article that\n      looks at how to avoid this by developing an intelligence of the\n      business impact of their work across a network connecting output to\n      proximate and downstream impact.\nmore…",
+          "link": "https://martinfowler.com/articles/impact-intel.html",
+          "publishedOn": "2025-08-06T13:23:00.000Z",
+          "wordCount": 2688,
+          "title": "The Reformist CTO’s Guide to Impact Intelligence",
+          "imageUrl": "https://martinfowler.com/articles/impact-intel/card.png"
+        },
         {
           "id": "https://martinfowler.com/articles/pushing-ai-autonomy.html",
           "author": null,
