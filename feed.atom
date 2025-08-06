@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-08-06T13:42:26.464Z</updated>
+    <updated>2025-08-06T14:24:39.796Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -34,6 +34,22 @@ Points: 513
 # Comments: 235]]></summary>
         <author>
             <name>serhack_</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Kitten TTS – 25MB CPU-Only, Open-Source TTS Model]]></title>
+        <id>https://news.ycombinator.com/item?id=44807868</id>
+        <link href="https://github.com/KittenML/KittenTTS"/>
+        <updated>2025-08-06T05:04:36.000Z</updated>
+        <summary type="html"><![CDATA[Kitten TTS is an open-source series of tiny and expressive text-to-speech models for on-device applications. We are excited to launch a preview of our smallest model, which is less than 25 MB. This model has 15M parameters.
+This release supports English text-to-speech applications in eight voices: four male and four female. The model is quantized to int8 + fp16, and it uses onnx for runtime. The model is designed to run literally anywhere eg.  raspberry pi, low-end smartphones, wearables, browsers etc. No GPU required!
+We're releasing this to give early users a sense of the latency and voices that will be available in our next release (hopefully next week). We'd love your feedback! Just FYI, this model is an early checkpoint trained on less than 10% of our total data.
+We started working on this because existing expressive OSS models require big GPUs to run them on-device and the cloud alternatives are too expensive for high frequency use. We think there's a need for frontier open-source models that are tiny enough to run on edge devices!
+Comments URL: https://news.ycombinator.com/item?id=44807868
+Points: 527
+# Comments: 244]]></summary>
+        <author>
+            <name>divamgupta</name>
         </author>
     </entry>
     <entry>
@@ -2308,19 +2324,6 @@ Points: 501
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>Hussein Nasser</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Open letter accuses BBC board member of having a conflict of interest on Gaza]]></title>
-        <id>https://news.ycombinator.com/item?id=44496391</id>
-        <link href="https://www.theguardian.com/media/2025/jul/02/more-than-400-media-figures-urge-bbc-board-to-remove-robbie-gibb-over-gaza"/>
-        <updated>2025-07-08T02:18:01.000Z</updated>
-        <summary type="html"><![CDATA[Open Letter: https://docs.google.com/document/d/1n3926pSPNwXd8j7I716CBJEz...
-Comments URL: https://news.ycombinator.com/item?id=44496391
-Points: 503
-# Comments: 310]]></summary>
-        <author>
-            <name>mhga</name>
         </author>
     </entry>
 </feed>
