@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-08-07T13:40:46.329Z</updated>
+    <updated>2025-08-07T14:24:08.652Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -38,6 +38,19 @@ I agree with Charity Majors  that there is a valuable distinction between dispos
 more…]]></summary>
         <author>
             <name>Martin Fowler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[We replaced passwords with something worse]]></title>
+        <id>https://news.ycombinator.com/item?id=44819917</id>
+        <link href="https://blog.danielh.cc/blog/passwords"/>
+        <updated>2025-08-07T02:19:25.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://blog.danielh.cc/blog/passwords
+Comments URL: https://news.ycombinator.com/item?id=44819917
+Points: 553
+# Comments: 441]]></summary>
+        <author>
+            <name>max__dev</name>
         </author>
     </entry>
     <entry>
