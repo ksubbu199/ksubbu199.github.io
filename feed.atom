@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-08-07T17:22:02.296Z</updated>
+    <updated>2025-08-07T18:32:41.615Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[GPT-5]]></title>
+        <id>https://news.ycombinator.com/item?id=44826997</id>
+        <link href="https://openai.com/gpt-5/"/>
+        <updated>2025-08-07T17:00:21.000Z</updated>
+        <summary type="html"><![CDATA[https://www.youtube.com/watch?v=0Uu_VJeVVfo
+Comments URL: https://news.ycombinator.com/item?id=44826997
+Points: 602
+# Comments: 623]]></summary>
+        <author>
+            <name>rd</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Quick but worthwhile links]]></title>
         <id>https://martinfowler.com/articles/20250806-links.html</id>
