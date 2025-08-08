@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-08-08T16:24:57.604Z</updated>
+    <updated>2025-08-08T17:16:33.297Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[A Published Legal Form Under Restrictive Copyright License]]></title>
+        <id>https://writing.kemitchell.com/2025/08/08/Access-4-Learning-Form</id>
+        <link href="https://writing.kemitchell.com/2025/08/08/Access-4-Learning-Form"/>
+        <updated>2025-08-08T17:05:24.000Z</updated>
+        <summary type="html"><![CDATA[Access 4 Learning's data privacy terms for schools and vendors]]></summary>
+        <author>
+            <name>/dev/lawyer</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Addressing the hate I got on the Israel podcast]]></title>
         <id>https://www.youtube.com/watch?v=_WCM7Pz1jy4</id>
@@ -13,6 +23,19 @@
         <updated>2025-08-08T14:10:57.000Z</updated>
         <author>
             <name>Think School</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ultrathin business card runs a fluid simulation]]></title>
+        <id>https://news.ycombinator.com/item?id=44835879</id>
+        <link href="https://github.com/Nicholas-L-Johnson/flip-card"/>
+        <updated>2025-08-08T11:41:04.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://github.com/Nicholas-L-Johnson/flip-card
+Comments URL: https://news.ycombinator.com/item?id=44835879
+Points: 522
+# Comments: 125]]></summary>
+        <author>
+            <name>wompapumpum</name>
         </author>
     </entry>
     <entry>
@@ -2350,16 +2373,6 @@ Charity Majors reflects on her career. I really resonated with her words: “I t
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>Hussein Nasser</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[50 Lakhs income secret.. coming soon]]></title>
-        <id>https://www.youtube.com/shorts/qNh_fhknwh4</id>
-        <link href="https://www.youtube.com/shorts/qNh_fhknwh4"/>
-        <updated>2025-07-10T05:14:48.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Think School</name>
         </author>
     </entry>
 </feed>
