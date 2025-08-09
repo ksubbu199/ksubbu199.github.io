@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-08-09T01:39:58.330Z</updated>
+    <updated>2025-08-09T03:20:05.396Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -2363,19 +2363,6 @@ Points: 525
         <updated>2025-07-10T15:32:42.000Z</updated>
         <author>
             <name>Think School</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Three worthwhile articles yesterday]]></title>
-        <id>https://martinfowler.com/articles/202507-three-links.html</id>
-        <link href="https://martinfowler.com/articles/202507-three-links.html"/>
-        <updated>2025-07-10T14:58:00.000Z</updated>
-        <summary type="html"><![CDATA[Three articles I enjoyed yesterday:
-Stephen O’Grady talks about how Gen AI tools break two common constants with developer tools: they are willing to flit between Gen AI tools and they are willing to pay for them. This implies that it’s not too late for new tools to appear, and that enterprise adoption will be slowed by a lack of consensus on which direction to go.
-Pete Hodgson continues his excellent writing on Gen AI by proposing an approach to leading engineers towards an AI-assisted future, centered around a the concept of aligned autonomy. He advocates an explicit experimentation phase, followed by supporting adoption and measuring their impact.
-Charity Majors reflects on her career. I really resonated with her words: “I think I’m less interested in my own happiness (whatever that means) than I am interested in doing work that feels worth doing.”]]></summary>
-        <author>
-            <name>Martin Fowler</name>
         </author>
     </entry>
 </feed>
