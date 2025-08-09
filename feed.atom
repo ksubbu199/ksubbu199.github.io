@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-08-09T03:20:05.396Z</updated>
+    <updated>2025-08-09T04:29:08.708Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[I want everything local – Building my offline AI workspace]]></title>
+        <id>https://news.ycombinator.com/item?id=44840013</id>
+        <link href="https://instavm.io/blog/building-my-offline-ai-workspace"/>
+        <updated>2025-08-08T18:19:05.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://instavm.io/blog/building-my-offline-ai-workspace
+Comments URL: https://news.ycombinator.com/item?id=44840013
+Points: 538
+# Comments: 154]]></summary>
+        <author>
+            <name>mkagenius</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[A Published Legal Form Under Restrictive Copyright License]]></title>
         <id>https://writing.kemitchell.com/2025/08/08/Access-4-Learning-Form</id>
@@ -2336,33 +2349,6 @@ Points: 500
 # Comments: 319]]></summary>
         <author>
             <name>dheerajvs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: Ten years of running every day, visualized]]></title>
-        <id>https://news.ycombinator.com/item?id=44522683</id>
-        <link href="https://nodaysoff.run/"/>
-        <updated>2025-07-10T16:21:13.000Z</updated>
-        <summary type="html"><![CDATA[Today marks ten years, 3653 consecutive days, of running at least one mile every day under the USRSA rules [1]. To celebrate, I built an interactive dashboard that turns a decade of GPX files into charts you can explore.
-Running has truly changed my life: I've made lifelong friends, explored beautiful places, and more importantly invested into my own health and fitness, which I'm starting to see the positive benefits as I get older.
-The stack is pretty simple: a NextJS app, with a Postgres database to keep all my running data, and all the stats are pre-computed and cached in Redis, so I effectively only hit the database once a day when a new run is ingested. On the fronted, I toyed with the idea of using D3 or pre-existing data viz libraries, but ended up rolling my own using SVGs directly, it gave me more control on the visualizations.
-I used the Strava bulk export to pre-populate the database, and I'm using their webhook API to do incremental updates. I have to tap into OpenWeatherMap and OpenCageDate to enrich the running data a little bit.
-Happy to answer anything about the stack, data pipeline, or how I stayed motivated for 10 years!
-[1] https://www.runeveryday.com Run Streak Association rules: ≥ 1 mile per day
-Comments URL: https://news.ycombinator.com/item?id=44522683
-Points: 525
-# Comments: 218]]></summary>
-        <author>
-            <name>friggeri</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ex-Facebook & Uber Insiders Reveal 9 HABITS That Made Them ₹50 Lakh/Year | Indian Business Podcast]]></title>
-        <id>https://www.youtube.com/watch?v=xwFgddaaBXs</id>
-        <link href="https://www.youtube.com/watch?v=xwFgddaaBXs"/>
-        <updated>2025-07-10T15:32:42.000Z</updated>
-        <author>
-            <name>Think School</name>
         </author>
     </entry>
 </feed>

@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=44840013",
+          "author": "mkagenius",
+          "description": "Article URL: https://instavm.io/blog/building-my-offline-ai-workspace\nComments URL: https://news.ycombinator.com/item?id=44840013\nPoints: 538\n# Comments: 154",
+          "link": "https://instavm.io/blog/building-my-offline-ai-workspace",
+          "publishedOn": "2025-08-08T18:19:05.000Z",
+          "wordCount": 2782,
+          "title": "I want everything local – Building my offline AI workspace",
+          "imageUrl": null
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=44835879",
           "author": "wompapumpum",
           "description": "Article URL: https://github.com/Nicholas-L-Johnson/flip-card\nComments URL: https://news.ycombinator.com/item?id=44835879\nPoints: 522\n# Comments: 125",
@@ -1204,16 +1214,6 @@
           "wordCount": 2318,
           "title": "Measuring the impact of AI on experienced open-source developer productivity",
           "imageUrl": "https://metr.org/assets/images/logo/logo-montserrat-ratio-2-1-white-bg.png?1"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=44522683",
-          "author": "friggeri",
-          "description": "Today marks ten years, 3653 consecutive days, of running at least one mile every day under the USRSA rules [1]. To celebrate, I built an interactive dashboard that turns a decade of GPX files into charts you can explore.\nRunning has truly changed my life: I've made lifelong friends, explored beautiful places, and more importantly invested into my own health and fitness, which I'm starting to see the positive benefits as I get older.\nThe stack is pretty simple: a NextJS app, with a Postgres database to keep all my running data, and all the stats are pre-computed and cached in Redis, so I effectively only hit the database once a day when a new run is ingested. On the fronted, I toyed with the idea of using D3 or pre-existing data viz libraries, but ended up rolling my own using SVGs directly, it gave me more control on the visualizations.\nI used the Strava bulk export to pre-populate the database, and I'm using their webhook API to do incremental updates. I have to tap into OpenWeatherMap and OpenCageDate to enrich the running data a little bit.\nHappy to answer anything about the stack, data pipeline, or how I stayed motivated for 10 years!\n[1] https://www.runeveryday.com Run Streak Association rules: ≥ 1 mile per day\nComments URL: https://news.ycombinator.com/item?id=44522683\nPoints: 525\n# Comments: 218",
-          "link": "https://nodaysoff.run/",
-          "publishedOn": "2025-07-10T16:21:13.000Z",
-          "wordCount": 13098,
-          "title": "Show HN: Ten years of running every day, visualized",
-          "imageUrl": "https://nodaysoff.run/og-image.png"
         }
       ]
     },
@@ -1850,16 +1850,6 @@
           "publishedOn": "2025-07-11T13:06:59.000Z",
           "wordCount": 2035,
           "title": "AI Is Replacing These Jobs",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=xwFgddaaBXs",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=xwFgddaaBXs",
-          "publishedOn": "2025-07-10T15:32:42.000Z",
-          "wordCount": null,
-          "title": "Ex-Facebook & Uber Insiders Reveal 9 HABITS That Made Them ₹50 Lakh/Year | Indian Business Podcast",
           "imageUrl": null
         }
       ]
