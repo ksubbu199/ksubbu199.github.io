@@ -2,10 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-08-09T22:18:59.666Z</updated>
+    <updated>2025-08-09T23:19:05.195Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Show HN: The current sky at your approximate location, as a CSS gradient]]></title>
+        <id>https://news.ycombinator.com/item?id=44846281</id>
+        <link href="https://sky.dlazaro.ca/"/>
+        <updated>2025-08-09T13:25:16.000Z</updated>
+        <summary type="html"><![CDATA[For HTML Day 2025 [1], I made a web service that displays the current sky at your approximate location as a CSS gradient. Colours are simulated on-demand using atmospheric absorption and scattering coefficients. Updates every minute, without the use of client-side JavaScript.
+Source code and additional information is available on GitHub: https://github.com/dnlzro/horizon
+[1] https://html.energy/html-day/2025/index.html
+Comments URL: https://news.ycombinator.com/item?id=44846281
+Points: 502
+# Comments: 104]]></summary>
+        <author>
+            <name>dlazaro</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Jim Lovell, Apollo 13 commander, has died]]></title>
         <id>https://news.ycombinator.com/item?id=44840582</id>

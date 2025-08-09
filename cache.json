@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=44846281",
+          "author": "dlazaro",
+          "description": "For HTML Day 2025 [1], I made a web service that displays the current sky at your approximate location as a CSS gradient. Colours are simulated on-demand using atmospheric absorption and scattering coefficients. Updates every minute, without the use of client-side JavaScript.\nSource code and additional information is available on GitHub: https://github.com/dnlzro/horizon\n[1] https://html.energy/html-day/2025/index.html\nComments URL: https://news.ycombinator.com/item?id=44846281\nPoints: 502\n# Comments: 104",
+          "link": "https://sky.dlazaro.ca/",
+          "publishedOn": "2025-08-09T13:25:16.000Z",
+          "wordCount": 5,
+          "title": "Show HN: The current sky at your approximate location, as a CSS gradient",
+          "imageUrl": null
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=44840582",
           "author": "LorenDB",
           "description": "Article URL: https://www.nasa.gov/news-release/acting-nasa-administrator-reflects-on-legacy-of-astronaut-jim-lovell/\nComments URL: https://news.ycombinator.com/item?id=44840582\nPoints: 507\n# Comments: 103",
