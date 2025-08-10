@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=44848782",
+          "author": "ducktective",
+          "description": "Article URL: https://www.debian.org/News/2025/20250809\nComments URL: https://news.ycombinator.com/item?id=44848782\nPoints: 518\n# Comments: 196",
+          "link": "https://www.debian.org/News/2025/20250809",
+          "publishedOn": "2025-08-09T18:18:45.000Z",
+          "wordCount": 1667,
+          "title": "Debian 13 \"Trixie\"",
+          "imageUrl": null
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=44846281",
           "author": "dlazaro",
           "description": "For HTML Day 2025 [1], I made a web service that displays the current sky at your approximate location as a CSS gradient. Colours are simulated on-demand using atmospheric absorption and scattering coefficients. Updates every minute, without the use of client-side JavaScript.\nSource code and additional information is available on GitHub: https://github.com/dnlzro/horizon\n[1] https://html.energy/html-day/2025/index.html\nComments URL: https://news.ycombinator.com/item?id=44846281\nPoints: 502\n# Comments: 104",
@@ -13,6 +23,16 @@
           "publishedOn": "2025-08-09T13:25:16.000Z",
           "wordCount": 5,
           "title": "Show HN: The current sky at your approximate location, as a CSS gradient",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=44840728",
+          "author": "superasn",
+          "description": "Sam said yesterday that chatgpt handles ~700M weekly users. Meanwhile, I can't even run a single GPT-4-class model locally without insane VRAM or painfully slow speeds.\nSure, they have huge GPU clusters, but there must be more going on - model optimizations, sharding, custom hardware, clever load balancing, etc.\nWhat engineering tricks make this possible at such massive scale while keeping latency low?\nCurious to hear insights from people who've built large-scale ML systems.\nComments URL: https://news.ycombinator.com/item?id=44840728\nPoints: 503\n# Comments: 327",
+          "link": "https://news.ycombinator.com/item?id=44840728",
+          "publishedOn": "2025-08-08T19:27:28.000Z",
+          "wordCount": 23296,
+          "title": "Ask HN: How can ChatGPT serve 700M users when I can't run one GPT-4 locally?",
           "imageUrl": null
         },
         {
@@ -1204,16 +1224,6 @@
           "wordCount": 2050,
           "title": "ETH Zurich and EPFL to release a LLM developed on public infrastructure",
           "imageUrl": "https://ethz.ch/en/news-and-events/eth-news/news/2025/07/a-language-model-built-for-the-public-good/_jcr_content/pageimages/imageCarousel.imageformat.lightbox.1905958724.jpg"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=44531120",
-          "author": "xbryanx",
-          "description": "Article URL: https://www.nytimes.com/2025/07/10/world/europe/uk-post-office-scandal-report.html\nComments URL: https://news.ycombinator.com/item?id=44531120\nPoints: 502\n# Comments: 432",
-          "link": "https://www.nytimes.com/2025/07/10/world/europe/uk-post-office-scandal-report.html",
-          "publishedOn": "2025-07-11T11:56:19.000Z",
-          "wordCount": null,
-          "title": "At Least 13 People Died by Suicide Amid U.K. Post Office Scandal, Report Says",
-          "imageUrl": null
         }
       ]
     },
@@ -1820,36 +1830,6 @@
           "publishedOn": "2025-07-11T14:12:32.000Z",
           "wordCount": 2059,
           "title": "Ordinary vs Legendary People",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/shorts/Jtlhil-ZrSw",
-          "author": null,
-          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-          "link": "https://www.youtube.com/shorts/Jtlhil-ZrSw",
-          "publishedOn": "2025-07-11T13:50:05.000Z",
-          "wordCount": 2060,
-          "title": "Inside Facebook’s Ruthless Meritocracy",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/shorts/-_rzYoEZdc0",
-          "author": null,
-          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-          "link": "https://www.youtube.com/shorts/-_rzYoEZdc0",
-          "publishedOn": "2025-07-11T13:25:34.000Z",
-          "wordCount": 1985,
-          "title": "50 Lakhs income secret.. coming soon",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/shorts/aRPdjYpTtxc",
-          "author": null,
-          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-          "link": "https://www.youtube.com/shorts/aRPdjYpTtxc",
-          "publishedOn": "2025-07-11T13:06:59.000Z",
-          "wordCount": 2035,
-          "title": "AI Is Replacing These Jobs",
           "imageUrl": null
         }
       ]
