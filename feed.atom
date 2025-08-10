@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-08-10T20:21:40.921Z</updated>
+    <updated>2025-08-10T21:18:26.422Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Fight Chat Control]]></title>
+        <id>https://news.ycombinator.com/item?id=44856426</id>
+        <link href="https://fightchatcontrol.eu/"/>
+        <updated>2025-08-10T16:50:34.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://fightchatcontrol.eu/
+Comments URL: https://news.ycombinator.com/item?id=44856426
+Points: 547
+# Comments: 148]]></summary>
+        <author>
+            <name>tokai</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How I code with AI on a budget/free]]></title>
         <id>https://news.ycombinator.com/item?id=44850913</id>
@@ -2284,19 +2297,6 @@ Points: 513
 # Comments: 654]]></summary>
         <author>
             <name>macawfish</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MacPaint Art from the Mid-80s Still Looks Great Today]]></title>
-        <id>https://news.ycombinator.com/item?id=44540402</id>
-        <link href="https://blog.decryption.net.au/posts/macpaint.html"/>
-        <updated>2025-07-12T08:45:15.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://blog.decryption.net.au/posts/macpaint.html
-Comments URL: https://news.ycombinator.com/item?id=44540402
-Points: 519
-# Comments: 113]]></summary>
-        <author>
-            <name>decryption</name>
         </author>
     </entry>
 </feed>
