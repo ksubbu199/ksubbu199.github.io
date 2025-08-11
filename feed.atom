@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-08-11T05:27:51.428Z</updated>
+    <updated>2025-08-11T06:33:43.971Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -17,6 +17,19 @@ Points: 547
 # Comments: 148]]></summary>
         <author>
             <name>tokai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Try and]]></title>
+        <id>https://news.ycombinator.com/item?id=44855079</id>
+        <link href="https://ygdp.yale.edu/phenomena/try-and"/>
+        <updated>2025-08-10T13:32:13.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://ygdp.yale.edu/phenomena/try-and
+Comments URL: https://news.ycombinator.com/item?id=44855079
+Points: 502
+# Comments: 248]]></summary>
+        <author>
+            <name>treetalker</name>
         </author>
     </entry>
     <entry>
@@ -2297,19 +2310,6 @@ Points: 502
 # Comments: 443]]></summary>
         <author>
             <name>deryilz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Supreme Court's ruling practically wipes out free speech for sex writing online]]></title>
-        <id>https://news.ycombinator.com/item?id=44543865</id>
-        <link href="https://ellsberg.substack.com/p/free-speech"/>
-        <updated>2025-07-12T18:14:37.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://ellsberg.substack.com/p/free-speech
-Comments URL: https://news.ycombinator.com/item?id=44543865
-Points: 513
-# Comments: 654]]></summary>
-        <author>
-            <name>macawfish</name>
         </author>
     </entry>
 </feed>
