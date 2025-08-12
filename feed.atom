@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-08-12T01:39:03.055Z</updated>
+    <updated>2025-08-12T03:17:17.527Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -39,6 +39,19 @@ Points: 647
         <updated>2025-08-11T14:30:23.000Z</updated>
         <author>
             <name>Think School</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Claude Code is all you need]]></title>
+        <id>https://news.ycombinator.com/item?id=44864185</id>
+        <link href="https://dwyer.co.za/static/claude-code-is-all-you-need.html"/>
+        <updated>2025-08-11T14:03:46.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://dwyer.co.za/static/claude-code-is-all-you-need.html
+Comments URL: https://news.ycombinator.com/item?id=44864185
+Points: 509
+# Comments: 285]]></summary>
+        <author>
+            <name>sixhobbits</name>
         </author>
     </entry>
     <entry>
@@ -2313,19 +2326,6 @@ Points: 500
 # Comments: 150]]></summary>
         <author>
             <name>davepeck</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How does a screen work?]]></title>
-        <id>https://news.ycombinator.com/item?id=44550572</id>
-        <link href="https://www.makingsoftware.com/chapters/how-a-screen-works"/>
-        <updated>2025-07-13T14:09:06.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.makingsoftware.com/chapters/how-a-screen-works
-Comments URL: https://news.ycombinator.com/item?id=44550572
-Points: 501
-# Comments: 100]]></summary>
-        <author>
-            <name>chkhd</name>
         </author>
     </entry>
 </feed>
