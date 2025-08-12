@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=44878147",
+          "author": "adocomplete",
+          "description": "Article URL: https://www.anthropic.com/news/1m-context\nComments URL: https://news.ycombinator.com/item?id=44878147\nPoints: 587\n# Comments: 296",
+          "link": "https://www.anthropic.com/news/1m-context",
+          "publishedOn": "2025-08-12T16:02:23.000Z",
+          "wordCount": 4557,
+          "title": "Claude Sonnet 4 now supports 1M tokens of context",
+          "imageUrl": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20NodeWindow&backgroundColor=clay"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=44866208",
           "author": "phlummox",
           "description": "Article URL: https://www.bbc.com/news/articles/cjr11qqvvwlo\nComments URL: https://news.ycombinator.com/item?id=44866208\nPoints: 562\n# Comments: 466",
@@ -1244,16 +1254,6 @@
           "wordCount": 3016,
           "title": "Kiro: A new agentic IDE",
           "imageUrl": "https://kiro.dev/images/blog/introducing-kiro.png"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=44557348",
-          "author": "yashghelani",
-          "description": "Article URL: https://open-web-advocacy.org/blog/apples-browser-engine-ban-persists-even-under-the-dma/\nComments URL: https://news.ycombinator.com/item?id=44557348\nPoints: 500\n# Comments: 363",
-          "link": "https://open-web-advocacy.org/blog/apples-browser-engine-ban-persists-even-under-the-dma/",
-          "publishedOn": "2025-07-14T07:27:02.000Z",
-          "wordCount": 10399,
-          "title": "Apple's Browser Engine Ban Persists, Even Under the DMA",
-          "imageUrl": "https://open-web-advocacy.org/images/og/posts-apples-browser-engine-ban-persists-even-under-the-dma.jpeg"
         }
       ]
     },

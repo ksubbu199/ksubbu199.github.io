@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-08-12T19:16:00.762Z</updated>
+    <updated>2025-08-12T20:22:38.244Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Claude Sonnet 4 now supports 1M tokens of context]]></title>
+        <id>https://news.ycombinator.com/item?id=44878147</id>
+        <link href="https://www.anthropic.com/news/1m-context"/>
+        <updated>2025-08-12T16:02:23.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.anthropic.com/news/1m-context
+Comments URL: https://news.ycombinator.com/item?id=44878147
+Points: 587
+# Comments: 296]]></summary>
+        <author>
+            <name>adocomplete</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Impact Intelligence, addressing common objections]]></title>
         <id>https://martinfowler.com/articles/impact-intel.html#objections</id>
@@ -2337,19 +2350,6 @@ Points: 544
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>Think School</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Apple's Browser Engine Ban Persists, Even Under the DMA]]></title>
-        <id>https://news.ycombinator.com/item?id=44557348</id>
-        <link href="https://open-web-advocacy.org/blog/apples-browser-engine-ban-persists-even-under-the-dma/"/>
-        <updated>2025-07-14T07:27:02.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://open-web-advocacy.org/blog/apples-browser-engine-ban-persists-even-under-the-dma/
-Comments URL: https://news.ycombinator.com/item?id=44557348
-Points: 500
-# Comments: 363]]></summary>
-        <author>
-            <name>yashghelani</name>
         </author>
     </entry>
 </feed>
