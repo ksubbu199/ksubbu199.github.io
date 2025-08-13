@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=44878151",
+          "author": "wilsonzlin",
+          "description": "Article URL: https://blog.wilsonl.in/search-engine/\nComments URL: https://news.ycombinator.com/item?id=44878151\nPoints: 501\n# Comments: 82",
+          "link": "https://blog.wilsonl.in/search-engine/",
+          "publishedOn": "2025-08-12T16:02:40.000Z",
+          "wordCount": 8550,
+          "title": "Show HN: Building a web search engine from scratch with 3B neural embeddings",
+          "imageUrl": null
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=44878147",
           "author": "adocomplete",
           "description": "Article URL: https://www.anthropic.com/news/1m-context\nComments URL: https://news.ycombinator.com/item?id=44878147\nPoints: 587\n# Comments: 296",
@@ -1204,16 +1214,6 @@
           "wordCount": 554,
           "title": "LLM Inevitabilism",
           "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=44565668",
-          "author": "nsagent",
-          "description": "Article URL: https://github.com/ml-explore/mlx/pull/1983\nComments URL: https://news.ycombinator.com/item?id=44565668\nPoints: 503\n# Comments: 178",
-          "link": "https://github.com/ml-explore/mlx/pull/1983",
-          "publishedOn": "2025-07-14T21:40:30.000Z",
-          "wordCount": 4734,
-          "title": "Apple's MLX adding CUDA support",
-          "imageUrl": "https://opengraph.githubassets.com/b9edbaea5322fbab0e1b9ac2883d9ff4a2c622ee5246dae66037518a687edf02/ml-explore/mlx/pull/1983"
         }
       ]
     },

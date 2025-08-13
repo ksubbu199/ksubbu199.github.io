@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-08-13T09:23:19.792Z</updated>
+    <updated>2025-08-13T10:22:12.643Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Building a web search engine from scratch with 3B neural embeddings]]></title>
+        <id>https://news.ycombinator.com/item?id=44878151</id>
+        <link href="https://blog.wilsonl.in/search-engine/"/>
+        <updated>2025-08-12T16:02:40.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://blog.wilsonl.in/search-engine/
+Comments URL: https://news.ycombinator.com/item?id=44878151
+Points: 501
+# Comments: 82]]></summary>
+        <author>
+            <name>wilsonzlin</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Claude Sonnet 4 now supports 1M tokens of context]]></title>
         <id>https://news.ycombinator.com/item?id=44878147</id>
@@ -2275,19 +2288,6 @@ Points: 532
 # Comments: 502]]></summary>
         <author>
             <name>SwoopsFromAbove</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Apple's MLX adding CUDA support]]></title>
-        <id>https://news.ycombinator.com/item?id=44565668</id>
-        <link href="https://github.com/ml-explore/mlx/pull/1983"/>
-        <updated>2025-07-14T21:40:30.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://github.com/ml-explore/mlx/pull/1983
-Comments URL: https://news.ycombinator.com/item?id=44565668
-Points: 503
-# Comments: 178]]></summary>
-        <author>
-            <name>nsagent</name>
         </author>
     </entry>
 </feed>
