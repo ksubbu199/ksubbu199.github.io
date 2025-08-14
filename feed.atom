@@ -2,10 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-08-14T01:41:37.210Z</updated>
+    <updated>2025-08-14T03:20:25.142Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Nginx introduces native support for ACME protocol]]></title>
+        <id>https://news.ycombinator.com/item?id=44889941</id>
+        <link href="https://blog.nginx.org/blog/native-support-for-acme-protocol"/>
+        <updated>2025-08-13T15:41:55.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://blog.nginx.org/blog/native-support-for-acme-protocol
+Comments URL: https://news.ycombinator.com/item?id=44889941
+Points: 528
+# Comments: 183]]></summary>
+        <author>
+            <name>phickey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[This website is for humans]]></title>
+        <id>https://news.ycombinator.com/item?id=44889627</id>
+        <link href="https://localghost.dev/blog/this-website-is-for-humans/"/>
+        <updated>2025-08-13T15:19:53.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://localghost.dev/blog/this-website-is-for-humans/
+Comments URL: https://news.ycombinator.com/item?id=44889627
+Points: 511
+# Comments: 276]]></summary>
+        <author>
+            <name>charles_f</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Payments App That Stops Your Money Leaks]]></title>
         <id>https://www.youtube.com/shorts/cgrRcoUDRmM</id>
@@ -2336,20 +2362,6 @@ Points: 504
 # Comments: 95]]></summary>
         <author>
             <name>cataPhil</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ask HN: Is it time to fork HN into AI/LLM and "Everything else/other?"]]></title>
-        <id>https://news.ycombinator.com/item?id=44571740</id>
-        <link href="https://news.ycombinator.com/item?id=44571740"/>
-        <updated>2025-07-15T14:51:17.000Z</updated>
-        <summary type="html"><![CDATA[I would very much like to enjoy HN the way I did years ago, as a place where I'd discover things that I never otherwise would have come across.
-The increasing AI/LLM domination of the site has made it much less appealing to me.
-Comments URL: https://news.ycombinator.com/item?id=44571740
-Points: 500
-# Comments: 367]]></summary>
-        <author>
-            <name>bookofjoe</name>
         </author>
     </entry>
 </feed>
