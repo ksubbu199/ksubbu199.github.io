@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-08-14T04:29:44.976Z</updated>
+    <updated>2025-08-14T05:21:03.237Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[PYX: The next step in Python packaging]]></title>
+        <id>https://news.ycombinator.com/item?id=44892209</id>
+        <link href="https://astral.sh/blog/introducing-pyx"/>
+        <updated>2025-08-13T18:42:49.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://astral.sh/blog/introducing-pyx
+Comments URL: https://news.ycombinator.com/item?id=44892209
+Points: 507
+# Comments: 283]]></summary>
+        <author>
+            <name>the_mitsuhiko</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Nginx introduces native support for ACME protocol]]></title>
         <id>https://news.ycombinator.com/item?id=44889941</id>
@@ -2338,19 +2351,6 @@ Points: 500
 # Comments: 331]]></summary>
         <author>
             <name>nomaxx117</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Reflections on OpenAI]]></title>
-        <id>https://news.ycombinator.com/item?id=44573195</id>
-        <link href="https://calv.info/openai-reflections"/>
-        <updated>2025-07-15T16:49:06.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://calv.info/openai-reflections
-Comments URL: https://news.ycombinator.com/item?id=44573195
-Points: 504
-# Comments: 273]]></summary>
-        <author>
-            <name>calvinfo</name>
         </author>
     </entry>
 </feed>

@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=44892209",
+          "author": "the_mitsuhiko",
+          "description": "Article URL: https://astral.sh/blog/introducing-pyx\nComments URL: https://news.ycombinator.com/item?id=44892209\nPoints: 507\n# Comments: 283",
+          "link": "https://astral.sh/blog/introducing-pyx",
+          "publishedOn": "2025-08-13T18:42:49.000Z",
+          "wordCount": 2312,
+          "title": "PYX: The next step in Python packaging",
+          "imageUrl": "https://astral.sh/static/OpenGraph/pyx.png"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=44889941",
           "author": "phickey",
           "description": "Article URL: https://blog.nginx.org/blog/native-support-for-acme-protocol\nComments URL: https://news.ycombinator.com/item?id=44889941\nPoints: 528\n# Comments: 183",
@@ -1254,16 +1264,6 @@
           "wordCount": 2484,
           "title": "Cloudflare 1.1.1.1 Incident on July 14, 2025",
           "imageUrl": "https://cf-assets.www.cloudflare.com/zkvhlag99gkb/5b4Uf2Q8Q4HZBH9KFvCXus/ed59089ceafded7b6ed313dff58dbd9b/OG_Share_2024__71_.png"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=44573195",
-          "author": "calvinfo",
-          "description": "Article URL: https://calv.info/openai-reflections\nComments URL: https://news.ycombinator.com/item?id=44573195\nPoints: 504\n# Comments: 273",
-          "link": "https://calv.info/openai-reflections",
-          "publishedOn": "2025-07-15T16:49:06.000Z",
-          "wordCount": 3924,
-          "title": "Reflections on OpenAI",
-          "imageUrl": "https://calv.info/api/og?title=Reflections%20on%20OpenAI"
         }
       ]
     },
