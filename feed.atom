@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-08-14T03:20:25.142Z</updated>
+    <updated>2025-08-14T04:29:44.976Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -86,6 +86,18 @@ Points: 511
 # Comments: 400]]></summary>
         <author>
             <name>pr337h4m</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[VC-backed company just killed my EU trademark for a small OSS project]]></title>
+        <id>https://news.ycombinator.com/item?id=44883634</id>
+        <link href="https://news.ycombinator.com/item?id=44883634"/>
+        <updated>2025-08-13T01:14:36.000Z</updated>
+        <summary type="html"><![CDATA[I run a small open-source project Deepkit (Trademark 017875717) I've been building for many years. It's not huge, just a few thousand users compared to the big OSS names, but to me it was worth protecting, so I trademarked the name in the EU and US a few years back. I had hoped to be protected from other corporations this way and live peacefully.
+A $160M-funded company named Deepki (Trademark 1751952) came along and filed for cancellation at EUIPO since they needed the trademark now after getting lots of funding. They won. Now my trademark is gone.
+The frustrating part? The EU actually does allow open-source (even free projects) to have trademarks, but you have to prove "genuine use" in the EU for the goods/services your trademark covers. Which seems to force you in collecting user sensiti…]]></summary>
+        <author>
+            <name>marcjschmidt</name>
         </author>
     </entry>
     <entry>
@@ -2339,29 +2351,6 @@ Points: 504
 # Comments: 273]]></summary>
         <author>
             <name>calvinfo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[IIM vs Scaler]]></title>
-        <id>https://www.youtube.com/shorts/16o4KgNVBeI</id>
-        <link href="https://www.youtube.com/shorts/16o4KgNVBeI"/>
-        <updated>2025-07-15T16:09:52.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Think School</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: Shoggoth Mini – A soft tentacle robot powered by GPT-4o and RL]]></title>
-        <id>https://news.ycombinator.com/item?id=44572377</id>
-        <link href="https://www.matthieulc.com/posts/shoggoth-mini"/>
-        <updated>2025-07-15T15:46:41.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.matthieulc.com/posts/shoggoth-mini
-Comments URL: https://news.ycombinator.com/item?id=44572377
-Points: 504
-# Comments: 95]]></summary>
-        <author>
-            <name>cataPhil</name>
         </author>
     </entry>
 </feed>
