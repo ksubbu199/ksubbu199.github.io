@@ -6,6 +6,26 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=44911423",
+          "author": "rcarmo",
+          "description": "Article URL: https://www.josefprusa.com/articles/open-hardware-in-3d-printing-is-dead/\nComments URL: https://news.ycombinator.com/item?id=44911423\nPoints: 609\n# Comments: 374",
+          "link": "https://www.josefprusa.com/articles/open-hardware-in-3d-printing-is-dead/",
+          "publishedOn": "2025-08-15T12:14:46.000Z",
+          "wordCount": 1472,
+          "title": "Open hardware desktop 3D printing is dead?",
+          "imageUrl": "https://www.josefprusa.com/og/article/open-hardware-in-3d-printing-is-dead.png"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=44900116",
+          "author": "srid",
+          "description": "Article URL: https://zed.dev/blog/why-llms-cant-build-software\nComments URL: https://news.ycombinator.com/item?id=44900116\nPoints: 782\n# Comments: 464",
+          "link": "https://zed.dev/blog/why-llms-cant-build-software",
+          "publishedOn": "2025-08-14T13:26:09.000Z",
+          "wordCount": 7016,
+          "title": "Why LLMs can't really build software",
+          "imageUrl": "https://zed.dev/api/og?title=Why%20LLMs%20Can%27t%20Really%20Build%20Software"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=44892209",
           "author": "the_mitsuhiko",
           "description": "Article URL: https://astral.sh/blog/introducing-pyx\nComments URL: https://news.ycombinator.com/item?id=44892209\nPoints: 507\n# Comments: 283",
@@ -103,6 +123,16 @@
           "publishedOn": "2025-08-12T14:56:53.000Z",
           "wordCount": 6290,
           "title": "Why are there so many rationalist cults?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=44875848",
+          "author": "ingve",
+          "description": "Article URL: https://www.seangoedecke.com/model-on-a-mbp/\nComments URL: https://news.ycombinator.com/item?id=44875848\nPoints: 549\n# Comments: 188",
+          "link": "https://www.seangoedecke.com/model-on-a-mbp/",
+          "publishedOn": "2025-08-12T13:15:34.000Z",
+          "wordCount": 2197,
+          "title": "What's the strongest AI model you can train on a laptop in five minutes?",
           "imageUrl": null
         },
         {

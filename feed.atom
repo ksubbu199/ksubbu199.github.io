@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-08-15T22:19:01.196Z</updated>
+    <updated>2025-08-15T23:18:26.725Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Open hardware desktop 3D printing is dead?]]></title>
+        <id>https://news.ycombinator.com/item?id=44911423</id>
+        <link href="https://www.josefprusa.com/articles/open-hardware-in-3d-printing-is-dead/"/>
+        <updated>2025-08-15T12:14:46.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.josefprusa.com/articles/open-hardware-in-3d-printing-is-dead/
+Comments URL: https://news.ycombinator.com/item?id=44911423
+Points: 609
+# Comments: 374]]></summary>
+        <author>
+            <name>rcarmo</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[New trend: extreme hours at AI startups]]></title>
         <id>689e0d3f66ded000013c6156</id>
@@ -14,6 +27,19 @@
         <summary type="html"><![CDATA[Pulling 80+ hour work weeks – including weekends – is becoming the norm across AI startups, and is unlikely to stop while AI is so hot.]]></summary>
         <author>
             <name>Gergely Orosz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why LLMs can't really build software]]></title>
+        <id>https://news.ycombinator.com/item?id=44900116</id>
+        <link href="https://zed.dev/blog/why-llms-cant-build-software"/>
+        <updated>2025-08-14T13:26:09.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://zed.dev/blog/why-llms-cant-build-software
+Comments URL: https://news.ycombinator.com/item?id=44900116
+Points: 782
+# Comments: 464]]></summary>
+        <author>
+            <name>srid</name>
         </author>
     </entry>
     <entry>
@@ -183,6 +209,19 @@ Points: 502
 # Comments: 813]]></summary>
         <author>
             <name>glenstein</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What's the strongest AI model you can train on a laptop in five minutes?]]></title>
+        <id>https://news.ycombinator.com/item?id=44875848</id>
+        <link href="https://www.seangoedecke.com/model-on-a-mbp/"/>
+        <updated>2025-08-12T13:15:34.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.seangoedecke.com/model-on-a-mbp/
+Comments URL: https://news.ycombinator.com/item?id=44875848
+Points: 549
+# Comments: 188]]></summary>
+        <author>
+            <name>ingve</name>
         </author>
     </entry>
     <entry>
