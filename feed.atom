@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-08-18T14:20:37.897Z</updated>
+    <updated>2025-08-18T15:22:20.469Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Bliki: Expansion Joints]]></title>
+        <id>https://martinfowler.com/bliki/ExpansionJoints.html</id>
+        <link href="https://martinfowler.com/bliki/ExpansionJoints.html"/>
+        <updated>2025-08-18T04:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Back in the days when I did live talks, one of my abilities was to finish
+  on time, even if my talk time was cut at the last moment (perhaps due to the
+  prior speaker running over). The key to my ability to do this was to use
+  Expansion Joints - parts of the talk that I'd
+  pre-planned so I could cover them quickly or slowly depending on how much time
+  I had.
+The way I'd do this would be to plan for some topics to be optional. The
+  talk would work if I skipped over them, but I could also witter on about them
+  for five (or ten) minutes. Ideally, each of these topics would get one slide,
+  usually with a bunch of key phrases on it - the headings of what I'd talk
+  about should I be talking about it. When I got to the slide, I'd look at how
+  time was going with the talk. If (as was usu…]]></summary>
+        <author>
+            <name>Martin Fowler</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Launching at 12pm… #thinkschool #nvidia]]></title>
         <id>https://www.youtube.com/shorts/mFxgSkOER3Q</id>
