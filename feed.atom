@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-08-18T15:22:20.469Z</updated>
+    <updated>2025-08-18T16:26:35.602Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -44,6 +44,19 @@ The way I'd do this would be to plan for some topics to be optional. The
         <updated>2025-08-17T01:39:14.000Z</updated>
         <author>
             <name>Hussein Nasser</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Do things that don't scale, and then don't scale]]></title>
+        <id>https://news.ycombinator.com/item?id=44925380</id>
+        <link href="https://derwiki.medium.com/do-things-that-dont-scale-and-then-don-t-scale-9fd2cd7e2156"/>
+        <updated>2025-08-16T17:33:08.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://derwiki.medium.com/do-things-that-dont-scale-and-then-don-t-scale-9fd2cd7e2156
+Comments URL: https://news.ycombinator.com/item?id=44925380
+Points: 500
+# Comments: 205]]></summary>
+        <author>
+            <name>derwiki</name>
         </author>
     </entry>
     <entry>
