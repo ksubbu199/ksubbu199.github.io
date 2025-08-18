@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-08-18T19:16:36.552Z</updated>
+    <updated>2025-08-18T20:20:06.178Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Anna's Archive: An Update from the Team]]></title>
+        <id>https://news.ycombinator.com/item?id=44942501</id>
+        <link href="https://annas-archive.org/blog/an-update-from-the-team.html"/>
+        <updated>2025-08-18T16:31:48.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://annas-archive.org/blog/an-update-from-the-team.html
+Comments URL: https://news.ycombinator.com/item?id=44942501
+Points: 599
+# Comments: 246]]></summary>
+        <author>
+            <name>jerheinze</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Web apps in a single, portable, self-updating, vanilla HTML file]]></title>
         <id>https://news.ycombinator.com/item?id=44937991</id>
