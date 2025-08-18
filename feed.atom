@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-08-17T23:18:13.250Z</updated>
+    <updated>2025-08-18T01:47:09.465Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -35,6 +35,32 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Good system design]]></title>
+        <id>https://news.ycombinator.com/item?id=44921137</id>
+        <link href="https://www.seangoedecke.com/good-system-design/"/>
+        <updated>2025-08-16T07:38:46.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.seangoedecke.com/good-system-design/
+Comments URL: https://news.ycombinator.com/item?id=44921137
+Points: 866
+# Comments: 374]]></summary>
+        <author>
+            <name>dondraper36</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The future of large files in Git is Git]]></title>
+        <id>https://news.ycombinator.com/item?id=44916783</id>
+        <link href="https://tylercipriani.com/blog/2025/08/15/git-lfs/"/>
+        <updated>2025-08-15T20:07:06.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://tylercipriani.com/blog/2025/08/15/git-lfs/
+Comments URL: https://news.ycombinator.com/item?id=44916783
+Points: 536
+# Comments: 279]]></summary>
+        <author>
+            <name>thcipriani</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Open hardware desktop 3D printing is dead?]]></title>
         <id>https://news.ycombinator.com/item?id=44911423</id>
         <link href="https://www.josefprusa.com/articles/open-hardware-in-3d-printing-is-dead/"/>
@@ -45,6 +71,32 @@ Points: 609
 # Comments: 374]]></summary>
         <author>
             <name>rcarmo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I accidentally became PureGym’s unofficial Apple Wallet developer]]></title>
+        <id>https://news.ycombinator.com/item?id=44910865</id>
+        <link href="https://drobinin.com/posts/how-i-accidentally-became-puregyms-unofficial-apple-wallet-developer/"/>
+        <updated>2025-08-15T11:06:27.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://drobinin.com/posts/how-i-accidentally-became-puregyms-unofficial-apple-wallet-developer/
+Comments URL: https://news.ycombinator.com/item?id=44910865
+Points: 630
+# Comments: 173]]></summary>
+        <author>
+            <name>valzevul</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Streaming services are driving viewers back to piracy]]></title>
+        <id>https://news.ycombinator.com/item?id=44902797</id>
+        <link href="https://www.theguardian.com/film/2025/aug/14/cant-pay-wont-pay-impoverished-streaming-services-are-driving-viewers-back-to-piracy"/>
+        <updated>2025-08-14T16:56:31.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.theguardian.com/film/2025/aug/14/cant-pay-wont-pay-impoverished-streaming-services-are-driving-viewers-back-to-piracy
+Comments URL: https://news.ycombinator.com/item?id=44902797
+Points: 1092
+# Comments: 899]]></summary>
+        <author>
+            <name>nemoniac</name>
         </author>
     </entry>
     <entry>
