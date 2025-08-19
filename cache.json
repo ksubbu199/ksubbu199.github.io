@@ -56,6 +56,16 @@
           "imageUrl": "https://hyperclay.com/open-graph.png?v=3"
         },
         {
+          "id": "https://news.ycombinator.com/item?id=44932980",
+          "author": "Improvement",
+          "description": "Article URL: https://churchofturing.github.io/the-enterprise-experience.html\nComments URL: https://news.ycombinator.com/item?id=44932980\nPoints: 500\n# Comments: 148",
+          "link": "https://churchofturing.github.io/the-enterprise-experience.html",
+          "publishedOn": "2025-08-17T16:53:03.000Z",
+          "wordCount": 2245,
+          "title": "The Enterprise Experience",
+          "imageUrl": null
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=44931824",
           "author": "nextdns",
           "description": "We just shipped a new feature in NextDNS: Bypass Age Verification.\nMore and more sites (especially adult ones) are now forcing users to upload IDs or selfies to continue. We think that’s a terrible idea: handing over government documents to random sites is a huge privacy risk.\nThis new setting workarounds those verification flows via DNS tricks. It’s available today to all users, including free accounts.\nWe’re curious how the HN community feels about this. Is it the right way to protect privacy online, or will it just provoke regulators to push harder?\nhttps://nextdns.io\nComments URL: https://news.ycombinator.com/item?id=44931824\nPoints: 500\n# Comments: 175",
@@ -1460,6 +1470,16 @@
           "publishedOn": "2025-07-22T08:08:00.000Z",
           "wordCount": 684,
           "title": "Who is LLM",
+          "imageUrl": "https://martinfowler.com/logo-sq.png"
+        },
+        {
+          "id": "https://martinfowler.com/articles/20250721-links.html",
+          "author": null,
+          "description": "Korny Sietsma has a great example of how using an LLM for coding is very helpful but with limitations…\nand a thoughtful general essay on why the hype and the immovable skeptics are both missing the train.\nWhile here, a professor of poetry ponders (gift link) on the value and limits of AI with writing:\nOne of the real challenges here is the way that A.I. undermines the human value of attention, and the individuality that flows from that.\nWhat we stand to lose is not just a skill but a mode of being: the pleasure of invention, the felt life of the mind at work.",
+          "link": "https://martinfowler.com/articles/20250721-links.html",
+          "publishedOn": "2025-07-21T18:58:00.000Z",
+          "wordCount": 199,
+          "title": "Generative AI in software and essaying",
           "imageUrl": "https://martinfowler.com/logo-sq.png"
         }
       ]
