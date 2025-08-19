@@ -16,6 +16,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://news.ycombinator.com/item?id=44942731",
+          "author": "braden-w",
+          "description": "Hey HN! Braden here, creator of Whispering, an open-source speech-to-text app.\nI really like dictation. For years, I relied on transcription tools that were almost good, but they were all closed-source. Even a lot of them that claimed to be “local” or “on-device” were still black boxes that left me wondering where my audio really went.\nSo I built Whispering. It’s open-source, local-first, and most importantly, transparent with your data.   Your data is stored locally on your device, and your audio goes directly from your machine to a local provider (Whisper C++, Speaches, etc.) or your chosen cloud provider (Groq, OpenAI, ElevenLabs, etc.). For me, the features were good enough that I left my paid tools behind (I used Superwhisper and Wispr Flow before).\nProductivity apps should be open-so…",
+          "link": "https://github.com/epicenter-so/epicenter/tree/main/apps/whispering",
+          "publishedOn": "2025-08-18T16:52:29.000Z",
+          "wordCount": 13577,
+          "title": "Show HN: Whispering – Open-source, local-first dictation you can trust",
+          "imageUrl": "https://opengraph.githubassets.com/8025e1d9ef14eb694ba907f8d6a3e1aaa01d4fe3fc0551cab10d8ed328abcab5/epicenter-so/epicenter"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=44942501",
           "author": "jerheinze",
           "description": "Article URL: https://annas-archive.org/blog/an-update-from-the-team.html\nComments URL: https://news.ycombinator.com/item?id=44942501\nPoints: 599\n# Comments: 246",
