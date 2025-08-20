@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-08-20T22:17:30.207Z</updated>
+    <updated>2025-08-20T23:17:16.672Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -86,6 +86,19 @@ Points: 513
 # Comments: 230]]></summary>
         <author>
             <name>ghuntley</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Draw a Space Invader]]></title>
+        <id>https://news.ycombinator.com/item?id=44956915</id>
+        <link href="https://muffinman.io/blog/invaders/"/>
+        <updated>2025-08-19T22:41:16.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://muffinman.io/blog/invaders/
+Comments URL: https://news.ycombinator.com/item?id=44956915
+Points: 501
+# Comments: 52]]></summary>
+        <author>
+            <name>abdusco</name>
         </author>
     </entry>
     <entry>
@@ -2386,19 +2399,6 @@ Points: 516
 # Comments: 640]]></summary>
         <author>
             <name>layer8</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Firefox]]></title>
-        <id>https://news.ycombinator.com/item?id=44645353</id>
-        <link href="https://kau.sh/blog/how-to-firefox/"/>
-        <updated>2025-07-22T10:51:30.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://kau.sh/blog/how-to-firefox/
-Comments URL: https://news.ycombinator.com/item?id=44645353
-Points: 505
-# Comments: 289]]></summary>
-        <author>
-            <name>Vinnl</name>
         </author>
     </entry>
 </feed>
