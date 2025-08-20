@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-08-20T06:30:01.061Z</updated>
+    <updated>2025-08-20T07:19:00.207Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -2375,20 +2375,6 @@ Points: 500
 # Comments: 168]]></summary>
         <author>
             <name>Bluestein</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Generative AI in software and essaying]]></title>
-        <id>https://martinfowler.com/articles/20250721-links.html</id>
-        <link href="https://martinfowler.com/articles/20250721-links.html"/>
-        <updated>2025-07-21T18:58:00.000Z</updated>
-        <summary type="html"><![CDATA[Korny Sietsma has a great example of how using an LLM for coding is very helpful but with limitations…
-and a thoughtful general essay on why the hype and the immovable skeptics are both missing the train.
-While here, a professor of poetry ponders (gift link) on the value and limits of AI with writing:
-One of the real challenges here is the way that A.I. undermines the human value of attention, and the individuality that flows from that.
-What we stand to lose is not just a skill but a mode of being: the pleasure of invention, the felt life of the mind at work.]]></summary>
-        <author>
-            <name>Martin Fowler</name>
         </author>
     </entry>
 </feed>
