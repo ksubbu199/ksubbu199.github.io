@@ -6,6 +6,26 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=44957454",
+          "author": "Sayrus",
+          "description": "Article URL: https://pistachioapp.com/blog/copilot-broke-your-audit-log\nComments URL: https://news.ycombinator.com/item?id=44957454\nPoints: 504\n# Comments: 172",
+          "link": "https://pistachioapp.com/blog/copilot-broke-your-audit-log",
+          "publishedOn": "2025-08-20T00:18:00.000Z",
+          "wordCount": 3837,
+          "title": "Copilot broke audit logs, but Microsoft won't tell customers",
+          "imageUrl": "https://pistachioapp.com/bucket/images/website/blog/posts/copilot-broke-your-audit-log/desktop_v2.jpg"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=44957443",
+          "author": "ghuntley",
+          "description": "Article URL: https://agents.md/\nComments URL: https://news.ycombinator.com/item?id=44957443\nPoints: 513\n# Comments: 230",
+          "link": "https://agents.md/",
+          "publishedOn": "2025-08-20T00:15:03.000Z",
+          "wordCount": 705,
+          "title": "AGENTS.md – Open format for guiding coding agents",
+          "imageUrl": "https://agents.md/og.png"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=44953032",
           "author": "spiridow",
           "description": "Article URL: https://research.kudelskisecurity.com/2025/08/19/how-we-exploited-coderabbit-from-a-simple-pr-to-rce-and-write-access-on-1m-repositories/\nComments URL: https://news.ycombinator.com/item?id=44953032\nPoints: 506\n# Comments: 169",
