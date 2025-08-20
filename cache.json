@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=44953032",
+          "author": "spiridow",
+          "description": "Article URL: https://research.kudelskisecurity.com/2025/08/19/how-we-exploited-coderabbit-from-a-simple-pr-to-rce-and-write-access-on-1m-repositories/\nComments URL: https://news.ycombinator.com/item?id=44953032\nPoints: 506\n# Comments: 169",
+          "link": "https://research.kudelskisecurity.com/2025/08/19/how-we-exploited-coderabbit-from-a-simple-pr-to-rce-and-write-access-on-1m-repositories/",
+          "publishedOn": "2025-08-19T15:55:15.000Z",
+          "wordCount": 8340,
+          "title": "How we exploited CodeRabbit: From simple PR to RCE and write access on 1M repos",
+          "imageUrl": "https://i0.wp.com/research.kudelskisecurity.com/wp-content/uploads/2025/08/digital-rabbit-32.jpg?fit=1200%2C800&ssl=1"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=44946996",
           "author": "rickcarlino",
           "description": "Article URL: https://github.com/ClemensElflein/OpenMower\nComments URL: https://news.ycombinator.com/item?id=44946996\nPoints: 524\n# Comments: 166",
@@ -144,6 +154,16 @@
           "wordCount": 71,
           "title": "Lazy-brush – smooth drawing with mouse or finger",
           "imageUrl": "https://lazybrush.dulnan.net/og.png"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=44914061",
+          "author": "Anon84",
+          "description": "https://embassyofthefreemind.com/en/library/online-catalogue...\nComments URL: https://news.ycombinator.com/item?id=44914061\nPoints: 500\n# Comments: 203",
+          "link": "https://www.openculture.com/2025/08/2178-occult-books-now-digitized-put-online.html",
+          "publishedOn": "2025-08-15T16:03:36.000Z",
+          "wordCount": 6727,
+          "title": "Occult books digitized and put online by Amsterdam’s Ritman Library",
+          "imageUrl": "https://cdn8.openculture.com/2025/08/13222824/Ritman-3-e1517985856162.png"
         },
         {
           "id": "https://news.ycombinator.com/item?id=44911423",
@@ -1314,26 +1334,6 @@
           "wordCount": 2113,
           "title": "Gemini with Deep Think achieves gold-medal standard at the IMO",
           "imageUrl": "https://lh3.googleusercontent.com/Tu0v56OLL1Jy30PUoBzm_P8bZiFi3QhmKuxKF95j8ojB0B8uhHmG1QBRhLF09T5VWtIcIilGO-DXKTHDtGX11BB9OOiYr_w1tFs8bWVpqhIi3_isjg=w1200-h630-n-nu"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=44635808",
-          "author": "wtcactus",
-          "description": "Article URL: https://github.com/KrishKrosh/TrackWeight\nComments URL: https://news.ycombinator.com/item?id=44635808\nPoints: 501\n# Comments: 126",
-          "link": "https://github.com/KrishKrosh/TrackWeight",
-          "publishedOn": "2025-07-21T14:51:13.000Z",
-          "wordCount": 2645,
-          "title": "TrackWeight: Turn your MacBook's trackpad into a digital weighing scale",
-          "imageUrl": "https://opengraph.githubassets.com/14e915ce4a180752b815866b9e553019e1566284ea20ca5a7afaf95ff5579f98/KrishKrosh/TrackWeight"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=44635745",
-          "author": "azalemeth",
-          "description": "Article URL: https://arstechnica.com/tech-policy/2025/07/uk-backing-down-on-apple-encryption-backdoor-after-pressure-from-us/\nComments URL: https://news.ycombinator.com/item?id=44635745\nPoints: 501\n# Comments: 354",
-          "link": "https://arstechnica.com/tech-policy/2025/07/uk-backing-down-on-apple-encryption-backdoor-after-pressure-from-us/",
-          "publishedOn": "2025-07-21T14:46:40.000Z",
-          "wordCount": 2311,
-          "title": "UK backing down on Apple encryption backdoor after pressure from US",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2025/03/apple-encryption-1152x648-1741119084.jpg"
         }
       ]
     },
@@ -1910,16 +1910,6 @@
           "publishedOn": "2025-07-23T14:38:16.000Z",
           "wordCount": 2028,
           "title": "One Project Changes City Prices",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/shorts/WigW83_aoAI",
-          "author": null,
-          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-          "link": "https://www.youtube.com/shorts/WigW83_aoAI",
-          "publishedOn": "2025-07-21T14:23:19.000Z",
-          "wordCount": 2162,
-          "title": "Why Airport Areas See Land Hype",
           "imageUrl": null
         }
       ]

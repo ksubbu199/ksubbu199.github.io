@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-08-20T01:25:55.184Z</updated>
+    <updated>2025-08-20T03:07:48.825Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How we exploited CodeRabbit: From simple PR to RCE and write access on 1M repos]]></title>
+        <id>https://news.ycombinator.com/item?id=44953032</id>
+        <link href="https://research.kudelskisecurity.com/2025/08/19/how-we-exploited-coderabbit-from-a-simple-pr-to-rce-and-write-access-on-1m-repositories/"/>
+        <updated>2025-08-19T15:55:15.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://research.kudelskisecurity.com/2025/08/19/how-we-exploited-coderabbit-from-a-simple-pr-to-rce-and-write-access-on-1m-repositories/
+Comments URL: https://news.ycombinator.com/item?id=44953032
+Points: 506
+# Comments: 169]]></summary>
+        <author>
+            <name>spiridow</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[OpenMower – An open source lawn mower]]></title>
         <id>https://news.ycombinator.com/item?id=44946996</id>
@@ -244,6 +257,19 @@ Points: 507
 # Comments: 64]]></summary>
         <author>
             <name>tvdvd</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Occult books digitized and put online by Amsterdam’s Ritman Library]]></title>
+        <id>https://news.ycombinator.com/item?id=44914061</id>
+        <link href="https://www.openculture.com/2025/08/2178-occult-books-now-digitized-put-online.html"/>
+        <updated>2025-08-15T16:03:36.000Z</updated>
+        <summary type="html"><![CDATA[https://embassyofthefreemind.com/en/library/online-catalogue...
+Comments URL: https://news.ycombinator.com/item?id=44914061
+Points: 500
+# Comments: 203]]></summary>
+        <author>
+            <name>Anon84</name>
         </author>
     </entry>
     <entry>
@@ -2402,42 +2428,6 @@ Points: 500
 # Comments: 228]]></summary>
         <author>
             <name>meetpateltech</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TrackWeight: Turn your MacBook's trackpad into a digital weighing scale]]></title>
-        <id>https://news.ycombinator.com/item?id=44635808</id>
-        <link href="https://github.com/KrishKrosh/TrackWeight"/>
-        <updated>2025-07-21T14:51:13.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://github.com/KrishKrosh/TrackWeight
-Comments URL: https://news.ycombinator.com/item?id=44635808
-Points: 501
-# Comments: 126]]></summary>
-        <author>
-            <name>wtcactus</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[UK backing down on Apple encryption backdoor after pressure from US]]></title>
-        <id>https://news.ycombinator.com/item?id=44635745</id>
-        <link href="https://arstechnica.com/tech-policy/2025/07/uk-backing-down-on-apple-encryption-backdoor-after-pressure-from-us/"/>
-        <updated>2025-07-21T14:46:40.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://arstechnica.com/tech-policy/2025/07/uk-backing-down-on-apple-encryption-backdoor-after-pressure-from-us/
-Comments URL: https://news.ycombinator.com/item?id=44635745
-Points: 501
-# Comments: 354]]></summary>
-        <author>
-            <name>azalemeth</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why Airport Areas See Land Hype]]></title>
-        <id>https://www.youtube.com/shorts/WigW83_aoAI</id>
-        <link href="https://www.youtube.com/shorts/WigW83_aoAI"/>
-        <updated>2025-07-21T14:23:19.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Think School</name>
         </author>
     </entry>
 </feed>
