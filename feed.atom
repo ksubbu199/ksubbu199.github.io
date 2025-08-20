@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-08-20T21:18:10.028Z</updated>
+    <updated>2025-08-20T22:17:30.207Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -14,6 +14,22 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>Think School</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: I was curious about spherical helix, ended up making this visualization]]></title>
+        <id>https://news.ycombinator.com/item?id=44962066</id>
+        <link href="https://visualrambling.space/moving-objects-in-3d/"/>
+        <updated>2025-08-20T14:02:47.000Z</updated>
+        <summary type="html"><![CDATA[I was wondering how I can arrange objects along a spherical helix path, and read some articles on it.
+I ended up learning about parametric equations again, and make this visualization to document what I learned:
+https://visualrambling.space/moving-objects-in-3d/
+feel free to visit and let me know what you think!
+Comments URL: https://news.ycombinator.com/item?id=44962066
+Points: 534
+# Comments: 99]]></summary>
+        <author>
+            <name>damarberlari</name>
         </author>
     </entry>
     <entry>
