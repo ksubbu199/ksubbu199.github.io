@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-08-20T11:16:31.538Z</updated>
+    <updated>2025-08-20T12:39:09.664Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -2389,38 +2389,6 @@ Points: 505
 # Comments: 283]]></summary>
         <author>
             <name>edent</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[State of HTML 2025 now open!]]></title>
-        <id>https://lea.verou.me/blog/2025/state-of-html/</id>
-        <link href="https://lea.verou.me/blog/2025/state-of-html/"/>
-        <updated>2025-07-22T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[tl;dr: State of HTML 2025 survey is now open!
-Take it now
-About two weeks ago, I announced that I was back leading this year’s State of HTML 2025 survey, after a one year hiatus.
-We are grateful for all the suggestions that poured in, they were immensely helpful in shaping the survey.
-After two weeks of hard work from a small team spanning three continents, we are finally ready to launch!
-I would urge each and every one of you that works with the web platform to fill out this survey.
-It’s a unique opportunity to have your voice heard in the browser vendors’ decision-making process.
-Survey results are used by browsers to prioritize roadmaps — the reason Google is funding this.
-The results from State of … surveys directly feed into prioritization for next year’s Interop project.
-Time spent t…]]></summary>
-        <author>
-            <name>Lea Verou’s blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Uv: Running a script with dependencies]]></title>
-        <id>https://news.ycombinator.com/item?id=44641521</id>
-        <link href="https://docs.astral.sh/uv/guides/scripts/#running-a-script-with-dependencies"/>
-        <updated>2025-07-21T23:26:40.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://docs.astral.sh/uv/guides/scripts/#running-a-script-with-dependencies
-Comments URL: https://news.ycombinator.com/item?id=44641521
-Points: 500
-# Comments: 168]]></summary>
-        <author>
-            <name>Bluestein</name>
         </author>
     </entry>
 </feed>
