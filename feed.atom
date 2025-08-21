@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-08-21T05:19:25.730Z</updated>
+    <updated>2025-08-21T06:37:57.921Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -60,6 +60,21 @@ Points: 534
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>Think School</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ask HN: Why does the US Visa application website do a port-scan of my network?]]></title>
+        <id>https://news.ycombinator.com/item?id=44959073</id>
+        <link href="https://news.ycombinator.com/item?id=44959073"/>
+        <updated>2025-08-20T06:03:03.000Z</updated>
+        <summary type="html"><![CDATA[I have recently installed this extension on FF: https://addons.mozilla.org/en-US/firefox/addon/port-authorit... and yesterday I visited this website: https://ceac.state.gov/genniv/ and I got a notification that the website tried to do a port-scan of my private network.
+Is this a common thing? I have just recently installed the extension, so I am not sure if there are a lot of other websites who do it.
+Since looking into it, I noticed that uBlock Origin already has the default list "Block Outsider Intrusion into LAN" but it wasn't enabled.
+Comments URL: https://news.ycombinator.com/item?id=44959073
+Points: 500
+# Comments: 230]]></summary>
+        <author>
+            <name>mbix77</name>
         </author>
     </entry>
     <entry>
@@ -2373,19 +2388,6 @@ Points: 505
 # Comments: 172]]></summary>
         <author>
             <name>danielhanchen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ozzy Osbourne has died]]></title>
-        <id>https://news.ycombinator.com/item?id=44651066</id>
-        <link href="https://www.bbc.co.uk/news/live/cn0qq5nyxn0t"/>
-        <updated>2025-07-22T18:20:47.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.bbc.co.uk/news/live/cn0qq5nyxn0t
-Comments URL: https://news.ycombinator.com/item?id=44651066
-Points: 509
-# Comments: 123]]></summary>
-        <author>
-            <name>fantunes</name>
         </author>
     </entry>
 </feed>
