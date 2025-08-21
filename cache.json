@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=44962529",
+          "author": "taviso",
+          "description": "Article URL: https://lock.cmpxchg8b.com/anubis.html\nComments URL: https://news.ycombinator.com/item?id=44962529\nPoints: 538\n# Comments: 539",
+          "link": "https://lock.cmpxchg8b.com/anubis.html",
+          "publishedOn": "2025-08-20T14:54:45.000Z",
+          "wordCount": 2211,
+          "title": "Why are anime catgirls blocking my access to the Linux kernel?",
+          "imageUrl": null
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=44962066",
           "author": "damarberlari",
           "description": "I was wondering how I can arrange objects along a spherical helix path, and read some articles on it.\nI ended up learning about parametric equations again, and make this visualization to document what I learned:\nhttps://visualrambling.space/moving-objects-in-3d/\nfeel free to visit and let me know what you think!\nComments URL: https://news.ycombinator.com/item?id=44962066\nPoints: 534\n# Comments: 99",
@@ -1294,16 +1304,6 @@
           "wordCount": 4952,
           "title": "Cops say criminals use a Google Pixel with GrapheneOS – I say that's freedom",
           "imageUrl": "https://www.androidauthority.com/wp-content/uploads/2023/02/grapheneos-boot-animation.jpg"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=44653072",
-          "author": "danielhanchen",
-          "description": "Article URL: https://qwenlm.github.io/blog/qwen3-coder/\nComments URL: https://news.ycombinator.com/item?id=44653072\nPoints: 505\n# Comments: 172",
-          "link": "https://qwenlm.github.io/blog/qwen3-coder/",
-          "publishedOn": "2025-07-22T21:12:30.000Z",
-          "wordCount": 2073,
-          "title": "Qwen3-Coder: Agentic coding in the world",
-          "imageUrl": "https://qwenlm.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E"
         }
       ]
     },

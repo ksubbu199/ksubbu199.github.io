@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-08-21T08:25:29.291Z</updated>
+    <updated>2025-08-21T09:20:25.330Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -14,6 +14,19 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>Think School</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why are anime catgirls blocking my access to the Linux kernel?]]></title>
+        <id>https://news.ycombinator.com/item?id=44962529</id>
+        <link href="https://lock.cmpxchg8b.com/anubis.html"/>
+        <updated>2025-08-20T14:54:45.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://lock.cmpxchg8b.com/anubis.html
+Comments URL: https://news.ycombinator.com/item?id=44962529
+Points: 538
+# Comments: 539]]></summary>
+        <author>
+            <name>taviso</name>
         </author>
     </entry>
     <entry>
@@ -2385,19 +2398,6 @@ Points: 508
 # Comments: 379]]></summary>
         <author>
             <name>pabs3</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Qwen3-Coder: Agentic coding in the world]]></title>
-        <id>https://news.ycombinator.com/item?id=44653072</id>
-        <link href="https://qwenlm.github.io/blog/qwen3-coder/"/>
-        <updated>2025-07-22T21:12:30.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://qwenlm.github.io/blog/qwen3-coder/
-Comments URL: https://news.ycombinator.com/item?id=44653072
-Points: 505
-# Comments: 172]]></summary>
-        <author>
-            <name>danielhanchen</name>
         </author>
     </entry>
 </feed>
