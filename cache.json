@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=44976568",
+          "author": "freetonik",
+          "description": "Article URL: https://github.com/ghostty-org/ghostty/pull/8289\nComments URL: https://news.ycombinator.com/item?id=44976568\nPoints: 500\n# Comments: 272",
+          "link": "https://github.com/ghostty-org/ghostty/pull/8289",
+          "publishedOn": "2025-08-21T18:49:57.000Z",
+          "wordCount": 1917,
+          "title": "AI tooling must be disclosed for contributions",
+          "imageUrl": "https://opengraph.githubassets.com/c6d25471bf412ceaef4f5d09f842ce3e020f68d2793cb0950e7d19dca5dad5c7/ghostty-org/ghostty/pull/8289"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=44972151",
           "author": "JustExAWS",
           "description": "Article URL: https://www.theregister.com/2025/08/21/aws_ceo_entry_level_jobs_opinion/\nComments URL: https://news.ycombinator.com/item?id=44972151\nPoints: 1036\n# Comments: 381",
@@ -1324,16 +1334,6 @@
           "wordCount": 6772,
           "title": "You can now disable all AI features in Zed",
           "imageUrl": "https://zed.dev/api/og?title=You%20Can%20Now%20Disable%20All%20AI%20Features%20in%20Zed"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=44658908",
-          "author": "pabs3",
-          "description": "Article URL: https://www.androidauthority.com/why-i-use-grapheneos-on-pixel-3575477/\nComments URL: https://news.ycombinator.com/item?id=44658908\nPoints: 508\n# Comments: 379",
-          "link": "https://www.androidauthority.com/why-i-use-grapheneos-on-pixel-3575477/",
-          "publishedOn": "2025-07-23T13:17:38.000Z",
-          "wordCount": 4952,
-          "title": "Cops say criminals use a Google Pixel with GrapheneOS – I say that's freedom",
-          "imageUrl": "https://www.androidauthority.com/wp-content/uploads/2023/02/grapheneos-boot-animation.jpg"
         }
       ]
     },
