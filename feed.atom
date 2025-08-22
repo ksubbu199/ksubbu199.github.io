@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-08-22T21:16:47.672Z</updated>
+    <updated>2025-08-22T22:17:31.214Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -27,6 +27,19 @@ Points: 510
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>Think School</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Go is still not good]]></title>
+        <id>https://news.ycombinator.com/item?id=44982491</id>
+        <link href="https://blog.habets.se/2025/07/Go-is-still-not-good.html"/>
+        <updated>2025-08-22T09:25:23.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://blog.habets.se/2025/07/Go-is-still-not-good.html
+Comments URL: https://news.ycombinator.com/item?id=44982491
+Points: 500
+# Comments: 665]]></summary>
+        <author>
+            <name>ustad</name>
         </author>
     </entry>
     <entry>
