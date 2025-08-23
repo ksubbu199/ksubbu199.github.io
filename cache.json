@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=44989773",
+          "author": "givemeethekeys",
+          "description": "Article URL: https://www.cnbc.com/2025/08/22/intel-goverment-equity-stake.html\nComments URL: https://news.ycombinator.com/item?id=44989773\nPoints: 506\n# Comments: 575",
+          "link": "https://www.cnbc.com/2025/08/22/intel-goverment-equity-stake.html",
+          "publishedOn": "2025-08-22T21:01:52.000Z",
+          "wordCount": 27080,
+          "title": "U.S. government takes 10% stake in Intel",
+          "imageUrl": "https://image.cnbcfm.com/api/v1/image/108186237-1755201031338-gettyimages-2228936685-TRUMP_TAN_INTEL.jpeg?v=1755885319&w=1920&h=1080"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=44986949",
           "author": "achristmascarl",
           "description": "Article URL: https://www.cnbc.com/2025/08/22/waymo-permit-new-york-city-nyc-rides.html\nComments URL: https://news.ycombinator.com/item?id=44986949\nPoints: 517\n# Comments: 485",
@@ -1493,16 +1503,6 @@
           "publishedOn": "2025-08-14T16:35:32.000Z",
           "wordCount": 2243,
           "title": "New trend: extreme hours at AI startups",
-          "imageUrl": null
-        },
-        {
-          "id": "68827513b0013900017c5097",
-          "author": "Gergely Orosz",
-          "description": "A study into the workflows of experienced developers found that devs who use Cursor for bugfixes are around 19% slower than devs who use no AI tools at all. One possible takeaway is that AI tools can be harder work than we’re led to believe.",
-          "link": "https://blog.pragmaticengineer.com/cursor-makes-developers-less-effective/",
-          "publishedOn": "2025-07-24T18:09:09.000Z",
-          "wordCount": 2488,
-          "title": "Cursor makes developers less effective?",
           "imageUrl": null
         }
       ]
