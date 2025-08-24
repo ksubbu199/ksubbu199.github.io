@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-08-24T15:17:17.458Z</updated>
+    <updated>2025-08-24T16:21:19.509Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[A German ISP changed their DNS to block my website]]></title>
+        <id>https://news.ycombinator.com/item?id=45003033</id>
+        <link href="https://lina.sh/blog/telefonica-sabotages-me"/>
+        <updated>2025-08-24T10:27:19.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://lina.sh/blog/telefonica-sabotages-me
+Comments URL: https://news.ycombinator.com/item?id=45003033
+Points: 533
+# Comments: 298]]></summary>
+        <author>
+            <name>shaunpud</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Why Postgres is Popular]]></title>
         <id>https://www.youtube.com/shorts/1DiVSXsGqoU</id>
