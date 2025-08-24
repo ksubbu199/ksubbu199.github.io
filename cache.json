@@ -1965,7 +1965,18 @@
       "title": "Lea Verou’s blog",
       "feedUrl": "https://lea.verou.me/feed.xml",
       "siteUrl": "https://lea.verou.me/feed.xml",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://lea.verou.me/false",
+          "author": null,
+          "description": "As a trivial example, what is wrong with this function?\n/* Calculate a right triangle's perimeter given its sides */\nfunction get_right_triangle_perimeter(a, b, c) {\n  return a + b + c;\n}\n\nGiven that this is a right triangle, the third side is the hypotenuse, and can be calculated from the other two.\nRequiring users to enter it manually simplifies the implementation, but at the expense of additional user effort.\nAdditionally, this introduces an unnecessary error condition: what happens if the user enters the wrong c?\nContrast with:\n/* Calculate a right triangle's perimeter given its sides */\nfunction get_right_triangle_perimeter(a, b) {\n  return a + b + Math.sqrt(a * a + b * b);\n}\n\nWhen a shorter curve is the right call\nEvery design principle is a rule of thumb, not a hard and fast law.\nSo…",
+          "link": "https://lea.verou.me/false",
+          "publishedOn": "2025-08-24T16:58:55.000Z",
+          "wordCount": null,
+          "title": "Untitled",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "Ben Hoyt's technical writing",
