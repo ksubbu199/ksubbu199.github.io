@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-08-25T04:26:41.851Z</updated>
+    <updated>2025-08-25T05:19:51.381Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -31,6 +31,19 @@ Every design principle is a rule of thumb, not a hard and fast law.
 So…]]></summary>
         <author>
             <name>Lea Verou’s blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Comet AI browser can get prompt injected from any site, drain your bank account]]></title>
+        <id>https://news.ycombinator.com/item?id=45004846</id>
+        <link href="https://twitter.com/zack_overflow/status/1959308058200551721"/>
+        <updated>2025-08-24T15:14:34.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://twitter.com/zack_overflow/status/1959308058200551721
+Comments URL: https://news.ycombinator.com/item?id=45004846
+Points: 506
+# Comments: 177]]></summary>
+        <author>
+            <name>helloplanets</name>
         </author>
     </entry>
     <entry>
