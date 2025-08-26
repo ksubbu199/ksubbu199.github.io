@@ -16,6 +16,16 @@
           "imageUrl": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2025/03/Android-Bot-minifig-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
         },
         {
+          "id": "https://news.ycombinator.com/item?id=45014131",
+          "author": "__bb",
+          "description": "I recently released v3 of Base, my SQLite editor for macOS.\nThe goal of this app is to provide a comfortable native GUI for SQLite, without it turning into a massive IDE-style app.\nThe coolest features are\n- That it can handle full altering of tables, which is quite finicky to do manually with SQLite.\n- It has a more detailed display of column constraints than most editors. Each constraint is shown as an icon if active, with full details available on clicking the icon.\nThis update also adds support for attaching databases, which is a bit fiddly with macOS sandboxing.\nI'd love to hear any feedback or answer any questions.\nComments URL: https://news.ycombinator.com/item?id=45014131\nPoints: 525\n# Comments: 140",
+          "link": "https://menial.co.uk/base/",
+          "publishedOn": "2025-08-25T14:17:38.000Z",
+          "wordCount": 346,
+          "title": "Show HN: Base, an SQLite database editor for macOS",
+          "imageUrl": "https://menial.co.uk/img/base3-icon-256@2x.png"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=45010876",
           "author": "tontonius",
           "description": "Article URL: https://jakub.kr/components/oklch-colors\nComments URL: https://news.ycombinator.com/item?id=45010876\nPoints: 505\n# Comments: 115",
@@ -1293,16 +1303,6 @@
           "publishedOn": "2025-07-27T17:13:25.000Z",
           "wordCount": null,
           "title": "Tom Lehrer has died",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=44701555",
-          "author": "udev4096",
-          "description": "Article URL: https://www.dumbpipe.dev/\nComments URL: https://news.ycombinator.com/item?id=44701555\nPoints: 509\n# Comments: 110",
-          "link": "https://www.dumbpipe.dev/",
-          "publishedOn": "2025-07-27T14:25:47.000Z",
-          "wordCount": 444,
-          "title": "Dumb Pipe",
           "imageUrl": null
         }
       ]
