@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-08-26T09:20:57.510Z</updated>
+    <updated>2025-08-26T10:21:39.028Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -145,6 +145,19 @@ Points: 533
 # Comments: 298]]></summary>
         <author>
             <name>shaunpud</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A visual introduction to big O notation]]></title>
+        <id>https://news.ycombinator.com/item?id=45002182</id>
+        <link href="https://samwho.dev/big-o/"/>
+        <updated>2025-08-24T07:39:36.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://samwho.dev/big-o/
+Comments URL: https://news.ycombinator.com/item?id=45002182
+Points: 505
+# Comments: 149]]></summary>
+        <author>
+            <name>samwho</name>
         </author>
     </entry>
     <entry>
@@ -2415,19 +2428,6 @@ Points: 543
 # Comments: 181]]></summary>
         <author>
             <name>walterbell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EU age verification app to ban any Android system not licensed by Google]]></title>
-        <id>https://news.ycombinator.com/item?id=44705240</id>
-        <link href="https://www.reddit.com/r/degoogle/s/YxmPgFes8a"/>
-        <updated>2025-07-27T22:18:44.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.reddit.com/r/degoogle/s/YxmPgFes8a
-Comments URL: https://news.ycombinator.com/item?id=44705240
-Points: 507
-# Comments: 266]]></summary>
-        <author>
-            <name>cft</name>
         </author>
     </entry>
 </feed>
