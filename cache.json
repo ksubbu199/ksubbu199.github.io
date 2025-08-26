@@ -1284,16 +1284,6 @@
           "wordCount": null,
           "title": "EU age verification app to ban any Android system not licensed by Google",
           "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=44703164",
-          "author": "segfault22",
-          "description": "Hi HN,\nI was evaluating IDEs for a personal project and decided to test Trae, ByteDance's fork of VSCode. I immediately noticed some significant performance and privacy issues that I felt were worth sharing. I've written up a full analysis with screenshots, network logs, and data payloads in the linked post.\nHere are the key findings:\n1. Extreme Resource Consumption:\nOut of the box, Trae used 6.3x more RAM (~5.7 GB) and spawned 3.7x more processes (33 total) than a standard VSCode setup with the same project open. The team has since made improvements, but it's still significantly heavier.\n2. Telemetry Opt-Out Doesn't Work (It Makes It Worse):\nI found Trae was constantly sending data to ByteDance servers (byteoversea.com). I went into the settings and disabled all telemetry. To my surprise, this didn't stop the traffic. In fact, it increased the frequency of batch data collection. The telemetry \"off\" switch appears to be purely cosmetic.\n3. What's Being Sent:\nEven with telemetry \"disabled,\" Trae sends detailed payloads including:\nHardware specs (CPU, memory, etc.)\nPersistent user, device, and machine IDs\nOS version, app language, user name\nGranular usage data like time-on-ide, window focus state, and active file types.\n4. Community Censorship:\nWhen I tried to discuss these findings on their official Discord, my posts were deleted and my account was muted for 7 days. It seems words like \"track\" trigger an automated gag rule, which prevents any real discussion about privacy.\nI believe developers should be aware of this behavior. The combination of resource drain, non-functional privacy settings, and censorship of technical feedback is a major red flag. The full, detailed analysis with all the evidence (process lists, Fiddler captures, JSON payloads, and screenshots of the Discord moderation) is available at the link. Happy to answer any questions.\nComments URL: https://news.ycombinator.com/item?id=44703164\nPoints: 532\n# Comments: 188",
-          "link": "https://github.com/segmentationf4u1t/trae_telemetry_research",
-          "publishedOn": "2025-07-27T17:57:06.000Z",
-          "wordCount": 5245,
-          "title": "Performance and Telemetry Analysis of Trae IDE, ByteDance's VSCode Fork",
-          "imageUrl": "https://opengraph.githubassets.com/4f4b325cc880086e55110ae9e8bd78a8869fa1ccf880076c2b96e77d7384d5be/segmentationf4u1t/trae_telemetry_research"
         }
       ]
     },

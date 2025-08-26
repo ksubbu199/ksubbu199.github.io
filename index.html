@@ -5533,44 +5533,6 @@ Points: 507
                         </a>
                       </details>
                     </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://news.ycombinator.com/item?id&#x3D;44703164"
-                        open
-                      >
-                        <summary class="article-expander__title">Performance and Telemetry Analysis of Trae IDE, ByteDance&#x27;s VSCode Fork</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://github.com/segmentationf4u1t/trae_telemetry_research">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://opengraph.githubassets.com/4f4b325cc880086e55110ae9e8bd78a8869fa1ccf880076c2b96e77d7384d5be/segmentationf4u1t/trae_telemetry_research" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>Hi HN,
-I was evaluating IDEs for a personal project and decided to test Trae, ByteDance&#x27;s fork of VSCode. I immediately noticed some significant performance and privacy issues that I felt were worth sharing. I&#x27;ve written up a full analysis with screenshots, network logs, and data payloads in the linked post.
-Here are the key findings:
-1. Extreme Resource Consumption:
-Out of the box, Trae used 6.3x more RAM (~5.7 GB) and spawned 3.7x more processes (33 total) than a standard VSCode setup with the same project open. The team has since made improvements, but it&#x27;s still significantly heavier.
-2. Telemetry Opt-Out Doesn&#x27;t Work (It Makes It Worse):
-I found Trae was constantly sending data to ByteDance servers (byteoversea.com). I went into the settings and disabled all telemetry. To my surprise, this didn&#x27;t stop the traffic. In fact, it increased the frequency of batch data collection. The telemetry &quot;off&quot; switch appears to be purely cosmetic.
-3. What&#x27;s Being Sent:
-Even with telemetry &quot;disabled,&quot; Trae sends detailed payloads including:
-Hardware specs (CPU, memory, etc.)
-Persistent user, device, and machine IDs
-OS version, app language, user name
-Granular usage data like time-on-ide, window focus state, and active file types.
-4. Community Censorship:
-When I tried to discuss these findings on their official Discord, my posts were deleted and my account was muted for 7 days. It seems words like &quot;track&quot; trigger an automated gag rule, which prevents any real discussion about privacy.
-I believe developers should be aware of this behavior. The combination of resource drain, non-functional privacy settings, and censorship of technical feedback is a major red flag. The full, detailed analysis with all the evidence (process lists, Fiddler captures, JSON payloads, and screenshots of the Discord moderation) is available at the link. Happy to answer any questions.
-Comments URL: https://news.ycombinator.com/item?id&#x3D;44703164
-Points: 532
-# Comments: 188</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;17
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
                 </section>
               </section>
             </li>
@@ -5578,8 +5540,8 @@ Points: 532
       </section>
 
     <footer>
-      <a class="footer-link" href="https://github.com/ksubbu199/ksubbu199.github.io/actions/runs/17228687772">
-        <time id="build-timestamp" datetime="2025-08-26T05:19:08.227Z">2025-08-26T05:19:08.227Z</time>
+      <a class="footer-link" href="https://github.com/ksubbu199/ksubbu199.github.io/actions/runs/17229928998">
+        <time id="build-timestamp" datetime="2025-08-26T06:30:20.052Z">2025-08-26T06:30:20.052Z</time>
       </a>
       <a class="footer-link" href="https://github.com/osmoscraft/osmosfeed">osmosfeed 1.15.1</a>
     </footer>

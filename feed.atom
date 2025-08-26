@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-08-26T05:19:08.249Z</updated>
+    <updated>2025-08-26T06:30:20.074Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -2428,34 +2428,6 @@ Points: 507
 # Comments: 266]]></summary>
         <author>
             <name>cft</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Performance and Telemetry Analysis of Trae IDE, ByteDance's VSCode Fork]]></title>
-        <id>https://news.ycombinator.com/item?id=44703164</id>
-        <link href="https://github.com/segmentationf4u1t/trae_telemetry_research"/>
-        <updated>2025-07-27T17:57:06.000Z</updated>
-        <summary type="html"><![CDATA[Hi HN,
-I was evaluating IDEs for a personal project and decided to test Trae, ByteDance's fork of VSCode. I immediately noticed some significant performance and privacy issues that I felt were worth sharing. I've written up a full analysis with screenshots, network logs, and data payloads in the linked post.
-Here are the key findings:
-1. Extreme Resource Consumption:
-Out of the box, Trae used 6.3x more RAM (~5.7 GB) and spawned 3.7x more processes (33 total) than a standard VSCode setup with the same project open. The team has since made improvements, but it's still significantly heavier.
-2. Telemetry Opt-Out Doesn't Work (It Makes It Worse):
-I found Trae was constantly sending data to ByteDance servers (byteoversea.com). I went into the settings and disabled all telemetry. To my surprise, this didn't stop the traffic. In fact, it increased the frequency of batch data collection. The telemetry "off" switch appears to be purely cosmetic.
-3. What's Being Sent:
-Even with telemetry "disabled," Trae sends detailed payloads including:
-Hardware specs (CPU, memory, etc.)
-Persistent user, device, and machine IDs
-OS version, app language, user name
-Granular usage data like time-on-ide, window focus state, and active file types.
-4. Community Censorship:
-When I tried to discuss these findings on their official Discord, my posts were deleted and my account was muted for 7 days. It seems words like "track" trigger an automated gag rule, which prevents any real discussion about privacy.
-I believe developers should be aware of this behavior. The combination of resource drain, non-functional privacy settings, and censorship of technical feedback is a major red flag. The full, detailed analysis with all the evidence (process lists, Fiddler captures, JSON payloads, and screenshots of the Discord moderation) is available at the link. Happy to answer any questions.
-Comments URL: https://news.ycombinator.com/item?id=44703164
-Points: 532
-# Comments: 188]]></summary>
-        <author>
-            <name>segfault22</name>
         </author>
     </entry>
 </feed>
