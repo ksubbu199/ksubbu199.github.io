@@ -2,10 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-08-26T18:27:03.175Z</updated>
+    <updated>2025-08-26T19:15:01.998Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Gemini 2.5 Flash Image]]></title>
+        <id>https://news.ycombinator.com/item?id=45026719</id>
+        <link href="https://developers.googleblog.com/en/introducing-gemini-2-5-flash-image/"/>
+        <updated>2025-08-26T14:01:46.000Z</updated>
+        <summary type="html"><![CDATA[Also: https://deepmind.google/models/gemini/image/, 
+https://techcrunch.com/2025/08/26/google-geminis-ai-image-mo...
+Comments URL: https://news.ycombinator.com/item?id=45026719
+Points: 537
+# Comments: 266]]></summary>
+        <author>
+            <name>meetpateltech</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Chatting with Unmesh about building language with LLMs]]></title>
         <id>https://martinfowler.com/articles/convo-llm-abstractions.html</id>
