@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-08-27T09:20:04.445Z</updated>
+    <updated>2025-08-27T10:19:20.078Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -2316,22 +2316,6 @@ Points: 527
 # Comments: 166]]></summary>
         <author>
             <name>hallak</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: Use Their Dd – Use your local UK MP's ID for the online safety act]]></title>
-        <id>https://news.ycombinator.com/item?id=44716106</id>
-        <link href="https://use-their-id.com/"/>
-        <updated>2025-07-28T21:49:10.000Z</updated>
-        <summary type="html"><![CDATA[Hi HN - 
-I made a site that takes a UK postcode, grabs the local MP's information and generates an AI mockup of what their ID might look like.
-It's a small, silly protest at the stupidity of the Online Safety Act that just came into force.
-edit - My open AI credits got hugged to death, please use a known postcode (like one from Kier Starmer's constituency, WC2B6NH) in the meantime.
-Comments URL: https://news.ycombinator.com/item?id=44716106
-Points: 541
-# Comments: 132]]></summary>
-        <author>
-            <name>timje1</name>
         </author>
     </entry>
 </feed>
