@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-08-27T18:26:28.727Z</updated>
+    <updated>2025-08-27T19:16:11.420Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -63,6 +63,17 @@ Points: 512
 # Comments: 105]]></summary>
         <author>
             <name>alsetmusic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Boot.dev Launches the Training Grounds]]></title>
+        <id>https://blog.boot.dev/news/training-grounds-launch/</id>
+        <link href="https://blog.boot.dev/news/training-grounds-launch/"/>
+        <updated>2025-08-27T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[We’ve always said Boot.dev is fun… but we’ve never said it’s easy.
+I mean, it’s not for lack of trying.]]></summary>
+        <author>
+            <name>Boot.dev Blog</name>
         </author>
     </entry>
     <entry>
