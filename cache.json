@@ -1224,16 +1224,6 @@
           "wordCount": 968,
           "title": "My 2.5 year old laptop can write Space Invaders in JavaScript now (GLM-4.5 Air)",
           "imageUrl": "https://static.simonwillison.net/static/2025/space-invaders-card.jpg"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=44719222",
-          "author": "hallak",
-          "description": "Made this website as an exercise in vibe-coding and GCP. It was posted about a few times around the internet, on sites like [Morning Brew](https://www.morningbrew.com/issues/business-buzzkill), [MetaFilter](https://www.metafilter.com/209703/Draw-A-Fish), boingboing.net, etc. I think it's cute!\nI built a basic CNN trained against penises and swastikas, and then anything that doesn't hit the 63% confidence score gets sent to a mod queue, a [vibe-coded fish-tinder](https://bsky.app/profile/bigass.bsky.social/post/3luvikxn3f2...).\nWas a fun exercise, spent about a month on it. Frontend is HTML5 hosted on github pages, backend is Node.JS on GCP.\nComments URL: https://news.ycombinator.com/item?id=44719222\nPoints: 527\n# Comments: 166",
-          "link": "https://drawafish.com/",
-          "publishedOn": "2025-07-29T04:57:22.000Z",
-          "wordCount": 122,
-          "title": "Show HN: Draw a fish and watch it swim with the others",
-          "imageUrl": "https://drawafish.com/public/favicon.ico"
         }
       ]
     },
