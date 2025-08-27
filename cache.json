@@ -1293,6 +1293,16 @@
       "siteUrl": "https://martinfowler.com/feed.atom",
       "articles": [
         {
+          "id": "https://martinfowler.com/articles/research-review-rebuild.html",
+          "author": null,
+          "description": "The Bahmni open-source hospital management system was began over nine\n      years ago with a front end using AngularJS and an OpenMRS REST API.\n      Rahul Ramesh wished to convert this to use a React +\n      TypeScript front end with an HL7 FHIR API. In exploring how to do this\n      modernization he used a structured prompting workflow of Research, Review,\n      and Rebuild - together with Cline, Claude 3.5 Sonnet, Atlassian MCP\n      server, and a filesystem MCP server. Changing a single control would\n      normally take 3–6 days of manual effort, but with these tools was\n      completed in under an hour at a cost of under $2.\nmore…",
+          "link": "https://martinfowler.com/articles/research-review-rebuild.html",
+          "publishedOn": "2025-08-27T14:15:00.000Z",
+          "wordCount": 5458,
+          "title": "Research, Review, Rebuild: Intelligent Modernisation with MCP and Strategic Prompting",
+          "imageUrl": "https://martinfowler.com/articles/research-review-rebuild/card.png"
+        },
+        {
           "id": "https://martinfowler.com/articles/build-own-coding-agent.html",
           "author": null,
           "description": "CLI coding agents are a fundamentally different tool to chatbots or\n      autocomplete tools - they're agents that can read code, run tests, and\n      update a codebase. Ben O'Mahony explains that while\n      commercial tools are impressive, they don't understand the particular\n      context of our environment and the eccentricities of our specific project.\n      Instead we can build our own coding agent by assembling open source tools,\n      using our specific development standards for: testing, documentation\n      production, code reasoning, and file system operations.\nmore…",

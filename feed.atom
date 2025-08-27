@@ -2,10 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-08-27T13:27:35.478Z</updated>
+    <updated>2025-08-27T14:18:04.064Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Research, Review, Rebuild: Intelligent Modernisation with MCP and Strategic Prompting]]></title>
+        <id>https://martinfowler.com/articles/research-review-rebuild.html</id>
+        <link href="https://martinfowler.com/articles/research-review-rebuild.html"/>
+        <updated>2025-08-27T14:15:00.000Z</updated>
+        <summary type="html"><![CDATA[The Bahmni open-source hospital management system was began over nine
+      years ago with a front end using AngularJS and an OpenMRS REST API.
+      Rahul Ramesh wished to convert this to use a React +
+      TypeScript front end with an HL7 FHIR API. In exploring how to do this
+      modernization he used a structured prompting workflow of Research, Review,
+      and Rebuild - together with Cline, Claude 3.5 Sonnet, Atlassian MCP
+      server, and a filesystem MCP server. Changing a single control would
+      normally take 3–6 days of manual effort, but with these tools was
+      completed in under an hour at a cost of under $2.
+more…]]></summary>
+        <author>
+            <name>Martin Fowler</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Building your own CLI Coding Agent with Pydantic-AI]]></title>
         <id>https://martinfowler.com/articles/build-own-coding-agent.html</id>
