@@ -26,6 +26,16 @@
           "imageUrl": "https://www.anthropic.com/api/opengraph-illustration?name=Object%20Browser&backgroundColor=clay"
         },
         {
+          "id": "https://news.ycombinator.com/item?id=45029764",
+          "author": "mikece",
+          "description": "Article URL: https://reclaimthenet.org/michigan-supreme-court-rules-phone-search-warrants-must-be-specific\nComments URL: https://news.ycombinator.com/item?id=45029764\nPoints: 507\n# Comments: 94",
+          "link": "https://reclaimthenet.org/michigan-supreme-court-rules-phone-search-warrants-must-be-specific",
+          "publishedOn": "2025-08-26T17:36:57.000Z",
+          "wordCount": null,
+          "title": "Michigan Supreme Court: Unrestricted phone searches violate Fourth Amendment",
+          "imageUrl": null
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=45029579",
           "author": "CTOSian",
           "description": "Article URL: https://olimex.wordpress.com/2025/08/26/we-regret-but-have-to-temporary-suspend-the-shipments-to-usa/\nComments URL: https://news.ycombinator.com/item?id=45029579\nPoints: 524\n# Comments: 494",
@@ -1282,6 +1292,16 @@
       "feedUrl": "https://martinfowler.com/feed.atom",
       "siteUrl": "https://martinfowler.com/feed.atom",
       "articles": [
+        {
+          "id": "https://martinfowler.com/articles/build-own-coding-agent.html",
+          "author": null,
+          "description": "CLI coding agents are a fundamentally different tool to chatbots or\n      autocomplete tools - they're agents that can read code, run tests, and\n      update a codebase. Ben O'Mahony explains that while\n      commercial tools are impressive, they don't understand the particular\n      context of our environment and the eccentricities of our specific project.\n      Instead we can build our own coding agent by assembling open source tools,\n      using our specific development standards for: testing, documentation\n      production, code reasoning, and file system operations.\nmore…",
+          "link": "https://martinfowler.com/articles/build-own-coding-agent.html",
+          "publishedOn": "2025-08-27T11:50:00.000Z",
+          "wordCount": 3303,
+          "title": "Building your own CLI Coding Agent with Pydantic-AI",
+          "imageUrl": "https://martinfowler.com/logo-sq.png"
+        },
         {
           "id": "https://martinfowler.com/articles/convo-llm-abstractions.html",
           "author": null,

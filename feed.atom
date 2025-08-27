@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-08-27T11:15:51.903Z</updated>
+    <updated>2025-08-27T12:38:20.562Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Building your own CLI Coding Agent with Pydantic-AI]]></title>
+        <id>https://martinfowler.com/articles/build-own-coding-agent.html</id>
+        <link href="https://martinfowler.com/articles/build-own-coding-agent.html"/>
+        <updated>2025-08-27T11:50:00.000Z</updated>
+        <summary type="html"><![CDATA[CLI coding agents are a fundamentally different tool to chatbots or
+      autocomplete tools - they're agents that can read code, run tests, and
+      update a codebase. Ben O'Mahony explains that while
+      commercial tools are impressive, they don't understand the particular
+      context of our environment and the eccentricities of our specific project.
+      Instead we can build our own coding agent by assembling open source tools,
+      using our specific development standards for: testing, documentation
+      production, code reasoning, and file system operations.
+more…]]></summary>
+        <author>
+            <name>Martin Fowler</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Dissecting the Apple M1 GPU, the end]]></title>
         <id>https://news.ycombinator.com/item?id=45034537</id>
@@ -30,6 +48,19 @@ Points: 526
 # Comments: 294]]></summary>
         <author>
             <name>davidbarker</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Michigan Supreme Court: Unrestricted phone searches violate Fourth Amendment]]></title>
+        <id>https://news.ycombinator.com/item?id=45029764</id>
+        <link href="https://reclaimthenet.org/michigan-supreme-court-rules-phone-search-warrants-must-be-specific"/>
+        <updated>2025-08-26T17:36:57.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://reclaimthenet.org/michigan-supreme-court-rules-phone-search-warrants-must-be-specific
+Comments URL: https://news.ycombinator.com/item?id=45029764
+Points: 507
+# Comments: 94]]></summary>
+        <author>
+            <name>mikece</name>
         </author>
     </entry>
     <entry>
