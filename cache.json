@@ -1293,6 +1293,16 @@
       "siteUrl": "https://martinfowler.com/feed.atom",
       "articles": [
         {
+          "id": "https://martinfowler.com/articles/202508-ai-thoughts.html",
+          "author": null,
+          "description": "I’m about to head away from looking after this site for a few weeks (part vacation, part work stuff). As I contemplate some weeks away from the daily routine, I feel an urge to share some scattered thoughts about the state of LLMs and AI.\n                ❄                ❄                ❄                ❄\nI’ve seen a few early surveys on the effect AI is having on software development, is it really speeding folks up, does it improve or wreck code quality? One of the big problems with these surveys is that they aren’t taking into account how people are using the LLMs. From what I can tell the vast majority of LLM usage is fancy auto-complete, often using co-pilot. But those I know who get the most value from LLMs reckon that auto-complete isn’t very useful, preferring approaches that allow…",
+          "link": "https://martinfowler.com/articles/202508-ai-thoughts.html",
+          "publishedOn": "2025-08-28T14:10:00.000Z",
+          "wordCount": 1103,
+          "title": "Some thoughts on LLMs and Software Development",
+          "imageUrl": "https://martinfowler.com/logo-sq.png"
+        },
+        {
           "id": "https://martinfowler.com/articles/black-box-to-blueprint.html",
           "author": null,
           "description": "A common enterprise problem: crucial legacy systems become “black\n      boxes”—key to operations but opaque and risky to touch. Thiyagu\n      Palanisamy and Chandirasekar Thiagarajan worked with a\n      client to use AI-assisted reverse engineering to reconstruct functional\n      specifications from UI elements, binaries, and data lineage to overcome\n      analysis paralysis. They developed a methodical “multi-lens”\n      approach—starting from visible artifacts, enriching incrementally,\n      triangulating logic, and always preserving lineage. Human validation\n      remains central to ensure accuracy and confidence in extracted\n      functionality. This engagement revealed that turning a system from black\n      box to blueprint empowers modernization decisions and accelerates\n      migration efforts.\nmore…",

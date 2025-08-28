@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-08-28T13:28:41.996Z</updated>
+    <updated>2025-08-28T14:18:47.273Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Some thoughts on LLMs and Software Development]]></title>
+        <id>https://martinfowler.com/articles/202508-ai-thoughts.html</id>
+        <link href="https://martinfowler.com/articles/202508-ai-thoughts.html"/>
+        <updated>2025-08-28T14:10:00.000Z</updated>
+        <summary type="html"><![CDATA[I’m about to head away from looking after this site for a few weeks (part vacation, part work stuff). As I contemplate some weeks away from the daily routine, I feel an urge to share some scattered thoughts about the state of LLMs and AI.
+                ❄                ❄                ❄                ❄
+I’ve seen a few early surveys on the effect AI is having on software development, is it really speeding folks up, does it improve or wreck code quality? One of the big problems with these surveys is that they aren’t taking into account how people are using the LLMs. From what I can tell the vast majority of LLM usage is fancy auto-complete, often using co-pilot. But those I know who get the most value from LLMs reckon that auto-complete isn’t very useful, preferring approaches that allow…]]></summary>
+        <author>
+            <name>Martin Fowler</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Selling a Startup: Myth vs Reality]]></title>
         <id>https://www.youtube.com/shorts/yHbMi0UDgKc</id>
