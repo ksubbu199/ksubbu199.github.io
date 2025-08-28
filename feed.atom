@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-08-28T12:37:53.221Z</updated>
+    <updated>2025-08-28T13:28:41.996Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Selling a Startup: Myth vs Reality]]></title>
+        <id>https://www.youtube.com/shorts/yHbMi0UDgKc</id>
+        <link href="https://www.youtube.com/shorts/yHbMi0UDgKc"/>
+        <updated>2025-08-28T12:31:25.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Think School</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[From Black Box to Blueprint]]></title>
         <id>https://martinfowler.com/articles/black-box-to-blueprint.html</id>
@@ -46,6 +56,19 @@ more…]]></summary>
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>Think School</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google has eliminated 35% of managers overseeing small teams in past year]]></title>
+        <id>https://news.ycombinator.com/item?id=45045398</id>
+        <link href="https://www.cnbc.com/2025/08/27/google-executive-says-company-has-cut-a-third-of-its-managers.html"/>
+        <updated>2025-08-27T21:16:56.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.cnbc.com/2025/08/27/google-executive-says-company-has-cut-a-third-of-its-managers.html
+Comments URL: https://news.ycombinator.com/item?id=45045398
+Points: 511
+# Comments: 240]]></summary>
+        <author>
+            <name>frays</name>
         </author>
     </entry>
     <entry>
@@ -2393,19 +2416,6 @@ Points: 556
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>Think School</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[M8.7 earthquake in Western Pacific, tsunami warning issued]]></title>
-        <id>https://news.ycombinator.com/item?id=44729865</id>
-        <link href="https://earthquake.usgs.gov/earthquakes/eventpage/us6000qw60/executive"/>
-        <updated>2025-07-30T00:38:25.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://earthquake.usgs.gov/earthquakes/eventpage/us6000qw60/executive
-Comments URL: https://news.ycombinator.com/item?id=44729865
-Points: 557
-# Comments: 144]]></summary>
-        <author>
-            <name>jandrewrogers</name>
         </author>
     </entry>
 </feed>
