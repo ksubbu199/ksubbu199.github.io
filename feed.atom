@@ -2,10 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-08-28T11:15:48.564Z</updated>
+    <updated>2025-08-28T12:37:53.221Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[From Black Box to Blueprint]]></title>
+        <id>https://martinfowler.com/articles/black-box-to-blueprint.html</id>
+        <link href="https://martinfowler.com/articles/black-box-to-blueprint.html"/>
+        <updated>2025-08-28T11:24:00.000Z</updated>
+        <summary type="html"><![CDATA[A common enterprise problem: crucial legacy systems become “black
+      boxes”—key to operations but opaque and risky to touch. Thiyagu
+      Palanisamy and Chandirasekar Thiagarajan worked with a
+      client to use AI-assisted reverse engineering to reconstruct functional
+      specifications from UI elements, binaries, and data lineage to overcome
+      analysis paralysis. They developed a methodical “multi-lens”
+      approach—starting from visible artifacts, enriching incrementally,
+      triangulating logic, and always preserving lineage. Human validation
+      remains central to ensure accuracy and confidence in extracted
+      functionality. This engagement revealed that turning a system from black
+      box to blueprint empowers modernization decisions and accelerates
+      migration efforts.
+more…]]></summary>
+        <author>
+            <name>Martin Fowler</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AI Startups Are Today’s Gold Rush]]></title>
         <id>https://www.youtube.com/shorts/kuPYMFHJ8Lw</id>

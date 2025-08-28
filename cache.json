@@ -1293,6 +1293,16 @@
       "siteUrl": "https://martinfowler.com/feed.atom",
       "articles": [
         {
+          "id": "https://martinfowler.com/articles/black-box-to-blueprint.html",
+          "author": null,
+          "description": "A common enterprise problem: crucial legacy systems become “black\n      boxes”—key to operations but opaque and risky to touch. Thiyagu\n      Palanisamy and Chandirasekar Thiagarajan worked with a\n      client to use AI-assisted reverse engineering to reconstruct functional\n      specifications from UI elements, binaries, and data lineage to overcome\n      analysis paralysis. They developed a methodical “multi-lens”\n      approach—starting from visible artifacts, enriching incrementally,\n      triangulating logic, and always preserving lineage. Human validation\n      remains central to ensure accuracy and confidence in extracted\n      functionality. This engagement revealed that turning a system from black\n      box to blueprint empowers modernization decisions and accelerates\n      migration efforts.\nmore…",
+          "link": "https://martinfowler.com/articles/black-box-to-blueprint.html",
+          "publishedOn": "2025-08-28T11:24:00.000Z",
+          "wordCount": 3417,
+          "title": "From Black Box to Blueprint",
+          "imageUrl": "https://martinfowler.com/articles/black-box-to-blueprint/card.png"
+        },
+        {
           "id": "https://martinfowler.com/articles/research-review-rebuild.html",
           "author": null,
           "description": "The Bahmni open-source hospital management system was began over nine\n      years ago with a front end using AngularJS and an OpenMRS REST API.\n      Rahul Ramesh wished to convert this to use a React +\n      TypeScript front end with an HL7 FHIR API. In exploring how to do this\n      modernization he used a structured prompting workflow of Research, Review,\n      and Rebuild - together with Cline, Claude 3.5 Sonnet, Atlassian MCP\n      server, and a filesystem MCP server. Changing a single control would\n      normally take 3–6 days of manual effort, but with these tools was\n      completed in under an hour at a cost of under $2.\nmore…",
