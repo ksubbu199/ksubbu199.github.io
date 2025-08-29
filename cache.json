@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=45062683",
+          "author": "porridgeraisin",
+          "description": "Article URL: https://www.anthropic.com/news/updates-to-our-consumer-terms\nComments URL: https://news.ycombinator.com/item?id=45062683\nPoints: 599\n# Comments: 394",
+          "link": "https://www.anthropic.com/news/updates-to-our-consumer-terms",
+          "publishedOn": "2025-08-29T11:29:10.000Z",
+          "wordCount": 5876,
+          "title": "Updates to Consumer Terms and Privacy Policy",
+          "imageUrl": "https://www.anthropic.com/api/opengraph-illustration?name=Node%20Multi&backgroundColor=sky"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=45054260",
           "author": "rickybule",
           "description": "Indonesia is currently in chaos. Earlier today, the government blocked access to Twitter & Discord knowing news spread mainly through those channels. Usually we can use Cloudflare's WARP to avoid it, but just today they blocked the access as well. What alternative should we use?\nComments URL: https://news.ycombinator.com/item?id=45054260\nPoints: 532\n# Comments: 309",
