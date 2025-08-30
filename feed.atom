@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-08-30T01:20:31.395Z</updated>
+    <updated>2025-08-30T02:55:35.238Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -2278,41 +2278,6 @@ Points: 507
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>Think School</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[@OpenAI VP on How AI Will Redefine Work ft. Srinivas Narayanan | Indian Business Podcast]]></title>
-        <id>https://www.youtube.com/watch?v=ockrdZal5fA</id>
-        <link href="https://www.youtube.com/watch?v=ockrdZal5fA"/>
-        <updated>2025-07-31T14:30:39.000Z</updated>
-        <author>
-            <name>Think School</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MacBook Pro Insomnia]]></title>
-        <id>https://news.ycombinator.com/item?id=44745897</id>
-        <link href="https://manuel.bernhardt.io/posts/2025-07-24-macbook-pro-insomnia"/>
-        <updated>2025-07-31T14:16:07.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://manuel.bernhardt.io/posts/2025-07-24-macbook-pro-insomnia
-Comments URL: https://news.ycombinator.com/item?id=44745897
-Points: 500
-# Comments: 227]]></summary>
-        <author>
-            <name>speckx</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Partner with the AI, throw away the code]]></title>
-        <id>https://martinfowler.com/articles/exploring-gen-ai/partner-with-ai-and-throw-away-the-code.html</id>
-        <link href="https://martinfowler.com/articles/exploring-gen-ai/partner-with-ai-and-throw-away-the-code.html"/>
-        <updated>2025-07-31T14:16:00.000Z</updated>
-        <summary type="html"><![CDATA[Matteo Vaccari shows why the common metric of AI code
-      acceptance has big hole. An LLM can be helpful even if you throw away its
-      code.
-more…]]></summary>
-        <author>
-            <name>Martin Fowler</name>
         </author>
     </entry>
 </feed>
