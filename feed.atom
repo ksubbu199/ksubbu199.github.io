@@ -2,10 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-08-30T06:24:56.674Z</updated>
+    <updated>2025-08-30T07:15:42.631Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Efficient Layer 7 Proxying]]></title>
+        <id>https://www.youtube.com/watch?v=ugAZsDdmwJQ</id>
+        <link href="https://www.youtube.com/watch?v=ugAZsDdmwJQ"/>
+        <updated>2025-08-30T07:01:01.000Z</updated>
+        <author>
+            <name>Hussein Nasser</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Upgrading to MySQL 8? Watch out for this]]></title>
+        <id>https://www.youtube.com/shorts/YQrhWZ_2_Ak</id>
+        <link href="https://www.youtube.com/shorts/YQrhWZ_2_Ak"/>
+        <updated>2025-08-30T07:00:29.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Hussein Nasser</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Do the simplest thing that could possibly work]]></title>
         <id>https://news.ycombinator.com/item?id=45068091</id>
@@ -2255,19 +2274,6 @@ Points: 500
 # Comments: 788]]></summary>
         <author>
             <name>rbanffy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Slow]]></title>
-        <id>https://news.ycombinator.com/item?id=44748934</id>
-        <link href="https://michaelnotebook.com/slow/index.html"/>
-        <updated>2025-07-31T19:00:58.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://michaelnotebook.com/slow/index.html
-Comments URL: https://news.ycombinator.com/item?id=44748934
-Points: 518
-# Comments: 126]]></summary>
-        <author>
-            <name>calvinfo</name>
         </author>
     </entry>
 </feed>
