@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-08-30T19:13:45.514Z</updated>
+    <updated>2025-08-30T20:18:37.976Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -14,6 +14,19 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>Think School</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cognitive Load is what matters]]></title>
+        <id>https://news.ycombinator.com/item?id=45074248</id>
+        <link href="https://github.com/zakirullin/cognitive-load"/>
+        <updated>2025-08-30T12:58:48.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://github.com/zakirullin/cognitive-load
+Comments URL: https://news.ycombinator.com/item?id=45074248
+Points: 553
+# Comments: 227]]></summary>
+        <author>
+            <name>nromiun</name>
         </author>
     </entry>
     <entry>
@@ -2281,26 +2294,6 @@ Points: 502
         <id>https://www.youtube.com/shorts/nxV5xkVuX8g</id>
         <link href="https://www.youtube.com/shorts/nxV5xkVuX8g"/>
         <updated>2025-08-01T12:30:58.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Think School</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How OpenAI Hires Top Talent?]]></title>
-        <id>https://www.youtube.com/shorts/tf4hO6oeI-E</id>
-        <link href="https://www.youtube.com/shorts/tf4hO6oeI-E"/>
-        <updated>2025-08-01T07:51:06.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Think School</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI Creates But TASTE Decides Everything]]></title>
-        <id>https://www.youtube.com/shorts/cVNAAiv0C4o</id>
-        <link href="https://www.youtube.com/shorts/cVNAAiv0C4o"/>
-        <updated>2025-08-01T07:45:25.000Z</updated>
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>Think School</name>
