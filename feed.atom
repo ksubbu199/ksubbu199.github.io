@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-08-30T23:16:06.353Z</updated>
+    <updated>2025-08-31T01:35:44.676Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -79,6 +79,19 @@ Points: 543
 # Comments: 210]]></summary>
         <author>
             <name>dondraper36</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[John Carmack's arguments against building a custom XR OS at Meta]]></title>
+        <id>https://news.ycombinator.com/item?id=45066395</id>
+        <link href="https://twitter.com/ID_AA_Carmack/status/1961172409920491849"/>
+        <updated>2025-08-29T16:45:21.000Z</updated>
+        <summary type="html"><![CDATA[https://xcancel.com/ID_AA_Carmack/status/1961172409920491849
+Comments URL: https://news.ycombinator.com/item?id=45066395
+Points: 501
+# Comments: 587]]></summary>
+        <author>
+            <name>OlympicMarmoto</name>
         </author>
     </entry>
     <entry>
@@ -2271,29 +2284,6 @@ Points: 501
         <id>https://www.youtube.com/shorts/aCzWyOeS_kU</id>
         <link href="https://www.youtube.com/shorts/aCzWyOeS_kU"/>
         <updated>2025-08-01T14:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Think School</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Live coding interviews measure stress, not coding skills]]></title>
-        <id>https://news.ycombinator.com/item?id=44756045</id>
-        <link href="https://hadid.dev/posts/living-coding/"/>
-        <updated>2025-08-01T12:51:38.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://hadid.dev/posts/living-coding/
-Comments URL: https://news.ycombinator.com/item?id=44756045
-Points: 502
-# Comments: 500]]></summary>
-        <author>
-            <name>mustaphah</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Engineers Must Think Like Founders]]></title>
-        <id>https://www.youtube.com/shorts/nxV5xkVuX8g</id>
-        <link href="https://www.youtube.com/shorts/nxV5xkVuX8g"/>
-        <updated>2025-08-01T12:30:58.000Z</updated>
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>Think School</name>
