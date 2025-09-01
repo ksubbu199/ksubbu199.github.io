@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-09-01T22:17:21.932Z</updated>
+    <updated>2025-09-01T23:16:49.357Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Google AI Overview made up an elaborate story about me]]></title>
+        <id>https://news.ycombinator.com/item?id=45092925</id>
+        <link href="https://bsky.app/profile/bennjordan.bsky.social/post/3lxojrbessk2z"/>
+        <updated>2025-09-01T14:27:17.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://bsky.app/profile/bennjordan.bsky.social/post/3lxojrbessk2z
+Comments URL: https://news.ycombinator.com/item?id=45092925
+Points: 518
+# Comments: 217]]></summary>
+        <author>
+            <name>jsheard</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Why Work Experience Matters Before MBA]]></title>
         <id>https://www.youtube.com/shorts/tQRjVK8NOiY</id>
@@ -2325,19 +2338,6 @@ Points: 518
 # Comments: 233]]></summary>
         <author>
             <name>eustoria</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[If you're remote, ramble]]></title>
-        <id>https://news.ycombinator.com/item?id=44775563</id>
-        <link href="https://stephango.com/ramblings"/>
-        <updated>2025-08-03T10:32:51.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://stephango.com/ramblings
-Comments URL: https://news.ycombinator.com/item?id=44775563
-Points: 533
-# Comments: 323]]></summary>
-        <author>
-            <name>lawgimenez</name>
         </author>
     </entry>
 </feed>

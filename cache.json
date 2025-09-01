@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=45092925",
+          "author": "jsheard",
+          "description": "Article URL: https://bsky.app/profile/bennjordan.bsky.social/post/3lxojrbessk2z\nComments URL: https://news.ycombinator.com/item?id=45092925\nPoints: 518\n# Comments: 217",
+          "link": "https://bsky.app/profile/bennjordan.bsky.social/post/3lxojrbessk2z",
+          "publishedOn": "2025-09-01T14:27:17.000Z",
+          "wordCount": 294,
+          "title": "Google AI Overview made up an elaborate story about me",
+          "imageUrl": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:yhpu2wsyvdbsehluhclpqyyk/bafkreias2y7ysrmry3aa7ybtsks5uopxnrvvqqyqcu6i673tkm7n4giycy@jpeg"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=45087396",
           "author": "K0nserv",
           "description": "Article URL: https://hugotunius.se/2025/08/31/what-every-argument-about-sideloading-gets-wrong.html\nComments URL: https://news.ycombinator.com/item?id=45087396\nPoints: 541\n# Comments: 292",
@@ -1224,16 +1234,6 @@
           "wordCount": 2793,
           "title": "Modern Node.js Patterns",
           "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=44775563",
-          "author": "lawgimenez",
-          "description": "Article URL: https://stephango.com/ramblings\nComments URL: https://news.ycombinator.com/item?id=44775563\nPoints: 533\n# Comments: 323",
-          "link": "https://stephango.com/ramblings",
-          "publishedOn": "2025-08-03T10:32:51.000Z",
-          "wordCount": 492,
-          "title": "If you're remote, ramble",
-          "imageUrl": "https://stephango.com/assets/covers/ramblings.png"
         }
       ]
     },
