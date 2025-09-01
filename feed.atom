@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-09-01T04:27:52.949Z</updated>
+    <updated>2025-09-01T05:19:14.275Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[We should have the ability to run any code we want on hardware we own]]></title>
+        <id>https://news.ycombinator.com/item?id=45087396</id>
+        <link href="https://hugotunius.se/2025/08/31/what-every-argument-about-sideloading-gets-wrong.html"/>
+        <updated>2025-08-31T21:46:26.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://hugotunius.se/2025/08/31/what-every-argument-about-sideloading-gets-wrong.html
+Comments URL: https://news.ycombinator.com/item?id=45087396
+Points: 541
+# Comments: 292]]></summary>
+        <author>
+            <name>K0nserv</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“This telegram must be closely paraphrased before being communicated to anyone”]]></title>
         <id>https://news.ycombinator.com/item?id=45082731</id>
@@ -2273,19 +2286,6 @@ Points: 533
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>Think School</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Telo MT1]]></title>
-        <id>https://news.ycombinator.com/item?id=44769039</id>
-        <link href="https://www.telotrucks.com/"/>
-        <updated>2025-08-02T16:40:51.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.telotrucks.com/
-Comments URL: https://news.ycombinator.com/item?id=44769039
-Points: 507
-# Comments: 460]]></summary>
-        <author>
-            <name>turtleyacht</name>
         </author>
     </entry>
 </feed>
