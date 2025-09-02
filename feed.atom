@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-09-02T17:16:18.427Z</updated>
+    <updated>2025-09-02T18:24:53.334Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -40,6 +40,19 @@ Points: 518
 # Comments: 217]]></summary>
         <author>
             <name>jsheard</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bear is now source-available]]></title>
+        <id>https://news.ycombinator.com/item?id=45092490</id>
+        <link href="https://herman.bearblog.dev/license/"/>
+        <updated>2025-09-01T13:17:56.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://herman.bearblog.dev/license/
+Comments URL: https://news.ycombinator.com/item?id=45092490
+Points: 503
+# Comments: 450]]></summary>
+        <author>
+            <name>neoromantique</name>
         </author>
     </entry>
     <entry>
