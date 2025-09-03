@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-09-03T03:26:24.818Z</updated>
+    <updated>2025-09-03T04:22:14.122Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -17,6 +17,19 @@ Points: 519
 # Comments: 340]]></summary>
         <author>
             <name>colesantiago</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Anthropic raises $13B Series F]]></title>
+        <id>https://news.ycombinator.com/item?id=45104907</id>
+        <link href="https://www.anthropic.com/news/anthropic-raises-series-f-at-usd183b-post-money-valuation"/>
+        <updated>2025-09-02T16:04:15.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.anthropic.com/news/anthropic-raises-series-f-at-usd183b-post-money-valuation
+Comments URL: https://news.ycombinator.com/item?id=45104907
+Points: 504
+# Comments: 505]]></summary>
+        <author>
+            <name>meetpateltech</name>
         </author>
     </entry>
     <entry>
@@ -2251,47 +2264,6 @@ Points: 500
 # Comments: 217]]></summary>
         <author>
             <name>zakki</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: I spent 6 years building a ridiculous wooden pixel display]]></title>
-        <id>https://news.ycombinator.com/item?id=44787902</id>
-        <link href="https://benholmen.com/blog/kilopixel/"/>
-        <updated>2025-08-04T16:16:21.000Z</updated>
-        <summary type="html"><![CDATA[I built the world's most impractical 1000-pixel display and anyone in the world can draw on it. It draws a single pixel at a time and takes 30-60 minutes to complete a single image. Anyone can participate in the project by voting for the next image to be drawn, and submitting images.
-https://kilopx.com/
-Comments URL: https://news.ycombinator.com/item?id=44787902
-Points: 505
-# Comments: 72]]></summary>
-        <author>
-            <name>benholmen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tesla withheld data, lied, misdirected police to avoid blame in Autopilot crash]]></title>
-        <id>https://news.ycombinator.com/item?id=44787780</id>
-        <link href="https://electrek.co/2025/08/04/tesla-withheld-data-lied-misdirected-police-plaintiffs-avoid-blame-autopilot-crash/"/>
-        <updated>2025-08-04T16:07:15.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://electrek.co/2025/08/04/tesla-withheld-data-lied-misdirected-police-plaintiffs-avoid-blame-autopilot-crash/
-Comments URL: https://news.ycombinator.com/item?id=44787780
-Points: 500
-# Comments: 262]]></summary>
-        <author>
-            <name>Hamuko</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Qwen-Image: Crafting with native text rendering]]></title>
-        <id>https://news.ycombinator.com/item?id=44787631</id>
-        <link href="https://qwenlm.github.io/blog/qwen-image/"/>
-        <updated>2025-08-04T15:56:40.000Z</updated>
-        <summary type="html"><![CDATA[https://huggingface.co/Qwen/Qwen-Image
-https://qianwen-res.oss-cn-beijing.aliyuncs.com/Qwen-Image/Q...
-Comments URL: https://news.ycombinator.com/item?id=44787631
-Points: 506
-# Comments: 145]]></summary>
-        <author>
-            <name>meetpateltech</name>
         </author>
     </entry>
 </feed>

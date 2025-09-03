@@ -16,6 +16,16 @@
           "imageUrl": "https://image.cnbcfm.com/api/v1/image/108175922-1753295096051-gettyimages-2215577882-AFP_47H33MP.jpeg?v=1756848866&w=1920&h=1080"
         },
         {
+          "id": "https://news.ycombinator.com/item?id=45104907",
+          "author": "meetpateltech",
+          "description": "Article URL: https://www.anthropic.com/news/anthropic-raises-series-f-at-usd183b-post-money-valuation\nComments URL: https://news.ycombinator.com/item?id=45104907\nPoints: 504\n# Comments: 505",
+          "link": "https://www.anthropic.com/news/anthropic-raises-series-f-at-usd183b-post-money-valuation",
+          "publishedOn": "2025-09-02T16:04:15.000Z",
+          "wordCount": 4883,
+          "title": "Anthropic raises $13B Series F",
+          "imageUrl": "https://www.anthropic.com/api/opengraph-illustration?name=Object%20Growth&backgroundColor=cactus"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=45099922",
           "author": "Bogdanp",
           "description": "Article URL: https://blog.meca.sh/3lxoty3shjc2z\nComments URL: https://news.ycombinator.com/item?id=45099922\nPoints: 503\n# Comments: 262",
@@ -1184,36 +1194,6 @@
           "wordCount": 1679,
           "title": "Monitor your security cameras with locally processed AI",
           "imageUrl": "/images/ui.jpg"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=44787902",
-          "author": "benholmen",
-          "description": "I built the world's most impractical 1000-pixel display and anyone in the world can draw on it. It draws a single pixel at a time and takes 30-60 minutes to complete a single image. Anyone can participate in the project by voting for the next image to be drawn, and submitting images.\nhttps://kilopx.com/\nComments URL: https://news.ycombinator.com/item?id=44787902\nPoints: 505\n# Comments: 72",
-          "link": "https://benholmen.com/blog/kilopixel/",
-          "publishedOn": "2025-08-04T16:16:21.000Z",
-          "wordCount": 2258,
-          "title": "Show HN: I spent 6 years building a ridiculous wooden pixel display",
-          "imageUrl": "https://benholmen.com/assets/images/kilopixel/open-graph.jpg?v=3"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=44787780",
-          "author": "Hamuko",
-          "description": "Article URL: https://electrek.co/2025/08/04/tesla-withheld-data-lied-misdirected-police-plaintiffs-avoid-blame-autopilot-crash/\nComments URL: https://news.ycombinator.com/item?id=44787780\nPoints: 500\n# Comments: 262",
-          "link": "https://electrek.co/2025/08/04/tesla-withheld-data-lied-misdirected-police-plaintiffs-avoid-blame-autopilot-crash/",
-          "publishedOn": "2025-08-04T16:07:15.000Z",
-          "wordCount": 4943,
-          "title": "Tesla withheld data, lied, misdirected police to avoid blame in Autopilot crash",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=44787631",
-          "author": "meetpateltech",
-          "description": "https://huggingface.co/Qwen/Qwen-Image\nhttps://qianwen-res.oss-cn-beijing.aliyuncs.com/Qwen-Image/Q...\nComments URL: https://news.ycombinator.com/item?id=44787631\nPoints: 506\n# Comments: 145",
-          "link": "https://qwenlm.github.io/blog/qwen-image/",
-          "publishedOn": "2025-08-04T15:56:40.000Z",
-          "wordCount": 2527,
-          "title": "Qwen-Image: Crafting with native text rendering",
-          "imageUrl": "https://qwenlm.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E"
         }
       ]
     },
