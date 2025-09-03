@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-09-03T22:16:47.493Z</updated>
+    <updated>2025-09-03T23:16:20.324Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -27,6 +27,19 @@ Points: 519
 # Comments: 340]]></summary>
         <author>
             <name>colesantiago</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A staff engineer's journey with Claude Code]]></title>
+        <id>https://news.ycombinator.com/item?id=45107962</id>
+        <link href="https://www.sanity.io/blog/first-attempt-will-be-95-garbage"/>
+        <updated>2025-09-02T19:34:24.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.sanity.io/blog/first-attempt-will-be-95-garbage
+Comments URL: https://news.ycombinator.com/item?id=45107962
+Points: 500
+# Comments: 363]]></summary>
+        <author>
+            <name>kmelve</name>
         </author>
     </entry>
     <entry>
@@ -2251,16 +2264,6 @@ Points: 675
 more…]]></summary>
         <author>
             <name>Martin Fowler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Indian business podcast]]></title>
-        <id>https://www.youtube.com/shorts/DWTnlMBsV8I</id>
-        <link href="https://www.youtube.com/shorts/DWTnlMBsV8I"/>
-        <updated>2025-08-05T10:52:49.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Think School</name>
         </author>
     </entry>
 </feed>
