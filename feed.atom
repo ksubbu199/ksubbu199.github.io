@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-09-03T14:18:25.940Z</updated>
+    <updated>2025-09-03T15:20:20.368Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -63,6 +63,19 @@ Points: 503
 # Comments: 262]]></summary>
         <author>
             <name>Bogdanp</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Implementing a Foil Sticker Effect]]></title>
+        <id>https://news.ycombinator.com/item?id=45095460</id>
+        <link href="https://www.4rknova.com/blog/2025/08/30/foil-sticker"/>
+        <updated>2025-09-01T18:47:21.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.4rknova.com/blog/2025/08/30/foil-sticker
+Comments URL: https://news.ycombinator.com/item?id=45095460
+Points: 503
+# Comments: 50]]></summary>
+        <author>
+            <name>ibobev</name>
         </author>
     </entry>
     <entry>
