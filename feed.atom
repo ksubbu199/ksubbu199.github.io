@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-09-04T20:19:37.525Z</updated>
+    <updated>2025-09-04T21:16:41.296Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -30,6 +30,16 @@ Points: 525
 # Comments: 178]]></summary>
         <author>
             <name>MaxLeiter</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Create a Course on Boot.dev]]></title>
+        <id>https://blog.boot.dev/create-a-course/</id>
+        <link href="https://blog.boot.dev/create-a-course/"/>
+        <updated>2025-09-04T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[We create most of our courses at Boot.dev in-house, but we also love to collaborate with talented authors! If you’re interested in creating a course for Boot.dev, here’s some preliminary info about how we work:]]></summary>
+        <author>
+            <name>Boot.dev Blog</name>
         </author>
     </entry>
     <entry>
