@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-09-04T19:14:10.562Z</updated>
+    <updated>2025-09-04T20:19:37.525Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Almost anything you give sustained attention to will begin to loop on itself]]></title>
+        <id>https://news.ycombinator.com/item?id=45126503</id>
+        <link href="https://www.henrikkarlsson.xyz/p/attention"/>
+        <updated>2025-09-04T12:29:49.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.henrikkarlsson.xyz/p/attention
+Comments URL: https://news.ycombinator.com/item?id=45126503
+Points: 507
+# Comments: 133]]></summary>
+        <author>
+            <name>jger15</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[30 minutes with a stranger]]></title>
         <id>https://news.ycombinator.com/item?id=45124003</id>
@@ -2206,19 +2219,6 @@ Points: 508
 # Comments: 167]]></summary>
         <author>
             <name>kgwgk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I gave the AI arms and legs then it rejected me]]></title>
-        <id>https://news.ycombinator.com/item?id=44808794</id>
-        <link href="https://grell.dev/blog/ai_rejection"/>
-        <updated>2025-08-06T07:25:43.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://grell.dev/blog/ai_rejection
-Comments URL: https://news.ycombinator.com/item?id=44808794
-Points: 513
-# Comments: 235]]></summary>
-        <author>
-            <name>serhack_</name>
         </author>
     </entry>
 </feed>

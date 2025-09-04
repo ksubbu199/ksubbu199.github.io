@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=45126503",
+          "author": "jger15",
+          "description": "Article URL: https://www.henrikkarlsson.xyz/p/attention\nComments URL: https://news.ycombinator.com/item?id=45126503\nPoints: 507\n# Comments: 133",
+          "link": "https://www.henrikkarlsson.xyz/p/attention",
+          "publishedOn": "2025-09-04T12:29:49.000Z",
+          "wordCount": 8039,
+          "title": "Almost anything you give sustained attention to will begin to loop on itself",
+          "imageUrl": "https://substackcdn.com/image/fetch/$s_!jygJ!,w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2b7fb0ff-d0da-4f32-91f3-f20fb768fc58_1200x841.png"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=45124003",
           "author": "MaxLeiter",
           "description": "Article URL: https://pudding.cool/2025/06/hello-stranger/\nComments URL: https://news.ycombinator.com/item?id=45124003\nPoints: 525\n# Comments: 178",
@@ -1184,16 +1194,6 @@
           "wordCount": 9483,
           "title": "Claude Code IDE integration for Emacs",
           "imageUrl": "https://opengraph.githubassets.com/c3aa32dc2f0be886757d1c0019d3ad7741d4db1e682a9438dd0c09775173fede/manzaltu/claude-code-ide.el"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=44808794",
-          "author": "serhack_",
-          "description": "Article URL: https://grell.dev/blog/ai_rejection\nComments URL: https://news.ycombinator.com/item?id=44808794\nPoints: 513\n# Comments: 235",
-          "link": "https://grell.dev/blog/ai_rejection",
-          "publishedOn": "2025-08-06T07:25:43.000Z",
-          "wordCount": 923,
-          "title": "I gave the AI arms and legs then it rejected me",
-          "imageUrl": "https://grell.dev/assets/img/ai_rejection/1280.jpg"
         }
       ]
     },
