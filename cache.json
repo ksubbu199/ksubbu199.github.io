@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=45116688",
+          "author": "meetpateltech",
+          "description": "Article URL: https://zed.dev/blog/claude-code-via-acp\nComments URL: https://news.ycombinator.com/item?id=45116688\nPoints: 501\n# Comments: 317",
+          "link": "https://zed.dev/blog/claude-code-via-acp",
+          "publishedOn": "2025-09-03T15:07:20.000Z",
+          "wordCount": 8900,
+          "title": "Claude Code: Now in Beta in Zed",
+          "imageUrl": "https://zed.dev/img/post/claude-code-zed/thumbnail.webp"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=45114753",
           "author": "cainxinth",
           "description": "Article URL: https://publichealthpolicyjournal.com/mit-study-finds-artificial-intelligence-use-reprograms-the-brain-leading-to-cognitive-decline/\nComments URL: https://news.ycombinator.com/item?id=45114753\nPoints: 513\n# Comments: 499",
@@ -1184,26 +1194,6 @@
           "wordCount": 4656,
           "title": "Claude Opus 4.1",
           "imageUrl": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20HeadShapes&backgroundColor=clay"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=44798189",
-          "author": "coltonv",
-          "description": "Article URL: https://colton.dev/blog/curing-your-ai-10x-engineer-imposter-syndrome/\nComments URL: https://news.ycombinator.com/item?id=44798189\nPoints: 502\n# Comments: 383",
-          "link": "https://colton.dev/blog/curing-your-ai-10x-engineer-imposter-syndrome/",
-          "publishedOn": "2025-08-05T14:10:42.000Z",
-          "wordCount": 4678,
-          "title": "Things that helped me get out of the AI 10x engineer imposter syndrome",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=44798166",
-          "author": "bradleyg223",
-          "description": "Article URL: https://deepmind.google/discover/blog/genie-3-a-new-frontier-for-world-models/\nComments URL: https://news.ycombinator.com/item?id=44798166\nPoints: 675\n# Comments: 259",
-          "link": "https://deepmind.google/discover/blog/genie-3-a-new-frontier-for-world-models/",
-          "publishedOn": "2025-08-05T14:08:52.000Z",
-          "wordCount": 4259,
-          "title": "Genie 3: A new frontier for world models",
-          "imageUrl": "https://lh3.googleusercontent.com/pXnO9nBpgw0RnwPCDrcbdFqO0cHkaIsQYNuOyXd7L3iFrp0Mr_yLMROiWzz3EqG8W-qq-QzGPTEAs1pr75kX7SzVC-y4jnON7b7P9Bwqd19Nl-bkJYc=w1200-h630-n-nu"
         }
       ]
     },
@@ -1371,16 +1361,6 @@
           "wordCount": 2688,
           "title": "The Reformist CTO’s Guide to Impact Intelligence",
           "imageUrl": "https://martinfowler.com/articles/impact-intel/card.png"
-        },
-        {
-          "id": "https://martinfowler.com/articles/pushing-ai-autonomy.html",
-          "author": null,
-          "description": "Birgitta Böckeler reports on a series of\n      experiments we did to explore how far Generative AI can currently\n      be pushed toward autonomously developing high-quality, up-to-date software\n      without human intervention. As a test case, we created an agentic workflow\n      to build a simple Spring Boot application end to end. We found that the\n      workflow could ultimately generate these simple applications, but still\n      observed significant issues in the results—especially as we increased the\n      complexity. The model would generate features we hadn't asked for, make\n      shifting assumptions around gaps in the requirements, and declare success\n      even when tests were failing. We concluded that while many of our\n      strategies — such as reusable prompts or a reference application — are\n      valuable for enhancing AI-assisted workflows, a human in the loop to\n      supervise generation remains essential.\nmore…",
-          "link": "https://martinfowler.com/articles/pushing-ai-autonomy.html",
-          "publishedOn": "2025-08-05T13:53:00.000Z",
-          "wordCount": 5369,
-          "title": "How far can we push AI autonomy in code generation?",
-          "imageUrl": "https://martinfowler.com/articles/pushing-ai-autonomy/card.png"
         }
       ]
     },

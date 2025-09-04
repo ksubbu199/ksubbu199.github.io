@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-09-04T01:19:41.187Z</updated>
+    <updated>2025-09-04T02:55:21.691Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Claude Code: Now in Beta in Zed]]></title>
+        <id>https://news.ycombinator.com/item?id=45116688</id>
+        <link href="https://zed.dev/blog/claude-code-via-acp"/>
+        <updated>2025-09-03T15:07:20.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://zed.dev/blog/claude-code-via-acp
+Comments URL: https://news.ycombinator.com/item?id=45116688
+Points: 501
+# Comments: 317]]></summary>
+        <author>
+            <name>meetpateltech</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[MIT Study Finds AI Use Reprograms the Brain, Leading to Cognitive Decline]]></title>
         <id>https://news.ycombinator.com/item?id=45114753</id>
@@ -2228,55 +2241,6 @@ Points: 543
         <updated>2025-08-05T15:40:53.000Z</updated>
         <author>
             <name>Think School</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Things that helped me get out of the AI 10x engineer imposter syndrome]]></title>
-        <id>https://news.ycombinator.com/item?id=44798189</id>
-        <link href="https://colton.dev/blog/curing-your-ai-10x-engineer-imposter-syndrome/"/>
-        <updated>2025-08-05T14:10:42.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://colton.dev/blog/curing-your-ai-10x-engineer-imposter-syndrome/
-Comments URL: https://news.ycombinator.com/item?id=44798189
-Points: 502
-# Comments: 383]]></summary>
-        <author>
-            <name>coltonv</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Genie 3: A new frontier for world models]]></title>
-        <id>https://news.ycombinator.com/item?id=44798166</id>
-        <link href="https://deepmind.google/discover/blog/genie-3-a-new-frontier-for-world-models/"/>
-        <updated>2025-08-05T14:08:52.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://deepmind.google/discover/blog/genie-3-a-new-frontier-for-world-models/
-Comments URL: https://news.ycombinator.com/item?id=44798166
-Points: 675
-# Comments: 259]]></summary>
-        <author>
-            <name>bradleyg223</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How far can we push AI autonomy in code generation?]]></title>
-        <id>https://martinfowler.com/articles/pushing-ai-autonomy.html</id>
-        <link href="https://martinfowler.com/articles/pushing-ai-autonomy.html"/>
-        <updated>2025-08-05T13:53:00.000Z</updated>
-        <summary type="html"><![CDATA[Birgitta Böckeler reports on a series of
-      experiments we did to explore how far Generative AI can currently
-      be pushed toward autonomously developing high-quality, up-to-date software
-      without human intervention. As a test case, we created an agentic workflow
-      to build a simple Spring Boot application end to end. We found that the
-      workflow could ultimately generate these simple applications, but still
-      observed significant issues in the results—especially as we increased the
-      complexity. The model would generate features we hadn't asked for, make
-      shifting assumptions around gaps in the requirements, and declare success
-      even when tests were failing. We concluded that while many of our
-      strategies — such as reusable prompts or a reference application — are
-      valuable for enhancing AI-assisted workflows, a human in the loop to
-      supervise generation remains essential.
-more…]]></summary>
-        <author>
-            <name>Martin Fowler</name>
         </author>
     </entry>
 </feed>
