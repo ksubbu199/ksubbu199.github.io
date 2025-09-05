@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-09-05T14:17:14.551Z</updated>
+    <updated>2025-09-05T15:19:11.740Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Mumbai’s Next Real Estate Jackpot]]></title>
+        <id>https://www.youtube.com/shorts/_nBsQAU7ISM</id>
+        <link href="https://www.youtube.com/shorts/_nBsQAU7ISM"/>
+        <updated>2025-09-05T14:24:17.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Think School</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Mumbai Property Investment Roadmap: Bubble or Goldmine? | Indian Business Podcast]]></title>
         <id>https://www.youtube.com/watch?v=IiLmHwfx6e4</id>
@@ -13,6 +23,32 @@
         <updated>2025-09-05T12:30:33.000Z</updated>
         <author>
             <name>Think School</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fil's Unbelievable Garbage Collector]]></title>
+        <id>https://news.ycombinator.com/item?id=45133938</id>
+        <link href="https://fil-c.org/fugc"/>
+        <updated>2025-09-05T00:55:52.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://fil-c.org/fugc
+Comments URL: https://news.ycombinator.com/item?id=45133938
+Points: 510
+# Comments: 219]]></summary>
+        <author>
+            <name>pizlonator</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LLM Visualization]]></title>
+        <id>https://news.ycombinator.com/item?id=45130260</id>
+        <link href="https://bbycroft.net/llm"/>
+        <updated>2025-09-04T18:06:05.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://bbycroft.net/llm
+Comments URL: https://news.ycombinator.com/item?id=45130260
+Points: 502
+# Comments: 36]]></summary>
+        <author>
+            <name>gmays</name>
         </author>
     </entry>
     <entry>
@@ -2208,19 +2244,6 @@ I agree with Charity Majors  that there is a valuable distinction between dispos
 more…]]></summary>
         <author>
             <name>Martin Fowler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[We replaced passwords with something worse]]></title>
-        <id>https://news.ycombinator.com/item?id=44819917</id>
-        <link href="https://blog.danielh.cc/blog/passwords"/>
-        <updated>2025-08-07T02:19:25.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://blog.danielh.cc/blog/passwords
-Comments URL: https://news.ycombinator.com/item?id=44819917
-Points: 553
-# Comments: 441]]></summary>
-        <author>
-            <name>max__dev</name>
         </author>
     </entry>
 </feed>
