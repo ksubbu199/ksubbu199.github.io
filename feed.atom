@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-09-05T01:22:25.935Z</updated>
+    <updated>2025-09-05T02:57:46.398Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -2212,23 +2212,6 @@ Points: 553
 # Comments: 441]]></summary>
         <author>
             <name>max__dev</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Reformist CTO’s Guide to Impact Intelligence]]></title>
-        <id>https://martinfowler.com/articles/impact-intel.html</id>
-        <link href="https://martinfowler.com/articles/impact-intel.html"/>
-        <updated>2025-08-06T13:23:00.000Z</updated>
-        <summary type="html"><![CDATA[The productivity of knowledge workers is hard to quantify and often
-      decoupled from direct business outcomes. The lack of understanding leads
-      to many initiatives, bloated tech spend, and ill-chosen efforts to improve
-      this productivity. Sriram Narayan begins an article that
-      looks at how to avoid this by developing an intelligence of the
-      business impact of their work across a network connecting output to
-      proximate and downstream impact.
-more…]]></summary>
-        <author>
-            <name>Martin Fowler</name>
         </author>
     </entry>
 </feed>
