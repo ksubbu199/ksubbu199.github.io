@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=45129085",
+          "author": "_nvs",
+          "description": "Article URL: https://tempo.xyz\nComments URL: https://news.ycombinator.com/item?id=45129085\nPoints: 504\n# Comments: 644",
+          "link": "https://tempo.xyz/",
+          "publishedOn": "2025-09-04T16:32:24.000Z",
+          "wordCount": 748,
+          "title": "Stripe Launches L1 Blockchain: Tempo",
+          "imageUrl": "https://tempo-kht1xzjtv-tempoxyz.vercel.app/images/social.jpg"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=45126503",
           "author": "jger15",
           "description": "Article URL: https://www.henrikkarlsson.xyz/p/attention\nComments URL: https://news.ycombinator.com/item?id=45126503\nPoints: 507\n# Comments: 133",
@@ -1184,16 +1194,6 @@
           "wordCount": 213,
           "title": "We replaced passwords with something worse",
           "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=44811567",
-          "author": "kgwgk",
-          "description": "Article URL: https://github.com/manzaltu/claude-code-ide.el\nComments URL: https://news.ycombinator.com/item?id=44811567\nPoints: 508\n# Comments: 167",
-          "link": "https://github.com/manzaltu/claude-code-ide.el",
-          "publishedOn": "2025-08-06T13:17:38.000Z",
-          "wordCount": 9483,
-          "title": "Claude Code IDE integration for Emacs",
-          "imageUrl": "https://opengraph.githubassets.com/c3aa32dc2f0be886757d1c0019d3ad7741d4db1e682a9438dd0c09775173fede/manzaltu/claude-code-ide.el"
         }
       ]
     },
