@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-09-06T01:19:40.164Z</updated>
+    <updated>2025-09-06T02:53:44.149Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -2264,40 +2264,6 @@ Points: 602
 # Comments: 623]]></summary>
         <author>
             <name>rd</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Quick but worthwhile links]]></title>
-        <id>https://martinfowler.com/articles/20250806-links.html</id>
-        <link href="https://martinfowler.com/articles/20250806-links.html"/>
-        <updated>2025-08-07T13:21:00.000Z</updated>
-        <summary type="html"><![CDATA[Abi Noda observes
-Just met with a 2000+ eng company. Their developers are saving 2+ hours per week thanks to Copilot.
-But they’re also losing:
-3 hrs per week due to slow builds
-4 hrs per week on dev environment toil
-2 hrs per week waiting for code reviews
-AI is not a silver bullet.
-Nik Malykhin found it useful to get an AI assistant to write its own coding rules by analyzing his code, and then asking it to refine them as worked with it.
-the central paradox of using AI assistants effectively: to offload cognitive work to an AI, you must first do the meta-cognitive work of codifying your own development philosophy and collaboration style.
-I agree with Charity Majors  that there is a valuable distinction between disposable versus durable code, and that makes a difference in how we use AI with…]]></summary>
-        <author>
-            <name>Martin Fowler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Actions to improve impact intelligence]]></title>
-        <id>https://martinfowler.com/articles/impact-intel.html#ActionsToImproveImpactIntelligence</id>
-        <link href="https://martinfowler.com/articles/impact-intel.html#ActionsToImproveImpactIntelligence"/>
-        <updated>2025-08-07T13:20:00.000Z</updated>
-        <summary type="html"><![CDATA[Sriram Narayan continues his article on impact
-      intelligence by outlining five actions that can be done to improve impact
-      intelligence: introduce robust demand management, pay down measurement
-      debt introduce impact validation, offer your CFO/COO an alternative to
-      ROI, equip your teams.
-more…]]></summary>
-        <author>
-            <name>Martin Fowler</name>
         </author>
     </entry>
 </feed>

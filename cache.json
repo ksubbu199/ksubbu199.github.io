@@ -1391,26 +1391,6 @@
           "wordCount": 6462,
           "title": "Impact Intelligence, addressing common objections",
           "imageUrl": "https://martinfowler.com/articles/impact-intel/card.png"
-        },
-        {
-          "id": "https://martinfowler.com/articles/20250806-links.html",
-          "author": null,
-          "description": "Abi Noda observes\nJust met with a 2000+ eng company. Their developers are saving 2+ hours per week thanks to Copilot.\nBut they’re also losing:\n3 hrs per week due to slow builds\n4 hrs per week on dev environment toil\n2 hrs per week waiting for code reviews\nAI is not a silver bullet.\nNik Malykhin found it useful to get an AI assistant to write its own coding rules by analyzing his code, and then asking it to refine them as worked with it.\nthe central paradox of using AI assistants effectively: to offload cognitive work to an AI, you must first do the meta-cognitive work of codifying your own development philosophy and collaboration style.\nI agree with Charity Majors  that there is a valuable distinction between disposable versus durable code, and that makes a difference in how we use AI with…",
-          "link": "https://martinfowler.com/articles/20250806-links.html",
-          "publishedOn": "2025-08-07T13:21:00.000Z",
-          "wordCount": 488,
-          "title": "Quick but worthwhile links",
-          "imageUrl": "https://martinfowler.com/logo-sq.png"
-        },
-        {
-          "id": "https://martinfowler.com/articles/impact-intel.html#ActionsToImproveImpactIntelligence",
-          "author": null,
-          "description": "Sriram Narayan continues his article on impact\n      intelligence by outlining five actions that can be done to improve impact\n      intelligence: introduce robust demand management, pay down measurement\n      debt introduce impact validation, offer your CFO/COO an alternative to\n      ROI, equip your teams.\nmore…",
-          "link": "https://martinfowler.com/articles/impact-intel.html#ActionsToImproveImpactIntelligence",
-          "publishedOn": "2025-08-07T13:20:00.000Z",
-          "wordCount": 5213,
-          "title": "Actions to improve impact intelligence",
-          "imageUrl": "https://martinfowler.com/articles/impact-intel/card.png"
         }
       ]
     },
