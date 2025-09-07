@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-09-07T07:15:38.907Z</updated>
+    <updated>2025-09-07T08:20:30.642Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -2200,22 +2200,6 @@ Points: 502
 # Comments: 104]]></summary>
         <author>
             <name>dlazaro</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ask HN: How can ChatGPT serve 700M users when I can't run one GPT-4 locally?]]></title>
-        <id>https://news.ycombinator.com/item?id=44840728</id>
-        <link href="https://news.ycombinator.com/item?id=44840728"/>
-        <updated>2025-08-08T19:27:28.000Z</updated>
-        <summary type="html"><![CDATA[Sam said yesterday that chatgpt handles ~700M weekly users. Meanwhile, I can't even run a single GPT-4-class model locally without insane VRAM or painfully slow speeds.
-Sure, they have huge GPU clusters, but there must be more going on - model optimizations, sharding, custom hardware, clever load balancing, etc.
-What engineering tricks make this possible at such massive scale while keeping latency low?
-Curious to hear insights from people who've built large-scale ML systems.
-Comments URL: https://news.ycombinator.com/item?id=44840728
-Points: 503
-# Comments: 327]]></summary>
-        <author>
-            <name>superasn</name>
         </author>
     </entry>
 </feed>
