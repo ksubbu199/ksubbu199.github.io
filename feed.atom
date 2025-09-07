@@ -2,10 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-09-07T08:20:30.642Z</updated>
+    <updated>2025-09-07T09:15:55.247Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Show HN: I recreated Windows XP as my portfolio]]></title>
+        <id>https://news.ycombinator.com/item?id=45154609</id>
+        <link href="https://mitchivin.com/"/>
+        <updated>2025-09-07T01:44:19.000Z</updated>
+        <summary type="html"><![CDATA[Years ago I stumbled across a basic version of this concept and it stuck with me. I knew if I was ever going to take on such a project, it would need to be flawless, but without coding experience it was just another idea that would never happen. By the end of 2024, as AI coding tools exploded everywhere, I finally had a way to make it real.
+I started from zero knowledge and spent months collaborating with AI agents as a learning experience. Every pixel and every function went through me. The AI translated what I asked for into code, but every decision was human. I didn't use existing OS frameworks because the goal was learning how basic coding languages worked while also developing my skills with AI collaboration. Apart from basic libraries like xp.css and paint.js, it's all original code.
+The result is a fully functional Windows XP recreation running in your browser. Complete experience with sounds, animations, and working applications. Even works properly on mobile, which required rebuilding everything to maintain the authentic feel without becoming unusable on touchscreens.
+This project taught me more about coding and AI collaboration than I ever expected. Would love to hear your thoughts on the execution and any feedback on the technical approach.
+Comments URL: https://news.ycombinator.com/item?id=45154609
+Points: 526
+# Comments: 187]]></summary>
+        <author>
+            <name>mitchivin</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AI surveillance should be banned while there is still time]]></title>
         <id>https://news.ycombinator.com/item?id=45149281</id>
