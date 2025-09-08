@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-09-08T09:21:44.010Z</updated>
+    <updated>2025-09-08T10:21:05.368Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Using Claude Code to modernize a 25-year-old kernel driver]]></title>
+        <id>https://news.ycombinator.com/item?id=45163362</id>
+        <link href="https://dmitrybrant.com/2025/09/07/using-claude-code-to-modernize-a-25-year-old-kernel-driver"/>
+        <updated>2025-09-07T23:53:47.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://dmitrybrant.com/2025/09/07/using-claude-code-to-modernize-a-25-year-old-kernel-driver
+Comments URL: https://news.ycombinator.com/item?id=45163362
+Points: 549
+# Comments: 167]]></summary>
+        <author>
+            <name>dmitrybrant</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The MacBook has a sensor that knows the exact angle of the screen hinge]]></title>
         <id>https://news.ycombinator.com/item?id=45158968</id>
