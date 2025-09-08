@@ -1224,16 +1224,6 @@
           "wordCount": 3392,
           "title": "OpenFreeMap survived 100k requests per second",
           "imageUrl": "https://substackcdn.com/image/fetch/$s_!7mXy!,w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff834af0d-4b67-4b42-b0fb-5a1c49a12535_4000x2584.png"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=44846281",
-          "author": "dlazaro",
-          "description": "For HTML Day 2025 [1], I made a web service that displays the current sky at your approximate location as a CSS gradient. Colours are simulated on-demand using atmospheric absorption and scattering coefficients. Updates every minute, without the use of client-side JavaScript.\nSource code and additional information is available on GitHub: https://github.com/dnlzro/horizon\n[1] https://html.energy/html-day/2025/index.html\nComments URL: https://news.ycombinator.com/item?id=44846281\nPoints: 502\n# Comments: 104",
-          "link": "https://sky.dlazaro.ca/",
-          "publishedOn": "2025-08-09T13:25:16.000Z",
-          "wordCount": 5,
-          "title": "Show HN: The current sky at your approximate location, as a CSS gradient",
-          "imageUrl": null
         }
       ]
     },
