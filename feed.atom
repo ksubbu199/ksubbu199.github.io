@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-09-08T10:21:05.368Z</updated>
+    <updated>2025-09-08T11:15:34.952Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -116,6 +116,19 @@ Points: 609
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>Hussein Nasser</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tesla changes meaning of 'Full Self-Driving', gives up on promise of autonomy]]></title>
+        <id>https://news.ycombinator.com/item?id=45144900</id>
+        <link href="https://electrek.co/2025/09/05/tesla-changes-meaning-full-self-driving-give-up-promise-autonomy/"/>
+        <updated>2025-09-05T23:23:55.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://electrek.co/2025/09/05/tesla-changes-meaning-full-self-driving-give-up-promise-autonomy/
+Comments URL: https://news.ycombinator.com/item?id=45144900
+Points: 501
+# Comments: 617]]></summary>
+        <author>
+            <name>MilnerRoute</name>
         </author>
     </entry>
     <entry>
@@ -2212,19 +2225,6 @@ Points: 502
 # Comments: 248]]></summary>
         <author>
             <name>treetalker</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How I code with AI on a budget/free]]></title>
-        <id>https://news.ycombinator.com/item?id=44850913</id>
-        <link href="https://wuu73.org/blog/aiguide1.html"/>
-        <updated>2025-08-09T22:27:37.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://wuu73.org/blog/aiguide1.html
-Comments URL: https://news.ycombinator.com/item?id=44850913
-Points: 516
-# Comments: 175]]></summary>
-        <author>
-            <name>indigodaddy</name>
         </author>
     </entry>
 </feed>
