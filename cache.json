@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=45186015",
+          "author": "excerionsforte",
+          "description": "Article URL: https://www.apple.com/newsroom/2025/09/introducing-iphone-air-a-powerful-new-iphone-with-a-breakthrough-design/\nComments URL: https://news.ycombinator.com/item?id=45186015\nPoints: 528\n# Comments: 1165",
+          "link": "https://www.apple.com/newsroom/2025/09/introducing-iphone-air-a-powerful-new-iphone-with-a-breakthrough-design/",
+          "publishedOn": "2025-09-09T18:12:51.000Z",
+          "wordCount": 10089,
+          "title": "iPhone Air",
+          "imageUrl": "https://www.apple.com/newsroom/images/2025/09/introducing-iphone-air-a-powerful-new-iphone-with-a-breakthrough-design/tile/Apple-iPhone-Air-hero-250909-lp.jpg.og.jpg?202509091836"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=45183029",
           "author": "WhyNotHugo",
           "description": "Related: NPM debug and chalk packages compromised - https://news.ycombinator.com/item?id=45169657\nComments URL: https://news.ycombinator.com/item?id=45183029\nPoints: 502\n# Comments: 301",
@@ -1254,36 +1264,6 @@
           "wordCount": 7284,
           "title": "GitHub is no longer independent at Microsoft after CEO resignation",
           "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23437369/acastro_220504_STK121_0001.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=44864419",
-          "author": "icw_nru",
-          "description": "Article URL: https://archive.org/details/meta_leaks_part_1\nComments URL: https://news.ycombinator.com/item?id=44864419\nPoints: 500\n# Comments: 177",
-          "link": "https://archive.org/details/meta_leaks_part_1",
-          "publishedOn": "2025-08-11T14:22:16.000Z",
-          "wordCount": 4323,
-          "title": "Meta Leaks Part 1: Israel and Meta",
-          "imageUrl": "https://archive.org/services/img/meta_leaks_part_1"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=44864185",
-          "author": "sixhobbits",
-          "description": "Article URL: https://dwyer.co.za/static/claude-code-is-all-you-need.html\nComments URL: https://news.ycombinator.com/item?id=44864185\nPoints: 509\n# Comments: 285",
-          "link": "https://dwyer.co.za/static/claude-code-is-all-you-need.html",
-          "publishedOn": "2025-08-11T14:03:46.000Z",
-          "wordCount": 6070,
-          "title": "Claude Code is all you need",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=44864134",
-          "author": "al3rez",
-          "description": "Article URL: https://www.al3rez.com/todo-txt-journey\nComments URL: https://news.ycombinator.com/item?id=44864134\nPoints: 532\n# Comments: 381",
-          "link": "https://www.al3rez.com/todo-txt-journey",
-          "publishedOn": "2025-08-11T13:59:02.000Z",
-          "wordCount": 1121,
-          "title": "I tried every todo app and ended up with a .txt file",
-          "imageUrl": null
         }
       ]
     },
@@ -1840,16 +1820,6 @@
           "publishedOn": "2025-08-12T09:57:34.000Z",
           "wordCount": 2028,
           "title": "Secret Behind Every Blockbuster Movie",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=YYJZ6FDO5W4",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=YYJZ6FDO5W4",
-          "publishedOn": "2025-08-11T14:30:23.000Z",
-          "wordCount": null,
-          "title": "Aamir Khan: Truth About Netflix, OTT, Audience & Future of Indian Cinema | Indian Business Podcast",
           "imageUrl": null
         }
       ]
