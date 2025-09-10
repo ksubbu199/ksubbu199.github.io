@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-09-10T03:27:17.518Z</updated>
+    <updated>2025-09-10T04:21:08.416Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -17,6 +17,19 @@ Points: 528
 # Comments: 1165]]></summary>
         <author>
             <name>excerionsforte</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ICE is using fake cell towers to spy on people's phones]]></title>
+        <id>https://news.ycombinator.com/item?id=45184368</id>
+        <link href="https://www.forbes.com/sites/the-wiretap/2025/09/09/how-ice-is-using-fake-cell-towers-to-spy-on-peoples-phones/"/>
+        <updated>2025-09-09T16:27:41.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.forbes.com/sites/the-wiretap/2025/09/09/how-ice-is-using-fake-cell-towers-to-spy-on-peoples-phones/
+Comments URL: https://news.ycombinator.com/item?id=45184368
+Points: 509
+# Comments: 208]]></summary>
+        <author>
+            <name>coloneltcb</name>
         </author>
     </entry>
     <entry>
@@ -2298,19 +2311,6 @@ Points: 562
 # Comments: 466]]></summary>
         <author>
             <name>phlummox</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GitHub is no longer independent at Microsoft after CEO resignation]]></title>
-        <id>https://news.ycombinator.com/item?id=44865560</id>
-        <link href="https://www.theverge.com/news/757461/microsoft-github-thomas-dohmke-resignation-coreai-team-transition"/>
-        <updated>2025-08-11T15:47:48.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.theverge.com/news/757461/microsoft-github-thomas-dohmke-resignation-coreai-team-transition
-Comments URL: https://news.ycombinator.com/item?id=44865560
-Points: 647
-# Comments: 402]]></summary>
-        <author>
-            <name>Handy-Man</name>
         </author>
     </entry>
 </feed>
