@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-09-10T21:16:29.964Z</updated>
+    <updated>2025-09-10T22:16:32.244Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -154,6 +154,23 @@ Points: 554
 # Comments: 405]]></summary>
         <author>
             <name>toomuchtodo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Term.everything – Run any GUI app in the terminal]]></title>
+        <id>https://news.ycombinator.com/item?id=45181535</id>
+        <link href="https://github.com/mmulet/term.everything"/>
+        <updated>2025-09-09T13:16:30.000Z</updated>
+        <summary type="html"><![CDATA[I made a built-from scratch Wayland Compositor to display any GUI app* in the terminal! I think there is a lot of unexplored potential in custom Wayland compositors, a lot of really cool things you can embed existing applications into! So, I started with embedding apps into the terminal because that is the easiest input/output (output is just utf-8 and I use the great `chafa` library for that, and I just read from stdin for the input).
+If you have any other ideas for cool Wayland compositors, let me know. I purposedly wrote 80% the app in Typescript to appeal to the most developers and attract cool contributions (I do all drawing with the familiar Canvas2D api, so if there is interest, I can also fork this out into a cool Terminal canvas, let me know!)
+I have a blog post here about how I did it, but it’s pretty high level and non technical, so please ask if you have any questions.
+[How I Did It](https://github.com/mmulet/term.everything/blob/main/resource...>)
+*technically only Wayland apps and x11 apps with Xwayland. But on Linux that’s mostly everything.
+Comments URL: https://news.ycombinator.com/item?id=45181535
+Points: 536
+# Comments: 83]]></summary>
+        <author>
+            <name>mmulet</name>
         </author>
     </entry>
     <entry>
@@ -2383,16 +2400,6 @@ Points: 505
         <id>https://www.youtube.com/shorts/w3us7h5g7uU</id>
         <link href="https://www.youtube.com/shorts/w3us7h5g7uU"/>
         <updated>2025-08-12T11:30:54.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Think School</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Secret Behind Every Blockbuster Movie]]></title>
-        <id>https://www.youtube.com/shorts/jHI4SpRB4vI</id>
-        <link href="https://www.youtube.com/shorts/jHI4SpRB4vI"/>
-        <updated>2025-08-12T09:57:34.000Z</updated>
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>Think School</name>

@@ -106,6 +106,16 @@
           "imageUrl": "https://www.governor.state.nm.us/wp-content/uploads/2024/06/News-from-the-office-of-the-governor-michelle-lujan-grisham.webp"
         },
         {
+          "id": "https://news.ycombinator.com/item?id=45181535",
+          "author": "mmulet",
+          "description": "I made a built-from scratch Wayland Compositor to display any GUI app* in the terminal! I think there is a lot of unexplored potential in custom Wayland compositors, a lot of really cool things you can embed existing applications into! So, I started with embedding apps into the terminal because that is the easiest input/output (output is just utf-8 and I use the great `chafa` library for that, and I just read from stdin for the input).\nIf you have any other ideas for cool Wayland compositors, let me know. I purposedly wrote 80% the app in Typescript to appeal to the most developers and attract cool contributions (I do all drawing with the familiar Canvas2D api, so if there is interest, I can also fork this out into a cool Terminal canvas, let me know!)\nI have a blog post here about how I did it, but it’s pretty high level and non technical, so please ask if you have any questions.\n[How I Did It](https://github.com/mmulet/term.everything/blob/main/resource...>)\n*technically only Wayland apps and x11 apps with Xwayland. But on Linux that’s mostly everything.\nComments URL: https://news.ycombinator.com/item?id=45181535\nPoints: 536\n# Comments: 83",
+          "link": "https://github.com/mmulet/term.everything",
+          "publishedOn": "2025-09-09T13:16:30.000Z",
+          "wordCount": 3550,
+          "title": "Show HN: Term.everything – Run any GUI app in the terminal",
+          "imageUrl": "https://opengraph.githubassets.com/f14f7f27bbe94a836780030932419b67ce6819cba170e47229cb69ff6f1481e4/mmulet/term.everything"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=45178041",
           "author": "TechTechTech",
           "description": "ASML Announcement: https://www.asml.com/en/news/press-releases/2025/asml-mistra...\nComments URL: https://news.ycombinator.com/item?id=45178041\nPoints: 558\n# Comments: 318",
@@ -1880,16 +1890,6 @@
           "publishedOn": "2025-08-12T11:30:54.000Z",
           "wordCount": 2052,
           "title": "Only 2% of Indians have access to Movies",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/shorts/jHI4SpRB4vI",
-          "author": null,
-          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-          "link": "https://www.youtube.com/shorts/jHI4SpRB4vI",
-          "publishedOn": "2025-08-12T09:57:34.000Z",
-          "wordCount": 2028,
-          "title": "Secret Behind Every Blockbuster Movie",
           "imageUrl": null
         }
       ]
