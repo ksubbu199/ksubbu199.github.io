@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-09-11T22:16:48.726Z</updated>
+    <updated>2025-09-11T23:17:00.650Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -2338,19 +2338,6 @@ Points: 511
 more…]]></summary>
         <author>
             <name>Martin Fowler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FFmpeg 8.0 adds Whisper support]]></title>
-        <id>https://news.ycombinator.com/item?id=44886647</id>
-        <link href="https://code.ffmpeg.org/FFmpeg/FFmpeg/commit/13ce36fef98a3f4e6d8360c24d6b8434cbb8869b"/>
-        <updated>2025-08-13T10:19:35.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://code.ffmpeg.org/FFmpeg/FFmpeg/commit/13ce36fef98a3f4e6d8360c24d6b8434cbb8869b
-Comments URL: https://news.ycombinator.com/item?id=44886647
-Points: 517
-# Comments: 189]]></summary>
-        <author>
-            <name>rilawa</name>
         </author>
     </entry>
 </feed>
