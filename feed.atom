@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-09-11T11:14:56.518Z</updated>
+    <updated>2025-09-11T12:36:57.338Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Germany is not supporting ChatControl – blocking minority secured]]></title>
+        <id>https://news.ycombinator.com/item?id=45209366</id>
+        <link href="https://digitalcourage.social/@echo_pbreyer/115184350819592476"/>
+        <updated>2025-09-11T08:59:40.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://digitalcourage.social/@echo_pbreyer/115184350819592476
+Comments URL: https://news.ycombinator.com/item?id=45209366
+Points: 654
+# Comments: 175]]></summary>
+        <author>
+            <name>xyzal</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[KDE launches its own distribution]]></title>
         <id>https://news.ycombinator.com/item?id=45204393</id>
@@ -2327,19 +2340,6 @@ A $160M-funded company named Deepki (Trademark 1751952) came along and filed for
 The frustrating part? The EU actually does allow open-source (even free projects) to have trademarks, but you have to prove "genuine use" in the EU for the goods/services your trademark covers. Which seems to force you in collecting user sensiti…]]></summary>
         <author>
             <name>marcjschmidt</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Search all text in New York City]]></title>
-        <id>https://news.ycombinator.com/item?id=44883304</id>
-        <link href="https://www.alltext.nyc/"/>
-        <updated>2025-08-13T00:17:33.000Z</updated>
-        <summary type="html"><![CDATA[https://pudding.cool/2025/07/street-view/
-Comments URL: https://news.ycombinator.com/item?id=44883304
-Points: 505
-# Comments: 101]]></summary>
-        <author>
-            <name>Kortaggio</name>
         </author>
     </entry>
 </feed>
