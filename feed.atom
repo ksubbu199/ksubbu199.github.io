@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-09-11T03:36:01.951Z</updated>
+    <updated>2025-09-11T04:22:47.878Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -2327,32 +2327,6 @@ Points: 505
 # Comments: 101]]></summary>
         <author>
             <name>Kortaggio</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: Building a web search engine from scratch with 3B neural embeddings]]></title>
-        <id>https://news.ycombinator.com/item?id=44878151</id>
-        <link href="https://blog.wilsonl.in/search-engine/"/>
-        <updated>2025-08-12T16:02:40.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://blog.wilsonl.in/search-engine/
-Comments URL: https://news.ycombinator.com/item?id=44878151
-Points: 501
-# Comments: 82]]></summary>
-        <author>
-            <name>wilsonzlin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Claude Sonnet 4 now supports 1M tokens of context]]></title>
-        <id>https://news.ycombinator.com/item?id=44878147</id>
-        <link href="https://www.anthropic.com/news/1m-context"/>
-        <updated>2025-08-12T16:02:23.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.anthropic.com/news/1m-context
-Comments URL: https://news.ycombinator.com/item?id=44878147
-Points: 587
-# Comments: 296]]></summary>
-        <author>
-            <name>adocomplete</name>
         </author>
     </entry>
 </feed>
