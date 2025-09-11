@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-09-10T23:16:44.511Z</updated>
+    <updated>2025-09-11T01:22:21.874Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Charlie Kirk killed at event in Utah]]></title>
+        <id>https://news.ycombinator.com/item?id=45202200</id>
+        <link href="https://www.nbcnews.com/news/us-news/live-blog/live-updates-shooting-charlie-kirk-event-utah-rcna230437"/>
+        <updated>2025-09-10T19:02:48.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.nbcnews.com/news/us-news/live-blog/live-updates-shooting-charlie-kirk-event-utah-rcna230437
+Comments URL: https://news.ycombinator.com/item?id=45202200
+Points: 663
+# Comments: 1412]]></summary>
+        <author>
+            <name>david927</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[I didn't bring my son to a museum to look at screens]]></title>
         <id>https://news.ycombinator.com/item?id=45199931</id>
@@ -2353,56 +2366,6 @@ Points: 502
 # Comments: 813]]></summary>
         <author>
             <name>glenstein</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What's the strongest AI model you can train on a laptop in five minutes?]]></title>
-        <id>https://news.ycombinator.com/item?id=44875848</id>
-        <link href="https://www.seangoedecke.com/model-on-a-mbp/"/>
-        <updated>2025-08-12T13:15:34.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.seangoedecke.com/model-on-a-mbp/
-Comments URL: https://news.ycombinator.com/item?id=44875848
-Points: 549
-# Comments: 188]]></summary>
-        <author>
-            <name>ingve</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Impact Intelligence, addressing common objections]]></title>
-        <id>https://martinfowler.com/articles/impact-intel.html#objections</id>
-        <link href="https://martinfowler.com/articles/impact-intel.html#objections"/>
-        <updated>2025-08-12T13:02:00.000Z</updated>
-        <summary type="html"><![CDATA[Sriram Narayan concludes his article in impact
-      intelligence by addressing five common objections to this activity,
-      including slowing down, lack of agility and collaboration, and the
-      unpredictability of innovation.
-more…]]></summary>
-        <author>
-            <name>Martin Fowler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Monero appears to be in the midst of a successful 51% attack]]></title>
-        <id>https://news.ycombinator.com/item?id=44875109</id>
-        <link href="https://twitter.com/p3b7_/status/1955173413992984988"/>
-        <updated>2025-08-12T11:56:52.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://twitter.com/p3b7_/status/1955173413992984988
-Comments URL: https://news.ycombinator.com/item?id=44875109
-Points: 505
-# Comments: 271]]></summary>
-        <author>
-            <name>treyd</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Only 2% of Indians have access to Movies]]></title>
-        <id>https://www.youtube.com/shorts/w3us7h5g7uU</id>
-        <link href="https://www.youtube.com/shorts/w3us7h5g7uU"/>
-        <updated>2025-08-12T11:30:54.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Think School</name>
         </author>
     </entry>
 </feed>
