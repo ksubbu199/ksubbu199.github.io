@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-09-11T12:36:57.338Z</updated>
+    <updated>2025-09-11T13:23:32.847Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -2328,18 +2328,6 @@ Points: 511
 # Comments: 400]]></summary>
         <author>
             <name>pr337h4m</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[VC-backed company just killed my EU trademark for a small OSS project]]></title>
-        <id>https://news.ycombinator.com/item?id=44883634</id>
-        <link href="https://news.ycombinator.com/item?id=44883634"/>
-        <updated>2025-08-13T01:14:36.000Z</updated>
-        <summary type="html"><![CDATA[I run a small open-source project Deepkit (Trademark 017875717) I've been building for many years. It's not huge, just a few thousand users compared to the big OSS names, but to me it was worth protecting, so I trademarked the name in the EU and US a few years back. I had hoped to be protected from other corporations this way and live peacefully.
-A $160M-funded company named Deepki (Trademark 1751952) came along and filed for cancellation at EUIPO since they needed the trademark now after getting lots of funding. They won. Now my trademark is gone.
-The frustrating part? The EU actually does allow open-source (even free projects) to have trademarks, but you have to prove "genuine use" in the EU for the goods/services your trademark covers. Which seems to force you in collecting user sensiti…]]></summary>
-        <author>
-            <name>marcjschmidt</name>
         </author>
     </entry>
 </feed>
