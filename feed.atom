@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-09-12T03:27:06.818Z</updated>
+    <updated>2025-09-12T04:20:56.243Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -2282,19 +2282,6 @@ Points: 507
 # Comments: 283]]></summary>
         <author>
             <name>the_mitsuhiko</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nginx introduces native support for ACME protocol]]></title>
-        <id>https://news.ycombinator.com/item?id=44889941</id>
-        <link href="https://blog.nginx.org/blog/native-support-for-acme-protocol"/>
-        <updated>2025-08-13T15:41:55.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://blog.nginx.org/blog/native-support-for-acme-protocol
-Comments URL: https://news.ycombinator.com/item?id=44889941
-Points: 528
-# Comments: 183]]></summary>
-        <author>
-            <name>phickey</name>
         </author>
     </entry>
 </feed>
