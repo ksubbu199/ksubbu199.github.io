@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-09-13T16:18:34.439Z</updated>
+    <updated>2025-09-13T17:13:18.922Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -59,6 +59,19 @@ Points: 507
 # Comments: 372]]></summary>
         <author>
             <name>mpweiher</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[QGIS is a free, open-source, cross platform geographical information system]]></title>
+        <id>https://news.ycombinator.com/item?id=45224156</id>
+        <link href="https://github.com/qgis/QGIS"/>
+        <updated>2025-09-12T16:57:17.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://github.com/qgis/QGIS
+Comments URL: https://news.ycombinator.com/item?id=45224156
+Points: 505
+# Comments: 116]]></summary>
+        <author>
+            <name>rcarmo</name>
         </author>
     </entry>
     <entry>
@@ -271,6 +284,19 @@ Points: 525
 # Comments: 113]]></summary>
         <author>
             <name>vuciv</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Memory Integrity Enforcement]]></title>
+        <id>https://news.ycombinator.com/item?id=45186265</id>
+        <link href="https://security.apple.com/blog/memory-integrity-enforcement/"/>
+        <updated>2025-09-09T18:25:03.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://security.apple.com/blog/memory-integrity-enforcement/
+Comments URL: https://news.ycombinator.com/item?id=45186265
+Points: 500
+# Comments: 234]]></summary>
+        <author>
+            <name>circuit</name>
         </author>
     </entry>
     <entry>
