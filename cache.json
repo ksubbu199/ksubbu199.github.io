@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=45238055",
+          "author": "tcumulus",
+          "description": "Article URL: http://stations.albertguillaumes.cat/\nComments URL: https://news.ycombinator.com/item?id=45238055\nPoints: 503\n# Comments: 104",
+          "link": "http://stations.albertguillaumes.cat/",
+          "publishedOn": "2025-09-14T07:00:44.000Z",
+          "wordCount": 15152,
+          "title": "Models of European Metro Stations",
+          "imageUrl": null
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=45231378",
           "author": "kafked",
           "description": "Article URL: https://anycrap.shop/\nComments URL: https://news.ycombinator.com/item?id=45231378\nPoints: 529\n# Comments: 185",
@@ -1264,16 +1274,6 @@
           "wordCount": 4112,
           "title": "Good system design",
           "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=44919891",
-          "author": "GalaxySnail",
-          "description": "Article URL: https://putty.software/\nComments URL: https://news.ycombinator.com/item?id=44919891\nPoints: 500\n# Comments: 281",
-          "link": "https://putty.software/",
-          "publishedOn": "2025-08-16T03:35:06.000Z",
-          "wordCount": 54,
-          "title": "PuTTY has a new website",
-          "imageUrl": "https://putty.software/images/putty-512.png"
         }
       ]
     },
