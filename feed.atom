@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-09-15T01:26:56.976Z</updated>
+    <updated>2025-09-15T03:06:35.048Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -2287,33 +2287,6 @@ Points: 500
 # Comments: 205]]></summary>
         <author>
             <name>derwiki</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The INSANE Rise of NVIDIA: From Bankruptcy to $4 Trillion? | Business case study]]></title>
-        <id>https://www.youtube.com/watch?v=1tRTWwZ5DIc</id>
-        <link href="https://www.youtube.com/watch?v=1tRTWwZ5DIc"/>
-        <updated>2025-08-16T15:01:09.000Z</updated>
-        <author>
-            <name>Think School</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: I built an app to block Shorts and Reels]]></title>
-        <id>https://news.ycombinator.com/item?id=44923520</id>
-        <link href="https://scrollguard.app/"/>
-        <updated>2025-08-16T14:01:38.000Z</updated>
-        <summary type="html"><![CDATA[I wanted to find a way to use Instagram without ending up scrolling for two hours every time I open the app to see a friend's story.
-Most screen time apps I found focus on blocking the app itself instead of the addictive feed, so I created this app to allow me to keep using the "healthy" and "social" features and block the infinite scrolling (Reels)
-After implementing the block on Instagram Reels, I got addicted to YouTube Shorts and Reddit feed. So, I extended the app to cover these as well.
-To avoid replacing the scrolling for regular feeds, I also added a feature that shows a pop-up when I'm overscrolling in any app. It forces me to stop and think for a minute before I continue scrolling.
-I built it on Android Studio, using Kotlin and Jetpack Compose for the UI. I use the Accessibility Service to detect scrolls and navigate out of them. Unfortunately, this only works for Android. There is no way (as far as I know) to do this on iOS.
-I'd love to hear your thoughts
-Comments URL: https://news.ycombinator.com/item?id=44923520
-Points: 504
-# Comments: 196]]></summary>
-        <author>
-            <name>adrianhacar</name>
         </author>
     </entry>
 </feed>
