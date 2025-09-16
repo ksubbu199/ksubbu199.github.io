@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-09-16T18:26:57.923Z</updated>
+    <updated>2025-09-16T19:14:13.395Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -30,6 +30,19 @@ Points: 600
 # Comments: 135]]></summary>
         <author>
             <name>heavyset_go</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Self Propagating NPM Malware]]></title>
+        <id>https://news.ycombinator.com/item?id=45260741</id>
+        <link href="https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised"/>
+        <updated>2025-09-16T11:22:03.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised
+Comments URL: https://news.ycombinator.com/item?id=45260741
+Points: 508
+# Comments: 381]]></summary>
+        <author>
+            <name>jamesberthoty</name>
         </author>
     </entry>
     <entry>
@@ -2367,19 +2380,6 @@ Points: 501
 # Comments: 434]]></summary>
         <author>
             <name>asnyder</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Web apps in a single, portable, self-updating, vanilla HTML file]]></title>
-        <id>https://news.ycombinator.com/item?id=44937991</id>
-        <link href="https://hyperclay.com/"/>
-        <updated>2025-08-18T06:38:11.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://hyperclay.com/
-Comments URL: https://news.ycombinator.com/item?id=44937991
-Points: 517
-# Comments: 181]]></summary>
-        <author>
-            <name>pil0u</name>
         </author>
     </entry>
 </feed>

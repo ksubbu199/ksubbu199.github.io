@@ -26,6 +26,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://news.ycombinator.com/item?id=45260741",
+          "author": "jamesberthoty",
+          "description": "Article URL: https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised\nComments URL: https://news.ycombinator.com/item?id=45260741\nPoints: 508\n# Comments: 381",
+          "link": "https://www.stepsecurity.io/blog/ctrl-tinycolor-and-40-npm-packages-compromised",
+          "publishedOn": "2025-09-16T11:22:03.000Z",
+          "wordCount": 9012,
+          "title": "Self Propagating NPM Malware",
+          "imageUrl": "https://cdn.prod.website-files.com/673b71f0790aabf30bd30bf8/68c9a9d8787a244b5826e523_Blog-Sept4-19.jpg"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=45256651",
           "author": "wicket",
           "description": "Article URL: https://feddit.org/post/18353777\nComments URL: https://news.ycombinator.com/item?id=45256651\nPoints: 518\n# Comments: 313",
@@ -1344,16 +1354,6 @@
           "wordCount": null,
           "title": "Counter-Strike: A billion-dollar game built in a dorm room",
           "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=44937991",
-          "author": "pil0u",
-          "description": "Article URL: https://hyperclay.com/\nComments URL: https://news.ycombinator.com/item?id=44937991\nPoints: 517\n# Comments: 181",
-          "link": "https://hyperclay.com/",
-          "publishedOn": "2025-08-18T06:38:11.000Z",
-          "wordCount": 1033,
-          "title": "Web apps in a single, portable, self-updating, vanilla HTML file",
-          "imageUrl": "https://hyperclay.com/open-graph.png?v=3"
         }
       ]
     },
