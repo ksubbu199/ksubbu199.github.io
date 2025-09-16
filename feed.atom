@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-09-16T04:21:53.442Z</updated>
+    <updated>2025-09-16T05:17:50.288Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -2310,19 +2310,6 @@ The way I'd do this would be to plan for some topics to be optional. The
   time was going with the talk. If (as was usu…]]></summary>
         <author>
             <name>Martin Fowler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Enterprise Experience]]></title>
-        <id>https://news.ycombinator.com/item?id=44932980</id>
-        <link href="https://churchofturing.github.io/the-enterprise-experience.html"/>
-        <updated>2025-08-17T16:53:03.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://churchofturing.github.io/the-enterprise-experience.html
-Comments URL: https://news.ycombinator.com/item?id=44932980
-Points: 500
-# Comments: 148]]></summary>
-        <author>
-            <name>Improvement</name>
         </author>
     </entry>
 </feed>
