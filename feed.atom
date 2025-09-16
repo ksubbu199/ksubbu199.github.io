@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-09-16T01:21:08.818Z</updated>
+    <updated>2025-09-16T02:55:55.880Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -2323,23 +2323,6 @@ Points: 500
 # Comments: 148]]></summary>
         <author>
             <name>Improvement</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: NextDNS Adds "Bypass Age Verification"]]></title>
-        <id>https://news.ycombinator.com/item?id=44931824</id>
-        <link href="https://news.ycombinator.com/item?id=44931824"/>
-        <updated>2025-08-17T14:29:22.000Z</updated>
-        <summary type="html"><![CDATA[We just shipped a new feature in NextDNS: Bypass Age Verification.
-More and more sites (especially adult ones) are now forcing users to upload IDs or selfies to continue. We think that’s a terrible idea: handing over government documents to random sites is a huge privacy risk.
-This new setting workarounds those verification flows via DNS tricks. It’s available today to all users, including free accounts.
-We’re curious how the HN community feels about this. Is it the right way to protect privacy online, or will it just provoke regulators to push harder?
-https://nextdns.io
-Comments URL: https://news.ycombinator.com/item?id=44931824
-Points: 500
-# Comments: 175]]></summary>
-        <author>
-            <name>nextdns</name>
         </author>
     </entry>
 </feed>
