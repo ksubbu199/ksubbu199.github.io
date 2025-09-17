@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-09-17T04:21:48.543Z</updated>
+    <updated>2025-09-17T05:18:05.647Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -2393,32 +2393,6 @@ Points: 510
 # Comments: 155]]></summary>
         <author>
             <name>twapi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: Whispering – Open-source, local-first dictation you can trust]]></title>
-        <id>https://news.ycombinator.com/item?id=44942731</id>
-        <link href="https://github.com/epicenter-so/epicenter/tree/main/apps/whispering"/>
-        <updated>2025-08-18T16:52:29.000Z</updated>
-        <summary type="html"><![CDATA[Hey HN! Braden here, creator of Whispering, an open-source speech-to-text app.
-I really like dictation. For years, I relied on transcription tools that were almost good, but they were all closed-source. Even a lot of them that claimed to be “local” or “on-device” were still black boxes that left me wondering where my audio really went.
-So I built Whispering. It’s open-source, local-first, and most importantly, transparent with your data.   Your data is stored locally on your device, and your audio goes directly from your machine to a local provider (Whisper C++, Speaches, etc.) or your chosen cloud provider (Groq, OpenAI, ElevenLabs, etc.). For me, the features were good enough that I left my paid tools behind (I used Superwhisper and Wispr Flow before).
-Productivity apps should be open-so…]]></summary>
-        <author>
-            <name>braden-w</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Anna's Archive: An Update from the Team]]></title>
-        <id>https://news.ycombinator.com/item?id=44942501</id>
-        <link href="https://annas-archive.org/blog/an-update-from-the-team.html"/>
-        <updated>2025-08-18T16:31:48.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://annas-archive.org/blog/an-update-from-the-team.html
-Comments URL: https://news.ycombinator.com/item?id=44942501
-Points: 599
-# Comments: 246]]></summary>
-        <author>
-            <name>jerheinze</name>
         </author>
     </entry>
 </feed>
