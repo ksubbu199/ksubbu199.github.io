@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-09-17T21:15:51.095Z</updated>
+    <updated>2025-09-17T22:16:16.701Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[WASM 3.0 Completed]]></title>
+        <id>https://news.ycombinator.com/item?id=45279384</id>
+        <link href="https://webassembly.org/news/2025-09-17-wasm-3.0/"/>
+        <updated>2025-09-17T18:16:53.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://webassembly.org/news/2025-09-17-wasm-3.0/
+Comments URL: https://news.ycombinator.com/item?id=45279384
+Points: 514
+# Comments: 198]]></summary>
+        <author>
+            <name>todsacerdoti</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Apple Photos App Corrupts Images]]></title>
         <id>https://news.ycombinator.com/item?id=45274277</id>
@@ -130,6 +143,19 @@ Points: 537
 # Comments: 328]]></summary>
         <author>
             <name>Qem</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["Your" vs. "My" in user interfaces]]></title>
+        <id>https://news.ycombinator.com/item?id=45257627</id>
+        <link href="https://adamsilver.io/blog/your-vs-my-in-user-interfaces/"/>
+        <updated>2025-09-16T03:05:53.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://adamsilver.io/blog/your-vs-my-in-user-interfaces/
+Comments URL: https://news.ycombinator.com/item?id=45257627
+Points: 501
+# Comments: 247]]></summary>
+        <author>
+            <name>Twixes</name>
         </author>
     </entry>
     <entry>
