@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-09-18T03:31:08.287Z</updated>
+    <updated>2025-09-18T04:22:49.704Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -2415,19 +2415,6 @@ Points: 501
 # Comments: 52]]></summary>
         <author>
             <name>abdusco</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How we exploited CodeRabbit: From simple PR to RCE and write access on 1M repos]]></title>
-        <id>https://news.ycombinator.com/item?id=44953032</id>
-        <link href="https://research.kudelskisecurity.com/2025/08/19/how-we-exploited-coderabbit-from-a-simple-pr-to-rce-and-write-access-on-1m-repositories/"/>
-        <updated>2025-08-19T15:55:15.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://research.kudelskisecurity.com/2025/08/19/how-we-exploited-coderabbit-from-a-simple-pr-to-rce-and-write-access-on-1m-repositories/
-Comments URL: https://news.ycombinator.com/item?id=44953032
-Points: 506
-# Comments: 169]]></summary>
-        <author>
-            <name>spiridow</name>
         </author>
     </entry>
 </feed>
