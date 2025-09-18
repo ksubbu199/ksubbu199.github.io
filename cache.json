@@ -6,6 +6,26 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=45288690",
+          "author": "todsacerdoti",
+          "description": "Article URL: https://kokada.dev/blog/kde-is-now-my-favorite-desktop/\nComments URL: https://news.ycombinator.com/item?id=45288690\nPoints: 500\n# Comments: 402",
+          "link": "https://kokada.dev/blog/kde-is-now-my-favorite-desktop/",
+          "publishedOn": "2025-09-18T12:17:51.000Z",
+          "wordCount": 1677,
+          "title": "KDE is now my favorite desktop",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=45288161",
+          "author": "stycznik",
+          "description": "Article URL: https://www.tomshardware.com/pc-components/cpus/nvidia-and-intel-announce-jointly-developed-intel-x86-rtx-socs-for-pcs-with-nvidia-graphics-also-custom-nvidia-data-center-x86-processors-nvidia-buys-usd5-billion-in-intel-stock-in-seismic-deal\nComments URL: https://news.ycombinator.com/item?id=45288161\nPoints: 517\n# Comments: 323",
+          "link": "https://www.tomshardware.com/pc-components/cpus/nvidia-and-intel-announce-jointly-developed-intel-x86-rtx-socs-for-pcs-with-nvidia-graphics-also-custom-nvidia-data-center-x86-processors-nvidia-buys-usd5-billion-in-intel-stock-in-seismic-deal",
+          "publishedOn": "2025-09-18T11:04:48.000Z",
+          "wordCount": 17918,
+          "title": "Nvidia buys $5B in Intel",
+          "imageUrl": "https://cdn.mos.cms.futurecdn.net/gBeVGpDwSKA49BwFrqRooH.png"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=45283887",
           "author": "JustSkyfall",
           "description": "Article URL: https://skyfall.dev/posts/slack\nComments URL: https://news.ycombinator.com/item?id=45283887\nPoints: 583\n# Comments: 298",
@@ -1374,16 +1394,6 @@
           "wordCount": 758,
           "title": "Show HN: I was curious about spherical helix, ended up making this visualization",
           "imageUrl": "https://visualrambling.space/moving-objects-in-3d/85145b9e1fd1a7a5f240.png"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=44959073",
-          "author": "mbix77",
-          "description": "I have recently installed this extension on FF: https://addons.mozilla.org/en-US/firefox/addon/port-authorit... and yesterday I visited this website: https://ceac.state.gov/genniv/ and I got a notification that the website tried to do a port-scan of my private network.\nIs this a common thing? I have just recently installed the extension, so I am not sure if there are a lot of other websites who do it.\nSince looking into it, I noticed that uBlock Origin already has the default list \"Block Outsider Intrusion into LAN\" but it wasn't enabled.\nComments URL: https://news.ycombinator.com/item?id=44959073\nPoints: 500\n# Comments: 230",
-          "link": "https://news.ycombinator.com/item?id=44959073",
-          "publishedOn": "2025-08-20T06:03:03.000Z",
-          "wordCount": 12410,
-          "title": "Ask HN: Why does the US Visa application website do a port-scan of my network?",
-          "imageUrl": null
         }
       ]
     },
