@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=45297066",
+          "author": "kaladin-jasnah",
+          "description": "Article URL: https://deno.com/blog/javascript-tm-gofundme\nComments URL: https://news.ycombinator.com/item?id=45297066\nPoints: 514\n# Comments: 242",
+          "link": "https://deno.com/blog/javascript-tm-gofundme",
+          "publishedOn": "2025-09-19T01:40:35.000Z",
+          "wordCount": 687,
+          "title": "Help Us Raise $200k to Free JavaScript from Oracle",
+          "imageUrl": "https://deno.com/blog/help-free-javascript-from-oracle/og.png"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=45295898",
           "author": "jordigh",
           "description": "Article URL: https://phishyurl.com/\nComments URL: https://news.ycombinator.com/item?id=45295898\nPoints: 512\n# Comments: 138",
@@ -1900,16 +1910,6 @@
           "publishedOn": "2025-08-21T12:30:28.000Z",
           "wordCount": 2164,
           "title": "Aamir Khan on his biggest insecurity",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/shorts/7lDpY-WK0tk",
-          "author": null,
-          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-          "link": "https://www.youtube.com/shorts/7lDpY-WK0tk",
-          "publishedOn": "2025-08-21T06:46:25.000Z",
-          "wordCount": 2188,
-          "title": "Story behind casting of Ishaan",
           "imageUrl": null
         }
       ]
