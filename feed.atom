@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-09-19T19:13:51.697Z</updated>
+    <updated>2025-09-19T20:19:49.949Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -14,6 +14,19 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>Think School</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ruby Central's Attack on RubyGems [pdf]]]></title>
+        <id>https://news.ycombinator.com/item?id=45299170</id>
+        <link href="https://pup-e.com/goodbye-rubygems.pdf"/>
+        <updated>2025-09-19T08:09:17.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://pup-e.com/goodbye-rubygems.pdf
+Comments URL: https://news.ycombinator.com/item?id=45299170
+Points: 512
+# Comments: 149]]></summary>
+        <author>
+            <name>jolux</name>
         </author>
     </entry>
     <entry>
