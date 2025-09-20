@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-09-20T06:25:13.943Z</updated>
+    <updated>2025-09-20T07:16:28.496Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[MySQL 8 0 vs 5 7  Which Database Is Slower?]]></title>
+        <id>https://www.youtube.com/shorts/sMOPqMF0-8s</id>
+        <link href="https://www.youtube.com/shorts/sMOPqMF0-8s"/>
+        <updated>2025-09-20T07:00:57.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Hussein Nasser</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Trump to impose $100k fee for H-1B worker visas, White House says]]></title>
         <id>https://news.ycombinator.com/item?id=45305845</id>
@@ -2350,32 +2360,6 @@ Points: 500
 # Comments: 665]]></summary>
         <author>
             <name>ustad</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DeepSeek-v3.1]]></title>
-        <id>https://news.ycombinator.com/item?id=44976764</id>
-        <link href="https://api-docs.deepseek.com/news/news250821"/>
-        <updated>2025-08-21T19:06:09.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://api-docs.deepseek.com/news/news250821
-Comments URL: https://news.ycombinator.com/item?id=44976764
-Points: 504
-# Comments: 120]]></summary>
-        <author>
-            <name>wertyk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI tooling must be disclosed for contributions]]></title>
-        <id>https://news.ycombinator.com/item?id=44976568</id>
-        <link href="https://github.com/ghostty-org/ghostty/pull/8289"/>
-        <updated>2025-08-21T18:49:57.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://github.com/ghostty-org/ghostty/pull/8289
-Comments URL: https://news.ycombinator.com/item?id=44976568
-Points: 500
-# Comments: 272]]></summary>
-        <author>
-            <name>freetonik</name>
         </author>
     </entry>
 </feed>
