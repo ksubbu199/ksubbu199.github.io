@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=45321663",
+          "author": "nataliste",
+          "description": "Article URL: https://press.uchicago.edu/Misc/Chicago/511928.html\nComments URL: https://news.ycombinator.com/item?id=45321663\nPoints: 521\n# Comments: 322",
+          "link": "https://press.uchicago.edu/Misc/Chicago/511928.html",
+          "publishedOn": "2025-09-21T10:56:42.000Z",
+          "wordCount": 2988,
+          "title": "They Thought They Were Free (1955)",
+          "imageUrl": null
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=45314592",
           "author": "hemloc_io",
           "description": "Article URL: https://seattleultrasonics.com/\nComments URL: https://news.ycombinator.com/item?id=45314592\nPoints: 513\n# Comments: 409",
@@ -1380,16 +1390,6 @@
           "publishedOn": "2025-09-21T03:37:08.000Z",
           "wordCount": 1841,
           "title": "A Legal Rule That Makes Writing Worse",
-          "imageUrl": null
-        },
-        {
-          "id": "https://writing.kemitchell.com/2025/08/22/Blackacre-Labs",
-          "author": null,
-          "description": "have and belong to many readers",
-          "link": "https://writing.kemitchell.com/2025/08/22/Blackacre-Labs",
-          "publishedOn": "2025-08-23T04:52:57.000Z",
-          "wordCount": 1490,
-          "title": "Announcing Blackacre Labs",
           "imageUrl": null
         }
       ]
