@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-09-21T03:07:17.292Z</updated>
+    <updated>2025-09-21T04:21:17.575Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[A Legal Rule That Makes Writing Worse]]></title>
+        <id>https://writing.kemitchell.com/2025/09/20/Makes-Writing-Worse</id>
+        <link href="https://writing.kemitchell.com/2025/09/20/Makes-Writing-Worse"/>
+        <updated>2025-09-21T03:37:08.000Z</updated>
+        <summary type="html"><![CDATA[moving past the fantasy of consistency]]></summary>
+        <author>
+            <name>/dev/lawyer</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Why are hospital buildings so confusing?]]></title>
         <id>https://www.youtube.com/shorts/L4XPqhxQ9vQ</id>
@@ -2347,19 +2357,6 @@ Points: 517
 # Comments: 485]]></summary>
         <author>
             <name>achristmascarl</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FFmpeg 8.0]]></title>
-        <id>https://news.ycombinator.com/item?id=44985730</id>
-        <link href="https://ffmpeg.org/index.html#pr8.0"/>
-        <updated>2025-08-22T15:22:42.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://ffmpeg.org/index.html#pr8.0
-Comments URL: https://news.ycombinator.com/item?id=44985730
-Points: 510
-# Comments: 141]]></summary>
-        <author>
-            <name>gyan</name>
         </author>
     </entry>
 </feed>
