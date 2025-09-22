@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-09-22T19:15:40.336Z</updated>
+    <updated>2025-09-22T20:21:00.382Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -2373,19 +2373,6 @@ Points: 533
 # Comments: 298]]></summary>
         <author>
             <name>shaunpud</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A visual introduction to big O notation]]></title>
-        <id>https://news.ycombinator.com/item?id=45002182</id>
-        <link href="https://samwho.dev/big-o/"/>
-        <updated>2025-08-24T07:39:36.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://samwho.dev/big-o/
-Comments URL: https://news.ycombinator.com/item?id=45002182
-Points: 505
-# Comments: 149]]></summary>
-        <author>
-            <name>samwho</name>
         </author>
     </entry>
 </feed>
