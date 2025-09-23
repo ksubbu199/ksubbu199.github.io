@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=45332883",
+          "author": "jgrahamc",
+          "description": "Article URL: https://blog.cloudflare.com/capnweb-javascript-rpc-library/\nComments URL: https://news.ycombinator.com/item?id=45332883\nPoints: 511\n# Comments: 225",
+          "link": "https://blog.cloudflare.com/capnweb-javascript-rpc-library/",
+          "publishedOn": "2025-09-22T13:05:32.000Z",
+          "wordCount": 4241,
+          "title": "Cap'n Web: a new RPC system for browsers and web servers",
+          "imageUrl": "https://cf-assets.www.cloudflare.com/zkvhlag99gkb/26HRSc4ldW98MKG1lBnGRy/635c3ab7a59a949d930443d1b28b4dd2/BLOG-2954_OG.png"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=45332860",
           "author": "jgrahamc",
           "description": "Article URL: https://blog.cloudflare.com/supporting-the-future-of-the-open-web/\nComments URL: https://news.ycombinator.com/item?id=45332860\nPoints: 532\n# Comments: 340",
@@ -1442,6 +1452,16 @@
       "feedUrl": "https://martinfowler.com/feed.atom",
       "siteUrl": "https://martinfowler.com/feed.atom",
       "articles": [
+        {
+          "id": "https://martinfowler.com/articles/exploring-gen-ai/to-vibe-or-not-vibe.html",
+          "author": null,
+          "description": "Birgitta Böckeler examines the risk assessment around\n      when to use vibe coding, using three dimensions of risk: Probability,\n      Impact, and Detectability\nmore…",
+          "link": "https://martinfowler.com/articles/exploring-gen-ai/to-vibe-or-not-vibe.html",
+          "publishedOn": "2025-09-23T07:53:00.000Z",
+          "wordCount": 1353,
+          "title": "To vibe or not to vibe",
+          "imageUrl": "https://martinfowler.com/articles/exploring-gen-ai/donkey-card.png"
+        },
         {
           "id": "https://martinfowler.com/articles/202508-ai-thoughts.html",
           "author": null,
