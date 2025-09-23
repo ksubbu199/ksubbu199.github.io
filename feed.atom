@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-09-23T04:21:43.210Z</updated>
+    <updated>2025-09-23T05:17:31.699Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -2333,33 +2333,6 @@ Points: 505
 # Comments: 371]]></summary>
         <author>
             <name>classichasclass</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Untitled]]></title>
-        <id>https://lea.verou.me/false</id>
-        <link href="https://lea.verou.me/false"/>
-        <updated>2025-08-24T16:58:55.000Z</updated>
-        <summary type="html"><![CDATA[As a trivial example, what is wrong with this function?
-/* Calculate a right triangle's perimeter given its sides */
-function get_right_triangle_perimeter(a, b, c) {
-  return a + b + c;
-}
-
-Given that this is a right triangle, the third side is the hypotenuse, and can be calculated from the other two.
-Requiring users to enter it manually simplifies the implementation, but at the expense of additional user effort.
-Additionally, this introduces an unnecessary error condition: what happens if the user enters the wrong c?
-Contrast with:
-/* Calculate a right triangle's perimeter given its sides */
-function get_right_triangle_perimeter(a, b) {
-  return a + b + Math.sqrt(a * a + b * b);
-}
-
-When a shorter curve is the right call
-Every design principle is a rule of thumb, not a hard and fast law.
-So…]]></summary>
-        <author>
-            <name>Lea Verou’s blog</name>
         </author>
     </entry>
 </feed>
