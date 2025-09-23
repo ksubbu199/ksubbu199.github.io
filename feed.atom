@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-09-23T10:19:37.782Z</updated>
+    <updated>2025-09-23T11:15:21.936Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -17,6 +17,19 @@
 more…]]></summary>
         <author>
             <name>Martin Fowler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Delete FROM users WHERE location = 'Iran';]]></title>
+        <id>https://news.ycombinator.com/item?id=45343108</id>
+        <link href="https://gist.github.com/avestura/ce2aa6e55dad783b1aba946161d5fef4"/>
+        <updated>2025-09-23T05:30:28.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://gist.github.com/avestura/ce2aa6e55dad783b1aba946161d5fef4
+Comments URL: https://news.ycombinator.com/item?id=45343108
+Points: 528
+# Comments: 385]]></summary>
+        <author>
+            <name>avestura</name>
         </author>
     </entry>
     <entry>
