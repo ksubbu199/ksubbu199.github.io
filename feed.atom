@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-09-23T23:15:55.070Z</updated>
+    <updated>2025-09-24T01:21:56.445Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Find SF parking cops]]></title>
+        <id>https://news.ycombinator.com/item?id=45350690</id>
+        <link href="https://walzr.com/sf-parking/"/>
+        <updated>2025-09-23T18:06:07.000Z</updated>
+        <summary type="html"><![CDATA[https://walzr.com/sf-parking/about/
+Comments URL: https://news.ycombinator.com/item?id=45350690
+Points: 544
+# Comments: 324]]></summary>
+        <author>
+            <name>alazsengul</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Always Invite Anna]]></title>
         <id>https://news.ycombinator.com/item?id=45348495</id>
@@ -17,6 +30,19 @@ Points: 536
 # Comments: 49]]></summary>
         <author>
             <name>walterbell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Libghostty is coming]]></title>
+        <id>https://news.ycombinator.com/item?id=45347117</id>
+        <link href="https://mitchellh.com/writing/libghostty-is-coming"/>
+        <updated>2025-09-23T13:56:28.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://mitchellh.com/writing/libghostty-is-coming
+Comments URL: https://news.ycombinator.com/item?id=45347117
+Points: 524
+# Comments: 157]]></summary>
+        <author>
+            <name>kingori</name>
         </author>
     </entry>
     <entry>
@@ -2378,16 +2404,6 @@ Points: 525
 # Comments: 140]]></summary>
         <author>
             <name>__bb</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Movies deserve seekers, not scrollers]]></title>
-        <id>https://www.youtube.com/shorts/A09fU6A36nU</id>
-        <link href="https://www.youtube.com/shorts/A09fU6A36nU"/>
-        <updated>2025-08-25T12:30:18.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Think School</name>
         </author>
     </entry>
 </feed>
