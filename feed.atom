@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-09-24T19:15:10.280Z</updated>
+    <updated>2025-09-24T20:20:21.645Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Just let me select text]]></title>
+        <id>https://news.ycombinator.com/item?id=45360475</id>
+        <link href="https://aartaka.me/select-text.html"/>
+        <updated>2025-09-24T13:56:37.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://aartaka.me/select-text.html
+Comments URL: https://news.ycombinator.com/item?id=45360475
+Points: 570
+# Comments: 359]]></summary>
+        <author>
+            <name>ayoisaiah</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[US airlines are pushing to remove protections for passengers and add more fees]]></title>
         <id>https://news.ycombinator.com/item?id=45359378</id>
