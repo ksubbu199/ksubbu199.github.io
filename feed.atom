@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-09-24T05:17:23.486Z</updated>
+    <updated>2025-09-24T06:28:20.216Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -30,6 +30,19 @@ Points: 536
 # Comments: 49]]></summary>
         <author>
             <name>walterbell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Shopify, pulling strings at Ruby Central, forces Bundler and RubyGems takeover]]></title>
+        <id>https://news.ycombinator.com/item?id=45348390</id>
+        <link href="https://joel.drapper.me/p/rubygems-takeover/"/>
+        <updated>2025-09-23T15:25:29.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://joel.drapper.me/p/rubygems-takeover/
+Comments URL: https://news.ycombinator.com/item?id=45348390
+Points: 504
+# Comments: 320]]></summary>
+        <author>
+            <name>bradgessler</name>
         </author>
     </entry>
     <entry>
@@ -2362,19 +2375,6 @@ Points: 500
 # Comments: 535]]></summary>
         <author>
             <name>maguay</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google to require developer verification to install and sideload Android apps]]></title>
-        <id>https://news.ycombinator.com/item?id=45017028</id>
-        <link href="https://9to5google.com/2025/08/25/android-apps-developer-verification/"/>
-        <updated>2025-08-25T18:18:18.000Z</updated>
-        <summary type="html"><![CDATA[Also https://techcrunch.com/2025/08/25/google-will-require-develo... (from merged thread)
-Comments URL: https://news.ycombinator.com/item?id=45017028
-Points: 532
-# Comments: 464]]></summary>
-        <author>
-            <name>kotaKat</name>
         </author>
     </entry>
 </feed>
