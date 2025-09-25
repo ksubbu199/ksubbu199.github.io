@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-09-25T18:27:51.165Z</updated>
+    <updated>2025-09-25T19:15:43.968Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ChatControl: EU wants to scan all private messages, even in encrypted apps]]></title>
+        <id>https://news.ycombinator.com/item?id=45374500</id>
+        <link href="https://metalhearf.fr/posts/chatcontrol-wants-your-private-messages/"/>
+        <updated>2025-09-25T16:01:41.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://metalhearf.fr/posts/chatcontrol-wants-your-private-messages/
+Comments URL: https://news.ycombinator.com/item?id=45374500
+Points: 536
+# Comments: 223]]></summary>
+        <author>
+            <name>Metalhearf</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Microsoft blocks Israel's use of its tech. in mass surveillance of Palestinians]]></title>
         <id>https://news.ycombinator.com/item?id=45373564</id>
@@ -2463,19 +2476,6 @@ Points: 511
 # Comments: 165]]></summary>
         <author>
             <name>mafro</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Scientist exposes anti-wind groups as oil-funded, now they want to silence him]]></title>
-        <id>https://news.ycombinator.com/item?id=45036231</id>
-        <link href="https://electrek.co/2025/08/25/scientist-exposes-anti-wind-groups-as-oil-funded-now-they-want-to-silence-him/"/>
-        <updated>2025-08-27T06:49:23.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://electrek.co/2025/08/25/scientist-exposes-anti-wind-groups-as-oil-funded-now-they-want-to-silence-him/
-Comments URL: https://news.ycombinator.com/item?id=45036231
-Points: 503
-# Comments: 263]]></summary>
-        <author>
-            <name>xbmcuser</name>
         </author>
     </entry>
 </feed>
