@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-09-25T05:18:06.784Z</updated>
+    <updated>2025-09-25T06:28:09.250Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -91,6 +91,19 @@ Points: 562
 # Comments: 277]]></summary>
         <author>
             <name>phewlink</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Huntington's disease treated for first time]]></title>
+        <id>https://news.ycombinator.com/item?id=45358940</id>
+        <link href="https://www.bbc.com/news/articles/cevz13xkxpro"/>
+        <updated>2025-09-24T11:37:30.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.bbc.com/news/articles/cevz13xkxpro
+Comments URL: https://news.ycombinator.com/item?id=45358940
+Points: 522
+# Comments: 95]]></summary>
+        <author>
+            <name>_zie</name>
         </author>
     </entry>
     <entry>
@@ -2442,32 +2455,6 @@ Points: 526
 # Comments: 294]]></summary>
         <author>
             <name>davidbarker</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Michigan Supreme Court: Unrestricted phone searches violate Fourth Amendment]]></title>
-        <id>https://news.ycombinator.com/item?id=45029764</id>
-        <link href="https://reclaimthenet.org/michigan-supreme-court-rules-phone-search-warrants-must-be-specific"/>
-        <updated>2025-08-26T17:36:57.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://reclaimthenet.org/michigan-supreme-court-rules-phone-search-warrants-must-be-specific
-Comments URL: https://news.ycombinator.com/item?id=45029764
-Points: 507
-# Comments: 94]]></summary>
-        <author>
-            <name>mikece</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[We regret but have to temporary suspend the shipments to USA]]></title>
-        <id>https://news.ycombinator.com/item?id=45029579</id>
-        <link href="https://olimex.wordpress.com/2025/08/26/we-regret-but-have-to-temporary-suspend-the-shipments-to-usa/"/>
-        <updated>2025-08-26T17:22:33.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://olimex.wordpress.com/2025/08/26/we-regret-but-have-to-temporary-suspend-the-shipments-to-usa/
-Comments URL: https://news.ycombinator.com/item?id=45029579
-Points: 524
-# Comments: 494]]></summary>
-        <author>
-            <name>CTOSian</name>
         </author>
     </entry>
 </feed>
