@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=45366566",
+          "author": "recroad",
+          "description": "Article URL: https://bitbytebit.substack.com/p/everything-thats-wrong-with-google\nComments URL: https://news.ycombinator.com/item?id=45366566\nPoints: 605\n# Comments: 383",
+          "link": "https://bitbytebit.substack.com/p/everything-thats-wrong-with-google",
+          "publishedOn": "2025-09-24T22:11:48.000Z",
+          "wordCount": null,
+          "title": "Everything that's wrong with Google Search in one image",
+          "imageUrl": null
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=45362697",
           "author": "bertman",
           "description": "Article URL: https://mathstodon.xyz/@tao/115259943398316677\nComments URL: https://news.ycombinator.com/item?id=45362697\nPoints: 507\n# Comments: 288",
@@ -1474,16 +1484,6 @@
           "wordCount": 3889,
           "title": "We regret but have to temporary suspend the shipments to USA",
           "imageUrl": "https://olimex.wordpress.com/wp-content/uploads/2025/08/screenshot-from-2025-08-26-13-11-04.png"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=45026719",
-          "author": "meetpateltech",
-          "description": "Also: https://deepmind.google/models/gemini/image/, \nhttps://techcrunch.com/2025/08/26/google-geminis-ai-image-mo...\nComments URL: https://news.ycombinator.com/item?id=45026719\nPoints: 589\n# Comments: 312",
-          "link": "https://developers.googleblog.com/en/introducing-gemini-2-5-flash-image/",
-          "publishedOn": "2025-08-26T14:01:46.000Z",
-          "wordCount": 1446,
-          "title": "Gemini 2.5 Flash Image",
-          "imageUrl": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/Gemini2.5Flash-16x9-Alt_RD1-V01.2e16d0ba.fill-1200x600.jpg"
         }
       ]
     },
@@ -1601,16 +1601,6 @@
           "wordCount": 3303,
           "title": "Building your own CLI Coding Agent with Pydantic-AI",
           "imageUrl": "https://martinfowler.com/logo-sq.png"
-        },
-        {
-          "id": "https://martinfowler.com/articles/convo-llm-abstractions.html",
-          "author": null,
-          "description": "A few weeks ago, Unmesh Joshi and I started having a conversation about\n      how he likes to build a language of abstractions when working with an LLM.\n      We thought this was a conversation that others might find interesting so\n      we turned it into an article. We talk about how programming is about both\n      building and applying abstractions and how the LLM helps us in different\n      ways with each activity.\nmore…",
-          "link": "https://martinfowler.com/articles/convo-llm-abstractions.html",
-          "publishedOn": "2025-08-26T13:26:00.000Z",
-          "wordCount": 3088,
-          "title": "Chatting with Unmesh about building language with LLMs",
-          "imageUrl": "https://martinfowler.com/articles/convo-llm-abstractions/twitter-card.png"
         }
       ]
     },
