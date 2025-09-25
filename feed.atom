@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-09-25T14:19:28.818Z</updated>
+    <updated>2025-09-25T15:19:33.430Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -32,6 +32,19 @@ more…]]></summary>
         <updated>2025-09-25T04:49:53.000Z</updated>
         <author>
             <name>Think School</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Helium Browser]]></title>
+        <id>https://news.ycombinator.com/item?id=45366867</id>
+        <link href="https://helium.computer/"/>
+        <updated>2025-09-24T22:51:16.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://helium.computer/
+Comments URL: https://news.ycombinator.com/item?id=45366867
+Points: 512
+# Comments: 423]]></summary>
+        <author>
+            <name>spacebuffer</name>
         </author>
     </entry>
     <entry>
