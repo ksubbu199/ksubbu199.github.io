@@ -1543,6 +1543,16 @@
       "siteUrl": "https://martinfowler.com/feed.atom",
       "articles": [
         {
+          "id": "https://martinfowler.com/articles/exploring-gen-ai/anchoring-to-reference.html",
+          "author": null,
+          "description": "Service templates are a typical building block in the “golden paths”\n      organisations build for their engineering teams, to make it easy to do the\n      right thing. The templates are supposed to be the role models for all the\n      services in the organisation, always representing the most up to date\n      coding patterns and standards. One of the challenges with service\n      templates though is that once a team instantiated a service with one, it’s\n      tedious to feed template updates back to those services. Birgitta\n      Böckeler considers whether GenAI can help\n      with that.\nmore…",
+          "link": "https://martinfowler.com/articles/exploring-gen-ai/anchoring-to-reference.html",
+          "publishedOn": "2025-09-25T09:57:00.000Z",
+          "wordCount": 808,
+          "title": "Anchoring AI to a reference application",
+          "imageUrl": "https://martinfowler.com/articles/exploring-gen-ai/donkey-card.png"
+        },
+        {
           "id": "https://martinfowler.com/articles/exploring-gen-ai/to-vibe-or-not-vibe.html",
           "author": null,
           "description": "Birgitta Böckeler examines the risk assessment around\n      when to use vibe coding, using three dimensions of risk: Probability,\n      Impact, and Detectability\nmore…",
