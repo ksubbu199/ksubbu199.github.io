@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-09-25T23:16:00.229Z</updated>
+    <updated>2025-09-26T01:21:44.604Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -2455,24 +2455,6 @@ Points: 500
       server, and a filesystem MCP server. Changing a single control would
       normally take 3–6 days of manual effort, but with these tools was
       completed in under an hour at a cost of under $2.
-more…]]></summary>
-        <author>
-            <name>Martin Fowler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Building your own CLI Coding Agent with Pydantic-AI]]></title>
-        <id>https://martinfowler.com/articles/build-own-coding-agent.html</id>
-        <link href="https://martinfowler.com/articles/build-own-coding-agent.html"/>
-        <updated>2025-08-27T11:50:00.000Z</updated>
-        <summary type="html"><![CDATA[CLI coding agents are a fundamentally different tool to chatbots or
-      autocomplete tools - they're agents that can read code, run tests, and
-      update a codebase. Ben O'Mahony explains that while
-      commercial tools are impressive, they don't understand the particular
-      context of our environment and the eccentricities of our specific project.
-      Instead we can build our own coding agent by assembling open source tools,
-      using our specific development standards for: testing, documentation
-      production, code reasoning, and file system operations.
 more…]]></summary>
         <author>
             <name>Martin Fowler</name>

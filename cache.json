@@ -1601,16 +1601,6 @@
           "wordCount": 5458,
           "title": "Research, Review, Rebuild: Intelligent Modernisation with MCP and Strategic Prompting",
           "imageUrl": "https://martinfowler.com/articles/research-review-rebuild/card.png"
-        },
-        {
-          "id": "https://martinfowler.com/articles/build-own-coding-agent.html",
-          "author": null,
-          "description": "CLI coding agents are a fundamentally different tool to chatbots or\n      autocomplete tools - they're agents that can read code, run tests, and\n      update a codebase. Ben O'Mahony explains that while\n      commercial tools are impressive, they don't understand the particular\n      context of our environment and the eccentricities of our specific project.\n      Instead we can build our own coding agent by assembling open source tools,\n      using our specific development standards for: testing, documentation\n      production, code reasoning, and file system operations.\nmore…",
-          "link": "https://martinfowler.com/articles/build-own-coding-agent.html",
-          "publishedOn": "2025-08-27T11:50:00.000Z",
-          "wordCount": 3303,
-          "title": "Building your own CLI Coding Agent with Pydantic-AI",
-          "imageUrl": "https://martinfowler.com/logo-sq.png"
         }
       ]
     },
