@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-09-26T11:14:52.180Z</updated>
+    <updated>2025-09-26T12:38:24.951Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -286,6 +286,19 @@ Points: 504
 # Comments: 320]]></summary>
         <author>
             <name>bradgessler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Getting AI to work in complex codebases]]></title>
+        <id>https://news.ycombinator.com/item?id=45347532</id>
+        <link href="https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/ace-fca.md"/>
+        <updated>2025-09-23T14:27:36.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/ace-fca.md
+Comments URL: https://news.ycombinator.com/item?id=45347532
+Points: 500
+# Comments: 408]]></summary>
+        <author>
+            <name>dhorthy</name>
         </author>
     </entry>
     <entry>
@@ -2427,19 +2440,6 @@ Points: 500
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>Think School</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Altered states of consciousness induced by breathwork accompanied by music]]></title>
-        <id>https://news.ycombinator.com/item?id=45046916</id>
-        <link href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0329411"/>
-        <updated>2025-08-28T00:22:24.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0329411
-Comments URL: https://news.ycombinator.com/item?id=45046916
-Points: 502
-# Comments: 270]]></summary>
-        <author>
-            <name>gnabgib</name>
         </author>
     </entry>
 </feed>
