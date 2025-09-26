@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-09-26T05:17:55.722Z</updated>
+    <updated>2025-09-26T06:27:38.132Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Plain Nonsense Trumps Jargon]]></title>
+        <id>https://writing.kemitchell.com/2025/09/25/Plain-Nonsense-Trumps-Jargon</id>
+        <link href="https://writing.kemitchell.com/2025/09/25/Plain-Nonsense-Trumps-Jargon"/>
+        <updated>2025-09-26T05:35:16.000Z</updated>
+        <summary type="html"><![CDATA[the cost of wizardspeak comes due in our time]]></summary>
+        <author>
+            <name>/dev/lawyer</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ChatControl: EU wants to scan all private messages, even in encrypted apps]]></title>
         <id>https://news.ycombinator.com/item?id=45374500</id>
