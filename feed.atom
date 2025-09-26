@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-09-26T08:25:54.183Z</updated>
+    <updated>2025-09-26T09:20:27.860Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -14,6 +14,19 @@
         <summary type="html"><![CDATA[the cost of wizardspeak comes due in our time]]></summary>
         <author>
             <name>/dev/lawyer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ChatGPT Pulse]]></title>
+        <id>https://news.ycombinator.com/item?id=45375477</id>
+        <link href="https://openai.com/index/introducing-chatgpt-pulse/"/>
+        <updated>2025-09-25T16:59:55.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://openai.com/index/introducing-chatgpt-pulse/
+Comments URL: https://news.ycombinator.com/item?id=45375477
+Points: 502
+# Comments: 507]]></summary>
+        <author>
+            <name>meetpateltech</name>
         </author>
     </entry>
     <entry>
@@ -2427,19 +2440,6 @@ Points: 502
 # Comments: 270]]></summary>
         <author>
             <name>gnabgib</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google has eliminated 35% of managers overseeing small teams in past year]]></title>
-        <id>https://news.ycombinator.com/item?id=45045398</id>
-        <link href="https://www.cnbc.com/2025/08/27/google-executive-says-company-has-cut-a-third-of-its-managers.html"/>
-        <updated>2025-08-27T21:16:56.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.cnbc.com/2025/08/27/google-executive-says-company-has-cut-a-third-of-its-managers.html
-Comments URL: https://news.ycombinator.com/item?id=45045398
-Points: 511
-# Comments: 240]]></summary>
-        <author>
-            <name>frays</name>
         </author>
     </entry>
 </feed>
