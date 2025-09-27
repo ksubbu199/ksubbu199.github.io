@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=45388021",
+          "author": "knowtheory",
+          "description": "Article URL: https://overreacted.io/open-social/\nComments URL: https://news.ycombinator.com/item?id=45388021\nPoints: 516\n# Comments: 238",
+          "link": "https://overreacted.io/open-social/",
+          "publishedOn": "2025-09-26T16:01:55.000Z",
+          "wordCount": 220899,
+          "title": "Open Social",
+          "imageUrl": "https://overreacted.io/open-social/opengraph-image?5b0b970dfd19bb8c"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=45375845",
           "author": "meetpateltech",
           "description": "Article URL: https://developers.googleblog.com/en/continuing-to-bring-you-our-latest-models-with-an-improved-gemini-2-5-flash-and-flash-lite-release/\nComments URL: https://news.ycombinator.com/item?id=45375845\nPoints: 505\n# Comments: 252",
@@ -1494,16 +1504,6 @@
           "wordCount": 5065,
           "title": "Making Minecraft Spherical",
           "imageUrl": "https://res.cloudinary.com/dj38sdngx/image/upload/v1/bower/posts/blocky-planet/_thumbnail.jpg?_a=BAMAJace0"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=45054260",
-          "author": "rickybule",
-          "description": "Indonesia is currently in chaos. Earlier today, the government blocked access to Twitter & Discord knowing news spread mainly through those channels. Usually we can use Cloudflare's WARP to avoid it, but just today they blocked the access as well. What alternative should we use?\nComments URL: https://news.ycombinator.com/item?id=45054260\nPoints: 532\n# Comments: 309",
-          "link": "https://news.ycombinator.com/item?id=45054260",
-          "publishedOn": "2025-08-28T16:43:05.000Z",
-          "wordCount": 16817,
-          "title": "Ask HN: The government of my country blocked VPN access. What should I use?",
-          "imageUrl": null
         }
       ]
     },

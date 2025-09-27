@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-09-27T04:21:26.438Z</updated>
+    <updated>2025-09-27T05:17:01.151Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Open Social]]></title>
+        <id>https://news.ycombinator.com/item?id=45388021</id>
+        <link href="https://overreacted.io/open-social/"/>
+        <updated>2025-09-26T16:01:55.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://overreacted.io/open-social/
+Comments URL: https://news.ycombinator.com/item?id=45388021
+Points: 516
+# Comments: 238]]></summary>
+        <author>
+            <name>knowtheory</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Magic Hospital ❤️]]></title>
         <id>https://www.youtube.com/shorts/br2Tbn11DjY</id>
@@ -2386,19 +2399,6 @@ Points: 516
 # Comments: 69]]></summary>
         <author>
             <name>iamwil</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ask HN: The government of my country blocked VPN access. What should I use?]]></title>
-        <id>https://news.ycombinator.com/item?id=45054260</id>
-        <link href="https://news.ycombinator.com/item?id=45054260"/>
-        <updated>2025-08-28T16:43:05.000Z</updated>
-        <summary type="html"><![CDATA[Indonesia is currently in chaos. Earlier today, the government blocked access to Twitter & Discord knowing news spread mainly through those channels. Usually we can use Cloudflare's WARP to avoid it, but just today they blocked the access as well. What alternative should we use?
-Comments URL: https://news.ycombinator.com/item?id=45054260
-Points: 532
-# Comments: 309]]></summary>
-        <author>
-            <name>rickybule</name>
         </author>
     </entry>
 </feed>
