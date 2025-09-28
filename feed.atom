@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-09-28T06:26:11.106Z</updated>
+    <updated>2025-09-28T07:16:00.230Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -14,6 +14,19 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>Think School</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Greenland is a beautiful nightmare]]></title>
+        <id>https://news.ycombinator.com/item?id=45396754</id>
+        <link href="https://matduggan.com/greenland-is-a-beautiful-nightmare/"/>
+        <updated>2025-09-27T15:46:46.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://matduggan.com/greenland-is-a-beautiful-nightmare/
+Comments URL: https://news.ycombinator.com/item?id=45396754
+Points: 503
+# Comments: 285]]></summary>
+        <author>
+            <name>zdw</name>
         </author>
     </entry>
     <entry>
@@ -2344,19 +2357,6 @@ Points: 553
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>Hussein Nasser</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Do the simplest thing that could possibly work]]></title>
-        <id>https://news.ycombinator.com/item?id=45068091</id>
-        <link href="https://www.seangoedecke.com/the-simplest-thing-that-could-possibly-work/"/>
-        <updated>2025-08-29T19:05:09.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.seangoedecke.com/the-simplest-thing-that-could-possibly-work/
-Comments URL: https://news.ycombinator.com/item?id=45068091
-Points: 543
-# Comments: 210]]></summary>
-        <author>
-            <name>dondraper36</name>
         </author>
     </entry>
 </feed>
