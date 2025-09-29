@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-09-29T06:30:22.752Z</updated>
+    <updated>2025-09-29T07:19:14.867Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Play snake in the URL address bar]]></title>
+        <id>https://news.ycombinator.com/item?id=45408021</id>
+        <link href="https://demian.ferrei.ro/snake/"/>
+        <updated>2025-09-28T21:08:15.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://demian.ferrei.ro/snake/
+Comments URL: https://news.ycombinator.com/item?id=45408021
+Points: 503
+# Comments: 63]]></summary>
+        <author>
+            <name>macote</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The AI coding trap]]></title>
         <id>https://news.ycombinator.com/item?id=45405177</id>
