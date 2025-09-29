@@ -2,10 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-09-29T16:19:45.486Z</updated>
+    <updated>2025-09-29T17:16:22.832Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[In the economy of user effort, be a bargain, not a scam]]></title>
+        <id>https://lea.verou.me/blog/2025/user-effort/</id>
+        <link href="https://lea.verou.me/blog/2025/user-effort/"/>
+        <updated>2025-09-29T17:09:10.000Z</updated>
+        <summary type="html"><![CDATA[Alan Kay [source]
+
+
+
+One of my favorite product design principles is Alan Kay’s “Simple things should be simple, complex things should be possible”.
+[1]
+I had been saying it almost verbatim long before I encountered Kay’s quote.
+Kay’s maxim is deceptively simple, but its implications run deep.
+It isn’t just a design ideal — it’s a call to continually balance friction, scope, and tradeoffs in service of the people using our products.
+This philosophy played a big part in Prism’s success back in 2012,
+helping it become the web’s de facto syntax highlighter for years, with over 2 billion npm downloads.
+Highlighting code on a page took including two files.
+No markup changes.
+Styling used readable CSS class names.
+Even adding new languages — the most common “complex” use case — required far less…]]></summary>
+        <author>
+            <name>Lea Verou’s blog</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[F-Droid and Google’s developer registration decree]]></title>
         <id>https://news.ycombinator.com/item?id=45409794</id>
