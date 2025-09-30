@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=45416228",
+          "author": "polyrand",
+          "description": "Article URL: https://www.npmjs.com/package/@anthropic-ai/claude-code\nComments URL: https://news.ycombinator.com/item?id=45416228\nPoints: 507\n# Comments: 188",
+          "link": "https://www.npmjs.com/package/@anthropic-ai/claude-code",
+          "publishedOn": "2025-09-29T17:12:13.000Z",
+          "wordCount": null,
+          "title": "Claude Code 2.0",
+          "imageUrl": null
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=45415962",
           "author": "adocomplete",
           "description": "System card: https://assets.anthropic.com/m/12f214efcc2f457a/original/Cla...\nComments URL: https://news.ycombinator.com/item?id=45415962\nPoints: 551\n# Comments: 299",
@@ -1534,26 +1544,6 @@
           "wordCount": 7729,
           "title": "Notes on Managing ADHD",
           "imageUrl": "https://borretti.me/assets/card/notes-on-managing-adhd.webp"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=45082750",
-          "author": "robtherobber",
-          "description": "Article URL: https://www.youtube.com/watch?v=QBEKlIV_70E\nComments URL: https://news.ycombinator.com/item?id=45082750\nPoints: 500\n# Comments: 506",
-          "link": "https://www.youtube.com/watch?v=QBEKlIV_70E",
-          "publishedOn": "2025-08-31T12:44:26.000Z",
-          "wordCount": null,
-          "title": "Google: 'Your $1000 phone needs our permission to install apps now' [video]",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=45082731",
-          "author": "azeemba",
-          "description": "Article URL: https://history.stackexchange.com/questions/79371/this-telegram-must-be-closely-paraphrased-before-being-communicated-to-anyone\nComments URL: https://news.ycombinator.com/item?id=45082731\nPoints: 518\n# Comments: 102",
-          "link": "https://history.stackexchange.com/questions/79371/this-telegram-must-be-closely-paraphrased-before-being-communicated-to-anyone",
-          "publishedOn": "2025-08-31T12:39:47.000Z",
-          "wordCount": 3577,
-          "title": "“This telegram must be closely paraphrased before being communicated to anyone”",
-          "imageUrl": "https://cdn.sstatic.net/Sites/history/Img/apple-touch-icon@2.png?v=7ab66c156165"
         }
       ]
     },
