@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-09-30T18:24:35.367Z</updated>
+    <updated>2025-09-30T19:14:46.239Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Kagi News]]></title>
+        <id>https://news.ycombinator.com/item?id=45426490</id>
+        <link href="https://blog.kagi.com/kagi-news"/>
+        <updated>2025-09-30T15:09:00.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://blog.kagi.com/kagi-news
+Comments URL: https://news.ycombinator.com/item?id=45426490
+Points: 547
+# Comments: 238]]></summary>
+        <author>
+            <name>grappler</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[I’ve removed Disqus. It was making my blog worse]]></title>
         <id>https://news.ycombinator.com/item?id=45423268</id>
