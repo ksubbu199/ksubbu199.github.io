@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-10-01T10:19:31.797Z</updated>
+    <updated>2025-10-01T11:16:24.685Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -54,6 +54,19 @@ Points: 547
 # Comments: 238]]></summary>
         <author>
             <name>grappler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Comprehension debt: A ticking time bomb of LLM-generated code]]></title>
+        <id>https://news.ycombinator.com/item?id=45423917</id>
+        <link href="https://codemanship.wordpress.com/2025/09/30/comprehension-debt-the-ticking-time-bomb-of-llm-generated-code/"/>
+        <updated>2025-09-30T10:37:39.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://codemanship.wordpress.com/2025/09/30/comprehension-debt-the-ticking-time-bomb-of-llm-generated-code/
+Comments URL: https://news.ycombinator.com/item?id=45423917
+Points: 502
+# Comments: 317]]></summary>
+        <author>
+            <name>todsacerdoti</name>
         </author>
     </entry>
     <entry>
