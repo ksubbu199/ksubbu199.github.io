@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=45427982",
+          "author": "skilled",
+          "description": "Video: https://www.youtube.com/watch?v=gzneGhpXwjU\nSystem card: https://openai.com/index/sora-2-system-card/\nComments URL: https://news.ycombinator.com/item?id=45427982\nPoints: 529\n# Comments: 563",
+          "link": "https://openai.com/index/sora-2/",
+          "publishedOn": "2025-09-30T16:55:01.000Z",
+          "wordCount": null,
+          "title": "Sora 2",
+          "imageUrl": null
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=45426490",
           "author": "grappler",
           "description": "Article URL: https://blog.kagi.com/kagi-news\nComments URL: https://news.ycombinator.com/item?id=45426490\nPoints: 547\n# Comments: 238",
@@ -1524,16 +1534,6 @@
           "wordCount": 294,
           "title": "Google AI Overview made up an elaborate story about me",
           "imageUrl": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:yhpu2wsyvdbsehluhclpqyyk/bafkreias2y7ysrmry3aa7ybtsks5uopxnrvvqqyqcu6i673tkm7n4giycy@jpeg"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=45092490",
-          "author": "neoromantique",
-          "description": "Article URL: https://herman.bearblog.dev/license/\nComments URL: https://news.ycombinator.com/item?id=45092490\nPoints: 503\n# Comments: 450",
-          "link": "https://herman.bearblog.dev/license/",
-          "publishedOn": "2025-09-01T13:17:56.000Z",
-          "wordCount": 800,
-          "title": "Bear is now source-available",
-          "imageUrl": "https://bear-images.sfo2.cdn.digitaloceanspaces.com/herman-1683556668-0.png"
         }
       ]
     },
