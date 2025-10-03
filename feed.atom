@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-10-03T05:17:58.393Z</updated>
+    <updated>2025-10-03T06:27:35.152Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -50,6 +50,19 @@ Points: 506
 # Comments: 322]]></summary>
         <author>
             <name>nashashmi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Immich v2.0.0 – First stable release]]></title>
+        <id>https://news.ycombinator.com/item?id=45446834</id>
+        <link href="https://github.com/immich-app/immich/discussions/22546"/>
+        <updated>2025-10-02T06:25:43.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://github.com/immich-app/immich/discussions/22546
+Comments URL: https://news.ycombinator.com/item?id=45446834
+Points: 501
+# Comments: 144]]></summary>
+        <author>
+            <name>Alexvb</name>
         </author>
     </entry>
     <entry>
