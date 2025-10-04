@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=45464921",
+          "author": "greyface-",
+          "description": "Article URL: https://signal.org/blog/pdfs/germany-chat-control.pdf\nComments URL: https://news.ycombinator.com/item?id=45464921\nPoints: 507\n# Comments: 118",
+          "link": "https://signal.org/blog/pdfs/germany-chat-control.pdf",
+          "publishedOn": "2025-10-03T16:44:02.000Z",
+          "wordCount": 2807,
+          "title": "Germany must stand firmly against client-side scanning in Chat Control [pdf]",
+          "imageUrl": null
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=45457333",
           "author": "aspenmayer",
           "description": "Article URL: https://www.foxbusiness.com/politics/apple-takes-down-ice-tracking-app-after-pressure-from-ag-bondi\nComments URL: https://news.ycombinator.com/item?id=45457333\nPoints: 538\n# Comments: 364",
@@ -1524,26 +1534,6 @@
           "wordCount": 41781,
           "title": "Wikipedia survives while the rest of the internet breaks",
           "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/257817_WIKIPEDIA.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=45126503",
-          "author": "jger15",
-          "description": "Article URL: https://www.henrikkarlsson.xyz/p/attention\nComments URL: https://news.ycombinator.com/item?id=45126503\nPoints: 507\n# Comments: 133",
-          "link": "https://www.henrikkarlsson.xyz/p/attention",
-          "publishedOn": "2025-09-04T12:29:49.000Z",
-          "wordCount": 8039,
-          "title": "Almost anything you give sustained attention to will begin to loop on itself",
-          "imageUrl": "https://substackcdn.com/image/fetch/$s_!jygJ!,w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2b7fb0ff-d0da-4f32-91f3-f20fb768fc58_1200x841.png"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=45126358",
-          "author": "kevinyew",
-          "description": "https://browsercompany.substack.com/p/your-tuesday-in-2030\nhttps://www.atlassian.com/blog/announcements/atlassian-acqui...\nhttps://www.theverge.com/web/770947/browser-company-arc-dia-...\nComments URL: https://news.ycombinator.com/item?id=45126358\nPoints: 500\n# Comments: 492",
-          "link": "https://www.cnbc.com/2025/09/04/atlassian-the-browser-company-deal.html",
-          "publishedOn": "2025-09-04T12:12:31.000Z",
-          "wordCount": 25741,
-          "title": "Atlassian is acquiring The Browser Company",
-          "imageUrl": "https://image.cnbcfm.com/api/v1/image/108193265-1756835693078-gettyimages-1242585393-AUSTRALIA_EV_SUMMIT.jpeg?v=1756835864&w=1920&h=1080"
         }
       ]
     },

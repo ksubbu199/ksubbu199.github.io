@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-10-03T23:15:33.029Z</updated>
+    <updated>2025-10-04T01:18:27.950Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Germany must stand firmly against client-side scanning in Chat Control [pdf]]]></title>
+        <id>https://news.ycombinator.com/item?id=45464921</id>
+        <link href="https://signal.org/blog/pdfs/germany-chat-control.pdf"/>
+        <updated>2025-10-03T16:44:02.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://signal.org/blog/pdfs/germany-chat-control.pdf
+Comments URL: https://news.ycombinator.com/item?id=45464921
+Points: 507
+# Comments: 118]]></summary>
+        <author>
+            <name>greyface-</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Asynchronous IO in Postgres 18 | The Backend Engineering Show]]></title>
         <id>https://www.youtube.com/watch?v=yGjGc21mmoU</id>
@@ -2444,34 +2457,6 @@ Points: 511
 # Comments: 388]]></summary>
         <author>
             <name>leotravis10</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Almost anything you give sustained attention to will begin to loop on itself]]></title>
-        <id>https://news.ycombinator.com/item?id=45126503</id>
-        <link href="https://www.henrikkarlsson.xyz/p/attention"/>
-        <updated>2025-09-04T12:29:49.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.henrikkarlsson.xyz/p/attention
-Comments URL: https://news.ycombinator.com/item?id=45126503
-Points: 507
-# Comments: 133]]></summary>
-        <author>
-            <name>jger15</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Atlassian is acquiring The Browser Company]]></title>
-        <id>https://news.ycombinator.com/item?id=45126358</id>
-        <link href="https://www.cnbc.com/2025/09/04/atlassian-the-browser-company-deal.html"/>
-        <updated>2025-09-04T12:12:31.000Z</updated>
-        <summary type="html"><![CDATA[https://browsercompany.substack.com/p/your-tuesday-in-2030
-https://www.atlassian.com/blog/announcements/atlassian-acqui...
-https://www.theverge.com/web/770947/browser-company-arc-dia-...
-Comments URL: https://news.ycombinator.com/item?id=45126358
-Points: 500
-# Comments: 492]]></summary>
-        <author>
-            <name>kevinyew</name>
         </author>
     </entry>
 </feed>
