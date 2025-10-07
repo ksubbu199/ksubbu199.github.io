@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=45497624",
+          "author": "loughnane",
+          "description": "Article URL: https://thecascade.dev/article/least-amount-of-css/\nComments URL: https://news.ycombinator.com/item?id=45497624\nPoints: 507\n# Comments: 219",
+          "link": "https://thecascade.dev/article/least-amount-of-css/",
+          "publishedOn": "2025-10-06T23:47:24.000Z",
+          "wordCount": 747,
+          "title": "The least amount of CSS for a decent looking site (2023)",
+          "imageUrl": "https://thecascade.dev/social.jpg"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=45493358",
           "author": "sergiotapia",
           "description": "Article URL: https://twitter.com/awesomekling/status/1974781722953953601\nComments URL: https://news.ycombinator.com/item?id=45493358\nPoints: 550\n# Comments: 142",
@@ -54,6 +64,16 @@
           "wordCount": 8903,
           "title": "Americans increasingly see legal sports betting as a bad thing for society",
           "imageUrl": "https://www.pewresearch.org/wp-content/uploads/sites/20/2025/10/SR_25.10.02_sports-betting_featured.jpg?w=1200&h=628&crop=1"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=45469376",
+          "author": "walterbell",
+          "description": "Article URL: https://windscribe.com/blog/the-vpn-relationship-map/\nComments URL: https://news.ycombinator.com/item?id=45469376\nPoints: 502\n# Comments: 309",
+          "link": "https://windscribe.com/blog/the-vpn-relationship-map/",
+          "publishedOn": "2025-10-04T00:30:44.000Z",
+          "wordCount": 4371,
+          "title": "Who owns Express VPN, Nord, Surfshark? VPN relationships explained (2024)",
+          "imageUrl": "https://windscribe.com/blog/content/images/2022/04/1920-1080-max-2.png"
         },
         {
           "id": "https://news.ycombinator.com/item?id=45464921",
@@ -1464,16 +1484,6 @@
           "wordCount": 2563,
           "title": "Immich – High performance self-hosted photo and video management",
           "imageUrl": "https://repository-images.githubusercontent.com/455229168/ebba3238-9ef5-4891-ad58-a3b0223b12bd"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=45163362",
-          "author": "dmitrybrant",
-          "description": "Article URL: https://dmitrybrant.com/2025/09/07/using-claude-code-to-modernize-a-25-year-old-kernel-driver\nComments URL: https://news.ycombinator.com/item?id=45163362\nPoints: 549\n# Comments: 167",
-          "link": "https://dmitrybrant.com/2025/09/07/using-claude-code-to-modernize-a-25-year-old-kernel-driver",
-          "publishedOn": "2025-09-07T23:53:47.000Z",
-          "wordCount": 2674,
-          "title": "Using Claude Code to modernize a 25-year-old kernel driver",
-          "imageUrl": null
         }
       ]
     },
@@ -1518,16 +1528,6 @@
           "wordCount": 1066,
           "title": "The Boot.dev Beat. October 2025",
           "imageUrl": "https://blog.boot.dev/img/800/pythogoras.webp.webp"
-        },
-        {
-          "id": "https://blog.boot.dev/news/bootdev-beat-2025-09/",
-          "author": null,
-          "description": "The training grounds are LIVE! 21,000 challenges have been generated between the launch and as I write this, and we’re just getting started. Big things to come.",
-          "link": "https://blog.boot.dev/news/bootdev-beat-2025-09/",
-          "publishedOn": "2025-09-08T00:00:00.000Z",
-          "wordCount": 949,
-          "title": "The Boot.dev Beat. September 2025",
-          "imageUrl": "https://blog.boot.dev/img/800/bootssalmonhoney.webp.webp"
         }
       ]
     },

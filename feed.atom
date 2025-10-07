@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-10-07T11:15:45.404Z</updated>
+    <updated>2025-10-07T12:39:22.912Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The least amount of CSS for a decent looking site (2023)]]></title>
+        <id>https://news.ycombinator.com/item?id=45497624</id>
+        <link href="https://thecascade.dev/article/least-amount-of-css/"/>
+        <updated>2025-10-06T23:47:24.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://thecascade.dev/article/least-amount-of-css/
+Comments URL: https://news.ycombinator.com/item?id=45497624
+Points: 507
+# Comments: 219]]></summary>
+        <author>
+            <name>loughnane</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ladybird passes the Apple 90% threshold on web-platform-tests]]></title>
         <id>https://news.ycombinator.com/item?id=45493358</id>
@@ -98,6 +111,19 @@ Points: 502
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>Hussein Nasser</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Who owns Express VPN, Nord, Surfshark? VPN relationships explained (2024)]]></title>
+        <id>https://news.ycombinator.com/item?id=45469376</id>
+        <link href="https://windscribe.com/blog/the-vpn-relationship-map/"/>
+        <updated>2025-10-04T00:30:44.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://windscribe.com/blog/the-vpn-relationship-map/
+Comments URL: https://news.ycombinator.com/item?id=45469376
+Points: 502
+# Comments: 309]]></summary>
+        <author>
+            <name>walterbell</name>
         </author>
     </entry>
     <entry>
@@ -2332,29 +2358,6 @@ Points: 504
 # Comments: 171]]></summary>
         <author>
             <name>rzk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Boot.dev Beat. September 2025]]></title>
-        <id>https://blog.boot.dev/news/bootdev-beat-2025-09/</id>
-        <link href="https://blog.boot.dev/news/bootdev-beat-2025-09/"/>
-        <updated>2025-09-08T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The training grounds are LIVE! 21,000 challenges have been generated between the launch and as I write this, and we’re just getting started. Big things to come.]]></summary>
-        <author>
-            <name>Boot.dev Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Using Claude Code to modernize a 25-year-old kernel driver]]></title>
-        <id>https://news.ycombinator.com/item?id=45163362</id>
-        <link href="https://dmitrybrant.com/2025/09/07/using-claude-code-to-modernize-a-25-year-old-kernel-driver"/>
-        <updated>2025-09-07T23:53:47.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://dmitrybrant.com/2025/09/07/using-claude-code-to-modernize-a-25-year-old-kernel-driver
-Comments URL: https://news.ycombinator.com/item?id=45163362
-Points: 549
-# Comments: 167]]></summary>
-        <author>
-            <name>dmitrybrant</name>
         </author>
     </entry>
 </feed>
