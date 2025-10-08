@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=45513485",
+          "author": "baobun",
+          "description": "Article URL: https://www.guru3d.com/story/synology-reverses-policy-banning-thirdparty-hdds-after-nas-sales-plummet/\nComments URL: https://news.ycombinator.com/item?id=45513485\nPoints: 520\n# Comments: 328",
+          "link": "https://www.guru3d.com/story/synology-reverses-policy-banning-thirdparty-hdds-after-nas-sales-plummet/",
+          "publishedOn": "2025-10-08T08:19:36.000Z",
+          "wordCount": 919,
+          "title": "Synology reverses policy banning third-party HDDs after sales allegedly plummet",
+          "imageUrl": "https://www.guru3d.com/data/publish/226/8042eeca5148cf31ca512f2f80ee2eb8dbb74a/7846uhj.webp"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=45507936",
           "author": "mfiguiere",
           "description": "Article URL: https://blog.google/technology/google-deepmind/gemini-computer-use-model/\nComments URL: https://news.ycombinator.com/item?id=45507936\nPoints: 515\n# Comments: 255",
@@ -26,6 +36,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://news.ycombinator.com/item?id=45504973",
+          "author": "mholt",
+          "description": "Hey HN -- thanks for showing interest in this. Happy to collaborate on this project. I'm hoping to get it stable soon so my own family can start using it.\nI've been working on this for about 10+ years, nights and weekends. It's been really slow going since I only have my own personal data to test it with.\nI just don't love that my data is primarily stored on someone else's computer up in the cloud. I want my own local copy at least. And while I can download exports from my various accounts, I don't want them to just gather dust and rot on my hard drive.\nSo, Timelinize helps keep that data alive and relevant and in my control. I don't have as much worry if my cloud accounts go away. Hopefully you'll find it useful, and I hope we can collaborate.\n(PS. I'm open to changing the name. Never really liked this one...)\nComments URL: https://news.ycombinator.com/item?id=45504973\nPoints: 504\n# Comments: 119",
+          "link": "https://timelinize.com/",
+          "publishedOn": "2025-10-07T16:10:22.000Z",
+          "wordCount": 1386,
+          "title": "Show HN: Timelinize – Privately organize your own data from everywhere, locally",
+          "imageUrl": "https://timelinize.com/resources/images/open-graph-square.png"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=45502541",
           "author": "janjongboom",
           "description": "Article URL: https://www.qualcomm.com/news/releases/2025/10/qualcomm-to-acquire-arduino-accelerating-developers--access-to-i\nComments URL: https://news.ycombinator.com/item?id=45502541\nPoints: 549\n# Comments: 266",
@@ -34,6 +54,16 @@
           "wordCount": 131,
           "title": "Qualcomm to Acquire Arduino",
           "imageUrl": "https://s7d1.scene7.com/is/image/dmqualcommprod/ArduinoUnoQ"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=45502216",
+          "author": "walterbell",
+          "description": "Article URL: https://nationalpost.com/opinion/canadian-bill-would-strip-internet-access-from-specified-persons\nComments URL: https://news.ycombinator.com/item?id=45502216\nPoints: 511\n# Comments: 279",
+          "link": "https://nationalpost.com/opinion/canadian-bill-would-strip-internet-access-from-specified-persons",
+          "publishedOn": "2025-10-07T12:20:14.000Z",
+          "wordCount": null,
+          "title": "Canadian bill would strip internet access from 'specified persons', no warrant",
+          "imageUrl": null
         },
         {
           "id": "https://news.ycombinator.com/item?id=45497624",
@@ -1464,16 +1494,6 @@
           "wordCount": 2716,
           "title": "Mistral AI raises 1.7B€, enters strategic partnership with ASML",
           "imageUrl": "https://mistral.ai/img/mistral-cover.png"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=45176206",
-          "author": "LorenDB",
-          "description": "Article URL: https://maurycyz.com/misc/ads/\nComments URL: https://news.ycombinator.com/item?id=45176206\nPoints: 507\n# Comments: 259",
-          "link": "https://maurycyz.com/misc/ads/",
-          "publishedOn": "2025-09-09T01:09:21.000Z",
-          "wordCount": 757,
-          "title": "No adblocker detected",
-          "imageUrl": null
         }
       ]
     },
@@ -1571,6 +1591,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKZozRVHRYsYHGEyNKuhhdA",
       "siteUrl": "https://www.youtube.com/channel/UCKZozRVHRYsYHGEyNKuhhdA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/shorts/kDGCTQsIj2E",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/kDGCTQsIj2E",
+          "publishedOn": "2025-10-08T13:01:26.000Z",
+          "wordCount": 2134,
+          "title": "MSP isn't the problem, India's use of it is",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/shorts/NM_Icq_Vpyc",
           "author": null,

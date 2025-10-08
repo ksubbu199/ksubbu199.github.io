@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-10-08T12:39:28.319Z</updated>
+    <updated>2025-10-08T13:28:58.611Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[MSP isn't the problem, India's use of it is]]></title>
+        <id>https://www.youtube.com/shorts/kDGCTQsIj2E</id>
+        <link href="https://www.youtube.com/shorts/kDGCTQsIj2E"/>
+        <updated>2025-10-08T13:01:26.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Think School</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How ₹10 drink made ₹525 Empire!]]></title>
         <id>https://www.youtube.com/shorts/NM_Icq_Vpyc</id>
@@ -14,6 +24,19 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>Think School</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Synology reverses policy banning third-party HDDs after sales allegedly plummet]]></title>
+        <id>https://news.ycombinator.com/item?id=45513485</id>
+        <link href="https://www.guru3d.com/story/synology-reverses-policy-banning-thirdparty-hdds-after-nas-sales-plummet/"/>
+        <updated>2025-10-08T08:19:36.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.guru3d.com/story/synology-reverses-policy-banning-thirdparty-hdds-after-nas-sales-plummet/
+Comments URL: https://news.ycombinator.com/item?id=45513485
+Points: 520
+# Comments: 328]]></summary>
+        <author>
+            <name>baobun</name>
         </author>
     </entry>
     <entry>
@@ -43,6 +66,23 @@ Points: 560
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Show HN: Timelinize – Privately organize your own data from everywhere, locally]]></title>
+        <id>https://news.ycombinator.com/item?id=45504973</id>
+        <link href="https://timelinize.com/"/>
+        <updated>2025-10-07T16:10:22.000Z</updated>
+        <summary type="html"><![CDATA[Hey HN -- thanks for showing interest in this. Happy to collaborate on this project. I'm hoping to get it stable soon so my own family can start using it.
+I've been working on this for about 10+ years, nights and weekends. It's been really slow going since I only have my own personal data to test it with.
+I just don't love that my data is primarily stored on someone else's computer up in the cloud. I want my own local copy at least. And while I can download exports from my various accounts, I don't want them to just gather dust and rot on my hard drive.
+So, Timelinize helps keep that data alive and relevant and in my control. I don't have as much worry if my cloud accounts go away. Hopefully you'll find it useful, and I hope we can collaborate.
+(PS. I'm open to changing the name. Never really liked this one...)
+Comments URL: https://news.ycombinator.com/item?id=45504973
+Points: 504
+# Comments: 119]]></summary>
+        <author>
+            <name>mholt</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Qualcomm to Acquire Arduino]]></title>
         <id>https://news.ycombinator.com/item?id=45502541</id>
         <link href="https://www.qualcomm.com/news/releases/2025/10/qualcomm-to-acquire-arduino-accelerating-developers--access-to-i"/>
@@ -53,6 +93,19 @@ Points: 549
 # Comments: 266]]></summary>
         <author>
             <name>janjongboom</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Canadian bill would strip internet access from 'specified persons', no warrant]]></title>
+        <id>https://news.ycombinator.com/item?id=45502216</id>
+        <link href="https://nationalpost.com/opinion/canadian-bill-would-strip-internet-access-from-specified-persons"/>
+        <updated>2025-10-07T12:20:14.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://nationalpost.com/opinion/canadian-bill-would-strip-internet-access-from-specified-persons
+Comments URL: https://news.ycombinator.com/item?id=45502216
+Points: 511
+# Comments: 279]]></summary>
+        <author>
+            <name>walterbell</name>
         </author>
     </entry>
     <entry>
@@ -2322,19 +2375,6 @@ Points: 558
 # Comments: 318]]></summary>
         <author>
             <name>TechTechTech</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[No adblocker detected]]></title>
-        <id>https://news.ycombinator.com/item?id=45176206</id>
-        <link href="https://maurycyz.com/misc/ads/"/>
-        <updated>2025-09-09T01:09:21.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://maurycyz.com/misc/ads/
-Comments URL: https://news.ycombinator.com/item?id=45176206
-Points: 507
-# Comments: 259]]></summary>
-        <author>
-            <name>LorenDB</name>
         </author>
     </entry>
 </feed>
