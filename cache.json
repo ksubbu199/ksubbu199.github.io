@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=45516000",
+          "author": "jgrahamc",
+          "description": "Article URL: https://blog.cloudflare.com/how-we-found-a-bug-in-gos-arm64-compiler/\nComments URL: https://news.ycombinator.com/item?id=45516000\nPoints: 526\n# Comments: 86",
+          "link": "https://blog.cloudflare.com/how-we-found-a-bug-in-gos-arm64-compiler/",
+          "publishedOn": "2025-10-08T13:33:15.000Z",
+          "wordCount": 3761,
+          "title": "We found a bug in Go's ARM64 compiler",
+          "imageUrl": "https://cf-assets.www.cloudflare.com/zkvhlag99gkb/45p8HVRfk35dfKi2bmrTXs/545379fb250a4c31bf69677951efe584/BLOG-2906_OG.png"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=45513485",
           "author": "baobun",
           "description": "Article URL: https://www.guru3d.com/story/synology-reverses-policy-banning-thirdparty-hdds-after-nas-sales-plummet/\nComments URL: https://news.ycombinator.com/item?id=45513485\nPoints: 520\n# Comments: 328",
@@ -154,6 +164,16 @@
           "wordCount": 8903,
           "title": "Americans increasingly see legal sports betting as a bad thing for society",
           "imageUrl": "https://www.pewresearch.org/wp-content/uploads/sites/20/2025/10/SR_25.10.02_sports-betting_featured.jpg?w=1200&h=628&crop=1"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=45474301",
+          "author": "pseudolus",
+          "description": "Article URL: https://www.cbsnews.com/texas/news/sec-approves-texas-stock-exchange-txse/\nComments URL: https://news.ycombinator.com/item?id=45474301\nPoints: 518\n# Comments: 353",
+          "link": "https://www.cbsnews.com/texas/news/sec-approves-texas-stock-exchange-txse/",
+          "publishedOn": "2025-10-04T16:04:24.000Z",
+          "wordCount": 2140,
+          "title": "SEC approves Texas Stock Exchange, first new US integrated exchange in decades",
+          "imageUrl": "https://assets1.cbsnewsstatic.com/hub/i/r/2025/09/30/d7e937e0-5d1d-452d-8d34-9b14e7c37658/thumbnail/1200x630g8/6a9cdcafdcc57b8fcab892fa8f6b92d6/gettyimages-2158978832.jpg"
         },
         {
           "id": "https://news.ycombinator.com/item?id=45469376",
@@ -1484,16 +1504,6 @@
           "wordCount": 7265,
           "title": "New Mexico is first state in US to offer universal child care",
           "imageUrl": "https://www.governor.state.nm.us/wp-content/uploads/2024/06/News-from-the-office-of-the-governor-michelle-lujan-grisham.webp"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=45181535",
-          "author": "mmulet",
-          "description": "I made a built-from scratch Wayland Compositor to display any GUI app* in the terminal! I think there is a lot of unexplored potential in custom Wayland compositors, a lot of really cool things you can embed existing applications into! So, I started with embedding apps into the terminal because that is the easiest input/output (output is just utf-8 and I use the great `chafa` library for that, and I just read from stdin for the input).\nIf you have any other ideas for cool Wayland compositors, let me know. I purposedly wrote 80% the app in Typescript to appeal to the most developers and attract cool contributions (I do all drawing with the familiar Canvas2D api, so if there is interest, I can also fork this out into a cool Terminal canvas, let me know!)\nI have a blog post here about how I did it, but it’s pretty high level and non technical, so please ask if you have any questions.\n[How I Did It](https://github.com/mmulet/term.everything/blob/main/resource...>)\n*technically only Wayland apps and x11 apps with Xwayland. But on Linux that’s mostly everything.\nComments URL: https://news.ycombinator.com/item?id=45181535\nPoints: 536\n# Comments: 83",
-          "link": "https://github.com/mmulet/term.everything",
-          "publishedOn": "2025-09-09T13:16:30.000Z",
-          "wordCount": 3550,
-          "title": "Show HN: Term.everything – Run any GUI app in the terminal",
-          "imageUrl": "https://opengraph.githubassets.com/f14f7f27bbe94a836780030932419b67ce6819cba170e47229cb69ff6f1481e4/mmulet/term.everything"
         }
       ]
     },
