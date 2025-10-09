@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=45529587",
+          "author": "meetpateltech",
+          "description": "Article URL: https://www.anthropic.com/research/small-samples-poison\nComments URL: https://news.ycombinator.com/item?id=45529587\nPoints: 536\n# Comments: 161",
+          "link": "https://www.anthropic.com/research/small-samples-poison",
+          "publishedOn": "2025-10-09T16:04:04.000Z",
+          "wordCount": 4444,
+          "title": "A small number of samples can poison LLMs of any size",
+          "imageUrl": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20Puzzle&backgroundColor=heather"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=45521920",
           "author": "SilverElfin",
           "description": "https://archive.ph/w0izj\nComments URL: https://news.ycombinator.com/item?id=45521920\nPoints: 597\n# Comments: 371",
@@ -1444,16 +1454,6 @@
           "wordCount": null,
           "title": "ChatGPT Developer Mode: Full MCP client access",
           "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=45195520",
-          "author": "robtherobber",
-          "description": "Article URL: https://www.greeneuropeanjournal.eu/made-for-people-not-cars-reclaiming-european-cities/\nComments URL: https://news.ycombinator.com/item?id=45195520\nPoints: 519\n# Comments: 655",
-          "link": "https://www.greeneuropeanjournal.eu/made-for-people-not-cars-reclaiming-european-cities/",
-          "publishedOn": "2025-09-10T10:08:14.000Z",
-          "wordCount": 3747,
-          "title": "Pontevedra, Spain declares its entire urban area a \"reduced traffic zone\"",
-          "imageUrl": "https://www.greeneuropeanjournal.eu/wp-content/uploads/2025/08/SM-card-2-2.png"
         }
       ]
     },
