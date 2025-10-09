@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-10-09T18:26:45.474Z</updated>
+    <updated>2025-10-09T19:15:24.681Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -141,6 +141,19 @@ Points: 504
 # Comments: 119]]></summary>
         <author>
             <name>mholt</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[IKEA Catalogs 1951-2021]]></title>
+        <id>https://news.ycombinator.com/item?id=45504470</id>
+        <link href="https://ikeamuseum.com/en/explore/ikea-catalogue/"/>
+        <updated>2025-10-07T15:35:48.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://ikeamuseum.com/en/explore/ikea-catalogue/
+Comments URL: https://news.ycombinator.com/item?id=45504470
+Points: 500
+# Comments: 138]]></summary>
+        <author>
+            <name>bookofjoe</name>
         </author>
     </entry>
     <entry>
@@ -2305,16 +2318,6 @@ Points: 519
 # Comments: 655]]></summary>
         <author>
             <name>robtherobber</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Carpet Area vs Super Built-Up Area]]></title>
-        <id>https://www.youtube.com/shorts/jHzYIFM08vQ</id>
-        <link href="https://www.youtube.com/shorts/jHzYIFM08vQ"/>
-        <updated>2025-09-10T07:03:45.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Think School</name>
         </author>
     </entry>
 </feed>
