@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-10-09T07:17:52.286Z</updated>
+    <updated>2025-10-09T08:26:12.625Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[A competitor crippled a $23.5M bootcamp by becoming a Reddit moderator]]></title>
+        <id>https://news.ycombinator.com/item?id=45521920</id>
+        <link href="https://larslofgren.com/codesmith-reddit-reputation-attack/"/>
+        <updated>2025-10-08T23:48:28.000Z</updated>
+        <summary type="html"><![CDATA[https://archive.ph/w0izj
+Comments URL: https://news.ycombinator.com/item?id=45521920
+Points: 597
+# Comments: 371]]></summary>
+        <author>
+            <name>SilverElfin</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[We found a bug in Go's ARM64 compiler]]></title>
         <id>https://news.ycombinator.com/item?id=45516000</id>
