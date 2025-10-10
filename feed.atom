@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-10-10T06:28:46.034Z</updated>
+    <updated>2025-10-10T07:18:26.883Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -26,6 +26,19 @@ Points: 536
         <updated>2025-10-09T13:12:20.000Z</updated>
         <author>
             <name>Think School</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Python 3.14 is here. How fast is it?]]></title>
+        <id>https://news.ycombinator.com/item?id=45524702</id>
+        <link href="https://blog.miguelgrinberg.com/post/python-3-14-is-here-how-fast-is-it"/>
+        <updated>2025-10-09T07:40:42.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://blog.miguelgrinberg.com/post/python-3-14-is-here-how-fast-is-it
+Comments URL: https://news.ycombinator.com/item?id=45524702
+Points: 512
+# Comments: 374]]></summary>
+        <author>
+            <name>pjmlp</name>
         </author>
     </entry>
     <entry>
@@ -2269,19 +2282,6 @@ Points: 524
 # Comments: 314]]></summary>
         <author>
             <name>Bogdanp</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Charlie Kirk killed at event in Utah]]></title>
-        <id>https://news.ycombinator.com/item?id=45202200</id>
-        <link href="https://www.nbcnews.com/news/us-news/live-blog/live-updates-shooting-charlie-kirk-event-utah-rcna230437"/>
-        <updated>2025-09-10T19:02:48.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.nbcnews.com/news/us-news/live-blog/live-updates-shooting-charlie-kirk-event-utah-rcna230437
-Comments URL: https://news.ycombinator.com/item?id=45202200
-Points: 663
-# Comments: 1412]]></summary>
-        <author>
-            <name>david927</name>
         </author>
     </entry>
 </feed>

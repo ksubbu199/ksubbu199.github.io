@@ -16,6 +16,16 @@
           "imageUrl": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20Puzzle&backgroundColor=heather"
         },
         {
+          "id": "https://news.ycombinator.com/item?id=45524702",
+          "author": "pjmlp",
+          "description": "Article URL: https://blog.miguelgrinberg.com/post/python-3-14-is-here-how-fast-is-it\nComments URL: https://news.ycombinator.com/item?id=45524702\nPoints: 512\n# Comments: 374",
+          "link": "https://blog.miguelgrinberg.com/post/python-3-14-is-here-how-fast-is-it",
+          "publishedOn": "2025-10-09T07:40:42.000Z",
+          "wordCount": 3619,
+          "title": "Python 3.14 is here. How fast is it?",
+          "imageUrl": "https://blog.miguelgrinberg.com/static/cards/python-3-14-is-here-how-fast-is-it.jpg"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=45521920",
           "author": "SilverElfin",
           "description": "https://archive.ph/w0izj\nComments URL: https://news.ycombinator.com/item?id=45521920\nPoints: 597\n# Comments: 371",
@@ -1424,16 +1434,6 @@
           "wordCount": 2447,
           "title": "KDE launches its own distribution",
           "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=45202200",
-          "author": "david927",
-          "description": "Article URL: https://www.nbcnews.com/news/us-news/live-blog/live-updates-shooting-charlie-kirk-event-utah-rcna230437\nComments URL: https://news.ycombinator.com/item?id=45202200\nPoints: 663\n# Comments: 1412",
-          "link": "https://www.nbcnews.com/news/us-news/live-blog/live-updates-shooting-charlie-kirk-event-utah-rcna230437",
-          "publishedOn": "2025-09-10T19:02:48.000Z",
-          "wordCount": 43070,
-          "title": "Charlie Kirk killed at event in Utah",
-          "imageUrl": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-09/250910-charlie-kirk-ch-1551-3937f9.jpg"
         }
       ]
     },
