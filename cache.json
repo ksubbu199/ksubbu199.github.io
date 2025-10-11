@@ -26,6 +26,16 @@
           "imageUrl": "https://www.nobelprize.org/uploads/2025/10/carrier_peace_1200x630px-1024x538.jpg"
         },
         {
+          "id": "https://news.ycombinator.com/item?id=45536694",
+          "author": "diyer22",
+          "description": "I invented Discrete Distribution Networks, a novel generative model with simple principles and unique properties, and the paper has been accepted to ICLR2025!\nModeling data distribution is challenging; DDN adopts a simple yet fundamentally different approach compared to mainstream generative models (Diffusion, GAN, VAE, autoregressive model):\n1. The model generates multiple outputs simultaneously in a single forward pass, rather than just one output.\n2. It uses these multiple outputs to approximate the target distribution of the training data.\n3. These outputs together represent a discrete distribution. This is why we named it \"Discrete Distribution Networks\".\nEvery generative model has its unique properties, and DDN is no exception. Here, we highlight three characteristics of DDN:\n- Zero-Shot Conditional Generation (ZSCG).\n- One-dimensional discrete latent representation organized in a tree structure.\n- Fully end-to-end differentiable.\nReviews from ICLR:\n> I find the method novel and elegant. The novelty is very strong, and this should not be overlooked. This is a whole new method, very different from any of the existing generative models.  \n> This is a very good paper that can open a door to new directions in generative modeling.\nComments URL: https://news.ycombinator.com/item?id=45536694\nPoints: 509\n# Comments: 61",
+          "link": "https://discrete-distribution-networks.github.io/",
+          "publishedOn": "2025-10-10T09:01:54.000Z",
+          "wordCount": 3488,
+          "title": "Show HN: I invented a new generative model and got accepted to ICLR",
+          "imageUrl": "https://discrete-distribution-networks.github.io/img/ddn-intro.png"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=45529587",
           "author": "meetpateltech",
           "description": "Article URL: https://www.anthropic.com/research/small-samples-poison\nComments URL: https://news.ycombinator.com/item?id=45529587\nPoints: 536\n# Comments: 161",
@@ -1810,16 +1820,6 @@
           "publishedOn": "2025-09-13T08:30:24.000Z",
           "wordCount": null,
           "title": "Dictator vs Democracy : How a Poor boy Became the MOST POWERFUL Dictator in the world?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/shorts/beTuvUzI9f4",
-          "author": null,
-          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-          "link": "https://www.youtube.com/shorts/beTuvUzI9f4",
-          "publishedOn": "2025-09-11T13:42:36.000Z",
-          "wordCount": 2187,
-          "title": "Don’t Invest in Mumbai Before This!",
           "imageUrl": null
         }
       ]
