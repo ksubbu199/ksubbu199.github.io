@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=45551504",
+          "author": "dmitrygr",
+          "description": "Article URL: https://hardware.slashdot.org/story/25/10/11/0238213/microsofts-onedrive-begins-testing-face-recognizing-ai-for-photos-for-some-preview-users\nComments URL: https://news.ycombinator.com/item?id=45551504\nPoints: 505\n# Comments: 187",
+          "link": "https://hardware.slashdot.org/story/25/10/11/0238213/microsofts-onedrive-begins-testing-face-recognizing-ai-for-photos-for-some-preview-users",
+          "publishedOn": "2025-10-11T18:36:51.000Z",
+          "wordCount": 7791,
+          "title": "Microsoft only lets you opt out of AI photo scanning 3x a year",
+          "imageUrl": "https://a.fsdn.com/sd/topics/microsoft_64100.png"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=45547566",
           "author": "todsacerdoti",
           "description": "Article URL: https://denodell.com/blog/html-best-kept-secret-output-tag\nComments URL: https://news.ycombinator.com/item?id=45547566\nPoints: 523\n# Comments: 126",
@@ -1404,16 +1414,6 @@
           "wordCount": 12155,
           "title": "EU court rules nuclear energy is clean energy",
           "imageUrl": "https://static.wixstatic.com/media/5caaac_916351d1f898430fb4459a41f853ef2b~mv2.jpg/v1/fill/w_2500,h_1614,al_c/5caaac_916351d1f898430fb4459a41f853ef2b~mv2.jpg"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=45224156",
-          "author": "rcarmo",
-          "description": "Article URL: https://github.com/qgis/QGIS\nComments URL: https://news.ycombinator.com/item?id=45224156\nPoints: 505\n# Comments: 116",
-          "link": "https://github.com/qgis/QGIS",
-          "publishedOn": "2025-09-12T16:57:17.000Z",
-          "wordCount": 4611,
-          "title": "QGIS is a free, open-source, cross platform geographical information system",
-          "imageUrl": "https://opengraph.githubassets.com/37978ac1bf9602feb79f65752117d9ad836b8d6d5e1806f61d83cfada99e8a12/qgis/QGIS"
         }
       ]
     },
