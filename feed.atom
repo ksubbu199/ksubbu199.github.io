@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-10-12T01:26:02.020Z</updated>
+    <updated>2025-10-12T03:02:06.207Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -17,6 +17,19 @@ Points: 523
 # Comments: 126]]></summary>
         <author>
             <name>todsacerdoti</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Daniel Kahneman opted for assisted suicide in Switzerland]]></title>
+        <id>https://news.ycombinator.com/item?id=45547492</id>
+        <link href="https://www.bluewin.ch/en/entertainment/nobel-prize-winner-opts-for-suicide-in-switzerland-2619460.html"/>
+        <updated>2025-10-11T08:09:15.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.bluewin.ch/en/entertainment/nobel-prize-winner-opts-for-suicide-in-switzerland-2619460.html
+Comments URL: https://news.ycombinator.com/item?id=45547492
+Points: 500
+# Comments: 488]]></summary>
+        <author>
+            <name>kvam</name>
         </author>
     </entry>
     <entry>
@@ -2330,19 +2343,6 @@ Points: 506
 # Comments: 374]]></summary>
         <author>
             <name>b_mc2</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Many hard LeetCode problems are easy constraint problems]]></title>
-        <id>https://news.ycombinator.com/item?id=45222695</id>
-        <link href="https://buttondown.com/hillelwayne/archive/many-hard-leetcode-problems-are-easy-constraint/"/>
-        <updated>2025-09-12T14:44:05.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://buttondown.com/hillelwayne/archive/many-hard-leetcode-problems-are-easy-constraint/
-Comments URL: https://news.ycombinator.com/item?id=45222695
-Points: 505
-# Comments: 437]]></summary>
-        <author>
-            <name>mpweiher</name>
         </author>
     </entry>
 </feed>
