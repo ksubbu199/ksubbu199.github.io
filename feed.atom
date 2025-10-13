@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-10-13T08:27:30.204Z</updated>
+    <updated>2025-10-13T09:22:55.479Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Wireguard FPGA]]></title>
+        <id>https://news.ycombinator.com/item?id=45559857</id>
+        <link href="https://github.com/chili-chips-ba/wireguard-fpga"/>
+        <updated>2025-10-12T17:12:00.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://github.com/chili-chips-ba/wireguard-fpga
+Comments URL: https://news.ycombinator.com/item?id=45559857
+Points: 511
+# Comments: 125]]></summary>
+        <author>
+            <name>hasheddan</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[No I don't want to turn on Windows Backup with One Drive]]></title>
         <id>https://news.ycombinator.com/item?id=45559023</id>
