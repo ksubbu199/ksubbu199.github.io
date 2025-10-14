@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-10-14T21:15:54.893Z</updated>
+    <updated>2025-10-14T22:17:27.011Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -14,6 +14,19 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>Think School</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Don’t Look Up: Sensitive internal links in the clear on GEO satellites [pdf]]]></title>
+        <id>https://news.ycombinator.com/item?id=45575391</id>
+        <link href="https://satcom.sysnet.ucsd.edu/docs/dontlookup_ccs25_fullpaper.pdf"/>
+        <updated>2025-10-14T01:48:56.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://satcom.sysnet.ucsd.edu/docs/dontlookup_ccs25_fullpaper.pdf
+Comments URL: https://news.ycombinator.com/item?id=45575391
+Points: 508
+# Comments: 120]]></summary>
+        <author>
+            <name>dweekly</name>
         </author>
     </entry>
     <entry>
