@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-10-15T20:21:51.637Z</updated>
+    <updated>2025-10-15T21:17:07.826Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -17,6 +17,19 @@ Points: 552
 # Comments: 567]]></summary>
         <author>
             <name>mihau</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I almost got hacked by a 'job interview']]></title>
+        <id>https://news.ycombinator.com/item?id=45591707</id>
+        <link href="https://blog.daviddodda.com/how-i-almost-got-hacked-by-a-job-interview"/>
+        <updated>2025-10-15T12:56:12.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://blog.daviddodda.com/how-i-almost-got-hacked-by-a-job-interview
+Comments URL: https://news.ycombinator.com/item?id=45591707
+Points: 553
+# Comments: 284]]></summary>
+        <author>
+            <name>DavidDodda</name>
         </author>
     </entry>
     <entry>
@@ -2237,19 +2250,6 @@ Points: 508
 # Comments: 381]]></summary>
         <author>
             <name>jamesberthoty</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Top UN legal investigators conclude Israel is guilty of genocide in Gaza]]></title>
-        <id>https://news.ycombinator.com/item?id=45259553</id>
-        <link href="https://www.middleeasteye.net/news/un-concludes-israel-guilty-genocide-gaza"/>
-        <updated>2025-09-16T08:24:22.000Z</updated>
-        <summary type="html"><![CDATA[Full report: https://www.ohchr.org/sites/default/files/documents/hrbodies...
-Comments URL: https://news.ycombinator.com/item?id=45259553
-Points: 537
-# Comments: 328]]></summary>
-        <author>
-            <name>Qem</name>
         </author>
     </entry>
 </feed>
