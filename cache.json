@@ -1364,26 +1364,6 @@
           "wordCount": 453,
           "title": "\"Your\" vs. \"My\" in user interfaces",
           "imageUrl": "https://socialcardcreator.com/api/v1/tmpl_01jeer0h12fchz2wamdf88qb9k.png?heading=%E2%80%9CYour%E2%80%9D%20vs%20%E2%80%9CMy%E2%80%9D%20in%20user%20interfaces"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=45256651",
-          "author": "wicket",
-          "description": "Article URL: https://feddit.org/post/18353777\nComments URL: https://news.ycombinator.com/item?id=45256651\nPoints: 518\n# Comments: 313",
-          "link": "https://feddit.org/post/18353777",
-          "publishedOn": "2025-09-16T00:33:12.000Z",
-          "wordCount": 162650,
-          "title": "Linux phones are more important now than ever",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=45256577",
-          "author": "mgrayson",
-          "description": "Article URL: https://morrick.me/archives/10137\nComments URL: https://news.ycombinator.com/item?id=45256577\nPoints: 525\n# Comments: 497",
-          "link": "https://morrick.me/archives/10137",
-          "publishedOn": "2025-09-16T00:20:59.000Z",
-          "wordCount": 3641,
-          "title": "I feel Apple has lost its alignment with me and other long-time customers",
-          "imageUrl": "https://i0.wp.com/morrick.me/wp-content/uploads/2017/10/cropped-new-R-logo-red-siteicon.png?fit=512%2C512&ssl=1"
         }
       ]
     },
@@ -1473,6 +1453,16 @@
       "feedUrl": "https://martinfowler.com/feed.atom",
       "siteUrl": "https://martinfowler.com/feed.atom",
       "articles": [
+        {
+          "id": "https://martinfowler.com/articles/exploring-gen-ai/sdd-3-tools.html",
+          "author": null,
+          "description": "Birgitta Böckeler has been trying to understand one of\n      the latest AI coding buzzword: Spec-driven development (SDD). She looked at\n      three of the tools that label themselves as SDD tools and tried to\n      untangle what it means, as of now.\nmore…",
+          "link": "https://martinfowler.com/articles/exploring-gen-ai/sdd-3-tools.html",
+          "publishedOn": "2025-10-15T12:33:00.000Z",
+          "wordCount": 3371,
+          "title": "Understanding Spec-Driven-Development: Kiro, spec-kit, and Tessl",
+          "imageUrl": "https://martinfowler.com/articles/exploring-gen-ai/donkey-card.png"
+        },
         {
           "id": "https://martinfowler.com/articles/exploring-gen-ai/anchoring-to-reference.html",
           "author": null,
