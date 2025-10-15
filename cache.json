@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=45586339",
+          "author": "g-b-r",
+          "description": "Article URL: https://www.fsf.org/news/librephone-project\nComments URL: https://news.ycombinator.com/item?id=45586339\nPoints: 501\n# Comments: 206",
+          "link": "https://www.fsf.org/news/librephone-project",
+          "publishedOn": "2025-10-14T23:47:08.000Z",
+          "wordCount": 1482,
+          "title": "FSF announces Librephone project",
+          "imageUrl": null
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=45575391",
           "author": "dweekly",
           "description": "Article URL: https://satcom.sysnet.ucsd.edu/docs/dontlookup_ccs25_fullpaper.pdf\nComments URL: https://news.ycombinator.com/item?id=45575391\nPoints: 508\n# Comments: 120",
@@ -1374,26 +1384,6 @@
           "wordCount": 1771,
           "title": "React is winning by default and slowing innovation",
           "imageUrl": "https://www.lorenstew.art/og-image.png"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=45252378",
-          "author": "Wingy",
-          "description": "Article URL: https://www.apple.com/os/macos/\nComments URL: https://news.ycombinator.com/item?id=45252378\nPoints: 514\n# Comments: 724",
-          "link": "https://www.apple.com/os/macos/",
-          "publishedOn": "2025-09-15T17:16:42.000Z",
-          "wordCount": 5093,
-          "title": "macOS Tahoe",
-          "imageUrl": "https://www.apple.com/v/os/c/images/meta/macos__e7f87e9qekya_og.png?202509151211"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=45251690",
-          "author": "kennedn",
-          "description": "Article URL: https://kennedn.com/blog/posts/tapo/\nComments URL: https://news.ycombinator.com/item?id=45251690\nPoints: 502\n# Comments: 159",
-          "link": "https://kennedn.com/blog/posts/tapo/",
-          "publishedOn": "2025-09-15T16:28:54.000Z",
-          "wordCount": 1238,
-          "title": "Wanted to spy on my dog, ended up spying on TP-Link",
-          "imageUrl": null
         }
       ]
     },
