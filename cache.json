@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=45601750",
+          "author": "lelandfe",
+          "description": "Article URL: https://www.propublica.org/article/inside-turbotax-20-year-fight-to-stop-americans-from-filing-their-taxes-for-free\nComments URL: https://news.ycombinator.com/item?id=45601750\nPoints: 564\n# Comments: 303",
+          "link": "https://www.propublica.org/article/inside-turbotax-20-year-fight-to-stop-americans-from-filing-their-taxes-for-free",
+          "publishedOn": "2025-10-16T05:31:31.000Z",
+          "wordCount": 8977,
+          "title": "TurboTax’s 20-year fight to stop Americans from filing taxes for free (2019)",
+          "imageUrl": "https://img.assets-c3.propublica.org/images/articles/20191015-intuit-irs-1200x630.jpg?crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&imgixProfile=propublicaAssets&q=90&w=1200&s=a930473a2a271db6cb60ded48373d320"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=45595403",
           "author": "adocomplete",
           "description": "System card: https://assets.anthropic.com/m/99128ddd009bdcb/original/Clau...\nComments URL: https://news.ycombinator.com/item?id=45595403\nPoints: 506\n# Comments: 194",
@@ -1313,16 +1323,6 @@
           "publishedOn": "2025-09-17T11:07:44.000Z",
           "wordCount": 1293,
           "title": "Apple Photos App Corrupts Images",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=45271481",
-          "author": "pykello",
-          "description": "Article URL: https://midnight-commander.org/\nComments URL: https://news.ycombinator.com/item?id=45271481\nPoints: 500\n# Comments: 297",
-          "link": "https://midnight-commander.org/",
-          "publishedOn": "2025-09-17T03:54:06.000Z",
-          "wordCount": 429,
-          "title": "GNU Midnight Commander",
           "imageUrl": null
         }
       ]
