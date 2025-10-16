@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-10-16T03:03:01.889Z</updated>
+    <updated>2025-10-16T04:22:16.842Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Claude Haiku 4.5]]></title>
+        <id>https://news.ycombinator.com/item?id=45595403</id>
+        <link href="https://www.anthropic.com/news/claude-haiku-4-5"/>
+        <updated>2025-10-15T16:55:06.000Z</updated>
+        <summary type="html"><![CDATA[System card: https://assets.anthropic.com/m/99128ddd009bdcb/original/Clau...
+Comments URL: https://news.ycombinator.com/item?id=45595403
+Points: 506
+# Comments: 194]]></summary>
+        <author>
+            <name>adocomplete</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Apple M5 chip]]></title>
         <id>https://news.ycombinator.com/item?id=45591799</id>
