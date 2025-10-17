@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=45614922",
+          "author": "pingoo101010",
+          "description": "Article URL: https://digitalsociety.coop/posts/migrating-to-hetzner-cloud/\nComments URL: https://news.ycombinator.com/item?id=45614922\nPoints: 549\n# Comments: 310",
+          "link": "https://digitalsociety.coop/posts/migrating-to-hetzner-cloud/",
+          "publishedOn": "2025-10-17T10:00:21.000Z",
+          "wordCount": 1449,
+          "title": "3x performance for 1/4 of the price by migrating from AWS to Hetzner",
+          "imageUrl": null
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=45610226",
           "author": "pixelmelt",
           "description": "Article URL: https://blog.pixelmelt.dev/kindle-web-drm/\nComments URL: https://news.ycombinator.com/item?id=45610226\nPoints: 580\n# Comments: 175",
@@ -1304,16 +1314,6 @@
           "wordCount": 1172,
           "title": "Show HN: The text disappears when you screenshot it",
           "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=45283887",
-          "author": "JustSkyfall",
-          "description": "Article URL: https://skyfall.dev/posts/slack\nComments URL: https://news.ycombinator.com/item?id=45283887\nPoints: 583\n# Comments: 298",
-          "link": "https://skyfall.dev/posts/slack",
-          "publishedOn": "2025-09-18T01:37:11.000Z",
-          "wordCount": 521,
-          "title": "Slack has raised our charges by $195k per year",
-          "imageUrl": "https://skyfall.dev//posts/slack/og.png"
         }
       ]
     },
@@ -1739,6 +1739,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC_ML5xP23TOWKUcc-oAE_Eg",
       "siteUrl": "https://www.youtube.com/channel/UC_ML5xP23TOWKUcc-oAE_Eg",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=abUaM6iuElU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=abUaM6iuElU",
+          "publishedOn": "2025-10-17T14:00:06.000Z",
+          "wordCount": null,
+          "title": "HTTP Graceful shutdown | The Backend Engineering Show",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/shorts/Q7Cwq_BdNVY",
           "author": null,
