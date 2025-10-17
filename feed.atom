@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-10-17T14:18:02.193Z</updated>
+    <updated>2025-10-17T15:19:30.127Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[TATA MOTORS DEMERGER :Genius or Blunder? | Business Case study]]></title>
+        <id>https://www.youtube.com/watch?v=dBFtJUYk-w8</id>
+        <link href="https://www.youtube.com/watch?v=dBFtJUYk-w8"/>
+        <updated>2025-10-17T14:45:07.000Z</updated>
+        <author>
+            <name>Think School</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[HTTP Graceful shutdown | The Backend Engineering Show]]></title>
         <id>https://www.youtube.com/watch?v=abUaM6iuElU</id>
@@ -2192,19 +2201,6 @@ Points: 517
 # Comments: 323]]></summary>
         <author>
             <name>stycznik</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: The text disappears when you screenshot it]]></title>
-        <id>https://news.ycombinator.com/item?id=45284311</id>
-        <link href="https://unscreenshottable.vercel.app/?text=Hello"/>
-        <updated>2025-09-18T02:18:45.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://unscreenshottable.vercel.app/?text=Hello
-Comments URL: https://news.ycombinator.com/item?id=45284311
-Points: 503
-# Comments: 179]]></summary>
-        <author>
-            <name>zikero</name>
         </author>
     </entry>
 </feed>
