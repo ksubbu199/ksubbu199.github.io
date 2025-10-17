@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-10-17T17:16:21.443Z</updated>
+    <updated>2025-10-17T18:24:44.982Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -35,6 +35,19 @@ Points: 549
 # Comments: 310]]></summary>
         <author>
             <name>pingoo101010</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Meow.camera]]></title>
+        <id>https://news.ycombinator.com/item?id=45613047</id>
+        <link href="https://meow.camera/"/>
+        <updated>2025-10-17T03:27:24.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://meow.camera/
+Comments URL: https://news.ycombinator.com/item?id=45613047
+Points: 519
+# Comments: 180]]></summary>
+        <author>
+            <name>southwindcg</name>
         </author>
     </entry>
     <entry>
