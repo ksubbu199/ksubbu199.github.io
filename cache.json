@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=45619537",
+          "author": "weinzierl",
+          "description": "Article URL: https://simonwillison.net/2025/Oct/16/claude-skills/\nComments URL: https://news.ycombinator.com/item?id=45619537\nPoints: 525\n# Comments: 278",
+          "link": "https://simonwillison.net/2025/Oct/16/claude-skills/",
+          "publishedOn": "2025-10-17T17:40:21.000Z",
+          "wordCount": 1997,
+          "title": "Claude Skills are awesome, maybe a bigger deal than MCP",
+          "imageUrl": "https://static.simonwillison.net/static/2025/claude-skills-card.jpg"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=45619329",
           "author": "ctoth",
           "description": "Article URL: https://www.dwarkesh.com/p/andrej-karpathy\nComments URL: https://news.ycombinator.com/item?id=45619329\nPoints: 515\n# Comments: 558",
@@ -44,6 +54,16 @@
           "wordCount": 1449,
           "title": "3x performance for 1/4 of the price by migrating from AWS to Hetzner",
           "imageUrl": null
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=45614713",
+          "author": "gman83",
+          "description": "Article URL: https://techcrunch.com/2025/10/16/amazons-ring-to-partner-with-flock-a-network-of-ai-cameras-used-by-ice-feds-and-police/\nComments URL: https://news.ycombinator.com/item?id=45614713\nPoints: 506\n# Comments: 439",
+          "link": "https://techcrunch.com/2025/10/16/amazons-ring-to-partner-with-flock-a-network-of-ai-cameras-used-by-ice-feds-and-police/",
+          "publishedOn": "2025-10-17T09:15:25.000Z",
+          "wordCount": 2707,
+          "title": "Amazon’s Ring to partner with Flock",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2025/09/20250611-lifestyle-outdoorcampro-plugin-home-exterior-wall-wht-rgb.jpg?w=1200"
         },
         {
           "id": "https://news.ycombinator.com/item?id=45613047",
@@ -1313,16 +1333,6 @@
           "publishedOn": "2025-09-18T22:40:06.000Z",
           "wordCount": 194,
           "title": "Want to piss off your IT department? Are the links not malicious looking enough?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=45294440",
-          "author": "ingve",
-          "description": "Article URL: https://keith.github.io/xcode-man-pages/apple_ssh_and_filevault.7.html\nComments URL: https://news.ycombinator.com/item?id=45294440\nPoints: 500\n# Comments: 184",
-          "link": "https://keith.github.io/xcode-man-pages/apple_ssh_and_filevault.7.html",
-          "publishedOn": "2025-09-18T20:15:45.000Z",
-          "wordCount": 250,
-          "title": "Apple: SSH and FileVault",
           "imageUrl": null
         }
       ]
