@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-10-19T03:14:59.757Z</updated>
+    <updated>2025-10-19T04:22:45.823Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -34,6 +34,19 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>Hussein Nasser</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New Work by Gary Larson]]></title>
+        <id>https://news.ycombinator.com/item?id=45622365</id>
+        <link href="https://www.thefarside.com/new-stuff"/>
+        <updated>2025-10-17T21:34:37.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.thefarside.com/new-stuff
+Comments URL: https://news.ycombinator.com/item?id=45622365
+Points: 500
+# Comments: 132]]></summary>
+        <author>
+            <name>jkestner</name>
         </author>
     </entry>
     <entry>
@@ -2202,16 +2215,6 @@ Points: 521
 # Comments: 555]]></summary>
         <author>
             <name>mriguy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Imagine if hospitals billed you like Apple Stores?]]></title>
-        <id>https://www.youtube.com/shorts/a2qOULjntWU</id>
-        <link href="https://www.youtube.com/shorts/a2qOULjntWU"/>
-        <updated>2025-09-19T15:36:04.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Think School</name>
         </author>
     </entry>
 </feed>

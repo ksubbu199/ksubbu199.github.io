@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=45622365",
+          "author": "jkestner",
+          "description": "Article URL: https://www.thefarside.com/new-stuff\nComments URL: https://news.ycombinator.com/item?id=45622365\nPoints: 500\n# Comments: 132",
+          "link": "https://www.thefarside.com/new-stuff",
+          "publishedOn": "2025-10-17T21:34:37.000Z",
+          "wordCount": 911,
+          "title": "New Work by Gary Larson",
+          "imageUrl": "https://siteassets.thefarside.com/packs/media/images/brand/logo/tfs-share-default-a7b076808488053c10116ff0605a39a1.jpg"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=45619537",
           "author": "weinzierl",
           "description": "Article URL: https://simonwillison.net/2025/Oct/16/claude-skills/\nComments URL: https://news.ycombinator.com/item?id=45619537\nPoints: 525\n# Comments: 278",
@@ -1720,16 +1730,6 @@
           "publishedOn": "2025-09-20T07:22:41.000Z",
           "wordCount": 2124,
           "title": "Why are hospital buildings so confusing?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/shorts/a2qOULjntWU",
-          "author": null,
-          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-          "link": "https://www.youtube.com/shorts/a2qOULjntWU",
-          "publishedOn": "2025-09-19T15:36:04.000Z",
-          "wordCount": 2474,
-          "title": "Imagine if hospitals billed you like Apple Stores?",
           "imageUrl": null
         }
       ]
