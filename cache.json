@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=45626910",
+          "author": "AlexeyBrin",
+          "description": "Article URL: https://blogsystem5.substack.com/p/the-ides-we-had-30-years-ago-and\nComments URL: https://news.ycombinator.com/item?id=45626910\nPoints: 500\n# Comments: 446",
+          "link": "https://blogsystem5.substack.com/p/the-ides-we-had-30-years-ago-and",
+          "publishedOn": "2025-10-18T12:44:16.000Z",
+          "wordCount": null,
+          "title": "IDEs we had 30 years ago and lost (2023)",
+          "imageUrl": null
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=45622365",
           "author": "jkestner",
           "description": "Article URL: https://www.thefarside.com/new-stuff\nComments URL: https://news.ycombinator.com/item?id=45622365\nPoints: 500\n# Comments: 132",
@@ -1294,16 +1304,6 @@
           "wordCount": 4239,
           "title": "Ultrasonic Chef's Knife",
           "imageUrl": "http://seattleultrasonics.com/cdn/shop/files/seattle-ultrasonics-logo-big.png?v=1717593986"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=45307242",
-          "author": "saeedesmaili",
-          "description": "Article URL: https://obsidian.md/blog/less-is-safer/\nComments URL: https://news.ycombinator.com/item?id=45307242\nPoints: 500\n# Comments: 230",
-          "link": "https://obsidian.md/blog/less-is-safer/",
-          "publishedOn": "2025-09-19T22:02:29.000Z",
-          "wordCount": 620,
-          "title": "Less is safer: Reducing the risk of supply chain attacks",
-          "imageUrl": "https://obsidian.md/images/banner.png"
         }
       ]
     },
