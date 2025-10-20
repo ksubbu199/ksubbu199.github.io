@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=45640838",
+          "author": "kondro",
+          "description": "Article URL: https://health.aws.amazon.com/health/status?ts=20251020\nComments URL: https://news.ycombinator.com/item?id=45640838\nPoints: 513\n# Comments: 207",
+          "link": "https://health.aws.amazon.com/health/status?ts=20251020",
+          "publishedOn": "2025-10-20T07:22:28.000Z",
+          "wordCount": 2,
+          "title": "AWS Multiple Services Down in us-east-1",
+          "imageUrl": null
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=45640772",
           "author": "vvoyer",
           "description": "Article URL: https://old.reddit.com/r/aws/comments/1obd3lx/dynamodb_down_useast1/\nComments URL: https://news.ycombinator.com/item?id=45640772\nPoints: 529\n# Comments: 152",
@@ -14,6 +24,16 @@
           "wordCount": null,
           "title": "Major AWS Outage Happening",
           "imageUrl": null
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=45640594",
+          "author": "pierre",
+          "description": "Article URL: https://github.com/deepseek-ai/DeepSeek-OCR\nComments URL: https://news.ycombinator.com/item?id=45640594\nPoints: 524\n# Comments: 128",
+          "link": "https://github.com/deepseek-ai/DeepSeek-OCR",
+          "publishedOn": "2025-10-20T06:26:33.000Z",
+          "wordCount": 2801,
+          "title": "DeepSeek OCR",
+          "imageUrl": "https://opengraph.githubassets.com/6537baf4b051e15e487e96366c97ccbc57a692783d511b6b4c60983ee11a34e1/deepseek-ai/DeepSeek-OCR"
         },
         {
           "id": "https://news.ycombinator.com/item?id=45640226",

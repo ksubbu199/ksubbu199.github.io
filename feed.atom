@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-10-20T13:29:09.325Z</updated>
+    <updated>2025-10-20T14:18:44.646Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[AWS Multiple Services Down in us-east-1]]></title>
+        <id>https://news.ycombinator.com/item?id=45640838</id>
+        <link href="https://health.aws.amazon.com/health/status?ts=20251020"/>
+        <updated>2025-10-20T07:22:28.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://health.aws.amazon.com/health/status?ts=20251020
+Comments URL: https://news.ycombinator.com/item?id=45640838
+Points: 513
+# Comments: 207]]></summary>
+        <author>
+            <name>kondro</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Major AWS Outage Happening]]></title>
         <id>https://news.ycombinator.com/item?id=45640772</id>
@@ -17,6 +30,19 @@ Points: 529
 # Comments: 152]]></summary>
         <author>
             <name>vvoyer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DeepSeek OCR]]></title>
+        <id>https://news.ycombinator.com/item?id=45640594</id>
+        <link href="https://github.com/deepseek-ai/DeepSeek-OCR"/>
+        <updated>2025-10-20T06:26:33.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://github.com/deepseek-ai/DeepSeek-OCR
+Comments URL: https://news.ycombinator.com/item?id=45640594
+Points: 524
+# Comments: 128]]></summary>
+        <author>
+            <name>pierre</name>
         </author>
     </entry>
     <entry>
