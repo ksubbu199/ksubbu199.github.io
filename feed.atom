@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-10-21T15:19:48.359Z</updated>
+    <updated>2025-10-21T16:25:14.140Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -59,6 +59,19 @@ Points: 502
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Production RAG: what I learned from processing 5M+ documents]]></title>
+        <id>https://news.ycombinator.com/item?id=45645349</id>
+        <link href="https://blog.abdellatif.io/production-rag-processing-5m-documents"/>
+        <updated>2025-10-20T15:55:36.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://blog.abdellatif.io/production-rag-processing-5m-documents
+Comments URL: https://news.ycombinator.com/item?id=45645349
+Points: 507
+# Comments: 107]]></summary>
+        <author>
+            <name>tifa2up</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Servo v0.0.1]]></title>
         <id>https://news.ycombinator.com/item?id=45643357</id>
         <link href="https://github.com/servo/servo"/>
@@ -69,6 +82,19 @@ Points: 503
 # Comments: 159]]></summary>
         <author>
             <name>undeveloper</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Alibaba Cloud says it cut Nvidia AI GPU use by 82% with new pooling system]]></title>
+        <id>https://news.ycombinator.com/item?id=45643163</id>
+        <link href="https://www.tomshardware.com/tech-industry/semiconductors/alibaba-says-new-pooling-system-cut-nvidia-gpu-use-by-82-percent"/>
+        <updated>2025-10-20T12:31:22.000Z</updated>
+        <summary type="html"><![CDATA[Paper: https://dl.acm.org/doi/10.1145/3731569.3764815
+Comments URL: https://news.ycombinator.com/item?id=45643163
+Points: 501
+# Comments: 286]]></summary>
+        <author>
+            <name>hd4</name>
         </author>
     </entry>
     <entry>
