@@ -2,10 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-10-21T05:19:07.094Z</updated>
+    <updated>2025-10-21T06:29:36.868Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Today is when the Amazon brain drain sent AWS down the spout]]></title>
+        <id>https://news.ycombinator.com/item?id=45649178</id>
+        <link href="https://www.theregister.com/2025/10/20/aws_outage_amazon_brain_drain_corey_quinn/"/>
+        <updated>2025-10-20T20:50:03.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.theregister.com/2025/10/20/aws_outage_amazon_brain_drain_corey_quinn/
+Comments URL: https://news.ycombinator.com/item?id=45649178
+Points: 518
+# Comments: 234]]></summary>
+        <author>
+            <name>raw_anon_1111</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Servo v0.0.1]]></title>
+        <id>https://news.ycombinator.com/item?id=45643357</id>
+        <link href="https://github.com/servo/servo"/>
+        <updated>2025-10-20T12:55:30.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://github.com/servo/servo
+Comments URL: https://news.ycombinator.com/item?id=45643357
+Points: 503
+# Comments: 159]]></summary>
+        <author>
+            <name>undeveloper</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AWS Multiple Services Down in us-east-1]]></title>
         <id>https://news.ycombinator.com/item?id=45640838</id>
