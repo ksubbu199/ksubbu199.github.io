@@ -1474,6 +1474,16 @@
       "siteUrl": "https://martinfowler.com/feed.atom",
       "articles": [
         {
+          "id": "https://martinfowler.com/articles/20251021-frags.html",
+          "author": null,
+          "description": "Mathias Verraes writes about the relationship between Domains and Bounded Contexts in Domain-Driven Design. It’s a common myth that there should always be a 1:1 relationship between them, but although it’s sometimes the case, deeper modeling often exposes a more interesting structure.\nGary Marcus: (NYT Gift Link)\nIf the strengths of A.I. are truly to be harnessed, the tech industry should stop focusing so heavily on these one-size-fits-all tools and instead concentrate on narrow, specialized A.I. tools engineered for particular problems. Because, frankly, they’re often more effective.\nOne of the truly annoying things about the US tax system is that we can’t easily file our tax returns electronically. In recent years an initiative called “Direct File” sought to fix that. Matt Bracken tells the story of how they developed a highly-regarded system in 25 states, but was canned by the Trump administration. He also explains how the creators of Direct File are working to prepare the ground for it to reappear.\nSecurity issues are only getting worse, but the US government agency for cybersecurity is having its staff reassigned to other duties. Detailed story in Bloomberg (paywalled) and an open (but more polemic) summary on Techdirt.\nChanges have hit particularly hard in CISA’s Capacity Building team, which writes emergency directives and oversees cybersecurity for the government’s highest value assets, the employees said.\nDefense and law enforcement are valuable things for a government to do, but here they seem to be walking away from a growing crisis.",
+          "link": "https://martinfowler.com/articles/20251021-frags.html",
+          "publishedOn": "2025-10-21T15:02:00.000Z",
+          "wordCount": 337,
+          "title": "Fragments and Links",
+          "imageUrl": "https://martinfowler.com/logo-sq.png"
+        },
+        {
           "id": "https://martinfowler.com/articles/exploring-gen-ai/sdd-3-tools.html",
           "author": null,
           "description": "Birgitta Böckeler has been trying to understand one of\n      the latest AI coding buzzword: Spec-driven development (SDD). She looked at\n      three of the tools that label themselves as SDD tools and tried to\n      untangle what it means, as of now.\nmore…",
