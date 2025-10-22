@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=45667866",
+          "author": "SweetSoftPillow",
+          "description": "Article URL: https://nednex.com/en/the-internets-biggest-annoyance-why-cookie-laws-should-target-browsers-not-websites/\nComments URL: https://news.ycombinator.com/item?id=45667866\nPoints: 501\n# Comments: 488",
+          "link": "https://nednex.com/en/the-internets-biggest-annoyance-why-cookie-laws-should-target-browsers-not-websites/",
+          "publishedOn": "2025-10-22T12:12:28.000Z",
+          "wordCount": 2536,
+          "title": "Internet's biggest annoyance: Cookie laws should target browsers, not websites",
+          "imageUrl": null
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=45665452",
           "author": "LexSiga",
           "description": "Article URL: https://github.com/minio/minio/issues/21647#issuecomment-3418675115\nComments URL: https://news.ycombinator.com/item?id=45665452\nPoints: 530\n# Comments: 321",
@@ -1384,16 +1394,6 @@
           "wordCount": 4,
           "title": "Brutalita Sans: An Experimental Font and Font Editor",
           "imageUrl": "https://brutalita.com/brutalita.png"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=45344708",
-          "author": "cirelli94",
-          "description": "Article URL: https://go-review.googlesource.com/c/go/+/674077\nComments URL: https://news.ycombinator.com/item?id=45344708\nPoints: 500\n# Comments: 131",
-          "link": "https://go-review.googlesource.com/c/go/+/674077",
-          "publishedOn": "2025-09-23T09:26:57.000Z",
-          "wordCount": 69,
-          "title": "Go has added Valgrind support",
-          "imageUrl": null
         }
       ]
     },

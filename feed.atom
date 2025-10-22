@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-10-22T21:14:40.215Z</updated>
+    <updated>2025-10-22T22:15:28.310Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -13,6 +13,19 @@
         <updated>2025-10-22T15:55:01.000Z</updated>
         <author>
             <name>Think School</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Internet's biggest annoyance: Cookie laws should target browsers, not websites]]></title>
+        <id>https://news.ycombinator.com/item?id=45667866</id>
+        <link href="https://nednex.com/en/the-internets-biggest-annoyance-why-cookie-laws-should-target-browsers-not-websites/"/>
+        <updated>2025-10-22T12:12:28.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://nednex.com/en/the-internets-biggest-annoyance-why-cookie-laws-should-target-browsers-not-websites/
+Comments URL: https://news.ycombinator.com/item?id=45667866
+Points: 501
+# Comments: 488]]></summary>
+        <author>
+            <name>SweetSoftPillow</name>
         </author>
     </entry>
     <entry>
@@ -2464,19 +2477,6 @@ Points: 507
 # Comments: 68]]></summary>
         <author>
             <name>fibo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Go has added Valgrind support]]></title>
-        <id>https://news.ycombinator.com/item?id=45344708</id>
-        <link href="https://go-review.googlesource.com/c/go/+/674077"/>
-        <updated>2025-09-23T09:26:57.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://go-review.googlesource.com/c/go/+/674077
-Comments URL: https://news.ycombinator.com/item?id=45344708
-Points: 500
-# Comments: 131]]></summary>
-        <author>
-            <name>cirelli94</name>
         </author>
     </entry>
 </feed>
