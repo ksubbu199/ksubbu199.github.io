@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-10-22T10:20:56.825Z</updated>
+    <updated>2025-10-22T11:17:37.775Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -40,6 +40,20 @@ Points: 542
 # Comments: 524]]></summary>
         <author>
             <name>easton</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Build your own database]]></title>
+        <id>https://news.ycombinator.com/item?id=45657827</id>
+        <link href="https://www.nan.fyi/database"/>
+        <updated>2025-10-21T16:31:51.000Z</updated>
+        <summary type="html"><![CDATA[Partly inspired by: Designing Data-Intensive Applications
+https://www.oreilly.com/library/view/designing-data-intensiv...
+Comments URL: https://news.ycombinator.com/item?id=45657827
+Points: 505
+# Comments: 78]]></summary>
+        <author>
+            <name>nansdotio</name>
         </author>
     </entry>
     <entry>
