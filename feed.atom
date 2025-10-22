@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-10-21T23:18:02.544Z</updated>
+    <updated>2025-10-22T01:27:58.613Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ChatGPT Atlas]]></title>
+        <id>https://news.ycombinator.com/item?id=45658479</id>
+        <link href="https://chatgpt.com/atlas"/>
+        <updated>2025-10-21T17:18:13.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://chatgpt.com/atlas
+Comments URL: https://news.ycombinator.com/item?id=45658479
+Points: 542
+# Comments: 524]]></summary>
+        <author>
+            <name>easton</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Fragments and Links]]></title>
         <id>https://martinfowler.com/articles/20251021-frags.html</id>
@@ -2457,32 +2470,6 @@ Points: 501
 # Comments: 125]]></summary>
         <author>
             <name>meetpateltech</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cap'n Web: a new RPC system for browsers and web servers]]></title>
-        <id>https://news.ycombinator.com/item?id=45332883</id>
-        <link href="https://blog.cloudflare.com/capnweb-javascript-rpc-library/"/>
-        <updated>2025-09-22T13:05:32.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://blog.cloudflare.com/capnweb-javascript-rpc-library/
-Comments URL: https://news.ycombinator.com/item?id=45332883
-Points: 511
-# Comments: 225]]></summary>
-        <author>
-            <name>jgrahamc</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cloudflare is sponsoring Ladybird and Omarchy]]></title>
-        <id>https://news.ycombinator.com/item?id=45332860</id>
-        <link href="https://blog.cloudflare.com/supporting-the-future-of-the-open-web/"/>
-        <updated>2025-09-22T13:03:33.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://blog.cloudflare.com/supporting-the-future-of-the-open-web/
-Comments URL: https://news.ycombinator.com/item?id=45332860
-Points: 532
-# Comments: 340]]></summary>
-        <author>
-            <name>jgrahamc</name>
         </author>
     </entry>
 </feed>

@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=45658479",
+          "author": "easton",
+          "description": "Article URL: https://chatgpt.com/atlas\nComments URL: https://news.ycombinator.com/item?id=45658479\nPoints: 542\n# Comments: 524",
+          "link": "https://chatgpt.com/atlas",
+          "publishedOn": "2025-10-21T17:18:13.000Z",
+          "wordCount": null,
+          "title": "ChatGPT Atlas",
+          "imageUrl": null
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=45649178",
           "author": "raw_anon_1111",
           "description": "Article URL: https://www.theregister.com/2025/10/20/aws_outage_amazon_brain_drain_corey_quinn/\nComments URL: https://news.ycombinator.com/item?id=45649178\nPoints: 518\n# Comments: 234",
@@ -1384,26 +1394,6 @@
           "wordCount": 19146,
           "title": "Qwen3-Omni: Native Omni AI model for text, image and video",
           "imageUrl": "https://opengraph.githubassets.com/ae6b69d6bdeaf446ecf496024380f5fc0fb21dc21e3f6b145f5341fea1b0d7cb/QwenLM/Qwen3-Omni"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=45332883",
-          "author": "jgrahamc",
-          "description": "Article URL: https://blog.cloudflare.com/capnweb-javascript-rpc-library/\nComments URL: https://news.ycombinator.com/item?id=45332883\nPoints: 511\n# Comments: 225",
-          "link": "https://blog.cloudflare.com/capnweb-javascript-rpc-library/",
-          "publishedOn": "2025-09-22T13:05:32.000Z",
-          "wordCount": 4241,
-          "title": "Cap'n Web: a new RPC system for browsers and web servers",
-          "imageUrl": "https://cf-assets.www.cloudflare.com/zkvhlag99gkb/26HRSc4ldW98MKG1lBnGRy/635c3ab7a59a949d930443d1b28b4dd2/BLOG-2954_OG.png"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=45332860",
-          "author": "jgrahamc",
-          "description": "Article URL: https://blog.cloudflare.com/supporting-the-future-of-the-open-web/\nComments URL: https://news.ycombinator.com/item?id=45332860\nPoints: 532\n# Comments: 340",
-          "link": "https://blog.cloudflare.com/supporting-the-future-of-the-open-web/",
-          "publishedOn": "2025-09-22T13:03:33.000Z",
-          "wordCount": 1775,
-          "title": "Cloudflare is sponsoring Ladybird and Omarchy",
-          "imageUrl": "https://cf-assets.www.cloudflare.com/zkvhlag99gkb/4QC37u0R9UJ3QcFsP7pFXI/e315dc5cc981b3073806e90918f0ba5e/BLOG-2998_OG.png"
         }
       ]
     },
