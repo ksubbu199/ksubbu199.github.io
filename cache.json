@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=45665452",
+          "author": "LexSiga",
+          "description": "Article URL: https://github.com/minio/minio/issues/21647#issuecomment-3418675115\nComments URL: https://news.ycombinator.com/item?id=45665452\nPoints: 530\n# Comments: 321",
+          "link": "https://github.com/minio/minio/issues/21647#issuecomment-3418675115",
+          "publishedOn": "2025-10-22T06:17:18.000Z",
+          "wordCount": 1768,
+          "title": "MinIO stops distributing free Docker images",
+          "imageUrl": "https://opengraph.githubassets.com/3ed493b8dfa7e700c91fde1d86a6dc45fc83e733efffa8df981c5b9cb0946122/minio/minio/issues/21647"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=45661253",
           "author": "jryio",
           "description": "Article URL: https://disco.cloud/blog/how-idealistorg-replaced-a-3000mo-heroku-bill-with-a-55-server/\nComments URL: https://news.ycombinator.com/item?id=45661253\nPoints: 506\n# Comments: 360",
@@ -1384,16 +1394,6 @@
           "wordCount": 69,
           "title": "Go has added Valgrind support",
           "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=45343108",
-          "author": "avestura",
-          "description": "Article URL: https://gist.github.com/avestura/ce2aa6e55dad783b1aba946161d5fef4\nComments URL: https://news.ycombinator.com/item?id=45343108\nPoints: 528\n# Comments: 385",
-          "link": "https://gist.github.com/avestura/ce2aa6e55dad783b1aba946161d5fef4",
-          "publishedOn": "2025-09-23T05:30:28.000Z",
-          "wordCount": 2946,
-          "title": "Delete FROM users WHERE location = 'Iran';",
-          "imageUrl": "https://github.githubassets.com/assets/gist-og-image-54fd7dc0713e.png"
         }
       ]
     },
