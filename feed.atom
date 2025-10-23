@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-10-23T21:16:38.985Z</updated>
+    <updated>2025-10-23T22:17:14.411Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -14,6 +14,19 @@
         <summary type="html"><![CDATA[On Monday, a major AWS outage hit thousands of sites & apps, and even a Premier League soccer game. An overview of what caused this high-profile, global outage]]></summary>
         <author>
             <name>Gergely Orosz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Trump pardons convicted Binance founder]]></title>
+        <id>https://news.ycombinator.com/item?id=45683152</id>
+        <link href="https://www.wsj.com/finance/currencies/trump-pardons-convicted-binance-founder-7509bd63"/>
+        <updated>2025-10-23T15:41:48.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.wsj.com/finance/currencies/trump-pardons-convicted-binance-founder-7509bd63
+Comments URL: https://news.ycombinator.com/item?id=45683152
+Points: 555
+# Comments: 532]]></summary>
+        <author>
+            <name>cowboyscott</name>
         </author>
     </entry>
     <entry>
