@@ -1525,7 +1525,18 @@
       "title": "The Pragmatic Engineer",
       "feedUrl": "https://blog.pragmaticengineer.com/rss/",
       "siteUrl": "https://blog.pragmaticengineer.com/",
-      "articles": []
+      "articles": [
+        {
+          "id": "68fa5697b1a28700018a70af",
+          "author": "Gergely Orosz",
+          "description": "On Monday, a major AWS outage hit thousands of sites & apps, and even a Premier League soccer game. An overview of what caused this high-profile, global outage",
+          "link": "https://blog.pragmaticengineer.com/aws-outage-us-east-1/",
+          "publishedOn": "2025-10-23T16:26:27.000Z",
+          "wordCount": 2526,
+          "title": "What caused the large AWS outage?",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "Think School",
