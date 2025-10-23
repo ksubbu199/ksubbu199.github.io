@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-10-23T01:24:58.234Z</updated>
+    <updated>2025-10-23T03:03:14.914Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -13,6 +13,19 @@
         <updated>2025-10-22T15:55:01.000Z</updated>
         <author>
             <name>Think School</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Scripts I wrote that I use all the time]]></title>
+        <id>https://news.ycombinator.com/item?id=45670052</id>
+        <link href="https://evanhahn.com/scripts-i-wrote-that-i-use-all-the-time/"/>
+        <updated>2025-10-22T14:53:54.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://evanhahn.com/scripts-i-wrote-that-i-use-all-the-time/
+Comments URL: https://news.ycombinator.com/item?id=45670052
+Points: 523
+# Comments: 174]]></summary>
+        <author>
+            <name>speckx</name>
         </author>
     </entry>
     <entry>
@@ -2451,45 +2464,6 @@ Points: 504
 # Comments: 320]]></summary>
         <author>
             <name>bradgessler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Getting AI to work in complex codebases]]></title>
-        <id>https://news.ycombinator.com/item?id=45347532</id>
-        <link href="https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/ace-fca.md"/>
-        <updated>2025-09-23T14:27:36.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/ace-fca.md
-Comments URL: https://news.ycombinator.com/item?id=45347532
-Points: 500
-# Comments: 408]]></summary>
-        <author>
-            <name>dhorthy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Libghostty is coming]]></title>
-        <id>https://news.ycombinator.com/item?id=45347117</id>
-        <link href="https://mitchellh.com/writing/libghostty-is-coming"/>
-        <updated>2025-09-23T13:56:28.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://mitchellh.com/writing/libghostty-is-coming
-Comments URL: https://news.ycombinator.com/item?id=45347117
-Points: 524
-# Comments: 157]]></summary>
-        <author>
-            <name>kingori</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Brutalita Sans: An Experimental Font and Font Editor]]></title>
-        <id>https://news.ycombinator.com/item?id=45347072</id>
-        <link href="https://brutalita.com/"/>
-        <updated>2025-09-23T13:54:10.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://brutalita.com/
-Comments URL: https://news.ycombinator.com/item?id=45347072
-Points: 507
-# Comments: 68]]></summary>
-        <author>
-            <name>fibo</name>
         </author>
     </entry>
 </feed>

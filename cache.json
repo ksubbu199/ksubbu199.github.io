@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=45670052",
+          "author": "speckx",
+          "description": "Article URL: https://evanhahn.com/scripts-i-wrote-that-i-use-all-the-time/\nComments URL: https://news.ycombinator.com/item?id=45670052\nPoints: 523\n# Comments: 174",
+          "link": "https://evanhahn.com/scripts-i-wrote-that-i-use-all-the-time/",
+          "publishedOn": "2025-10-22T14:53:54.000Z",
+          "wordCount": 2114,
+          "title": "Scripts I wrote that I use all the time",
+          "imageUrl": null
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=45667866",
           "author": "SweetSoftPillow",
           "description": "Article URL: https://nednex.com/en/the-internets-biggest-annoyance-why-cookie-laws-should-target-browsers-not-websites/\nComments URL: https://news.ycombinator.com/item?id=45667866\nPoints: 501\n# Comments: 488",
@@ -1374,36 +1384,6 @@
           "wordCount": 3306,
           "title": "Shopify, pulling strings at Ruby Central, forces Bundler and RubyGems takeover",
           "imageUrl": "https://joel.drapper.me/blog-placeholder-1.jpg"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=45347532",
-          "author": "dhorthy",
-          "description": "Article URL: https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/ace-fca.md\nComments URL: https://news.ycombinator.com/item?id=45347532\nPoints: 500\n# Comments: 408",
-          "link": "https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/ace-fca.md",
-          "publishedOn": "2025-09-23T14:27:36.000Z",
-          "wordCount": 7868,
-          "title": "Getting AI to work in complex codebases",
-          "imageUrl": "https://opengraph.githubassets.com/0ced311060defc081f9d8c1097282b751d1460d6b38730b58975c89ebc3c5192/humanlayer/advanced-context-engineering-for-coding-agents"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=45347117",
-          "author": "kingori",
-          "description": "Article URL: https://mitchellh.com/writing/libghostty-is-coming\nComments URL: https://news.ycombinator.com/item?id=45347117\nPoints: 524\n# Comments: 157",
-          "link": "https://mitchellh.com/writing/libghostty-is-coming",
-          "publishedOn": "2025-09-23T13:56:28.000Z",
-          "wordCount": 2969,
-          "title": "Libghostty is coming",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=45347072",
-          "author": "fibo",
-          "description": "Article URL: https://brutalita.com/\nComments URL: https://news.ycombinator.com/item?id=45347072\nPoints: 507\n# Comments: 68",
-          "link": "https://brutalita.com/",
-          "publishedOn": "2025-09-23T13:54:10.000Z",
-          "wordCount": 4,
-          "title": "Brutalita Sans: An Experimental Font and Font Editor",
-          "imageUrl": "https://brutalita.com/brutalita.png"
         }
       ]
     },
