@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-10-23T05:19:11.559Z</updated>
+    <updated>2025-10-23T06:29:05.597Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Google flags Immich sites as dangerous]]></title>
+        <id>https://news.ycombinator.com/item?id=45675015</id>
+        <link href="https://immich.app/blog/google-flags-immich-as-dangerous"/>
+        <updated>2025-10-22T20:53:49.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://immich.app/blog/google-flags-immich-as-dangerous
+Comments URL: https://news.ycombinator.com/item?id=45675015
+Points: 592
+# Comments: 202]]></summary>
+        <author>
+            <name>janpio</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[India’s ₹8.5 Lakh Crore Power Crisis Explained: The Trillion-Dollar Opportunity!]]></title>
         <id>https://www.youtube.com/watch?v=C_Wk44s2TWY</id>
@@ -2425,19 +2438,6 @@ Points: 503
 # Comments: 348]]></summary>
         <author>
             <name>_JamesA_</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Find SF parking cops]]></title>
-        <id>https://news.ycombinator.com/item?id=45350690</id>
-        <link href="https://walzr.com/sf-parking/"/>
-        <updated>2025-09-23T18:06:07.000Z</updated>
-        <summary type="html"><![CDATA[https://walzr.com/sf-parking/about/
-Comments URL: https://news.ycombinator.com/item?id=45350690
-Points: 544
-# Comments: 324]]></summary>
-        <author>
-            <name>alazsengul</name>
         </author>
     </entry>
 </feed>
