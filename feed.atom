@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-10-24T21:16:14.552Z</updated>
+    <updated>2025-10-24T22:17:39.730Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -2420,38 +2420,6 @@ Points: 605
 # Comments: 368]]></summary>
         <author>
             <name>coloneltcb</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Anchoring AI to a reference application]]></title>
-        <id>https://martinfowler.com/articles/exploring-gen-ai/anchoring-to-reference.html</id>
-        <link href="https://martinfowler.com/articles/exploring-gen-ai/anchoring-to-reference.html"/>
-        <updated>2025-09-25T09:57:00.000Z</updated>
-        <summary type="html"><![CDATA[Service templates are a typical building block in the “golden paths”
-      organisations build for their engineering teams, to make it easy to do the
-      right thing. The templates are supposed to be the role models for all the
-      services in the organisation, always representing the most up to date
-      coding patterns and standards. One of the challenges with service
-      templates though is that once a team instantiated a service with one, it’s
-      tedious to feed template updates back to those services. Birgitta
-      Böckeler considers whether GenAI can help
-      with that.
-more…]]></summary>
-        <author>
-            <name>Martin Fowler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Man still alive six months after pig kidney transplant]]></title>
-        <id>https://news.ycombinator.com/item?id=45370798</id>
-        <link href="https://www.nature.com/articles/d41586-025-02851-w"/>
-        <updated>2025-09-25T09:20:39.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.nature.com/articles/d41586-025-02851-w
-Comments URL: https://news.ycombinator.com/item?id=45370798
-Points: 502
-# Comments: 251]]></summary>
-        <author>
-            <name>signa11</name>
         </author>
     </entry>
 </feed>
