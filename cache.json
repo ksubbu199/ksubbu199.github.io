@@ -26,6 +26,16 @@
           "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/lockpick-death-1152x648.jpg"
         },
         {
+          "id": "https://news.ycombinator.com/item?id=45718231",
+          "author": "anticensor",
+          "description": "Article URL: https://github.com/rolflobker/recall-for-linux\nComments URL: https://news.ycombinator.com/item?id=45718231\nPoints: 507\n# Comments: 196",
+          "link": "https://github.com/rolflobker/recall-for-linux",
+          "publishedOn": "2025-10-27T07:24:19.000Z",
+          "wordCount": 1507,
+          "title": "Recall for Linux",
+          "imageUrl": "https://opengraph.githubassets.com/b75f1a77f95636640a7ce0f01fcfd68ef6eb682dea9653eb8ccc790951195b02/rolflobker/recall-for-linux"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=45710721",
           "author": "chmaynard",
           "description": "Article URL: https://maurycyz.com/misc/easy_git/\nComments URL: https://news.ycombinator.com/item?id=45710721\nPoints: 510\n# Comments: 357",
@@ -1294,26 +1304,6 @@
           "wordCount": 1749,
           "title": "The AI coding trap",
           "imageUrl": "https://chrisloy.dev/images/2025/mousetrap.png"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=45404022",
-          "author": "sebtron",
-          "description": "Article URL: https://sebastiano.tronto.net/blog/2025-09-28-alphabetic-order/\nComments URL: https://news.ycombinator.com/item?id=45404022\nPoints: 508\n# Comments: 300",
-          "link": "https://sebastiano.tronto.net/blog/2025-09-28-alphabetic-order/",
-          "publishedOn": "2025-09-28T13:00:16.000Z",
-          "wordCount": 857,
-          "title": "When I say “alphabetical order”, I mean “alphabetical order”",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=45404021",
-          "author": "doener",
-          "description": "Article URL: https://privacybadger.org/\nComments URL: https://news.ycombinator.com/item?id=45404021\nPoints: 513\n# Comments: 200",
-          "link": "https://privacybadger.org/",
-          "publishedOn": "2025-09-28T12:59:54.000Z",
-          "wordCount": 3578,
-          "title": "Privacy Badger is a free browser extension made by EFF to stop spying",
-          "imageUrl": "https://privacybadger.org/images/banner.png "
         }
       ]
     },
@@ -1741,16 +1731,6 @@
           "publishedOn": "2025-10-01T09:02:07.000Z",
           "wordCount": 1997,
           "title": "Is BJP doing a good job?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/shorts/5KJgsEW-yjg",
-          "author": null,
-          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-          "link": "https://www.youtube.com/shorts/5KJgsEW-yjg",
-          "publishedOn": "2025-09-28T12:30:07.000Z",
-          "wordCount": 2178,
-          "title": "Is this a hospital or hospitality redefined?",
           "imageUrl": null
         }
       ]
