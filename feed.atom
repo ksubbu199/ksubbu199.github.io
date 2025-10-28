@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-10-28T01:24:34.794Z</updated>
+    <updated>2025-10-28T03:07:28.209Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -26,6 +26,19 @@ Points: 533
         <updated>2025-10-27T15:13:41.000Z</updated>
         <author>
             <name>Think School</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PSF has withdrawn $1.5M proposal to US Government grant program]]></title>
+        <id>https://news.ycombinator.com/item?id=45721904</id>
+        <link href="https://pyfound.blogspot.com/2025/10/NSF-funding-statement.html"/>
+        <updated>2025-10-27T15:12:08.000Z</updated>
+        <summary type="html"><![CDATA[Related: https://simonwillison.net/2025/Oct/27/psf-withdrawn-proposal...
+Comments URL: https://news.ycombinator.com/item?id=45721904
+Points: 515
+# Comments: 476]]></summary>
+        <author>
+            <name>lumpa</name>
         </author>
     </entry>
     <entry>
