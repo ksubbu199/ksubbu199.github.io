@@ -1314,26 +1314,6 @@
           "wordCount": 19,
           "title": "Fluid Glass",
           "imageUrl": "https://chiuhans111.github.io/fluidglass/cover.jpg"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=45416228",
-          "author": "polyrand",
-          "description": "Article URL: https://www.npmjs.com/package/@anthropic-ai/claude-code\nComments URL: https://news.ycombinator.com/item?id=45416228\nPoints: 507\n# Comments: 188",
-          "link": "https://www.npmjs.com/package/@anthropic-ai/claude-code",
-          "publishedOn": "2025-09-29T17:12:13.000Z",
-          "wordCount": null,
-          "title": "Claude Code 2.0",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=45415962",
-          "author": "adocomplete",
-          "description": "System card: https://assets.anthropic.com/m/12f214efcc2f457a/original/Cla...\nComments URL: https://news.ycombinator.com/item?id=45415962\nPoints: 551\n# Comments: 299",
-          "link": "https://www.anthropic.com/news/claude-sonnet-4-5",
-          "publishedOn": "2025-09-29T16:52:59.000Z",
-          "wordCount": 4590,
-          "title": "Claude Sonnet 4.5",
-          "imageUrl": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20HeadCube&backgroundColor=clay"
         }
       ]
     },
@@ -2006,18 +1986,7 @@
       "title": "Lea Verou’s blog",
       "feedUrl": "https://lea.verou.me/feed.xml",
       "siteUrl": "https://lea.verou.me/feed.xml",
-      "articles": [
-        {
-          "id": "https://lea.verou.me/blog/2025/user-effort/",
-          "author": null,
-          "description": "Alan Kay [source]\n\n\n\nOne of my favorite product design principles is Alan Kay’s “Simple things should be simple, complex things should be possible”.\n[1]\nI had been saying it almost verbatim long before I encountered Kay’s quote.\nKay’s maxim is deceptively simple, but its implications run deep.\nIt isn’t just a design ideal — it’s a call to continually balance friction, scope, and tradeoffs in service of the people using our products.\nThis philosophy played a big part in Prism’s success back in 2012,\nhelping it become the web’s de facto syntax highlighter for years, with over 2 billion npm downloads.\nHighlighting code on a page took including two files.\nNo markup changes.\nStyling used readable CSS class names.\nEven adding new languages — the most common “complex” use case — required far less…",
-          "link": "https://lea.verou.me/blog/2025/user-effort/",
-          "publishedOn": "2025-09-29T17:09:10.000Z",
-          "wordCount": 5015,
-          "title": "In the economy of user effort, be a bargain, not a scam",
-          "imageUrl": "https://lea.verou.me/blog/2025/user-effort/images/curve-multiple.gif"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Ben Hoyt's technical writing",

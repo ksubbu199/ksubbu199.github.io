@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-10-29T04:26:28.099Z</updated>
+    <updated>2025-10-29T05:19:47.808Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -2346,56 +2346,6 @@ Points: 509
 # Comments: 86]]></summary>
         <author>
             <name>memalign</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Claude Code 2.0]]></title>
-        <id>https://news.ycombinator.com/item?id=45416228</id>
-        <link href="https://www.npmjs.com/package/@anthropic-ai/claude-code"/>
-        <updated>2025-09-29T17:12:13.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.npmjs.com/package/@anthropic-ai/claude-code
-Comments URL: https://news.ycombinator.com/item?id=45416228
-Points: 507
-# Comments: 188]]></summary>
-        <author>
-            <name>polyrand</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[In the economy of user effort, be a bargain, not a scam]]></title>
-        <id>https://lea.verou.me/blog/2025/user-effort/</id>
-        <link href="https://lea.verou.me/blog/2025/user-effort/"/>
-        <updated>2025-09-29T17:09:10.000Z</updated>
-        <summary type="html"><![CDATA[Alan Kay [source]
-
-
-
-One of my favorite product design principles is Alan Kay’s “Simple things should be simple, complex things should be possible”.
-[1]
-I had been saying it almost verbatim long before I encountered Kay’s quote.
-Kay’s maxim is deceptively simple, but its implications run deep.
-It isn’t just a design ideal — it’s a call to continually balance friction, scope, and tradeoffs in service of the people using our products.
-This philosophy played a big part in Prism’s success back in 2012,
-helping it become the web’s de facto syntax highlighter for years, with over 2 billion npm downloads.
-Highlighting code on a page took including two files.
-No markup changes.
-Styling used readable CSS class names.
-Even adding new languages — the most common “complex” use case — required far less…]]></summary>
-        <author>
-            <name>Lea Verou’s blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Claude Sonnet 4.5]]></title>
-        <id>https://news.ycombinator.com/item?id=45415962</id>
-        <link href="https://www.anthropic.com/news/claude-sonnet-4-5"/>
-        <updated>2025-09-29T16:52:59.000Z</updated>
-        <summary type="html"><![CDATA[System card: https://assets.anthropic.com/m/12f214efcc2f457a/original/Cla...
-Comments URL: https://news.ycombinator.com/item?id=45415962
-Points: 551
-# Comments: 299]]></summary>
-        <author>
-            <name>adocomplete</name>
         </author>
     </entry>
 </feed>
