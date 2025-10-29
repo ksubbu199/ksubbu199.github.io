@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=45751400",
+          "author": "todsacerdoti",
+          "description": "Article URL: https://emily.space/posts/251023-uv\nComments URL: https://news.ycombinator.com/item?id=45751400\nPoints: 531\n# Comments: 288",
+          "link": "https://emily.space/posts/251023-uv",
+          "publishedOn": "2025-10-29T18:57:29.000Z",
+          "wordCount": 1409,
+          "title": "Uv is the best thing to happen to the Python ecosystem in a decade",
+          "imageUrl": "https://emily.space/assets/posts/251023-uv/header.webp"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=45742488",
           "author": "LorenDB",
           "description": "Article URL: http://keepandroidopen.org/\nComments URL: https://news.ycombinator.com/item?id=45742488\nPoints: 553\n# Comments: 126",
@@ -1314,26 +1324,6 @@
           "wordCount": 3184,
           "title": "Comprehension debt: A ticking time bomb of LLM-generated code",
           "imageUrl": "https://codemanship.wordpress.com/wp-content/uploads/2017/08/cropped-codemanship3_twitter_avatar.jpg?w=200"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=45423404",
-          "author": "mnmalst",
-          "description": "Article URL: https://www.notebookcheck.net/Open-Printer-is-an-open-source-inkjet-printer-with-DRM-free-ink-and-roll-paper-support.1126929.0.html\nComments URL: https://news.ycombinator.com/item?id=45423404\nPoints: 507\n# Comments: 147",
-          "link": "https://www.notebookcheck.net/Open-Printer-is-an-open-source-inkjet-printer-with-DRM-free-ink-and-roll-paper-support.1126929.0.html",
-          "publishedOn": "2025-09-30T08:57:11.000Z",
-          "wordCount": 4893,
-          "title": "Open Printer – Inkjet printer with DRM-free ink",
-          "imageUrl": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/open-printer-wall-mount-01_jpg_gallery-lg.jpg"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=45423268",
-          "author": "ry8806",
-          "description": "Article URL: https://ryansouthgate.com/goodbye-disqus/\nComments URL: https://news.ycombinator.com/item?id=45423268\nPoints: 511\n# Comments: 296",
-          "link": "https://ryansouthgate.com/goodbye-disqus/",
-          "publishedOn": "2025-09-30T08:36:06.000Z",
-          "wordCount": 458,
-          "title": "I’ve removed Disqus. It was making my blog worse",
-          "imageUrl": "https://ryansouthgate.com/goodbye-disqus/hero.webp"
         }
       ]
     },

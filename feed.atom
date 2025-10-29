@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-10-29T20:21:30.647Z</updated>
+    <updated>2025-10-29T21:17:42.939Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Uv is the best thing to happen to the Python ecosystem in a decade]]></title>
+        <id>https://news.ycombinator.com/item?id=45751400</id>
+        <link href="https://emily.space/posts/251023-uv"/>
+        <updated>2025-10-29T18:57:29.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://emily.space/posts/251023-uv
+Comments URL: https://news.ycombinator.com/item?id=45751400
+Points: 531
+# Comments: 288]]></summary>
+        <author>
+            <name>todsacerdoti</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[India's DEEP Power Crisis Explained]]></title>
         <id>https://www.youtube.com/shorts/MOy2QiG4yMg</id>
@@ -2390,32 +2403,6 @@ Points: 502
 # Comments: 317]]></summary>
         <author>
             <name>todsacerdoti</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Open Printer – Inkjet printer with DRM-free ink]]></title>
-        <id>https://news.ycombinator.com/item?id=45423404</id>
-        <link href="https://www.notebookcheck.net/Open-Printer-is-an-open-source-inkjet-printer-with-DRM-free-ink-and-roll-paper-support.1126929.0.html"/>
-        <updated>2025-09-30T08:57:11.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.notebookcheck.net/Open-Printer-is-an-open-source-inkjet-printer-with-DRM-free-ink-and-roll-paper-support.1126929.0.html
-Comments URL: https://news.ycombinator.com/item?id=45423404
-Points: 507
-# Comments: 147]]></summary>
-        <author>
-            <name>mnmalst</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I’ve removed Disqus. It was making my blog worse]]></title>
-        <id>https://news.ycombinator.com/item?id=45423268</id>
-        <link href="https://ryansouthgate.com/goodbye-disqus/"/>
-        <updated>2025-09-30T08:36:06.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://ryansouthgate.com/goodbye-disqus/
-Comments URL: https://news.ycombinator.com/item?id=45423268
-Points: 511
-# Comments: 296]]></summary>
-        <author>
-            <name>ry8806</name>
         </author>
     </entry>
 </feed>
