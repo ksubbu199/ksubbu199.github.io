@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=45736479",
+          "author": "rom1v",
+          "description": "Article URL: https://f-droid.org/2025/10/28/sideloading.html\nComments URL: https://news.ycombinator.com/item?id=45736479\nPoints: 661\n# Comments: 317",
+          "link": "https://f-droid.org/2025/10/28/sideloading.html",
+          "publishedOn": "2025-10-28T18:02:36.000Z",
+          "wordCount": 1298,
+          "title": "What we talk about when we talk about sideloading",
+          "imageUrl": "https://f-droid.org/assets/fdroid-logo_bfHl7nsLHOUQxzdU8-rGIhn4bAgl6z7k2mA3fWoCyT4=.png"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=45734582",
           "author": "stevenhubertron",
           "description": "Article URL: https://www.threads.com/@nthmonkey/post/DQVdAD1gHhw\nComments URL: https://news.ycombinator.com/item?id=45734582\nPoints: 580\n# Comments: 458",
@@ -14,6 +24,26 @@
           "wordCount": 3697,
           "title": "Using AI to negotiate a $195k hospital bill down to $33k",
           "imageUrl": "https://scontent-ord5-2.cdninstagram.com/v/t51.2885-19/405221923_723107976383612_3895229411643499723_n.jpg?stp=dst-jpg_s640x640_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_cat=1&_nc_oc=Q6cZ2QENWWS5_-nIw54wIwq42Jyr3mFzmY-ovN9zlm5IiGFyGHNuquadQfWKhU1nqvtGCyQ&_nc_ohc=jfLtk89M164Q7kNvwFOEq4Y&_nc_gid=a5W4C3itQ_z_F5eIPEzLxA&edm=APs17CUBAAAA&ccb=7-5&oh=00_Afe5amNonnOQE932Sk_TcpBz1pfagTiTvByKrY2IGCqpAA&oe=6906EEBA&_nc_sid=10d13b"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=45733707",
+          "author": "NotInOurNames",
+          "description": "Article URL: https://eurollm.io/\nComments URL: https://news.ycombinator.com/item?id=45733707\nPoints: 505\n# Comments: 401",
+          "link": "https://eurollm.io/",
+          "publishedOn": "2025-10-28T14:58:04.000Z",
+          "wordCount": 1068,
+          "title": "EuroLLM: LLM made in Europe built to support all 24 official EU languages",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=45733197",
+          "author": "ilamont",
+          "description": "Article URL: https://www.npr.org/2025/10/28/nx-s1-5587932/washington-post-editorials-omit-a-key-disclosure-bezos-financial-ties\nComments URL: https://news.ycombinator.com/item?id=45733197\nPoints: 530\n# Comments: 234",
+          "link": "https://www.npr.org/2025/10/28/nx-s1-5587932/washington-post-editorials-omit-a-key-disclosure-bezos-financial-ties",
+          "publishedOn": "2025-10-28T14:16:42.000Z",
+          "wordCount": 1745,
+          "title": "Washington Post editorials omit a key disclosure: Bezos' financial ties",
+          "imageUrl": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4225x2377+0+219/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fc0%2Fed%2Fc7eaa1b742d6898c6d4fff7ad634%2Fbezos-at-inauguration-2021.jpg"
         },
         {
           "id": "https://news.ycombinator.com/item?id=45722639",
@@ -1304,16 +1334,6 @@
           "wordCount": 4590,
           "title": "Claude Sonnet 4.5",
           "imageUrl": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20HeadCube&backgroundColor=clay"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=45412419",
-          "author": "speckx",
-          "description": "Article URL: https://neilzone.co.uk/2025/09/what-if-i-dont-want-videos-of-my-hobby-time-available-to-the-entire-world/\nComments URL: https://news.ycombinator.com/item?id=45412419\nPoints: 534\n# Comments: 567",
-          "link": "https://neilzone.co.uk/2025/09/what-if-i-dont-want-videos-of-my-hobby-time-available-to-the-entire-world/",
-          "publishedOn": "2025-09-29T11:28:06.000Z",
-          "wordCount": 919,
-          "title": "What if I don't want videos of my hobby time available to the world?",
-          "imageUrl": "https://neilzone.co.uk/content/images/2024-10-17_neil.jpg"
         }
       ]
     },
