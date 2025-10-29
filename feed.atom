@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-10-29T21:17:42.939Z</updated>
+    <updated>2025-10-29T22:18:07.231Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -17,6 +17,21 @@ Points: 531
 # Comments: 288]]></summary>
         <author>
             <name>todsacerdoti</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tell HN: Azure outage]]></title>
+        <id>https://news.ycombinator.com/item?id=45748661</id>
+        <link href="https://news.ycombinator.com/item?id=45748661"/>
+        <updated>2025-10-29T16:01:18.000Z</updated>
+        <summary type="html"><![CDATA[Azure is down for us, we can't even access the azure portal. Are other experiencing this? Our services are located in Canada/Central and US-East 2
+https://downdetector.ca/status/windows-azure/
+https://azure.status.microsoft/en-gb/status
+Comments URL: https://news.ycombinator.com/item?id=45748661
+Points: 556
+# Comments: 558]]></summary>
+        <author>
+            <name>tartieret</name>
         </author>
     </entry>
     <entry>
@@ -36,6 +51,19 @@ Points: 531
         <updated>2025-10-29T15:25:28.000Z</updated>
         <author>
             <name>Think School</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS to bare metal two years later: Answering your questions about leaving AWS]]></title>
+        <id>https://news.ycombinator.com/item?id=45745281</id>
+        <link href="https://oneuptime.com/blog/post/2025-10-29-aws-to-bare-metal-two-years-later/view"/>
+        <updated>2025-10-29T11:14:38.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://oneuptime.com/blog/post/2025-10-29-aws-to-bare-metal-two-years-later/view
+Comments URL: https://news.ycombinator.com/item?id=45745281
+Points: 526
+# Comments: 389]]></summary>
+        <author>
+            <name>ndhandala</name>
         </author>
     </entry>
     <entry>
