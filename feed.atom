@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-10-30T20:21:39.655Z</updated>
+    <updated>2025-10-30T21:17:36.608Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -24,6 +24,19 @@
         <summary type="html"><![CDATA[More devs are experimenting with kicking off coding agents in parallel]]></summary>
         <author>
             <name>Gergely Orosz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Affinity Studio now free]]></title>
+        <id>https://news.ycombinator.com/item?id=45761445</id>
+        <link href="https://www.affinity.studio/get-affinity"/>
+        <updated>2025-10-30T15:54:38.000Z</updated>
+        <summary type="html"><![CDATA[https://www.affinity.studio/
+Comments URL: https://news.ycombinator.com/item?id=45761445
+Points: 536
+# Comments: 418]]></summary>
+        <author>
+            <name>dagmx</name>
         </author>
     </entry>
     <entry>
@@ -2438,16 +2451,6 @@ Points: 504
         <id>https://www.youtube.com/watch?v=zt5uqErQysk</id>
         <link href="https://www.youtube.com/watch?v=zt5uqErQysk"/>
         <updated>2025-10-01T12:31:17.000Z</updated>
-        <author>
-            <name>Think School</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Is BJP doing a good job?]]></title>
-        <id>https://www.youtube.com/shorts/du7Auc_qprE</id>
-        <link href="https://www.youtube.com/shorts/du7Auc_qprE"/>
-        <updated>2025-10-01T09:02:07.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>Think School</name>
         </author>
