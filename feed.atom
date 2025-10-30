@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-10-30T17:17:21.202Z</updated>
+    <updated>2025-10-30T18:27:48.689Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Comparing interviews at 8 large tech companies]]></title>
+        <id>6903a79017b0a200016fa3a2</id>
+        <link href="https://blog.pragmaticengineer.com/comparing-interviews-at-8-large-tech-companies/"/>
+        <updated>2025-10-30T18:00:42.000Z</updated>
+        <summary type="html"><![CDATA[Puneet Patwari applied to 8 major tech companies, and received 6 offers. He compares his interview experiences at Meta, Amazon, Uber, and 5 other workplaces]]></summary>
+        <author>
+            <name>Gergely Orosz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New trend: programming by kicking off parallel AI agents]]></title>
+        <id>6903a70817b0a200016fa357</id>
+        <link href="https://blog.pragmaticengineer.com/new-trend-programming-by-kicking-off-parallel-ai-agents/"/>
+        <updated>2025-10-30T17:58:38.000Z</updated>
+        <summary type="html"><![CDATA[More devs are experimenting with kicking off coding agents in parallel]]></summary>
+        <author>
+            <name>Gergely Orosz</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[India’s next revolution runs on sunlight.]]></title>
         <id>https://www.youtube.com/shorts/Ib1E-rneIEk</id>
@@ -74,6 +94,19 @@ Points: 556
         <updated>2025-10-29T15:25:28.000Z</updated>
         <author>
             <name>Think School</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kafka is Fast – I'll use Postgres]]></title>
+        <id>https://news.ycombinator.com/item?id=45747018</id>
+        <link href="https://topicpartition.io/blog/postgres-pubsub-queue-benchmarks"/>
+        <updated>2025-10-29T14:06:01.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://topicpartition.io/blog/postgres-pubsub-queue-benchmarks
+Comments URL: https://news.ycombinator.com/item?id=45747018
+Points: 503
+# Comments: 360]]></summary>
+        <author>
+            <name>enether</name>
         </author>
     </entry>
     <entry>
