@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-10-31T14:19:41.263Z</updated>
+    <updated>2025-10-31T15:19:08.433Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -191,6 +191,19 @@ Points: 501
 # Comments: 465]]></summary>
         <author>
             <name>jjbinx007</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Who needs Graphviz when you can build it yourself?]]></title>
+        <id>https://news.ycombinator.com/item?id=45742907</id>
+        <link href="https://spidermonkey.dev/blog/2025/10/28/iongraph-web.html"/>
+        <updated>2025-10-29T05:17:49.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://spidermonkey.dev/blog/2025/10/28/iongraph-web.html
+Comments URL: https://news.ycombinator.com/item?id=45742907
+Points: 500
+# Comments: 105]]></summary>
+        <author>
+            <name>pdubroy</name>
         </author>
     </entry>
     <entry>
