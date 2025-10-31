@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=45765664",
+          "author": "layer8",
+          "description": "Article URL: https://therecord.media/demark-reportedly-withdraws-chat-control-proposal\nComments URL: https://news.ycombinator.com/item?id=45765664\nPoints: 500\n# Comments: 202",
+          "link": "https://therecord.media/demark-reportedly-withdraws-chat-control-proposal",
+          "publishedOn": "2025-10-30T21:35:42.000Z",
+          "wordCount": 1557,
+          "title": "Denmark reportedly withdraws Chat Control proposal following controversy",
+          "imageUrl": "https://cms.therecord.media/uploads/format_webp/eu_7397d6f669.jpg"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=45761445",
           "author": "dagmx",
           "description": "https://www.affinity.studio/\nComments URL: https://news.ycombinator.com/item?id=45761445\nPoints: 536\n# Comments: 418",
@@ -1334,16 +1344,6 @@
           "wordCount": 2932,
           "title": "Asked to do something illegal at work? Here's what these software engineers did",
           "imageUrl": "https://blog.pragmaticengineer.com/content/images/2023/11/Screenshot-2023-11-09-at-11.46.08-1.png"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=45446834",
-          "author": "Alexvb",
-          "description": "Article URL: https://github.com/immich-app/immich/discussions/22546\nComments URL: https://news.ycombinator.com/item?id=45446834\nPoints: 501\n# Comments: 144",
-          "link": "https://github.com/immich-app/immich/discussions/22546",
-          "publishedOn": "2025-10-02T06:25:43.000Z",
-          "wordCount": 4648,
-          "title": "Immich v2.0.0 – First stable release",
-          "imageUrl": "https://opengraph.githubassets.com/50bc0499eefb96db364a0aefb63c4e36dd29d03b1b9e059321b5c126589d1ce1/immich-app/immich/discussions/22546"
         }
       ]
     },
