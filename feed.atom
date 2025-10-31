@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-10-31T04:23:26.809Z</updated>
+    <updated>2025-10-31T05:19:45.390Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[They finally posted the full details]]></title>
+        <id>https://www.youtube.com/watch?v=LZm9nTwsGi8</id>
+        <link href="https://www.youtube.com/watch?v=LZm9nTwsGi8"/>
+        <updated>2025-10-31T04:30:26.000Z</updated>
+        <author>
+            <name>Hussein Nasser</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Comparing interviews at 8 large tech companies]]></title>
         <id>6903a79017b0a200016fa3a2</id>
@@ -2451,19 +2460,6 @@ Points: 508
 # Comments: 267]]></summary>
         <author>
             <name>matheusml</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gmail will no longer support checking emails from third-party accounts via POP]]></title>
-        <id>https://news.ycombinator.com/item?id=45439670</id>
-        <link href="https://support.google.com/mail/answer/16604719?hl=en"/>
-        <updated>2025-10-01T16:25:58.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://support.google.com/mail/answer/16604719?hl=en
-Comments URL: https://news.ycombinator.com/item?id=45439670
-Points: 523
-# Comments: 279]]></summary>
-        <author>
-            <name>sumanep</name>
         </author>
     </entry>
 </feed>
