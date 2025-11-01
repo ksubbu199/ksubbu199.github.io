@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=45777810",
+          "author": "shashanktomar",
+          "description": "I went down the rabbit hole on a side project and ended up building this: Strange Attractors(https://blog.shashanktomar.com/posts/strange-attractors). It’s built with three.js.\nWorking on it reminded me of the little \"maths for fun\" exercises I used to do while learning programming in early days. Just trying things out, getting fascinated and geeky, and being surprised by the results. I spent way too much time on this, but it was extreme fun.\nMy favorite part: someone pointed me to the Simone Attractor on Threads. It is a 2D attractor and I asked GPT to extrapolate it to 3D, not sure if it’s mathematically correct, but it’s the coolest by far. I have left all the params configurable, so give it a try. I called it Simone (Maybe).\nIf you like math-art experiments, check it out. Would love feedback, especially from folks who know more about the math side.\nComments URL: https://news.ycombinator.com/item?id=45777810\nPoints: 557\n# Comments: 56",
+          "link": "https://blog.shashanktomar.com/posts/strange-attractors",
+          "publishedOn": "2025-10-31T23:23:59.000Z",
+          "wordCount": 3242,
+          "title": "Show HN: Strange Attractors",
+          "imageUrl": "https://blog.shashanktomar.com/posts/strange-attractors/opengraph-image-ktbfjx.png?11912d39bacf05d9"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=45771636",
           "author": "gmays",
           "description": "Article URL: https://news.mit.edu/2025/your-brain-without-sleep-1029\nComments URL: https://news.ycombinator.com/item?id=45771636\nPoints: 511\n# Comments: 250",
@@ -1294,16 +1304,6 @@
           "wordCount": 2807,
           "title": "Germany must stand firmly against client-side scanning in Chat Control [pdf]",
           "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=45457333",
-          "author": "aspenmayer",
-          "description": "Article URL: https://www.foxbusiness.com/politics/apple-takes-down-ice-tracking-app-after-pressure-from-ag-bondi\nComments URL: https://news.ycombinator.com/item?id=45457333\nPoints: 538\n# Comments: 364",
-          "link": "https://www.foxbusiness.com/politics/apple-takes-down-ice-tracking-app-after-pressure-from-ag-bondi",
-          "publishedOn": "2025-10-03T00:34:29.000Z",
-          "wordCount": 4196,
-          "title": "Apple takes down ICE tracking apps after pressure from DOJ",
-          "imageUrl": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2025/10/0/0/tim-cook-pam-bondi.jpg?ve=1&tl=1"
         }
       ]
     },
