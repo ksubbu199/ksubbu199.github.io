@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-10-31T23:17:48.122Z</updated>
+    <updated>2025-11-01T01:38:17.149Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -13,6 +13,19 @@
         <updated>2025-10-31T16:30:18.000Z</updated>
         <author>
             <name>Hussein Nasser</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Attention lapses due to sleep deprivation due to flushing fluid from brain]]></title>
+        <id>https://news.ycombinator.com/item?id=45771636</id>
+        <link href="https://news.mit.edu/2025/your-brain-without-sleep-1029"/>
+        <updated>2025-10-31T13:14:23.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://news.mit.edu/2025/your-brain-without-sleep-1029
+Comments URL: https://news.ycombinator.com/item?id=45771636
+Points: 511
+# Comments: 250]]></summary>
+        <author>
+            <name>gmays</name>
         </author>
     </entry>
     <entry>
@@ -2406,20 +2419,6 @@ Points: 505
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>Think School</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Potential issues in curl found using AI assisted tools]]></title>
-        <id>https://news.ycombinator.com/item?id=45449348</id>
-        <link href="https://mastodon.social/@bagder/115241241075258997"/>
-        <updated>2025-10-02T13:29:55.000Z</updated>
-        <summary type="html"><![CDATA[https://joshua.hu/llm-engineer-review-sast-security-ai-tools...
-https://joshua.hu/files/AI_SAST_PRESENTATION.pdf
-Comments URL: https://news.ycombinator.com/item?id=45449348
-Points: 502
-# Comments: 144]]></summary>
-        <author>
-            <name>robhlam</name>
         </author>
     </entry>
 </feed>

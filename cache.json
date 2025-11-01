@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=45771636",
+          "author": "gmays",
+          "description": "Article URL: https://news.mit.edu/2025/your-brain-without-sleep-1029\nComments URL: https://news.ycombinator.com/item?id=45771636\nPoints: 511\n# Comments: 250",
+          "link": "https://news.mit.edu/2025/your-brain-without-sleep-1029",
+          "publishedOn": "2025-10-31T13:14:23.000Z",
+          "wordCount": 2005,
+          "title": "Attention lapses due to sleep deprivation due to flushing fluid from brain",
+          "imageUrl": "https://news.mit.edu/sites/default/files/images/202510/MIT-Sleep-Deprivation-01.jpg"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=45765664",
           "author": "layer8",
           "description": "Article URL: https://therecord.media/demark-reportedly-withdraws-chat-control-proposal\nComments URL: https://news.ycombinator.com/item?id=45765664\nPoints: 500\n# Comments: 202",
@@ -1314,16 +1324,6 @@
           "wordCount": 6025,
           "title": "Signal Protocol and Post-Quantum Ratchets",
           "imageUrl": "https://signal.org/blog/images/spqr-opengraph.png"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=45449348",
-          "author": "robhlam",
-          "description": "https://joshua.hu/llm-engineer-review-sast-security-ai-tools...\nhttps://joshua.hu/files/AI_SAST_PRESENTATION.pdf\nComments URL: https://news.ycombinator.com/item?id=45449348\nPoints: 502\n# Comments: 144",
-          "link": "https://mastodon.social/@bagder/115241241075258997",
-          "publishedOn": "2025-10-02T13:29:55.000Z",
-          "wordCount": 220,
-          "title": "Potential issues in curl found using AI assisted tools",
-          "imageUrl": null
         }
       ]
     },
