@@ -46,6 +46,16 @@
           "imageUrl": "https://news.mit.edu/sites/default/files/images/202510/MIT-Sleep-Deprivation-01.jpg"
         },
         {
+          "id": "https://news.ycombinator.com/item?id=45767725",
+          "author": "azhenley",
+          "description": "Article URL: https://twitter.com/id_aa_carmack/status/1983593511703474196\nComments URL: https://news.ycombinator.com/item?id=45767725\nPoints: 501\n# Comments: 602",
+          "link": "https://twitter.com/id_aa_carmack/status/1983593511703474196",
+          "publishedOn": "2025-10-31T02:34:36.000Z",
+          "wordCount": 754,
+          "title": "John Carmack on mutable variables",
+          "imageUrl": null
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=45765664",
           "author": "layer8",
           "description": "Article URL: https://therecord.media/demark-reportedly-withdraws-chat-control-proposal\nComments URL: https://news.ycombinator.com/item?id=45765664\nPoints: 500\n# Comments: 202",
@@ -1760,6 +1770,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC_ML5xP23TOWKUcc-oAE_Eg",
       "siteUrl": "https://www.youtube.com/channel/UC_ML5xP23TOWKUcc-oAE_Eg",
       "articles": [
+        {
+          "id": "https://www.youtube.com/shorts/mPS5BQsfKpQ",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/mPS5BQsfKpQ",
+          "publishedOn": "2025-11-02T18:00:53.000Z",
+          "wordCount": 2081,
+          "title": "why Google disabled IO uring",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/shorts/lcIWIb7Ch1A",
           "author": null,
