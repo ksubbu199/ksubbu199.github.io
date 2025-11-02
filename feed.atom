@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-11-02T01:39:29.298Z</updated>
+    <updated>2025-11-02T03:15:25.777Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -2387,15 +2387,6 @@ Points: 507
 # Comments: 118]]></summary>
         <author>
             <name>greyface-</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Asynchronous IO in Postgres 18 | The Backend Engineering Show]]></title>
-        <id>https://www.youtube.com/watch?v=yGjGc21mmoU</id>
-        <link href="https://www.youtube.com/watch?v=yGjGc21mmoU"/>
-        <updated>2025-10-03T14:01:41.000Z</updated>
-        <author>
-            <name>Hussein Nasser</name>
         </author>
     </entry>
 </feed>
