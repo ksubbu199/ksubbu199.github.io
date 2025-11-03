@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-11-03T07:19:41.397Z</updated>
+    <updated>2025-11-03T08:28:08.846Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Facts about throwing good parties]]></title>
+        <id>https://news.ycombinator.com/item?id=45794032</id>
+        <link href="https://www.atvbt.com/21-facts-about-throwing-good-parties/"/>
+        <updated>2025-11-02T22:32:42.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.atvbt.com/21-facts-about-throwing-good-parties/
+Comments URL: https://news.ycombinator.com/item?id=45794032
+Points: 580
+# Comments: 213]]></summary>
+        <author>
+            <name>cjbarber</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Linux gamers on Steam cross over the 3% mark]]></title>
         <id>https://news.ycombinator.com/item?id=45792503</id>
@@ -350,6 +363,19 @@ Points: 553
 # Comments: 126]]></summary>
         <author>
             <name>LorenDB</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tips for stroke-surviving software engineers]]></title>
+        <id>https://news.ycombinator.com/item?id=45742419</id>
+        <link href="https://blog.j11y.io/2025-10-29_stroke_tips_for_engineers/"/>
+        <updated>2025-10-29T03:51:56.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://blog.j11y.io/2025-10-29_stroke_tips_for_engineers/
+Comments URL: https://news.ycombinator.com/item?id=45742419
+Points: 500
+# Comments: 186]]></summary>
+        <author>
+            <name>padolsey</name>
         </author>
     </entry>
     <entry>
