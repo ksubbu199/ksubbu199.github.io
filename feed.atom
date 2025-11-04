@@ -2,10 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-11-03T23:17:41.468Z</updated>
+    <updated>2025-11-04T01:27:53.472Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Fragments Nov 3]]></title>
+        <id>https://martinfowler.com/articles/2025-11-03-frags.html</id>
+        <link href="https://martinfowler.com/articles/2025-11-03-frags.html"/>
+        <updated>2025-11-04T00:42:00.000Z</updated>
+        <summary type="html"><![CDATA[I’m very concerned about the security dangers of LLM-enabled browsers, as it’s just too easy for them to contain the Lethal Trifecta. For up-to-date eyes on these issues, I follow the writings of coiner of that phrase: Simon Willison. Here he examines a post on how OpenAI is thinking about these issues.
+My takeaways from all of this? It’s not done much to influence my overall skepticism of the entire category of browser agents, but it does at least demonstrate that OpenAI are keenly aware of the problems and are investing serious effort in finding the right mix of protections.
+                ❄                ❄                ❄                ❄
+Rob Bowley
+Unsurprisingly, there are a lot of strong opinions on AI assisted coding. Some engineers swear by it. Others say it’s dangerous. And of …]]></summary>
+        <author>
+            <name>Martin Fowler</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What is Virtual memory?]]></title>
         <id>https://www.youtube.com/watch?v=q1kBGyEsxdQ</id>
