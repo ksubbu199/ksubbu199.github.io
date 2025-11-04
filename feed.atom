@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-11-04T13:33:22.236Z</updated>
+    <updated>2025-11-04T14:20:19.382Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The Learning Loop and LLMs]]></title>
+        <id>https://martinfowler.com/articles/llm-learning-loop.html</id>
+        <link href="https://martinfowler.com/articles/llm-learning-loop.html"/>
+        <updated>2025-11-04T14:14:00.000Z</updated>
+        <summary type="html"><![CDATA[Unmesh Joshi finds LLMs to be a useful tool, but
+      explains why their help becomes illusory if we use them to shortcut the
+      learning loop that's an essential part of our professional practice.
+more…]]></summary>
+        <author>
+            <name>Martin Fowler</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Fragments Nov 3]]></title>
         <id>https://martinfowler.com/articles/2025-11-03-frags.html</id>

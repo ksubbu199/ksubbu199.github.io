@@ -1404,6 +1404,16 @@
       "siteUrl": "https://martinfowler.com/feed.atom",
       "articles": [
         {
+          "id": "https://martinfowler.com/articles/llm-learning-loop.html",
+          "author": null,
+          "description": "Unmesh Joshi finds LLMs to be a useful tool, but\n      explains why their help becomes illusory if we use them to shortcut the\n      learning loop that's an essential part of our professional practice.\nmore…",
+          "link": "https://martinfowler.com/articles/llm-learning-loop.html",
+          "publishedOn": "2025-11-04T14:14:00.000Z",
+          "wordCount": 1932,
+          "title": "The Learning Loop and LLMs",
+          "imageUrl": "https://martinfowler.com/articles/llm-learning-loop/card.png"
+        },
+        {
           "id": "https://martinfowler.com/articles/2025-11-03-frags.html",
           "author": null,
           "description": "I’m very concerned about the security dangers of LLM-enabled browsers, as it’s just too easy for them to contain the Lethal Trifecta. For up-to-date eyes on these issues, I follow the writings of coiner of that phrase: Simon Willison. Here he examines a post on how OpenAI is thinking about these issues.\nMy takeaways from all of this? It’s not done much to influence my overall skepticism of the entire category of browser agents, but it does at least demonstrate that OpenAI are keenly aware of the problems and are investing serious effort in finding the right mix of protections.\n                ❄                ❄                ❄                ❄\nRob Bowley\nUnsurprisingly, there are a lot of strong opinions on AI assisted coding. Some engineers swear by it. Others say it’s dangerous. And of …",
