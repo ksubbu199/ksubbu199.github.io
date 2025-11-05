@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-11-05T11:17:18.076Z</updated>
+    <updated>2025-11-05T12:40:53.619Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Influencers Selling ATTENTION Not Truth]]></title>
+        <id>https://www.youtube.com/shorts/HSg91X_lcvY</id>
+        <link href="https://www.youtube.com/shorts/HSg91X_lcvY"/>
+        <updated>2025-11-05T12:30:24.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Think School</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[PolyForm Noncommercial 2.0.0-pre.1]]></title>
         <id>https://writing.kemitchell.com/2025/11/04/PolyForm-Noncommercial-2.0.0-pre.1</id>
@@ -2421,19 +2431,6 @@ Points: 511
 # Comments: 279]]></summary>
         <author>
             <name>walterbell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The least amount of CSS for a decent looking site (2023)]]></title>
-        <id>https://news.ycombinator.com/item?id=45497624</id>
-        <link href="https://thecascade.dev/article/least-amount-of-css/"/>
-        <updated>2025-10-06T23:47:24.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://thecascade.dev/article/least-amount-of-css/
-Comments URL: https://news.ycombinator.com/item?id=45497624
-Points: 507
-# Comments: 219]]></summary>
-        <author>
-            <name>loughnane</name>
         </author>
     </entry>
 </feed>
