@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-11-05T23:17:45.062Z</updated>
+    <updated>2025-11-06T01:28:36.480Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Solarpunk is happening in Africa]]></title>
+        <id>https://news.ycombinator.com/item?id=45827190</id>
+        <link href="https://climatedrift.substack.com/p/why-solarpunk-is-already-happening"/>
+        <updated>2025-11-05T20:00:40.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://climatedrift.substack.com/p/why-solarpunk-is-already-happening
+Comments URL: https://news.ycombinator.com/item?id=45827190
+Points: 509
+# Comments: 249]]></summary>
+        <author>
+            <name>JoiDegn</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[one request = one h2 stream]]></title>
         <id>https://www.youtube.com/shorts/zJ7VQ-Cp0f4</id>
@@ -2425,32 +2438,6 @@ Points: 539
 # Comments: 575]]></summary>
         <author>
             <name>janpio</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Qualcomm to Acquire Arduino]]></title>
-        <id>https://news.ycombinator.com/item?id=45502541</id>
-        <link href="https://www.qualcomm.com/news/releases/2025/10/qualcomm-to-acquire-arduino-accelerating-developers--access-to-i"/>
-        <updated>2025-10-07T13:00:08.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.qualcomm.com/news/releases/2025/10/qualcomm-to-acquire-arduino-accelerating-developers--access-to-i
-Comments URL: https://news.ycombinator.com/item?id=45502541
-Points: 549
-# Comments: 266]]></summary>
-        <author>
-            <name>janjongboom</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Canadian bill would strip internet access from 'specified persons', no warrant]]></title>
-        <id>https://news.ycombinator.com/item?id=45502216</id>
-        <link href="https://nationalpost.com/opinion/canadian-bill-would-strip-internet-access-from-specified-persons"/>
-        <updated>2025-10-07T12:20:14.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://nationalpost.com/opinion/canadian-bill-would-strip-internet-access-from-specified-persons
-Comments URL: https://news.ycombinator.com/item?id=45502216
-Points: 511
-# Comments: 279]]></summary>
-        <author>
-            <name>walterbell</name>
         </author>
     </entry>
 </feed>
