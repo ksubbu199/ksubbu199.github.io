@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-11-06T16:26:36.356Z</updated>
+    <updated>2025-11-06T17:19:10.729Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The Pulse: Amazon layoffs – AI or economy to blame?]]></title>
+        <id>690ccf1cece43400015a8f22</id>
+        <link href="https://blog.pragmaticengineer.com/the-pulse-amazon-layoffs/"/>
+        <updated>2025-11-06T16:40:34.000Z</updated>
+        <summary type="html"><![CDATA[Amazon is doing more mass layoffs, claiming it wants to be more nimble. But are job losses really about US economic fears, and how Amazon’s retail business will be affected?]]></summary>
+        <author>
+            <name>Gergely Orosz</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ratatui – App Showcase]]></title>
         <id>https://news.ycombinator.com/item?id=45830829</id>
@@ -138,6 +148,19 @@ Points: 500
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[I was right about dishwasher pods and now I can prove it [video]]]></title>
+        <id>https://news.ycombinator.com/item?id=45815419</id>
+        <link href="https://www.youtube.com/watch?v=DAX2_mPr9W8"/>
+        <updated>2025-11-04T20:16:45.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.youtube.com/watch?v=DAX2_mPr9W8
+Comments URL: https://news.ycombinator.com/item?id=45815419
+Points: 504
+# Comments: 406]]></summary>
+        <author>
+            <name>hnaccount_rng</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[How to Build a ₹100 Cr Brand: Brand Building Secrets from SuperYou's Nikunj Biyani | IBP 46]]></title>
         <id>https://www.youtube.com/watch?v=G8UK7WcdF1Y</id>
         <link href="https://www.youtube.com/watch?v=G8UK7WcdF1Y"/>
@@ -266,6 +289,19 @@ Points: 575
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>Hussein Nasser</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[URLs are state containers]]></title>
+        <id>https://news.ycombinator.com/item?id=45789474</id>
+        <link href="https://alfy.blog/2025/10/31/your-url-is-your-state.html"/>
+        <updated>2025-11-02T11:12:58.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://alfy.blog/2025/10/31/your-url-is-your-state.html
+Comments URL: https://news.ycombinator.com/item?id=45789474
+Points: 500
+# Comments: 212]]></summary>
+        <author>
+            <name>thm</name>
         </author>
     </entry>
     <entry>
