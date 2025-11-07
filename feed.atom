@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-11-06T23:17:59.128Z</updated>
+    <updated>2025-11-07T01:27:55.243Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -13,6 +13,19 @@
         <updated>2025-11-06T18:01:17.000Z</updated>
         <author>
             <name>Hussein Nasser</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ICC ditches Microsoft 365 for openDesk]]></title>
+        <id>https://news.ycombinator.com/item?id=45837342</id>
+        <link href="https://www.binnenlandsbestuur.nl/digitaal/internationaal-strafhof-neemt-afscheid-van-microsoft-365"/>
+        <updated>2025-11-06T16:57:55.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.binnenlandsbestuur.nl/digitaal/internationaal-strafhof-neemt-afscheid-van-microsoft-365
+Comments URL: https://news.ycombinator.com/item?id=45837342
+Points: 526
+# Comments: 163]]></summary>
+        <author>
+            <name>vincvinc</name>
         </author>
     </entry>
     <entry>
@@ -2446,16 +2459,6 @@ Points: 526
 # Comments: 86]]></summary>
         <author>
             <name>jgrahamc</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MSP isn't the problem, India's use of it is]]></title>
-        <id>https://www.youtube.com/shorts/kDGCTQsIj2E</id>
-        <link href="https://www.youtube.com/shorts/kDGCTQsIj2E"/>
-        <updated>2025-10-08T13:01:26.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Think School</name>
         </author>
     </entry>
 </feed>
