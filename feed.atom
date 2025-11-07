@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-11-07T12:39:31.463Z</updated>
+    <updated>2025-11-07T13:27:45.872Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -27,6 +27,19 @@ Points: 554
 # Comments: 235]]></summary>
         <author>
             <name>tabletcorry</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Two billion email addresses were exposed]]></title>
+        <id>https://news.ycombinator.com/item?id=45839901</id>
+        <link href="https://www.troyhunt.com/2-billion-email-addresses-were-exposed-and-we-indexed-them-all-in-have-i-been-pwned/"/>
+        <updated>2025-11-06T20:20:23.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.troyhunt.com/2-billion-email-addresses-were-exposed-and-we-indexed-them-all-in-have-i-been-pwned/
+Comments URL: https://news.ycombinator.com/item?id=45839901
+Points: 510
+# Comments: 347]]></summary>
+        <author>
+            <name>esnard</name>
         </author>
     </entry>
     <entry>
