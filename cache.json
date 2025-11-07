@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=45845772",
+          "author": "donohoe",
+          "description": "Article URL: https://sherwood.news/tech/meta-projected-10-of-2024-revenue-came-from-scams-and-banned-goods-reuters/\nComments URL: https://news.ycombinator.com/item?id=45845772\nPoints: 526\n# Comments: 419",
+          "link": "https://sherwood.news/tech/meta-projected-10-of-2024-revenue-came-from-scams-and-banned-goods-reuters/",
+          "publishedOn": "2025-11-07T12:39:54.000Z",
+          "wordCount": 15012,
+          "title": "Meta projected 10% of 2024 revenue came from scams",
+          "imageUrl": "https://sherwoodnews.imgix.net/mwphzyq69oso/en-US/assets/files/2244086504_new-york-new-york-mark-zuckerberg-attends-the-wsj-magazine-2025-innovator-awards-at-moma-on.jpg?auto=compress%2Cformat&cs=srgb"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=45843948",
           "author": "saikatsg",
           "description": "Article URL: https://soumith.ch/blog/2025-11-06-leaving-meta-and-pytorch.md.html\nComments URL: https://news.ycombinator.com/item?id=45843948\nPoints: 517\n# Comments: 113",
@@ -1314,16 +1324,6 @@
           "wordCount": 4444,
           "title": "A small number of samples can poison LLMs of any size",
           "imageUrl": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20Puzzle&backgroundColor=heather"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=45524702",
-          "author": "pjmlp",
-          "description": "Article URL: https://blog.miguelgrinberg.com/post/python-3-14-is-here-how-fast-is-it\nComments URL: https://news.ycombinator.com/item?id=45524702\nPoints: 512\n# Comments: 374",
-          "link": "https://blog.miguelgrinberg.com/post/python-3-14-is-here-how-fast-is-it",
-          "publishedOn": "2025-10-09T07:40:42.000Z",
-          "wordCount": 3619,
-          "title": "Python 3.14 is here. How fast is it?",
-          "imageUrl": "https://blog.miguelgrinberg.com/static/cards/python-3-14-is-here-how-fast-is-it.jpg"
         }
       ]
     },
