@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-11-07T01:27:55.243Z</updated>
+    <updated>2025-11-07T03:10:18.030Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -2446,19 +2446,6 @@ Points: 506
 # Comments: 251]]></summary>
         <author>
             <name>PaulKeeble</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[We found a bug in Go's ARM64 compiler]]></title>
-        <id>https://news.ycombinator.com/item?id=45516000</id>
-        <link href="https://blog.cloudflare.com/how-we-found-a-bug-in-gos-arm64-compiler/"/>
-        <updated>2025-10-08T13:33:15.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://blog.cloudflare.com/how-we-found-a-bug-in-gos-arm64-compiler/
-Comments URL: https://news.ycombinator.com/item?id=45516000
-Points: 526
-# Comments: 86]]></summary>
-        <author>
-            <name>jgrahamc</name>
         </author>
     </entry>
 </feed>
