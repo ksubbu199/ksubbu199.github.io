@@ -106,6 +106,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://news.ycombinator.com/item?id=45825733",
+          "author": "costco",
+          "description": "Hi everyone,\nFor the past couple months I've been working on a website with two main features:\n- https://book.sv - put in a list of books and get recommendations on what to read next from a model trained on over a billion reviews\n- https://book.sv/intersect - put in a list of books and find the users on Goodreads who have read them all (if you don't want to be included in these results, you can opt-out here: https://book.sv/remove-my-data)\nTechnical info available here: https://book.sv/how-it-works\nNote 1: If you only provide one or two books, the model doesn't have a lot to work with and may include a handful of somewhat unrelated popular books in the results.  If you want recommendations based on just one book, click the \"Similar\" button next to the book after adding it to the input book list on the recommendations page.\nNote 2: This is uncommon, but if you get an unexpected non-English titled book in the results, it is probably not a mistake and it very likely has an English edition.  The \"canonical\" edition of a book I use for display is whatever one is the most popular, which is usually the English version, but this is not the case for all books, especially those by famous French or Russian authors.\nComments URL: https://news.ycombinator.com/item?id=45825733\nPoints: 509\n# Comments: 208",
+          "link": "https://book.sv/",
+          "publishedOn": "2025-11-05T17:50:45.000Z",
+          "wordCount": 111,
+          "title": "Show HN: I scraped 3B Goodreads reviews to train a better recommendation model",
+          "imageUrl": "https://book.sv/static/favicon.ico"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=45824864",
           "author": "zdw",
           "description": "Article URL: https://www.theseedsofscience.pub/p/why-arent-smart-people-happier\nComments URL: https://news.ycombinator.com/item?id=45824864\nPoints: 500\n# Comments: 592",

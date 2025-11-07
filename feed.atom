@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-11-07T16:21:12.615Z</updated>
+    <updated>2025-11-07T17:17:26.057Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -173,6 +173,25 @@ Points: 504
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>Hussein Nasser</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: I scraped 3B Goodreads reviews to train a better recommendation model]]></title>
+        <id>https://news.ycombinator.com/item?id=45825733</id>
+        <link href="https://book.sv/"/>
+        <updated>2025-11-05T17:50:45.000Z</updated>
+        <summary type="html"><![CDATA[Hi everyone,
+For the past couple months I've been working on a website with two main features:
+- https://book.sv - put in a list of books and get recommendations on what to read next from a model trained on over a billion reviews
+- https://book.sv/intersect - put in a list of books and find the users on Goodreads who have read them all (if you don't want to be included in these results, you can opt-out here: https://book.sv/remove-my-data)
+Technical info available here: https://book.sv/how-it-works
+Note 1: If you only provide one or two books, the model doesn't have a lot to work with and may include a handful of somewhat unrelated popular books in the results.  If you want recommendations based on just one book, click the "Similar" button next to the book after adding it to the input book list on the recommendations page.
+Note 2: This is uncommon, but if you get an unexpected non-English titled book in the results, it is probably not a mistake and it very likely has an English edition.  The "canonical" edition of a book I use for display is whatever one is the most popular, which is usually the English version, but this is not the case for all books, especially those by famous French or Russian authors.
+Comments URL: https://news.ycombinator.com/item?id=45825733
+Points: 509
+# Comments: 208]]></summary>
+        <author>
+            <name>costco</name>
         </author>
     </entry>
     <entry>
