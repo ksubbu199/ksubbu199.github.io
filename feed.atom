@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-11-07T05:19:12.705Z</updated>
+    <updated>2025-11-07T06:30:25.798Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[You should write an agent]]></title>
+        <id>https://news.ycombinator.com/item?id=45840088</id>
+        <link href="https://fly.io/blog/everyone-write-an-agent/"/>
+        <updated>2025-11-06T20:37:06.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://fly.io/blog/everyone-write-an-agent/
+Comments URL: https://news.ycombinator.com/item?id=45840088
+Points: 554
+# Comments: 235]]></summary>
+        <author>
+            <name>tabletcorry</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Sync vs Async IO]]></title>
         <id>https://www.youtube.com/watch?v=vKiGo8aShyo</id>
