@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-11-08T20:18:28.224Z</updated>
+    <updated>2025-11-08T21:15:18.855Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -2517,43 +2517,6 @@ Points: 502
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>Think School</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nobel Peace Prize 2025: María Corina Machado]]></title>
-        <id>https://news.ycombinator.com/item?id=45536700</id>
-        <link href="https://www.nobelprize.org/prizes/peace/2025/summary/"/>
-        <updated>2025-10-10T09:03:16.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.nobelprize.org/prizes/peace/2025/summary/
-Comments URL: https://news.ycombinator.com/item?id=45536700
-Points: 517
-# Comments: 546]]></summary>
-        <author>
-            <name>pykello</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: I invented a new generative model and got accepted to ICLR]]></title>
-        <id>https://news.ycombinator.com/item?id=45536694</id>
-        <link href="https://discrete-distribution-networks.github.io/"/>
-        <updated>2025-10-10T09:01:54.000Z</updated>
-        <summary type="html"><![CDATA[I invented Discrete Distribution Networks, a novel generative model with simple principles and unique properties, and the paper has been accepted to ICLR2025!
-Modeling data distribution is challenging; DDN adopts a simple yet fundamentally different approach compared to mainstream generative models (Diffusion, GAN, VAE, autoregressive model):
-1. The model generates multiple outputs simultaneously in a single forward pass, rather than just one output.
-2. It uses these multiple outputs to approximate the target distribution of the training data.
-3. These outputs together represent a discrete distribution. This is why we named it "Discrete Distribution Networks".
-Every generative model has its unique properties, and DDN is no exception. Here, we highlight three characteristics of DDN:
-- Zero-Shot Conditional Generation (ZSCG).
-- One-dimensional discrete latent representation organized in a tree structure.
-- Fully end-to-end differentiable.
-Reviews from ICLR:
-> I find the method novel and elegant. The novelty is very strong, and this should not be overlooked. This is a whole new method, very different from any of the existing generative models.  
-> This is a very good paper that can open a door to new directions in generative modeling.
-Comments URL: https://news.ycombinator.com/item?id=45536694
-Points: 509
-# Comments: 61]]></summary>
-        <author>
-            <name>diyer22</name>
         </author>
     </entry>
 </feed>
