@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-11-08T11:14:37.067Z</updated>
+    <updated>2025-11-08T12:35:21.011Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Every Failed Brand Ignored This One Rule]]></title>
+        <id>https://www.youtube.com/shorts/fCMD7PFB5bk</id>
+        <link href="https://www.youtube.com/shorts/fCMD7PFB5bk"/>
+        <updated>2025-11-08T11:13:33.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Think School</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Blocking I/O = Context switch]]></title>
         <id>https://www.youtube.com/shorts/Gn1S2Om2mAE</id>
@@ -2495,49 +2505,6 @@ Points: 509
 # Comments: 61]]></summary>
         <author>
             <name>diyer22</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I'm in Vibe Coding Hell]]></title>
-        <id>https://blog.boot.dev/education/vibe-coding-hell/</id>
-        <link href="https://blog.boot.dev/education/vibe-coding-hell/"/>
-        <updated>2025-10-10T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[When I started thinking about the problems with coding education in 2019, “tutorial hell” was enemy number one. You’d know you were living in it if you:]]></summary>
-        <author>
-            <name>Boot.dev Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I'm in Vibe Code Hell]]></title>
-        <id>https://blog.boot.dev/education/vibe-code-hell/</id>
-        <link href="https://blog.boot.dev/education/vibe-code-hell/"/>
-        <updated>2025-10-10T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[When I started thinking about the problems with coding education in 2019, “tutorial hell” was enemy number one. You’d know you were living in it if you:]]></summary>
-        <author>
-            <name>Boot.dev Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Notes on switching to Helix from vim]]></title>
-        <id>https://jvns.ca/blog/2025/10/10/notes-on-switching-to-helix-from-vim/</id>
-        <link href="https://jvns.ca/blog/2025/10/10/notes-on-switching-to-helix-from-vim/"/>
-        <updated>2025-10-10T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Hello! Earlier this summer I was talking to a friend about how much I
-love using fish, and
-how I love that I don’t have to configure it. They said that they feel the same
-way about the helix text editor, and so I decided
-to give it a try.
-I’ve been using it for 3 months now and here are a few notes.
-why helix: language servers
-I think what motivated me to try Helix is that I’ve been trying to get a working
-language server setup (so I can do things like “go to definition”) and getting
-a setup that feels good in Vim or Neovim just felt like too much work.
-After using Vim/Neovim for 20 years, I’ve tried both “build my own custom
-configuration from scratch” and “use someone else’s pre-buld configuration
-system” and even though I love Vim I was excited about having things just work
-without havi…]]></summary>
-        <author>
-            <name>Julia Evans</name>
         </author>
     </entry>
 </feed>
