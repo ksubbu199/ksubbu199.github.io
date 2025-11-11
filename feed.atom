@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-11-11T04:25:02.842Z</updated>
+    <updated>2025-11-11T05:20:23.892Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -13,6 +13,19 @@
         <updated>2025-11-10T18:00:27.000Z</updated>
         <author>
             <name>Hussein Nasser</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Unexpected things that are people]]></title>
+        <id>https://news.ycombinator.com/item?id=45877257</id>
+        <link href="https://bengoldhaber.substack.com/p/unexpected-things-that-are-people"/>
+        <updated>2025-11-10T16:05:46.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://bengoldhaber.substack.com/p/unexpected-things-that-are-people
+Comments URL: https://news.ycombinator.com/item?id=45877257
+Points: 505
+# Comments: 249]]></summary>
+        <author>
+            <name>lindowe</name>
         </author>
     </entry>
     <entry>
@@ -2542,19 +2555,6 @@ Points: 500
 # Comments: 445]]></summary>
         <author>
             <name>piskov</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Wireguard FPGA]]></title>
-        <id>https://news.ycombinator.com/item?id=45559857</id>
-        <link href="https://github.com/chili-chips-ba/wireguard-fpga"/>
-        <updated>2025-10-12T17:12:00.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://github.com/chili-chips-ba/wireguard-fpga
-Comments URL: https://news.ycombinator.com/item?id=45559857
-Points: 511
-# Comments: 125]]></summary>
-        <author>
-            <name>hasheddan</name>
         </author>
     </entry>
 </feed>

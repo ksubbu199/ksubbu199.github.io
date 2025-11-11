@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=45877257",
+          "author": "lindowe",
+          "description": "Article URL: https://bengoldhaber.substack.com/p/unexpected-things-that-are-people\nComments URL: https://news.ycombinator.com/item?id=45877257\nPoints: 505\n# Comments: 249",
+          "link": "https://bengoldhaber.substack.com/p/unexpected-things-that-are-people",
+          "publishedOn": "2025-11-10T16:05:46.000Z",
+          "wordCount": null,
+          "title": "Unexpected things that are people",
+          "imageUrl": null
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=45873434",
           "author": "edent",
           "description": "Article URL: https://xslt.rip/\nComments URL: https://news.ycombinator.com/item?id=45873434\nPoints: 501\n# Comments: 315",
@@ -1364,16 +1374,6 @@
           "wordCount": 25371,
           "title": "Dutch government takes control of Chinese-owned chipmaker Nexperia",
           "imageUrl": "https://image.cnbcfm.com/api/v1/image/108211030-1760329391651-gettyimages-1239673072-nexperia.jpeg?v=1760329445&w=1920&h=1080"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=45559857",
-          "author": "hasheddan",
-          "description": "Article URL: https://github.com/chili-chips-ba/wireguard-fpga\nComments URL: https://news.ycombinator.com/item?id=45559857\nPoints: 511\n# Comments: 125",
-          "link": "https://github.com/chili-chips-ba/wireguard-fpga",
-          "publishedOn": "2025-10-12T17:12:00.000Z",
-          "wordCount": 10459,
-          "title": "Wireguard FPGA",
-          "imageUrl": "https://opengraph.githubassets.com/a092770a0d41f560047a0bb9b5333206f5e4d0bca8452914cf3b5283c18bf9ff/chili-chips-ba/wireguard-fpga"
         }
       ]
     },
