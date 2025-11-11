@@ -2,10 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-11-11T10:22:31.801Z</updated>
+    <updated>2025-11-11T11:17:45.778Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Four years on writing a tech book: pitching to a publisher]]></title>
+        <id>69130a5abb6a4e00013466cc</id>
+        <link href="https://blog.pragmaticengineer.com/four-years-on-writing-a-tech-book-pitching-to-a-publisher/"/>
+        <updated>2025-11-11T10:45:43.000Z</updated>
+        <summary type="html"><![CDATA[In 2019, I decided to write a book about software engineering. As an experienced software engineer and manager, I had the topic clear in my head, and assumed the whole project would take between six and 12 months in writing and publishing it.
+The first proof copy of The Software]]></summary>
+        <author>
+            <name>Gergely Orosz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The 'Toy Story' You Remember]]></title>
+        <id>https://news.ycombinator.com/item?id=45883788</id>
+        <link href="https://animationobsessive.substack.com/p/the-toy-story-you-remember"/>
+        <updated>2025-11-11T03:17:43.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://animationobsessive.substack.com/p/the-toy-story-you-remember
+Comments URL: https://news.ycombinator.com/item?id=45883788
+Points: 513
+# Comments: 122]]></summary>
+        <author>
+            <name>ani_obsessive</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Why you need to close sockets]]></title>
         <id>https://www.youtube.com/watch?v=DZTq_ADss7U</id>
