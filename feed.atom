@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-11-12T20:22:25.905Z</updated>
+    <updated>2025-11-12T21:18:53.026Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -27,6 +27,19 @@ Points: 634
 # Comments: 298]]></summary>
         <author>
             <name>davikr</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Steam Frame]]></title>
+        <id>https://news.ycombinator.com/item?id=45903325</id>
+        <link href="https://store.steampowered.com/sale/steamframe"/>
+        <updated>2025-11-12T17:54:58.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://store.steampowered.com/sale/steamframe
+Comments URL: https://news.ycombinator.com/item?id=45903325
+Points: 592
+# Comments: 183]]></summary>
+        <author>
+            <name>Philpax</name>
         </author>
     </entry>
     <entry>
