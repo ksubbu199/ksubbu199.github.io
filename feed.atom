@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-11-13T05:20:34.729Z</updated>
+    <updated>2025-11-13T06:31:04.735Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Google will allow users to sideload Android apps without verification]]></title>
+        <id>https://news.ycombinator.com/item?id=45908938</id>
+        <link href="https://android-developers.googleblog.com/2025/11/android-developer-verification-early.html"/>
+        <updated>2025-11-13T00:33:25.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://android-developers.googleblog.com/2025/11/android-developer-verification-early.html
+Comments URL: https://news.ycombinator.com/item?id=45908938
+Points: 585
+# Comments: 226]]></summary>
+        <author>
+            <name>erohead</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[PostgreSQL 18 Asynchronous I O]]></title>
         <id>https://www.youtube.com/shorts/__0_Scdbzy4</id>
@@ -2637,19 +2650,6 @@ Points: 516
 # Comments: 286]]></summary>
         <author>
             <name>alphabetatango</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Beliefs that are true for regular software but false when applied to AI]]></title>
-        <id>https://news.ycombinator.com/item?id=45583180</id>
-        <link href="https://boydkane.com/essays/boss"/>
-        <updated>2025-10-14T18:26:00.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://boydkane.com/essays/boss
-Comments URL: https://news.ycombinator.com/item?id=45583180
-Points: 500
-# Comments: 388]]></summary>
-        <author>
-            <name>beyarkay</name>
         </author>
     </entry>
 </feed>
