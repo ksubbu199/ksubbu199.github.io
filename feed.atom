@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-11-13T17:19:36.503Z</updated>
+    <updated>2025-11-13T18:28:39.910Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The rule of CPU in the Kernel]]></title>
+        <id>https://www.youtube.com/watch?v=JW6oVpQW2hw</id>
+        <link href="https://www.youtube.com/watch?v=JW6oVpQW2hw"/>
+        <updated>2025-11-13T18:00:22.000Z</updated>
+        <author>
+            <name>Hussein Nasser</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Google will allow users to sideload Android apps without verification]]></title>
         <id>https://news.ycombinator.com/item?id=45908938</id>
@@ -30,6 +39,19 @@ Points: 502
 # Comments: 383]]></summary>
         <author>
             <name>moonleay</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GPT-5.1: A smarter, more conversational ChatGPT]]></title>
+        <id>https://news.ycombinator.com/item?id=45904551</id>
+        <link href="https://openai.com/index/gpt-5-1/"/>
+        <updated>2025-11-12T19:05:41.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://openai.com/index/gpt-5-1/
+Comments URL: https://news.ycombinator.com/item?id=45904551
+Points: 502
+# Comments: 637]]></summary>
+        <author>
+            <name>tedsanders</name>
         </author>
     </entry>
     <entry>
