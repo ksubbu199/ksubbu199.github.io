@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-11-14T13:29:46.749Z</updated>
+    <updated>2025-11-14T14:19:09.741Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[SlopStop: Community-driven AI slop detection in Kagi Search]]></title>
+        <id>https://news.ycombinator.com/item?id=45919067</id>
+        <link href="https://blog.kagi.com/slopstop"/>
+        <updated>2025-11-13T19:03:26.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://blog.kagi.com/slopstop
+Comments URL: https://news.ycombinator.com/item?id=45919067
+Points: 511
+# Comments: 240]]></summary>
+        <author>
+            <name>msub2</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The rule of CPU in the Kernel]]></title>
         <id>https://www.youtube.com/watch?v=JW6oVpQW2hw</id>
