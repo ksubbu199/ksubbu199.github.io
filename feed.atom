@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-11-13T23:18:55.379Z</updated>
+    <updated>2025-11-14T01:36:38.290Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -2648,46 +2648,6 @@ Points: 501
 # Comments: 318]]></summary>
         <author>
             <name>meetpateltech</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Apple M5 chip]]></title>
-        <id>https://news.ycombinator.com/item?id=45591799</id>
-        <link href="https://www.apple.com/newsroom/2025/10/apple-unleashes-m5-the-next-big-leap-in-ai-performance-for-apple-silicon/"/>
-        <updated>2025-10-15T13:02:53.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.apple.com/newsroom/2025/10/apple-unleashes-m5-the-next-big-leap-in-ai-performance-for-apple-silicon/
-Comments URL: https://news.ycombinator.com/item?id=45591799
-Points: 552
-# Comments: 567]]></summary>
-        <author>
-            <name>mihau</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I almost got hacked by a 'job interview']]></title>
-        <id>https://news.ycombinator.com/item?id=45591707</id>
-        <link href="https://blog.daviddodda.com/how-i-almost-got-hacked-by-a-job-interview"/>
-        <updated>2025-10-15T12:56:12.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://blog.daviddodda.com/how-i-almost-got-hacked-by-a-job-interview
-Comments URL: https://news.ycombinator.com/item?id=45591707
-Points: 553
-# Comments: 284]]></summary>
-        <author>
-            <name>DavidDodda</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Understanding Spec-Driven-Development: Kiro, spec-kit, and Tessl]]></title>
-        <id>https://martinfowler.com/articles/exploring-gen-ai/sdd-3-tools.html</id>
-        <link href="https://martinfowler.com/articles/exploring-gen-ai/sdd-3-tools.html"/>
-        <updated>2025-10-15T12:33:00.000Z</updated>
-        <summary type="html"><![CDATA[Birgitta Böckeler has been trying to understand one of
-      the latest AI coding buzzword: Spec-driven development (SDD). She looked at
-      three of the tools that label themselves as SDD tools and tried to
-      untangle what it means, as of now.
-more…]]></summary>
-        <author>
-            <name>Martin Fowler</name>
         </author>
     </entry>
 </feed>
