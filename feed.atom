@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-11-14T03:13:26.368Z</updated>
+    <updated>2025-11-14T04:23:36.469Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -13,6 +13,32 @@
         <updated>2025-11-13T18:00:22.000Z</updated>
         <author>
             <name>Hussein Nasser</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nano Banana can be prompt engineered for nuanced AI image generation]]></title>
+        <id>https://news.ycombinator.com/item?id=45917875</id>
+        <link href="https://minimaxir.com/2025/11/nano-banana-prompts/"/>
+        <updated>2025-11-13T17:39:13.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://minimaxir.com/2025/11/nano-banana-prompts/
+Comments URL: https://news.ycombinator.com/item?id=45917875
+Points: 510
+# Comments: 134]]></summary>
+        <author>
+            <name>minimaxir</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Zed is our office]]></title>
+        <id>https://news.ycombinator.com/item?id=45916196</id>
+        <link href="https://zed.dev/blog/zed-is-our-office"/>
+        <updated>2025-11-13T15:41:26.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://zed.dev/blog/zed-is-our-office
+Comments URL: https://news.ycombinator.com/item?id=45916196
+Points: 507
+# Comments: 254]]></summary>
+        <author>
+            <name>sagacity</name>
         </author>
     </entry>
     <entry>
