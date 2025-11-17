@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-11-17T06:31:28.924Z</updated>
+    <updated>2025-11-17T07:19:26.682Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Open-source Zig book]]></title>
+        <id>https://news.ycombinator.com/item?id=45947810</id>
+        <link href="https://www.zigbook.net/"/>
+        <updated>2025-11-16T19:44:27.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.zigbook.net
+Comments URL: https://news.ycombinator.com/item?id=45947810
+Points: 506
+# Comments: 197]]></summary>
+        <author>
+            <name>rudedogg</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Anthropic's report smells a lot like bullshit]]></title>
         <id>https://news.ycombinator.com/item?id=45944296</id>
