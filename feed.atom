@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-11-18T19:16:53.739Z</updated>
+    <updated>2025-11-18T20:24:10.888Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -32,6 +32,32 @@ Points: 512
 # Comments: 431]]></summary>
         <author>
             <name>preek</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nearly all UK drivers say headlights are too bright]]></title>
+        <id>https://news.ycombinator.com/item?id=45966251</id>
+        <link href="https://www.bbc.com/news/articles/c1j8ewy1p86o"/>
+        <updated>2025-11-18T14:11:17.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.bbc.com/news/articles/c1j8ewy1p86o
+Comments URL: https://news.ycombinator.com/item?id=45966251
+Points: 544
+# Comments: 550]]></summary>
+        <author>
+            <name>YeGoblynQueenne</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cloudflare Global Network experiencing issues]]></title>
+        <id>https://news.ycombinator.com/item?id=45963780</id>
+        <link href="https://www.cloudflarestatus.com/incidents/8gmgl950y3h7"/>
+        <updated>2025-11-18T11:35:10.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.cloudflarestatus.com/incidents/8gmgl950y3h7
+Comments URL: https://news.ycombinator.com/item?id=45963780
+Points: 2172
+# Comments: 1398]]></summary>
+        <author>
+            <name>imdsm</name>
         </author>
     </entry>
     <entry>
@@ -2453,19 +2479,6 @@ Points: 501
 # Comments: 286]]></summary>
         <author>
             <name>hd4</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS Multiple Services Down in us-east-1]]></title>
-        <id>https://news.ycombinator.com/item?id=45640838</id>
-        <link href="https://health.aws.amazon.com/health/status?ts=20251020"/>
-        <updated>2025-10-20T07:22:28.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://health.aws.amazon.com/health/status?ts=20251020
-Comments URL: https://news.ycombinator.com/item?id=45640838
-Points: 513
-# Comments: 207]]></summary>
-        <author>
-            <name>kondro</name>
         </author>
     </entry>
 </feed>
