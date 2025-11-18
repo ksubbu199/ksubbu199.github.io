@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-11-18T12:41:16.385Z</updated>
+    <updated>2025-11-18T13:32:17.229Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Cloudflare Global Network experiencing issues]]></title>
+        <id>https://news.ycombinator.com/item?id=45963780</id>
+        <link href="https://www.cloudflarestatus.com/?t=1"/>
+        <updated>2025-11-18T11:35:10.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.cloudflarestatus.com/?t=1
+Comments URL: https://news.ycombinator.com/item?id=45963780
+Points: 868
+# Comments: 701]]></summary>
+        <author>
+            <name>imdsm</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Core Devices keeps stealing our work]]></title>
         <id>https://news.ycombinator.com/item?id=45960893</id>
@@ -30,6 +43,19 @@ Points: 530
 # Comments: 72]]></summary>
         <author>
             <name>shdon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Windows 11 adds AI agent that runs in background with access to personal folders]]></title>
+        <id>https://news.ycombinator.com/item?id=45959795</id>
+        <link href="https://www.windowslatest.com/2025/11/18/windows-11-to-add-an-ai-agent-that-runs-in-background-with-access-to-personal-folders-warns-of-security-risk/"/>
+        <updated>2025-11-17T23:47:27.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.windowslatest.com/2025/11/18/windows-11-to-add-an-ai-agent-that-runs-in-background-with-access-to-personal-folders-warns-of-security-risk/
+Comments URL: https://news.ycombinator.com/item?id=45959795
+Points: 520
+# Comments: 457]]></summary>
+        <author>
+            <name>jinxmeta</name>
         </author>
     </entry>
     <entry>
