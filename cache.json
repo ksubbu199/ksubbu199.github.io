@@ -1424,16 +1424,6 @@
           "wordCount": null,
           "title": "Major AWS Outage Happening",
           "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=45640594",
-          "author": "pierre",
-          "description": "Article URL: https://github.com/deepseek-ai/DeepSeek-OCR\nComments URL: https://news.ycombinator.com/item?id=45640594\nPoints: 524\n# Comments: 128",
-          "link": "https://github.com/deepseek-ai/DeepSeek-OCR",
-          "publishedOn": "2025-10-20T06:26:33.000Z",
-          "wordCount": 2801,
-          "title": "DeepSeek OCR",
-          "imageUrl": "https://opengraph.githubassets.com/6537baf4b051e15e487e96366c97ccbc57a692783d511b6b4c60983ee11a34e1/deepseek-ai/DeepSeek-OCR"
         }
       ]
     },
@@ -1492,6 +1482,16 @@
       "feedUrl": "https://martinfowler.com/feed.atom",
       "siteUrl": "https://martinfowler.com/feed.atom",
       "articles": [
+        {
+          "id": "https://martinfowler.com/articles/frictionless-foreword.html",
+          "author": null,
+          "description": "I find most writing on software productivity to be twaddle, but Nicole\n      Forsgren and Abi Noda are notable exceptions. I had a chance to take a\n      look at their new book, published today, and liked it so much I wrote a\n      foreword.\nmore…",
+          "link": "https://martinfowler.com/articles/frictionless-foreword.html",
+          "publishedOn": "2025-11-18T17:19:00.000Z",
+          "wordCount": 772,
+          "title": "My Foreword to \"Frictionless\"",
+          "imageUrl": "https://martinfowler.com/articles/frictionless-card.jpg"
+        },
         {
           "id": "https://martinfowler.com/articles/llm-learning-loop.html",
           "author": null,
