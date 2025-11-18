@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=45967211",
+          "author": "preek",
+          "description": "https://blog.google/technology/developers/gemini-3-developer...\nhttps://aistudio.google.com/prompts/new_chat?model=gemini-3-...\nComments URL: https://news.ycombinator.com/item?id=45967211\nPoints: 512\n# Comments: 431",
+          "link": "https://blog.google/products/gemini/gemini-3/",
+          "publishedOn": "2025-11-18T15:09:38.000Z",
+          "wordCount": 5876,
+          "title": "Gemini 3",
+          "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-3_model-blog_meta-dark.width-1300.jpg"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=45963780",
           "author": "imdsm",
           "description": "Article URL: https://www.cloudflarestatus.com/?t=1\nComments URL: https://news.ycombinator.com/item?id=45963780\nPoints: 868\n# Comments: 701",
@@ -1413,16 +1423,6 @@
           "publishedOn": "2025-10-20T07:22:28.000Z",
           "wordCount": 2,
           "title": "AWS Multiple Services Down in us-east-1",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=45640772",
-          "author": "vvoyer",
-          "description": "Article URL: https://old.reddit.com/r/aws/comments/1obd3lx/dynamodb_down_useast1/\nComments URL: https://news.ycombinator.com/item?id=45640772\nPoints: 529\n# Comments: 152",
-          "link": "https://old.reddit.com/r/aws/comments/1obd3lx/dynamodb_down_useast1/",
-          "publishedOn": "2025-10-20T07:11:06.000Z",
-          "wordCount": null,
-          "title": "Major AWS Outage Happening",
           "imageUrl": null
         }
       ]

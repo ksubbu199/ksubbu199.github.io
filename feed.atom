@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-11-18T18:30:07.192Z</updated>
+    <updated>2025-11-18T19:16:53.739Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -18,6 +18,20 @@
 more…]]></summary>
         <author>
             <name>Martin Fowler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gemini 3]]></title>
+        <id>https://news.ycombinator.com/item?id=45967211</id>
+        <link href="https://blog.google/products/gemini/gemini-3/"/>
+        <updated>2025-11-18T15:09:38.000Z</updated>
+        <summary type="html"><![CDATA[https://blog.google/technology/developers/gemini-3-developer...
+https://aistudio.google.com/prompts/new_chat?model=gemini-3-...
+Comments URL: https://news.ycombinator.com/item?id=45967211
+Points: 512
+# Comments: 431]]></summary>
+        <author>
+            <name>preek</name>
         </author>
     </entry>
     <entry>
@@ -2452,19 +2466,6 @@ Points: 513
 # Comments: 207]]></summary>
         <author>
             <name>kondro</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Major AWS Outage Happening]]></title>
-        <id>https://news.ycombinator.com/item?id=45640772</id>
-        <link href="https://old.reddit.com/r/aws/comments/1obd3lx/dynamodb_down_useast1/"/>
-        <updated>2025-10-20T07:11:06.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://old.reddit.com/r/aws/comments/1obd3lx/dynamodb_down_useast1/
-Comments URL: https://news.ycombinator.com/item?id=45640772
-Points: 529
-# Comments: 152]]></summary>
-        <author>
-            <name>vvoyer</name>
         </author>
     </entry>
 </feed>
