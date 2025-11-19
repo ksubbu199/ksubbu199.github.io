@@ -2045,18 +2045,7 @@
       "title": "Lea Verou’s blog",
       "feedUrl": "https://lea.verou.me/feed.xml",
       "siteUrl": "https://lea.verou.me/feed.xml",
-      "articles": [
-        {
-          "id": "https://lea.verou.me/blog/2025/user-effort/",
-          "author": null,
-          "description": "Alan Kay [source]\n\n\n\nOne of my favorite product design principles is Alan Kay’s “Simple things should be simple, complex things should be possible”.\n[1]\nI had been saying it almost verbatim long before I encountered Kay’s quote.\nKay’s maxim is deceptively simple, but its implications run deep.\nIt isn’t just a design ideal — it’s a call to continually balance friction, scope, and tradeoffs in service of the people using our products.\nThis philosophy played a big part in Prism’s success back in 2012,\nhelping it become the web’s de facto syntax highlighter for years, with over 2 billion npm downloads.\nSimple things were easy: All it took to highlight code on a webpage was including two files, a JS file and a CSS file.\nNo markup changes.\nNo JS glue code.\nStyling used readable CSS class names.\n…",
-          "link": "https://lea.verou.me/blog/2025/user-effort/",
-          "publishedOn": "2025-10-20T14:25:25.000Z",
-          "wordCount": 5147,
-          "title": "In the economy of user effort, be a bargain, not a scam",
-          "imageUrl": "https://lea.verou.me/blog/2025/user-effort/images/curve-multiple.gif"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Ben Hoyt's technical writing",
