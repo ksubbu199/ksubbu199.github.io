@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-11-19T20:19:09.880Z</updated>
+    <updated>2025-11-19T21:15:11.255Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -27,6 +27,19 @@ My trip to Europe started in Amsterdam, for a Thoughtworks event for a few of ou
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>Hussein Nasser</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: I made a down detector for down detector]]></title>
+        <id>https://news.ycombinator.com/item?id=45974012</id>
+        <link href="https://downdetectorsdowndetector.com/"/>
+        <updated>2025-11-19T00:05:28.000Z</updated>
+        <summary type="html"><![CDATA[After down detector went down with the rest of the internet during the Cloudflare outage today I decided to build a robust, independent tool which checks if down detector is down. Enjoy!!
+Comments URL: https://news.ycombinator.com/item?id=45974012
+Points: 507
+# Comments: 154]]></summary>
+        <author>
+            <name>gusowen</name>
         </author>
     </entry>
     <entry>
