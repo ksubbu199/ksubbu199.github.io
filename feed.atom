@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-11-19T04:24:04.621Z</updated>
+    <updated>2025-11-19T05:20:11.854Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -244,6 +244,19 @@ Points: 507
 # Comments: 120]]></summary>
         <author>
             <name>moonleay</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Things that aren't doing the thing]]></title>
+        <id>https://news.ycombinator.com/item?id=45939431</id>
+        <link href="https://strangestloop.io/essays/things-that-arent-doing-the-thing"/>
+        <updated>2025-11-15T18:24:58.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://strangestloop.io/essays/things-that-arent-doing-the-thing
+Comments URL: https://news.ycombinator.com/item?id=45939431
+Points: 500
+# Comments: 209]]></summary>
+        <author>
+            <name>downboots</name>
         </author>
     </entry>
     <entry>
