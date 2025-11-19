@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-11-19T11:18:13.450Z</updated>
+    <updated>2025-11-19T12:41:44.429Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -30,6 +30,19 @@ Points: 552
 # Comments: 163]]></summary>
         <author>
             <name>FrostKiwi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I am stepping down as the CEO of Mastodon]]></title>
+        <id>https://news.ycombinator.com/item?id=45969909</id>
+        <link href="https://blog.joinmastodon.org/2025/11/my-next-chapter-with-mastodon/"/>
+        <updated>2025-11-18T18:13:30.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://blog.joinmastodon.org/2025/11/my-next-chapter-with-mastodon/
+Comments URL: https://news.ycombinator.com/item?id=45969909
+Points: 514
+# Comments: 368]]></summary>
+        <author>
+            <name>Tomte</name>
         </author>
     </entry>
     <entry>
