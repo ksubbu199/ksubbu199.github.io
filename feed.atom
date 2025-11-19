@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-11-19T18:29:50.617Z</updated>
+    <updated>2025-11-19T19:16:18.276Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Fragments Nov 19]]></title>
+        <id>https://martinfowler.com/articles/2025-11-19-frags.html</id>
+        <link href="https://martinfowler.com/articles/2025-11-19-frags.html"/>
+        <updated>2025-11-19T19:02:00.000Z</updated>
+        <summary type="html"><![CDATA[I’ve been on the road in Europe for the last couple of weeks, and while I was there Thoughtworks released volume 33 of our Technology Radar. Again it’s dominated by the AI wave, with lots of blips capturing our explorations of how to use LLMs and similar technology. “Agents” are the big thing these days but we’re also seeing growing movements in infrastructure orchestration, coding workflows - and the inevitable antipatterns. Many thanks to my colleagues for putting this together again.
+                ❄                ❄                ❄                ❄
+
+My trip to Europe started in Amsterdam, for a Thoughtworks event for a few of our clients there. Since I was in that lovely city, I got in touch with Gergely Orosz, host of The Pragmatic Engineer, and he arranged to record a podcast with …]]></summary>
+        <author>
+            <name>Martin Fowler</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[When Chrome didn't respect GOAWAYs]]></title>
         <id>https://www.youtube.com/shorts/icoqME6u6Bg</id>
