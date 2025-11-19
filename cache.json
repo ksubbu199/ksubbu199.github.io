@@ -6,6 +6,26 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=45973709",
+          "author": "eastdakota",
+          "description": "Related: Cloudflare Global Network experiencing issues - https://news.ycombinator.com/item?id=45963780 - Nov 2025 (1580 comments)\nComments URL: https://news.ycombinator.com/item?id=45973709\nPoints: 554\n# Comments: 342",
+          "link": "https://blog.cloudflare.com/18-november-2025-outage/",
+          "publishedOn": "2025-11-18T23:31:22.000Z",
+          "wordCount": 3493,
+          "title": "Cloudflare outage on November 18, 2025 post mortem",
+          "imageUrl": "https://cf-assets.www.cloudflare.com/zkvhlag99gkb/YBe790iu0YNmD9fP6wdDW/21a23905b0b90e9a505180ac4ad9654d/Cloudflare_outage_on_November_18_2025-OG.png"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=45972519",
+          "author": "FrostKiwi",
+          "description": "Article URL: https://www.blender.org/download/releases/5-0/\nComments URL: https://news.ycombinator.com/item?id=45972519\nPoints: 552\n# Comments: 163",
+          "link": "https://www.blender.org/download/releases/5-0/",
+          "publishedOn": "2025-11-18T21:39:18.000Z",
+          "wordCount": null,
+          "title": "Blender 5.0",
+          "imageUrl": null
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=45967814",
           "author": "Fysi",
           "description": "https://antigravity.google/blog/introducing-google-antigravi...\nhttps://www.youtube.com/watch?v=nTOVIGsqCuY\nComments URL: https://news.ycombinator.com/item?id=45967814\nPoints: 529\n# Comments: 612",
@@ -1404,26 +1424,6 @@
           "wordCount": 1309,
           "title": "Claude Code on the web",
           "imageUrl": "https://www.anthropic.com/api/opengraph-illustration?name=Object%20CodeGlobe&backgroundColor=clay"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=45645349",
-          "author": "tifa2up",
-          "description": "Article URL: https://blog.abdellatif.io/production-rag-processing-5m-documents\nComments URL: https://news.ycombinator.com/item?id=45645349\nPoints: 507\n# Comments: 107",
-          "link": "https://blog.abdellatif.io/production-rag-processing-5m-documents",
-          "publishedOn": "2025-10-20T15:55:36.000Z",
-          "wordCount": 1268,
-          "title": "Production RAG: what I learned from processing 5M+ documents",
-          "imageUrl": "https://blog.abdellatif.io/og/production-rag-processing-5m-documents.png"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=45645172",
-          "author": "helloguillecl",
-          "description": "Article URL: https://status.postman.com\nComments URL: https://news.ycombinator.com/item?id=45645172\nPoints: 500\n# Comments: 274",
-          "link": "https://status.postman.com/",
-          "publishedOn": "2025-10-20T15:40:40.000Z",
-          "wordCount": 10361,
-          "title": "Postman which I thought worked locally on my computer, is down",
-          "imageUrl": null
         }
       ]
     },
@@ -2045,7 +2045,18 @@
       "title": "Lea Verou’s blog",
       "feedUrl": "https://lea.verou.me/feed.xml",
       "siteUrl": "https://lea.verou.me/feed.xml",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://lea.verou.me/blog/2025/user-effort/",
+          "author": null,
+          "description": "Alan Kay [source]\n\n\n\nOne of my favorite product design principles is Alan Kay’s “Simple things should be simple, complex things should be possible”.\n[1]\nI had been saying it almost verbatim long before I encountered Kay’s quote.\nKay’s maxim is deceptively simple, but its implications run deep.\nIt isn’t just a design ideal — it’s a call to continually balance friction, scope, and tradeoffs in service of the people using our products.\nThis philosophy played a big part in Prism’s success back in 2012,\nhelping it become the web’s de facto syntax highlighter for years, with over 2 billion npm downloads.\nSimple things were easy: All it took to highlight code on a webpage was including two files, a JS file and a CSS file.\nNo markup changes.\nNo JS glue code.\nStyling used readable CSS class names.\n…",
+          "link": "https://lea.verou.me/blog/2025/user-effort/",
+          "publishedOn": "2025-11-14T16:15:32.000Z",
+          "wordCount": 5235,
+          "title": "In the economy of user effort, be a bargain, not a scam",
+          "imageUrl": "https://lea.verou.me/blog/2025/user-effort/images/curve-multiple.gif"
+        }
+      ]
     },
     {
       "title": "Ben Hoyt's technical writing",

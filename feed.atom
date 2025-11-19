@@ -2,10 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-11-19T03:11:15.767Z</updated>
+    <updated>2025-11-19T04:24:04.621Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Cloudflare outage on November 18, 2025 post mortem]]></title>
+        <id>https://news.ycombinator.com/item?id=45973709</id>
+        <link href="https://blog.cloudflare.com/18-november-2025-outage/"/>
+        <updated>2025-11-18T23:31:22.000Z</updated>
+        <summary type="html"><![CDATA[Related: Cloudflare Global Network experiencing issues - https://news.ycombinator.com/item?id=45963780 - Nov 2025 (1580 comments)
+Comments URL: https://news.ycombinator.com/item?id=45973709
+Points: 554
+# Comments: 342]]></summary>
+        <author>
+            <name>eastdakota</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Blender 5.0]]></title>
+        <id>https://news.ycombinator.com/item?id=45972519</id>
+        <link href="https://www.blender.org/download/releases/5-0/"/>
+        <updated>2025-11-18T21:39:18.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.blender.org/download/releases/5-0/
+Comments URL: https://news.ycombinator.com/item?id=45972519
+Points: 552
+# Comments: 163]]></summary>
+        <author>
+            <name>FrostKiwi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[My Foreword to "Frictionless"]]></title>
         <id>https://martinfowler.com/articles/frictionless-foreword.html</id>
@@ -316,6 +342,31 @@ Points: 502
 # Comments: 575]]></summary>
         <author>
             <name>speckx</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[In the economy of user effort, be a bargain, not a scam]]></title>
+        <id>https://lea.verou.me/blog/2025/user-effort/</id>
+        <link href="https://lea.verou.me/blog/2025/user-effort/"/>
+        <updated>2025-11-14T16:15:32.000Z</updated>
+        <summary type="html"><![CDATA[Alan Kay [source]
+
+
+
+One of my favorite product design principles is Alan Kay’s “Simple things should be simple, complex things should be possible”.
+[1]
+I had been saying it almost verbatim long before I encountered Kay’s quote.
+Kay’s maxim is deceptively simple, but its implications run deep.
+It isn’t just a design ideal — it’s a call to continually balance friction, scope, and tradeoffs in service of the people using our products.
+This philosophy played a big part in Prism’s success back in 2012,
+helping it become the web’s de facto syntax highlighter for years, with over 2 billion npm downloads.
+Simple things were easy: All it took to highlight code on a webpage was including two files, a JS file and a CSS file.
+No markup changes.
+No JS glue code.
+Styling used readable CSS class names.
+…]]></summary>
+        <author>
+            <name>Lea Verou’s blog</name>
         </author>
     </entry>
     <entry>
@@ -2416,32 +2467,6 @@ Points: 502
 # Comments: 312]]></summary>
         <author>
             <name>adocomplete</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Production RAG: what I learned from processing 5M+ documents]]></title>
-        <id>https://news.ycombinator.com/item?id=45645349</id>
-        <link href="https://blog.abdellatif.io/production-rag-processing-5m-documents"/>
-        <updated>2025-10-20T15:55:36.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://blog.abdellatif.io/production-rag-processing-5m-documents
-Comments URL: https://news.ycombinator.com/item?id=45645349
-Points: 507
-# Comments: 107]]></summary>
-        <author>
-            <name>tifa2up</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Postman which I thought worked locally on my computer, is down]]></title>
-        <id>https://news.ycombinator.com/item?id=45645172</id>
-        <link href="https://status.postman.com/"/>
-        <updated>2025-10-20T15:40:40.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://status.postman.com
-Comments URL: https://news.ycombinator.com/item?id=45645172
-Points: 500
-# Comments: 274]]></summary>
-        <author>
-            <name>helloguillecl</name>
         </author>
     </entry>
 </feed>
