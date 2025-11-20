@@ -1434,16 +1434,6 @@
           "wordCount": 2536,
           "title": "Internet's biggest annoyance: Cookie laws should target browsers, not websites",
           "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=45666510",
-          "author": "ron_k",
-          "description": "Article URL: https://www.pgdp.net/wiki/In_Memoriam/gbnewby\nComments URL: https://news.ycombinator.com/item?id=45666510\nPoints: 518\n# Comments: 70",
-          "link": "https://www.pgdp.net/wiki/In_Memoriam/gbnewby",
-          "publishedOn": "2025-10-22T09:05:21.000Z",
-          "wordCount": 335,
-          "title": "Greg Newby, CEO of Project Gutenberg Literary Archive Foundation, has died",
-          "imageUrl": null
         }
       ]
     },
@@ -1565,6 +1555,16 @@
       "feedUrl": "https://blog.pragmaticengineer.com/rss/",
       "siteUrl": "https://blog.pragmaticengineer.com/",
       "articles": [
+        {
+          "id": "691f7b63e9904f00015006db",
+          "author": "Gergely Orosz",
+          "description": "A database permissions change ended up knocking Cloudflare’s proxy offline. Pinpointing the root cause was tricky – but Cloudflare shared a detailed postmortem. Also: announcing The Pragmatic Summit",
+          "link": "https://blog.pragmaticengineer.com/the-pulse-cloudflare-takes-down-half-the-internet/",
+          "publishedOn": "2025-11-20T20:36:19.000Z",
+          "wordCount": 2630,
+          "title": "The Pulse: Cloudflare takes down half the internet – but shares a great postmortem",
+          "imageUrl": null
+        },
         {
           "id": "69130a5abb6a4e00013466cc",
           "author": "Gergely Orosz",
@@ -1890,16 +1890,6 @@
           "publishedOn": "2025-10-22T15:55:01.000Z",
           "wordCount": null,
           "title": "India’s ₹8.5 Lakh Crore Power Crisis Explained: The Trillion-Dollar Opportunity!",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/shorts/QSm9xVdn9AY",
-          "author": null,
-          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-          "link": "https://www.youtube.com/shorts/QSm9xVdn9AY",
-          "publishedOn": "2025-10-22T08:30:12.000Z",
-          "wordCount": 2052,
-          "title": "What if India’s ₹8 Lakh Crore power problem is next biggest business opportunity?",
           "imageUrl": null
         }
       ]

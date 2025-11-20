@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-11-20T20:22:46.577Z</updated>
+    <updated>2025-11-20T21:18:22.046Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The Pulse: Cloudflare takes down half the internet – but shares a great postmortem]]></title>
+        <id>691f7b63e9904f00015006db</id>
+        <link href="https://blog.pragmaticengineer.com/the-pulse-cloudflare-takes-down-half-the-internet/"/>
+        <updated>2025-11-20T20:36:19.000Z</updated>
+        <summary type="html"><![CDATA[A database permissions change ended up knocking Cloudflare’s proxy offline. Pinpointing the root cause was tricky – but Cloudflare shared a detailed postmortem. Also: announcing The Pragmatic Summit]]></summary>
+        <author>
+            <name>Gergely Orosz</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Postgres 18 Async IO methods]]></title>
         <id>https://www.youtube.com/watch?v=1IYOmUzKg2s</id>
@@ -2475,29 +2485,6 @@ Points: 501
 # Comments: 488]]></summary>
         <author>
             <name>SweetSoftPillow</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Greg Newby, CEO of Project Gutenberg Literary Archive Foundation, has died]]></title>
-        <id>https://news.ycombinator.com/item?id=45666510</id>
-        <link href="https://www.pgdp.net/wiki/In_Memoriam/gbnewby"/>
-        <updated>2025-10-22T09:05:21.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.pgdp.net/wiki/In_Memoriam/gbnewby
-Comments URL: https://news.ycombinator.com/item?id=45666510
-Points: 518
-# Comments: 70]]></summary>
-        <author>
-            <name>ron_k</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What if India’s ₹8 Lakh Crore power problem is next biggest business opportunity?]]></title>
-        <id>https://www.youtube.com/shorts/QSm9xVdn9AY</id>
-        <link href="https://www.youtube.com/shorts/QSm9xVdn9AY"/>
-        <updated>2025-10-22T08:30:12.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Think School</name>
         </author>
     </entry>
 </feed>
