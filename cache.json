@@ -1546,6 +1546,16 @@
       "siteUrl": "https://blog.pragmaticengineer.com/",
       "articles": [
         {
+          "id": "69206cafc3b7150001d419bf",
+          "author": "Gergely Orosz",
+          "description": "A 30-person startup called Nasha Tech translated The Software Engineer's Guidebook for the benefit of their company and the Mongolian tech ecosystem.",
+          "link": "https://blog.pragmaticengineer.com/traveling-to-mongolia/",
+          "publishedOn": "2025-11-21T13:47:17.000Z",
+          "wordCount": 1942,
+          "title": "Traveling to Mongolia to meet the startup that translated my book",
+          "imageUrl": null
+        },
+        {
           "id": "691f7b63e9904f00015006db",
           "author": "Gergely Orosz",
           "description": "A database permissions change ended up knocking Cloudflare’s proxy offline. Pinpointing the root cause was tricky – but Cloudflare shared a detailed postmortem. Also: announcing The Pragmatic Summit",
@@ -1612,6 +1622,26 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKZozRVHRYsYHGEyNKuhhdA",
       "siteUrl": "https://www.youtube.com/channel/UCKZozRVHRYsYHGEyNKuhhdA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=H088ypbYuDw",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=H088ypbYuDw",
+          "publishedOn": "2025-11-21T13:42:00.000Z",
+          "wordCount": null,
+          "title": "The Harsh Truth: Why INDIA Still Has NO Global Brands| Ex-Myntra CEO Reveals Secrets| IBP Case Study",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/shorts/wO1eJMRMvyE",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/wO1eJMRMvyE",
+          "publishedOn": "2025-11-21T13:31:11.000Z",
+          "wordCount": 2328,
+          "title": "From ₹0 to ₹1500 CR: The Mensa Playbook!",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/shorts/DRfsQCOLAJI",
           "author": null,
