@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-11-22T05:17:50.555Z</updated>
+    <updated>2025-11-22T06:27:21.473Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Helping Valve to power up Steam devices]]></title>
+        <id>https://news.ycombinator.com/item?id=46006616</id>
+        <link href="https://www.igalia.com/2025/11/helpingvalve.html"/>
+        <updated>2025-11-21T17:29:59.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.igalia.com/2025/11/helpingvalve.html
+Comments URL: https://news.ycombinator.com/item?id=46006616
+Points: 519
+# Comments: 156]]></summary>
+        <author>
+            <name>TingPing</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Reason Why Nike, Apple stay market kings!]]></title>
         <id>https://www.youtube.com/shorts/wEphdmtJt4s</id>
@@ -2417,19 +2430,6 @@ Points: 527
 # Comments: 328]]></summary>
         <author>
             <name>Bogdanp</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Armed police swarm student after AI mistakes bag of Doritos for a weapon]]></title>
-        <id>https://news.ycombinator.com/item?id=45684934</id>
-        <link href="https://www.dexerto.com/entertainment/armed-police-swarm-student-after-ai-mistakes-bag-of-doritos-for-a-weapon-3273512/"/>
-        <updated>2025-10-23T18:09:37.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.dexerto.com/entertainment/armed-police-swarm-student-after-ai-mistakes-bag-of-doritos-for-a-weapon-3273512/
-Comments URL: https://news.ycombinator.com/item?id=45684934
-Points: 514
-# Comments: 317]]></summary>
-        <author>
-            <name>antongribok</name>
         </author>
     </entry>
 </feed>
