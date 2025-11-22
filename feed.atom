@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-11-22T04:22:30.618Z</updated>
+    <updated>2025-11-22T05:17:50.555Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -2430,29 +2430,6 @@ Points: 514
 # Comments: 317]]></summary>
         <author>
             <name>antongribok</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Claude Memory]]></title>
-        <id>https://news.ycombinator.com/item?id=45684134</id>
-        <link href="https://www.anthropic.com/news/memory"/>
-        <updated>2025-10-23T16:56:07.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.anthropic.com/news/memory
-Comments URL: https://news.ycombinator.com/item?id=45684134
-Points: 502
-# Comments: 286]]></summary>
-        <author>
-            <name>doppp</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What caused the large AWS outage?]]></title>
-        <id>68fa5697b1a28700018a70af</id>
-        <link href="https://blog.pragmaticengineer.com/aws-outage-us-east-1/"/>
-        <updated>2025-10-23T16:26:27.000Z</updated>
-        <summary type="html"><![CDATA[On Monday, a major AWS outage hit thousands of sites & apps, and even a Premier League soccer game. An overview of what caused this high-profile, global outage]]></summary>
-        <author>
-            <name>Gergely Orosz</name>
         </author>
     </entry>
 </feed>
