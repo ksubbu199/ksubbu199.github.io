@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=46032539",
+          "author": "mrdosija",
+          "description": "Article URL: https://helixguard.ai/blog/malicious-sha1hulud-2025-11-24\nComments URL: https://news.ycombinator.com/item?id=46032539\nPoints: 504\n# Comments: 414",
+          "link": "https://helixguard.ai/blog/malicious-sha1hulud-2025-11-24",
+          "publishedOn": "2025-11-24T10:40:22.000Z",
+          "wordCount": 8,
+          "title": "Shai-Hulud Returns: Over 300 NPM Packages Infected",
+          "imageUrl": null
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=46025942",
           "author": "ChrisArchitect",
           "description": "Article URL: https://emilysneddon.com/fran-sans-essay\nComments URL: https://news.ycombinator.com/item?id=46025942\nPoints: 559\n# Comments: 81",
@@ -1409,6 +1419,16 @@
       "feedUrl": "https://blog.boot.dev/index.xml",
       "siteUrl": "https://blog.boot.dev/",
       "articles": [
+        {
+          "id": "https://blog.boot.dev/jobs/supply-demand-broken-programming-education/",
+          "author": null,
+          "description": "Markets are efficient, right?\nI understand that every ~10 years we find ourselves in some sort of stock market bubble, but I do believe that most markets are mostly efficient. Everyone out there is looking for a good deal, and despite the well-known irrationalities of human psychology, most of us seem to do a good job of looking out for number one.",
+          "link": "https://blog.boot.dev/jobs/supply-demand-broken-programming-education/",
+          "publishedOn": "2025-11-24T00:00:00.000Z",
+          "wordCount": 3134,
+          "title": "Supply and Demand Are Broken in Programming Education",
+          "imageUrl": "https://blog.boot.dev/img/800/gemsonscales.png.webp"
+        },
         {
           "id": "https://blog.boot.dev/jobs/breaking-into-tech-hard-mode/",
           "author": null,
