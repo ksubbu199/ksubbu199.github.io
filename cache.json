@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=46048996",
+          "author": "jjmaxwell4",
+          "description": "Article URL: https://www.promptarmor.com/resources/google-antigravity-exfiltrates-data\nComments URL: https://news.ycombinator.com/item?id=46048996\nPoints: 554\n# Comments: 149",
+          "link": "https://www.promptarmor.com/resources/google-antigravity-exfiltrates-data",
+          "publishedOn": "2025-11-25T18:31:16.000Z",
+          "wordCount": 12171,
+          "title": "Google Antigravity exfiltrates data via indirect prompt injection attack",
+          "imageUrl": "https://framerusercontent.com/images/SxZFWyzsvHDN2YO7QHE3nMXzXE.png?width=1732&height=1301"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=46038099",
           "author": "amichail",
           "description": "Article URL: https://www.xda-developers.com/your-unpowered-ssd-is-slowly-losing-your-data/\nComments URL: https://news.ycombinator.com/item?id=46038099\nPoints: 513\n# Comments: 222",
@@ -1414,16 +1424,6 @@
           "wordCount": 3922,
           "title": "PSF has withdrawn $1.5M proposal to US Government grant program",
           "imageUrl": "https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/psf/grants/report-2006-10/psf-logo.png"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=45720376",
-          "author": "Brajeshwar",
-          "description": "https://www.youtube.com/shorts/YjzlmKz_MM8\nComments URL: https://news.ycombinator.com/item?id=45720376\nPoints: 516\n# Comments: 215",
-          "link": "https://arstechnica.com/tech-policy/2025/10/suing-a-popular-youtuber-who-shimmed-a-130-lock-what-could-possibly-go-wrong/",
-          "publishedOn": "2025-10-27T12:42:42.000Z",
-          "wordCount": 4181,
-          "title": "10M people watched a YouTuber shim a lock; the lock company sued him – bad idea",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/lockpick-death-1152x648.jpg"
         }
       ]
     },
