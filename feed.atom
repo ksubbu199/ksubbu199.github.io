@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-11-27T03:11:42.186Z</updated>
+    <updated>2025-11-27T04:25:16.019Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -251,6 +251,19 @@ Points: 501
 # Comments: 263]]></summary>
         <author>
             <name>ourmandave</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Iowa City made its buses free. Traffic cleared, and so did the air]]></title>
+        <id>https://news.ycombinator.com/item?id=46027833</id>
+        <link href="https://www.nytimes.com/2025/11/18/climate/iowa-city-free-buses.html"/>
+        <updated>2025-11-23T22:06:44.000Z</updated>
+        <summary type="html"><![CDATA[https://archive.ph/lEmzI
+Comments URL: https://news.ycombinator.com/item?id=46027833
+Points: 500
+# Comments: 613]]></summary>
+        <author>
+            <name>bookofjoe</name>
         </author>
     </entry>
     <entry>
@@ -2522,19 +2535,6 @@ Points: 661
 # Comments: 317]]></summary>
         <author>
             <name>rom1v</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Using AI to negotiate a $195k hospital bill down to $33k]]></title>
-        <id>https://news.ycombinator.com/item?id=45734582</id>
-        <link href="https://www.threads.com/@nthmonkey/post/DQVdAD1gHhw"/>
-        <updated>2025-10-28T15:58:58.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.threads.com/@nthmonkey/post/DQVdAD1gHhw
-Comments URL: https://news.ycombinator.com/item?id=45734582
-Points: 580
-# Comments: 458]]></summary>
-        <author>
-            <name>stevenhubertron</name>
         </author>
     </entry>
 </feed>
