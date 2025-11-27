@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-11-26T23:18:46.061Z</updated>
+    <updated>2025-11-27T01:27:31.394Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -2587,22 +2587,6 @@ Points: 518
 # Comments: 422]]></summary>
         <author>
             <name>Brajeshwar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Agentic AI and Security]]></title>
-        <id>https://martinfowler.com/articles/agentic-ai-security.html</id>
-        <link href="https://martinfowler.com/articles/agentic-ai-security.html"/>
-        <updated>2025-10-28T13:20:00.000Z</updated>
-        <summary type="html"><![CDATA[Agentic AI systems are amazing, but introduce equally
-      amazing security risks. Korny Sietsma explains that their
-      core architecture opens up security issues through what Simon Willison
-      named the “Lethal Trifecta”. Korny goes on to talk about how to
-      mitigate this through removing legs of the trifecta and splitting complex
-      tasks.
-more…]]></summary>
-        <author>
-            <name>Martin Fowler</name>
         </author>
     </entry>
 </feed>
