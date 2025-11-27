@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-11-27T22:18:44.114Z</updated>
+    <updated>2025-11-27T23:18:24.743Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -32,6 +32,19 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>Think School</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linux Kernel Explorer]]></title>
+        <id>https://news.ycombinator.com/item?id=46066280</id>
+        <link href="https://reverser.dev/linux-kernel-explorer"/>
+        <updated>2025-11-27T06:17:37.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://reverser.dev/linux-kernel-explorer
+Comments URL: https://news.ycombinator.com/item?id=46066280
+Points: 510
+# Comments: 74]]></summary>
+        <author>
+            <name>tanelpoder</name>
         </author>
     </entry>
     <entry>
@@ -2514,19 +2527,6 @@ Points: 552
 # Comments: 220]]></summary>
         <author>
             <name>skilled</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS to bare metal two years later: Answering your questions about leaving AWS]]></title>
-        <id>https://news.ycombinator.com/item?id=45745281</id>
-        <link href="https://oneuptime.com/blog/post/2025-10-29-aws-to-bare-metal-two-years-later/view"/>
-        <updated>2025-10-29T11:14:38.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://oneuptime.com/blog/post/2025-10-29-aws-to-bare-metal-two-years-later/view
-Comments URL: https://news.ycombinator.com/item?id=45745281
-Points: 526
-# Comments: 389]]></summary>
-        <author>
-            <name>ndhandala</name>
         </author>
     </entry>
 </feed>
