@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-11-27T07:20:49.457Z</updated>
+    <updated>2025-11-27T08:28:55.442Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -14,6 +14,19 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>Think School</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Migrating the main Zig repository from GitHub to Codeberg]]></title>
+        <id>https://news.ycombinator.com/item?id=46064571</id>
+        <link href="https://ziglang.org/news/migrating-from-github-to-codeberg/"/>
+        <updated>2025-11-27T01:49:00.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://ziglang.org/news/migrating-from-github-to-codeberg/
+Comments URL: https://news.ycombinator.com/item?id=46064571
+Points: 541
+# Comments: 427]]></summary>
+        <author>
+            <name>todsacerdoti</name>
         </author>
     </entry>
     <entry>
@@ -2522,16 +2535,6 @@ Points: 500
 # Comments: 186]]></summary>
         <author>
             <name>padolsey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[India mines coal and buys it too?!]]></title>
-        <id>https://www.youtube.com/shorts/WbA0k9ZiLE0</id>
-        <link href="https://www.youtube.com/shorts/WbA0k9ZiLE0"/>
-        <updated>2025-10-28T19:30:06.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Think School</name>
         </author>
     </entry>
 </feed>
