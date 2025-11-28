@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-11-28T16:24:49.138Z</updated>
+    <updated>2025-11-28T17:17:24.541Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -13,6 +13,32 @@
         <updated>2025-11-28T14:01:43.000Z</updated>
         <author>
             <name>Hussein Nasser</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EU Council Approves New "Chat Control" Mandate Pushing Mass Surveillance]]></title>
+        <id>https://news.ycombinator.com/item?id=46077393</id>
+        <link href="https://reclaimthenet.org/eu-council-approves-new-chat-control-mandate-pushing-mass-surveillance"/>
+        <updated>2025-11-28T10:36:08.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://reclaimthenet.org/eu-council-approves-new-chat-control-mandate-pushing-mass-surveillance
+Comments URL: https://news.ycombinator.com/item?id=46077393
+Points: 516
+# Comments: 335]]></summary>
+        <author>
+            <name>fragebogen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pocketbase – open-source realtime back end in 1 file]]></title>
+        <id>https://news.ycombinator.com/item?id=46075320</id>
+        <link href="https://pocketbase.io/"/>
+        <updated>2025-11-28T03:45:04.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://pocketbase.io/
+Comments URL: https://news.ycombinator.com/item?id=46075320
+Points: 524
+# Comments: 141]]></summary>
+        <author>
+            <name>modinfo</name>
         </author>
     </entry>
     <entry>
@@ -2445,16 +2471,6 @@ Points: 537
 # Comments: 339]]></summary>
         <author>
             <name>cryptophreak</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[India’s next revolution runs on sunlight.]]></title>
-        <id>https://www.youtube.com/shorts/Ib1E-rneIEk</id>
-        <link href="https://www.youtube.com/shorts/Ib1E-rneIEk"/>
-        <updated>2025-10-30T04:30:10.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Think School</name>
         </author>
     </entry>
 </feed>
