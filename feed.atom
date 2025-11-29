@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-11-29T05:19:39.606Z</updated>
+    <updated>2025-11-29T06:28:53.440Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -2438,26 +2438,6 @@ Points: 500
 # Comments: 202]]></summary>
         <author>
             <name>layer8</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Comparing interviews at 8 large tech companies]]></title>
-        <id>6903a79017b0a200016fa3a2</id>
-        <link href="https://blog.pragmaticengineer.com/comparing-interviews-at-8-large-tech-companies/"/>
-        <updated>2025-10-30T18:00:42.000Z</updated>
-        <summary type="html"><![CDATA[Puneet Patwari applied to 8 major tech companies, and received 6 offers. He compares his interview experiences at Meta, Amazon, Uber, and 5 other workplaces]]></summary>
-        <author>
-            <name>Gergely Orosz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New trend: programming by kicking off parallel AI agents]]></title>
-        <id>6903a70817b0a200016fa357</id>
-        <link href="https://blog.pragmaticengineer.com/new-trend-programming-by-kicking-off-parallel-ai-agents/"/>
-        <updated>2025-10-30T17:58:38.000Z</updated>
-        <summary type="html"><![CDATA[More devs are experimenting with kicking off coding agents in parallel]]></summary>
-        <author>
-            <name>Gergely Orosz</name>
         </author>
     </entry>
 </feed>
