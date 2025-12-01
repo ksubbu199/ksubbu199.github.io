@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=46103376",
+          "author": "dmitrygr",
+          "description": "Article URL: https://tegabrain.com/Slop-Evader\nComments URL: https://news.ycombinator.com/item?id=46103376\nPoints: 509\n# Comments: 182",
+          "link": "https://tegabrain.com/Slop-Evader",
+          "publishedOn": "2025-12-01T04:06:06.000Z",
+          "wordCount": 3598,
+          "title": "Search tool that only returns content created before ChatGPT's public release",
+          "imageUrl": "https://freight.cargo.site/w/1200/i/dc928c168d44f247e4ee0399a326107ef7993f6d6d542115768d56ba529b2eb0/margquee-edited.png"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=46098838",
           "author": "objcts",
           "description": "Article URL: https://www.humanlayer.dev/blog/writing-a-good-claude-md\nComments URL: https://news.ycombinator.com/item?id=46098838\nPoints: 528\n# Comments: 172",
@@ -1354,16 +1364,6 @@
           "wordCount": 2437,
           "title": "URLs are state containers",
           "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=45786738",
-          "author": "sshh12",
-          "description": "Article URL: https://blog.sshh.io/p/how-i-use-every-claude-code-feature\nComments URL: https://news.ycombinator.com/item?id=45786738\nPoints: 501\n# Comments: 179",
-          "link": "https://blog.sshh.io/p/how-i-use-every-claude-code-feature",
-          "publishedOn": "2025-11-02T00:13:27.000Z",
-          "wordCount": 6992,
-          "title": "How I use every Claude Code feature",
-          "imageUrl": "https://substackcdn.com/image/fetch/$s_!o_oM!,w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7ee93292-646a-407a-95da-d469be81002e_1158x720.png"
         }
       ]
     },

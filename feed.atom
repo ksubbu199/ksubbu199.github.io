@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-12-01T11:18:19.207Z</updated>
+    <updated>2025-12-01T12:43:12.427Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Search tool that only returns content created before ChatGPT's public release]]></title>
+        <id>https://news.ycombinator.com/item?id=46103376</id>
+        <link href="https://tegabrain.com/Slop-Evader"/>
+        <updated>2025-12-01T04:06:06.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://tegabrain.com/Slop-Evader
+Comments URL: https://news.ycombinator.com/item?id=46103376
+Points: 509
+# Comments: 182]]></summary>
+        <author>
+            <name>dmitrygr</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Writing a good Claude.md]]></title>
         <id>https://news.ycombinator.com/item?id=46098838</id>
@@ -2413,19 +2426,6 @@ Points: 500
 # Comments: 212]]></summary>
         <author>
             <name>thm</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How I use every Claude Code feature]]></title>
-        <id>https://news.ycombinator.com/item?id=45786738</id>
-        <link href="https://blog.sshh.io/p/how-i-use-every-claude-code-feature"/>
-        <updated>2025-11-02T00:13:27.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://blog.sshh.io/p/how-i-use-every-claude-code-feature
-Comments URL: https://news.ycombinator.com/item?id=45786738
-Points: 501
-# Comments: 179]]></summary>
-        <author>
-            <name>sshh12</name>
         </author>
     </entry>
 </feed>
