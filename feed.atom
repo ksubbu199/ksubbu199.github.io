@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-12-01T08:31:40.444Z</updated>
+    <updated>2025-12-01T09:28:54.615Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -115,6 +115,24 @@ Points: 516
 # Comments: 335]]></summary>
         <author>
             <name>fragebogen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Glasses to detect smart-glasses that have cameras]]></title>
+        <id>https://news.ycombinator.com/item?id=46075882</id>
+        <link href="https://github.com/NullPxl/banrays"/>
+        <updated>2025-11-28T05:52:38.000Z</updated>
+        <summary type="html"><![CDATA[Hi! Recently smart-glasses with cameras like the Meta Ray-bans seem to be getting more popular. As does some people's desire to remove/cover up the recording indicator LED. I wanted to see if there's a way to detect when people are recording with these types of glasses, so a little bit ago I started working this project. I've hit a little bit of a wall though so I'm very much open to ideas!
+I've written a bunch more on the link (+photos are there), but essentially this uses 2 fingerprinting approaches: 
+- retro-reflectivity of the camera sensor by looking at IR reflections. mixed results here.
+- wireless traffic (primarily BLE, also looking into BTC and wifi)
+For the latter, I'm currently just using an ESP32, and I can consistently detect when the Meta Raybans are 1) pairing, 2) first powered on, 3) (less consistently) when they're taken out of the charging case. When they do detect something, it plays a little jingle next to your ear.
+Ideally I want to be able to detect them when they're in use, and not just at boot. I've come across the nRF52840, which seems like it can follow directed BLE traffic beyond the initial broadcast, but from my understanding it would still need to catch the first CONNECT_REQ event regardless. On the bluetooth classic side of things, all the hardware looks really expensive! Any ideas are appreciated. Thanks!
+Comments URL: https://news.ycombinator.com/item?id=46075882
+Points: 500
+# Comments: 192]]></summary>
+        <author>
+            <name>nullpxl</name>
         </author>
     </entry>
     <entry>

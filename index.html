@@ -287,6 +287,34 @@ Points: 516
                       <details
                         class="article-expander"
                         data-action="toggle-native-accordion"
+                        data-accordion-key="https://news.ycombinator.com/item?id&#x3D;46075882"
+                        open
+                      >
+                        <summary class="article-expander__title">Show HN: Glasses to detect smart-glasses that have cameras</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://github.com/NullPxl/banrays">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://opengraph.githubassets.com/75758f0ed8232b3c5e603851cd0324b0d62bf5827b15587cddd21d19b5fd5f67/NullPxl/banrays" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>Hi! Recently smart-glasses with cameras like the Meta Ray-bans seem to be getting more popular. As does some people&#x27;s desire to remove/cover up the recording indicator LED. I wanted to see if there&#x27;s a way to detect when people are recording with these types of glasses, so a little bit ago I started working this project. I&#x27;ve hit a little bit of a wall though so I&#x27;m very much open to ideas!
+I&#x27;ve written a bunch more on the link (+photos are there), but essentially this uses 2 fingerprinting approaches: 
+- retro-reflectivity of the camera sensor by looking at IR reflections. mixed results here.
+- wireless traffic (primarily BLE, also looking into BTC and wifi)
+For the latter, I&#x27;m currently just using an ESP32, and I can consistently detect when the Meta Raybans are 1) pairing, 2) first powered on, 3) (less consistently) when they&#x27;re taken out of the charging case. When they do detect something, it plays a little jingle next to your ear.
+Ideally I want to be able to detect them when they&#x27;re in use, and not just at boot. I&#x27;ve come across the nRF52840, which seems like it can follow directed BLE traffic beyond the initial broadcast, but from my understanding it would still need to catch the first CONNECT_REQ event regardless. On the bluetooth classic side of things, all the hardware looks really expensive! Any ideas are appreciated. Thanks!
+Comments URL: https://news.ycombinator.com/item?id&#x3D;46075882
+Points: 500
+# Comments: 192</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;9
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
                         data-accordion-key="https://news.ycombinator.com/item?id&#x3D;46075320"
                         open
                       >
@@ -5658,8 +5686,8 @@ Points: 501
       </section>
 
     <footer>
-      <a class="footer-link" href="https://github.com/ksubbu199/ksubbu199.github.io/actions/runs/19816187622">
-        <time id="build-timestamp" datetime="2025-12-01T08:31:40.416Z">2025-12-01T08:31:40.416Z</time>
+      <a class="footer-link" href="https://github.com/ksubbu199/ksubbu199.github.io/actions/runs/19817724097">
+        <time id="build-timestamp" datetime="2025-12-01T09:28:54.588Z">2025-12-01T09:28:54.588Z</time>
       </a>
       <a class="footer-link" href="https://github.com/osmoscraft/osmosfeed">osmosfeed 1.15.1</a>
     </footer>
