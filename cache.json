@@ -6,6 +6,26 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=46124267",
+          "author": "ryanvogel",
+          "description": "Article URL: https://bun.com/blog/bun-joins-anthropic\nComments URL: https://news.ycombinator.com/item?id=46124267\nPoints: 735\n# Comments: 340",
+          "link": "https://bun.com/blog/bun-joins-anthropic",
+          "publishedOn": "2025-12-02T18:05:44.000Z",
+          "wordCount": 1852,
+          "title": "Anthropic acquires Bun",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=46121889",
+          "author": "pember",
+          "description": "Article URL: https://mistral.ai/news/mistral-3\nComments URL: https://news.ycombinator.com/item?id=46121889\nPoints: 527\n# Comments: 168",
+          "link": "https://mistral.ai/news/mistral-3",
+          "publishedOn": "2025-12-02T15:01:53.000Z",
+          "wordCount": 4437,
+          "title": "Mistral 3 family of models released",
+          "imageUrl": "https://mistral.ai/img/mistral-cover.png"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=46108780",
           "author": "pretext",
           "description": "https://huggingface.co/deepseek-ai/DeepSeek-V3.2\nhttps://api-docs.deepseek.com/news/news251201\nComments URL: https://news.ycombinator.com/item?id=46108780\nPoints: 530\n# Comments: 252",

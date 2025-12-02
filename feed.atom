@@ -2,10 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-12-02T19:19:47.533Z</updated>
+    <updated>2025-12-02T20:25:08.493Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Anthropic acquires Bun]]></title>
+        <id>https://news.ycombinator.com/item?id=46124267</id>
+        <link href="https://bun.com/blog/bun-joins-anthropic"/>
+        <updated>2025-12-02T18:05:44.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://bun.com/blog/bun-joins-anthropic
+Comments URL: https://news.ycombinator.com/item?id=46124267
+Points: 735
+# Comments: 340]]></summary>
+        <author>
+            <name>ryanvogel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mistral 3 family of models released]]></title>
+        <id>https://news.ycombinator.com/item?id=46121889</id>
+        <link href="https://mistral.ai/news/mistral-3"/>
+        <updated>2025-12-02T15:01:53.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://mistral.ai/news/mistral-3
+Comments URL: https://news.ycombinator.com/item?id=46121889
+Points: 527
+# Comments: 168]]></summary>
+        <author>
+            <name>pember</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Freeing HTTP/1.1 Connection]]></title>
         <id>https://www.youtube.com/watch?v=rjx4XRvw9PY</id>
