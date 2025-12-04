@@ -1533,6 +1533,16 @@
       "siteUrl": "https://martinfowler.com/feed.atom",
       "articles": [
         {
+          "id": "https://martinfowler.com/articles/20251204-frags.html",
+          "author": null,
+          "description": "Rob Bowley summarizes a study from Carnegie Mellon looking on the impact of AI on a bunch of open-source software projects. Like any such study, we shouldn’t take its results as definitive, but there seems enough there to make it a handy data point. The key point is that the AI code probably reduced the quality of the code base - at least if static code analysis can be trusted to determine quality. And perhaps some worrying second-order effects\nThis study shows more than 800 popular GitHub projects with code quality degrading after adopting AI tools. It’s hard not to see a form of context collapse playing out in real time. If the public code that future models learn from is becoming more complex and less maintainable, there’s a real risk that newer models will reinforce and amplify those t…",
+          "link": "https://martinfowler.com/articles/20251204-frags.html",
+          "publishedOn": "2025-12-04T15:59:00.000Z",
+          "wordCount": 756,
+          "title": "Fragments Dec 4",
+          "imageUrl": "https://martinfowler.com/logo-sq.png"
+        },
+        {
           "id": "https://martinfowler.com/articles/2025-11-19-frags.html",
           "author": null,
           "description": "I’ve been on the road in Europe for the last couple of weeks, and while I was there Thoughtworks released volume 33 of our Technology Radar. Again it’s dominated by the AI wave, with lots of blips capturing our explorations of how to use LLMs and similar technology. “Agents” are the big thing these days but we’re also seeing growing movements in infrastructure orchestration, coding workflows - and the inevitable antipatterns. Many thanks to my colleagues for putting this together again.\n                ❄                ❄                ❄                ❄\n\nMy trip to Europe started in Amsterdam, for a Thoughtworks event for a few of our clients there. Since I was in that lovely city, I got in touch with Gergely Orosz, host of The Pragmatic Engineer, and he arranged to record a podcast with …",
