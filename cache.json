@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=46145365",
+          "author": "pavelai",
+          "description": "Article URL: https://javascript.tm/letter\nComments URL: https://news.ycombinator.com/item?id=46145365\nPoints: 536\n# Comments: 271",
+          "link": "https://javascript.tm/letter",
+          "publishedOn": "2025-12-04T09:01:55.000Z",
+          "wordCount": 1358,
+          "title": "It’s time to free JavaScript (2024)",
+          "imageUrl": "https://javascript.tm/og.jpg"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=46138952",
           "author": "mips_avatar",
           "description": "Article URL: https://jonready.com/blog/posts/everyone-in-seattle-hates-ai.html\nComments URL: https://news.ycombinator.com/item?id=46138952\nPoints: 572\n# Comments: 535",
@@ -1481,16 +1491,6 @@
           "wordCount": 637,
           "title": "PolyForm Noncommercial 2.0.0-pre.2",
           "imageUrl": null
-        },
-        {
-          "id": "https://writing.kemitchell.com/2025/11/04/PolyForm-Noncommercial-2.0.0-pre.1",
-          "author": null,
-          "description": "shorter, better noncommercial license terms for software",
-          "link": "https://writing.kemitchell.com/2025/11/04/PolyForm-Noncommercial-2.0.0-pre.1",
-          "publishedOn": "2025-11-05T05:26:08.000Z",
-          "wordCount": 682,
-          "title": "PolyForm Noncommercial 2.0.0-pre.1",
-          "imageUrl": null
         }
       ]
     },
@@ -1899,6 +1899,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC_ML5xP23TOWKUcc-oAE_Eg",
       "siteUrl": "https://www.youtube.com/channel/UC_ML5xP23TOWKUcc-oAE_Eg",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=-A7b_BXvRLg",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=-A7b_BXvRLg",
+          "publishedOn": "2025-12-04T18:00:00.000Z",
+          "wordCount": null,
+          "title": "TLS can be slow, this changes the game",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/shorts/GNs_-LrYsTw",
           "author": null,

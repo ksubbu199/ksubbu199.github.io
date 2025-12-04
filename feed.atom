@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-12-04T17:22:12.496Z</updated>
+    <updated>2025-12-04T18:33:28.936Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[TLS can be slow, this changes the game]]></title>
+        <id>https://www.youtube.com/watch?v=-A7b_BXvRLg</id>
+        <link href="https://www.youtube.com/watch?v=-A7b_BXvRLg"/>
+        <updated>2025-12-04T18:00:00.000Z</updated>
+        <author>
+            <name>Hussein Nasser</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Fragments Dec 4]]></title>
         <id>https://martinfowler.com/articles/20251204-frags.html</id>
@@ -15,6 +24,19 @@
 This study shows more than 800 popular GitHub projects with code quality degrading after adopting AI tools. It’s hard not to see a form of context collapse playing out in real time. If the public code that future models learn from is becoming more complex and less maintainable, there’s a real risk that newer models will reinforce and amplify those t…]]></summary>
         <author>
             <name>Martin Fowler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[It’s time to free JavaScript (2024)]]></title>
+        <id>https://news.ycombinator.com/item?id=46145365</id>
+        <link href="https://javascript.tm/letter"/>
+        <updated>2025-12-04T09:01:55.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://javascript.tm/letter
+Comments URL: https://news.ycombinator.com/item?id=46145365
+Points: 536
+# Comments: 271]]></summary>
+        <author>
+            <name>pavelai</name>
         </author>
     </entry>
     <entry>
@@ -2504,16 +2526,6 @@ Points: 500
         <id>https://writing.kemitchell.com/2025/11/05/PolyForm-Noncommercial-2.0.0-pre.2</id>
         <link href="https://writing.kemitchell.com/2025/11/05/PolyForm-Noncommercial-2.0.0-pre.2"/>
         <updated>2025-11-05T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[shorter, better noncommercial license terms for software]]></summary>
-        <author>
-            <name>/dev/lawyer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PolyForm Noncommercial 2.0.0-pre.1]]></title>
-        <id>https://writing.kemitchell.com/2025/11/04/PolyForm-Noncommercial-2.0.0-pre.1</id>
-        <link href="https://writing.kemitchell.com/2025/11/04/PolyForm-Noncommercial-2.0.0-pre.1"/>
-        <updated>2025-11-05T05:26:08.000Z</updated>
         <summary type="html"><![CDATA[shorter, better noncommercial license terms for software]]></summary>
         <author>
             <name>/dev/lawyer</name>
