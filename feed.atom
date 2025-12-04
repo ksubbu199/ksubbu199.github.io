@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-12-04T08:29:46.840Z</updated>
+    <updated>2025-12-04T09:25:15.996Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -66,6 +66,19 @@ Points: 525
 # Comments: 177]]></summary>
         <author>
             <name>bearsyankees</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RCE Vulnerability in React and Next.js]]></title>
+        <id>https://news.ycombinator.com/item?id=46136026</id>
+        <link href="https://github.com/vercel/next.js/security/advisories/GHSA-9qr9-h5gf-34mp"/>
+        <updated>2025-12-03T16:00:23.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://github.com/vercel/next.js/security/advisories/GHSA-9qr9-h5gf-34mp
+Comments URL: https://news.ycombinator.com/item?id=46136026
+Points: 520
+# Comments: 187]]></summary>
+        <author>
+            <name>rayhaanj</name>
         </author>
     </entry>
     <entry>
@@ -2519,19 +2532,6 @@ Points: 512
 # Comments: 60]]></summary>
         <author>
             <name>speckx</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I took all my projects off the cloud, saving thousands of dollars]]></title>
-        <id>https://news.ycombinator.com/item?id=45816041</id>
-        <link href="https://rameerez.com/send-this-article-to-your-friend-who-still-thinks-the-cloud-is-a-good-idea/"/>
-        <updated>2025-11-04T21:22:15.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://rameerez.com/send-this-article-to-your-friend-who-still-thinks-the-cloud-is-a-good-idea/
-Comments URL: https://news.ycombinator.com/item?id=45816041
-Points: 500
-# Comments: 384]]></summary>
-        <author>
-            <name>sebnun</name>
         </author>
     </entry>
 </feed>

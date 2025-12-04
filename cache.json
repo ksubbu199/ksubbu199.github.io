@@ -46,6 +46,16 @@
           "imageUrl": "https://alexschapiro.com/assets/images/filevine-security/search-results.png"
         },
         {
+          "id": "https://news.ycombinator.com/item?id=46136026",
+          "author": "rayhaanj",
+          "description": "Article URL: https://github.com/vercel/next.js/security/advisories/GHSA-9qr9-h5gf-34mp\nComments URL: https://news.ycombinator.com/item?id=46136026\nPoints: 520\n# Comments: 187",
+          "link": "https://github.com/vercel/next.js/security/advisories/GHSA-9qr9-h5gf-34mp",
+          "publishedOn": "2025-12-03T16:00:23.000Z",
+          "wordCount": 681,
+          "title": "RCE Vulnerability in React and Next.js",
+          "imageUrl": "https://opengraph.githubassets.com/d290ade319ea1d0682476b293a1f03bd20cb5658aea2647de98a1a6d6128dd91/vercel/next.js/security/advisories/GHSA-9qr9-h5gf-34mp"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=46134443",
           "author": "mhb",
           "description": "Article URL: https://www.nber.org/papers/w34524\nComments URL: https://news.ycombinator.com/item?id=46134443\nPoints: 544\n# Comments: 336",
@@ -1474,16 +1484,6 @@
           "wordCount": 1994,
           "title": "Mr Tiff",
           "imageUrl": "https://inventingthefuture.ghost.io/content/images/2025/10/Screenshot-2025-10-29-at-11.03.23---am.png"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=45816041",
-          "author": "sebnun",
-          "description": "Article URL: https://rameerez.com/send-this-article-to-your-friend-who-still-thinks-the-cloud-is-a-good-idea/\nComments URL: https://news.ycombinator.com/item?id=45816041\nPoints: 500\n# Comments: 384",
-          "link": "https://rameerez.com/send-this-article-to-your-friend-who-still-thinks-the-cloud-is-a-good-idea/",
-          "publishedOn": "2025-11-04T21:22:15.000Z",
-          "wordCount": null,
-          "title": "I took all my projects off the cloud, saving thousands of dollars",
-          "imageUrl": null
         }
       ]
     },
