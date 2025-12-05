@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-12-05T13:31:55.142Z</updated>
+    <updated>2025-12-05T14:21:18.553Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -60,6 +60,19 @@ Points: 500
 This study shows more than 800 popular GitHub projects with code quality degrading after adopting AI tools. It’s hard not to see a form of context collapse playing out in real time. If the public code that future models learn from is becoming more complex and less maintainable, there’s a real risk that newer models will reinforce and amplify those t…]]></summary>
         <author>
             <name>Martin Fowler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I ignore the spotlight as a staff engineer]]></title>
+        <id>https://news.ycombinator.com/item?id=46146451</id>
+        <link href="https://lalitm.com/software-engineering-outside-the-spotlight/"/>
+        <updated>2025-12-04T11:36:36.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://lalitm.com/software-engineering-outside-the-spotlight/
+Comments URL: https://news.ycombinator.com/item?id=46146451
+Points: 504
+# Comments: 226]]></summary>
+        <author>
+            <name>todsacerdoti</name>
         </author>
     </entry>
     <entry>
