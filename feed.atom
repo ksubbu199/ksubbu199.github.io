@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-12-05T01:40:32.424Z</updated>
+    <updated>2025-12-05T03:19:23.579Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Why are 38 percent of Stanford students saying they're disabled?]]></title>
+        <id>https://news.ycombinator.com/item?id=46150715</id>
+        <link href="https://reason.com/2025/12/04/why-are-38-percent-of-stanford-students-saying-theyre-disabled/"/>
+        <updated>2025-12-04T18:04:07.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://reason.com/2025/12/04/why-are-38-percent-of-stanford-students-saying-theyre-disabled/
+Comments URL: https://news.ycombinator.com/item?id=46150715
+Points: 500
+# Comments: 745]]></summary>
+        <author>
+            <name>delichon</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[TLS can be slow, this changes the game]]></title>
         <id>https://www.youtube.com/watch?v=-A7b_BXvRLg</id>
@@ -27,6 +40,19 @@ This study shows more than 800 popular GitHub projects with code quality degradi
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[PGlite – Embeddable Postgres]]></title>
+        <id>https://news.ycombinator.com/item?id=46146133</id>
+        <link href="https://pglite.dev/"/>
+        <updated>2025-12-04T10:52:42.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://pglite.dev/
+Comments URL: https://news.ycombinator.com/item?id=46146133
+Points: 517
+# Comments: 104]]></summary>
+        <author>
+            <name>dsego</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[It’s time to free JavaScript (2024)]]></title>
         <id>https://news.ycombinator.com/item?id=46145365</id>
         <link href="https://javascript.tm/letter"/>
@@ -37,6 +63,19 @@ Points: 536
 # Comments: 271]]></summary>
         <author>
             <name>pavelai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How elites could shape mass preferences as AI reduces persuasion costs]]></title>
+        <id>https://news.ycombinator.com/item?id=46145180</id>
+        <link href="https://arxiv.org/abs/2512.04047"/>
+        <updated>2025-12-04T08:38:17.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://arxiv.org/abs/2512.04047
+Comments URL: https://news.ycombinator.com/item?id=46145180
+Points: 500
+# Comments: 491]]></summary>
+        <author>
+            <name>50kIters</name>
         </author>
     </entry>
     <entry>

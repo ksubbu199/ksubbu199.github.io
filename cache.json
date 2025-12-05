@@ -6,6 +6,26 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=46150715",
+          "author": "delichon",
+          "description": "Article URL: https://reason.com/2025/12/04/why-are-38-percent-of-stanford-students-saying-theyre-disabled/\nComments URL: https://news.ycombinator.com/item?id=46150715\nPoints: 500\n# Comments: 745",
+          "link": "https://reason.com/2025/12/04/why-are-38-percent-of-stanford-students-saying-theyre-disabled/",
+          "publishedOn": "2025-12-04T18:04:07.000Z",
+          "wordCount": 4447,
+          "title": "Why are 38 percent of Stanford students saying they're disabled?",
+          "imageUrl": "https://d2eehagpk5cl65.cloudfront.net/img/q60/uploads/2025/12/12-4-25-v1-a-3.jpg"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=46146133",
+          "author": "dsego",
+          "description": "Article URL: https://pglite.dev/\nComments URL: https://news.ycombinator.com/item?id=46146133\nPoints: 517\n# Comments: 104",
+          "link": "https://pglite.dev/",
+          "publishedOn": "2025-12-04T10:52:42.000Z",
+          "wordCount": 145,
+          "title": "PGlite – Embeddable Postgres",
+          "imageUrl": "/img/brand/og-image.png"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=46145365",
           "author": "pavelai",
           "description": "Article URL: https://javascript.tm/letter\nComments URL: https://news.ycombinator.com/item?id=46145365\nPoints: 536\n# Comments: 271",
@@ -14,6 +34,16 @@
           "wordCount": 1358,
           "title": "It’s time to free JavaScript (2024)",
           "imageUrl": "https://javascript.tm/og.jpg"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=46145180",
+          "author": "50kIters",
+          "description": "Article URL: https://arxiv.org/abs/2512.04047\nComments URL: https://news.ycombinator.com/item?id=46145180\nPoints: 500\n# Comments: 491",
+          "link": "https://arxiv.org/abs/2512.04047",
+          "publishedOn": "2025-12-04T08:38:17.000Z",
+          "wordCount": 733,
+          "title": "How elites could shape mass preferences as AI reduces persuasion costs",
+          "imageUrl": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
         },
         {
           "id": "https://news.ycombinator.com/item?id=46138952",
