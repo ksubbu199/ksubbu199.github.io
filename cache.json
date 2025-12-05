@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=46160315",
+          "author": "meetpateltech",
+          "description": "Article URL: https://about.netflix.com/en/news/netflix-to-acquire-warner-bros\nComments URL: https://news.ycombinator.com/item?id=46160315\nPoints: 564\n# Comments: 440",
+          "link": "https://about.netflix.com/en/news/netflix-to-acquire-warner-bros",
+          "publishedOn": "2025-12-05T12:21:19.000Z",
+          "wordCount": null,
+          "title": "Netflix to Acquire Warner Bros",
+          "imageUrl": null
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=46158191",
           "author": "mektrik",
           "description": "Article URL: https://www.cloudflare.com/\nComments URL: https://news.ycombinator.com/item?id=46158191\nPoints: 680\n# Comments: 426",
@@ -1473,26 +1483,6 @@
           "publishedOn": "2025-11-06T15:06:06.000Z",
           "wordCount": 17,
           "title": "Kimi K2 Thinking, a SOTA open-source trillion-parameter reasoning model",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=45830829",
-          "author": "AbuAssar",
-          "description": "Article URL: https://ratatui.rs/showcase/apps/\nComments URL: https://news.ycombinator.com/item?id=45830829\nPoints: 541\n# Comments: 151",
-          "link": "https://ratatui.rs/showcase/apps/",
-          "publishedOn": "2025-11-06T02:50:31.000Z",
-          "wordCount": 1316,
-          "title": "Ratatui – App Showcase",
-          "imageUrl": "/ratatui-og.png"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=45830770",
-          "author": "phantomathkg",
-          "description": "Article URL: https://support.mozilla.org/en-US/forums/contributors/717446\nComments URL: https://news.ycombinator.com/item?id=45830770\nPoints: 525\n# Comments: 357",
-          "link": "https://support.mozilla.org/en-US/forums/contributors/717446",
-          "publishedOn": "2025-11-06T02:38:53.000Z",
-          "wordCount": 179,
-          "title": "End of Japanese community",
           "imageUrl": null
         }
       ]
