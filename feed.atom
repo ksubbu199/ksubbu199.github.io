@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-12-05T09:21:44.320Z</updated>
+    <updated>2025-12-05T10:21:53.784Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -14,6 +14,19 @@
         <summary type="html"><![CDATA[During the Cloudflare outage, Downdetector was also unavailable. I got details from the team about why they have a hard dependency on Cloudflare, and why that won’t change anytime soon.]]></summary>
         <author>
             <name>Gergely Orosz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cloudflare is down]]></title>
+        <id>https://news.ycombinator.com/item?id=46158191</id>
+        <link href="https://www.cloudflare.com/"/>
+        <updated>2025-12-05T08:50:16.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.cloudflare.com/
+Comments URL: https://news.ycombinator.com/item?id=46158191
+Points: 680
+# Comments: 426]]></summary>
+        <author>
+            <name>mektrik</name>
         </author>
     </entry>
     <entry>
