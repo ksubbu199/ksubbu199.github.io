@@ -1565,6 +1565,16 @@
       "siteUrl": "https://blog.pragmaticengineer.com/",
       "articles": [
         {
+          "id": "6932a20b097ffa00013da35c",
+          "author": "Gergely Orosz",
+          "description": "During the Cloudflare outage, Downdetector was also unavailable. I got details from the team about why they have a hard dependency on Cloudflare, and why that won’t change anytime soon.",
+          "link": "https://blog.pragmaticengineer.com/downdetector-and-the-real-cost-of-no-upstream-dependencies/",
+          "publishedOn": "2025-12-05T09:14:50.000Z",
+          "wordCount": 1349,
+          "title": "Downdetector and the real cost of no upstream dependencies",
+          "imageUrl": null
+        },
+        {
           "id": "69206cafc3b7150001d419bf",
           "author": "Gergely Orosz",
           "description": "A 30-person startup called Nasha Tech translated The Software Engineer's Guidebook for the benefit of their company and the Mongolian tech ecosystem.",
