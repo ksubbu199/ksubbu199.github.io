@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-12-06T07:17:54.807Z</updated>
+    <updated>2025-12-06T08:24:45.983Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Multi Level Paging is really a radix tree]]></title>
+        <id>https://www.youtube.com/shorts/tKEnSj2JqV8</id>
+        <link href="https://www.youtube.com/shorts/tKEnSj2JqV8"/>
+        <updated>2025-12-06T08:01:21.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Hussein Nasser</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Cloudflare outage on December 5, 2025]]></title>
         <id>https://news.ycombinator.com/item?id=46162656</id>
@@ -2497,19 +2507,6 @@ Points: 554
 # Comments: 235]]></summary>
         <author>
             <name>tabletcorry</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Two billion email addresses were exposed]]></title>
-        <id>https://news.ycombinator.com/item?id=45839901</id>
-        <link href="https://www.troyhunt.com/2-billion-email-addresses-were-exposed-and-we-indexed-them-all-in-have-i-been-pwned/"/>
-        <updated>2025-11-06T20:20:23.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.troyhunt.com/2-billion-email-addresses-were-exposed-and-we-indexed-them-all-in-have-i-been-pwned/
-Comments URL: https://news.ycombinator.com/item?id=45839901
-Points: 510
-# Comments: 347]]></summary>
-        <author>
-            <name>esnard</name>
         </author>
     </entry>
 </feed>
