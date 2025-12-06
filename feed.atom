@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-12-05T23:19:18.493Z</updated>
+    <updated>2025-12-06T01:26:47.631Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Cloudflare outage on December 5, 2025]]></title>
+        <id>https://news.ycombinator.com/item?id=46162656</id>
+        <link href="https://blog.cloudflare.com/5-december-2025-outage/"/>
+        <updated>2025-12-05T15:35:43.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://blog.cloudflare.com/5-december-2025-outage/
+Comments URL: https://news.ycombinator.com/item?id=46162656
+Points: 539
+# Comments: 406]]></summary>
+        <author>
+            <name>meetpateltech</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Netflix to Acquire Warner Bros]]></title>
         <id>https://news.ycombinator.com/item?id=46160315</id>
@@ -73,6 +86,19 @@ Points: 500
 This study shows more than 800 popular GitHub projects with code quality degrading after adopting AI tools. It’s hard not to see a form of context collapse playing out in real time. If the public code that future models learn from is becoming more complex and less maintainable, there’s a real risk that newer models will reinforce and amplify those t…]]></summary>
         <author>
             <name>Martin Fowler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Transparent leadership beats servant leadership]]></title>
+        <id>https://news.ycombinator.com/item?id=46147540</id>
+        <link href="https://entropicthoughts.com/transparent-leadership-beats-servant-leadership"/>
+        <updated>2025-12-04T13:40:00.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://entropicthoughts.com/transparent-leadership-beats-servant-leadership
+Comments URL: https://news.ycombinator.com/item?id=46147540
+Points: 500
+# Comments: 232]]></summary>
+        <author>
+            <name>ibobev</name>
         </author>
     </entry>
     <entry>
