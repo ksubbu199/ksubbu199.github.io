@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-12-07T03:26:54.767Z</updated>
+    <updated>2025-12-07T04:32:35.953Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[GrapheneOS is the only Android OS providing full security patches]]></title>
+        <id>https://news.ycombinator.com/item?id=46173407</id>
+        <link href="https://grapheneos.social/@GrapheneOS/115647408229616018"/>
+        <updated>2025-12-06T13:58:31.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://grapheneos.social/@GrapheneOS/115647408229616018
+Comments URL: https://news.ycombinator.com/item?id=46173407
+Points: 506
+# Comments: 227]]></summary>
+        <author>
+            <name>akyuu</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Multi Level Paging is really a radix tree]]></title>
         <id>https://www.youtube.com/shorts/tKEnSj2JqV8</id>
@@ -2445,19 +2458,6 @@ Points: 500
 # Comments: 336]]></summary>
         <author>
             <name>mrzool</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Denmark's government aims to ban access to social media for children under 15]]></title>
-        <id>https://news.ycombinator.com/item?id=45848083</id>
-        <link href="https://apnews.com/article/denmark-social-media-ban-children-7862d2a8cc590b4969c8931a01adc7f4"/>
-        <updated>2025-11-07T16:28:31.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://apnews.com/article/denmark-social-media-ban-children-7862d2a8cc590b4969c8931a01adc7f4
-Comments URL: https://news.ycombinator.com/item?id=45848083
-Points: 500
-# Comments: 380]]></summary>
-        <author>
-            <name>c420</name>
         </author>
     </entry>
 </feed>
