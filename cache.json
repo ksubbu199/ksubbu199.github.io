@@ -1449,6 +1449,16 @@
       "siteUrl": "https://blog.boot.dev/",
       "articles": [
         {
+          "id": "https://blog.boot.dev/news/bootdev-beat-2025-12/",
+          "author": null,
+          "description": "We plan to wrap up 2025 with some important quality of life updates! League placement badges, lesson bookmarks, and major improvements to the Training Grounds are just a few of the highlights. Thanks for learning with us, we’re gearing up the platform for a ton of new courses in 2026.",
+          "link": "https://blog.boot.dev/news/bootdev-beat-2025-12/",
+          "publishedOn": "2025-12-07T00:00:00.000Z",
+          "wordCount": 1062,
+          "title": "The Boot.dev Beat. December 2025",
+          "imageUrl": "https://blog.boot.dev/img/800/boots-christmas.png.webp"
+        },
+        {
           "id": "https://blog.boot.dev/jobs/supply-demand-broken-programming-education/",
           "author": null,
           "description": "Markets are efficient, right?\nI understand that every ~10 years we find ourselves in some sort of stock market bubble, but I do believe that most markets are mostly efficient. Everyone out there is looking for a good deal, and despite the well-known irrationalities of human psychology, most of us seem to do a good job of looking out for number one.",
@@ -1810,16 +1820,6 @@
           "wordCount": 2061,
           "title": "Every Failed Brand Ignored This One Rule",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/shorts/16p88Rrrckc",
-          "author": null,
-          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-          "link": "https://www.youtube.com/shorts/16p88Rrrckc",
-          "publishedOn": "2025-11-08T08:00:02.000Z",
-          "wordCount": 2173,
-          "title": "Health isn’t punishment. It’s portion control.",
-          "imageUrl": null
         }
       ]
     },
@@ -1996,16 +1996,6 @@
           "publishedOn": "2025-11-10T18:00:27.000Z",
           "wordCount": null,
           "title": "Why you need to close sockets",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/shorts/Gn1S2Om2mAE",
-          "author": null,
-          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-          "link": "https://www.youtube.com/shorts/Gn1S2Om2mAE",
-          "publishedOn": "2025-11-08T08:00:31.000Z",
-          "wordCount": 2194,
-          "title": "Blocking I/O = Context switch",
           "imageUrl": null
         }
       ]

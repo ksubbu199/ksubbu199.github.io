@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-12-07T19:14:56.348Z</updated>
+    <updated>2025-12-07T20:20:43.556Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -17,6 +17,16 @@ Points: 525
 # Comments: 206]]></summary>
         <author>
             <name>steveklabnik</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Boot.dev Beat. December 2025]]></title>
+        <id>https://blog.boot.dev/news/bootdev-beat-2025-12/</id>
+        <link href="https://blog.boot.dev/news/bootdev-beat-2025-12/"/>
+        <updated>2025-12-07T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[We plan to wrap up 2025 with some important quality of life updates! League placement badges, lesson bookmarks, and major improvements to the Training Grounds are just a few of the highlights. Thanks for learning with us, we’re gearing up the platform for a ton of new courses in 2026.]]></summary>
+        <author>
+            <name>Boot.dev Blog</name>
         </author>
     </entry>
     <entry>
@@ -2409,26 +2419,6 @@ Points: 503
         <id>https://www.youtube.com/shorts/fCMD7PFB5bk</id>
         <link href="https://www.youtube.com/shorts/fCMD7PFB5bk"/>
         <updated>2025-11-08T11:13:33.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Think School</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Blocking I/O = Context switch]]></title>
-        <id>https://www.youtube.com/shorts/Gn1S2Om2mAE</id>
-        <link href="https://www.youtube.com/shorts/Gn1S2Om2mAE"/>
-        <updated>2025-11-08T08:00:31.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Hussein Nasser</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Health isn’t punishment. It’s portion control.]]></title>
-        <id>https://www.youtube.com/shorts/16p88Rrrckc</id>
-        <link href="https://www.youtube.com/shorts/16p88Rrrckc"/>
-        <updated>2025-11-08T08:00:02.000Z</updated>
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>Think School</name>
