@@ -1451,7 +1451,18 @@
       "title": "/dev/lawyer",
       "feedUrl": "https://writing.kemitchell.com/feed.xml",
       "siteUrl": "https://writing.kemitchell.com",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://writing.kemitchell.com/2025/12/07/LLMs-Make-Legal-Advice-Lossy",
+          "author": null,
+          "description": "cheap chatbot summaries take important choices away",
+          "link": "https://writing.kemitchell.com/2025/12/07/LLMs-Make-Legal-Advice-Lossy",
+          "publishedOn": "2025-12-08T04:15:33.000Z",
+          "wordCount": 1812,
+          "title": "LLMs Make Legal Advice Lossy",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "Boot.dev Blog",
