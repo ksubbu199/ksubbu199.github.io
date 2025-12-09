@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=46199723",
+          "author": "pbui",
+          "description": "Article URL: https://andyljones.com/posts/horses.html\nComments URL: https://news.ycombinator.com/item?id=46199723\nPoints: 502\n# Comments: 450",
+          "link": "https://andyljones.com/posts/horses.html",
+          "publishedOn": "2025-12-09T00:26:35.000Z",
+          "wordCount": 1351,
+          "title": "Horses: AI progress is steady. Human equivalence is sudden",
+          "imageUrl": "https://andyljones.com/icons/robot-solid.png"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=46196688",
           "author": "ArmageddonIt",
           "description": "Article URL: https://blog.jim-nielsen.com/2025/icons-in-menus/\nComments URL: https://news.ycombinator.com/item?id=46196688\nPoints: 536\n# Comments: 212",
@@ -1504,7 +1514,7 @@
     {
       "title": "Julia Evans",
       "feedUrl": "https://jvns.ca/atom.xml",
-      "siteUrl": "http://jvns.ca/atom.xml",
+      "siteUrl": "https://jvns.ca/atom.xml",
       "articles": []
     },
     {
@@ -1602,6 +1612,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKZozRVHRYsYHGEyNKuhhdA",
       "siteUrl": "https://www.youtube.com/channel/UCKZozRVHRYsYHGEyNKuhhdA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/shorts/fknc7B52spQ",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/fknc7B52spQ",
+          "publishedOn": "2025-12-09T16:01:09.000Z",
+          "wordCount": 2235,
+          "title": "The Real Cost of Quality Products",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=FIErTtldadM",
           "author": null,
