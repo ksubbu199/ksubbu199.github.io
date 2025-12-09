@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-12-09T19:15:53.445Z</updated>
+    <updated>2025-12-09T20:21:26.259Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Ask HN: Should "I asked $AI, and it said" replies be forbidden in HN guidelines?]]></title>
+        <id>https://news.ycombinator.com/item?id=46206457</id>
+        <link href="https://news.ycombinator.com/item?id=46206457"/>
+        <updated>2025-12-09T16:02:37.000Z</updated>
+        <summary type="html"><![CDATA[As various LLMs become more and more popular, so does comments with "I asked Gemini, and Gemini said ....".
+While the guidelines were written (and iterated on) during a different time, it seems like it might be time to have a discussion about if those sort of comments should be welcomed on HN or not.
+Some examples:
+- https://news.ycombinator.com/item?id=46164360
+- https://news.ycombinator.com/item?id=46200460
+- https://news.ycombinator.com/item?id=46080064
+Personally, I'm on HN for the human conversation, and large LLM-generated texts just get in the way of reading real text from real humans (assumed, at least).
+What do you think? Should responses that basically boil down to "I asked $LLM about $X, and here is what $LLM said:" be allowed on HN, and the guidelines updated to state that people shouldn't critique it (similar to other guidelines currently), or should a new guideline be added to ask people from refrain from copy-pasting large LLM responses into the comments, or something else completely?
+Comments URL: https://news.ycombinator.com/item?id=46206457
+Points: 561
+# Comments: 324]]></summary>
+        <author>
+            <name>embedding-shape</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Real Cost of Quality Products]]></title>
         <id>https://www.youtube.com/shorts/fknc7B52spQ</id>
@@ -2446,19 +2466,6 @@ Points: 519
 # Comments: 344]]></summary>
         <author>
             <name>msangi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[XSLT RIP]]></title>
-        <id>https://news.ycombinator.com/item?id=45873434</id>
-        <link href="https://xslt.rip/"/>
-        <updated>2025-11-10T07:39:36.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://xslt.rip/
-Comments URL: https://news.ycombinator.com/item?id=45873434
-Points: 501
-# Comments: 315]]></summary>
-        <author>
-            <name>edent</name>
         </author>
     </entry>
 </feed>

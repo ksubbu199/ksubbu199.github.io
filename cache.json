@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=46206457",
+          "author": "embedding-shape",
+          "description": "As various LLMs become more and more popular, so does comments with \"I asked Gemini, and Gemini said ....\".\nWhile the guidelines were written (and iterated on) during a different time, it seems like it might be time to have a discussion about if those sort of comments should be welcomed on HN or not.\nSome examples:\n- https://news.ycombinator.com/item?id=46164360\n- https://news.ycombinator.com/item?id=46200460\n- https://news.ycombinator.com/item?id=46080064\nPersonally, I'm on HN for the human conversation, and large LLM-generated texts just get in the way of reading real text from real humans (assumed, at least).\nWhat do you think? Should responses that basically boil down to \"I asked $LLM about $X, and here is what $LLM said:\" be allowed on HN, and the guidelines updated to state that people shouldn't critique it (similar to other guidelines currently), or should a new guideline be added to ask people from refrain from copy-pasting large LLM responses into the comments, or something else completely?\nComments URL: https://news.ycombinator.com/item?id=46206457\nPoints: 561\n# Comments: 324",
+          "link": "https://news.ycombinator.com/item?id=46206457",
+          "publishedOn": "2025-12-09T16:02:37.000Z",
+          "wordCount": 19408,
+          "title": "Ask HN: Should \"I asked $AI, and it said\" replies be forbidden in HN guidelines?",
+          "imageUrl": null
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=46205632",
           "author": "keepamovin",
           "description": "Article URL: https://dosaygo-studio.github.io/hn-front-page-2035/news\nComments URL: https://news.ycombinator.com/item?id=46205632\nPoints: 740\n# Comments: 331",
@@ -1453,16 +1463,6 @@
           "publishedOn": "2025-11-10T14:57:26.000Z",
           "wordCount": 2916,
           "title": "Time to start de-Appling",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=45873434",
-          "author": "edent",
-          "description": "Article URL: https://xslt.rip/\nComments URL: https://news.ycombinator.com/item?id=45873434\nPoints: 501\n# Comments: 315",
-          "link": "https://xslt.rip/",
-          "publishedOn": "2025-11-10T07:39:36.000Z",
-          "wordCount": 18,
-          "title": "XSLT RIP",
           "imageUrl": null
         }
       ]
