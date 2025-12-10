@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=46208962",
+          "author": "SGran",
+          "description": "Article URL: https://letsencrypt.org/2025/12/09/10-years\nComments URL: https://news.ycombinator.com/item?id=46208962\nPoints: 500\n# Comments: 216",
+          "link": "https://letsencrypt.org/2025/12/09/10-years",
+          "publishedOn": "2025-12-09T18:54:55.000Z",
+          "wordCount": 1821,
+          "title": "10 Years of Let's Encrypt",
+          "imageUrl": "https://letsencrypt.org/images/LetsEncrypt-SocialShare.png"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=46206457",
           "author": "embedding-shape",
           "description": "As various LLMs become more and more popular, so does comments with \"I asked Gemini, and Gemini said ....\".\nWhile the guidelines were written (and iterated on) during a different time, it seems like it might be time to have a discussion about if those sort of comments should be welcomed on HN or not.\nSome examples:\n- https://news.ycombinator.com/item?id=46164360\n- https://news.ycombinator.com/item?id=46200460\n- https://news.ycombinator.com/item?id=46080064\nPersonally, I'm on HN for the human conversation, and large LLM-generated texts just get in the way of reading real text from real humans (assumed, at least).\nWhat do you think? Should responses that basically boil down to \"I asked $LLM about $X, and here is what $LLM said:\" be allowed on HN, and the guidelines updated to state that people shouldn't critique it (similar to other guidelines currently), or should a new guideline be added to ask people from refrain from copy-pasting large LLM responses into the comments, or something else completely?\nComments URL: https://news.ycombinator.com/item?id=46206457\nPoints: 561\n# Comments: 324",
@@ -24,6 +34,16 @@
           "wordCount": 1116,
           "title": "Show HN: Gemini Pro 3 hallucinates the HN front page 10 years from now",
           "imageUrl": null
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=46205437",
+          "author": "pember",
+          "description": "Article URL: https://mistral.ai/news/devstral-2-vibe-cli\nComments URL: https://news.ycombinator.com/item?id=46205437\nPoints: 512\n# Comments: 261",
+          "link": "https://mistral.ai/news/devstral-2-vibe-cli",
+          "publishedOn": "2025-12-09T14:45:01.000Z",
+          "wordCount": 4015,
+          "title": "Mistral releases Devstral2 and Mistral Vibe CLI",
+          "imageUrl": "https://mistral.ai/img/mistral-cover.png"
         },
         {
           "id": "https://news.ycombinator.com/item?id=46199723",
@@ -1453,16 +1473,6 @@
           "publishedOn": "2025-11-10T16:05:46.000Z",
           "wordCount": null,
           "title": "Unexpected things that are people",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=45876598",
-          "author": "msangi",
-          "description": "Article URL: https://heatherburns.tech/2025/11/10/time-to-start-de-appling/\nComments URL: https://news.ycombinator.com/item?id=45876598\nPoints: 519\n# Comments: 344",
-          "link": "https://heatherburns.tech/2025/11/10/time-to-start-de-appling/",
-          "publishedOn": "2025-11-10T14:57:26.000Z",
-          "wordCount": 2916,
-          "title": "Time to start de-Appling",
           "imageUrl": null
         }
       ]

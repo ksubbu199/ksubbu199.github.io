@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-12-10T01:42:10.920Z</updated>
+    <updated>2025-12-10T03:22:33.002Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[10 Years of Let's Encrypt]]></title>
+        <id>https://news.ycombinator.com/item?id=46208962</id>
+        <link href="https://letsencrypt.org/2025/12/09/10-years"/>
+        <updated>2025-12-09T18:54:55.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://letsencrypt.org/2025/12/09/10-years
+Comments URL: https://news.ycombinator.com/item?id=46208962
+Points: 500
+# Comments: 216]]></summary>
+        <author>
+            <name>SGran</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ask HN: Should "I asked $AI, and it said" replies be forbidden in HN guidelines?]]></title>
         <id>https://news.ycombinator.com/item?id=46206457</id>
@@ -47,6 +60,19 @@ Points: 740
 # Comments: 331]]></summary>
         <author>
             <name>keepamovin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mistral releases Devstral2 and Mistral Vibe CLI]]></title>
+        <id>https://news.ycombinator.com/item?id=46205437</id>
+        <link href="https://mistral.ai/news/devstral-2-vibe-cli"/>
+        <updated>2025-12-09T14:45:01.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://mistral.ai/news/devstral-2-vibe-cli
+Comments URL: https://news.ycombinator.com/item?id=46205437
+Points: 512
+# Comments: 261]]></summary>
+        <author>
+            <name>pember</name>
         </author>
     </entry>
     <entry>
@@ -2453,19 +2479,6 @@ Points: 505
 # Comments: 249]]></summary>
         <author>
             <name>lindowe</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Time to start de-Appling]]></title>
-        <id>https://news.ycombinator.com/item?id=45876598</id>
-        <link href="https://heatherburns.tech/2025/11/10/time-to-start-de-appling/"/>
-        <updated>2025-11-10T14:57:26.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://heatherburns.tech/2025/11/10/time-to-start-de-appling/
-Comments URL: https://news.ycombinator.com/item?id=45876598
-Points: 519
-# Comments: 344]]></summary>
-        <author>
-            <name>msangi</name>
         </author>
     </entry>
 </feed>
