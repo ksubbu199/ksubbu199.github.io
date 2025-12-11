@@ -2,10 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-12-11T21:21:38.187Z</updated>
+    <updated>2025-12-11T22:20:27.723Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[GPT-5.2]]></title>
+        <id>https://news.ycombinator.com/item?id=46234788</id>
+        <link href="https://openai.com/index/introducing-gpt-5-2/"/>
+        <updated>2025-12-11T18:04:47.000Z</updated>
+        <summary type="html"><![CDATA[https://platform.openai.com/docs/guides/latest-model
+System card: https://cdn.openai.com/pdf/3a4153c8-c748-4b71-8e31-aecbde944...
+Comments URL: https://news.ycombinator.com/item?id=46234788
+Points: 529
+# Comments: 424]]></summary>
+        <author>
+            <name>atgctg</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How HTTP/2 frees connections]]></title>
         <id>https://www.youtube.com/watch?v=ImaSgNgxu00</id>
@@ -2550,19 +2564,6 @@ Points: 501
 # Comments: 167]]></summary>
         <author>
             <name>wg0</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Yt-dlp: External JavaScript runtime now required for full YouTube support]]></title>
-        <id>https://news.ycombinator.com/item?id=45898407</id>
-        <link href="https://github.com/yt-dlp/yt-dlp/issues/15012"/>
-        <updated>2025-11-12T10:12:53.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://github.com/yt-dlp/yt-dlp/issues/15012
-Comments URL: https://news.ycombinator.com/item?id=45898407
-Points: 549
-# Comments: 324]]></summary>
-        <author>
-            <name>bertman</name>
         </author>
     </entry>
 </feed>
