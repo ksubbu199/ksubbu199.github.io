@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-12-10T23:18:01.264Z</updated>
+    <updated>2025-12-11T01:42:43.612Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -14,6 +14,19 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>Hussein Nasser</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Valve: HDMI Forum Continues to Block HDMI 2.1 for Linux]]></title>
+        <id>https://news.ycombinator.com/item?id=46220488</id>
+        <link href="https://www.heise.de/en/news/Valve-HDMI-Forum-Continues-to-Block-HDMI-2-1-for-Linux-11107440.html"/>
+        <updated>2025-12-10T17:20:06.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.heise.de/en/news/Valve-HDMI-Forum-Continues-to-Block-HDMI-2-1-for-Linux-11107440.html
+Comments URL: https://news.ycombinator.com/item?id=46220488
+Points: 506
+# Comments: 294]]></summary>
+        <author>
+            <name>OsrsNeedsf2P</name>
         </author>
     </entry>
     <entry>
@@ -53,6 +66,21 @@ Points: 500
 # Comments: 216]]></summary>
         <author>
             <name>SGran</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Australia begins enforcing world-first teen social media ban]]></title>
+        <id>https://news.ycombinator.com/item?id=46208348</id>
+        <link href="https://www.reuters.com/legal/litigation/australia-social-media-ban-takes-effect-world-first-2025-12-09/"/>
+        <updated>2025-12-09T18:12:29.000Z</updated>
+        <summary type="html"><![CDATA[https://archive.md/i0VxX
+https://www.bbc.com/news/live/cwy54q80gy9t
+https://www.nytimes.com/2025/12/09/world/asia/australia-soci... (https://archive.ph/Ba2JR)
+Comments URL: https://news.ycombinator.com/item?id=46208348
+Points: 551
+# Comments: 858]]></summary>
+        <author>
+            <name>chirau</name>
         </author>
     </entry>
     <entry>
@@ -2499,15 +2527,6 @@ Points: 539
 # Comments: 467]]></summary>
         <author>
             <name>runesoerensen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BYD vs Tesla: How CHINA Beat ELON MUSK  at His Own Game| Business Case Study]]></title>
-        <id>https://www.youtube.com/watch?v=jBEOdMKAkEU</id>
-        <link href="https://www.youtube.com/watch?v=jBEOdMKAkEU"/>
-        <updated>2025-11-11T13:02:48.000Z</updated>
-        <author>
-            <name>Think School</name>
         </author>
     </entry>
 </feed>
