@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-12-11T17:26:09.949Z</updated>
+    <updated>2025-12-11T18:30:19.764Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How HTTP/2 frees connections]]></title>
+        <id>https://www.youtube.com/watch?v=ImaSgNgxu00</id>
+        <link href="https://www.youtube.com/watch?v=ImaSgNgxu00"/>
+        <updated>2025-12-11T18:00:24.000Z</updated>
+        <author>
+            <name>Hussein Nasser</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Fragments Dec 11]]></title>
         <id>https://martinfowler.com/articles/2025-12-11-frags.html</id>
@@ -90,6 +99,19 @@ Points: 539
 # Comments: 87]]></summary>
         <author>
             <name>eatonphil</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Israel used Palantir technologies in pager attack in Lebanon]]></title>
+        <id>https://news.ycombinator.com/item?id=46218640</id>
+        <link href="https://the307.substack.com/p/revealed-israel-used-palantir-technologies"/>
+        <updated>2025-12-10T15:18:47.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://the307.substack.com/p/revealed-israel-used-palantir-technologies
+Comments URL: https://news.ycombinator.com/item?id=46218640
+Points: 502
+# Comments: 528]]></summary>
+        <author>
+            <name>cramsession</name>
         </author>
     </entry>
     <entry>
