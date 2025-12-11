@@ -1583,6 +1583,16 @@
       "siteUrl": "https://martinfowler.com/feed.atom",
       "articles": [
         {
+          "id": "https://martinfowler.com/articles/2025-12-11-frags.html",
+          "author": null,
+          "description": "Why does AI write like… that (NYT, gift link). Sam Kriss delves into the quiet hum of AI writing. AI’s work is not compelling prose: it’s phantom text, ghostly scribblings, a spectre woven into our communal tapestry.\n ❄                ❄                ❄                ❄                ❄\nEmily Bache has written a set of Test Desiderata, building on some earlier writing from Kent Beck. She lists the characteristics of good tests, and how they support her four “macro desiderata” - the properties of a sound test suite\nPredict success in production\nFast to get feedback\nSupport ongoing code design change\nLow total cost of ownership\nShe also has a great list of other writers’ lists of good test characteristics.\n ❄                ❄                ❄                ❄                ❄\nDaphe Keller explains that the EUs fines on X aren’t about free speech.\nThere are three charges against X, which all stem from a multi-year investigation that was launched in 2023. One is about verification — X’s blue checkmarks on user accounts — and two are about transparency. These charges have nothing to do with what content is on X, or what user speech the platform should or should not allow.\n ❄                ❄                ❄                ❄                ❄\nCory Doctorow The Reverse-Centaur’s Guide to Criticizing AI\nStart with what a reverse centaur is. In automation theory, a “centaur” is a person who is assisted by a machine. … And obviously, a reverse centaur is machine head on a human body, a person who is serving as a squishy meat appendage for an uncaring machine.\nLike an Amazon delivery driver… the van can’t drive itself and can’t get a parcel from the curb to your porch. The driver is a peripheral for a van, and the van drives the driver, at superhuman speed, demanding superhuman endurance.",
+          "link": "https://martinfowler.com/articles/2025-12-11-frags.html",
+          "publishedOn": "2025-12-11T15:17:00.000Z",
+          "wordCount": 383,
+          "title": "Fragments Dec 11",
+          "imageUrl": "https://martinfowler.com/logo-sq.png"
+        },
+        {
           "id": "https://martinfowler.com/articles/20251204-frags.html",
           "author": null,
           "description": "Rob Bowley summarizes a study from Carnegie Mellon looking on the impact of AI on a bunch of open-source software projects. Like any such study, we shouldn’t take its results as definitive, but there seems enough there to make it a handy data point. The key point is that the AI code probably reduced the quality of the code base - at least if static code analysis can be trusted to determine quality. And perhaps some worrying second-order effects\nThis study shows more than 800 popular GitHub projects with code quality degrading after adopting AI tools. It’s hard not to see a form of context collapse playing out in real time. If the public code that future models learn from is becoming more complex and less maintainable, there’s a real risk that newer models will reinforce and amplify those t…",
