@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-12-11T18:30:19.764Z</updated>
+    <updated>2025-12-11T19:19:45.695Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -37,6 +37,19 @@ Start with what a reverse centaur is. In automation theory, a “centaur” is a
 Like an Amazon delivery driver… the van can’t drive itself and can’t get a parcel from the curb to your porch. The driver is a peripheral for a van, and the van drives the driver, at superhuman speed, demanding superhuman endurance.]]></summary>
         <author>
             <name>Martin Fowler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Patterns.dev]]></title>
+        <id>https://news.ycombinator.com/item?id=46226483</id>
+        <link href="https://www.patterns.dev/"/>
+        <updated>2025-12-11T01:18:55.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.patterns.dev/
+Comments URL: https://news.ycombinator.com/item?id=46226483
+Points: 509
+# Comments: 114]]></summary>
+        <author>
+            <name>handfuloflight</name>
         </author>
     </entry>
     <entry>
