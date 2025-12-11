@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-12-11T16:30:44.314Z</updated>
+    <updated>2025-12-11T17:26:09.949Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -51,6 +51,19 @@ Points: 511
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>Hussein Nasser</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Auto-grading decade-old Hacker News discussions with hindsight]]></title>
+        <id>https://news.ycombinator.com/item?id=46220540</id>
+        <link href="https://karpathy.bearblog.dev/auto-grade-hn/"/>
+        <updated>2025-12-10T17:23:53.000Z</updated>
+        <summary type="html"><![CDATA[Related from yesterday: Show HN: Gemini Pro 3 imagines the HN front page 10 years from now - https://news.ycombinator.com/item?id=46205632
+Comments URL: https://news.ycombinator.com/item?id=46220540
+Points: 513
+# Comments: 224]]></summary>
+        <author>
+            <name>__rito__</name>
         </author>
     </entry>
     <entry>
