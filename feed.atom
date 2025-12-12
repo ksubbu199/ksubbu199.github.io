@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-12-12T07:23:56.621Z</updated>
+    <updated>2025-12-12T08:30:19.780Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -323,6 +323,19 @@ Points: 502
 # Comments: 450]]></summary>
         <author>
             <name>pbui</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The highest quality codebase]]></title>
+        <id>https://news.ycombinator.com/item?id=46197930</id>
+        <link href="https://gricha.dev/blog/the-highest-quality-codebase"/>
+        <updated>2025-12-08T21:33:09.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://gricha.dev/blog/the-highest-quality-codebase
+Comments URL: https://news.ycombinator.com/item?id=46197930
+Points: 516
+# Comments: 334]]></summary>
+        <author>
+            <name>Gricha</name>
         </author>
     </entry>
     <entry>
