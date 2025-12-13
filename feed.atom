@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-12-13T15:18:22.614Z</updated>
+    <updated>2025-12-13T16:24:04.911Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The Pulse: Could a 5-day RTO be around the corner for Big Tech?]]></title>
+        <id>693b1247dd0e8a0001c79f46</id>
+        <link href="https://blog.pragmaticengineer.com/the-pulse-could-a-5-day-rto-be-around-the-corner-for-big-tech/"/>
+        <updated>2025-12-13T15:21:25.000Z</updated>
+        <summary type="html"><![CDATA[From next February, workers at Instagram must be in the office, five days a week. This makes Meta the second tech giant after Amazon to mandate a 5-day RTO. Will more big companies do the same?]]></summary>
+        <author>
+            <name>Gergely Orosz</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Apple has locked my Apple ID, and I have no recourse. A plea for help]]></title>
         <id>https://news.ycombinator.com/item?id=46252114</id>

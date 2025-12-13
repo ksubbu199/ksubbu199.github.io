@@ -1566,6 +1566,16 @@
       "siteUrl": "https://blog.pragmaticengineer.com/",
       "articles": [
         {
+          "id": "693b1247dd0e8a0001c79f46",
+          "author": "Gergely Orosz",
+          "description": "From next February, workers at Instagram must be in the office, five days a week. This makes Meta the second tech giant after Amazon to mandate a 5-day RTO. Will more big companies do the same?",
+          "link": "https://blog.pragmaticengineer.com/the-pulse-could-a-5-day-rto-be-around-the-corner-for-big-tech/",
+          "publishedOn": "2025-12-13T15:21:25.000Z",
+          "wordCount": 1878,
+          "title": "The Pulse: Could a 5-day RTO be around the corner for Big Tech?",
+          "imageUrl": null
+        },
+        {
           "id": "6932a20b097ffa00013da35c",
           "author": "Gergely Orosz",
           "description": "During the Cloudflare outage, Downdetector was also unavailable. I got details from the team about why they have a hard dependency on Cloudflare, and why that won’t change anytime soon.",
