@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-12-14T04:36:29.396Z</updated>
+    <updated>2025-12-14T05:20:06.911Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -344,6 +344,31 @@ Points: 561
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>Think School</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[In the economy of user effort, be a bargain, not a scam]]></title>
+        <id>https://lea.verou.me/blog/2025/user-effort/</id>
+        <link href="https://lea.verou.me/blog/2025/user-effort/"/>
+        <updated>2025-12-09T15:44:21.000Z</updated>
+        <summary type="html"><![CDATA[Alan Kay [source]
+
+
+
+One of my favorite product design principles is Alan Kay’s “Simple things should be simple, complex things should be possible”.
+[1]
+I had been saying it almost verbatim long before I encountered Kay’s quote.
+Kay’s maxim is deceptively simple, but its implications run deep.
+It isn’t just a design ideal — it’s a call to continually balance friction, scope, and tradeoffs in service of the people using our products.
+This philosophy played a big part in Prism’s success back in 2012,
+helping it become the web’s de facto syntax highlighter for years, with over 2 billion npm downloads.
+Simple things were easy: All it took to highlight code on a webpage was including two files, a JS file and a CSS file.
+No markup changes.
+No JS glue code.
+Styling used readable CSS class names.
+…]]></summary>
+        <author>
+            <name>Lea Verou’s blog</name>
         </author>
     </entry>
     <entry>
@@ -2420,19 +2445,6 @@ Points: 501
 # Comments: 277]]></summary>
         <author>
             <name>ciconia</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Being poor vs. being broke]]></title>
-        <id>https://news.ycombinator.com/item?id=45928912</id>
-        <link href="https://blog.ctms.me/posts/2025-11-14-being-poor-or-being-broke/"/>
-        <updated>2025-11-14T17:08:15.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://blog.ctms.me/posts/2025-11-14-being-poor-or-being-broke/
-Comments URL: https://news.ycombinator.com/item?id=45928912
-Points: 502
-# Comments: 575]]></summary>
-        <author>
-            <name>speckx</name>
         </author>
     </entry>
 </feed>
