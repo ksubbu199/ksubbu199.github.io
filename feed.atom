@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-12-16T14:23:56.032Z</updated>
+    <updated>2025-12-16T15:25:03.613Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Writing Fragments]]></title>
+        <id>https://martinfowler.com/articles/writing-fragments.html</id>
+        <link href="https://martinfowler.com/articles/writing-fragments.html"/>
+        <updated>2025-12-16T15:06:00.000Z</updated>
+        <summary type="html"><![CDATA[If you’re a regular reader of my site, you’ll have noticed that in the
+last few months I’ve been making a number of “fragments” posts. Such a post
+is a short post with a bunch of little, unconnected segments. These are
+usually a reference to something I’ve found on the web, sometimes a small
+thought of my own.
+A few years ago, I wouldn’t have covered these topics with posts on my
+own site. Instead I would use Twitter, either retweeting someone else’s
+point, or just highlighting something I’d found. But since the Muskover,
+Twitter has effectively died. I’m not saying that due to any technical
+issues with the site, which has mostly just been fine, nor directly due to
+any of the policy changes there. The point is that lots of people have left, so that
+the audience I would have reached with Tw…]]></summary>
+        <author>
+            <name>Martin Fowler</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[8M users' AI conversations sold for profit by "privacy" extensions]]></title>
         <id>https://news.ycombinator.com/item?id=46284266</id>
@@ -17,6 +38,19 @@ Points: 515
 # Comments: 164]]></summary>
         <author>
             <name>takira</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Secret Documents Show Pepsi and Walmart Colluded to Raise Food Prices]]></title>
+        <id>https://news.ycombinator.com/item?id=46280887</id>
+        <link href="https://www.thebignewsletter.com/p/secret-documents-show-pepsi-and-walmart"/>
+        <updated>2025-12-15T21:24:06.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.thebignewsletter.com/p/secret-documents-show-pepsi-and-walmart
+Comments URL: https://news.ycombinator.com/item?id=46280887
+Points: 500
+# Comments: 129]]></summary>
+        <author>
+            <name>connor11528</name>
         </author>
     </entry>
     <entry>

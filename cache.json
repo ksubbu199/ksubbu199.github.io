@@ -16,6 +16,16 @@
           "imageUrl": "https://cdn.prod.website-files.com/689ad8c5d13f40cf59df0e0c/6940043002b9b0e7d938b3ac_1765802302699.jpeg"
         },
         {
+          "id": "https://news.ycombinator.com/item?id=46280887",
+          "author": "connor11528",
+          "description": "Article URL: https://www.thebignewsletter.com/p/secret-documents-show-pepsi-and-walmart\nComments URL: https://news.ycombinator.com/item?id=46280887\nPoints: 500\n# Comments: 129",
+          "link": "https://www.thebignewsletter.com/p/secret-documents-show-pepsi-and-walmart",
+          "publishedOn": "2025-12-15T21:24:06.000Z",
+          "wordCount": null,
+          "title": "Secret Documents Show Pepsi and Walmart Colluded to Raise Food Prices",
+          "imageUrl": null
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=46279123",
           "author": "e_daigle",
           "description": "Article URL: https://ericdaigle.ca/posts/super-secure-maga-messaging-app-leaks-everyones-phone-number/\nComments URL: https://news.ycombinator.com/item?id=46279123\nPoints: 505\n# Comments: 237",
@@ -1452,6 +1462,16 @@
       "feedUrl": "https://martinfowler.com/feed.atom",
       "siteUrl": "https://martinfowler.com/feed.atom",
       "articles": [
+        {
+          "id": "https://martinfowler.com/articles/writing-fragments.html",
+          "author": null,
+          "description": "If you’re a regular reader of my site, you’ll have noticed that in the\nlast few months I’ve been making a number of “fragments” posts. Such a post\nis a short post with a bunch of little, unconnected segments. These are\nusually a reference to something I’ve found on the web, sometimes a small\nthought of my own.\nA few years ago, I wouldn’t have covered these topics with posts on my\nown site. Instead I would use Twitter, either retweeting someone else’s\npoint, or just highlighting something I’d found. But since the Muskover,\nTwitter has effectively died. I’m not saying that due to any technical\nissues with the site, which has mostly just been fine, nor directly due to\nany of the policy changes there. The point is that lots of people have left, so that\nthe audience I would have reached with Tw…",
+          "link": "https://martinfowler.com/articles/writing-fragments.html",
+          "publishedOn": "2025-12-16T15:06:00.000Z",
+          "wordCount": 524,
+          "title": "Writing Fragments",
+          "imageUrl": "https://martinfowler.com/logo-sq.png"
+        },
         {
           "id": "https://martinfowler.com/articles/2025-12-11-frags.html",
           "author": null,
