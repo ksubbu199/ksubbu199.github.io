@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-12-15T23:20:31.763Z</updated>
+    <updated>2025-12-16T01:43:24.032Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[“Super secure” messaging app leaks everyone's phone number]]></title>
+        <id>https://news.ycombinator.com/item?id=46279123</id>
+        <link href="https://ericdaigle.ca/posts/super-secure-maga-messaging-app-leaks-everyones-phone-number/"/>
+        <updated>2025-12-15T19:23:51.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://ericdaigle.ca/posts/super-secure-maga-messaging-app-leaks-everyones-phone-number/
+Comments URL: https://news.ycombinator.com/item?id=46279123
+Points: 505
+# Comments: 237]]></summary>
+        <author>
+            <name>e_daigle</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Page Tables | The Backend Engineering Show]]></title>
         <id>https://www.youtube.com/watch?v=aJpcysMJkvk</id>
@@ -13,6 +26,19 @@
         <updated>2025-12-15T15:00:02.000Z</updated>
         <author>
             <name>Hussein Nasser</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I'm Kenyan. I don't write like ChatGPT, ChatGPT writes like me]]></title>
+        <id>https://news.ycombinator.com/item?id=46273466</id>
+        <link href="https://marcusolang.substack.com/p/im-kenyan-i-dont-write-like-chatgpt"/>
+        <updated>2025-12-15T12:12:24.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://marcusolang.substack.com/p/im-kenyan-i-dont-write-like-chatgpt
+Comments URL: https://news.ycombinator.com/item?id=46273466
+Points: 542
+# Comments: 360]]></summary>
+        <author>
+            <name>florian_s</name>
         </author>
     </entry>
     <entry>
@@ -2369,19 +2395,6 @@ Points: 522
 # Comments: 214]]></summary>
         <author>
             <name>melded</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Anthropic's report smells a lot like bullshit]]></title>
-        <id>https://news.ycombinator.com/item?id=45944296</id>
-        <link href="https://djnn.sh/posts/anthropic-s-paper-smells-like-bullshit/"/>
-        <updated>2025-11-16T11:32:39.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://djnn.sh/posts/anthropic-s-paper-smells-like-bullshit/
-Comments URL: https://news.ycombinator.com/item?id=45944296
-Points: 534
-# Comments: 171]]></summary>
-        <author>
-            <name>vxvxvx</name>
         </author>
     </entry>
 </feed>
