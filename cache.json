@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=46293062",
+          "author": "ryandrake",
+          "description": "Article URL: https://www.sebastianaaltonen.com/blog/no-graphics-api\nComments URL: https://news.ycombinator.com/item?id=46293062\nPoints: 533\n# Comments: 96",
+          "link": "https://www.sebastianaaltonen.com/blog/no-graphics-api",
+          "publishedOn": "2025-12-16T19:20:17.000Z",
+          "wordCount": 18861,
+          "title": "No Graphics API",
+          "imageUrl": "http://static1.squarespace.com/static/6741ac845a0db27835868e3c/6741ad819bc40a3797cb733f/6741ad819bc40a3797cb7340/1765910436173/20140301_Trade-151_0124-copy.jpg?format=1500w"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=46291156",
           "author": "kevin-david",
           "description": "Article URL: https://resources.github.com/actions/2026-pricing-changes-for-github-actions/\nComments URL: https://news.ycombinator.com/item?id=46291156\nPoints: 510\n# Comments: 593",
@@ -1987,16 +1997,6 @@
           "publishedOn": "2025-11-19T18:01:01.000Z",
           "wordCount": 2130,
           "title": "When Chrome didn't respect GOAWAYs",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=kMy97TuFo0w",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=kMy97TuFo0w",
-          "publishedOn": "2025-11-17T18:01:02.000Z",
-          "wordCount": null,
-          "title": "Virtual Memory Areas (VMAs)",
           "imageUrl": null
         }
       ]

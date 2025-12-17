@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-12-17T05:23:07.882Z</updated>
+    <updated>2025-12-17T06:33:39.830Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -13,6 +13,19 @@
         <updated>2025-12-17T04:13:29.000Z</updated>
         <author>
             <name>Think School</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[No Graphics API]]></title>
+        <id>https://news.ycombinator.com/item?id=46293062</id>
+        <link href="https://www.sebastianaaltonen.com/blog/no-graphics-api"/>
+        <updated>2025-12-16T19:20:17.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.sebastianaaltonen.com/blog/no-graphics-api
+Comments URL: https://news.ycombinator.com/item?id=46293062
+Points: 533
+# Comments: 96]]></summary>
+        <author>
+            <name>ryandrake</name>
         </author>
     </entry>
     <entry>
@@ -2462,15 +2475,6 @@ Points: 520
 # Comments: 457]]></summary>
         <author>
             <name>jinxmeta</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Virtual Memory Areas (VMAs)]]></title>
-        <id>https://www.youtube.com/watch?v=kMy97TuFo0w</id>
-        <link href="https://www.youtube.com/watch?v=kMy97TuFo0w"/>
-        <updated>2025-11-17T18:01:02.000Z</updated>
-        <author>
-            <name>Hussein Nasser</name>
         </author>
     </entry>
 </feed>
