@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-12-17T06:33:39.830Z</updated>
+    <updated>2025-12-17T07:22:37.582Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -13,6 +13,19 @@
         <updated>2025-12-17T04:13:29.000Z</updated>
         <author>
             <name>Think School</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI will make formal verification go mainstream]]></title>
+        <id>https://news.ycombinator.com/item?id=46294574</id>
+        <link href="https://martin.kleppmann.com/2025/12/08/ai-formal-verification.html"/>
+        <updated>2025-12-16T21:14:49.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://martin.kleppmann.com/2025/12/08/ai-formal-verification.html
+Comments URL: https://news.ycombinator.com/item?id=46294574
+Points: 515
+# Comments: 253]]></summary>
+        <author>
+            <name>evankhoury</name>
         </author>
     </entry>
     <entry>
