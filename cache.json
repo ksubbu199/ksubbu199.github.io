@@ -6,6 +6,26 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=46302267",
+          "author": "birdculture",
+          "description": "Article URL: https://www.finalroundai.com/blog/aws-ceo-ai-cannot-replace-junior-developers\nComments URL: https://news.ycombinator.com/item?id=46302267\nPoints: 515\n# Comments: 308",
+          "link": "https://www.finalroundai.com/blog/aws-ceo-ai-cannot-replace-junior-developers",
+          "publishedOn": "2025-12-17T17:08:35.000Z",
+          "wordCount": 4323,
+          "title": "AWS CEO says replacing junior devs with AI is 'one of the dumbest ideas'",
+          "imageUrl": "https://cdn.prod.website-files.com/6660a5bfdcf6c5fbf039f446/69428e2d7c764c046536a548_AWS%20CEO%20Junior%20Developers%20AI.jpg"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=46301851",
+          "author": "meetpateltech",
+          "description": "Docs: https://ai.google.dev/gemini-api/docs/gemini-3\nDeveloper Blog: https://blog.google/technology/developers/build-with-gemini-...\nModel Card [pdf]: https://deepmind.google/models/model-cards/gemini-3-flash/\nGemini 3 Flash in Search AI mode: https://blog.google/products/search/google-ai-mode-update-ge...\nDeepmind Page: https://deepmind.google/models/gemini/flash/\nComments URL: https://news.ycombinator.com/item?id=46301851\nPoints: 547\n# Comments: 243",
+          "link": "https://blog.google/products/gemini/gemini-3-flash/",
+          "publishedOn": "2025-12-17T16:42:13.000Z",
+          "wordCount": 5139,
+          "title": "Gemini 3 Flash: Frontier intelligence built for speed",
+          "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini3Flash_Social.width-1300.png"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=46299934",
           "author": "pabs3",
           "description": "Article URL: https://infosec.press/brunomiguel/is-mozilla-trying-hard-to-kill-itself\nComments URL: https://news.ycombinator.com/item?id=46299934\nPoints: 566\n# Comments: 483",
@@ -44,6 +64,16 @@
           "wordCount": 18861,
           "title": "No Graphics API",
           "imageUrl": "http://static1.squarespace.com/static/6741ac845a0db27835868e3c/6741ad819bc40a3797cb733f/6741ad819bc40a3797cb7340/1765910436173/20140301_Trade-151_0124-copy.jpg?format=1500w"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=46291941",
+          "author": "charlierguo",
+          "description": "https://platform.openai.com/docs/models/gpt-image-1.5\nComments URL: https://news.ycombinator.com/item?id=46291941\nPoints: 506\n# Comments: 241",
+          "link": "https://openai.com/index/new-chatgpt-images-is-here/",
+          "publishedOn": "2025-12-16T18:07:07.000Z",
+          "wordCount": null,
+          "title": "GPT Image 1.5",
+          "imageUrl": null
         },
         {
           "id": "https://news.ycombinator.com/item?id=46291156",
