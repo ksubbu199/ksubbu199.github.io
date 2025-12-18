@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=46313991",
+          "author": "Kerrick",
+          "description": "Article URL: https://dl.acm.org/openaccess\nComments URL: https://news.ycombinator.com/item?id=46313991\nPoints: 608\n# Comments: 68",
+          "link": "https://dl.acm.org/openaccess",
+          "publishedOn": "2025-12-18T15:39:09.000Z",
+          "wordCount": null,
+          "title": "Beginning January 2026, all ACM publications will be made open access",
+          "imageUrl": null
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=46305585",
           "author": "jakelsaunders94",
           "description": "Article URL: https://blog.jakesaunders.dev/my-server-started-mining-monero-this-morning/\nComments URL: https://news.ycombinator.com/item?id=46305585\nPoints: 506\n# Comments: 316",
@@ -1586,6 +1596,16 @@
       "siteUrl": "https://blog.pragmaticengineer.com/",
       "articles": [
         {
+          "id": "69443c5d272393000120055e",
+          "author": "Gergely Orosz",
+          "description": "Deja vu: a large Cloudflare outage caused by an instantly rolled-out global config change – two weeks after a similar problem",
+          "link": "https://blog.pragmaticengineer.com/the-pulse-cloudflares-latest-outage/",
+          "publishedOn": "2025-12-18T17:44:21.000Z",
+          "wordCount": 2004,
+          "title": "The Pulse: Cloudflare’s latest outage proves dangers of global configuration changes (again)",
+          "imageUrl": null
+        },
+        {
           "id": "693b1247dd0e8a0001c79f46",
           "author": "Gergely Orosz",
           "description": "From next February, workers at Instagram must be in the office, five days a week. This makes Meta the second tech giant after Amazon to mandate a 5-day RTO. Will more big companies do the same?",
@@ -1839,6 +1859,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC_ML5xP23TOWKUcc-oAE_Eg",
       "siteUrl": "https://www.youtube.com/channel/UC_ML5xP23TOWKUcc-oAE_Eg",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=DFTSYgKczhY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=DFTSYgKczhY",
+          "publishedOn": "2025-12-18T18:00:22.000Z",
+          "wordCount": null,
+          "title": "Why It took Postgres years to do async",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/shorts/Qpgpty0rbqw",
           "author": null,

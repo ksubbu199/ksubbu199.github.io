@@ -2,10 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-12-18T17:22:46.982Z</updated>
+    <updated>2025-12-18T18:31:36.018Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Why It took Postgres years to do async]]></title>
+        <id>https://www.youtube.com/watch?v=DFTSYgKczhY</id>
+        <link href="https://www.youtube.com/watch?v=DFTSYgKczhY"/>
+        <updated>2025-12-18T18:00:22.000Z</updated>
+        <author>
+            <name>Hussein Nasser</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Pulse: Cloudflare’s latest outage proves dangers of global configuration changes (again)]]></title>
+        <id>69443c5d272393000120055e</id>
+        <link href="https://blog.pragmaticengineer.com/the-pulse-cloudflares-latest-outage/"/>
+        <updated>2025-12-18T17:44:21.000Z</updated>
+        <summary type="html"><![CDATA[Deja vu: a large Cloudflare outage caused by an instantly rolled-out global config change – two weeks after a similar problem]]></summary>
+        <author>
+            <name>Gergely Orosz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Beginning January 2026, all ACM publications will be made open access]]></title>
+        <id>https://news.ycombinator.com/item?id=46313991</id>
+        <link href="https://dl.acm.org/openaccess"/>
+        <updated>2025-12-18T15:39:09.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://dl.acm.org/openaccess
+Comments URL: https://news.ycombinator.com/item?id=46313991
+Points: 608
+# Comments: 68]]></summary>
+        <author>
+            <name>Kerrick</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[VC reveals how to WIN the AI Race| ft. Manav Garg]]></title>
         <id>https://www.youtube.com/shorts/jcPOFeTEC2Q</id>
