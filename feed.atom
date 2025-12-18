@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-12-18T11:19:24.440Z</updated>
+    <updated>2025-12-18T12:42:39.929Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -2463,32 +2463,6 @@ Points: 504
 # Comments: 526]]></summary>
         <author>
             <name>ksec</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: I made a down detector for down detector]]></title>
-        <id>https://news.ycombinator.com/item?id=45974012</id>
-        <link href="https://downdetectorsdowndetector.com/"/>
-        <updated>2025-11-19T00:05:28.000Z</updated>
-        <summary type="html"><![CDATA[After down detector went down with the rest of the internet during the Cloudflare outage today I decided to build a robust, independent tool which checks if down detector is down. Enjoy!!
-Comments URL: https://news.ycombinator.com/item?id=45974012
-Points: 507
-# Comments: 154]]></summary>
-        <author>
-            <name>gusowen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cloudflare outage on November 18, 2025 post mortem]]></title>
-        <id>https://news.ycombinator.com/item?id=45973709</id>
-        <link href="https://blog.cloudflare.com/18-november-2025-outage/"/>
-        <updated>2025-11-18T23:31:22.000Z</updated>
-        <summary type="html"><![CDATA[Related: Cloudflare Global Network experiencing issues - https://news.ycombinator.com/item?id=45963780 - Nov 2025 (1580 comments)
-Comments URL: https://news.ycombinator.com/item?id=45973709
-Points: 554
-# Comments: 342]]></summary>
-        <author>
-            <name>eastdakota</name>
         </author>
     </entry>
 </feed>
