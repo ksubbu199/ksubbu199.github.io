@@ -16,6 +16,16 @@
           "imageUrl": "https://cdn.prod.website-files.com/6660a5bfdcf6c5fbf039f446/69428e2d7c764c046536a548_AWS%20CEO%20Junior%20Developers%20AI.jpg"
         },
         {
+          "id": "https://news.ycombinator.com/item?id=46301921",
+          "author": "uyzstvqs",
+          "description": "- HN errored on all authenticated requests with 502 Bad Gateway. It did still respond to a limited amount of unauthenticated requests with presumably cached pages, which did not get updated. The last post on /newest claimed \"0 minutes ago\", but was actually much older (1:32:57 PM GMT) and not the newest post.\n- This status page actually identified the outage: https://hackernews.onlineornot.com/ - Pages by Hund and Statuspal did not show the outage.\n- The last post before the outage was https://news.ycombinator.com/item?id=46301823 (1:39:59 PM GMT). The last comment was https://news.ycombinator.com/item?id=46301848 (1:41:54 PM GMT).\n- There was an average of ~4 seconds per comment just prior to the outage. Based on this, HN likely went down at 1:41:58 PM GMT.\nComments URL: https://news.ycombinator.com/item?id=46301921\nPoints: 502\n# Comments: 287",
+          "link": "https://news.ycombinator.com/item?id=46301921",
+          "publishedOn": "2025-12-17T16:48:18.000Z",
+          "wordCount": 11489,
+          "title": "Tell HN: HN was down",
+          "imageUrl": null
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=46301851",
           "author": "meetpateltech",
           "description": "Docs: https://ai.google.dev/gemini-api/docs/gemini-3\nDeveloper Blog: https://blog.google/technology/developers/build-with-gemini-...\nModel Card [pdf]: https://deepmind.google/models/model-cards/gemini-3-flash/\nGemini 3 Flash in Search AI mode: https://blog.google/products/search/google-ai-mode-update-ge...\nDeepmind Page: https://deepmind.google/models/gemini/flash/\nComments URL: https://news.ycombinator.com/item?id=46301851\nPoints: 547\n# Comments: 243",
@@ -1454,16 +1464,6 @@
           "wordCount": 704,
           "title": "I am stepping down as the CEO of Mastodon",
           "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=45967814",
-          "author": "Fysi",
-          "description": "https://antigravity.google/blog/introducing-google-antigravi...\nhttps://www.youtube.com/watch?v=nTOVIGsqCuY\nComments URL: https://news.ycombinator.com/item?id=45967814\nPoints: 529\n# Comments: 612",
-          "link": "https://antigravity.google/",
-          "publishedOn": "2025-11-18T15:47:38.000Z",
-          "wordCount": 3657,
-          "title": "Google Antigravity",
-          "imageUrl": "https://antigravity.google/assets/image/sitecards/sitecard-default.png"
         }
       ]
     },

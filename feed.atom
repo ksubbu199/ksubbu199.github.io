@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-12-18T03:20:53.017Z</updated>
+    <updated>2025-12-18T04:33:53.914Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -27,6 +27,22 @@ Points: 515
 # Comments: 308]]></summary>
         <author>
             <name>birdculture</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tell HN: HN was down]]></title>
+        <id>https://news.ycombinator.com/item?id=46301921</id>
+        <link href="https://news.ycombinator.com/item?id=46301921"/>
+        <updated>2025-12-17T16:48:18.000Z</updated>
+        <summary type="html"><![CDATA[- HN errored on all authenticated requests with 502 Bad Gateway. It did still respond to a limited amount of unauthenticated requests with presumably cached pages, which did not get updated. The last post on /newest claimed "0 minutes ago", but was actually much older (1:32:57 PM GMT) and not the newest post.
+- This status page actually identified the outage: https://hackernews.onlineornot.com/ - Pages by Hund and Statuspal did not show the outage.
+- The last post before the outage was https://news.ycombinator.com/item?id=46301823 (1:39:59 PM GMT). The last comment was https://news.ycombinator.com/item?id=46301848 (1:41:54 PM GMT).
+- There was an average of ~4 seconds per comment just prior to the outage. Based on this, HN likely went down at 1:41:58 PM GMT.
+Comments URL: https://news.ycombinator.com/item?id=46301921
+Points: 502
+# Comments: 287]]></summary>
+        <author>
+            <name>uyzstvqs</name>
         </author>
     </entry>
     <entry>
@@ -2500,20 +2516,6 @@ Points: 514
 more…]]></summary>
         <author>
             <name>Martin Fowler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google Antigravity]]></title>
-        <id>https://news.ycombinator.com/item?id=45967814</id>
-        <link href="https://antigravity.google/"/>
-        <updated>2025-11-18T15:47:38.000Z</updated>
-        <summary type="html"><![CDATA[https://antigravity.google/blog/introducing-google-antigravi...
-https://www.youtube.com/watch?v=nTOVIGsqCuY
-Comments URL: https://news.ycombinator.com/item?id=45967814
-Points: 529
-# Comments: 612]]></summary>
-        <author>
-            <name>Fysi</name>
         </author>
     </entry>
 </feed>
