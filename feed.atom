@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-12-18T14:22:55.834Z</updated>
+    <updated>2025-12-18T15:22:36.846Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -14,6 +14,19 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>Think School</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I got hacked: My Hetzner server started mining Monero]]></title>
+        <id>https://news.ycombinator.com/item?id=46305585</id>
+        <link href="https://blog.jakesaunders.dev/my-server-started-mining-monero-this-morning/"/>
+        <updated>2025-12-17T21:13:33.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://blog.jakesaunders.dev/my-server-started-mining-monero-this-morning/
+Comments URL: https://news.ycombinator.com/item?id=46305585
+Points: 506
+# Comments: 316]]></summary>
+        <author>
+            <name>jakelsaunders94</name>
         </author>
     </entry>
     <entry>
