@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-12-18T23:20:24.658Z</updated>
+    <updated>2025-12-19T01:42:32.460Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[We pwned X, Vercel, Cursor, and Discord through a supply-chain attack]]></title>
+        <id>https://news.ycombinator.com/item?id=46317098</id>
+        <link href="https://gist.github.com/hackermondev/5e2cdc32849405fff6b46957747a2d28"/>
+        <updated>2025-12-18T19:08:48.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://gist.github.com/hackermondev/5e2cdc32849405fff6b46957747a2d28
+Comments URL: https://news.ycombinator.com/item?id=46317098
+Points: 589
+# Comments: 232]]></summary>
+        <author>
+            <name>hackermondev</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Why It took Postgres years to do async]]></title>
         <id>https://www.youtube.com/watch?v=DFTSYgKczhY</id>
