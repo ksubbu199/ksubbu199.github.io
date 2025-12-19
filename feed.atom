@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-12-19T01:42:32.460Z</updated>
+    <updated>2025-12-19T03:23:55.634Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -215,6 +215,19 @@ Points: 515
 # Comments: 253]]></summary>
         <author>
             <name>evankhoury</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Texas is suing all of the big TV makers for spying on what you watch]]></title>
+        <id>https://news.ycombinator.com/item?id=46294456</id>
+        <link href="https://www.theverge.com/news/845400/texas-tv-makers-lawsuit-samsung-sony-lg-hisense-tcl-spying"/>
+        <updated>2025-12-16T21:04:54.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.theverge.com/news/845400/texas-tv-makers-lawsuit-samsung-sony-lg-hisense-tcl-spying
+Comments URL: https://news.ycombinator.com/item?id=46294456
+Points: 566
+# Comments: 294]]></summary>
+        <author>
+            <name>tortilla</name>
         </author>
     </entry>
     <entry>
@@ -2557,19 +2570,6 @@ Points: 505
 # Comments: 98]]></summary>
         <author>
             <name>lukeinator42</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Europe is scaling back GDPR and relaxing AI laws]]></title>
-        <id>https://news.ycombinator.com/item?id=45980117</id>
-        <link href="https://www.theverge.com/news/823750/european-union-ai-act-gdpr-changes"/>
-        <updated>2025-11-19T14:41:30.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.theverge.com/news/823750/european-union-ai-act-gdpr-changes
-Comments URL: https://news.ycombinator.com/item?id=45980117
-Points: 504
-# Comments: 526]]></summary>
-        <author>
-            <name>ksec</name>
         </author>
     </entry>
 </feed>
