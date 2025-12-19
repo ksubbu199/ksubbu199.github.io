@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-12-19T22:20:57.080Z</updated>
+    <updated>2025-12-19T23:19:37.099Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -36,6 +36,19 @@ Points: 533
         <updated>2025-12-19T12:30:21.000Z</updated>
         <author>
             <name>Think School</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GotaTun -- Mullvad's WireGuard Implementation in Rust]]></title>
+        <id>https://news.ycombinator.com/item?id=46324543</id>
+        <link href="https://mullvad.net/en/blog/announcing-gotatun-the-future-of-wireguard-at-mullvad-vpn"/>
+        <updated>2025-12-19T11:16:23.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://mullvad.net/en/blog/announcing-gotatun-the-future-of-wireguard-at-mullvad-vpn
+Comments URL: https://news.ycombinator.com/item?id=46324543
+Points: 514
+# Comments: 106]]></summary>
+        <author>
+            <name>km</name>
         </author>
     </entry>
     <entry>
