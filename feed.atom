@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-12-19T06:32:52.195Z</updated>
+    <updated>2025-12-19T07:21:30.943Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -2547,32 +2547,6 @@ Points: 505
 # Comments: 384]]></summary>
         <author>
             <name>throwaway270925</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI is a front for consolidation of resources and power]]></title>
-        <id>https://news.ycombinator.com/item?id=45983700</id>
-        <link href="https://www.chrbutler.com/what-ai-is-really-for"/>
-        <updated>2025-11-19T19:09:27.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.chrbutler.com/what-ai-is-really-for
-Comments URL: https://news.ycombinator.com/item?id=45983700
-Points: 500
-# Comments: 390]]></summary>
-        <author>
-            <name>delaugust</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fragments Nov 19]]></title>
-        <id>https://martinfowler.com/articles/2025-11-19-frags.html</id>
-        <link href="https://martinfowler.com/articles/2025-11-19-frags.html"/>
-        <updated>2025-11-19T19:02:00.000Z</updated>
-        <summary type="html"><![CDATA[I’ve been on the road in Europe for the last couple of weeks, and while I was there Thoughtworks released volume 33 of our Technology Radar. Again it’s dominated by the AI wave, with lots of blips capturing our explorations of how to use LLMs and similar technology. “Agents” are the big thing these days but we’re also seeing growing movements in infrastructure orchestration, coding workflows - and the inevitable antipatterns. Many thanks to my colleagues for putting this together again.
-                ❄                ❄                ❄                ❄
-
-My trip to Europe started in Amsterdam, for a Thoughtworks event for a few of our clients there. Since I was in that lovely city, I got in touch with Gergely Orosz, host of The Pragmatic Engineer, and he arranged to record a podcast with …]]></summary>
-        <author>
-            <name>Martin Fowler</name>
         </author>
     </entry>
 </feed>
