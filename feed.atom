@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-12-19T09:24:22.289Z</updated>
+    <updated>2025-12-19T10:23:39.127Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[History LLMs: Models trained exclusively on pre-1913 texts]]></title>
+        <id>https://news.ycombinator.com/item?id=46319826</id>
+        <link href="https://github.com/DGoettlich/history-llms"/>
+        <updated>2025-12-18T22:39:47.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://github.com/DGoettlich/history-llms
+Comments URL: https://news.ycombinator.com/item?id=46319826
+Points: 506
+# Comments: 202]]></summary>
+        <author>
+            <name>iamwil</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[We pwned X, Vercel, Cursor, and Discord through a supply-chain attack]]></title>
         <id>https://news.ycombinator.com/item?id=46317098</id>
@@ -2521,32 +2534,6 @@ Points: 506
 # Comments: 347]]></summary>
         <author>
             <name>meetpateltech</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The patent office is about to make bad patents untouchable]]></title>
-        <id>https://news.ycombinator.com/item?id=45985890</id>
-        <link href="https://www.eff.org/deeplinks/2025/11/patent-office-about-make-bad-patents-untouchable"/>
-        <updated>2025-11-19T22:00:28.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.eff.org/deeplinks/2025/11/patent-office-about-make-bad-patents-untouchable
-Comments URL: https://news.ycombinator.com/item?id=45985890
-Points: 504
-# Comments: 69]]></summary>
-        <author>
-            <name>iamnothere</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gaming on Linux has never been more approachable]]></title>
-        <id>https://news.ycombinator.com/item?id=45985506</id>
-        <link href="https://www.theverge.com/tech/823337/switching-linux-gaming-desktop-cachyos"/>
-        <updated>2025-11-19T21:30:02.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.theverge.com/tech/823337/switching-linux-gaming-desktop-cachyos
-Comments URL: https://news.ycombinator.com/item?id=45985506
-Points: 505
-# Comments: 384]]></summary>
-        <author>
-            <name>throwaway270925</name>
         </author>
     </entry>
 </feed>
