@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-12-20T09:20:31.602Z</updated>
+    <updated>2025-12-20T10:20:00.019Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[CSS Grid Lanes]]></title>
+        <id>https://news.ycombinator.com/item?id=46331586</id>
+        <link href="https://webkit.org/blog/17660/introducing-css-grid-lanes/"/>
+        <updated>2025-12-19T22:13:06.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://webkit.org/blog/17660/introducing-css-grid-lanes/
+Comments URL: https://news.ycombinator.com/item?id=46331586
+Points: 522
+# Comments: 146]]></summary>
+        <author>
+            <name>frizlab</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Garage – An S3 object store so reliable you can run it outside datacenters]]></title>
         <id>https://news.ycombinator.com/item?id=46326984</id>
