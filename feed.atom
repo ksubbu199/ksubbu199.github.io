@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-12-20T07:18:19.256Z</updated>
+    <updated>2025-12-20T08:25:48.774Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -172,6 +172,19 @@ Points: 608
 # Comments: 68]]></summary>
         <author>
             <name>Kerrick</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mistral OCR 3]]></title>
+        <id>https://news.ycombinator.com/item?id=46313390</id>
+        <link href="https://mistral.ai/news/mistral-ocr-3"/>
+        <updated>2025-12-18T15:01:10.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://mistral.ai/news/mistral-ocr-3
+Comments URL: https://news.ycombinator.com/item?id=46313390
+Points: 501
+# Comments: 90]]></summary>
+        <author>
+            <name>pember</name>
         </author>
     </entry>
     <entry>
@@ -2583,19 +2596,6 @@ Points: 508
         <summary type="html"><![CDATA[A database permissions change ended up knocking Cloudflare’s proxy offline. Pinpointing the root cause was tricky – but Cloudflare shared a detailed postmortem. Also: announcing The Pragmatic Summit]]></summary>
         <author>
             <name>Gergely Orosz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CBP is monitoring US drivers and detaining those with suspicious travel patterns]]></title>
-        <id>https://news.ycombinator.com/item?id=45996860</id>
-        <link href="https://apnews.com/article/immigration-border-patrol-surveillance-drivers-ice-trump-9f5d05469ce8c629d6fecf32d32098cd"/>
-        <updated>2025-11-20T19:52:55.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://apnews.com/article/immigration-border-patrol-surveillance-drivers-ice-trump-9f5d05469ce8c629d6fecf32d32098cd
-Comments URL: https://news.ycombinator.com/item?id=45996860
-Points: 522
-# Comments: 504]]></summary>
-        <author>
-            <name>jjwiseman</name>
         </author>
     </entry>
 </feed>
