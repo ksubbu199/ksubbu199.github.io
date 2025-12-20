@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=46326984",
+          "author": "ibobev",
+          "description": "Article URL: https://garagehq.deuxfleurs.fr/\nComments URL: https://news.ycombinator.com/item?id=46326984\nPoints: 509\n# Comments: 103",
+          "link": "https://garagehq.deuxfleurs.fr/",
+          "publishedOn": "2025-12-19T15:40:03.000Z",
+          "wordCount": 465,
+          "title": "Garage – An S3 object store so reliable you can run it outside datacenters",
+          "imageUrl": "https://garagehq.deuxfleurs.fr/images/og-default.png"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=46326588",
           "author": "keepamovin",
           "description": "Article URL: https://dosaygo-studio.github.io/hn-front-page-2035/news-honest.html\nComments URL: https://news.ycombinator.com/item?id=46326588\nPoints: 533\n# Comments: 112",
@@ -1524,16 +1534,6 @@
           "wordCount": 989,
           "title": "Microsoft makes Zork open-source",
           "imageUrl": "https://www.microsoft.com/en-us/opensource/blog/2025/11/20/media_1c88f4e0c062678c7e71e8250d42cd3ebe560effc.png?width=1200&format=pjpg&optimize=medium"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=45994854",
-          "author": "abraham",
-          "description": "Article URL: https://blog.google/products/android/quick-share-airdrop/\nComments URL: https://news.ycombinator.com/item?id=45994854\nPoints: 530\n# Comments: 324",
-          "link": "https://blog.google/products/android/quick-share-airdrop/",
-          "publishedOn": "2025-11-20T17:04:34.000Z",
-          "wordCount": 3903,
-          "title": "Android and iPhone users can now share files, starting with the Pixel 10",
-          "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/original_videos/wagtailvideo-frd93mi4_thumb.jpg"
         }
       ]
     },
