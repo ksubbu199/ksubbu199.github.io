@@ -2,10 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-12-21T05:21:01.495Z</updated>
+    <updated>2025-12-21T06:31:04.139Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Jmail – Google Suite for Epstein files]]></title>
+        <id>https://news.ycombinator.com/item?id=46339600</id>
+        <link href="https://www.jmail.world/"/>
+        <updated>2025-12-20T21:00:05.000Z</updated>
+        <summary type="html"><![CDATA[Hi everyone! My name's Luke and I made the original Jmail here alongside Riley Walz. We had a ton of friends collaborate on building out more of the app suite last night in lieue of DOJ's "Epstein files" release.
+Please AMA!
+Comments URL: https://news.ycombinator.com/item?id=46339600
+Points: 540
+# Comments: 115]]></summary>
+        <author>
+            <name>lukeigel</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Backing Up Spotify]]></title>
         <id>https://news.ycombinator.com/item?id=46338339</id>
@@ -2570,19 +2584,6 @@ Points: 512
 # Comments: 134]]></summary>
         <author>
             <name>exr0n</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Helping Valve to power up Steam devices]]></title>
-        <id>https://news.ycombinator.com/item?id=46006616</id>
-        <link href="https://www.igalia.com/2025/11/helpingvalve.html"/>
-        <updated>2025-11-21T17:29:59.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.igalia.com/2025/11/helpingvalve.html
-Comments URL: https://news.ycombinator.com/item?id=46006616
-Points: 519
-# Comments: 156]]></summary>
-        <author>
-            <name>TingPing</name>
         </author>
     </entry>
 </feed>
