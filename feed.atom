@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-12-21T08:25:58.710Z</updated>
+    <updated>2025-12-21T09:20:09.182Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -50,6 +50,19 @@ Points: 521
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>Hussein Nasser</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Go ahead, self-host Postgres]]></title>
+        <id>https://news.ycombinator.com/item?id=46336947</id>
+        <link href="https://pierce.dev/notes/go-ahead-self-host-postgres#user-content-fn-1"/>
+        <updated>2025-12-20T15:43:15.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://pierce.dev/notes/go-ahead-self-host-postgres#user-content-fn-1
+Comments URL: https://news.ycombinator.com/item?id=46336947
+Points: 506
+# Comments: 306]]></summary>
+        <author>
+            <name>pavel_lishin</name>
         </author>
     </entry>
     <entry>
