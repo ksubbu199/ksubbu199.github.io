@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=46347080",
+          "author": "janandonly",
+          "description": "Article URL: https://mastodon.online/@mullvadnet/115742530333573065\nComments URL: https://news.ycombinator.com/item?id=46347080\nPoints: 503\n# Comments: 166",
+          "link": "https://mastodon.online/@mullvadnet/115742530333573065",
+          "publishedOn": "2025-12-21T18:39:46.000Z",
+          "wordCount": 200,
+          "title": "The Going Dark initiative or ProtectEU is a Chat Control 3.0 attempt",
+          "imageUrl": null
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=46346796",
           "author": "FlorinSays",
           "description": "Article URL: https://loggingsucks.com/\nComments URL: https://news.ycombinator.com/item?id=46346796\nPoints: 505\n# Comments: 186",
@@ -1534,16 +1544,6 @@
           "wordCount": 5909,
           "title": "A monopoly ISP refuses to fix upstream infrastructure",
           "imageUrl": "https://sacbear.com/wp-content/uploads/2021/06/sacbear-logo.png"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=46016249",
-          "author": "ingve",
-          "description": "Article URL: https://kevinboone.me/fingerprinting.html\nComments URL: https://news.ycombinator.com/item?id=46016249\nPoints: 502\n# Comments: 298",
-          "link": "https://kevinboone.me/fingerprinting.html",
-          "publishedOn": "2025-11-22T17:08:36.000Z",
-          "wordCount": 2321,
-          "title": "The privacy nightmare of browser fingerprinting",
-          "imageUrl": null
         }
       ]
     },

@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-12-22T04:40:01.516Z</updated>
+    <updated>2025-12-22T05:24:37.638Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The Going Dark initiative or ProtectEU is a Chat Control 3.0 attempt]]></title>
+        <id>https://news.ycombinator.com/item?id=46347080</id>
+        <link href="https://mastodon.online/@mullvadnet/115742530333573065"/>
+        <updated>2025-12-21T18:39:46.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://mastodon.online/@mullvadnet/115742530333573065
+Comments URL: https://news.ycombinator.com/item?id=46347080
+Points: 503
+# Comments: 166]]></summary>
+        <author>
+            <name>janandonly</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Logging sucks]]></title>
         <id>https://news.ycombinator.com/item?id=46346796</id>
@@ -2583,19 +2596,6 @@ Points: 502
 I understand that every ~10 years we find ourselves in some sort of stock market bubble, but I do believe that most markets are mostly efficient. Everyone out there is looking for a good deal, and despite the well-known irrationalities of human psychology, most of us seem to do a good job of looking out for number one.]]></summary>
         <author>
             <name>Boot.dev Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The privacy nightmare of browser fingerprinting]]></title>
-        <id>https://news.ycombinator.com/item?id=46016249</id>
-        <link href="https://kevinboone.me/fingerprinting.html"/>
-        <updated>2025-11-22T17:08:36.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://kevinboone.me/fingerprinting.html
-Comments URL: https://news.ycombinator.com/item?id=46016249
-Points: 502
-# Comments: 298]]></summary>
-        <author>
-            <name>ingve</name>
         </author>
     </entry>
 </feed>
