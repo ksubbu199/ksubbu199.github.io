@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-12-22T17:19:15.712Z</updated>
+    <updated>2025-12-22T18:31:15.784Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The Cost of Switching to Kernel Mode]]></title>
+        <id>https://www.youtube.com/watch?v=KFcyF66IeuE</id>
+        <link href="https://www.youtube.com/watch?v=KFcyF66IeuE"/>
+        <updated>2025-12-22T18:00:23.000Z</updated>
+        <author>
+            <name>Hussein Nasser</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[A guide to local coding models]]></title>
         <id>https://news.ycombinator.com/item?id=46348329</id>
