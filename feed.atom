@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-12-23T05:24:17.121Z</updated>
+    <updated>2025-12-23T06:34:20.021Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -26,6 +26,20 @@ Points: 520
         <updated>2025-12-22T18:00:23.000Z</updated>
         <author>
             <name>Hussein Nasser</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Flock Exposed Its AI-Powered Cameras to the Internet. We Tracked Ourselves]]></title>
+        <id>https://news.ycombinator.com/item?id=46355548</id>
+        <link href="https://www.404media.co/flock-exposed-its-ai-powered-cameras-to-the-internet-we-tracked-ourselves/"/>
+        <updated>2025-12-22T16:31:40.000Z</updated>
+        <summary type="html"><![CDATA[Archive Link: https://archive.ph/IWMKe
+Also: https://www.youtube.com/watch?v=vU1-uiUlHTo – This Flock Camera Leak is like Netflix For Stalkers
+Comments URL: https://news.ycombinator.com/item?id=46355548
+Points: 518
+# Comments: 392]]></summary>
+        <author>
+            <name>chaps</name>
         </author>
     </entry>
     <entry>
@@ -2574,19 +2588,6 @@ Points: 500
 # Comments: 613]]></summary>
         <author>
             <name>bookofjoe</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fran Sans – font inspired by San Francisco light rail displays]]></title>
-        <id>https://news.ycombinator.com/item?id=46025942</id>
-        <link href="https://emilysneddon.com/fran-sans-essay"/>
-        <updated>2025-11-23T18:20:27.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://emilysneddon.com/fran-sans-essay
-Comments URL: https://news.ycombinator.com/item?id=46025942
-Points: 559
-# Comments: 81]]></summary>
-        <author>
-            <name>ChrisArchitect</name>
         </author>
     </entry>
 </feed>
