@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-12-24T13:32:17.517Z</updated>
+    <updated>2025-12-24T14:20:46.116Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[X-ray: a Python library for finding bad redactions in PDF documents]]></title>
+        <id>https://news.ycombinator.com/item?id=46369923</id>
+        <link href="https://github.com/freelawproject/x-ray"/>
+        <updated>2025-12-23T21:54:30.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://github.com/freelawproject/x-ray
+Comments URL: https://news.ycombinator.com/item?id=46369923
+Points: 513
+# Comments: 92]]></summary>
+        <author>
+            <name>rendx</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Some Epstein file redactions are being undone with hacks]]></title>
         <id>https://news.ycombinator.com/item?id=46368946</id>
