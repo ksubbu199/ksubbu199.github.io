@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-12-25T12:41:56.051Z</updated>
+    <updated>2025-12-25T13:31:42.500Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -20,6 +20,19 @@ Points: 618
 # Comments: 174]]></summary>
         <author>
             <name>basilikum</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Phoenix: A modern X server written from scratch in Zig]]></title>
+        <id>https://news.ycombinator.com/item?id=46380075</id>
+        <link href="https://git.dec05eba.com/phoenix/about/"/>
+        <updated>2025-12-24T22:43:53.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://git.dec05eba.com/phoenix/about/
+Comments URL: https://news.ycombinator.com/item?id=46380075
+Points: 500
+# Comments: 257]]></summary>
+        <author>
+            <name>snvzz</name>
         </author>
     </entry>
     <entry>
