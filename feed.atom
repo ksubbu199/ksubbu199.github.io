@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-12-25T19:16:35.240Z</updated>
+    <updated>2025-12-25T20:22:50.506Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Why nobody watches YouTube tutorials anymore]]></title>
+        <id>https://www.youtube.com/watch?v=xZ4mrm6PuII</id>
+        <link href="https://www.youtube.com/watch?v=xZ4mrm6PuII"/>
+        <updated>2025-12-25T19:41:19.000Z</updated>
+        <author>
+            <name>Hussein Nasser</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[We invited a man into our home at Christmas and he stayed with us for 45 years]]></title>
         <id>https://news.ycombinator.com/item?id=46383552</id>
