@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-12-26T13:32:42.046Z</updated>
+    <updated>2025-12-26T14:20:36.882Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -2499,32 +2499,6 @@ Points: 562
 # Comments: 136]]></summary>
         <author>
             <name>prodigycorp</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Penpot: The Open-Source Figma]]></title>
-        <id>https://news.ycombinator.com/item?id=46064757</id>
-        <link href="https://github.com/penpot/penpot"/>
-        <updated>2025-11-27T02:14:36.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://github.com/penpot/penpot
-Comments URL: https://news.ycombinator.com/item?id=46064757
-Points: 530
-# Comments: 123]]></summary>
-        <author>
-            <name>selvan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Migrating the main Zig repository from GitHub to Codeberg]]></title>
-        <id>https://news.ycombinator.com/item?id=46064571</id>
-        <link href="https://ziglang.org/news/migrating-from-github-to-codeberg/"/>
-        <updated>2025-11-27T01:49:00.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://ziglang.org/news/migrating-from-github-to-codeberg/
-Comments URL: https://news.ycombinator.com/item?id=46064571
-Points: 541
-# Comments: 427]]></summary>
-        <author>
-            <name>todsacerdoti</name>
         </author>
     </entry>
 </feed>
