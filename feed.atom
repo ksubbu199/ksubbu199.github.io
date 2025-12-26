@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-12-26T20:22:05.847Z</updated>
+    <updated>2025-12-26T21:18:55.397Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -17,6 +17,19 @@ Points: 532
 # Comments: 496]]></summary>
         <author>
             <name>christoph-heiss</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Package managers keep using Git as a database, it never works out]]></title>
+        <id>https://news.ycombinator.com/item?id=46391514</id>
+        <link href="https://nesbitt.io/2025/12/24/package-managers-keep-using-git-as-a-database.html"/>
+        <updated>2025-12-26T12:46:36.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://nesbitt.io/2025/12/24/package-managers-keep-using-git-as-a-database.html
+Comments URL: https://news.ycombinator.com/item?id=46391514
+Points: 500
+# Comments: 273]]></summary>
+        <author>
+            <name>birdculture</name>
         </author>
     </entry>
     <entry>
