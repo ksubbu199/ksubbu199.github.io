@@ -1504,16 +1504,6 @@
           "wordCount": null,
           "title": "EU Council Approves New \"Chat Control\" Mandate Pushing Mass Surveillance",
           "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=46075882",
-          "author": "nullpxl",
-          "description": "Hi! Recently smart-glasses with cameras like the Meta Ray-bans seem to be getting more popular. As does some people's desire to remove/cover up the recording indicator LED. I wanted to see if there's a way to detect when people are recording with these types of glasses, so a little bit ago I started working this project. I've hit a little bit of a wall though so I'm very much open to ideas!\nI've written a bunch more on the link (+photos are there), but essentially this uses 2 fingerprinting approaches: \n- retro-reflectivity of the camera sensor by looking at IR reflections. mixed results here.\n- wireless traffic (primarily BLE, also looking into BTC and wifi)\nFor the latter, I'm currently just using an ESP32, and I can consistently detect when the Meta Raybans are 1) pairing, 2) first powered on, 3) (less consistently) when they're taken out of the charging case. When they do detect something, it plays a little jingle next to your ear.\nIdeally I want to be able to detect them when they're in use, and not just at boot. I've come across the nRF52840, which seems like it can follow directed BLE traffic beyond the initial broadcast, but from my understanding it would still need to catch the first CONNECT_REQ event regardless. On the bluetooth classic side of things, all the hardware looks really expensive! Any ideas are appreciated. Thanks!\nComments URL: https://news.ycombinator.com/item?id=46075882\nPoints: 500\n# Comments: 192",
-          "link": "https://github.com/NullPxl/banrays",
-          "publishedOn": "2025-11-28T05:52:38.000Z",
-          "wordCount": 2772,
-          "title": "Show HN: Glasses to detect smart-glasses that have cameras",
-          "imageUrl": "https://opengraph.githubassets.com/75758f0ed8232b3c5e603851cd0324b0d62bf5827b15587cddd21d19b5fd5f67/NullPxl/banrays"
         }
       ]
     },
@@ -1829,6 +1819,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC_ML5xP23TOWKUcc-oAE_Eg",
       "siteUrl": "https://www.youtube.com/channel/UC_ML5xP23TOWKUcc-oAE_Eg",
       "articles": [
+        {
+          "id": "https://www.youtube.com/shorts/envdRxmctTY",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/envdRxmctTY",
+          "publishedOn": "2025-12-27T18:00:44.000Z",
+          "wordCount": 2105,
+          "title": "Kernel Mode explained",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=xZ4mrm6PuII",
           "author": null,
