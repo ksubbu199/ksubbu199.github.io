@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-12-28T12:39:51.723Z</updated>
+    <updated>2025-12-28T13:28:50.142Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Calendar]]></title>
+        <id>https://news.ycombinator.com/item?id=46408613</id>
+        <link href="https://neatnik.net/calendar/?year=2026"/>
+        <updated>2025-12-28T05:02:39.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://neatnik.net/calendar/?year=2026
+Comments URL: https://news.ycombinator.com/item?id=46408613
+Points: 516
+# Comments: 72]]></summary>
+        <author>
+            <name>twapi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Kernel Mode explained]]></title>
         <id>https://www.youtube.com/shorts/envdRxmctTY</id>
