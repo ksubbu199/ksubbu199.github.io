@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=46422412",
+          "author": "haunter",
+          "description": "Article URL: https://www.gog.com/blog/gog-is-getting-acquired-by-its-original-co-founder-what-it-means-for-you/\nComments URL: https://news.ycombinator.com/item?id=46422412\nPoints: 525\n# Comments: 288",
+          "link": "https://www.gog.com/blog/gog-is-getting-acquired-by-its-original-co-founder-what-it-means-for-you/",
+          "publishedOn": "2025-12-29T16:43:14.000Z",
+          "wordCount": 5798,
+          "title": "GOG is getting acquired by its original co-founder",
+          "imageUrl": "https://www.gog.com/blog/wp-content/uploads/2025/12/111.jpg"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=46419970",
           "author": "JeremyTheo",
           "description": "Article URL: https://www.theocharis.dev/blog/kidnapped-by-deutsche-bahn/\nComments URL: https://news.ycombinator.com/item?id=46419970\nPoints: 568\n# Comments: 576",
@@ -104,6 +114,16 @@
           "wordCount": 140,
           "title": "Floor796",
           "imageUrl": "https://floor796.com/assets/og/og-v2.jpg"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=46395184",
+          "author": "davisr",
+          "description": "Article URL: https://old.reddit.com/r/linux/comments/1puojsr/the_device_that_controls_my_insulin_pump_uses_the/\nComments URL: https://news.ycombinator.com/item?id=46395184\nPoints: 500\n# Comments: 258",
+          "link": "https://old.reddit.com/r/linux/comments/1puojsr/the_device_that_controls_my_insulin_pump_uses_the/",
+          "publishedOn": "2025-12-26T19:13:22.000Z",
+          "wordCount": null,
+          "title": "My insulin pump controller uses the Linux kernel. It also violates the GPL",
+          "imageUrl": null
         },
         {
           "id": "https://news.ycombinator.com/item?id=46394327",
@@ -1534,16 +1554,6 @@
           "wordCount": 4170,
           "title": "Writing a good Claude.md",
           "imageUrl": "https://humanlayer.dev/api/writing-a-good-claude-md/og"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=46096337",
-          "author": "vismit2000",
-          "description": "Article URL: https://adventofcode.com/2025/about\nComments URL: https://news.ycombinator.com/item?id=46096337\nPoints: 515\n# Comments: 182",
-          "link": "https://adventofcode.com/2025/about",
-          "publishedOn": "2025-11-30T13:07:15.000Z",
-          "wordCount": 1354,
-          "title": "Advent of Code 2025",
-          "imageUrl": null
         }
       ]
     },

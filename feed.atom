@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-12-29T23:19:15.552Z</updated>
+    <updated>2025-12-30T01:43:58.760Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[GOG is getting acquired by its original co-founder]]></title>
+        <id>https://news.ycombinator.com/item?id=46422412</id>
+        <link href="https://www.gog.com/blog/gog-is-getting-acquired-by-its-original-co-founder-what-it-means-for-you/"/>
+        <updated>2025-12-29T16:43:14.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.gog.com/blog/gog-is-getting-acquired-by-its-original-co-founder-what-it-means-for-you/
+Comments URL: https://news.ycombinator.com/item?id=46422412
+Points: 525
+# Comments: 288]]></summary>
+        <author>
+            <name>haunter</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[All Kernel Page Faults Explained]]></title>
         <id>https://www.youtube.com/watch?v=FnMwGC2XHVM</id>
@@ -153,6 +166,19 @@ Points: 549
 # Comments: 71]]></summary>
         <author>
             <name>krtkush</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[My insulin pump controller uses the Linux kernel. It also violates the GPL]]></title>
+        <id>https://news.ycombinator.com/item?id=46395184</id>
+        <link href="https://old.reddit.com/r/linux/comments/1puojsr/the_device_that_controls_my_insulin_pump_uses_the/"/>
+        <updated>2025-12-26T19:13:22.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://old.reddit.com/r/linux/comments/1puojsr/the_device_that_controls_my_insulin_pump_uses_the/
+Comments URL: https://news.ycombinator.com/item?id=46395184
+Points: 500
+# Comments: 258]]></summary>
+        <author>
+            <name>davisr</name>
         </author>
     </entry>
     <entry>
@@ -2508,19 +2534,6 @@ Points: 528
 # Comments: 172]]></summary>
         <author>
             <name>objcts</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Advent of Code 2025]]></title>
-        <id>https://news.ycombinator.com/item?id=46096337</id>
-        <link href="https://adventofcode.com/2025/about"/>
-        <updated>2025-11-30T13:07:15.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://adventofcode.com/2025/about
-Comments URL: https://news.ycombinator.com/item?id=46096337
-Points: 515
-# Comments: 182]]></summary>
-        <author>
-            <name>vismit2000</name>
         </author>
     </entry>
 </feed>
