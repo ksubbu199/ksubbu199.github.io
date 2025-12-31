@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-12-31T03:27:24.718Z</updated>
+    <updated>2025-12-31T04:38:24.544Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -2520,20 +2520,6 @@ Points: 513
         <updated>2025-12-01T18:00:59.000Z</updated>
         <author>
             <name>Hussein Nasser</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DeepSeek-v3.2: Pushing the frontier of open large language models [pdf]]]></title>
-        <id>https://news.ycombinator.com/item?id=46108780</id>
-        <link href="https://huggingface.co/deepseek-ai/DeepSeek-V3.2/resolve/main/assets/paper.pdf"/>
-        <updated>2025-12-01T15:48:03.000Z</updated>
-        <summary type="html"><![CDATA[https://huggingface.co/deepseek-ai/DeepSeek-V3.2
-https://api-docs.deepseek.com/news/news251201
-Comments URL: https://news.ycombinator.com/item?id=46108780
-Points: 530
-# Comments: 252]]></summary>
-        <author>
-            <name>pretext</name>
         </author>
     </entry>
 </feed>
