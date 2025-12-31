@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=46435308",
+          "author": "keepamovin",
+          "description": "Community, All the HN belong to you. This is an archive of hacker news that fits in your browser. When I made HN Made of Primes I realized I could probably do this offline sqlite/wasm thing with the whole GBs of archive. The whole dataset. So I tried it, and this is it. Have Hacker News on your device.\nGo to this repo (https://github.com/DOSAYGO-STUDIO/HackerBook): you can download it. Big Query -> ETL -> npx serve docs - that's it. 20 years of HN arguments and beauty, can be yours forever. So they'll never die. Ever. It's the unkillable static archive of HN and it's your hands. That's my Year End gift to you all. Thank you for a wonderful year, have happy and wonderful 2026. make something of it.\nComments URL: https://news.ycombinator.com/item?id=46435308\nPoints: 502\n# Comments: 162",
+          "link": "https://hackerbook.dosaygo.com/",
+          "publishedOn": "2025-12-30T17:01:59.000Z",
+          "wordCount": 11813,
+          "title": "Show HN: 22 GB of Hacker News in SQLite",
+          "imageUrl": null
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=46431560",
           "author": "tosh",
           "description": "Article URL: https://opencontent.netflix.com/\nComments URL: https://news.ycombinator.com/item?id=46431560\nPoints: 508\n# Comments: 95",
