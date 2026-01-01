@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=46448705",
+          "author": "ValentineC",
+          "description": "Article URL: https://www.latimes.com/business/story/2025-12-31/warren-buffett-steps-down-as-berkshire-hathaway-ceo-after-six-decades\nComments URL: https://news.ycombinator.com/item?id=46448705\nPoints: 504\n# Comments: 347",
+          "link": "https://www.latimes.com/business/story/2025-12-31/warren-buffett-steps-down-as-berkshire-hathaway-ceo-after-six-decades",
+          "publishedOn": "2025-12-31T21:44:42.000Z",
+          "wordCount": 5432,
+          "title": "Warren Buffett steps down as Berkshire Hathaway CEO after six decades",
+          "imageUrl": "https://ca-times.brightspotcdn.com/dims4/default/e0a1ee3/2147483647/strip/true/crop/2237x1174+0+162/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F54%2Fc3%2Fd5d78cd14f6bae051de0da854767%2Fla-na-col1-kansas-nebraska-billionaires-01.JPG"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=46445068",
           "author": "haunter",
           "description": "Article URL: https://monogame.net/blog/2025-12-30-385-new-sponsor-announcement/\nComments URL: https://news.ycombinator.com/item?id=46445068\nPoints: 507\n# Comments: 223",
@@ -1544,26 +1554,6 @@
           "wordCount": 780,
           "title": "Paged Out",
           "imageUrl": "https://pagedout.institute/static/img/issue_7_cover_small.png"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=46124324",
-          "author": "nabla9",
-          "description": "Article URL: https://www.businessinsider.com/ibm-ceo-big-tech-ai-capex-data-center-spending-2025-12\nComments URL: https://news.ycombinator.com/item?id=46124324\nPoints: 506\n# Comments: 593",
-          "link": "https://www.businessinsider.com/ibm-ceo-big-tech-ai-capex-data-center-spending-2025-12",
-          "publishedOn": "2025-12-02T18:10:23.000Z",
-          "wordCount": 5239,
-          "title": "IBM CEO says there is 'no way' spending on AI data centers will pay off",
-          "imageUrl": "https://i.insider.com/692dc1a9abd5e944effbcd59?width=1200&format=jpeg"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=46124267",
-          "author": "ryanvogel",
-          "description": "Article URL: https://bun.com/blog/bun-joins-anthropic\nComments URL: https://news.ycombinator.com/item?id=46124267\nPoints: 735\n# Comments: 340",
-          "link": "https://bun.com/blog/bun-joins-anthropic",
-          "publishedOn": "2025-12-02T18:05:44.000Z",
-          "wordCount": 1852,
-          "title": "Anthropic acquires Bun",
-          "imageUrl": null
         }
       ]
     },

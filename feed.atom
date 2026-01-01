@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-01-01T05:27:44.479Z</updated>
+    <updated>2026-01-01T06:33:28.606Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Warren Buffett steps down as Berkshire Hathaway CEO after six decades]]></title>
+        <id>https://news.ycombinator.com/item?id=46448705</id>
+        <link href="https://www.latimes.com/business/story/2025-12-31/warren-buffett-steps-down-as-berkshire-hathaway-ceo-after-six-decades"/>
+        <updated>2025-12-31T21:44:42.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.latimes.com/business/story/2025-12-31/warren-buffett-steps-down-as-berkshire-hathaway-ceo-after-six-decades
+Comments URL: https://news.ycombinator.com/item?id=46448705
+Points: 504
+# Comments: 347]]></summary>
+        <author>
+            <name>ValentineC</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Why h2 takes needs more CPU]]></title>
         <id>https://www.youtube.com/shorts/woBYYCuuKFY</id>
@@ -2529,32 +2542,6 @@ Points: 503
 # Comments: 53]]></summary>
         <author>
             <name>varjag</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[IBM CEO says there is 'no way' spending on AI data centers will pay off]]></title>
-        <id>https://news.ycombinator.com/item?id=46124324</id>
-        <link href="https://www.businessinsider.com/ibm-ceo-big-tech-ai-capex-data-center-spending-2025-12"/>
-        <updated>2025-12-02T18:10:23.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.businessinsider.com/ibm-ceo-big-tech-ai-capex-data-center-spending-2025-12
-Comments URL: https://news.ycombinator.com/item?id=46124324
-Points: 506
-# Comments: 593]]></summary>
-        <author>
-            <name>nabla9</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Anthropic acquires Bun]]></title>
-        <id>https://news.ycombinator.com/item?id=46124267</id>
-        <link href="https://bun.com/blog/bun-joins-anthropic"/>
-        <updated>2025-12-02T18:05:44.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://bun.com/blog/bun-joins-anthropic
-Comments URL: https://news.ycombinator.com/item?id=46124267
-Points: 735
-# Comments: 340]]></summary>
-        <author>
-            <name>ryanvogel</name>
         </author>
     </entry>
 </feed>
