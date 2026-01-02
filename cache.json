@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=46457770",
+          "author": "Vinnl",
+          "description": "Article URL: https://www.pcgamer.com/software/linux/im-brave-enough-to-say-it-linux-is-good-now-and-if-you-want-to-feel-like-you-actually-own-your-pc-make-2026-the-year-of-linux-on-your-desktop/\nComments URL: https://news.ycombinator.com/item?id=46457770\nPoints: 533\n# Comments: 457",
+          "link": "https://www.pcgamer.com/software/linux/im-brave-enough-to-say-it-linux-is-good-now-and-if-you-want-to-feel-like-you-actually-own-your-pc-make-2026-the-year-of-linux-on-your-desktop/",
+          "publishedOn": "2026-01-01T20:35:11.000Z",
+          "wordCount": 32925,
+          "title": "Linux is good now",
+          "imageUrl": "https://cdn.mos.cms.futurecdn.net/N7349wfXfd84gf2gpZ6VeH-2560-80.jpg"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=46449643",
           "author": "simonw",
           "description": "Article URL: https://simonwillison.net/2025/Dec/31/the-year-in-llms/\nComments URL: https://news.ycombinator.com/item?id=46449643\nPoints: 541\n# Comments: 306",
@@ -1534,16 +1544,6 @@
           "wordCount": 817,
           "title": "MinIO is now in maintenance-mode",
           "imageUrl": "https://opengraph.githubassets.com/453d6162c39f2847835c5e30fd8d81b85e7345dce03a2cbc967887b57521f2e8/minio/minio/commit/27742d469462e1561c776f88ca7a1f26816d69e2"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=46134443",
-          "author": "mhb",
-          "description": "Article URL: https://www.nber.org/papers/w34524\nComments URL: https://news.ycombinator.com/item?id=46134443\nPoints: 544\n# Comments: 336",
-          "link": "https://www.nber.org/papers/w34524",
-          "publishedOn": "2025-12-03T13:50:10.000Z",
-          "wordCount": 1001,
-          "title": "Congressional lawmakers 47% pts better at picking stocks",
-          "imageUrl": "https://www.nber.org/sites/default/files/2022-06/NBER-FB-Share-Tile-1200.jpg"
         }
       ]
     },

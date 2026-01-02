@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-01-02T01:45:21.135Z</updated>
+    <updated>2026-01-02T03:40:15.459Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Linux is good now]]></title>
+        <id>https://news.ycombinator.com/item?id=46457770</id>
+        <link href="https://www.pcgamer.com/software/linux/im-brave-enough-to-say-it-linux-is-good-now-and-if-you-want-to-feel-like-you-actually-own-your-pc-make-2026-the-year-of-linux-on-your-desktop/"/>
+        <updated>2026-01-01T20:35:11.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.pcgamer.com/software/linux/im-brave-enough-to-say-it-linux-is-good-now-and-if-you-want-to-feel-like-you-actually-own-your-pc-make-2026-the-year-of-linux-on-your-desktop/
+Comments URL: https://news.ycombinator.com/item?id=46457770
+Points: 533
+# Comments: 457]]></summary>
+        <author>
+            <name>Vinnl</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2025: The Year in LLMs]]></title>
         <id>https://news.ycombinator.com/item?id=46449643</id>
@@ -2507,19 +2520,6 @@ Points: 500
 # Comments: 315]]></summary>
         <author>
             <name>hajtom</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Congressional lawmakers 47% pts better at picking stocks]]></title>
-        <id>https://news.ycombinator.com/item?id=46134443</id>
-        <link href="https://www.nber.org/papers/w34524"/>
-        <updated>2025-12-03T13:50:10.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.nber.org/papers/w34524
-Comments URL: https://news.ycombinator.com/item?id=46134443
-Points: 544
-# Comments: 336]]></summary>
-        <author>
-            <name>mhb</name>
         </author>
     </entry>
 </feed>
