@@ -6,6 +6,26 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=46464235",
+          "author": "PretzelFisch",
+          "description": "Article URL: https://github.com/j-brooke/FracturedJson/wiki\nComments URL: https://news.ycombinator.com/item?id=46464235\nPoints: 503\n# Comments: 136",
+          "link": "https://github.com/j-brooke/FracturedJson/wiki",
+          "publishedOn": "2026-01-02T12:46:31.000Z",
+          "wordCount": 1773,
+          "title": "FracturedJson",
+          "imageUrl": "https://repository-images.githubusercontent.com/304152687/a82ee280-1ba9-11eb-9932-339cbd5a28fa"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=46463315",
+          "author": "stared",
+          "description": "Article URL: https://www.eurosurveillance.org/content/10.2807/1560-7917.ES.2025.30.27.2400820\nComments URL: https://news.ycombinator.com/item?id=46463315\nPoints: 500\n# Comments: 260",
+          "link": "https://www.eurosurveillance.org/content/10.2807/1560-7917.ES.2025.30.27.2400820",
+          "publishedOn": "2026-01-02T10:10:46.000Z",
+          "wordCount": null,
+          "title": "HPV vaccination reduces oncogenic HPV16/18 prevalence from 16% to <1% in Denmark",
+          "imageUrl": null
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=46461563",
           "author": "apayan",
           "description": "Article URL: https://old.reddit.com/r/confession/comments/1q1mzej/im_a_developer_for_a_major_food_delivery_app_the/\nComments URL: https://news.ycombinator.com/item?id=46461563\nPoints: 504\n# Comments: 244",
@@ -1473,16 +1493,6 @@
           "publishedOn": "2025-12-04T13:40:00.000Z",
           "wordCount": 442,
           "title": "Transparent leadership beats servant leadership",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=46146451",
-          "author": "todsacerdoti",
-          "description": "Article URL: https://lalitm.com/software-engineering-outside-the-spotlight/\nComments URL: https://news.ycombinator.com/item?id=46146451\nPoints: 504\n# Comments: 226",
-          "link": "https://lalitm.com/software-engineering-outside-the-spotlight/",
-          "publishedOn": "2025-12-04T11:36:36.000Z",
-          "wordCount": 2218,
-          "title": "I ignore the spotlight as a staff engineer",
           "imageUrl": null
         }
       ]

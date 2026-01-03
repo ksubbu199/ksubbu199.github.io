@@ -2,10 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-01-02T23:19:40.421Z</updated>
+    <updated>2026-01-03T01:39:45.110Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[FracturedJson]]></title>
+        <id>https://news.ycombinator.com/item?id=46464235</id>
+        <link href="https://github.com/j-brooke/FracturedJson/wiki"/>
+        <updated>2026-01-02T12:46:31.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://github.com/j-brooke/FracturedJson/wiki
+Comments URL: https://news.ycombinator.com/item?id=46464235
+Points: 503
+# Comments: 136]]></summary>
+        <author>
+            <name>PretzelFisch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HPV vaccination reduces oncogenic HPV16/18 prevalence from 16% to <1% in Denmark]]></title>
+        <id>https://news.ycombinator.com/item?id=46463315</id>
+        <link href="https://www.eurosurveillance.org/content/10.2807/1560-7917.ES.2025.30.27.2400820"/>
+        <updated>2026-01-02T10:10:46.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.eurosurveillance.org/content/10.2807/1560-7917.ES.2025.30.27.2400820
+Comments URL: https://news.ycombinator.com/item?id=46463315
+Points: 500
+# Comments: 260]]></summary>
+        <author>
+            <name>stared</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[I'm a developer for a major food delivery app]]></title>
         <id>https://news.ycombinator.com/item?id=46461563</id>
@@ -2419,19 +2445,6 @@ Points: 500
 # Comments: 232]]></summary>
         <author>
             <name>ibobev</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I ignore the spotlight as a staff engineer]]></title>
-        <id>https://news.ycombinator.com/item?id=46146451</id>
-        <link href="https://lalitm.com/software-engineering-outside-the-spotlight/"/>
-        <updated>2025-12-04T11:36:36.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://lalitm.com/software-engineering-outside-the-spotlight/
-Comments URL: https://news.ycombinator.com/item?id=46146451
-Points: 504
-# Comments: 226]]></summary>
-        <author>
-            <name>todsacerdoti</name>
         </author>
     </entry>
 </feed>
