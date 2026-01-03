@@ -1561,16 +1561,6 @@
           "wordCount": 383,
           "title": "Fragments Dec 11",
           "imageUrl": "https://martinfowler.com/logo-sq.png"
-        },
-        {
-          "id": "https://martinfowler.com/articles/20251204-frags.html",
-          "author": null,
-          "description": "Rob Bowley summarizes a study from Carnegie Mellon looking on the impact of AI on a bunch of open-source software projects. Like any such study, we shouldn’t take its results as definitive, but there seems enough there to make it a handy data point. The key point is that the AI code probably reduced the quality of the code base - at least if static code analysis can be trusted to determine quality. And perhaps some worrying second-order effects\nThis study shows more than 800 popular GitHub projects with code quality degrading after adopting AI tools. It’s hard not to see a form of context collapse playing out in real time. If the public code that future models learn from is becoming more complex and less maintainable, there’s a real risk that newer models will reinforce and amplify those t…",
-          "link": "https://martinfowler.com/articles/20251204-frags.html",
-          "publishedOn": "2025-12-04T15:59:00.000Z",
-          "wordCount": 756,
-          "title": "Fragments Dec 4",
-          "imageUrl": "https://martinfowler.com/logo-sq.png"
         }
       ]
     },
