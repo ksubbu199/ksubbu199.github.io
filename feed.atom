@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-01-03T05:21:47.545Z</updated>
+    <updated>2026-01-03T06:32:06.305Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Publish on your own site, syndicate elsewhere]]></title>
+        <id>https://news.ycombinator.com/item?id=46468600</id>
+        <link href="https://indieweb.org/POSSE#"/>
+        <updated>2026-01-02T19:48:25.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://indieweb.org/POSSE#
+Comments URL: https://news.ycombinator.com/item?id=46468600
+Points: 516
+# Comments: 116]]></summary>
+        <author>
+            <name>47thpresident</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[FracturedJson]]></title>
         <id>https://news.ycombinator.com/item?id=46464235</id>
@@ -2399,28 +2412,6 @@ Points: 502
 # Comments: 257]]></summary>
         <author>
             <name>CharlesW</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why are 38 percent of Stanford students saying they're disabled?]]></title>
-        <id>https://news.ycombinator.com/item?id=46150715</id>
-        <link href="https://reason.com/2025/12/04/why-are-38-percent-of-stanford-students-saying-theyre-disabled/"/>
-        <updated>2025-12-04T18:04:07.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://reason.com/2025/12/04/why-are-38-percent-of-stanford-students-saying-theyre-disabled/
-Comments URL: https://news.ycombinator.com/item?id=46150715
-Points: 500
-# Comments: 745]]></summary>
-        <author>
-            <name>delichon</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TLS can be slow, this changes the game]]></title>
-        <id>https://www.youtube.com/watch?v=-A7b_BXvRLg</id>
-        <link href="https://www.youtube.com/watch?v=-A7b_BXvRLg"/>
-        <updated>2025-12-04T18:00:00.000Z</updated>
-        <author>
-            <name>Hussein Nasser</name>
         </author>
     </entry>
 </feed>

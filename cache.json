@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=46468600",
+          "author": "47thpresident",
+          "description": "Article URL: https://indieweb.org/POSSE#\nComments URL: https://news.ycombinator.com/item?id=46468600\nPoints: 516\n# Comments: 116",
+          "link": "https://indieweb.org/POSSE#",
+          "publishedOn": "2026-01-02T19:48:25.000Z",
+          "wordCount": 5614,
+          "title": "Publish on your own site, syndicate elsewhere",
+          "imageUrl": null
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=46464235",
           "author": "PretzelFisch",
           "description": "Article URL: https://github.com/j-brooke/FracturedJson/wiki\nComments URL: https://news.ycombinator.com/item?id=46464235\nPoints: 503\n# Comments: 136",
@@ -1474,16 +1484,6 @@
           "wordCount": null,
           "title": "Netflix’s AV1 Journey: From Android to TVs and Beyond",
           "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=46150715",
-          "author": "delichon",
-          "description": "Article URL: https://reason.com/2025/12/04/why-are-38-percent-of-stanford-students-saying-theyre-disabled/\nComments URL: https://news.ycombinator.com/item?id=46150715\nPoints: 500\n# Comments: 745",
-          "link": "https://reason.com/2025/12/04/why-are-38-percent-of-stanford-students-saying-theyre-disabled/",
-          "publishedOn": "2025-12-04T18:04:07.000Z",
-          "wordCount": 4447,
-          "title": "Why are 38 percent of Stanford students saying they're disabled?",
-          "imageUrl": "https://d2eehagpk5cl65.cloudfront.net/img/q60/uploads/2025/12/12-4-25-v1-a-3.jpg"
         }
       ]
     },
@@ -1927,16 +1927,6 @@
           "publishedOn": "2025-12-06T08:01:21.000Z",
           "wordCount": 2154,
           "title": "Multi Level Paging is really a radix tree",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=-A7b_BXvRLg",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=-A7b_BXvRLg",
-          "publishedOn": "2025-12-04T18:00:00.000Z",
-          "wordCount": null,
-          "title": "TLS can be slow, this changes the game",
           "imageUrl": null
         }
       ]
