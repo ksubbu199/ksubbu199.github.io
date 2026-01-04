@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=46488819",
+          "author": "cdrnsf",
+          "description": "Article URL: https://addyosmani.com/blog/21-lessons/\nComments URL: https://news.ycombinator.com/item?id=46488819\nPoints: 505\n# Comments: 238",
+          "link": "https://addyosmani.com/blog/21-lessons/",
+          "publishedOn": "2026-01-04T15:23:54.000Z",
+          "wordCount": 5727,
+          "title": "Lessons from 14 Years at Google",
+          "imageUrl": "https://addyosmani.com/assets/images/21-lessons.jpg"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=46485090",
           "author": "suioir",
           "description": "Article URL: https://karpathy.ai/zero-to-hero.html\nComments URL: https://news.ycombinator.com/item?id=46485090\nPoints: 502\n# Comments: 42",
@@ -1514,16 +1524,6 @@
           "wordCount": 174,
           "title": "GrapheneOS is the only Android OS providing full security patches",
           "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=46171425",
-          "author": "hliyan",
-          "description": "Article URL: https://old.reddit.com/r/LegalAdviceUK/comments/1pc7999/my_schizophrenic_sister_hospitalised_herself/\nComments URL: https://news.ycombinator.com/item?id=46171425\nPoints: 501\n# Comments: 453",
-          "link": "https://old.reddit.com/r/LegalAdviceUK/comments/1pc7999/my_schizophrenic_sister_hospitalised_herself/",
-          "publishedOn": "2025-12-06T07:31:07.000Z",
-          "wordCount": null,
-          "title": "Schizophrenia sufferer mistakes smart fridge ad for psychotic episode",
-          "imageUrl": null
         }
       ]
     },
@@ -1957,16 +1957,6 @@
           "publishedOn": "2025-12-08T18:00:53.000Z",
           "wordCount": null,
           "title": "How Huge Pages Work in Linux",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/shorts/tKEnSj2JqV8",
-          "author": null,
-          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-          "link": "https://www.youtube.com/shorts/tKEnSj2JqV8",
-          "publishedOn": "2025-12-06T08:01:21.000Z",
-          "wordCount": 2154,
-          "title": "Multi Level Paging is really a radix tree",
           "imageUrl": null
         }
       ]
