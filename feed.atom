@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-01-05T13:40:53.925Z</updated>
+    <updated>2026-01-05T14:24:55.302Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -13,6 +13,19 @@
         <updated>2026-01-05T13:30:51.000Z</updated>
         <author>
             <name>Think School</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[It's hard to justify Tahoe icons]]></title>
+        <id>https://news.ycombinator.com/item?id=46497712</id>
+        <link href="https://tonsky.me/blog/tahoe-icons/"/>
+        <updated>2026-01-05T11:51:42.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://tonsky.me/blog/tahoe-icons/
+Comments URL: https://news.ycombinator.com/item?id=46497712
+Points: 626
+# Comments: 288]]></summary>
+        <author>
+            <name>lylejantzi3rd</name>
         </author>
     </entry>
     <entry>
