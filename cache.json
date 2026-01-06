@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=46504963",
+          "author": "illithid0",
+          "description": "Article URL: https://loworbitsecurity.com/radar/radar16/\nComments URL: https://news.ycombinator.com/item?id=46504963\nPoints: 527\n# Comments: 289",
+          "link": "https://loworbitsecurity.com/radar/radar16/",
+          "publishedOn": "2026-01-05T21:05:50.000Z",
+          "wordCount": 2354,
+          "title": "There were BGP anomalies during the Venezuela blackout",
+          "imageUrl": "https://loworbitsecurity.com/content/images/2025/01/banner_bgDark_white.png"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=46497712",
           "author": "lylejantzi3rd",
           "description": "Article URL: https://tonsky.me/blog/tahoe-icons/\nComments URL: https://news.ycombinator.com/item?id=46497712\nPoints: 626\n# Comments: 288",
@@ -1484,16 +1494,6 @@
           "wordCount": 3574,
           "title": "I failed to recreate the 1996 Space Jam website with Claude",
           "imageUrl": "https://j0nah.com/banner.jpg"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=46181962",
-          "author": "bookofjoe",
-          "description": "Article URL: https://www.theguardian.com/us-news/2025/dec/03/customers-pay-more-rising-dollar-store-costs\nComments URL: https://news.ycombinator.com/item?id=46181962\nPoints: 500\n# Comments: 710",
-          "link": "https://www.theguardian.com/us-news/2025/dec/03/customers-pay-more-rising-dollar-store-costs",
-          "publishedOn": "2025-12-07T14:37:21.000Z",
-          "wordCount": 8801,
-          "title": "Dollar-stores overcharge customers while promising low prices",
-          "imageUrl": "https://i.guim.co.uk/img/media/f385546cc9a81008a48f3fbcbf7041649631b52a/0_0_1500_1200/master/1500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=24249ac9346bad2ce8819df91a6812b0"
         }
       ]
     },
