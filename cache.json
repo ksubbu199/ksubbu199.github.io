@@ -156,6 +156,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://news.ycombinator.com/item?id=46466027",
+          "author": "yuppiepuppie",
+          "description": "Article URL: https://andrew.grahamyooll.com/blog/Try-to-Take-My-Position/\nComments URL: https://news.ycombinator.com/item?id=46466027\nPoints: 507\n# Comments: 257",
+          "link": "https://andrew.grahamyooll.com/blog/Try-to-Take-My-Position/",
+          "publishedOn": "2026-01-02T15:56:14.000Z",
+          "wordCount": 658,
+          "title": "Try to take my position: The best promotion advice I ever got",
+          "imageUrl": null
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=46465327",
           "author": "Brajeshwar",
           "description": "Article URL: https://www.theregister.com/2025/12/31/ipv6_at_30/\nComments URL: https://news.ycombinator.com/item?id=46465327\nPoints: 503\n# Comments: 1033",
@@ -1501,18 +1511,7 @@
       "title": "/dev/lawyer",
       "feedUrl": "https://writing.kemitchell.com/feed.xml",
       "siteUrl": "https://writing.kemitchell.com",
-      "articles": [
-        {
-          "id": "https://writing.kemitchell.com/2025/12/07/LLMs-Make-Legal-Advice-Lossy",
-          "author": null,
-          "description": "cheap chatbot summaries take important choices away",
-          "link": "https://writing.kemitchell.com/2025/12/07/LLMs-Make-Legal-Advice-Lossy",
-          "publishedOn": "2025-12-08T04:15:33.000Z",
-          "wordCount": 1812,
-          "title": "LLMs Make Legal Advice Lossy",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Boot.dev Blog",

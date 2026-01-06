@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-01-06T15:23:17.662Z</updated>
+    <updated>2026-01-06T16:29:36.586Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -227,6 +227,19 @@ Points: 516
 # Comments: 116]]></summary>
         <author>
             <name>47thpresident</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Try to take my position: The best promotion advice I ever got]]></title>
+        <id>https://news.ycombinator.com/item?id=46466027</id>
+        <link href="https://andrew.grahamyooll.com/blog/Try-to-Take-My-Position/"/>
+        <updated>2026-01-02T15:56:14.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://andrew.grahamyooll.com/blog/Try-to-Take-My-Position/
+Comments URL: https://news.ycombinator.com/item?id=46466027
+Points: 507
+# Comments: 257]]></summary>
+        <author>
+            <name>yuppiepuppie</name>
         </author>
     </entry>
     <entry>
@@ -2413,16 +2426,6 @@ Points: 536
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>Think School</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LLMs Make Legal Advice Lossy]]></title>
-        <id>https://writing.kemitchell.com/2025/12/07/LLMs-Make-Legal-Advice-Lossy</id>
-        <link href="https://writing.kemitchell.com/2025/12/07/LLMs-Make-Legal-Advice-Lossy"/>
-        <updated>2025-12-08T04:15:33.000Z</updated>
-        <summary type="html"><![CDATA[cheap chatbot summaries take important choices away]]></summary>
-        <author>
-            <name>/dev/lawyer</name>
         </author>
     </entry>
 </feed>
