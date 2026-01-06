@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-01-05T23:20:39.891Z</updated>
+    <updated>2026-01-06T01:45:03.877Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -61,6 +61,19 @@ Points: 500
 # Comments: 145]]></summary>
         <author>
             <name>viveknathani_</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Claude Code On-the-Go]]></title>
+        <id>https://news.ycombinator.com/item?id=46491486</id>
+        <link href="https://granda.org/en/2026/01/02/claude-code-on-the-go/"/>
+        <updated>2026-01-04T19:48:20.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://granda.org/en/2026/01/02/claude-code-on-the-go/
+Comments URL: https://news.ycombinator.com/item?id=46491486
+Points: 506
+# Comments: 304]]></summary>
+        <author>
+            <name>todsacerdoti</name>
         </author>
     </entry>
     <entry>
@@ -2410,58 +2423,6 @@ Points: 500
 # Comments: 710]]></summary>
         <author>
             <name>bookofjoe</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The state of Schleswig-Holstein is consistently relying on open source]]></title>
-        <id>https://news.ycombinator.com/item?id=46181491</id>
-        <link href="https://www.heise.de/en/news/Goodbye-Microsoft-Schleswig-Holstein-relies-on-Open-Source-and-saves-millions-11105459.html"/>
-        <updated>2025-12-07T13:21:24.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.heise.de/en/news/Goodbye-Microsoft-Schleswig-Holstein-relies-on-Open-Source-and-saves-millions-11105459.html
-Comments URL: https://news.ycombinator.com/item?id=46181491
-Points: 513
-# Comments: 237]]></summary>
-        <author>
-            <name>doener</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Over fifty new hallucinations in ICLR 2026 submissions]]></title>
-        <id>https://news.ycombinator.com/item?id=46181466</id>
-        <link href="https://gptzero.me/news/iclr-2026/"/>
-        <updated>2025-12-07T13:16:26.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://gptzero.me/news/iclr-2026/
-Comments URL: https://news.ycombinator.com/item?id=46181466
-Points: 500
-# Comments: 409]]></summary>
-        <author>
-            <name>puttycat</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I wasted years of my life in crypto]]></title>
-        <id>https://news.ycombinator.com/item?id=46181371</id>
-        <link href="https://twitter.com/kenchangh/status/1994854381267947640"/>
-        <updated>2025-12-07T12:57:59.000Z</updated>
-        <summary type="html"><![CDATA[https://archive.is/jEJAj
-Comments URL: https://news.ycombinator.com/item?id=46181371
-Points: 562
-# Comments: 780]]></summary>
-        <author>
-            <name>Anon84</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google Titans architecture, helping AI have long-term memory]]></title>
-        <id>https://news.ycombinator.com/item?id=46181231</id>
-        <link href="https://research.google/blog/titans-miras-helping-ai-have-long-term-memory/"/>
-        <updated>2025-12-07T12:23:45.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://research.google/blog/titans-miras-helping-ai-have-long-term-memory/
-Comments URL: https://news.ycombinator.com/item?id=46181231
-Points: 501
-# Comments: 163]]></summary>
-        <author>
-            <name>Alifatisk</name>
         </author>
     </entry>
 </feed>
