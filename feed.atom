@@ -2,10 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-01-07T14:24:01.750Z</updated>
+    <updated>2026-01-07T15:25:51.142Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Stop Doom Scrolling, Start Doom Coding: Build via the terminal from your phone]]></title>
+        <id>https://news.ycombinator.com/item?id=46517458</id>
+        <link href="https://github.com/rberg27/doom-coding"/>
+        <updated>2026-01-06T19:38:32.000Z</updated>
+        <summary type="html"><![CDATA[I used Tailscale, an old laptop, Claude Code, and Termius to code from my phone anywhere I have Internet connection.
+Great for parties where you rather be home tinkering.
+Comments URL: https://news.ycombinator.com/item?id=46517458
+Points: 507
+# Comments: 353]]></summary>
+        <author>
+            <name>rbergamini27</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Opus 4.5 is not the normal AI agent experience that I have had thus far]]></title>
         <id>https://news.ycombinator.com/item?id=46515696</id>
