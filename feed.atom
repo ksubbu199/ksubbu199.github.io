@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-01-08T03:38:46.188Z</updated>
+    <updated>2026-01-08T04:39:29.434Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -63,6 +63,19 @@ Points: 596
 # Comments: 365]]></summary>
         <author>
             <name>kevlened</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Shipmap.org]]></title>
+        <id>https://news.ycombinator.com/item?id=46527161</id>
+        <link href="https://www.shipmap.org/"/>
+        <updated>2026-01-07T15:03:41.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.shipmap.org/
+Comments URL: https://news.ycombinator.com/item?id=46527161
+Points: 509
+# Comments: 86]]></summary>
+        <author>
+            <name>surprisetalk</name>
         </author>
     </entry>
     <entry>
@@ -2450,74 +2463,6 @@ Points: 501
 # Comments: 87]]></summary>
         <author>
             <name>fsflover</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Handsdown one of the coolest 3D websites]]></title>
-        <id>https://news.ycombinator.com/item?id=46206531</id>
-        <link href="https://bruno-simon.com/"/>
-        <updated>2025-12-09T16:06:58.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://bruno-simon.com/
-Comments URL: https://news.ycombinator.com/item?id=46206531
-Points: 514
-# Comments: 123]]></summary>
-        <author>
-            <name>razzmataks</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ask HN: Should "I asked $AI, and it said" replies be forbidden in HN guidelines?]]></title>
-        <id>https://news.ycombinator.com/item?id=46206457</id>
-        <link href="https://news.ycombinator.com/item?id=46206457"/>
-        <updated>2025-12-09T16:02:37.000Z</updated>
-        <summary type="html"><![CDATA[As various LLMs become more and more popular, so does comments with "I asked Gemini, and Gemini said ....".
-While the guidelines were written (and iterated on) during a different time, it seems like it might be time to have a discussion about if those sort of comments should be welcomed on HN or not.
-Some examples:
-- https://news.ycombinator.com/item?id=46164360
-- https://news.ycombinator.com/item?id=46200460
-- https://news.ycombinator.com/item?id=46080064
-Personally, I'm on HN for the human conversation, and large LLM-generated texts just get in the way of reading real text from real humans (assumed, at least).
-What do you think? Should responses that basically boil down to "I asked $LLM about $X, and here is what $LLM said:" be allowed on HN, and the guidelines updated to state that people shouldn't critique it (similar to other guidelines currently), or should a new guideline be added to ask people from refrain from copy-pasting large LLM responses into the comments, or something else completely?
-Comments URL: https://news.ycombinator.com/item?id=46206457
-Points: 561
-# Comments: 324]]></summary>
-        <author>
-            <name>embedding-shape</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Real Cost of Quality Products]]></title>
-        <id>https://www.youtube.com/shorts/fknc7B52spQ</id>
-        <link href="https://www.youtube.com/shorts/fknc7B52spQ"/>
-        <updated>2025-12-09T16:01:09.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Think School</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[In the economy of user effort, be a bargain, not a scam]]></title>
-        <id>https://lea.verou.me/blog/2025/user-effort/</id>
-        <link href="https://lea.verou.me/blog/2025/user-effort/"/>
-        <updated>2025-12-09T15:44:21.000Z</updated>
-        <summary type="html"><![CDATA[Alan Kay [source]
-
-
-
-One of my favorite product design principles is Alan Kay’s “Simple things should be simple, complex things should be possible”.
-[1]
-I had been saying it almost verbatim long before I encountered Kay’s quote.
-Kay’s maxim is deceptively simple, but its implications run deep.
-It isn’t just a design ideal — it’s a call to continually balance friction, scope, and tradeoffs in service of the people using our products.
-This philosophy played a big part in Prism’s success back in 2012,
-helping it become the web’s de facto syntax highlighter for years, with over 2 billion npm downloads.
-Simple things were easy: All it took to highlight code on a webpage was including two files, a JS file and a CSS file.
-No markup changes.
-No JS glue code.
-Styling used readable CSS class names.
-…]]></summary>
-        <author>
-            <name>Lea Verou’s blog</name>
         </author>
     </entry>
 </feed>

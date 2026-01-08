@@ -36,6 +36,16 @@
           "imageUrl": "https://opengraph.githubassets.com/6c25652088b01dddc2d6d5785aea62a9c2299e625683fc51ba6c5f21cd3047a8/tailwindlabs/tailwindcss.com/pull/2388"
         },
         {
+          "id": "https://news.ycombinator.com/item?id=46527161",
+          "author": "surprisetalk",
+          "description": "Article URL: https://www.shipmap.org/\nComments URL: https://news.ycombinator.com/item?id=46527161\nPoints: 509\n# Comments: 86",
+          "link": "https://www.shipmap.org/",
+          "publishedOn": "2026-01-07T15:03:41.000Z",
+          "wordCount": 7200,
+          "title": "Shipmap.org",
+          "imageUrl": "https://www.shipmap.org/shipmap_image.jpg"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=46526740",
           "author": "aldarion",
           "description": "Article URL: https://www.ucsf.edu/news/2016/09/404081/sugar-papers-reveal-industry-role-shifting-national-heart-disease-focus\nComments URL: https://news.ycombinator.com/item?id=46526740\nPoints: 539\n# Comments: 343",
@@ -1544,26 +1554,6 @@
           "wordCount": 2183,
           "title": "PeerTube is recognized as a digital public good by Digital Public Goods Alliance",
           "imageUrl": "https://app.digitalpublicgoods.net/storage/images/peertube.png"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=46206531",
-          "author": "razzmataks",
-          "description": "Article URL: https://bruno-simon.com/\nComments URL: https://news.ycombinator.com/item?id=46206531\nPoints: 514\n# Comments: 123",
-          "link": "https://bruno-simon.com/",
-          "publishedOn": "2025-12-09T16:06:58.000Z",
-          "wordCount": 568,
-          "title": "Handsdown one of the coolest 3D websites",
-          "imageUrl": "https://bruno-simon.com/social/share-image.png?cb=a"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=46206457",
-          "author": "embedding-shape",
-          "description": "As various LLMs become more and more popular, so does comments with \"I asked Gemini, and Gemini said ....\".\nWhile the guidelines were written (and iterated on) during a different time, it seems like it might be time to have a discussion about if those sort of comments should be welcomed on HN or not.\nSome examples:\n- https://news.ycombinator.com/item?id=46164360\n- https://news.ycombinator.com/item?id=46200460\n- https://news.ycombinator.com/item?id=46080064\nPersonally, I'm on HN for the human conversation, and large LLM-generated texts just get in the way of reading real text from real humans (assumed, at least).\nWhat do you think? Should responses that basically boil down to \"I asked $LLM about $X, and here is what $LLM said:\" be allowed on HN, and the guidelines updated to state that people shouldn't critique it (similar to other guidelines currently), or should a new guideline be added to ask people from refrain from copy-pasting large LLM responses into the comments, or something else completely?\nComments URL: https://news.ycombinator.com/item?id=46206457\nPoints: 561\n# Comments: 324",
-          "link": "https://news.ycombinator.com/item?id=46206457",
-          "publishedOn": "2025-12-09T16:02:37.000Z",
-          "wordCount": 19408,
-          "title": "Ask HN: Should \"I asked $AI, and it said\" replies be forbidden in HN guidelines?",
-          "imageUrl": null
         }
       ]
     },
@@ -1809,16 +1799,6 @@
           "wordCount": 2117,
           "title": "Why My First Restaurant Failed",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/shorts/fknc7B52spQ",
-          "author": null,
-          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-          "link": "https://www.youtube.com/shorts/fknc7B52spQ",
-          "publishedOn": "2025-12-09T16:01:09.000Z",
-          "wordCount": 2235,
-          "title": "The Real Cost of Quality Products",
-          "imageUrl": null
         }
       ]
     },
@@ -2003,16 +1983,6 @@
           "wordCount": 4606,
           "title": "Web dependencies are broken. Can we fix them?",
           "imageUrl": "https://lea.verou.me/blog/2026/web-deps/images/intervention.png"
-        },
-        {
-          "id": "https://lea.verou.me/blog/2025/user-effort/",
-          "author": null,
-          "description": "Alan Kay [source]\n\n\n\nOne of my favorite product design principles is Alan Kay’s “Simple things should be simple, complex things should be possible”.\n[1]\nI had been saying it almost verbatim long before I encountered Kay’s quote.\nKay’s maxim is deceptively simple, but its implications run deep.\nIt isn’t just a design ideal — it’s a call to continually balance friction, scope, and tradeoffs in service of the people using our products.\nThis philosophy played a big part in Prism’s success back in 2012,\nhelping it become the web’s de facto syntax highlighter for years, with over 2 billion npm downloads.\nSimple things were easy: All it took to highlight code on a webpage was including two files, a JS file and a CSS file.\nNo markup changes.\nNo JS glue code.\nStyling used readable CSS class names.\n…",
-          "link": "https://lea.verou.me/blog/2025/user-effort/",
-          "publishedOn": "2025-12-09T15:44:21.000Z",
-          "wordCount": 5235,
-          "title": "In the economy of user effort, be a bargain, not a scam",
-          "imageUrl": "https://lea.verou.me/blog/2025/user-effort/images/curve-multiple.gif"
         }
       ]
     },
