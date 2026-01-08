@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-01-08T14:25:48.552Z</updated>
+    <updated>2026-01-08T15:26:46.926Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -2440,19 +2440,6 @@ Points: 502
 # Comments: 528]]></summary>
         <author>
             <name>cramsession</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rust in the kernel is no longer experimental]]></title>
-        <id>https://news.ycombinator.com/item?id=46213585</id>
-        <link href="https://lwn.net/Articles/1049831/"/>
-        <updated>2025-12-10T03:15:24.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://lwn.net/Articles/1049831/
-Comments URL: https://news.ycombinator.com/item?id=46213585
-Points: 508
-# Comments: 303]]></summary>
-        <author>
-            <name>rascul</name>
         </author>
     </entry>
 </feed>
