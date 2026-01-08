@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-01-08T06:35:00.949Z</updated>
+    <updated>2026-01-08T07:24:38.669Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -2422,19 +2422,6 @@ Points: 508
 # Comments: 303]]></summary>
         <author>
             <name>rascul</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[10 Years of Let's Encrypt]]></title>
-        <id>https://news.ycombinator.com/item?id=46208962</id>
-        <link href="https://letsencrypt.org/2025/12/09/10-years"/>
-        <updated>2025-12-09T18:54:55.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://letsencrypt.org/2025/12/09/10-years
-Comments URL: https://news.ycombinator.com/item?id=46208962
-Points: 500
-# Comments: 216]]></summary>
-        <author>
-            <name>SGran</name>
         </author>
     </entry>
 </feed>
