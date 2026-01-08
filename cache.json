@@ -1551,6 +1551,16 @@
       "siteUrl": "https://martinfowler.com/feed.atom",
       "articles": [
         {
+          "id": "https://martinfowler.com/articles/2025-music.html",
+          "author": null,
+          "description": "My favorite albums from last year. Balkan brass, an\n      acoustic favorite of 80s returns, Ethio-jazz, Guatemalan singer-guitarist,\n      jazz-rock/Indian classical fusion, and a unique male vocalist.\nmore…",
+          "link": "https://martinfowler.com/articles/2025-music.html",
+          "publishedOn": "2026-01-08T13:55:00.000Z",
+          "wordCount": 688,
+          "title": "My favorite musical discoveries of 2025",
+          "imageUrl": "https://martinfowler.com/articles/2025-music/card.png"
+        },
+        {
           "id": "https://martinfowler.com/fragments/2026-01-08.html",
           "author": null,
           "description": "Anthropic report on how their AI is changing their own software development practice.\nMost usage is for debugging and helping understand existing code\nNotable increase in using it for implementing new features\nDevelopers using it for 59% of their work and getting 50% productivity increase\n14% of developers are “power users” reporting much greater gains\nClaude helps developers to work outside their core area\nConcerns about changes to the profession, career evolution, and social dynamics\n ❄                ❄                ❄                ❄                ❄\nMuch of the discussion about using LLMs for software development lacks details on workflow. Rather than just hear people gush about how wonderful it is, I want to understand the gritty details. What kinds of interactions occur with the LL…",

@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-01-08T13:40:53.774Z</updated>
+    <updated>2026-01-08T14:25:48.552Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[My favorite musical discoveries of 2025]]></title>
+        <id>https://martinfowler.com/articles/2025-music.html</id>
+        <link href="https://martinfowler.com/articles/2025-music.html"/>
+        <updated>2026-01-08T13:55:00.000Z</updated>
+        <summary type="html"><![CDATA[My favorite albums from last year. Balkan brass, an
+      acoustic favorite of 80s returns, Ethio-jazz, Guatemalan singer-guitarist,
+      jazz-rock/Indian classical fusion, and a unique male vocalist.
+more…]]></summary>
+        <author>
+            <name>Martin Fowler</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Fragments: January  8]]></title>
         <id>https://martinfowler.com/fragments/2026-01-08.html</id>
