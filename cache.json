@@ -1551,6 +1551,16 @@
       "siteUrl": "https://martinfowler.com/feed.atom",
       "articles": [
         {
+          "id": "https://martinfowler.com/fragments/2026-01-08.html",
+          "author": null,
+          "description": "Anthropic report on how their AI is changing their own software development practice.\nMost usage is for debugging and helping understand existing code\nNotable increase in using it for implementing new features\nDevelopers using it for 59% of their work and getting 50% productivity increase\n14% of developers are “power users” reporting much greater gains\nClaude helps developers to work outside their core area\nConcerns about changes to the profession, career evolution, and social dynamics\n ❄                ❄                ❄                ❄                ❄\nMuch of the discussion about using LLMs for software development lacks details on workflow. Rather than just hear people gush about how wonderful it is, I want to understand the gritty details. What kinds of interactions occur with the LL…",
+          "link": "https://martinfowler.com/fragments/2026-01-08.html",
+          "publishedOn": "2026-01-08T13:29:00.000Z",
+          "wordCount": 1337,
+          "title": "Fragments: January  8",
+          "imageUrl": "https://martinfowler.com/logo-sq.png"
+        },
+        {
           "id": "https://martinfowler.com/fragments/2025-12-16.html",
           "author": null,
           "description": "Gitanjali Venkatraman does wonderful illustrations of complex subjects (which is why I was so happy to work with her on our Expert Generalists article). She has now published the latest in her series of illustrated guides: tackling the complex topic of Mainframe Modernization\n\nIn it she illustrates the history and value of mainframes, why modernization is so tricky, and how to tackle the problem by breaking it down into tractable pieces. I love the clarity of her explanations, and smile frequently at her way of enhancing her words with her quirky pictures.\n ❄                ❄                ❄                ❄                ❄\nGergely Orosz on social media\nUnpopular opinion:\nCurrent code review tools just don’t make much sense for AI-generated code\nWhen reviewing code I really want to know:…",

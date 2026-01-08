@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-01-08T12:46:35.302Z</updated>
+    <updated>2026-01-08T13:40:53.774Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Fragments: January  8]]></title>
+        <id>https://martinfowler.com/fragments/2026-01-08.html</id>
+        <link href="https://martinfowler.com/fragments/2026-01-08.html"/>
+        <updated>2026-01-08T13:29:00.000Z</updated>
+        <summary type="html"><![CDATA[Anthropic report on how their AI is changing their own software development practice.
+Most usage is for debugging and helping understand existing code
+Notable increase in using it for implementing new features
+Developers using it for 59% of their work and getting 50% productivity increase
+14% of developers are “power users” reporting much greater gains
+Claude helps developers to work outside their core area
+Concerns about changes to the profession, career evolution, and social dynamics
+ ❄                ❄                ❄                ❄                ❄
+Much of the discussion about using LLMs for software development lacks details on workflow. Rather than just hear people gush about how wonderful it is, I want to understand the gritty details. What kinds of interactions occur with the LL…]]></summary>
+        <author>
+            <name>Martin Fowler</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[US will ban Wall Street investors from buying single-family homes]]></title>
         <id>https://news.ycombinator.com/item?id=46531068</id>
