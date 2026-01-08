@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-01-08T05:25:02.721Z</updated>
+    <updated>2026-01-08T06:35:00.949Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -228,6 +228,19 @@ Points: 500
 # Comments: 269]]></summary>
         <author>
             <name>skaul</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Murder-suicide case shows OpenAI selectively hides data after users die]]></title>
+        <id>https://news.ycombinator.com/item?id=46499983</id>
+        <link href="https://arstechnica.com/tech-policy/2025/12/openai-refuses-to-say-where-chatgpt-logs-go-when-users-die/"/>
+        <updated>2026-01-05T15:34:40.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://arstechnica.com/tech-policy/2025/12/openai-refuses-to-say-where-chatgpt-logs-go-when-users-die/
+Comments URL: https://news.ycombinator.com/item?id=46499983
+Points: 500
+# Comments: 291]]></summary>
+        <author>
+            <name>randycupertino</name>
         </author>
     </entry>
     <entry>
@@ -2422,21 +2435,6 @@ Points: 500
 # Comments: 216]]></summary>
         <author>
             <name>SGran</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Australia begins enforcing world-first teen social media ban]]></title>
-        <id>https://news.ycombinator.com/item?id=46208348</id>
-        <link href="https://www.reuters.com/legal/litigation/australia-social-media-ban-takes-effect-world-first-2025-12-09/"/>
-        <updated>2025-12-09T18:12:29.000Z</updated>
-        <summary type="html"><![CDATA[https://archive.md/i0VxX
-https://www.bbc.com/news/live/cwy54q80gy9t
-https://www.nytimes.com/2025/12/09/world/asia/australia-soci... (https://archive.ph/Ba2JR)
-Comments URL: https://news.ycombinator.com/item?id=46208348
-Points: 551
-# Comments: 858]]></summary>
-        <author>
-            <name>chirau</name>
         </author>
     </entry>
 </feed>
