@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-01-09T01:45:39.390Z</updated>
+    <updated>2026-01-09T03:40:19.548Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Google AI Studio is now sponsoring Tailwind CSS]]></title>
+        <id>https://news.ycombinator.com/item?id=46545077</id>
+        <link href="https://twitter.com/OfficialLoganK/status/2009339263251566902"/>
+        <updated>2026-01-08T19:09:23.000Z</updated>
+        <summary type="html"><![CDATA[Related: Creators of Tailwind laid off 75% of their engineering team - https://news.ycombinator.com/item?id=46527950 - Jan 2026 (810 comments)
+Comments URL: https://news.ycombinator.com/item?id=46545077
+Points: 513
+# Comments: 182]]></summary>
+        <author>
+            <name>qwertyforce</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Bose has released API docs and opened the API for its EoL SoundTouch speakers]]></title>
         <id>https://news.ycombinator.com/item?id=46541892</id>
@@ -2475,19 +2488,6 @@ Points: 539
 # Comments: 87]]></summary>
         <author>
             <name>eatonphil</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Israel used Palantir technologies in pager attack in Lebanon]]></title>
-        <id>https://news.ycombinator.com/item?id=46218640</id>
-        <link href="https://the307.substack.com/p/revealed-israel-used-palantir-technologies"/>
-        <updated>2025-12-10T15:18:47.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://the307.substack.com/p/revealed-israel-used-palantir-technologies
-Comments URL: https://news.ycombinator.com/item?id=46218640
-Points: 502
-# Comments: 528]]></summary>
-        <author>
-            <name>cramsession</name>
         </author>
     </entry>
 </feed>
