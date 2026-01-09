@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-01-09T14:25:23.160Z</updated>
+    <updated>2026-01-09T15:24:42.153Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -87,6 +87,19 @@ Concerns about changes to the profession, career evolution, and social dynamics
 Much of the discussion about using LLMs for software development lacks details on workflow. Rather than just hear people gush about how wonderful it is, I want to understand the gritty details. What kinds of interactions occur with the LL…]]></summary>
         <author>
             <name>Martin Fowler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Jeff Dean Facts]]></title>
+        <id>https://news.ycombinator.com/item?id=46540498</id>
+        <link href="https://github.com/LRitzdorf/TheJeffDeanFacts"/>
+        <updated>2026-01-08T13:02:05.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://github.com/LRitzdorf/TheJeffDeanFacts
+Comments URL: https://news.ycombinator.com/item?id=46540498
+Points: 503
+# Comments: 174]]></summary>
+        <author>
+            <name>ravenical</name>
         </author>
     </entry>
     <entry>
