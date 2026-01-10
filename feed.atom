@@ -2,10 +2,33 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-01-10T17:17:32.902Z</updated>
+    <updated>2026-01-10T18:29:20.999Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Why first memory access is always slow]]></title>
+        <id>https://www.youtube.com/shorts/I0aTvEs98wA</id>
+        <link href="https://www.youtube.com/shorts/I0aTvEs98wA"/>
+        <updated>2026-01-10T18:00:18.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Hussein Nasser</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Allow me to introduce, the Citroen C15]]></title>
+        <id>https://news.ycombinator.com/item?id=46564696</id>
+        <link href="https://eupolicy.social/@jmaris/115860595238097654"/>
+        <updated>2026-01-10T11:12:15.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://eupolicy.social/@jmaris/115860595238097654
+Comments URL: https://news.ycombinator.com/item?id=46564696
+Points: 521
+# Comments: 319]]></summary>
+        <author>
+            <name>colinprince</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“Erdos problem #728 was solved more or less autonomously by AI”]]></title>
         <id>https://news.ycombinator.com/item?id=46560445</id>
