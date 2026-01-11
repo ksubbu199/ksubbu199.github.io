@@ -1544,16 +1544,6 @@
           "wordCount": 3111,
           "title": "Europeans' health data sold to US firm run by ex-Israeli spies",
           "imageUrl": "https://www.ftm.eu/uploads/media_filter/68c40c17d4381/article_1400_nocrop/Spy_Header.jpg?v=0"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=46252114",
-          "author": "parisidau",
-          "description": "Article URL: https://hey.paris/posts/appleid/\nComments URL: https://news.ycombinator.com/item?id=46252114\nPoints: 562\n# Comments: 289",
-          "link": "https://hey.paris/posts/appleid/",
-          "publishedOn": "2025-12-13T04:55:59.000Z",
-          "wordCount": 2039,
-          "title": "Apple has locked my Apple ID, and I have no recourse. A plea for help",
-          "imageUrl": "https://hey.paris/posts/appleid/cover.jpg"
         }
       ]
     },
@@ -2001,18 +1991,7 @@
       "title": "Ben Hoyt's technical writing",
       "feedUrl": "https://benhoyt.com/writings/rss.xml",
       "siteUrl": "https://benhoyt.com/writings/",
-      "articles": [
-        {
-          "id": "https://benhoyt.com/writings/jubilant/",
-          "author": null,
-          "description": "Discusses some design choices used in Jubilant: Python subprocess.run to wrap a CLI tool, a code generator to convert Go structs to Python dataclasses, and the use of uv with a simple Makefile to run commands.",
-          "link": "https://benhoyt.com/writings/jubilant/",
-          "publishedOn": "2025-12-13T05:00:00.000Z",
-          "wordCount": 2857,
-          "title": "Jubilant: Python subprocess and Go codegen",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "High Scalability",

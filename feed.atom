@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-01-11T16:24:29.812Z</updated>
+    <updated>2026-01-11T17:18:24.000Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -2458,29 +2458,6 @@ Points: 540
         <summary type="html"><![CDATA[From next February, workers at Instagram must be in the office, five days a week. This makes Meta the second tech giant after Amazon to mandate a 5-day RTO. Will more big companies do the same?]]></summary>
         <author>
             <name>Gergely Orosz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Jubilant: Python subprocess and Go codegen]]></title>
-        <id>https://benhoyt.com/writings/jubilant/</id>
-        <link href="https://benhoyt.com/writings/jubilant/"/>
-        <updated>2025-12-13T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Discusses some design choices used in Jubilant: Python subprocess.run to wrap a CLI tool, a code generator to convert Go structs to Python dataclasses, and the use of uv with a simple Makefile to run commands.]]></summary>
-        <author>
-            <name>Ben Hoyt's technical writing</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Apple has locked my Apple ID, and I have no recourse. A plea for help]]></title>
-        <id>https://news.ycombinator.com/item?id=46252114</id>
-        <link href="https://hey.paris/posts/appleid/"/>
-        <updated>2025-12-13T04:55:59.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://hey.paris/posts/appleid/
-Comments URL: https://news.ycombinator.com/item?id=46252114
-Points: 562
-# Comments: 289]]></summary>
-        <author>
-            <name>parisidau</name>
         </author>
     </entry>
 </feed>
