@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=46582420",
+          "author": "0xedb",
+          "description": "Article URL: https://www.federalreserve.gov/newsevents/speech/powell20260111a.htm\nComments URL: https://news.ycombinator.com/item?id=46582420\nPoints: 523\n# Comments: 451",
+          "link": "https://www.federalreserve.gov/newsevents/speech/powell20260111a.htm",
+          "publishedOn": "2026-01-12T01:02:48.000Z",
+          "wordCount": 1595,
+          "title": "Statement from Jerome Powell",
+          "imageUrl": "https://www.federalreserve.gov/images/social-media/social-default-image-opengraph.jpg"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=46579864",
           "author": "happosai",
           "description": "Article URL: https://noheger.at/blog/2026/01/11/the-struggle-of-resizing-windows-on-macos-tahoe/\nComments URL: https://news.ycombinator.com/item?id=46579864\nPoints: 801\n# Comments: 365",
@@ -1976,16 +1986,6 @@
           "publishedOn": "2025-12-15T15:00:02.000Z",
           "wordCount": null,
           "title": "Page Tables | The Backend Engineering Show",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/shorts/U3HjQ7rG_u0",
-          "author": null,
-          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-          "link": "https://www.youtube.com/shorts/U3HjQ7rG_u0",
-          "publishedOn": "2025-12-13T18:00:38.000Z",
-          "wordCount": 2124,
-          "title": "System calls need a context switch",
           "imageUrl": null
         }
       ]
