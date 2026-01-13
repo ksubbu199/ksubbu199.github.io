@@ -1652,6 +1652,16 @@
       "siteUrl": "https://martinfowler.com/feed.atom",
       "articles": [
         {
+          "id": "https://martinfowler.com/articles/stop-picking-sides.html",
+          "author": null,
+          "description": "Jim Highsmith notes that many teams have turned into\n      tribes wedded to exclusively adaptation or optimization. But he feels this\n      misses the point that both of these are important, and we need to manage\n      the tension between them. We can do this by thinking of two operating\n      modes: explore (adaptation-dominant) and exploit (optimization dominant).\n      We tailor a team's operating model to a particular blend of the two -\n      considering uncertainty, risk, cost of change, and an evidence threshold.\n      We should be particularly careful at the points where there is a handoff\n      between the two modes\nmore…",
+          "link": "https://martinfowler.com/articles/stop-picking-sides.html",
+          "publishedOn": "2026-01-13T14:59:00.000Z",
+          "wordCount": 1753,
+          "title": "Stop Picking Sides: Manage the Tension Between Adaptation and                Optimization",
+          "imageUrl": "https://martinfowler.com/articles/stop-picking-sides/infograph.jpg"
+        },
+        {
           "id": "https://martinfowler.com/articles/2025-music.html",
           "author": null,
           "description": "My favorite albums from last year. Balkan brass, an\n      acoustic favorite of 80s returns, Ethio-jazz, Guatemalan singer-guitarist,\n      jazz-rock/Indian classical fusion, and a unique male vocalist.\nmore…",

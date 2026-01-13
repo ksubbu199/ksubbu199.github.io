@@ -2,10 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-01-13T14:26:15.482Z</updated>
+    <updated>2026-01-13T15:25:31.644Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Stop Picking Sides: Manage the Tension Between Adaptation and                Optimization]]></title>
+        <id>https://martinfowler.com/articles/stop-picking-sides.html</id>
+        <link href="https://martinfowler.com/articles/stop-picking-sides.html"/>
+        <updated>2026-01-13T14:59:00.000Z</updated>
+        <summary type="html"><![CDATA[Jim Highsmith notes that many teams have turned into
+      tribes wedded to exclusively adaptation or optimization. But he feels this
+      misses the point that both of these are important, and we need to manage
+      the tension between them. We can do this by thinking of two operating
+      modes: explore (adaptation-dominant) and exploit (optimization dominant).
+      We tailor a team's operating model to a particular blend of the two -
+      considering uncertainty, risk, cost of change, and an evidence threshold.
+      We should be particularly careful at the points where there is a handoff
+      between the two modes
+more…]]></summary>
+        <author>
+            <name>Martin Fowler</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The backbone of backend system design]]></title>
         <id>https://www.youtube.com/shorts/wJO1_l-rnFg</id>
