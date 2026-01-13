@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-01-12T23:17:26.926Z</updated>
+    <updated>2026-01-13T01:42:49.114Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Cowork: Claude Code for the rest of your work]]></title>
+        <id>https://news.ycombinator.com/item?id=46593022</id>
+        <link href="https://claude.com/blog/cowork-research-preview"/>
+        <updated>2026-01-12T19:27:19.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://claude.com/blog/cowork-research-preview
+Comments URL: https://news.ycombinator.com/item?id=46593022
+Points: 599
+# Comments: 316]]></summary>
+        <author>
+            <name>adocomplete</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Apple picks Google's Gemini to power Siri]]></title>
         <id>https://news.ycombinator.com/item?id=46589675</id>
@@ -2525,19 +2538,6 @@ Points: 516
 # Comments: 845]]></summary>
         <author>
             <name>PaulHoule</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Europeans' health data sold to US firm run by ex-Israeli spies]]></title>
-        <id>https://news.ycombinator.com/item?id=46262524</id>
-        <link href="https://www.ftm.eu/articles/europe-health-data-us-firm-israel-spies"/>
-        <updated>2025-12-14T12:15:09.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.ftm.eu/articles/europe-health-data-us-firm-israel-spies
-Comments URL: https://news.ycombinator.com/item?id=46262524
-Points: 540
-# Comments: 307]]></summary>
-        <author>
-            <name>Fnoord</name>
         </author>
     </entry>
 </feed>

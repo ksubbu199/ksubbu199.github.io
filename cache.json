@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=46593022",
+          "author": "adocomplete",
+          "description": "Article URL: https://claude.com/blog/cowork-research-preview\nComments URL: https://news.ycombinator.com/item?id=46593022\nPoints: 599\n# Comments: 316",
+          "link": "https://claude.com/blog/cowork-research-preview",
+          "publishedOn": "2026-01-12T19:27:19.000Z",
+          "wordCount": 12632,
+          "title": "Cowork: Claude Code for the rest of your work",
+          "imageUrl": "https://cdn.prod.website-files.com/68a44d4040f98a4adf2207b6/690515adc54f700a51502c88_og_claude-2-1-prompting.jpg"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=46589675",
           "author": "stygiansonic",
           "description": "Article URL: https://www.cnbc.com/2026/01/12/apple-google-ai-siri-gemini.html\nComments URL: https://news.ycombinator.com/item?id=46589675\nPoints: 531\n# Comments: 316",
@@ -1604,16 +1614,6 @@
           "wordCount": 4814,
           "title": "If AI replaces workers, should it also pay taxes?",
           "imageUrl": "https://imagenes.elpais.com/resizer/v2/7E4S5MDV25MJNBA77WUMWZ3RSQ.jpg?auth=dc176b7a46c8a709d8f029b7ebd061922e4b705eb0b000898609275473b5bead&width=1200"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=46262524",
-          "author": "Fnoord",
-          "description": "Article URL: https://www.ftm.eu/articles/europe-health-data-us-firm-israel-spies\nComments URL: https://news.ycombinator.com/item?id=46262524\nPoints: 540\n# Comments: 307",
-          "link": "https://www.ftm.eu/articles/europe-health-data-us-firm-israel-spies",
-          "publishedOn": "2025-12-14T12:15:09.000Z",
-          "wordCount": 3111,
-          "title": "Europeans' health data sold to US firm run by ex-Israeli spies",
-          "imageUrl": "https://www.ftm.eu/uploads/media_filter/68c40c17d4381/article_1400_nocrop/Spy_Header.jpg?v=0"
         }
       ]
     },
