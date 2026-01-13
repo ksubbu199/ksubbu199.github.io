@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=46602102",
+          "author": "ekianjo",
+          "description": "Article URL: https://www.youtube.com/watch?v=Rs_JrOIo3SE\nComments URL: https://news.ycombinator.com/item?id=46602102\nPoints: 510\n# Comments: 891",
+          "link": "https://www.youtube.com/watch?v=Rs_JrOIo3SE",
+          "publishedOn": "2026-01-13T15:18:43.000Z",
+          "wordCount": null,
+          "title": "Scott Adams has died",
+          "imageUrl": null
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=46593022",
           "author": "adocomplete",
           "description": "Article URL: https://claude.com/blog/cowork-research-preview\nComments URL: https://news.ycombinator.com/item?id=46593022\nPoints: 599\n# Comments: 316",
@@ -1637,7 +1647,18 @@
       "title": "Boot.dev Blog",
       "feedUrl": "https://blog.boot.dev/index.xml",
       "siteUrl": "https://blog.boot.dev/",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://blog.boot.dev/news/bootdev-beat-2026-01/",
+          "author": null,
+          "description": "We’re off to an incredible start to 2026. December of 2025 broke a new record with 3,075,904 lessons completed and 82,578 training grounds challenges completed during the month! In January, I’m writing this on the 13th, and we’re already at 1,657,581 lessons and 47,795 challenges - so it’s looking like this is going to be a monster month. Best of luck to you all in the contest of the resolute.",
+          "link": "https://blog.boot.dev/news/bootdev-beat-2026-01/",
+          "publishedOn": "2026-01-13T00:00:00.000Z",
+          "wordCount": 1213,
+          "title": "The Boot.dev Beat. January 2026",
+          "imageUrl": "https://blog.boot.dev/img/800/newsletter_heading.png.webp"
+        }
+      ]
     },
     {
       "title": "Julia Evans",
