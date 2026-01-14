@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-01-13T23:19:25.669Z</updated>
+    <updated>2026-01-14T01:50:02.263Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[AI Generated Music Barred from Bandcamp]]></title>
+        <id>https://news.ycombinator.com/item?id=46605490</id>
+        <link href="https://old.reddit.com/r/BandCamp/comments/1qbw8ba/ai_generated_music_on_bandcamp/"/>
+        <updated>2026-01-13T18:31:50.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://old.reddit.com/r/BandCamp/comments/1qbw8ba/ai_generated_music_on_bandcamp/
+Comments URL: https://news.ycombinator.com/item?id=46605490
+Points: 560
+# Comments: 433]]></summary>
+        <author>
+            <name>cdrnsf</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Scott Adams has died]]></title>
         <id>https://news.ycombinator.com/item?id=46602102</id>
@@ -2590,19 +2603,6 @@ Points: 505
         <updated>2025-12-15T15:00:02.000Z</updated>
         <author>
             <name>Hussein Nasser</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I'm Kenyan. I don't write like ChatGPT, ChatGPT writes like me]]></title>
-        <id>https://news.ycombinator.com/item?id=46273466</id>
-        <link href="https://marcusolang.substack.com/p/im-kenyan-i-dont-write-like-chatgpt"/>
-        <updated>2025-12-15T12:12:24.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://marcusolang.substack.com/p/im-kenyan-i-dont-write-like-chatgpt
-Comments URL: https://news.ycombinator.com/item?id=46273466
-Points: 542
-# Comments: 360]]></summary>
-        <author>
-            <name>florian_s</name>
         </author>
     </entry>
 </feed>
