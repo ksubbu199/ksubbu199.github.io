@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=46622328",
+          "author": "takira",
+          "description": "Article URL: https://www.promptarmor.com/resources/claude-cowork-exfiltrates-files\nComments URL: https://news.ycombinator.com/item?id=46622328\nPoints: 502\n# Comments: 220",
+          "link": "https://www.promptarmor.com/resources/claude-cowork-exfiltrates-files",
+          "publishedOn": "2026-01-14T20:12:25.000Z",
+          "wordCount": 11652,
+          "title": "Claude Cowork Exfiltrates Files",
+          "imageUrl": "https://framerusercontent.com/images/kbWpSh9EoyvzEzJzIk214QuARqc.png?width=2656&height=1870"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=46616745",
           "author": "echelon_musk",
           "description": "Article URL: https://www.theguardian.com/us-news/2026/jan/14/fbi-raid-washington-post-hannah-natanson\nComments URL: https://news.ycombinator.com/item?id=46616745\nPoints: 570\n# Comments: 336",
@@ -1574,26 +1584,6 @@
           "wordCount": 6301,
           "title": "alpr.watch",
           "imageUrl": "https://alpr.watch/static/favicon.ico"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=46288491",
-          "author": "recvonline",
-          "description": "Article URL: https://blog.mozilla.org/en/mozilla/leadership/mozillas-next-chapter-anthony-enzor-demeo-new-ceo/\nComments URL: https://news.ycombinator.com/item?id=46288491\nPoints: 501\n# Comments: 756",
-          "link": "https://blog.mozilla.org/en/mozilla/leadership/mozillas-next-chapter-anthony-enzor-demeo-new-ceo/",
-          "publishedOn": "2025-12-16T13:53:14.000Z",
-          "wordCount": 1873,
-          "title": "Mozilla appoints new CEO Anthony Enzor-Demeo",
-          "imageUrl": "https://blog.mozilla.org/wp-content/blogs.dir/278/files/2025/12/Distilled_Header_Anthony-1080x720.png"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=46288415",
-          "author": "geox",
-          "description": "Article URL: https://www.tum.de/en/news-and-events/all-news/press-releases/details/40-percent-of-mri-signals-do-not-correspond-to-actual-brain-activity\nComments URL: https://news.ycombinator.com/item?id=46288415\nPoints: 500\n# Comments: 203",
-          "link": "https://www.tum.de/en/news-and-events/all-news/press-releases/details/40-percent-of-mri-signals-do-not-correspond-to-actual-brain-activity",
-          "publishedOn": "2025-12-16T13:46:57.000Z",
-          "wordCount": 3505,
-          "title": "40 percent of fMRI signals do not correspond to actual brain activity",
-          "imageUrl": "https://www.tum.de/fileadmin/user_upload_87/_processed_/7/c/csm_Foto_Riedl_Epp_Gabriel_Castrillon_-_quer_2ca96e8977.jpg"
         }
       ]
     },
@@ -1670,26 +1660,6 @@
           "publishedOn": "2026-01-08T13:29:00.000Z",
           "wordCount": 1337,
           "title": "Fragments: January  8",
-          "imageUrl": "https://martinfowler.com/logo-sq.png"
-        },
-        {
-          "id": "https://martinfowler.com/fragments/2025-12-16.html",
-          "author": null,
-          "description": "Gitanjali Venkatraman does wonderful illustrations of complex subjects (which is why I was so happy to work with her on our Expert Generalists article). She has now published the latest in her series of illustrated guides: tackling the complex topic of Mainframe Modernization\n\nIn it she illustrates the history and value of mainframes, why modernization is so tricky, and how to tackle the problem by breaking it down into tractable pieces. I love the clarity of her explanations, and smile frequently at her way of enhancing her words with her quirky pictures.\n ❄                ❄                ❄                ❄                ❄\nGergely Orosz on social media\nUnpopular opinion:\nCurrent code review tools just don’t make much sense for AI-generated code\nWhen reviewing code I really want to know:…",
-          "link": "https://martinfowler.com/fragments/2025-12-16.html",
-          "publishedOn": "2025-12-16T15:14:00.000Z",
-          "wordCount": 1376,
-          "title": "Fragments: December 16",
-          "imageUrl": "https://martinfowler.com/logo-sq.png"
-        },
-        {
-          "id": "https://martinfowler.com/articles/writing-fragments.html",
-          "author": null,
-          "description": "If you’re a regular reader of my site, you’ll have noticed that in the\nlast few months I’ve been making a number of “fragments” posts. Such a post\nis a short post with a bunch of little, unconnected segments. These are\nusually a reference to something I’ve found on the web, sometimes a small\nthought of my own.\nA few years ago, I wouldn’t have covered these topics with posts on my\nown site. Instead I would use Twitter, either retweeting someone else’s\npoint, or just highlighting something I’d found. But since the Muskover,\nTwitter has effectively died. I’m not saying that due to any technical\nissues with the site, which has mostly just been fine, nor directly due to\nany of the policy changes there. The point is that lots of people have left, so that\nthe audience I would have reached with Tw…",
-          "link": "https://martinfowler.com/articles/writing-fragments.html",
-          "publishedOn": "2025-12-16T15:06:00.000Z",
-          "wordCount": 524,
-          "title": "Writing Fragments",
           "imageUrl": "https://martinfowler.com/logo-sq.png"
         }
       ]

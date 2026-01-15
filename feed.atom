@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-01-15T01:45:27.212Z</updated>
+    <updated>2026-01-15T03:40:40.697Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Claude Cowork Exfiltrates Files]]></title>
+        <id>https://news.ycombinator.com/item?id=46622328</id>
+        <link href="https://www.promptarmor.com/resources/claude-cowork-exfiltrates-files"/>
+        <updated>2026-01-14T20:12:25.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.promptarmor.com/resources/claude-cowork-exfiltrates-files
+Comments URL: https://news.ycombinator.com/item?id=46622328
+Points: 502
+# Comments: 220]]></summary>
+        <author>
+            <name>takira</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[FBI raids Washington Post reporter's home]]></title>
         <id>https://news.ycombinator.com/item?id=46616745</id>
@@ -2488,70 +2501,6 @@ Points: 527
 # Comments: 260]]></summary>
         <author>
             <name>theamk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fragments: December 16]]></title>
-        <id>https://martinfowler.com/fragments/2025-12-16.html</id>
-        <link href="https://martinfowler.com/fragments/2025-12-16.html"/>
-        <updated>2025-12-16T15:14:00.000Z</updated>
-        <summary type="html"><![CDATA[Gitanjali Venkatraman does wonderful illustrations of complex subjects (which is why I was so happy to work with her on our Expert Generalists article). She has now published the latest in her series of illustrated guides: tackling the complex topic of Mainframe Modernization
-
-In it she illustrates the history and value of mainframes, why modernization is so tricky, and how to tackle the problem by breaking it down into tractable pieces. I love the clarity of her explanations, and smile frequently at her way of enhancing her words with her quirky pictures.
- ❄                ❄                ❄                ❄                ❄
-Gergely Orosz on social media
-Unpopular opinion:
-Current code review tools just don’t make much sense for AI-generated code
-When reviewing code I really want to know:…]]></summary>
-        <author>
-            <name>Martin Fowler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Writing Fragments]]></title>
-        <id>https://martinfowler.com/articles/writing-fragments.html</id>
-        <link href="https://martinfowler.com/articles/writing-fragments.html"/>
-        <updated>2025-12-16T15:06:00.000Z</updated>
-        <summary type="html"><![CDATA[If you’re a regular reader of my site, you’ll have noticed that in the
-last few months I’ve been making a number of “fragments” posts. Such a post
-is a short post with a bunch of little, unconnected segments. These are
-usually a reference to something I’ve found on the web, sometimes a small
-thought of my own.
-A few years ago, I wouldn’t have covered these topics with posts on my
-own site. Instead I would use Twitter, either retweeting someone else’s
-point, or just highlighting something I’d found. But since the Muskover,
-Twitter has effectively died. I’m not saying that due to any technical
-issues with the site, which has mostly just been fine, nor directly due to
-any of the policy changes there. The point is that lots of people have left, so that
-the audience I would have reached with Tw…]]></summary>
-        <author>
-            <name>Martin Fowler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mozilla appoints new CEO Anthony Enzor-Demeo]]></title>
-        <id>https://news.ycombinator.com/item?id=46288491</id>
-        <link href="https://blog.mozilla.org/en/mozilla/leadership/mozillas-next-chapter-anthony-enzor-demeo-new-ceo/"/>
-        <updated>2025-12-16T13:53:14.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://blog.mozilla.org/en/mozilla/leadership/mozillas-next-chapter-anthony-enzor-demeo-new-ceo/
-Comments URL: https://news.ycombinator.com/item?id=46288491
-Points: 501
-# Comments: 756]]></summary>
-        <author>
-            <name>recvonline</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[40 percent of fMRI signals do not correspond to actual brain activity]]></title>
-        <id>https://news.ycombinator.com/item?id=46288415</id>
-        <link href="https://www.tum.de/en/news-and-events/all-news/press-releases/details/40-percent-of-mri-signals-do-not-correspond-to-actual-brain-activity"/>
-        <updated>2025-12-16T13:46:57.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.tum.de/en/news-and-events/all-news/press-releases/details/40-percent-of-mri-signals-do-not-correspond-to-actual-brain-activity
-Comments URL: https://news.ycombinator.com/item?id=46288415
-Points: 500
-# Comments: 203]]></summary>
-        <author>
-            <name>geox</name>
         </author>
     </entry>
 </feed>
