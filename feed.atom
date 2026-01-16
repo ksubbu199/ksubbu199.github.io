@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-01-16T04:39:23.599Z</updated>
+    <updated>2026-01-16T05:25:47.377Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -2421,52 +2421,6 @@ Points: 506
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>Hussein Nasser</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS CEO says replacing junior devs with AI is 'one of the dumbest ideas']]></title>
-        <id>https://news.ycombinator.com/item?id=46302267</id>
-        <link href="https://www.finalroundai.com/blog/aws-ceo-ai-cannot-replace-junior-developers"/>
-        <updated>2025-12-17T17:08:35.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.finalroundai.com/blog/aws-ceo-ai-cannot-replace-junior-developers
-Comments URL: https://news.ycombinator.com/item?id=46302267
-Points: 515
-# Comments: 308]]></summary>
-        <author>
-            <name>birdculture</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tell HN: HN was down]]></title>
-        <id>https://news.ycombinator.com/item?id=46301921</id>
-        <link href="https://news.ycombinator.com/item?id=46301921"/>
-        <updated>2025-12-17T16:48:18.000Z</updated>
-        <summary type="html"><![CDATA[- HN errored on all authenticated requests with 502 Bad Gateway. It did still respond to a limited amount of unauthenticated requests with presumably cached pages, which did not get updated. The last post on /newest claimed "0 minutes ago", but was actually much older (1:32:57 PM GMT) and not the newest post.
-- This status page actually identified the outage: https://hackernews.onlineornot.com/ - Pages by Hund and Statuspal did not show the outage.
-- The last post before the outage was https://news.ycombinator.com/item?id=46301823 (1:39:59 PM GMT). The last comment was https://news.ycombinator.com/item?id=46301848 (1:41:54 PM GMT).
-- There was an average of ~4 seconds per comment just prior to the outage. Based on this, HN likely went down at 1:41:58 PM GMT.
-Comments URL: https://news.ycombinator.com/item?id=46301921
-Points: 502
-# Comments: 287]]></summary>
-        <author>
-            <name>uyzstvqs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gemini 3 Flash: Frontier intelligence built for speed]]></title>
-        <id>https://news.ycombinator.com/item?id=46301851</id>
-        <link href="https://blog.google/products/gemini/gemini-3-flash/"/>
-        <updated>2025-12-17T16:42:13.000Z</updated>
-        <summary type="html"><![CDATA[Docs: https://ai.google.dev/gemini-api/docs/gemini-3
-Developer Blog: https://blog.google/technology/developers/build-with-gemini-...
-Model Card [pdf]: https://deepmind.google/models/model-cards/gemini-3-flash/
-Gemini 3 Flash in Search AI mode: https://blog.google/products/search/google-ai-mode-update-ge...
-Deepmind Page: https://deepmind.google/models/gemini/flash/
-Comments URL: https://news.ycombinator.com/item?id=46301851
-Points: 547
-# Comments: 243]]></summary>
-        <author>
-            <name>meetpateltech</name>
         </author>
     </entry>
 </feed>
