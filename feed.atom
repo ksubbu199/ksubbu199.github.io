@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-01-16T08:31:01.534Z</updated>
+    <updated>2026-01-16T09:27:28.982Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -52,6 +52,19 @@ Points: 517
         <updated>2026-01-15T14:20:41.000Z</updated>
         <author>
             <name>Think School</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[25 Years of Wikipedia]]></title>
+        <id>https://news.ycombinator.com/item?id=46632023</id>
+        <link href="https://wikipedia25.org/"/>
+        <updated>2026-01-15T13:17:07.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://wikipedia25.org
+Comments URL: https://news.ycombinator.com/item?id=46632023
+Points: 507
+# Comments: 398]]></summary>
+        <author>
+            <name>easton</name>
         </author>
     </entry>
     <entry>
@@ -2424,19 +2437,6 @@ Points: 514
 # Comments: 256]]></summary>
         <author>
             <name>bensouthwood</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I got hacked: My Hetzner server started mining Monero]]></title>
-        <id>https://news.ycombinator.com/item?id=46305585</id>
-        <link href="https://blog.jakesaunders.dev/my-server-started-mining-monero-this-morning/"/>
-        <updated>2025-12-17T21:13:33.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://blog.jakesaunders.dev/my-server-started-mining-monero-this-morning/
-Comments URL: https://news.ycombinator.com/item?id=46305585
-Points: 506
-# Comments: 316]]></summary>
-        <author>
-            <name>jakelsaunders94</name>
         </author>
     </entry>
 </feed>
