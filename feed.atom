@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-01-16T05:25:47.377Z</updated>
+    <updated>2026-01-16T06:35:15.574Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Ask HN: How can we solve the loneliness epidemic?]]></title>
+        <id>https://news.ycombinator.com/item?id=46635345</id>
+        <link href="https://news.ycombinator.com/item?id=46635345"/>
+        <updated>2026-01-15T16:49:13.000Z</updated>
+        <summary type="html"><![CDATA[Countless voiceless people sit alone every day and have no one to talk to, people of all ages, who don't feel that they can join any local groups. So they sit on social media all day when they're not at work or school. How can we solve this?
+Comments URL: https://news.ycombinator.com/item?id=46635345
+Points: 509
+# Comments: 812]]></summary>
+        <author>
+            <name>publicdebates</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Apple is fighting for TSMC capacity as Nvidia takes center stage]]></title>
         <id>https://news.ycombinator.com/item?id=46633488</id>
@@ -122,6 +135,19 @@ Points: 570
 # Comments: 336]]></summary>
         <author>
             <name>echelon_musk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SparkFun Officially Dropping AdaFruit due to CoC Violation]]></title>
+        <id>https://news.ycombinator.com/item?id=46616488</id>
+        <link href="https://www.sparkfun.com/official-response"/>
+        <updated>2026-01-14T14:34:57.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.sparkfun.com/official-response
+Comments URL: https://news.ycombinator.com/item?id=46616488
+Points: 500
+# Comments: 525]]></summary>
+        <author>
+            <name>yaleman</name>
         </author>
     </entry>
     <entry>
@@ -2411,16 +2437,6 @@ Points: 506
 # Comments: 316]]></summary>
         <author>
             <name>jakelsaunders94</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Graceful shutdown is needed to scale backends]]></title>
-        <id>https://www.youtube.com/shorts/Qpgpty0rbqw</id>
-        <link href="https://www.youtube.com/shorts/Qpgpty0rbqw"/>
-        <updated>2025-12-17T18:00:27.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Hussein Nasser</name>
         </author>
     </entry>
 </feed>

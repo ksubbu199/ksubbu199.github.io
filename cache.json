@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=46635345",
+          "author": "publicdebates",
+          "description": "Countless voiceless people sit alone every day and have no one to talk to, people of all ages, who don't feel that they can join any local groups. So they sit on social media all day when they're not at work or school. How can we solve this?\nComments URL: https://news.ycombinator.com/item?id=46635345\nPoints: 509\n# Comments: 812",
+          "link": "https://news.ycombinator.com/item?id=46635345",
+          "publishedOn": "2026-01-15T16:49:13.000Z",
+          "wordCount": 76119,
+          "title": "Ask HN: How can we solve the loneliness epidemic?",
+          "imageUrl": null
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=46633488",
           "author": "speckx",
           "description": "Article URL: https://www.culpium.com/p/exclusiveapple-is-fighting-for-tsmc\nComments URL: https://news.ycombinator.com/item?id=46633488\nPoints: 556\n# Comments: 342",
@@ -84,6 +94,16 @@
           "wordCount": 4507,
           "title": "FBI raids Washington Post reporter's home",
           "imageUrl": "https://i.guim.co.uk/img/media/e9c63c9bc377336cbf31486c2a7dfab61e9798d6/868_854_2265_1812/master/2265.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=2b6406bd96c762b9b47f5538c3bc4349"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=46616488",
+          "author": "yaleman",
+          "description": "Article URL: https://www.sparkfun.com/official-response\nComments URL: https://news.ycombinator.com/item?id=46616488\nPoints: 500\n# Comments: 525",
+          "link": "https://www.sparkfun.com/official-response",
+          "publishedOn": "2026-01-14T14:34:57.000Z",
+          "wordCount": 5976,
+          "title": "SparkFun Officially Dropping AdaFruit due to CoC Violation",
+          "imageUrl": null
         },
         {
           "id": "https://news.ycombinator.com/item?id=46605490",
@@ -1937,16 +1957,6 @@
           "publishedOn": "2025-12-18T18:00:22.000Z",
           "wordCount": null,
           "title": "Why It took Postgres years to do async",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/shorts/Qpgpty0rbqw",
-          "author": null,
-          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-          "link": "https://www.youtube.com/shorts/Qpgpty0rbqw",
-          "publishedOn": "2025-12-17T18:00:27.000Z",
-          "wordCount": 2105,
-          "title": "Graceful shutdown is needed to scale backends",
           "imageUrl": null
         }
       ]
