@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-01-15T23:21:26.664Z</updated>
+    <updated>2026-01-16T01:46:47.251Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Apple is fighting for TSMC capacity as Nvidia takes center stage]]></title>
+        <id>https://news.ycombinator.com/item?id=46633488</id>
+        <link href="https://www.culpium.com/p/exclusiveapple-is-fighting-for-tsmc"/>
+        <updated>2026-01-15T15:02:42.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.culpium.com/p/exclusiveapple-is-fighting-for-tsmc
+Comments URL: https://news.ycombinator.com/item?id=46633488
+Points: 556
+# Comments: 342]]></summary>
+        <author>
+            <name>speckx</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Palantir app helping ICE raids in Minneapolis]]></title>
         <id>https://news.ycombinator.com/item?id=46633378</id>
@@ -2441,19 +2454,6 @@ Points: 547
 # Comments: 243]]></summary>
         <author>
             <name>meetpateltech</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Coursera to combine with Udemy]]></title>
-        <id>https://news.ycombinator.com/item?id=46301346</id>
-        <link href="https://investor.coursera.com/news/news-details/2025/Coursera-to-Combine-with-Udemy-to-Empower-the-Global-Workforce-with-Skills-for-the-AI-Era/default.aspx"/>
-        <updated>2025-12-17T12:45:40.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://investor.coursera.com/news/news-details/2025/Coursera-to-Combine-with-Udemy-to-Empower-the-Global-Workforce-with-Skills-for-the-AI-Era/default.aspx
-Comments URL: https://news.ycombinator.com/item?id=46301346
-Points: 506
-# Comments: 306]]></summary>
-        <author>
-            <name>throwaway019254</name>
         </author>
     </entry>
 </feed>
