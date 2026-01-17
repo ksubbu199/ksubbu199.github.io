@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-01-17T18:29:00.706Z</updated>
+    <updated>2026-01-17T19:15:57.422Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -23,6 +23,19 @@
         <updated>2026-01-17T13:45:07.000Z</updated>
         <author>
             <name>Think School</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ASCII characters are not pixels: a deep dive into ASCII rendering]]></title>
+        <id>https://news.ycombinator.com/item?id=46657122</id>
+        <link href="https://alexharri.com/blog/ascii-rendering"/>
+        <updated>2026-01-17T11:15:26.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://alexharri.com/blog/ascii-rendering
+Comments URL: https://news.ycombinator.com/item?id=46657122
+Points: 528
+# Comments: 65]]></summary>
+        <author>
+            <name>alexharri</name>
         </author>
     </entry>
     <entry>
