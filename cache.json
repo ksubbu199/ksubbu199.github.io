@@ -26,6 +26,16 @@
           "imageUrl": "https://astro.build/_astro/og-cloudflare-2.BrcXs0Ab.jpg"
         },
         {
+          "id": "https://news.ycombinator.com/item?id=46645615",
+          "author": "cl3misch",
+          "description": "Article URL: https://justthebrowser.com/\nComments URL: https://news.ycombinator.com/item?id=46645615\nPoints: 507\n# Comments: 240",
+          "link": "https://justthebrowser.com/",
+          "publishedOn": "2026-01-16T12:03:52.000Z",
+          "wordCount": 895,
+          "title": "Just the Browser",
+          "imageUrl": "https://justthebrowser.com/media/preview.png"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=46638013",
           "author": "us321",
           "description": "Article URL: https://briarproject.org/manual/fa/\nComments URL: https://news.ycombinator.com/item?id=46638013\nPoints: 507\n# Comments: 319",
@@ -1533,46 +1543,6 @@
           "publishedOn": "2025-12-18T15:39:09.000Z",
           "wordCount": null,
           "title": "Beginning January 2026, all ACM publications will be made open access",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=46313390",
-          "author": "pember",
-          "description": "Article URL: https://mistral.ai/news/mistral-ocr-3\nComments URL: https://news.ycombinator.com/item?id=46313390\nPoints: 501\n# Comments: 90",
-          "link": "https://mistral.ai/news/mistral-ocr-3",
-          "publishedOn": "2025-12-18T15:01:10.000Z",
-          "wordCount": 3543,
-          "title": "Mistral OCR 3",
-          "imageUrl": "https://mistral.ai/img/mistral-cover.png"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=46313297",
-          "author": "simonw",
-          "description": "Article URL: https://simonwillison.net/2025/Dec/18/code-proven-to-work/\nComments URL: https://news.ycombinator.com/item?id=46313297\nPoints: 542\n# Comments: 454",
-          "link": "https://simonwillison.net/2025/Dec/18/code-proven-to-work/",
-          "publishedOn": "2025-12-18T14:52:11.000Z",
-          "wordCount": 1409,
-          "title": "Your job is to deliver code you have proven to work",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=46313061",
-          "author": "tosh",
-          "description": "Article URL: https://daringfireball.net/linked/2025/12/17/are-apple-gift-cards-safe-to-redeem\nComments URL: https://news.ycombinator.com/item?id=46313061\nPoints: 504\n# Comments: 420",
-          "link": "https://daringfireball.net/linked/2025/12/17/are-apple-gift-cards-safe-to-redeem",
-          "publishedOn": "2025-12-18T14:26:57.000Z",
-          "wordCount": 863,
-          "title": "Are Apple gift cards safe to redeem?",
-          "imageUrl": "https://daringfireball.net/graphics/df-wide-card.png"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=46312973",
-          "author": "iNic",
-          "description": "Article URL: http://pleasejusttryhtmx.com/\nComments URL: https://news.ycombinator.com/item?id=46312973\nPoints: 500\n# Comments: 409",
-          "link": "http://pleasejusttryhtmx.com/",
-          "publishedOn": "2025-12-18T14:18:52.000Z",
-          "wordCount": 2239,
-          "title": "Please just try HTMX",
           "imageUrl": null
         }
       ]

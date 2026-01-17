@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-01-17T01:40:54.938Z</updated>
+    <updated>2026-01-17T03:22:56.535Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -30,6 +30,19 @@ Points: 527
 # Comments: 274]]></summary>
         <author>
             <name>todotask2</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Just the Browser]]></title>
+        <id>https://news.ycombinator.com/item?id=46645615</id>
+        <link href="https://justthebrowser.com/"/>
+        <updated>2026-01-16T12:03:52.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://justthebrowser.com/
+Comments URL: https://news.ycombinator.com/item?id=46645615
+Points: 507
+# Comments: 240]]></summary>
+        <author>
+            <name>cl3misch</name>
         </author>
     </entry>
     <entry>
@@ -2414,58 +2427,6 @@ Points: 608
 # Comments: 68]]></summary>
         <author>
             <name>Kerrick</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mistral OCR 3]]></title>
-        <id>https://news.ycombinator.com/item?id=46313390</id>
-        <link href="https://mistral.ai/news/mistral-ocr-3"/>
-        <updated>2025-12-18T15:01:10.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://mistral.ai/news/mistral-ocr-3
-Comments URL: https://news.ycombinator.com/item?id=46313390
-Points: 501
-# Comments: 90]]></summary>
-        <author>
-            <name>pember</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Your job is to deliver code you have proven to work]]></title>
-        <id>https://news.ycombinator.com/item?id=46313297</id>
-        <link href="https://simonwillison.net/2025/Dec/18/code-proven-to-work/"/>
-        <updated>2025-12-18T14:52:11.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://simonwillison.net/2025/Dec/18/code-proven-to-work/
-Comments URL: https://news.ycombinator.com/item?id=46313297
-Points: 542
-# Comments: 454]]></summary>
-        <author>
-            <name>simonw</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Are Apple gift cards safe to redeem?]]></title>
-        <id>https://news.ycombinator.com/item?id=46313061</id>
-        <link href="https://daringfireball.net/linked/2025/12/17/are-apple-gift-cards-safe-to-redeem"/>
-        <updated>2025-12-18T14:26:57.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://daringfireball.net/linked/2025/12/17/are-apple-gift-cards-safe-to-redeem
-Comments URL: https://news.ycombinator.com/item?id=46313061
-Points: 504
-# Comments: 420]]></summary>
-        <author>
-            <name>tosh</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Please just try HTMX]]></title>
-        <id>https://news.ycombinator.com/item?id=46312973</id>
-        <link href="http://pleasejusttryhtmx.com/"/>
-        <updated>2025-12-18T14:18:52.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: http://pleasejusttryhtmx.com/
-Comments URL: https://news.ycombinator.com/item?id=46312973
-Points: 500
-# Comments: 409]]></summary>
-        <author>
-            <name>iNic</name>
         </author>
     </entry>
 </feed>
