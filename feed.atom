@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-01-18T20:23:18.351Z</updated>
+    <updated>2026-01-18T21:19:21.870Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -111,6 +111,19 @@ Points: 520
 # Comments: 177]]></summary>
         <author>
             <name>robertvc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[6-Day and IP Address Certificates Are Generally Available]]></title>
+        <id>https://news.ycombinator.com/item?id=46647491</id>
+        <link href="https://letsencrypt.org/2026/01/15/6day-and-ip-general-availability"/>
+        <updated>2026-01-16T15:37:19.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://letsencrypt.org/2026/01/15/6day-and-ip-general-availability
+Comments URL: https://news.ycombinator.com/item?id=46647491
+Points: 500
+# Comments: 276]]></summary>
+        <author>
+            <name>jaas</name>
         </author>
     </entry>
     <entry>
@@ -2353,19 +2366,6 @@ Points: 506
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>Think School</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Airbus to migrate critical apps to a sovereign Euro cloud]]></title>
-        <id>https://news.ycombinator.com/item?id=46334533</id>
-        <link href="https://www.theregister.com/2025/12/19/airbus_sovereign_cloud/"/>
-        <updated>2025-12-20T08:36:52.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.theregister.com/2025/12/19/airbus_sovereign_cloud/
-Comments URL: https://news.ycombinator.com/item?id=46334533
-Points: 502
-# Comments: 465]]></summary>
-        <author>
-            <name>saubeidl</name>
         </author>
     </entry>
 </feed>

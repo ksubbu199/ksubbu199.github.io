@@ -66,6 +66,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://news.ycombinator.com/item?id=46647491",
+          "author": "jaas",
+          "description": "Article URL: https://letsencrypt.org/2026/01/15/6day-and-ip-general-availability\nComments URL: https://news.ycombinator.com/item?id=46647491\nPoints: 500\n# Comments: 276",
+          "link": "https://letsencrypt.org/2026/01/15/6day-and-ip-general-availability",
+          "publishedOn": "2026-01-16T15:37:19.000Z",
+          "wordCount": 542,
+          "title": "6-Day and IP Address Certificates Are Generally Available",
+          "imageUrl": "https://letsencrypt.org/images/LetsEncrypt-SocialShare.png"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=46646777",
           "author": "embedding-shape",
           "description": "Related: Scaling long-running autonomous coding - https://news.ycombinator.com/item?id=46624541 - Jan 2026 (174 comments)\nComments URL: https://news.ycombinator.com/item?id=46646777\nPoints: 519\n# Comments: 214",
@@ -1494,16 +1504,6 @@
           "wordCount": 3499,
           "title": "Go ahead, self-host Postgres",
           "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=46334533",
-          "author": "saubeidl",
-          "description": "Article URL: https://www.theregister.com/2025/12/19/airbus_sovereign_cloud/\nComments URL: https://news.ycombinator.com/item?id=46334533\nPoints: 502\n# Comments: 465",
-          "link": "https://www.theregister.com/2025/12/19/airbus_sovereign_cloud/",
-          "publishedOn": "2025-12-20T08:36:52.000Z",
-          "wordCount": 1372,
-          "title": "Airbus to migrate critical apps to a sovereign Euro cloud",
-          "imageUrl": "https://regmedia.co.uk/2017/10/13/eurocloud_shutterstock.jpg"
         }
       ]
     },
