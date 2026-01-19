@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-01-19T12:50:58.841Z</updated>
+    <updated>2026-01-19T13:46:16.606Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Gen Z Doctors are choosing this Medical Field!]]></title>
+        <id>https://www.youtube.com/shorts/pnv-ZITGnh8</id>
+        <link href="https://www.youtube.com/shorts/pnv-ZITGnh8"/>
+        <updated>2026-01-19T12:59:35.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Think School</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Gaussian Splatting – A$AP Rocky "Helicopter" music video]]></title>
         <id>https://news.ycombinator.com/item?id=46670024</id>
@@ -17,6 +27,19 @@ Points: 503
 # Comments: 163]]></summary>
         <author>
             <name>ChrisArchitect</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Statement by Denmark, Finland, France, Germany, the Netherlands,Norway,Sweden,UK]]></title>
+        <id>https://news.ycombinator.com/item?id=46669025</id>
+        <link href="https://www.presidentti.fi/statement-by-denmark-finland-france-germany-the-netherlands-norway-sweden-and-the-united-kingdom-englanniksi/"/>
+        <updated>2026-01-18T16:17:39.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.presidentti.fi/statement-by-denmark-finland-france-germany-the-netherlands-norway-sweden-and-the-united-kingdom-englanniksi/
+Comments URL: https://news.ycombinator.com/item?id=46669025
+Points: 501
+# Comments: 499]]></summary>
+        <author>
+            <name>calcifer</name>
         </author>
     </entry>
     <entry>
@@ -2322,19 +2345,6 @@ Points: 508
         <updated>2025-12-21T06:51:02.000Z</updated>
         <author>
             <name>Think School</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Flock and Cyble Inc. weaponize “cybercrime” takedowns to silence critics]]></title>
-        <id>https://news.ycombinator.com/item?id=46341305</id>
-        <link href="https://haveibeenflocked.com/news/cyble-downtime"/>
-        <updated>2025-12-21T01:12:31.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://haveibeenflocked.com/news/cyble-downtime
-Comments URL: https://news.ycombinator.com/item?id=46341305
-Points: 513
-# Comments: 96]]></summary>
-        <author>
-            <name>_a9</name>
         </author>
     </entry>
 </feed>
