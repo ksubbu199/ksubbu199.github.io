@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-01-19T01:51:00.592Z</updated>
+    <updated>2026-01-19T03:50:15.691Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Gaussian Splatting – A$AP Rocky "Helicopter" music video]]></title>
+        <id>https://news.ycombinator.com/item?id=46670024</id>
+        <link href="https://radiancefields.com/a-ap-rocky-releases-helicopter-music-video-featuring-gaussian-splatting"/>
+        <updated>2026-01-18T17:40:55.000Z</updated>
+        <summary type="html"><![CDATA[https://www.youtube.com/watch?v=g1-46Nu3HxQ
+Comments URL: https://news.ycombinator.com/item?id=46670024
+Points: 503
+# Comments: 163]]></summary>
+        <author>
+            <name>ChrisArchitect</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Iconify: Library of Open Source Icons]]></title>
         <id>https://news.ycombinator.com/item?id=46665411</id>
@@ -2346,29 +2359,6 @@ Points: 521
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>Hussein Nasser</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Go ahead, self-host Postgres]]></title>
-        <id>https://news.ycombinator.com/item?id=46336947</id>
-        <link href="https://pierce.dev/notes/go-ahead-self-host-postgres#user-content-fn-1"/>
-        <updated>2025-12-20T15:43:15.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://pierce.dev/notes/go-ahead-self-host-postgres#user-content-fn-1
-Comments URL: https://news.ycombinator.com/item?id=46336947
-Points: 506
-# Comments: 306]]></summary>
-        <author>
-            <name>pavel_lishin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Distribution Is The Biggest Startup Moat]]></title>
-        <id>https://www.youtube.com/shorts/ILLADQVjxkU</id>
-        <link href="https://www.youtube.com/shorts/ILLADQVjxkU"/>
-        <updated>2025-12-20T13:55:51.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Think School</name>
         </author>
     </entry>
 </feed>
