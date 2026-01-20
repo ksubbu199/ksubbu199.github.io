@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-01-20T05:28:57.832Z</updated>
+    <updated>2026-01-20T06:36:42.769Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -56,6 +56,19 @@ Points: 593
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>Think School</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Radboud University selects Fairphone as standard smartphone for employees]]></title>
+        <id>https://news.ycombinator.com/item?id=46676276</id>
+        <link href="https://www.ru.nl/en/staff/news/radboud-university-selects-fairphone-as-standard-smartphone-for-employees"/>
+        <updated>2026-01-19T08:23:04.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.ru.nl/en/staff/news/radboud-university-selects-fairphone-as-standard-smartphone-for-employees
+Comments URL: https://news.ycombinator.com/item?id=46676276
+Points: 502
+# Comments: 236]]></summary>
+        <author>
+            <name>ardentsword</name>
         </author>
     </entry>
     <entry>
@@ -2358,19 +2371,6 @@ Points: 503
 # Comments: 166]]></summary>
         <author>
             <name>janandonly</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Logging sucks]]></title>
-        <id>https://news.ycombinator.com/item?id=46346796</id>
-        <link href="https://loggingsucks.com/"/>
-        <updated>2025-12-21T18:09:52.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://loggingsucks.com/
-Comments URL: https://news.ycombinator.com/item?id=46346796
-Points: 505
-# Comments: 186]]></summary>
-        <author>
-            <name>FlorinSays</name>
         </author>
     </entry>
 </feed>
