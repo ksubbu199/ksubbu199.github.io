@@ -156,6 +156,16 @@
           "imageUrl": "https://ossa-ma.github.io/images/theworldisads.png"
         },
         {
+          "id": "https://news.ycombinator.com/item?id=46665839",
+          "author": "icy",
+          "description": "Article URL: https://overreacted.io/a-social-filesystem/\nComments URL: https://news.ycombinator.com/item?id=46665839\nPoints: 500\n# Comments: 237",
+          "link": "https://overreacted.io/a-social-filesystem/",
+          "publishedOn": "2026-01-18T08:18:36.000Z",
+          "wordCount": 371360,
+          "title": "A Social Filesystem",
+          "imageUrl": "https://overreacted.io/a-social-filesystem/opengraph-image?5b0b970dfd19bb8c"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=46665411",
           "author": "sea-gold",
           "description": "Article URL: https://icon-sets.iconify.design/\nComments URL: https://news.ycombinator.com/item?id=46665411\nPoints: 502\n# Comments: 56",
@@ -1582,6 +1592,16 @@
       "feedUrl": "https://martinfowler.com/feed.atom",
       "siteUrl": "https://martinfowler.com/feed.atom",
       "articles": [
+        {
+          "id": "https://martinfowler.com/articles/convo-what-how.html",
+          "author": null,
+          "description": "A conversation between Unmesh Joshi, Rebecca\n      Parsons, and Martin Fowler on how LLMs help us\n      shape the abstractions in our software. We view our challenge as building\n      systems that survive change, requiring us to manage our cognitive load. We\n      can do this by mapping the “what” of we want our software to do into the\n      “how” of programming languages. This “what” and “how” are built up in a\n      feedback loop. TDD helps us operationalize that loop, and LLMs allow us to\n      explore that loop in an informal and more fluid manner.\nmore…",
+          "link": "https://martinfowler.com/articles/convo-what-how.html",
+          "publishedOn": "2026-01-21T14:40:00.000Z",
+          "wordCount": 3485,
+          "title": "Conversation: LLMs and the what/how loop",
+          "imageUrl": "https://martinfowler.com/logo-sq.png"
+        },
         {
           "id": "https://martinfowler.com/articles/stop-picking-sides.html",
           "author": null,

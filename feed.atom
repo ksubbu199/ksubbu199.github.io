@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-01-21T14:31:04.187Z</updated>
+    <updated>2026-01-21T15:32:48.662Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Conversation: LLMs and the what/how loop]]></title>
+        <id>https://martinfowler.com/articles/convo-what-how.html</id>
+        <link href="https://martinfowler.com/articles/convo-what-how.html"/>
+        <updated>2026-01-21T14:40:00.000Z</updated>
+        <summary type="html"><![CDATA[A conversation between Unmesh Joshi, Rebecca
+      Parsons, and Martin Fowler on how LLMs help us
+      shape the abstractions in our software. We view our challenge as building
+      systems that survive change, requiring us to manage our cognitive load. We
+      can do this by mapping the “what” of we want our software to do into the
+      “how” of programming languages. This “what” and “how” are built up in a
+      feedback loop. TDD helps us operationalize that loop, and LLMs allow us to
+      explore that loop in an informal and more fluid manner.
+more…]]></summary>
+        <author>
+            <name>Martin Fowler</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[A 26,000-year astronomical monument hidden in plain sight (2019)]]></title>
         <id>https://news.ycombinator.com/item?id=46695628</id>
@@ -247,6 +265,19 @@ Points: 508
 # Comments: 441]]></summary>
         <author>
             <name>calcifer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Social Filesystem]]></title>
+        <id>https://news.ycombinator.com/item?id=46665839</id>
+        <link href="https://overreacted.io/a-social-filesystem/"/>
+        <updated>2026-01-18T08:18:36.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://overreacted.io/a-social-filesystem/
+Comments URL: https://news.ycombinator.com/item?id=46665839
+Points: 500
+# Comments: 237]]></summary>
+        <author>
+            <name>icy</name>
         </author>
     </entry>
     <entry>
