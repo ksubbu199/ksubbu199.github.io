@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-01-21T15:32:48.662Z</updated>
+    <updated>2026-01-21T16:48:34.019Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -22,6 +22,32 @@
 more…]]></summary>
         <author>
             <name>Martin Fowler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EU–INC – A new pan-European legal entity]]></title>
+        <id>https://news.ycombinator.com/item?id=46703763</id>
+        <link href="https://www.eu-inc.org/"/>
+        <updated>2026-01-21T10:49:20.000Z</updated>
+        <summary type="html"><![CDATA[Speech: https://ec.europa.eu/commission/presscorner/detail/da/speech...
+Comments URL: https://news.ycombinator.com/item?id=46703763
+Points: 523
+# Comments: 507]]></summary>
+        <author>
+            <name>tilt</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Anthropic's original take home assignment open sourced]]></title>
+        <id>https://news.ycombinator.com/item?id=46700594</id>
+        <link href="https://github.com/anthropics/original_performance_takehome"/>
+        <updated>2026-01-21T02:54:32.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://github.com/anthropics/original_performance_takehome
+Comments URL: https://news.ycombinator.com/item?id=46700594
+Points: 529
+# Comments: 249]]></summary>
+        <author>
+            <name>myahio</name>
         </author>
     </entry>
     <entry>
