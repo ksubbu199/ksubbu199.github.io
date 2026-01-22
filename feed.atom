@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-01-22T09:32:57.219Z</updated>
+    <updated>2026-01-22T10:27:37.064Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How a Receptionist Became Worth ₹2500 Cr]]></title>
+        <id>https://www.youtube.com/shorts/yL2OzhSn3pU</id>
+        <link href="https://www.youtube.com/shorts/yL2OzhSn3pU"/>
+        <updated>2026-01-22T10:07:56.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Think School</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[WHY Fancy jobs stall your career growth!]]></title>
         <id>https://www.youtube.com/shorts/TgEiJtBc1WA</id>
@@ -2407,19 +2417,6 @@ Points: 513
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>Think School</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[X-ray: a Python library for finding bad redactions in PDF documents]]></title>
-        <id>https://news.ycombinator.com/item?id=46369923</id>
-        <link href="https://github.com/freelawproject/x-ray"/>
-        <updated>2025-12-23T21:54:30.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://github.com/freelawproject/x-ray
-Comments URL: https://news.ycombinator.com/item?id=46369923
-Points: 513
-# Comments: 92]]></summary>
-        <author>
-            <name>rendx</name>
         </author>
     </entry>
 </feed>
