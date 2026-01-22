@@ -67,31 +67,34 @@
                     class="source-heading__name"
                     data-action="toggle-accordions"
                     title="Click to toggle the source, Ctrl + click to toggle all."
-                  >Martin Fowler</button>
-                  <a class="source-heading__link" href="https://martinfowler.com/feed.atom">Open</a>
+                  >Hacker News: Newest</button>
+                  <a class="source-heading__link" href="https://news.ycombinator.com/newest">Open</a>
                 </h3>
                 <section class="articles-per-source">
                     <article>
                       <details
                         class="article-expander"
                         data-action="toggle-native-accordion"
-                        data-accordion-key="https://martinfowler.com/articles/convo-what-how.html"
+                        data-accordion-key="https://news.ycombinator.com/item?id&#x3D;46706528"
                         open
                       >
-                        <summary class="article-expander__title">Conversation: LLMs and the what/how loop</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://martinfowler.com/articles/convo-what-how.html">
+                        <summary class="article-expander__title">Show HN: ChartGPU – WebGPU-powered charting library (1M points at 60fps)</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://github.com/ChartGPU/ChartGPU">
                           <div class="article-summary-box-inner media-object">
-                              <img src="https://martinfowler.com/logo-sq.png" loading="lazy" class="media-object__media article-image" />
+                              <img src="https://opengraph.githubassets.com/b21964e24d88f1dab2899df2b1f477efdfe5adc0d54fcd19790eb8e27dd79b72/ChartGPU/ChartGPU" loading="lazy" class="media-object__media article-image" />
                             <span class="media-object__text">
-                              <span>A conversation between Unmesh Joshi, Rebecca
-      Parsons, and Martin Fowler on how LLMs help us
-      shape the abstractions in our software. We view our challenge as building
-      systems that survive change, requiring us to manage our cognitive load. We
-      can do this by mapping the “what” of we want our software to do into the
-      “how” of programming languages. This “what” and “how” are built up in a
-      feedback loop. TDD helps us operationalize that loop, and LLMs allow us to
-      explore that loop in an informal and more fluid manner.
-more…</span>
+                              <span>Creator here. I built ChartGPU because I kept hitting the same wall: charting libraries that claim to be &quot;fast&quot; but choke past 100K data points.
+The core insight: Canvas2D is fundamentally CPU-bound. Even WebGL chart libraries still do most computation on the CPU. So I moved everything to the GPU via WebGPU:
+- LTTB downsampling runs as a compute shader
+- Hit-testing for tooltips/hover is GPU-accelerated
+- Rendering uses instanced draws (one draw call per series)
+The result: 1M points at 60fps with smooth zoom/pan.
+Live demo: https://chartgpu.github.io/ChartGPU/examples/million-points/
+Currently supports line, area, bar, scatter, pie, and candlestick charts. MIT licensed, available on npm: &#x60;npm install chartgpu&#x60;
+Happy to answer questions about WebGPU internals or architecture decisions.
+Comments URL: https://news.ycombinator.com/item?id&#x3D;46706528
+Points: 501
+# Comments: 146</span>
                                 &ensp;<span class="article-reading-time">(&hairsp;12
                                   min&hairsp;)</span>
                             </span>
@@ -99,20 +102,6 @@ more…</span>
                         </a>
                       </details>
                     </article>
-                </section>
-              </section>
-            </li>
-            <li class="card__section">
-              <section class="js-toggle-accordions-scope">
-                <h3 class="source-heading">
-                  <button
-                    class="source-heading__name"
-                    data-action="toggle-accordions"
-                    title="Click to toggle the source, Ctrl + click to toggle all."
-                  >Hacker News: Newest</button>
-                  <a class="source-heading__link" href="https://news.ycombinator.com/newest">Open</a>
-                </h3>
-                <section class="articles-per-source">
                     <article>
                       <details
                         class="article-expander"
@@ -153,6 +142,48 @@ Comments URL: https://news.ycombinator.com/item?id&#x3D;46700594
 Points: 529
 # Comments: 249</span>
                                 &ensp;<span class="article-reading-time">(&hairsp;4
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >Martin Fowler</button>
+                  <a class="source-heading__link" href="https://martinfowler.com/feed.atom">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://martinfowler.com/articles/convo-what-how.html"
+                        open
+                      >
+                        <summary class="article-expander__title">Conversation: LLMs and the what/how loop</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://martinfowler.com/articles/convo-what-how.html">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://martinfowler.com/logo-sq.png" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>A conversation between Unmesh Joshi, Rebecca
+      Parsons, and Martin Fowler on how LLMs help us
+      shape the abstractions in our software. We view our challenge as building
+      systems that survive change, requiring us to manage our cognitive load. We
+      can do this by mapping the “what” of we want our software to do into the
+      “how” of programming languages. This “what” and “how” are built up in a
+      feedback loop. TDD helps us operationalize that loop, and LLMs allow us to
+      explore that loop in an informal and more fluid manner.
+more…</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;12
                                   min&hairsp;)</span>
                             </span>
                           </div>
@@ -5486,25 +5517,6 @@ Points: 543
                         </a>
                       </details>
                     </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://www.youtube.com/shorts/rdsYCXAe4jY"
-                        open
-                      >
-                        <summary class="article-expander__title">Can Your Daily Habits Unlock Secret Market Insights?</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://www.youtube.com/shorts/rdsYCXAe4jY">
-                          <div class="article-summary-box-inner media-object">
-                            <span class="media-object__text">
-                              <span>Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;10
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
                 </section>
               </section>
             </li>
@@ -5512,8 +5524,8 @@ Points: 543
       </section>
 
     <footer>
-      <a class="footer-link" href="https://github.com/ksubbu199/ksubbu199.github.io/actions/runs/21229465137">
-        <time id="build-timestamp" datetime="2026-01-21T23:26:44.442Z">2026-01-21T23:26:44.442Z</time>
+      <a class="footer-link" href="https://github.com/ksubbu199/ksubbu199.github.io/actions/runs/21232934100">
+        <time id="build-timestamp" datetime="2026-01-22T01:49:56.231Z">2026-01-22T01:49:56.231Z</time>
       </a>
       <a class="footer-link" href="https://github.com/osmoscraft/osmosfeed">osmosfeed 1.15.1</a>
     </footer>
