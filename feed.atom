@@ -2,10 +2,45 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-01-22T14:30:51.114Z</updated>
+    <updated>2026-01-22T15:31:33.512Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Will IRAN's Regime Change Happen? | Economic Case Study]]></title>
+        <id>https://www.youtube.com/watch?v=xCemMgYKjSc</id>
+        <link href="https://www.youtube.com/watch?v=xCemMgYKjSc"/>
+        <updated>2026-01-22T14:57:06.000Z</updated>
+        <author>
+            <name>Think School</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fragments: January 22]]></title>
+        <id>https://martinfowler.com/fragments/2026-01-22.html</id>
+        <link href="https://martinfowler.com/fragments/2026-01-22.html"/>
+        <updated>2026-01-22T14:30:00.000Z</updated>
+        <summary type="html"><![CDATA[My colleagues here at Thoughtworks have announced AI/works™, a platform for our work using AI-enabled software development. The platform is in its early days, and is currently intended to support Thoughtworks consultants in their client work. I’m looking forward to sharing what we learn from using and further developing the platform in future months.
+ ❄                ❄                ❄                ❄                ❄
+Simon Couch examines the electricity consumption of using AI. He’s a heavy user: “usually programming for a few hours, and driving 2 or 3 Claude Code instances at a time”. He finds his usage of electricity is orders of magnitude more than typical estimates based on the “typical query”.
+On a median day, I estimate I consume 1,300 Wh through Claude Code—4,400 “typical queries…]]></summary>
+        <author>
+            <name>Martin Fowler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[We will ban you and ridicule you in public if you waste our time on crap reports]]></title>
+        <id>https://news.ycombinator.com/item?id=46717556</id>
+        <link href="https://curl.se/.well-known/security.txt"/>
+        <updated>2026-01-22T10:48:27.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://curl.se/.well-known/security.txt
+Comments URL: https://news.ycombinator.com/item?id=46717556
+Points: 585
+# Comments: 339]]></summary>
+        <author>
+            <name>latexr</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How a Receptionist Became Worth ₹2500 Cr]]></title>
         <id>https://www.youtube.com/shorts/yL2OzhSn3pU</id>
@@ -34,6 +69,19 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>Hussein Nasser</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Claude's new constitution]]></title>
+        <id>https://news.ycombinator.com/item?id=46707572</id>
+        <link href="https://www.anthropic.com/news/claude-new-constitution"/>
+        <updated>2026-01-21T16:04:49.000Z</updated>
+        <summary type="html"><![CDATA[https://www.anthropic.com/constitution
+Comments URL: https://news.ycombinator.com/item?id=46707572
+Points: 502
+# Comments: 586]]></summary>
+        <author>
+            <name>meetpateltech</name>
         </author>
     </entry>
     <entry>

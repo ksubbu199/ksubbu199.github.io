@@ -6,6 +6,26 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=46717556",
+          "author": "latexr",
+          "description": "Article URL: https://curl.se/.well-known/security.txt\nComments URL: https://news.ycombinator.com/item?id=46717556\nPoints: 585\n# Comments: 339",
+          "link": "https://curl.se/.well-known/security.txt",
+          "publishedOn": "2026-01-22T10:48:27.000Z",
+          "wordCount": 121,
+          "title": "We will ban you and ridicule you in public if you waste our time on crap reports",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=46707572",
+          "author": "meetpateltech",
+          "description": "https://www.anthropic.com/constitution\nComments URL: https://news.ycombinator.com/item?id=46707572\nPoints: 502\n# Comments: 586",
+          "link": "https://www.anthropic.com/news/claude-new-constitution",
+          "publishedOn": "2026-01-21T16:04:49.000Z",
+          "wordCount": 4364,
+          "title": "Claude's new constitution",
+          "imageUrl": "https://www.anthropic.com/api/opengraph-illustration?name=Node-Constitution&backgroundColor=olive"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=46706528",
           "author": "huntergemmer",
           "description": "Creator here. I built ChartGPU because I kept hitting the same wall: charting libraries that claim to be \"fast\" but choke past 100K data points.\nThe core insight: Canvas2D is fundamentally CPU-bound. Even WebGL chart libraries still do most computation on the CPU. So I moved everything to the GPU via WebGPU:\n- LTTB downsampling runs as a compute shader\n- Hit-testing for tooltips/hover is GPU-accelerated\n- Rendering uses instanced draws (one draw call per series)\nThe result: 1M points at 60fps with smooth zoom/pan.\nLive demo: https://chartgpu.github.io/ChartGPU/examples/million-points/\nCurrently supports line, area, bar, scatter, pie, and candlestick charts. MIT licensed, available on npm: `npm install chartgpu`\nHappy to answer questions about WebGPU internals or architecture decisions.\nComments URL: https://news.ycombinator.com/item?id=46706528\nPoints: 501\n# Comments: 146",
@@ -1583,6 +1603,16 @@
       "siteUrl": "https://martinfowler.com/feed.atom",
       "articles": [
         {
+          "id": "https://martinfowler.com/fragments/2026-01-22.html",
+          "author": null,
+          "description": "My colleagues here at Thoughtworks have announced AI/works™, a platform for our work using AI-enabled software development. The platform is in its early days, and is currently intended to support Thoughtworks consultants in their client work. I’m looking forward to sharing what we learn from using and further developing the platform in future months.\n ❄                ❄                ❄                ❄                ❄\nSimon Couch examines the electricity consumption of using AI. He’s a heavy user: “usually programming for a few hours, and driving 2 or 3 Claude Code instances at a time”. He finds his usage of electricity is orders of magnitude more than typical estimates based on the “typical query”.\nOn a median day, I estimate I consume 1,300 Wh through Claude Code—4,400 “typical queries…",
+          "link": "https://martinfowler.com/fragments/2026-01-22.html",
+          "publishedOn": "2026-01-22T14:30:00.000Z",
+          "wordCount": 798,
+          "title": "Fragments: January 22",
+          "imageUrl": "https://martinfowler.com/logo-sq.png"
+        },
+        {
           "id": "https://martinfowler.com/articles/convo-what-how.html",
           "author": null,
           "description": "A conversation between Unmesh Joshi, Rebecca\n      Parsons, and Martin Fowler on how LLMs help us\n      shape the abstractions in our software. We view our challenge as building\n      systems that survive change, requiring us to manage our cognitive load. We\n      can do this by mapping the “what” of we want our software to do into the\n      “how” of programming languages. This “what” and “how” are built up in a\n      feedback loop. TDD helps us operationalize that loop, and LLMs allow us to\n      explore that loop in an informal and more fluid manner.\nmore…",
@@ -1652,6 +1682,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKZozRVHRYsYHGEyNKuhhdA",
       "siteUrl": "https://www.youtube.com/channel/UCKZozRVHRYsYHGEyNKuhhdA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=xCemMgYKjSc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=xCemMgYKjSc",
+          "publishedOn": "2026-01-22T14:57:06.000Z",
+          "wordCount": null,
+          "title": "Will IRAN's Regime Change Happen? | Economic Case Study",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/shorts/yL2OzhSn3pU",
           "author": null,
