@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=46721802",
+          "author": "cannoneyed",
+          "description": "Hey HN! I wanted to share something I built over the last few weeks: isometric.nyc is a massive isometric pixel art map of NYC, built with nano banana and coding agents.\nI didn't write a single line of code.\nOf course no-code doesn't mean no-engineering. This project took a lot more manual labor than I'd hoped!\nI wrote a deep dive on the workflow and some thoughts about the future of AI coding and creativity:\nhttp://cannoneyed.com/projects/isometric-nyc\nComments URL: https://news.ycombinator.com/item?id=46721802\nPoints: 513\n# Comments: 138",
+          "link": "https://cannoneyed.com/isometric-nyc/",
+          "publishedOn": "2026-01-22T16:52:35.000Z",
+          "wordCount": 4,
+          "title": "Show HN: isometric.nyc – giant isometric pixel art map of NYC",
+          "imageUrl": null
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=46720395",
           "author": "segmenta",
           "description": "Article URL: https://gptzero.me/news/neurips/\nComments URL: https://news.ycombinator.com/item?id=46720395\nPoints: 544\n# Comments: 281",
@@ -54,6 +64,16 @@
           "wordCount": 4364,
           "title": "Claude's new constitution",
           "imageUrl": "https://www.anthropic.com/api/opengraph-illustration?name=Node-Constitution&backgroundColor=olive"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=46706906",
+          "author": "dayanruben",
+          "description": "Article URL: https://skip.dev/blog/skip-is-free/\nComments URL: https://news.ycombinator.com/item?id=46706906\nPoints: 501\n# Comments: 222",
+          "link": "https://skip.dev/blog/skip-is-free/",
+          "publishedOn": "2026-01-21T15:20:53.000Z",
+          "wordCount": 2032,
+          "title": "Skip is now free and open source",
+          "imageUrl": null
         },
         {
           "id": "https://news.ycombinator.com/item?id=46706528",
