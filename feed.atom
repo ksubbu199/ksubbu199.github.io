@@ -2,10 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-01-23T07:26:10.548Z</updated>
+    <updated>2026-01-23T08:31:26.471Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Bugs Apple Loves]]></title>
+        <id>https://news.ycombinator.com/item?id=46727587</id>
+        <link href="https://www.bugsappleloves.com/"/>
+        <updated>2026-01-23T02:24:12.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.bugsappleloves.com
+Comments URL: https://news.ycombinator.com/item?id=46727587
+Points: 529
+# Comments: 224]]></summary>
+        <author>
+            <name>nhod</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I was banned from Claude for scaffolding a Claude.md file?]]></title>
+        <id>https://news.ycombinator.com/item?id=46723384</id>
+        <link href="https://hugodaniel.com/posts/claude-code-banned-me/"/>
+        <updated>2026-01-22T18:38:27.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://hugodaniel.com/posts/claude-code-banned-me/
+Comments URL: https://news.ycombinator.com/item?id=46723384
+Points: 500
+# Comments: 401]]></summary>
+        <author>
+            <name>hugodan</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Show HN: isometric.nyc – giant isometric pixel art map of NYC]]></title>
         <id>https://news.ycombinator.com/item?id=46721802</id>

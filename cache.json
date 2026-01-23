@@ -6,6 +6,26 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=46727587",
+          "author": "nhod",
+          "description": "Article URL: https://www.bugsappleloves.com\nComments URL: https://news.ycombinator.com/item?id=46727587\nPoints: 529\n# Comments: 224",
+          "link": "https://www.bugsappleloves.com/",
+          "publishedOn": "2026-01-23T02:24:12.000Z",
+          "wordCount": 185,
+          "title": "Bugs Apple Loves",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=46723384",
+          "author": "hugodan",
+          "description": "Article URL: https://hugodaniel.com/posts/claude-code-banned-me/\nComments URL: https://news.ycombinator.com/item?id=46723384\nPoints: 500\n# Comments: 401",
+          "link": "https://hugodaniel.com/posts/claude-code-banned-me/",
+          "publishedOn": "2026-01-22T18:38:27.000Z",
+          "wordCount": null,
+          "title": "I was banned from Claude for scaffolding a Claude.md file?",
+          "imageUrl": null
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=46721802",
           "author": "cannoneyed",
           "description": "Hey HN! I wanted to share something I built over the last few weeks: isometric.nyc is a massive isometric pixel art map of NYC, built with nano banana and coding agents.\nI didn't write a single line of code.\nOf course no-code doesn't mean no-engineering. This project took a lot more manual labor than I'd hoped!\nI wrote a deep dive on the workflow and some thoughts about the future of AI coding and creativity:\nhttp://cannoneyed.com/projects/isometric-nyc\nComments URL: https://news.ycombinator.com/item?id=46721802\nPoints: 513\n# Comments: 138",
