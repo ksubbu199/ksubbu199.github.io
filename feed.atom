@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-01-23T15:25:53.743Z</updated>
+    <updated>2026-01-23T16:30:16.276Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -121,6 +121,19 @@ Points: 503
 # Comments: 160]]></summary>
         <author>
             <name>Palmik</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Douglas Adams on the English–American cultural divide over "heroes"]]></title>
+        <id>https://news.ycombinator.com/item?id=46719222</id>
+        <link href="https://shreevatsa.net/post/douglas-adams-cultural-divide/"/>
+        <updated>2026-01-22T13:50:48.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://shreevatsa.net/post/douglas-adams-cultural-divide/
+Comments URL: https://news.ycombinator.com/item?id=46719222
+Points: 503
+# Comments: 505]]></summary>
+        <author>
+            <name>speckx</name>
         </author>
     </entry>
     <entry>
@@ -2529,19 +2542,6 @@ Points: 505
 # Comments: 109]]></summary>
         <author>
             <name>rajeshrajappan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ruby 4.0.0]]></title>
-        <id>https://news.ycombinator.com/item?id=46382011</id>
-        <link href="https://www.ruby-lang.org/en/news/2025/12/25/ruby-4-0-0-released/"/>
-        <updated>2025-12-25T04:13:00.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.ruby-lang.org/en/news/2025/12/25/ruby-4-0-0-released/
-Comments URL: https://news.ycombinator.com/item?id=46382011
-Points: 514
-# Comments: 94]]></summary>
-        <author>
-            <name>FBISurveillance</name>
         </author>
     </entry>
 </feed>
