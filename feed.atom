@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-01-23T22:18:15.432Z</updated>
+    <updated>2026-01-23T23:22:09.285Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Microsoft gave FBI set of BitLocker encryption keys to unlock suspects' laptops]]></title>
+        <id>https://news.ycombinator.com/item?id=46735545</id>
+        <link href="https://techcrunch.com/2026/01/23/microsoft-gave-fbi-a-set-of-bitlocker-encryption-keys-to-unlock-suspects-laptops-reports/"/>
+        <updated>2026-01-23T17:58:56.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://techcrunch.com/2026/01/23/microsoft-gave-fbi-a-set-of-bitlocker-encryption-keys-to-unlock-suspects-laptops-reports/
+Comments URL: https://news.ycombinator.com/item?id=46735545
+Points: 531
+# Comments: 377]]></summary>
+        <author>
+            <name>bookofjoe</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[European Alternatives]]></title>
         <id>https://news.ycombinator.com/item?id=46731976</id>
@@ -2542,19 +2555,6 @@ Points: 509
         <updated>2025-12-25T19:41:19.000Z</updated>
         <author>
             <name>Hussein Nasser</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[We invited a man into our home at Christmas and he stayed with us for 45 years]]></title>
-        <id>https://news.ycombinator.com/item?id=46383552</id>
-        <link href="https://www.bbc.co.uk/news/articles/cdxwllqz1l0o"/>
-        <updated>2025-12-25T10:35:34.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.bbc.co.uk/news/articles/cdxwllqz1l0o
-Comments URL: https://news.ycombinator.com/item?id=46383552
-Points: 505
-# Comments: 109]]></summary>
-        <author>
-            <name>rajeshrajappan</name>
         </author>
     </entry>
 </feed>
