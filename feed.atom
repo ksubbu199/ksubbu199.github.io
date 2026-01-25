@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-01-25T06:32:56.493Z</updated>
+    <updated>2026-01-25T07:21:28.155Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -27,6 +27,19 @@ Points: 511
 # Comments: 528]]></summary>
         <author>
             <name>oceansky</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MS confirms it will give the FBI your Windows PC data encryption key if asked]]></title>
+        <id>https://news.ycombinator.com/item?id=46743154</id>
+        <link href="https://www.windowscentral.com/microsoft/windows-11/microsoft-bitlocker-encryption-keys-give-fbi-legal-order-privacy-nightmare"/>
+        <updated>2026-01-24T12:55:22.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.windowscentral.com/microsoft/windows-11/microsoft-bitlocker-encryption-keys-give-fbi-legal-order-privacy-nightmare
+Comments URL: https://news.ycombinator.com/item?id=46743154
+Points: 502
+# Comments: 299]]></summary>
+        <author>
+            <name>blacktulip</name>
         </author>
     </entry>
     <entry>
@@ -2505,19 +2518,6 @@ Points: 501
 # Comments: 561]]></summary>
         <author>
             <name>rishabhaiover</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[My insulin pump controller uses the Linux kernel. It also violates the GPL]]></title>
-        <id>https://news.ycombinator.com/item?id=46395184</id>
-        <link href="https://old.reddit.com/r/linux/comments/1puojsr/the_device_that_controls_my_insulin_pump_uses_the/"/>
-        <updated>2025-12-26T19:13:22.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://old.reddit.com/r/linux/comments/1puojsr/the_device_that_controls_my_insulin_pump_uses_the/
-Comments URL: https://news.ycombinator.com/item?id=46395184
-Points: 500
-# Comments: 258]]></summary>
-        <author>
-            <name>davisr</name>
         </author>
     </entry>
 </feed>
