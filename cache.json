@@ -1604,26 +1604,6 @@
           "wordCount": 1231,
           "title": "How uv got so fast",
           "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=46392910",
-          "author": "pranshuparmar",
-          "description": "Hi HN,\nI built a small Linux CLI tool called witr (Why Is This Running?).\nThe idea came from a situation most of us have hit: you log into a machine, see a process or port running, and immediately wonder why it exists, who started it, and what is keeping it alive right now.\nwitr traces a process, service, or port back to its origin and responsibility chain and explains it in a way that’s quick to read, especially when you’re debugging under pressure.\nThis is v0.1.0. It’s intentionally small and focused.\nFeedback, criticism, and edge cases are very welcome.\nRepo: https://github.com/pranshuparmar/witr\nComments URL: https://news.ycombinator.com/item?id=46392910\nPoints: 500\n# Comments: 98",
-          "link": "https://github.com/pranshuparmar/witr",
-          "publishedOn": "2025-12-26T15:20:36.000Z",
-          "wordCount": 9917,
-          "title": "Show HN: Witr – Explain why a process is running on your Linux system",
-          "imageUrl": "https://opengraph.githubassets.com/ce66fc47197d3305b004484bd7d7546567133da994216a4cd716354024469daa/pranshuparmar/witr"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=46392115",
-          "author": "christoph-heiss",
-          "description": "Article URL: https://skyview.social/?url=https%3A%2F%2Fbsky.app%2Fprofile%2Frobpike.io%2Fpost%2F3matwg6w3ic2s&viewtype=tree\nComments URL: https://news.ycombinator.com/item?id=46392115\nPoints: 532\n# Comments: 496",
-          "link": "https://skyview.social/?url=https%3A%2F%2Fbsky.app%2Fprofile%2Frobpike.io%2Fpost%2F3matwg6w3ic2s&viewtype=tree",
-          "publishedOn": "2025-12-26T14:08:47.000Z",
-          "wordCount": 11,
-          "title": "Rob Pike Goes Nuclear over GenAI",
-          "imageUrl": "https://cdn.bsky.app/img/avatar/plain/did:plc:vsgr3rwyckhiavgqzdcuzm6i/bafkreig5vsojzvkwmf5liew6brmd6jhp6gxlwvo5cqbmt2asloj2gg6rhq@jpeg"
         }
       ]
     },

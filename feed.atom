@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-01-25T01:55:58.383Z</updated>
+    <updated>2026-01-25T03:55:04.886Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -2531,38 +2531,6 @@ Points: 533
 # Comments: 179]]></summary>
         <author>
             <name>zdw</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: Witr – Explain why a process is running on your Linux system]]></title>
-        <id>https://news.ycombinator.com/item?id=46392910</id>
-        <link href="https://github.com/pranshuparmar/witr"/>
-        <updated>2025-12-26T15:20:36.000Z</updated>
-        <summary type="html"><![CDATA[Hi HN,
-I built a small Linux CLI tool called witr (Why Is This Running?).
-The idea came from a situation most of us have hit: you log into a machine, see a process or port running, and immediately wonder why it exists, who started it, and what is keeping it alive right now.
-witr traces a process, service, or port back to its origin and responsibility chain and explains it in a way that’s quick to read, especially when you’re debugging under pressure.
-This is v0.1.0. It’s intentionally small and focused.
-Feedback, criticism, and edge cases are very welcome.
-Repo: https://github.com/pranshuparmar/witr
-Comments URL: https://news.ycombinator.com/item?id=46392910
-Points: 500
-# Comments: 98]]></summary>
-        <author>
-            <name>pranshuparmar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rob Pike Goes Nuclear over GenAI]]></title>
-        <id>https://news.ycombinator.com/item?id=46392115</id>
-        <link href="https://skyview.social/?url=https%3A%2F%2Fbsky.app%2Fprofile%2Frobpike.io%2Fpost%2F3matwg6w3ic2s&amp;viewtype=tree"/>
-        <updated>2025-12-26T14:08:47.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://skyview.social/?url=https%3A%2F%2Fbsky.app%2Fprofile%2Frobpike.io%2Fpost%2F3matwg6w3ic2s&viewtype=tree
-Comments URL: https://news.ycombinator.com/item?id=46392115
-Points: 532
-# Comments: 496]]></summary>
-        <author>
-            <name>christoph-heiss</name>
         </author>
     </entry>
 </feed>
