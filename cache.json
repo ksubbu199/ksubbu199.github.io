@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=46757067",
+          "author": "andsoitis",
+          "description": "Article URL: https://gwern.net/blog/2026/make-me-care\nComments URL: https://news.ycombinator.com/item?id=46757067\nPoints: 515\n# Comments: 148",
+          "link": "https://gwern.net/blog/2026/make-me-care",
+          "publishedOn": "2026-01-25T19:03:40.000Z",
+          "wordCount": 125,
+          "title": "First, make me care",
+          "imageUrl": null
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=46756117",
           "author": "JKCalhoun",
           "description": "Article URL: https://www.eff.org/deeplinks/2026/01/report-ice-using-palantir-tool-feeds-medicaid-data\nComments URL: https://news.ycombinator.com/item?id=46756117\nPoints: 529\n# Comments: 265",
@@ -1644,16 +1654,6 @@
           "wordCount": 1841,
           "title": "How we lost communication to entertainment",
           "imageUrl": "https://ploum.net/files/framalistes.jpg"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=46403559",
-          "author": "ossa-ma",
-          "description": "Article URL: https://ossa-ma.github.io/blog/groq\nComments URL: https://news.ycombinator.com/item?id=46403559\nPoints: 508\n# Comments: 159",
-          "link": "https://ossa-ma.github.io/blog/groq",
-          "publishedOn": "2025-12-27T17:42:46.000Z",
-          "wordCount": 5877,
-          "title": "Nvidia's $20B antitrust loophole",
-          "imageUrl": "https://ossa-ma.github.io/og.png"
         }
       ]
     },
@@ -1782,6 +1782,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKZozRVHRYsYHGEyNKuhhdA",
       "siteUrl": "https://www.youtube.com/channel/UCKZozRVHRYsYHGEyNKuhhdA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=41iVKxkfxr0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=41iVKxkfxr0",
+          "publishedOn": "2026-01-26T06:15:00.000Z",
+          "wordCount": null,
+          "title": "Semiconductors are the New Oil & Where India Stands Today in the race? ft. Ashwini Vaishnaw | IBP 51",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/shorts/FAngTmFmEtI",
           "author": null,
@@ -2067,16 +2077,6 @@
           "publishedOn": "2025-12-29T15:00:35.000Z",
           "wordCount": null,
           "title": "All Kernel Page Faults Explained",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/shorts/envdRxmctTY",
-          "author": null,
-          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-          "link": "https://www.youtube.com/shorts/envdRxmctTY",
-          "publishedOn": "2025-12-27T18:00:44.000Z",
-          "wordCount": 2105,
-          "title": "Kernel Mode explained",
           "imageUrl": null
         }
       ]

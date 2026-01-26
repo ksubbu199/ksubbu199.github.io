@@ -2,10 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-01-26T05:37:56.906Z</updated>
+    <updated>2026-01-26T06:37:27.095Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Semiconductors are the New Oil & Where India Stands Today in the race? ft. Ashwini Vaishnaw | IBP 51]]></title>
+        <id>https://www.youtube.com/watch?v=41iVKxkfxr0</id>
+        <link href="https://www.youtube.com/watch?v=41iVKxkfxr0"/>
+        <updated>2026-01-26T06:15:00.000Z</updated>
+        <author>
+            <name>Think School</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[First, make me care]]></title>
+        <id>https://news.ycombinator.com/item?id=46757067</id>
+        <link href="https://gwern.net/blog/2026/make-me-care"/>
+        <updated>2026-01-25T19:03:40.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://gwern.net/blog/2026/make-me-care
+Comments URL: https://news.ycombinator.com/item?id=46757067
+Points: 515
+# Comments: 148]]></summary>
+        <author>
+            <name>andsoitis</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ICE using Palantir tool that feeds on Medicaid data]]></title>
         <id>https://news.ycombinator.com/item?id=46756117</id>
@@ -2584,29 +2606,6 @@ Points: 509
 # Comments: 258]]></summary>
         <author>
             <name>8organicbits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kernel Mode explained]]></title>
-        <id>https://www.youtube.com/shorts/envdRxmctTY</id>
-        <link href="https://www.youtube.com/shorts/envdRxmctTY"/>
-        <updated>2025-12-27T18:00:44.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Hussein Nasser</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nvidia's $20B antitrust loophole]]></title>
-        <id>https://news.ycombinator.com/item?id=46403559</id>
-        <link href="https://ossa-ma.github.io/blog/groq"/>
-        <updated>2025-12-27T17:42:46.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://ossa-ma.github.io/blog/groq
-Comments URL: https://news.ycombinator.com/item?id=46403559
-Points: 508
-# Comments: 159]]></summary>
-        <author>
-            <name>ossa-ma</name>
         </author>
     </entry>
 </feed>
