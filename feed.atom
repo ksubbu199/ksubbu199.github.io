@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-01-26T12:50:08.932Z</updated>
+    <updated>2026-01-26T13:44:21.516Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -223,6 +223,19 @@ Points: 512
 # Comments: 270]]></summary>
         <author>
             <name>s_dev</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI Usage Policy]]></title>
+        <id>https://news.ycombinator.com/item?id=46730504</id>
+        <link href="https://github.com/ghostty-org/ghostty/blob/main/AI_POLICY.md"/>
+        <updated>2026-01-23T09:50:26.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://github.com/ghostty-org/ghostty/blob/main/AI_POLICY.md
+Comments URL: https://news.ycombinator.com/item?id=46730504
+Points: 500
+# Comments: 272]]></summary>
+        <author>
+            <name>mefengl</name>
         </author>
     </entry>
     <entry>
@@ -2567,19 +2580,6 @@ Points: 516
 # Comments: 72]]></summary>
         <author>
             <name>twapi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Replacing JavaScript with Just HTML]]></title>
-        <id>https://news.ycombinator.com/item?id=46407337</id>
-        <link href="https://www.htmhell.dev/adventcalendar/2025/27/"/>
-        <updated>2025-12-28T01:07:09.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.htmhell.dev/adventcalendar/2025/27/
-Comments URL: https://news.ycombinator.com/item?id=46407337
-Points: 522
-# Comments: 188]]></summary>
-        <author>
-            <name>soheilpro</name>
         </author>
     </entry>
 </feed>
