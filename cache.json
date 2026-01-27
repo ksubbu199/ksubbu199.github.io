@@ -1664,16 +1664,6 @@
           "wordCount": 750,
           "title": "Kidnapped by Deutsche Bahn",
           "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=46417815",
-          "author": "quesomaster9000",
-          "description": "How small can a language model be while still doing something useful? I wanted to find out, and had some spare time over the holidays.\nZ80-μLM is a character-level language model with 2-bit quantized weights ({-2,-1,0,+1}) that runs on a Z80 with 64KB RAM. The entire thing: inference, weights, chat UI, it all fits in a 40KB .COM file that you can run in a CP/M emulator and hopefully even real hardware!\nIt won't write your emails, but it can be trained to play a stripped down version of 20 Questions, and is sometimes able to maintain the illusion of having simple but terse conversations with a distinct personality.\n--\nThe extreme constraints nerd-sniped me and forced interesting trade-offs: trigram hashing (typo-tolerant, loses word order), 16-bit integer math, and some careful massaging of the training data meant I could keep the examples 'interesting'.\nThe key was quantization-aware training that accurately models the inference code limitations. The training loop runs both float and integer-quantized forward passes in parallel, scoring the model on how well its knowledge survives quantization. The weights are progressively pushed toward the 2-bit grid using straight-through estimators, with overflow penalties matching the Z80's 16-bit accumulator limits. By the end of training, the model has already adapted to its constraints, so no post-hoc quantization collapse.\nEventually I ended up spending a few dollars on Claude API to generate 20 questions data (see examples/guess/GUESS.COM), I hope Anthropic won't send me a C&D for distilling their model against the ToS ;P\nBut anyway, happy code-golf season everybody :)\nComments URL: https://news.ycombinator.com/item?id=46417815\nPoints: 500\n# Comments: 117",
-          "link": "https://github.com/HarryR/z80ai",
-          "publishedOn": "2025-12-29T05:41:24.000Z",
-          "wordCount": 3809,
-          "title": "Show HN: Z80-μLM, a 'Conversational AI' That Fits in 40KB",
-          "imageUrl": "https://opengraph.githubassets.com/76c85c0c21b513268b7f19330124ebc4d00d3489161adc94a0f5dca6bcaccea7/HarryR/z80ai"
         }
       ]
     },

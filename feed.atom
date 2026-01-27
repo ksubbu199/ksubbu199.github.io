@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-01-27T17:27:41.748Z</updated>
+    <updated>2026-01-27T18:39:39.843Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -2627,26 +2627,6 @@ Points: 568
 # Comments: 576]]></summary>
         <author>
             <name>JeremyTheo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: Z80-μLM, a 'Conversational AI' That Fits in 40KB]]></title>
-        <id>https://news.ycombinator.com/item?id=46417815</id>
-        <link href="https://github.com/HarryR/z80ai"/>
-        <updated>2025-12-29T05:41:24.000Z</updated>
-        <summary type="html"><![CDATA[How small can a language model be while still doing something useful? I wanted to find out, and had some spare time over the holidays.
-Z80-μLM is a character-level language model with 2-bit quantized weights ({-2,-1,0,+1}) that runs on a Z80 with 64KB RAM. The entire thing: inference, weights, chat UI, it all fits in a 40KB .COM file that you can run in a CP/M emulator and hopefully even real hardware!
-It won't write your emails, but it can be trained to play a stripped down version of 20 Questions, and is sometimes able to maintain the illusion of having simple but terse conversations with a distinct personality.
---
-The extreme constraints nerd-sniped me and forced interesting trade-offs: trigram hashing (typo-tolerant, loses word order), 16-bit integer math, and some careful massaging of the training data meant I could keep the examples 'interesting'.
-The key was quantization-aware training that accurately models the inference code limitations. The training loop runs both float and integer-quantized forward passes in parallel, scoring the model on how well its knowledge survives quantization. The weights are progressively pushed toward the 2-bit grid using straight-through estimators, with overflow penalties matching the Z80's 16-bit accumulator limits. By the end of training, the model has already adapted to its constraints, so no post-hoc quantization collapse.
-Eventually I ended up spending a few dollars on Claude API to generate 20 questions data (see examples/guess/GUESS.COM), I hope Anthropic won't send me a C&D for distilling their model against the ToS ;P
-But anyway, happy code-golf season everybody :)
-Comments URL: https://news.ycombinator.com/item?id=46417815
-Points: 500
-# Comments: 117]]></summary>
-        <author>
-            <name>quesomaster9000</name>
         </author>
     </entry>
 </feed>

@@ -5783,36 +5783,6 @@ Points: 568
                         </a>
                       </details>
                     </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://news.ycombinator.com/item?id&#x3D;46417815"
-                        open
-                      >
-                        <summary class="article-expander__title">Show HN: Z80-μLM, a &#x27;Conversational AI&#x27; That Fits in 40KB</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://github.com/HarryR/z80ai">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://opengraph.githubassets.com/76c85c0c21b513268b7f19330124ebc4d00d3489161adc94a0f5dca6bcaccea7/HarryR/z80ai" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>How small can a language model be while still doing something useful? I wanted to find out, and had some spare time over the holidays.
-Z80-μLM is a character-level language model with 2-bit quantized weights ({-2,-1,0,+1}) that runs on a Z80 with 64KB RAM. The entire thing: inference, weights, chat UI, it all fits in a 40KB .COM file that you can run in a CP/M emulator and hopefully even real hardware!
-It won&#x27;t write your emails, but it can be trained to play a stripped down version of 20 Questions, and is sometimes able to maintain the illusion of having simple but terse conversations with a distinct personality.
---
-The extreme constraints nerd-sniped me and forced interesting trade-offs: trigram hashing (typo-tolerant, loses word order), 16-bit integer math, and some careful massaging of the training data meant I could keep the examples &#x27;interesting&#x27;.
-The key was quantization-aware training that accurately models the inference code limitations. The training loop runs both float and integer-quantized forward passes in parallel, scoring the model on how well its knowledge survives quantization. The weights are progressively pushed toward the 2-bit grid using straight-through estimators, with overflow penalties matching the Z80&#x27;s 16-bit accumulator limits. By the end of training, the model has already adapted to its constraints, so no post-hoc quantization collapse.
-Eventually I ended up spending a few dollars on Claude API to generate 20 questions data (see examples/guess/GUESS.COM), I hope Anthropic won&#x27;t send me a C&amp;D for distilling their model against the ToS ;P
-But anyway, happy code-golf season everybody :)
-Comments URL: https://news.ycombinator.com/item?id&#x3D;46417815
-Points: 500
-# Comments: 117</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;13
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
                 </section>
               </section>
             </li>
@@ -5851,8 +5821,8 @@ Points: 500
       </section>
 
     <footer>
-      <a class="footer-link" href="https://github.com/ksubbu199/ksubbu199.github.io/actions/runs/21407293268">
-        <time id="build-timestamp" datetime="2026-01-27T17:27:41.725Z">2026-01-27T17:27:41.725Z</time>
+      <a class="footer-link" href="https://github.com/ksubbu199/ksubbu199.github.io/actions/runs/21409521738">
+        <time id="build-timestamp" datetime="2026-01-27T18:39:39.816Z">2026-01-27T18:39:39.816Z</time>
       </a>
       <a class="footer-link" href="https://github.com/osmoscraft/osmosfeed">osmosfeed 1.15.1</a>
     </footer>
