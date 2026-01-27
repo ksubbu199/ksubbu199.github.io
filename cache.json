@@ -1703,6 +1703,16 @@
       "siteUrl": "https://martinfowler.com/feed.atom",
       "articles": [
         {
+          "id": "https://martinfowler.com/articles/exploring-gen-ai/ccmenu-quality.html",
+          "author": null,
+          "description": "Erik Doernenburg is the maintainer of CCMenu: a Mac\n      application that shows the status of CI/CD builds in the Mac menu bar. He\n      assesses how using a coding agent affects internal code quality by adding\n      a feature using the agent, and seeing what happens to the code.\n      \nmore…",
+          "link": "https://martinfowler.com/articles/exploring-gen-ai/ccmenu-quality.html",
+          "publishedOn": "2026-01-27T15:50:00.000Z",
+          "wordCount": 2209,
+          "title": "Assessing internal quality while coding with an agent",
+          "imageUrl": "https://martinfowler.com/articles/exploring-gen-ai/donkey-card.png"
+        },
+        {
           "id": "https://martinfowler.com/fragments/2026-01-22.html",
           "author": null,
           "description": "My colleagues here at Thoughtworks have announced AI/works™, a platform for our work using AI-enabled software development. The platform is in its early days, and is currently intended to support Thoughtworks consultants in their client work. I’m looking forward to sharing what we learn from using and further developing the platform in future months.\n ❄                ❄                ❄                ❄                ❄\nSimon Couch examines the electricity consumption of using AI. He’s a heavy user: “usually programming for a few hours, and driving 2 or 3 Claude Code instances at a time”. He finds his usage of electricity is orders of magnitude more than typical estimates based on the “typical query”.\nOn a median day, I estimate I consume 1,300 Wh through Claude Code—4,400 “typical queries…",
