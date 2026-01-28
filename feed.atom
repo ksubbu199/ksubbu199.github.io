@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-01-28T16:38:32.100Z</updated>
+    <updated>2026-01-28T17:32:09.324Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Microsoft forced me to switch to Linux]]></title>
+        <id>https://news.ycombinator.com/item?id=46795864</id>
+        <link href="https://www.himthe.dev/blog/microsoft-to-linux"/>
+        <updated>2026-01-28T14:28:21.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.himthe.dev/blog/microsoft-to-linux
+Comments URL: https://news.ycombinator.com/item?id=46795864
+Points: 616
+# Comments: 511]]></summary>
+        <author>
+            <name>bobsterlobster</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Bliki: Excessive Bold]]></title>
         <id>https://martinfowler.com/bliki/ExcessiveBold.html</id>
@@ -125,6 +138,19 @@ Points: 669
 # Comments: 440]]></summary>
         <author>
             <name>kotaKat</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Doing the thing is doing the thing]]></title>
+        <id>https://news.ycombinator.com/item?id=46776155</id>
+        <link href="https://www.softwaredesign.ing/blog/doing-the-thing-is-doing-the-thing"/>
+        <updated>2026-01-27T06:17:46.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.softwaredesign.ing/blog/doing-the-thing-is-doing-the-thing
+Comments URL: https://news.ycombinator.com/item?id=46776155
+Points: 509
+# Comments: 169]]></summary>
+        <author>
+            <name>prakhar897</name>
         </author>
     </entry>
     <entry>
