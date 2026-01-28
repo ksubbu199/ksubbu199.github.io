@@ -2,10 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-01-28T13:49:08.752Z</updated>
+    <updated>2026-01-28T14:30:45.704Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Bliki: Excessive Bold]]></title>
+        <id>https://martinfowler.com/bliki/ExcessiveBold.html</id>
+        <link href="https://martinfowler.com/bliki/ExcessiveBold.html"/>
+        <updated>2026-01-28T14:20:00.000Z</updated>
+        <summary type="html"><![CDATA[I'm increasingly seeing a lot of technical and business writing make heavy
+  use of bold font weights, in an attempt to emphasize what the writers think is
+  important. LLMs seem to have picked up and spread this practice widely. But
+  most of this is self-defeating, the more a writer uses typographical emphasis,
+  the less power it has, quickly reaching the point where it loses all its
+  benefits.
+There are various typographical tools that are used to emphasize words and
+  phrases, such as: bold, italic, capitals, and underlines. I find that bold is the one
+  that's getting most of the over-use. Using a lot of capitals is rightly
+  reviled as shouting, and when we see it used widely, it raises our doubts on
+  the quality of the underlying thinking.
+  Underlines have become the signal for …]]></summary>
+        <author>
+            <name>Martin Fowler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Can WhatsApp Business Transform India's Healthcare System?]]></title>
+        <id>https://www.youtube.com/shorts/KLl2__e6iJ4</id>
+        <link href="https://www.youtube.com/shorts/KLl2__e6iJ4"/>
+        <updated>2026-01-28T14:01:05.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Think School</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How WhatsApp Business solved a 100Cr Problem!]]></title>
         <id>https://www.youtube.com/shorts/jQ3t-us7P5A</id>

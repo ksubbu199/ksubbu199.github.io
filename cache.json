@@ -1733,6 +1733,16 @@
       "siteUrl": "https://martinfowler.com/feed.atom",
       "articles": [
         {
+          "id": "https://martinfowler.com/bliki/ExcessiveBold.html",
+          "author": null,
+          "description": "I'm increasingly seeing a lot of technical and business writing make heavy\n  use of bold font weights, in an attempt to emphasize what the writers think is\n  important. LLMs seem to have picked up and spread this practice widely. But\n  most of this is self-defeating, the more a writer uses typographical emphasis,\n  the less power it has, quickly reaching the point where it loses all its\n  benefits.\nThere are various typographical tools that are used to emphasize words and\n  phrases, such as: bold, italic, capitals, and underlines. I find that bold is the one\n  that's getting most of the over-use. Using a lot of capitals is rightly\n  reviled as shouting, and when we see it used widely, it raises our doubts on\n  the quality of the underlying thinking.\n  Underlines have become the signal for …",
+          "link": "https://martinfowler.com/bliki/ExcessiveBold.html",
+          "publishedOn": "2026-01-28T14:20:00.000Z",
+          "wordCount": 956,
+          "title": "Bliki: Excessive Bold",
+          "imageUrl": "https://martinfowler.com/logo-sq.png"
+        },
+        {
           "id": "https://martinfowler.com/articles/exploring-gen-ai/ccmenu-quality.html",
           "author": null,
           "description": "Erik Doernenburg is the maintainer of CCMenu: a Mac\n      application that shows the status of CI/CD builds in the Mac menu bar. He\n      assesses how using a coding agent affects internal code quality by adding\n      a feature using the agent, and seeing what happens to the code.\n      \nmore…",
@@ -1822,6 +1832,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKZozRVHRYsYHGEyNKuhhdA",
       "siteUrl": "https://www.youtube.com/channel/UCKZozRVHRYsYHGEyNKuhhdA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/shorts/KLl2__e6iJ4",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/KLl2__e6iJ4",
+          "publishedOn": "2026-01-28T14:01:05.000Z",
+          "wordCount": 2172,
+          "title": "Can WhatsApp Business Transform India's Healthcare System?",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/shorts/jQ3t-us7P5A",
           "author": null,
