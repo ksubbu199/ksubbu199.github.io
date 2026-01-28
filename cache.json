@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=46783752",
+          "author": "meetpateltech",
+          "description": "Article URL: https://openai.com/index/introducing-prism\nComments URL: https://news.ycombinator.com/item?id=46783752\nPoints: 516\n# Comments: 300",
+          "link": "https://openai.com/index/introducing-prism",
+          "publishedOn": "2026-01-27T18:03:10.000Z",
+          "wordCount": null,
+          "title": "Prism",
+          "imageUrl": null
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=46783254",
           "author": "duxup",
           "description": "Article URL: https://www.nbcnews.com/tech/internet/fbi-investigating-minnesota-signal-minneapolis-group-ice-patel-kash-rcna256041\nComments URL: https://news.ycombinator.com/item?id=46783254\nPoints: 523\n# Comments: 646",
@@ -1654,16 +1664,6 @@
           "wordCount": 3271,
           "title": "Tesla's 4680 battery supply chain collapses as partner writes down deal by 99%",
           "imageUrl": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2021/10/Tesla-4680-Battery-cell.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=46422412",
-          "author": "haunter",
-          "description": "Article URL: https://www.gog.com/blog/gog-is-getting-acquired-by-its-original-co-founder-what-it-means-for-you/\nComments URL: https://news.ycombinator.com/item?id=46422412\nPoints: 525\n# Comments: 288",
-          "link": "https://www.gog.com/blog/gog-is-getting-acquired-by-its-original-co-founder-what-it-means-for-you/",
-          "publishedOn": "2025-12-29T16:43:14.000Z",
-          "wordCount": 5798,
-          "title": "GOG is getting acquired by its original co-founder",
-          "imageUrl": "https://www.gog.com/blog/wp-content/uploads/2025/12/111.jpg"
         }
       ]
     },
