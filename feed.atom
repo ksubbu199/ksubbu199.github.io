@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-01-27T23:22:41.865Z</updated>
+    <updated>2026-01-28T01:48:27.044Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[FBI is investigating Minnesota Signal chats tracking ICE]]></title>
+        <id>https://news.ycombinator.com/item?id=46783254</id>
+        <link href="https://www.nbcnews.com/tech/internet/fbi-investigating-minnesota-signal-minneapolis-group-ice-patel-kash-rcna256041"/>
+        <updated>2026-01-27T17:32:05.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.nbcnews.com/tech/internet/fbi-investigating-minnesota-signal-minneapolis-group-ice-patel-kash-rcna256041
+Comments URL: https://news.ycombinator.com/item?id=46783254
+Points: 523
+# Comments: 646]]></summary>
+        <author>
+            <name>duxup</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Assessing internal quality while coding with an agent]]></title>
         <id>https://martinfowler.com/articles/exploring-gen-ai/ccmenu-quality.html</id>
@@ -2635,19 +2648,6 @@ Points: 525
         <updated>2025-12-29T15:00:35.000Z</updated>
         <author>
             <name>Hussein Nasser</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kidnapped by Deutsche Bahn]]></title>
-        <id>https://news.ycombinator.com/item?id=46419970</id>
-        <link href="https://www.theocharis.dev/blog/kidnapped-by-deutsche-bahn/"/>
-        <updated>2025-12-29T12:24:00.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.theocharis.dev/blog/kidnapped-by-deutsche-bahn/
-Comments URL: https://news.ycombinator.com/item?id=46419970
-Points: 568
-# Comments: 576]]></summary>
-        <author>
-            <name>JeremyTheo</name>
         </author>
     </entry>
 </feed>
