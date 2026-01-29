@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-01-29T04:26:37.541Z</updated>
+    <updated>2026-01-29T05:42:53.489Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -2741,20 +2741,6 @@ Points: 504
 # Comments: 201]]></summary>
         <author>
             <name>kasabali</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: 22 GB of Hacker News in SQLite]]></title>
-        <id>https://news.ycombinator.com/item?id=46435308</id>
-        <link href="https://hackerbook.dosaygo.com/"/>
-        <updated>2025-12-30T17:01:59.000Z</updated>
-        <summary type="html"><![CDATA[Community, All the HN belong to you. This is an archive of hacker news that fits in your browser. When I made HN Made of Primes I realized I could probably do this offline sqlite/wasm thing with the whole GBs of archive. The whole dataset. So I tried it, and this is it. Have Hacker News on your device.
-Go to this repo (https://github.com/DOSAYGO-STUDIO/HackerBook): you can download it. Big Query -> ETL -> npx serve docs - that's it. 20 years of HN arguments and beauty, can be yours forever. So they'll never die. Ever. It's the unkillable static archive of HN and it's your hands. That's my Year End gift to you all. Thank you for a wonderful year, have happy and wonderful 2026. make something of it.
-Comments URL: https://news.ycombinator.com/item?id=46435308
-Points: 502
-# Comments: 162]]></summary>
-        <author>
-            <name>keepamovin</name>
         </author>
     </entry>
 </feed>
