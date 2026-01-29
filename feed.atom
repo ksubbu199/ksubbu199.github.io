@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-01-29T17:38:00.010Z</updated>
+    <updated>2026-01-29T18:47:21.310Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[I replaced a $120/year micro-SaaS in 20 minutes with LLM-generated code]]></title>
+        <id>697ba13c7779050001e3775d</id>
+        <link href="https://blog.pragmaticengineer.com/i-replaced-a-120-year-micro-saas-in-20-minutes-with-llm-generated-code/"/>
+        <updated>2026-01-29T18:41:45.000Z</updated>
+        <summary type="html"><![CDATA[I used to pay $120/year for a SaaS that hasn’t added new features in four years, and didn’t fix its broken billing system for three years. Using an LLM, I managed to rewrite all the functionality I used to pay for in 20 minutes. Is this bad news for “write once, don’t update later” SaaS?]]></summary>
+        <author>
+            <name>Gergely Orosz</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The 5 Most CRITICAL Roles in a STARTUP!]]></title>
         <id>https://www.youtube.com/shorts/1njK4oRKV9M</id>

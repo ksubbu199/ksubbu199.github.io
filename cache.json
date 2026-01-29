@@ -1896,6 +1896,16 @@
       "siteUrl": "https://blog.pragmaticengineer.com/",
       "articles": [
         {
+          "id": "697ba13c7779050001e3775d",
+          "author": "Gergely Orosz",
+          "description": "I used to pay $120/year for a SaaS that hasn’t added new features in four years, and didn’t fix its broken billing system for three years. Using an LLM, I managed to rewrite all the functionality I used to pay for in 20 minutes. Is this bad news for “write once, don’t update later” SaaS?",
+          "link": "https://blog.pragmaticengineer.com/i-replaced-a-120-year-micro-saas-in-20-minutes-with-llm-generated-code/",
+          "publishedOn": "2026-01-29T18:41:45.000Z",
+          "wordCount": 1859,
+          "title": "I replaced a $120/year micro-SaaS in 20 minutes with LLM-generated code",
+          "imageUrl": null
+        },
+        {
           "id": "695eab59af96490001536b9c",
           "author": "Gergely Orosz",
           "description": "When AI writes almost all code, what happens to software engineering? There is grief involved for us developers, that's for sure.",
