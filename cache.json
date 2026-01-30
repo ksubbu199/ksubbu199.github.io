@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=46829147",
+          "author": "iambateman",
+          "description": "Article URL: https://antirender.com/\nComments URL: https://news.ycombinator.com/item?id=46829147\nPoints: 558\n# Comments: 135",
+          "link": "https://antirender.com/",
+          "publishedOn": "2026-01-30T20:05:24.000Z",
+          "wordCount": 459,
+          "title": "Antirender: remove the glossy shine on architectural renderings",
+          "imageUrl": "https://pub-bb2e103a32db4e198524a2e9ed8f35b4.r2.dev/b0accc68-0091-483d-94a8-f961a99cf9f5/id-preview-6709660d--d981d90b-333a-459c-b771-1233e4868668.lovable.app-1769797948858.png"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=46821774",
           "author": "franczesko",
           "description": "Article URL: https://www.xda-developers.com/gog-calls-linux-the-next-major-frontier-for-gaming-as-it-works-on-a-native-client/\nComments URL: https://news.ycombinator.com/item?id=46821774\nPoints: 507\n# Comments: 291",
@@ -1764,26 +1774,6 @@
           "wordCount": 6403,
           "title": "Cameras and Lenses (2020)",
           "imageUrl": "https://ciechanow.ski/images/og/lenses.jpg"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=46453204",
-          "author": "AndrewDucker",
-          "description": "Article URL: https://media.ccc.de/v/39c3-bluetooth-headphone-jacking-a-key-to-your-phone\nComments URL: https://news.ycombinator.com/item?id=46453204\nPoints: 507\n# Comments: 181",
-          "link": "https://media.ccc.de/v/39c3-bluetooth-headphone-jacking-a-key-to-your-phone",
-          "publishedOn": "2026-01-01T11:17:18.000Z",
-          "wordCount": 1134,
-          "title": "Bluetooth Headphone Jacking: A Key to Your Phone [video]",
-          "imageUrl": "https://static.media.ccc.de/media/congress/2025/1491-887fe87e-6ef2-5d94-98c8-f582cb22f442_preview.jpg"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=46453114",
-          "author": "edent",
-          "description": "Article URL: https://takes.jamesomalley.co.uk/p/this-might-be-oversharing\nComments URL: https://news.ycombinator.com/item?id=46453114\nPoints: 500\n# Comments: 386",
-          "link": "https://takes.jamesomalley.co.uk/p/this-might-be-oversharing",
-          "publishedOn": "2026-01-01T11:01:38.000Z",
-          "wordCount": 9434,
-          "title": "I rebooted my social life",
-          "imageUrl": "https://substackcdn.com/image/fetch/$s_!2cbR!,w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F843e4d28-1b2e-4861-9fa9-c86cd50e908c_1536x1024.heic"
         }
       ]
     },

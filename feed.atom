@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-01-30T22:25:45.774Z</updated>
+    <updated>2026-01-30T23:25:38.588Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Antirender: remove the glossy shine on architectural renderings]]></title>
+        <id>https://news.ycombinator.com/item?id=46829147</id>
+        <link href="https://antirender.com/"/>
+        <updated>2026-01-30T20:05:24.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://antirender.com/
+Comments URL: https://news.ycombinator.com/item?id=46829147
+Points: 558
+# Comments: 135]]></summary>
+        <author>
+            <name>iambateman</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Global Chaos, Falling Rupee & India’s Economy | ft. India’s Chief Economic Advisor| IBP 52]]></title>
         <id>https://www.youtube.com/watch?v=07C-NrZjD0M</id>
@@ -2851,32 +2864,6 @@ Points: 501
 # Comments: 55]]></summary>
         <author>
             <name>sebg</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bluetooth Headphone Jacking: A Key to Your Phone [video]]]></title>
-        <id>https://news.ycombinator.com/item?id=46453204</id>
-        <link href="https://media.ccc.de/v/39c3-bluetooth-headphone-jacking-a-key-to-your-phone"/>
-        <updated>2026-01-01T11:17:18.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://media.ccc.de/v/39c3-bluetooth-headphone-jacking-a-key-to-your-phone
-Comments URL: https://news.ycombinator.com/item?id=46453204
-Points: 507
-# Comments: 181]]></summary>
-        <author>
-            <name>AndrewDucker</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I rebooted my social life]]></title>
-        <id>https://news.ycombinator.com/item?id=46453114</id>
-        <link href="https://takes.jamesomalley.co.uk/p/this-might-be-oversharing"/>
-        <updated>2026-01-01T11:01:38.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://takes.jamesomalley.co.uk/p/this-might-be-oversharing
-Comments URL: https://news.ycombinator.com/item?id=46453114
-Points: 500
-# Comments: 386]]></summary>
-        <author>
-            <name>edent</name>
         </author>
     </entry>
 </feed>
