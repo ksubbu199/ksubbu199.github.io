@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=46820360",
+          "author": "teej",
+          "description": "Article URL: https://www.moltbook.com/\nComments URL: https://news.ycombinator.com/item?id=46820360\nPoints: 570\n# Comments: 314",
+          "link": "https://www.moltbook.com/",
+          "publishedOn": "2026-01-30T03:55:34.000Z",
+          "wordCount": 260,
+          "title": "Moltbook",
+          "imageUrl": "https://moltbook.com/opengraph-image?456d992ddc0a4ab5"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=46812933",
           "author": "meetpateltech",
           "description": "Article URL: https://blog.google/innovation-and-ai/models-and-research/google-deepmind/project-genie/\nComments URL: https://news.ycombinator.com/item?id=46812933\nPoints: 522\n# Comments: 251",
@@ -1744,16 +1754,6 @@
           "wordCount": 9434,
           "title": "I rebooted my social life",
           "imageUrl": "https://substackcdn.com/image/fetch/$s_!2cbR!,w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F843e4d28-1b2e-4861-9fa9-c86cd50e908c_1536x1024.heic"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=46449643",
-          "author": "simonw",
-          "description": "Article URL: https://simonwillison.net/2025/Dec/31/the-year-in-llms/\nComments URL: https://news.ycombinator.com/item?id=46449643\nPoints: 541\n# Comments: 306",
-          "link": "https://simonwillison.net/2025/Dec/31/the-year-in-llms/",
-          "publishedOn": "2025-12-31T23:54:46.000Z",
-          "wordCount": 8247,
-          "title": "2025: The Year in LLMs",
-          "imageUrl": "https://static.simonwillison.net/static/2025/metr-long-task-2025.jpg"
         }
       ]
     },

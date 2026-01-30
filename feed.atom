@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-01-30T11:28:00.999Z</updated>
+    <updated>2026-01-30T12:55:58.762Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Moltbook]]></title>
+        <id>https://news.ycombinator.com/item?id=46820360</id>
+        <link href="https://www.moltbook.com/"/>
+        <updated>2026-01-30T03:55:34.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.moltbook.com/
+Comments URL: https://news.ycombinator.com/item?id=46820360
+Points: 570
+# Comments: 314]]></summary>
+        <author>
+            <name>teej</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[I replaced a $120/year micro-SaaS in 20 minutes with LLM-generated code]]></title>
         <id>697ba13c7779050001e3775d</id>
@@ -2816,19 +2829,6 @@ Points: 500
 # Comments: 386]]></summary>
         <author>
             <name>edent</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2025: The Year in LLMs]]></title>
-        <id>https://news.ycombinator.com/item?id=46449643</id>
-        <link href="https://simonwillison.net/2025/Dec/31/the-year-in-llms/"/>
-        <updated>2025-12-31T23:54:46.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://simonwillison.net/2025/Dec/31/the-year-in-llms/
-Comments URL: https://news.ycombinator.com/item?id=46449643
-Points: 541
-# Comments: 306]]></summary>
-        <author>
-            <name>simonw</name>
         </author>
     </entry>
 </feed>
