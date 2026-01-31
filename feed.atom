@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-01-31T16:28:06.906Z</updated>
+    <updated>2026-01-31T17:24:09.033Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Euro firms must ditch Uncle Sam's clouds and go EU-native]]></title>
+        <id>https://news.ycombinator.com/item?id=46835336</id>
+        <link href="https://www.theregister.com/2026/01/30/euro_firms_must_ditch_us/"/>
+        <updated>2026-01-31T10:34:07.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.theregister.com/2026/01/30/euro_firms_must_ditch_us/
+Comments URL: https://news.ycombinator.com/item?id=46835336
+Points: 541
+# Comments: 488]]></summary>
+        <author>
+            <name>jamesblonde</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Antirender: remove the glossy shine on architectural renderings]]></title>
         <id>https://news.ycombinator.com/item?id=46829147</id>
@@ -2812,19 +2825,6 @@ Points: 500
 # Comments: 260]]></summary>
         <author>
             <name>stared</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I'm a developer for a major food delivery app]]></title>
-        <id>https://news.ycombinator.com/item?id=46461563</id>
-        <link href="https://old.reddit.com/r/confession/comments/1q1mzej/im_a_developer_for_a_major_food_delivery_app_the/"/>
-        <updated>2026-01-02T04:57:25.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://old.reddit.com/r/confession/comments/1q1mzej/im_a_developer_for_a_major_food_delivery_app_the/
-Comments URL: https://news.ycombinator.com/item?id=46461563
-Points: 504
-# Comments: 244]]></summary>
-        <author>
-            <name>apayan</name>
         </author>
     </entry>
 </feed>
