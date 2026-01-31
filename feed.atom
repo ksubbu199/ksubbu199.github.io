@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-01-31T09:28:07.296Z</updated>
+    <updated>2026-01-31T10:24:45.201Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -124,6 +124,19 @@ Points: 550
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>Think School</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AGENTS.md outperforms skills in our agent evals]]></title>
+        <id>https://news.ycombinator.com/item?id=46809708</id>
+        <link href="https://vercel.com/blog/agents-md-outperforms-skills-in-our-agent-evals"/>
+        <updated>2026-01-29T13:08:11.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://vercel.com/blog/agents-md-outperforms-skills-in-our-agent-evals
+Comments URL: https://news.ycombinator.com/item?id=46809708
+Points: 500
+# Comments: 189]]></summary>
+        <author>
+            <name>maximedupre</name>
         </author>
     </entry>
     <entry>
