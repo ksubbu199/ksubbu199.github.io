@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-01-31T18:33:05.822Z</updated>
+    <updated>2026-01-31T19:20:04.394Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -39,6 +39,19 @@ Points: 558
         <updated>2026-01-30T14:25:42.000Z</updated>
         <author>
             <name>Think School</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HTTP Cats]]></title>
+        <id>https://news.ycombinator.com/item?id=46824422</id>
+        <link href="https://http.cat/"/>
+        <updated>2026-01-30T13:56:51.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://http.cat/
+Comments URL: https://news.ycombinator.com/item?id=46824422
+Points: 512
+# Comments: 79]]></summary>
+        <author>
+            <name>surprisetalk</name>
         </author>
     </entry>
     <entry>
