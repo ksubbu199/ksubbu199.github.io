@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-02-01T07:36:59.727Z</updated>
+    <updated>2026-02-01T08:33:06.501Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -2812,19 +2812,6 @@ Points: 502
 # Comments: 79]]></summary>
         <author>
             <name>simonw</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Publish on your own site, syndicate elsewhere]]></title>
-        <id>https://news.ycombinator.com/item?id=46468600</id>
-        <link href="https://indieweb.org/POSSE#"/>
-        <updated>2026-01-02T19:48:25.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://indieweb.org/POSSE#
-Comments URL: https://news.ycombinator.com/item?id=46468600
-Points: 516
-# Comments: 116]]></summary>
-        <author>
-            <name>47thpresident</name>
         </author>
     </entry>
 </feed>
