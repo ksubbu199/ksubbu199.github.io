@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=46838597",
+          "author": "cbeuw",
+          "description": "Article URL: https://an.dywa.ng/carrier-gnss.html\nComments URL: https://news.ycombinator.com/item?id=46838597\nPoints: 517\n# Comments: 328",
+          "link": "https://an.dywa.ng/carrier-gnss.html",
+          "publishedOn": "2026-01-31T17:21:34.000Z",
+          "wordCount": 811,
+          "title": "Mobile carriers can get your GPS location",
+          "imageUrl": null
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=46838417",
           "author": "Teever",
           "description": "Article URL: https://yle.fi/a/74-20207494\nComments URL: https://news.ycombinator.com/item?id=46838417\nPoints: 503\n# Comments: 355",
@@ -44,6 +54,16 @@
           "wordCount": 2097,
           "title": "HTTP Cats",
           "imageUrl": "https://http.cat/100.jpg"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=46822630",
+          "author": "Wilsoniumite",
+          "description": "Article URL: https://wilsoniumite.com/2026/01/27/surely-it-has-to-be-soon/\nComments URL: https://news.ycombinator.com/item?id=46822630\nPoints: 502\n# Comments: 632",
+          "link": "https://wilsoniumite.com/2026/01/27/surely-it-has-to-be-soon/",
+          "publishedOn": "2026-01-30T10:14:23.000Z",
+          "wordCount": 1251,
+          "title": "Surely the crash of the US economy has to be soon",
+          "imageUrl": null
         },
         {
           "id": "https://news.ycombinator.com/item?id=46821774",
@@ -1724,26 +1744,6 @@
           "wordCount": 5614,
           "title": "Publish on your own site, syndicate elsewhere",
           "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=46466027",
-          "author": "yuppiepuppie",
-          "description": "Article URL: https://andrew.grahamyooll.com/blog/Try-to-Take-My-Position/\nComments URL: https://news.ycombinator.com/item?id=46466027\nPoints: 507\n# Comments: 257",
-          "link": "https://andrew.grahamyooll.com/blog/Try-to-Take-My-Position/",
-          "publishedOn": "2026-01-02T15:56:14.000Z",
-          "wordCount": 658,
-          "title": "Try to take my position: The best promotion advice I ever got",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=46465327",
-          "author": "Brajeshwar",
-          "description": "Article URL: https://www.theregister.com/2025/12/31/ipv6_at_30/\nComments URL: https://news.ycombinator.com/item?id=46465327\nPoints: 503\n# Comments: 1033",
-          "link": "https://www.theregister.com/2025/12/31/ipv6_at_30/",
-          "publishedOn": "2026-01-02T14:55:09.000Z",
-          "wordCount": 2014,
-          "title": "IPv6 just turned 30 and still hasn't taken over the world",
-          "imageUrl": "https://regmedia.co.uk/2016/09/15/ipvs_speed.jpg"
         }
       ]
     },

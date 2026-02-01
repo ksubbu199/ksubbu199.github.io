@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-02-01T02:26:39.048Z</updated>
+    <updated>2026-02-01T05:00:13.762Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Mobile carriers can get your GPS location]]></title>
+        <id>https://news.ycombinator.com/item?id=46838597</id>
+        <link href="https://an.dywa.ng/carrier-gnss.html"/>
+        <updated>2026-01-31T17:21:34.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://an.dywa.ng/carrier-gnss.html
+Comments URL: https://news.ycombinator.com/item?id=46838597
+Points: 517
+# Comments: 328]]></summary>
+        <author>
+            <name>cbeuw</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Finland to end “uncontrolled human experiment” with ban on youth social media]]></title>
         <id>https://news.ycombinator.com/item?id=46838417</id>
@@ -65,6 +78,19 @@ Points: 512
 # Comments: 79]]></summary>
         <author>
             <name>surprisetalk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Surely the crash of the US economy has to be soon]]></title>
+        <id>https://news.ycombinator.com/item?id=46822630</id>
+        <link href="https://wilsoniumite.com/2026/01/27/surely-it-has-to-be-soon/"/>
+        <updated>2026-01-30T10:14:23.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://wilsoniumite.com/2026/01/27/surely-it-has-to-be-soon/
+Comments URL: https://news.ycombinator.com/item?id=46822630
+Points: 502
+# Comments: 632]]></summary>
+        <author>
+            <name>Wilsoniumite</name>
         </author>
     </entry>
     <entry>
@@ -2799,32 +2825,6 @@ Points: 516
 # Comments: 116]]></summary>
         <author>
             <name>47thpresident</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Try to take my position: The best promotion advice I ever got]]></title>
-        <id>https://news.ycombinator.com/item?id=46466027</id>
-        <link href="https://andrew.grahamyooll.com/blog/Try-to-Take-My-Position/"/>
-        <updated>2026-01-02T15:56:14.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://andrew.grahamyooll.com/blog/Try-to-Take-My-Position/
-Comments URL: https://news.ycombinator.com/item?id=46466027
-Points: 507
-# Comments: 257]]></summary>
-        <author>
-            <name>yuppiepuppie</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[IPv6 just turned 30 and still hasn't taken over the world]]></title>
-        <id>https://news.ycombinator.com/item?id=46465327</id>
-        <link href="https://www.theregister.com/2025/12/31/ipv6_at_30/"/>
-        <updated>2026-01-02T14:55:09.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.theregister.com/2025/12/31/ipv6_at_30/
-Comments URL: https://news.ycombinator.com/item?id=46465327
-Points: 503
-# Comments: 1033]]></summary>
-        <author>
-            <name>Brajeshwar</name>
         </author>
     </entry>
 </feed>
