@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-01-31T23:22:51.035Z</updated>
+    <updated>2026-02-01T02:26:39.048Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Finland to end “uncontrolled human experiment” with ban on youth social media]]></title>
+        <id>https://news.ycombinator.com/item?id=46838417</id>
+        <link href="https://yle.fi/a/74-20207494"/>
+        <updated>2026-01-31T17:06:22.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://yle.fi/a/74-20207494
+Comments URL: https://news.ycombinator.com/item?id=46838417
+Points: 503
+# Comments: 355]]></summary>
+        <author>
+            <name>Teever</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Euro firms must ditch Uncle Sam's clouds and go EU-native]]></title>
         <id>https://news.ycombinator.com/item?id=46835336</id>
@@ -2812,19 +2825,6 @@ Points: 503
 # Comments: 1033]]></summary>
         <author>
             <name>Brajeshwar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FracturedJson]]></title>
-        <id>https://news.ycombinator.com/item?id=46464235</id>
-        <link href="https://github.com/j-brooke/FracturedJson/wiki"/>
-        <updated>2026-01-02T12:46:31.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://github.com/j-brooke/FracturedJson/wiki
-Comments URL: https://news.ycombinator.com/item?id=46464235
-Points: 503
-# Comments: 136]]></summary>
-        <author>
-            <name>PretzelFisch</name>
         </author>
     </entry>
 </feed>

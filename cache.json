@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=46838417",
+          "author": "Teever",
+          "description": "Article URL: https://yle.fi/a/74-20207494\nComments URL: https://news.ycombinator.com/item?id=46838417\nPoints: 503\n# Comments: 355",
+          "link": "https://yle.fi/a/74-20207494",
+          "publishedOn": "2026-01-31T17:06:22.000Z",
+          "wordCount": 8478,
+          "title": "Finland to end “uncontrolled human experiment” with ban on youth social media",
+          "imageUrl": "https://images.cdn.yle.fi/image/upload/c_crop,x_224,y_867,w_5443,h_3061/w_1200,ar_1.91,c_fill/q_auto:eco,f_auto,fl_lossy/v1769778935/39-1554688691a061dc35f8"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=46835336",
           "author": "jamesblonde",
           "description": "Article URL: https://www.theregister.com/2026/01/30/euro_firms_must_ditch_us/\nComments URL: https://news.ycombinator.com/item?id=46835336\nPoints: 541\n# Comments: 488",
@@ -1734,16 +1744,6 @@
           "wordCount": 2014,
           "title": "IPv6 just turned 30 and still hasn't taken over the world",
           "imageUrl": "https://regmedia.co.uk/2016/09/15/ipvs_speed.jpg"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=46464235",
-          "author": "PretzelFisch",
-          "description": "Article URL: https://github.com/j-brooke/FracturedJson/wiki\nComments URL: https://news.ycombinator.com/item?id=46464235\nPoints: 503\n# Comments: 136",
-          "link": "https://github.com/j-brooke/FracturedJson/wiki",
-          "publishedOn": "2026-01-02T12:46:31.000Z",
-          "wordCount": 1773,
-          "title": "FracturedJson",
-          "imageUrl": "https://repository-images.githubusercontent.com/304152687/a82ee280-1ba9-11eb-9932-339cbd5a28fa"
         }
       ]
     },
