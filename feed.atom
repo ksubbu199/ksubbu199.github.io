@@ -2,10 +2,33 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-02-01T17:24:39.789Z</updated>
+    <updated>2026-02-01T18:35:02.031Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[CPU's TLB]]></title>
+        <id>https://www.youtube.com/shorts/8SHY4-sREDk</id>
+        <link href="https://www.youtube.com/shorts/8SHY4-sREDk"/>
+        <updated>2026-02-01T18:00:09.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Hussein Nasser</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Netbird – Open Source Zero Trust Networking]]></title>
+        <id>https://news.ycombinator.com/item?id=46844870</id>
+        <link href="https://netbird.io/"/>
+        <updated>2026-02-01T09:44:01.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://netbird.io/
+Comments URL: https://news.ycombinator.com/item?id=46844870
+Points: 508
+# Comments: 190]]></summary>
+        <author>
+            <name>l1am0</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Mobile carriers can get your GPS location]]></title>
         <id>https://news.ycombinator.com/item?id=46838597</id>
