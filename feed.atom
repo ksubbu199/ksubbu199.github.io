@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-02-02T06:05:59.208Z</updated>
+    <updated>2026-02-02T07:50:03.214Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -14,6 +14,19 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>Think School</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Notepad++ hijacked by state-sponsored actors]]></title>
+        <id>https://news.ycombinator.com/item?id=46851548</id>
+        <link href="https://notepad-plus-plus.org/news/hijacked-incident-info-update/"/>
+        <updated>2026-02-02T01:59:56.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://notepad-plus-plus.org/news/hijacked-incident-info-update/
+Comments URL: https://news.ycombinator.com/item?id=46851548
+Points: 597
+# Comments: 319]]></summary>
+        <author>
+            <name>mysterydip</name>
         </author>
     </entry>
     <entry>
