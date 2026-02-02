@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-02-02T18:43:04.764Z</updated>
+    <updated>2026-02-02T23:29:05.388Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -247,6 +247,19 @@ Points: 509
         <summary type="html"><![CDATA[I used to pay $120/year for a SaaS that hasn’t added new features in four years, and didn’t fix its broken billing system for three years. Using an LLM, I managed to rewrite all the functionality I used to pay for in 20 minutes. Is this bad news for “write once, don’t update later” SaaS?]]></summary>
         <author>
             <name>Gergely Orosz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Best Gas Masks]]></title>
+        <id>https://news.ycombinator.com/item?id=46813867</id>
+        <link href="https://www.theverge.com/policy/868571/best-gas-masks"/>
+        <updated>2026-01-29T18:01:54.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.theverge.com/policy/868571/best-gas-masks
+Comments URL: https://news.ycombinator.com/item?id=46813867
+Points: 520
+# Comments: 142]]></summary>
+        <author>
+            <name>cdrnsf</name>
         </author>
     </entry>
     <entry>
