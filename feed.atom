@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-02-03T02:08:27.846Z</updated>
+    <updated>2026-02-03T04:46:59.868Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[xAI joins SpaceX]]></title>
+        <id>https://news.ycombinator.com/item?id=46862170</id>
+        <link href="https://www.spacex.com/updates#xai-joins-spacex"/>
+        <updated>2026-02-02T21:51:22.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.spacex.com/updates#xai-joins-spacex
+Comments URL: https://news.ycombinator.com/item?id=46862170
+Points: 561
+# Comments: 1242]]></summary>
+        <author>
+            <name>g-mork</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Codex App]]></title>
         <id>https://news.ycombinator.com/item?id=46859054</id>
@@ -49,6 +62,21 @@ Points: 597
 # Comments: 319]]></summary>
         <author>
             <name>mysterydip</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: NanoClaw – “Clawdbot” in 500 lines of TS with Apple container isolation]]></title>
+        <id>https://news.ycombinator.com/item?id=46850205</id>
+        <link href="https://github.com/gavrielc/nanoclaw"/>
+        <updated>2026-02-01T22:49:22.000Z</updated>
+        <summary type="html"><![CDATA[I’ve been running Clawdbot for the last couple weeks and have genuinely found it useful but running it scares the crap out of me.
+OpenClaw has 52+ modules and runs agents with near-unlimited permissions in a single Node process. NanoClaw is ~500 lines of core code, agents run in actual Apple containers with filesystem isolation. Each chat gets its own sandboxed context.
+This is not a swiss army knife. It’s built to match my exact needs. Fork it and make it yours.
+Comments URL: https://news.ycombinator.com/item?id=46850205
+Points: 503
+# Comments: 207]]></summary>
+        <author>
+            <name>jimminyx</name>
         </author>
     </entry>
     <entry>
@@ -2792,32 +2820,6 @@ Points: 506
 # Comments: 304]]></summary>
         <author>
             <name>todsacerdoti</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lessons from 14 Years at Google]]></title>
-        <id>https://news.ycombinator.com/item?id=46488819</id>
-        <link href="https://addyosmani.com/blog/21-lessons/"/>
-        <updated>2026-01-04T15:23:54.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://addyosmani.com/blog/21-lessons/
-Comments URL: https://news.ycombinator.com/item?id=46488819
-Points: 505
-# Comments: 238]]></summary>
-        <author>
-            <name>cdrnsf</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The unbearable joy of sitting alone in a café]]></title>
-        <id>https://news.ycombinator.com/item?id=46488355</id>
-        <link href="https://candost.blog/the-unbearable-joy-of-sitting-alone-in-a-cafe/"/>
-        <updated>2026-01-04T14:37:58.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://candost.blog/the-unbearable-joy-of-sitting-alone-in-a-cafe/
-Comments URL: https://news.ycombinator.com/item?id=46488355
-Points: 511
-# Comments: 308]]></summary>
-        <author>
-            <name>mooreds</name>
         </author>
     </entry>
 </feed>

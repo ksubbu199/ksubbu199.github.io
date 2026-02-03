@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=46862170",
+          "author": "g-mork",
+          "description": "Article URL: https://www.spacex.com/updates#xai-joins-spacex\nComments URL: https://news.ycombinator.com/item?id=46862170\nPoints: 561\n# Comments: 1242",
+          "link": "https://www.spacex.com/updates#xai-joins-spacex",
+          "publishedOn": "2026-02-02T21:51:22.000Z",
+          "wordCount": 64,
+          "title": "xAI joins SpaceX",
+          "imageUrl": "https://www.spacex.com/static/images/share.jpg"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=46859054",
           "author": "meetpateltech",
           "description": "Article URL: https://openai.com/index/introducing-the-codex-app/\nComments URL: https://news.ycombinator.com/item?id=46859054\nPoints: 515\n# Comments: 333",
@@ -24,6 +34,16 @@
           "wordCount": 1030,
           "title": "Notepad++ hijacked by state-sponsored actors",
           "imageUrl": null
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=46850205",
+          "author": "jimminyx",
+          "description": "I’ve been running Clawdbot for the last couple weeks and have genuinely found it useful but running it scares the crap out of me.\nOpenClaw has 52+ modules and runs agents with near-unlimited permissions in a single Node process. NanoClaw is ~500 lines of core code, agents run in actual Apple containers with filesystem isolation. Each chat gets its own sandboxed context.\nThis is not a swiss army knife. It’s built to match my exact needs. Fork it and make it yours.\nComments URL: https://news.ycombinator.com/item?id=46850205\nPoints: 503\n# Comments: 207",
+          "link": "https://github.com/gavrielc/nanoclaw",
+          "publishedOn": "2026-02-01T22:49:22.000Z",
+          "wordCount": 4413,
+          "title": "Show HN: NanoClaw – “Clawdbot” in 500 lines of TS with Apple container isolation",
+          "imageUrl": "https://repository-images.githubusercontent.com/1146738089/6d3089da-11d6-4a31-ae00-8ec33e30c667"
         },
         {
           "id": "https://news.ycombinator.com/item?id=46849567",
@@ -1704,26 +1724,6 @@
           "wordCount": 584,
           "title": "Claude Code On-the-Go",
           "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=46488819",
-          "author": "cdrnsf",
-          "description": "Article URL: https://addyosmani.com/blog/21-lessons/\nComments URL: https://news.ycombinator.com/item?id=46488819\nPoints: 505\n# Comments: 238",
-          "link": "https://addyosmani.com/blog/21-lessons/",
-          "publishedOn": "2026-01-04T15:23:54.000Z",
-          "wordCount": 5727,
-          "title": "Lessons from 14 Years at Google",
-          "imageUrl": "https://addyosmani.com/assets/images/21-lessons.jpg"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=46488355",
-          "author": "mooreds",
-          "description": "Article URL: https://candost.blog/the-unbearable-joy-of-sitting-alone-in-a-cafe/\nComments URL: https://news.ycombinator.com/item?id=46488355\nPoints: 511\n# Comments: 308",
-          "link": "https://candost.blog/the-unbearable-joy-of-sitting-alone-in-a-cafe/",
-          "publishedOn": "2026-01-04T14:37:58.000Z",
-          "wordCount": 1540,
-          "title": "The unbearable joy of sitting alone in a café",
-          "imageUrl": "https://candost.blog/avatar.jpg"
         }
       ]
     },
