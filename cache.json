@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=46868759",
+          "author": "todsacerdoti",
+          "description": "Article URL: https://lars.ingebrigtsen.no/2026/02/02/whats-up-with-all-those-equals-signs-anyway/\nComments URL: https://news.ycombinator.com/item?id=46868759\nPoints: 501\n# Comments: 154",
+          "link": "https://lars.ingebrigtsen.no/2026/02/02/whats-up-with-all-those-equals-signs-anyway/",
+          "publishedOn": "2026-02-03T09:37:40.000Z",
+          "wordCount": 2170,
+          "title": "What's up with all those equals signs anyway?",
+          "imageUrl": "https://lars.ingebrigtsen.no/wp-content/uploads/2026/02/2026-02-02.jpeg"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=46863162",
           "author": "donohoe",
           "description": "Article URL: https://www.frommers.com/tips/airfare/the-tsa-new-45-fee-to-fly-without-id-is-illegal-says-regulatory-expert/\nComments URL: https://news.ycombinator.com/item?id=46863162\nPoints: 537\n# Comments: 611",
@@ -1734,16 +1744,6 @@
           "wordCount": 1434,
           "title": "Anna's Archive loses .org domain after surprise suspension",
           "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=46496103",
-          "author": "viveknathani_",
-          "description": "Article URL: https://www.cs.cmu.edu/~pavlo/blog/2026/01/2025-databases-retrospective.html\nComments URL: https://news.ycombinator.com/item?id=46496103\nPoints: 500\n# Comments: 145",
-          "link": "https://www.cs.cmu.edu/~pavlo/blog/2026/01/2025-databases-retrospective.html",
-          "publishedOn": "2026-01-05T07:14:30.000Z",
-          "wordCount": 6739,
-          "title": "Databases in 2025: A Year in Review",
-          "imageUrl": "https://www.gravatar.com/avatar/75219a26e1b5940510ad17df0d8c42d3?s=400"
         }
       ]
     },
