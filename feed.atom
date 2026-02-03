@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-02-03T21:34:37.095Z</updated>
+    <updated>2026-02-03T22:29:56.018Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -17,6 +17,19 @@ Points: 534
 # Comments: 302]]></summary>
         <author>
             <name>AareyBaba</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Qwen3-Coder-Next]]></title>
+        <id>https://news.ycombinator.com/item?id=46872706</id>
+        <link href="https://qwen.ai/blog?id=qwen3-coder-next"/>
+        <updated>2026-02-03T16:01:50.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://qwen.ai/blog?id=qwen3-coder-next
+Comments URL: https://news.ycombinator.com/item?id=46872706
+Points: 514
+# Comments: 303]]></summary>
+        <author>
+            <name>danielhanchen</name>
         </author>
     </entry>
     <entry>
@@ -2846,19 +2859,6 @@ Points: 626
 # Comments: 288]]></summary>
         <author>
             <name>lylejantzi3rd</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Anna's Archive loses .org domain after surprise suspension]]></title>
-        <id>https://news.ycombinator.com/item?id=46497164</id>
-        <link href="https://torrentfreak.com/annas-archive-loses-org-domain-after-surprise-suspension/"/>
-        <updated>2026-01-05T10:23:32.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://torrentfreak.com/annas-archive-loses-org-domain-after-surprise-suspension/
-Comments URL: https://news.ycombinator.com/item?id=46497164
-Points: 518
-# Comments: 266]]></summary>
-        <author>
-            <name>CTOSian</name>
         </author>
     </entry>
 </feed>
