@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=46881264",
+          "author": "jernestomg",
+          "description": "Article URL: https://www.jernesto.com/articles/thinking_hard\nComments URL: https://news.ycombinator.com/item?id=46881264\nPoints: 564\n# Comments: 331",
+          "link": "https://www.jernesto.com/articles/thinking_hard",
+          "publishedOn": "2026-02-04T03:54:11.000Z",
+          "wordCount": 1083,
+          "title": "I miss thinking hard",
+          "imageUrl": null
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=46876105",
           "author": "ajyoon",
           "description": "Article URL: https://civai.org/blog/space-data-centers\nComments URL: https://news.ycombinator.com/item?id=46876105\nPoints: 535\n# Comments: 633",
@@ -1723,16 +1733,6 @@
           "publishedOn": "2026-01-06T05:20:40.000Z",
           "wordCount": 10198,
           "title": "The Post-American Internet",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=46505518",
-          "author": "ingve",
-          "description": "Article URL: https://perishablepress.com/google-broke-my-heart/\nComments URL: https://news.ycombinator.com/item?id=46505518\nPoints: 501\n# Comments: 255",
-          "link": "https://perishablepress.com/google-broke-my-heart/",
-          "publishedOn": "2026-01-05T21:52:22.000Z",
-          "wordCount": 2719,
-          "title": "Google broke my heart",
           "imageUrl": null
         }
       ]

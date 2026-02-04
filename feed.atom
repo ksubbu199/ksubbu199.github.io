@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-02-04T09:43:16.760Z</updated>
+    <updated>2026-02-04T10:38:51.924Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[I miss thinking hard]]></title>
+        <id>https://news.ycombinator.com/item?id=46881264</id>
+        <link href="https://www.jernesto.com/articles/thinking_hard"/>
+        <updated>2026-02-04T03:54:11.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.jernesto.com/articles/thinking_hard
+Comments URL: https://news.ycombinator.com/item?id=46881264
+Points: 564
+# Comments: 331]]></summary>
+        <author>
+            <name>jernestomg</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Data centers in space makes no sense]]></title>
         <id>https://news.ycombinator.com/item?id=46876105</id>
@@ -2802,19 +2815,6 @@ Points: 500
 # Comments: 390]]></summary>
         <author>
             <name>EvanAnderson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google broke my heart]]></title>
-        <id>https://news.ycombinator.com/item?id=46505518</id>
-        <link href="https://perishablepress.com/google-broke-my-heart/"/>
-        <updated>2026-01-05T21:52:22.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://perishablepress.com/google-broke-my-heart/
-Comments URL: https://news.ycombinator.com/item?id=46505518
-Points: 501
-# Comments: 255]]></summary>
-        <author>
-            <name>ingve</name>
         </author>
     </entry>
 </feed>
