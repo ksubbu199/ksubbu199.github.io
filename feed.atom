@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-02-04T06:52:45.741Z</updated>
+    <updated>2026-02-04T07:43:30.406Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -168,6 +168,19 @@ Points: 529
 # Comments: 164]]></summary>
         <author>
             <name>zdw</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lessons learned shipping 500 units of my first hardware product]]></title>
+        <id>https://news.ycombinator.com/item?id=46848876</id>
+        <link href="https://www.simonberens.com/p/lessons-learned-shipping-500-units"/>
+        <updated>2026-02-01T20:01:00.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.simonberens.com/p/lessons-learned-shipping-500-units
+Comments URL: https://news.ycombinator.com/item?id=46848876
+Points: 517
+# Comments: 222]]></summary>
+        <author>
+            <name>sberens</name>
         </author>
     </entry>
     <entry>
