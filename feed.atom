@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-02-04T17:45:13.699Z</updated>
+    <updated>2026-02-04T18:51:53.078Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Fragments: February  4]]></title>
+        <id>https://martinfowler.com/fragments/2026-02-04.html</id>
+        <link href="https://martinfowler.com/fragments/2026-02-04.html"/>
+        <updated>2026-02-04T17:56:00.000Z</updated>
+        <summary type="html"><![CDATA[I’ve spent a couple of days at a Thoughtworks-organized event in Deer Valley Utah. It was my favorite kind of event, a really great set of attendees in an Open Space format. These kinds of events are full of ideas, which I do want to share, but I can’t truthfully form them into a coherent narrative for an article about the event. However this fragment format suits them perfectly, so I’ll post a bunch of fragmentary thoughts from the event, both in this post, and in  posts in the next few days.
+ ❄                ❄                ❄                ❄                ❄
+We talked about the worry that using AI can cause humans to have less understanding of the systems they are creating. In this discussion one person pointed out that one of the values of Pair Programming is that you have to regular…]]></summary>
+        <author>
+            <name>Martin Fowler</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Find your DREAM JOB by doing this!]]></title>
         <id>https://www.youtube.com/shorts/9dnPIPjoMPA</id>
@@ -292,6 +304,22 @@ Points: 530
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>Hussein Nasser</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Craftplan – I built my wife a production management tool for her bakery]]></title>
+        <id>https://news.ycombinator.com/item?id=46847690</id>
+        <link href="https://github.com/puemos/craftplan"/>
+        <updated>2026-02-01T17:25:39.000Z</updated>
+        <summary type="html"><![CDATA[My wife was planning to open a micro-bakery. We looked at production management software and it was all either expensive or way too generic. The actual workflows for a small-batch manufacturer aren't that complex, so I built one and open-sourced it.
+Craftplan handles recipes (versioned BOMs with cost rollups), inventory (lot traceability, demand forecasting, allergen tracking), orders, production batch planning, and purchasing. Built with Elixir, Ash Framework, Phoenix LiveView, and PostgreSQL.
+Live demo: https://craftplan.fly.dev (test@test.com / Aa123123123123)
+GitHub: https://github.com/puemos/craftplan
+Comments URL: https://news.ycombinator.com/item?id=46847690
+Points: 503
+# Comments: 151]]></summary>
+        <author>
+            <name>deofoo</name>
         </author>
     </entry>
     <entry>
@@ -2851,19 +2879,6 @@ Points: 538
 # Comments: 365]]></summary>
         <author>
             <name>Brajeshwar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[enclose.horse]]></title>
-        <id>https://news.ycombinator.com/item?id=46509211</id>
-        <link href="https://enclose.horse/"/>
-        <updated>2026-01-06T06:01:57.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://enclose.horse/
-Comments URL: https://news.ycombinator.com/item?id=46509211
-Points: 540
-# Comments: 86]]></summary>
-        <author>
-            <name>DavidSJ</name>
         </author>
     </entry>
 </feed>
