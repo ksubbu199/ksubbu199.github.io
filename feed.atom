@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-02-05T11:35:14.025Z</updated>
+    <updated>2026-02-05T13:02:20.942Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -2831,27 +2831,6 @@ Points: 539
 # Comments: 343]]></summary>
         <author>
             <name>aldarion</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Web dependencies are broken. Can we fix them?]]></title>
-        <id>https://lea.verou.me/blog/2026/web-deps/</id>
-        <link href="https://lea.verou.me/blog/2026/web-deps/"/>
-        <updated>2026-01-07T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[No, this is not another rant about npm’s security issues.
-
-
-Abstraction is the cornerstone of modern software engineering.
-Reusing logic and building higher-level solutions from lower-level building blocks is what makes all the technological wonders around us possible.
-Imagine if every time anyone wrote a calculator they also had to reinvent floating-point arithmetic and string encoding!
-In healthy ecosystems dependencies are normal, cheap, and first-class.
-“Dependency-free” is not a badge of honor.
-And yet, the web platform has outsourced this fundamental functionality to third-party tooling.
-As a result, code reuse has become a balancing of tradeoffs that should not have existed in the first place.
-In NodeJS, you just npm install and reference specifiers straight away in your code.
-Same …]]></summary>
-        <author>
-            <name>Lea Verou’s blog</name>
         </author>
     </entry>
 </feed>

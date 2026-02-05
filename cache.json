@@ -2275,18 +2275,7 @@
       "title": "Lea Verou’s blog",
       "feedUrl": "https://lea.verou.me/feed.xml",
       "siteUrl": "https://lea.verou.me/feed.xml",
-      "articles": [
-        {
-          "id": "https://lea.verou.me/blog/2026/web-deps/",
-          "author": null,
-          "description": "No, this is not another rant about npm’s security issues.\n\n\nAbstraction is the cornerstone of modern software engineering.\nReusing logic and building higher-level solutions from lower-level building blocks is what makes all the technological wonders around us possible.\nImagine if every time anyone wrote a calculator they also had to reinvent floating-point arithmetic and string encoding!\nIn healthy ecosystems dependencies are normal, cheap, and first-class.\n“Dependency-free” is not a badge of honor.\nAnd yet, the web platform has outsourced this fundamental functionality to third-party tooling.\nAs a result, code reuse has become a balancing of tradeoffs that should not have existed in the first place.\nIn NodeJS, you just npm install and reference specifiers straight away in your code.\nSame …",
-          "link": "https://lea.verou.me/blog/2026/web-deps/",
-          "publishedOn": "2026-01-07T00:00:00.000Z",
-          "wordCount": 4606,
-          "title": "Web dependencies are broken. Can we fix them?",
-          "imageUrl": "https://lea.verou.me/blog/2026/web-deps/images/intervention.png"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Ben Hoyt's technical writing",
