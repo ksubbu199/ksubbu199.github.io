@@ -1813,6 +1813,16 @@
       "siteUrl": "https://martinfowler.com/feed.atom",
       "articles": [
         {
+          "id": "https://martinfowler.com/articles/exploring-gen-ai/context-engineering-coding-agents.html",
+          "author": null,
+          "description": "The number of options we have to configure and enrich a coding agent’s\n      context has exploded over the past few months. Claude Code is leading the\n      charge with innovations in this space, but other coding assistants are\n      quickly following suit. Powerful context engineering is becoming a huge\n      part of the developer experience of these tools. Birgitta\n      Böckeler explains the current state of\n      context configuration features, using Claude Code as an example.\nmore…",
+          "link": "https://martinfowler.com/articles/exploring-gen-ai/context-engineering-coding-agents.html",
+          "publishedOn": "2026-02-05T15:36:00.000Z",
+          "wordCount": 2043,
+          "title": "Context Engineering for Coding Agents",
+          "imageUrl": "https://martinfowler.com/articles/exploring-gen-ai/donkey-card.png"
+        },
+        {
           "id": "https://martinfowler.com/fragments/2026-02-04.html",
           "author": null,
           "description": "I’ve spent a couple of days at a Thoughtworks-organized event in Deer Valley Utah. It was my favorite kind of event, a really great set of attendees in an Open Space format. These kinds of events are full of ideas, which I do want to share, but I can’t truthfully form them into a coherent narrative for an article about the event. However this fragment format suits them perfectly, so I’ll post a bunch of fragmentary thoughts from the event, both in this post, and in  posts in the next few days.\n ❄                ❄                ❄                ❄                ❄\nWe talked about the worry that using AI can cause humans to have less understanding of the systems they are creating. In this discussion one person pointed out that one of the values of Pair Programming is that you have to regular…",
