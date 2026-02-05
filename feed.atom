@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-02-05T18:48:30.822Z</updated>
+    <updated>2026-02-05T19:36:58.400Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Claude Opus 4.6]]></title>
+        <id>https://news.ycombinator.com/item?id=46902223</id>
+        <link href="https://www.anthropic.com/news/claude-opus-4-6"/>
+        <updated>2026-02-05T17:38:53.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.anthropic.com/news/claude-opus-4-6
+Comments URL: https://news.ycombinator.com/item?id=46902223
+Points: 692
+# Comments: 300]]></summary>
+        <author>
+            <name>HellsMaddy</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Context Engineering for Coding Agents]]></title>
         <id>https://martinfowler.com/articles/exploring-gen-ai/context-engineering-coding-agents.html</id>
