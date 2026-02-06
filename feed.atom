@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-02-06T21:30:47.096Z</updated>
+    <updated>2026-02-06T22:24:27.475Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The Waymo World Model]]></title>
+        <id>https://news.ycombinator.com/item?id=46914785</id>
+        <link href="https://waymo.com/blog/2026/02/the-waymo-world-model-a-new-frontier-for-autonomous-driving-simulation"/>
+        <updated>2026-02-06T16:20:42.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://waymo.com/blog/2026/02/the-waymo-world-model-a-new-frontier-for-autonomous-driving-simulation
+Comments URL: https://news.ycombinator.com/item?id=46914785
+Points: 555
+# Comments: 343]]></summary>
+        <author>
+            <name>xnx</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[I now assume that all ads on Apple news are scams]]></title>
         <id>https://news.ycombinator.com/item?id=46911901</id>
@@ -164,6 +177,19 @@ Points: 500
 # Comments: 405]]></summary>
         <author>
             <name>jakequist</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Recreating Epstein PDFs from raw encoded attachments]]></title>
+        <id>https://news.ycombinator.com/item?id=46890335</id>
+        <link href="https://neosmart.net/blog/recreating-epstein-pdfs-from-raw-encoded-attachments/"/>
+        <updated>2026-02-04T19:19:07.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://neosmart.net/blog/recreating-epstein-pdfs-from-raw-encoded-attachments/
+Comments URL: https://news.ycombinator.com/item?id=46890335
+Points: 500
+# Comments: 185]]></summary>
+        <author>
+            <name>ComputerGuru</name>
         </author>
     </entry>
     <entry>
