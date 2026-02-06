@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-02-06T07:46:57.308Z</updated>
+    <updated>2026-02-06T08:41:21.493Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[We tasked Opus 4.6 using agent teams to build a C Compiler]]></title>
+        <id>https://news.ycombinator.com/item?id=46903616</id>
+        <link href="https://www.anthropic.com/engineering/building-c-compiler"/>
+        <updated>2026-02-05T19:07:51.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.anthropic.com/engineering/building-c-compiler
+Comments URL: https://news.ycombinator.com/item?id=46903616
+Points: 512
+# Comments: 478]]></summary>
+        <author>
+            <name>modeless</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[My AI Adoption Journey]]></title>
         <id>https://news.ycombinator.com/item?id=46903558</id>
@@ -86,6 +99,19 @@ Points: 575
 # Comments: 241]]></summary>
         <author>
             <name>Torq_boi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenClaw is what Apple intelligence should have been]]></title>
+        <id>https://news.ycombinator.com/item?id=46893970</id>
+        <link href="https://www.jakequist.com/thoughts/openclaw-is-what-apple-intelligence-should-have-been"/>
+        <updated>2026-02-05T00:28:06.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.jakequist.com/thoughts/openclaw-is-what-apple-intelligence-should-have-been
+Comments URL: https://news.ycombinator.com/item?id=46893970
+Points: 500
+# Comments: 405]]></summary>
+        <author>
+            <name>jakequist</name>
         </author>
     </entry>
     <entry>
