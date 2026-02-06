@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-02-06T06:55:25.544Z</updated>
+    <updated>2026-02-06T07:46:57.308Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[My AI Adoption Journey]]></title>
+        <id>https://news.ycombinator.com/item?id=46903558</id>
+        <link href="https://mitchellh.com/writing/my-ai-adoption-journey"/>
+        <updated>2026-02-05T19:04:40.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://mitchellh.com/writing/my-ai-adoption-journey
+Comments URL: https://news.ycombinator.com/item?id=46903558
+Points: 528
+# Comments: 163]]></summary>
+        <author>
+            <name>anurag</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Flock CEO calls Deflock a “terrorist organization” (2025) [video]]]></title>
         <id>https://news.ycombinator.com/item?id=46903556</id>
@@ -2802,19 +2815,6 @@ core concepts like “commit” and “branch”. So we wrote a new “data mode
 You can read the data model he…]]></summary>
         <author>
             <name>Julia Evans</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[US will ban Wall Street investors from buying single-family homes]]></title>
-        <id>https://news.ycombinator.com/item?id=46531068</id>
-        <link href="https://www.reuters.com/world/us/us-will-ban-large-institutional-investors-buying-single-family-homes-trump-says-2026-01-07/"/>
-        <updated>2026-01-07T19:13:19.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.reuters.com/world/us/us-will-ban-large-institutional-investors-buying-single-family-homes-trump-says-2026-01-07/
-Comments URL: https://news.ycombinator.com/item?id=46531068
-Points: 587
-# Comments: 628]]></summary>
-        <author>
-            <name>kpw94</name>
         </author>
     </entry>
 </feed>
