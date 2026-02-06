@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=46903556",
+          "author": "cdrnsf",
+          "description": "Article URL: https://www.youtube.com/watch?v=l-kZGrDz7PU\nComments URL: https://news.ycombinator.com/item?id=46903556\nPoints: 556\n# Comments: 387",
+          "link": "https://www.youtube.com/watch?v=l-kZGrDz7PU",
+          "publishedOn": "2026-02-05T19:04:37.000Z",
+          "wordCount": null,
+          "title": "Flock CEO calls Deflock a “terrorist organization” (2025) [video]",
+          "imageUrl": null
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=46902638",
           "author": "meetpateltech",
           "description": "Article URL: https://openai.com/index/introducing-gpt-5-3-codex/\nComments URL: https://news.ycombinator.com/item?id=46902638\nPoints: 597\n# Comments: 219",
@@ -1734,46 +1744,6 @@
           "wordCount": 1532,
           "title": "Eat Real Food",
           "imageUrl": "https://realfood.gov/opengraph-image.png?89b58c885bba0031"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=46527950",
-          "author": "kevlened",
-          "description": "Article URL: https://github.com/tailwindlabs/tailwindcss.com/pull/2388\nComments URL: https://news.ycombinator.com/item?id=46527950\nPoints: 596\n# Comments: 365",
-          "link": "https://github.com/tailwindlabs/tailwindcss.com/pull/2388",
-          "publishedOn": "2026-01-07T16:02:19.000Z",
-          "wordCount": 6537,
-          "title": "Creators of Tailwind laid off 75% of their engineering team",
-          "imageUrl": "https://opengraph.githubassets.com/6c25652088b01dddc2d6d5785aea62a9c2299e625683fc51ba6c5f21cd3047a8/tailwindlabs/tailwindcss.com/pull/2388"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=46527706",
-          "author": "mossTechnician",
-          "description": "Article URL: https://www.pcgamer.com/hardware/dells-ces-2026-chat-was-the-most-pleasingly-un-ai-briefing-ive-had-in-maybe-5-years/\nComments URL: https://news.ycombinator.com/item?id=46527706\nPoints: 500\n# Comments: 353",
-          "link": "https://www.pcgamer.com/hardware/dells-ces-2026-chat-was-the-most-pleasingly-un-ai-briefing-ive-had-in-maybe-5-years/",
-          "publishedOn": "2026-01-07T15:46:07.000Z",
-          "wordCount": 31218,
-          "title": "Dell admits consumers don't care about AI PCs",
-          "imageUrl": "https://cdn.mos.cms.futurecdn.net/xU57HyjJgwpdKBvDT7nwdF-2555-80.jpg"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=46527161",
-          "author": "surprisetalk",
-          "description": "Article URL: https://www.shipmap.org/\nComments URL: https://news.ycombinator.com/item?id=46527161\nPoints: 509\n# Comments: 86",
-          "link": "https://www.shipmap.org/",
-          "publishedOn": "2026-01-07T15:03:41.000Z",
-          "wordCount": 7200,
-          "title": "Shipmap.org",
-          "imageUrl": "https://www.shipmap.org/shipmap_image.jpg"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=46526740",
-          "author": "aldarion",
-          "description": "Article URL: https://www.ucsf.edu/news/2016/09/404081/sugar-papers-reveal-industry-role-shifting-national-heart-disease-focus\nComments URL: https://news.ycombinator.com/item?id=46526740\nPoints: 539\n# Comments: 343",
-          "link": "https://www.ucsf.edu/news/2016/09/404081/sugar-papers-reveal-industry-role-shifting-national-heart-disease-focus",
-          "publishedOn": "2026-01-07T14:29:25.000Z",
-          "wordCount": 1691,
-          "title": "Sugar industry influenced researchers and blamed fat for CVD (2016)",
-          "imageUrl": "https://www.ucsf.edu/sites/default/files/fields/field_insert_file/news/sugar-spoon.jpg"
         }
       ]
     },
