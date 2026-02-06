@@ -1794,16 +1794,6 @@
           "wordCount": 1399,
           "title": "Some notes on starting to use Django",
           "imageUrl": null
-        },
-        {
-          "id": "https://jvns.ca/blog/2026/01/08/a-data-model-for-git/",
-          "author": null,
-          "description": "Hello! This past fall, I decided to take some time to work on Git’s\ndocumentation. I’ve been thinking about working on open source docs for a long\ntime – usually if I think the documentation for something could be improved,\nI’ll write a blog post or a zine or something. But this time I wondered: could I\ninstead make a few improvements to the official documentation?\nSo Marie and I made a few changes to the Git\ndocumentation!\na data model for Git\nAfter a while working on the documentation, we noticed that Git uses the terms\n“object”, “reference”, or “index” in its documentation a lot, but that it didn’t\nhave a great explanation of what those terms mean or how they relate to other\ncore concepts like “commit” and “branch”. So we wrote a new “data model” document!\nYou can read the data model he…",
-          "link": "https://jvns.ca/blog/2026/01/08/a-data-model-for-git/",
-          "publishedOn": "2026-01-08T00:00:00.000Z",
-          "wordCount": 1209,
-          "title": "A data model for Git (and other docs updates)",
-          "imageUrl": null
         }
       ]
     },
