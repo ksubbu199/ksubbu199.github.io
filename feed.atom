@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-02-07T12:49:44.064Z</updated>
+    <updated>2026-02-07T13:42:54.414Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -40,6 +40,19 @@ Points: 555
 # Comments: 343]]></summary>
         <author>
             <name>xnx</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hackers (1995) Animated Experience]]></title>
+        <id>https://news.ycombinator.com/item?id=46912800</id>
+        <link href="https://hackers-1995.vercel.app/"/>
+        <updated>2026-02-06T13:49:55.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://hackers-1995.vercel.app/
+Comments URL: https://news.ycombinator.com/item?id=46912800
+Points: 505
+# Comments: 247]]></summary>
+        <author>
+            <name>todsacerdoti</name>
         </author>
     </entry>
     <entry>
