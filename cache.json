@@ -36,6 +36,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://news.ycombinator.com/item?id=46910963",
+          "author": "giuliomagnifico",
+          "description": "Article URL: https://www.niemanlab.org/2026/02/a-new-bill-in-new-york-would-require-disclaimers-on-ai-generated-news-content/\nComments URL: https://news.ycombinator.com/item?id=46910963\nPoints: 508\n# Comments: 213",
+          "link": "https://www.niemanlab.org/2026/02/a-new-bill-in-new-york-would-require-disclaimers-on-ai-generated-news-content/",
+          "publishedOn": "2026-02-06T09:56:55.000Z",
+          "wordCount": 2466,
+          "title": "A new bill in New York would require disclaimers on AI-generated news content",
+          "imageUrl": "https://www.niemanlab.org/images/AdobeStock_1034103290-700x467.jpg"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=46905555",
           "author": "turtles3",
           "description": "Article URL: https://www.tigerdata.com/blog/its-2026-just-use-postgres\nComments URL: https://news.ycombinator.com/item?id=46905555\nPoints: 501\n# Comments: 309",
@@ -134,6 +144,16 @@
           "wordCount": 5504,
           "title": "Recreating Epstein PDFs from raw encoded attachments",
           "imageUrl": "http://neosmart.net/blog/wp-content/uploads/2026/02/Scanned-1-vs-l-zoomed-in.png"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=46888441",
+          "author": "namanyayg",
+          "description": "Article URL: https://nmn.gl/blog/ai-killing-b2b-saas\nComments URL: https://news.ycombinator.com/item?id=46888441\nPoints: 502\n# Comments: 728",
+          "link": "https://nmn.gl/blog/ai-killing-b2b-saas",
+          "publishedOn": "2026-02-04T17:09:28.000Z",
+          "wordCount": 7381,
+          "title": "AI is killing B2B SaaS",
+          "imageUrl": "https://nmn.gl/blog/assets/saas-stocks.png"
         },
         {
           "id": "https://news.ycombinator.com/item?id=46886735",
@@ -1804,16 +1824,6 @@
           "wordCount": 7843,
           "title": "Bose is open-sourcing its old smart speakers instead of bricking them",
           "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/2785532/vg-DSC01515.1381356364.jpg?quality=90&strip=all&crop=0,3.4048357308663,100,93.190328538267"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=46540498",
-          "author": "ravenical",
-          "description": "Article URL: https://github.com/LRitzdorf/TheJeffDeanFacts\nComments URL: https://news.ycombinator.com/item?id=46540498\nPoints: 503\n# Comments: 174",
-          "link": "https://github.com/LRitzdorf/TheJeffDeanFacts",
-          "publishedOn": "2026-01-08T13:02:05.000Z",
-          "wordCount": 4349,
-          "title": "The Jeff Dean Facts",
-          "imageUrl": "https://opengraph.githubassets.com/ea9b6597980f6cc1f9b42602ef0407a989dbb46d349460423eeab6e2fd5c001d/LRitzdorf/TheJeffDeanFacts"
         }
       ]
     },
@@ -1931,26 +1941,6 @@
           "wordCount": 1753,
           "title": "Stop Picking Sides: Manage the Tension Between Adaptation and                Optimization",
           "imageUrl": "https://martinfowler.com/articles/stop-picking-sides/infograph.jpg"
-        },
-        {
-          "id": "https://martinfowler.com/articles/2025-music.html",
-          "author": null,
-          "description": "My favorite albums from last year. Balkan brass, an\n      acoustic favorite of 80s returns, Ethio-jazz, Guatemalan singer-guitarist,\n      jazz-rock/Indian classical fusion, and a unique male vocalist.\nmore…",
-          "link": "https://martinfowler.com/articles/2025-music.html",
-          "publishedOn": "2026-01-08T13:55:00.000Z",
-          "wordCount": 688,
-          "title": "My favorite musical discoveries of 2025",
-          "imageUrl": "https://martinfowler.com/articles/2025-music/card.png"
-        },
-        {
-          "id": "https://martinfowler.com/fragments/2026-01-08.html",
-          "author": null,
-          "description": "Anthropic report on how their AI is changing their own software development practice.\nMost usage is for debugging and helping understand existing code\nNotable increase in using it for implementing new features\nDevelopers using it for 59% of their work and getting 50% productivity increase\n14% of developers are “power users” reporting much greater gains\nClaude helps developers to work outside their core area\nConcerns about changes to the profession, career evolution, and social dynamics\n ❄                ❄                ❄                ❄                ❄\nMuch of the discussion about using LLMs for software development lacks details on workflow. Rather than just hear people gush about how wonderful it is, I want to understand the gritty details. What kinds of interactions occur with the LL…",
-          "link": "https://martinfowler.com/fragments/2026-01-08.html",
-          "publishedOn": "2026-01-08T13:29:00.000Z",
-          "wordCount": 1337,
-          "title": "Fragments: January  8",
-          "imageUrl": "https://martinfowler.com/logo-sq.png"
         }
       ]
     },

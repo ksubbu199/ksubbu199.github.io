@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-02-06T23:25:59.478Z</updated>
+    <updated>2026-02-07T02:00:55.024Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -43,6 +43,19 @@ Points: 509
 # Comments: 385]]></summary>
         <author>
             <name>thm</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A new bill in New York would require disclaimers on AI-generated news content]]></title>
+        <id>https://news.ycombinator.com/item?id=46910963</id>
+        <link href="https://www.niemanlab.org/2026/02/a-new-bill-in-new-york-would-require-disclaimers-on-ai-generated-news-content/"/>
+        <updated>2026-02-06T09:56:55.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.niemanlab.org/2026/02/a-new-bill-in-new-york-would-require-disclaimers-on-ai-generated-news-content/
+Comments URL: https://news.ycombinator.com/item?id=46910963
+Points: 508
+# Comments: 213]]></summary>
+        <author>
+            <name>giuliomagnifico</name>
         </author>
     </entry>
     <entry>
@@ -202,6 +215,19 @@ Points: 500
 We talked about the worry that using AI can cause humans to have less understanding of the systems they are creating. In this discussion one person pointed out that one of the values of Pair Programming is that you have to regular…]]></summary>
         <author>
             <name>Martin Fowler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI is killing B2B SaaS]]></title>
+        <id>https://news.ycombinator.com/item?id=46888441</id>
+        <link href="https://nmn.gl/blog/ai-killing-b2b-saas"/>
+        <updated>2026-02-04T17:09:28.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://nmn.gl/blog/ai-killing-b2b-saas
+Comments URL: https://news.ycombinator.com/item?id=46888441
+Points: 502
+# Comments: 728]]></summary>
+        <author>
+            <name>namanyayg</name>
         </author>
     </entry>
     <entry>
@@ -2853,50 +2879,6 @@ Points: 852
 # Comments: 137]]></summary>
         <author>
             <name>rayrey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[My favorite musical discoveries of 2025]]></title>
-        <id>https://martinfowler.com/articles/2025-music.html</id>
-        <link href="https://martinfowler.com/articles/2025-music.html"/>
-        <updated>2026-01-08T13:55:00.000Z</updated>
-        <summary type="html"><![CDATA[My favorite albums from last year. Balkan brass, an
-      acoustic favorite of 80s returns, Ethio-jazz, Guatemalan singer-guitarist,
-      jazz-rock/Indian classical fusion, and a unique male vocalist.
-more…]]></summary>
-        <author>
-            <name>Martin Fowler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fragments: January  8]]></title>
-        <id>https://martinfowler.com/fragments/2026-01-08.html</id>
-        <link href="https://martinfowler.com/fragments/2026-01-08.html"/>
-        <updated>2026-01-08T13:29:00.000Z</updated>
-        <summary type="html"><![CDATA[Anthropic report on how their AI is changing their own software development practice.
-Most usage is for debugging and helping understand existing code
-Notable increase in using it for implementing new features
-Developers using it for 59% of their work and getting 50% productivity increase
-14% of developers are “power users” reporting much greater gains
-Claude helps developers to work outside their core area
-Concerns about changes to the profession, career evolution, and social dynamics
- ❄                ❄                ❄                ❄                ❄
-Much of the discussion about using LLMs for software development lacks details on workflow. Rather than just hear people gush about how wonderful it is, I want to understand the gritty details. What kinds of interactions occur with the LL…]]></summary>
-        <author>
-            <name>Martin Fowler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Jeff Dean Facts]]></title>
-        <id>https://news.ycombinator.com/item?id=46540498</id>
-        <link href="https://github.com/LRitzdorf/TheJeffDeanFacts"/>
-        <updated>2026-01-08T13:02:05.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://github.com/LRitzdorf/TheJeffDeanFacts
-Comments URL: https://news.ycombinator.com/item?id=46540498
-Points: 503
-# Comments: 174]]></summary>
-        <author>
-            <name>ravenical</name>
         </author>
     </entry>
 </feed>
