@@ -2,10 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-02-08T22:27:54.590Z</updated>
+    <updated>2026-02-08T23:30:55.704Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Vouch]]></title>
+        <id>https://news.ycombinator.com/item?id=46930961</id>
+        <link href="https://github.com/mitchellh/vouch"/>
+        <updated>2026-02-08T03:09:28.000Z</updated>
+        <summary type="html"><![CDATA[https://x.com/mitchellh/status/2020252149117313349
+https://nitter.net/mitchellh/status/2020252149117313349
+https://github.com/ghostty-org/ghostty/pull/10559
+Comments URL: https://news.ycombinator.com/item?id=46930961
+Points: 515
+# Comments: 229]]></summary>
+        <author>
+            <name>chwtutha</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[We mourn our craft]]></title>
         <id>https://news.ycombinator.com/item?id=46926245</id>
@@ -2823,19 +2838,6 @@ Points: 552
 # Comments: 470]]></summary>
         <author>
             <name>rorylawless</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Allow me to introduce, the Citroen C15]]></title>
-        <id>https://news.ycombinator.com/item?id=46564696</id>
-        <link href="https://eupolicy.social/@jmaris/115860595238097654"/>
-        <updated>2026-01-10T11:12:15.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://eupolicy.social/@jmaris/115860595238097654
-Comments URL: https://news.ycombinator.com/item?id=46564696
-Points: 521
-# Comments: 319]]></summary>
-        <author>
-            <name>colinprince</name>
         </author>
     </entry>
 </feed>
