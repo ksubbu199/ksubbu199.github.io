@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-02-09T06:11:51.356Z</updated>
+    <updated>2026-02-09T07:57:05.877Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -2802,19 +2802,6 @@ Points: 502
 # Comments: 255]]></summary>
         <author>
             <name>OptionOfT</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Finding and fixing Ghostty's largest memory leak]]></title>
-        <id>https://news.ycombinator.com/item?id=46568794</id>
-        <link href="https://mitchellh.com/writing/ghostty-memory-leak-fix"/>
-        <updated>2026-01-10T18:58:37.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://mitchellh.com/writing/ghostty-memory-leak-fix
-Comments URL: https://news.ycombinator.com/item?id=46568794
-Points: 507
-# Comments: 109]]></summary>
-        <author>
-            <name>thorel</name>
         </author>
     </entry>
 </feed>
