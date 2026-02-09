@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=46945663",
+          "author": "x01",
+          "description": "https://discord.com/press-releases/discord-launches-teen-by-...\nhttps://discord.com/safety/how-discord-is-building-safer-exp...\nComments URL: https://news.ycombinator.com/item?id=46945663\nPoints: 525\n# Comments: 528",
+          "link": "https://www.theverge.com/tech/875309/discord-age-verification-global-roll-out",
+          "publishedOn": "2026-02-09T14:37:38.000Z",
+          "wordCount": 9263,
+          "title": "Discord will require a face scan or ID for full access next month",
+          "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/acastro_STK062_01.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=46938511",
           "author": "linolevan",
           "description": "Article URL: https://sandboxspirit.com/blog/art-of-roads-in-games/\nComments URL: https://news.ycombinator.com/item?id=46938511\nPoints: 530\n# Comments: 167",
@@ -1812,6 +1822,16 @@
       "feedUrl": "https://martinfowler.com/feed.atom",
       "siteUrl": "https://martinfowler.com/feed.atom",
       "articles": [
+        {
+          "id": "https://martinfowler.com/fragments/2026-02-09.html",
+          "author": null,
+          "description": "Some more thoughts from last week’s open space gathering on the future of software development in the age of AI. I haven’t attributed any comments since we were operating under the Chatham House Rule, but should the sources recognize themselves and would like to be attributed, then get in touch and I’ll edit this post.\n ❄                ❄\nDuring the opening of the gathering, I commented that I was naturally skeptical of the value of LLMs. After all, the decades have thrown up many tools that have claimed to totally change the nature of software development. Most of these have been little better than snake oil.\nBut I am a total, absolute skeptic - which means I also have to be skeptical of my own skepticism.\n ❄                ❄\nOne of our sessions focused on the problem of “cognitive debt”.…",
+          "link": "https://martinfowler.com/fragments/2026-02-09.html",
+          "publishedOn": "2026-02-09T19:32:00.000Z",
+          "wordCount": 1108,
+          "title": "Fragments: February  9",
+          "imageUrl": "https://martinfowler.com/logo-sq.png"
+        },
         {
           "id": "https://martinfowler.com/articles/exploring-gen-ai/context-engineering-coding-agents.html",
           "author": null,

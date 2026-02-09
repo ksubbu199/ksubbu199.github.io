@@ -2,10 +2,39 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-02-09T19:18:18.423Z</updated>
+    <updated>2026-02-09T20:38:14.675Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Fragments: February  9]]></title>
+        <id>https://martinfowler.com/fragments/2026-02-09.html</id>
+        <link href="https://martinfowler.com/fragments/2026-02-09.html"/>
+        <updated>2026-02-09T19:32:00.000Z</updated>
+        <summary type="html"><![CDATA[Some more thoughts from last week’s open space gathering on the future of software development in the age of AI. I haven’t attributed any comments since we were operating under the Chatham House Rule, but should the sources recognize themselves and would like to be attributed, then get in touch and I’ll edit this post.
+ ❄                ❄
+During the opening of the gathering, I commented that I was naturally skeptical of the value of LLMs. After all, the decades have thrown up many tools that have claimed to totally change the nature of software development. Most of these have been little better than snake oil.
+But I am a total, absolute skeptic - which means I also have to be skeptical of my own skepticism.
+ ❄                ❄
+One of our sessions focused on the problem of “cognitive debt”.…]]></summary>
+        <author>
+            <name>Martin Fowler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Discord will require a face scan or ID for full access next month]]></title>
+        <id>https://news.ycombinator.com/item?id=46945663</id>
+        <link href="https://www.theverge.com/tech/875309/discord-age-verification-global-roll-out"/>
+        <updated>2026-02-09T14:37:38.000Z</updated>
+        <summary type="html"><![CDATA[https://discord.com/press-releases/discord-launches-teen-by-...
+https://discord.com/safety/how-discord-is-building-safer-exp...
+Comments URL: https://news.ycombinator.com/item?id=46945663
+Points: 525
+# Comments: 528]]></summary>
+        <author>
+            <name>x01</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How China Is Quietly Beating America in the AI War]]></title>
         <id>https://www.youtube.com/watch?v=1I-WIuY2yuI</id>
