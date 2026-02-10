@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-02-10T13:14:33.572Z</updated>
+    <updated>2026-02-10T15:00:07.297Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -32,6 +32,19 @@ Points: 504
 # Comments: 162]]></summary>
         <author>
             <name>tokyobreakfast</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GitHub is down again]]></title>
+        <id>https://news.ycombinator.com/item?id=46946827</id>
+        <link href="https://www.githubstatus.com/incidents/54hndjxft5bx"/>
+        <updated>2026-02-09T16:12:19.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.githubstatus.com/incidents/54hndjxft5bx
+Comments URL: https://news.ycombinator.com/item?id=46946827
+Points: 500
+# Comments: 396]]></summary>
+        <author>
+            <name>MattIPv4</name>
         </author>
     </entry>
     <entry>
