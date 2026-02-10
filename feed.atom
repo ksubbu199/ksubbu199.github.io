@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-02-10T08:56:31.431Z</updated>
+    <updated>2026-02-10T10:01:50.783Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -19,6 +19,19 @@ But I am a total, absolute skeptic - which means I also have to be skeptical of 
 One of our sessions focused on the problem of “cognitive debt”.…]]></summary>
         <author>
             <name>Martin Fowler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Converting a $3.88 analog clock from Walmart into a ESP8266-based Wi-Fi clock]]></title>
+        <id>https://news.ycombinator.com/item?id=46947096</id>
+        <link href="https://github.com/jim11662418/ESP8266_WiFi_Analog_Clock"/>
+        <updated>2026-02-09T16:26:31.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://github.com/jim11662418/ESP8266_WiFi_Analog_Clock
+Comments URL: https://news.ycombinator.com/item?id=46947096
+Points: 504
+# Comments: 162]]></summary>
+        <author>
+            <name>tokyobreakfast</name>
         </author>
     </entry>
     <entry>
@@ -2801,19 +2814,6 @@ Points: 523
 # Comments: 451]]></summary>
         <author>
             <name>0xedb</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CLI agents make self-hosting on a home server easier and fun]]></title>
-        <id>https://news.ycombinator.com/item?id=46580326</id>
-        <link href="https://fulghum.io/self-hosting"/>
-        <updated>2026-01-11T21:29:57.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://fulghum.io/self-hosting
-Comments URL: https://news.ycombinator.com/item?id=46580326
-Points: 510
-# Comments: 335]]></summary>
-        <author>
-            <name>websku</name>
         </author>
     </entry>
 </feed>

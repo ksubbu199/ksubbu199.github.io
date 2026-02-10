@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=46947096",
+          "author": "tokyobreakfast",
+          "description": "Article URL: https://github.com/jim11662418/ESP8266_WiFi_Analog_Clock\nComments URL: https://news.ycombinator.com/item?id=46947096\nPoints: 504\n# Comments: 162",
+          "link": "https://github.com/jim11662418/ESP8266_WiFi_Analog_Clock",
+          "publishedOn": "2026-02-09T16:26:31.000Z",
+          "wordCount": 2332,
+          "title": "Converting a $3.88 analog clock from Walmart into a ESP8266-based Wi-Fi clock",
+          "imageUrl": "https://opengraph.githubassets.com/5d9403ec5921172579c66d39277fc7e0c32c9387cda4c00f408811e647d2175b/jim11662418/ESP8266_WiFi_Analog_Clock"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=46946401",
           "author": "udit99",
           "description": "Article URL: https://explainers.blog/posts/why-is-the-sky-blue/\nComments URL: https://news.ycombinator.com/item?id=46946401\nPoints: 508\n# Comments: 177",
@@ -1744,16 +1754,6 @@
           "wordCount": 1595,
           "title": "Statement from Jerome Powell",
           "imageUrl": "https://www.federalreserve.gov/images/social-media/social-default-image-opengraph.jpg"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=46580326",
-          "author": "websku",
-          "description": "Article URL: https://fulghum.io/self-hosting\nComments URL: https://news.ycombinator.com/item?id=46580326\nPoints: 510\n# Comments: 335",
-          "link": "https://fulghum.io/self-hosting",
-          "publishedOn": "2026-01-11T21:29:57.000Z",
-          "wordCount": 1820,
-          "title": "CLI agents make self-hosting on a home server easier and fun",
-          "imageUrl": "https://fulghum.io/glances.png"
         }
       ]
     },
