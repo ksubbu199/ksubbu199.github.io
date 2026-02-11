@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-02-10T23:38:28.074Z</updated>
+    <updated>2026-02-11T02:24:51.136Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -43,6 +43,19 @@ Points: 517
 # Comments: 433]]></summary>
         <author>
             <name>jamesrandall</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Oxide raises $200M Series C]]></title>
+        <id>https://news.ycombinator.com/item?id=46960036</id>
+        <link href="https://oxide.computer/blog/our-200m-series-c"/>
+        <updated>2026-02-10T14:20:49.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://oxide.computer/blog/our-200m-series-c
+Comments URL: https://news.ycombinator.com/item?id=46960036
+Points: 521
+# Comments: 277]]></summary>
+        <author>
+            <name>igrunert</name>
         </author>
     </entry>
     <entry>
@@ -2879,19 +2892,6 @@ Points: 531
         <updated>2026-01-12T15:02:01.000Z</updated>
         <author>
             <name>Hussein Nasser</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Floppy disks turn out to be the greatest TV remote for kids]]></title>
-        <id>https://news.ycombinator.com/item?id=46587934</id>
-        <link href="https://blog.smartere.dk/2026/01/floppy-disks-the-best-tv-remote-for-kids/"/>
-        <updated>2026-01-12T13:07:49.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://blog.smartere.dk/2026/01/floppy-disks-the-best-tv-remote-for-kids/
-Comments URL: https://news.ycombinator.com/item?id=46587934
-Points: 514
-# Comments: 306]]></summary>
-        <author>
-            <name>mchro</name>
         </author>
     </entry>
 </feed>
