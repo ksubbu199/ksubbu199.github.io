@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=46982421",
+          "author": "JustSkyfall",
+          "description": "Article URL: https://age-verifier.kibty.town/\nComments URL: https://news.ycombinator.com/item?id=46982421\nPoints: 505\n# Comments: 218",
+          "link": "https://age-verifier.kibty.town/",
+          "publishedOn": "2026-02-11T22:56:41.000Z",
+          "wordCount": 774,
+          "title": "Discord/Twitch/Snapchat age verification bypass",
+          "imageUrl": null
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=46978710",
           "author": "WXLCKNO",
           "description": "Article URL: https://symmetrybreak.ing/blog/claude-code-is-being-dumbed-down/\nComments URL: https://news.ycombinator.com/item?id=46978710\nPoints: 536\n# Comments: 374",
@@ -1774,26 +1784,6 @@
           "wordCount": null,
           "title": "AI Generated Music Barred from Bandcamp",
           "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=46602102",
-          "author": "ekianjo",
-          "description": "Article URL: https://www.youtube.com/watch?v=Rs_JrOIo3SE\nComments URL: https://news.ycombinator.com/item?id=46602102\nPoints: 510\n# Comments: 891",
-          "link": "https://www.youtube.com/watch?v=Rs_JrOIo3SE",
-          "publishedOn": "2026-01-13T15:18:43.000Z",
-          "wordCount": null,
-          "title": "Scott Adams has died",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=46601157",
-          "author": "lemonlime227",
-          "description": "Article URL: https://www.apple.com/newsroom/2026/01/introducing-apple-creator-studio-an-inspiring-collection-of-creative-apps/\nComments URL: https://news.ycombinator.com/item?id=46601157\nPoints: 501\n# Comments: 417",
-          "link": "https://www.apple.com/newsroom/2026/01/introducing-apple-creator-studio-an-inspiring-collection-of-creative-apps/",
-          "publishedOn": "2026-01-13T14:14:18.000Z",
-          "wordCount": 10345,
-          "title": "Apple Creator Studio",
-          "imageUrl": "https://www.apple.com/newsroom/images/2026/01/introducing-apple-creator-studio-an-inspiring-collection-of-creative-apps/tile/Apple-Creator-Studio-hero-lp.jpg.og.jpg?202601141459"
         }
       ]
     },
@@ -1911,16 +1901,6 @@
           "wordCount": 3485,
           "title": "Conversation: LLMs and the what/how loop",
           "imageUrl": "https://martinfowler.com/logo-sq.png"
-        },
-        {
-          "id": "https://martinfowler.com/articles/stop-picking-sides.html",
-          "author": null,
-          "description": "Jim Highsmith notes that many teams have turned into\n      tribes wedded to exclusively adaptation or optimization. But he feels this\n      misses the point that both of these are important, and we need to manage\n      the tension between them. We can do this by thinking of two operating\n      modes: explore (adaptation-dominant) and exploit (optimization dominant).\n      We tailor a team's operating model to a particular blend of the two -\n      considering uncertainty, risk, cost of change, and an evidence threshold.\n      We should be particularly careful at the points where there is a handoff\n      between the two modes\nmore…",
-          "link": "https://martinfowler.com/articles/stop-picking-sides.html",
-          "publishedOn": "2026-01-13T14:59:00.000Z",
-          "wordCount": 1753,
-          "title": "Stop Picking Sides: Manage the Tension Between Adaptation and                Optimization",
-          "imageUrl": "https://martinfowler.com/articles/stop-picking-sides/infograph.jpg"
         }
       ]
     },
