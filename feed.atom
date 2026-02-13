@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-02-13T15:42:00.396Z</updated>
+    <updated>2026-02-13T16:45:48.968Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Fragments: February 13]]></title>
+        <id>https://martinfowler.com/fragments/2026-02-13.html</id>
+        <link href="https://martinfowler.com/fragments/2026-02-13.html"/>
+        <updated>2026-02-13T15:45:00.000Z</updated>
+        <summary type="html"><![CDATA[I’ve been busy traveling this week, visiting some clients in the Bay Area and attending The Pragmatic Summit. So I’ve not has as much time as I’d hoped to share more thoughts from the Thoughtworks Future of Software Development Retreat. I’m still working through my notes and posting fragments - here are some more:
+ ❄                ❄
+What role do senior developers play as LLMs become established? As befits a gathering of many senior developers, we felt we still have a bright future, focusing more on architectural issues than the messy details of syntax and coding. In some cases, folks who haven’t done much programming in the last decade have found LLMs allow them to get back to that, and managing LLM agents has a lot of similarities to managing junior developers.
+One attendee reported that…]]></summary>
+        <author>
+            <name>Martin Fowler</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Resizing windows on macOS Tahoe – the saga continues]]></title>
         <id>https://news.ycombinator.com/item?id=46997008</id>

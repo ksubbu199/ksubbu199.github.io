@@ -1883,6 +1883,16 @@
       "siteUrl": "https://martinfowler.com/feed.atom",
       "articles": [
         {
+          "id": "https://martinfowler.com/fragments/2026-02-13.html",
+          "author": null,
+          "description": "I’ve been busy traveling this week, visiting some clients in the Bay Area and attending The Pragmatic Summit. So I’ve not has as much time as I’d hoped to share more thoughts from the Thoughtworks Future of Software Development Retreat. I’m still working through my notes and posting fragments - here are some more:\n ❄                ❄\nWhat role do senior developers play as LLMs become established? As befits a gathering of many senior developers, we felt we still have a bright future, focusing more on architectural issues than the messy details of syntax and coding. In some cases, folks who haven’t done much programming in the last decade have found LLMs allow them to get back to that, and managing LLM agents has a lot of similarities to managing junior developers.\nOne attendee reported that…",
+          "link": "https://martinfowler.com/fragments/2026-02-13.html",
+          "publishedOn": "2026-02-13T15:45:00.000Z",
+          "wordCount": 1659,
+          "title": "Fragments: February 13",
+          "imageUrl": "https://martinfowler.com/logo-sq.png"
+        },
+        {
           "id": "https://martinfowler.com/fragments/2026-02-09.html",
           "author": null,
           "description": "Some more thoughts from last week’s open space gathering on the future of software development in the age of AI. I haven’t attributed any comments since we were operating under the Chatham House Rule, but should the sources recognize themselves and would like to be attributed, then get in touch and I’ll edit this post.\n ❄                ❄\nDuring the opening of the gathering, I commented that I was naturally skeptical of the value of LLMs. After all, the decades have thrown up many tools that have claimed to totally change the nature of software development. Most of these have been little better than snake oil.\nBut I am a total, absolute skeptic - which means I also have to be skeptical of my own skepticism.\n ❄                ❄\nOne of our sessions focused on the problem of “cognitive debt”.…",
