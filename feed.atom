@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-02-13T18:51:09.984Z</updated>
+    <updated>2026-02-13T19:41:42.383Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -30,6 +30,19 @@ Points: 588
 # Comments: 337]]></summary>
         <author>
             <name>ozzyphantom</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Monosketch]]></title>
+        <id>https://news.ycombinator.com/item?id=47001871</id>
+        <link href="https://monosketch.io/"/>
+        <updated>2026-02-13T12:18:05.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://monosketch.io/
+Comments URL: https://news.ycombinator.com/item?id=47001871
+Points: 541
+# Comments: 108]]></summary>
+        <author>
+            <name>penguin_booze</name>
         </author>
     </entry>
     <entry>
