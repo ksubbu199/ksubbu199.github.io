@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-02-13T14:06:18.581Z</updated>
+    <updated>2026-02-13T15:42:00.396Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -17,6 +17,19 @@ Points: 529
 # Comments: 234]]></summary>
         <author>
             <name>erickhill</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ring cancels its partnership with Flock Safety after surveillance backlash]]></title>
+        <id>https://news.ycombinator.com/item?id=46996999</id>
+        <link href="https://www.theverge.com/news/878447/ring-flock-partnership-canceled"/>
+        <updated>2026-02-12T23:51:16.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.theverge.com/news/878447/ring-flock-partnership-canceled
+Comments URL: https://news.ycombinator.com/item?id=46996999
+Points: 512
+# Comments: 280]]></summary>
+        <author>
+            <name>c420</name>
         </author>
     </entry>
     <entry>
@@ -2892,19 +2905,6 @@ Points: 509
 # Comments: 120]]></summary>
         <author>
             <name>pain_perdu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The URL shortener that makes your links look as suspicious as possible]]></title>
-        <id>https://news.ycombinator.com/item?id=46627652</id>
-        <link href="https://creepylink.com/"/>
-        <updated>2026-01-15T03:28:20.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://creepylink.com/
-Comments URL: https://news.ycombinator.com/item?id=46627652
-Points: 503
-# Comments: 98]]></summary>
-        <author>
-            <name>dreadsword</name>
         </author>
     </entry>
 </feed>
