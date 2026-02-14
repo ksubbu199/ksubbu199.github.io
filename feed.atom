@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-02-14T15:25:51.937Z</updated>
+    <updated>2026-02-14T16:30:10.821Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -24,6 +24,19 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>Think School</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[An AI Agent Published a Hit Piece on Me – More Things Have Happened]]></title>
+        <id>https://news.ycombinator.com/item?id=47009949</id>
+        <link href="https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me-part-2/"/>
+        <updated>2026-02-14T00:37:53.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me-part-2/
+Comments URL: https://news.ycombinator.com/item?id=47009949
+Points: 505
+# Comments: 252]]></summary>
+        <author>
+            <name>scottshambaugh</name>
         </author>
     </entry>
     <entry>
@@ -128,6 +141,26 @@ Points: 512
 # Comments: 280]]></summary>
         <author>
             <name>c420</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tell HN: Ralph Giles has died (Xiph.org| Rust@Mozilla | Ghostscript)]]></title>
+        <id>https://news.ycombinator.com/item?id=46996490</id>
+        <link href="https://news.ycombinator.com/item?id=46996490"/>
+        <updated>2026-02-12T22:58:58.000Z</updated>
+        <summary type="html"><![CDATA[It's with much sadness that we announce the passing of our friend and colleague Ralph Giles, or rillian as he was known on IRC.
+Ralph began contributing to Xiph.org in 2000 and became a core Ghostscript developer in 2001[1]. Ralph made many contributions to the royalty-free media ecosystem, whether it was as a project lead on Theora, serving as release manager for multiple Xiph libraries or maintaining Xiph infrastructure that has been used across the industry by codec engineers and researchers[2].
+He was also the first to ship Rust code in Firefox[3] during his time at Mozilla, which was a major milestone for both the language and Firefox itself.
+Ralph was a great contributor, a kind colleague and will be greatly missed.
+Official Announcement: https://www.linkedin.com/feed/update/urn:li:activity:7427730...
+[1]: http://www.wizards-of-os.org/archiv/sprecher/g_h/ralph_giles...
+[2]: https://media.xiph.org/
+[3]: https://medium.com/mozilla-tech/deploying-rust-in-a-large-co...
+Comments URL: https://news.ycombinator.com/item?id=46996490
+Points: 500
+# Comments: 27]]></summary>
+        <author>
+            <name>ffworld</name>
         </author>
     </entry>
     <entry>
