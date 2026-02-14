@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=47007656",
+          "author": "danso",
+          "description": "Article URL: https://www.politico.eu/article/tiktok-meta-facebook-instagram-brussels-kill-infinite-scrolling/\nComments URL: https://news.ycombinator.com/item?id=47007656\nPoints: 534\n# Comments: 542",
+          "link": "https://www.politico.eu/article/tiktok-meta-facebook-instagram-brussels-kill-infinite-scrolling/",
+          "publishedOn": "2026-02-13T20:52:11.000Z",
+          "wordCount": 4560,
+          "title": "The EU moves to kill infinite scrolling",
+          "imageUrl": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2026/02/12/GettyImages-1773279325-scaled.jpg"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=47003064",
           "author": "ozzyphantom",
           "description": "Article URL: https://ios-countdown.win/\nComments URL: https://news.ycombinator.com/item?id=47003064\nPoints: 588\n# Comments: 337",
@@ -1784,16 +1794,6 @@
           "wordCount": 895,
           "title": "Just the Browser",
           "imageUrl": "https://justthebrowser.com/media/preview.png"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=46638013",
-          "author": "us321",
-          "description": "Article URL: https://briarproject.org/manual/fa/\nComments URL: https://news.ycombinator.com/item?id=46638013\nPoints: 507\n# Comments: 319",
-          "link": "https://briarproject.org/manual/fa/",
-          "publishedOn": "2026-01-15T19:38:02.000Z",
-          "wordCount": 2312,
-          "title": "Briar keeps Iran connected via Bluetooth and Wi-Fi when the internet goes dark",
-          "imageUrl": null
         }
       ]
     },
