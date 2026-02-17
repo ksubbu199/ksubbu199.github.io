@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-02-17T16:57:02.613Z</updated>
+    <updated>2026-02-17T17:56:49.148Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -88,6 +88,19 @@ Points: 514
         <updated>2026-02-16T14:57:27.000Z</updated>
         <author>
             <name>Think School</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What your Bluetooth devices reveal]]></title>
+        <id>https://news.ycombinator.com/item?id=47035560</id>
+        <link href="https://blog.dmcc.io/journal/2026-bluetooth-privacy-bluehood/"/>
+        <updated>2026-02-16T14:39:32.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://blog.dmcc.io/journal/2026-bluetooth-privacy-bluehood/
+Comments URL: https://news.ycombinator.com/item?id=47035560
+Points: 504
+# Comments: 184]]></summary>
+        <author>
+            <name>ssgodderidge</name>
         </author>
     </entry>
     <entry>
