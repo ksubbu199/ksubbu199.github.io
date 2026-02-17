@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-02-17T14:44:36.181Z</updated>
+    <updated>2026-02-17T15:52:55.848Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Bliki: Agentic Email]]></title>
+        <id>https://martinfowler.com/bliki/AgenticEmail.html</id>
+        <link href="https://martinfowler.com/bliki/AgenticEmail.html"/>
+        <updated>2026-02-17T15:39:00.000Z</updated>
+        <summary type="html"><![CDATA[I've heard a number of reports recently about people setting up LLM agents
+  to work on their email and other communications. The LLM has access to the
+  user's email account, reads all the emails, decides which emails to ignore,
+  drafts some emails for the user to approve, and replies to some emails
+  autonomously. It can also hook into a calendar, confirming, arranging, or
+  denying meetings.
+This is a very appealing prospect. Like most folks I know, the barrage of
+  emails is a vexing toad squatting on my life, constantly diverting me from
+  interesting work. More communication tools - slack, discord, chat servers -
+  only make this worse. There's lots of scope for an intelligent, agentic,
+  assistant to make much of this toil go away.
+But there's something deeply scary about doing thi…]]></summary>
+        <author>
+            <name>Martin Fowler</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Harness Engineering]]></title>
         <id>https://martinfowler.com/articles/exploring-gen-ai/harness-engineering.html</id>
@@ -19,6 +40,32 @@
 more…]]></summary>
         <author>
             <name>Martin Fowler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GrapheneOS – Break Free from Google and Apple]]></title>
+        <id>https://news.ycombinator.com/item?id=47045612</id>
+        <link href="https://blog.tomaszdunia.pl/grapheneos-eng/"/>
+        <updated>2026-02-17T10:02:36.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://blog.tomaszdunia.pl/grapheneos-eng/
+Comments URL: https://news.ycombinator.com/item?id=47045612
+Points: 599
+# Comments: 384]]></summary>
+        <author>
+            <name>to3k</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dark web agent spotted bedroom wall clue to rescue girl from abuse]]></title>
+        <id>https://news.ycombinator.com/item?id=47042396</id>
+        <link href="https://www.bbc.com/news/articles/cx2gn239exlo"/>
+        <updated>2026-02-17T01:01:00.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.bbc.com/news/articles/cx2gn239exlo
+Comments URL: https://news.ycombinator.com/item?id=47042396
+Points: 516
+# Comments: 287]]></summary>
+        <author>
+            <name>colinprince</name>
         </author>
     </entry>
     <entry>

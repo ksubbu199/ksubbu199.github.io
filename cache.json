@@ -6,6 +6,26 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=47045612",
+          "author": "to3k",
+          "description": "Article URL: https://blog.tomaszdunia.pl/grapheneos-eng/\nComments URL: https://news.ycombinator.com/item?id=47045612\nPoints: 599\n# Comments: 384",
+          "link": "https://blog.tomaszdunia.pl/grapheneos-eng/",
+          "publishedOn": "2026-02-17T10:02:36.000Z",
+          "wordCount": 6321,
+          "title": "GrapheneOS – Break Free from Google and Apple",
+          "imageUrl": "https://blog.tomaszdunia.pl/images/grapheneos.png"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=47042396",
+          "author": "colinprince",
+          "description": "Article URL: https://www.bbc.com/news/articles/cx2gn239exlo\nComments URL: https://news.ycombinator.com/item?id=47042396\nPoints: 516\n# Comments: 287",
+          "link": "https://www.bbc.com/news/articles/cx2gn239exlo",
+          "publishedOn": "2026-02-17T01:01:00.000Z",
+          "wordCount": 8780,
+          "title": "Dark web agent spotted bedroom wall clue to rescue girl from abuse",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/5ef8/live/d681e5e0-0827-11f1-b5e2-dd58fc65f0f6.png"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=47038546",
           "author": "bookofjoe",
           "description": "Article URL: https://www.smithsonianmag.com/innovation/this-14-year-old-is-using-origami-to-design-emergency-shelters-that-are-sturdy-cost-efficient-and-easy-to-deploy-180988179/\nComments URL: https://news.ycombinator.com/item?id=47038546\nPoints: 514\n# Comments: 101",
@@ -1862,6 +1882,16 @@
       "feedUrl": "https://martinfowler.com/feed.atom",
       "siteUrl": "https://martinfowler.com/feed.atom",
       "articles": [
+        {
+          "id": "https://martinfowler.com/bliki/AgenticEmail.html",
+          "author": null,
+          "description": "I've heard a number of reports recently about people setting up LLM agents\n  to work on their email and other communications. The LLM has access to the\n  user's email account, reads all the emails, decides which emails to ignore,\n  drafts some emails for the user to approve, and replies to some emails\n  autonomously. It can also hook into a calendar, confirming, arranging, or\n  denying meetings.\nThis is a very appealing prospect. Like most folks I know, the barrage of\n  emails is a vexing toad squatting on my life, constantly diverting me from\n  interesting work. More communication tools - slack, discord, chat servers -\n  only make this worse. There's lots of scope for an intelligent, agentic,\n  assistant to make much of this toil go away.\nBut there's something deeply scary about doing thi…",
+          "link": "https://martinfowler.com/bliki/AgenticEmail.html",
+          "publishedOn": "2026-02-17T15:39:00.000Z",
+          "wordCount": 652,
+          "title": "Bliki: Agentic Email",
+          "imageUrl": "https://martinfowler.com/logo-sq.png"
+        },
         {
           "id": "https://martinfowler.com/articles/exploring-gen-ai/harness-engineering.html",
           "author": null,
