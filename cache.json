@@ -1863,6 +1863,16 @@
       "siteUrl": "https://martinfowler.com/feed.atom",
       "articles": [
         {
+          "id": "https://martinfowler.com/articles/exploring-gen-ai/harness-engineering.html",
+          "author": null,
+          "description": "Birgitta Böckeler explains why OpenAI's recent write-up on\n      Harness Engineering is a valuable framing of a key activity in\n      AI-enabled software development. The harness includes context engineering,\n      architectural constraints, and garbage collection of the code base. It's a\n      serious activity: OpenAI took five months to build their harness.\nmore…",
+          "link": "https://martinfowler.com/articles/exploring-gen-ai/harness-engineering.html",
+          "publishedOn": "2026-02-17T13:33:00.000Z",
+          "wordCount": 1236,
+          "title": "Harness Engineering",
+          "imageUrl": "https://martinfowler.com/articles/exploring-gen-ai/donkey-card.png"
+        },
+        {
           "id": "https://martinfowler.com/fragments/2026-02-13.html",
           "author": null,
           "description": "I’ve been busy traveling this week, visiting some clients in the Bay Area and attending The Pragmatic Summit. So I’ve not has as much time as I’d hoped to share more thoughts from the Thoughtworks Future of Software Development Retreat. I’m still working through my notes and posting fragments - here are some more:\n ❄                ❄\nWhat role do senior developers play as LLMs become established? As befits a gathering of many senior developers, we felt we still have a bright future, focusing more on architectural issues than the messy details of syntax and coding. In some cases, folks who haven’t done much programming in the last decade have found LLMs allow them to get back to that, and managing LLM agents has a lot of similarities to managing junior developers.\nOne attendee reported that…",

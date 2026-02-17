@@ -2,10 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-02-17T13:03:30.831Z</updated>
+    <updated>2026-02-17T14:44:36.181Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Harness Engineering]]></title>
+        <id>https://martinfowler.com/articles/exploring-gen-ai/harness-engineering.html</id>
+        <link href="https://martinfowler.com/articles/exploring-gen-ai/harness-engineering.html"/>
+        <updated>2026-02-17T13:33:00.000Z</updated>
+        <summary type="html"><![CDATA[Birgitta Böckeler explains why OpenAI's recent write-up on
+      Harness Engineering is a valuable framing of a key activity in
+      AI-enabled software development. The harness includes context engineering,
+      architectural constraints, and garbage collection of the code base. It's a
+      serious activity: OpenAI took five months to build their harness.
+more…]]></summary>
+        <author>
+            <name>Martin Fowler</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[14-year-old Miles Wu folded origami pattern that holds 10k times its own weight]]></title>
         <id>https://news.ycombinator.com/item?id=47038546</id>
