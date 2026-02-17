@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-02-17T04:52:04.816Z</updated>
+    <updated>2026-02-17T05:57:26.674Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[14-year-old Miles Wu folded origami pattern that holds 10k times its own weight]]></title>
+        <id>https://news.ycombinator.com/item?id=47038546</id>
+        <link href="https://www.smithsonianmag.com/innovation/this-14-year-old-is-using-origami-to-design-emergency-shelters-that-are-sturdy-cost-efficient-and-easy-to-deploy-180988179/"/>
+        <updated>2026-02-16T18:41:50.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.smithsonianmag.com/innovation/this-14-year-old-is-using-origami-to-design-emergency-shelters-that-are-sturdy-cost-efficient-and-easy-to-deploy-180988179/
+Comments URL: https://news.ycombinator.com/item?id=47038546
+Points: 514
+# Comments: 101]]></summary>
+        <author>
+            <name>bookofjoe</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[3 Mistakes That Kill Restaurant Businesses | Why 90% Don’t Survive Their First Year| Zorawar Kalra]]></title>
         <id>https://www.youtube.com/watch?v=juaz3DitPJ0</id>
@@ -2901,19 +2914,6 @@ Points: 500
 # Comments: 490]]></summary>
         <author>
             <name>krustyburger</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gaussian Splatting – A$AP Rocky "Helicopter" music video]]></title>
-        <id>https://news.ycombinator.com/item?id=46670024</id>
-        <link href="https://radiancefields.com/a-ap-rocky-releases-helicopter-music-video-featuring-gaussian-splatting"/>
-        <updated>2026-01-18T17:40:55.000Z</updated>
-        <summary type="html"><![CDATA[https://www.youtube.com/watch?v=g1-46Nu3HxQ
-Comments URL: https://news.ycombinator.com/item?id=46670024
-Points: 503
-# Comments: 163]]></summary>
-        <author>
-            <name>ChrisArchitect</name>
         </author>
     </entry>
 </feed>
