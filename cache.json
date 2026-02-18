@@ -1893,6 +1893,16 @@
       "siteUrl": "https://martinfowler.com/feed.atom",
       "articles": [
         {
+          "id": "https://martinfowler.com/fragments/2026-02-18.html",
+          "author": null,
+          "description": "I’ll start with some more tidbits from the Thoughtworks Future of Software Development Retreat\n ❄                ❄\nWe were tired after the event, but our marketing folks forced Rachel Laycock and I to do a quick video. We’re often asked if this event was about creating some kind of new manifesto for AI-enabled development, akin to the Agile Manifesto (which is now 25 years old). In short, our answer is “no”, but for the full answer, watch our video\n ❄                ❄\nMy colleagues put together a detailed summary of thoughts from the event, in a 17 page PDF. It breaks the discussion down into eight major themes, including “Where does the rigor go?”, “The middle loop: a new category of work”, “Technical foundations: languages, semantics and\noperating systems”, and “The human side: roles, sk…",
+          "link": "https://martinfowler.com/fragments/2026-02-18.html",
+          "publishedOn": "2026-02-18T15:53:00.000Z",
+          "wordCount": 1552,
+          "title": "Fragments: February 18",
+          "imageUrl": "https://martinfowler.com/logo-sq.png"
+        },
+        {
           "id": "https://martinfowler.com/bliki/AgenticEmail.html",
           "author": null,
           "description": "I've heard a number of reports recently about people setting up LLM agents\n  to work on their email and other communications. The LLM has access to the\n  user's email account, reads all the emails, decides which emails to ignore,\n  drafts some emails for the user to approve, and replies to some emails\n  autonomously. It can also hook into a calendar, confirming, arranging, or\n  denying meetings.\nThis is a very appealing prospect. Like most folks I know, the barrage of\n  emails is a vexing toad squatting on my life, constantly diverting me from\n  interesting work. More communication tools - slack, discord, chat servers -\n  only make this worse. There's lots of scope for an intelligent, agentic,\n  assistant to make much of this toil go away.\nBut there's something deeply scary about doing thi…",
