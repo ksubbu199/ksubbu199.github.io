@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-02-18T20:39:38.439Z</updated>
+    <updated>2026-02-18T21:35:13.940Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -178,6 +178,19 @@ But there's something deeply scary about doing thi…]]></summary>
 more…]]></summary>
         <author>
             <name>Martin Fowler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Is Show HN dead? No, but it's drowning]]></title>
+        <id>https://news.ycombinator.com/item?id=47045804</id>
+        <link href="https://www.arthurcnops.blog/death-of-show-hn/"/>
+        <updated>2026-02-17T10:29:14.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.arthurcnops.blog/death-of-show-hn/
+Comments URL: https://news.ycombinator.com/item?id=47045804
+Points: 500
+# Comments: 411]]></summary>
+        <author>
+            <name>acnops</name>
         </author>
     </entry>
     <entry>
