@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-02-18T02:10:31.083Z</updated>
+    <updated>2026-02-18T04:52:44.534Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -28,6 +28,19 @@ Points: 605
 # Comments: 488]]></summary>
         <author>
             <name>adocomplete</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Thank HN: You helped save 33k lives]]></title>
+        <id>https://news.ycombinator.com/item?id=47049824</id>
+        <link href="https://news.ycombinator.com/item?id=47049824"/>
+        <updated>2026-02-17T17:06:18.000Z</updated>
+        <summary type="html"><![CDATA[13 years ago, we launched Watsi.org with a Show HN [1].
+For nearly a year, this community drove so much traffic that we couldn’t list patients fast enough. Then pg saw us on HN, wrote us our first big check, and accepted us as the first YC nonprofit (W13). The next few years were a whirlwind.
+I was a young, naive founder with just enough experience to know I wanted Watsi to be more efficient, transparent, and innovative than most nonprofits. We spent 24/7 talking to users and coding. We did things that don’t scale. We tried our best to be walking, talking pg essays.
+Over the years we learned that product/market fit is different for nonprofits. Not many people wake up and think, "I'd love to donate to a nonprofit today" with the same oomph that they think, "I'd love a coffee" or "I'd like t…]]></summary>
+        <author>
+            <name>chaseadam17</name>
         </author>
     </entry>
     <entry>
@@ -2896,61 +2909,6 @@ Points: 501
 # Comments: 167]]></summary>
         <author>
             <name>WorldPeas</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Apple testing new App Store design that blurs the line between ads and results]]></title>
-        <id>https://news.ycombinator.com/item?id=46680974</id>
-        <link href="https://9to5mac.com/2026/01/16/iphone-apple-app-store-search-results-ads-new-design/"/>
-        <updated>2026-01-19T16:36:11.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://9to5mac.com/2026/01/16/iphone-apple-app-store-search-results-ads-new-design/
-Comments URL: https://news.ycombinator.com/item?id=46680974
-Points: 520
-# Comments: 421]]></summary>
-        <author>
-            <name>ksec</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[American importers and consumers bear the cost of 2025 tariffs: analysis]]></title>
-        <id>https://news.ycombinator.com/item?id=46680212</id>
-        <link href="https://www.kielinstitut.de/publications/americas-own-goal-who-pays-the-tariffs-19398/"/>
-        <updated>2026-01-19T15:43:01.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.kielinstitut.de/publications/americas-own-goal-who-pays-the-tariffs-19398/
-Comments URL: https://news.ycombinator.com/item?id=46680212
-Points: 593
-# Comments: 540]]></summary>
-        <author>
-            <name>47282847</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gen Z Debt Crisis!]]></title>
-        <id>https://www.youtube.com/shorts/E7XCi7tlj4I</id>
-        <link href="https://www.youtube.com/shorts/E7XCi7tlj4I"/>
-        <updated>2026-01-19T15:11:53.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Think School</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The playbook to ₹1 Crore Before Age 30]]></title>
-        <id>https://www.youtube.com/shorts/I3TCVn68_JA</id>
-        <link href="https://www.youtube.com/shorts/I3TCVn68_JA"/>
-        <updated>2026-01-19T15:10:29.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Think School</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[5 Backend Design Patterns for Managing Threads and Sockets]]></title>
-        <id>https://www.youtube.com/watch?v=x9iHwoAbwiA</id>
-        <link href="https://www.youtube.com/watch?v=x9iHwoAbwiA"/>
-        <updated>2026-01-19T15:01:45.000Z</updated>
-        <author>
-            <name>Hussein Nasser</name>
         </author>
     </entry>
 </feed>
