@@ -1893,6 +1893,26 @@
       "siteUrl": "https://martinfowler.com/feed.atom",
       "articles": [
         {
+          "id": "https://martinfowler.com/fragments/2026-02-19.html",
+          "author": null,
+          "description": "I try to limit my time on stage these days, but one exception this year is at DDD Europe. I’ve been involved in Domain-Driven Design, since its very earliest days, having the good fortune to be a sounding board for Eric Evans when he wrote his seminal book. It’ll be fun to be around the folks who continue to develop these ideas, which I think will probably be even more important in the AI-enabled age.\n ❄                ❄                ❄                ❄                ❄\nOne of the dark sides of LLMs is that they can be both addictive and tiring to work with, which may mean we have to find a way to put a deliberate governor on our work.\nSteve Yegge posted a fine rant:\nI see these frenzied AI-native startups as an army of a million hopeful prolecats, each with an invisible vampiric imp perc…",
+          "link": "https://martinfowler.com/fragments/2026-02-19.html",
+          "publishedOn": "2026-02-19T14:42:00.000Z",
+          "wordCount": 2155,
+          "title": "Fragments: February 19",
+          "imageUrl": "https://martinfowler.com/logo-sq.png"
+        },
+        {
+          "id": "https://martinfowler.com/bliki/HostLeadership.html",
+          "author": null,
+          "description": "If you've hung around agile circles for long, you've probably heard about\n  the concept of servant leadership, that managers should think of themselves as\n  supporting the team, removing blocks, protecting them from the vagaries of\n  corporate life. That's never sounded quite right to me, and a recent\n  conversation with Kent Beck nailed why - it's gaslighting. The manager claims\n  to be a servant, but everyone knows who really has the power.\nMy colleague Giles Edwards-Alexander told me about an alternative way of\n  thinking about leadership, one that he came across working with mental-health\n  professionals. This casts the leader as a host: preparing a suitable space,\n  inviting the team in, providing ideas and problems, and then stepping back to\n  let them work. The host looks after the team, rather as the ideal servant\n  leader does, but still has the power to intervene should things go awry.",
+          "link": "https://martinfowler.com/bliki/HostLeadership.html",
+          "publishedOn": "2026-02-19T13:57:00.000Z",
+          "wordCount": 239,
+          "title": "Bliki: Host Leadership",
+          "imageUrl": "https://martinfowler.com/logo-sq.png"
+        },
+        {
           "id": "https://martinfowler.com/fragments/2026-02-18.html",
           "author": null,
           "description": "I’ll start with some more tidbits from the Thoughtworks Future of Software Development Retreat\n ❄                ❄\nWe were tired after the event, but our marketing folks forced Rachel Laycock and I to do a quick video. We’re often asked if this event was about creating some kind of new manifesto for AI-enabled development, akin to the Agile Manifesto (which is now 25 years old). In short, our answer is “no”, but for the full answer, watch our video\n ❄                ❄\nMy colleagues put together a detailed summary of thoughts from the event, in a 17 page PDF. It breaks the discussion down into eight major themes, including “Where does the rigor go?”, “The middle loop: a new category of work”, “Technical foundations: languages, semantics and\noperating systems”, and “The human side: roles, sk…",
@@ -1930,6 +1950,16 @@
           "publishedOn": "2026-02-13T15:45:00.000Z",
           "wordCount": 1659,
           "title": "Fragments: February 13",
+          "imageUrl": "https://martinfowler.com/logo-sq.png"
+        },
+        {
+          "id": "https://martinfowler.com/bliki/FutureOfSoftwareDevelopment.html",
+          "author": null,
+          "description": "In Februrary 2026, Thoughtworks hosted a workshop called “The Future of\n  Software Development” in Deer Valley Utah. While it was held in the mountains\n  of Utah as a nod to the 25th anniversary of the writing of Manifesto for Agile Software\n  Development, it was a forward-looking event, focusing on how the rise of\n  AI and LLMs would affect our profession.\nAbout 50 or so people were invited, a mixture of Thoughtworkers, software\n  pundits, and clients - all picked for being active in the LLM-fuelled changes.\n  We met for a day and a half of Open Space conference. It was\n  an intense, and enjoyable event.\nI haven't attempted to make a coherent narrative of what we discussed and\n  learned there. I have instead posted various insights into my fragments\n  posts:\nFebruary 4\nFebruary 9\nFebruary 13\nFebruary 18\nThe retreat was held under the Chatham House\n  Rule, so most comments aren't attributed, unless I received specific\n  permission.\nThoughtworks\n  published a summary of thoughts from the event.\nOther posts from participants\nAnnie Vella posted her\n      take-aways\nRachel Laycock was interviewed by\n      The New Stack.",
+          "link": "https://martinfowler.com/bliki/FutureOfSoftwareDevelopment.html",
+          "publishedOn": "2026-02-13T15:40:00.000Z",
+          "wordCount": 276,
+          "title": "Bliki: Future Of Software Development",
           "imageUrl": "https://martinfowler.com/logo-sq.png"
         },
         {

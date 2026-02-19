@@ -2,10 +2,45 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-02-19T13:06:27.973Z</updated>
+    <updated>2026-02-19T14:47:28.164Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Fragments: February 19]]></title>
+        <id>https://martinfowler.com/fragments/2026-02-19.html</id>
+        <link href="https://martinfowler.com/fragments/2026-02-19.html"/>
+        <updated>2026-02-19T14:42:00.000Z</updated>
+        <summary type="html"><![CDATA[I try to limit my time on stage these days, but one exception this year is at DDD Europe. I’ve been involved in Domain-Driven Design, since its very earliest days, having the good fortune to be a sounding board for Eric Evans when he wrote his seminal book. It’ll be fun to be around the folks who continue to develop these ideas, which I think will probably be even more important in the AI-enabled age.
+ ❄                ❄                ❄                ❄                ❄
+One of the dark sides of LLMs is that they can be both addictive and tiring to work with, which may mean we have to find a way to put a deliberate governor on our work.
+Steve Yegge posted a fine rant:
+I see these frenzied AI-native startups as an army of a million hopeful prolecats, each with an invisible vampiric imp perc…]]></summary>
+        <author>
+            <name>Martin Fowler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bliki: Host Leadership]]></title>
+        <id>https://martinfowler.com/bliki/HostLeadership.html</id>
+        <link href="https://martinfowler.com/bliki/HostLeadership.html"/>
+        <updated>2026-02-19T13:57:00.000Z</updated>
+        <summary type="html"><![CDATA[If you've hung around agile circles for long, you've probably heard about
+  the concept of servant leadership, that managers should think of themselves as
+  supporting the team, removing blocks, protecting them from the vagaries of
+  corporate life. That's never sounded quite right to me, and a recent
+  conversation with Kent Beck nailed why - it's gaslighting. The manager claims
+  to be a servant, but everyone knows who really has the power.
+My colleague Giles Edwards-Alexander told me about an alternative way of
+  thinking about leadership, one that he came across working with mental-health
+  professionals. This casts the leader as a host: preparing a suitable space,
+  inviting the team in, providing ideas and problems, and then stepping back to
+  let them work. The host looks after the team, rather as the ideal servant
+  leader does, but still has the power to intervene should things go awry.]]></summary>
+        <author>
+            <name>Martin Fowler</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Think School’s Visit to Harvard]]></title>
         <id>https://www.youtube.com/shorts/efqrDPJoVX4</id>
@@ -564,6 +599,41 @@ Points: 505
  ❄                ❄
 What role do senior developers play as LLMs become established? As befits a gathering of many senior developers, we felt we still have a bright future, focusing more on architectural issues than the messy details of syntax and coding. In some cases, folks who haven’t done much programming in the last decade have found LLMs allow them to get back to that, and managing LLM agents has a lot of similarities to managing junior developers.
 One attendee reported that…]]></summary>
+        <author>
+            <name>Martin Fowler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bliki: Future Of Software Development]]></title>
+        <id>https://martinfowler.com/bliki/FutureOfSoftwareDevelopment.html</id>
+        <link href="https://martinfowler.com/bliki/FutureOfSoftwareDevelopment.html"/>
+        <updated>2026-02-13T15:40:00.000Z</updated>
+        <summary type="html"><![CDATA[In Februrary 2026, Thoughtworks hosted a workshop called “The Future of
+  Software Development” in Deer Valley Utah. While it was held in the mountains
+  of Utah as a nod to the 25th anniversary of the writing of Manifesto for Agile Software
+  Development, it was a forward-looking event, focusing on how the rise of
+  AI and LLMs would affect our profession.
+About 50 or so people were invited, a mixture of Thoughtworkers, software
+  pundits, and clients - all picked for being active in the LLM-fuelled changes.
+  We met for a day and a half of Open Space conference. It was
+  an intense, and enjoyable event.
+I haven't attempted to make a coherent narrative of what we discussed and
+  learned there. I have instead posted various insights into my fragments
+  posts:
+February 4
+February 9
+February 13
+February 18
+The retreat was held under the Chatham House
+  Rule, so most comments aren't attributed, unless I received specific
+  permission.
+Thoughtworks
+  published a summary of thoughts from the event.
+Other posts from participants
+Annie Vella posted her
+      take-aways
+Rachel Laycock was interviewed by
+      The New Stack.]]></summary>
         <author>
             <name>Martin Fowler</name>
         </author>
