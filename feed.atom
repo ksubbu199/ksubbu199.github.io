@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-02-19T02:08:46.513Z</updated>
+    <updated>2026-02-19T04:52:20.709Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -19,6 +19,19 @@ My colleagues put together a detailed summary of thoughts from the event, in a 1
 operating systems”, and “The human side: roles, sk…]]></summary>
         <author>
             <name>Martin Fowler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mark Zuckerberg Lied to Congress. We Can't Trust His Testimony]]></title>
+        <id>https://news.ycombinator.com/item?id=47060486</id>
+        <link href="https://dispatch.techoversight.org/top-report-mark-zuckerberg-lied-to-congress-we-cant-trust-his-testimony/"/>
+        <updated>2026-02-18T13:00:11.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://dispatch.techoversight.org/top-report-mark-zuckerberg-lied-to-congress-we-cant-trust-his-testimony/
+Comments URL: https://news.ycombinator.com/item?id=47060486
+Points: 506
+# Comments: 307]]></summary>
+        <author>
+            <name>speckx</name>
         </author>
     </entry>
     <entry>
@@ -2949,32 +2962,6 @@ Points: 507
 # Comments: 98]]></summary>
         <author>
             <name>mkmk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[De-dollarization: Is the US dollar losing its dominance? (2025)]]></title>
-        <id>https://news.ycombinator.com/item?id=46693346</id>
-        <link href="https://www.jpmorgan.com/insights/global-research/currencies/de-dollarization"/>
-        <updated>2026-01-20T16:03:21.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.jpmorgan.com/insights/global-research/currencies/de-dollarization
-Comments URL: https://news.ycombinator.com/item?id=46693346
-Points: 524
-# Comments: 694]]></summary>
-        <author>
-            <name>andsoitis</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Danish pension fund divesting US Treasuries]]></title>
-        <id>https://news.ycombinator.com/item?id=46692594</id>
-        <link href="https://www.reuters.com/business/danish-pension-fund-divest-its-us-treasuries-2026-01-20/"/>
-        <updated>2026-01-20T15:11:45.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.reuters.com/business/danish-pension-fund-divest-its-us-treasuries-2026-01-20/
-Comments URL: https://news.ycombinator.com/item?id=46692594
-Points: 504
-# Comments: 542]]></summary>
-        <author>
-            <name>mythical_39</name>
         </author>
     </entry>
 </feed>
