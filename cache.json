@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=47069299",
+          "author": "theahura",
+          "description": "Article URL: https://code.claude.com/docs/en/legal-and-compliance\nComments URL: https://news.ycombinator.com/item?id=47069299\nPoints: 516\n# Comments: 623",
+          "link": "https://code.claude.com/docs/en/legal-and-compliance",
+          "publishedOn": "2026-02-19T02:52:26.000Z",
+          "wordCount": 426,
+          "title": "Anthropic officially bans using subscription auth for third party use",
+          "imageUrl": null
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=47066552",
           "author": "zdw",
           "description": "Article URL: https://pudding.cool/2026/02/womens-sizing/\nComments URL: https://news.ycombinator.com/item?id=47066552\nPoints: 505\n# Comments: 264",
@@ -1824,16 +1834,6 @@
           "wordCount": 3059,
           "title": "EU–INC – A new pan-European legal entity",
           "imageUrl": "https://framerusercontent.com/images/DywwAp236AdnECpow4p9VcGluY.png"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=46700594",
-          "author": "myahio",
-          "description": "Article URL: https://github.com/anthropics/original_performance_takehome\nComments URL: https://news.ycombinator.com/item?id=46700594\nPoints: 529\n# Comments: 249",
-          "link": "https://github.com/anthropics/original_performance_takehome",
-          "publishedOn": "2026-01-21T02:54:32.000Z",
-          "wordCount": 1084,
-          "title": "Anthropic's original take home assignment open sourced",
-          "imageUrl": "https://opengraph.githubassets.com/8ce074877a9120133626aa0328d2179770fec556d531db918b42f4f46f5de5c1/anthropics/original_performance_takehome"
         }
       ]
     },

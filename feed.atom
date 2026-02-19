@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-02-19T14:47:28.164Z</updated>
+    <updated>2026-02-19T15:49:07.822Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -49,6 +49,19 @@ My colleague Giles Edwards-Alexander told me about an alternative way of
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>Think School</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Anthropic officially bans using subscription auth for third party use]]></title>
+        <id>https://news.ycombinator.com/item?id=47069299</id>
+        <link href="https://code.claude.com/docs/en/legal-and-compliance"/>
+        <updated>2026-02-19T02:52:26.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://code.claude.com/docs/en/legal-and-compliance
+Comments URL: https://news.ycombinator.com/item?id=47069299
+Points: 516
+# Comments: 623]]></summary>
+        <author>
+            <name>theahura</name>
         </author>
     </entry>
     <entry>
@@ -3029,19 +3042,6 @@ Points: 523
 # Comments: 507]]></summary>
         <author>
             <name>tilt</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Anthropic's original take home assignment open sourced]]></title>
-        <id>https://news.ycombinator.com/item?id=46700594</id>
-        <link href="https://github.com/anthropics/original_performance_takehome"/>
-        <updated>2026-01-21T02:54:32.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://github.com/anthropics/original_performance_takehome
-Comments URL: https://news.ycombinator.com/item?id=46700594
-Points: 529
-# Comments: 249]]></summary>
-        <author>
-            <name>myahio</name>
         </author>
     </entry>
 </feed>
