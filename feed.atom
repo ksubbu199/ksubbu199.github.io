@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-02-19T23:30:25.636Z</updated>
+    <updated>2026-02-20T02:05:23.057Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[AI makes you boring]]></title>
+        <id>https://news.ycombinator.com/item?id=47076966</id>
+        <link href="https://www.marginalia.nu/log/a_132_ai_bores/"/>
+        <updated>2026-02-19T18:12:16.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.marginalia.nu/log/a_132_ai_bores/
+Comments URL: https://news.ycombinator.com/item?id=47076966
+Points: 536
+# Comments: 299]]></summary>
+        <author>
+            <name>speckx</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Gemini 3.1 Pro]]></title>
         <id>https://news.ycombinator.com/item?id=47075318</id>
@@ -17,6 +30,20 @@ Points: 559
 # Comments: 382]]></summary>
         <author>
             <name>PunchTornado</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gemini 3.1 Pro]]></title>
+        <id>https://news.ycombinator.com/item?id=47074735</id>
+        <link href="https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-pro/"/>
+        <updated>2026-02-19T15:19:57.000Z</updated>
+        <summary type="html"><![CDATA[Preview: https://console.cloud.google.com/vertex-ai/publishers/google...
+Card: https://deepmind.google/models/model-cards/gemini-3-1-pro/
+Comments URL: https://news.ycombinator.com/item?id=47074735
+Points: 528
+# Comments: 696]]></summary>
+        <author>
+            <name>MallocVoidstar</name>
         </author>
     </entry>
     <entry>
