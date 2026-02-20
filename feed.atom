@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-02-20T20:31:33.924Z</updated>
+    <updated>2026-02-20T21:25:41.881Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Keep Android Open]]></title>
+        <id>https://news.ycombinator.com/item?id=47091419</id>
+        <link href="https://f-droid.org/2026/02/20/twif.html"/>
+        <updated>2026-02-20T17:58:51.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://f-droid.org/2026/02/20/twif.html
+Comments URL: https://news.ycombinator.com/item?id=47091419
+Points: 645
+# Comments: 251]]></summary>
+        <author>
+            <name>LorenDB</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Trump's global tariffs struck down by US Supreme Court]]></title>
         <id>https://news.ycombinator.com/item?id=47089213</id>
@@ -17,6 +30,19 @@ Points: 538
 # Comments: 390]]></summary>
         <author>
             <name>blackguardx</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I found a useful Git one liner buried in leaked CIA developer docs]]></title>
+        <id>https://news.ycombinator.com/item?id=47088181</id>
+        <link href="https://spencer.wtf/2026/02/20/cleaning-up-merged-git-branches-a-one-liner-from-the-cias-leaked-dev-docs.html"/>
+        <updated>2026-02-20T14:03:06.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://spencer.wtf/2026/02/20/cleaning-up-merged-git-branches-a-one-liner-from-the-cias-leaked-dev-docs.html
+Comments URL: https://news.ycombinator.com/item?id=47088181
+Points: 536
+# Comments: 198]]></summary>
+        <author>
+            <name>spencerldixon</name>
         </author>
     </entry>
     <entry>
@@ -56,6 +82,19 @@ Points: 533
 # Comments: 286]]></summary>
         <author>
             <name>willy__</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[An AI Agent Published a Hit Piece on Me – The Operator Came Forward]]></title>
+        <id>https://news.ycombinator.com/item?id=47083145</id>
+        <link href="https://theshamblog.com/an-ai-agent-wrote-a-hit-piece-on-me-part-4/"/>
+        <updated>2026-02-20T03:05:08.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://theshamblog.com/an-ai-agent-wrote-a-hit-piece-on-me-part-4/
+Comments URL: https://news.ycombinator.com/item?id=47083145
+Points: 503
+# Comments: 446]]></summary>
+        <author>
+            <name>scottshambaugh</name>
         </author>
     </entry>
     <entry>
