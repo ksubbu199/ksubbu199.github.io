@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-02-20T02:05:23.057Z</updated>
+    <updated>2026-02-20T04:46:20.467Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -3004,71 +3004,6 @@ Points: 507
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>Hussein Nasser</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Claude's new constitution]]></title>
-        <id>https://news.ycombinator.com/item?id=46707572</id>
-        <link href="https://www.anthropic.com/news/claude-new-constitution"/>
-        <updated>2026-01-21T16:04:49.000Z</updated>
-        <summary type="html"><![CDATA[https://www.anthropic.com/constitution
-Comments URL: https://news.ycombinator.com/item?id=46707572
-Points: 502
-# Comments: 586]]></summary>
-        <author>
-            <name>meetpateltech</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Skip is now free and open source]]></title>
-        <id>https://news.ycombinator.com/item?id=46706906</id>
-        <link href="https://skip.dev/blog/skip-is-free/"/>
-        <updated>2026-01-21T15:20:53.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://skip.dev/blog/skip-is-free/
-Comments URL: https://news.ycombinator.com/item?id=46706906
-Points: 501
-# Comments: 222]]></summary>
-        <author>
-            <name>dayanruben</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: ChartGPU – WebGPU-powered charting library (1M points at 60fps)]]></title>
-        <id>https://news.ycombinator.com/item?id=46706528</id>
-        <link href="https://github.com/ChartGPU/ChartGPU"/>
-        <updated>2026-01-21T14:54:56.000Z</updated>
-        <summary type="html"><![CDATA[Creator here. I built ChartGPU because I kept hitting the same wall: charting libraries that claim to be "fast" but choke past 100K data points.
-The core insight: Canvas2D is fundamentally CPU-bound. Even WebGL chart libraries still do most computation on the CPU. So I moved everything to the GPU via WebGPU:
-- LTTB downsampling runs as a compute shader
-- Hit-testing for tooltips/hover is GPU-accelerated
-- Rendering uses instanced draws (one draw call per series)
-The result: 1M points at 60fps with smooth zoom/pan.
-Live demo: https://chartgpu.github.io/ChartGPU/examples/million-points/
-Currently supports line, area, bar, scatter, pie, and candlestick charts. MIT licensed, available on npm: `npm install chartgpu`
-Happy to answer questions about WebGPU internals or architecture decisions.
-Comments URL: https://news.ycombinator.com/item?id=46706528
-Points: 501
-# Comments: 146]]></summary>
-        <author>
-            <name>huntergemmer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Conversation: LLMs and the what/how loop]]></title>
-        <id>https://martinfowler.com/articles/convo-what-how.html</id>
-        <link href="https://martinfowler.com/articles/convo-what-how.html"/>
-        <updated>2026-01-21T14:40:00.000Z</updated>
-        <summary type="html"><![CDATA[A conversation between Unmesh Joshi, Rebecca
-      Parsons, and Martin Fowler on how LLMs help us
-      shape the abstractions in our software. We view our challenge as building
-      systems that survive change, requiring us to manage our cognitive load. We
-      can do this by mapping the “what” of we want our software to do into the
-      “how” of programming languages. This “what” and “how” are built up in a
-      feedback loop. TDD helps us operationalize that loop, and LLMs allow us to
-      explore that loop in an informal and more fluid manner.
-more…]]></summary>
-        <author>
-            <name>Martin Fowler</name>
         </author>
     </entry>
 </feed>
