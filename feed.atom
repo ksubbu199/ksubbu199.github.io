@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-02-20T05:53:37.481Z</updated>
+    <updated>2026-02-20T06:56:39.768Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -30,6 +30,26 @@ Points: 559
 # Comments: 382]]></summary>
         <author>
             <name>PunchTornado</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Micasa – track your house from the terminal]]></title>
+        <id>https://news.ycombinator.com/item?id=47075124</id>
+        <link href="https://micasa.dev/"/>
+        <updated>2026-02-19T15:54:14.000Z</updated>
+        <summary type="html"><![CDATA[micasa is a terminal UI that helps you track home stuff, in a single SQLite file. No cloud, no
+account, no subscription. Backup with cp.
+I built it because I was tired of losing track of everything in notes apps, and "I'll remember
+that"s. When do I need to clean the dishwasher filter? What's the best quote for a complete
+overhaul of the backyard. Oops, found some mold behind the trim, need to address that ASAP. That
+sort of stuff.
+Another reason I made micasa was to build a (hopefully useful) low-stakes personal project where
+the code was written entirely by AI. I still review the code and click the merge button, but 99%
+of the programming was done with an agent.
+Here are some things I think make it worth checking out:
+- Vim-style modal UI. Nav mode to browse, edit mode to change. Multico…]]></summary>
+        <author>
+            <name>cpcloud</name>
         </author>
     </entry>
     <entry>
