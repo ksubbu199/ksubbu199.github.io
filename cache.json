@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=47091748",
+          "author": "npilk",
+          "description": "Article URL: https://pilk.website/3/facebook-is-absolutely-cooked\nComments URL: https://news.ycombinator.com/item?id=47091748\nPoints: 540\n# Comments: 340",
+          "link": "https://pilk.website/3/facebook-is-absolutely-cooked",
+          "publishedOn": "2026-02-20T18:25:07.000Z",
+          "wordCount": 1165,
+          "title": "Facebook is cooked",
+          "imageUrl": "https://pilk.website/3/facebook-is-cooked-wide.png"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=47091419",
           "author": "LorenDB",
           "description": "Article URL: https://f-droid.org/2026/02/20/twif.html\nComments URL: https://news.ycombinator.com/item?id=47091419\nPoints: 645\n# Comments: 251",
@@ -1883,16 +1893,6 @@
           "publishedOn": "2026-01-22T13:50:48.000Z",
           "wordCount": 914,
           "title": "Douglas Adams on the English–American cultural divide over \"heroes\"",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=46717556",
-          "author": "latexr",
-          "description": "Article URL: https://curl.se/.well-known/security.txt\nComments URL: https://news.ycombinator.com/item?id=46717556\nPoints: 585\n# Comments: 339",
-          "link": "https://curl.se/.well-known/security.txt",
-          "publishedOn": "2026-01-22T10:48:27.000Z",
-          "wordCount": 121,
-          "title": "We will ban you and ridicule you in public if you waste our time on crap reports",
           "imageUrl": null
         }
       ]

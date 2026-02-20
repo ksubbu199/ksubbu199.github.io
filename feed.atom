@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-02-20T22:26:25.331Z</updated>
+    <updated>2026-02-20T23:29:09.277Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Facebook is cooked]]></title>
+        <id>https://news.ycombinator.com/item?id=47091748</id>
+        <link href="https://pilk.website/3/facebook-is-absolutely-cooked"/>
+        <updated>2026-02-20T18:25:07.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://pilk.website/3/facebook-is-absolutely-cooked
+Comments URL: https://news.ycombinator.com/item?id=47091748
+Points: 540
+# Comments: 340]]></summary>
+        <author>
+            <name>npilk</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Keep Android Open]]></title>
         <id>https://news.ycombinator.com/item?id=47091419</id>
@@ -3054,19 +3067,6 @@ Points: 503
 # Comments: 505]]></summary>
         <author>
             <name>speckx</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[We will ban you and ridicule you in public if you waste our time on crap reports]]></title>
-        <id>https://news.ycombinator.com/item?id=46717556</id>
-        <link href="https://curl.se/.well-known/security.txt"/>
-        <updated>2026-01-22T10:48:27.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://curl.se/.well-known/security.txt
-Comments URL: https://news.ycombinator.com/item?id=46717556
-Points: 585
-# Comments: 339]]></summary>
-        <author>
-            <name>latexr</name>
         </author>
     </entry>
 </feed>
