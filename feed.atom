@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-02-21T04:12:33.138Z</updated>
+    <updated>2026-02-21T05:41:57.261Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -2976,23 +2976,6 @@ Points: 500
 # Comments: 401]]></summary>
         <author>
             <name>hugodan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: isometric.nyc – giant isometric pixel art map of NYC]]></title>
-        <id>https://news.ycombinator.com/item?id=46721802</id>
-        <link href="https://cannoneyed.com/isometric-nyc/"/>
-        <updated>2026-01-22T16:52:35.000Z</updated>
-        <summary type="html"><![CDATA[Hey HN! I wanted to share something I built over the last few weeks: isometric.nyc is a massive isometric pixel art map of NYC, built with nano banana and coding agents.
-I didn't write a single line of code.
-Of course no-code doesn't mean no-engineering. This project took a lot more manual labor than I'd hoped!
-I wrote a deep dive on the workflow and some thoughts about the future of AI coding and creativity:
-http://cannoneyed.com/projects/isometric-nyc
-Comments URL: https://news.ycombinator.com/item?id=46721802
-Points: 513
-# Comments: 138]]></summary>
-        <author>
-            <name>cannoneyed</name>
         </author>
     </entry>
 </feed>
