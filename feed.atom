@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-02-23T16:57:40.306Z</updated>
+    <updated>2026-02-23T18:02:33.885Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The Age Verification Trap: Verifying age undermines everyone's data protection]]></title>
+        <id>https://news.ycombinator.com/item?id=47122715</id>
+        <link href="https://spectrum.ieee.org/age-verification"/>
+        <updated>2026-02-23T14:22:39.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://spectrum.ieee.org/age-verification
+Comments URL: https://news.ycombinator.com/item?id=47122715
+Points: 593
+# Comments: 465]]></summary>
+        <author>
+            <name>oldnetguy</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Fragments: February 23]]></title>
         <id>https://martinfowler.com/fragments/2026-02-23.html</id>
