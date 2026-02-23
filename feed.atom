@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-02-23T20:46:02.724Z</updated>
+    <updated>2026-02-23T21:44:28.985Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -51,6 +51,19 @@ Points: 526
 # Comments: 274]]></summary>
         <author>
             <name>adius</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pope tells priests to use their brains, not AI, to write homilies]]></title>
+        <id>https://news.ycombinator.com/item?id=47119210</id>
+        <link href="https://www.ewtnnews.com/vatican/pope-leo-xiv-tells-priests-to-use-their-brains-not-ai-to-write-homilies"/>
+        <updated>2026-02-23T07:33:57.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.ewtnnews.com/vatican/pope-leo-xiv-tells-priests-to-use-their-brains-not-ai-to-write-homilies
+Comments URL: https://news.ycombinator.com/item?id=47119210
+Points: 507
+# Comments: 403]]></summary>
+        <author>
+            <name>josephcsible</name>
         </author>
     </entry>
     <entry>
@@ -2929,19 +2942,6 @@ Points: 502
 # Comments: 169]]></summary>
         <author>
             <name>dnw</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A flawed paper in Management Science has been cited more than 6,000 times]]></title>
-        <id>https://news.ycombinator.com/item?id=46752151</id>
-        <link href="https://statmodeling.stat.columbia.edu/2026/01/22/aking/"/>
-        <updated>2026-01-25T09:04:30.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://statmodeling.stat.columbia.edu/2026/01/22/aking/
-Comments URL: https://news.ycombinator.com/item?id=46752151
-Points: 511
-# Comments: 270]]></summary>
-        <author>
-            <name>timr</name>
         </author>
     </entry>
 </feed>
