@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-02-23T14:47:07.343Z</updated>
+    <updated>2026-02-23T15:45:49.972Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -25,6 +25,19 @@ Caer Sanders shares impressions from the Pragmatic Summit.
 From what I’…]]></summary>
         <author>
             <name>Martin Fowler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ladybird Browser adopts Rust]]></title>
+        <id>https://news.ycombinator.com/item?id=47120899</id>
+        <link href="https://ladybird.org/posts/adopting-rust/"/>
+        <updated>2026-02-23T11:29:22.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://ladybird.org/posts/adopting-rust/
+Comments URL: https://news.ycombinator.com/item?id=47120899
+Points: 526
+# Comments: 274]]></summary>
+        <author>
+            <name>adius</name>
         </author>
     </entry>
     <entry>
@@ -51,6 +64,19 @@ Points: 1290
 # Comments: 310]]></summary>
         <author>
             <name>saeedesmaili</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Loops is a federated, open-source TikTok]]></title>
+        <id>https://news.ycombinator.com/item?id=47113618</id>
+        <link href="https://joinloops.org/"/>
+        <updated>2026-02-22T18:56:40.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://joinloops.org/
+Comments URL: https://news.ycombinator.com/item?id=47113618
+Points: 500
+# Comments: 329]]></summary>
+        <author>
+            <name>Gooblebrai</name>
         </author>
     </entry>
     <entry>

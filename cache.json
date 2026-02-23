@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=47120899",
+          "author": "adius",
+          "description": "Article URL: https://ladybird.org/posts/adopting-rust/\nComments URL: https://news.ycombinator.com/item?id=47120899\nPoints: 526\n# Comments: 274",
+          "link": "https://ladybird.org/posts/adopting-rust/",
+          "publishedOn": "2026-02-23T11:29:22.000Z",
+          "wordCount": 674,
+          "title": "Ladybird Browser adopts Rust",
+          "imageUrl": "/assets/img/plant.webp"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=47115805",
           "author": "srigi",
           "description": "Article URL: https://discuss.ai.google.dev/t/account-restricted-without-warning-google-ai-ultra-oauth-via-openclaw/122778\nComments URL: https://news.ycombinator.com/item?id=47115805\nPoints: 703\n# Comments: 583",
@@ -24,6 +34,16 @@
           "wordCount": 1821,
           "title": "I built Timeframe, our family e-paper dashboard",
           "imageUrl": "https://hawksley.org/img/posts/2026-02-17-timeframe/nook-wide.jpg"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=47113618",
+          "author": "Gooblebrai",
+          "description": "Article URL: https://joinloops.org/\nComments URL: https://news.ycombinator.com/item?id=47113618\nPoints: 500\n# Comments: 329",
+          "link": "https://joinloops.org/",
+          "publishedOn": "2026-02-22T18:56:40.000Z",
+          "wordCount": 690,
+          "title": "Loops is a federated, open-source TikTok",
+          "imageUrl": "https://joinloops.org/__og-image__/image/og.png"
         },
         {
           "id": "https://news.ycombinator.com/item?id=47110515",
