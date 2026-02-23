@@ -1764,16 +1764,6 @@
           "wordCount": 3182,
           "title": "Deutsche Telekom is throttling the internet",
           "imageUrl": "https://netzbremse.de/img/social_share.en.png"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=46749198",
-          "author": "hhs",
-          "description": "Article URL: https://keck.usc.edu/news/adoption-of-electric-vehicles-tied-to-real-world-reductions-in-air-pollution-study-finds/\nComments URL: https://news.ycombinator.com/item?id=46749198\nPoints: 525\n# Comments: 505",
-          "link": "https://keck.usc.edu/news/adoption-of-electric-vehicles-tied-to-real-world-reductions-in-air-pollution-study-finds/",
-          "publishedOn": "2026-01-25T00:14:40.000Z",
-          "wordCount": 2311,
-          "title": "Adoption of EVs tied to real-world reductions in air pollution: study",
-          "imageUrl": "https://keck.usc.edu/news/wp-content/uploads/sites/68/2026/01/iStock-2217025535-modified-e4b07314-9325-4adb-a1ff-02219bd88865.jpg"
         }
       ]
     },
@@ -1832,6 +1822,16 @@
       "feedUrl": "https://martinfowler.com/feed.atom",
       "siteUrl": "https://martinfowler.com/feed.atom",
       "articles": [
+        {
+          "id": "https://martinfowler.com/fragments/2026-02-23.html",
+          "author": null,
+          "description": "Do you want to run OpenClaw? It may be fascinating, but it also raises significant security dangers. Jim Gumbley, one of my go-to sources on security, has some advice on how to mitigate the risks.\nWhile there is no proven safe way to run high-permissioned agents today, there are practical patterns that reduce the blast radius. If you want to experiment, you have options, such as cloud VMs or local micro-VM tools like Gondolin.\nHe outlines a series of steps to consider\nPrioritize isolation first.\nClamp down on network egress.\nDon’t expose the control plane.\nTreat secrets as toxic waste.\nAssume the skills ecosystem is hostile.\nRun endpoint protection.\n ❄                ❄                ❄                ❄                ❄\nCaer Sanders shares impressions from the Pragmatic Summit.\nFrom what I’…",
+          "link": "https://martinfowler.com/fragments/2026-02-23.html",
+          "publishedOn": "2026-02-23T12:35:00.000Z",
+          "wordCount": 1053,
+          "title": "Fragments: February 23",
+          "imageUrl": "https://martinfowler.com/logo-sq.png"
+        },
         {
           "id": "https://martinfowler.com/fragments/2026-02-19.html",
           "author": null,

@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-02-23T11:39:15.429Z</updated>
+    <updated>2026-02-23T13:05:20.423Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Fragments: February 23]]></title>
+        <id>https://martinfowler.com/fragments/2026-02-23.html</id>
+        <link href="https://martinfowler.com/fragments/2026-02-23.html"/>
+        <updated>2026-02-23T12:35:00.000Z</updated>
+        <summary type="html"><![CDATA[Do you want to run OpenClaw? It may be fascinating, but it also raises significant security dangers. Jim Gumbley, one of my go-to sources on security, has some advice on how to mitigate the risks.
+While there is no proven safe way to run high-permissioned agents today, there are practical patterns that reduce the blast radius. If you want to experiment, you have options, such as cloud VMs or local micro-VM tools like Gondolin.
+He outlines a series of steps to consider
+Prioritize isolation first.
+Clamp down on network egress.
+Don’t expose the control plane.
+Treat secrets as toxic waste.
+Assume the skills ecosystem is hostile.
+Run endpoint protection.
+ ❄                ❄                ❄                ❄                ❄
+Caer Sanders shares impressions from the Pragmatic Summit.
+From what I’…]]></summary>
+        <author>
+            <name>Martin Fowler</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How I use Claude Code: Separation of planning and execution]]></title>
         <id>https://news.ycombinator.com/item?id=47106686</id>
@@ -2853,19 +2874,6 @@ Points: 515
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>Think School</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Adoption of EVs tied to real-world reductions in air pollution: study]]></title>
-        <id>https://news.ycombinator.com/item?id=46749198</id>
-        <link href="https://keck.usc.edu/news/adoption-of-electric-vehicles-tied-to-real-world-reductions-in-air-pollution-study-finds/"/>
-        <updated>2026-01-25T00:14:40.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://keck.usc.edu/news/adoption-of-electric-vehicles-tied-to-real-world-reductions-in-air-pollution-study-finds/
-Comments URL: https://news.ycombinator.com/item?id=46749198
-Points: 525
-# Comments: 505]]></summary>
-        <author>
-            <name>hhs</name>
         </author>
     </entry>
 </feed>
