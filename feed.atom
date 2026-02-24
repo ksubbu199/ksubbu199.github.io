@@ -2,10 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-02-24T13:06:54.054Z</updated>
+    <updated>2026-02-24T14:50:02.991Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Knowledge Priming]]></title>
+        <id>https://martinfowler.com/articles/reduce-friction-ai/knowledge-priming.html</id>
+        <link href="https://martinfowler.com/articles/reduce-friction-ai/knowledge-priming.html"/>
+        <updated>2026-02-24T14:40:00.000Z</updated>
+        <summary type="html"><![CDATA[Rahul Garg has observed a frustration loop when
+      working with AI coding assistants - lots of code generated, but needs lots
+      of fixing. He's noticed five
+      patterns that help improve the interaction with the LLM, and describes
+      the first of these: priming the LLM with knowledge about the codebase and
+      preferred coding patterns.
+more…]]></summary>
+        <author>
+            <name>Martin Fowler</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Binance fired employees who found $1.7B in crypto was sent to Iran]]></title>
         <id>https://news.ycombinator.com/item?id=47127396</id>

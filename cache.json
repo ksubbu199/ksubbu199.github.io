@@ -1863,6 +1863,16 @@
       "siteUrl": "https://martinfowler.com/feed.atom",
       "articles": [
         {
+          "id": "https://martinfowler.com/articles/reduce-friction-ai/knowledge-priming.html",
+          "author": null,
+          "description": "Rahul Garg has observed a frustration loop when\n      working with AI coding assistants - lots of code generated, but needs lots\n      of fixing. He's noticed five\n      patterns that help improve the interaction with the LLM, and describes\n      the first of these: priming the LLM with knowledge about the codebase and\n      preferred coding patterns.\nmore…",
+          "link": "https://martinfowler.com/articles/reduce-friction-ai/knowledge-priming.html",
+          "publishedOn": "2026-02-24T14:40:00.000Z",
+          "wordCount": 2740,
+          "title": "Knowledge Priming",
+          "imageUrl": "https://martinfowler.com/logo-sq.png"
+        },
+        {
           "id": "https://martinfowler.com/fragments/2026-02-23.html",
           "author": null,
           "description": "Do you want to run OpenClaw? It may be fascinating, but it also raises significant security dangers. Jim Gumbley, one of my go-to sources on security, has some advice on how to mitigate the risks.\nWhile there is no proven safe way to run high-permissioned agents today, there are practical patterns that reduce the blast radius. If you want to experiment, you have options, such as cloud VMs or local micro-VM tools like Gondolin.\nHe outlines a series of steps to consider\nPrioritize isolation first.\nClamp down on network egress.\nDon’t expose the control plane.\nTreat secrets as toxic waste.\nAssume the skills ecosystem is hostile.\nRun endpoint protection.\n ❄                ❄                ❄                ❄                ❄\nCaer Sanders shares impressions from the Pragmatic Summit.\nFrom what I’…",
