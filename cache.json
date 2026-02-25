@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=47140632",
+          "author": "rzk",
+          "description": "Related ongoing thread: Discord cuts ties with identity verification software, Persona - https://news.ycombinator.com/item?id=47136036 - Feb 2026 (282 comments)\nComments URL: https://news.ycombinator.com/item?id=47140632\nPoints: 507\n# Comments: 159",
+          "link": "https://vmfunc.re/blog/persona/",
+          "publishedOn": "2026-02-24T18:23:03.000Z",
+          "wordCount": 7856,
+          "title": "OpenAI, the US government and Persona built an identity surveillance machine",
+          "imageUrl": null
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=47139675",
           "author": "cleak",
           "description": "Article URL: https://www.calebleak.com/posts/dog-game/\nComments URL: https://news.ycombinator.com/item?id=47139675\nPoints: 508\n# Comments: 154",
@@ -1774,46 +1784,6 @@
           "wordCount": 451,
           "title": "Fedora Asahi Remix is now working on Apple M3",
           "imageUrl": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:okydh7e54e2nok65kjxdklvd/bafkreifvmuoxxbsjrjp6tsh4s334ssa2yvlxmbsthukreuhphocnuacgge@jpeg"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=46767668",
-          "author": "bwb",
-          "description": "Article URL: https://twitter.com/lellouchenico/status/2015775970330882319\nComments URL: https://news.ycombinator.com/item?id=46767668\nPoints: 518\n# Comments: 445",
-          "link": "https://twitter.com/lellouchenico/status/2015775970330882319",
-          "publishedOn": "2026-01-26T16:27:46.000Z",
-          "wordCount": 772,
-          "title": "France Aiming to Replace Zoom, Google Meet, Microsoft Teams, etc.",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=46766741",
-          "author": "vinhnx",
-          "description": "Article URL: https://qwen.ai/blog?id=qwen3-max-thinking\nComments URL: https://news.ycombinator.com/item?id=46766741\nPoints: 500\n# Comments: 421",
-          "link": "https://qwen.ai/blog?id=qwen3-max-thinking",
-          "publishedOn": "2026-01-26T15:23:00.000Z",
-          "wordCount": 180,
-          "title": "Qwen3-Max-Thinking",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=46766188",
-          "author": "qassiov",
-          "description": "Article URL: https://diamondgeezer.blogspot.com/2026/01/tv100.html\nComments URL: https://news.ycombinator.com/item?id=46766188\nPoints: 541\n# Comments: 191",
-          "link": "https://diamondgeezer.blogspot.com/2026/01/tv100.html",
-          "publishedOn": "2026-01-26T14:41:04.000Z",
-          "wordCount": 2642,
-          "title": "Television is 100 years old today",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=46765819",
-          "author": "meetpateltech",
-          "description": "Article URL: https://www.apple.com/newsroom/2026/01/apple-introduces-new-airtag-with-expanded-range-and-improved-findability/\nComments URL: https://news.ycombinator.com/item?id=46765819\nPoints: 513\n# Comments: 600",
-          "link": "https://www.apple.com/newsroom/2026/01/apple-introduces-new-airtag-with-expanded-range-and-improved-findability/",
-          "publishedOn": "2026-01-26T14:10:25.000Z",
-          "wordCount": 5704,
-          "title": "Apple introduces new AirTag with longer range and improved findability",
-          "imageUrl": "https://www.apple.com/newsroom/images/2026/01/apple-introduces-new-airtag-with-expanded-range-and-improved-findability/tile/Apple-AirTag-FineWoven-Key-Ring-lp.jpg.og.jpg?202601261432"
         }
       ]
     },

@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-02-25T02:08:54.905Z</updated>
+    <updated>2026-02-25T04:52:31.571Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[OpenAI, the US government and Persona built an identity surveillance machine]]></title>
+        <id>https://news.ycombinator.com/item?id=47140632</id>
+        <link href="https://vmfunc.re/blog/persona/"/>
+        <updated>2026-02-24T18:23:03.000Z</updated>
+        <summary type="html"><![CDATA[Related ongoing thread: Discord cuts ties with identity verification software, Persona - https://news.ycombinator.com/item?id=47136036 - Feb 2026 (282 comments)
+Comments URL: https://news.ycombinator.com/item?id=47140632
+Points: 507
+# Comments: 159]]></summary>
+        <author>
+            <name>rzk</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[I'm helping my dog vibe code games]]></title>
         <id>https://news.ycombinator.com/item?id=47139675</id>
@@ -2884,58 +2897,6 @@ Points: 508
 # Comments: 184]]></summary>
         <author>
             <name>todsacerdoti</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[France Aiming to Replace Zoom, Google Meet, Microsoft Teams, etc.]]></title>
-        <id>https://news.ycombinator.com/item?id=46767668</id>
-        <link href="https://twitter.com/lellouchenico/status/2015775970330882319"/>
-        <updated>2026-01-26T16:27:46.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://twitter.com/lellouchenico/status/2015775970330882319
-Comments URL: https://news.ycombinator.com/item?id=46767668
-Points: 518
-# Comments: 445]]></summary>
-        <author>
-            <name>bwb</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Qwen3-Max-Thinking]]></title>
-        <id>https://news.ycombinator.com/item?id=46766741</id>
-        <link href="https://qwen.ai/blog?id=qwen3-max-thinking"/>
-        <updated>2026-01-26T15:23:00.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://qwen.ai/blog?id=qwen3-max-thinking
-Comments URL: https://news.ycombinator.com/item?id=46766741
-Points: 500
-# Comments: 421]]></summary>
-        <author>
-            <name>vinhnx</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Television is 100 years old today]]></title>
-        <id>https://news.ycombinator.com/item?id=46766188</id>
-        <link href="https://diamondgeezer.blogspot.com/2026/01/tv100.html"/>
-        <updated>2026-01-26T14:41:04.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://diamondgeezer.blogspot.com/2026/01/tv100.html
-Comments URL: https://news.ycombinator.com/item?id=46766188
-Points: 541
-# Comments: 191]]></summary>
-        <author>
-            <name>qassiov</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Apple introduces new AirTag with longer range and improved findability]]></title>
-        <id>https://news.ycombinator.com/item?id=46765819</id>
-        <link href="https://www.apple.com/newsroom/2026/01/apple-introduces-new-airtag-with-expanded-range-and-improved-findability/"/>
-        <updated>2026-01-26T14:10:25.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.apple.com/newsroom/2026/01/apple-introduces-new-airtag-with-expanded-range-and-improved-findability/
-Comments URL: https://news.ycombinator.com/item?id=46765819
-Points: 513
-# Comments: 600]]></summary>
-        <author>
-            <name>meetpateltech</name>
         </author>
     </entry>
 </feed>
