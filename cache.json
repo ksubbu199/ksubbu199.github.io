@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=47143152",
+          "author": "haunter",
+          "description": "Article URL: https://www.apple.com/newsroom/2026/02/apple-accelerates-us-manufacturing-with-mac-mini-production/\nComments URL: https://news.ycombinator.com/item?id=47143152\nPoints: 510\n# Comments: 500",
+          "link": "https://www.apple.com/newsroom/2026/02/apple-accelerates-us-manufacturing-with-mac-mini-production/",
+          "publishedOn": "2026-02-24T21:13:45.000Z",
+          "wordCount": 4598,
+          "title": "Mac mini will be made at a new facility in Houston",
+          "imageUrl": "https://www.apple.com/newsroom/images/2026/02/apple-accelerates-us-manufacturing-with-mac-mini-production/tile/Apple-US-manufacturing-investment-Houston-hero-lp.jpg.og.jpg?202602241100"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=47140632",
           "author": "rzk",
           "description": "Related ongoing thread: Discord cuts ties with identity verification software, Persona - https://news.ycombinator.com/item?id=47136036 - Feb 2026 (282 comments)\nComments URL: https://news.ycombinator.com/item?id=47140632\nPoints: 507\n# Comments: 159",
@@ -1764,16 +1774,6 @@
           "wordCount": 597,
           "title": "Doing the thing is doing the thing",
           "imageUrl": "https://www.softwaredesign.ing/favicon.png"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=46771564",
-          "author": "bigwheels",
-          "description": "https://xcancel.com/karpathy/status/2015883857489522876\nComments URL: https://news.ycombinator.com/item?id=46771564\nPoints: 515\n# Comments: 434",
-          "link": "https://twitter.com/karpathy/status/2015883857489522876",
-          "publishedOn": "2026-01-26T21:09:19.000Z",
-          "wordCount": 786,
-          "title": "A few random notes from Claude coding quite a bit last few weeks",
-          "imageUrl": null
         }
       ]
     },
