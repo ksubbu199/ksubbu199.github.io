@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=47145907",
+          "author": "toomuchtodo",
+          "description": "Article URL: https://www.thebignewsletter.com/p/amazon-busted-for-widespread-price\nComments URL: https://news.ycombinator.com/item?id=47145907\nPoints: 507\n# Comments: 178",
+          "link": "https://www.thebignewsletter.com/p/amazon-busted-for-widespread-price",
+          "publishedOn": "2026-02-25T01:00:45.000Z",
+          "wordCount": null,
+          "title": "Amazon accused of widespread scheme to inflate prices across the economy",
+          "imageUrl": null
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=47143152",
           "author": "haunter",
           "description": "Article URL: https://www.apple.com/newsroom/2026/02/apple-accelerates-us-manufacturing-with-mac-mini-production/\nComments URL: https://news.ycombinator.com/item?id=47143152\nPoints: 510\n# Comments: 500",
@@ -1823,16 +1833,6 @@
           "publishedOn": "2026-02-18T00:00:00.000Z",
           "wordCount": 1517,
           "title": "Notes on clarifying man pages",
-          "imageUrl": null
-        },
-        {
-          "id": "https://jvns.ca/blog/2026/01/27/some-notes-on-starting-to-use-django/",
-          "author": null,
-          "description": "Hello! One of my favourite things is starting to learn an\nOld Boring Technology that I’ve never tried before but that has been around for\n20+ years. It feels really good when every problem I’m ever going to have has\nbeen solved already 1000 times and I can just get stuff done easily.\nI’ve thought it would be cool to learn a popular web framework like\nRails or Django or Laravel for a long time, but I’d never really managed to\nmake it happen. But I started learning Django to make a website a few months\nback, I’ve been liking it so far, and here are a few quick notes!\nless magic than Rails\nI spent some time trying to learn Rails in 2020,\nand while it was cool and I really wanted to like Rails (the Ruby community is great!),\nI found that if I left my Rails project alone for months, when I came…",
-          "link": "https://jvns.ca/blog/2026/01/27/some-notes-on-starting-to-use-django/",
-          "publishedOn": "2026-01-27T00:00:00.000Z",
-          "wordCount": 1399,
-          "title": "Some notes on starting to use Django",
           "imageUrl": null
         }
       ]
