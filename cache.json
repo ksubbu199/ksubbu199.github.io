@@ -1876,8 +1876,18 @@
     {
       "title": "Boot.dev Blog",
       "feedUrl": "https://blog.boot.dev/index.xml",
-      "siteUrl": "https://blog.boot.dev/",
+      "siteUrl": "https://boot.dev/blog/",
       "articles": [
+        {
+          "id": "https://boot.dev/blog/news/bootdev-beat-2026-02/",
+          "author": null,
+          "description": "A new year and another record broken! In January a combined 4,016,641 lessons and challenges were completed by you, dear pupils! And to top it off, we’re now releasing the much anticipated Power BI Course by none other than Alex the Analyst! I hope you enjoy it.",
+          "link": "https://boot.dev/blog/news/bootdev-beat-2026-02/",
+          "publishedOn": "2026-02-11T00:00:00.000Z",
+          "wordCount": 1107,
+          "title": "The Boot.dev Beat. February 2026",
+          "imageUrl": "https://boot.dev/blog/img/featured/the-bootdev-beat-february-2026.webp"
+        },
         {
           "id": "https://blog.boot.dev/news/bootdev-beat-2026-02/",
           "author": null,
