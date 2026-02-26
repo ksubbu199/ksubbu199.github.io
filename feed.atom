@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-02-26T02:04:38.386Z</updated>
+    <updated>2026-02-26T04:50:13.662Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -2961,49 +2961,6 @@ Points: 523
 # Comments: 646]]></summary>
         <author>
             <name>duxup</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Assessing internal quality while coding with an agent]]></title>
-        <id>https://martinfowler.com/articles/exploring-gen-ai/ccmenu-quality.html</id>
-        <link href="https://martinfowler.com/articles/exploring-gen-ai/ccmenu-quality.html"/>
-        <updated>2026-01-27T15:50:00.000Z</updated>
-        <summary type="html"><![CDATA[Erik Doernenburg is the maintainer of CCMenu: a Mac
-      application that shows the status of CI/CD builds in the Mac menu bar. He
-      assesses how using a coding agent affects internal code quality by adding
-      a feature using the agent, and seeing what happens to the code.
-      
-more…]]></summary>
-        <author>
-            <name>Martin Fowler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[430k-year-old well-preserved wooden tools are the oldest ever found]]></title>
-        <id>https://news.ycombinator.com/item?id=46781530</id>
-        <link href="https://www.nytimes.com/2026/01/26/science/archaeology-neanderthals-tools.html"/>
-        <updated>2026-01-27T15:46:29.000Z</updated>
-        <summary type="html"><![CDATA[https://archive.ph/mHlUT
-https://apnews.com/article/oldest-wooden-tools-marathousa-1-...
-https://archaeologymag.com/2026/01/430000-year-old-wooden-to...
-Comments URL: https://news.ycombinator.com/item?id=46781530
-Points: 500
-# Comments: 252]]></summary>
-        <author>
-            <name>bookofjoe</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cloudflare claimed they implemented Matrix on Cloudflare workers. They didn't]]></title>
-        <id>https://news.ycombinator.com/item?id=46781516</id>
-        <link href="https://tech.lgbt/@JadedBlueEyes/115967791152135761"/>
-        <updated>2026-01-27T15:45:45.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://tech.lgbt/@JadedBlueEyes/115967791152135761
-Comments URL: https://news.ycombinator.com/item?id=46781516
-Points: 501
-# Comments: 185]]></summary>
-        <author>
-            <name>JadedBlueEyes</name>
         </author>
     </entry>
 </feed>
