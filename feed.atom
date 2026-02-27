@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-02-26T23:30:32.815Z</updated>
+    <updated>2026-02-27T02:03:45.348Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Statement from Dario Amodei on Our Discussions with the Department of War]]></title>
+        <id>https://news.ycombinator.com/item?id=47173121</id>
+        <link href="https://www.anthropic.com/news/statement-department-of-war"/>
+        <updated>2026-02-26T22:42:47.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.anthropic.com/news/statement-department-of-war
+Comments URL: https://news.ycombinator.com/item?id=47173121
+Points: 818
+# Comments: 455]]></summary>
+        <author>
+            <name>qwertox</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Anthropic ditches its core safety promise]]></title>
         <id>https://news.ycombinator.com/item?id=47165397</id>
@@ -3000,16 +3013,6 @@ There are various typographical tools that are used to emphasize words and
   Underlines have become the signal for …]]></summary>
         <author>
             <name>Martin Fowler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Can WhatsApp Business Transform India's Healthcare System?]]></title>
-        <id>https://www.youtube.com/shorts/KLl2__e6iJ4</id>
-        <link href="https://www.youtube.com/shorts/KLl2__e6iJ4"/>
-        <updated>2026-01-28T14:01:05.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Think School</name>
         </author>
     </entry>
 </feed>
