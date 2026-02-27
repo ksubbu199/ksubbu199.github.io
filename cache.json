@@ -16,6 +16,26 @@
           "imageUrl": "https://cdn.sanity.io/images/4zrzovbb/website/1864442e2d581ffc8242e7c57e2c4e2309351f49-1200x630.png"
         },
         {
+          "id": "https://news.ycombinator.com/item?id=47172119",
+          "author": "mlex",
+          "description": "https://www.cnbc.com/2026/02/26/block-laying-off-about-4000-...\nhttps://www.marketwatch.com/story/block-plans-to-lay-off-nea...\nComments URL: https://news.ycombinator.com/item?id=47172119\nPoints: 575\n# Comments: 598",
+          "link": "https://twitter.com/jack/status/2027129697092731343",
+          "publishedOn": "2026-02-26T21:17:56.000Z",
+          "wordCount": 719,
+          "title": "Layoffs at Block",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=47167858",
+          "author": "davidbarker",
+          "description": "Article URL: https://blog.google/innovation-and-ai/technology/ai/nano-banana-2/\nComments URL: https://news.ycombinator.com/item?id=47167858\nPoints: 518\n# Comments: 492",
+          "link": "https://blog.google/innovation-and-ai/technology/ai/nano-banana-2/",
+          "publishedOn": "2026-02-26T16:02:37.000Z",
+          "wordCount": 5920,
+          "title": "Nano Banana 2: Google's latest AI image generation model",
+          "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/NB2_SS.width-1300.png"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=47165397",
           "author": "motbus3",
           "description": "Article URL: https://www.cnn.com/2026/02/25/tech/anthropic-safety-policy-change\nComments URL: https://news.ycombinator.com/item?id=47165397\nPoints: 528\n# Comments: 298",
@@ -1844,36 +1864,6 @@
           "wordCount": 2466,
           "title": "Apple to soon take up to 30% cut from all Patreon creators in iOS app",
           "imageUrl": "https://images.macrumors.com/t/euOQQ5rJ0txvOQnCrKKEhjK29Qk=/1600x/article-new/2026/01/Tim-Cooking.jpg"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=46796745",
-          "author": "DGAP",
-          "description": "Article URL: https://www.reuters.com/legal/litigation/amazon-cuts-16000-jobs-globally-broader-restructuring-2026-01-28/\nComments URL: https://news.ycombinator.com/item?id=46796745\nPoints: 521\n# Comments: 719",
-          "link": "https://www.reuters.com/legal/litigation/amazon-cuts-16000-jobs-globally-broader-restructuring-2026-01-28/",
-          "publishedOn": "2026-01-28T15:39:11.000Z",
-          "wordCount": null,
-          "title": "Amazon cuts 16k jobs",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=46795908",
-          "author": "brk",
-          "description": "Article URL: https://ciechanow.ski/airfoil/\nComments URL: https://news.ycombinator.com/item?id=46795908\nPoints: 505\n# Comments: 59",
-          "link": "https://ciechanow.ski/airfoil/",
-          "publishedOn": "2026-01-28T14:32:30.000Z",
-          "wordCount": 14550,
-          "title": "Airfoil (2024)",
-          "imageUrl": "https://ciechanow.ski/images/og/airfoil.png"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=46795864",
-          "author": "bobsterlobster",
-          "description": "Article URL: https://www.himthe.dev/blog/microsoft-to-linux\nComments URL: https://news.ycombinator.com/item?id=46795864\nPoints: 616\n# Comments: 511",
-          "link": "https://www.himthe.dev/blog/microsoft-to-linux",
-          "publishedOn": "2026-01-28T14:28:21.000Z",
-          "wordCount": 5071,
-          "title": "Microsoft forced me to switch to Linux",
-          "imageUrl": "https://m0u9gezmt0.ufs.sh/f/5F1wx5BYZG1wz5m2erwaXmoS587TBpM6KERJycH0kjDW2OZY"
         }
       ]
     },
@@ -2060,16 +2050,6 @@
           "publishedOn": "2026-02-04T17:56:00.000Z",
           "wordCount": 817,
           "title": "Fragments: February  4",
-          "imageUrl": "https://martinfowler.com/logo-sq.png"
-        },
-        {
-          "id": "https://martinfowler.com/bliki/ExcessiveBold.html",
-          "author": null,
-          "description": "I'm increasingly seeing a lot of technical and business writing make heavy\n  use of bold font weights, in an attempt to emphasize what the writers think is\n  important. LLMs seem to have picked up and spread this practice widely. But\n  most of this is self-defeating, the more a writer uses typographical emphasis,\n  the less power it has, quickly reaching the point where it loses all its\n  benefits.\nThere are various typographical tools that are used to emphasize words and\n  phrases, such as: bold, italic, capitals, and underlines. I find that bold is the one\n  that's getting most of the over-use. Using a lot of capitals is rightly\n  reviled as shouting, and when we see it used widely, it raises our doubts on\n  the quality of the underlying thinking.\n  Underlines have become the signal for …",
-          "link": "https://martinfowler.com/bliki/ExcessiveBold.html",
-          "publishedOn": "2026-01-28T14:20:00.000Z",
-          "wordCount": 956,
-          "title": "Bliki: Excessive Bold",
           "imageUrl": "https://martinfowler.com/logo-sq.png"
         }
       ]

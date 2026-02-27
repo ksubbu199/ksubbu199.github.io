@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-02-27T02:03:45.348Z</updated>
+    <updated>2026-02-27T04:45:00.250Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -17,6 +17,33 @@ Points: 818
 # Comments: 455]]></summary>
         <author>
             <name>qwertox</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Layoffs at Block]]></title>
+        <id>https://news.ycombinator.com/item?id=47172119</id>
+        <link href="https://twitter.com/jack/status/2027129697092731343"/>
+        <updated>2026-02-26T21:17:56.000Z</updated>
+        <summary type="html"><![CDATA[https://www.cnbc.com/2026/02/26/block-laying-off-about-4000-...
+https://www.marketwatch.com/story/block-plans-to-lay-off-nea...
+Comments URL: https://news.ycombinator.com/item?id=47172119
+Points: 575
+# Comments: 598]]></summary>
+        <author>
+            <name>mlex</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nano Banana 2: Google's latest AI image generation model]]></title>
+        <id>https://news.ycombinator.com/item?id=47167858</id>
+        <link href="https://blog.google/innovation-and-ai/technology/ai/nano-banana-2/"/>
+        <updated>2026-02-26T16:02:37.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://blog.google/innovation-and-ai/technology/ai/nano-banana-2/
+Comments URL: https://news.ycombinator.com/item?id=47167858
+Points: 518
+# Comments: 492]]></summary>
+        <author>
+            <name>davidbarker</name>
         </author>
     </entry>
     <entry>
@@ -2953,66 +2980,6 @@ Points: 540
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>Hussein Nasser</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon cuts 16k jobs]]></title>
-        <id>https://news.ycombinator.com/item?id=46796745</id>
-        <link href="https://www.reuters.com/legal/litigation/amazon-cuts-16000-jobs-globally-broader-restructuring-2026-01-28/"/>
-        <updated>2026-01-28T15:39:11.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.reuters.com/legal/litigation/amazon-cuts-16000-jobs-globally-broader-restructuring-2026-01-28/
-Comments URL: https://news.ycombinator.com/item?id=46796745
-Points: 521
-# Comments: 719]]></summary>
-        <author>
-            <name>DGAP</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Airfoil (2024)]]></title>
-        <id>https://news.ycombinator.com/item?id=46795908</id>
-        <link href="https://ciechanow.ski/airfoil/"/>
-        <updated>2026-01-28T14:32:30.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://ciechanow.ski/airfoil/
-Comments URL: https://news.ycombinator.com/item?id=46795908
-Points: 505
-# Comments: 59]]></summary>
-        <author>
-            <name>brk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft forced me to switch to Linux]]></title>
-        <id>https://news.ycombinator.com/item?id=46795864</id>
-        <link href="https://www.himthe.dev/blog/microsoft-to-linux"/>
-        <updated>2026-01-28T14:28:21.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.himthe.dev/blog/microsoft-to-linux
-Comments URL: https://news.ycombinator.com/item?id=46795864
-Points: 616
-# Comments: 511]]></summary>
-        <author>
-            <name>bobsterlobster</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bliki: Excessive Bold]]></title>
-        <id>https://martinfowler.com/bliki/ExcessiveBold.html</id>
-        <link href="https://martinfowler.com/bliki/ExcessiveBold.html"/>
-        <updated>2026-01-28T14:20:00.000Z</updated>
-        <summary type="html"><![CDATA[I'm increasingly seeing a lot of technical and business writing make heavy
-  use of bold font weights, in an attempt to emphasize what the writers think is
-  important. LLMs seem to have picked up and spread this practice widely. But
-  most of this is self-defeating, the more a writer uses typographical emphasis,
-  the less power it has, quickly reaching the point where it loses all its
-  benefits.
-There are various typographical tools that are used to emphasize words and
-  phrases, such as: bold, italic, capitals, and underlines. I find that bold is the one
-  that's getting most of the over-use. Using a lot of capitals is rightly
-  reviled as shouting, and when we see it used widely, it raises our doubts on
-  the quality of the underlying thinking.
-  Underlines have become the signal for …]]></summary>
-        <author>
-            <name>Martin Fowler</name>
         </author>
     </entry>
 </feed>
