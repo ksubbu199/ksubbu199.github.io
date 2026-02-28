@@ -6,6 +6,26 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=47186677",
+          "author": "jacobedawson",
+          "description": "https://xcancel.com/secwar/status/2027507717469049070\nhttps://www.cnbc.com/2026/02/27/trump-anthropic-ai-pentagon....\nComments URL: https://news.ycombinator.com/item?id=47186677\nPoints: 1018\n# Comments: 842",
+          "link": "https://twitter.com/secwar/status/2027507717469049070",
+          "publishedOn": "2026-02-27T22:31:18.000Z",
+          "wordCount": 719,
+          "title": "I am directing the Department of War to designate Anthropic a supply-chain risk",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=47181391",
+          "author": "hn_acker",
+          "description": "Article URL: https://www.eff.org/deeplinks/2026/02/victory-tenth-circuit-finds-fourth-amendment-doesnt-support-broad-search-0\nComments URL: https://news.ycombinator.com/item?id=47181391\nPoints: 505\n# Comments: 90",
+          "link": "https://www.eff.org/deeplinks/2026/02/victory-tenth-circuit-finds-fourth-amendment-doesnt-support-broad-search-0",
+          "publishedOn": "2026-02-27T15:09:04.000Z",
+          "wordCount": 1656,
+          "title": "Court finds Fourth Amendment doesn’t support broad search of protesters’ devices",
+          "imageUrl": "https://www.eff.org/files/banner_library/protest-2024-2.jpg"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=47176257",
           "author": "moultano",
           "description": "Article URL: https://moultano.wordpress.com/2026/02/22/the-hunt-for-dark-breakfast/\nComments URL: https://news.ycombinator.com/item?id=47176257\nPoints: 503\n# Comments: 175",
@@ -1804,16 +1824,6 @@
           "wordCount": 1713,
           "title": "Claude Code daily benchmarks for degradation tracking",
           "imageUrl": "https://marginlab.ai/og-image.png"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=46809708",
-          "author": "maximedupre",
-          "description": "Article URL: https://vercel.com/blog/agents-md-outperforms-skills-in-our-agent-evals\nComments URL: https://news.ycombinator.com/item?id=46809708\nPoints: 500\n# Comments: 189",
-          "link": "https://vercel.com/blog/agents-md-outperforms-skills-in-our-agent-evals",
-          "publishedOn": "2026-01-29T13:08:11.000Z",
-          "wordCount": 1652,
-          "title": "AGENTS.md outperforms skills in our agent evals",
-          "imageUrl": null
         }
       ]
     },
