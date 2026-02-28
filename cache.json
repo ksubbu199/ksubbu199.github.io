@@ -6,6 +6,26 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=47188697",
+          "author": "surprisetalk",
+          "description": "Article URL: https://www.anthropic.com/news/statement-comments-secretary-war\nComments URL: https://news.ycombinator.com/item?id=47188697\nPoints: 505\n# Comments: 182",
+          "link": "https://www.anthropic.com/news/statement-comments-secretary-war",
+          "publishedOn": "2026-02-28T01:20:10.000Z",
+          "wordCount": 1542,
+          "title": "Statement on the comments from Secretary of War Pete Hegseth",
+          "imageUrl": "https://cdn.sanity.io/images/4zrzovbb/website/04e461ada1956ddd7390fe7053f8eb865a7ec26c-4800x2520.png"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=47188473",
+          "author": "BloondAndDoom",
+          "description": "Article URL: https://notdivided.org\nComments URL: https://news.ycombinator.com/item?id=47188473\nPoints: 716\n# Comments: 279",
+          "link": "https://notdivided.org/",
+          "publishedOn": "2026-02-28T00:54:53.000Z",
+          "wordCount": 1822,
+          "title": "We Will Not Be Divided",
+          "imageUrl": "https://notdivided.org/og-image.png"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=47186677",
           "author": "jacobedawson",
           "description": "https://xcancel.com/secwar/status/2027507717469049070\nhttps://www.cnbc.com/2026/02/27/trump-anthropic-ai-pentagon....\nComments URL: https://news.ycombinator.com/item?id=47186677\nPoints: 1018\n# Comments: 842",
@@ -94,6 +114,16 @@
           "wordCount": 10861,
           "title": "Tell HN: YC companies scrape GitHub activity, send spam emails to users",
           "imageUrl": null
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=47160226",
+          "author": "pseudolus",
+          "description": "Article URL: https://www.eff.org/deeplinks/2026/02/tech-companies-shouldnt-be-bullied-doing-surveillance\nComments URL: https://news.ycombinator.com/item?id=47160226\nPoints: 501\n# Comments: 157",
+          "link": "https://www.eff.org/deeplinks/2026/02/tech-companies-shouldnt-be-bullied-doing-surveillance",
+          "publishedOn": "2026-02-26T00:37:32.000Z",
+          "wordCount": 1631,
+          "title": "Tech companies shouldn't be bullied into doing surveillance",
+          "imageUrl": "https://www.eff.org/files/banner_library/ai-soldiers-3b.png"
         },
         {
           "id": "https://news.ycombinator.com/item?id=47159430",
@@ -1814,16 +1844,6 @@
           "wordCount": 4543,
           "title": "Project Genie: Experimenting with infinite, interactive worlds",
           "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/genie-3__project-genie__hero-film_social-shar.width-1300.jpg"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=46810282",
-          "author": "qwesr123",
-          "description": "Article URL: https://marginlab.ai/trackers/claude-code/\nComments URL: https://news.ycombinator.com/item?id=46810282\nPoints: 550\n# Comments: 269",
-          "link": "https://marginlab.ai/trackers/claude-code/",
-          "publishedOn": "2026-01-29T13:59:07.000Z",
-          "wordCount": 1713,
-          "title": "Claude Code daily benchmarks for degradation tracking",
-          "imageUrl": "https://marginlab.ai/og-image.png"
         }
       ]
     },
