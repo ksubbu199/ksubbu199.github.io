@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-02-28T11:19:32.168Z</updated>
+    <updated>2026-02-28T12:45:23.779Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -93,6 +93,21 @@ Points: 505
 # Comments: 90]]></summary>
         <author>
             <name>hn_acker</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenAI raises $110B on $730B pre-money valuation]]></title>
+        <id>https://news.ycombinator.com/item?id=47181211</id>
+        <link href="https://techcrunch.com/2026/02/27/openai-raises-110b-in-one-of-the-largest-private-funding-rounds-in-history/"/>
+        <updated>2026-02-27T14:56:05.000Z</updated>
+        <summary type="html"><![CDATA[https://openai.com/index/scaling-ai-for-everyone/
+https://x.com/sama/status/2027386252555919386
+https://xcancel.com/sama/status/2027386252555919386
+Comments URL: https://news.ycombinator.com/item?id=47181211
+Points: 508
+# Comments: 549]]></summary>
+        <author>
+            <name>zlatkov</name>
         </author>
     </entry>
     <entry>
