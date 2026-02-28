@@ -1834,16 +1834,6 @@
           "wordCount": 260,
           "title": "Moltbook",
           "imageUrl": "https://moltbook.com/opengraph-image?456d992ddc0a4ab5"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=46814743",
-          "author": "croes",
-          "description": "Article URL: https://redgamingtech.com/playstation-2-recompilation-project-is-absolutely-incredible/\nComments URL: https://news.ycombinator.com/item?id=46814743\nPoints: 509\n# Comments: 277",
-          "link": "https://redgamingtech.com/playstation-2-recompilation-project-is-absolutely-incredible/",
-          "publishedOn": "2026-01-29T18:55:38.000Z",
-          "wordCount": 1613,
-          "title": "PlayStation 2 Recompilation Project Is Absolutely Incredible",
-          "imageUrl": null
         }
       ]
     },
@@ -2044,24 +2034,23 @@
       "title": "The Pragmatic Engineer",
       "feedUrl": "https://blog.pragmaticengineer.com/rss/",
       "siteUrl": "https://blog.pragmaticengineer.com/",
-      "articles": [
-        {
-          "id": "697ba13c7779050001e3775d",
-          "author": "Gergely Orosz",
-          "description": "I used to pay $120/year for a SaaS that hasn’t added new features in four years, and didn’t fix its broken billing system for three years. Using an LLM, I managed to rewrite all the functionality I used to pay for in 20 minutes. Is this bad news for “write once, don’t update later” SaaS?",
-          "link": "https://blog.pragmaticengineer.com/i-replaced-a-120-year-micro-saas-in-20-minutes-with-llm-generated-code/",
-          "publishedOn": "2026-01-29T18:41:45.000Z",
-          "wordCount": 1859,
-          "title": "I replaced a $120/year micro-SaaS in 20 minutes with LLM-generated code",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Think School",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKZozRVHRYsYHGEyNKuhhdA",
       "siteUrl": "https://www.youtube.com/channel/UCKZozRVHRYsYHGEyNKuhhdA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=zNam4CxbGV0",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=zNam4CxbGV0",
+          "publishedOn": "2026-02-28T05:18:27.000Z",
+          "wordCount": null,
+          "title": "The $1 Billion DHARAVI Slum Gamble: Is Adani Building the Dream City or Killing an Economy?",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/shorts/4Mmb5Pbofh0",
           "author": null,
@@ -2200,16 +2189,6 @@
           "publishedOn": "2026-01-30T14:25:42.000Z",
           "wordCount": null,
           "title": "Global Chaos, Falling Rupee & India’s Economy | ft. India’s Chief Economic Advisor| IBP 52",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/shorts/1njK4oRKV9M",
-          "author": null,
-          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-          "link": "https://www.youtube.com/shorts/1njK4oRKV9M",
-          "publishedOn": "2026-01-29T13:26:47.000Z",
-          "wordCount": 2046,
-          "title": "The 5 Most CRITICAL Roles in a STARTUP!",
           "imageUrl": null
         }
       ]
