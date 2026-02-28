@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-02-28T15:21:53.884Z</updated>
+    <updated>2026-02-28T16:26:58.396Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -37,6 +37,19 @@ Points: 753
 # Comments: 133]]></summary>
         <author>
             <name>carlosrg</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[US and Israel launch strikes on Iran, as Trump says ‘massive’ campaign underway]]></title>
+        <id>https://news.ycombinator.com/item?id=47191232</id>
+        <link href="https://www.cnn.com/2026/02/28/middleeast/israel-attack-iran-intl-hnk"/>
+        <updated>2026-02-28T06:34:07.000Z</updated>
+        <summary type="html"><![CDATA[https://archive.ph/VqSqj
+Comments URL: https://news.ycombinator.com/item?id=47191232
+Points: 571
+# Comments: 1397]]></summary>
+        <author>
+            <name>lavp</name>
         </author>
     </entry>
     <entry>
@@ -2972,19 +2985,6 @@ Points: 544
 # Comments: 277]]></summary>
         <author>
             <name>ed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Moltbook]]></title>
-        <id>https://news.ycombinator.com/item?id=46820360</id>
-        <link href="https://www.moltbook.com/"/>
-        <updated>2026-01-30T03:55:34.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.moltbook.com/
-Comments URL: https://news.ycombinator.com/item?id=46820360
-Points: 570
-# Comments: 314]]></summary>
-        <author>
-            <name>teej</name>
         </author>
     </entry>
 </feed>
