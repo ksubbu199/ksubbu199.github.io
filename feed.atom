@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-02-28T04:55:52.676Z</updated>
+    <updated>2026-02-28T05:33:16.029Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -57,6 +57,19 @@ Points: 505
 # Comments: 90]]></summary>
         <author>
             <name>hn_acker</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Get free Claude max 20x for open-source maintainers]]></title>
+        <id>https://news.ycombinator.com/item?id=47178371</id>
+        <link href="https://claude.com/contact-sales/claude-for-oss"/>
+        <updated>2026-02-27T09:08:58.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://claude.com/contact-sales/claude-for-oss
+Comments URL: https://news.ycombinator.com/item?id=47178371
+Points: 507
+# Comments: 210]]></summary>
+        <author>
+            <name>zhisme</name>
         </author>
     </entry>
     <entry>
@@ -2911,19 +2924,6 @@ Points: 520
 # Comments: 142]]></summary>
         <author>
             <name>cdrnsf</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Project Genie: Experimenting with infinite, interactive worlds]]></title>
-        <id>https://news.ycombinator.com/item?id=46812933</id>
-        <link href="https://blog.google/innovation-and-ai/models-and-research/google-deepmind/project-genie/"/>
-        <updated>2026-01-29T17:02:39.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://blog.google/innovation-and-ai/models-and-research/google-deepmind/project-genie/
-Comments URL: https://news.ycombinator.com/item?id=46812933
-Points: 522
-# Comments: 251]]></summary>
-        <author>
-            <name>meetpateltech</name>
         </author>
     </entry>
     <entry>
