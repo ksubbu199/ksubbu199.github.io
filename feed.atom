@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-02-28T17:20:34.506Z</updated>
+    <updated>2026-02-28T18:33:15.743Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The only abstraction I'm ok with, probably]]></title>
+        <id>https://www.youtube.com/shorts/X7LLjPn7p2o</id>
+        <link href="https://www.youtube.com/shorts/X7LLjPn7p2o"/>
+        <updated>2026-02-28T18:00:38.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Hussein Nasser</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Dharavi Redevelopment DEBATE!]]></title>
         <id>https://www.youtube.com/shorts/c_ZPJu6VoxQ</id>
@@ -2959,19 +2969,6 @@ Points: 507
 # Comments: 291]]></summary>
         <author>
             <name>franczesko</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Netflix Animation Studios Joins the Blender Development Fund as Corporate Patron]]></title>
-        <id>https://news.ycombinator.com/item?id=46821134</id>
-        <link href="https://www.blender.org/press/netflix-animation-studios-joins-the-blender-development-fund-as-corporate-patron/"/>
-        <updated>2026-01-30T06:19:36.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.blender.org/press/netflix-animation-studios-joins-the-blender-development-fund-as-corporate-patron/
-Comments URL: https://news.ycombinator.com/item?id=46821134
-Points: 504
-# Comments: 100]]></summary>
-        <author>
-            <name>vidyesh</name>
         </author>
     </entry>
 </feed>
