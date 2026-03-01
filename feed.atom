@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-03-01T07:33:24.681Z</updated>
+    <updated>2026-03-01T08:32:03.519Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -17,6 +17,19 @@ Points: 569
 # Comments: 103]]></summary>
         <author>
             <name>tambourine_man</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[We do not think Anthropic should be designated as a supply chain risk]]></title>
+        <id>https://news.ycombinator.com/item?id=47200420</id>
+        <link href="https://twitter.com/OpenAI/status/2027846016423321831"/>
+        <updated>2026-02-28T21:24:16.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://twitter.com/OpenAI/status/2027846016423321831
+Comments URL: https://news.ycombinator.com/item?id=47200420
+Points: 503
+# Comments: 238]]></summary>
+        <author>
+            <name>golfer</name>
         </author>
     </entry>
     <entry>
@@ -2934,19 +2947,6 @@ Points: 541
 # Comments: 488]]></summary>
         <author>
             <name>jamesblonde</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Antirender: remove the glossy shine on architectural renderings]]></title>
-        <id>https://news.ycombinator.com/item?id=46829147</id>
-        <link href="https://antirender.com/"/>
-        <updated>2026-01-30T20:05:24.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://antirender.com/
-Comments URL: https://news.ycombinator.com/item?id=46829147
-Points: 558
-# Comments: 135]]></summary>
-        <author>
-            <name>iambateman</name>
         </author>
     </entry>
 </feed>
