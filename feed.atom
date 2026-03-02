@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-03-02T21:34:06.628Z</updated>
+    <updated>2026-03-02T22:26:38.959Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -42,6 +42,19 @@ Points: 511
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[How to talk to anyone and why you should]]></title>
+        <id>https://news.ycombinator.com/item?id=47214864</id>
+        <link href="https://www.theguardian.com/lifeandstyle/2026/feb/24/stranger-secret-how-to-talk-to-anyone-why-you-should"/>
+        <updated>2026-03-02T07:30:12.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.theguardian.com/lifeandstyle/2026/feb/24/stranger-secret-how-to-talk-to-anyone-why-you-should
+Comments URL: https://news.ycombinator.com/item?id=47214864
+Points: 510
+# Comments: 493]]></summary>
+        <author>
+            <name>Looky1173</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Motorola announces a partnership with GrapheneOS Foundation]]></title>
         <id>https://news.ycombinator.com/item?id=47214645</id>
         <link href="https://motorolanews.com/motorola-three-new-b2b-solutions-at-mwc-2026/"/>
@@ -52,6 +65,23 @@ Points: 563
 # Comments: 190]]></summary>
         <author>
             <name>km</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[External import maps, today!]]></title>
+        <id>https://lea.verou.me/blog/2026/external-import-maps-today/</id>
+        <link href="https://lea.verou.me/blog/2026/external-import-maps-today/"/>
+        <updated>2026-03-02T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A few weeks ago, I posted Web dependencies are broken. Can we fix them?.
+Today’s post is a little less gloomy:
+Turns out that the major limitation that would allow centralized set-it-and-forget-it import map management can be lifted today, with excellent browser support!
+The core idea is that you can use DOM methods to inject an import map dynamically, by literally creating an <script type="importmap"> element in a classic (blocking) script and appending it after the injector script. 💡
+This is a gamechanger.
+It makes external import maps nice-to-have sugar instead of the only way to have centralized import map management decoupled from HTML generation.
+All we need to do is build a little injector script, no need for tightly coupled workflows that take over everything.
+Once you have that, …]]></summary>
+        <author>
+            <name>Lea Verou’s blog</name>
         </author>
     </entry>
     <entry>
@@ -3043,19 +3073,6 @@ Points: 503
 # Comments: 151]]></summary>
         <author>
             <name>deofoo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Netbird – Open Source Zero Trust Networking]]></title>
-        <id>https://news.ycombinator.com/item?id=46844870</id>
-        <link href="https://netbird.io/"/>
-        <updated>2026-02-01T09:44:01.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://netbird.io/
-Comments URL: https://news.ycombinator.com/item?id=46844870
-Points: 508
-# Comments: 190]]></summary>
-        <author>
-            <name>l1am0</name>
         </author>
     </entry>
 </feed>

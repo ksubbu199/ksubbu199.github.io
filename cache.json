@@ -26,6 +26,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://news.ycombinator.com/item?id=47214864",
+          "author": "Looky1173",
+          "description": "Article URL: https://www.theguardian.com/lifeandstyle/2026/feb/24/stranger-secret-how-to-talk-to-anyone-why-you-should\nComments URL: https://news.ycombinator.com/item?id=47214864\nPoints: 510\n# Comments: 493",
+          "link": "https://www.theguardian.com/lifeandstyle/2026/feb/24/stranger-secret-how-to-talk-to-anyone-why-you-should",
+          "publishedOn": "2026-03-02T07:30:12.000Z",
+          "wordCount": 5934,
+          "title": "How to talk to anyone and why you should",
+          "imageUrl": "https://i.guim.co.uk/img/media/5426e410425dfa173d930beb0b9a4adadfe2f4ca/0_0_5873_4699/master/5873.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a4540c968a3e7dba7a0e39adb4118268"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=47214645",
           "author": "km",
           "description": "Article URL: https://motorolanews.com/motorola-three-new-b2b-solutions-at-mwc-2026/\nComments URL: https://news.ycombinator.com/item?id=47214645\nPoints: 563\n# Comments: 190",
@@ -1904,16 +1914,6 @@
           "wordCount": 3061,
           "title": "Show HN: Craftplan – I built my wife a production management tool for her bakery",
           "imageUrl": "https://repository-images.githubusercontent.com/907760604/9f68b8cd-8533-4f57-8b17-6a72cc612ed9"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=46844870",
-          "author": "l1am0",
-          "description": "Article URL: https://netbird.io/\nComments URL: https://news.ycombinator.com/item?id=46844870\nPoints: 508\n# Comments: 190",
-          "link": "https://netbird.io/",
-          "publishedOn": "2026-02-01T09:44:01.000Z",
-          "wordCount": 164,
-          "title": "Netbird – Open Source Zero Trust Networking",
-          "imageUrl": null
         }
       ]
     },
@@ -2394,7 +2394,18 @@
       "title": "Lea Verou’s blog",
       "feedUrl": "https://lea.verou.me/feed.xml",
       "siteUrl": "https://lea.verou.me/feed.xml",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://lea.verou.me/blog/2026/external-import-maps-today/",
+          "author": null,
+          "description": "A few weeks ago, I posted Web dependencies are broken. Can we fix them?.\nToday’s post is a little less gloomy:\nTurns out that the major limitation that would allow centralized set-it-and-forget-it import map management can be lifted today, with excellent browser support!\nThe core idea is that you can use DOM methods to inject an import map dynamically, by literally creating an <script type=\"importmap\"> element in a classic (blocking) script and appending it after the injector script. 💡\nThis is a gamechanger.\nIt makes external import maps nice-to-have sugar instead of the only way to have centralized import map management decoupled from HTML generation.\nAll we need to do is build a little injector script, no need for tightly coupled workflows that take over everything.\nOnce you have that, …",
+          "link": "https://lea.verou.me/blog/2026/external-import-maps-today/",
+          "publishedOn": "2026-03-02T00:00:00.000Z",
+          "wordCount": 1369,
+          "title": "External import maps, today!",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "Ben Hoyt's technical writing",
