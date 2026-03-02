@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-03-02T11:32:05.148Z</updated>
+    <updated>2026-03-02T12:59:23.510Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -52,6 +52,19 @@ Points: 517
         <updated>2026-03-01T10:47:20.000Z</updated>
         <author>
             <name>Think School</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Decision trees – the unreasonable power of nested decision rules]]></title>
+        <id>https://news.ycombinator.com/item?id=47204964</id>
+        <link href="https://mlu-explain.github.io/decision-tree/"/>
+        <updated>2026-03-01T08:55:52.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://mlu-explain.github.io/decision-tree/
+Comments URL: https://news.ycombinator.com/item?id=47204964
+Points: 507
+# Comments: 77]]></summary>
+        <author>
+            <name>mschnell</name>
         </author>
     </entry>
     <entry>
