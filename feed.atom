@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-03-03T14:01:31.383Z</updated>
+    <updated>2026-03-03T15:46:23.403Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The Xkcd thing, now interactive]]></title>
+        <id>https://news.ycombinator.com/item?id=47230704</id>
+        <link href="https://editor.p5js.org/isohedral/full/vJa5RiZWs"/>
+        <updated>2026-03-03T10:56:52.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://editor.p5js.org/isohedral/full/vJa5RiZWs
+Comments URL: https://news.ycombinator.com/item?id=47230704
+Points: 588
+# Comments: 77]]></summary>
+        <author>
+            <name>memalign</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Design-First Collaboration]]></title>
         <id>https://martinfowler.com/articles/reduce-friction-ai/design-first-collaboration.html</id>
