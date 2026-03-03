@@ -16,6 +16,16 @@
           "imageUrl": "https://svd.vgc.no/v2/images/e4d3cfec-f7dc-4461-aa32-108ea47f2621?h=630&q=80&upscale=true&w=1200&s=d82dc447eb031914967ea232d0aab8207eab5ef0"
         },
         {
+          "id": "https://news.ycombinator.com/item?id=47223620",
+          "author": "ireflect",
+          "description": "Article URL: https://www.cbc.ca/news/canada/british-columbia/b-c-adopting-year-round-daylight-time-9.7111657\nComments URL: https://news.ycombinator.com/item?id=47223620\nPoints: 547\n# Comments: 289",
+          "link": "https://www.cbc.ca/news/canada/british-columbia/b-c-adopting-year-round-daylight-time-9.7111657",
+          "publishedOn": "2026-03-02T20:30:52.000Z",
+          "wordCount": 3068,
+          "title": "British Columbia is permanently adopting daylight time",
+          "imageUrl": "https://i.cbc.ca/ais/e05ac456-325f-4c44-be1c-7a8afbc5f642,1772483908625/full/max/0/default.jpg?im=Crop%2Crect%3D%281%2C0%2C1289%2C725%29%3BResize%3D620"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=47216047",
           "author": "robtherobber",
           "description": "Article URL: https://www.windowslatest.com/2026/03/02/microsoft-gets-tired-of-microslop-bans-the-word-on-its-discord-then-locks-the-server-after-backlash/\nComments URL: https://news.ycombinator.com/item?id=47216047\nPoints: 529\n# Comments: 199",
@@ -1982,6 +1992,16 @@
       "feedUrl": "https://martinfowler.com/feed.atom",
       "siteUrl": "https://martinfowler.com/feed.atom",
       "articles": [
+        {
+          "id": "https://martinfowler.com/articles/reduce-friction-ai/design-first-collaboration.html",
+          "author": null,
+          "description": "Rahul Garg continues his series of Patterns for Reducing Friction in\n      AI-Assisted Development. This pattern describes a structured\n      conversation that mirrors whiteboarding with a human pair: progressive\n      levels of design alignment before any code, reducing cognitive load, and\n      catching misunderstandings at the cheapest possible moment. \nmore…",
+          "link": "https://martinfowler.com/articles/reduce-friction-ai/design-first-collaboration.html",
+          "publishedOn": "2026-03-03T04:04:00.000Z",
+          "wordCount": 2450,
+          "title": "Design-First Collaboration",
+          "imageUrl": "https://martinfowler.com/logo-sq.png"
+        },
         {
           "id": "https://martinfowler.com/fragments/2026-02-25.html",
           "author": null,
