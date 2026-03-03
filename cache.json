@@ -1924,16 +1924,6 @@
           "wordCount": 4300,
           "title": "I taught my neighbor to keep the volume down",
           "imageUrl": "https://cdn.idiallo.com/images/assets/601/thumb.jpg"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=46847690",
-          "author": "deofoo",
-          "description": "My wife was planning to open a micro-bakery. We looked at production management software and it was all either expensive or way too generic. The actual workflows for a small-batch manufacturer aren't that complex, so I built one and open-sourced it.\nCraftplan handles recipes (versioned BOMs with cost rollups), inventory (lot traceability, demand forecasting, allergen tracking), orders, production batch planning, and purchasing. Built with Elixir, Ash Framework, Phoenix LiveView, and PostgreSQL.\nLive demo: https://craftplan.fly.dev (test@test.com / Aa123123123123)\nGitHub: https://github.com/puemos/craftplan\nComments URL: https://news.ycombinator.com/item?id=46847690\nPoints: 503\n# Comments: 151",
-          "link": "https://github.com/puemos/craftplan",
-          "publishedOn": "2026-02-01T17:25:39.000Z",
-          "wordCount": 3061,
-          "title": "Show HN: Craftplan – I built my wife a production management tool for her bakery",
-          "imageUrl": "https://repository-images.githubusercontent.com/907760604/9f68b8cd-8533-4f57-8b17-6a72cc612ed9"
         }
       ]
     },
