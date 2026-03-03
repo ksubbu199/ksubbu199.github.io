@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-03-03T10:39:18.675Z</updated>
+    <updated>2026-03-03T11:32:32.770Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -3034,21 +3034,6 @@ Points: 597
 # Comments: 319]]></summary>
         <author>
             <name>mysterydip</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: NanoClaw – “Clawdbot” in 500 lines of TS with Apple container isolation]]></title>
-        <id>https://news.ycombinator.com/item?id=46850205</id>
-        <link href="https://github.com/gavrielc/nanoclaw"/>
-        <updated>2026-02-01T22:49:22.000Z</updated>
-        <summary type="html"><![CDATA[I’ve been running Clawdbot for the last couple weeks and have genuinely found it useful but running it scares the crap out of me.
-OpenClaw has 52+ modules and runs agents with near-unlimited permissions in a single Node process. NanoClaw is ~500 lines of core code, agents run in actual Apple containers with filesystem isolation. Each chat gets its own sandboxed context.
-This is not a swiss army knife. It’s built to match my exact needs. Fork it and make it yours.
-Comments URL: https://news.ycombinator.com/item?id=46850205
-Points: 503
-# Comments: 207]]></summary>
-        <author>
-            <name>jimminyx</name>
         </author>
     </entry>
 </feed>

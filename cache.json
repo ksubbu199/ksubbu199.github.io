@@ -1884,16 +1884,6 @@
           "wordCount": 1030,
           "title": "Notepad++ hijacked by state-sponsored actors",
           "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=46850205",
-          "author": "jimminyx",
-          "description": "I’ve been running Clawdbot for the last couple weeks and have genuinely found it useful but running it scares the crap out of me.\nOpenClaw has 52+ modules and runs agents with near-unlimited permissions in a single Node process. NanoClaw is ~500 lines of core code, agents run in actual Apple containers with filesystem isolation. Each chat gets its own sandboxed context.\nThis is not a swiss army knife. It’s built to match my exact needs. Fork it and make it yours.\nComments URL: https://news.ycombinator.com/item?id=46850205\nPoints: 503\n# Comments: 207",
-          "link": "https://github.com/gavrielc/nanoclaw",
-          "publishedOn": "2026-02-01T22:49:22.000Z",
-          "wordCount": 4413,
-          "title": "Show HN: NanoClaw – “Clawdbot” in 500 lines of TS with Apple container isolation",
-          "imageUrl": "https://repository-images.githubusercontent.com/1146738089/6d3089da-11d6-4a31-ae00-8ec33e30c667"
         }
       ]
     },
