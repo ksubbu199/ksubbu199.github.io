@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-03-03T15:46:23.403Z</updated>
+    <updated>2026-03-03T16:50:01.094Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -45,6 +45,28 @@ Points: 523
 # Comments: 271]]></summary>
         <author>
             <name>sandbach</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: I built a sub-500ms latency voice agent from scratch]]></title>
+        <id>https://news.ycombinator.com/item?id=47224295</id>
+        <link href="https://www.ntik.me/posts/voice-agent"/>
+        <updated>2026-03-02T21:23:40.000Z</updated>
+        <summary type="html"><![CDATA[I built a voice agent from scratch that averages ~400ms end-to-end latency (phone stop → first syllable). That’s with full STT → LLM → TTS in the loop, clean barge-ins, and no precomputed responses.
+What moved the needle:
+Voice is a turn-taking problem, not a transcription problem. VAD alone fails; you need semantic end-of-turn detection.
+The system reduces to one loop: speaking vs listening. The two transitions - cancel instantly on barge-in, respond instantly on end-of-turn - define the experience.
+STT → LLM → TTS must stream. Sequential pipelines are dead on arrival for natural conversation.
+TTFT dominates everything. In voice, the first token is the critical path. Groq’s ~80ms TTFT was the single biggest win.
+Geography matters more than prompts. Colocate everything or you lose before you start.
+GitHub Repo: 
+https://github.com/NickTikhonov/shuo
+Follow whatever I next tinker with: https://x.com/nick_tikhonov
+Comments URL: https://news.ycombinator.com/item?id=47224295
+Points: 510
+# Comments: 150]]></summary>
+        <author>
+            <name>nicktikhonov</name>
         </author>
     </entry>
     <entry>
@@ -3022,16 +3044,6 @@ Points: 522
         <id>https://www.youtube.com/watch?v=vPvo8ByqWHM</id>
         <link href="https://www.youtube.com/watch?v=vPvo8ByqWHM"/>
         <updated>2026-02-02T09:42:39.000Z</updated>
-        <author>
-            <name>Think School</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ultimate hack to CRACK any Interview!]]></title>
-        <id>https://www.youtube.com/shorts/2A1DZsiGjFs</id>
-        <link href="https://www.youtube.com/shorts/2A1DZsiGjFs"/>
-        <updated>2026-02-02T04:37:45.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>Think School</name>
         </author>
