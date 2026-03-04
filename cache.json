@@ -1914,16 +1914,6 @@
           "wordCount": 3991,
           "title": "Anki ownership transferred to AnkiHub",
           "imageUrl": "https://us1.discourse-cdn.com/flex002/uploads/anki2/original/1X/8f1279ababc5879d54e4838989f606cfe55af8c7.jpeg"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=46859054",
-          "author": "meetpateltech",
-          "description": "Article URL: https://openai.com/index/introducing-the-codex-app/\nComments URL: https://news.ycombinator.com/item?id=46859054\nPoints: 515\n# Comments: 333",
-          "link": "https://openai.com/index/introducing-the-codex-app/",
-          "publishedOn": "2026-02-02T18:02:48.000Z",
-          "wordCount": null,
-          "title": "The Codex App",
-          "imageUrl": null
         }
       ]
     },
@@ -1982,6 +1972,16 @@
       "feedUrl": "https://martinfowler.com/feed.atom",
       "siteUrl": "https://martinfowler.com/feed.atom",
       "articles": [
+        {
+          "id": "https://martinfowler.com/articles/exploring-gen-ai/humans-and-agents.html",
+          "author": null,
+          "description": "There's been much talk recently about how AI agents affect the workflow\n      loops of software development. Kief Morris believes the\n      answer is to focus on the goal of turning ideas into outcomes. The right\n      place for us humans is to build and manage the working loop rather than\n      either leaving the agents to it or micromanaging what they produce.\nmore…",
+          "link": "https://martinfowler.com/articles/exploring-gen-ai/humans-and-agents.html",
+          "publishedOn": "2026-03-04T05:42:00.000Z",
+          "wordCount": 1754,
+          "title": "Humans and Agents in Software Engineering Loops",
+          "imageUrl": "https://martinfowler.com/articles/exploring-gen-ai/donkey-card.png"
+        },
         {
           "id": "https://martinfowler.com/articles/reduce-friction-ai/design-first-collaboration.html",
           "author": null,

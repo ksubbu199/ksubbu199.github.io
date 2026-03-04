@@ -2,10 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-03-04T05:42:33.036Z</updated>
+    <updated>2026-03-04T06:49:39.508Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Humans and Agents in Software Engineering Loops]]></title>
+        <id>https://martinfowler.com/articles/exploring-gen-ai/humans-and-agents.html</id>
+        <link href="https://martinfowler.com/articles/exploring-gen-ai/humans-and-agents.html"/>
+        <updated>2026-03-04T05:42:00.000Z</updated>
+        <summary type="html"><![CDATA[There's been much talk recently about how AI agents affect the workflow
+      loops of software development. Kief Morris believes the
+      answer is to focus on the goal of turning ideas into outcomes. The right
+      place for us humans is to build and manage the working loop rather than
+      either leaving the agents to it or micromanaging what they produce.
+more…]]></summary>
+        <author>
+            <name>Martin Fowler</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[I'm reluctant to verify my identity or age for any online services]]></title>
         <id>https://news.ycombinator.com/item?id=47232768</id>
@@ -3063,19 +3078,6 @@ Points: 505
 # Comments: 198]]></summary>
         <author>
             <name>trms</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Codex App]]></title>
-        <id>https://news.ycombinator.com/item?id=46859054</id>
-        <link href="https://openai.com/index/introducing-the-codex-app/"/>
-        <updated>2026-02-02T18:02:48.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://openai.com/index/introducing-the-codex-app/
-Comments URL: https://news.ycombinator.com/item?id=46859054
-Points: 515
-# Comments: 333]]></summary>
-        <author>
-            <name>meetpateltech</name>
         </author>
     </entry>
 </feed>
