@@ -6,6 +6,26 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=47261688",
+          "author": "JumpCrisscross",
+          "description": "Article URL: https://www.wsj.com/politics/policy/judge-orders-government-to-begin-refunding-more-than-130-billion-in-tariffs-fdc1e62c\nComments URL: https://news.ycombinator.com/item?id=47261688\nPoints: 627\n# Comments: 465",
+          "link": "https://www.wsj.com/politics/policy/judge-orders-government-to-begin-refunding-more-than-130-billion-in-tariffs-fdc1e62c",
+          "publishedOn": "2026-03-05T14:05:46.000Z",
+          "wordCount": null,
+          "title": "Judge orders government to begin refunding more than $130B in tariffs",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=47257394",
+          "author": "LorenDB",
+          "description": "Article URL: https://acko.net/blog/the-l-in-llm-stands-for-lying/\nComments URL: https://news.ycombinator.com/item?id=47257394\nPoints: 548\n# Comments: 363",
+          "link": "https://acko.net/blog/the-l-in-llm-stands-for-lying/",
+          "publishedOn": "2026-03-05T04:02:32.000Z",
+          "wordCount": 2737,
+          "title": "The L in \"LLM\" Stands for Lying",
+          "imageUrl": null
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=47255881",
           "author": "gonzalovargas",
           "description": "Article URL: https://github.com/googleworkspace/cli\nComments URL: https://news.ycombinator.com/item?id=47255881\nPoints: 528\n# Comments: 187",
@@ -1904,16 +1924,6 @@
           "wordCount": 1108,
           "title": "FBI couldn't get into WaPo reporter's iPhone because Lockdown Mode enabled",
           "imageUrl": "https://www.404media.co/content/images/size/w1200/2026/02/245839225_3814a454f9.jpg"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=46881264",
-          "author": "jernestomg",
-          "description": "Article URL: https://www.jernesto.com/articles/thinking_hard\nComments URL: https://news.ycombinator.com/item?id=46881264\nPoints: 564\n# Comments: 331",
-          "link": "https://www.jernesto.com/articles/thinking_hard",
-          "publishedOn": "2026-02-04T03:54:11.000Z",
-          "wordCount": 1083,
-          "title": "I miss thinking hard",
-          "imageUrl": null
         }
       ]
     },
@@ -2144,7 +2154,18 @@
       "title": "The Pragmatic Engineer",
       "feedUrl": "https://blog.pragmaticengineer.com/rss/",
       "siteUrl": "https://blog.pragmaticengineer.com/",
-      "articles": []
+      "articles": [
+        {
+          "id": "69a9c3bb4c4eb80001b25ced",
+          "author": "Gergely Orosz",
+          "description": "An engineer at Cloudflare rewrote most of Vercel’s Next.js in one week with AI agents. It looks like a sign of how AI will disrupt existing moats and business models. Analysis",
+          "link": "https://blog.pragmaticengineer.com/the-pulse-cloudflare-rewrites-next-js-as-ai-rewrites-commercial-open-source/",
+          "publishedOn": "2026-03-05T18:03:16.000Z",
+          "wordCount": 4477,
+          "title": "The Pulse: Cloudflare rewrites Next.js as AI rewrites commercial open source",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "Think School",

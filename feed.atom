@@ -2,10 +2,33 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-03-05T15:51:38.305Z</updated>
+    <updated>2026-03-05T18:04:12.349Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The Pulse: Cloudflare rewrites Next.js as AI rewrites commercial open source]]></title>
+        <id>69a9c3bb4c4eb80001b25ced</id>
+        <link href="https://blog.pragmaticengineer.com/the-pulse-cloudflare-rewrites-next-js-as-ai-rewrites-commercial-open-source/"/>
+        <updated>2026-03-05T18:03:16.000Z</updated>
+        <summary type="html"><![CDATA[An engineer at Cloudflare rewrote most of Vercel’s Next.js in one week with AI agents. It looks like a sign of how AI will disrupt existing moats and business models. Analysis]]></summary>
+        <author>
+            <name>Gergely Orosz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Judge orders government to begin refunding more than $130B in tariffs]]></title>
+        <id>https://news.ycombinator.com/item?id=47261688</id>
+        <link href="https://www.wsj.com/politics/policy/judge-orders-government-to-begin-refunding-more-than-130-billion-in-tariffs-fdc1e62c"/>
+        <updated>2026-03-05T14:05:46.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.wsj.com/politics/policy/judge-orders-government-to-begin-refunding-more-than-130-billion-in-tariffs-fdc1e62c
+Comments URL: https://news.ycombinator.com/item?id=47261688
+Points: 627
+# Comments: 465]]></summary>
+        <author>
+            <name>JumpCrisscross</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ideological Resistance to Patents, Followed by Reluctant                Pragmatism]]></title>
         <id>https://martinfowler.com/articles/patents-reluctant-pragmatism.html</id>
@@ -18,6 +41,19 @@
 more…]]></summary>
         <author>
             <name>Martin Fowler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The L in "LLM" Stands for Lying]]></title>
+        <id>https://news.ycombinator.com/item?id=47257394</id>
+        <link href="https://acko.net/blog/the-l-in-llm-stands-for-lying/"/>
+        <updated>2026-03-05T04:02:32.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://acko.net/blog/the-l-in-llm-stands-for-lying/
+Comments URL: https://news.ycombinator.com/item?id=47257394
+Points: 548
+# Comments: 363]]></summary>
+        <author>
+            <name>LorenDB</name>
         </author>
     </entry>
     <entry>
@@ -3079,19 +3115,6 @@ Points: 505
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>Think School</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I miss thinking hard]]></title>
-        <id>https://news.ycombinator.com/item?id=46881264</id>
-        <link href="https://www.jernesto.com/articles/thinking_hard"/>
-        <updated>2026-02-04T03:54:11.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.jernesto.com/articles/thinking_hard
-Comments URL: https://news.ycombinator.com/item?id=46881264
-Points: 564
-# Comments: 331]]></summary>
-        <author>
-            <name>jernestomg</name>
         </author>
     </entry>
 </feed>
