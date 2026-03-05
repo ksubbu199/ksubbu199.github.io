@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-03-05T18:04:12.349Z</updated>
+    <updated>2026-03-05T19:52:14.674Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -14,6 +14,19 @@
         <summary type="html"><![CDATA[An engineer at Cloudflare rewrote most of Vercel’s Next.js in one week with AI agents. It looks like a sign of how AI will disrupt existing moats and business models. Analysis]]></summary>
         <author>
             <name>Gergely Orosz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wikipedia in read-only mode following mass admin account compromise]]></title>
+        <id>https://news.ycombinator.com/item?id=47263323</id>
+        <link href="https://www.wikimediastatus.net/"/>
+        <updated>2026-03-05T16:04:54.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.wikimediastatus.net
+Comments URL: https://news.ycombinator.com/item?id=47263323
+Points: 587
+# Comments: 181]]></summary>
+        <author>
+            <name>greyface-</name>
         </author>
     </entry>
     <entry>
