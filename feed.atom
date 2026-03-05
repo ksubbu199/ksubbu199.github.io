@@ -2,10 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-03-05T13:00:45.012Z</updated>
+    <updated>2026-03-05T14:05:04.313Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Ideological Resistance to Patents, Followed by Reluctant                Pragmatism]]></title>
+        <id>https://martinfowler.com/articles/patents-reluctant-pragmatism.html</id>
+        <link href="https://martinfowler.com/articles/patents-reluctant-pragmatism.html"/>
+        <updated>2026-03-05T13:54:00.000Z</updated>
+        <summary type="html"><![CDATA[Naresh Jain has long had a discomfort with software
+      patents. But a direct experience of patent aggression, together with the
+      practical constraints faced by startups, led him to resort to defensive
+      patenting as as a shield in this asymmetric legal environment.
+more…]]></summary>
+        <author>
+            <name>Martin Fowler</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Google Workspace CLI]]></title>
         <id>https://news.ycombinator.com/item?id=47255881</id>
