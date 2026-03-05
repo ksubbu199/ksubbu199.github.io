@@ -2,10 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-03-05T22:31:21.872Z</updated>
+    <updated>2026-03-05T23:50:49.599Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[GPT-5.4]]></title>
+        <id>https://news.ycombinator.com/item?id=47265045</id>
+        <link href="https://openai.com/index/introducing-gpt-5-4/"/>
+        <updated>2026-03-05T18:08:10.000Z</updated>
+        <summary type="html"><![CDATA[https://openai.com/index/gpt-5-4-thinking-system-card/
+https://x.com/OpenAI/status/2029620619743219811
+Comments URL: https://news.ycombinator.com/item?id=47265045
+Points: 551
+# Comments: 499]]></summary>
+        <author>
+            <name>mudkipdev</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Pulse: Cloudflare rewrites Next.js as AI rewrites commercial open source]]></title>
         <id>69a9c3bb4c4eb80001b25ced</id>
@@ -199,6 +213,19 @@ Points: 546
 # Comments: 145]]></summary>
         <author>
             <name>pabs3</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lenovo’s new ThinkPads score 10/10 for repairability]]></title>
+        <id>https://news.ycombinator.com/item?id=47240694</id>
+        <link href="https://www.ifixit.com/News/115827/new-thinkpads-score-perfect-10-repairability"/>
+        <updated>2026-03-03T23:34:05.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.ifixit.com/News/115827/new-thinkpads-score-perfect-10-repairability
+Comments URL: https://news.ycombinator.com/item?id=47240694
+Points: 501
+# Comments: 239]]></summary>
+        <author>
+            <name>wrxd</name>
         </author>
     </entry>
     <entry>
@@ -3118,16 +3145,6 @@ Points: 505
 # Comments: 420]]></summary>
         <author>
             <name>robin_reala</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Find your DREAM JOB by doing this!]]></title>
-        <id>https://www.youtube.com/shorts/9dnPIPjoMPA</id>
-        <link href="https://www.youtube.com/shorts/9dnPIPjoMPA"/>
-        <updated>2026-02-04T10:51:18.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Think School</name>
         </author>
     </entry>
 </feed>
