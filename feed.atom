@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-03-06T07:38:37.625Z</updated>
+    <updated>2026-03-06T08:37:50.122Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -120,6 +120,19 @@ Points: 502
 # Comments: 136]]></summary>
         <author>
             <name>TechPlasma</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[10% of Firefox crashes are caused by bitflips]]></title>
+        <id>https://news.ycombinator.com/item?id=47252971</id>
+        <link href="https://mas.to/@gabrielesvelto/116171750653898304"/>
+        <updated>2026-03-04T19:58:24.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://mas.to/@gabrielesvelto/116171750653898304
+Comments URL: https://news.ycombinator.com/item?id=47252971
+Points: 550
+# Comments: 273]]></summary>
+        <author>
+            <name>marvinborner</name>
         </author>
     </entry>
     <entry>
@@ -3068,19 +3081,6 @@ Points: 500
 # Comments: 405]]></summary>
         <author>
             <name>jakequist</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Start all of your commands with a comma (2009)]]></title>
-        <id>https://news.ycombinator.com/item?id=46890814</id>
-        <link href="https://rhodesmill.org/brandon/2009/commands-with-comma/"/>
-        <updated>2026-02-04T19:59:12.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://rhodesmill.org/brandon/2009/commands-with-comma/
-Comments URL: https://news.ycombinator.com/item?id=46890814
-Points: 510
-# Comments: 188]]></summary>
-        <author>
-            <name>theblazehen</name>
         </author>
     </entry>
 </feed>
