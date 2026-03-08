@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-03-08T14:25:23.525Z</updated>
+    <updated>2026-03-08T15:24:21.165Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Python Exceptions: Try, Except, and Raise]]></title>
+        <id>https://boot.dev/blog/python/python-exceptions/</id>
+        <link href="https://boot.dev/blog/python/python-exceptions/"/>
+        <updated>2026-03-08T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Python has two kinds of errors: syntax errors that prevent your code from running at all, and exceptions that happen while your code is executing. Knowing how to handle exceptions with try/except and how to raise your own is a core skill for writing reliable programs.]]></summary>
+        <author>
+            <name>Boot.dev Blog</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Copy on Write needs page faults]]></title>
         <id>https://www.youtube.com/shorts/SLUnYKgMRpM</id>
@@ -27,6 +37,16 @@ Points: 557
 # Comments: 432]]></summary>
         <author>
             <name>shannoncc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Python Sets: What They Are and How to Use Them]]></title>
+        <id>https://boot.dev/blog/python/python-sets/</id>
+        <link href="https://boot.dev/blog/python/python-sets/"/>
+        <updated>2026-03-07T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Sets are like lists, but with two key differences: they are unordered and they guarantee uniqueness. Only one of each value can exist in a set. If you need to track unique items or remove duplicates, sets are the tool for the job.]]></summary>
+        <author>
+            <name>Boot.dev Blog</name>
         </author>
     </entry>
     <entry>
@@ -168,6 +188,16 @@ Points: 519
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Python Dictionaries: How to Create and Use Them]]></title>
+        <id>https://boot.dev/blog/python/python-dictionaries/</id>
+        <link href="https://boot.dev/blog/python/python-dictionaries/"/>
+        <updated>2026-03-06T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Dictionaries are one of Python’s most useful data structures. Instead of accessing values by a numeric index like you do with lists, you access them by a key — usually a string. If lists are like numbered shelves, dictionaries are like labeled drawers.]]></summary>
+        <author>
+            <name>Boot.dev Blog</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[GPT-5.4]]></title>
         <id>https://news.ycombinator.com/item?id=47265045</id>
         <link href="https://openai.com/index/introducing-gpt-5-4/"/>
@@ -294,6 +324,16 @@ Points: 528
 # Comments: 187]]></summary>
         <author>
             <name>gonzalovargas</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Python Lists: A Complete Beginner Guide]]></title>
+        <id>https://boot.dev/blog/python/python-lists/</id>
+        <link href="https://boot.dev/blog/python/python-lists/"/>
+        <updated>2026-03-05T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A natural way to organize and store data is in a list. Some languages call them “arrays”, but in Python we just call them lists. Think of all the apps you use and how many of the items in them are organized into lists — a social media feed is a list of posts, an online store is a list of products, the state of a chess game is a list of moves.]]></summary>
+        <author>
+            <name>Boot.dev Blog</name>
         </author>
     </entry>
     <entry>
@@ -442,6 +482,16 @@ Points: 546
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Python Loops: For, While, Break, and Continue]]></title>
+        <id>https://boot.dev/blog/python/python-loops/</id>
+        <link href="https://boot.dev/blog/python/python-loops/"/>
+        <updated>2026-03-04T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Loops let you run the same code over and over without rewriting it each time. Whether you need to count through numbers, process items in a list, or keep going until a condition changes, Python gives you for loops and while loops to handle it.]]></summary>
+        <author>
+            <name>Boot.dev Blog</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Lenovo’s new ThinkPads score 10/10 for repairability]]></title>
         <id>https://news.ycombinator.com/item?id=47240694</id>
         <link href="https://www.ifixit.com/News/115827/new-thinkpads-score-perfect-10-repairability"/>
@@ -561,6 +611,16 @@ Points: 521
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Python If Statements: If, Else, and Elif]]></title>
+        <id>https://boot.dev/blog/python/python-if-else/</id>
+        <link href="https://boot.dev/blog/python/python-if-else/"/>
+        <updated>2026-03-03T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Every useful program needs to make decisions. Python’s if statement is how you tell your code to do one thing or another depending on some condition — and once you understand if, elif, and else, you can handle just about any branching logic.]]></summary>
+        <author>
+            <name>Boot.dev Blog</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[The workers behind Meta’s smart glasses can see everything]]></title>
         <id>https://news.ycombinator.com/item?id=47225130</id>
         <link href="https://www.svd.se/a/K8nrV4/metas-ai-smart-glasses-and-data-privacy-concerns-workers-say-we-see-everything"/>
@@ -670,6 +730,16 @@ Points: 563
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Python Math: Operators and Numbers Explained]]></title>
+        <id>https://boot.dev/blog/python/python-math/</id>
+        <link href="https://boot.dev/blog/python/python-math/"/>
+        <updated>2026-03-02T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Python has excellent built-in support for math operations — from basic arithmetic to exponents to bitwise logic. You don’t need to import anything to do most math in Python, which is one reason it’s so popular for everything from backend development to data science.]]></summary>
+        <author>
+            <name>Boot.dev Blog</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[External import maps, today!]]></title>
         <id>https://lea.verou.me/blog/2026/external-import-maps-today/</id>
         <link href="https://lea.verou.me/blog/2026/external-import-maps-today/"/>
@@ -758,6 +828,16 @@ Points: 569
 # Comments: 103]]></summary>
         <author>
             <name>tambourine_man</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Python Functions: How to Define and Call Them]]></title>
+        <id>https://boot.dev/blog/python/python-functions/</id>
+        <link href="https://boot.dev/blog/python/python-functions/"/>
+        <updated>2026-03-01T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Functions allow you to reuse and organize code. Instead of copying and pasting the same logic everywhere, you define it once and call it whenever you need it. They’re the most important tool for writing DRY code.]]></summary>
+        <author>
+            <name>Boot.dev Blog</name>
         </author>
     </entry>
     <entry>
@@ -941,6 +1021,16 @@ Points: 716
 # Comments: 279]]></summary>
         <author>
             <name>BloondAndDoom</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Python Variables: A Complete Beginner Guide]]></title>
+        <id>https://boot.dev/blog/python/variables-in-python/</id>
+        <link href="https://boot.dev/blog/python/variables-in-python/"/>
+        <updated>2026-02-28T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Variables are how we store data as our program runs. You’re probably already familiar with printing data by passing it straight into print(), but variables let us save that data so we can reuse it and change it before printing it. This guide covers everything you need to know about Python variables: creating them, naming them, and understanding the basic data types they can hold. If you’re just getting started, you might also want to know why Python is worth learning in the first place.]]></summary>
+        <author>
+            <name>Boot.dev Blog</name>
         </author>
     </entry>
     <entry>
