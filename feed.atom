@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-03-09T13:03:33.011Z</updated>
+    <updated>2026-03-09T14:51:22.536Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -54,6 +54,19 @@ Another is that weekends are hard. I used to be in a house filled with life each
         <summary type="html"><![CDATA[Python has two kinds of errors: syntax errors that prevent your code from running at all, and exceptions that happen while your code is executing. Knowing how to handle exceptions with try/except and how to raise your own is a core skill for writing reliable programs.]]></summary>
         <author>
             <name>Boot.dev Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microscopes can see video on a laserdisc]]></title>
+        <id>https://news.ycombinator.com/item?id=47291876</id>
+        <link href="https://www.youtube.com/watch?v=qZuR-772cks"/>
+        <updated>2026-03-07T22:03:37.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.youtube.com/watch?v=qZuR-772cks
+Comments URL: https://news.ycombinator.com/item?id=47291876
+Points: 536
+# Comments: 72]]></summary>
+        <author>
+            <name>zdw</name>
         </author>
     </entry>
     <entry>
