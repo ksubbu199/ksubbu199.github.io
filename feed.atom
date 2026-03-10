@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-03-10T20:34:45.187Z</updated>
+    <updated>2026-03-10T21:29:27.067Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -52,6 +52,28 @@ Points: 505
         <updated>2026-03-10T12:30:34.000Z</updated>
         <author>
             <name>Think School</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Examples for the tcpdump and dig man pages]]></title>
+        <id>https://jvns.ca/blog/2026/03/10/examples-for-the-tcpdump-and-dig-man-pages/</id>
+        <link href="https://jvns.ca/blog/2026/03/10/examples-for-the-tcpdump-and-dig-man-pages/"/>
+        <updated>2026-03-10T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Hello! My big takeaway from last month’s musings about man pages
+was that examples in man pages are really great, so I worked on adding (or
+improving) examples to two of my favourite tools’ man pages.
+Here they are:
+the dig man page (now with examples)
+the tcpdump man page examples (this one is an update to the previous examples)
+the goal: include the most basic examples
+The goal here was really just to give the absolute most basic examples of how to
+use the tool, for people who use tcpdump or dig infrequently (or have never used
+it before!) and don’t remember how it works.
+So far saying “hey, I want to write an examples section for beginners and
+infrequent users of this tools” has been working really well. It’s easy to
+explain, I think it makes sense from everything I’ve heard from users …]]></summary>
+        <author>
+            <name>Julia Evans</name>
         </author>
     </entry>
     <entry>
@@ -3236,16 +3258,6 @@ Points: 525
         <id>https://www.youtube.com/watch?v=1I-WIuY2yuI</id>
         <link href="https://www.youtube.com/watch?v=1I-WIuY2yuI"/>
         <updated>2026-02-09T13:30:03.000Z</updated>
-        <author>
-            <name>Think School</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[3 things more imp than your SALARY!]]></title>
-        <id>https://www.youtube.com/shorts/Qak5ugpk9Pc</id>
-        <link href="https://www.youtube.com/shorts/Qak5ugpk9Pc"/>
-        <updated>2026-02-09T08:45:33.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>Think School</name>
         </author>

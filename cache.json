@@ -2087,6 +2087,16 @@
       "siteUrl": "https://jvns.ca/atom.xml",
       "articles": [
         {
+          "id": "https://jvns.ca/blog/2026/03/10/examples-for-the-tcpdump-and-dig-man-pages/",
+          "author": null,
+          "description": "Hello! My big takeaway from last month’s musings about man pages\nwas that examples in man pages are really great, so I worked on adding (or\nimproving) examples to two of my favourite tools’ man pages.\nHere they are:\nthe dig man page (now with examples)\nthe tcpdump man page examples (this one is an update to the previous examples)\nthe goal: include the most basic examples\nThe goal here was really just to give the absolute most basic examples of how to\nuse the tool, for people who use tcpdump or dig infrequently (or have never used\nit before!) and don’t remember how it works.\nSo far saying “hey, I want to write an examples section for beginners and\ninfrequent users of this tools” has been working really well. It’s easy to\nexplain, I think it makes sense from everything I’ve heard from users …",
+          "link": "https://jvns.ca/blog/2026/03/10/examples-for-the-tcpdump-and-dig-man-pages/",
+          "publishedOn": "2026-03-10T00:00:00.000Z",
+          "wordCount": 874,
+          "title": "Examples for the tcpdump and dig man pages",
+          "imageUrl": null
+        },
+        {
           "id": "https://jvns.ca/blog/2026/02/18/man-pages/",
           "author": null,
           "description": "Hello! After spending some time working on the Git man pages last year,\nI’ve been thinking a little more about what makes a good man page.\nI’ve spent a lot of time writing cheat sheets for tools (tcpdump, git, dig, etc)\nwhich have a man page as their primary documentation. This is because I often\nfind the man pages hard to navigate to get the information I want.\nLately I’ve wondering – could the man page itself have an amazing cheat sheet\nin it? What might make a man page easier to use?\nI’m still very early in thinking about this but I wanted to write down some quick notes.\nI asked some people on Mastodon for their favourite man pages, and here\nare some examples of interesting things I saw on those man pages.\nan OPTIONS SUMMARY\nIf you’ve read a lot of man pages you’ve probably seen somethi…",
@@ -2451,16 +2461,6 @@
           "publishedOn": "2026-02-09T13:30:03.000Z",
           "wordCount": null,
           "title": "How China Is Quietly Beating America in the AI War",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/shorts/Qak5ugpk9Pc",
-          "author": null,
-          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-          "link": "https://www.youtube.com/shorts/Qak5ugpk9Pc",
-          "publishedOn": "2026-02-09T08:45:33.000Z",
-          "wordCount": 2116,
-          "title": "3 things more imp than your SALARY!",
           "imageUrl": null
         }
       ]
