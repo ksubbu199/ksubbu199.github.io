@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-03-10T10:39:20.465Z</updated>
+    <updated>2026-03-10T11:33:21.295Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Building a Procedural Hex Map with Wave Function Collapse]]></title>
+        <id>https://news.ycombinator.com/item?id=47311815</id>
+        <link href="https://felixturner.github.io/hex-map-wfc/article/"/>
+        <updated>2026-03-09T17:02:22.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://felixturner.github.io/hex-map-wfc/article/
+Comments URL: https://news.ycombinator.com/item?id=47311815
+Points: 511
+# Comments: 72]]></summary>
+        <author>
+            <name>imadr</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ireland shuts last coal plant, becomes 15th coal-free country in Europe (2025)]]></title>
         <id>https://news.ycombinator.com/item?id=47307055</id>
@@ -3174,19 +3187,6 @@ Points: 525
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>Think School</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI makes the easy part easier and the hard part harder]]></title>
-        <id>https://news.ycombinator.com/item?id=46939593</id>
-        <link href="https://www.blundergoat.com/articles/ai-makes-the-easy-part-easier-and-the-hard-part-harder"/>
-        <updated>2026-02-08T23:13:34.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.blundergoat.com/articles/ai-makes-the-easy-part-easier-and-the-hard-part-harder
-Comments URL: https://news.ycombinator.com/item?id=46939593
-Points: 504
-# Comments: 344]]></summary>
-        <author>
-            <name>weaksauce</name>
         </author>
     </entry>
 </feed>
