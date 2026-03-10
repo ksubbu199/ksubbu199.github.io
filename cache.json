@@ -1951,7 +1951,18 @@
       "title": "/dev/lawyer",
       "feedUrl": "https://writing.kemitchell.com/feed.xml",
       "siteUrl": "https://writing.kemitchell.com",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://writing.kemitchell.com/2026/03/10/OCVSAL-1.0",
+          "author": null,
+          "description": "a very short non-production license with twists",
+          "link": "https://writing.kemitchell.com/2026/03/10/OCVSAL-1.0",
+          "publishedOn": "2026-03-10T18:02:02.000Z",
+          "wordCount": 1106,
+          "title": "Open Core Ventures Source Available License Version 1.0",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "Boot.dev Blog",
@@ -2092,6 +2103,16 @@
       "feedUrl": "https://martinfowler.com/feed.atom",
       "siteUrl": "https://martinfowler.com/feed.atom",
       "articles": [
+        {
+          "id": "https://martinfowler.com/fragments/2026-03-10.html",
+          "author": null,
+          "description": "Tech firm fined $1.1m by California for selling high-school students’ data\nI agree with Brian Marick’s response\nNo such story should be published without a comparison of the fine to the company’s previous year revenue and profits, or valuation of last funding round. (I could only find a valuation of $11.0M in 2017.)\nWe desperately need corporations’ attitudes to shift from “lawbreaking is a low-risk cost of doing business; we get a net profit anyway” to “this could be a death sentence.”\n ❄                ❄                ❄                ❄                ❄\nCharity Majors gave the closing keynote at SRECon last year, encouraging people to engage with generative AI.\nIf I was giving the keynote at SRECon 2026, I would ditch the begrudging stance. I would start by acknowledging that AI is radi…",
+          "link": "https://martinfowler.com/fragments/2026-03-10.html",
+          "publishedOn": "2026-03-10T17:50:00.000Z",
+          "wordCount": 1032,
+          "title": "Fragments: March 10",
+          "imageUrl": "https://martinfowler.com/logo-sq.png"
+        },
         {
           "id": "https://martinfowler.com/articles/patents-reluctant-pragmatism.html",
           "author": null,
