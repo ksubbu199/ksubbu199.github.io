@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-03-11T19:40:54.270Z</updated>
+    <updated>2026-03-11T20:34:07.752Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Don't post generated/AI-edited comments. HN is for conversation between humans.]]></title>
+        <id>https://news.ycombinator.com/item?id=47340079</id>
+        <link href="https://news.ycombinator.com/newsguidelines.html#generated"/>
+        <updated>2026-03-11T19:29:29.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://news.ycombinator.com/newsguidelines.html#generated
+Comments URL: https://news.ycombinator.com/item?id=47340079
+Points: 602
+# Comments: 253]]></summary>
+        <author>
+            <name>usefulposter</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[A private file descriptor per process]]></title>
         <id>https://www.youtube.com/shorts/fj5FKVCiay4</id>
