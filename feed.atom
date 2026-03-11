@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-03-11T04:17:04.410Z</updated>
+    <updated>2026-03-11T05:49:22.344Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -43,6 +43,20 @@ Points: 505
 # Comments: 48]]></summary>
         <author>
             <name>speckx</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[After outages, Amazon to make senior engineers sign off on AI-assisted changes]]></title>
+        <id>https://news.ycombinator.com/item?id=47323017</id>
+        <link href="https://arstechnica.com/ai/2026/03/after-outages-amazon-to-make-senior-engineers-sign-off-on-ai-assisted-changes/"/>
+        <updated>2026-03-10T13:31:17.000Z</updated>
+        <summary type="html"><![CDATA[https://www.ft.com/content/7cab4ec7-4712-4137-b602-119a44f77... (https://archive.ph/wXvF3)
+https://twitter.com/lukolejnik/status/2031257644724342957 (https://xcancel.com/lukolejnik/status/2031257644724342957)
+Comments URL: https://news.ycombinator.com/item?id=47323017
+Points: 515
+# Comments: 417]]></summary>
+        <author>
+            <name>ndr42</name>
         </author>
     </entry>
     <entry>
@@ -3211,19 +3225,6 @@ Points: 516
 # Comments: 322]]></summary>
         <author>
             <name>pseudalopex</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Converting a $3.88 analog clock from Walmart into a ESP8266-based Wi-Fi clock]]></title>
-        <id>https://news.ycombinator.com/item?id=46947096</id>
-        <link href="https://github.com/jim11662418/ESP8266_WiFi_Analog_Clock"/>
-        <updated>2026-02-09T16:26:31.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://github.com/jim11662418/ESP8266_WiFi_Analog_Clock
-Comments URL: https://news.ycombinator.com/item?id=46947096
-Points: 504
-# Comments: 162]]></summary>
-        <author>
-            <name>tokyobreakfast</name>
         </author>
     </entry>
 </feed>
