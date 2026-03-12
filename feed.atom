@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-03-12T17:05:16.064Z</updated>
+    <updated>2026-03-12T18:54:28.226Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Malus – Clean Room as a Service]]></title>
+        <id>https://news.ycombinator.com/item?id=47350424</id>
+        <link href="https://malus.sh/"/>
+        <updated>2026-03-12T13:42:04.000Z</updated>
+        <summary type="html"><![CDATA[https://fosdem.org/2026/schedule/event/SUVS7G-lets_end_open_...
+Comments URL: https://news.ycombinator.com/item?id=47350424
+Points: 626
+# Comments: 231]]></summary>
+        <author>
+            <name>microflash</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Don't post generated/AI-edited comments. HN is for conversation between humans.]]></title>
         <id>https://news.ycombinator.com/item?id=47340079</id>
@@ -3193,29 +3206,6 @@ Points: 505
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>Think School</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Find the BEST JOB by doing this in 2026!]]></title>
-        <id>https://www.youtube.com/shorts/qke9n2itF7A</id>
-        <link href="https://www.youtube.com/shorts/qke9n2itF7A"/>
-        <updated>2026-02-11T06:36:58.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Think School</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Windows Notepad App Remote Code Execution Vulnerability]]></title>
-        <id>https://news.ycombinator.com/item?id=46971516</id>
-        <link href="https://www.cve.org/CVERecord?id=CVE-2026-20841"/>
-        <updated>2026-02-11T06:15:33.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.cve.org/CVERecord?id=CVE-2026-20841
-Comments URL: https://news.ycombinator.com/item?id=46971516
-Points: 503
-# Comments: 299]]></summary>
-        <author>
-            <name>riffraff</name>
         </author>
     </entry>
 </feed>
