@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-03-12T02:06:36.964Z</updated>
+    <updated>2026-03-12T04:46:53.379Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -192,6 +192,19 @@ infrequent users of this tools” has been working really well. It’s easy to
 explain, I think it makes sense from everything I’ve heard from users …]]></summary>
         <author>
             <name>Julia Evans</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Florida judge rules red light camera tickets are unconstitutional]]></title>
+        <id>https://news.ycombinator.com/item?id=47312090</id>
+        <link href="https://cbs12.com/news/local/florida-news-judge-rules-red-light-camera-tickets-unconstitutional"/>
+        <updated>2026-03-09T17:20:29.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://cbs12.com/news/local/florida-news-judge-rules-red-light-camera-tickets-unconstitutional
+Comments URL: https://news.ycombinator.com/item?id=47312090
+Points: 500
+# Comments: 659]]></summary>
+        <author>
+            <name>1970-01-01</name>
         </author>
     </entry>
     <entry>
@@ -3223,45 +3236,6 @@ Points: 517
 # Comments: 295]]></summary>
         <author>
             <name>ecto</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ex-GitHub CEO launches a new developer platform for AI agents]]></title>
-        <id>https://news.ycombinator.com/item?id=46961345</id>
-        <link href="https://entire.io/blog/hello-entire-world/"/>
-        <updated>2026-02-10T15:44:47.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://entire.io/blog/hello-entire-world/
-Comments URL: https://news.ycombinator.com/item?id=46961345
-Points: 511
-# Comments: 470]]></summary>
-        <author>
-            <name>meetpateltech</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I started programming when I was 7. I'm 50 now and the thing I loved has changed]]></title>
-        <id>https://news.ycombinator.com/item?id=46960675</id>
-        <link href="https://www.jamesdrandall.com/posts/the_thing_i_loved_has_changed/"/>
-        <updated>2026-02-10T15:08:36.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.jamesdrandall.com/posts/the_thing_i_loved_has_changed/
-Comments URL: https://news.ycombinator.com/item?id=46960675
-Points: 517
-# Comments: 433]]></summary>
-        <author>
-            <name>jamesrandall</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Oxide raises $200M Series C]]></title>
-        <id>https://news.ycombinator.com/item?id=46960036</id>
-        <link href="https://oxide.computer/blog/our-200m-series-c"/>
-        <updated>2026-02-10T14:20:49.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://oxide.computer/blog/our-200m-series-c
-Comments URL: https://news.ycombinator.com/item?id=46960036
-Points: 521
-# Comments: 277]]></summary>
-        <author>
-            <name>igrunert</name>
         </author>
     </entry>
 </feed>
