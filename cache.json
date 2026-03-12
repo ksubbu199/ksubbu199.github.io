@@ -1960,6 +1960,16 @@
       "siteUrl": "https://boot.dev/blog/",
       "articles": [
         {
+          "id": "https://boot.dev/blog/news/bootdev-beat-2026-03/",
+          "author": null,
+          "description": "February was stacked with quality-of-life work and platform upgrades. A lot of this work is infrastructure-heavy and not quite as flashy, but it makes Boot.dev faster, sturdier, and more fun to use. Also: the DevOps learning path is very close. The AWS and logging courses are getting their final polish and should be landing any week now.",
+          "link": "https://boot.dev/blog/news/bootdev-beat-2026-03/",
+          "publishedOn": "2026-03-12T00:00:00.000Z",
+          "wordCount": 751,
+          "title": "The Boot.dev Beat. March 2026",
+          "imageUrl": "https://boot.dev/blog/img/featured/the-bootdev-beat-march-2026.webp"
+        },
+        {
           "id": "https://boot.dev/blog/python/python-exceptions/",
           "author": null,
           "description": "Python has two kinds of errors: syntax errors that prevent your code from running at all, and exceptions that happen while your code is executing. Knowing how to handle exceptions with try/except and how to raise your own is a core skill for writing reliable programs.",
@@ -2391,16 +2401,6 @@
           "publishedOn": "2026-02-12T12:30:50.000Z",
           "wordCount": null,
           "title": "How Japan went from MIRACLE to DISASTER? |  Economic Case study",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/shorts/qm5fqf19rOw",
-          "author": null,
-          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-          "link": "https://www.youtube.com/shorts/qm5fqf19rOw",
-          "publishedOn": "2026-02-11T09:30:36.000Z",
-          "wordCount": 2109,
-          "title": "Make an IMPACT before the JOB Interview!",
           "imageUrl": null
         }
       ]
