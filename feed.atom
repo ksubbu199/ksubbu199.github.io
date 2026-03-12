@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-03-11T23:26:40.860Z</updated>
+    <updated>2026-03-12T02:06:36.964Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -27,6 +27,19 @@ Points: 602
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>Hussein Nasser</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Temporal: A nine-year journey to fix time in JavaScript]]></title>
+        <id>https://news.ycombinator.com/item?id=47336989</id>
+        <link href="https://bloomberg.github.io/js-blog/post/temporal/"/>
+        <updated>2026-03-11T15:35:50.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://bloomberg.github.io/js-blog/post/temporal/
+Comments URL: https://news.ycombinator.com/item?id=47336989
+Points: 518
+# Comments: 181]]></summary>
+        <author>
+            <name>robpalmer</name>
         </author>
     </entry>
     <entry>
@@ -3249,19 +3262,6 @@ Points: 521
 # Comments: 277]]></summary>
         <author>
             <name>igrunert</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Europe's $24T Breakup with Visa and Mastercard Has Begun]]></title>
-        <id>https://news.ycombinator.com/item?id=46958399</id>
-        <link href="https://europeanbusinessmagazine.com/business/europes-24-trillion-breakup-with-visa-and-mastercard-has-begun/"/>
-        <updated>2026-02-10T11:42:14.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://europeanbusinessmagazine.com/business/europes-24-trillion-breakup-with-visa-and-mastercard-has-begun/
-Comments URL: https://news.ycombinator.com/item?id=46958399
-Points: 535
-# Comments: 480]]></summary>
-        <author>
-            <name>NewCzech</name>
         </author>
     </entry>
 </feed>
