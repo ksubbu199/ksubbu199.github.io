@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-03-12T06:56:14.841Z</updated>
+    <updated>2026-03-12T07:48:03.055Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -56,6 +56,19 @@ Points: 512
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[The MacBook Neo]]></title>
+        <id>https://news.ycombinator.com/item?id=47334293</id>
+        <link href="https://daringfireball.net/2026/03/the_macbook_neo"/>
+        <updated>2026-03-11T11:37:24.000Z</updated>
+        <summary type="html"><![CDATA[https://www.pcmag.com/news/asus-co-ceo-macbook-neo-is-a-shoc...
+Comments URL: https://news.ycombinator.com/item?id=47334293
+Points: 500
+# Comments: 825]]></summary>
+        <author>
+            <name>etothet</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Create value for others and don’t worry about the returns]]></title>
         <id>https://news.ycombinator.com/item?id=47332074</id>
         <link href="https://geohot.github.io//blog/jekyll/update/2026/03/11/running-69-agents.html"/>
@@ -66,6 +79,19 @@ Points: 502
 # Comments: 341]]></summary>
         <author>
             <name>ppew</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Making WebAssembly a first-class language on the Web]]></title>
+        <id>https://news.ycombinator.com/item?id=47331811</id>
+        <link href="https://hacks.mozilla.org/2026/02/making-webassembly-a-first-class-language-on-the-web/"/>
+        <updated>2026-03-11T04:44:46.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://hacks.mozilla.org/2026/02/making-webassembly-a-first-class-language-on-the-web/
+Comments URL: https://news.ycombinator.com/item?id=47331811
+Points: 520
+# Comments: 173]]></summary>
+        <author>
+            <name>mikece</name>
         </author>
     </entry>
     <entry>
