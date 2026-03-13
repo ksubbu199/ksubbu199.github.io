@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-03-13T19:31:37.180Z</updated>
+    <updated>2026-03-13T20:35:05.289Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Can I run AI locally?]]></title>
+        <id>https://news.ycombinator.com/item?id=47363754</id>
+        <link href="https://www.canirun.ai/"/>
+        <updated>2026-03-13T12:46:10.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.canirun.ai/
+Comments URL: https://news.ycombinator.com/item?id=47363754
+Points: 550
+# Comments: 136]]></summary>
+        <author>
+            <name>ricardbejarano</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Meta Platforms: Lobbying, dark money, and the App Store Accountability Act]]></title>
         <id>https://news.ycombinator.com/item?id=47362528</id>
@@ -30,6 +43,19 @@ Points: 720
 # Comments: 285]]></summary>
         <author>
             <name>shaicoleman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vite 8.0 Is Out]]></title>
+        <id>https://news.ycombinator.com/item?id=47360730</id>
+        <link href="https://vite.dev/blog/announcing-vite8"/>
+        <updated>2026-03-13T04:36:40.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://vite.dev/blog/announcing-vite8
+Comments URL: https://news.ycombinator.com/item?id=47360730
+Points: 502
+# Comments: 173]]></summary>
+        <author>
+            <name>kothariji</name>
         </author>
     </entry>
     <entry>
