@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-03-13T16:40:31.943Z</updated>
+    <updated>2026-03-13T17:34:21.557Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Meta Platforms: Lobbying, dark money, and the App Store Accountability Act]]></title>
+        <id>https://news.ycombinator.com/item?id=47362528</id>
+        <link href="https://github.com/upper-up/meta-lobbying-and-other-findings"/>
+        <updated>2026-03-13T10:15:56.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://github.com/upper-up/meta-lobbying-and-other-findings
+Comments URL: https://news.ycombinator.com/item?id=47362528
+Points: 923
+# Comments: 399]]></summary>
+        <author>
+            <name>shaicoleman</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[I traced $2B in grants and 45 states' lobbying behind age‑verification bills]]></title>
         <id>https://news.ycombinator.com/item?id=47362528</id>
@@ -3196,19 +3209,6 @@ Points: 559
 # Comments: 464]]></summary>
         <author>
             <name>wrxd</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Warcraft III Peon Voice Notifications for Claude Code]]></title>
-        <id>https://news.ycombinator.com/item?id=46985151</id>
-        <link href="https://github.com/tonyyont/peon-ping"/>
-        <updated>2026-02-12T05:18:49.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://github.com/tonyyont/peon-ping
-Comments URL: https://news.ycombinator.com/item?id=46985151
-Points: 539
-# Comments: 179]]></summary>
-        <author>
-            <name>doppp</name>
         </author>
     </entry>
 </feed>
