@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-03-13T21:33:29.967Z</updated>
+    <updated>2026-03-13T22:28:12.664Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -17,6 +17,19 @@ Points: 550
 # Comments: 136]]></summary>
         <author>
             <name>ricardbejarano</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TUI Studio – visual terminal UI design tool]]></title>
+        <id>https://news.ycombinator.com/item?id=47362613</id>
+        <link href="https://tui.studio/"/>
+        <updated>2026-03-13T10:32:45.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://tui.studio/
+Comments URL: https://news.ycombinator.com/item?id=47362613
+Points: 513
+# Comments: 266]]></summary>
+        <author>
+            <name>mipselaer</name>
         </author>
     </entry>
     <entry>
