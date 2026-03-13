@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=47359744",
+          "author": "MBCook",
+          "description": "Article URL: https://samhenri.gold/blog/20260312-this-is-not-the-computer-for-you/\nComments URL: https://news.ycombinator.com/item?id=47359744\nPoints: 521\n# Comments: 207",
+          "link": "https://samhenri.gold/blog/20260312-this-is-not-the-computer-for-you/",
+          "publishedOn": "2026-03-13T01:45:49.000Z",
+          "wordCount": 1244,
+          "title": "“This is not the computer for you”",
+          "imageUrl": "https://samhenri.gold/.netlify/images?url=_astro%2F20260312-this-is-not-the-computer-for-you.DZE5cK1G.jpg&fm=jpg&w=1200&h=630&dpl=69b363f3e187fd00085beac4"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=47357042",
           "author": "breton",
           "description": "Article URL: https://gist.github.com/bretonium/291f4388e2de89a43b25c135b44e41f0\nComments URL: https://news.ycombinator.com/item?id=47357042\nPoints: 816\n# Comments: 297",
@@ -1914,16 +1924,6 @@
           "wordCount": 2925,
           "title": "Warcraft III Peon Voice Notifications for Claude Code",
           "imageUrl": "https://opengraph.githubassets.com/47c52a873344391eefe8ad2755c5b2f5e3421bd1c3c471c90bdc3cdf28f9003c/tonyyont/peon-ping"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=46982421",
-          "author": "JustSkyfall",
-          "description": "Article URL: https://age-verifier.kibty.town/\nComments URL: https://news.ycombinator.com/item?id=46982421\nPoints: 505\n# Comments: 218",
-          "link": "https://age-verifier.kibty.town/",
-          "publishedOn": "2026-02-11T22:56:41.000Z",
-          "wordCount": 774,
-          "title": "Discord/Twitch/Snapchat age verification bypass",
-          "imageUrl": null
         }
       ]
     },

@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-03-13T10:37:09.621Z</updated>
+    <updated>2026-03-13T11:32:01.163Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[“This is not the computer for you”]]></title>
+        <id>https://news.ycombinator.com/item?id=47359744</id>
+        <link href="https://samhenri.gold/blog/20260312-this-is-not-the-computer-for-you/"/>
+        <updated>2026-03-13T01:45:49.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://samhenri.gold/blog/20260312-this-is-not-the-computer-for-you/
+Comments URL: https://news.ycombinator.com/item?id=47359744
+Points: 521
+# Comments: 207]]></summary>
+        <author>
+            <name>MBCook</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Shall I implement it? No]]></title>
         <id>https://news.ycombinator.com/item?id=47357042</id>
@@ -3170,19 +3183,6 @@ Points: 539
 # Comments: 179]]></summary>
         <author>
             <name>doppp</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Discord/Twitch/Snapchat age verification bypass]]></title>
-        <id>https://news.ycombinator.com/item?id=46982421</id>
-        <link href="https://age-verifier.kibty.town/"/>
-        <updated>2026-02-11T22:56:41.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://age-verifier.kibty.town/
-Comments URL: https://news.ycombinator.com/item?id=46982421
-Points: 505
-# Comments: 218]]></summary>
-        <author>
-            <name>JustSkyfall</name>
         </author>
     </entry>
 </feed>
