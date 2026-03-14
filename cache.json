@@ -146,6 +146,16 @@
           "imageUrl": "https://bloomberg.github.io/js-blog/images/javascript-logo.webp"
         },
         {
+          "id": "https://news.ycombinator.com/item?id=47336100",
+          "author": "kilroy123",
+          "description": "I know, it's a very first-world problem. But in my house, we have a hard time deciding what to watch. Too many options!\nSo I made this to recreate Cable TV for YouTube. I made it so it runs in the browser. Quickly import your subscriptions in the browser via a bookmarklet. No accounts, no sign-ins. Just quickly import your data locally.\nComments URL: https://news.ycombinator.com/item?id=47336100\nPoints: 513\n# Comments: 152",
+          "link": "https://channelsurfer.tv/",
+          "publishedOn": "2026-03-11T14:34:57.000Z",
+          "wordCount": 187,
+          "title": "Show HN: Channel Surfer – Watch YouTube like it’s cable TV",
+          "imageUrl": "https://channelsurfer.tv/og-image.png"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=47335572",
           "author": "raldi",
           "description": "Article URL: https://www.washingtonpost.com/politics/2026/03/10/social-security-data-breach-doge-2/\nComments URL: https://news.ycombinator.com/item?id=47335572\nPoints: 512\n# Comments: 215",
@@ -1924,16 +1934,6 @@
           "wordCount": 9968,
           "title": "Ring cancels its partnership with Flock Safety after surveillance backlash",
           "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/STKS525_MASS_SURVEILLANCE.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=46996490",
-          "author": "ffworld",
-          "description": "It's with much sadness that we announce the passing of our friend and colleague Ralph Giles, or rillian as he was known on IRC.\nRalph began contributing to Xiph.org in 2000 and became a core Ghostscript developer in 2001[1]. Ralph made many contributions to the royalty-free media ecosystem, whether it was as a project lead on Theora, serving as release manager for multiple Xiph libraries or maintaining Xiph infrastructure that has been used across the industry by codec engineers and researchers[2].\nHe was also the first to ship Rust code in Firefox[3] during his time at Mozilla, which was a major milestone for both the language and Firefox itself.\nRalph was a great contributor, a kind colleague and will be greatly missed.\nOfficial Announcement: https://www.linkedin.com/feed/update/urn:li:activity:7427730...\n[1]: http://www.wizards-of-os.org/archiv/sprecher/g_h/ralph_giles...\n[2]: https://media.xiph.org/\n[3]: https://medium.com/mozilla-tech/deploying-rust-in-a-large-co...\nComments URL: https://news.ycombinator.com/item?id=46996490\nPoints: 500\n# Comments: 27",
-          "link": "https://news.ycombinator.com/item?id=46996490",
-          "publishedOn": "2026-02-12T22:58:58.000Z",
-          "wordCount": 992,
-          "title": "Tell HN: Ralph Giles has died (Xiph.org| Rust@Mozilla | Ghostscript)",
-          "imageUrl": null
         }
       ]
     },
