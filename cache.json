@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=47367129",
+          "author": "meetpateltech",
+          "description": "Article URL: https://claude.com/blog/1m-context-ga\nComments URL: https://news.ycombinator.com/item?id=47367129\nPoints: 548\n# Comments: 221",
+          "link": "https://claude.com/blog/1m-context-ga",
+          "publishedOn": "2026-03-13T17:19:01.000Z",
+          "wordCount": 14179,
+          "title": "1M context is now generally available for Opus 4.6 and Sonnet 4.6",
+          "imageUrl": ""
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=47363754",
           "author": "ricardbejarano",
           "description": "Article URL: https://www.canirun.ai/\nComments URL: https://news.ycombinator.com/item?id=47363754\nPoints: 550\n# Comments: 136",
@@ -14,6 +24,16 @@
           "wordCount": 10767,
           "title": "Can I run AI locally?",
           "imageUrl": "https://canirun.ai/og/home.png"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=47363584",
+          "author": "johnbarron",
+          "description": "Article URL: https://www.tomshardware.com/tech-industry/qatar-helium-shutdown-puts-chip-supply-chain-on-a-two-week-clock\nComments URL: https://news.ycombinator.com/item?id=47363584\nPoints: 508\n# Comments: 456",
+          "link": "https://www.tomshardware.com/tech-industry/qatar-helium-shutdown-puts-chip-supply-chain-on-a-two-week-clock",
+          "publishedOn": "2026-03-13T12:31:09.000Z",
+          "wordCount": null,
+          "title": "Qatar helium shutdown puts chip supply chain on a two-week clock",
+          "imageUrl": null
         },
         {
           "id": "https://news.ycombinator.com/item?id=47362613",
@@ -1913,16 +1933,6 @@
           "publishedOn": "2026-02-12T22:58:58.000Z",
           "wordCount": 992,
           "title": "Tell HN: Ralph Giles has died (Xiph.org| Rust@Mozilla | Ghostscript)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=46992553",
-          "author": "meetpateltech",
-          "description": "Article URL: https://openai.com/index/introducing-gpt-5-3-codex-spark/\nComments URL: https://news.ycombinator.com/item?id=46992553\nPoints: 551\n# Comments: 224",
-          "link": "https://openai.com/index/introducing-gpt-5-3-codex-spark/",
-          "publishedOn": "2026-02-12T18:06:09.000Z",
-          "wordCount": null,
-          "title": "GPT‑5.3‑Codex‑Spark",
           "imageUrl": null
         }
       ]

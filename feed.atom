@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-03-14T05:44:46.977Z</updated>
+    <updated>2026-03-14T06:45:54.022Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[1M context is now generally available for Opus 4.6 and Sonnet 4.6]]></title>
+        <id>https://news.ycombinator.com/item?id=47367129</id>
+        <link href="https://claude.com/blog/1m-context-ga"/>
+        <updated>2026-03-13T17:19:01.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://claude.com/blog/1m-context-ga
+Comments URL: https://news.ycombinator.com/item?id=47367129
+Points: 548
+# Comments: 221]]></summary>
+        <author>
+            <name>meetpateltech</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Can I run AI locally?]]></title>
         <id>https://news.ycombinator.com/item?id=47363754</id>
@@ -17,6 +30,19 @@ Points: 550
 # Comments: 136]]></summary>
         <author>
             <name>ricardbejarano</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Qatar helium shutdown puts chip supply chain on a two-week clock]]></title>
+        <id>https://news.ycombinator.com/item?id=47363584</id>
+        <link href="https://www.tomshardware.com/tech-industry/qatar-helium-shutdown-puts-chip-supply-chain-on-a-two-week-clock"/>
+        <updated>2026-03-13T12:31:09.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.tomshardware.com/tech-industry/qatar-helium-shutdown-puts-chip-supply-chain-on-a-two-week-clock
+Comments URL: https://news.ycombinator.com/item?id=47363584
+Points: 508
+# Comments: 456]]></summary>
+        <author>
+            <name>johnbarron</name>
         </author>
     </entry>
     <entry>
@@ -3160,19 +3186,6 @@ Points: 500
 # Comments: 27]]></summary>
         <author>
             <name>ffworld</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GPT‑5.3‑Codex‑Spark]]></title>
-        <id>https://news.ycombinator.com/item?id=46992553</id>
-        <link href="https://openai.com/index/introducing-gpt-5-3-codex-spark/"/>
-        <updated>2026-02-12T18:06:09.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://openai.com/index/introducing-gpt-5-3-codex-spark/
-Comments URL: https://news.ycombinator.com/item?id=46992553
-Points: 551
-# Comments: 224]]></summary>
-        <author>
-            <name>meetpateltech</name>
         </author>
     </entry>
 </feed>
