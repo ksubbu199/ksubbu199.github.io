@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-03-15T02:27:04.160Z</updated>
+    <updated>2026-03-15T05:04:56.928Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -66,6 +66,22 @@ Points: 548
 # Comments: 221]]></summary>
         <author>
             <name>meetpateltech</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Elon Musk pushes out more xAI founders as AI coding effort falters]]></title>
+        <id>https://news.ycombinator.com/item?id=47366666</id>
+        <link href="https://www.ft.com/content/e5fbc6c2-d5a6-4b97-a105-6a96ea849de5"/>
+        <updated>2026-03-13T16:40:42.000Z</updated>
+        <summary type="html"><![CDATA[https://archive.ph/rP4cb (text at bottom)
+https://x.com/elonmusk/status/2032201568335044978, https://xcancel.com/elonmusk/status/2032201568335044978
+https://economictimes.indiatimes.com/tech/artificial-intelli...
+https://futurism.com/artificial-intelligence/elon-musk-screw...
+Comments URL: https://news.ycombinator.com/item?id=47366666
+Points: 500
+# Comments: 787]]></summary>
+        <author>
+            <name>merksittich</name>
         </author>
     </entry>
     <entry>
@@ -308,6 +324,19 @@ Points: 500
 # Comments: 825]]></summary>
         <author>
             <name>etothet</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How we hacked McKinsey's AI platform]]></title>
+        <id>https://news.ycombinator.com/item?id=47333627</id>
+        <link href="https://codewall.ai/blog/how-we-hacked-mckinseys-ai-platform"/>
+        <updated>2026-03-11T09:59:03.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://codewall.ai/blog/how-we-hacked-mckinseys-ai-platform
+Comments URL: https://news.ycombinator.com/item?id=47333627
+Points: 500
+# Comments: 195]]></summary>
+        <author>
+            <name>mycroft_4221</name>
         </author>
     </entry>
     <entry>
@@ -3129,54 +3158,6 @@ Points: 505
 # Comments: 338]]></summary>
         <author>
             <name>davidbarker</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fragments: February 13]]></title>
-        <id>https://martinfowler.com/fragments/2026-02-13.html</id>
-        <link href="https://martinfowler.com/fragments/2026-02-13.html"/>
-        <updated>2026-02-13T15:45:00.000Z</updated>
-        <summary type="html"><![CDATA[I’ve been busy traveling this week, visiting some clients in the Bay Area and attending The Pragmatic Summit. So I’ve not has as much time as I’d hoped to share more thoughts from the Thoughtworks Future of Software Development Retreat. I’m still working through my notes and posting fragments - here are some more:
- ❄                ❄
-What role do senior developers play as LLMs become established? As befits a gathering of many senior developers, we felt we still have a bright future, focusing more on architectural issues than the messy details of syntax and coding. In some cases, folks who haven’t done much programming in the last decade have found LLMs allow them to get back to that, and managing LLM agents has a lot of similarities to managing junior developers.
-One attendee reported that…]]></summary>
-        <author>
-            <name>Martin Fowler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bliki: Future Of Software Development]]></title>
-        <id>https://martinfowler.com/bliki/FutureOfSoftwareDevelopment.html</id>
-        <link href="https://martinfowler.com/bliki/FutureOfSoftwareDevelopment.html"/>
-        <updated>2026-02-13T15:40:00.000Z</updated>
-        <summary type="html"><![CDATA[In Februrary 2026, Thoughtworks hosted a workshop called “The Future of
-  Software Development” in Deer Valley Utah. While it was held in the mountains
-  of Utah as a nod to the 25th anniversary of the writing of Manifesto for Agile Software
-  Development, it was a forward-looking event, focusing on how the rise of
-  AI and LLMs would affect our profession.
-About 50 or so people were invited, a mixture of Thoughtworkers, software
-  pundits, and clients - all picked for being active in the LLM-fuelled changes.
-  We met for a day and a half of Open Space conference. It was
-  an intense, and enjoyable event.
-I haven't attempted to make a coherent narrative of what we discussed and
-  learned there. I have instead posted various insights into my fragments
-  posts:
-February 4
-February 9
-February 13
-February 18
-The retreat was held under the Chatham House
-  Rule, so most comments aren't attributed, unless I received specific
-  permission.
-Thoughtworks
-  published a summary of thoughts from the event.
-Other posts from participants
-Annie Vella posted her
-      take-aways
-Rachel Laycock was interviewed by
-      The New Stack.]]></summary>
-        <author>
-            <name>Martin Fowler</name>
         </author>
     </entry>
 </feed>
