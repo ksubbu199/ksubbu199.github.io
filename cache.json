@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=47392084",
+          "author": "opengrass",
+          "description": "https://www.parl.ca/DocumentViewer/en/45-1/bill/C-22/first-r...\nComments URL: https://news.ycombinator.com/item?id=47392084\nPoints: 519\n# Comments: 139",
+          "link": "https://www.michaelgeist.ca/2026/03/a-tale-of-two-bills-lawful-access-returns-with-changes-to-warrantless-access-but-dangerous-backdoor-surveillance-risks-remains/",
+          "publishedOn": "2026-03-15T21:22:16.000Z",
+          "wordCount": 4705,
+          "title": "Canada's bill C-22 mandates mass metadata surveillance of Canadians",
+          "imageUrl": "https://www.michaelgeist.ca/wp-content/uploads/2026/03/screenshot_4102.png"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=47381791",
           "author": "nateb2022",
           "description": "Article URL: https://agelesslinux.org/\nComments URL: https://news.ycombinator.com/item?id=47381791\nPoints: 519\n# Comments: 332",
@@ -1854,16 +1864,6 @@
           "wordCount": 1473,
           "title": "uBlock filter list to hide all YouTube Shorts",
           "imageUrl": "https://opengraph.githubassets.com/279d18784166d176f030878e921ac259ee769de9425ecea33956d62f964df4ee/i5heu/ublock-hide-yt-shorts"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=47015294",
-          "author": "minimalthinker",
-          "description": "Article URL: https://aimilios.bearblog.dev/reverse-engineering-sleep-mask/\nComments URL: https://news.ycombinator.com/item?id=47015294\nPoints: 512\n# Comments: 223",
-          "link": "https://aimilios.bearblog.dev/reverse-engineering-sleep-mask/",
-          "publishedOn": "2026-02-14T15:35:47.000Z",
-          "wordCount": 1542,
-          "title": "My smart sleep mask broadcasts users' brainwaves to an open MQTT broker",
-          "imageUrl": "https://bear-images.sfo2.cdn.digitaloceanspaces.com/herman-1683556668-0.png"
         }
       ]
     },
@@ -2321,16 +2321,6 @@
           "publishedOn": "2026-02-16T14:57:27.000Z",
           "wordCount": null,
           "title": "3 Mistakes That Kill Restaurant Businesses | Why 90% Don’t Survive Their First Year| Zorawar Kalra",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/shorts/yhBZ9WLVQy0",
-          "author": null,
-          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-          "link": "https://www.youtube.com/shorts/yhBZ9WLVQy0",
-          "publishedOn": "2026-02-14T14:31:00.000Z",
-          "wordCount": 2078,
-          "title": "India's Education can thrive if we do this!",
           "imageUrl": null
         }
       ]

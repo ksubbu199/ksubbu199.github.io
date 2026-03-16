@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-03-16T02:28:15.850Z</updated>
+    <updated>2026-03-16T05:15:12.997Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Canada's bill C-22 mandates mass metadata surveillance of Canadians]]></title>
+        <id>https://news.ycombinator.com/item?id=47392084</id>
+        <link href="https://www.michaelgeist.ca/2026/03/a-tale-of-two-bills-lawful-access-returns-with-changes-to-warrantless-access-but-dangerous-backdoor-surveillance-risks-remains/"/>
+        <updated>2026-03-15T21:22:16.000Z</updated>
+        <summary type="html"><![CDATA[https://www.parl.ca/DocumentViewer/en/45-1/bill/C-22/first-r...
+Comments URL: https://news.ycombinator.com/item?id=47392084
+Points: 519
+# Comments: 139]]></summary>
+        <author>
+            <name>opengrass</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ageless Linux – Software for humans of indeterminate age]]></title>
         <id>https://news.ycombinator.com/item?id=47381791</id>
@@ -3060,29 +3073,6 @@ Points: 588
 # Comments: 189]]></summary>
         <author>
             <name>i5heu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[My smart sleep mask broadcasts users' brainwaves to an open MQTT broker]]></title>
-        <id>https://news.ycombinator.com/item?id=47015294</id>
-        <link href="https://aimilios.bearblog.dev/reverse-engineering-sleep-mask/"/>
-        <updated>2026-02-14T15:35:47.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://aimilios.bearblog.dev/reverse-engineering-sleep-mask/
-Comments URL: https://news.ycombinator.com/item?id=47015294
-Points: 512
-# Comments: 223]]></summary>
-        <author>
-            <name>minimalthinker</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[India's Education can thrive if we do this!]]></title>
-        <id>https://www.youtube.com/shorts/yhBZ9WLVQy0</id>
-        <link href="https://www.youtube.com/shorts/yhBZ9WLVQy0"/>
-        <updated>2026-02-14T14:31:00.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Think School</name>
         </author>
     </entry>
 </feed>
