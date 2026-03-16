@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-03-16T07:17:50.942Z</updated>
+    <updated>2026-03-16T08:56:42.708Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -17,6 +17,19 @@ Points: 519
 # Comments: 139]]></summary>
         <author>
             <name>opengrass</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The 49MB web page]]></title>
+        <id>https://news.ycombinator.com/item?id=47390945</id>
+        <link href="https://thatshubham.com/blog/news-audit"/>
+        <updated>2026-03-15T19:25:18.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://thatshubham.com/blog/news-audit
+Comments URL: https://news.ycombinator.com/item?id=47390945
+Points: 514
+# Comments: 234]]></summary>
+        <author>
+            <name>kermatt</name>
         </author>
     </entry>
     <entry>
