@@ -1854,16 +1854,6 @@
           "wordCount": 771,
           "title": "Oat – Ultra-lightweight, zero dependency, semantic HTML, CSS, JS UI library",
           "imageUrl": "https://oat.ink/thumb.png"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=47020191",
-          "author": "panic",
-          "description": "Article URL: https://k7r.eu/i-love-the-work-of-the-archwiki-maintainers/\nComments URL: https://news.ycombinator.com/item?id=47020191\nPoints: 535\n# Comments: 98",
-          "link": "https://k7r.eu/i-love-the-work-of-the-archwiki-maintainers/",
-          "publishedOn": "2026-02-15T01:20:58.000Z",
-          "wordCount": 373,
-          "title": "I love the work of the ArchWiki maintainers",
-          "imageUrl": "https://k7r.eu/i-love-the-work-of-the-archwiki-maintainers/ilovefs-archwiki-reduced.jpg"
         }
       ]
     },
@@ -2053,6 +2043,16 @@
       "feedUrl": "https://martinfowler.com/feed.atom",
       "siteUrl": "https://martinfowler.com/feed.atom",
       "articles": [
+        {
+          "id": "https://martinfowler.com/fragments/2026-03-16.html",
+          "author": null,
+          "description": "Annie Vella did some research into how 158 professional software engineers used\nAI, her first question was:\nAre AI tools shifting where engineers actually spend their time and effort? Because if they are, they’re implicitly shifting what skills we practice and, ultimately, the definition of the role itself.\nShe found that participants saw a shift from creation-oriented tasks to verification-oriented tasks, but it was a different form of verification than reviewing and testing.\nIn my thesis, I propose a name for it: supervisory engineering work - the effort required to direct AI, evaluate its output, and correct it when it’s wrong.\nMany software folks think of inner and outer loops. The inner loop is writing code, testing, debugging. The outer loop is commit, review, CI/CD, deploy, observe.…",
+          "link": "https://martinfowler.com/fragments/2026-03-16.html",
+          "publishedOn": "2026-03-16T14:13:00.000Z",
+          "wordCount": 1467,
+          "title": "Fragments: March 16",
+          "imageUrl": "https://martinfowler.com/logo-sq.png"
+        },
         {
           "id": "https://martinfowler.com/fragments/2026-03-10.html",
           "author": null,
