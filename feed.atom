@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-03-16T16:12:34.313Z</updated>
+    <updated>2026-03-16T17:59:44.154Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -19,6 +19,32 @@ In my thesis, I propose a name for it: supervisory engineering work - the effort
 Many software folks think of inner and outer loops. The inner loop is writing code, testing, debugging. The outer loop is commit, review, CI/CD, deploy, observe.…]]></summary>
         <author>
             <name>Martin Fowler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Polymarket gamblers threaten to kill me over Iran missile story]]></title>
+        <id>https://news.ycombinator.com/item?id=47397822</id>
+        <link href="https://www.timesofisrael.com/gamblers-trying-to-win-a-bet-on-polymarket-are-vowing-to-kill-me-if-i-dont-rewrite-an-iran-missile-story/"/>
+        <updated>2026-03-16T12:00:06.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.timesofisrael.com/gamblers-trying-to-win-a-bet-on-polymarket-are-vowing-to-kill-me-if-i-dont-rewrite-an-iran-missile-story/
+Comments URL: https://news.ycombinator.com/item?id=47397822
+Points: 868
+# Comments: 534]]></summary>
+        <author>
+            <name>defly</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Corruption erodes social trust more in democracies than in autocracies]]></title>
+        <id>https://news.ycombinator.com/item?id=47397593</id>
+        <link href="https://www.frontiersin.org/journals/political-science/articles/10.3389/fpos.2026.1779810/full"/>
+        <updated>2026-03-16T11:25:31.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.frontiersin.org/journals/political-science/articles/10.3389/fpos.2026.1779810/full
+Comments URL: https://news.ycombinator.com/item?id=47397593
+Points: 532
+# Comments: 246]]></summary>
+        <author>
+            <name>PaulHoule</name>
         </author>
     </entry>
     <entry>
@@ -58,6 +84,32 @@ Points: 520
 # Comments: 209]]></summary>
         <author>
             <name>xnx</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stop Sloppypasta]]></title>
+        <id>https://news.ycombinator.com/item?id=47389570</id>
+        <link href="https://stopsloppypasta.ai/"/>
+        <updated>2026-03-15T17:25:00.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://stopsloppypasta.ai/
+Comments URL: https://news.ycombinator.com/item?id=47389570
+Points: 577
+# Comments: 227]]></summary>
+        <author>
+            <name>namnnumbr</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LLM Architecture Gallery]]></title>
+        <id>https://news.ycombinator.com/item?id=47388676</id>
+        <link href="https://sebastianraschka.com/llm-architecture-gallery/"/>
+        <updated>2026-03-15T16:01:09.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://sebastianraschka.com/llm-architecture-gallery/
+Comments URL: https://news.ycombinator.com/item?id=47388676
+Points: 534
+# Comments: 40]]></summary>
+        <author>
+            <name>tzury</name>
         </author>
     </entry>
     <entry>
