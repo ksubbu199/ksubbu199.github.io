@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-03-16T19:17:07.238Z</updated>
+    <updated>2026-03-16T20:38:45.344Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -3103,20 +3103,6 @@ Points: 520
 # Comments: 263]]></summary>
         <author>
             <name>deevus</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Oat – Ultra-lightweight, zero dependency, semantic HTML, CSS, JS UI library]]></title>
-        <id>https://news.ycombinator.com/item?id=47021980</id>
-        <link href="https://oat.ink/"/>
-        <updated>2026-02-15T08:17:05.000Z</updated>
-        <summary type="html"><![CDATA[https://github.com/knadh/oat
-Related: https://nadh.in/blog/javascript-ecosystem-software-developme...
-Comments URL: https://news.ycombinator.com/item?id=47021980
-Points: 500
-# Comments: 129]]></summary>
-        <author>
-            <name>twapi</name>
         </author>
     </entry>
 </feed>
