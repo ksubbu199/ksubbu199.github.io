@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=47410870",
+          "author": "doener",
+          "description": "Article URL: https://www.gadgetreview.com/reddit-user-uncovers-who-is-behind-metas-2b-lobbying-for-invasive-age-verification-tech\nComments URL: https://news.ycombinator.com/item?id=47410870\nPoints: 655\n# Comments: 277",
+          "link": "https://www.gadgetreview.com/reddit-user-uncovers-who-is-behind-metas-2b-lobbying-for-invasive-age-verification-tech",
+          "publishedOn": "2026-03-17T10:39:48.000Z",
+          "wordCount": 3667,
+          "title": "Reddit User Uncovers Who Is Behind Meta's $2B Lobbying for Age Verification Tech",
+          "imageUrl": "https://www.gadgetreview.com/wp-content/uploads/38-artapixel-meta-logo-icon-3d-social-media-scaled.jpg"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=47408703",
           "author": "smitec",
           "description": "Article URL: https://translate.kagi.com/?from=en&to=LinkedIn+speak\nComments URL: https://news.ycombinator.com/item?id=47408703\nPoints: 594\n# Comments: 155",
@@ -2093,6 +2103,16 @@
       "feedUrl": "https://martinfowler.com/feed.atom",
       "siteUrl": "https://martinfowler.com/feed.atom",
       "articles": [
+        {
+          "id": "https://martinfowler.com/articles/reduce-friction-ai/context-anchoring.html",
+          "author": null,
+          "description": "Conversations with AI are ephemeral, decisions made early lose\n      attention as the conversation continues, and disappear entirely with a new\n      session. Rahul Garg explains how Context\n      Anchoring externalizes the decision context into a living\n      document.\nmore…",
+          "link": "https://martinfowler.com/articles/reduce-friction-ai/context-anchoring.html",
+          "publishedOn": "2026-03-17T13:37:00.000Z",
+          "wordCount": 2656,
+          "title": "Context Anchoring",
+          "imageUrl": "https://martinfowler.com/logo-sq.png"
+        },
         {
           "id": "https://martinfowler.com/fragments/2026-03-16.html",
           "author": null,

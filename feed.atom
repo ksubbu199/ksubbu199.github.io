@@ -2,10 +2,38 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-03-17T13:12:12.267Z</updated>
+    <updated>2026-03-17T14:56:37.439Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Context Anchoring]]></title>
+        <id>https://martinfowler.com/articles/reduce-friction-ai/context-anchoring.html</id>
+        <link href="https://martinfowler.com/articles/reduce-friction-ai/context-anchoring.html"/>
+        <updated>2026-03-17T13:37:00.000Z</updated>
+        <summary type="html"><![CDATA[Conversations with AI are ephemeral, decisions made early lose
+      attention as the conversation continues, and disappear entirely with a new
+      session. Rahul Garg explains how Context
+      Anchoring externalizes the decision context into a living
+      document.
+more…]]></summary>
+        <author>
+            <name>Martin Fowler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Reddit User Uncovers Who Is Behind Meta's $2B Lobbying for Age Verification Tech]]></title>
+        <id>https://news.ycombinator.com/item?id=47410870</id>
+        <link href="https://www.gadgetreview.com/reddit-user-uncovers-who-is-behind-metas-2b-lobbying-for-invasive-age-verification-tech"/>
+        <updated>2026-03-17T10:39:48.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.gadgetreview.com/reddit-user-uncovers-who-is-behind-metas-2b-lobbying-for-invasive-age-verification-tech
+Comments URL: https://news.ycombinator.com/item?id=47410870
+Points: 655
+# Comments: 277]]></summary>
+        <author>
+            <name>doener</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Kagi Translate now supports LinkedIn Speak as an output language]]></title>
         <id>https://news.ycombinator.com/item?id=47408703</id>
