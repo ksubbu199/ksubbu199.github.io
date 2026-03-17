@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-03-17T08:54:16.797Z</updated>
+    <updated>2026-03-17T09:55:26.623Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -107,6 +107,19 @@ Points: 532
 # Comments: 246]]></summary>
         <author>
             <name>PaulHoule</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How I write software with LLMs]]></title>
+        <id>https://news.ycombinator.com/item?id=47394022</id>
+        <link href="https://www.stavros.io/posts/how-i-write-software-with-llms/"/>
+        <updated>2026-03-16T01:24:09.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.stavros.io/posts/how-i-write-software-with-llms/
+Comments URL: https://news.ycombinator.com/item?id=47394022
+Points: 500
+# Comments: 476]]></summary>
+        <author>
+            <name>indigodaddy</name>
         </author>
     </entry>
     <entry>
@@ -3100,19 +3113,6 @@ Points: 523
 # Comments: 365]]></summary>
         <author>
             <name>novemp</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I’m joining OpenAI]]></title>
-        <id>https://news.ycombinator.com/item?id=47028013</id>
-        <link href="https://steipete.me/posts/2026/openclaw"/>
-        <updated>2026-02-15T21:54:15.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://steipete.me/posts/2026/openclaw
-Comments URL: https://news.ycombinator.com/item?id=47028013
-Points: 521
-# Comments: 389]]></summary>
-        <author>
-            <name>mfiguiere</name>
         </author>
     </entry>
 </feed>
