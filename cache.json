@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=47406779",
+          "author": "djoldman",
+          "description": "Article URL: https://www.reuters.com/business/finance/us-sec-preparing-eliminate-quarterly-reporting-requirement-wsj-says-2026-03-16/\nComments URL: https://news.ycombinator.com/item?id=47406779\nPoints: 532\n# Comments: 284",
+          "link": "https://www.reuters.com/business/finance/us-sec-preparing-eliminate-quarterly-reporting-requirement-wsj-says-2026-03-16/",
+          "publishedOn": "2026-03-17T00:02:35.000Z",
+          "wordCount": null,
+          "title": "US SEC preparing to scrap quarterly reporting requirement",
+          "imageUrl": null
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=47402950",
           "author": "tartoran",
           "description": "Article URL: https://www.bbc.com/news/articles/c70n2x7p22do\nComments URL: https://news.ycombinator.com/item?id=47402950\nPoints: 631\n# Comments: 182",
@@ -1864,16 +1874,6 @@
           "wordCount": 2122,
           "title": "I’m joining OpenAI",
           "imageUrl": "https://steipete.me/posts/2026/openclaw/index.png"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=47025851",
-          "author": "eustoria",
-          "description": "Article URL: https://modern-css.com\nComments URL: https://news.ycombinator.com/item?id=47025851\nPoints: 520\n# Comments: 209",
-          "link": "https://modern-css.com/",
-          "publishedOn": "2026-02-15T18:04:10.000Z",
-          "wordCount": 6196,
-          "title": "Modern CSS Code Snippets: Stop writing CSS like it's 2015",
-          "imageUrl": "https://modern-css.com/apple-touch-icon.png"
         }
       ]
     },
