@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-03-18T02:11:27.195Z</updated>
+    <updated>2026-03-18T04:56:43.204Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[A Decade of Slug]]></title>
+        <id>https://news.ycombinator.com/item?id=47416736</id>
+        <link href="https://terathon.com/blog/decade-slug.html"/>
+        <updated>2026-03-17T18:59:50.000Z</updated>
+        <summary type="html"><![CDATA[https://web.archive.org/web/20260317185928/https://terathon....
+Comments URL: https://news.ycombinator.com/item?id=47416736
+Points: 505
+# Comments: 43]]></summary>
+        <author>
+            <name>mwkaufma</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Microsoft's 'unhackable' Xbox One has been hacked by 'Bliss']]></title>
         <id>https://news.ycombinator.com/item?id=47413876</id>
@@ -71,6 +84,19 @@ Points: 594
 # Comments: 155]]></summary>
         <author>
             <name>smitec</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Every layer of review makes you 10x slower]]></title>
+        <id>https://news.ycombinator.com/item?id=47408205</id>
+        <link href="https://apenwarr.ca/log/20260316"/>
+        <updated>2026-03-17T03:20:36.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://apenwarr.ca/log/20260316
+Comments URL: https://news.ycombinator.com/item?id=47408205
+Points: 512
+# Comments: 296]]></summary>
+        <author>
+            <name>greyface-</name>
         </author>
     </entry>
     <entry>
@@ -3193,19 +3219,6 @@ Points: 514
         <updated>2026-02-16T14:57:27.000Z</updated>
         <author>
             <name>Think School</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What your Bluetooth devices reveal]]></title>
-        <id>https://news.ycombinator.com/item?id=47035560</id>
-        <link href="https://blog.dmcc.io/journal/2026-bluetooth-privacy-bluehood/"/>
-        <updated>2026-02-16T14:39:32.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://blog.dmcc.io/journal/2026-bluetooth-privacy-bluehood/
-Comments URL: https://news.ycombinator.com/item?id=47035560
-Points: 504
-# Comments: 184]]></summary>
-        <author>
-            <name>ssgodderidge</name>
         </author>
     </entry>
 </feed>
