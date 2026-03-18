@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-03-18T13:12:38.120Z</updated>
+    <updated>2026-03-18T15:02:52.572Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -13,6 +13,19 @@
         <updated>2026-03-18T11:30:06.000Z</updated>
         <author>
             <name>Think School</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Have a fucking website]]></title>
+        <id>https://news.ycombinator.com/item?id=47421442</id>
+        <link href="https://www.otherstrangeness.com/2026/03/14/have-a-fucking-website/"/>
+        <updated>2026-03-18T03:53:42.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.otherstrangeness.com/2026/03/14/have-a-fucking-website/
+Comments URL: https://news.ycombinator.com/item?id=47421442
+Points: 663
+# Comments: 373]]></summary>
+        <author>
+            <name>asukachikaru</name>
         </author>
     </entry>
     <entry>
@@ -3206,19 +3219,6 @@ Points: 599
 # Comments: 384]]></summary>
         <author>
             <name>to3k</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dark web agent spotted bedroom wall clue to rescue girl from abuse]]></title>
-        <id>https://news.ycombinator.com/item?id=47042396</id>
-        <link href="https://www.bbc.com/news/articles/cx2gn239exlo"/>
-        <updated>2026-02-17T01:01:00.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.bbc.com/news/articles/cx2gn239exlo
-Comments URL: https://news.ycombinator.com/item?id=47042396
-Points: 516
-# Comments: 287]]></summary>
-        <author>
-            <name>colinprince</name>
         </author>
     </entry>
 </feed>
