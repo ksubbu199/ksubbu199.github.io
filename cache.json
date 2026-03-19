@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=47438723",
+          "author": "ibraheemdev",
+          "description": "https://openai.com/index/openai-to-acquire-astral/\nComments URL: https://news.ycombinator.com/item?id=47438723\nPoints: 687\n# Comments: 439",
+          "link": "https://astral.sh/blog/openai",
+          "publishedOn": "2026-03-19T13:05:50.000Z",
+          "wordCount": 1306,
+          "title": "Astral to Join OpenAI",
+          "imageUrl": "https://astral.sh/static/OpenGraph/Astral.jpg"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=47436950",
           "author": "antonymoose",
           "description": "Article URL: https://nypost.com/2026/03/18/us-news/afroman-found-not-liable-in-bizarre-ohio-defamation-case/\nComments URL: https://news.ycombinator.com/item?id=47436950\nPoints: 565\n# Comments: 194",
@@ -2123,6 +2133,16 @@
       "feedUrl": "https://martinfowler.com/feed.atom",
       "siteUrl": "https://martinfowler.com/feed.atom",
       "articles": [
+        {
+          "id": "https://martinfowler.com/fragments/2026-03-19.html",
+          "author": null,
+          "description": "David Poll points out the flawed premise of the argument that code review is a bottleneck\nTo be fair, finding defects has always been listed as a goal of code review – Wikipedia will tell you as much. And sure, reviewers do catch bugs. But I think that framing dramatically overstates the bug-catching role and understates everything else code review does. If your review process is primarily a bug-finding mechanism, you’re leaving most of the value on the table.\nCode review answers: “Should this be part of my product?”\nThat’s close to how I think about it. I think of code review as primarily about keeping the code base healthy. And although many people think of code review as pre-integration review done on pull requests, I look at code review as a broader activity both done earlier (Pair Pro…",
+          "link": "https://martinfowler.com/fragments/2026-03-19.html",
+          "publishedOn": "2026-03-19T15:57:00.000Z",
+          "wordCount": 1242,
+          "title": "Fragments: March 19",
+          "imageUrl": "https://martinfowler.com/logo-sq.png"
+        },
         {
           "id": "https://martinfowler.com/articles/reduce-friction-ai/context-anchoring.html",
           "author": null,

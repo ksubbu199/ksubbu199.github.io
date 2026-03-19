@@ -2,10 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-03-19T15:54:33.976Z</updated>
+    <updated>2026-03-19T16:58:08.096Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Fragments: March 19]]></title>
+        <id>https://martinfowler.com/fragments/2026-03-19.html</id>
+        <link href="https://martinfowler.com/fragments/2026-03-19.html"/>
+        <updated>2026-03-19T15:57:00.000Z</updated>
+        <summary type="html"><![CDATA[David Poll points out the flawed premise of the argument that code review is a bottleneck
+To be fair, finding defects has always been listed as a goal of code review – Wikipedia will tell you as much. And sure, reviewers do catch bugs. But I think that framing dramatically overstates the bug-catching role and understates everything else code review does. If your review process is primarily a bug-finding mechanism, you’re leaving most of the value on the table.
+Code review answers: “Should this be part of my product?”
+That’s close to how I think about it. I think of code review as primarily about keeping the code base healthy. And although many people think of code review as pre-integration review done on pull requests, I look at code review as a broader activity both done earlier (Pair Pro…]]></summary>
+        <author>
+            <name>Martin Fowler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Astral to Join OpenAI]]></title>
+        <id>https://news.ycombinator.com/item?id=47438723</id>
+        <link href="https://astral.sh/blog/openai"/>
+        <updated>2026-03-19T13:05:50.000Z</updated>
+        <summary type="html"><![CDATA[https://openai.com/index/openai-to-acquire-astral/
+Comments URL: https://news.ycombinator.com/item?id=47438723
+Points: 687
+# Comments: 439]]></summary>
+        <author>
+            <name>ibraheemdev</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Afroman found not liable in defamation case brought by Ohio cops who raided home]]></title>
         <id>https://news.ycombinator.com/item?id=47436950</id>
