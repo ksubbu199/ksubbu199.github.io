@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-03-19T13:05:21.141Z</updated>
+    <updated>2026-03-19T14:48:47.421Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Afroman found not liable in defamation case brought by Ohio cops who raided home]]></title>
+        <id>https://news.ycombinator.com/item?id=47436950</id>
+        <link href="https://nypost.com/2026/03/18/us-news/afroman-found-not-liable-in-bizarre-ohio-defamation-case/"/>
+        <updated>2026-03-19T09:51:56.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://nypost.com/2026/03/18/us-news/afroman-found-not-liable-in-bizarre-ohio-defamation-case/
+Comments URL: https://news.ycombinator.com/item?id=47436950
+Points: 565
+# Comments: 194]]></summary>
+        <author>
+            <name>antonymoose</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Austin’s surge of new housing construction drove down rents]]></title>
         <id>https://news.ycombinator.com/item?id=47433058</id>
@@ -3099,32 +3112,6 @@ Points: 537
 # Comments: 219]]></summary>
         <author>
             <name>cheeaun</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Halt and Catch Fire: TV’s best drama you’ve probably never heard of (2021)]]></title>
-        <id>https://news.ycombinator.com/item?id=47056314</id>
-        <link href="https://www.sceneandheardnu.com/content/halt-and-catch-fire"/>
-        <updated>2026-02-18T02:18:29.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.sceneandheardnu.com/content/halt-and-catch-fire
-Comments URL: https://news.ycombinator.com/item?id=47056314
-Points: 562
-# Comments: 300]]></summary>
-        <author>
-            <name>walterbell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Thousands of CEOs just admitted AI had no impact on employment or productivity]]></title>
-        <id>https://news.ycombinator.com/item?id=47055979</id>
-        <link href="https://fortune.com/2026/02/17/ai-productivity-paradox-ceo-study-robert-solow-information-technology-age/"/>
-        <updated>2026-02-18T01:40:52.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://fortune.com/2026/02/17/ai-productivity-paradox-ceo-study-robert-solow-information-technology-age/
-Comments URL: https://news.ycombinator.com/item?id=47055979
-Points: 524
-# Comments: 426]]></summary>
-        <author>
-            <name>virgildotcodes</name>
         </author>
     </entry>
 </feed>
