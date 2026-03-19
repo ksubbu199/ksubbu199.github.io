@@ -16,6 +16,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://news.ycombinator.com/item?id=47422942",
+          "author": "rzzzzru",
+          "description": "Article URL: https://nightingale.cafe/\nComments URL: https://news.ycombinator.com/item?id=47422942\nPoints: 530\n# Comments: 151",
+          "link": "https://nightingale.cafe/",
+          "publishedOn": "2026-03-18T08:06:24.000Z",
+          "wordCount": 375,
+          "title": "Nightingale – open-source karaoke app that works with any song on your computer",
+          "imageUrl": "https://nightingale.cafe/og-image.png"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=47421442",
           "author": "asukachikaru",
           "description": "Article URL: https://www.otherstrangeness.com/2026/03/14/have-a-fucking-website/\nComments URL: https://news.ycombinator.com/item?id=47421442\nPoints: 663\n# Comments: 373",
@@ -1934,16 +1944,6 @@
           "wordCount": 4804,
           "title": "Thank HN: You helped save 33k lives",
           "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=47049426",
-          "author": "theahura",
-          "description": "Article URL: https://www.nbcnews.com/business/media/stephen-colbert-cbs-james-talarico-fcc-rcna259341\nComments URL: https://news.ycombinator.com/item?id=47049426\nPoints: 501\n# Comments: 232",
-          "link": "https://www.nbcnews.com/business/media/stephen-colbert-cbs-james-talarico-fcc-rcna259341",
-          "publishedOn": "2026-02-17T16:37:41.000Z",
-          "wordCount": 12684,
-          "title": "CBS didn't air Rep. James Talarico interview out of fear of FCC",
-          "imageUrl": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-02/260217-colbert-show-unaired-gk-3cd4c9.jpg"
         }
       ]
     },
@@ -2262,26 +2262,6 @@
           "wordCount": 1552,
           "title": "Fragments: February 18",
           "imageUrl": "https://martinfowler.com/logo-sq.png"
-        },
-        {
-          "id": "https://martinfowler.com/bliki/AgenticEmail.html",
-          "author": null,
-          "description": "I've heard a number of reports recently about people setting up LLM agents\n  to work on their email and other communications. The LLM has access to the\n  user's email account, reads all the emails, decides which emails to ignore,\n  drafts some emails for the user to approve, and replies to some emails\n  autonomously. It can also hook into a calendar, confirming, arranging, or\n  denying meetings.\nThis is a very appealing prospect. Like most folks I know, the barrage of\n  emails is a vexing toad squatting on my life, constantly diverting me from\n  interesting work. More communication tools - slack, discord, chat servers -\n  only make this worse. There's lots of scope for an intelligent, agentic,\n  assistant to make much of this toil go away.\nBut there's something deeply scary about doing thi…",
-          "link": "https://martinfowler.com/bliki/AgenticEmail.html",
-          "publishedOn": "2026-02-17T15:39:00.000Z",
-          "wordCount": 652,
-          "title": "Bliki: Agentic Email",
-          "imageUrl": "https://martinfowler.com/logo-sq.png"
-        },
-        {
-          "id": "https://martinfowler.com/articles/exploring-gen-ai/harness-engineering.html",
-          "author": null,
-          "description": "Birgitta Böckeler explains why OpenAI's recent write-up on\n      Harness Engineering is a valuable framing of a key activity in\n      AI-enabled software development. The harness includes context engineering,\n      architectural constraints, and garbage collection of the code base. It's a\n      serious activity: OpenAI took five months to build their harness.\nmore…",
-          "link": "https://martinfowler.com/articles/exploring-gen-ai/harness-engineering.html",
-          "publishedOn": "2026-02-17T13:33:00.000Z",
-          "wordCount": 1236,
-          "title": "Harness Engineering",
-          "imageUrl": "https://martinfowler.com/articles/exploring-gen-ai/donkey-card.png"
         }
       ]
     },

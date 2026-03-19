@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-03-18T23:30:29.842Z</updated>
+    <updated>2026-03-19T04:53:57.575Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -26,6 +26,19 @@ Points: 555
 # Comments: 306]]></summary>
         <author>
             <name>vismit2000</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nightingale – open-source karaoke app that works with any song on your computer]]></title>
+        <id>https://news.ycombinator.com/item?id=47422942</id>
+        <link href="https://nightingale.cafe/"/>
+        <updated>2026-03-18T08:06:24.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://nightingale.cafe/
+Comments URL: https://news.ycombinator.com/item?id=47422942
+Points: 530
+# Comments: 151]]></summary>
+        <author>
+            <name>rzzzzru</name>
         </author>
     </entry>
     <entry>
@@ -3157,55 +3170,6 @@ I was a young, naive founder with just enough experience to know I wanted Watsi 
 Over the years we learned that product/market fit is different for nonprofits. Not many people wake up and think, "I'd love to donate to a nonprofit today" with the same oomph that they think, "I'd love a coffee" or "I'd like t…]]></summary>
         <author>
             <name>chaseadam17</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CBS didn't air Rep. James Talarico interview out of fear of FCC]]></title>
-        <id>https://news.ycombinator.com/item?id=47049426</id>
-        <link href="https://www.nbcnews.com/business/media/stephen-colbert-cbs-james-talarico-fcc-rcna259341"/>
-        <updated>2026-02-17T16:37:41.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.nbcnews.com/business/media/stephen-colbert-cbs-james-talarico-fcc-rcna259341
-Comments URL: https://news.ycombinator.com/item?id=47049426
-Points: 501
-# Comments: 232]]></summary>
-        <author>
-            <name>theahura</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bliki: Agentic Email]]></title>
-        <id>https://martinfowler.com/bliki/AgenticEmail.html</id>
-        <link href="https://martinfowler.com/bliki/AgenticEmail.html"/>
-        <updated>2026-02-17T15:39:00.000Z</updated>
-        <summary type="html"><![CDATA[I've heard a number of reports recently about people setting up LLM agents
-  to work on their email and other communications. The LLM has access to the
-  user's email account, reads all the emails, decides which emails to ignore,
-  drafts some emails for the user to approve, and replies to some emails
-  autonomously. It can also hook into a calendar, confirming, arranging, or
-  denying meetings.
-This is a very appealing prospect. Like most folks I know, the barrage of
-  emails is a vexing toad squatting on my life, constantly diverting me from
-  interesting work. More communication tools - slack, discord, chat servers -
-  only make this worse. There's lots of scope for an intelligent, agentic,
-  assistant to make much of this toil go away.
-But there's something deeply scary about doing thi…]]></summary>
-        <author>
-            <name>Martin Fowler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Harness Engineering]]></title>
-        <id>https://martinfowler.com/articles/exploring-gen-ai/harness-engineering.html</id>
-        <link href="https://martinfowler.com/articles/exploring-gen-ai/harness-engineering.html"/>
-        <updated>2026-02-17T13:33:00.000Z</updated>
-        <summary type="html"><![CDATA[Birgitta Böckeler explains why OpenAI's recent write-up on
-      Harness Engineering is a valuable framing of a key activity in
-      AI-enabled software development. The harness includes context engineering,
-      architectural constraints, and garbage collection of the code base. It's a
-      serious activity: OpenAI took five months to build their harness.
-more…]]></summary>
-        <author>
-            <name>Martin Fowler</name>
         </author>
     </entry>
 </feed>
