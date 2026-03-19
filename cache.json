@@ -2115,16 +2115,6 @@
           "wordCount": 874,
           "title": "Examples for the tcpdump and dig man pages",
           "imageUrl": null
-        },
-        {
-          "id": "https://jvns.ca/blog/2026/02/18/man-pages/",
-          "author": null,
-          "description": "Hello! After spending some time working on the Git man pages last year,\nI’ve been thinking a little more about what makes a good man page.\nI’ve spent a lot of time writing cheat sheets for tools (tcpdump, git, dig, etc)\nwhich have a man page as their primary documentation. This is because I often\nfind the man pages hard to navigate to get the information I want.\nLately I’ve wondering – could the man page itself have an amazing cheat sheet\nin it? What might make a man page easier to use?\nI’m still very early in thinking about this but I wanted to write down some quick notes.\nI asked some people on Mastodon for their favourite man pages, and here\nare some examples of interesting things I saw on those man pages.\nan OPTIONS SUMMARY\nIf you’ve read a lot of man pages you’ve probably seen somethi…",
-          "link": "https://jvns.ca/blog/2026/02/18/man-pages/",
-          "publishedOn": "2026-02-18T00:00:00.000Z",
-          "wordCount": 1517,
-          "title": "Notes on clarifying man pages",
-          "imageUrl": null
         }
       ]
     },
