@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-03-20T12:59:33.257Z</updated>
+    <updated>2026-03-20T14:04:47.724Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -125,6 +125,16 @@ Points: 502
 # Comments: 575]]></summary>
         <author>
             <name>matthest</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Boot.dev's New Logo Unveiled]]></title>
+        <id>https://boot.dev/blog/news/new-bootdev-logos/</id>
+        <link href="https://boot.dev/blog/news/new-bootdev-logos/"/>
+        <updated>2026-03-19T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[We created our old blue/black/gray logo years ago before we redsigned the site to its new gold/brown/blue textured look and feel. As such, the old logo just doesn’t fit at all with the current state of the brand (as much as we loved it). So, we decided to work with an incredible designer (thanks Dusan!) to create a new logo that really captures what Boot.dev has become over the years.]]></summary>
+        <author>
+            <name>Boot.dev Blog</name>
         </author>
     </entry>
     <entry>
