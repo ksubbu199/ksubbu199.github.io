@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-03-20T02:05:32.812Z</updated>
+    <updated>2026-03-20T04:46:43.759Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -3124,21 +3124,6 @@ Points: 505
 # Comments: 264]]></summary>
         <author>
             <name>zdw</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fragments: February 18]]></title>
-        <id>https://martinfowler.com/fragments/2026-02-18.html</id>
-        <link href="https://martinfowler.com/fragments/2026-02-18.html"/>
-        <updated>2026-02-18T15:53:00.000Z</updated>
-        <summary type="html"><![CDATA[I’ll start with some more tidbits from the Thoughtworks Future of Software Development Retreat
- ❄                ❄
-We were tired after the event, but our marketing folks forced Rachel Laycock and I to do a quick video. We’re often asked if this event was about creating some kind of new manifesto for AI-enabled development, akin to the Agile Manifesto (which is now 25 years old). In short, our answer is “no”, but for the full answer, watch our video
- ❄                ❄
-My colleagues put together a detailed summary of thoughts from the event, in a 17 page PDF. It breaks the discussion down into eight major themes, including “Where does the rigor go?”, “The middle loop: a new category of work”, “Technical foundations: languages, semantics and
-operating systems”, and “The human side: roles, sk…]]></summary>
-        <author>
-            <name>Martin Fowler</name>
         </author>
     </entry>
 </feed>
