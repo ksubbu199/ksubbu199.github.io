@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-03-19T23:30:01.932Z</updated>
+    <updated>2026-03-20T02:05:32.812Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Google details new 24-hour process to sideload unverified Android apps]]></title>
+        <id>https://news.ycombinator.com/item?id=47442690</id>
+        <link href="https://arstechnica.com/gadgets/2026/03/google-details-new-24-hour-process-to-sideload-unverified-android-apps/"/>
+        <updated>2026-03-19T17:16:04.000Z</updated>
+        <summary type="html"><![CDATA[https://android-developers.googleblog.com/2026/03/android-de...
+Comments URL: https://news.ycombinator.com/item?id=47442690
+Points: 510
+# Comments: 601]]></summary>
+        <author>
+            <name>0xedb</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Fragments: March 19]]></title>
         <id>https://martinfowler.com/fragments/2026-03-19.html</id>
@@ -3126,19 +3139,6 @@ My colleagues put together a detailed summary of thoughts from the event, in a 1
 operating systems”, and “The human side: roles, sk…]]></summary>
         <author>
             <name>Martin Fowler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mark Zuckerberg Lied to Congress. We Can't Trust His Testimony]]></title>
-        <id>https://news.ycombinator.com/item?id=47060486</id>
-        <link href="https://dispatch.techoversight.org/top-report-mark-zuckerberg-lied-to-congress-we-cant-trust-his-testimony/"/>
-        <updated>2026-02-18T13:00:11.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://dispatch.techoversight.org/top-report-mark-zuckerberg-lied-to-congress-we-cant-trust-his-testimony/
-Comments URL: https://news.ycombinator.com/item?id=47060486
-Points: 506
-# Comments: 307]]></summary>
-        <author>
-            <name>speckx</name>
         </author>
     </entry>
 </feed>
