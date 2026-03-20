@@ -36,6 +36,16 @@
           "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/developer-identity-hero-1152x648.jpg"
         },
         {
+          "id": "https://news.ycombinator.com/item?id=47441546",
+          "author": "rohan_joshi",
+          "description": "Kitten TTS (https://github.com/KittenML/KittenTTS) is an open-source series of tiny and expressive text-to-speech models for on-device applications. We had a thread last year here: https://news.ycombinator.com/item?id=44807868.\nToday we're releasing three new models with 80M, 40M and 14M parameters.\nThe largest model (80M) has the highest quality. The 14M variant reaches new SOTA in expressivity among similar sized models, despite being https://www.youtube.com/watch?v=ge3u5qblqZA.\nMost models are quantized to int8 + fp16, and they use ONNX for runtime. Our models are designed to run anywhere eg. raspberry pi, low-end smartphones, wearables, browsers etc. No GPU required! This release aims to bridge the gap between on-device and cloud models for tts applications. Multi-lingual model release is coming soon.\nOn-device AI is bottlenecked by one thing: a lack of tiny models that actually perform. Our goal is to open-source more models to run production-ready voice agents and apps entirely on-device.\nWe would love your feedback!\nComments URL: https://news.ycombinator.com/item?id=47441546\nPoints: 505\n# Comments: 168",
+          "link": "https://github.com/KittenML/KittenTTS",
+          "publishedOn": "2026-03-19T15:56:06.000Z",
+          "wordCount": 4265,
+          "title": "Show HN: Three new Kitten TTS models – smallest less than 25MB",
+          "imageUrl": "https://opengraph.githubassets.com/f26ff5de6de33ea9cf3c0ded5f52a2869f287c4593453d5d1eb422dfdef227b2/KittenML/KittenTTS"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=47438723",
           "author": "ibraheemdev",
           "description": "https://openai.com/index/openai-to-acquire-astral/\nComments URL: https://news.ycombinator.com/item?id=47438723\nPoints: 687\n# Comments: 439",
