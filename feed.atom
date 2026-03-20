@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-03-20T08:41:00.924Z</updated>
+    <updated>2026-03-20T09:41:16.665Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -109,6 +109,19 @@ Points: 501
 # Comments: 305]]></summary>
         <author>
             <name>Stwerner</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FBI is buying location data to track US citizens, director confirms]]></title>
+        <id>https://news.ycombinator.com/item?id=47430797</id>
+        <link href="https://techcrunch.com/2026/03/18/fbi-is-buying-location-data-to-track-us-citizens-kash-patel-wyden/"/>
+        <updated>2026-03-18T20:09:52.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://techcrunch.com/2026/03/18/fbi-is-buying-location-data-to-track-us-citizens-kash-patel-wyden/
+Comments URL: https://news.ycombinator.com/item?id=47430797
+Points: 500
+# Comments: 181]]></summary>
+        <author>
+            <name>jbegley</name>
         </author>
     </entry>
     <entry>
@@ -3124,19 +3137,6 @@ Points: 516
 # Comments: 623]]></summary>
         <author>
             <name>theahura</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sizing chaos]]></title>
-        <id>https://news.ycombinator.com/item?id=47066552</id>
-        <link href="https://pudding.cool/2026/02/womens-sizing/"/>
-        <updated>2026-02-18T21:18:20.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://pudding.cool/2026/02/womens-sizing/
-Comments URL: https://news.ycombinator.com/item?id=47066552
-Points: 505
-# Comments: 264]]></summary>
-        <author>
-            <name>zdw</name>
         </author>
     </entry>
 </feed>
