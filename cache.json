@@ -6,6 +6,26 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=47454341",
+          "author": "coinfused",
+          "description": "Article URL: https://shkspr.mobi/blog/2026/03/im-ok-being-left-behind-thanks/\nComments URL: https://news.ycombinator.com/item?id=47454341\nPoints: 528\n# Comments: 380",
+          "link": "https://shkspr.mobi/blog/2026/03/im-ok-being-left-behind-thanks/",
+          "publishedOn": "2026-03-20T13:38:56.000Z",
+          "wordCount": null,
+          "title": "I'm OK being left behind, thanks",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=47450478",
+          "author": "bookstore-romeo",
+          "description": "Article URL: https://www.science.org/content/article/arxiv-pioneering-preprint-server-declares-independence-cornell\nComments URL: https://news.ycombinator.com/item?id=47450478\nPoints: 542\n# Comments: 184",
+          "link": "https://www.science.org/content/article/arxiv-pioneering-preprint-server-declares-independence-cornell",
+          "publishedOn": "2026-03-20T04:24:11.000Z",
+          "wordCount": null,
+          "title": "ArXiv declares independence from Cornell",
+          "imageUrl": null
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=47442690",
           "author": "0xedb",
           "description": "https://android-developers.googleblog.com/2026/03/android-de...\nComments URL: https://news.ycombinator.com/item?id=47442690\nPoints: 510\n# Comments: 601",
@@ -1934,16 +1954,6 @@
           "wordCount": 4469,
           "title": "Gemini 3.1 Pro",
           "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-3.1_pro_meta_dark.width-1300.png"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=47069299",
-          "author": "theahura",
-          "description": "Article URL: https://code.claude.com/docs/en/legal-and-compliance\nComments URL: https://news.ycombinator.com/item?id=47069299\nPoints: 516\n# Comments: 623",
-          "link": "https://code.claude.com/docs/en/legal-and-compliance",
-          "publishedOn": "2026-02-19T02:52:26.000Z",
-          "wordCount": 426,
-          "title": "Anthropic officially bans using subscription auth for third party use",
-          "imageUrl": null
         }
       ]
     },
@@ -2293,6 +2303,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKZozRVHRYsYHGEyNKuhhdA",
       "siteUrl": "https://www.youtube.com/channel/UCKZozRVHRYsYHGEyNKuhhdA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/shorts/M17OjKVj_as",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/M17OjKVj_as",
+          "publishedOn": "2026-03-20T15:13:58.000Z",
+          "wordCount": 2132,
+          "title": "How BILLIONAIRES Save Taxes!",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/shorts/DqSPjk3FzjQ",
           "author": null,
