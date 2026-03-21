@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-03-21T07:32:49.533Z</updated>
+    <updated>2026-03-21T08:33:44.005Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -17,6 +17,19 @@ Points: 533
 # Comments: 240]]></summary>
         <author>
             <name>rbanffy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Our commitment to Windows quality]]></title>
+        <id>https://news.ycombinator.com/item?id=47459296</id>
+        <link href="https://blogs.windows.com/windows-insider/2026/03/20/our-commitment-to-windows-quality/"/>
+        <updated>2026-03-20T19:16:13.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://blogs.windows.com/windows-insider/2026/03/20/our-commitment-to-windows-quality/
+Comments URL: https://news.ycombinator.com/item?id=47459296
+Points: 509
+# Comments: 916]]></summary>
+        <author>
+            <name>hadrien01</name>
         </author>
     </entry>
     <entry>
@@ -3152,19 +3165,6 @@ Points: 502
 # Comments: 512]]></summary>
         <author>
             <name>mitchbob</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI is not a coworker, it's an exoskeleton]]></title>
-        <id>https://news.ycombinator.com/item?id=47078324</id>
-        <link href="https://www.kasava.dev/blog/ai-as-exoskeleton"/>
-        <updated>2026-02-19T19:55:11.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.kasava.dev/blog/ai-as-exoskeleton
-Comments URL: https://news.ycombinator.com/item?id=47078324
-Points: 501
-# Comments: 548]]></summary>
-        <author>
-            <name>benbeingbin</name>
         </author>
     </entry>
 </feed>
