@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-03-21T02:00:11.610Z</updated>
+    <updated>2026-03-21T04:10:47.792Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[OpenCode – Open source AI coding agent]]></title>
+        <id>https://news.ycombinator.com/item?id=47460525</id>
+        <link href="https://opencode.ai/"/>
+        <updated>2026-03-20T21:03:52.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://opencode.ai/
+Comments URL: https://news.ycombinator.com/item?id=47460525
+Points: 533
+# Comments: 240]]></summary>
+        <author>
+            <name>rbanffy</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How BILLIONAIRES Save Taxes!]]></title>
         <id>https://www.youtube.com/shorts/M17OjKVj_as</id>
@@ -3165,54 +3178,6 @@ Points: 559
 # Comments: 382]]></summary>
         <author>
             <name>PunchTornado</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: Micasa – track your house from the terminal]]></title>
-        <id>https://news.ycombinator.com/item?id=47075124</id>
-        <link href="https://micasa.dev/"/>
-        <updated>2026-02-19T15:54:14.000Z</updated>
-        <summary type="html"><![CDATA[micasa is a terminal UI that helps you track home stuff, in a single SQLite file. No cloud, no
-account, no subscription. Backup with cp.
-I built it because I was tired of losing track of everything in notes apps, and "I'll remember
-that"s. When do I need to clean the dishwasher filter? What's the best quote for a complete
-overhaul of the backyard. Oops, found some mold behind the trim, need to address that ASAP. That
-sort of stuff.
-Another reason I made micasa was to build a (hopefully useful) low-stakes personal project where
-the code was written entirely by AI. I still review the code and click the merge button, but 99%
-of the programming was done with an agent.
-Here are some things I think make it worth checking out:
-- Vim-style modal UI. Nav mode to browse, edit mode to change. Multico…]]></summary>
-        <author>
-            <name>cpcloud</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gemini 3.1 Pro]]></title>
-        <id>https://news.ycombinator.com/item?id=47074735</id>
-        <link href="https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-pro/"/>
-        <updated>2026-02-19T15:19:57.000Z</updated>
-        <summary type="html"><![CDATA[Preview: https://console.cloud.google.com/vertex-ai/publishers/google...
-Card: https://deepmind.google/models/model-cards/gemini-3-1-pro/
-Comments URL: https://news.ycombinator.com/item?id=47074735
-Points: 528
-# Comments: 696]]></summary>
-        <author>
-            <name>MallocVoidstar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fragments: February 19]]></title>
-        <id>https://martinfowler.com/fragments/2026-02-19.html</id>
-        <link href="https://martinfowler.com/fragments/2026-02-19.html"/>
-        <updated>2026-02-19T14:42:00.000Z</updated>
-        <summary type="html"><![CDATA[I try to limit my time on stage these days, but one exception this year is at DDD Europe. I’ve been involved in Domain-Driven Design, since its very earliest days, having the good fortune to be a sounding board for Eric Evans when he wrote his seminal book. It’ll be fun to be around the folks who continue to develop these ideas, which I think will probably be even more important in the AI-enabled age.
- ❄                ❄                ❄                ❄                ❄
-One of the dark sides of LLMs is that they can be both addictive and tiring to work with, which may mean we have to find a way to put a deliberate governor on our work.
-Steve Yegge posted a fine rant:
-I see these frenzied AI-native startups as an army of a million hopeful prolecats, each with an invisible vampiric imp perc…]]></summary>
-        <author>
-            <name>Martin Fowler</name>
         </author>
     </entry>
 </feed>
