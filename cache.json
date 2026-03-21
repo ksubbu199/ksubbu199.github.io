@@ -1990,6 +1990,56 @@
       "siteUrl": "https://boot.dev/blog/",
       "articles": [
         {
+          "id": "https://boot.dev/blog/python/python-clean-code/",
+          "author": null,
+          "description": "If you ask ten developers for a definition of clean code, you will get twelve answers and one argument in the comments. Still, most of us agree on the practical goal: write code that other humans can understand quickly and change safely. That matters way more than writing clever one-liners that only make sense to your past self at 2 AM.",
+          "link": "https://boot.dev/blog/python/python-clean-code/",
+          "publishedOn": "2026-03-20T00:00:00.000Z",
+          "wordCount": 1717,
+          "title": "Clean Code in Python: Write Readable, Maintainable Code",
+          "imageUrl": "https://boot.dev/img/featured/python-clean-code-write-readable-maintainable-code.webp"
+        },
+        {
+          "id": "https://boot.dev/blog/python/python-classes-and-objects/",
+          "author": null,
+          "description": "If classes and objects still feel slippery, you’re not crazy. Most tutorials either go too abstract or drown you in weird examples. The practical way to learn OOP is simple: understand how data and behavior stick together, then build small objects that are easy to reason about.",
+          "link": "https://boot.dev/blog/python/python-classes-and-objects/",
+          "publishedOn": "2026-03-20T00:00:00.000Z",
+          "wordCount": 1653,
+          "title": "Python Classes and Objects: A Practical Beginner Guide",
+          "imageUrl": "https://boot.dev/img/featured/python-classes-and-objects-a-practical-beginner-guide.webp"
+        },
+        {
+          "id": "https://boot.dev/blog/python/python-encapsulation-vs-abstraction/",
+          "author": null,
+          "description": "If classes and objects are the “what” of OOP, encapsulation and abstraction are the “how.” They’re how you keep code understandable after the project gets big, your team grows, and six months pass. They sound similar because they’re close cousins, but they solve slightly different pains.",
+          "link": "https://boot.dev/blog/python/python-encapsulation-vs-abstraction/",
+          "publishedOn": "2026-03-20T00:00:00.000Z",
+          "wordCount": 1555,
+          "title": "Python Encapsulation vs Abstraction: What Matters",
+          "imageUrl": "https://boot.dev/img/featured/python-encapsulation-vs-abstraction-what-matters.webp"
+        },
+        {
+          "id": "https://boot.dev/blog/python/python-inheritance/",
+          "author": null,
+          "description": "Inheritance is one of those OOP tools that feels magical on day one and dangerous on day thirty. Used well, it removes duplication and keeps models clean. Used badly, it creates class trees no one wants to touch.",
+          "link": "https://boot.dev/blog/python/python-inheritance/",
+          "publishedOn": "2026-03-20T00:00:00.000Z",
+          "wordCount": 1553,
+          "title": "Python Inheritance: When to Use It and Skip It",
+          "imageUrl": "https://boot.dev/img/featured/python-inheritance-when-to-use-it-and-skip-it.webp"
+        },
+        {
+          "id": "https://boot.dev/blog/python/python-polymorphism/",
+          "author": null,
+          "description": "Polymorphism is where OOP starts to feel truly powerful. You stop writing giant if type == ... trees and start trusting shared interfaces. Different objects respond to the same method call in different ways, and your calling code stays clean.",
+          "link": "https://boot.dev/blog/python/python-polymorphism/",
+          "publishedOn": "2026-03-20T00:00:00.000Z",
+          "wordCount": 1621,
+          "title": "Python Polymorphism: One Interface, Many Behaviors",
+          "imageUrl": "https://boot.dev/img/featured/python-polymorphism-one-interface-many-behaviors.webp"
+        },
+        {
           "id": "https://boot.dev/blog/news/new-bootdev-logos/",
           "author": null,
           "description": "We created our old blue/black/gray logo years ago before we redsigned the site to its new gold/brown/blue textured look and feel. As such, the old logo just doesn’t fit at all with the current state of the brand (as much as we loved it). So, we decided to work with an incredible designer (thanks Dusan!) to create a new logo that really captures what Boot.dev has become over the years.",
@@ -2283,6 +2333,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKZozRVHRYsYHGEyNKuhhdA",
       "siteUrl": "https://www.youtube.com/channel/UCKZozRVHRYsYHGEyNKuhhdA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=EaJFv8v0tQg",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=EaJFv8v0tQg",
+          "publishedOn": "2026-03-21T13:00:52.000Z",
+          "wordCount": null,
+          "title": "The Rise of INFOSYS: How Narayana Murthy Turned ₹10,000 into BILLIONS",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/shorts/M17OjKVj_as",
           "author": null,
