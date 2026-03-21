@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-03-20T23:29:23.704Z</updated>
+    <updated>2026-03-21T02:00:11.610Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -83,6 +83,19 @@ Points: 542
 # Comments: 184]]></summary>
         <author>
             <name>bookstore-romeo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Delve – Fake Compliance as a Service]]></title>
+        <id>https://news.ycombinator.com/item?id=47444319</id>
+        <link href="https://deepdelver.substack.com/p/delve-fake-compliance-as-a-service"/>
+        <updated>2026-03-19T19:08:02.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://deepdelver.substack.com/p/delve-fake-compliance-as-a-service
+Comments URL: https://news.ycombinator.com/item?id=47444319
+Points: 547
+# Comments: 193]]></summary>
+        <author>
+            <name>freddykruger</name>
         </author>
     </entry>
     <entry>
@@ -3200,37 +3213,6 @@ Steve Yegge posted a fine rant:
 I see these frenzied AI-native startups as an army of a million hopeful prolecats, each with an invisible vampiric imp perc…]]></summary>
         <author>
             <name>Martin Fowler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bliki: Host Leadership]]></title>
-        <id>https://martinfowler.com/bliki/HostLeadership.html</id>
-        <link href="https://martinfowler.com/bliki/HostLeadership.html"/>
-        <updated>2026-02-19T13:57:00.000Z</updated>
-        <summary type="html"><![CDATA[If you've hung around agile circles for long, you've probably heard about
-  the concept of servant leadership, that managers should think of themselves as
-  supporting the team, removing blocks, protecting them from the vagaries of
-  corporate life. That's never sounded quite right to me, and a recent
-  conversation with Kent Beck nailed why - it's gaslighting. The manager claims
-  to be a servant, but everyone knows who really has the power.
-My colleague Giles Edwards-Alexander told me about an alternative way of
-  thinking about leadership, one that he came across working with mental-health
-  professionals. This casts the leader as a host: preparing a suitable space,
-  inviting the team in, providing ideas and problems, and then stepping back to
-  let them work. The host looks after the team, rather as the ideal servant
-  leader does, but still has the power to intervene should things go awry.]]></summary>
-        <author>
-            <name>Martin Fowler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Think School’s Visit to Harvard]]></title>
-        <id>https://www.youtube.com/shorts/efqrDPJoVX4</id>
-        <link href="https://www.youtube.com/shorts/efqrDPJoVX4"/>
-        <updated>2026-02-19T12:18:09.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Think School</name>
         </author>
     </entry>
 </feed>
