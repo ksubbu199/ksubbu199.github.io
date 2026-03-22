@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=47470991",
+          "author": "smartmic",
+          "description": "Article URL: https://news.dyne.org/child-protection-is-not-access-control/\nComments URL: https://news.ycombinator.com/item?id=47470991\nPoints: 569\n# Comments: 298",
+          "link": "https://news.dyne.org/child-protection-is-not-access-control/",
+          "publishedOn": "2026-03-21T20:32:20.000Z",
+          "wordCount": 2130,
+          "title": "Do Not Turn Child Protection into Internet Access Control",
+          "imageUrl": "https://news.dyne.org/content/images/size/w1200/2026/03/90d2be8e-f920-4ac4-9c8a-092bc2ce88bf.png"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=47467537",
           "author": "vaylian",
           "description": "Article URL: https://lucumr.pocoo.org/2026/3/20/some-things-just-take-time/\nComments URL: https://news.ycombinator.com/item?id=47467537\nPoints: 513\n# Comments: 176",
@@ -14,6 +24,16 @@
           "wordCount": 1530,
           "title": "Some things just take time",
           "imageUrl": "https://lucumr.pocoo.org/social/2026-03-20-some-things-just-take-time-social.png"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=47464818",
+          "author": "pabs3",
+          "description": "Article URL: https://www.eff.org/deeplinks/2026/03/blocking-internet-archive-wont-stop-ai-it-will-erase-webs-historical-record\nComments URL: https://news.ycombinator.com/item?id=47464818\nPoints: 505\n# Comments: 140",
+          "link": "https://www.eff.org/deeplinks/2026/03/blocking-internet-archive-wont-stop-ai-it-will-erase-webs-historical-record",
+          "publishedOn": "2026-03-21T07:30:16.000Z",
+          "wordCount": 1839,
+          "title": "Blocking Internet Archive Won't Stop AI, but Will Erase Web's Historical Record",
+          "imageUrl": "https://www.eff.org/files/banner_library/internet-archive-servers-by-jason-scott.jpg"
         },
         {
           "id": "https://news.ycombinator.com/item?id=47460525",
@@ -1904,16 +1924,6 @@
           "wordCount": 2963,
           "title": "Keep Android Open",
           "imageUrl": "https://f-droid.org/assets/fdroid-logo_bfHl7nsLHOUQxzdU8-rGIhn4bAgl6z7k2mA3fWoCyT4=.png"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=47089213",
-          "author": "blackguardx",
-          "description": "Article URL: https://www.bbc.com/news/live/c0l9r67drg7t\nComments URL: https://news.ycombinator.com/item?id=47089213\nPoints: 538\n# Comments: 390",
-          "link": "https://www.bbc.com/news/live/c0l9r67drg7t",
-          "publishedOn": "2026-02-20T15:27:38.000Z",
-          "wordCount": 14898,
-          "title": "Trump's global tariffs struck down by US Supreme Court",
-          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8240/live/63755a70-0e6f-11f1-a7d2-13765adb9f56.jpg"
         }
       ]
     },

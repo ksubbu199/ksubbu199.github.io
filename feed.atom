@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-03-22T02:12:35.690Z</updated>
+    <updated>2026-03-22T04:51:54.274Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Do Not Turn Child Protection into Internet Access Control]]></title>
+        <id>https://news.ycombinator.com/item?id=47470991</id>
+        <link href="https://news.dyne.org/child-protection-is-not-access-control/"/>
+        <updated>2026-03-21T20:32:20.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://news.dyne.org/child-protection-is-not-access-control/
+Comments URL: https://news.ycombinator.com/item?id=47470991
+Points: 569
+# Comments: 298]]></summary>
+        <author>
+            <name>smartmic</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Some things just take time]]></title>
         <id>https://news.ycombinator.com/item?id=47467537</id>
@@ -26,6 +39,19 @@ Points: 513
         <updated>2026-03-21T13:00:52.000Z</updated>
         <author>
             <name>Think School</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Blocking Internet Archive Won't Stop AI, but Will Erase Web's Historical Record]]></title>
+        <id>https://news.ycombinator.com/item?id=47464818</id>
+        <link href="https://www.eff.org/deeplinks/2026/03/blocking-internet-archive-wont-stop-ai-it-will-erase-webs-historical-record"/>
+        <updated>2026-03-21T07:30:16.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.eff.org/deeplinks/2026/03/blocking-internet-archive-wont-stop-ai-it-will-erase-webs-historical-record
+Comments URL: https://news.ycombinator.com/item?id=47464818
+Points: 505
+# Comments: 140]]></summary>
+        <author>
+            <name>pabs3</name>
         </author>
     </entry>
     <entry>
@@ -3146,19 +3172,6 @@ Points: 645
 # Comments: 251]]></summary>
         <author>
             <name>LorenDB</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Trump's global tariffs struck down by US Supreme Court]]></title>
-        <id>https://news.ycombinator.com/item?id=47089213</id>
-        <link href="https://www.bbc.com/news/live/c0l9r67drg7t"/>
-        <updated>2026-02-20T15:27:38.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.bbc.com/news/live/c0l9r67drg7t
-Comments URL: https://news.ycombinator.com/item?id=47089213
-Points: 538
-# Comments: 390]]></summary>
-        <author>
-            <name>blackguardx</name>
         </author>
     </entry>
 </feed>
