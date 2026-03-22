@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=47467537",
+          "author": "vaylian",
+          "description": "Article URL: https://lucumr.pocoo.org/2026/3/20/some-things-just-take-time/\nComments URL: https://news.ycombinator.com/item?id=47467537\nPoints: 513\n# Comments: 176",
+          "link": "https://lucumr.pocoo.org/2026/3/20/some-things-just-take-time/",
+          "publishedOn": "2026-03-21T14:46:56.000Z",
+          "wordCount": 1530,
+          "title": "Some things just take time",
+          "imageUrl": "https://lucumr.pocoo.org/social/2026-03-20-some-things-just-take-time-social.png"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=47460525",
           "author": "rbanffy",
           "description": "Article URL: https://opencode.ai/\nComments URL: https://news.ycombinator.com/item?id=47460525\nPoints: 533\n# Comments: 240",
@@ -1904,26 +1914,6 @@
           "wordCount": 14898,
           "title": "Trump's global tariffs struck down by US Supreme Court",
           "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8240/live/63755a70-0e6f-11f1-a7d2-13765adb9f56.jpg"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=47088181",
-          "author": "spencerldixon",
-          "description": "Article URL: https://spencer.wtf/2026/02/20/cleaning-up-merged-git-branches-a-one-liner-from-the-cias-leaked-dev-docs.html\nComments URL: https://news.ycombinator.com/item?id=47088181\nPoints: 536\n# Comments: 198",
-          "link": "https://spencer.wtf/2026/02/20/cleaning-up-merged-git-branches-a-one-liner-from-the-cias-leaked-dev-docs.html",
-          "publishedOn": "2026-02-20T14:03:06.000Z",
-          "wordCount": 552,
-          "title": "I found a useful Git one liner buried in leaked CIA developer docs",
-          "imageUrl": "https://spencer.wtf/assets/images/ogimage.png"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=47088037",
-          "author": "lairv",
-          "description": "Article URL: https://github.com/ggml-org/llama.cpp/discussions/19759\nComments URL: https://news.ycombinator.com/item?id=47088037\nPoints: 501\n# Comments: 109",
-          "link": "https://github.com/ggml-org/llama.cpp/discussions/19759",
-          "publishedOn": "2026-02-20T13:51:04.000Z",
-          "wordCount": 4404,
-          "title": "Ggml.ai joins Hugging Face to ensure the long-term progress of Local AI",
-          "imageUrl": "https://opengraph.githubassets.com/f6b0e019bce42d4bd36fa7516c7a737393431f58bd0e502d868f39233a67a98a/ggml-org/llama.cpp/discussions/19759"
         }
       ]
     },
