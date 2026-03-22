@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-03-22T10:28:01.912Z</updated>
+    <updated>2026-03-22T11:24:23.347Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -17,6 +17,19 @@ Points: 569
 # Comments: 298]]></summary>
         <author>
             <name>smartmic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tinybox – A powerful computer for deep learning]]></title>
+        <id>https://news.ycombinator.com/item?id=47470773</id>
+        <link href="https://tinygrad.org/#tinybox"/>
+        <updated>2026-03-21T20:08:37.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://tinygrad.org/#tinybox
+Comments URL: https://news.ycombinator.com/item?id=47470773
+Points: 503
+# Comments: 290]]></summary>
+        <author>
+            <name>albelfio</name>
         </author>
     </entry>
     <entry>
