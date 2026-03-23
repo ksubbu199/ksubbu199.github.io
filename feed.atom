@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-03-23T05:02:46.386Z</updated>
+    <updated>2026-03-23T07:10:19.806Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[PC Gamer recommends RSS readers in a 37mb article that just keeps downloading]]></title>
+        <id>https://news.ycombinator.com/item?id=47480507</id>
+        <link href="https://stuartbreckenridge.net/2026-03-19-pc-gamer-recommends-rss-readers-in-a-37mb-article/"/>
+        <updated>2026-03-22T18:23:40.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://stuartbreckenridge.net/2026-03-19-pc-gamer-recommends-rss-readers-in-a-37mb-article/
+Comments URL: https://news.ycombinator.com/item?id=47480507
+Points: 501
+# Comments: 247]]></summary>
+        <author>
+            <name>JumpCrisscross</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hormuz Minesweeper – Are you tired of winning?]]></title>
         <id>https://news.ycombinator.com/item?id=47475686</id>
@@ -3095,29 +3108,6 @@ Points: 500
 # Comments: 306]]></summary>
         <author>
             <name>vinhnx</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Thanks NX bit]]></title>
-        <id>https://www.youtube.com/shorts/x79Pjq1zOlk</id>
-        <link href="https://www.youtube.com/shorts/x79Pjq1zOlk"/>
-        <updated>2026-02-21T18:01:04.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Hussein Nasser</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What not to write on your security clearance form (1988)]]></title>
-        <id>https://news.ycombinator.com/item?id=47102576</id>
-        <link href="https://milk.com/wall-o-shame/security_clearance.html"/>
-        <updated>2026-02-21T17:08:12.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://milk.com/wall-o-shame/security_clearance.html
-Comments URL: https://news.ycombinator.com/item?id=47102576
-Points: 500
-# Comments: 217]]></summary>
-        <author>
-            <name>wizardforhire</name>
         </author>
     </entry>
 </feed>
