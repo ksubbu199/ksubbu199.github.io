@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-03-23T07:10:19.806Z</updated>
+    <updated>2026-03-23T08:56:02.931Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -17,6 +17,19 @@ Points: 501
 # Comments: 247]]></summary>
         <author>
             <name>JumpCrisscross</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The future of version control]]></title>
+        <id>https://news.ycombinator.com/item?id=47478401</id>
+        <link href="https://bramcohen.com/p/manyana"/>
+        <updated>2026-03-22T15:16:28.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://bramcohen.com/p/manyana
+Comments URL: https://news.ycombinator.com/item?id=47478401
+Points: 517
+# Comments: 286]]></summary>
+        <author>
+            <name>c17r</name>
         </author>
     </entry>
     <entry>
