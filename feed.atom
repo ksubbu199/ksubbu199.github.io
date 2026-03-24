@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-03-24T22:32:17.908Z</updated>
+    <updated>2026-03-24T23:32:36.070Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Wine 11 rewrites how Linux runs Windows games at kernel with massive speed gains]]></title>
+        <id>https://news.ycombinator.com/item?id=47507150</id>
+        <link href="https://www.xda-developers.com/wine-11-rewrites-linux-runs-windows-games-speed-gains/"/>
+        <updated>2026-03-24T18:34:52.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.xda-developers.com/wine-11-rewrites-linux-runs-windows-games-speed-gains/
+Comments URL: https://news.ycombinator.com/item?id=47507150
+Points: 555
+# Comments: 200]]></summary>
+        <author>
+            <name>felineflock</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Bliki: Architecture Decision Record]]></title>
         <id>https://martinfowler.com/bliki/ArchitectureDecisionRecord.html</id>
@@ -3150,19 +3163,6 @@ Caer Sanders shares impressions from the Pragmatic Summit.
 From what I’…]]></summary>
         <author>
             <name>Martin Fowler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ladybird Browser adopts Rust]]></title>
-        <id>https://news.ycombinator.com/item?id=47120899</id>
-        <link href="https://ladybird.org/posts/adopting-rust/"/>
-        <updated>2026-02-23T11:29:22.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://ladybird.org/posts/adopting-rust/
-Comments URL: https://news.ycombinator.com/item?id=47120899
-Points: 526
-# Comments: 274]]></summary>
-        <author>
-            <name>adius</name>
         </author>
     </entry>
 </feed>
