@@ -6,6 +6,26 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=47500335",
+          "author": "h0ek",
+          "description": "Article URL: https://www.sambent.com/microsofts-plan-to-fix-windows-11-is-gaslighting/\nComments URL: https://news.ycombinator.com/item?id=47500335\nPoints: 568\n# Comments: 415",
+          "link": "https://www.sambent.com/microsofts-plan-to-fix-windows-11-is-gaslighting/",
+          "publishedOn": "2026-03-24T09:36:29.000Z",
+          "wordCount": 8285,
+          "title": "Microsoft's \"Fix\" for Windows 11: Flowers After the Beating",
+          "imageUrl": "https://www.sambent.com/content/images/size/w1200/2026/03/microsoft-plan-fix-windows-11-gaslighting-1.jpg"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=47495527",
+          "author": "phasE89",
+          "description": "Article URL: https://cc.storyfox.cz\nComments URL: https://news.ycombinator.com/item?id=47495527\nPoints: 525\n# Comments: 167",
+          "link": "https://cc.storyfox.cz/",
+          "publishedOn": "2026-03-23T21:44:20.000Z",
+          "wordCount": 2413,
+          "title": "Claude Code Cheat Sheet",
+          "imageUrl": null
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=47490070",
           "author": "anemll",
           "description": "https://xcancel.com/anemll/status/2035901335984611412\nComments URL: https://news.ycombinator.com/item?id=47490070\nPoints: 531\n# Comments: 251",
@@ -2153,6 +2173,16 @@
       "feedUrl": "https://martinfowler.com/feed.atom",
       "siteUrl": "https://martinfowler.com/feed.atom",
       "articles": [
+        {
+          "id": "https://martinfowler.com/bliki/ArchitectureDecisionRecord.html",
+          "author": null,
+          "description": "An Architecture Decision Record (ADR) is a short document that captures and\n  explains a single decision relevant to a product or ecosystem. Documents\n  should be short, just a couple of pages, and contain the decision, the context\n  for making it, and significant ramifications. They should not be modified if\n  the decision is changed, but linked to a superseding decision.\nAs with most written documents, writing ADRs serves two purposes. Firstly they\n  act as a record of decisions, allowing people months or years later to\n  understand why the system is constructed in the way that it is. But perhaps\n  even more valuable, the act of writing them helps to clarify thinking,\n  particularly with groups of people. Writing a document of consequence\n  often surfaces different points of view - forci…",
+          "link": "https://martinfowler.com/bliki/ArchitectureDecisionRecord.html",
+          "publishedOn": "2026-03-24T13:50:00.000Z",
+          "wordCount": 975,
+          "title": "Bliki: Architecture Decision Record",
+          "imageUrl": "https://martinfowler.com/logo-sq.png"
+        },
         {
           "id": "https://martinfowler.com/fragments/2026-03-19.html",
           "author": null,

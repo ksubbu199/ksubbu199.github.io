@@ -2,10 +2,56 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-03-24T13:12:38.116Z</updated>
+    <updated>2026-03-24T14:57:51.843Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Bliki: Architecture Decision Record]]></title>
+        <id>https://martinfowler.com/bliki/ArchitectureDecisionRecord.html</id>
+        <link href="https://martinfowler.com/bliki/ArchitectureDecisionRecord.html"/>
+        <updated>2026-03-24T13:50:00.000Z</updated>
+        <summary type="html"><![CDATA[An Architecture Decision Record (ADR) is a short document that captures and
+  explains a single decision relevant to a product or ecosystem. Documents
+  should be short, just a couple of pages, and contain the decision, the context
+  for making it, and significant ramifications. They should not be modified if
+  the decision is changed, but linked to a superseding decision.
+As with most written documents, writing ADRs serves two purposes. Firstly they
+  act as a record of decisions, allowing people months or years later to
+  understand why the system is constructed in the way that it is. But perhaps
+  even more valuable, the act of writing them helps to clarify thinking,
+  particularly with groups of people. Writing a document of consequence
+  often surfaces different points of view - forci…]]></summary>
+        <author>
+            <name>Martin Fowler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft's "Fix" for Windows 11: Flowers After the Beating]]></title>
+        <id>https://news.ycombinator.com/item?id=47500335</id>
+        <link href="https://www.sambent.com/microsofts-plan-to-fix-windows-11-is-gaslighting/"/>
+        <updated>2026-03-24T09:36:29.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.sambent.com/microsofts-plan-to-fix-windows-11-is-gaslighting/
+Comments URL: https://news.ycombinator.com/item?id=47500335
+Points: 568
+# Comments: 415]]></summary>
+        <author>
+            <name>h0ek</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Claude Code Cheat Sheet]]></title>
+        <id>https://news.ycombinator.com/item?id=47495527</id>
+        <link href="https://cc.storyfox.cz/"/>
+        <updated>2026-03-23T21:44:20.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://cc.storyfox.cz
+Comments URL: https://news.ycombinator.com/item?id=47495527
+Points: 525
+# Comments: 167]]></summary>
+        <author>
+            <name>phasE89</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Why Pakistan Just Backstabbed Saudi Arabia AND Iran??]]></title>
         <id>https://www.youtube.com/watch?v=geJ5igWYs08</id>
