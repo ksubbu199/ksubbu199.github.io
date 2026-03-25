@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-03-25T19:05:48.877Z</updated>
+    <updated>2026-03-25T20:38:08.036Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -241,6 +241,19 @@ Points: 517
 # Comments: 286]]></summary>
         <author>
             <name>c17r</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[My astrophotography in the movie Project Hail Mary]]></title>
+        <id>https://news.ycombinator.com/item?id=47477873</id>
+        <link href="https://rpastro.square.site/s/stories/phm"/>
+        <updated>2026-03-22T14:28:06.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://rpastro.square.site/s/stories/phm
+Comments URL: https://news.ycombinator.com/item?id=47477873
+Points: 568
+# Comments: 160]]></summary>
+        <author>
+            <name>wallflower</name>
         </author>
     </entry>
     <entry>
