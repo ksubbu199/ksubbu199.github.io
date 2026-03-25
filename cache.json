@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=47508745",
+          "author": "jakelsaunders94",
+          "description": "Article URL: https://blog.jakesaunders.dev/is-anybody-else-bored-of-talking-about-ai/\nComments URL: https://news.ycombinator.com/item?id=47508745\nPoints: 524\n# Comments: 365",
+          "link": "https://blog.jakesaunders.dev/is-anybody-else-bored-of-talking-about-ai/",
+          "publishedOn": "2026-03-24T20:31:08.000Z",
+          "wordCount": 640,
+          "title": "Is anybody else bored of talking about AI?",
+          "imageUrl": "https://blog.jakesaunders.dev/is-anybody-else-bored-of-talking-about-ai/img.png"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=47507150",
           "author": "felineflock",
           "description": "Article URL: https://www.xda-developers.com/wine-11-rewrites-linux-runs-windows-games-speed-gains/\nComments URL: https://news.ycombinator.com/item?id=47507150\nPoints: 555\n# Comments: 200",
@@ -14,6 +24,16 @@
           "wordCount": 6306,
           "title": "Wine 11 rewrites how Linux runs Windows games at kernel with massive speed gains",
           "imageUrl": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2025/09/windows-apps-through-wine.jpg?w=1600&h=900&fit=crop"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=47504112",
+          "author": "soheilpro",
+          "description": "Article URL: https://www.apple.com/newsroom/2026/03/introducing-apple-business-a-new-all-in-one-platform-for-businesses-of-all-sizes/\nComments URL: https://news.ycombinator.com/item?id=47504112\nPoints: 520\n# Comments: 318",
+          "link": "https://www.apple.com/newsroom/2026/03/introducing-apple-business-a-new-all-in-one-platform-for-businesses-of-all-sizes/",
+          "publishedOn": "2026-03-24T15:29:41.000Z",
+          "wordCount": 5725,
+          "title": "Apple Business",
+          "imageUrl": "https://www.apple.com/newsroom/images/2026/03/introducing-apple-business-a-new-all-in-one-platform-for-businesses-of-all-sizes/tile/Apple-Business-hero-lp.jpg.og.jpg?202603241910"
         },
         {
           "id": "https://news.ycombinator.com/item?id=47501729",
@@ -2251,16 +2271,6 @@
           "publishedOn": "2026-02-24T14:40:00.000Z",
           "wordCount": 2740,
           "title": "Knowledge Priming",
-          "imageUrl": "https://martinfowler.com/logo-sq.png"
-        },
-        {
-          "id": "https://martinfowler.com/fragments/2026-02-23.html",
-          "author": null,
-          "description": "Do you want to run OpenClaw? It may be fascinating, but it also raises significant security dangers. Jim Gumbley, one of my go-to sources on security, has some advice on how to mitigate the risks.\nWhile there is no proven safe way to run high-permissioned agents today, there are practical patterns that reduce the blast radius. If you want to experiment, you have options, such as cloud VMs or local micro-VM tools like Gondolin.\nHe outlines a series of steps to consider\nPrioritize isolation first.\nClamp down on network egress.\nDon’t expose the control plane.\nTreat secrets as toxic waste.\nAssume the skills ecosystem is hostile.\nRun endpoint protection.\n ❄                ❄                ❄                ❄                ❄\nCaer Sanders shares impressions from the Pragmatic Summit.\nFrom what I’…",
-          "link": "https://martinfowler.com/fragments/2026-02-23.html",
-          "publishedOn": "2026-02-23T12:35:00.000Z",
-          "wordCount": 1053,
-          "title": "Fragments: February 23",
           "imageUrl": "https://martinfowler.com/logo-sq.png"
         }
       ]

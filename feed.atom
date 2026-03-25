@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-03-24T23:32:36.070Z</updated>
+    <updated>2026-03-25T02:11:12.649Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Is anybody else bored of talking about AI?]]></title>
+        <id>https://news.ycombinator.com/item?id=47508745</id>
+        <link href="https://blog.jakesaunders.dev/is-anybody-else-bored-of-talking-about-ai/"/>
+        <updated>2026-03-24T20:31:08.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://blog.jakesaunders.dev/is-anybody-else-bored-of-talking-about-ai/
+Comments URL: https://news.ycombinator.com/item?id=47508745
+Points: 524
+# Comments: 365]]></summary>
+        <author>
+            <name>jakelsaunders94</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Wine 11 rewrites how Linux runs Windows games at kernel with massive speed gains]]></title>
         <id>https://news.ycombinator.com/item?id=47507150</id>
@@ -17,6 +30,19 @@ Points: 555
 # Comments: 200]]></summary>
         <author>
             <name>felineflock</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple Business]]></title>
+        <id>https://news.ycombinator.com/item?id=47504112</id>
+        <link href="https://www.apple.com/newsroom/2026/03/introducing-apple-business-a-new-all-in-one-platform-for-businesses-of-all-sizes/"/>
+        <updated>2026-03-24T15:29:41.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.apple.com/newsroom/2026/03/introducing-apple-business-a-new-all-in-one-platform-for-businesses-of-all-sizes/
+Comments URL: https://news.ycombinator.com/item?id=47504112
+Points: 520
+# Comments: 318]]></summary>
+        <author>
+            <name>soheilpro</name>
         </author>
     </entry>
     <entry>
@@ -3142,27 +3168,6 @@ Points: 593
 # Comments: 465]]></summary>
         <author>
             <name>oldnetguy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fragments: February 23]]></title>
-        <id>https://martinfowler.com/fragments/2026-02-23.html</id>
-        <link href="https://martinfowler.com/fragments/2026-02-23.html"/>
-        <updated>2026-02-23T12:35:00.000Z</updated>
-        <summary type="html"><![CDATA[Do you want to run OpenClaw? It may be fascinating, but it also raises significant security dangers. Jim Gumbley, one of my go-to sources on security, has some advice on how to mitigate the risks.
-While there is no proven safe way to run high-permissioned agents today, there are practical patterns that reduce the blast radius. If you want to experiment, you have options, such as cloud VMs or local micro-VM tools like Gondolin.
-He outlines a series of steps to consider
-Prioritize isolation first.
-Clamp down on network egress.
-Don’t expose the control plane.
-Treat secrets as toxic waste.
-Assume the skills ecosystem is hostile.
-Run endpoint protection.
- ❄                ❄                ❄                ❄                ❄
-Caer Sanders shares impressions from the Pragmatic Summit.
-From what I’…]]></summary>
-        <author>
-            <name>Martin Fowler</name>
         </author>
     </entry>
 </feed>
