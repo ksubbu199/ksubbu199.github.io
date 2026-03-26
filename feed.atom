@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-03-26T21:31:22.998Z</updated>
+    <updated>2026-03-26T22:29:36.836Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -49,6 +49,19 @@ Points: 502
 # Comments: 118]]></summary>
         <author>
             <name>lemoncookiechip</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[End of "Chat Control": EU parliament stops mass surveillance]]></title>
+        <id>https://news.ycombinator.com/item?id=47529609</id>
+        <link href="https://www.patrick-breyer.de/en/end-of-chat-control-eu-parliament-stops-mass-surveillance-in-voting-thriller-paving-the-way-for-genuine-child-protection/"/>
+        <updated>2026-03-26T12:24:36.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.patrick-breyer.de/en/end-of-chat-control-eu-parliament-stops-mass-surveillance-in-voting-thriller-paving-the-way-for-genuine-child-protection/
+Comments URL: https://news.ycombinator.com/item?id=47529609
+Points: 529
+# Comments: 259]]></summary>
+        <author>
+            <name>amarcheschi</name>
         </author>
     </entry>
     <entry>
@@ -3185,19 +3198,6 @@ Points: 529
 # Comments: 302]]></summary>
         <author>
             <name>ssiddharth</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Danish government agency to ditch Microsoft software (2025)]]></title>
-        <id>https://news.ycombinator.com/item?id=47149701</id>
-        <link href="https://therecord.media/denmark-digital-agency-microsoft-digital-independence"/>
-        <updated>2026-02-25T10:16:22.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://therecord.media/denmark-digital-agency-microsoft-digital-independence
-Comments URL: https://news.ycombinator.com/item?id=47149701
-Points: 567
-# Comments: 298]]></summary>
-        <author>
-            <name>robtherobber</name>
         </author>
     </entry>
 </feed>
