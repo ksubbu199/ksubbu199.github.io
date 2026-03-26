@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-03-26T13:16:40.403Z</updated>
+    <updated>2026-03-26T15:04:27.599Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -30,6 +30,19 @@ Points: 531
 # Comments: 159]]></summary>
         <author>
             <name>MrBruh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Personal Encyclopedias]]></title>
+        <id>https://news.ycombinator.com/item?id=47522173</id>
+        <link href="https://whoami.wiki/blog/personal-encyclopedias"/>
+        <updated>2026-03-25T19:41:51.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://whoami.wiki/blog/personal-encyclopedias
+Comments URL: https://news.ycombinator.com/item?id=47522173
+Points: 523
+# Comments: 100]]></summary>
+        <author>
+            <name>jrmyphlmn</name>
         </author>
     </entry>
     <entry>
