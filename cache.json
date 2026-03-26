@@ -2184,6 +2184,16 @@
       "siteUrl": "https://martinfowler.com/feed.atom",
       "articles": [
         {
+          "id": "https://martinfowler.com/fragments/2026-03-26.html",
+          "author": null,
+          "description": "Anthropic carried a study, done by getting its model to interview some 80,000 users to understand their opinions about AI, what they hope from it, and what they fear. Two things stood out to me.\nIt’s easy to assume there are AI optimists and AI pessimists, divided into separate camps. But what we actually found were people organized around what they value—financial security, learning, human connection— watching advancing AI capabilities while managing both hope and fear at once.\nThat makes sense, if asked whether I’m a an AI booster or an AI doomer, I answer “yes”. I am both fascinated by its impact on my profession, expectant of the benefits it will bring to our world, and worried by the harms that will come from it. Powerful technologies rarely yield simple consequences.\nThe other thing …",
+          "link": "https://martinfowler.com/fragments/2026-03-26.html",
+          "publishedOn": "2026-03-26T17:11:00.000Z",
+          "wordCount": 697,
+          "title": "Fragments: March 26",
+          "imageUrl": "https://martinfowler.com/logo-sq.png"
+        },
+        {
           "id": "https://martinfowler.com/bliki/ArchitectureDecisionRecord.html",
           "author": null,
           "description": "An Architecture Decision Record (ADR) is a short document that captures and\n  explains a single decision relevant to a product or ecosystem. Documents\n  should be short, just a couple of pages, and contain the decision, the context\n  for making it, and significant ramifications. They should not be modified if\n  the decision is changed, but linked to a superseding decision.\nAs with most written documents, writing ADRs serves two purposes. Firstly they\n  act as a record of decisions, allowing people months or years later to\n  understand why the system is constructed in the way that it is. But perhaps\n  even more valuable, the act of writing them helps to clarify thinking,\n  particularly with groups of people. Writing a document of consequence\n  often surfaces different points of view - forci…",
