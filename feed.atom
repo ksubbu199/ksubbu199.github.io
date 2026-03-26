@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-03-26T07:09:25.072Z</updated>
+    <updated>2026-03-26T08:56:33.162Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -3205,19 +3205,6 @@ Points: 510
 # Comments: 500]]></summary>
         <author>
             <name>haunter</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How we rebuilt Next.js with AI in one week]]></title>
-        <id>https://news.ycombinator.com/item?id=47142156</id>
-        <link href="https://blog.cloudflare.com/vinext/"/>
-        <updated>2026-02-24T20:07:00.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://blog.cloudflare.com/vinext/
-Comments URL: https://news.ycombinator.com/item?id=47142156
-Points: 501
-# Comments: 212]]></summary>
-        <author>
-            <name>ghostwriternr</name>
         </author>
     </entry>
 </feed>
