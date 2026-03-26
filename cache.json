@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=47523330",
+          "author": "driesdep",
+          "description": "Article URL: https://bugs.xdavidhu.me/tesla/2026/03/23/running-tesla-model-3s-computer-on-my-desk-using-parts-from-crashed-cars/\nComments URL: https://news.ycombinator.com/item?id=47523330\nPoints: 537\n# Comments: 159",
+          "link": "https://bugs.xdavidhu.me/tesla/2026/03/23/running-tesla-model-3s-computer-on-my-desk-using-parts-from-crashed-cars/",
+          "publishedOn": "2026-03-25T21:11:57.000Z",
+          "wordCount": 1476,
+          "title": "Running Tesla Model 3's computer on my desk using parts from crashed cars",
+          "imageUrl": "https://bugs.xdavidhu.me/assets/posts/2026-03-23-running-tesla-model-3s-computer-on-my-desk-using-parts-from-crashed-cars/card.jpg"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=47522709",
           "author": "MrBruh",
           "description": "Article URL: https://fightchatcontrol.eu/?foo=bar\nComments URL: https://news.ycombinator.com/item?id=47522709\nPoints: 531\n# Comments: 159",
@@ -44,6 +54,16 @@
           "wordCount": 2242,
           "title": "TurboQuant: Redefining AI efficiency with extreme compression",
           "imageUrl": "https://storage.googleapis.com/gweb-research2023-media/images/Open_Graph.width-800.format-jpeg.jpg"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=47513229",
+          "author": "decimalenough",
+          "description": "Article URL: https://acoup.blog/2026/03/25/miscellanea-the-war-in-iran/\nComments URL: https://news.ycombinator.com/item?id=47513229\nPoints: 514\n# Comments: 718",
+          "link": "https://acoup.blog/2026/03/25/miscellanea-the-war-in-iran/",
+          "publishedOn": "2026-03-25T04:27:14.000Z",
+          "wordCount": 13524,
+          "title": "Miscellanea: The War in Iran",
+          "imageUrl": "https://acoup.blog/wp-content/uploads/2026/03/image-3.png"
         },
         {
           "id": "https://news.ycombinator.com/item?id=47511589",
@@ -1944,26 +1964,6 @@
           "wordCount": 3704,
           "title": "How we rebuilt Next.js with AI in one week",
           "imageUrl": "https://cf-assets.www.cloudflare.com/zkvhlag99gkb/720QQcrdICiSJXrr9VoixA/4934fffd05d1ca10cc661238b381308e/BLOG-3194_OG.png"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=47140632",
-          "author": "rzk",
-          "description": "Related ongoing thread: Discord cuts ties with identity verification software, Persona - https://news.ycombinator.com/item?id=47136036 - Feb 2026 (282 comments)\nComments URL: https://news.ycombinator.com/item?id=47140632\nPoints: 507\n# Comments: 159",
-          "link": "https://vmfunc.re/blog/persona/",
-          "publishedOn": "2026-02-24T18:23:03.000Z",
-          "wordCount": 7856,
-          "title": "OpenAI, the US government and Persona built an identity surveillance machine",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=47139675",
-          "author": "cleak",
-          "description": "Article URL: https://www.calebleak.com/posts/dog-game/\nComments URL: https://news.ycombinator.com/item?id=47139675\nPoints: 508\n# Comments: 154",
-          "link": "https://www.calebleak.com/posts/dog-game/",
-          "publishedOn": "2026-02-24T17:15:17.000Z",
-          "wordCount": 4663,
-          "title": "I'm helping my dog vibe code games",
-          "imageUrl": "https://www.calebleak.com/posts/dog-game/index.png"
         }
       ]
     },
