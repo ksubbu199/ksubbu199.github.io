@@ -36,6 +36,16 @@
           "imageUrl": "https://mariozechner.at/posts/2026-03-25-thoughts-on-slowing-the-fuck-down/media/header.png"
         },
         {
+          "id": "https://news.ycombinator.com/item?id=47513475",
+          "author": "ray__",
+          "description": "Article URL: https://research.google/blog/turboquant-redefining-ai-efficiency-with-extreme-compression/\nComments URL: https://news.ycombinator.com/item?id=47513475\nPoints: 507\n# Comments: 141",
+          "link": "https://research.google/blog/turboquant-redefining-ai-efficiency-with-extreme-compression/",
+          "publishedOn": "2026-03-25T05:00:54.000Z",
+          "wordCount": 2242,
+          "title": "TurboQuant: Redefining AI efficiency with extreme compression",
+          "imageUrl": "https://storage.googleapis.com/gweb-research2023-media/images/Open_Graph.width-800.format-jpeg.jpg"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=47511589",
           "author": "skogstokig",
           "description": "Article URL: https://flighty.com/airports\nComments URL: https://news.ycombinator.com/item?id=47511589\nPoints: 506\n# Comments: 170",
@@ -2291,16 +2301,6 @@
           "publishedOn": "2026-02-25T14:56:00.000Z",
           "wordCount": 1202,
           "title": "Fragments: February 25",
-          "imageUrl": "https://martinfowler.com/logo-sq.png"
-        },
-        {
-          "id": "https://martinfowler.com/articles/reduce-friction-ai/knowledge-priming.html",
-          "author": null,
-          "description": "Rahul Garg has observed a frustration loop when\n      working with AI coding assistants - lots of code generated, but needs lots\n      of fixing. He's noticed five\n      patterns that help improve the interaction with the LLM, and describes\n      the first of these: priming the LLM with knowledge about the codebase and\n      preferred coding patterns.\nmore…",
-          "link": "https://martinfowler.com/articles/reduce-friction-ai/knowledge-priming.html",
-          "publishedOn": "2026-02-24T14:40:00.000Z",
-          "wordCount": 2740,
-          "title": "Knowledge Priming",
           "imageUrl": "https://martinfowler.com/logo-sq.png"
         }
       ]
