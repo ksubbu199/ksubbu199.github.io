@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-03-26T23:32:47.098Z</updated>
+    <updated>2026-03-27T02:25:46.818Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[We haven't seen the worst of what gambling and prediction markets will do]]></title>
+        <id>https://news.ycombinator.com/item?id=47534848</id>
+        <link href="https://www.derekthompson.org/p/we-havent-seen-the-worst-of-what"/>
+        <updated>2026-03-26T19:48:05.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.derekthompson.org/p/we-havent-seen-the-worst-of-what
+Comments URL: https://news.ycombinator.com/item?id=47534848
+Points: 574
+# Comments: 409]]></summary>
+        <author>
+            <name>mmcclure</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Fragments: March 26]]></title>
         <id>https://martinfowler.com/fragments/2026-03-26.html</id>
@@ -36,6 +49,19 @@ The other thing …]]></summary>
         <updated>2026-03-26T16:00:38.000Z</updated>
         <author>
             <name>Think School</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Moving from GitHub to Codeberg, for lazy people]]></title>
+        <id>https://news.ycombinator.com/item?id=47530330</id>
+        <link href="https://unterwaditzer.net/2025/codeberg.html"/>
+        <updated>2026-03-26T13:38:25.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://unterwaditzer.net/2025/codeberg.html
+Comments URL: https://news.ycombinator.com/item?id=47530330
+Points: 531
+# Comments: 263]]></summary>
+        <author>
+            <name>jslakro</name>
         </author>
     </entry>
     <entry>
@@ -138,6 +164,19 @@ Points: 515
 # Comments: 229]]></summary>
         <author>
             <name>cramsession</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why so many control rooms were seafoam green (2025)]]></title>
+        <id>https://news.ycombinator.com/item?id=47518960</id>
+        <link href="https://bethmathews.substack.com/p/why-so-many-control-rooms-were-seafoam"/>
+        <updated>2026-03-25T15:46:29.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://bethmathews.substack.com/p/why-so-many-control-rooms-were-seafoam
+Comments URL: https://news.ycombinator.com/item?id=47518960
+Points: 614
+# Comments: 120]]></summary>
+        <author>
+            <name>Amorymeltzer</name>
         </author>
     </entry>
     <entry>
@@ -3198,19 +3237,6 @@ Points: 527
 # Comments: 449]]></summary>
         <author>
             <name>todsacerdoti</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Never buy a .online domain]]></title>
-        <id>https://news.ycombinator.com/item?id=47151233</id>
-        <link href="https://www.0xsid.com/blog/online-tld-is-pain"/>
-        <updated>2026-02-25T13:31:17.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.0xsid.com/blog/online-tld-is-pain
-Comments URL: https://news.ycombinator.com/item?id=47151233
-Points: 529
-# Comments: 302]]></summary>
-        <author>
-            <name>ssiddharth</name>
         </author>
     </entry>
 </feed>
