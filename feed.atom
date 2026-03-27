@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-03-27T09:55:10.096Z</updated>
+    <updated>2026-03-27T10:50:40.191Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Is the FDE role becoming less desirable?]]></title>
+        <id>69c5918c3f13830001776a97</id>
+        <link href="https://blog.pragmaticengineer.com/is-the-fde-role-becoming-less-desirable/"/>
+        <updated>2026-03-27T10:29:33.000Z</updated>
+        <summary type="html"><![CDATA[Job postings for Forward Deployed Engineers (FDEs) have surged, but many professionals don’t want the role because it’s more like solutions engineering than software development.]]></summary>
+        <author>
+            <name>Gergely Orosz</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[We haven't seen the worst of what gambling and prediction markets will do]]></title>
         <id>https://news.ycombinator.com/item?id=47534848</id>
