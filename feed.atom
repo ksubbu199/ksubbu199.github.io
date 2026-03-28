@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-03-28T16:34:42.579Z</updated>
+    <updated>2026-03-28T17:29:31.914Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -13,6 +13,32 @@
         <updated>2026-03-28T14:12:02.000Z</updated>
         <author>
             <name>Think School</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Spanish legislation as a Git repo]]></title>
+        <id>https://news.ycombinator.com/item?id=47553798</id>
+        <link href="https://github.com/EnriqueLop/legalize-es"/>
+        <updated>2026-03-28T12:01:27.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://github.com/EnriqueLop/legalize-es
+Comments URL: https://news.ycombinator.com/item?id=47553798
+Points: 558
+# Comments: 175]]></summary>
+        <author>
+            <name>enriquelop</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Go hard on agents, not on your filesystem]]></title>
+        <id>https://news.ycombinator.com/item?id=47550282</id>
+        <link href="https://jai.scs.stanford.edu/"/>
+        <updated>2026-03-28T00:39:54.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://jai.scs.stanford.edu/
+Comments URL: https://news.ycombinator.com/item?id=47550282
+Points: 512
+# Comments: 279]]></summary>
+        <author>
+            <name>mazieres</name>
         </author>
     </entry>
     <entry>

@@ -6,6 +6,26 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=47553798",
+          "author": "enriquelop",
+          "description": "Article URL: https://github.com/EnriqueLop/legalize-es\nComments URL: https://news.ycombinator.com/item?id=47553798\nPoints: 558\n# Comments: 175",
+          "link": "https://github.com/EnriqueLop/legalize-es",
+          "publishedOn": "2026-03-28T12:01:27.000Z",
+          "wordCount": 2289,
+          "title": "Spanish legislation as a Git repo",
+          "imageUrl": "https://opengraph.githubassets.com/c1c6cb2ef017e17432e403cb56e65190542bb65933cc4bc550fa280a7917d614/EnriqueLop/legalize-es"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=47550282",
+          "author": "mazieres",
+          "description": "Article URL: https://jai.scs.stanford.edu/\nComments URL: https://news.ycombinator.com/item?id=47550282\nPoints: 512\n# Comments: 279",
+          "link": "https://jai.scs.stanford.edu/",
+          "publishedOn": "2026-03-28T00:39:54.000Z",
+          "wordCount": 580,
+          "title": "Go hard on agents, not on your filesystem",
+          "imageUrl": null
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=47548243",
           "author": "vmg12",
           "description": "This is where you can opt out. It's absurd that they are automatically opting users into this.\nhttps://github.com/settings/copilot/features\nComments URL: https://news.ycombinator.com/item?id=47548243\nPoints: 599\n# Comments: 272",
