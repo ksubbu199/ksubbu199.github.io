@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-03-28T23:31:20.732Z</updated>
+    <updated>2026-03-29T02:29:21.883Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -26,6 +26,20 @@ Points: 507
         <updated>2026-03-28T14:12:02.000Z</updated>
         <author>
             <name>Think School</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI overly affirms users asking for personal advice]]></title>
+        <id>https://news.ycombinator.com/item?id=47554773</id>
+        <link href="https://news.stanford.edu/stories/2026/03/ai-advice-sycophantic-models-research"/>
+        <updated>2026-03-28T14:08:33.000Z</updated>
+        <summary type="html"><![CDATA[https://arxiv.org/abs/2602.14270
+https://www.science.org/doi/10.1126/science.aec8352
+Comments URL: https://news.ycombinator.com/item?id=47554773
+Points: 532
+# Comments: 412]]></summary>
+        <author>
+            <name>oldfrenchfries</name>
         </author>
     </entry>
     <entry>
