@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-03-29T08:40:33.683Z</updated>
+    <updated>2026-03-29T09:37:13.483Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -17,6 +17,19 @@ Points: 507
 # Comments: 122]]></summary>
         <author>
             <name>bob_theslob646</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I decompiled the White House's new app]]></title>
+        <id>https://news.ycombinator.com/item?id=47555556</id>
+        <link href="https://thereallo.dev/blog/decompiling-the-white-house-app"/>
+        <updated>2026-03-28T15:37:17.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://thereallo.dev/blog/decompiling-the-white-house-app
+Comments URL: https://news.ycombinator.com/item?id=47555556
+Points: 513
+# Comments: 188]]></summary>
+        <author>
+            <name>amarcheschi</name>
         </author>
     </entry>
     <entry>
