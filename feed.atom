@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-03-29T21:32:31.932Z</updated>
+    <updated>2026-03-29T22:30:28.240Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -3045,19 +3045,6 @@ Points: 753
 # Comments: 133]]></summary>
         <author>
             <name>carlosrg</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MCP server that reduces Claude Code context consumption by 98%]]></title>
-        <id>https://news.ycombinator.com/item?id=47193064</id>
-        <link href="https://mksg.lu/blog/context-mode"/>
-        <updated>2026-02-28T10:01:20.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://mksg.lu/blog/context-mode
-Comments URL: https://news.ycombinator.com/item?id=47193064
-Points: 504
-# Comments: 95]]></summary>
-        <author>
-            <name>mksglu</name>
         </author>
     </entry>
 </feed>
