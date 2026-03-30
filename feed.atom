@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-03-30T20:44:55.928Z</updated>
+    <updated>2026-03-30T21:41:15.223Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to turn anything into a router]]></title>
+        <id>https://news.ycombinator.com/item?id=47574034</id>
+        <link href="https://nbailey.ca/post/router/"/>
+        <updated>2026-03-30T13:28:54.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://nbailey.ca/post/router/
+Comments URL: https://news.ycombinator.com/item?id=47574034
+Points: 515
+# Comments: 189]]></summary>
+        <author>
+            <name>yabones</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Copilot edited an ad into my PR]]></title>
         <id>https://news.ycombinator.com/item?id=47570269</id>
@@ -2979,19 +2992,6 @@ Points: 517
         <updated>2026-03-01T10:47:20.000Z</updated>
         <author>
             <name>Think School</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Decision trees – the unreasonable power of nested decision rules]]></title>
-        <id>https://news.ycombinator.com/item?id=47204964</id>
-        <link href="https://mlu-explain.github.io/decision-tree/"/>
-        <updated>2026-03-01T08:55:52.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://mlu-explain.github.io/decision-tree/
-Comments URL: https://news.ycombinator.com/item?id=47204964
-Points: 507
-# Comments: 77]]></summary>
-        <author>
-            <name>mschnell</name>
         </author>
     </entry>
 </feed>

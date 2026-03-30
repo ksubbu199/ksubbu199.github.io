@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=47574034",
+          "author": "yabones",
+          "description": "Article URL: https://nbailey.ca/post/router/\nComments URL: https://news.ycombinator.com/item?id=47574034\nPoints: 515\n# Comments: 189",
+          "link": "https://nbailey.ca/post/router/",
+          "publishedOn": "2026-03-30T13:28:54.000Z",
+          "wordCount": 2007,
+          "title": "How to turn anything into a router",
+          "imageUrl": null
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=47570269",
           "author": "pavo-etc",
           "description": "Article URL: https://notes.zachmanson.com/copilot-edited-an-ad-into-my-pr/\nComments URL: https://news.ycombinator.com/item?id=47570269\nPoints: 503\n# Comments: 159",
@@ -1824,16 +1834,6 @@
           "wordCount": 3547,
           "title": "I built a demo of what AI chat will look like when it's “free” and ad-supported",
           "imageUrl": "https://99helpers.com/images/main.jpg"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=47204964",
-          "author": "mschnell",
-          "description": "Article URL: https://mlu-explain.github.io/decision-tree/\nComments URL: https://news.ycombinator.com/item?id=47204964\nPoints: 507\n# Comments: 77",
-          "link": "https://mlu-explain.github.io/decision-tree/",
-          "publishedOn": "2026-03-01T08:55:52.000Z",
-          "wordCount": 2458,
-          "title": "Decision trees – the unreasonable power of nested decision rules",
-          "imageUrl": "https://mlu-explain.github.io/assets/ogimages/ogimage-decision-tree.png"
         }
       ]
     },
