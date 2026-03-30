@@ -2,10 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-03-30T05:24:42.346Z</updated>
+    <updated>2026-03-30T07:27:41.919Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ChatGPT won't let you type until Cloudflare reads your React state]]></title>
+        <id>https://news.ycombinator.com/item?id=47566865</id>
+        <link href="https://www.buchodi.com/chatgpt-wont-let-you-type-until-cloudflare-reads-your-react-state-i-decrypted-the-program-that-does-it/"/>
+        <updated>2026-03-29T20:21:05.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.buchodi.com/chatgpt-wont-let-you-type-until-cloudflare-reads-your-react-state-i-decrypted-the-program-that-does-it/
+Comments URL: https://news.ycombinator.com/item?id=47566865
+Points: 539
+# Comments: 355]]></summary>
+        <author>
+            <name>alberto-m</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Voyager 1 runs on 69 KB of memory and an 8-track tape recorder]]></title>
+        <id>https://news.ycombinator.com/item?id=47564421</id>
+        <link href="https://techfixated.com/a-1977-time-capsule-voyager-1-runs-on-69-kb-of-memory-and-an-8-track-tape-recorder-4/"/>
+        <updated>2026-03-29T16:12:22.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://techfixated.com/a-1977-time-capsule-voyager-1-runs-on-69-kb-of-memory-and-an-8-track-tape-recorder-4/
+Comments URL: https://news.ycombinator.com/item?id=47564421
+Points: 500
+# Comments: 188]]></summary>
+        <author>
+            <name>speckx</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Say No to Palantir in Europe]]></title>
         <id>https://news.ycombinator.com/item?id=47563655</id>
@@ -2989,16 +3015,6 @@ Points: 503
 # Comments: 238]]></summary>
         <author>
             <name>golfer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The only abstraction I'm ok with, probably]]></title>
-        <id>https://www.youtube.com/shorts/X7LLjPn7p2o</id>
-        <link href="https://www.youtube.com/shorts/X7LLjPn7p2o"/>
-        <updated>2026-02-28T18:00:38.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Hussein Nasser</name>
         </author>
     </entry>
 </feed>
