@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-03-30T07:27:41.919Z</updated>
+    <updated>2026-03-30T09:12:41.101Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Copilot edited an ad into my PR]]></title>
+        <id>https://news.ycombinator.com/item?id=47570269</id>
+        <link href="https://notes.zachmanson.com/copilot-edited-an-ad-into-my-pr/"/>
+        <updated>2026-03-30T04:04:31.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://notes.zachmanson.com/copilot-edited-an-ad-into-my-pr/
+Comments URL: https://news.ycombinator.com/item?id=47570269
+Points: 503
+# Comments: 159]]></summary>
+        <author>
+            <name>pavo-etc</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ChatGPT won't let you type until Cloudflare reads your React state]]></title>
         <id>https://news.ycombinator.com/item?id=47566865</id>
