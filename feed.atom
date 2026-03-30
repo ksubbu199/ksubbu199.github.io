@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-03-30T11:01:50.938Z</updated>
+    <updated>2026-03-30T13:20:32.690Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -3005,16 +3005,6 @@ Points: 569
 # Comments: 103]]></summary>
         <author>
             <name>tambourine_man</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Python Functions: How to Define and Call Them]]></title>
-        <id>https://boot.dev/blog/python/python-functions/</id>
-        <link href="https://boot.dev/blog/python/python-functions/"/>
-        <updated>2026-03-01T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Functions allow you to reuse and organize code. Instead of copying and pasting the same logic everywhere, you define it once and call it whenever you need it. They’re the most important tool for writing DRY code.]]></summary>
-        <author>
-            <name>Boot.dev Blog</name>
         </author>
     </entry>
 </feed>
