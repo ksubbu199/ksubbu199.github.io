@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=47584540",
+          "author": "treexs",
+          "description": "Article URL: https://twitter.com/Fried_rice/status/2038894956459290963\nComments URL: https://news.ycombinator.com/item?id=47584540\nPoints: 540\n# Comments: 297",
+          "link": "https://twitter.com/Fried_rice/status/2038894956459290963",
+          "publishedOn": "2026-03-31T09:00:40.000Z",
+          "wordCount": 705,
+          "title": "Claude Code's source code has been leaked via a map file in their NPM registry",
+          "imageUrl": null
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=47582220",
           "author": "mtud",
           "description": "Article URL: https://www.stepsecurity.io/blog/axios-compromised-on-npm-malicious-versions-drop-remote-access-trojan\nComments URL: https://news.ycombinator.com/item?id=47582220\nPoints: 531\n# Comments: 165",
@@ -2048,16 +2058,6 @@
           "wordCount": 1758,
           "title": "Python If Statements: If, Else, and Elif",
           "imageUrl": "https://boot.dev/img/featured/python-if-statements-if-else-and-elif.webp"
-        },
-        {
-          "id": "https://boot.dev/blog/python/python-math/",
-          "author": null,
-          "description": "Python has excellent built-in support for math operations — from basic arithmetic to exponents to bitwise logic. You don’t need to import anything to do most math in Python, which is one reason it’s so popular for everything from backend development to data science.",
-          "link": "https://boot.dev/blog/python/python-math/",
-          "publishedOn": "2026-03-02T00:00:00.000Z",
-          "wordCount": 1700,
-          "title": "Python Math: Operators and Numbers Explained",
-          "imageUrl": "https://boot.dev/img/featured/python-math-operators-and-numbers-explained.webp"
         }
       ]
     },
@@ -2416,18 +2416,7 @@
       "title": "Lea Verou’s blog",
       "feedUrl": "https://lea.verou.me/feed.xml",
       "siteUrl": "https://lea.verou.me/feed.xml",
-      "articles": [
-        {
-          "id": "https://lea.verou.me/blog/2026/external-import-maps-today/",
-          "author": null,
-          "description": "A few weeks ago, I posted Web dependencies are broken. Can we fix them?.\nToday’s post is a little less gloomy:\nTurns out that the major limitation that would allow centralized set-it-and-forget-it import map management can be lifted today, with excellent browser support!\nThe core idea is that you can use DOM methods to inject an import map dynamically, by literally creating an <script type=\"importmap\"> element in a classic (blocking) script and appending it after the injector script. 💡\nThis is a gamechanger.\nIt makes external import maps nice-to-have sugar instead of the only way to have centralized import map management decoupled from HTML generation.\nAll we need to do is build a little injector script, no need for tightly coupled workflows that take over everything.\nOnce you have that, …",
-          "link": "https://lea.verou.me/blog/2026/external-import-maps-today/",
-          "publishedOn": "2026-03-02T00:00:00.000Z",
-          "wordCount": 1369,
-          "title": "External import maps, today!",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Ben Hoyt's technical writing",

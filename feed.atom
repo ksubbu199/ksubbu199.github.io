@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-03-31T11:49:45.706Z</updated>
+    <updated>2026-03-31T13:18:39.374Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Claude Code's source code has been leaked via a map file in their NPM registry]]></title>
+        <id>https://news.ycombinator.com/item?id=47584540</id>
+        <link href="https://twitter.com/Fried_rice/status/2038894956459290963"/>
+        <updated>2026-03-31T09:00:40.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://twitter.com/Fried_rice/status/2038894956459290963
+Comments URL: https://news.ycombinator.com/item?id=47584540
+Points: 540
+# Comments: 297]]></summary>
+        <author>
+            <name>treexs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Axios compromised on NPM – Malicious versions drop remote access trojan]]></title>
         <id>https://news.ycombinator.com/item?id=47582220</id>
@@ -2982,33 +2995,6 @@ Points: 563
 # Comments: 190]]></summary>
         <author>
             <name>km</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Python Math: Operators and Numbers Explained]]></title>
-        <id>https://boot.dev/blog/python/python-math/</id>
-        <link href="https://boot.dev/blog/python/python-math/"/>
-        <updated>2026-03-02T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Python has excellent built-in support for math operations — from basic arithmetic to exponents to bitwise logic. You don’t need to import anything to do most math in Python, which is one reason it’s so popular for everything from backend development to data science.]]></summary>
-        <author>
-            <name>Boot.dev Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[External import maps, today!]]></title>
-        <id>https://lea.verou.me/blog/2026/external-import-maps-today/</id>
-        <link href="https://lea.verou.me/blog/2026/external-import-maps-today/"/>
-        <updated>2026-03-02T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A few weeks ago, I posted Web dependencies are broken. Can we fix them?.
-Today’s post is a little less gloomy:
-Turns out that the major limitation that would allow centralized set-it-and-forget-it import map management can be lifted today, with excellent browser support!
-The core idea is that you can use DOM methods to inject an import map dynamically, by literally creating an <script type="importmap"> element in a classic (blocking) script and appending it after the injector script. 💡
-This is a gamechanger.
-It makes external import maps nice-to-have sugar instead of the only way to have centralized import map management decoupled from HTML generation.
-All we need to do is build a little injector script, no need for tightly coupled workflows that take over everything.
-Once you have that, …]]></summary>
-        <author>
-            <name>Lea Verou’s blog</name>
         </author>
     </entry>
 </feed>
