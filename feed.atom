@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-03-31T21:39:23.332Z</updated>
+    <updated>2026-03-31T22:34:55.090Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -34,6 +34,20 @@ Points: 595
 # Comments: 499]]></summary>
         <author>
             <name>pje</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Claude Code Source Leak: fake tools, frustration regexes, undercover mode]]></title>
+        <id>https://news.ycombinator.com/item?id=47586778</id>
+        <link href="https://alex000kim.com/posts/2026-03-31-claude-code-source-leak/"/>
+        <updated>2026-03-31T13:04:30.000Z</updated>
+        <summary type="html"><![CDATA[Related ongoing thread: Claude Code's source code has been leaked via a map file in their NPM registry - https://news.ycombinator.com/item?id=47584540
+Also related: https://www.ccleaks.com
+Comments URL: https://news.ycombinator.com/item?id=47586778
+Points: 513
+# Comments: 195]]></summary>
+        <author>
+            <name>alex000kim</name>
         </author>
     </entry>
     <entry>
@@ -3012,19 +3026,6 @@ Points: 547
         <updated>2026-03-02T15:11:52.000Z</updated>
         <author>
             <name>Think School</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft bans the word "Microslop" on its Discord, then locks the server]]></title>
-        <id>https://news.ycombinator.com/item?id=47216047</id>
-        <link href="https://www.windowslatest.com/2026/03/02/microsoft-gets-tired-of-microslop-bans-the-word-on-its-discord-then-locks-the-server-after-backlash/"/>
-        <updated>2026-03-02T10:23:06.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.windowslatest.com/2026/03/02/microsoft-gets-tired-of-microslop-bans-the-word-on-its-discord-then-locks-the-server-after-backlash/
-Comments URL: https://news.ycombinator.com/item?id=47216047
-Points: 529
-# Comments: 199]]></summary>
-        <author>
-            <name>robtherobber</name>
         </author>
     </entry>
 </feed>
