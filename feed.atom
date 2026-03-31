@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-03-30T23:34:36.845Z</updated>
+    <updated>2026-03-31T02:26:50.976Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -2957,32 +2957,6 @@ All we need to do is build a little injector script, no need for tightly coupled
 Once you have that, …]]></summary>
         <author>
             <name>Lea Verou’s blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ghostty – Terminal Emulator]]></title>
-        <id>https://news.ycombinator.com/item?id=47206009</id>
-        <link href="https://ghostty.org/docs"/>
-        <updated>2026-03-01T12:13:03.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://ghostty.org/docs
-Comments URL: https://news.ycombinator.com/item?id=47206009
-Points: 522
-# Comments: 229]]></summary>
-        <author>
-            <name>oli5679</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I built a demo of what AI chat will look like when it's “free” and ad-supported]]></title>
-        <id>https://news.ycombinator.com/item?id=47205890</id>
-        <link href="https://99helpers.com/tools/ad-supported-chat"/>
-        <updated>2026-03-01T11:49:01.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://99helpers.com/tools/ad-supported-chat
-Comments URL: https://news.ycombinator.com/item?id=47205890
-Points: 517
-# Comments: 278]]></summary>
-        <author>
-            <name>nickk81</name>
         </author>
     </entry>
 </feed>
