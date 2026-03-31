@@ -16,6 +16,26 @@
           "imageUrl": null
         },
         {
+          "id": "https://news.ycombinator.com/item?id=47582984",
+          "author": "_____k",
+          "description": "Article URL: https://www.theregister.com/2026/03/30/github_copilot_ads_pull_requests/\nComments URL: https://news.ycombinator.com/item?id=47582984\nPoints: 502\n# Comments: 290",
+          "link": "https://www.theregister.com/2026/03/30/github_copilot_ads_pull_requests/",
+          "publishedOn": "2026-03-31T05:11:24.000Z",
+          "wordCount": 1634,
+          "title": "GitHub backs down, kills Copilot pull-request ads after backlash",
+          "imageUrl": "https://regmedia.co.uk/2024/05/21/github1_shutterstock.jpg"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=47582482",
+          "author": "redundantly",
+          "description": "Article URL: https://ollama.com/blog/mlx\nComments URL: https://news.ycombinator.com/item?id=47582482\nPoints: 523\n# Comments: 257",
+          "link": "https://ollama.com/blog/mlx",
+          "publishedOn": "2026-03-31T03:40:45.000Z",
+          "wordCount": 761,
+          "title": "Ollama is now powered by MLX on Apple Silicon in preview",
+          "imageUrl": "https://ollama.com/public/og.png"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=47582220",
           "author": "mtud",
           "description": "Article URL: https://www.stepsecurity.io/blog/axios-compromised-on-npm-malicious-versions-drop-remote-access-trojan\nComments URL: https://news.ycombinator.com/item?id=47582220\nPoints: 531\n# Comments: 165",
@@ -24,6 +44,16 @@
           "wordCount": 9745,
           "title": "Axios compromised on NPM – Malicious versions drop remote access trojan",
           "imageUrl": "https://cdn.prod.website-files.com/673b71f0790aabf30bd30bf8/69cb2363fdc3f8e8fa0460a5_blog-cover-image.png"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=47582043",
+          "author": "idlewords",
+          "description": "Article URL: https://idlewords.com/2026/03/artemis_ii_is_not_safe_to_fly.htm\nComments URL: https://news.ycombinator.com/item?id=47582043\nPoints: 691\n# Comments: 439",
+          "link": "https://idlewords.com/2026/03/artemis_ii_is_not_safe_to_fly.htm",
+          "publishedOn": "2026-03-31T02:23:50.000Z",
+          "wordCount": 2536,
+          "title": "Artemis II is not safe to fly",
+          "imageUrl": null
         },
         {
           "id": "https://news.ycombinator.com/item?id=47577761",
@@ -2083,6 +2113,16 @@
       "feedUrl": "https://martinfowler.com/feed.atom",
       "siteUrl": "https://martinfowler.com/feed.atom",
       "articles": [
+        {
+          "id": "https://martinfowler.com/articles/reduce-friction-ai/encoding-team-standards.html",
+          "author": null,
+          "description": "AI coding assistants respond to whoever is prompting, and the quality\n      of what they produce depends on how well the prompter articulates team\n      standards. Rahul Garg proposes treating the instructions\n      that govern AI interactions (generation, refactoring, security, review) as\n      infrastructure: versioned, reviewed, and shared artifacts that encode\n      tacit team knowledge into executable instructions, making quality\n      consistent regardless of who is at the keyboard.\nmore…",
+          "link": "https://martinfowler.com/articles/reduce-friction-ai/encoding-team-standards.html",
+          "publishedOn": "2026-03-31T15:20:00.000Z",
+          "wordCount": 2834,
+          "title": "Encoding Team Standards",
+          "imageUrl": "https://martinfowler.com/logo-sq.png"
+        },
         {
           "id": "https://martinfowler.com/fragments/2026-03-26.html",
           "author": null,
