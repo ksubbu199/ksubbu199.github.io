@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-03-31T09:00:27.203Z</updated>
+    <updated>2026-03-31T10:12:30.482Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -148,6 +148,19 @@ Points: 505
 # Comments: 301]]></summary>
         <author>
             <name>hrncode</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CSS is DOOMed]]></title>
+        <id>https://news.ycombinator.com/item?id=47557960</id>
+        <link href="https://nielsleenheer.com/articles/2026/css-is-doomed-rendering-doom-in-3d-with-css/"/>
+        <updated>2026-03-28T20:39:01.000Z</updated>
+        <summary type="html"><![CDATA[https://cssdoom.wtf/
+Comments URL: https://news.ycombinator.com/item?id=47557960
+Points: 500
+# Comments: 112]]></summary>
+        <author>
+            <name>msephton</name>
         </author>
     </entry>
     <entry>
