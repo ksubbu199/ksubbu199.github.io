@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-04-01T11:53:30.626Z</updated>
+    <updated>2026-04-01T13:22:37.834Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -2975,29 +2975,6 @@ Points: 588
 more…]]></summary>
         <author>
             <name>Martin Fowler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ars Technica fires reporter after AI controversy involving fabricated quotes]]></title>
-        <id>https://news.ycombinator.com/item?id=47226608</id>
-        <link href="https://futurism.com/artificial-intelligence/ars-technica-fires-reporter-ai-quotes"/>
-        <updated>2026-03-03T01:12:30.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://futurism.com/artificial-intelligence/ars-technica-fires-reporter-ai-quotes
-Comments URL: https://news.ycombinator.com/item?id=47226608
-Points: 521
-# Comments: 316]]></summary>
-        <author>
-            <name>danso</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Python If Statements: If, Else, and Elif]]></title>
-        <id>https://boot.dev/blog/python/python-if-else/</id>
-        <link href="https://boot.dev/blog/python/python-if-else/"/>
-        <updated>2026-03-03T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Every useful program needs to make decisions. Python’s if statement is how you tell your code to do one thing or another depending on some condition — and once you understand if, elif, and else, you can handle just about any branching logic.]]></summary>
-        <author>
-            <name>Boot.dev Blog</name>
         </author>
     </entry>
 </feed>
