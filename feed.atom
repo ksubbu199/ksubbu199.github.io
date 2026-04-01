@@ -2,10 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-04-01T10:56:29.730Z</updated>
+    <updated>2026-04-01T11:53:30.626Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Claude Code Unpacked : A visual guide]]></title>
+        <id>https://news.ycombinator.com/item?id=47597085</id>
+        <link href="https://ccunpacked.dev/"/>
+        <updated>2026-04-01T05:15:37.000Z</updated>
+        <summary type="html"><![CDATA[Related ongoing threads:
+The Claude Code Source Leak: fake tools, frustration regexes, undercover mode - https://news.ycombinator.com/item?id=47586778 - March 2026 (406 comments)
+Claude Code's source code has been leaked via a map file in their NPM registry - https://news.ycombinator.com/item?id=47584540 - March 2026 (956 comments)
+Also related: https://www.ccleaks.com
+Comments URL: https://news.ycombinator.com/item?id=47597085
+Points: 526
+# Comments: 149]]></summary>
+        <author>
+            <name>autocracy101</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Encoding Team Standards]]></title>
         <id>https://martinfowler.com/articles/reduce-friction-ai/encoding-team-standards.html</id>
@@ -2982,41 +2998,6 @@ Points: 521
         <summary type="html"><![CDATA[Every useful program needs to make decisions. Python’s if statement is how you tell your code to do one thing or another depending on some condition — and once you understand if, elif, and else, you can handle just about any branching logic.]]></summary>
         <author>
             <name>Boot.dev Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The workers behind Meta’s smart glasses can see everything]]></title>
-        <id>https://news.ycombinator.com/item?id=47225130</id>
-        <link href="https://www.svd.se/a/K8nrV4/metas-ai-smart-glasses-and-data-privacy-concerns-workers-say-we-see-everything"/>
-        <updated>2026-03-02T22:32:35.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.svd.se/a/K8nrV4/metas-ai-smart-glasses-and-data-privacy-concerns-workers-say-we-see-everything
-Comments URL: https://news.ycombinator.com/item?id=47225130
-Points: 523
-# Comments: 271]]></summary>
-        <author>
-            <name>sandbach</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: I built a sub-500ms latency voice agent from scratch]]></title>
-        <id>https://news.ycombinator.com/item?id=47224295</id>
-        <link href="https://www.ntik.me/posts/voice-agent"/>
-        <updated>2026-03-02T21:23:40.000Z</updated>
-        <summary type="html"><![CDATA[I built a voice agent from scratch that averages ~400ms end-to-end latency (phone stop → first syllable). That’s with full STT → LLM → TTS in the loop, clean barge-ins, and no precomputed responses.
-What moved the needle:
-Voice is a turn-taking problem, not a transcription problem. VAD alone fails; you need semantic end-of-turn detection.
-The system reduces to one loop: speaking vs listening. The two transitions - cancel instantly on barge-in, respond instantly on end-of-turn - define the experience.
-STT → LLM → TTS must stream. Sequential pipelines are dead on arrival for natural conversation.
-TTFT dominates everything. In voice, the first token is the critical path. Groq’s ~80ms TTFT was the single biggest win.
-Geography matters more than prompts. Colocate everything or you lose before you start.
-GitHub Repo: 
-https://github.com/NickTikhonov/shuo
-Follow whatever I next tinker with: https://x.com/nick_tikhonov
-Comments URL: https://news.ycombinator.com/item?id=47224295
-Points: 510
-# Comments: 150]]></summary>
-        <author>
-            <name>nicktikhonov</name>
         </author>
     </entry>
 </feed>
