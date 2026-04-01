@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-04-01T17:51:51.753Z</updated>
+    <updated>2026-04-01T19:01:50.732Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -20,6 +20,19 @@ Points: 526
 # Comments: 149]]></summary>
         <author>
             <name>autocracy101</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A dot a day keeps the clutter away]]></title>
+        <id>https://news.ycombinator.com/item?id=47593556</id>
+        <link href="https://scottlawsonbc.com/post/dot-system"/>
+        <updated>2026-03-31T21:15:01.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://scottlawsonbc.com/post/dot-system
+Comments URL: https://news.ycombinator.com/item?id=47593556
+Points: 504
+# Comments: 154]]></summary>
+        <author>
+            <name>scottlawson</name>
         </author>
     </entry>
     <entry>
