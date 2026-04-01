@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-04-01T15:03:42.357Z</updated>
+    <updated>2026-04-01T16:55:40.041Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -2960,21 +2960,6 @@ Points: 588
 # Comments: 77]]></summary>
         <author>
             <name>memalign</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Design-First Collaboration]]></title>
-        <id>https://martinfowler.com/articles/reduce-friction-ai/design-first-collaboration.html</id>
-        <link href="https://martinfowler.com/articles/reduce-friction-ai/design-first-collaboration.html"/>
-        <updated>2026-03-03T04:04:00.000Z</updated>
-        <summary type="html"><![CDATA[Rahul Garg continues his series of Patterns for Reducing Friction in
-      AI-Assisted Development. This pattern describes a structured
-      conversation that mirrors whiteboarding with a human pair: progressive
-      levels of design alignment before any code, reducing cognitive load, and
-      catching misunderstandings at the cheapest possible moment. 
-more…]]></summary>
-        <author>
-            <name>Martin Fowler</name>
         </author>
     </entry>
 </feed>
