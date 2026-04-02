@@ -2,10 +2,33 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-04-02T11:45:15.463Z</updated>
+    <updated>2026-04-02T13:13:58.796Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Every dependency you add is a supply chain attack waiting to happen]]></title>
+        <id>https://benhoyt.com/writings/dependencies/</id>
+        <link href="https://benhoyt.com/writings/dependencies/"/>
+        <updated>2026-04-02T11:45:00.000Z</updated>
+        <summary type="html"><![CDATA[Dependencies are a huge supply chain security risk; the more of them you have, and the more often you update, the bigger the attack surface.]]></summary>
+        <author>
+            <name>Ben Hoyt's technical writing</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DRAM pricing is killing the hobbyist SBC market]]></title>
+        <id>https://news.ycombinator.com/item?id=47606840</id>
+        <link href="https://www.jeffgeerling.com/blog/2026/dram-pricing-is-killing-the-hobbyist-sbc-market/"/>
+        <updated>2026-04-01T21:36:41.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.jeffgeerling.com/blog/2026/dram-pricing-is-killing-the-hobbyist-sbc-market/
+Comments URL: https://news.ycombinator.com/item?id=47606840
+Points: 523
+# Comments: 455]]></summary>
+        <author>
+            <name>ingve</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Live: Artemis II Launch Day Updates]]></title>
         <id>https://news.ycombinator.com/item?id=47603657</id>
@@ -46,6 +69,56 @@ Points: 526
 # Comments: 149]]></summary>
         <author>
             <name>autocracy101</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Git Rebase: Keep History Linear Without Merge Commits]]></title>
+        <id>https://boot.dev/blog/devops/git-rebase/</id>
+        <link href="https://boot.dev/blog/devops/git-rebase/"/>
+        <updated>2026-04-01T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[If git merge feels noisy, that’s because it can be. Lots of noisy merge commits make history harder to scan, especially when you’re just trying to understand what actually changed. git rebase takes a different approach: instead of creating a merge commit, it replays your branch commits on top of the latest base commit so your history stays clean and linear.]]></summary>
+        <author>
+            <name>Boot.dev Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Git Remote: Add Origin, Fetch, and Merge Remote Branches]]></title>
+        <id>https://boot.dev/blog/devops/git-remote/</id>
+        <link href="https://boot.dev/blog/devops/git-remote/"/>
+        <updated>2026-04-01T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Git is distributed, which means your repo and my repo can both be valid “sources of truth”. In practice, teams usually pick one remote as the shared source (often GitHub) and sync local work against it… but that’s just a convention. Let’s dig into how syncing Git repositories to GitHub works, and how that’s just one way to work with Git.]]></summary>
+        <author>
+            <name>Boot.dev Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Git Reset: Undo Commits With --soft and --hard]]></title>
+        <id>https://boot.dev/blog/devops/git-reset/</id>
+        <link href="https://boot.dev/blog/devops/git-reset/"/>
+        <updated>2026-04-01T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[If you’ve ever made a commit and immediately thought “noooope”, then git reset is what you need. It’s one of the most useful Git commands for undoing work, but it’s also one of the easiest to misuse. The --soft version is usually safe and predictable. The --hard version is powerful and can absolutely nuke your local changes.]]></summary>
+        <author>
+            <name>Boot.dev Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GitHub + Git: Push, Pull, and Pull Requests]]></title>
+        <id>https://boot.dev/blog/devops/git-github/</id>
+        <link href="https://boot.dev/blog/devops/git-github/"/>
+        <updated>2026-04-01T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Git is the open-source command-line version control tool, and GitHub is basically just a collaboration on top of it. You can absolutely use Git without GitHub, but for most teams, GitHub (or something similar) is where a lot of the collaboration happens. Linus Torvalds created Git, and… well we don’t talk about who owns GitHub these days…]]></summary>
+        <author>
+            <name>Boot.dev Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gitignore Patterns: What to Ignore and Why]]></title>
+        <id>https://boot.dev/blog/devops/gitignore-patterns/</id>
+        <link href="https://boot.dev/blog/devops/gitignore-patterns/"/>
+        <updated>2026-04-01T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Many devs adopt the git add . (yolo, just yeet it all into the commit) workflow. It is fast, simple, and usually correct. But eventually you’ll have files in your repo directory that should never be committed: secrets, generated artifacts, dependency folders, and random local junk. That’s what .gitignore is for.]]></summary>
+        <author>
+            <name>Boot.dev Blog</name>
         </author>
     </entry>
     <entry>
@@ -194,6 +267,56 @@ Points: 691
 # Comments: 439]]></summary>
         <author>
             <name>idlewords</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Git Branching: Create, Switch, and Manage Branches]]></title>
+        <id>https://boot.dev/blog/devops/git-branching/</id>
+        <link href="https://boot.dev/blog/devops/git-branching/"/>
+        <updated>2026-03-31T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A Git branch allows you to keep track of different changes separately. For example, you can create a new branch to experiment with changing a color scheme without affecting your primary branch. If you like the changes, you merge (or rebase) the branch back into main. If you don’t, you delete it.]]></summary>
+        <author>
+            <name>Boot.dev Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Git Config: Set Your Name, Email, and Branch Defaults]]></title>
+        <id>https://boot.dev/blog/devops/git-config/</id>
+        <link href="https://boot.dev/blog/devops/git-config/"/>
+        <updated>2026-03-31T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Git stores author information so that when you’re making a commit it can track who made the change. Here’s how all that configuration actually works.]]></summary>
+        <author>
+            <name>Boot.dev Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Git for Beginners: Install It and Make Your First Commit]]></title>
+        <id>https://boot.dev/blog/devops/git-for-beginners/</id>
+        <link href="https://boot.dev/blog/devops/git-for-beginners/"/>
+        <updated>2026-03-31T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Git is the distributed version control system (VCS). Nearly every developer in the world uses it to manage their code. It has quite a monopoly on VCS. Developers use Git to:]]></summary>
+        <author>
+            <name>Boot.dev Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Git Internals: How Git Stores Data and History on Disk]]></title>
+        <id>https://boot.dev/blog/devops/git-internals/</id>
+        <link href="https://boot.dev/blog/devops/git-internals/"/>
+        <updated>2026-03-31T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Let’s take a look at some of git’s “plumbing”, that is, the commands that are mostly used for working “under-the-hood” with Git, and that you’ll only use if you’re trying to debug your Git files themselves.]]></summary>
+        <author>
+            <name>Boot.dev Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Git Merge: Combine Branches and Understand Fast-Forwards]]></title>
+        <id>https://boot.dev/blog/devops/git-merge/</id>
+        <link href="https://boot.dev/blog/devops/git-merge/"/>
+        <updated>2026-03-31T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[“What’s the point of having multiple branches?” you might ask. They’re most often used to safely make changes without affecting your (or your team’s) primary branch. Once you’re happy with your changes, you’ll want to merge them back into main so that they make their way into the final product.]]></summary>
+        <author>
+            <name>Boot.dev Blog</name>
         </author>
     </entry>
     <entry>
@@ -2898,29 +3021,6 @@ Points: 503
 # Comments: 283]]></summary>
         <author>
             <name>r4um</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Motorola GrapheneOS devices will be bootloader unlockable/relockable]]></title>
-        <id>https://news.ycombinator.com/item?id=47241551</id>
-        <link href="https://grapheneos.social/@GrapheneOS/116160393783585567"/>
-        <updated>2026-03-04T00:58:31.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://grapheneos.social/@GrapheneOS/116160393783585567
-Comments URL: https://news.ycombinator.com/item?id=47241551
-Points: 546
-# Comments: 145]]></summary>
-        <author>
-            <name>pabs3</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Python Loops: For, While, Break, and Continue]]></title>
-        <id>https://boot.dev/blog/python/python-loops/</id>
-        <link href="https://boot.dev/blog/python/python-loops/"/>
-        <updated>2026-03-04T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Loops let you run the same code over and over without rewriting it each time. Whether you need to count through numbers, process items in a list, or keep going until a condition changes, Python gives you for loops and while loops to handle it.]]></summary>
-        <author>
-            <name>Boot.dev Blog</name>
         </author>
     </entry>
 </feed>

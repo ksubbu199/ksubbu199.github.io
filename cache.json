@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=47606840",
+          "author": "ingve",
+          "description": "Article URL: https://www.jeffgeerling.com/blog/2026/dram-pricing-is-killing-the-hobbyist-sbc-market/\nComments URL: https://news.ycombinator.com/item?id=47606840\nPoints: 523\n# Comments: 455",
+          "link": "https://www.jeffgeerling.com/blog/2026/dram-pricing-is-killing-the-hobbyist-sbc-market/",
+          "publishedOn": "2026-04-01T21:36:41.000Z",
+          "wordCount": 409,
+          "title": "DRAM pricing is killing the hobbyist SBC market",
+          "imageUrl": ""
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=47603657",
           "author": "apitman",
           "description": "https://www.youtube.com/live/Tf_UjBMIzNo\nComments URL: https://news.ycombinator.com/item?id=47603657\nPoints: 651\n# Comments: 619",
@@ -1814,16 +1824,6 @@
           "wordCount": 673,
           "title": "Agentic Engineering Patterns",
           "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=47241551",
-          "author": "pabs3",
-          "description": "Article URL: https://grapheneos.social/@GrapheneOS/116160393783585567\nComments URL: https://news.ycombinator.com/item?id=47241551\nPoints: 546\n# Comments: 145",
-          "link": "https://grapheneos.social/@GrapheneOS/116160393783585567",
-          "publishedOn": "2026-03-04T00:58:31.000Z",
-          "wordCount": 192,
-          "title": "Motorola GrapheneOS devices will be bootloader unlockable/relockable",
-          "imageUrl": null
         }
       ]
     },
@@ -1859,6 +1859,106 @@
       "feedUrl": "https://blog.boot.dev/index.xml",
       "siteUrl": "https://boot.dev/blog/",
       "articles": [
+        {
+          "id": "https://boot.dev/blog/devops/git-rebase/",
+          "author": null,
+          "description": "If git merge feels noisy, that’s because it can be. Lots of noisy merge commits make history harder to scan, especially when you’re just trying to understand what actually changed. git rebase takes a different approach: instead of creating a merge commit, it replays your branch commits on top of the latest base commit so your history stays clean and linear.",
+          "link": "https://boot.dev/blog/devops/git-rebase/",
+          "publishedOn": "2026-04-01T00:00:00.000Z",
+          "wordCount": 1407,
+          "title": "Git Rebase: Keep History Linear Without Merge Commits",
+          "imageUrl": "https://boot.dev/img/featured/git-rebase-keep-history-linear-without-merge-commits.webp"
+        },
+        {
+          "id": "https://boot.dev/blog/devops/git-remote/",
+          "author": null,
+          "description": "Git is distributed, which means your repo and my repo can both be valid “sources of truth”. In practice, teams usually pick one remote as the shared source (often GitHub) and sync local work against it… but that’s just a convention. Let’s dig into how syncing Git repositories to GitHub works, and how that’s just one way to work with Git.",
+          "link": "https://boot.dev/blog/devops/git-remote/",
+          "publishedOn": "2026-04-01T00:00:00.000Z",
+          "wordCount": 1365,
+          "title": "Git Remote: Add Origin, Fetch, and Merge Remote Branches",
+          "imageUrl": "https://boot.dev/img/featured/git-remote-add-origin-fetch-and-merge-remote-branches.webp"
+        },
+        {
+          "id": "https://boot.dev/blog/devops/git-reset/",
+          "author": null,
+          "description": "If you’ve ever made a commit and immediately thought “noooope”, then git reset is what you need. It’s one of the most useful Git commands for undoing work, but it’s also one of the easiest to misuse. The --soft version is usually safe and predictable. The --hard version is powerful and can absolutely nuke your local changes.",
+          "link": "https://boot.dev/blog/devops/git-reset/",
+          "publishedOn": "2026-04-01T00:00:00.000Z",
+          "wordCount": 1384,
+          "title": "Git Reset: Undo Commits With --soft and --hard",
+          "imageUrl": "https://boot.dev/img/featured/git-reset-undo-commits-with-soft-and-hard.webp"
+        },
+        {
+          "id": "https://boot.dev/blog/devops/git-github/",
+          "author": null,
+          "description": "Git is the open-source command-line version control tool, and GitHub is basically just a collaboration on top of it. You can absolutely use Git without GitHub, but for most teams, GitHub (or something similar) is where a lot of the collaboration happens. Linus Torvalds created Git, and… well we don’t talk about who owns GitHub these days…",
+          "link": "https://boot.dev/blog/devops/git-github/",
+          "publishedOn": "2026-04-01T00:00:00.000Z",
+          "wordCount": 1439,
+          "title": "GitHub + Git: Push, Pull, and Pull Requests",
+          "imageUrl": "https://boot.dev/img/featured/github-git-push-pull-and-pull-requests.webp"
+        },
+        {
+          "id": "https://boot.dev/blog/devops/gitignore-patterns/",
+          "author": null,
+          "description": "Many devs adopt the git add . (yolo, just yeet it all into the commit) workflow. It is fast, simple, and usually correct. But eventually you’ll have files in your repo directory that should never be committed: secrets, generated artifacts, dependency folders, and random local junk. That’s what .gitignore is for.",
+          "link": "https://boot.dev/blog/devops/gitignore-patterns/",
+          "publishedOn": "2026-04-01T00:00:00.000Z",
+          "wordCount": 1335,
+          "title": "Gitignore Patterns: What to Ignore and Why",
+          "imageUrl": "https://boot.dev/img/featured/gitignore-patterns-what-to-ignore-and-why.webp"
+        },
+        {
+          "id": "https://boot.dev/blog/devops/git-branching/",
+          "author": null,
+          "description": "A Git branch allows you to keep track of different changes separately. For example, you can create a new branch to experiment with changing a color scheme without affecting your primary branch. If you like the changes, you merge (or rebase) the branch back into main. If you don’t, you delete it.",
+          "link": "https://boot.dev/blog/devops/git-branching/",
+          "publishedOn": "2026-03-31T00:00:00.000Z",
+          "wordCount": 1581,
+          "title": "Git Branching: Create, Switch, and Manage Branches",
+          "imageUrl": "https://boot.dev/img/featured/git-branching-create-switch-and-manage-branches.webp"
+        },
+        {
+          "id": "https://boot.dev/blog/devops/git-config/",
+          "author": null,
+          "description": "Git stores author information so that when you’re making a commit it can track who made the change. Here’s how all that configuration actually works.",
+          "link": "https://boot.dev/blog/devops/git-config/",
+          "publishedOn": "2026-03-31T00:00:00.000Z",
+          "wordCount": 1384,
+          "title": "Git Config: Set Your Name, Email, and Branch Defaults",
+          "imageUrl": "https://boot.dev/img/featured/git-config-set-your-name-email-and-branch-defaults.webp"
+        },
+        {
+          "id": "https://boot.dev/blog/devops/git-for-beginners/",
+          "author": null,
+          "description": "Git is the distributed version control system (VCS). Nearly every developer in the world uses it to manage their code. It has quite a monopoly on VCS. Developers use Git to:",
+          "link": "https://boot.dev/blog/devops/git-for-beginners/",
+          "publishedOn": "2026-03-31T00:00:00.000Z",
+          "wordCount": 1796,
+          "title": "Git for Beginners: Install It and Make Your First Commit",
+          "imageUrl": "https://boot.dev/img/featured/git-for-beginners-install-it-and-make-your-first-commit.webp"
+        },
+        {
+          "id": "https://boot.dev/blog/devops/git-internals/",
+          "author": null,
+          "description": "Let’s take a look at some of git’s “plumbing”, that is, the commands that are mostly used for working “under-the-hood” with Git, and that you’ll only use if you’re trying to debug your Git files themselves.",
+          "link": "https://boot.dev/blog/devops/git-internals/",
+          "publishedOn": "2026-03-31T00:00:00.000Z",
+          "wordCount": 1609,
+          "title": "Git Internals: How Git Stores Data and History on Disk",
+          "imageUrl": "https://boot.dev/img/featured/git-internals-how-git-stores-data-and-history-on-disk.webp"
+        },
+        {
+          "id": "https://boot.dev/blog/devops/git-merge/",
+          "author": null,
+          "description": "“What’s the point of having multiple branches?” you might ask. They’re most often used to safely make changes without affecting your (or your team’s) primary branch. Once you’re happy with your changes, you’ll want to merge them back into main so that they make their way into the final product.",
+          "link": "https://boot.dev/blog/devops/git-merge/",
+          "publishedOn": "2026-03-31T00:00:00.000Z",
+          "wordCount": 1416,
+          "title": "Git Merge: Combine Branches and Understand Fast-Forwards",
+          "imageUrl": "https://boot.dev/img/featured/git-merge-combine-branches-and-understand-fast-forwards.webp"
+        },
         {
           "id": "https://boot.dev/blog/python/python-clean-code/",
           "author": null,
@@ -1998,16 +2098,6 @@
           "wordCount": 1894,
           "title": "Python Lists: A Complete Beginner Guide",
           "imageUrl": "https://boot.dev/img/featured/python-lists-a-complete-beginner-guide.webp"
-        },
-        {
-          "id": "https://boot.dev/blog/python/python-loops/",
-          "author": null,
-          "description": "Loops let you run the same code over and over without rewriting it each time. Whether you need to count through numbers, process items in a list, or keep going until a condition changes, Python gives you for loops and while loops to handle it.",
-          "link": "https://boot.dev/blog/python/python-loops/",
-          "publishedOn": "2026-03-04T00:00:00.000Z",
-          "wordCount": 1667,
-          "title": "Python Loops: For, While, Break, and Continue",
-          "imageUrl": "https://boot.dev/img/featured/python-loops-for-while-break-and-continue.webp"
         }
       ]
     },
@@ -2362,7 +2452,18 @@
       "title": "Ben Hoyt's technical writing",
       "feedUrl": "https://benhoyt.com/writings/rss.xml",
       "siteUrl": "https://benhoyt.com/writings/",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://benhoyt.com/writings/dependencies/",
+          "author": null,
+          "description": "Dependencies are a huge supply chain security risk; the more of them you have, and the more often you update, the bigger the attack surface.",
+          "link": "https://benhoyt.com/writings/dependencies/",
+          "publishedOn": "2026-04-02T11:45:00.000Z",
+          "wordCount": 1145,
+          "title": "Every dependency you add is a supply chain attack waiting to happen",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "High Scalability",
