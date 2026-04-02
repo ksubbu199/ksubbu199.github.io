@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-04-01T23:36:02.218Z</updated>
+    <updated>2026-04-02T02:23:03.661Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Live: Artemis II Launch Day Updates]]></title>
+        <id>https://news.ycombinator.com/item?id=47603657</id>
+        <link href="https://www.nasa.gov/blogs/missions/2026/04/01/live-artemis-ii-launch-day-updates/"/>
+        <updated>2026-04-01T17:11:31.000Z</updated>
+        <summary type="html"><![CDATA[https://www.youtube.com/live/Tf_UjBMIzNo
+Comments URL: https://news.ycombinator.com/item?id=47603657
+Points: 651
+# Comments: 619]]></summary>
+        <author>
+            <name>apitman</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Claude Code Unpacked : A visual guide]]></title>
         <id>https://news.ycombinator.com/item?id=47597085</id>
@@ -2921,45 +2934,6 @@ Points: 501
 # Comments: 88]]></summary>
         <author>
             <name>pcdavid</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I'm reluctant to verify my identity or age for any online services]]></title>
-        <id>https://news.ycombinator.com/item?id=47232768</id>
-        <link href="https://neilzone.co.uk/2026/03/im-struggling-to-think-of-any-online-services-for-which-id-be-willing-to-verify-my-identity-or-age/"/>
-        <updated>2026-03-03T14:22:25.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://neilzone.co.uk/2026/03/im-struggling-to-think-of-any-online-services-for-which-id-be-willing-to-verify-my-identity-or-age/
-Comments URL: https://news.ycombinator.com/item?id=47232768
-Points: 566
-# Comments: 342]]></summary>
-        <author>
-            <name>speckx</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MacBook Pro with new M5 Pro and M5 Max]]></title>
-        <id>https://news.ycombinator.com/item?id=47232453</id>
-        <link href="https://www.apple.com/newsroom/2026/03/apple-introduces-macbook-pro-with-all-new-m5-pro-and-m5-max/"/>
-        <updated>2026-03-03T14:02:06.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.apple.com/newsroom/2026/03/apple-introduces-macbook-pro-with-all-new-m5-pro-and-m5-max/
-Comments URL: https://news.ycombinator.com/item?id=47232453
-Points: 506
-# Comments: 505]]></summary>
-        <author>
-            <name>scrlk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I'm losing the SEO battle for my own open source project]]></title>
-        <id>https://news.ycombinator.com/item?id=47232158</id>
-        <link href="https://twitter.com/Gavriel_Cohen/status/2028821432759717930"/>
-        <updated>2026-03-03T13:39:38.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://twitter.com/Gavriel_Cohen/status/2028821432759717930
-Comments URL: https://news.ycombinator.com/item?id=47232158
-Points: 501
-# Comments: 244]]></summary>
-        <author>
-            <name>devinitely</name>
         </author>
     </entry>
 </feed>
