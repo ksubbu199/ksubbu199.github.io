@@ -16,6 +16,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://news.ycombinator.com/item?id=47612601",
+          "author": "novaRom",
+          "description": "Article URL: https://undark.org/2026/04/01/sweden-schools-books/\nComments URL: https://news.ycombinator.com/item?id=47612601\nPoints: 546\n# Comments: 290",
+          "link": "https://undark.org/2026/04/01/sweden-schools-books/",
+          "publishedOn": "2026-04-02T10:50:00.000Z",
+          "wordCount": 7099,
+          "title": "Sweden goes back to basics, swapping screens for books in the classroom",
+          "imageUrl": "https://undark.org/wp-content/uploads/2026/04/GettyImages-1781953068_crop.jpg"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=47609564",
           "author": "hkmaxpro",
           "description": "Article URL: https://www.phoronix.com/news/Steam-On-Linux-Tops-5p\nComments URL: https://news.ycombinator.com/item?id=47609564\nPoints: 569\n# Comments: 267",
@@ -1834,16 +1844,6 @@
           "wordCount": 5624,
           "title": "Nobody Gets Promoted for Simplicity",
           "imageUrl": "https://terriblesoftware.org/wp-content/uploads/2026/03/chjpdmf0zs9sci9pbwfnzxmvd2vic2l0zs8ymdiylta1l25zmtexndetaw1hz2uta3d2d3b1c3kuanbn.webp"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=47243272",
-          "author": "r4um",
-          "description": "Article URL: https://simonwillison.net/guides/agentic-engineering-patterns/\nComments URL: https://news.ycombinator.com/item?id=47243272\nPoints: 503\n# Comments: 283",
-          "link": "https://simonwillison.net/guides/agentic-engineering-patterns/",
-          "publishedOn": "2026-03-04T05:00:37.000Z",
-          "wordCount": 673,
-          "title": "Agentic Engineering Patterns",
-          "imageUrl": null
         }
       ]
     },
@@ -2144,6 +2144,16 @@
       "siteUrl": "https://martinfowler.com/feed.atom",
       "articles": [
         {
+          "id": "https://martinfowler.com/fragments/2026-04-02.html",
+          "author": null,
+          "description": "As we see LLMs churn out scads of code, folks have increasingly turned to Cognitive Debt as a metaphor for capturing how a team can lose understanding of what a system does. Margaret-Anne Storey thinks a good way of thinking about these problems is to consider three layers of system health:\nTechnical debt lives in code. It accumulates when implementation decisions compromise future changeability. It limits how systems can change.\nCognitive debt lives in people. It accumulates when shared understanding of the system erodes faster than it is replenished. It limits how teams can reason about change.\nIntent debt lives in artifacts. It accumulates when the goals and constraints that should guide the system are poorly captured or maintained. It limits whether the system continues to reflect what…",
+          "link": "https://martinfowler.com/fragments/2026-04-02.html",
+          "publishedOn": "2026-04-02T16:42:00.000Z",
+          "wordCount": 1175,
+          "title": "Fragments: April  2",
+          "imageUrl": "https://martinfowler.com/logo-sq.png"
+        },
+        {
           "id": "https://martinfowler.com/articles/harness-engineering.html",
           "author": null,
           "description": "Last month Birgitta Böckeler wrote some initial\n      thoughts about the recently developed notion of Harness Engineering. She's\n      been researching and thinking more about this in the weeks since and has now\n      written a thoughtful mental model for understanding harness\n      engineering that we think will help people to drive coding agents more effectively.\nmore…",
@@ -2232,16 +2242,6 @@
           "wordCount": 1459,
           "title": "Ideological Resistance to Patents, Followed by Reluctant                Pragmatism",
           "imageUrl": "https://martinfowler.com/logo-sq.png"
-        },
-        {
-          "id": "https://martinfowler.com/articles/exploring-gen-ai/humans-and-agents.html",
-          "author": null,
-          "description": "There's been much talk recently about how AI agents affect the workflow\n      loops of software development. Kief Morris believes the\n      answer is to focus on the goal of turning ideas into outcomes. The right\n      place for us humans is to build and manage the working loop rather than\n      either leaving the agents to it or micromanaging what they produce.\nmore…",
-          "link": "https://martinfowler.com/articles/exploring-gen-ai/humans-and-agents.html",
-          "publishedOn": "2026-03-04T05:42:00.000Z",
-          "wordCount": 1754,
-          "title": "Humans and Agents in Software Engineering Loops",
-          "imageUrl": "https://martinfowler.com/articles/exploring-gen-ai/donkey-card.png"
         }
       ]
     },
