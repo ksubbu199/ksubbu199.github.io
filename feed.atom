@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-04-02T17:49:29.492Z</updated>
+    <updated>2026-04-02T18:57:31.575Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -17,6 +17,19 @@ Cognitive debt lives in people. It accumulates when shared understanding of the 
 Intent debt lives in artifacts. It accumulates when the goals and constraints that should guide the system are poorly captured or maintained. It limits whether the system continues to reflect what…]]></summary>
         <author>
             <name>Martin Fowler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google releases Gemma 4 open models]]></title>
+        <id>https://news.ycombinator.com/item?id=47616361</id>
+        <link href="https://deepmind.google/models/gemma/gemma-4/"/>
+        <updated>2026-04-02T16:10:54.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://deepmind.google/models/gemma/gemma-4/
+Comments URL: https://news.ycombinator.com/item?id=47616361
+Points: 567
+# Comments: 160]]></summary>
+        <author>
+            <name>jeffmcjunkin</name>
         </author>
     </entry>
     <entry>
