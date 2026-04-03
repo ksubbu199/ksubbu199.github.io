@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-04-03T16:40:22.434Z</updated>
+    <updated>2026-04-03T17:34:54.516Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -17,6 +17,19 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Show HN: Apfel – The free AI already on your Mac]]></title>
+        <id>https://news.ycombinator.com/item?id=47624645</id>
+        <link href="https://apfel.franzai.com/"/>
+        <updated>2026-04-03T09:15:34.000Z</updated>
+        <summary type="html"><![CDATA[Github: https://github.com/Arthur-Ficial/apfel
+Comments URL: https://news.ycombinator.com/item?id=47624645
+Points: 523
+# Comments: 117]]></summary>
+        <author>
+            <name>franze</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Tailscale's new macOS home]]></title>
         <id>https://news.ycombinator.com/item?id=47618189</id>
         <link href="https://tailscale.com/blog/macos-notch-escape"/>
@@ -27,6 +40,19 @@ Points: 503
 # Comments: 257]]></summary>
         <author>
             <name>tosh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cursor 3]]></title>
+        <id>https://news.ycombinator.com/item?id=47618084</id>
+        <link href="https://cursor.com/blog/cursor-3"/>
+        <updated>2026-04-02T18:13:41.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://cursor.com/blog/cursor-3
+Comments URL: https://news.ycombinator.com/item?id=47618084
+Points: 509
+# Comments: 372]]></summary>
+        <author>
+            <name>adamfeldman</name>
         </author>
     </entry>
     <entry>
