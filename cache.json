@@ -26,6 +26,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://news.ycombinator.com/item?id=47615002",
+          "author": "pretext",
+          "description": "Article URL: https://qwen.ai/blog?id=qwen3.6\nComments URL: https://news.ycombinator.com/item?id=47615002\nPoints: 519\n# Comments: 182",
+          "link": "https://qwen.ai/blog?id=qwen3.6",
+          "publishedOn": "2026-04-02T14:28:52.000Z",
+          "wordCount": 206,
+          "title": "Qwen3.6-Plus: Towards real world agents",
+          "imageUrl": null
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=47613981",
           "author": "digitalWestie",
           "description": "Article URL: https://browsergate.eu/\nComments URL: https://news.ycombinator.com/item?id=47613981\nPoints: 783\n# Comments: 374",
@@ -33,6 +43,16 @@
           "publishedOn": "2026-04-02T13:09:09.000Z",
           "wordCount": 765,
           "title": "LinkedIn Is Illegally Searching Your Computer",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=47612724",
+          "author": "AbuAssar",
+          "description": "Article URL: https://lemonade-server.ai\nComments URL: https://news.ycombinator.com/item?id=47612724\nPoints: 515\n# Comments: 107",
+          "link": "https://lemonade-server.ai/",
+          "publishedOn": "2026-04-02T11:04:51.000Z",
+          "wordCount": 1743,
+          "title": "Lemonade by AMD: a fast and open source local LLM server using GPU and NPU",
           "imageUrl": null
         },
         {
@@ -1794,26 +1814,6 @@
           "wordCount": 3382,
           "title": "Dario Amodei calls OpenAI’s messaging around military deal ‘straight up lies’",
           "imageUrl": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-2153561878.jpg?w=1024"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=47253177",
-          "author": "TechPlasma",
-          "description": "Article URL: https://bill.newgrounds.com/news/post/1607118\nComments URL: https://news.ycombinator.com/item?id=47253177\nPoints: 502\n# Comments: 136",
-          "link": "https://bill.newgrounds.com/news/post/1607118",
-          "publishedOn": "2026-03-04T20:16:03.000Z",
-          "wordCount": null,
-          "title": "Building a new Flash",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=47252971",
-          "author": "marvinborner",
-          "description": "Article URL: https://mas.to/@gabrielesvelto/116171750653898304\nComments URL: https://news.ycombinator.com/item?id=47252971\nPoints: 550\n# Comments: 273",
-          "link": "https://mas.to/@gabrielesvelto/116171750653898304",
-          "publishedOn": "2026-03-04T19:58:24.000Z",
-          "wordCount": 223,
-          "title": "10% of Firefox crashes are caused by bitflips",
-          "imageUrl": null
         }
       ]
     },

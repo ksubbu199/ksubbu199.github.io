@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-04-03T07:09:44.752Z</updated>
+    <updated>2026-04-03T08:54:56.252Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -46,6 +46,19 @@ Points: 616
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Qwen3.6-Plus: Towards real world agents]]></title>
+        <id>https://news.ycombinator.com/item?id=47615002</id>
+        <link href="https://qwen.ai/blog?id=qwen3.6"/>
+        <updated>2026-04-02T14:28:52.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://qwen.ai/blog?id=qwen3.6
+Comments URL: https://news.ycombinator.com/item?id=47615002
+Points: 519
+# Comments: 182]]></summary>
+        <author>
+            <name>pretext</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Harness engineering for coding agent users]]></title>
         <id>https://martinfowler.com/articles/harness-engineering.html</id>
         <link href="https://martinfowler.com/articles/harness-engineering.html"/>
@@ -81,6 +94,19 @@ Points: 783
         <summary type="html"><![CDATA[Dependencies are a huge supply chain security risk; the more of them you have, and the more often you update, the bigger the attack surface.]]></summary>
         <author>
             <name>Ben Hoyt's technical writing</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lemonade by AMD: a fast and open source local LLM server using GPU and NPU]]></title>
+        <id>https://news.ycombinator.com/item?id=47612724</id>
+        <link href="https://lemonade-server.ai/"/>
+        <updated>2026-04-02T11:04:51.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://lemonade-server.ai
+Comments URL: https://news.ycombinator.com/item?id=47612724
+Points: 515
+# Comments: 107]]></summary>
+        <author>
+            <name>AbuAssar</name>
         </author>
     </entry>
     <entry>
@@ -2995,32 +3021,6 @@ Points: 530
 # Comments: 294]]></summary>
         <author>
             <name>SilverElfin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Building a new Flash]]></title>
-        <id>https://news.ycombinator.com/item?id=47253177</id>
-        <link href="https://bill.newgrounds.com/news/post/1607118"/>
-        <updated>2026-03-04T20:16:03.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://bill.newgrounds.com/news/post/1607118
-Comments URL: https://news.ycombinator.com/item?id=47253177
-Points: 502
-# Comments: 136]]></summary>
-        <author>
-            <name>TechPlasma</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[10% of Firefox crashes are caused by bitflips]]></title>
-        <id>https://news.ycombinator.com/item?id=47252971</id>
-        <link href="https://mas.to/@gabrielesvelto/116171750653898304"/>
-        <updated>2026-03-04T19:58:24.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://mas.to/@gabrielesvelto/116171750653898304
-Comments URL: https://news.ycombinator.com/item?id=47252971
-Points: 550
-# Comments: 273]]></summary>
-        <author>
-            <name>marvinborner</name>
         </author>
     </entry>
 </feed>
