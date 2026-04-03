@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-04-03T18:48:13.900Z</updated>
+    <updated>2026-04-03T19:37:48.468Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -14,6 +14,23 @@
         <summary type="html"><![CDATA[Availability has dropped to one nine (~90% – !!), partly due to not being able to handle increased traffic from AI coding agents. There’s also no CEO and an apparent lack of direction.]]></summary>
         <author>
             <name>Gergely Orosz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: I built a frontpage for personal blogs]]></title>
+        <id>https://news.ycombinator.com/item?id=47625952</id>
+        <link href="https://text.blogosphere.app/"/>
+        <updated>2026-04-03T12:33:45.000Z</updated>
+        <summary type="html"><![CDATA[With social media and now AI, its important to keep the indie web alive. There are many people who write frequently. Blogosphere tries to highlight them by fetching the recent posts from personal blogs across many categories.
+There are two versions:
+Minimal (HN-inspired, fast, static): https://text.blogosphere.app/
+Non-minimal: https://blogosphere.app/
+If you don't find your blog (or your favorite ones), please add them. I will review and approve it.
+Comments URL: https://news.ycombinator.com/item?id=47625952
+Points: 506
+# Comments: 141]]></summary>
+        <author>
+            <name>ramkarthikk</name>
         </author>
     </entry>
     <entry>
