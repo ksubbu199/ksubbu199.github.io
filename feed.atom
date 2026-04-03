@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-04-03T05:05:10.680Z</updated>
+    <updated>2026-04-03T07:09:44.752Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -30,6 +30,19 @@ Points: 567
 # Comments: 160]]></summary>
         <author>
             <name>jeffmcjunkin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Decisions that eroded trust in Azure – by a former Azure Core engineer]]></title>
+        <id>https://news.ycombinator.com/item?id=47616242</id>
+        <link href="https://isolveproblems.substack.com/p/how-microsoft-vaporized-a-trillion"/>
+        <updated>2026-04-02T16:00:27.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://isolveproblems.substack.com/p/how-microsoft-vaporized-a-trillion
+Comments URL: https://news.ycombinator.com/item?id=47616242
+Points: 616
+# Comments: 241]]></summary>
+        <author>
+            <name>axelriet</name>
         </author>
     </entry>
     <entry>
@@ -3008,19 +3021,6 @@ Points: 550
 # Comments: 273]]></summary>
         <author>
             <name>marvinborner</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[An interactive map of Flock Cams]]></title>
-        <id>https://news.ycombinator.com/item?id=47252049</id>
-        <link href="https://deflock.org/map#map=5/37.125286/-96.284180"/>
-        <updated>2026-03-04T18:50:45.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://deflock.org/map#map=5/37.125286/-96.284180
-Comments URL: https://news.ycombinator.com/item?id=47252049
-Points: 504
-# Comments: 190]]></summary>
-        <author>
-            <name>anjel</name>
         </author>
     </entry>
 </feed>
