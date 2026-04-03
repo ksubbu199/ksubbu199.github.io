@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-04-03T14:41:22.503Z</updated>
+    <updated>2026-04-03T15:39:14.868Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The Pulse: is GitHub still best for AI-native development?]]></title>
+        <id>69cfc72da95ab10001e47e0c</id>
+        <link href="https://blog.pragmaticengineer.com/the-pulse-is-github-still-best-for-ai-native-development/"/>
+        <updated>2026-04-03T15:03:38.000Z</updated>
+        <summary type="html"><![CDATA[Availability has dropped to one nine (~90% – !!), partly due to not being able to handle increased traffic from AI coding agents. There’s also no CEO and an apparent lack of direction.]]></summary>
+        <author>
+            <name>Gergely Orosz</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Tailscale's new macOS home]]></title>
         <id>https://news.ycombinator.com/item?id=47618189</id>

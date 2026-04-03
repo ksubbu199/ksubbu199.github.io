@@ -2207,6 +2207,16 @@
       "siteUrl": "https://blog.pragmaticengineer.com/",
       "articles": [
         {
+          "id": "69cfc72da95ab10001e47e0c",
+          "author": "Gergely Orosz",
+          "description": "Availability has dropped to one nine (~90% – !!), partly due to not being able to handle increased traffic from AI coding agents. There’s also no CEO and an apparent lack of direction.",
+          "link": "https://blog.pragmaticengineer.com/the-pulse-is-github-still-best-for-ai-native-development/",
+          "publishedOn": "2026-04-03T15:03:38.000Z",
+          "wordCount": 2182,
+          "title": "The Pulse: is GitHub still best for AI-native development?",
+          "imageUrl": null
+        },
+        {
           "id": "69c5918c3f13830001776a97",
           "author": "Gergely Orosz",
           "description": "Job postings for Forward Deployed Engineers (FDEs) have surged, but many professionals don’t want the role because it’s more like solutions engineering than software development.",
