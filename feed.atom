@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-04-04T05:57:29.611Z</updated>
+    <updated>2026-04-04T07:06:29.065Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Tell HN: Anthropic no longer allowing Claude Code subscriptions to use OpenClaw]]></title>
+        <id>https://news.ycombinator.com/item?id=47633396</id>
+        <link href="https://news.ycombinator.com/item?id=47633396"/>
+        <updated>2026-04-03T22:55:24.000Z</updated>
+        <summary type="html"><![CDATA[Received the following email from Anthropic:
+Hi,
+Starting April 4 at 12pm PT / 8pm BST, you’ll no longer be able to use your Claude subscription limits for third-party harnesses including OpenClaw. You can still use them with your Claude account, but they will require extra usage, a pay-as-you-go option billed separately from your subscription.
+Your subscription still covers all Claude products, including Claude Code and Claude Cowork. To keep using third-party harnesses with your Claude login, turn on extra usage for your account. This will be enforced April 4 starting with OpenClaw, but this policy applies to all third-party harnesses and will be rolled out to more shortly (read more).
+To make the transition easier, we’re offering a one-time credit for extra usage equal to your monthly subscription price. Redeem your credit by April 17. We’re also introducing discounts when you pre-purchase bundles of extra usage (up to 30%).
+We’ve been working to manage demand across the board, but these tools put an outsized strain on our systems. Capacity is a resource we manage carefully and we need to prioritize our customers using our core products. You will receive another email from us tomorrow where you’ll have the ability to refund your subscription if you prefer.
+Comments URL: https://news.ycombinator.com/item?id=47633396
+Points: 540
+# Comments: 474]]></summary>
+        <author>
+            <name>firloop</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Artemis II crew take “spectacular” image of Earth]]></title>
         <id>https://news.ycombinator.com/item?id=47631118</id>
@@ -2948,30 +2966,6 @@ Points: 519
         <summary type="html"><![CDATA[Dictionaries are one of Python’s most useful data structures. Instead of accessing values by a numeric index like you do with lists, you access them by a key — usually a string. If lists are like numbered shelves, dictionaries are like labeled drawers.]]></summary>
         <author>
             <name>Boot.dev Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GPT-5.4]]></title>
-        <id>https://news.ycombinator.com/item?id=47265045</id>
-        <link href="https://openai.com/index/introducing-gpt-5-4/"/>
-        <updated>2026-03-05T18:08:10.000Z</updated>
-        <summary type="html"><![CDATA[https://openai.com/index/gpt-5-4-thinking-system-card/
-https://x.com/OpenAI/status/2029620619743219811
-Comments URL: https://news.ycombinator.com/item?id=47265045
-Points: 551
-# Comments: 499]]></summary>
-        <author>
-            <name>mudkipdev</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Pulse: Cloudflare rewrites Next.js as AI rewrites commercial open source]]></title>
-        <id>69a9c3bb4c4eb80001b25ced</id>
-        <link href="https://blog.pragmaticengineer.com/the-pulse-cloudflare-rewrites-next-js-as-ai-rewrites-commercial-open-source/"/>
-        <updated>2026-03-05T18:03:16.000Z</updated>
-        <summary type="html"><![CDATA[An engineer at Cloudflare rewrote most of Vercel’s Next.js in one week with AI agents. It looks like a sign of how AI will disrupt existing moats and business models. Analysis]]></summary>
-        <author>
-            <name>Gergely Orosz</name>
         </author>
     </entry>
 </feed>

@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=47633396",
+          "author": "firloop",
+          "description": "Received the following email from Anthropic:\nHi,\nStarting April 4 at 12pm PT / 8pm BST, you’ll no longer be able to use your Claude subscription limits for third-party harnesses including OpenClaw. You can still use them with your Claude account, but they will require extra usage, a pay-as-you-go option billed separately from your subscription.\nYour subscription still covers all Claude products, including Claude Code and Claude Cowork. To keep using third-party harnesses with your Claude login, turn on extra usage for your account. This will be enforced April 4 starting with OpenClaw, but this policy applies to all third-party harnesses and will be rolled out to more shortly (read more).\nTo make the transition easier, we’re offering a one-time credit for extra usage equal to your monthly subscription price. Redeem your credit by April 17. We’re also introducing discounts when you pre-purchase bundles of extra usage (up to 30%).\nWe’ve been working to manage demand across the board, but these tools put an outsized strain on our systems. Capacity is a resource we manage carefully and we need to prioritize our customers using our core products. You will receive another email from us tomorrow where you’ll have the ability to refund your subscription if you prefer.\nComments URL: https://news.ycombinator.com/item?id=47633396\nPoints: 540\n# Comments: 474",
+          "link": "https://news.ycombinator.com/item?id=47633396",
+          "publishedOn": "2026-04-03T22:55:24.000Z",
+          "wordCount": 27159,
+          "title": "Tell HN: Anthropic no longer allowing Claude Code subscriptions to use OpenClaw",
+          "imageUrl": null
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=47631118",
           "author": "andsoitis",
           "description": "https://www.nasa.gov/image-detail/fd02_for-pao/\nComments URL: https://news.ycombinator.com/item?id=47631118\nPoints: 600\n# Comments: 230",
@@ -1774,16 +1784,6 @@
           "wordCount": 1797,
           "title": "Where things stand with the Department of War",
           "imageUrl": "https://cdn.sanity.io/images/4zrzovbb/website/faeb5935baa3fba4e4d4459637e83e14d218b648-2400x1260.png"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=47265045",
-          "author": "mudkipdev",
-          "description": "https://openai.com/index/gpt-5-4-thinking-system-card/\nhttps://x.com/OpenAI/status/2029620619743219811\nComments URL: https://news.ycombinator.com/item?id=47265045\nPoints: 551\n# Comments: 499",
-          "link": "https://openai.com/index/introducing-gpt-5-4/",
-          "publishedOn": "2026-03-05T18:08:10.000Z",
-          "wordCount": null,
-          "title": "GPT-5.4",
-          "imageUrl": null
         }
       ]
     },
@@ -2194,16 +2194,6 @@
           "publishedOn": "2026-03-27T10:29:33.000Z",
           "wordCount": 1309,
           "title": "Is the FDE role becoming less desirable?",
-          "imageUrl": null
-        },
-        {
-          "id": "69a9c3bb4c4eb80001b25ced",
-          "author": "Gergely Orosz",
-          "description": "An engineer at Cloudflare rewrote most of Vercel’s Next.js in one week with AI agents. It looks like a sign of how AI will disrupt existing moats and business models. Analysis",
-          "link": "https://blog.pragmaticengineer.com/the-pulse-cloudflare-rewrites-next-js-as-ai-rewrites-commercial-open-source/",
-          "publishedOn": "2026-03-05T18:03:16.000Z",
-          "wordCount": 4477,
-          "title": "The Pulse: Cloudflare rewrites Next.js as AI rewrites commercial open source",
           "imageUrl": null
         }
       ]
