@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-04-04T11:29:25.339Z</updated>
+    <updated>2026-04-04T12:56:30.600Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -2969,29 +2969,6 @@ Points: 544
 # Comments: 358]]></summary>
         <author>
             <name>LorenDB</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Where things stand with the Department of War]]></title>
-        <id>https://news.ycombinator.com/item?id=47269263</id>
-        <link href="https://www.anthropic.com/news/where-stand-department-war"/>
-        <updated>2026-03-06T00:40:41.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.anthropic.com/news/where-stand-department-war
-Comments URL: https://news.ycombinator.com/item?id=47269263
-Points: 519
-# Comments: 572]]></summary>
-        <author>
-            <name>surprisetalk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Python Dictionaries: How to Create and Use Them]]></title>
-        <id>https://boot.dev/blog/python/python-dictionaries/</id>
-        <link href="https://boot.dev/blog/python/python-dictionaries/"/>
-        <updated>2026-03-06T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Dictionaries are one of Python’s most useful data structures. Instead of accessing values by a numeric index like you do with lists, you access them by a key — usually a string. If lists are like numbered shelves, dictionaries are like labeled drawers.]]></summary>
-        <author>
-            <name>Boot.dev Blog</name>
         </author>
     </entry>
 </feed>
