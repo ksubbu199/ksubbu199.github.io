@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=47631118",
+          "author": "andsoitis",
+          "description": "https://www.nasa.gov/image-detail/fd02_for-pao/\nComments URL: https://news.ycombinator.com/item?id=47631118\nPoints: 600\n# Comments: 230",
+          "link": "https://www.bbc.com/news/articles/ce8jzr423p9o",
+          "publishedOn": "2026-04-03T19:35:02.000Z",
+          "wordCount": 5475,
+          "title": "Artemis II crew take “spectacular” image of Earth",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/383b/live/6c4ec320-2f7b-11f1-934f-036468834728.jpg"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=47625952",
           "author": "ramkarthikk",
           "description": "With social media and now AI, its important to keep the indie web alive. There are many people who write frequently. Blogosphere tries to highlight them by fetching the recent posts from personal blogs across many categories.\nThere are two versions:\nMinimal (HN-inspired, fast, static): https://text.blogosphere.app/\nNon-minimal: https://blogosphere.app/\nIf you don't find your blog (or your favorite ones), please add them. I will review and approve it.\nComments URL: https://news.ycombinator.com/item?id=47625952\nPoints: 506\n# Comments: 141",
@@ -1773,26 +1783,6 @@
           "publishedOn": "2026-03-05T18:08:10.000Z",
           "wordCount": null,
           "title": "GPT-5.4",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=47263595",
-          "author": "edf13",
-          "description": "Original report: https://adnanthekhan.com/posts/clinejection/\nComments URL: https://news.ycombinator.com/item?id=47263595\nPoints: 508\n# Comments: 157",
-          "link": "https://grith.ai/blog/clinejection-when-your-ai-tool-installs-another",
-          "publishedOn": "2026-03-05T16:22:01.000Z",
-          "wordCount": 3487,
-          "title": "A GitHub Issue Title Compromised 4k Developer Machines",
-          "imageUrl": "https://grith.ai/blog/clinejection-when-your-ai-tool-installs-another/hero-clinejection-chain-1600x900.png"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=47263323",
-          "author": "greyface-",
-          "description": "Article URL: https://www.wikimediastatus.net\nComments URL: https://news.ycombinator.com/item?id=47263323\nPoints: 587\n# Comments: 181",
-          "link": "https://www.wikimediastatus.net/",
-          "publishedOn": "2026-03-05T16:04:54.000Z",
-          "wordCount": 6490,
-          "title": "Wikipedia in read-only mode following mass admin account compromise",
           "imageUrl": null
         }
       ]
