@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-04-05T05:11:41.586Z</updated>
+    <updated>2026-04-05T07:06:57.370Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How many products does Microsoft have named 'Copilot'?]]></title>
+        <id>https://news.ycombinator.com/item?id=47642569</id>
+        <link href="https://teybannerman.com/strategy/2026/03/31/how-many-microsoft-copilot-are-there.html"/>
+        <updated>2026-04-04T19:39:43.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://teybannerman.com/strategy/2026/03/31/how-many-microsoft-copilot-are-there.html
+Comments URL: https://news.ycombinator.com/item?id=47642569
+Points: 556
+# Comments: 271]]></summary>
+        <author>
+            <name>gpi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Show HN: A game where you build a GPU]]></title>
         <id>https://news.ycombinator.com/item?id=47640728</id>
@@ -122,6 +135,20 @@ Points: 501
 # Comments: 120]]></summary>
         <author>
             <name>bookofjoe</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenClaw privilege escalation vulnerability]]></title>
+        <id>https://news.ycombinator.com/item?id=47628608</id>
+        <link href="https://nvd.nist.gov/vuln/detail/CVE-2026-33579"/>
+        <updated>2026-04-03T16:21:32.000Z</updated>
+        <summary type="html"><![CDATA[https://old.reddit.com/r/sysadmin/comments/1sbdw29/if_youre_...
+https://web.archive.org/web/20260403174514/https://old.reddi...
+Comments URL: https://news.ycombinator.com/item?id=47628608
+Points: 500
+# Comments: 244]]></summary>
+        <author>
+            <name>kykeonaut</name>
         </author>
     </entry>
     <entry>
@@ -2944,19 +2971,6 @@ Points: 501
 # Comments: 151]]></summary>
         <author>
             <name>PaulHoule</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tech employment now significantly worse than the 2008 or 2020 recessions]]></title>
-        <id>https://news.ycombinator.com/item?id=47278426</id>
-        <link href="https://twitter.com/JosephPolitano/status/2029916364664611242"/>
-        <updated>2026-03-06T17:46:45.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://twitter.com/JosephPolitano/status/2029916364664611242
-Comments URL: https://news.ycombinator.com/item?id=47278426
-Points: 543
-# Comments: 377]]></summary>
-        <author>
-            <name>enraged_camel</name>
         </author>
     </entry>
 </feed>
