@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-04-05T11:30:03.661Z</updated>
+    <updated>2026-04-05T12:58:12.696Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -2935,42 +2935,6 @@ Points: 536
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>Hussein Nasser</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tell HN: I'm 60 years old. Claude Code has re-ignited a passion]]></title>
-        <id>https://news.ycombinator.com/item?id=47282777</id>
-        <link href="https://news.ycombinator.com/item?id=47282777"/>
-        <updated>2026-03-07T00:05:06.000Z</updated>
-        <summary type="html"><![CDATA[I’m ready to retire. In my younger days, I remember a few pivotal moments for me as a young nerd. Active Server Pages. COM components. VB6. I know these are laughable today but back then it was the greatest thing in the world to be able to call server-side commands. It kept me up nights trying to absorb it all. Fast forward decades and Claude Code is giving me that same energy and drive. I love it. It feels like it did back then. I’m chasing the midnight hour and not getting any sleep.
-Comments URL: https://news.ycombinator.com/item?id=47282777
-Points: 557
-# Comments: 432]]></summary>
-        <author>
-            <name>shannoncc</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Python Sets: What They Are and How to Use Them]]></title>
-        <id>https://boot.dev/blog/python/python-sets/</id>
-        <link href="https://boot.dev/blog/python/python-sets/"/>
-        <updated>2026-03-07T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Sets are like lists, but with two key differences: they are unordered and they guarantee uniqueness. Only one of each value can exist in a set. If you need to track unique items or remove duplicates, sets are the tool for the job.]]></summary>
-        <author>
-            <name>Boot.dev Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Plasma Bigscreen – 10-foot interface for KDE plasma]]></title>
-        <id>https://news.ycombinator.com/item?id=47282736</id>
-        <link href="https://plasma-bigscreen.org/"/>
-        <updated>2026-03-06T23:59:16.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://plasma-bigscreen.org
-Comments URL: https://news.ycombinator.com/item?id=47282736
-Points: 501
-# Comments: 151]]></summary>
-        <author>
-            <name>PaulHoule</name>
         </author>
     </entry>
 </feed>
