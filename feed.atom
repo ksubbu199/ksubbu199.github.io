@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-04-06T11:50:03.343Z</updated>
+    <updated>2026-04-06T13:11:49.783Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -3043,16 +3043,6 @@ There are a few parts to the difficulty. One is that when I have something to sa
 Another is that weekends are hard. I used to be in a house filled with life each weekend, and now it's me and my dog (and my cat, when he decides to grace me with his presence). Having animals helps somewhat, but it's still hard simply being alone with myself for …]]></summary>
         <author>
             <name>sillysaurusx</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Python Exceptions: Try, Except, and Raise]]></title>
-        <id>https://boot.dev/blog/python/python-exceptions/</id>
-        <link href="https://boot.dev/blog/python/python-exceptions/"/>
-        <updated>2026-03-08T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Python has two kinds of errors: syntax errors that prevent your code from running at all, and exceptions that happen while your code is executing. Knowing how to handle exceptions with try/except and how to raise your own is a core skill for writing reliable programs.]]></summary>
-        <author>
-            <name>Boot.dev Blog</name>
         </author>
     </entry>
 </feed>

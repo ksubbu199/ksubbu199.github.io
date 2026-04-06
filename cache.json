@@ -2108,16 +2108,6 @@
           "wordCount": 751,
           "title": "The Boot.dev Beat. March 2026",
           "imageUrl": "https://boot.dev/blog/img/featured/the-bootdev-beat-march-2026.webp"
-        },
-        {
-          "id": "https://boot.dev/blog/python/python-exceptions/",
-          "author": null,
-          "description": "Python has two kinds of errors: syntax errors that prevent your code from running at all, and exceptions that happen while your code is executing. Knowing how to handle exceptions with try/except and how to raise your own is a core skill for writing reliable programs.",
-          "link": "https://boot.dev/blog/python/python-exceptions/",
-          "publishedOn": "2026-03-08T00:00:00.000Z",
-          "wordCount": 1800,
-          "title": "Python Exceptions: Try, Except, and Raise",
-          "imageUrl": "https://boot.dev/img/featured/python-exceptions-try-except-and-raise.webp"
         }
       ]
     },
