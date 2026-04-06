@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=47661439",
+          "author": "ssiddharth",
+          "description": "Article URL: https://www.0xsid.com/blog/wont-download-your-app\nComments URL: https://news.ycombinator.com/item?id=47661439\nPoints: 565\n# Comments: 308",
+          "link": "https://www.0xsid.com/blog/wont-download-your-app",
+          "publishedOn": "2026-04-06T14:31:29.000Z",
+          "wordCount": 1691,
+          "title": "I won't download your app. The web version is a-ok",
+          "imageUrl": null
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=47655408",
           "author": "armanified",
           "description": "Built a ~9M param LLM from scratch to understand how they actually work. Vanilla transformer, 60K synthetic conversations, ~130 lines of PyTorch. Trains in 5 min on a free Colab T4. The fish thinks the meaning of life is food.\nFork it and swap the personality for your own character.\nComments URL: https://news.ycombinator.com/item?id=47655408\nPoints: 506\n# Comments: 50",
