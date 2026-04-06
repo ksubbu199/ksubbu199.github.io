@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-04-06T02:32:30.993Z</updated>
+    <updated>2026-04-06T05:24:59.397Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Gemma 4 on iPhone]]></title>
+        <id>https://news.ycombinator.com/item?id=47652561</id>
+        <link href="https://apps.apple.com/nl/app/google-ai-edge-gallery/id6749645337"/>
+        <updated>2026-04-05T18:45:53.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://apps.apple.com/nl/app/google-ai-edge-gallery/id6749645337
+Comments URL: https://news.ycombinator.com/item?id=47652561
+Points: 514
+# Comments: 133]]></summary>
+        <author>
+            <name>janandonly</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Eight years of wanting, three months of building with AI]]></title>
         <id>https://news.ycombinator.com/item?id=47648828</id>
@@ -82,6 +95,19 @@ Points: 518
 # Comments: 137]]></summary>
         <author>
             <name>Jaso1024</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple approves driver that lets Nvidia eGPUs work with Arm Macs]]></title>
+        <id>https://news.ycombinator.com/item?id=47640380</id>
+        <link href="https://twitter.com/__tinygrad__/status/2039213719155310736"/>
+        <updated>2026-04-04T16:16:10.000Z</updated>
+        <summary type="html"><![CDATA[https://xcancel.com/__tinygrad__/status/2039213719155310736
+Comments URL: https://news.ycombinator.com/item?id=47640380
+Points: 501
+# Comments: 229]]></summary>
+        <author>
+            <name>naves</name>
         </author>
     </entry>
     <entry>
