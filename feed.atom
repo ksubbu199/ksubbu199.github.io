@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-04-07T02:27:02.893Z</updated>
+    <updated>2026-04-07T05:09:16.462Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The cult of vibe coding is dogfooding run amok]]></title>
+        <id>https://news.ycombinator.com/item?id=47664912</id>
+        <link href="https://bramcohen.com/p/the-cult-of-vibe-coding-is-insane"/>
+        <updated>2026-04-06T18:31:03.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://bramcohen.com/p/the-cult-of-vibe-coding-is-insane
+Comments URL: https://news.ycombinator.com/item?id=47664912
+Points: 503
+# Comments: 439]]></summary>
+        <author>
+            <name>drob518</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How insurance Companies Trick You!]]></title>
         <id>https://www.youtube.com/shorts/Noydu6tZ7CA</id>
@@ -3093,19 +3106,6 @@ Points: 507
 # Comments: 388]]></summary>
         <author>
             <name>Oras</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FrameBook]]></title>
-        <id>https://news.ycombinator.com/item?id=47298044</id>
-        <link href="https://fb.edoo.gg/"/>
-        <updated>2026-03-08T15:21:09.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://fb.edoo.gg
-Comments URL: https://news.ycombinator.com/item?id=47298044
-Points: 504
-# Comments: 84]]></summary>
-        <author>
-            <name>todsacerdoti</name>
         </author>
     </entry>
 </feed>
