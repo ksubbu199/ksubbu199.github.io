@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-04-07T20:51:36.212Z</updated>
+    <updated>2026-04-07T21:41:44.719Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Project Glasswing: Securing critical software for the AI era]]></title>
+        <id>https://news.ycombinator.com/item?id=47679121</id>
+        <link href="https://www.anthropic.com/glasswing"/>
+        <updated>2026-04-07T18:09:34.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.anthropic.com/glasswing
+Comments URL: https://news.ycombinator.com/item?id=47679121
+Points: 570
+# Comments: 228]]></summary>
+        <author>
+            <name>Ryan5453</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Principles of Mechanical Sympathy]]></title>
         <id>https://martinfowler.com/articles/mechanical-sympathy-principles.html</id>
