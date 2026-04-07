@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-04-07T07:17:22.064Z</updated>
+    <updated>2026-04-07T09:02:07.215Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -3078,34 +3078,6 @@ Points: 500
 # Comments: 393]]></summary>
         <author>
             <name>dryadin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Agent Safehouse – macOS-native sandboxing for local agents]]></title>
-        <id>https://news.ycombinator.com/item?id=47301085</id>
-        <link href="https://agent-safehouse.dev/"/>
-        <updated>2026-03-08T20:30:18.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://agent-safehouse.dev/
-Comments URL: https://news.ycombinator.com/item?id=47301085
-Points: 518
-# Comments: 118]]></summary>
-        <author>
-            <name>atombender</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ask HN: Please restrict new accounts from posting]]></title>
-        <id>https://news.ycombinator.com/item?id=47300329</id>
-        <link href="https://news.ycombinator.com/item?id=47300329"/>
-        <updated>2026-03-08T19:26:59.000Z</updated>
-        <summary type="html"><![CDATA[I don’t know if I’m the only one, but I see lots of clearly AI generated posts recently in HN and mostly coming from new accounts (green), it is more noticeable in the Show HN section.
-I wish the team can either restrict new accounts from posting or at least offer a default filtering where I can only see posts from accounts with certain criteria.
-I don’t want to see HN becoming twitter, which is full of bots and noise, as this would be a really sad day.
-Comments URL: https://news.ycombinator.com/item?id=47300329
-Points: 507
-# Comments: 388]]></summary>
-        <author>
-            <name>Oras</name>
         </author>
     </entry>
 </feed>
