@@ -2,10 +2,39 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-04-07T13:19:15.203Z</updated>
+    <updated>2026-04-07T15:07:33.256Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Principles of Mechanical Sympathy]]></title>
+        <id>https://martinfowler.com/articles/mechanical-sympathy-principles.html</id>
+        <link href="https://martinfowler.com/articles/mechanical-sympathy-principles.html"/>
+        <updated>2026-04-07T13:39:00.000Z</updated>
+        <summary type="html"><![CDATA[Modern hardware is remarkably fast, but software often fails to
+      leverage it. Caer Sanders has found it valuable to guide
+      his work with mechanical sympathy - the practice of creating
+      software that is sympathetic to its underlying hardware. He distills this
+      practice into everyday principles: predictable memory access, awareness of
+      cache lines, single-writer, and natural batching.
+more…]]></summary>
+        <author>
+            <name>Martin Fowler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Are We Idiocracy Yet?]]></title>
+        <id>https://news.ycombinator.com/item?id=47672818</id>
+        <link href="https://idiocracy.wtf/"/>
+        <updated>2026-04-07T09:57:39.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://idiocracy.wtf/
+Comments URL: https://news.ycombinator.com/item?id=47672818
+Points: 535
+# Comments: 422]]></summary>
+        <author>
+            <name>jdiiufccuskal</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The cult of vibe coding is dogfooding run amok]]></title>
         <id>https://news.ycombinator.com/item?id=47664912</id>
