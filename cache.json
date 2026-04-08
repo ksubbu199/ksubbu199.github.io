@@ -26,6 +26,16 @@
           "imageUrl": "https://cdn.sanity.io/images/4zrzovbb/website/65641e7846f10255c4a3415a10bbf5793ae87b13-1200x630.jpg"
         },
         {
+          "id": "https://news.ycombinator.com/item?id=47676509",
+          "author": "kipi",
+          "description": "Article URL: https://www.nasa.gov/gallery/lunar-flyby/\nComments URL: https://news.ycombinator.com/item?id=47676509\nPoints: 519\n# Comments: 122",
+          "link": "https://www.nasa.gov/gallery/lunar-flyby/",
+          "publishedOn": "2026-04-07T15:03:18.000Z",
+          "wordCount": 1795,
+          "title": "Lunar Flyby",
+          "imageUrl": "https://www.nasa.gov/wp-content/uploads/2026/04/art002e009288orig.jpg"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=47673360",
           "author": "sam-bee",
           "description": "Article URL: https://sam-burns.com/posts/concrete-laptop-stand/\nComments URL: https://news.ycombinator.com/item?id=47673360\nPoints: 547\n# Comments: 176",
@@ -1904,26 +1914,6 @@
           "wordCount": 6398,
           "title": "Florida judge rules red light camera tickets are unconstitutional",
           "imageUrl": "https://cbs12.com/resources/media2/16x9/602/1320/37x0/90/0bdb9082-796c-4b80-ae94-3e21c2de95d3-REDLIGHTCAMERA.png"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=47311815",
-          "author": "imadr",
-          "description": "Article URL: https://felixturner.github.io/hex-map-wfc/article/\nComments URL: https://news.ycombinator.com/item?id=47311815\nPoints: 511\n# Comments: 72",
-          "link": "https://felixturner.github.io/hex-map-wfc/article/",
-          "publishedOn": "2026-03-09T17:02:22.000Z",
-          "wordCount": 3095,
-          "title": "Building a Procedural Hex Map with Wave Function Collapse",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=47310160",
-          "author": "dahlia",
-          "description": "Article URL: https://writings.hongminhee.org/2026/03/legal-vs-legitimate/\nComments URL: https://news.ycombinator.com/item?id=47310160\nPoints: 524\n# Comments: 523",
-          "link": "https://writings.hongminhee.org/2026/03/legal-vs-legitimate/",
-          "publishedOn": "2026-03-09T15:12:53.000Z",
-          "wordCount": 2217,
-          "title": "Is legal the same as legitimate: AI reimplementation and the erosion of copyleft",
-          "imageUrl": null
         }
       ]
     },

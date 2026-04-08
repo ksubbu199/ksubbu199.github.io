@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-04-08T02:28:55.200Z</updated>
+    <updated>2026-04-08T05:10:41.270Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -31,6 +31,19 @@ Points: 570
 # Comments: 228]]></summary>
         <author>
             <name>Ryan5453</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lunar Flyby]]></title>
+        <id>https://news.ycombinator.com/item?id=47676509</id>
+        <link href="https://www.nasa.gov/gallery/lunar-flyby/"/>
+        <updated>2026-04-07T15:03:18.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.nasa.gov/gallery/lunar-flyby/
+Comments URL: https://news.ycombinator.com/item?id=47676509
+Points: 519
+# Comments: 122]]></summary>
+        <author>
+            <name>kipi</name>
         </author>
     </entry>
     <entry>
@@ -3108,32 +3121,6 @@ Points: 500
 # Comments: 659]]></summary>
         <author>
             <name>1970-01-01</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Building a Procedural Hex Map with Wave Function Collapse]]></title>
-        <id>https://news.ycombinator.com/item?id=47311815</id>
-        <link href="https://felixturner.github.io/hex-map-wfc/article/"/>
-        <updated>2026-03-09T17:02:22.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://felixturner.github.io/hex-map-wfc/article/
-Comments URL: https://news.ycombinator.com/item?id=47311815
-Points: 511
-# Comments: 72]]></summary>
-        <author>
-            <name>imadr</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Is legal the same as legitimate: AI reimplementation and the erosion of copyleft]]></title>
-        <id>https://news.ycombinator.com/item?id=47310160</id>
-        <link href="https://writings.hongminhee.org/2026/03/legal-vs-legitimate/"/>
-        <updated>2026-03-09T15:12:53.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://writings.hongminhee.org/2026/03/legal-vs-legitimate/
-Comments URL: https://news.ycombinator.com/item?id=47310160
-Points: 524
-# Comments: 523]]></summary>
-        <author>
-            <name>dahlia</name>
         </author>
     </entry>
 </feed>
