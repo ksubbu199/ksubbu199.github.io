@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=47687273",
+          "author": "grepsedawk",
+          "description": "Article URL: https://piechowski.io/post/git-commands-before-reading-code/\nComments URL: https://news.ycombinator.com/item?id=47687273\nPoints: 841\n# Comments: 183",
+          "link": "https://piechowski.io/post/git-commands-before-reading-code/",
+          "publishedOn": "2026-04-08T08:53:42.000Z",
+          "wordCount": 1558,
+          "title": "Git commands I run before reading any code",
+          "imageUrl": "https://piechowski.io/post/git-commands-before-reading-code/cover_hu3f66e25b7571f7e32d40f355f31a2ca9_56928_1200x630_resize_box_2.png"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=47686549",
           "author": "super256",
           "description": "Article URL: https://sourceforge.net/p/veracrypt/discussion/general/thread/9620d7a4b3/\nComments URL: https://news.ycombinator.com/item?id=47686549\nPoints: 516\n# Comments: 156",
@@ -1970,6 +1980,16 @@
       "siteUrl": "https://boot.dev/blog/",
       "articles": [
         {
+          "id": "https://boot.dev/blog/news/bootdev-beat-2026-04/",
+          "author": null,
+          "description": "March was a monster month. We shipped the new DevOps learning path (18 DevOps courses!), 2 brand new courses, upgraded the in-browser Python coding experience, and made Boot.dev noticeably better on phones.",
+          "link": "https://boot.dev/blog/news/bootdev-beat-2026-04/",
+          "publishedOn": "2026-04-08T00:00:00.000Z",
+          "wordCount": 903,
+          "title": "The Boot.dev Beat. April 2026",
+          "imageUrl": "https://boot.dev/blog/img/featured/the-bootdev-beat-april-2026.webp"
+        },
+        {
           "id": "https://boot.dev/blog/devops/git-rebase/",
           "author": null,
           "description": "If git merge feels noisy, that’s because it can be. Lots of noisy merge commits make history harder to scan, especially when you’re just trying to understand what actually changed. git rebase takes a different approach: instead of creating a merge commit, it replays your branch commits on top of the latest base commit so your history stays clean and linear.",
@@ -2182,6 +2202,16 @@
       "feedUrl": "https://martinfowler.com/feed.atom",
       "siteUrl": "https://martinfowler.com/feed.atom",
       "articles": [
+        {
+          "id": "https://martinfowler.com/articles/reduce-friction-ai/feedback-flywheel.html",
+          "author": null,
+          "description": "Rahul Garg finishes his\n      series on reducing the friction in AI-Assisted Development. He\n      proposes a structured feedback practice that harvests learnings from AI\n      sessions and feeds them back into the team's shared artifacts, turning\n      individual experience into collective improvement.\nmore…",
+          "link": "https://martinfowler.com/articles/reduce-friction-ai/feedback-flywheel.html",
+          "publishedOn": "2026-04-08T13:28:00.000Z",
+          "wordCount": 2806,
+          "title": "Feedback Flywheel",
+          "imageUrl": "https://martinfowler.com/logo-sq.png"
+        },
         {
           "id": "https://martinfowler.com/articles/mechanical-sympathy-principles.html",
           "author": null,
