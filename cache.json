@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=47686549",
+          "author": "super256",
+          "description": "Article URL: https://sourceforge.net/p/veracrypt/discussion/general/thread/9620d7a4b3/\nComments URL: https://news.ycombinator.com/item?id=47686549\nPoints: 516\n# Comments: 156",
+          "link": "https://sourceforge.net/p/veracrypt/discussion/general/thread/9620d7a4b3/",
+          "publishedOn": "2026-04-08T07:23:39.000Z",
+          "wordCount": 2158,
+          "title": "Veracrypt project update",
+          "imageUrl": null
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=47682276",
           "author": "g-b-r",
           "description": "https://www.reuters.com/world/iran-war-live-tehran-rejects-c...\nComments URL: https://news.ycombinator.com/item?id=47682276\nPoints: 512\n# Comments: 1515",
@@ -2165,18 +2175,7 @@
       "title": "Julia Evans",
       "feedUrl": "https://jvns.ca/atom.xml",
       "siteUrl": "https://jvns.ca/atom.xml",
-      "articles": [
-        {
-          "id": "https://jvns.ca/blog/2026/03/10/examples-for-the-tcpdump-and-dig-man-pages/",
-          "author": null,
-          "description": "Hello! My big takeaway from last month’s musings about man pages\nwas that examples in man pages are really great, so I worked on adding (or\nimproving) examples to two of my favourite tools’ man pages.\nHere they are:\nthe dig man page (now with examples)\nthe tcpdump man page examples (this one is an update to the previous examples)\nthe goal: include the most basic examples\nThe goal here was really just to give the absolute most basic examples of how to\nuse the tool, for people who use tcpdump or dig infrequently (or have never used\nit before!) and don’t remember how it works.\nSo far saying “hey, I want to write an examples section for beginners and\ninfrequent users of this tools” has been working really well. It’s easy to\nexplain, I think it makes sense from everything I’ve heard from users …",
-          "link": "https://jvns.ca/blog/2026/03/10/examples-for-the-tcpdump-and-dig-man-pages/",
-          "publishedOn": "2026-03-10T00:00:00.000Z",
-          "wordCount": 874,
-          "title": "Examples for the tcpdump and dig man pages",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Martin Fowler",
