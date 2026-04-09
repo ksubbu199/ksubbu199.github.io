@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-04-09T05:10:10.960Z</updated>
+    <updated>2026-04-09T07:23:02.208Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[LittleSnitch for Linux]]></title>
+        <id>https://news.ycombinator.com/item?id=47697870</id>
+        <link href="https://obdev.at/products/littlesnitch-linux/index.html"/>
+        <updated>2026-04-09T00:26:08.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://obdev.at/products/littlesnitch-linux/index.html
+Comments URL: https://news.ycombinator.com/item?id=47697870
+Points: 539
+# Comments: 168]]></summary>
+        <author>
+            <name>pluc</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Someone is always getting blocked]]></title>
         <id>https://www.youtube.com/shorts/hFf9XYR2v1I</id>
@@ -68,6 +81,19 @@ Points: 533
 # Comments: 315]]></summary>
         <author>
             <name>giuliomagnifico</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[They're made out of meat (1991)]]></title>
+        <id>https://news.ycombinator.com/item?id=47688678</id>
+        <link href="http://www.terrybisson.com/theyre-made-out-of-meat-2/"/>
+        <updated>2026-04-08T11:20:50.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: http://www.terrybisson.com/theyre-made-out-of-meat-2/
+Comments URL: https://news.ycombinator.com/item?id=47688678
+Points: 501
+# Comments: 145]]></summary>
+        <author>
+            <name>surprisetalk</name>
         </author>
     </entry>
     <entry>
@@ -3121,32 +3147,6 @@ Points: 520
 # Comments: 173]]></summary>
         <author>
             <name>mikece</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Open Core Ventures Source Available License Version 1.0]]></title>
-        <id>https://writing.kemitchell.com/2026/03/10/OCVSAL-1.0</id>
-        <link href="https://writing.kemitchell.com/2026/03/10/OCVSAL-1.0"/>
-        <updated>2026-03-10T18:02:02.000Z</updated>
-        <summary type="html"><![CDATA[a very short non-production license with twists]]></summary>
-        <author>
-            <name>/dev/lawyer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fragments: March 10]]></title>
-        <id>https://martinfowler.com/fragments/2026-03-10.html</id>
-        <link href="https://martinfowler.com/fragments/2026-03-10.html"/>
-        <updated>2026-03-10T17:50:00.000Z</updated>
-        <summary type="html"><![CDATA[Tech firm fined $1.1m by California for selling high-school students’ data
-I agree with Brian Marick’s response
-No such story should be published without a comparison of the fine to the company’s previous year revenue and profits, or valuation of last funding round. (I could only find a valuation of $11.0M in 2017.)
-We desperately need corporations’ attitudes to shift from “lawbreaking is a low-risk cost of doing business; we get a net profit anyway” to “this could be a death sentence.”
- ❄                ❄                ❄                ❄                ❄
-Charity Majors gave the closing keynote at SRECon last year, encouraging people to engage with generative AI.
-If I was giving the keynote at SRECon 2026, I would ditch the begrudging stance. I would start by acknowledging that AI is radi…]]></summary>
-        <author>
-            <name>Martin Fowler</name>
         </author>
     </entry>
 </feed>

@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=47697870",
+          "author": "pluc",
+          "description": "Article URL: https://obdev.at/products/littlesnitch-linux/index.html\nComments URL: https://news.ycombinator.com/item?id=47697870\nPoints: 539\n# Comments: 168",
+          "link": "https://obdev.at/products/littlesnitch-linux/index.html",
+          "publishedOn": "2026-04-09T00:26:08.000Z",
+          "wordCount": 1128,
+          "title": "LittleSnitch for Linux",
+          "imageUrl": "https://obdev.at/Images/social-graphs/opengraph-obdev.jpg"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=47691730",
           "author": "blkhp19",
           "description": "Article URL: https://bryankeller.github.io/2026/04/08/porting-mac-os-x-nintendo-wii.html\nComments URL: https://news.ycombinator.com/item?id=47691730\nPoints: 628\n# Comments: 134",
@@ -34,6 +44,16 @@
           "wordCount": 17969,
           "title": "US cities are axing Flock Safety surveillance technology",
           "imageUrl": "https://www.cnet.com/a/img/resize/d9a1ad1c04f1050acee2847bf47c758d40ea0122/hub/2026/03/30/20f18d29-c3e9-47d3-8467-1a0ba718fa78/flock-surveillance.png?auto=webp&fit=crop&height=675&width=1200"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=47688678",
+          "author": "surprisetalk",
+          "description": "Article URL: http://www.terrybisson.com/theyre-made-out-of-meat-2/\nComments URL: https://news.ycombinator.com/item?id=47688678\nPoints: 501\n# Comments: 145",
+          "link": "http://www.terrybisson.com/theyre-made-out-of-meat-2/",
+          "publishedOn": "2026-04-08T11:20:50.000Z",
+          "wordCount": 4535,
+          "title": "They're made out of meat (1991)",
+          "imageUrl": "http://www.terrybisson.com/wp-content/uploads/2019/04/TB-logo-2.png"
         },
         {
           "id": "https://news.ycombinator.com/item?id=47687273",
@@ -1951,16 +1971,6 @@
           "wordCount": 2336,
           "title": "Open Community License v1",
           "imageUrl": null
-        },
-        {
-          "id": "https://writing.kemitchell.com/2026/03/10/OCVSAL-1.0",
-          "author": null,
-          "description": "a very short non-production license with twists",
-          "link": "https://writing.kemitchell.com/2026/03/10/OCVSAL-1.0",
-          "publishedOn": "2026-03-10T18:02:02.000Z",
-          "wordCount": 1106,
-          "title": "Open Core Ventures Source Available License Version 1.0",
-          "imageUrl": null
         }
       ]
     },
@@ -2290,16 +2300,6 @@
           "publishedOn": "2026-03-16T14:13:00.000Z",
           "wordCount": 1467,
           "title": "Fragments: March 16",
-          "imageUrl": "https://martinfowler.com/logo-sq.png"
-        },
-        {
-          "id": "https://martinfowler.com/fragments/2026-03-10.html",
-          "author": null,
-          "description": "Tech firm fined $1.1m by California for selling high-school students’ data\nI agree with Brian Marick’s response\nNo such story should be published without a comparison of the fine to the company’s previous year revenue and profits, or valuation of last funding round. (I could only find a valuation of $11.0M in 2017.)\nWe desperately need corporations’ attitudes to shift from “lawbreaking is a low-risk cost of doing business; we get a net profit anyway” to “this could be a death sentence.”\n ❄                ❄                ❄                ❄                ❄\nCharity Majors gave the closing keynote at SRECon last year, encouraging people to engage with generative AI.\nIf I was giving the keynote at SRECon 2026, I would ditch the begrudging stance. I would start by acknowledging that AI is radi…",
-          "link": "https://martinfowler.com/fragments/2026-03-10.html",
-          "publishedOn": "2026-03-10T17:50:00.000Z",
-          "wordCount": 1032,
-          "title": "Fragments: March 10",
           "imageUrl": "https://martinfowler.com/logo-sq.png"
         }
       ]
