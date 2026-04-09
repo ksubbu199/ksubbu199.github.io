@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-04-09T02:23:03.718Z</updated>
+    <updated>2026-04-09T05:10:10.960Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -27,6 +27,19 @@ Points: 628
 # Comments: 134]]></summary>
         <author>
             <name>blkhp19</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft terminates VeraCrypt account, halting Windows updates]]></title>
+        <id>https://news.ycombinator.com/item?id=47690977</id>
+        <link href="https://www.404media.co/microsoft-abruptly-terminates-veracrypt-account-halting-windows-updates/"/>
+        <updated>2026-04-08T14:46:15.000Z</updated>
+        <summary type="html"><![CDATA[https://archive.ph/Oc85c
+Comments URL: https://news.ycombinator.com/item?id=47690977
+Points: 506
+# Comments: 188]]></summary>
+        <author>
+            <name>donohoe</name>
         </author>
     </entry>
     <entry>
@@ -3134,34 +3147,6 @@ Charity Majors gave the closing keynote at SRECon last year, encouraging people 
 If I was giving the keynote at SRECon 2026, I would ditch the begrudging stance. I would start by acknowledging that AI is radi…]]></summary>
         <author>
             <name>Martin Fowler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tony Hoare has died]]></title>
-        <id>https://news.ycombinator.com/item?id=47324054</id>
-        <link href="https://blog.computationalcomplexity.org/2026/03/tony-hoare-1934-2026.html"/>
-        <updated>2026-03-10T14:50:16.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://blog.computationalcomplexity.org/2026/03/tony-hoare-1934-2026.html
-Comments URL: https://news.ycombinator.com/item?id=47324054
-Points: 505
-# Comments: 48]]></summary>
-        <author>
-            <name>speckx</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meta acquires Moltbook]]></title>
-        <id>https://news.ycombinator.com/item?id=47323900</id>
-        <link href="https://www.axios.com/2026/03/10/meta-facebook-moltbook-agent-social-network"/>
-        <updated>2026-03-10T14:38:06.000Z</updated>
-        <summary type="html"><![CDATA[https://web.archive.org/web/20260310154640/https://www.axios..., https://archive.ph/igqsh
-https://www.reuters.com/business/meta-acquires-ai-agent-soci...
-https://techcrunch.com/2026/03/10/meta-acquired-moltbook-the...
-Comments URL: https://news.ycombinator.com/item?id=47323900
-Points: 500
-# Comments: 337]]></summary>
-        <author>
-            <name>mmayberry</name>
         </author>
     </entry>
 </feed>
