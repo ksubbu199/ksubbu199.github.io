@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-04-09T11:58:03.725Z</updated>
+    <updated>2026-04-09T14:03:51.510Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Fragments: April  9]]></title>
+        <id>https://martinfowler.com/fragments/2026-04-09.html</id>
+        <link href="https://martinfowler.com/fragments/2026-04-09.html"/>
+        <updated>2026-04-09T13:23:00.000Z</updated>
+        <summary type="html"><![CDATA[I mostly link to written material here, but I’ve recently listened to two excellent podcasts that I can recommend.
+Anyone who regularly reads these fragments knows that I’m a big fan of Simon Willison, his (also very fragmentary) posts have earned a regular spot in my RSS reader. But the problem with fragments, however valuable, is that they don’t provide a cohesive overview of the situation. So his podcast with Lenny Rachitsky is a welcome survey of that state of world as seen through a discerning pair of eyeballs. He paints a good picture of how programming has changed for him since the “November inflection point”, important patterns for this work, and his concern about the security bomb nestled inside the beast.
+My other great listening was on a regular podcast that I listen to, as Gerg…]]></summary>
+        <author>
+            <name>Martin Fowler</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Your Car Insurance is not your choice?]]></title>
         <id>https://www.youtube.com/shorts/cZdyc_LMXSA</id>
