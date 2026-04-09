@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-04-09T21:45:32.268Z</updated>
+    <updated>2026-04-09T22:40:36.286Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -17,6 +17,19 @@ Points: 533
 # Comments: 484]]></summary>
         <author>
             <name>gregsadetsky</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Meta removes ads for social media addiction litigation]]></title>
+        <id>https://news.ycombinator.com/item?id=47703419</id>
+        <link href="https://www.axios.com/2026/04/09/meta-social-media-addiction-ads"/>
+        <updated>2026-04-09T13:23:50.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.axios.com/2026/04/09/meta-social-media-addiction-ads
+Comments URL: https://news.ycombinator.com/item?id=47703419
+Points: 513
+# Comments: 208]]></summary>
+        <author>
+            <name>giuliomagnifico</name>
         </author>
     </entry>
     <entry>
@@ -3169,19 +3182,6 @@ Points: 500
 # Comments: 825]]></summary>
         <author>
             <name>etothet</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How we hacked McKinsey's AI platform]]></title>
-        <id>https://news.ycombinator.com/item?id=47333627</id>
-        <link href="https://codewall.ai/blog/how-we-hacked-mckinseys-ai-platform"/>
-        <updated>2026-03-11T09:59:03.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://codewall.ai/blog/how-we-hacked-mckinseys-ai-platform
-Comments URL: https://news.ycombinator.com/item?id=47333627
-Points: 500
-# Comments: 195]]></summary>
-        <author>
-            <name>mycroft_4221</name>
         </author>
     </entry>
 </feed>
