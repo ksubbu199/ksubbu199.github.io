@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-04-10T14:48:16.947Z</updated>
+    <updated>2026-04-10T15:54:02.370Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -43,6 +43,19 @@ Points: 533
 # Comments: 484]]></summary>
         <author>
             <name>gregsadetsky</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How NASA built Artemis II’s fault-tolerant computer]]></title>
+        <id>https://news.ycombinator.com/item?id=47704804</id>
+        <link href="https://cacm.acm.org/news/how-nasa-built-artemis-iis-fault-tolerant-computer/"/>
+        <updated>2026-04-09T15:12:40.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://cacm.acm.org/news/how-nasa-built-artemis-iis-fault-tolerant-computer/
+Comments URL: https://news.ycombinator.com/item?id=47704804
+Points: 524
+# Comments: 199]]></summary>
+        <author>
+            <name>speckx</name>
         </author>
     </entry>
     <entry>
