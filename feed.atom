@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-04-10T21:37:52.874Z</updated>
+    <updated>2026-04-10T22:37:48.564Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[1D Chess]]></title>
+        <id>https://news.ycombinator.com/item?id=47719740</id>
+        <link href="https://rowan441.github.io/1dchess/chess.html"/>
+        <updated>2026-04-10T15:37:28.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://rowan441.github.io/1dchess/chess.html
+Comments URL: https://news.ycombinator.com/item?id=47719740
+Points: 567
+# Comments: 107]]></summary>
+        <author>
+            <name>burnt-resistor</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[FBI used iPhone notification data to retrieve deleted Signal messages]]></title>
         <id>https://news.ycombinator.com/item?id=47716490</id>
