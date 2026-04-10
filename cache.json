@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=47716043",
+          "author": "embedding-shape",
+          "description": "Article URL: https://www.numerique.gouv.fr/sinformer/espace-presse/souverainete-numerique-reduction-dependances-extra-europeennes/\nComments URL: https://news.ycombinator.com/item?id=47716043\nPoints: 628\n# Comments: 282",
+          "link": "https://www.numerique.gouv.fr/sinformer/espace-presse/souverainete-numerique-reduction-dependances-extra-europeennes/",
+          "publishedOn": "2026-04-10T10:37:33.000Z",
+          "wordCount": 1324,
+          "title": "France Launches Government Linux Desktop Plan as Windows Exit Begins",
+          "imageUrl": null
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=47708818",
           "author": "PaulHoule",
           "description": "Article URL: https://arhan.sh/blog/native-instant-space-switching-on-macos/\nComments URL: https://news.ycombinator.com/item?id=47708818\nPoints: 525\n# Comments: 241",
@@ -2158,16 +2168,6 @@
           "wordCount": 3559,
           "title": "Backend Developer Roadmap",
           "imageUrl": "https://boot.dev/img/featured/backend-developer-roadmap.webp"
-        },
-        {
-          "id": "https://boot.dev/blog/news/bootdev-beat-2026-03/",
-          "author": null,
-          "description": "February was stacked with quality-of-life work and platform upgrades. A lot of this work is infrastructure-heavy and not quite as flashy, but it makes Boot.dev faster, sturdier, and more fun to use. Also: the DevOps learning path is very close. The AWS and logging courses are getting their final polish and should be landing any week now.",
-          "link": "https://boot.dev/blog/news/bootdev-beat-2026-03/",
-          "publishedOn": "2026-03-12T00:00:00.000Z",
-          "wordCount": 751,
-          "title": "The Boot.dev Beat. March 2026",
-          "imageUrl": "https://boot.dev/blog/img/featured/the-bootdev-beat-march-2026.webp"
         }
       ]
     },

@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-04-10T11:49:18.276Z</updated>
+    <updated>2026-04-10T13:11:06.145Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[France Launches Government Linux Desktop Plan as Windows Exit Begins]]></title>
+        <id>https://news.ycombinator.com/item?id=47716043</id>
+        <link href="https://www.numerique.gouv.fr/sinformer/espace-presse/souverainete-numerique-reduction-dependances-extra-europeennes/"/>
+        <updated>2026-04-10T10:37:33.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.numerique.gouv.fr/sinformer/espace-presse/souverainete-numerique-reduction-dependances-extra-europeennes/
+Comments URL: https://news.ycombinator.com/item?id=47716043
+Points: 628
+# Comments: 282]]></summary>
+        <author>
+            <name>embedding-shape</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Native Instant Space Switching on macOS]]></title>
         <id>https://news.ycombinator.com/item?id=47708818</id>
@@ -3122,16 +3135,6 @@ Points: 626
 # Comments: 231]]></summary>
         <author>
             <name>microflash</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Boot.dev Beat. March 2026]]></title>
-        <id>https://boot.dev/blog/news/bootdev-beat-2026-03/</id>
-        <link href="https://boot.dev/blog/news/bootdev-beat-2026-03/"/>
-        <updated>2026-03-12T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[February was stacked with quality-of-life work and platform upgrades. A lot of this work is infrastructure-heavy and not quite as flashy, but it makes Boot.dev faster, sturdier, and more fun to use. Also: the DevOps learning path is very close. The AWS and logging courses are getting their final polish and should be landing any week now.]]></summary>
-        <author>
-            <name>Boot.dev Blog</name>
         </author>
     </entry>
 </feed>
