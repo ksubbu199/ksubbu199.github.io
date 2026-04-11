@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-04-11T20:33:54.917Z</updated>
+    <updated>2026-04-11T21:33:43.988Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Small models also found the vulnerabilities that Mythos found]]></title>
+        <id>https://news.ycombinator.com/item?id=47732020</id>
+        <link href="https://aisle.com/blog/ai-cybersecurity-after-mythos-the-jagged-frontier"/>
+        <updated>2026-04-11T16:47:28.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://aisle.com/blog/ai-cybersecurity-after-mythos-the-jagged-frontier
+Comments URL: https://news.ycombinator.com/item?id=47732020
+Points: 567
+# Comments: 166]]></summary>
+        <author>
+            <name>dominicq</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Alan Turing play in Cambridge MA]]></title>
         <id>https://martinfowler.com/articles/202604-turing.html</id>
@@ -205,6 +218,19 @@ Points: 521
 # Comments: 361]]></summary>
         <author>
             <name>playfultones</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Starfling: A one-tap endless orbital slingshot game in a single HTML file]]></title>
+        <id>https://news.ycombinator.com/item?id=47698455</id>
+        <link href="https://playstarfling.com/"/>
+        <updated>2026-04-09T01:52:47.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://playstarfling.com
+Comments URL: https://news.ycombinator.com/item?id=47698455
+Points: 507
+# Comments: 128]]></summary>
+        <author>
+            <name>iceberger2001</name>
         </author>
     </entry>
     <entry>
