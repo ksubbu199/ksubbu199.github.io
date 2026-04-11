@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-04-11T09:39:13.757Z</updated>
+    <updated>2026-04-11T10:34:19.753Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -43,6 +43,19 @@ Points: 567
 # Comments: 107]]></summary>
         <author>
             <name>burnt-resistor</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[France to ditch Windows for Linux to reduce reliance on US tech]]></title>
+        <id>https://news.ycombinator.com/item?id=47719486</id>
+        <link href="https://techcrunch.com/2026/04/10/france-to-ditch-windows-for-linux-to-reduce-reliance-on-us-tech/"/>
+        <updated>2026-04-10T15:20:48.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://techcrunch.com/2026/04/10/france-to-ditch-windows-for-linux-to-reduce-reliance-on-us-tech/
+Comments URL: https://news.ycombinator.com/item?id=47719486
+Points: 512
+# Comments: 639]]></summary>
+        <author>
+            <name>Teever</name>
         </author>
     </entry>
     <entry>
@@ -3148,32 +3161,6 @@ Points: 521
 # Comments: 207]]></summary>
         <author>
             <name>MBCook</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Shall I implement it? No]]></title>
-        <id>https://news.ycombinator.com/item?id=47357042</id>
-        <link href="https://gist.github.com/bretonium/291f4388e2de89a43b25c135b44e41f0"/>
-        <updated>2026-03-12T21:01:10.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://gist.github.com/bretonium/291f4388e2de89a43b25c135b44e41f0
-Comments URL: https://news.ycombinator.com/item?id=47357042
-Points: 816
-# Comments: 297]]></summary>
-        <author>
-            <name>breton</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Innocent woman jailed after being misidentified using AI facial recognition]]></title>
-        <id>https://news.ycombinator.com/item?id=47356968</id>
-        <link href="https://www.grandforksherald.com/news/north-dakota/ai-error-jails-innocent-grandmother-for-months-in-north-dakota-fraud-case"/>
-        <updated>2026-03-12T20:55:51.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.grandforksherald.com/news/north-dakota/ai-error-jails-innocent-grandmother-for-months-in-north-dakota-fraud-case
-Comments URL: https://news.ycombinator.com/item?id=47356968
-Points: 515
-# Comments: 277]]></summary>
-        <author>
-            <name>rectang</name>
         </author>
     </entry>
 </feed>
