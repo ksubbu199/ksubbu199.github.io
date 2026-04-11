@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-04-11T12:58:35.348Z</updated>
+    <updated>2026-04-11T13:57:54.271Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Alan Turing play in Cambridge MA]]></title>
+        <id>https://martinfowler.com/articles/202604-turing.html</id>
+        <link href="https://martinfowler.com/articles/202604-turing.html"/>
+        <updated>2026-04-11T13:01:00.000Z</updated>
+        <summary type="html"><![CDATA[Last night I saw Central Square Theater’s excellent production of Breaking the Code. It’s about Alan Turing, who made a monumental contribution to both my profession and the fate of free democracies. Well worth seeing if you’re in the Boston area this month.]]></summary>
+        <author>
+            <name>Martin Fowler</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Artemis II safely splashes down]]></title>
         <id>https://news.ycombinator.com/item?id=47725583</id>
@@ -30,6 +40,19 @@ Points: 537
 # Comments: 290]]></summary>
         <author>
             <name>normanvalentine</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WireGuard makes new Windows release following Microsoft signing resolution]]></title>
+        <id>https://news.ycombinator.com/item?id=47719942</id>
+        <link href="https://lists.zx2c4.com/pipermail/wireguard/2026-April/009561.html"/>
+        <updated>2026-04-10T15:49:52.000Z</updated>
+        <summary type="html"><![CDATA[Recent and related: Microsoft terminated the account VeraCrypt used to sign Windows drivers - https://news.ycombinator.com/item?id=47686549
+Comments URL: https://news.ycombinator.com/item?id=47719942
+Points: 502
+# Comments: 147]]></summary>
+        <author>
+            <name>zx2c4</name>
         </author>
     </entry>
     <entry>
@@ -3148,19 +3171,6 @@ Points: 502
 # Comments: 173]]></summary>
         <author>
             <name>kothariji</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“This is not the computer for you”]]></title>
-        <id>https://news.ycombinator.com/item?id=47359744</id>
-        <link href="https://samhenri.gold/blog/20260312-this-is-not-the-computer-for-you/"/>
-        <updated>2026-03-13T01:45:49.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://samhenri.gold/blog/20260312-this-is-not-the-computer-for-you/
-Comments URL: https://news.ycombinator.com/item?id=47359744
-Points: 521
-# Comments: 207]]></summary>
-        <author>
-            <name>MBCook</name>
         </author>
     </entry>
 </feed>
