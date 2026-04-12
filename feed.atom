@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-04-12T21:35:21.922Z</updated>
+    <updated>2026-04-12T22:34:05.797Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -14,6 +14,19 @@
         <summary type="html"><![CDATA[In which I have some fun with Claude Opus 4.6, a seemingly indecisive AI coding agent.]]></summary>
         <author>
             <name>Ben Hoyt's technical writing</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pro Max 5x quota exhausted in 1.5 hours despite moderate usage]]></title>
+        <id>https://news.ycombinator.com/item?id=47739260</id>
+        <link href="https://github.com/anthropics/claude-code/issues/45756"/>
+        <updated>2026-04-12T13:15:31.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://github.com/anthropics/claude-code/issues/45756
+Comments URL: https://news.ycombinator.com/item?id=47739260
+Points: 504
+# Comments: 468]]></summary>
+        <author>
+            <name>cmaster11</name>
         </author>
     </entry>
     <entry>
