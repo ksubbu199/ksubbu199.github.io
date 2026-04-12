@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=47738883",
+          "author": "littlecranky67",
+          "description": "I just spent 1h+ debugging why my locally-hosted gitlab runner would fail to create pipelines. The gitlab job output would just display weird TLS errors when trying to pull a docker images. After debugging gitlab and the runner, I realized after a while I could not even run \"docker pull \" on my machine as root:\n> error pulling image configuration: download failed after attempts=6: tls: failed to verify certificate: x509: certificate is not valid for any names, but wanted to match docker-images-prod.6aa30f8b08e16409b46e0173d6de2f56.r2.cloudflarestorage.com\nFirst blaming tailscale, dns configuration and all other stuff. Until I just copied that above URL into my browser on my laptop, and received a website banner:\n> El acceso a la presente dirección IP ha sido bloqueado en cumplimiento de lo dispuesto en la Sentencia de 18 de diciembre de 2024, dictada por el Juzgado de lo Mercantil nº 6 de Barcelona en el marco del procedimiento ordinario (Materia mercantil art. 249.1.4)-1005/2024-H instado por la Liga Nacional de Fútbol Profesional y por Telefónica Audiovisual Digital, S.L.U.\nhttps://www.laliga.com/noticias/nota-informativa-en-relacion-con-el-bloqueo-de-ips-durante-las-ultimas-jornadas-de-laliga-ea-sports-vinculadas-a-las-practicas-ilegales-de-cloudflare\nFor those non-spanish speakers: It means there is football match on, and during that time that specific host is blocked. This is just plain madness. I guess that means my gitlab pipelines will not run when football is on. Thank you, Spain.\nComments URL: https://news.ycombinator.com/item?id=47738883\nPoints: 512\n# Comments: 212",
+          "link": "https://news.ycombinator.com/item?id=47738883",
+          "publishedOn": "2026-04-12T12:28:57.000Z",
+          "wordCount": 10476,
+          "title": "Tell HN: docker pull fails in spain due to football cloudflare block",
+          "imageUrl": null
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=47736555",
           "author": "tradertef",
           "description": "Article URL: https://stevehanov.ca/blog/how-i-run-multiple-10k-mrr-companies-on-a-20month-tech-stack\nComments URL: https://news.ycombinator.com/item?id=47736555\nPoints: 504\n# Comments: 314",
@@ -2502,6 +2512,16 @@
       "feedUrl": "https://benhoyt.com/writings/rss.xml",
       "siteUrl": "https://benhoyt.com/writings/",
       "articles": [
+        {
+          "id": "https://benhoyt.com/writings/indecisive-ai-agent/",
+          "author": null,
+          "description": "In which I have some fun with Claude Opus 4.6, a seemingly indecisive AI coding agent.",
+          "link": "https://benhoyt.com/writings/indecisive-ai-agent/",
+          "publishedOn": "2026-04-12T19:55:00.000Z",
+          "wordCount": 2222,
+          "title": "Fun with an indecisive AI coding agent",
+          "imageUrl": null
+        },
         {
           "id": "https://benhoyt.com/writings/dependencies/",
           "author": null,
