@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-04-13T10:45:32.645Z</updated>
+    <updated>2026-04-13T12:03:23.831Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -24,6 +24,19 @@
         <summary type="html"><![CDATA[In which I have some fun with Claude Opus 4.6, a seemingly indecisive AI coding agent.]]></summary>
         <author>
             <name>Ben Hoyt's technical writing</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DIY Soft Drinks]]></title>
+        <id>https://news.ycombinator.com/item?id=47741701</id>
+        <link href="https://blinry.org/diy-soft-drinks/"/>
+        <updated>2026-04-12T16:38:43.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://blinry.org/diy-soft-drinks/
+Comments URL: https://news.ycombinator.com/item?id=47741701
+Points: 501
+# Comments: 143]]></summary>
+        <author>
+            <name>_Microft</name>
         </author>
     </entry>
     <entry>
@@ -143,6 +156,19 @@ Points: 567
         <summary type="html"><![CDATA[Last night I saw Central Square Theater’s excellent production of Breaking the Code. It’s about Alan Turing, who made a monumental contribution to both my profession and the fate of free democracies. Well worth seeing if you’re in the Boston area this month.]]></summary>
         <author>
             <name>Martin Fowler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[France's government is ditching Windows for Linux, says US tech a strategic risk]]></title>
+        <id>https://news.ycombinator.com/item?id=47728653</id>
+        <link href="https://www.xda-developers.com/frances-government-ditching-windows-for-linux/"/>
+        <updated>2026-04-11T08:25:14.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.xda-developers.com/frances-government-ditching-windows-for-linux/
+Comments URL: https://news.ycombinator.com/item?id=47728653
+Points: 500
+# Comments: 295]]></summary>
+        <author>
+            <name>pabs3</name>
         </author>
     </entry>
     <entry>
