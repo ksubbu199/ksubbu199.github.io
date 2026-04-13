@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-04-13T02:41:25.137Z</updated>
+    <updated>2026-04-13T05:41:58.628Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -61,6 +61,19 @@ Points: 512
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Bring Back Idiomatic Design (2023)]]></title>
+        <id>https://news.ycombinator.com/item?id=47738827</id>
+        <link href="https://essays.johnloeber.com/p/4-bring-back-idiomatic-design"/>
+        <updated>2026-04-12T12:21:26.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://essays.johnloeber.com/p/4-bring-back-idiomatic-design
+Comments URL: https://news.ycombinator.com/item?id=47738827
+Points: 502
+# Comments: 266]]></summary>
+        <author>
+            <name>phil294</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[I run multiple $10K MRR companies on a $20/month tech stack]]></title>
         <id>https://news.ycombinator.com/item?id=47736555</id>
         <link href="https://stevehanov.ca/blog/how-i-run-multiple-10k-mrr-companies-on-a-20month-tech-stack"/>
@@ -71,6 +84,32 @@ Points: 504
 # Comments: 314]]></summary>
         <author>
             <name>tradertef</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Anthropic downgraded cache TTL on March 6th]]></title>
+        <id>https://news.ycombinator.com/item?id=47736476</id>
+        <link href="https://github.com/anthropics/claude-code/issues/46829"/>
+        <updated>2026-04-12T05:45:52.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://github.com/anthropics/claude-code/issues/46829
+Comments URL: https://news.ycombinator.com/item?id=47736476
+Points: 500
+# Comments: 389]]></summary>
+        <author>
+            <name>lsdmtme</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Exploiting the most prominent AI agent benchmarks]]></title>
+        <id>https://news.ycombinator.com/item?id=47733217</id>
+        <link href="https://rdi.berkeley.edu/blog/trustworthy-benchmarks-cont/"/>
+        <updated>2026-04-11T19:15:56.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://rdi.berkeley.edu/blog/trustworthy-benchmarks-cont/
+Comments URL: https://news.ycombinator.com/item?id=47733217
+Points: 504
+# Comments: 130]]></summary>
+        <author>
+            <name>Anon84</name>
         </author>
     </entry>
     <entry>
@@ -3134,16 +3173,6 @@ Points: 519
 # Comments: 332]]></summary>
         <author>
             <name>nateb2022</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ring 3 to ring 0]]></title>
-        <id>https://www.youtube.com/shorts/h3NLOCsHj5o</id>
-        <link href="https://www.youtube.com/shorts/h3NLOCsHj5o"/>
-        <updated>2026-03-14T17:00:52.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Hussein Nasser</name>
         </author>
     </entry>
 </feed>

@@ -36,6 +36,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://news.ycombinator.com/item?id=47738827",
+          "author": "phil294",
+          "description": "Article URL: https://essays.johnloeber.com/p/4-bring-back-idiomatic-design\nComments URL: https://news.ycombinator.com/item?id=47738827\nPoints: 502\n# Comments: 266",
+          "link": "https://essays.johnloeber.com/p/4-bring-back-idiomatic-design",
+          "publishedOn": "2026-04-12T12:21:26.000Z",
+          "wordCount": 6572,
+          "title": "Bring Back Idiomatic Design (2023)",
+          "imageUrl": "https://substackcdn.com/image/fetch/$s_!o7Gx!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1d9c4a86-cb01-4f2c-ab0e-1cf2f0d0a2c8_419x304.png"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=47736555",
           "author": "tradertef",
           "description": "Article URL: https://stevehanov.ca/blog/how-i-run-multiple-10k-mrr-companies-on-a-20month-tech-stack\nComments URL: https://news.ycombinator.com/item?id=47736555\nPoints: 504\n# Comments: 314",
@@ -44,6 +54,26 @@
           "wordCount": 3082,
           "title": "I run multiple $10K MRR companies on a $20/month tech stack",
           "imageUrl": "https://stevehanov.ca/blog/images/95f16b3dbf861a9156cb2c6d1be39f5e2fcfc1b1f4c5f11ee6f9e182bd4c5f5a.png"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=47736476",
+          "author": "lsdmtme",
+          "description": "Article URL: https://github.com/anthropics/claude-code/issues/46829\nComments URL: https://news.ycombinator.com/item?id=47736476\nPoints: 500\n# Comments: 389",
+          "link": "https://github.com/anthropics/claude-code/issues/46829",
+          "publishedOn": "2026-04-12T05:45:52.000Z",
+          "wordCount": 9248,
+          "title": "Anthropic downgraded cache TTL on March 6th",
+          "imageUrl": "https://opengraph.githubassets.com/0e10559bf66298754108ffb8a43c6fab6df9799d7d336f40fc30da8803c17860/anthropics/claude-code/issues/46829"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=47733217",
+          "author": "Anon84",
+          "description": "Article URL: https://rdi.berkeley.edu/blog/trustworthy-benchmarks-cont/\nComments URL: https://news.ycombinator.com/item?id=47733217\nPoints: 504\n# Comments: 130",
+          "link": "https://rdi.berkeley.edu/blog/trustworthy-benchmarks-cont/",
+          "publishedOn": "2026-04-11T19:15:56.000Z",
+          "wordCount": 3930,
+          "title": "Exploiting the most prominent AI agent benchmarks",
+          "imageUrl": null
         },
         {
           "id": "https://news.ycombinator.com/item?id=47732020",
@@ -2497,16 +2527,6 @@
           "publishedOn": "2026-03-25T17:01:18.000Z",
           "wordCount": 2185,
           "title": "Postgres is now async by Default",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/shorts/h3NLOCsHj5o",
-          "author": null,
-          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-          "link": "https://www.youtube.com/shorts/h3NLOCsHj5o",
-          "publishedOn": "2026-03-14T17:00:52.000Z",
-          "wordCount": 2121,
-          "title": "ring 3 to ring 0",
           "imageUrl": null
         }
       ]
