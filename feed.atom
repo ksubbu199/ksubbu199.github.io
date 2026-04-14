@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-04-14T15:13:17.989Z</updated>
+    <updated>2026-04-14T17:07:39.297Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -24,6 +24,19 @@ Perl is a language I used a little, but never loved. However the definitive book
 Brya…]]></summary>
         <author>
             <name>Martin Fowler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Backblaze has stopped backing up OneDrive and Dropbox folders and maybe others]]></title>
+        <id>https://news.ycombinator.com/item?id=47762864</id>
+        <link href="https://rareese.com/posts/backblaze/"/>
+        <updated>2026-04-14T08:30:27.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://rareese.com/posts/backblaze/
+Comments URL: https://news.ycombinator.com/item?id=47762864
+Points: 677
+# Comments: 415]]></summary>
+        <author>
+            <name>rrreese</name>
         </author>
     </entry>
     <entry>
