@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-04-14T02:34:51.605Z</updated>
+    <updated>2026-04-14T05:23:22.025Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[GitHub Stacked PRs]]></title>
+        <id>https://news.ycombinator.com/item?id=47757495</id>
+        <link href="https://github.github.com/gh-stack/"/>
+        <updated>2026-04-13T20:36:49.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://github.github.com/gh-stack/
+Comments URL: https://news.ycombinator.com/item?id=47757495
+Points: 569
+# Comments: 318]]></summary>
+        <author>
+            <name>ezekg</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Someone Bought 30 WordPress Plugins and Planted a Backdoor in All of Them]]></title>
         <id>https://news.ycombinator.com/item?id=47755629</id>
@@ -3241,19 +3254,6 @@ Points: 577
 # Comments: 227]]></summary>
         <author>
             <name>namnnumbr</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LLM Architecture Gallery]]></title>
-        <id>https://news.ycombinator.com/item?id=47388676</id>
-        <link href="https://sebastianraschka.com/llm-architecture-gallery/"/>
-        <updated>2026-03-15T16:01:09.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://sebastianraschka.com/llm-architecture-gallery/
-Comments URL: https://news.ycombinator.com/item?id=47388676
-Points: 534
-# Comments: 40]]></summary>
-        <author>
-            <name>tzury</name>
         </author>
     </entry>
 </feed>

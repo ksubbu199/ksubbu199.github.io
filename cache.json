@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=47757495",
+          "author": "ezekg",
+          "description": "Article URL: https://github.github.com/gh-stack/\nComments URL: https://news.ycombinator.com/item?id=47757495\nPoints: 569\n# Comments: 318",
+          "link": "https://github.github.com/gh-stack/",
+          "publishedOn": "2026-04-13T20:36:49.000Z",
+          "wordCount": 722,
+          "title": "GitHub Stacked PRs",
+          "imageUrl": null
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=47755629",
           "author": "speckx",
           "description": "Article URL: https://anchor.host/someone-bought-30-wordpress-plugins-and-planted-a-backdoor-in-all-of-them/\nComments URL: https://news.ycombinator.com/item?id=47755629\nPoints: 518\n# Comments: 143",
@@ -2034,16 +2044,6 @@
           "wordCount": 3633,
           "title": "Stop Sloppypasta",
           "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=47388676",
-          "author": "tzury",
-          "description": "Article URL: https://sebastianraschka.com/llm-architecture-gallery/\nComments URL: https://news.ycombinator.com/item?id=47388676\nPoints: 534\n# Comments: 40",
-          "link": "https://sebastianraschka.com/llm-architecture-gallery/",
-          "publishedOn": "2026-03-15T16:01:09.000Z",
-          "wordCount": 2965,
-          "title": "LLM Architecture Gallery",
-          "imageUrl": "https://sebastianraschka.com/llm-architecture-gallery/images/hero/architecture-gallery-hero.webp"
         }
       ]
     },
