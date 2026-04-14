@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=47760764",
+          "author": "zdw",
+          "description": "Article URL: https://developers.google.com/search/blog/2026/04/back-button-hijacking\nComments URL: https://news.ycombinator.com/item?id=47760764\nPoints: 510\n# Comments: 301",
+          "link": "https://developers.google.com/search/blog/2026/04/back-button-hijacking",
+          "publishedOn": "2026-04-14T03:06:27.000Z",
+          "wordCount": 11619,
+          "title": "A new spam policy for “back button hijacking”",
+          "imageUrl": "https://developers.google.com/static/search/blog/images/social-share-blog.png"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=47760529",
           "author": "thebiblelover7",
           "description": "Article URL: https://www.blackmagicdesign.com/products/davinciresolve/photo\nComments URL: https://news.ycombinator.com/item?id=47760529\nPoints: 533\n# Comments: 127",
@@ -2004,16 +2014,6 @@
           "wordCount": 2343,
           "title": "Why I love FreeBSD",
           "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0e/FreeBSD_13.0_boot_loader_autoboot_screenshot.png"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=47394022",
-          "author": "indigodaddy",
-          "description": "Article URL: https://www.stavros.io/posts/how-i-write-software-with-llms/\nComments URL: https://news.ycombinator.com/item?id=47394022\nPoints: 500\n# Comments: 476",
-          "link": "https://www.stavros.io/posts/how-i-write-software-with-llms/",
-          "publishedOn": "2026-03-16T01:24:09.000Z",
-          "wordCount": 7933,
-          "title": "How I write software with LLMs",
-          "imageUrl": "https://www.stavros.io/static/images/favicons/og-image.jpg?h=24586483"
         }
       ]
     },
@@ -2222,6 +2222,16 @@
       "feedUrl": "https://martinfowler.com/feed.atom",
       "siteUrl": "https://martinfowler.com/feed.atom",
       "articles": [
+        {
+          "id": "https://martinfowler.com/fragments/2026-04-14.html",
+          "author": null,
+          "description": "I attended the first Pragmatic Summit early this year, and while there host\nGergely Orosz interviewed Kent Beck and myself on stage. The video runs for about half-an-hour.\n\nI always enjoy nattering with Kent like this, and Gergely pushed into some worthwhile topics. Given\nthe timing, AI dominated the conversation - we compared it to earlier\ntechnology shifts, the experience of agile methods, the role of TDD, the\ndanger of unhealthy performance metrics, and how to thrive in an AI-native\nindustry.\n ❄                ❄                ❄                ❄                ❄\nPerl is a language I used a little, but never loved. However the definitive book on it, by its designer Larry Wall, contains a wonderful gem. The three virtues of a programmer: hubris, impatience - and above all - laziness.\nBrya…",
+          "link": "https://martinfowler.com/fragments/2026-04-14.html",
+          "publishedOn": "2026-04-14T13:16:00.000Z",
+          "wordCount": 1240,
+          "title": "Fragments: April 14",
+          "imageUrl": "https://martinfowler.com/logo-sq.png"
+        },
         {
           "id": "https://martinfowler.com/articles/202604-turing.html",
           "author": null,

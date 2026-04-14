@@ -2,10 +2,43 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-04-14T11:02:55.258Z</updated>
+    <updated>2026-04-14T13:26:48.788Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Fragments: April 14]]></title>
+        <id>https://martinfowler.com/fragments/2026-04-14.html</id>
+        <link href="https://martinfowler.com/fragments/2026-04-14.html"/>
+        <updated>2026-04-14T13:16:00.000Z</updated>
+        <summary type="html"><![CDATA[I attended the first Pragmatic Summit early this year, and while there host
+Gergely Orosz interviewed Kent Beck and myself on stage. The video runs for about half-an-hour.
+
+I always enjoy nattering with Kent like this, and Gergely pushed into some worthwhile topics. Given
+the timing, AI dominated the conversation - we compared it to earlier
+technology shifts, the experience of agile methods, the role of TDD, the
+danger of unhealthy performance metrics, and how to thrive in an AI-native
+industry.
+ ❄                ❄                ❄                ❄                ❄
+Perl is a language I used a little, but never loved. However the definitive book on it, by its designer Larry Wall, contains a wonderful gem. The three virtues of a programmer: hubris, impatience - and above all - laziness.
+Brya…]]></summary>
+        <author>
+            <name>Martin Fowler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A new spam policy for “back button hijacking”]]></title>
+        <id>https://news.ycombinator.com/item?id=47760764</id>
+        <link href="https://developers.google.com/search/blog/2026/04/back-button-hijacking"/>
+        <updated>2026-04-14T03:06:27.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://developers.google.com/search/blog/2026/04/back-button-hijacking
+Comments URL: https://news.ycombinator.com/item?id=47760764
+Points: 510
+# Comments: 301]]></summary>
+        <author>
+            <name>zdw</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[DaVinci Resolve – Photo]]></title>
         <id>https://news.ycombinator.com/item?id=47760529</id>
@@ -3202,19 +3235,6 @@ Points: 503
 # Comments: 253]]></summary>
         <author>
             <name>enz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How I write software with LLMs]]></title>
-        <id>https://news.ycombinator.com/item?id=47394022</id>
-        <link href="https://www.stavros.io/posts/how-i-write-software-with-llms/"/>
-        <updated>2026-03-16T01:24:09.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.stavros.io/posts/how-i-write-software-with-llms/
-Comments URL: https://news.ycombinator.com/item?id=47394022
-Points: 500
-# Comments: 476]]></summary>
-        <author>
-            <name>indigodaddy</name>
         </author>
     </entry>
 </feed>
