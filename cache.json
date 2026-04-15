@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=47772012",
+          "author": "cdrnsf",
+          "description": "Article URL: https://stopflock.com\nComments URL: https://news.ycombinator.com/item?id=47772012\nPoints: 514\n# Comments: 126",
+          "link": "https://stopflock.com/",
+          "publishedOn": "2026-04-14T21:56:05.000Z",
+          "wordCount": 3147,
+          "title": "Stop Flock",
+          "imageUrl": null
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=47768813",
           "author": "speckx",
           "description": "Article URL: https://honeypot.net/2026/04/14/i-wrote-to-flocks-privacy.html\nComments URL: https://news.ycombinator.com/item?id=47768813\nPoints: 506\n# Comments: 207",
@@ -16,6 +26,16 @@
           "imageUrl": "https://s3.amazonaws.com/micro.blog/opengraph/2026/04/14/5830244.png"
         },
         {
+          "id": "https://news.ycombinator.com/item?id=47768133",
+          "author": "matthieu_bl",
+          "description": "Article URL: https://code.claude.com/docs/en/routines\nComments URL: https://news.ycombinator.com/item?id=47768133\nPoints: 530\n# Comments: 309",
+          "link": "https://code.claude.com/docs/en/routines",
+          "publishedOn": "2026-04-14T16:54:33.000Z",
+          "wordCount": 3298,
+          "title": "Claude Code Routines",
+          "imageUrl": null
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=47765604",
           "author": "jrm-veris",
           "description": "Article URL: https://techcrunch.com/2026/04/13/thousands-of-rare-concert-recordings-are-landing-on-the-internet-archive-listen-now/\nComments URL: https://news.ycombinator.com/item?id=47765604\nPoints: 530\n# Comments: 163",
@@ -24,6 +44,16 @@
           "wordCount": 3069,
           "title": "Rare concert recordings are landing on the Internet Archive",
           "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/04/GettyImages-2244156491-1.jpg?resize=1200,800"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=47763759",
+          "author": "tigerlily",
+          "description": "Article URL: https://steveklabnik.github.io/jujutsu-tutorial/introduction/what-is-jj-and-why-should-i-care.html\nComments URL: https://news.ycombinator.com/item?id=47763759\nPoints: 513\n# Comments: 446",
+          "link": "https://steveklabnik.github.io/jujutsu-tutorial/introduction/what-is-jj-and-why-should-i-care.html",
+          "publishedOn": "2026-04-14T10:33:39.000Z",
+          "wordCount": 721,
+          "title": "jj – the CLI for Jujutsu",
+          "imageUrl": null
         },
         {
           "id": "https://news.ycombinator.com/item?id=47762864",
@@ -1984,26 +2014,6 @@
           "wordCount": 2435,
           "title": "Meta’s renewed commitment to jemalloc",
           "imageUrl": "https://engineering.fb.com/wp-content/uploads/2026/02/jemalloc-at-Meta-Hero.png"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=47401879",
-          "author": "speckx",
-          "description": "Article URL: https://kevinboone.me/small_web_is_big.html\nComments URL: https://news.ycombinator.com/item?id=47401879\nPoints: 507\n# Comments: 208",
-          "link": "https://kevinboone.me/small_web_is_big.html",
-          "publishedOn": "2026-03-16T17:17:57.000Z",
-          "wordCount": 1140,
-          "title": "The “small web” is bigger than you might think",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=47401809",
-          "author": "rexroad",
-          "description": "Article URL: https://github.com/rexrodeo/american-healthcare-conundrum\nComments URL: https://news.ycombinator.com/item?id=47401809\nPoints: 500\n# Comments: 575",
-          "link": "https://github.com/rexrodeo/american-healthcare-conundrum",
-          "publishedOn": "2026-03-16T17:13:27.000Z",
-          "wordCount": 3594,
-          "title": "The American Healthcare Conundrum",
-          "imageUrl": "https://repository-images.githubusercontent.com/1170412263/5f53d927-62aa-402c-8b6c-7356e0f19945"
         }
       ]
     },

@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-04-15T02:32:32.648Z</updated>
+    <updated>2026-04-15T05:24:32.399Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Stop Flock]]></title>
+        <id>https://news.ycombinator.com/item?id=47772012</id>
+        <link href="https://stopflock.com/"/>
+        <updated>2026-04-14T21:56:05.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://stopflock.com
+Comments URL: https://news.ycombinator.com/item?id=47772012
+Points: 514
+# Comments: 126]]></summary>
+        <author>
+            <name>cdrnsf</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[I wrote to Flock's privacy contact to opt out of their domestic spying program]]></title>
         <id>https://news.ycombinator.com/item?id=47768813</id>
@@ -17,6 +30,19 @@ Points: 506
 # Comments: 207]]></summary>
         <author>
             <name>speckx</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Claude Code Routines]]></title>
+        <id>https://news.ycombinator.com/item?id=47768133</id>
+        <link href="https://code.claude.com/docs/en/routines"/>
+        <updated>2026-04-14T16:54:33.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://code.claude.com/docs/en/routines
+Comments URL: https://news.ycombinator.com/item?id=47768133
+Points: 530
+# Comments: 309]]></summary>
+        <author>
+            <name>matthieu_bl</name>
         </author>
     </entry>
     <entry>
@@ -50,6 +76,19 @@ Perl is a language I used a little, but never loved. However the definitive book
 Brya…]]></summary>
         <author>
             <name>Martin Fowler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[jj – the CLI for Jujutsu]]></title>
+        <id>https://news.ycombinator.com/item?id=47763759</id>
+        <link href="https://steveklabnik.github.io/jujutsu-tutorial/introduction/what-is-jj-and-why-should-i-care.html"/>
+        <updated>2026-04-14T10:33:39.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://steveklabnik.github.io/jujutsu-tutorial/introduction/what-is-jj-and-why-should-i-care.html
+Comments URL: https://news.ycombinator.com/item?id=47763759
+Points: 513
+# Comments: 446]]></summary>
+        <author>
+            <name>tigerlily</name>
         </author>
     </entry>
     <entry>
@@ -3181,32 +3220,6 @@ Points: 500
 # Comments: 229]]></summary>
         <author>
             <name>hahahacorn</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The “small web” is bigger than you might think]]></title>
-        <id>https://news.ycombinator.com/item?id=47401879</id>
-        <link href="https://kevinboone.me/small_web_is_big.html"/>
-        <updated>2026-03-16T17:17:57.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://kevinboone.me/small_web_is_big.html
-Comments URL: https://news.ycombinator.com/item?id=47401879
-Points: 507
-# Comments: 208]]></summary>
-        <author>
-            <name>speckx</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The American Healthcare Conundrum]]></title>
-        <id>https://news.ycombinator.com/item?id=47401809</id>
-        <link href="https://github.com/rexrodeo/american-healthcare-conundrum"/>
-        <updated>2026-03-16T17:13:27.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://github.com/rexrodeo/american-healthcare-conundrum
-Comments URL: https://news.ycombinator.com/item?id=47401809
-Points: 500
-# Comments: 575]]></summary>
-        <author>
-            <name>rexroad</name>
         </author>
     </entry>
 </feed>
