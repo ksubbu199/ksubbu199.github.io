@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-04-15T05:24:32.399Z</updated>
+    <updated>2026-04-15T07:46:44.639Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -17,6 +17,24 @@ Points: 514
 # Comments: 126]]></summary>
         <author>
             <name>cdrnsf</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tell HN: Fiverr left customer files public and searchable]]></title>
+        <id>https://news.ycombinator.com/item?id=47769796</id>
+        <link href="https://news.ycombinator.com/item?id=47769796"/>
+        <updated>2026-04-14T18:56:40.000Z</updated>
+        <summary type="html"><![CDATA[Fiverr (gig work/task platform, competitor to Upwork) uses a service called Cloudinary to process PDF/images in messaging, including work products from the worker to client.
+Besides the PDF processing value add, Cloudinary effectively acts like S3 here, serving assets directly to the web client. Like S3, it has support for signed/expiring URLs. However, Fiverr opted to use public URLs, not signed ones, for sensitive client-worker communication.
+Moreover, it seems like they may be serving public HTML somewhere that links to these files. As a result, hundreds are in Google search results, many containing PII.
+Example query: site:fiverr-res.cloudinary.com form 1040
+In fact, Fiverr actively buys Google Ads for keywords like "form 1234 filing" despite knowing that it does not adequately secure the resulting work product, causing the preparer to violate the GLBA/FTC Safeguards Rule.
+Responsible Disclosure Note -- 40 days have passed since this was notified to the designated vulnerability email (security@fiverr.com). The security team did not reply. Therefore, this is being made public as it doesn't seem eligible for CVE/CERT processing as it is not really a code vulnerability, and I don't know anyone else who would care about it.
+Comments URL: https://news.ycombinator.com/item?id=47769796
+Points: 584
+# Comments: 123]]></summary>
+        <author>
+            <name>morpheuskafka</name>
         </author>
     </entry>
     <entry>
@@ -3194,32 +3212,6 @@ Points: 503
 # Comments: 98]]></summary>
         <author>
             <name>Poudlardo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Palestinian boy, 12, describes how Israeli forces killed his family in car]]></title>
-        <id>https://news.ycombinator.com/item?id=47402950</id>
-        <link href="https://www.bbc.com/news/articles/c70n2x7p22do"/>
-        <updated>2026-03-16T18:38:14.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.bbc.com/news/articles/c70n2x7p22do
-Comments URL: https://news.ycombinator.com/item?id=47402950
-Points: 631
-# Comments: 182]]></summary>
-        <author>
-            <name>tartoran</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meta’s renewed commitment to jemalloc]]></title>
-        <id>https://news.ycombinator.com/item?id=47402640</id>
-        <link href="https://engineering.fb.com/2026/03/02/data-infrastructure/investing-in-infrastructure-metas-renewed-commitment-to-jemalloc/"/>
-        <updated>2026-03-16T18:12:32.000Z</updated>
-        <summary type="html"><![CDATA[https://github.com/jemalloc/jemalloc
-Comments URL: https://news.ycombinator.com/item?id=47402640
-Points: 500
-# Comments: 229]]></summary>
-        <author>
-            <name>hahahacorn</name>
         </author>
     </entry>
 </feed>

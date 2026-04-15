@@ -16,6 +16,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://news.ycombinator.com/item?id=47769796",
+          "author": "morpheuskafka",
+          "description": "Fiverr (gig work/task platform, competitor to Upwork) uses a service called Cloudinary to process PDF/images in messaging, including work products from the worker to client.\nBesides the PDF processing value add, Cloudinary effectively acts like S3 here, serving assets directly to the web client. Like S3, it has support for signed/expiring URLs. However, Fiverr opted to use public URLs, not signed ones, for sensitive client-worker communication.\nMoreover, it seems like they may be serving public HTML somewhere that links to these files. As a result, hundreds are in Google search results, many containing PII.\nExample query: site:fiverr-res.cloudinary.com form 1040\nIn fact, Fiverr actively buys Google Ads for keywords like \"form 1234 filing\" despite knowing that it does not adequately secure the resulting work product, causing the preparer to violate the GLBA/FTC Safeguards Rule.\nResponsible Disclosure Note -- 40 days have passed since this was notified to the designated vulnerability email (security@fiverr.com). The security team did not reply. Therefore, this is being made public as it doesn't seem eligible for CVE/CERT processing as it is not really a code vulnerability, and I don't know anyone else who would care about it.\nComments URL: https://news.ycombinator.com/item?id=47769796\nPoints: 584\n# Comments: 123",
+          "link": "https://news.ycombinator.com/item?id=47769796",
+          "publishedOn": "2026-04-14T18:56:40.000Z",
+          "wordCount": 6239,
+          "title": "Tell HN: Fiverr left customer files public and searchable",
+          "imageUrl": null
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=47768813",
           "author": "speckx",
           "description": "Article URL: https://honeypot.net/2026/04/14/i-wrote-to-flocks-privacy.html\nComments URL: https://news.ycombinator.com/item?id=47768813\nPoints: 506\n# Comments: 207",
@@ -1994,26 +2004,6 @@
           "wordCount": 5370,
           "title": "Leanstral: Open-source agent for trustworthy coding and formal proof engineering",
           "imageUrl": "https://mistral.ai/img/mistral-cover.png"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=47402950",
-          "author": "tartoran",
-          "description": "Article URL: https://www.bbc.com/news/articles/c70n2x7p22do\nComments URL: https://news.ycombinator.com/item?id=47402950\nPoints: 631\n# Comments: 182",
-          "link": "https://www.bbc.com/news/articles/c70n2x7p22do",
-          "publishedOn": "2026-03-16T18:38:14.000Z",
-          "wordCount": 7359,
-          "title": "Palestinian boy, 12, describes how Israeli forces killed his family in car",
-          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/26e0/live/5fb34240-215b-11f1-b297-95b0a0a8331e.jpg"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=47402640",
-          "author": "hahahacorn",
-          "description": "https://github.com/jemalloc/jemalloc\nComments URL: https://news.ycombinator.com/item?id=47402640\nPoints: 500\n# Comments: 229",
-          "link": "https://engineering.fb.com/2026/03/02/data-infrastructure/investing-in-infrastructure-metas-renewed-commitment-to-jemalloc/",
-          "publishedOn": "2026-03-16T18:12:32.000Z",
-          "wordCount": 2435,
-          "title": "Meta’s renewed commitment to jemalloc",
-          "imageUrl": "https://engineering.fb.com/wp-content/uploads/2026/02/jemalloc-at-Meta-Hero.png"
         }
       ]
     },
