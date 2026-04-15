@@ -1964,16 +1964,6 @@
           "wordCount": 540,
           "title": "Kagi Small Web",
           "imageUrl": "http://kagi.com/smallweb/static/SmallWeb.png"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=47408703",
-          "author": "smitec",
-          "description": "Article URL: https://translate.kagi.com/?from=en&to=LinkedIn+speak\nComments URL: https://news.ycombinator.com/item?id=47408703\nPoints: 594\n# Comments: 155",
-          "link": "https://translate.kagi.com/?from=en&to=LinkedIn+speak",
-          "publishedOn": "2026-03-17T04:39:42.000Z",
-          "wordCount": 30230,
-          "title": "Kagi Translate now supports LinkedIn Speak as an output language",
-          "imageUrl": "/banner.png"
         }
       ]
     },
@@ -2498,6 +2488,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC_ML5xP23TOWKUcc-oAE_Eg",
       "siteUrl": "https://www.youtube.com/channel/UC_ML5xP23TOWKUcc-oAE_Eg",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=Jx_4kfrQsiA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Jx_4kfrQsiA",
+          "publishedOn": "2026-04-15T16:31:03.000Z",
+          "wordCount": null,
+          "title": "My new book: Root Cause - Stories from Two Decades of Backend Bugs",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/shorts/hFf9XYR2v1I",
           "author": null,
