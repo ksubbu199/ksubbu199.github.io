@@ -2,10 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-04-14T23:41:31.623Z</updated>
+    <updated>2026-04-15T02:32:32.648Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[I wrote to Flock's privacy contact to opt out of their domestic spying program]]></title>
+        <id>https://news.ycombinator.com/item?id=47768813</id>
+        <link href="https://honeypot.net/2026/04/14/i-wrote-to-flocks-privacy.html"/>
+        <updated>2026-04-14T17:47:00.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://honeypot.net/2026/04/14/i-wrote-to-flocks-privacy.html
+Comments URL: https://news.ycombinator.com/item?id=47768813
+Points: 506
+# Comments: 207]]></summary>
+        <author>
+            <name>speckx</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rare concert recordings are landing on the Internet Archive]]></title>
+        <id>https://news.ycombinator.com/item?id=47765604</id>
+        <link href="https://techcrunch.com/2026/04/13/thousands-of-rare-concert-recordings-are-landing-on-the-internet-archive-listen-now/"/>
+        <updated>2026-04-14T13:46:31.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://techcrunch.com/2026/04/13/thousands-of-rare-concert-recordings-are-landing-on-the-internet-archive-listen-now/
+Comments URL: https://news.ycombinator.com/item?id=47765604
+Points: 530
+# Comments: 163]]></summary>
+        <author>
+            <name>jrm-veris</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Fragments: April 14]]></title>
         <id>https://martinfowler.com/fragments/2026-04-14.html</id>
@@ -3181,47 +3207,6 @@ Points: 500
 # Comments: 575]]></summary>
         <author>
             <name>rexroad</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fragments: March 16]]></title>
-        <id>https://martinfowler.com/fragments/2026-03-16.html</id>
-        <link href="https://martinfowler.com/fragments/2026-03-16.html"/>
-        <updated>2026-03-16T14:13:00.000Z</updated>
-        <summary type="html"><![CDATA[Annie Vella did some research into how 158 professional software engineers used
-AI, her first question was:
-Are AI tools shifting where engineers actually spend their time and effort? Because if they are, they’re implicitly shifting what skills we practice and, ultimately, the definition of the role itself.
-She found that participants saw a shift from creation-oriented tasks to verification-oriented tasks, but it was a different form of verification than reviewing and testing.
-In my thesis, I propose a name for it: supervisory engineering work - the effort required to direct AI, evaluate its output, and correct it when it’s wrong.
-Many software folks think of inner and outer loops. The inner loop is writing code, testing, debugging. The outer loop is commit, review, CI/CD, deploy, observe.…]]></summary>
-        <author>
-            <name>Martin Fowler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Polymarket gamblers threaten to kill me over Iran missile story]]></title>
-        <id>https://news.ycombinator.com/item?id=47397822</id>
-        <link href="https://www.timesofisrael.com/gamblers-trying-to-win-a-bet-on-polymarket-are-vowing-to-kill-me-if-i-dont-rewrite-an-iran-missile-story/"/>
-        <updated>2026-03-16T12:00:06.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.timesofisrael.com/gamblers-trying-to-win-a-bet-on-polymarket-are-vowing-to-kill-me-if-i-dont-rewrite-an-iran-missile-story/
-Comments URL: https://news.ycombinator.com/item?id=47397822
-Points: 868
-# Comments: 534]]></summary>
-        <author>
-            <name>defly</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MoD sources warn Palantir role at heart of government is threat to UK security]]></title>
-        <id>https://news.ycombinator.com/item?id=47397797</id>
-        <link href="https://www.thenerve.news/p/palantir-technologies-uk-mod-sources-government-data-insights-security-state-secrets"/>
-        <updated>2026-03-16T11:57:33.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.thenerve.news/p/palantir-technologies-uk-mod-sources-government-data-insights-security-state-secrets
-Comments URL: https://news.ycombinator.com/item?id=47397797
-Points: 524
-# Comments: 209]]></summary>
-        <author>
-            <name>vrganj</name>
         </author>
     </entry>
 </feed>
