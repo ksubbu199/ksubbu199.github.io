@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-04-16T02:39:54.136Z</updated>
+    <updated>2026-04-16T05:30:19.752Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -35,6 +35,19 @@ Points: 530
         <updated>2026-04-15T15:41:39.000Z</updated>
         <author>
             <name>Think School</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[God sleeps in the minerals]]></title>
+        <id>https://news.ycombinator.com/item?id=47778475</id>
+        <link href="https://wchambliss.wordpress.com/2026/03/03/god-sleeps-in-the-minerals/"/>
+        <updated>2026-04-15T13:08:10.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://wchambliss.wordpress.com/2026/03/03/god-sleeps-in-the-minerals/
+Comments URL: https://news.ycombinator.com/item?id=47778475
+Points: 501
+# Comments: 100]]></summary>
+        <author>
+            <name>speckx</name>
         </author>
     </entry>
     <entry>
@@ -3127,19 +3140,6 @@ Points: 505
 # Comments: 43]]></summary>
         <author>
             <name>mwkaufma</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft's 'unhackable' Xbox One has been hacked by 'Bliss']]></title>
-        <id>https://news.ycombinator.com/item?id=47413876</id>
-        <link href="https://www.tomshardware.com/video-games/console-gaming/microsofts-unhackable-xbox-one-has-been-hacked-by-bliss-the-2013-console-finally-fell-to-voltage-glitching-allowing-the-loading-of-unsigned-code-at-every-level"/>
-        <updated>2026-03-17T15:16:29.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.tomshardware.com/video-games/console-gaming/microsofts-unhackable-xbox-one-has-been-hacked-by-bliss-the-2013-console-finally-fell-to-voltage-glitching-allowing-the-loading-of-unsigned-code-at-every-level
-Comments URL: https://news.ycombinator.com/item?id=47413876
-Points: 546
-# Comments: 206]]></summary>
-        <author>
-            <name>crtasm</name>
         </author>
     </entry>
 </feed>
