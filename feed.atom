@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-04-16T15:25:46.936Z</updated>
+    <updated>2026-04-16T17:15:01.332Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Claude Opus 4.7]]></title>
+        <id>https://news.ycombinator.com/item?id=47793411</id>
+        <link href="https://www.anthropic.com/news/claude-opus-4-7"/>
+        <updated>2026-04-16T14:23:50.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.anthropic.com/news/claude-opus-4-7
+Comments URL: https://news.ycombinator.com/item?id=47793411
+Points: 679
+# Comments: 534]]></summary>
+        <author>
+            <name>meetpateltech</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The local LLM ecosystem doesn’t need Ollama]]></title>
         <id>https://news.ycombinator.com/item?id=47788385</id>
@@ -3167,19 +3180,6 @@ Points: 530
 # Comments: 151]]></summary>
         <author>
             <name>rzzzzru</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Have a fucking website]]></title>
-        <id>https://news.ycombinator.com/item?id=47421442</id>
-        <link href="https://www.otherstrangeness.com/2026/03/14/have-a-fucking-website/"/>
-        <updated>2026-03-18T03:53:42.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.otherstrangeness.com/2026/03/14/have-a-fucking-website/
-Comments URL: https://news.ycombinator.com/item?id=47421442
-Points: 663
-# Comments: 373]]></summary>
-        <author>
-            <name>asukachikaru</name>
         </author>
     </entry>
 </feed>
