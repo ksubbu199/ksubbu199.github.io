@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-04-17T22:39:18.363Z</updated>
+    <updated>2026-04-17T23:39:14.922Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Measuring Claude 4.7's tokenizer costs]]></title>
+        <id>https://news.ycombinator.com/item?id=47807006</id>
+        <link href="https://www.claudecodecamp.com/p/i-measured-claude-4-7-s-new-tokenizer-here-s-what-it-costs-you"/>
+        <updated>2026-04-17T15:29:36.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.claudecodecamp.com/p/i-measured-claude-4-7-s-new-tokenizer-here-s-what-it-costs-you
+Comments URL: https://news.ycombinator.com/item?id=47807006
+Points: 512
+# Comments: 348]]></summary>
+        <author>
+            <name>aray07</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Claude Design]]></title>
         <id>https://news.ycombinator.com/item?id=47806725</id>
@@ -3147,19 +3160,6 @@ Points: 687
 # Comments: 439]]></summary>
         <author>
             <name>ibraheemdev</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“Your frustration is the product”]]></title>
-        <id>https://news.ycombinator.com/item?id=47437655</id>
-        <link href="https://daringfireball.net/2026/03/your_frustration_is_the_product"/>
-        <updated>2026-03-19T11:34:24.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://daringfireball.net/2026/03/your_frustration_is_the_product
-Comments URL: https://news.ycombinator.com/item?id=47437655
-Points: 501
-# Comments: 302]]></summary>
-        <author>
-            <name>llm_nerd</name>
         </author>
     </entry>
 </feed>

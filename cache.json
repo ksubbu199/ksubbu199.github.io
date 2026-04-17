@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=47807006",
+          "author": "aray07",
+          "description": "Article URL: https://www.claudecodecamp.com/p/i-measured-claude-4-7-s-new-tokenizer-here-s-what-it-costs-you\nComments URL: https://news.ycombinator.com/item?id=47807006\nPoints: 512\n# Comments: 348",
+          "link": "https://www.claudecodecamp.com/p/i-measured-claude-4-7-s-new-tokenizer-here-s-what-it-costs-you",
+          "publishedOn": "2026-04-17T15:29:36.000Z",
+          "wordCount": 16444,
+          "title": "Measuring Claude 4.7's tokenizer costs",
+          "imageUrl": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/e5042662-e001-4de8-8c26-224b260a6303/thumbnail.png?t=1776374689"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=47806725",
           "author": "meetpateltech",
           "description": "Article URL: https://www.anthropic.com/news/claude-design-anthropic-labs\nComments URL: https://news.ycombinator.com/item?id=47806725\nPoints: 516\n# Comments: 335",
@@ -1974,16 +1984,6 @@
           "wordCount": 1306,
           "title": "Astral to Join OpenAI",
           "imageUrl": "https://astral.sh/static/OpenGraph/Astral.jpg"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=47437655",
-          "author": "llm_nerd",
-          "description": "Article URL: https://daringfireball.net/2026/03/your_frustration_is_the_product\nComments URL: https://news.ycombinator.com/item?id=47437655\nPoints: 501\n# Comments: 302",
-          "link": "https://daringfireball.net/2026/03/your_frustration_is_the_product",
-          "publishedOn": "2026-03-19T11:34:24.000Z",
-          "wordCount": 1114,
-          "title": "“Your frustration is the product”",
-          "imageUrl": "https://daringfireball.net/graphics/df-wide-card.png"
         }
       ]
     },
