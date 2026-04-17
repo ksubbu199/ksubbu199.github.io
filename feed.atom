@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-04-17T21:41:05.455Z</updated>
+    <updated>2026-04-17T22:39:18.363Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -17,6 +17,19 @@ Points: 516
 # Comments: 335]]></summary>
         <author>
             <name>meetpateltech</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ban the sale of precise geolocation]]></title>
+        <id>https://news.ycombinator.com/item?id=47806304</id>
+        <link href="https://www.lawfaremedia.org/article/it-is-time-to-ban-the-sale-of-precise-geolocation"/>
+        <updated>2026-04-17T14:25:46.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.lawfaremedia.org/article/it-is-time-to-ban-the-sale-of-precise-geolocation
+Comments URL: https://news.ycombinator.com/item?id=47806304
+Points: 539
+# Comments: 147]]></summary>
+        <author>
+            <name>hn_acker</name>
         </author>
     </entry>
     <entry>
@@ -3147,19 +3160,6 @@ Points: 501
 # Comments: 302]]></summary>
         <author>
             <name>llm_nerd</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Afroman found not liable in defamation case brought by Ohio cops who raided home]]></title>
-        <id>https://news.ycombinator.com/item?id=47436950</id>
-        <link href="https://nypost.com/2026/03/18/us-news/afroman-found-not-liable-in-bizarre-ohio-defamation-case/"/>
-        <updated>2026-03-19T09:51:56.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://nypost.com/2026/03/18/us-news/afroman-found-not-liable-in-bizarre-ohio-defamation-case/
-Comments URL: https://news.ycombinator.com/item?id=47436950
-Points: 565
-# Comments: 194]]></summary>
-        <author>
-            <name>antonymoose</name>
         </author>
     </entry>
 </feed>
