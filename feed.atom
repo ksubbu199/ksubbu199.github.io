@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-04-17T02:35:42.561Z</updated>
+    <updated>2026-04-17T05:28:09.108Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -153,6 +153,19 @@ Points: 576
 # Comments: 368]]></summary>
         <author>
             <name>Aaronmacaron</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Want to write a compiler? Just read these two papers (2008)]]></title>
+        <id>https://news.ycombinator.com/item?id=47776796</id>
+        <link href="https://prog21.dadgum.com/30.html"/>
+        <updated>2026-04-15T09:41:19.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://prog21.dadgum.com/30.html
+Comments URL: https://news.ycombinator.com/item?id=47776796
+Points: 500
+# Comments: 155]]></summary>
+        <author>
+            <name>downbad_</name>
         </author>
     </entry>
     <entry>
