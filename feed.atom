@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-04-18T11:35:07.724Z</updated>
+    <updated>2026-04-18T13:02:54.035Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -3040,56 +3040,6 @@ Points: 542
 # Comments: 184]]></summary>
         <author>
             <name>bookstore-romeo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Clean Code in Python: Write Readable, Maintainable Code]]></title>
-        <id>https://boot.dev/blog/python/python-clean-code/</id>
-        <link href="https://boot.dev/blog/python/python-clean-code/"/>
-        <updated>2026-03-20T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[If you ask ten developers for a definition of clean code, you will get twelve answers and one argument in the comments. Still, most of us agree on the practical goal: write code that other humans can understand quickly and change safely. That matters way more than writing clever one-liners that only make sense to your past self at 2 AM.]]></summary>
-        <author>
-            <name>Boot.dev Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Python Classes and Objects: A Practical Beginner Guide]]></title>
-        <id>https://boot.dev/blog/python/python-classes-and-objects/</id>
-        <link href="https://boot.dev/blog/python/python-classes-and-objects/"/>
-        <updated>2026-03-20T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[If classes and objects still feel slippery, you’re not crazy. Most tutorials either go too abstract or drown you in weird examples. The practical way to learn OOP is simple: understand how data and behavior stick together, then build small objects that are easy to reason about.]]></summary>
-        <author>
-            <name>Boot.dev Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Python Encapsulation vs Abstraction: What Matters]]></title>
-        <id>https://boot.dev/blog/python/python-encapsulation-vs-abstraction/</id>
-        <link href="https://boot.dev/blog/python/python-encapsulation-vs-abstraction/"/>
-        <updated>2026-03-20T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[If classes and objects are the “what” of OOP, encapsulation and abstraction are the “how.” They’re how you keep code understandable after the project gets big, your team grows, and six months pass. They sound similar because they’re close cousins, but they solve slightly different pains.]]></summary>
-        <author>
-            <name>Boot.dev Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Python Inheritance: When to Use It and Skip It]]></title>
-        <id>https://boot.dev/blog/python/python-inheritance/</id>
-        <link href="https://boot.dev/blog/python/python-inheritance/"/>
-        <updated>2026-03-20T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Inheritance is one of those OOP tools that feels magical on day one and dangerous on day thirty. Used well, it removes duplication and keeps models clean. Used badly, it creates class trees no one wants to touch.]]></summary>
-        <author>
-            <name>Boot.dev Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Python Polymorphism: One Interface, Many Behaviors]]></title>
-        <id>https://boot.dev/blog/python/python-polymorphism/</id>
-        <link href="https://boot.dev/blog/python/python-polymorphism/"/>
-        <updated>2026-03-20T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Polymorphism is where OOP starts to feel truly powerful. You stop writing giant if type == ... trees and start trusting shared interfaces. Different objects respond to the same method call in different ways, and your calling code stays clean.]]></summary>
-        <author>
-            <name>Boot.dev Blog</name>
         </author>
     </entry>
 </feed>
