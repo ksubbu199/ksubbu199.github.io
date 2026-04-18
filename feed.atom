@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-04-18T18:52:12.421Z</updated>
+    <updated>2026-04-18T19:41:09.526Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Migrating from DigitalOcean to Hetzner]]></title>
+        <id>https://news.ycombinator.com/item?id=47815774</id>
+        <link href="https://isayeter.com/posts/digitalocean-to-hetzner-migration/"/>
+        <updated>2026-04-18T13:29:04.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://isayeter.com/posts/digitalocean-to-hetzner-migration/
+Comments URL: https://news.ycombinator.com/item?id=47815774
+Points: 521
+# Comments: 291]]></summary>
+        <author>
+            <name>yusufusta</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Measuring Claude 4.7's tokenizer costs]]></title>
         <id>https://news.ycombinator.com/item?id=47807006</id>
