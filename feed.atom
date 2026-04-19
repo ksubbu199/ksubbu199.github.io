@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-04-19T21:36:23.547Z</updated>
+    <updated>2026-04-19T22:36:54.722Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -82,6 +82,19 @@ Points: 539
 # Comments: 147]]></summary>
         <author>
             <name>hn_acker</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Archive of BYTE magazine, starting with issue #1 in 1975]]></title>
+        <id>https://news.ycombinator.com/item?id=47806096</id>
+        <link href="https://archive.org/details/byte-magazine-1975-09"/>
+        <updated>2026-04-17T14:07:28.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://archive.org/details/byte-magazine-1975-09
+Comments URL: https://news.ycombinator.com/item?id=47806096
+Points: 505
+# Comments: 126]]></summary>
+        <author>
+            <name>DamnInteresting</name>
         </author>
     </entry>
     <entry>
