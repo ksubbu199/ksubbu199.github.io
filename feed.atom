@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-04-20T02:41:31.358Z</updated>
+    <updated>2026-04-20T05:41:57.534Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -173,6 +173,19 @@ Points: 517
 # Comments: 564]]></summary>
         <author>
             <name>aphyr</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Darkbloom – Private inference on idle Macs]]></title>
+        <id>https://news.ycombinator.com/item?id=47788542</id>
+        <link href="https://darkbloom.dev/"/>
+        <updated>2026-04-16T04:06:39.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://darkbloom.dev
+Comments URL: https://news.ycombinator.com/item?id=47788542
+Points: 500
+# Comments: 250]]></summary>
+        <author>
+            <name>twapi</name>
         </author>
     </entry>
     <entry>
@@ -2952,19 +2965,6 @@ Points: 503
 # Comments: 290]]></summary>
         <author>
             <name>albelfio</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Some things just take time]]></title>
-        <id>https://news.ycombinator.com/item?id=47467537</id>
-        <link href="https://lucumr.pocoo.org/2026/3/20/some-things-just-take-time/"/>
-        <updated>2026-03-21T14:46:56.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://lucumr.pocoo.org/2026/3/20/some-things-just-take-time/
-Comments URL: https://news.ycombinator.com/item?id=47467537
-Points: 513
-# Comments: 176]]></summary>
-        <author>
-            <name>vaylian</name>
         </author>
     </entry>
     <entry>
