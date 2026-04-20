@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-04-20T21:47:19.268Z</updated>
+    <updated>2026-04-20T22:42:51.800Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[John Ternus to become Apple CEO]]></title>
+        <id>https://news.ycombinator.com/item?id=47840219</id>
+        <link href="https://www.apple.com/newsroom/2026/04/tim-cook-to-become-apple-executive-chairman-john-ternus-to-become-apple-ceo/"/>
+        <updated>2026-04-20T20:39:32.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.apple.com/newsroom/2026/04/tim-cook-to-become-apple-executive-chairman-john-ternus-to-become-apple-ceo/
+Comments URL: https://news.ycombinator.com/item?id=47840219
+Points: 752
+# Comments: 376]]></summary>
+        <author>
+            <name>schappim</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[At long last, InfoWars is ours]]></title>
         <id>https://news.ycombinator.com/item?id=47837611</id>
@@ -26,6 +39,19 @@ Points: 508
         <updated>2026-04-20T16:35:57.000Z</updated>
         <author>
             <name>Think School</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kimi K2.6: Advancing open-source coding]]></title>
+        <id>https://news.ycombinator.com/item?id=47835735</id>
+        <link href="https://www.kimi.com/blog/kimi-k2-6"/>
+        <updated>2026-04-20T15:28:13.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.kimi.com/blog/kimi-k2-6
+Comments URL: https://news.ycombinator.com/item?id=47835735
+Points: 507
+# Comments: 256]]></summary>
+        <author>
+            <name>meetpateltech</name>
         </author>
     </entry>
     <entry>
