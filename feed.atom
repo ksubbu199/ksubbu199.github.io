@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-04-21T17:02:01.182Z</updated>
+    <updated>2026-04-21T19:11:57.052Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -25,6 +25,19 @@ As we would expect, the radar is dominated by AI-oriented topics. Part of this i
 An interesting consequence of AI in software development is that it’s not only forcing us to look to the future; it’s also pushing us to revisit the foundations of our craft. While assembling this edition, we found ourselves returning to many established techniques, from pair programming to zero trust architecture,…]]></summary>
         <author>
             <name>Martin Fowler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Laws of Software Engineering]]></title>
+        <id>https://news.ycombinator.com/item?id=47847179</id>
+        <link href="https://lawsofsoftwareengineering.com/"/>
+        <updated>2026-04-21T11:04:56.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://lawsofsoftwareengineering.com
+Comments URL: https://news.ycombinator.com/item?id=47847179
+Points: 664
+# Comments: 345]]></summary>
+        <author>
+            <name>milanm081</name>
         </author>
     </entry>
     <entry>
