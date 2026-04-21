@@ -2032,6 +2032,16 @@
       "siteUrl": "https://martinfowler.com/feed.atom",
       "articles": [
         {
+          "id": "https://martinfowler.com/fragments/2026-04-21.html",
+          "author": null,
+          "description": "Last week Thoughtworks released the 34th volume of our Technology Radar. This radar is our biannual survey of our experience of the technology scene, highlighting tools, techniques, platforms, and languages that we’ve used or otherwise caught our eye. This edition contains 118 blips, each briefly describing our impressions of one of these elements.\nAs we would expect, the radar is dominated by AI-oriented topics. Part of this is revisiting familiar ground with LLM-assisted eyes:\nAn interesting consequence of AI in software development is that it’s not only forcing us to look to the future; it’s also pushing us to revisit the foundations of our craft. While assembling this edition, we found ourselves returning to many established techniques, from pair programming to zero trust architecture,…",
+          "link": "https://martinfowler.com/fragments/2026-04-21.html",
+          "publishedOn": "2026-04-21T14:34:00.000Z",
+          "wordCount": 1185,
+          "title": "Fragments: April 21",
+          "imageUrl": "https://martinfowler.com/logo-sq.png"
+        },
+        {
           "id": "https://martinfowler.com/fragments/2026-04-14.html",
           "author": null,
           "description": "I attended the first Pragmatic Summit early this year, and while there host\nGergely Orosz interviewed Kent Beck and myself on stage. The video runs for about half-an-hour.\n\nI always enjoy nattering with Kent like this, and Gergely pushed into some worthwhile topics. Given\nthe timing, AI dominated the conversation - we compared it to earlier\ntechnology shifts, the experience of agile methods, the role of TDD, the\ndanger of unhealthy performance metrics, and how to thrive in an AI-native\nindustry.\n ❄                ❄                ❄                ❄                ❄\nPerl is a language I used a little, but never loved. However the definitive book on it, by its designer Larry Wall, contains a wonderful gem. The three virtues of a programmer: hubris, impatience - and above all - laziness.\nBrya…",
