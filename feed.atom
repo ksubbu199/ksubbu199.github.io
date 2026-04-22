@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-04-22T19:13:42.862Z</updated>
+    <updated>2026-04-22T20:55:19.370Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -17,6 +17,19 @@ Points: 560
 # Comments: 199]]></summary>
         <author>
             <name>Kaibeezy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Qwen3.6-27B: Flagship-Level Coding in a 27B Dense Model]]></title>
+        <id>https://news.ycombinator.com/item?id=47863217</id>
+        <link href="https://qwen.ai/blog?id=qwen3.6-27b"/>
+        <updated>2026-04-22T13:19:58.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://qwen.ai/blog?id=qwen3.6-27b
+Comments URL: https://news.ycombinator.com/item?id=47863217
+Points: 507
+# Comments: 247]]></summary>
+        <author>
+            <name>mfiguiere</name>
         </author>
     </entry>
     <entry>
