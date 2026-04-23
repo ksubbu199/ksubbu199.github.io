@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-04-23T20:52:33.002Z</updated>
+    <updated>2026-04-23T21:45:50.791Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -27,6 +27,19 @@ Points: 722
         <summary type="html"><![CDATA[At Meta, Microsoft, Salesforce and other large companies, devs are purposefully burning tokens (and money!) to inflate their AI usage and hit AI usage metrics which they treat as targets.]]></summary>
         <author>
             <name>Gergely Orosz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bitwarden CLI compromised in ongoing Checkmarx supply chain campaign]]></title>
+        <id>https://news.ycombinator.com/item?id=47876043</id>
+        <link href="https://socket.dev/blog/bitwarden-cli-compromised"/>
+        <updated>2026-04-23T14:17:08.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://socket.dev/blog/bitwarden-cli-compromised
+Comments URL: https://news.ycombinator.com/item?id=47876043
+Points: 529
+# Comments: 251]]></summary>
+        <author>
+            <name>tosh</name>
         </author>
     </entry>
     <entry>
