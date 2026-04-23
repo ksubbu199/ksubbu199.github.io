@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=47868867",
+          "author": "cdrnsf",
+          "description": "Article URL: https://techcrunch.com/2026/04/22/apple-fixes-bug-that-cops-used-to-extract-deleted-chat-messages-from-iphones/\nComments URL: https://news.ycombinator.com/item?id=47868867\nPoints: 585\n# Comments: 146",
+          "link": "https://techcrunch.com/2026/04/22/apple-fixes-bug-that-cops-used-to-extract-deleted-chat-messages-from-iphones/",
+          "publishedOn": "2026-04-22T20:27:31.000Z",
+          "wordCount": 3204,
+          "title": "Apple fixes bug that cops used to extract deleted chat messages from iPhones",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/04/iphone-pop-up-notifications.jpg?resize=1200,900"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=47866697",
           "author": "danpinto",
           "description": "Article URL: https://fingerprint.com/blog/firefox-tor-indexeddb-privacy-vulnerability/\nComments URL: https://news.ycombinator.com/item?id=47866697\nPoints: 555\n# Comments: 162",
@@ -1924,46 +1934,6 @@
           "wordCount": 908,
           "title": "Flighty Airports",
           "imageUrl": "https://flighty.com/airports/image/card-airport-details.jpg"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=47508745",
-          "author": "jakelsaunders94",
-          "description": "Article URL: https://blog.jakesaunders.dev/is-anybody-else-bored-of-talking-about-ai/\nComments URL: https://news.ycombinator.com/item?id=47508745\nPoints: 524\n# Comments: 365",
-          "link": "https://blog.jakesaunders.dev/is-anybody-else-bored-of-talking-about-ai/",
-          "publishedOn": "2026-03-24T20:31:08.000Z",
-          "wordCount": 640,
-          "title": "Is anybody else bored of talking about AI?",
-          "imageUrl": "https://blog.jakesaunders.dev/is-anybody-else-bored-of-talking-about-ai/img.png"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=47508246",
-          "author": "mikeocool",
-          "description": "https://xcancel.com/soraofficialapp/status/20365327959847158...\nhttps://www.hollywoodreporter.com/business/digital/openai-sh..., https://archive.ph/ABkeI\nComments URL: https://news.ycombinator.com/item?id=47508246\nPoints: 506\n# Comments: 392",
-          "link": "https://twitter.com/soraofficialapp/status/2036532795984715896",
-          "publishedOn": "2026-03-24T20:01:05.000Z",
-          "wordCount": 703,
-          "title": "Goodbye to Sora",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=47507150",
-          "author": "felineflock",
-          "description": "Article URL: https://www.xda-developers.com/wine-11-rewrites-linux-runs-windows-games-speed-gains/\nComments URL: https://news.ycombinator.com/item?id=47507150\nPoints: 555\n# Comments: 200",
-          "link": "https://www.xda-developers.com/wine-11-rewrites-linux-runs-windows-games-speed-gains/",
-          "publishedOn": "2026-03-24T18:34:52.000Z",
-          "wordCount": 6306,
-          "title": "Wine 11 rewrites how Linux runs Windows games at kernel with massive speed gains",
-          "imageUrl": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2025/09/windows-apps-through-wine.jpg?w=1600&h=900&fit=crop"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=47506713",
-          "author": "Heff",
-          "description": "What do you do when private equity buys your old company and fires the maintainers of the popular open source project you started over a decade ago? You reboot it, and bring along some new friends to do it.\nVideo.js is used by billions of people every month, on sites like Amazon.com, Linkedin, and Dropbox, and yet it wasn’t in great shape. A skeleton crew of maintainers were doing their best with a dated architecture, but it needed more. So Sam from Plyr, Rahim from Vidstack, and Wes and Christain from Media Chrome jumped in to help me rebuild it better, faster, and smaller.\nIt’s in beta now. Please give it a try and tell us what breaks.\nComments URL: https://news.ycombinator.com/item?id=47506713\nPoints: 529\n# Comments: 104",
-          "link": "https://videojs.org/blog/videojs-v10-beta-hello-world-again",
-          "publishedOn": "2026-03-24T18:03:48.000Z",
-          "wordCount": 3524,
-          "title": "Show HN: I took back Video.js after 16 years and we rewrote it to be 88% smaller",
-          "imageUrl": "https://videojs.org/_astro/og.B0Sh9rgU.png"
         }
       ]
     },

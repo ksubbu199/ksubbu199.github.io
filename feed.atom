@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-04-23T07:52:42.109Z</updated>
+    <updated>2026-04-23T09:28:33.434Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Apple fixes bug that cops used to extract deleted chat messages from iPhones]]></title>
+        <id>https://news.ycombinator.com/item?id=47868867</id>
+        <link href="https://techcrunch.com/2026/04/22/apple-fixes-bug-that-cops-used-to-extract-deleted-chat-messages-from-iphones/"/>
+        <updated>2026-04-22T20:27:31.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://techcrunch.com/2026/04/22/apple-fixes-bug-that-cops-used-to-extract-deleted-chat-messages-from-iphones/
+Comments URL: https://news.ycombinator.com/item?id=47868867
+Points: 585
+# Comments: 146]]></summary>
+        <author>
+            <name>cdrnsf</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[We found a stable Firefox identifier linking all your private Tor identities]]></title>
         <id>https://news.ycombinator.com/item?id=47866697</id>
@@ -2967,61 +2980,6 @@ Points: 506
 # Comments: 170]]></summary>
         <author>
             <name>skogstokig</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Is anybody else bored of talking about AI?]]></title>
-        <id>https://news.ycombinator.com/item?id=47508745</id>
-        <link href="https://blog.jakesaunders.dev/is-anybody-else-bored-of-talking-about-ai/"/>
-        <updated>2026-03-24T20:31:08.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://blog.jakesaunders.dev/is-anybody-else-bored-of-talking-about-ai/
-Comments URL: https://news.ycombinator.com/item?id=47508745
-Points: 524
-# Comments: 365]]></summary>
-        <author>
-            <name>jakelsaunders94</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Goodbye to Sora]]></title>
-        <id>https://news.ycombinator.com/item?id=47508246</id>
-        <link href="https://twitter.com/soraofficialapp/status/2036532795984715896"/>
-        <updated>2026-03-24T20:01:05.000Z</updated>
-        <summary type="html"><![CDATA[https://xcancel.com/soraofficialapp/status/20365327959847158...
-https://www.hollywoodreporter.com/business/digital/openai-sh..., https://archive.ph/ABkeI
-Comments URL: https://news.ycombinator.com/item?id=47508246
-Points: 506
-# Comments: 392]]></summary>
-        <author>
-            <name>mikeocool</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Wine 11 rewrites how Linux runs Windows games at kernel with massive speed gains]]></title>
-        <id>https://news.ycombinator.com/item?id=47507150</id>
-        <link href="https://www.xda-developers.com/wine-11-rewrites-linux-runs-windows-games-speed-gains/"/>
-        <updated>2026-03-24T18:34:52.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.xda-developers.com/wine-11-rewrites-linux-runs-windows-games-speed-gains/
-Comments URL: https://news.ycombinator.com/item?id=47507150
-Points: 555
-# Comments: 200]]></summary>
-        <author>
-            <name>felineflock</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: I took back Video.js after 16 years and we rewrote it to be 88% smaller]]></title>
-        <id>https://news.ycombinator.com/item?id=47506713</id>
-        <link href="https://videojs.org/blog/videojs-v10-beta-hello-world-again"/>
-        <updated>2026-03-24T18:03:48.000Z</updated>
-        <summary type="html"><![CDATA[What do you do when private equity buys your old company and fires the maintainers of the popular open source project you started over a decade ago? You reboot it, and bring along some new friends to do it.
-Video.js is used by billions of people every month, on sites like Amazon.com, Linkedin, and Dropbox, and yet it wasn’t in great shape. A skeleton crew of maintainers were doing their best with a dated architecture, but it needed more. So Sam from Plyr, Rahim from Vidstack, and Wes and Christain from Media Chrome jumped in to help me rebuild it better, faster, and smaller.
-It’s in beta now. Please give it a try and tell us what breaks.
-Comments URL: https://news.ycombinator.com/item?id=47506713
-Points: 529
-# Comments: 104]]></summary>
-        <author>
-            <name>Heff</name>
         </author>
     </entry>
 </feed>
