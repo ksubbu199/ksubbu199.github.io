@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-04-23T13:43:01.535Z</updated>
+    <updated>2026-04-23T15:52:34.530Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -17,6 +17,16 @@ Points: 581
 # Comments: 293]]></summary>
         <author>
             <name>bumbledraven</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nvidia CEO: AI Doomers Could Cause a Software Engineer Shortage]]></title>
+        <id>https://boot.dev/blog/news/nvidia-ceo/</id>
+        <link href="https://boot.dev/blog/news/nvidia-ceo/"/>
+        <updated>2026-04-23T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[It feels like every week Dario (Anthropic’s CEO) is yelling about how AI is going to destroy white-collar jobs, particularly software engineering jobs. Well, in April 2026, about 4 years into the “in 6 weeks, AI is taking your coding job” cycle, Nvidia CEO Jensen Huang is finally talking about the potential consequences of that narrative:]]></summary>
+        <author>
+            <name>Boot.dev Blog</name>
         </author>
     </entry>
     <entry>

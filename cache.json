@@ -1949,6 +1949,16 @@
       "siteUrl": "https://boot.dev/blog/",
       "articles": [
         {
+          "id": "https://boot.dev/blog/news/nvidia-ceo/",
+          "author": null,
+          "description": "It feels like every week Dario (Anthropic’s CEO) is yelling about how AI is going to destroy white-collar jobs, particularly software engineering jobs. Well, in April 2026, about 4 years into the “in 6 weeks, AI is taking your coding job” cycle, Nvidia CEO Jensen Huang is finally talking about the potential consequences of that narrative:",
+          "link": "https://boot.dev/blog/news/nvidia-ceo/",
+          "publishedOn": "2026-04-23T00:00:00.000Z",
+          "wordCount": 892,
+          "title": "Nvidia CEO: AI Doomers Could Cause a Software Engineer Shortage",
+          "imageUrl": "https://boot.dev/blog/img/featured/nvidia-ceo-ai-doomers-could-cause-a-software-engineer-shortage.webp"
+        },
+        {
           "id": "https://boot.dev/blog/news/bootdev-beat-2026-04/",
           "author": null,
           "description": "March was a monster month. We shipped the new DevOps learning path (18 DevOps courses!), 2 brand new courses, upgraded the in-browser Python coding experience, and made Boot.dev noticeably better on phones.",
