@@ -1914,26 +1914,6 @@
           "wordCount": 2446,
           "title": "Thoughts on slowing the fuck down",
           "imageUrl": "https://mariozechner.at/posts/2026-03-25-thoughts-on-slowing-the-fuck-down/media/header.png"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=47513475",
-          "author": "ray__",
-          "description": "Article URL: https://research.google/blog/turboquant-redefining-ai-efficiency-with-extreme-compression/\nComments URL: https://news.ycombinator.com/item?id=47513475\nPoints: 507\n# Comments: 141",
-          "link": "https://research.google/blog/turboquant-redefining-ai-efficiency-with-extreme-compression/",
-          "publishedOn": "2026-03-25T05:00:54.000Z",
-          "wordCount": 2242,
-          "title": "TurboQuant: Redefining AI efficiency with extreme compression",
-          "imageUrl": "https://storage.googleapis.com/gweb-research2023-media/images/Open_Graph.width-800.format-jpeg.jpg"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=47513229",
-          "author": "decimalenough",
-          "description": "Article URL: https://acoup.blog/2026/03/25/miscellanea-the-war-in-iran/\nComments URL: https://news.ycombinator.com/item?id=47513229\nPoints: 514\n# Comments: 718",
-          "link": "https://acoup.blog/2026/03/25/miscellanea-the-war-in-iran/",
-          "publishedOn": "2026-03-25T04:27:14.000Z",
-          "wordCount": 13524,
-          "title": "Miscellanea: The War in Iran",
-          "imageUrl": "https://acoup.blog/wp-content/uploads/2026/03/image-3.png"
         }
       ]
     },
@@ -2194,6 +2174,16 @@
       "feedUrl": "https://blog.pragmaticengineer.com/rss/",
       "siteUrl": "https://blog.pragmaticengineer.com/",
       "articles": [
+        {
+          "id": "69ea4ef45d681300012e37e5",
+          "author": "Gergely Orosz",
+          "description": "At Meta, Microsoft, Salesforce and other large companies, devs are purposefully burning tokens (and money!) to inflate their AI usage and hit AI usage metrics which they treat as targets.",
+          "link": "https://blog.pragmaticengineer.com/the-pulse-tokenmaxxing-as-a-weird-new-trend/",
+          "publishedOn": "2026-04-23T16:55:40.000Z",
+          "wordCount": 2692,
+          "title": "The Pulse: ‘Tokenmaxxing’ as a weird new trend",
+          "imageUrl": null
+        },
         {
           "id": "69cfc72da95ab10001e47e0c",
           "author": "Gergely Orosz",
