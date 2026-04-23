@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-04-23T11:07:59.344Z</updated>
+    <updated>2026-04-23T13:43:01.535Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[I am building a cloud]]></title>
+        <id>https://news.ycombinator.com/item?id=47872324</id>
+        <link href="https://crawshaw.io/blog/building-a-cloud"/>
+        <updated>2026-04-23T04:44:19.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://crawshaw.io/blog/building-a-cloud
+Comments URL: https://news.ycombinator.com/item?id=47872324
+Points: 581
+# Comments: 293]]></summary>
+        <author>
+            <name>bumbledraven</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Apple fixes bug that cops used to extract deleted chat messages from iPhones]]></title>
         <id>https://news.ycombinator.com/item?id=47868867</id>
@@ -2967,19 +2980,6 @@ Points: 514
 # Comments: 718]]></summary>
         <author>
             <name>decimalenough</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Flighty Airports]]></title>
-        <id>https://news.ycombinator.com/item?id=47511589</id>
-        <link href="https://flighty.com/airports"/>
-        <updated>2026-03-25T00:29:45.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://flighty.com/airports
-Comments URL: https://news.ycombinator.com/item?id=47511589
-Points: 506
-# Comments: 170]]></summary>
-        <author>
-            <name>skogstokig</name>
         </author>
     </entry>
 </feed>

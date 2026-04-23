@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=47872324",
+          "author": "bumbledraven",
+          "description": "Article URL: https://crawshaw.io/blog/building-a-cloud\nComments URL: https://news.ycombinator.com/item?id=47872324\nPoints: 581\n# Comments: 293",
+          "link": "https://crawshaw.io/blog/building-a-cloud",
+          "publishedOn": "2026-04-23T04:44:19.000Z",
+          "wordCount": 1703,
+          "title": "I am building a cloud",
+          "imageUrl": null
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=47868867",
           "author": "cdrnsf",
           "description": "Article URL: https://techcrunch.com/2026/04/22/apple-fixes-bug-that-cops-used-to-extract-deleted-chat-messages-from-iphones/\nComments URL: https://news.ycombinator.com/item?id=47868867\nPoints: 585\n# Comments: 146",
@@ -1924,16 +1934,6 @@
           "wordCount": 13524,
           "title": "Miscellanea: The War in Iran",
           "imageUrl": "https://acoup.blog/wp-content/uploads/2026/03/image-3.png"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=47511589",
-          "author": "skogstokig",
-          "description": "Article URL: https://flighty.com/airports\nComments URL: https://news.ycombinator.com/item?id=47511589\nPoints: 506\n# Comments: 170",
-          "link": "https://flighty.com/airports",
-          "publishedOn": "2026-03-25T00:29:45.000Z",
-          "wordCount": 908,
-          "title": "Flighty Airports",
-          "imageUrl": "https://flighty.com/airports/image/card-airport-details.jpg"
         }
       ]
     },
