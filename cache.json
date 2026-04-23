@@ -96,6 +96,16 @@
           "imageUrl": "https://lawsofsoftwareengineering.com/og-image.png"
         },
         {
+          "id": "https://news.ycombinator.com/item?id=47844269",
+          "author": "jmsflknr",
+          "description": "Article URL: https://docs.openclaw.ai/providers/anthropic\nComments URL: https://news.ycombinator.com/item?id=47844269\nPoints: 501\n# Comments: 288",
+          "link": "https://docs.openclaw.ai/providers/anthropic",
+          "publishedOn": "2026-04-21T03:43:03.000Z",
+          "wordCount": 1154,
+          "title": "Anthropic says OpenClaw-style Claude CLI usage is allowed again",
+          "imageUrl": null
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=47842569",
           "author": "kaipereira",
           "description": "Article URL: https://www.youtube.com/watch?v=h6GWikWlAQA\nComments URL: https://news.ycombinator.com/item?id=47842569\nPoints: 528\n# Comments: 152",
@@ -1964,16 +1974,6 @@
           "wordCount": 6073,
           "title": "Mystery jump in oil trading ahead of Trump post draws scrutiny",
           "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/cfb2/live/b420e4e0-2769-11f1-82f7-f757ccb9d4bd.jpg"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=47501729",
-          "author": "theanonymousone",
-          "description": "Article URL: https://github.com/BerriAI/litellm/issues/24512\nComments URL: https://news.ycombinator.com/item?id=47501729\nPoints: 615\n# Comments: 254",
-          "link": "https://github.com/BerriAI/litellm/issues/24512",
-          "publishedOn": "2026-03-24T12:36:20.000Z",
-          "wordCount": 3691,
-          "title": "LiteLLM Python package compromised by supply-chain attack",
-          "imageUrl": "https://opengraph.githubassets.com/92c5878fbb0428b473390facde169caed0c45465b651a858fe66942e191e1dba/BerriAI/litellm/issues/24512"
         }
       ]
     },
@@ -2209,16 +2209,6 @@
           "publishedOn": "2026-03-26T17:11:00.000Z",
           "wordCount": 697,
           "title": "Fragments: March 26",
-          "imageUrl": "https://martinfowler.com/logo-sq.png"
-        },
-        {
-          "id": "https://martinfowler.com/bliki/ArchitectureDecisionRecord.html",
-          "author": null,
-          "description": "An Architecture Decision Record (ADR) is a short document that captures and\n  explains a single decision relevant to a product or ecosystem. Documents\n  should be short, just a couple of pages, and contain the decision, the context\n  for making it, and significant ramifications. They should not be modified if\n  the decision is changed, but linked to a superseding decision.\nAs with most written documents, writing ADRs serves two purposes. Firstly they\n  act as a record of decisions, allowing people months or years later to\n  understand why the system is constructed in the way that it is. But perhaps\n  even more valuable, the act of writing them helps to clarify thinking,\n  particularly with groups of people. Writing a document of consequence\n  often surfaces different points of view - forci…",
-          "link": "https://martinfowler.com/bliki/ArchitectureDecisionRecord.html",
-          "publishedOn": "2026-03-24T13:50:00.000Z",
-          "wordCount": 975,
-          "title": "Bliki: Architecture Decision Record",
           "imageUrl": "https://martinfowler.com/logo-sq.png"
         }
       ]
