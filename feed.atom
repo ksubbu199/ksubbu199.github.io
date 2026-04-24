@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-04-24T05:35:32.273Z</updated>
+    <updated>2026-04-24T08:03:41.759Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[DeepSeek v4]]></title>
+        <id>https://news.ycombinator.com/item?id=47884971</id>
+        <link href="https://api-docs.deepseek.com/"/>
+        <updated>2026-04-24T03:01:21.000Z</updated>
+        <summary type="html"><![CDATA[https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro/blob/main...
+Comments URL: https://news.ycombinator.com/item?id=47884971
+Points: 745
+# Comments: 416]]></summary>
+        <author>
+            <name>impact_sy</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Meta tells staff it will cut 10% of jobs]]></title>
         <id>https://news.ycombinator.com/item?id=47879986</id>
@@ -2989,29 +3002,6 @@ Points: 531
 # Comments: 159]]></summary>
         <author>
             <name>MrBruh</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Personal Encyclopedias]]></title>
-        <id>https://news.ycombinator.com/item?id=47522173</id>
-        <link href="https://whoami.wiki/blog/personal-encyclopedias"/>
-        <updated>2026-03-25T19:41:51.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://whoami.wiki/blog/personal-encyclopedias
-Comments URL: https://news.ycombinator.com/item?id=47522173
-Points: 523
-# Comments: 100]]></summary>
-        <author>
-            <name>jrmyphlmn</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Postgres is now async by Default]]></title>
-        <id>https://www.youtube.com/shorts/uJ2Pa6POVYA</id>
-        <link href="https://www.youtube.com/shorts/uJ2Pa6POVYA"/>
-        <updated>2026-03-25T17:01:18.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Hussein Nasser</name>
         </author>
     </entry>
 </feed>

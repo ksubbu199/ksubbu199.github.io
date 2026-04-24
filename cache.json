@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=47884971",
+          "author": "impact_sy",
+          "description": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro/blob/main...\nComments URL: https://news.ycombinator.com/item?id=47884971\nPoints: 745\n# Comments: 416",
+          "link": "https://api-docs.deepseek.com/",
+          "publishedOn": "2026-04-24T03:01:21.000Z",
+          "wordCount": 399,
+          "title": "DeepSeek v4",
+          "imageUrl": "https://api-docs.deepseek.com/img/deepseek-social-card.jpeg"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=47879986",
           "author": "Vaslo",
           "description": "https://techcrunch.com/2026/04/23/meta-job-cuts-10-percent-8...\nComments URL: https://news.ycombinator.com/item?id=47879986\nPoints: 511\n# Comments: 490",
@@ -1934,16 +1944,6 @@
           "wordCount": 100,
           "title": "The EU still wants to scan  your private messages and photos",
           "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=47522173",
-          "author": "jrmyphlmn",
-          "description": "Article URL: https://whoami.wiki/blog/personal-encyclopedias\nComments URL: https://news.ycombinator.com/item?id=47522173\nPoints: 523\n# Comments: 100",
-          "link": "https://whoami.wiki/blog/personal-encyclopedias",
-          "publishedOn": "2026-03-25T19:41:51.000Z",
-          "wordCount": 3846,
-          "title": "Personal Encyclopedias",
-          "imageUrl": "https://whoami.wiki/blog/personal-encyclopedias/opengraph-image.png?v=2"
         }
       ]
     },
@@ -2376,16 +2376,6 @@
           "publishedOn": "2026-04-08T17:01:02.000Z",
           "wordCount": 2164,
           "title": "Someone is always getting blocked",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/shorts/uJ2Pa6POVYA",
-          "author": null,
-          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-          "link": "https://www.youtube.com/shorts/uJ2Pa6POVYA",
-          "publishedOn": "2026-03-25T17:01:18.000Z",
-          "wordCount": 2185,
-          "title": "Postgres is now async by Default",
           "imageUrl": null
         }
       ]
