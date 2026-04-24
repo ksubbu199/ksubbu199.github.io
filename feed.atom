@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-04-23T23:45:30.478Z</updated>
+    <updated>2026-04-24T02:38:52.315Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -17,6 +17,19 @@ Points: 722
 # Comments: 346]]></summary>
         <author>
             <name>rd</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[An update on recent Claude Code quality reports]]></title>
+        <id>https://news.ycombinator.com/item?id=47878905</id>
+        <link href="https://www.anthropic.com/engineering/april-23-postmortem"/>
+        <updated>2026-04-23T17:48:38.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.anthropic.com/engineering/april-23-postmortem
+Comments URL: https://news.ycombinator.com/item?id=47878905
+Points: 588
+# Comments: 444]]></summary>
+        <author>
+            <name>mfiguiere</name>
         </author>
     </entry>
     <entry>
@@ -244,6 +257,19 @@ Points: 664
 # Comments: 345]]></summary>
         <author>
             <name>milanm081</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Your hex editor should color-code bytes]]></title>
+        <id>https://news.ycombinator.com/item?id=47846688</id>
+        <link href="https://simonomi.dev/blog/color-code-your-bytes/"/>
+        <updated>2026-04-21T09:52:09.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://simonomi.dev/blog/color-code-your-bytes/
+Comments URL: https://news.ycombinator.com/item?id=47846688
+Points: 512
+# Comments: 143]]></summary>
+        <author>
+            <name>tobr</name>
         </author>
     </entry>
     <entry>
@@ -3000,19 +3026,6 @@ Points: 614
 # Comments: 120]]></summary>
         <author>
             <name>Amorymeltzer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Thoughts on slowing the fuck down]]></title>
-        <id>https://news.ycombinator.com/item?id=47517539</id>
-        <link href="https://mariozechner.at/posts/2026-03-25-thoughts-on-slowing-the-fuck-down/"/>
-        <updated>2026-03-25T14:07:14.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://mariozechner.at/posts/2026-03-25-thoughts-on-slowing-the-fuck-down/
-Comments URL: https://news.ycombinator.com/item?id=47517539
-Points: 519
-# Comments: 280]]></summary>
-        <author>
-            <name>jdkoeck</name>
         </author>
     </entry>
 </feed>
