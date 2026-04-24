@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=47879986",
+          "author": "Vaslo",
+          "description": "https://techcrunch.com/2026/04/23/meta-job-cuts-10-percent-8...\nComments URL: https://news.ycombinator.com/item?id=47879986\nPoints: 511\n# Comments: 490",
+          "link": "https://www.bloomberg.com/news/articles/2026-04-23/meta-tells-staff-it-will-cut-10-of-jobs-in-push-for-efficiency",
+          "publishedOn": "2026-04-23T18:55:32.000Z",
+          "wordCount": null,
+          "title": "Meta tells staff it will cut 10% of jobs",
+          "imageUrl": null
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=47879092",
           "author": "rd",
           "description": "Article URL: https://openai.com/index/introducing-gpt-5-5/\nComments URL: https://news.ycombinator.com/item?id=47879092\nPoints: 722\n# Comments: 346",
@@ -1934,26 +1944,6 @@
           "wordCount": 3846,
           "title": "Personal Encyclopedias",
           "imageUrl": "https://whoami.wiki/blog/personal-encyclopedias/opengraph-image.png?v=2"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=47519519",
-          "author": "cramsession",
-          "description": "https://archive.ph/LwhOj\nhttps://www.politico.eu/article/black-cube-leak-tape-corrupt...\nComments URL: https://news.ycombinator.com/item?id=47519519\nPoints: 515\n# Comments: 229",
-          "link": "https://www.wsj.com/world/europe/spies-lies-and-fake-investors-in-disguise-how-plotters-tried-to-flip-a-european-election-1f42b39a",
-          "publishedOn": "2026-03-25T16:24:15.000Z",
-          "wordCount": null,
-          "title": "Slovenian officials blame Israeli firm Black Cube for trying to manipulate vote",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=47518960",
-          "author": "Amorymeltzer",
-          "description": "Article URL: https://bethmathews.substack.com/p/why-so-many-control-rooms-were-seafoam\nComments URL: https://news.ycombinator.com/item?id=47518960\nPoints: 614\n# Comments: 120",
-          "link": "https://bethmathews.substack.com/p/why-so-many-control-rooms-were-seafoam",
-          "publishedOn": "2026-03-25T15:46:29.000Z",
-          "wordCount": null,
-          "title": "Why so many control rooms were seafoam green (2025)",
-          "imageUrl": null
         }
       ]
     },
