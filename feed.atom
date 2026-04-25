@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-04-25T19:43:50.562Z</updated>
+    <updated>2026-04-25T20:39:09.932Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -39,6 +39,19 @@ Points: 609
 # Comments: 356]]></summary>
         <author>
             <name>y42</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sabotaging projects by overthinking, scope creep, and structural diffing]]></title>
+        <id>https://news.ycombinator.com/item?id=47890799</id>
+        <link href="https://kevinlynagh.com/newsletter/2026_04_overthinking/"/>
+        <updated>2026-04-24T14:28:52.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://kevinlynagh.com/newsletter/2026_04_overthinking/
+Comments URL: https://news.ycombinator.com/item?id=47890799
+Points: 501
+# Comments: 127]]></summary>
+        <author>
+            <name>alcazar</name>
         </author>
     </entry>
     <entry>
