@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-04-24T23:38:57.818Z</updated>
+    <updated>2026-04-25T02:27:59.715Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -17,6 +17,20 @@ Points: 609
 # Comments: 356]]></summary>
         <author>
             <name>y42</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DeepSeek v4]]></title>
+        <id>https://news.ycombinator.com/item?id=47884971</id>
+        <link href="https://api-docs.deepseek.com/news/news260424"/>
+        <updated>2026-04-24T03:01:21.000Z</updated>
+        <summary type="html"><![CDATA[https://api-docs.deepseek.com/
+https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro/blob/main...
+Comments URL: https://news.ycombinator.com/item?id=47884971
+Points: 1816
+# Comments: 1414]]></summary>
+        <author>
+            <name>impact_sy</name>
         </author>
     </entry>
     <entry>
@@ -2963,45 +2977,6 @@ The other thing …]]></summary>
         <updated>2026-03-26T16:00:38.000Z</updated>
         <author>
             <name>Think School</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Moving from GitHub to Codeberg, for lazy people]]></title>
-        <id>https://news.ycombinator.com/item?id=47530330</id>
-        <link href="https://unterwaditzer.net/2025/codeberg.html"/>
-        <updated>2026-03-26T13:38:25.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://unterwaditzer.net/2025/codeberg.html
-Comments URL: https://news.ycombinator.com/item?id=47530330
-Points: 531
-# Comments: 263]]></summary>
-        <author>
-            <name>jslakro</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[European Parliament decided that Chat Control 1.0 must stop]]></title>
-        <id>https://news.ycombinator.com/item?id=47529646</id>
-        <link href="https://bsky.app/profile/tuta.com/post/3mhxkfowv322c"/>
-        <updated>2026-03-26T12:30:59.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://bsky.app/profile/tuta.com/post/3mhxkfowv322c
-Comments URL: https://news.ycombinator.com/item?id=47529646
-Points: 502
-# Comments: 118]]></summary>
-        <author>
-            <name>lemoncookiechip</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[End of "Chat Control": EU parliament stops mass surveillance]]></title>
-        <id>https://news.ycombinator.com/item?id=47529609</id>
-        <link href="https://www.patrick-breyer.de/en/end-of-chat-control-eu-parliament-stops-mass-surveillance-in-voting-thriller-paving-the-way-for-genuine-child-protection/"/>
-        <updated>2026-03-26T12:24:36.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.patrick-breyer.de/en/end-of-chat-control-eu-parliament-stops-mass-surveillance-in-voting-thriller-paving-the-way-for-genuine-child-protection/
-Comments URL: https://news.ycombinator.com/item?id=47529609
-Points: 529
-# Comments: 259]]></summary>
-        <author>
-            <name>amarcheschi</name>
         </author>
     </entry>
 </feed>
