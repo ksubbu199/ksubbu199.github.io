@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=47907879",
+          "author": "milkglass",
+          "description": "Article URL: https://techtrenches.dev/p/the-west-forgot-how-to-make-things\nComments URL: https://news.ycombinator.com/item?id=47907879\nPoints: 588\n# Comments: 351",
+          "link": "https://techtrenches.dev/p/the-west-forgot-how-to-make-things",
+          "publishedOn": "2026-04-26T06:24:42.000Z",
+          "wordCount": 4471,
+          "title": "The West forgot how to make things, now it’s forgetting how to code",
+          "imageUrl": "https://substackcdn.com/image/fetch/$s_!YrAo!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa56e63d9-5f03-432a-99de-2f46dd286b53_508x340.png"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=47899053",
           "author": "calcifer",
           "description": "Article URL: https://www.jeffgeerling.com/blog/2026/new-10-gbe-usb-adapters-cooler-smaller-cheaper/\nComments URL: https://news.ycombinator.com/item?id=47899053\nPoints: 502\n# Comments: 294",
@@ -1874,16 +1884,6 @@
           "wordCount": 2289,
           "title": "Spanish legislation as a Git repo",
           "imageUrl": "https://opengraph.githubassets.com/c1c6cb2ef017e17432e403cb56e65190542bb65933cc4bc550fa280a7917d614/EnriqueLop/legalize-es"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=47550282",
-          "author": "mazieres",
-          "description": "Article URL: https://jai.scs.stanford.edu/\nComments URL: https://news.ycombinator.com/item?id=47550282\nPoints: 512\n# Comments: 279",
-          "link": "https://jai.scs.stanford.edu/",
-          "publishedOn": "2026-03-28T00:39:54.000Z",
-          "wordCount": 580,
-          "title": "Go hard on agents, not on your filesystem",
-          "imageUrl": null
         }
       ]
     },
