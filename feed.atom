@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-04-26T10:44:40.473Z</updated>
+    <updated>2026-04-26T11:39:32.453Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -2891,20 +2891,6 @@ Points: 512
 # Comments: 279]]></summary>
         <author>
             <name>mazieres</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[If you don't opt out by Apr 24 GitHub will train on your private repos]]></title>
-        <id>https://news.ycombinator.com/item?id=47548243</id>
-        <link href="https://news.ycombinator.com/item?id=47548243"/>
-        <updated>2026-03-27T21:04:51.000Z</updated>
-        <summary type="html"><![CDATA[This is where you can opt out. It's absurd that they are automatically opting users into this.
-https://github.com/settings/copilot/features
-Comments URL: https://news.ycombinator.com/item?id=47548243
-Points: 599
-# Comments: 272]]></summary>
-        <author>
-            <name>vmg12</name>
         </author>
     </entry>
 </feed>
