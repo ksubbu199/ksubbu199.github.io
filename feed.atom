@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-04-25T23:37:36.284Z</updated>
+    <updated>2026-04-26T02:44:18.533Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -255,6 +255,19 @@ Points: 560
 # Comments: 199]]></summary>
         <author>
             <name>Kaibeezy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[1-Bit Hokusai's "The Great Wave" (2023)]]></title>
+        <id>https://news.ycombinator.com/item?id=47863570</id>
+        <link href="https://www.hypertalking.com/2023/05/08/1-bit-pixel-art-of-hokusais-the-great-wave-off-kanagawa/"/>
+        <updated>2026-04-22T13:46:23.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.hypertalking.com/2023/05/08/1-bit-pixel-art-of-hokusais-the-great-wave-off-kanagawa/
+Comments URL: https://news.ycombinator.com/item?id=47863570
+Points: 528
+# Comments: 88]]></summary>
+        <author>
+            <name>stephen-hill</name>
         </author>
     </entry>
     <entry>
@@ -2905,45 +2918,6 @@ Points: 500
 # Comments: 337]]></summary>
         <author>
             <name>speckx</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Anatomy of the .claude/ folder]]></title>
-        <id>https://news.ycombinator.com/item?id=47543139</id>
-        <link href="https://blog.dailydoseofds.com/p/anatomy-of-the-claude-folder"/>
-        <updated>2026-03-27T14:35:45.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://blog.dailydoseofds.com/p/anatomy-of-the-claude-folder
-Comments URL: https://news.ycombinator.com/item?id=47543139
-Points: 516
-# Comments: 229]]></summary>
-        <author>
-            <name>freedomben</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[People inside Microsoft are fighting to drop mandatory Microsoft Account]]></title>
-        <id>https://news.ycombinator.com/item?id=47542695</id>
-        <link href="https://www.windowscentral.com/microsoft/windows-11/people-inside-microsoft-are-fighting-to-drop-windows-11s-mandatory-microsoft-account-requirements-during-setup"/>
-        <updated>2026-03-27T13:54:35.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.windowscentral.com/microsoft/windows-11/people-inside-microsoft-are-fighting-to-drop-windows-11s-mandatory-microsoft-account-requirements-during-setup
-Comments URL: https://news.ycombinator.com/item?id=47542695
-Points: 516
-# Comments: 405]]></summary>
-        <author>
-            <name>breve</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The 'paperwork flood': How I drowned a bureaucrat before dinner]]></title>
-        <id>https://news.ycombinator.com/item?id=47542057</id>
-        <link href="https://sightlessscribbles.com/posts/the-paperwork-flood/"/>
-        <updated>2026-03-27T12:46:49.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://sightlessscribbles.com/posts/the-paperwork-flood/
-Comments URL: https://news.ycombinator.com/item?id=47542057
-Points: 509
-# Comments: 414]]></summary>
-        <author>
-            <name>robin_reala</name>
         </author>
     </entry>
 </feed>
