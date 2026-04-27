@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-04-27T02:46:57.457Z</updated>
+    <updated>2026-04-27T05:54:42.883Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[I bought Friendster for $30k – Here's what I'm doing with it]]></title>
+        <id>https://news.ycombinator.com/item?id=47914165</id>
+        <link href="https://ca98am79.medium.com/i-bought-friendster-for-30k-heres-what-i-m-doing-with-it-d5e8ddb3991d"/>
+        <updated>2026-04-26T20:41:06.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://ca98am79.medium.com/i-bought-friendster-for-30k-heres-what-i-m-doing-with-it-d5e8ddb3991d
+Comments URL: https://news.ycombinator.com/item?id=47914165
+Points: 599
+# Comments: 335]]></summary>
+        <author>
+            <name>ca98am79</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[GoDaddy gave a domain to a stranger without any documentation]]></title>
         <id>https://news.ycombinator.com/item?id=47911780</id>
@@ -17,6 +30,19 @@ Points: 552
 # Comments: 219]]></summary>
         <author>
             <name>jamesponddotco</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[An AI agent deleted our production database. The agent's confession is below]]></title>
+        <id>https://news.ycombinator.com/item?id=47911524</id>
+        <link href="https://twitter.com/lifeof_jer/status/2048103471019434248"/>
+        <updated>2026-04-26T16:27:29.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://twitter.com/lifeof_jer/status/2048103471019434248
+Comments URL: https://news.ycombinator.com/item?id=47911524
+Points: 581
+# Comments: 731]]></summary>
+        <author>
+            <name>jeremyccrane</name>
         </author>
     </entry>
     <entry>
@@ -58,6 +84,19 @@ Points: 503
 # Comments: 179]]></summary>
         <author>
             <name>_-x-_</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Trump fires NSF's oversight board]]></title>
+        <id>https://news.ycombinator.com/item?id=47905283</id>
+        <link href="https://www.science.org/content/article/trump-fires-nsf-s-oversight-board"/>
+        <updated>2026-04-25T22:39:33.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.science.org/content/article/trump-fires-nsf-s-oversight-board
+Comments URL: https://news.ycombinator.com/item?id=47905283
+Points: 503
+# Comments: 304]]></summary>
+        <author>
+            <name>skullone</name>
         </author>
     </entry>
     <entry>
@@ -2883,32 +2922,6 @@ Points: 500
 # Comments: 112]]></summary>
         <author>
             <name>msephton</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Founder of GitLab battles cancer by founding companies]]></title>
-        <id>https://news.ycombinator.com/item?id=47556729</id>
-        <link href="https://sytse.com/cancer/"/>
-        <updated>2026-03-28T17:39:49.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://sytse.com/cancer/
-Comments URL: https://news.ycombinator.com/item?id=47556729
-Points: 507
-# Comments: 122]]></summary>
-        <author>
-            <name>bob_theslob646</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I decompiled the White House's new app]]></title>
-        <id>https://news.ycombinator.com/item?id=47555556</id>
-        <link href="https://thereallo.dev/blog/decompiling-the-white-house-app"/>
-        <updated>2026-03-28T15:37:17.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://thereallo.dev/blog/decompiling-the-white-house-app
-Comments URL: https://news.ycombinator.com/item?id=47555556
-Points: 513
-# Comments: 188]]></summary>
-        <author>
-            <name>amarcheschi</name>
         </author>
     </entry>
 </feed>

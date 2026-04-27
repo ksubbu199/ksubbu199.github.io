@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=47914165",
+          "author": "ca98am79",
+          "description": "Article URL: https://ca98am79.medium.com/i-bought-friendster-for-30k-heres-what-i-m-doing-with-it-d5e8ddb3991d\nComments URL: https://news.ycombinator.com/item?id=47914165\nPoints: 599\n# Comments: 335",
+          "link": "https://ca98am79.medium.com/i-bought-friendster-for-30k-heres-what-i-m-doing-with-it-d5e8ddb3991d",
+          "publishedOn": "2026-04-26T20:41:06.000Z",
+          "wordCount": null,
+          "title": "I bought Friendster for $30k – Here's what I'm doing with it",
+          "imageUrl": null
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=47911780",
           "author": "jamesponddotco",
           "description": "Article URL: https://anchor.host/godaddy-gave-a-domain-to-a-stranger-without-any-documentation/\nComments URL: https://news.ycombinator.com/item?id=47911780\nPoints: 552\n# Comments: 219",
@@ -14,6 +24,16 @@
           "wordCount": 3446,
           "title": "GoDaddy gave a domain to a stranger without any documentation",
           "imageUrl": "https://anchor.host/wp-content/uploads/2026/04/godaddy-domain-handover.webp"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=47911524",
+          "author": "jeremyccrane",
+          "description": "Article URL: https://twitter.com/lifeof_jer/status/2048103471019434248\nComments URL: https://news.ycombinator.com/item?id=47911524\nPoints: 581\n# Comments: 731",
+          "link": "https://twitter.com/lifeof_jer/status/2048103471019434248",
+          "publishedOn": "2026-04-26T16:27:29.000Z",
+          "wordCount": 832,
+          "title": "An AI agent deleted our production database. The agent's confession is below",
+          "imageUrl": null
         },
         {
           "id": "https://news.ycombinator.com/item?id=47909226",
@@ -43,6 +63,16 @@
           "publishedOn": "2026-04-26T00:50:56.000Z",
           "wordCount": 8014,
           "title": "Tell HN: An app is silently installing itself on my iPhone every day",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=47905283",
+          "author": "skullone",
+          "description": "Article URL: https://www.science.org/content/article/trump-fires-nsf-s-oversight-board\nComments URL: https://news.ycombinator.com/item?id=47905283\nPoints: 503\n# Comments: 304",
+          "link": "https://www.science.org/content/article/trump-fires-nsf-s-oversight-board",
+          "publishedOn": "2026-04-25T22:39:33.000Z",
+          "wordCount": null,
+          "title": "Trump fires NSF's oversight board",
           "imageUrl": null
         },
         {
@@ -1884,26 +1914,6 @@
           "wordCount": 5526,
           "title": "CSS is DOOMed",
           "imageUrl": "https://nielsleenheer.com/wp-content/uploads/2026/03/css-doomed.png"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=47556729",
-          "author": "bob_theslob646",
-          "description": "Article URL: https://sytse.com/cancer/\nComments URL: https://news.ycombinator.com/item?id=47556729\nPoints: 507\n# Comments: 122",
-          "link": "https://sytse.com/cancer/",
-          "publishedOn": "2026-03-28T17:39:49.000Z",
-          "wordCount": 1359,
-          "title": "Founder of GitLab battles cancer by founding companies",
-          "imageUrl": "https://sytse.com/wp-content/uploads/2026/01/Screenshot-2026-01-15-at-12.59.23-PM-967x1024.png"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=47555556",
-          "author": "amarcheschi",
-          "description": "Article URL: https://thereallo.dev/blog/decompiling-the-white-house-app\nComments URL: https://news.ycombinator.com/item?id=47555556\nPoints: 513\n# Comments: 188",
-          "link": "https://thereallo.dev/blog/decompiling-the-white-house-app",
-          "publishedOn": "2026-03-28T15:37:17.000Z",
-          "wordCount": null,
-          "title": "I decompiled the White House's new app",
-          "imageUrl": null
         }
       ]
     },
