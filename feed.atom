@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-04-28T18:17:26.476Z</updated>
+    <updated>2026-04-28T20:15:32.989Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Your phone is about to stop being yours]]></title>
+        <id>https://news.ycombinator.com/item?id=47935853</id>
+        <link href="https://keepandroidopen.org/en/"/>
+        <updated>2026-04-28T15:21:00.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://keepandroidopen.org/en/
+Comments URL: https://news.ycombinator.com/item?id=47935853
+Points: 501
+# Comments: 281]]></summary>
+        <author>
+            <name>doener</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Structured-Prompt-Driven Development (SPDD)]]></title>
         <id>https://martinfowler.com/articles/structured-prompt-driven/</id>
@@ -24,6 +37,19 @@
 more…]]></summary>
         <author>
             <name>Martin Fowler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Localsend: An open-source cross-platform alternative to AirDrop]]></title>
+        <id>https://news.ycombinator.com/item?id=47933208</id>
+        <link href="https://github.com/localsend/localsend"/>
+        <updated>2026-04-28T11:54:20.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://github.com/localsend/localsend
+Comments URL: https://news.ycombinator.com/item?id=47933208
+Points: 662
+# Comments: 213]]></summary>
+        <author>
+            <name>bilsbie</name>
         </author>
     </entry>
     <entry>
