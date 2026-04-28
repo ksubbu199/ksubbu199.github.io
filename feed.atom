@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-04-28T06:06:58.157Z</updated>
+    <updated>2026-04-28T09:21:08.788Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Is my blue your blue?]]></title>
+        <id>https://news.ycombinator.com/item?id=47926861</id>
+        <link href="https://ismy.blue/"/>
+        <updated>2026-04-27T20:24:33.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://ismy.blue/
+Comments URL: https://news.ycombinator.com/item?id=47926861
+Points: 525
+# Comments: 358]]></summary>
+        <author>
+            <name>theogravity</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[GitHub Copilot is moving to usage-based billing]]></title>
         <id>https://news.ycombinator.com/item?id=47923357</id>
@@ -45,6 +58,19 @@ Points: 513
 # Comments: 226]]></summary>
         <author>
             <name>aselimov3</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[4TB of voice samples just stolen from 40k AI contractors at Mercor]]></title>
+        <id>https://news.ycombinator.com/item?id=47919630</id>
+        <link href="https://app.oravys.com/blog/mercor-breach-2026"/>
+        <updated>2026-04-27T09:57:10.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://app.oravys.com/blog/mercor-breach-2026
+Comments URL: https://news.ycombinator.com/item?id=47919630
+Points: 523
+# Comments: 196]]></summary>
+        <author>
+            <name>Oravys</name>
         </author>
     </entry>
     <entry>
@@ -2911,32 +2937,6 @@ Points: 503
 # Comments: 159]]></summary>
         <author>
             <name>pavo-etc</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ChatGPT won't let you type until Cloudflare reads your React state]]></title>
-        <id>https://news.ycombinator.com/item?id=47566865</id>
-        <link href="https://www.buchodi.com/chatgpt-wont-let-you-type-until-cloudflare-reads-your-react-state-i-decrypted-the-program-that-does-it/"/>
-        <updated>2026-03-29T20:21:05.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.buchodi.com/chatgpt-wont-let-you-type-until-cloudflare-reads-your-react-state-i-decrypted-the-program-that-does-it/
-Comments URL: https://news.ycombinator.com/item?id=47566865
-Points: 539
-# Comments: 355]]></summary>
-        <author>
-            <name>alberto-m</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Cognitive Dark Forest]]></title>
-        <id>https://news.ycombinator.com/item?id=47566442</id>
-        <link href="https://ryelang.org/blog/posts/cognitive-dark-forest/"/>
-        <updated>2026-03-29T19:36:21.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://ryelang.org/blog/posts/cognitive-dark-forest/
-Comments URL: https://news.ycombinator.com/item?id=47566442
-Points: 501
-# Comments: 228]]></summary>
-        <author>
-            <name>kaycebasques</name>
         </author>
     </entry>
 </feed>
