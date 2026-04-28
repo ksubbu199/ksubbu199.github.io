@@ -2,10 +2,43 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-04-28T11:45:03.570Z</updated>
+    <updated>2026-04-28T16:50:55.862Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Structured-Prompt-Driven Development (SPDD)]]></title>
+        <id>https://martinfowler.com/articles/structured-prompt-driven/</id>
+        <link href="https://martinfowler.com/articles/structured-prompt-driven/"/>
+        <updated>2026-04-28T13:02:00.000Z</updated>
+        <summary type="html"><![CDATA[LLM programming assistants have demonstrated considerable value, but
+      mostly with individual developers. The internal IT organization in
+      Thoughtworks has been using them for their teams and have developed a
+      method and workflow called Structured Prompt-Driven Development (SPDD).
+      Wei Zhang and Jessie Jie Xia describe a simple example of
+      this workflow with details in github. This workflow treats the prompts as
+      a first-class artifact, kept with the code in version control, and used to
+      align development with business needs. They have found that developers
+      need three key skills to be effective: alignment, abstraction-first, and
+      iterative review.
+more…]]></summary>
+        <author>
+            <name>Martin Fowler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Talkie: a 13B vintage language model from 1930]]></title>
+        <id>https://news.ycombinator.com/item?id=47927903</id>
+        <link href="https://talkie-lm.com/introducing-talkie"/>
+        <updated>2026-04-27T21:55:48.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://talkie-lm.com/introducing-talkie
+Comments URL: https://news.ycombinator.com/item?id=47927903
+Points: 553
+# Comments: 225]]></summary>
+        <author>
+            <name>jekude</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Is my blue your blue?]]></title>
         <id>https://news.ycombinator.com/item?id=47926861</id>
@@ -2924,19 +2957,6 @@ Points: 523
 # Comments: 188]]></summary>
         <author>
             <name>karimf</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Copilot edited an ad into my PR]]></title>
-        <id>https://news.ycombinator.com/item?id=47570269</id>
-        <link href="https://notes.zachmanson.com/copilot-edited-an-ad-into-my-pr/"/>
-        <updated>2026-03-30T04:04:31.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://notes.zachmanson.com/copilot-edited-an-ad-into-my-pr/
-Comments URL: https://news.ycombinator.com/item?id=47570269
-Points: 503
-# Comments: 159]]></summary>
-        <author>
-            <name>pavo-etc</name>
         </author>
     </entry>
 </feed>

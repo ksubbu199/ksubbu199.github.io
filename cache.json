@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=47927903",
+          "author": "jekude",
+          "description": "Article URL: https://talkie-lm.com/introducing-talkie\nComments URL: https://news.ycombinator.com/item?id=47927903\nPoints: 553\n# Comments: 225",
+          "link": "https://talkie-lm.com/introducing-talkie",
+          "publishedOn": "2026-04-27T21:55:48.000Z",
+          "wordCount": 6420,
+          "title": "Talkie: a 13B vintage language model from 1930",
+          "imageUrl": null
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=47926861",
           "author": "theogravity",
           "description": "Article URL: https://ismy.blue/\nComments URL: https://news.ycombinator.com/item?id=47926861\nPoints: 525\n# Comments: 358",
@@ -1914,16 +1924,6 @@
           "wordCount": 919,
           "title": "Do your own writing",
           "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=47570269",
-          "author": "pavo-etc",
-          "description": "Article URL: https://notes.zachmanson.com/copilot-edited-an-ad-into-my-pr/\nComments URL: https://news.ycombinator.com/item?id=47570269\nPoints: 503\n# Comments: 159",
-          "link": "https://notes.zachmanson.com/copilot-edited-an-ad-into-my-pr/",
-          "publishedOn": "2026-03-30T04:04:31.000Z",
-          "wordCount": 240,
-          "title": "Copilot edited an ad into my PR",
-          "imageUrl": null
         }
       ]
     },
@@ -2071,6 +2071,16 @@
       "feedUrl": "https://martinfowler.com/feed.atom",
       "siteUrl": "https://martinfowler.com/feed.atom",
       "articles": [
+        {
+          "id": "https://martinfowler.com/articles/structured-prompt-driven/",
+          "author": null,
+          "description": "LLM programming assistants have demonstrated considerable value, but\n      mostly with individual developers. The internal IT organization in\n      Thoughtworks has been using them for their teams and have developed a\n      method and workflow called Structured Prompt-Driven Development (SPDD).\n      Wei Zhang and Jessie Jie Xia describe a simple example of\n      this workflow with details in github. This workflow treats the prompts as\n      a first-class artifact, kept with the code in version control, and used to\n      align development with business needs. They have found that developers\n      need three key skills to be effective: alignment, abstraction-first, and\n      iterative review.\nmore…",
+          "link": "https://martinfowler.com/articles/structured-prompt-driven/",
+          "publishedOn": "2026-04-28T13:02:00.000Z",
+          "wordCount": 7031,
+          "title": "Structured-Prompt-Driven Development (SPDD)",
+          "imageUrl": "https://martinfowler.com/articles/structured-prompt-driven/card.png"
+        },
         {
           "id": "https://martinfowler.com/fragments/2026-04-21.html",
           "author": null,
