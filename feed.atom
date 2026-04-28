@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-04-28T02:54:32.159Z</updated>
+    <updated>2026-04-28T06:06:58.157Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -32,6 +32,19 @@ Points: 522
 # Comments: 441]]></summary>
         <author>
             <name>helsinkiandrew</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Men who stare at walls]]></title>
+        <id>https://news.ycombinator.com/item?id=47920074</id>
+        <link href="https://www.alexselimov.com/posts/men_who_stare_at_walls/"/>
+        <updated>2026-04-27T11:08:26.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.alexselimov.com/posts/men_who_stare_at_walls/
+Comments URL: https://news.ycombinator.com/item?id=47920074
+Points: 513
+# Comments: 226]]></summary>
+        <author>
+            <name>aselimov3</name>
         </author>
     </entry>
     <entry>
@@ -2924,19 +2937,6 @@ Points: 501
 # Comments: 228]]></summary>
         <author>
             <name>kaycebasques</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Voyager 1 runs on 69 KB of memory and an 8-track tape recorder]]></title>
-        <id>https://news.ycombinator.com/item?id=47564421</id>
-        <link href="https://techfixated.com/a-1977-time-capsule-voyager-1-runs-on-69-kb-of-memory-and-an-8-track-tape-recorder-4/"/>
-        <updated>2026-03-29T16:12:22.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://techfixated.com/a-1977-time-capsule-voyager-1-runs-on-69-kb-of-memory-and-an-8-track-tape-recorder-4/
-Comments URL: https://news.ycombinator.com/item?id=47564421
-Points: 500
-# Comments: 188]]></summary>
-        <author>
-            <name>speckx</name>
         </author>
     </entry>
 </feed>
