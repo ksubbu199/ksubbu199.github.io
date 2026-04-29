@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-04-29T10:05:23.359Z</updated>
+    <updated>2026-04-29T12:17:22.662Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Before GitHub]]></title>
+        <id>https://news.ycombinator.com/item?id=47940921</id>
+        <link href="https://lucumr.pocoo.org/2026/4/28/before-github/"/>
+        <updated>2026-04-28T21:17:40.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://lucumr.pocoo.org/2026/4/28/before-github/
+Comments URL: https://news.ycombinator.com/item?id=47940921
+Points: 511
+# Comments: 156]]></summary>
+        <author>
+            <name>mlex</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ghostty is leaving GitHub]]></title>
         <id>https://news.ycombinator.com/item?id=47939579</id>
@@ -2907,56 +2920,6 @@ Points: 691
 # Comments: 439]]></summary>
         <author>
             <name>idlewords</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Git Branching: Create, Switch, and Manage Branches]]></title>
-        <id>https://boot.dev/blog/devops/git-branching/</id>
-        <link href="https://boot.dev/blog/devops/git-branching/"/>
-        <updated>2026-03-31T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A Git branch allows you to keep track of different changes separately. For example, you can create a new branch to experiment with changing a color scheme without affecting your primary branch. If you like the changes, you merge (or rebase) the branch back into main. If you don’t, you delete it.]]></summary>
-        <author>
-            <name>Boot.dev Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Git Config: Set Your Name, Email, and Branch Defaults]]></title>
-        <id>https://boot.dev/blog/devops/git-config/</id>
-        <link href="https://boot.dev/blog/devops/git-config/"/>
-        <updated>2026-03-31T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Git stores author information so that when you’re making a commit it can track who made the change. Here’s how all that configuration actually works.]]></summary>
-        <author>
-            <name>Boot.dev Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Git for Beginners: Install It and Make Your First Commit]]></title>
-        <id>https://boot.dev/blog/devops/git-for-beginners/</id>
-        <link href="https://boot.dev/blog/devops/git-for-beginners/"/>
-        <updated>2026-03-31T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Git is the distributed version control system (VCS). Nearly every developer in the world uses it to manage their code. It has quite a monopoly on VCS. Developers use Git to:]]></summary>
-        <author>
-            <name>Boot.dev Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Git Internals: How Git Stores Data and History on Disk]]></title>
-        <id>https://boot.dev/blog/devops/git-internals/</id>
-        <link href="https://boot.dev/blog/devops/git-internals/"/>
-        <updated>2026-03-31T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Let’s take a look at some of git’s “plumbing”, that is, the commands that are mostly used for working “under-the-hood” with Git, and that you’ll only use if you’re trying to debug your Git files themselves.]]></summary>
-        <author>
-            <name>Boot.dev Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Git Merge: Combine Branches and Understand Fast-Forwards]]></title>
-        <id>https://boot.dev/blog/devops/git-merge/</id>
-        <link href="https://boot.dev/blog/devops/git-merge/"/>
-        <updated>2026-03-31T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[“What’s the point of having multiple branches?” you might ask. They’re most often used to safely make changes without affecting your (or your team’s) primary branch. Once you’re happy with your changes, you’ll want to merge them back into main so that they make their way into the final product.]]></summary>
-        <author>
-            <name>Boot.dev Blog</name>
         </author>
     </entry>
 </feed>
