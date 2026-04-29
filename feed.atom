@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-04-29T22:56:36.602Z</updated>
+    <updated>2026-04-29T23:56:01.998Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -30,6 +30,19 @@ Points: 541
 # Comments: 357]]></summary>
         <author>
             <name>Cider9986</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cursor Camp]]></title>
+        <id>https://news.ycombinator.com/item?id=47949939</id>
+        <link href="https://neal.fun/cursor-camp/"/>
+        <updated>2026-04-29T15:39:43.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://neal.fun/cursor-camp/
+Comments URL: https://news.ycombinator.com/item?id=47949939
+Points: 522
+# Comments: 92]]></summary>
+        <author>
+            <name>bpierre</name>
         </author>
     </entry>
     <entry>
@@ -62,6 +75,19 @@ Points: 742
         <updated>2026-04-29T14:16:01.000Z</updated>
         <author>
             <name>Think School</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[We need a federation of forges]]></title>
+        <id>https://news.ycombinator.com/item?id=47948603</id>
+        <link href="https://blog.tangled.org/federation/"/>
+        <updated>2026-04-29T14:00:59.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://blog.tangled.org/federation/
+Comments URL: https://news.ycombinator.com/item?id=47948603
+Points: 506
+# Comments: 318]]></summary>
+        <author>
+            <name>icy</name>
         </author>
     </entry>
     <entry>
