@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-04-29T15:12:18.677Z</updated>
+    <updated>2026-04-29T17:38:31.240Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -14,6 +14,19 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>Think School</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Zed 1.0]]></title>
+        <id>https://news.ycombinator.com/item?id=47949027</id>
+        <link href="https://zed.dev/blog/zed-1-0"/>
+        <updated>2026-04-29T14:34:19.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://zed.dev/blog/zed-1-0
+Comments URL: https://news.ycombinator.com/item?id=47949027
+Points: 742
+# Comments: 259]]></summary>
+        <author>
+            <name>salkahfi</name>
         </author>
     </entry>
     <entry>
@@ -44,6 +57,19 @@ I wrote the previous version of this post in March 2025, updated it once in Augu
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>Think School</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bugs Rust won't catch]]></title>
+        <id>https://news.ycombinator.com/item?id=47943499</id>
+        <link href="https://corrode.dev/blog/bugs-rust-wont-catch/"/>
+        <updated>2026-04-29T02:19:11.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://corrode.dev/blog/bugs-rust-wont-catch/
+Comments URL: https://news.ycombinator.com/item?id=47943499
+Points: 534
+# Comments: 308]]></summary>
+        <author>
+            <name>lwhsiao</name>
         </author>
     </entry>
     <entry>
@@ -116,6 +142,19 @@ Points: 662
 # Comments: 213]]></summary>
         <author>
             <name>bilsbie</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Who owns the code Claude Code wrote?]]></title>
+        <id>https://news.ycombinator.com/item?id=47932937</id>
+        <link href="https://legallayer.substack.com/p/who-owns-the-claude-code-wrote"/>
+        <updated>2026-04-28T11:24:52.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://legallayer.substack.com/p/who-owns-the-claude-code-wrote
+Comments URL: https://news.ycombinator.com/item?id=47932937
+Points: 521
+# Comments: 483]]></summary>
+        <author>
+            <name>senaevren</name>
         </author>
     </entry>
     <entry>
@@ -2908,32 +2947,6 @@ Points: 540
 # Comments: 297]]></summary>
         <author>
             <name>treexs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GitHub backs down, kills Copilot pull-request ads after backlash]]></title>
-        <id>https://news.ycombinator.com/item?id=47582984</id>
-        <link href="https://www.theregister.com/2026/03/30/github_copilot_ads_pull_requests/"/>
-        <updated>2026-03-31T05:11:24.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.theregister.com/2026/03/30/github_copilot_ads_pull_requests/
-Comments URL: https://news.ycombinator.com/item?id=47582984
-Points: 502
-# Comments: 290]]></summary>
-        <author>
-            <name>_____k</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ollama is now powered by MLX on Apple Silicon in preview]]></title>
-        <id>https://news.ycombinator.com/item?id=47582482</id>
-        <link href="https://ollama.com/blog/mlx"/>
-        <updated>2026-03-31T03:40:45.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://ollama.com/blog/mlx
-Comments URL: https://news.ycombinator.com/item?id=47582482
-Points: 523
-# Comments: 257]]></summary>
-        <author>
-            <name>redundantly</name>
         </author>
     </entry>
 </feed>

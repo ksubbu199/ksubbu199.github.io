@@ -6,6 +6,26 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=47949027",
+          "author": "salkahfi",
+          "description": "Article URL: https://zed.dev/blog/zed-1-0\nComments URL: https://news.ycombinator.com/item?id=47949027\nPoints: 742\n# Comments: 259",
+          "link": "https://zed.dev/blog/zed-1-0",
+          "publishedOn": "2026-04-29T14:34:19.000Z",
+          "wordCount": 12394,
+          "title": "Zed 1.0",
+          "imageUrl": "https://zed.dev/img/post/one-point-zero/thumbnail.webp"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=47943499",
+          "author": "lwhsiao",
+          "description": "Article URL: https://corrode.dev/blog/bugs-rust-wont-catch/\nComments URL: https://news.ycombinator.com/item?id=47943499\nPoints: 534\n# Comments: 308",
+          "link": "https://corrode.dev/blog/bugs-rust-wont-catch/",
+          "publishedOn": "2026-04-29T02:19:11.000Z",
+          "wordCount": 3528,
+          "title": "Bugs Rust won't catch",
+          "imageUrl": "https://corrode.dev/blog/bugs-rust-wont-catch/social.png"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=47940921",
           "author": "mlex",
           "description": "Article URL: https://lucumr.pocoo.org/2026/4/28/before-github/\nComments URL: https://news.ycombinator.com/item?id=47940921\nPoints: 511\n# Comments: 156",
@@ -44,6 +64,16 @@
           "wordCount": 4876,
           "title": "Localsend: An open-source cross-platform alternative to AirDrop",
           "imageUrl": "https://repository-images.githubusercontent.com/578822531/6c3c4f46-0ab9-4737-9afe-7fa7f2f929d7"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=47932937",
+          "author": "senaevren",
+          "description": "Article URL: https://legallayer.substack.com/p/who-owns-the-claude-code-wrote\nComments URL: https://news.ycombinator.com/item?id=47932937\nPoints: 521\n# Comments: 483",
+          "link": "https://legallayer.substack.com/p/who-owns-the-claude-code-wrote",
+          "publishedOn": "2026-04-28T11:24:52.000Z",
+          "wordCount": null,
+          "title": "Who owns the code Claude Code wrote?",
+          "imageUrl": null
         },
         {
           "id": "https://news.ycombinator.com/item?id=47927903",
@@ -1894,26 +1924,6 @@
           "wordCount": 705,
           "title": "Claude Code's source code has been leaked via a map file in their NPM registry",
           "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=47582984",
-          "author": "_____k",
-          "description": "Article URL: https://www.theregister.com/2026/03/30/github_copilot_ads_pull_requests/\nComments URL: https://news.ycombinator.com/item?id=47582984\nPoints: 502\n# Comments: 290",
-          "link": "https://www.theregister.com/2026/03/30/github_copilot_ads_pull_requests/",
-          "publishedOn": "2026-03-31T05:11:24.000Z",
-          "wordCount": 1634,
-          "title": "GitHub backs down, kills Copilot pull-request ads after backlash",
-          "imageUrl": "https://regmedia.co.uk/2024/05/21/github1_shutterstock.jpg"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=47582482",
-          "author": "redundantly",
-          "description": "Article URL: https://ollama.com/blog/mlx\nComments URL: https://news.ycombinator.com/item?id=47582482\nPoints: 523\n# Comments: 257",
-          "link": "https://ollama.com/blog/mlx",
-          "publishedOn": "2026-03-31T03:40:45.000Z",
-          "wordCount": 761,
-          "title": "Ollama is now powered by MLX on Apple Silicon in preview",
-          "imageUrl": "https://ollama.com/public/og.png"
         }
       ]
     },
