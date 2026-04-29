@@ -2,10 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-04-29T19:25:02.844Z</updated>
+    <updated>2026-04-29T21:05:10.969Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[HERMES.md: Anthropic bug causes $200 extra charge, refuses refund]]></title>
+        <id>https://news.ycombinator.com/item?id=47952722</id>
+        <link href="https://github.com/anthropics/claude-code/issues/53262"/>
+        <updated>2026-04-29T18:54:31.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://github.com/anthropics/claude-code/issues/53262
+Comments URL: https://news.ycombinator.com/item?id=47952722
+Points: 616
+# Comments: 238]]></summary>
+        <author>
+            <name>homebrewer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Online age verification is the hill to die on]]></title>
+        <id>https://news.ycombinator.com/item?id=47950091</id>
+        <link href="https://x.com/GlennMeder/status/2049088498163216560"/>
+        <updated>2026-04-29T15:49:57.000Z</updated>
+        <summary type="html"><![CDATA[https://xcancel.com/GlennMeder/status/2049088498163216560
+Comments URL: https://news.ycombinator.com/item?id=47950091
+Points: 541
+# Comments: 357]]></summary>
+        <author>
+            <name>Cider9986</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[From Zero to Viral: The 4-Step Framework That Built Instagram, Uber & Zomato!]]></title>
         <id>https://www.youtube.com/shorts/ajQqL-r9uFM</id>
@@ -2934,19 +2960,6 @@ Points: 513
 # Comments: 195]]></summary>
         <author>
             <name>alex000kim</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Claude Code's source code has been leaked via a map file in their NPM registry]]></title>
-        <id>https://news.ycombinator.com/item?id=47584540</id>
-        <link href="https://twitter.com/Fried_rice/status/2038894956459290963"/>
-        <updated>2026-03-31T09:00:40.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://twitter.com/Fried_rice/status/2038894956459290963
-Comments URL: https://news.ycombinator.com/item?id=47584540
-Points: 540
-# Comments: 297]]></summary>
-        <author>
-            <name>treexs</name>
         </author>
     </entry>
 </feed>

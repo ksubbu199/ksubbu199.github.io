@@ -6,6 +6,26 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=47952722",
+          "author": "homebrewer",
+          "description": "Article URL: https://github.com/anthropics/claude-code/issues/53262\nComments URL: https://news.ycombinator.com/item?id=47952722\nPoints: 616\n# Comments: 238",
+          "link": "https://github.com/anthropics/claude-code/issues/53262",
+          "publishedOn": "2026-04-29T18:54:31.000Z",
+          "wordCount": 3667,
+          "title": "HERMES.md: Anthropic bug causes $200 extra charge, refuses refund",
+          "imageUrl": "https://opengraph.githubassets.com/7aae4a80990ae2857ad19e9947c6ee880e5eebb7f009baf0325428c1113de2ff/anthropics/claude-code/issues/53262"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=47950091",
+          "author": "Cider9986",
+          "description": "https://xcancel.com/GlennMeder/status/2049088498163216560\nComments URL: https://news.ycombinator.com/item?id=47950091\nPoints: 541\n# Comments: 357",
+          "link": "https://x.com/GlennMeder/status/2049088498163216560",
+          "publishedOn": "2026-04-29T15:49:57.000Z",
+          "wordCount": 990,
+          "title": "Online age verification is the hill to die on",
+          "imageUrl": null
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=47949027",
           "author": "salkahfi",
           "description": "Article URL: https://zed.dev/blog/zed-1-0\nComments URL: https://news.ycombinator.com/item?id=47949027\nPoints: 742\n# Comments: 259",
@@ -1913,16 +1933,6 @@
           "publishedOn": "2026-03-31T13:04:30.000Z",
           "wordCount": 3868,
           "title": "The Claude Code Source Leak: fake tools, frustration regexes, undercover mode",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=47584540",
-          "author": "treexs",
-          "description": "Article URL: https://twitter.com/Fried_rice/status/2038894956459290963\nComments URL: https://news.ycombinator.com/item?id=47584540\nPoints: 540\n# Comments: 297",
-          "link": "https://twitter.com/Fried_rice/status/2038894956459290963",
-          "publishedOn": "2026-03-31T09:00:40.000Z",
-          "wordCount": 705,
-          "title": "Claude Code's source code has been leaked via a map file in their NPM registry",
           "imageUrl": null
         }
       ]
