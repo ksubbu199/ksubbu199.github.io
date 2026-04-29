@@ -1914,26 +1914,6 @@
           "wordCount": 761,
           "title": "Ollama is now powered by MLX on Apple Silicon in preview",
           "imageUrl": "https://ollama.com/public/og.png"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=47582220",
-          "author": "mtud",
-          "description": "Article URL: https://www.stepsecurity.io/blog/axios-compromised-on-npm-malicious-versions-drop-remote-access-trojan\nComments URL: https://news.ycombinator.com/item?id=47582220\nPoints: 531\n# Comments: 165",
-          "link": "https://www.stepsecurity.io/blog/axios-compromised-on-npm-malicious-versions-drop-remote-access-trojan",
-          "publishedOn": "2026-03-31T02:54:17.000Z",
-          "wordCount": 9745,
-          "title": "Axios compromised on NPM – Malicious versions drop remote access trojan",
-          "imageUrl": "https://cdn.prod.website-files.com/673b71f0790aabf30bd30bf8/69cb2363fdc3f8e8fa0460a5_blog-cover-image.png"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=47582043",
-          "author": "idlewords",
-          "description": "Article URL: https://idlewords.com/2026/03/artemis_ii_is_not_safe_to_fly.htm\nComments URL: https://news.ycombinator.com/item?id=47582043\nPoints: 691\n# Comments: 439",
-          "link": "https://idlewords.com/2026/03/artemis_ii_is_not_safe_to_fly.htm",
-          "publishedOn": "2026-03-31T02:23:50.000Z",
-          "wordCount": 2536,
-          "title": "Artemis II is not safe to fly",
-          "imageUrl": null
         }
       ]
     },
@@ -2031,6 +2011,16 @@
       "feedUrl": "https://martinfowler.com/feed.atom",
       "siteUrl": "https://martinfowler.com/feed.atom",
       "articles": [
+        {
+          "id": "https://martinfowler.com/fragments/2026-04-29.html",
+          "author": null,
+          "description": "Chris Parsons has updated his guide on using AI to code. This is his third update, what I like about it is that he gives a lot of concrete information about how he uses AI, with sufficient detail that we can learn from him. His advice also resonates with the better advice I’ve seen out there, so the article makes a good overview of the state of using AI for software development.\nI wrote the previous version of this post in March 2025, updated it once in August, and it has been linked from almost everything I have written about AI engineering since. The fundamentals from that post still hold: keep changes small, build guardrails, document ruthlessly, and make sure every change gets verified before it ships. One thing has had to move with the volume. “Verified” used to mean “read by you”. Wi…",
+          "link": "https://martinfowler.com/fragments/2026-04-29.html",
+          "publishedOn": "2026-04-29T13:23:00.000Z",
+          "wordCount": 1952,
+          "title": "Fragments: April 29",
+          "imageUrl": "https://martinfowler.com/logo-sq.png"
+        },
         {
           "id": "https://martinfowler.com/articles/structured-prompt-driven/",
           "author": null,
@@ -2171,6 +2161,36 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKZozRVHRYsYHGEyNKuhhdA",
       "siteUrl": "https://www.youtube.com/channel/UCKZozRVHRYsYHGEyNKuhhdA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/shorts/ajQqL-r9uFM",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/ajQqL-r9uFM",
+          "publishedOn": "2026-04-29T14:37:02.000Z",
+          "wordCount": 2298,
+          "title": "From Zero to Viral: The 4-Step Framework That Built Instagram, Uber & Zomato!",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=Ft45pH3fYok",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=Ft45pH3fYok",
+          "publishedOn": "2026-04-29T14:16:01.000Z",
+          "wordCount": null,
+          "title": "Product Masterclass : The Psychological TRICK Behind Addictive Products (And How to Use It)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/shorts/thF0DcnF4So",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/thF0DcnF4So",
+          "publishedOn": "2026-04-29T12:51:32.000Z",
+          "wordCount": 2081,
+          "title": "This Author Changed How Businesses Build VIRAL Products!",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=Ut5s4rImEhI",
           "author": null,

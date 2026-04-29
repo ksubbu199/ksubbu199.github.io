@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-04-29T12:17:22.662Z</updated>
+    <updated>2026-04-29T15:12:18.677Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[From Zero to Viral: The 4-Step Framework That Built Instagram, Uber & Zomato!]]></title>
+        <id>https://www.youtube.com/shorts/ajQqL-r9uFM</id>
+        <link href="https://www.youtube.com/shorts/ajQqL-r9uFM"/>
+        <updated>2026-04-29T14:37:02.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Think School</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Product Masterclass : The Psychological TRICK Behind Addictive Products (And How to Use It)]]></title>
+        <id>https://www.youtube.com/watch?v=Ft45pH3fYok</id>
+        <link href="https://www.youtube.com/watch?v=Ft45pH3fYok"/>
+        <updated>2026-04-29T14:16:01.000Z</updated>
+        <author>
+            <name>Think School</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fragments: April 29]]></title>
+        <id>https://martinfowler.com/fragments/2026-04-29.html</id>
+        <link href="https://martinfowler.com/fragments/2026-04-29.html"/>
+        <updated>2026-04-29T13:23:00.000Z</updated>
+        <summary type="html"><![CDATA[Chris Parsons has updated his guide on using AI to code. This is his third update, what I like about it is that he gives a lot of concrete information about how he uses AI, with sufficient detail that we can learn from him. His advice also resonates with the better advice I’ve seen out there, so the article makes a good overview of the state of using AI for software development.
+I wrote the previous version of this post in March 2025, updated it once in August, and it has been linked from almost everything I have written about AI engineering since. The fundamentals from that post still hold: keep changes small, build guardrails, document ruthlessly, and make sure every change gets verified before it ships. One thing has had to move with the volume. “Verified” used to mean “read by you”. Wi…]]></summary>
+        <author>
+            <name>Martin Fowler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[This Author Changed How Businesses Build VIRAL Products!]]></title>
+        <id>https://www.youtube.com/shorts/thF0DcnF4So</id>
+        <link href="https://www.youtube.com/shorts/thF0DcnF4So"/>
+        <updated>2026-04-29T12:51:32.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Think School</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Before GitHub]]></title>
         <id>https://news.ycombinator.com/item?id=47940921</id>
@@ -2894,32 +2934,6 @@ Points: 523
 # Comments: 257]]></summary>
         <author>
             <name>redundantly</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Axios compromised on NPM – Malicious versions drop remote access trojan]]></title>
-        <id>https://news.ycombinator.com/item?id=47582220</id>
-        <link href="https://www.stepsecurity.io/blog/axios-compromised-on-npm-malicious-versions-drop-remote-access-trojan"/>
-        <updated>2026-03-31T02:54:17.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.stepsecurity.io/blog/axios-compromised-on-npm-malicious-versions-drop-remote-access-trojan
-Comments URL: https://news.ycombinator.com/item?id=47582220
-Points: 531
-# Comments: 165]]></summary>
-        <author>
-            <name>mtud</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Artemis II is not safe to fly]]></title>
-        <id>https://news.ycombinator.com/item?id=47582043</id>
-        <link href="https://idlewords.com/2026/03/artemis_ii_is_not_safe_to_fly.htm"/>
-        <updated>2026-03-31T02:23:50.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://idlewords.com/2026/03/artemis_ii_is_not_safe_to_fly.htm
-Comments URL: https://news.ycombinator.com/item?id=47582043
-Points: 691
-# Comments: 439]]></summary>
-        <author>
-            <name>idlewords</name>
         </author>
     </entry>
 </feed>
