@@ -16,6 +16,16 @@
           "imageUrl": "https://opengraph.githubassets.com/7aae4a80990ae2857ad19e9947c6ee880e5eebb7f009baf0325428c1113de2ff/anthropics/claude-code/issues/53262"
         },
         {
+          "id": "https://news.ycombinator.com/item?id=47952181",
+          "author": "unsnap_biceps",
+          "description": "Article URL: https://copy.fail/\nComments URL: https://news.ycombinator.com/item?id=47952181\nPoints: 665\n# Comments: 281",
+          "link": "https://copy.fail/",
+          "publishedOn": "2026-04-29T18:13:53.000Z",
+          "wordCount": 2279,
+          "title": "Copy Fail",
+          "imageUrl": "https://copy.fail/og.png"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=47950091",
           "author": "Cider9986",
           "description": "https://xcancel.com/GlennMeder/status/2049088498163216560\nComments URL: https://news.ycombinator.com/item?id=47950091\nPoints: 541\n# Comments: 357",
@@ -1934,36 +1944,6 @@
           "wordCount": 15025,
           "title": "OpenAI closes funding round at an $852B valuation",
           "imageUrl": "https://image.cnbcfm.com/api/v1/image/108276826-17732552422026-03-11t184543z_527413325_rc2i2katf9b2_rtrmadp_0_usa-blackrock.jpeg?v=1773315937&w=1920&h=1080"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=47587935",
-          "author": "pje",
-          "description": "Article URL: https://rollingout.com/2026/03/31/oracle-slashes-30000-jobs-with-a-cold-6/\nComments URL: https://news.ycombinator.com/item?id=47587935\nPoints: 595\n# Comments: 499",
-          "link": "https://rollingout.com/2026/03/31/oracle-slashes-30000-jobs-with-a-cold-6/",
-          "publishedOn": "2026-03-31T14:30:48.000Z",
-          "wordCount": null,
-          "title": "Oracle slashes 30k jobs",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=47587866",
-          "author": "lpcvoid",
-          "description": "Article URL: https://www.microsoft.com/en-us/microsoft-copilot/for-individuals/termsofuse\nComments URL: https://news.ycombinator.com/item?id=47587866\nPoints: 507\n# Comments: 183",
-          "link": "https://www.microsoft.com/en-us/microsoft-copilot/for-individuals/termsofuse",
-          "publishedOn": "2026-03-31T14:25:37.000Z",
-          "wordCount": 3003,
-          "title": "Microsoft: Copilot is for entertainment purposes only",
-          "imageUrl": "https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/MSFT-Learn-Hero-Alt2_tbmnl_en-us?scl=1"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=47586778",
-          "author": "alex000kim",
-          "description": "Related ongoing thread: Claude Code's source code has been leaked via a map file in their NPM registry - https://news.ycombinator.com/item?id=47584540\nAlso related: https://www.ccleaks.com\nComments URL: https://news.ycombinator.com/item?id=47586778\nPoints: 513\n# Comments: 195",
-          "link": "https://alex000kim.com/posts/2026-03-31-claude-code-source-leak/",
-          "publishedOn": "2026-03-31T13:04:30.000Z",
-          "wordCount": 3868,
-          "title": "The Claude Code Source Leak: fake tools, frustration regexes, undercover mode",
-          "imageUrl": null
         }
       ]
     },
@@ -2160,16 +2140,6 @@
           "wordCount": 2933,
           "title": "Harness engineering for coding agent users",
           "imageUrl": "https://martinfowler.com/articles/harness-engineering/card.png"
-        },
-        {
-          "id": "https://martinfowler.com/articles/reduce-friction-ai/encoding-team-standards.html",
-          "author": null,
-          "description": "AI coding assistants respond to whoever is prompting, and the quality\n      of what they produce depends on how well the prompter articulates team\n      standards. Rahul Garg proposes treating the instructions\n      that govern AI interactions (generation, refactoring, security, review) as\n      infrastructure: versioned, reviewed, and shared artifacts that encode\n      tacit team knowledge into executable instructions, making quality\n      consistent regardless of who is at the keyboard.\nmore…",
-          "link": "https://martinfowler.com/articles/reduce-friction-ai/encoding-team-standards.html",
-          "publishedOn": "2026-03-31T15:20:00.000Z",
-          "wordCount": 2834,
-          "title": "Encoding Team Standards",
-          "imageUrl": "https://martinfowler.com/logo-sq.png"
         }
       ]
     },
