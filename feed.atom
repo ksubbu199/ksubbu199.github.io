@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-04-30T19:21:55.767Z</updated>
+    <updated>2026-04-30T21:01:06.207Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -69,6 +69,19 @@ Points: 522
 # Comments: 408]]></summary>
         <author>
             <name>mpweiher</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mozilla's opposition to Chrome's Prompt API]]></title>
+        <id>https://news.ycombinator.com/item?id=47959463</id>
+        <link href="https://github.com/mozilla/standards-positions/issues/1213#issuecomment-4347988313"/>
+        <updated>2026-04-30T07:43:55.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://github.com/mozilla/standards-positions/issues/1213#issuecomment-4347988313
+Comments URL: https://news.ycombinator.com/item?id=47959463
+Points: 505
+# Comments: 196]]></summary>
+        <author>
+            <name>jaffathecake</name>
         </author>
     </entry>
     <entry>
