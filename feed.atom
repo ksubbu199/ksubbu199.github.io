@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-04-30T15:47:45.889Z</updated>
+    <updated>2026-04-30T17:20:52.476Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -46,6 +46,19 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Belgium stops decommissioning nuclear power plants]]></title>
+        <id>https://news.ycombinator.com/item?id=47961319</id>
+        <link href="https://dpa-international.com/general-news/urn:newsml:dpa.com:20090101:260430-930-14717/"/>
+        <updated>2026-04-30T12:17:14.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://dpa-international.com/general-news/urn:newsml:dpa.com:20090101:260430-930-14717/
+Comments URL: https://news.ycombinator.com/item?id=47961319
+Points: 522
+# Comments: 408]]></summary>
+        <author>
+            <name>mpweiher</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Where the goblins came from]]></title>
         <id>https://news.ycombinator.com/item?id=47957688</id>
         <link href="https://openai.com/index/where-the-goblins-came-from/"/>
@@ -56,6 +69,19 @@ Points: 543
 # Comments: 305]]></summary>
         <author>
             <name>ilreb</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Zig project's rationale for their anti-AI contribution policy]]></title>
+        <id>https://news.ycombinator.com/item?id=47957294</id>
+        <link href="https://simonwillison.net/2026/Apr/30/zig-anti-ai/"/>
+        <updated>2026-04-30T02:15:47.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://simonwillison.net/2026/Apr/30/zig-anti-ai/
+Comments URL: https://news.ycombinator.com/item?id=47957294
+Points: 559
+# Comments: 325]]></summary>
+        <author>
+            <name>lumpa</name>
         </author>
     </entry>
     <entry>
@@ -2915,22 +2941,6 @@ Points: 514
 # Comments: 363]]></summary>
         <author>
             <name>elithrar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Claude Code Unpacked : A visual guide]]></title>
-        <id>https://news.ycombinator.com/item?id=47597085</id>
-        <link href="https://ccunpacked.dev/"/>
-        <updated>2026-04-01T05:15:37.000Z</updated>
-        <summary type="html"><![CDATA[Related ongoing threads:
-The Claude Code Source Leak: fake tools, frustration regexes, undercover mode - https://news.ycombinator.com/item?id=47586778 - March 2026 (406 comments)
-Claude Code's source code has been leaked via a map file in their NPM registry - https://news.ycombinator.com/item?id=47584540 - March 2026 (956 comments)
-Also related: https://www.ccleaks.com
-Comments URL: https://news.ycombinator.com/item?id=47597085
-Points: 526
-# Comments: 149]]></summary>
-        <author>
-            <name>autocracy101</name>
         </author>
     </entry>
 </feed>

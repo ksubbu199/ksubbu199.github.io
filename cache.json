@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=47961319",
+          "author": "mpweiher",
+          "description": "Article URL: https://dpa-international.com/general-news/urn:newsml:dpa.com:20090101:260430-930-14717/\nComments URL: https://news.ycombinator.com/item?id=47961319\nPoints: 522\n# Comments: 408",
+          "link": "https://dpa-international.com/general-news/urn:newsml:dpa.com:20090101:260430-930-14717/",
+          "publishedOn": "2026-04-30T12:17:14.000Z",
+          "wordCount": 3253,
+          "title": "Belgium stops decommissioning nuclear power plants",
+          "imageUrl": null
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=47957688",
           "author": "ilreb",
           "description": "Article URL: https://openai.com/index/where-the-goblins-came-from/\nComments URL: https://news.ycombinator.com/item?id=47957688\nPoints: 543\n# Comments: 305",
@@ -13,6 +23,16 @@
           "publishedOn": "2026-04-30T03:21:04.000Z",
           "wordCount": null,
           "title": "Where the goblins came from",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=47957294",
+          "author": "lumpa",
+          "description": "Article URL: https://simonwillison.net/2026/Apr/30/zig-anti-ai/\nComments URL: https://news.ycombinator.com/item?id=47957294\nPoints: 559\n# Comments: 325",
+          "link": "https://simonwillison.net/2026/Apr/30/zig-anti-ai/",
+          "publishedOn": "2026-04-30T02:15:47.000Z",
+          "wordCount": 1224,
+          "title": "The Zig project's rationale for their anti-AI contribution policy",
           "imageUrl": null
         },
         {
@@ -1924,16 +1944,6 @@
           "wordCount": 3490,
           "title": "EmDash – A spiritual successor to WordPress that solves plugin security",
           "imageUrl": "https://cf-assets.www.cloudflare.com/zkvhlag99gkb/hBSrp5YJXIsn2IwBqdg2m/a22cf1285db3826ca159d83ab81076e0/EmDash-OG.png"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=47597085",
-          "author": "autocracy101",
-          "description": "Related ongoing threads:\nThe Claude Code Source Leak: fake tools, frustration regexes, undercover mode - https://news.ycombinator.com/item?id=47586778 - March 2026 (406 comments)\nClaude Code's source code has been leaked via a map file in their NPM registry - https://news.ycombinator.com/item?id=47584540 - March 2026 (956 comments)\nAlso related: https://www.ccleaks.com\nComments URL: https://news.ycombinator.com/item?id=47597085\nPoints: 526\n# Comments: 149",
-          "link": "https://ccunpacked.dev/",
-          "publishedOn": "2026-04-01T05:15:37.000Z",
-          "wordCount": 593,
-          "title": "Claude Code Unpacked : A visual guide",
-          "imageUrl": "https://ccunpacked.dev/og-image.png"
         }
       ]
     },
