@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-04-30T09:11:08.112Z</updated>
+    <updated>2026-04-30T11:28:05.263Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -2942,19 +2942,6 @@ Points: 526
         <summary type="html"><![CDATA[Many devs adopt the git add . (yolo, just yeet it all into the commit) workflow. It is fast, simple, and usually correct. But eventually you’ll have files in your repo directory that should never be committed: secrets, generated artifacts, dependency folders, and random local junk. That’s what .gitignore is for.]]></summary>
         <author>
             <name>Boot.dev Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A dot a day keeps the clutter away]]></title>
-        <id>https://news.ycombinator.com/item?id=47593556</id>
-        <link href="https://scottlawsonbc.com/post/dot-system"/>
-        <updated>2026-03-31T21:15:01.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://scottlawsonbc.com/post/dot-system
-Comments URL: https://news.ycombinator.com/item?id=47593556
-Points: 504
-# Comments: 154]]></summary>
-        <author>
-            <name>scottlawson</name>
         </author>
     </entry>
 </feed>
