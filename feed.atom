@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-04-30T17:20:52.476Z</updated>
+    <updated>2026-04-30T19:21:55.767Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -24,6 +24,19 @@
         <summary type="html"><![CDATA[In the past 2-3 months, spending on AI agents has exploded at many tech companies, Details from 15 of them, including the different ways they are coping with this realization.]]></summary>
         <author>
             <name>Gergely Orosz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Claude Code refuses requests or charges extra if your commits mention "OpenClaw"]]></title>
+        <id>https://news.ycombinator.com/item?id=47963204</id>
+        <link href="https://twitter.com/theo/status/2049645973350363168"/>
+        <updated>2026-04-30T14:36:58.000Z</updated>
+        <summary type="html"><![CDATA[https://xcancel.com/theo/status/2049645973350363168
+Comments URL: https://news.ycombinator.com/item?id=47963204
+Points: 549
+# Comments: 348]]></summary>
+        <author>
+            <name>elmean</name>
         </author>
     </entry>
     <entry>
