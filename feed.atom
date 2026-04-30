@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-04-30T11:28:05.263Z</updated>
+    <updated>2026-04-30T13:55:26.893Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[What Diet Coke Paradox tells you about Indian Economy?]]></title>
+        <id>https://www.youtube.com/watch?v=g08qlmzHwaM</id>
+        <link href="https://www.youtube.com/watch?v=g08qlmzHwaM"/>
+        <updated>2026-04-30T13:18:16.000Z</updated>
+        <author>
+            <name>Think School</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Where the goblins came from]]></title>
         <id>https://news.ycombinator.com/item?id=47957688</id>
@@ -2892,56 +2901,6 @@ Points: 526
 # Comments: 149]]></summary>
         <author>
             <name>autocracy101</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Git Rebase: Keep History Linear Without Merge Commits]]></title>
-        <id>https://boot.dev/blog/devops/git-rebase/</id>
-        <link href="https://boot.dev/blog/devops/git-rebase/"/>
-        <updated>2026-04-01T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[If git merge feels noisy, that’s because it can be. Lots of noisy merge commits make history harder to scan, especially when you’re just trying to understand what actually changed. git rebase takes a different approach: instead of creating a merge commit, it replays your branch commits on top of the latest base commit so your history stays clean and linear.]]></summary>
-        <author>
-            <name>Boot.dev Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Git Remote: Add Origin, Fetch, and Merge Remote Branches]]></title>
-        <id>https://boot.dev/blog/devops/git-remote/</id>
-        <link href="https://boot.dev/blog/devops/git-remote/"/>
-        <updated>2026-04-01T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Git is distributed, which means your repo and my repo can both be valid “sources of truth”. In practice, teams usually pick one remote as the shared source (often GitHub) and sync local work against it… but that’s just a convention. Let’s dig into how syncing Git repositories to GitHub works, and how that’s just one way to work with Git.]]></summary>
-        <author>
-            <name>Boot.dev Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Git Reset: Undo Commits With --soft and --hard]]></title>
-        <id>https://boot.dev/blog/devops/git-reset/</id>
-        <link href="https://boot.dev/blog/devops/git-reset/"/>
-        <updated>2026-04-01T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[If you’ve ever made a commit and immediately thought “noooope”, then git reset is what you need. It’s one of the most useful Git commands for undoing work, but it’s also one of the easiest to misuse. The --soft version is usually safe and predictable. The --hard version is powerful and can absolutely nuke your local changes.]]></summary>
-        <author>
-            <name>Boot.dev Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GitHub + Git: Push, Pull, and Pull Requests]]></title>
-        <id>https://boot.dev/blog/devops/git-github/</id>
-        <link href="https://boot.dev/blog/devops/git-github/"/>
-        <updated>2026-04-01T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Git is the open-source command-line version control tool, and GitHub is basically just a collaboration on top of it. You can absolutely use Git without GitHub, but for most teams, GitHub (or something similar) is where a lot of the collaboration happens. Linus Torvalds created Git, and… well we don’t talk about who owns GitHub these days…]]></summary>
-        <author>
-            <name>Boot.dev Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gitignore Patterns: What to Ignore and Why]]></title>
-        <id>https://boot.dev/blog/devops/gitignore-patterns/</id>
-        <link href="https://boot.dev/blog/devops/gitignore-patterns/"/>
-        <updated>2026-04-01T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Many devs adopt the git add . (yolo, just yeet it all into the commit) workflow. It is fast, simple, and usually correct. But eventually you’ll have files in your repo directory that should never be committed: secrets, generated artifacts, dependency folders, and random local junk. That’s what .gitignore is for.]]></summary>
-        <author>
-            <name>Boot.dev Blog</name>
         </author>
     </entry>
 </feed>

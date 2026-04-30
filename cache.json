@@ -1967,56 +1967,6 @@
           "wordCount": 903,
           "title": "The Boot.dev Beat. April 2026",
           "imageUrl": "https://boot.dev/blog/img/featured/the-bootdev-beat-april-2026.webp"
-        },
-        {
-          "id": "https://boot.dev/blog/devops/git-rebase/",
-          "author": null,
-          "description": "If git merge feels noisy, that’s because it can be. Lots of noisy merge commits make history harder to scan, especially when you’re just trying to understand what actually changed. git rebase takes a different approach: instead of creating a merge commit, it replays your branch commits on top of the latest base commit so your history stays clean and linear.",
-          "link": "https://boot.dev/blog/devops/git-rebase/",
-          "publishedOn": "2026-04-01T00:00:00.000Z",
-          "wordCount": 1407,
-          "title": "Git Rebase: Keep History Linear Without Merge Commits",
-          "imageUrl": "https://boot.dev/img/featured/git-rebase-keep-history-linear-without-merge-commits.webp"
-        },
-        {
-          "id": "https://boot.dev/blog/devops/git-remote/",
-          "author": null,
-          "description": "Git is distributed, which means your repo and my repo can both be valid “sources of truth”. In practice, teams usually pick one remote as the shared source (often GitHub) and sync local work against it… but that’s just a convention. Let’s dig into how syncing Git repositories to GitHub works, and how that’s just one way to work with Git.",
-          "link": "https://boot.dev/blog/devops/git-remote/",
-          "publishedOn": "2026-04-01T00:00:00.000Z",
-          "wordCount": 1365,
-          "title": "Git Remote: Add Origin, Fetch, and Merge Remote Branches",
-          "imageUrl": "https://boot.dev/img/featured/git-remote-add-origin-fetch-and-merge-remote-branches.webp"
-        },
-        {
-          "id": "https://boot.dev/blog/devops/git-reset/",
-          "author": null,
-          "description": "If you’ve ever made a commit and immediately thought “noooope”, then git reset is what you need. It’s one of the most useful Git commands for undoing work, but it’s also one of the easiest to misuse. The --soft version is usually safe and predictable. The --hard version is powerful and can absolutely nuke your local changes.",
-          "link": "https://boot.dev/blog/devops/git-reset/",
-          "publishedOn": "2026-04-01T00:00:00.000Z",
-          "wordCount": 1384,
-          "title": "Git Reset: Undo Commits With --soft and --hard",
-          "imageUrl": "https://boot.dev/img/featured/git-reset-undo-commits-with-soft-and-hard.webp"
-        },
-        {
-          "id": "https://boot.dev/blog/devops/git-github/",
-          "author": null,
-          "description": "Git is the open-source command-line version control tool, and GitHub is basically just a collaboration on top of it. You can absolutely use Git without GitHub, but for most teams, GitHub (or something similar) is where a lot of the collaboration happens. Linus Torvalds created Git, and… well we don’t talk about who owns GitHub these days…",
-          "link": "https://boot.dev/blog/devops/git-github/",
-          "publishedOn": "2026-04-01T00:00:00.000Z",
-          "wordCount": 1439,
-          "title": "GitHub + Git: Push, Pull, and Pull Requests",
-          "imageUrl": "https://boot.dev/img/featured/github-git-push-pull-and-pull-requests.webp"
-        },
-        {
-          "id": "https://boot.dev/blog/devops/gitignore-patterns/",
-          "author": null,
-          "description": "Many devs adopt the git add . (yolo, just yeet it all into the commit) workflow. It is fast, simple, and usually correct. But eventually you’ll have files in your repo directory that should never be committed: secrets, generated artifacts, dependency folders, and random local junk. That’s what .gitignore is for.",
-          "link": "https://boot.dev/blog/devops/gitignore-patterns/",
-          "publishedOn": "2026-04-01T00:00:00.000Z",
-          "wordCount": 1335,
-          "title": "Gitignore Patterns: What to Ignore and Why",
-          "imageUrl": "https://boot.dev/img/featured/gitignore-patterns-what-to-ignore-and-why.webp"
         }
       ]
     },
@@ -2171,6 +2121,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKZozRVHRYsYHGEyNKuhhdA",
       "siteUrl": "https://www.youtube.com/channel/UCKZozRVHRYsYHGEyNKuhhdA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=g08qlmzHwaM",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=g08qlmzHwaM",
+          "publishedOn": "2026-04-30T13:18:16.000Z",
+          "wordCount": null,
+          "title": "What Diet Coke Paradox tells you about Indian Economy?",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/shorts/ajQqL-r9uFM",
           "author": null,
