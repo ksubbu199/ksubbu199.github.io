@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-04-30T06:27:00.414Z</updated>
+    <updated>2026-04-30T09:11:08.112Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Where the goblins came from]]></title>
+        <id>https://news.ycombinator.com/item?id=47957688</id>
+        <link href="https://openai.com/index/where-the-goblins-came-from/"/>
+        <updated>2026-04-30T03:21:04.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://openai.com/index/where-the-goblins-came-from/
+Comments URL: https://news.ycombinator.com/item?id=47957688
+Points: 543
+# Comments: 305]]></summary>
+        <author>
+            <name>ilreb</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[HERMES.md: Anthropic bug causes $200 extra charge, refuses refund]]></title>
         <id>https://news.ycombinator.com/item?id=47952722</id>
@@ -2942,19 +2955,6 @@ Points: 504
 # Comments: 154]]></summary>
         <author>
             <name>scottlawson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenAI closes funding round at an $852B valuation]]></title>
-        <id>https://news.ycombinator.com/item?id=47592755</id>
-        <link href="https://www.cnbc.com/2026/03/31/openai-funding-round-ipo.html"/>
-        <updated>2026-03-31T20:07:30.000Z</updated>
-        <summary type="html"><![CDATA[https://openai.com/index/accelerating-the-next-phase-ai
-Comments URL: https://news.ycombinator.com/item?id=47592755
-Points: 502
-# Comments: 466]]></summary>
-        <author>
-            <name>surprisetalk</name>
         </author>
     </entry>
 </feed>

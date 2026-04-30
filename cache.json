@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=47957688",
+          "author": "ilreb",
+          "description": "Article URL: https://openai.com/index/where-the-goblins-came-from/\nComments URL: https://news.ycombinator.com/item?id=47957688\nPoints: 543\n# Comments: 305",
+          "link": "https://openai.com/index/where-the-goblins-came-from/",
+          "publishedOn": "2026-04-30T03:21:04.000Z",
+          "wordCount": null,
+          "title": "Where the goblins came from",
+          "imageUrl": null
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=47952722",
           "author": "homebrewer",
           "description": "Article URL: https://github.com/anthropics/claude-code/issues/53262\nComments URL: https://news.ycombinator.com/item?id=47952722\nPoints: 616\n# Comments: 238",
@@ -1934,16 +1944,6 @@
           "wordCount": 2469,
           "title": "A dot a day keeps the clutter away",
           "imageUrl": "https://scottlawsonbc.com/static/dot-system-10.jpg"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=47592755",
-          "author": "surprisetalk",
-          "description": "https://openai.com/index/accelerating-the-next-phase-ai\nComments URL: https://news.ycombinator.com/item?id=47592755\nPoints: 502\n# Comments: 466",
-          "link": "https://www.cnbc.com/2026/03/31/openai-funding-round-ipo.html",
-          "publishedOn": "2026-03-31T20:07:30.000Z",
-          "wordCount": 15025,
-          "title": "OpenAI closes funding round at an $852B valuation",
-          "imageUrl": "https://image.cnbcfm.com/api/v1/image/108276826-17732552422026-03-11t184543z_527413325_rc2i2katf9b2_rtrmadp_0_usa-blackrock.jpeg?v=1773315937&w=1920&h=1080"
         }
       ]
     },
