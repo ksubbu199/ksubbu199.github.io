@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-05-01T22:50:21.450Z</updated>
+    <updated>2026-05-01T23:52:32.865Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -2977,29 +2977,6 @@ Points: 783
 # Comments: 374]]></summary>
         <author>
             <name>digitalWestie</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Every dependency you add is a supply chain attack waiting to happen]]></title>
-        <id>https://benhoyt.com/writings/dependencies/</id>
-        <link href="https://benhoyt.com/writings/dependencies/"/>
-        <updated>2026-04-02T11:45:00.000Z</updated>
-        <summary type="html"><![CDATA[Dependencies are a huge supply chain security risk; the more of them you have, and the more often you update, the bigger the attack surface.]]></summary>
-        <author>
-            <name>Ben Hoyt's technical writing</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lemonade by AMD: a fast and open source local LLM server using GPU and NPU]]></title>
-        <id>https://news.ycombinator.com/item?id=47612724</id>
-        <link href="https://lemonade-server.ai/"/>
-        <updated>2026-04-02T11:04:51.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://lemonade-server.ai
-Comments URL: https://news.ycombinator.com/item?id=47612724
-Points: 515
-# Comments: 107]]></summary>
-        <author>
-            <name>AbuAssar</name>
         </author>
     </entry>
 </feed>
