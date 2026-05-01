@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-05-01T03:24:39.301Z</updated>
+    <updated>2026-05-01T06:36:02.977Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -17,6 +17,19 @@ Points: 528
 # Comments: 203]]></summary>
         <author>
             <name>Cider9986</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Mark Klein told the EFF about Room 641A [book excerpt]]]></title>
+        <id>https://news.ycombinator.com/item?id=47965060</id>
+        <link href="https://thereader.mitpress.mit.edu/the-whistleblower-who-uncovered-the-nsas-big-brother-machine/"/>
+        <updated>2026-04-30T16:41:00.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://thereader.mitpress.mit.edu/the-whistleblower-who-uncovered-the-nsas-big-brother-machine/
+Comments URL: https://news.ycombinator.com/item?id=47965060
+Points: 531
+# Comments: 177]]></summary>
+        <author>
+            <name>the-mitr</name>
         </author>
     </entry>
     <entry>
@@ -2954,32 +2967,6 @@ Points: 523
 # Comments: 455]]></summary>
         <author>
             <name>ingve</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Live: Artemis II Launch Day Updates]]></title>
-        <id>https://news.ycombinator.com/item?id=47603657</id>
-        <link href="https://www.nasa.gov/blogs/missions/2026/04/01/live-artemis-ii-launch-day-updates/"/>
-        <updated>2026-04-01T17:11:31.000Z</updated>
-        <summary type="html"><![CDATA[https://www.youtube.com/live/Tf_UjBMIzNo
-Comments URL: https://news.ycombinator.com/item?id=47603657
-Points: 651
-# Comments: 619]]></summary>
-        <author>
-            <name>apitman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EmDash – A spiritual successor to WordPress that solves plugin security]]></title>
-        <id>https://news.ycombinator.com/item?id=47602832</id>
-        <link href="https://blog.cloudflare.com/emdash-wordpress/"/>
-        <updated>2026-04-01T16:14:38.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://blog.cloudflare.com/emdash-wordpress/
-Comments URL: https://news.ycombinator.com/item?id=47602832
-Points: 514
-# Comments: 363]]></summary>
-        <author>
-            <name>elithrar</name>
         </author>
     </entry>
 </feed>
