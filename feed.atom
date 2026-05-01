@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-05-01T11:59:52.986Z</updated>
+    <updated>2026-05-01T13:47:17.349Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -314,6 +314,19 @@ Points: 534
 # Comments: 308]]></summary>
         <author>
             <name>lwhsiao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How ChatGPT serves ads]]></title>
+        <id>https://news.ycombinator.com/item?id=47942437</id>
+        <link href="https://www.buchodi.com/how-chatgpt-serves-ads-heres-the-full-attribution-loop/"/>
+        <updated>2026-04-28T23:54:14.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.buchodi.com/how-chatgpt-serves-ads-heres-the-full-attribution-loop/
+Comments URL: https://news.ycombinator.com/item?id=47942437
+Points: 500
+# Comments: 361]]></summary>
+        <author>
+            <name>lmbbuchodi</name>
         </author>
     </entry>
     <entry>
