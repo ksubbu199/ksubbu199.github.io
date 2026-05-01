@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-05-01T14:55:50.175Z</updated>
+    <updated>2026-05-01T15:57:54.525Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Why Expensive Things Feel Better | Ft. Nir Eyal]]></title>
+        <id>https://www.youtube.com/shorts/hc2R4CigC18</id>
+        <link href="https://www.youtube.com/shorts/hc2R4CigC18"/>
+        <updated>2026-05-01T15:49:44.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Think School</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Psychology Behind Doomscrolling Explained]]></title>
         <id>https://www.youtube.com/shorts/HcH1hfmL7oY</id>
@@ -2990,19 +3000,6 @@ Points: 501
 # Comments: 131]]></summary>
         <author>
             <name>bjourne</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Steam on Linux Use Skyrocketed Above 5% in March]]></title>
-        <id>https://news.ycombinator.com/item?id=47609564</id>
-        <link href="https://www.phoronix.com/news/Steam-On-Linux-Tops-5p"/>
-        <updated>2026-04-02T03:12:24.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.phoronix.com/news/Steam-On-Linux-Tops-5p
-Comments URL: https://news.ycombinator.com/item?id=47609564
-Points: 569
-# Comments: 267]]></summary>
-        <author>
-            <name>hkmaxpro</name>
         </author>
     </entry>
 </feed>
