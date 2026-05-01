@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-05-01T09:00:52.307Z</updated>
+    <updated>2026-05-01T10:40:40.312Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -27,6 +27,19 @@ Points: 528
 # Comments: 203]]></summary>
         <author>
             <name>Cider9986</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[For Linux kernel vulnerabilities, there is no heads-up to distributions]]></title>
+        <id>https://news.ycombinator.com/item?id=47965108</id>
+        <link href="https://www.openwall.com/lists/oss-security/2026/04/30/10"/>
+        <updated>2026-04-30T16:43:47.000Z</updated>
+        <summary type="html"><![CDATA[Recent: Copy Fail - https://news.ycombinator.com/item?id=47952181 - April 2026 (466 comments)
+Comments URL: https://news.ycombinator.com/item?id=47965108
+Points: 509
+# Comments: 397]]></summary>
+        <author>
+            <name>ori_b</name>
         </author>
     </entry>
     <entry>
@@ -92,6 +105,19 @@ Points: 549
         <updated>2026-04-30T13:18:16.000Z</updated>
         <author>
             <name>Think School</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Meta in row after workers who saw smart glasses users having sex lose jobs]]></title>
+        <id>https://news.ycombinator.com/item?id=47961838</id>
+        <link href="https://www.bbc.com/news/articles/c5y7yvgy0w6o"/>
+        <updated>2026-04-30T13:07:42.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.bbc.com/news/articles/c5y7yvgy0w6o
+Comments URL: https://news.ycombinator.com/item?id=47961838
+Points: 500
+# Comments: 399]]></summary>
+        <author>
+            <name>gorbachev</name>
         </author>
     </entry>
     <entry>
@@ -2964,19 +2990,6 @@ Points: 569
 # Comments: 267]]></summary>
         <author>
             <name>hkmaxpro</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DRAM pricing is killing the hobbyist SBC market]]></title>
-        <id>https://news.ycombinator.com/item?id=47606840</id>
-        <link href="https://www.jeffgeerling.com/blog/2026/dram-pricing-is-killing-the-hobbyist-sbc-market/"/>
-        <updated>2026-04-01T21:36:41.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.jeffgeerling.com/blog/2026/dram-pricing-is-killing-the-hobbyist-sbc-market/
-Comments URL: https://news.ycombinator.com/item?id=47606840
-Points: 523
-# Comments: 455]]></summary>
-        <author>
-            <name>ingve</name>
         </author>
     </entry>
 </feed>
