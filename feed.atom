@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-05-02T05:37:29.655Z</updated>
+    <updated>2026-05-02T07:43:53.403Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Your Brain Hides 99.99% Reality | Ft. Nir Eyal]]></title>
+        <id>https://www.youtube.com/shorts/zNJhAh-90UE</id>
+        <link href="https://www.youtube.com/shorts/zNJhAh-90UE"/>
+        <updated>2026-05-02T06:57:33.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Think School</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Why Expensive Things Feel Better | Ft. Nir Eyal]]></title>
         <id>https://www.youtube.com/shorts/hc2R4CigC18</id>
@@ -2871,32 +2881,6 @@ Points: 523
 # Comments: 117]]></summary>
         <author>
             <name>franze</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tailscale's new macOS home]]></title>
-        <id>https://news.ycombinator.com/item?id=47618189</id>
-        <link href="https://tailscale.com/blog/macos-notch-escape"/>
-        <updated>2026-04-02T18:22:03.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://tailscale.com/blog/macos-notch-escape
-Comments URL: https://news.ycombinator.com/item?id=47618189
-Points: 503
-# Comments: 257]]></summary>
-        <author>
-            <name>tosh</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cursor 3]]></title>
-        <id>https://news.ycombinator.com/item?id=47618084</id>
-        <link href="https://cursor.com/blog/cursor-3"/>
-        <updated>2026-04-02T18:13:41.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://cursor.com/blog/cursor-3
-Comments URL: https://news.ycombinator.com/item?id=47618084
-Points: 509
-# Comments: 372]]></summary>
-        <author>
-            <name>adamfeldman</name>
         </author>
     </entry>
 </feed>
