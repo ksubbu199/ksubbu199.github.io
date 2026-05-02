@@ -1924,26 +1924,6 @@
           "wordCount": 3271,
           "title": "Cursor 3",
           "imageUrl": "https://ptht05hbb1ssoooe.public.blob.vercel-storage.com/assets/blog/og/opengraph-new-cursor-no-text-1-.png"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=47616361",
-          "author": "jeffmcjunkin",
-          "description": "Article URL: https://deepmind.google/models/gemma/gemma-4/\nComments URL: https://news.ycombinator.com/item?id=47616361\nPoints: 567\n# Comments: 160",
-          "link": "https://deepmind.google/models/gemma/gemma-4/",
-          "publishedOn": "2026-04-02T16:10:54.000Z",
-          "wordCount": 1689,
-          "title": "Google releases Gemma 4 open models",
-          "imageUrl": "https://lh3.googleusercontent.com/XtdGQ6B0XzfV1gByFCtGbxLthooBSyg6QZWJn4VuM4SpDduwdYqOPFWpxyMIv875LTG1zUt0Xm34B29PfjACwd6m8fLiQpFLkZnjR5bVmJnCDANx6g=w1200-h630-n-nu-rw"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=47616242",
-          "author": "axelriet",
-          "description": "Article URL: https://isolveproblems.substack.com/p/how-microsoft-vaporized-a-trillion\nComments URL: https://news.ycombinator.com/item?id=47616242\nPoints: 616\n# Comments: 241",
-          "link": "https://isolveproblems.substack.com/p/how-microsoft-vaporized-a-trillion",
-          "publishedOn": "2026-04-02T16:00:27.000Z",
-          "wordCount": null,
-          "title": "Decisions that eroded trust in Azure – by a former Azure Core engineer",
-          "imageUrl": null
         }
       ]
     },
@@ -2070,16 +2050,6 @@
           "wordCount": 2109,
           "title": "Principles of Mechanical Sympathy",
           "imageUrl": "https://martinfowler.com/articles/mechanical-sympathy-principles/card.png"
-        },
-        {
-          "id": "https://martinfowler.com/fragments/2026-04-02.html",
-          "author": null,
-          "description": "As we see LLMs churn out scads of code, folks have increasingly turned to Cognitive Debt as a metaphor for capturing how a team can lose understanding of what a system does. Margaret-Anne Storey thinks a good way of thinking about these problems is to consider three layers of system health:\nTechnical debt lives in code. It accumulates when implementation decisions compromise future changeability. It limits how systems can change.\nCognitive debt lives in people. It accumulates when shared understanding of the system erodes faster than it is replenished. It limits how teams can reason about change.\nIntent debt lives in artifacts. It accumulates when the goals and constraints that should guide the system are poorly captured or maintained. It limits whether the system continues to reflect what…",
-          "link": "https://martinfowler.com/fragments/2026-04-02.html",
-          "publishedOn": "2026-04-02T16:42:00.000Z",
-          "wordCount": 1175,
-          "title": "Fragments: April  2",
-          "imageUrl": "https://martinfowler.com/logo-sq.png"
         }
       ]
     },

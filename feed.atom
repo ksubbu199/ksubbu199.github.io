@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-05-02T02:41:35.350Z</updated>
+    <updated>2026-05-02T05:37:29.655Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -2897,45 +2897,6 @@ Points: 509
 # Comments: 372]]></summary>
         <author>
             <name>adamfeldman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fragments: April  2]]></title>
-        <id>https://martinfowler.com/fragments/2026-04-02.html</id>
-        <link href="https://martinfowler.com/fragments/2026-04-02.html"/>
-        <updated>2026-04-02T16:42:00.000Z</updated>
-        <summary type="html"><![CDATA[As we see LLMs churn out scads of code, folks have increasingly turned to Cognitive Debt as a metaphor for capturing how a team can lose understanding of what a system does. Margaret-Anne Storey thinks a good way of thinking about these problems is to consider three layers of system health:
-Technical debt lives in code. It accumulates when implementation decisions compromise future changeability. It limits how systems can change.
-Cognitive debt lives in people. It accumulates when shared understanding of the system erodes faster than it is replenished. It limits how teams can reason about change.
-Intent debt lives in artifacts. It accumulates when the goals and constraints that should guide the system are poorly captured or maintained. It limits whether the system continues to reflect what…]]></summary>
-        <author>
-            <name>Martin Fowler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google releases Gemma 4 open models]]></title>
-        <id>https://news.ycombinator.com/item?id=47616361</id>
-        <link href="https://deepmind.google/models/gemma/gemma-4/"/>
-        <updated>2026-04-02T16:10:54.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://deepmind.google/models/gemma/gemma-4/
-Comments URL: https://news.ycombinator.com/item?id=47616361
-Points: 567
-# Comments: 160]]></summary>
-        <author>
-            <name>jeffmcjunkin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Decisions that eroded trust in Azure – by a former Azure Core engineer]]></title>
-        <id>https://news.ycombinator.com/item?id=47616242</id>
-        <link href="https://isolveproblems.substack.com/p/how-microsoft-vaporized-a-trillion"/>
-        <updated>2026-04-02T16:00:27.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://isolveproblems.substack.com/p/how-microsoft-vaporized-a-trillion
-Comments URL: https://news.ycombinator.com/item?id=47616242
-Points: 616
-# Comments: 241]]></summary>
-        <author>
-            <name>axelriet</name>
         </author>
     </entry>
 </feed>
