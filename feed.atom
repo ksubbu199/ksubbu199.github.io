@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-05-02T11:44:59.785Z</updated>
+    <updated>2026-05-02T13:12:24.084Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -14,6 +14,28 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>Think School</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Testing Vue components in the browser]]></title>
+        <id>https://jvns.ca/blog/2026/05/02/testing-vue-components-in-the-browser/</id>
+        <link href="https://jvns.ca/blog/2026/05/02/testing-vue-components-in-the-browser/"/>
+        <updated>2026-05-02T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Hello! One of my long term projects on here is
+figuring out how to write frontend Javascript without using Node
+or any other server JS runtime.
+One issue I run into a lot in my frontend JS projects is that I don’t know how
+to write tests for them. I’ve tried to use Playwright in the past, but it felt
+slow and unwieldy to be starting these new browser processes all the time, and
+it involved some Node code to orchestrate the tests.
+The result is that I just don’t test my frontend code which doesn’t feel great.
+Usually I don’t update my projects much either so it doesn’t come up that much,
+but it would be nice to be able to make changes with more confidence!
+So a way to do frontend testing that I like has been on my wishlist for a long time.
+idea: just run the tests in the browser tab
+Alex Ch…]]></summary>
+        <author>
+            <name>Julia Evans</name>
         </author>
     </entry>
     <entry>
