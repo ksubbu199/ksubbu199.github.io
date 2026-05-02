@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-05-01T23:52:32.865Z</updated>
+    <updated>2026-05-02T02:41:35.350Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -2936,47 +2936,6 @@ Points: 616
 # Comments: 241]]></summary>
         <author>
             <name>axelriet</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Qwen3.6-Plus: Towards real world agents]]></title>
-        <id>https://news.ycombinator.com/item?id=47615002</id>
-        <link href="https://qwen.ai/blog?id=qwen3.6"/>
-        <updated>2026-04-02T14:28:52.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://qwen.ai/blog?id=qwen3.6
-Comments URL: https://news.ycombinator.com/item?id=47615002
-Points: 519
-# Comments: 182]]></summary>
-        <author>
-            <name>pretext</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Harness engineering for coding agent users]]></title>
-        <id>https://martinfowler.com/articles/harness-engineering.html</id>
-        <link href="https://martinfowler.com/articles/harness-engineering.html"/>
-        <updated>2026-04-02T13:10:00.000Z</updated>
-        <summary type="html"><![CDATA[Last month Birgitta Böckeler wrote some initial
-      thoughts about the recently developed notion of Harness Engineering. She's
-      been researching and thinking more about this in the weeks since and has now
-      written a thoughtful mental model for understanding harness
-      engineering that we think will help people to drive coding agents more effectively.
-more…]]></summary>
-        <author>
-            <name>Martin Fowler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LinkedIn Is Illegally Searching Your Computer]]></title>
-        <id>https://news.ycombinator.com/item?id=47613981</id>
-        <link href="https://browsergate.eu/"/>
-        <updated>2026-04-02T13:09:09.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://browsergate.eu/
-Comments URL: https://news.ycombinator.com/item?id=47613981
-Points: 783
-# Comments: 374]]></summary>
-        <author>
-            <name>digitalWestie</name>
         </author>
     </entry>
 </feed>
