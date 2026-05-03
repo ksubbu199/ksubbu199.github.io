@@ -46,6 +46,16 @@
           "imageUrl": "https://opengraph.githubassets.com/386771a8ad795d0518dbbe0cbc70cdc47697868c424bac966d2130f3c47fd3cc/Exocija/ZetaLib"
         },
         {
+          "id": "https://news.ycombinator.com/item?id=47977026",
+          "author": "indigodaddy",
+          "description": "Article URL: https://simonwillison.net/2026/Apr/24/deepseek-v4/\nComments URL: https://news.ycombinator.com/item?id=47977026\nPoints: 520\n# Comments: 319",
+          "link": "https://simonwillison.net/2026/Apr/24/deepseek-v4/",
+          "publishedOn": "2026-05-01T16:52:43.000Z",
+          "wordCount": 1322,
+          "title": "DeepSeek V4—almost on the frontier",
+          "imageUrl": "https://static.simonwillison.net/static/2026/deepseek-v4-card.jpg"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=47972511",
           "author": "sleepingNomad",
           "description": "USB-C cables can be a mess. One cable charges at 5W, another does 100W and Thunderbolt 4, and they look identical in the drawer.\nWhatCable sits in your menu bar and reads the cable data your Mac already has access to. Plug in a cable and it tells you in plain English what it can actually do: charging wattage, data speed, display support, Thunderbolt, etc.\nBuilt in Swift/SwiftUI. Open source, free, no tracking.\nGitHub: https://github.com/darrylmorley/whatcable\nComments URL: https://news.ycombinator.com/item?id=47972511\nPoints: 506\n# Comments: 149",
@@ -1904,36 +1914,6 @@
           "wordCount": 5475,
           "title": "Artemis II crew take “spectacular” image of Earth",
           "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/383b/live/6c4ec320-2f7b-11f1-934f-036468834728.jpg"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=47629433",
-          "author": "bookofjoe",
-          "description": "Article URL: https://www.inaturalist.org/\nComments URL: https://news.ycombinator.com/item?id=47629433\nPoints: 501\n# Comments: 120",
-          "link": "https://www.inaturalist.org/",
-          "publishedOn": "2026-04-03T17:22:20.000Z",
-          "wordCount": 1081,
-          "title": "iNaturalist",
-          "imageUrl": "https://static.inaturalist.org/sites/1-shareable_image.png?1573071871"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=47628608",
-          "author": "kykeonaut",
-          "description": "https://old.reddit.com/r/sysadmin/comments/1sbdw29/if_youre_...\nhttps://web.archive.org/web/20260403174514/https://old.reddi...\nComments URL: https://news.ycombinator.com/item?id=47628608\nPoints: 500\n# Comments: 244",
-          "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-33579",
-          "publishedOn": "2026-04-03T16:21:32.000Z",
-          "wordCount": 885,
-          "title": "OpenClaw privilege escalation vulnerability",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=47628326",
-          "author": "tjwds",
-          "description": "https://theaviationist.com/2026/04/03/iran-f-15e-debris/\nComments URL: https://news.ycombinator.com/item?id=47628326\nPoints: 501\n# Comments: 1120",
-          "link": "https://www.theguardian.com/world/2026/apr/03/us-fighter-jet-confirmed-shot-down-over-iran",
-          "publishedOn": "2026-04-03T16:00:44.000Z",
-          "wordCount": 5558,
-          "title": "F-15E jet shot down over Iran",
-          "imageUrl": "https://i.guim.co.uk/img/media/482982697628386efabd0a787d9590da0690e8a1/0_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=71aa55243556fe4276e3975782e4c1c6"
         }
       ]
     },
@@ -2103,16 +2083,6 @@
           "publishedOn": "2026-04-23T16:55:40.000Z",
           "wordCount": 2692,
           "title": "The Pulse: ‘Tokenmaxxing’ as a weird new trend",
-          "imageUrl": null
-        },
-        {
-          "id": "69cfc72da95ab10001e47e0c",
-          "author": "Gergely Orosz",
-          "description": "Availability has dropped to one nine (~90% – !!), partly due to not being able to handle increased traffic from AI coding agents. There’s also no CEO and an apparent lack of direction.",
-          "link": "https://blog.pragmaticengineer.com/the-pulse-is-github-still-best-for-ai-native-development/",
-          "publishedOn": "2026-04-03T15:03:38.000Z",
-          "wordCount": 2182,
-          "title": "The Pulse: is GitHub still best for AI-native development?",
           "imageUrl": null
         }
       ]

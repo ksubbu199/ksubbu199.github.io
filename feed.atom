@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-05-03T02:54:14.111Z</updated>
+    <updated>2026-05-03T06:05:41.512Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -98,6 +98,19 @@ Points: 519
 # Comments: 213]]></summary>
         <author>
             <name>bobsmooth</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DeepSeek V4—almost on the frontier]]></title>
+        <id>https://news.ycombinator.com/item?id=47977026</id>
+        <link href="https://simonwillison.net/2026/Apr/24/deepseek-v4/"/>
+        <updated>2026-05-01T16:52:43.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://simonwillison.net/2026/Apr/24/deepseek-v4/
+Comments URL: https://news.ycombinator.com/item?id=47977026
+Points: 520
+# Comments: 319]]></summary>
+        <author>
+            <name>indigodaddy</name>
         </author>
     </entry>
     <entry>
@@ -2901,56 +2914,6 @@ Points: 600
 # Comments: 230]]></summary>
         <author>
             <name>andsoitis</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[iNaturalist]]></title>
-        <id>https://news.ycombinator.com/item?id=47629433</id>
-        <link href="https://www.inaturalist.org/"/>
-        <updated>2026-04-03T17:22:20.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.inaturalist.org/
-Comments URL: https://news.ycombinator.com/item?id=47629433
-Points: 501
-# Comments: 120]]></summary>
-        <author>
-            <name>bookofjoe</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenClaw privilege escalation vulnerability]]></title>
-        <id>https://news.ycombinator.com/item?id=47628608</id>
-        <link href="https://nvd.nist.gov/vuln/detail/CVE-2026-33579"/>
-        <updated>2026-04-03T16:21:32.000Z</updated>
-        <summary type="html"><![CDATA[https://old.reddit.com/r/sysadmin/comments/1sbdw29/if_youre_...
-https://web.archive.org/web/20260403174514/https://old.reddi...
-Comments URL: https://news.ycombinator.com/item?id=47628608
-Points: 500
-# Comments: 244]]></summary>
-        <author>
-            <name>kykeonaut</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[F-15E jet shot down over Iran]]></title>
-        <id>https://news.ycombinator.com/item?id=47628326</id>
-        <link href="https://www.theguardian.com/world/2026/apr/03/us-fighter-jet-confirmed-shot-down-over-iran"/>
-        <updated>2026-04-03T16:00:44.000Z</updated>
-        <summary type="html"><![CDATA[https://theaviationist.com/2026/04/03/iran-f-15e-debris/
-Comments URL: https://news.ycombinator.com/item?id=47628326
-Points: 501
-# Comments: 1120]]></summary>
-        <author>
-            <name>tjwds</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Pulse: is GitHub still best for AI-native development?]]></title>
-        <id>69cfc72da95ab10001e47e0c</id>
-        <link href="https://blog.pragmaticengineer.com/the-pulse-is-github-still-best-for-ai-native-development/"/>
-        <updated>2026-04-03T15:03:38.000Z</updated>
-        <summary type="html"><![CDATA[Availability has dropped to one nine (~90% – !!), partly due to not being able to handle increased traffic from AI coding agents. There’s also no CEO and an apparent lack of direction.]]></summary>
-        <author>
-            <name>Gergely Orosz</name>
         </author>
     </entry>
 </feed>
