@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-05-03T11:41:49.116Z</updated>
+    <updated>2026-05-03T13:10:37.367Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[You Quit Too Early Because of This]]></title>
+        <id>https://www.youtube.com/shorts/Pi3qHV1_sUA</id>
+        <link href="https://www.youtube.com/shorts/Pi3qHV1_sUA"/>
+        <updated>2026-05-03T12:30:25.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Think School</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[VS Code inserting 'Co-Authored-by Copilot' into commits regardless of usage]]></title>
         <id>https://news.ycombinator.com/item?id=47989883</id>
@@ -17,6 +27,19 @@ Points: 532
 # Comments: 236]]></summary>
         <author>
             <name>indrora</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dav2d]]></title>
+        <id>https://news.ycombinator.com/item?id=47988504</id>
+        <link href="https://code.videolan.org/videolan/dav2d"/>
+        <updated>2026-05-02T17:32:29.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://code.videolan.org/videolan/dav2d
+Comments URL: https://news.ycombinator.com/item?id=47988504
+Points: 518
+# Comments: 146]]></summary>
+        <author>
+            <name>dabinat</name>
         </author>
     </entry>
     <entry>
@@ -2857,19 +2880,6 @@ Points: 500
 # Comments: 304]]></summary>
         <author>
             <name>carabiner</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The FAA’s flight restriction for drones is an attempt to criminalize filming ICE]]></title>
-        <id>https://news.ycombinator.com/item?id=47633947</id>
-        <link href="https://www.eff.org/deeplinks/2026/04/faas-temporary-flight-restriction-drones-blatant-attempt-criminalize-filming-ice"/>
-        <updated>2026-04-03T23:56:32.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.eff.org/deeplinks/2026/04/faas-temporary-flight-restriction-drones-blatant-attempt-criminalize-filming-ice
-Comments URL: https://news.ycombinator.com/item?id=47633947
-Points: 502
-# Comments: 165]]></summary>
-        <author>
-            <name>detaro</name>
         </author>
     </entry>
 </feed>
