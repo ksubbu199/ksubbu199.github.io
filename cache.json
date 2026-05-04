@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=48009697",
+          "author": "rdeboo",
+          "description": "Article URL: https://www.ecopv-eu.com/en/blog-en/replaceable-smartphone-batteries-2027-eu-regulation/\nComments URL: https://news.ycombinator.com/item?id=48009697\nPoints: 537\n# Comments: 470",
+          "link": "https://www.ecopv-eu.com/en/blog-en/replaceable-smartphone-batteries-2027-eu-regulation/",
+          "publishedOn": "2026-05-04T15:10:41.000Z",
+          "wordCount": null,
+          "title": "Removable batteries in smartphones will be mandatory in the EU starting in 2027",
+          "imageUrl": null
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=48007438",
           "author": "thitran",
           "description": "Article URL: https://thienantran.com/talking-to-35-strangers-at-the-gym/\nComments URL: https://news.ycombinator.com/item?id=48007438\nPoints: 525\n# Comments: 246",
@@ -24,6 +34,16 @@
           "wordCount": 356,
           "title": "Trademark violation: Fake Notepad++ for Mac",
           "imageUrl": null
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=48006402",
+          "author": "n1b0m",
+          "description": "Article URL: https://www.bbc.co.uk/news/articles/cn0p8yled1do\nComments URL: https://news.ycombinator.com/item?id=48006402\nPoints: 552\n# Comments: 486",
+          "link": "https://www.bbc.co.uk/news/articles/cn0p8yled1do",
+          "publishedOn": "2026-05-04T09:31:12.000Z",
+          "wordCount": 5273,
+          "title": "GameStop makes $55.5B takeover offer for eBay",
+          "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0759/live/6f3aea00-474a-11f1-b55d-0f258dce1735.jpg"
         },
         {
           "id": "https://news.ycombinator.com/item?id=48002777",
@@ -1935,6 +1955,16 @@
       "feedUrl": "https://jvns.ca/atom.xml",
       "siteUrl": "https://jvns.ca/atom.xml",
       "articles": [
+        {
+          "id": "https://jvns.ca/blog/2026/05/04/css-colour-palettes/",
+          "author": null,
+          "description": "A while back I decided to stop using Tailwind for new projects and to just write\nvanilla CSS instead.\nBut one thing I missed about Tailwind was the colour palette (here as CSS).\nIf I wanted a light blue I could just use blue-100 and if I didn’t like it\nmaybe try blue-200 or blue-50. I’m not very good with colours so it makes\na big difference to me to have a reasonable colour palette that somebody who is\nbetter at colour than me has thought about.\nBut I’m also a little tired of those Tailwind colours, so I asked on Mastodon\ntoday what other colour palettes were out there. And then a friend said they\nwanted links to those colour palettes, so here’s a blog post so my friend can\nsee them, and all the rest of you too :)\nmy favourites\nThe ones I liked the most were:\nuchū (css file, FAQ)\nflexoki (css file)\nreasonable colours, which seems to have a focus on accessibility (css file)\nmore colour palettes\nweb awesome\nradix\nUS web design systems\nmaterial design\ncolourscheme generators\nFolks also linked to a bunch of colour palette generators\nharmonizer\ntints.dev\ncoolors\ncolorpalette.pro\nI’ve always found these types of generators too hard to use but maybe one day I\nwill get better enough at colour that I’m able to use a colour palette generator\nsuccessfully so I’ll leave those links there anyway.\nand more colour tools:\ncolorhexa has some info about colorblindness\noklch\nGenerative colors with CSS gives an example of\nhow to use the oklch CSS function to dynamically generate colors.",
+          "link": "https://jvns.ca/blog/2026/05/04/css-colour-palettes/",
+          "publishedOn": "2026-05-04T00:00:00.000Z",
+          "wordCount": 478,
+          "title": "Links to CSS colour palettes",
+          "imageUrl": null
+        },
         {
           "id": "https://jvns.ca/blog/2026/05/02/testing-vue-components-in-the-browser/",
           "author": null,
