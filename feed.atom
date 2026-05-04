@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-05-04T02:51:57.498Z</updated>
+    <updated>2026-05-04T06:13:52.448Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -50,6 +50,19 @@ Points: 532
 # Comments: 236]]></summary>
         <author>
             <name>indrora</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NetHack 5.0.0]]></title>
+        <id>https://news.ycombinator.com/item?id=47988776</id>
+        <link href="https://nethack.org/v500/release.html"/>
+        <updated>2026-05-02T18:03:42.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://nethack.org/v500/release.html
+Comments URL: https://news.ycombinator.com/item?id=47988776
+Points: 503
+# Comments: 168]]></summary>
+        <author>
+            <name>rsaarelm</name>
         </author>
     </entry>
     <entry>
@@ -2842,32 +2855,6 @@ Points: 556
 # Comments: 271]]></summary>
         <author>
             <name>gpi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: A game where you build a GPU]]></title>
-        <id>https://news.ycombinator.com/item?id=47640728</id>
-        <link href="https://jaso1024.com/mvidia/"/>
-        <updated>2026-04-04T16:45:54.000Z</updated>
-        <summary type="html"><![CDATA[Thought the resources for GPU arch were lacking, so here we are
-Comments URL: https://news.ycombinator.com/item?id=47640728
-Points: 518
-# Comments: 137]]></summary>
-        <author>
-            <name>Jaso1024</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Apple approves driver that lets Nvidia eGPUs work with Arm Macs]]></title>
-        <id>https://news.ycombinator.com/item?id=47640380</id>
-        <link href="https://twitter.com/__tinygrad__/status/2039213719155310736"/>
-        <updated>2026-04-04T16:16:10.000Z</updated>
-        <summary type="html"><![CDATA[https://xcancel.com/__tinygrad__/status/2039213719155310736
-Comments URL: https://news.ycombinator.com/item?id=47640380
-Points: 501
-# Comments: 229]]></summary>
-        <author>
-            <name>naves</name>
         </author>
     </entry>
 </feed>
