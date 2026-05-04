@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=48002136",
+          "author": "alattaran",
+          "description": "Article URL: https://github.com/aattaran/deepclaude\nComments URL: https://news.ycombinator.com/item?id=48002136\nPoints: 500\n# Comments: 200",
+          "link": "https://github.com/aattaran/deepclaude",
+          "publishedOn": "2026-05-03T22:13:20.000Z",
+          "wordCount": 6549,
+          "title": "DeepClaude – Claude Code agent loop with DeepSeek V4 Pro",
+          "imageUrl": "https://opengraph.githubassets.com/492c2860f27ab2e41c9f3d37ed225df42520230c95cf6db7c283d57e0938082a/aattaran/deepclaude"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=47997418",
           "author": "teleforce",
           "description": "Article URL: https://www.drive.com.au/news/mercedes-benz-commits-to-bringing-back-phycial-buttons/\nComments URL: https://news.ycombinator.com/item?id=47997418\nPoints: 519\n# Comments: 310",
@@ -1844,16 +1854,6 @@
           "wordCount": 4010,
           "title": "Caveman: Why use many token when few token do trick",
           "imageUrl": "https://opengraph.githubassets.com/68fd388002a1c7ae8b41d915865b01558c31a0ff356f1e3cdf9c5b46dc3caec8/JuliusBrussee/caveman"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=47644406",
-          "author": "DyslexicAtheist",
-          "description": "Article URL: https://bmi.usercontent.opencode.de/eudi-wallet/wallet-development-documentation-public/latest/architecture-concept/06-mobile-devices/02-mdvm/\nComments URL: https://news.ycombinator.com/item?id=47644406\nPoints: 515\n# Comments: 493",
-          "link": "https://bmi.usercontent.opencode.de/eudi-wallet/wallet-development-documentation-public/latest/architecture-concept/06-mobile-devices/02-mdvm/",
-          "publishedOn": "2026-04-04T22:57:44.000Z",
-          "wordCount": 3739,
-          "title": "German implementation of eIDAS will require an Apple/Google account to function",
-          "imageUrl": null
         }
       ]
     },

@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-05-04T09:19:47.322Z</updated>
+    <updated>2026-05-04T11:49:06.334Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[DeepClaude – Claude Code agent loop with DeepSeek V4 Pro]]></title>
+        <id>https://news.ycombinator.com/item?id=48002136</id>
+        <link href="https://github.com/aattaran/deepclaude"/>
+        <updated>2026-05-03T22:13:20.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://github.com/aattaran/deepclaude
+Comments URL: https://news.ycombinator.com/item?id=48002136
+Points: 500
+# Comments: 200]]></summary>
+        <author>
+            <name>alattaran</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Are You Selling Like This Flight Attendant?]]></title>
         <id>https://www.youtube.com/shorts/0eSnp_WGioo</id>
@@ -2829,19 +2842,6 @@ Points: 529
 # Comments: 270]]></summary>
         <author>
             <name>tosh</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[German implementation of eIDAS will require an Apple/Google account to function]]></title>
-        <id>https://news.ycombinator.com/item?id=47644406</id>
-        <link href="https://bmi.usercontent.opencode.de/eudi-wallet/wallet-development-documentation-public/latest/architecture-concept/06-mobile-devices/02-mdvm/"/>
-        <updated>2026-04-04T22:57:44.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://bmi.usercontent.opencode.de/eudi-wallet/wallet-development-documentation-public/latest/architecture-concept/06-mobile-devices/02-mdvm/
-Comments URL: https://news.ycombinator.com/item?id=47644406
-Points: 515
-# Comments: 493]]></summary>
-        <author>
-            <name>DyslexicAtheist</name>
         </author>
     </entry>
 </feed>
