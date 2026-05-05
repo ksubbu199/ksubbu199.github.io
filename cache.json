@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=48019219",
+          "author": "john-doe",
+          "description": "Article URL: https://www.thatprivacyguy.com/blog/chrome-silent-nano-install/\nComments URL: https://news.ycombinator.com/item?id=48019219\nPoints: 800\n# Comments: 565",
+          "link": "https://www.thatprivacyguy.com/blog/chrome-silent-nano-install/",
+          "publishedOn": "2026-05-05T07:34:55.000Z",
+          "wordCount": 5969,
+          "title": "Google Chrome silently installs a 4 GB AI model on your device without consent",
+          "imageUrl": "https://www.thatprivacyguy.com/blog/assets/2026-05-04-001.png"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=48016880",
           "author": "SergeAx",
           "description": "Article URL: https://github.com/oven-sh/bun/commit/46d3bc29f270fa881dd5730ef1549e88407701a5\nComments URL: https://news.ycombinator.com/item?id=48016880\nPoints: 526\n# Comments: 372",
@@ -23,6 +33,16 @@
           "publishedOn": "2026-05-04T18:22:42.000Z",
           "wordCount": 924,
           "title": "Microsoft Edge stores all passwords in memory in clear text, even when unused",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=48011184",
+          "author": "remote-dev",
+          "description": "Article URL: https://wwj.dev/posts/i-am-worried-about-bun/\nComments URL: https://news.ycombinator.com/item?id=48011184\nPoints: 505\n# Comments: 336",
+          "link": "https://wwj.dev/posts/i-am-worried-about-bun/",
+          "publishedOn": "2026-05-04T16:45:00.000Z",
+          "wordCount": 1279,
+          "title": "I am worried about Bun",
           "imageUrl": null
         },
         {
@@ -1864,16 +1884,6 @@
           "wordCount": null,
           "title": "France pulls last gold held in US for $15B gain",
           "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=47655408",
-          "author": "armanified",
-          "description": "Built a ~9M param LLM from scratch to understand how they actually work. Vanilla transformer, 60K synthetic conversations, ~130 lines of PyTorch. Trains in 5 min on a free Colab T4. The fish thinks the meaning of life is food.\nFork it and swap the personality for your own character.\nComments URL: https://news.ycombinator.com/item?id=47655408\nPoints: 506\n# Comments: 50",
-          "link": "https://github.com/arman-bd/guppylm",
-          "publishedOn": "2026-04-06T00:20:12.000Z",
-          "wordCount": 3707,
-          "title": "Show HN: I built a tiny LLM to demystify how language models work",
-          "imageUrl": "https://opengraph.githubassets.com/58ba9ae8bedc98c58163fa34b3bec97e62e82faf5a49e5b0b233b5fbc2a479ce/arman-bd/guppylm"
         }
       ]
     },
@@ -1942,6 +1952,26 @@
       "feedUrl": "https://martinfowler.com/feed.atom",
       "siteUrl": "https://martinfowler.com/feed.atom",
       "articles": [
+        {
+          "id": "https://martinfowler.com/fragments/2026-05-05.html",
+          "author": null,
+          "description": "Over the last couple of months Rahul Garg published a series of posts here on how to reduce the friction in AI-assisted programming. To make it easier to put these ideas into practice he’s now built an open-source framework to operationalize these patterns.\nAI coding assistants jump straight to code, silently make design decisions, forget constraints mid-conversation, and produce output nobody reviewed against real engineering standards. Lattice fixes this with composable skills in three tiers – atoms, molecules, refiners – that embed battle-tested engineering disciplines (Clean Architecture, DDD, design-first methodology, secure coding, and more), plus a living context layer (the .lattice/ folder) that accumulates your project’s standards, decisions, and review insights. The system gets s…",
+          "link": "https://martinfowler.com/fragments/2026-05-05.html",
+          "publishedOn": "2026-05-05T16:23:00.000Z",
+          "wordCount": 1682,
+          "title": "Fragments: May  5",
+          "imageUrl": "https://martinfowler.com/logo-sq.png"
+        },
+        {
+          "id": "https://martinfowler.com/bliki/MythicalManMonth.html",
+          "author": null,
+          "description": "In the early 1960s, Fred Brooks managed the development of IBM's System/360\n  computer systems. After it was done he penned his thoughts in the book The\n  Mythical Man-Month which became one of the most influential books on software\n  development after its publication in 1975. Reading it in 2026, we'll find some\n  of it outdated, but it also retains many lessons that are still relevant today.\nThe book contains Brooks's law: “Adding manpower to a late software project\n  makes it later.” The issue here is communication, as the number of people\n  grows, the number of communication paths between those people grows\n  exponentially. Unless these paths are skillfully designed, then work quickly\n  falls apart.\nPerhaps my most enduring lesson from this book is the importance of\n  conceptual integrity\nI will contend that conceptual integrity is the most important\n    consideration in system design. It is better to have a system omit certain\n    anomalous features and improvements, but to reflect one set of design ideas,\n    than to have one that contains many good but independent and uncoordinated\n    ideas.\nHe argues that conceptual integrity comes from both simplicity and\n  straightforwardness - the latter being how easily we can compose elements.\n  This point of view has been a strong influence upon my career, the pursuit\n  of conceptual integrity underpins much of my work.\nThe anniversary edition of this book is the one to get, because it also\n  includes his even-more influential 1986 essay “No Silver Bullet”.",
+          "link": "https://martinfowler.com/bliki/MythicalManMonth.html",
+          "publishedOn": "2026-05-05T16:18:00.000Z",
+          "wordCount": 337,
+          "title": "Bliki: Mythical Man Month",
+          "imageUrl": "https://martinfowler.com/logo-sq.png"
+        },
         {
           "id": "https://martinfowler.com/fragments/2026-04-29.html",
           "author": null,
