@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-05-05T05:43:21.298Z</updated>
+    <updated>2026-05-05T08:09:10.843Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Edge stores all passwords in memory in clear text, even when unused]]></title>
+        <id>https://news.ycombinator.com/item?id=48012735</id>
+        <link href="https://twitter.com/L1v1ng0ffTh3L4N/status/2051308329880719730"/>
+        <updated>2026-05-04T18:22:42.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://twitter.com/L1v1ng0ffTh3L4N/status/2051308329880719730
+Comments URL: https://news.ycombinator.com/item?id=48012735
+Points: 518
+# Comments: 183]]></summary>
+        <author>
+            <name>cft</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Removable batteries in smartphones will be mandatory in the EU starting in 2027]]></title>
         <id>https://news.ycombinator.com/item?id=48009697</id>
@@ -172,6 +185,19 @@ Points: 519
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>Think School</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenAI’s o1 correctly diagnosed 67% of ER patients vs. 50-55% by triage doctors]]></title>
+        <id>https://news.ycombinator.com/item?id=47991981</id>
+        <link href="https://www.theguardian.com/technology/2026/apr/30/ai-outperforms-doctors-in-harvard-trial-of-emergency-triage-diagnoses"/>
+        <updated>2026-05-03T00:30:50.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.theguardian.com/technology/2026/apr/30/ai-outperforms-doctors-in-harvard-trial-of-emergency-triage-diagnoses
+Comments URL: https://news.ycombinator.com/item?id=47991981
+Points: 500
+# Comments: 456]]></summary>
+        <author>
+            <name>donsupreme</name>
         </author>
     </entry>
     <entry>
@@ -2873,32 +2899,6 @@ Points: 506
 # Comments: 50]]></summary>
         <author>
             <name>armanified</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gemma 4 on iPhone]]></title>
-        <id>https://news.ycombinator.com/item?id=47652561</id>
-        <link href="https://apps.apple.com/nl/app/google-ai-edge-gallery/id6749645337"/>
-        <updated>2026-04-05T18:45:53.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://apps.apple.com/nl/app/google-ai-edge-gallery/id6749645337
-Comments URL: https://news.ycombinator.com/item?id=47652561
-Points: 514
-# Comments: 133]]></summary>
-        <author>
-            <name>janandonly</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why Switzerland has 25 Gbit internet and America doesn't]]></title>
-        <id>https://news.ycombinator.com/item?id=47652400</id>
-        <link href="https://sschueller.github.io/posts/the-free-market-lie/"/>
-        <updated>2026-04-05T18:29:47.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://sschueller.github.io/posts/the-free-market-lie/
-Comments URL: https://news.ycombinator.com/item?id=47652400
-Points: 518
-# Comments: 391]]></summary>
-        <author>
-            <name>sschueller</name>
         </author>
     </entry>
 </feed>

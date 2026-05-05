@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=48012735",
+          "author": "cft",
+          "description": "Article URL: https://twitter.com/L1v1ng0ffTh3L4N/status/2051308329880719730\nComments URL: https://news.ycombinator.com/item?id=48012735\nPoints: 518\n# Comments: 183",
+          "link": "https://twitter.com/L1v1ng0ffTh3L4N/status/2051308329880719730",
+          "publishedOn": "2026-05-04T18:22:42.000Z",
+          "wordCount": 924,
+          "title": "Microsoft Edge stores all passwords in memory in clear text, even when unused",
+          "imageUrl": null
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=48009697",
           "author": "rdeboo",
           "description": "Article URL: https://www.ecopv-eu.com/en/blog-en/replaceable-smartphone-batteries-2027-eu-regulation/\nComments URL: https://news.ycombinator.com/item?id=48009697\nPoints: 537\n# Comments: 470",
@@ -84,6 +94,16 @@
           "wordCount": 8588,
           "title": "Mercedes-Benz commits to bringing back physical buttons",
           "imageUrl": "https://media.drive.com.au/obj/tx_q:70,rs:auto:1920:1080:1/driveau/upload/cms/uploads/7959f9e6-3ee0-5431-960e-8fec85c50000"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=47991981",
+          "author": "donsupreme",
+          "description": "Article URL: https://www.theguardian.com/technology/2026/apr/30/ai-outperforms-doctors-in-harvard-trial-of-emergency-triage-diagnoses\nComments URL: https://news.ycombinator.com/item?id=47991981\nPoints: 500\n# Comments: 456",
+          "link": "https://www.theguardian.com/technology/2026/apr/30/ai-outperforms-doctors-in-harvard-trial-of-emergency-triage-diagnoses",
+          "publishedOn": "2026-05-03T00:30:50.000Z",
+          "wordCount": 4845,
+          "title": "OpenAI’s o1 correctly diagnosed 67% of ER patients vs. 50-55% by triage doctors",
+          "imageUrl": "https://i.guim.co.uk/img/media/7f4b1062db43fb053f4d68c08b8e92dd39f49107/0_62_4362_3487/master/4362.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ceb8f56ddb65e715896d86461e95819f"
         },
         {
           "id": "https://news.ycombinator.com/item?id=47989883",
@@ -1844,26 +1864,6 @@
           "wordCount": 3707,
           "title": "Show HN: I built a tiny LLM to demystify how language models work",
           "imageUrl": "https://opengraph.githubassets.com/58ba9ae8bedc98c58163fa34b3bec97e62e82faf5a49e5b0b233b5fbc2a479ce/arman-bd/guppylm"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=47652561",
-          "author": "janandonly",
-          "description": "Article URL: https://apps.apple.com/nl/app/google-ai-edge-gallery/id6749645337\nComments URL: https://news.ycombinator.com/item?id=47652561\nPoints: 514\n# Comments: 133",
-          "link": "https://apps.apple.com/nl/app/google-ai-edge-gallery/id6749645337",
-          "publishedOn": "2026-04-05T18:45:53.000Z",
-          "wordCount": 8804,
-          "title": "Gemma 4 on iPhone",
-          "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a7/c4/20/a7c42022-eedc-887c-36c4-86270e1dcb93/Placeholder.mill/1200x630wa.jpg"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=47652400",
-          "author": "sschueller",
-          "description": "Article URL: https://sschueller.github.io/posts/the-free-market-lie/\nComments URL: https://news.ycombinator.com/item?id=47652400\nPoints: 518\n# Comments: 391",
-          "link": "https://sschueller.github.io/posts/the-free-market-lie/",
-          "publishedOn": "2026-04-05T18:29:47.000Z",
-          "wordCount": 2389,
-          "title": "Why Switzerland has 25 Gbit internet and America doesn't",
-          "imageUrl": "https://sschueller.github.io/posts/the-free-market-lie/title-image.png"
         }
       ]
     },
