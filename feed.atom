@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-05-06T20:21:49.067Z</updated>
+    <updated>2026-05-06T21:57:47.143Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -199,6 +199,19 @@ Points: 526
 # Comments: 372]]></summary>
         <author>
             <name>SergeAx</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How OpenAI delivers low-latency voice AI at scale]]></title>
+        <id>https://news.ycombinator.com/item?id=48013919</id>
+        <link href="https://openai.com/index/delivering-low-latency-voice-ai-at-scale/"/>
+        <updated>2026-05-04T19:42:47.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://openai.com/index/delivering-low-latency-voice-ai-at-scale/
+Comments URL: https://news.ycombinator.com/item?id=48013919
+Points: 500
+# Comments: 144]]></summary>
+        <author>
+            <name>Sean-Der</name>
         </author>
     </entry>
     <entry>
