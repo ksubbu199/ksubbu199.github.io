@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-05-06T05:57:55.482Z</updated>
+    <updated>2026-05-06T08:35:43.228Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[DNSSEC disruption affecting .de domains – Resolved]]></title>
+        <id>https://news.ycombinator.com/item?id=48027897</id>
+        <link href="https://status.denic.de/pages/incident/592577eab611ce1e0d00046f/69fa60ef9d12f5057a974f38"/>
+        <updated>2026-05-05T20:16:35.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://status.denic.de/pages/incident/592577eab611ce1e0d00046f/69fa60ef9d12f5057a974f38
+Comments URL: https://news.ycombinator.com/item?id=48027897
+Points: 652
+# Comments: 319]]></summary>
+        <author>
+            <name>warpspin</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[.de TLD offline due to DNSSEC?]]></title>
         <id>https://news.ycombinator.com/item?id=48027897</id>
@@ -2930,29 +2943,6 @@ Points: 535
 # Comments: 422]]></summary>
         <author>
             <name>jdiiufccuskal</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The cult of vibe coding is dogfooding run amok]]></title>
-        <id>https://news.ycombinator.com/item?id=47664912</id>
-        <link href="https://bramcohen.com/p/the-cult-of-vibe-coding-is-insane"/>
-        <updated>2026-04-06T18:31:03.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://bramcohen.com/p/the-cult-of-vibe-coding-is-insane
-Comments URL: https://news.ycombinator.com/item?id=47664912
-Points: 503
-# Comments: 439]]></summary>
-        <author>
-            <name>drob518</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How insurance Companies Trick You!]]></title>
-        <id>https://www.youtube.com/shorts/Noydu6tZ7CA</id>
-        <link href="https://www.youtube.com/shorts/Noydu6tZ7CA"/>
-        <updated>2026-04-06T17:56:08.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Think School</name>
         </author>
     </entry>
 </feed>
