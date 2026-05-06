@@ -6,6 +6,36 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=48034587",
+          "author": "cianmm",
+          "description": "Article URL: https://red-squares.cian.lol/\nComments URL: https://news.ycombinator.com/item?id=48034587\nPoints: 700\n# Comments: 153",
+          "link": "https://red-squares.cian.lol/",
+          "publishedOn": "2026-05-06T10:28:40.000Z",
+          "wordCount": 9,
+          "title": "Show HN: Red Squares – GitHub outages as contributions",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=48031684",
+          "author": "rolph",
+          "description": "Article URL: https://blog.cloudflare.com/agents-stripe-projects/\nComments URL: https://news.ycombinator.com/item?id=48031684\nPoints: 525\n# Comments: 300",
+          "link": "https://blog.cloudflare.com/agents-stripe-projects/",
+          "publishedOn": "2026-05-06T03:10:33.000Z",
+          "wordCount": 2245,
+          "title": "Agents can now create Cloudflare accounts, buy domains, and deploy",
+          "imageUrl": "https://cf-assets.www.cloudflare.com/zkvhlag99gkb/1z87ypuPVuagcw4apgVWEz/32925c589f5c49ea212c2b12359c3efc/BLOG-3288-OG.png"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=48031261",
+          "author": "signa11",
+          "description": "Article URL: https://us.starlabs.systems/pages/starfighter\nComments URL: https://news.ycombinator.com/item?id=48031261\nPoints: 547\n# Comments: 290",
+          "link": "https://us.starlabs.systems/pages/starfighter",
+          "publishedOn": "2026-05-06T02:03:44.000Z",
+          "wordCount": 3416,
+          "title": "StarFighter 16-Inch",
+          "imageUrl": "http://us.starlabs.systems/cdn/shop/files/Star_6c731e1d-b2c1-4de1-a872-7081e0b5d878.png?v=1762248375"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=48027897",
           "author": "warpspin",
           "description": "Article URL: https://status.denic.de/pages/incident/592577eab611ce1e0d00046f/69fa60ef9d12f5057a974f38\nComments URL: https://news.ycombinator.com/item?id=48027897\nPoints: 652\n# Comments: 319",
@@ -34,6 +64,16 @@
           "wordCount": 4668,
           "title": "Accelerating Gemma 4: faster inference with multi-token prediction drafters",
           "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Social_Share_Image_7bOA183.width-1300.png"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=48023861",
+          "author": "blenderob",
+          "description": "Article URL: https://susam.net/inverse-laws-of-robotics.html\nComments URL: https://news.ycombinator.com/item?id=48023861\nPoints: 504\n# Comments: 334",
+          "link": "https://susam.net/inverse-laws-of-robotics.html",
+          "publishedOn": "2026-05-05T15:27:18.000Z",
+          "wordCount": 1449,
+          "title": "Three Inverse Laws of AI",
+          "imageUrl": null
         },
         {
           "id": "https://news.ycombinator.com/item?id=48022742",
