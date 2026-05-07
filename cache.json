@@ -186,6 +186,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://news.ycombinator.com/item?id=48006967",
+          "author": "Anon84",
+          "description": "Article URL: https://www.thetypicalset.com/blog/thoughts-on-coding-agents\nComments URL: https://news.ycombinator.com/item?id=48006967\nPoints: 520\n# Comments: 338",
+          "link": "https://www.thetypicalset.com/blog/thoughts-on-coding-agents",
+          "publishedOn": "2026-05-04T10:46:15.000Z",
+          "wordCount": 1889,
+          "title": "The bottleneck was never the code",
+          "imageUrl": "https://thetypicalset.com/static/og-image.png"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=48006445",
           "author": "maxloh",
           "description": "Article URL: https://notepad-plus-plus.org/news/npp-trademark-infringement/\nComments URL: https://news.ycombinator.com/item?id=48006445\nPoints: 514\n# Comments: 224",
@@ -2081,16 +2091,6 @@
           "wordCount": 2806,
           "title": "Feedback Flywheel",
           "imageUrl": "https://martinfowler.com/logo-sq.png"
-        },
-        {
-          "id": "https://martinfowler.com/articles/mechanical-sympathy-principles.html",
-          "author": null,
-          "description": "Modern hardware is remarkably fast, but software often fails to\n      leverage it. Caer Sanders has found it valuable to guide\n      his work with mechanical sympathy - the practice of creating\n      software that is sympathetic to its underlying hardware. He distills this\n      practice into everyday principles: predictable memory access, awareness of\n      cache lines, single-writer, and natural batching.\nmore…",
-          "link": "https://martinfowler.com/articles/mechanical-sympathy-principles.html",
-          "publishedOn": "2026-04-07T13:39:00.000Z",
-          "wordCount": 2109,
-          "title": "Principles of Mechanical Sympathy",
-          "imageUrl": "https://martinfowler.com/articles/mechanical-sympathy-principles/card.png"
         }
       ]
     },
