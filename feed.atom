@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-05-07T16:49:41.929Z</updated>
+    <updated>2026-05-07T18:23:38.618Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The Pulse: AI load breaks GitHub – why not other vendors?]]></title>
+        <id>69fccc856562a30001f428bb</id>
+        <link href="https://blog.pragmaticengineer.com/the-pulse-ai-load-breaks-github/"/>
+        <updated>2026-05-07T17:33:18.000Z</updated>
+        <summary type="html"><![CDATA[GitHub’s leadership blames the 3.5x increase in service load as the cause of degradation – or it might be self-inflicted.]]></summary>
+        <author>
+            <name>Gergely Orosz</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Announcement on 15th May!]]></title>
         <id>https://www.youtube.com/shorts/Z0y5sYO1150</id>
@@ -33,6 +43,19 @@
         <updated>2026-05-07T03:30:04.000Z</updated>
         <author>
             <name>Think School</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SQLite Is a Library of Congress Recommended Storage Format]]></title>
+        <id>https://news.ycombinator.com/item?id=48042434</id>
+        <link href="https://sqlite.org/locrsf.html"/>
+        <updated>2026-05-06T21:58:43.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://sqlite.org/locrsf.html
+Comments URL: https://news.ycombinator.com/item?id=48042434
+Points: 545
+# Comments: 165]]></summary>
+        <author>
+            <name>whatisabcdefgh</name>
         </author>
     </entry>
     <entry>

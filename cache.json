@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=48042434",
+          "author": "whatisabcdefgh",
+          "description": "Article URL: https://sqlite.org/locrsf.html\nComments URL: https://news.ycombinator.com/item?id=48042434\nPoints: 545\n# Comments: 165",
+          "link": "https://sqlite.org/locrsf.html",
+          "publishedOn": "2026-05-06T21:58:43.000Z",
+          "wordCount": 496,
+          "title": "SQLite Is a Library of Congress Recommended Storage Format",
+          "imageUrl": null
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=48038001",
           "author": "diebillionaires",
           "description": "Article URL: https://nooneshappy.com/article/appearing-productive-in-the-workplace/\nComments URL: https://news.ycombinator.com/item?id=48038001\nPoints: 559\n# Comments: 220",
@@ -2045,6 +2055,16 @@
       "feedUrl": "https://blog.pragmaticengineer.com/rss/",
       "siteUrl": "https://blog.pragmaticengineer.com/",
       "articles": [
+        {
+          "id": "69fccc856562a30001f428bb",
+          "author": "Gergely Orosz",
+          "description": "GitHub’s leadership blames the 3.5x increase in service load as the cause of degradation – or it might be self-inflicted.",
+          "link": "https://blog.pragmaticengineer.com/the-pulse-ai-load-breaks-github/",
+          "publishedOn": "2026-05-07T17:33:18.000Z",
+          "wordCount": 3072,
+          "title": "The Pulse: AI load breaks GitHub – why not other vendors?",
+          "imageUrl": null
+        },
         {
           "id": "69f36c81ac26b70001aa306d",
           "author": "Gergely Orosz",
