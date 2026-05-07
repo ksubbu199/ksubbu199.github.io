@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-05-07T02:51:42.057Z</updated>
+    <updated>2026-05-07T06:11:10.211Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -30,6 +30,19 @@ Points: 669
 # Comments: 213]]></summary>
         <author>
             <name>haunter</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vibe coding and agentic engineering are getting closer than I'd like]]></title>
+        <id>https://news.ycombinator.com/item?id=48037128</id>
+        <link href="https://simonwillison.net/2026/May/6/vibe-coding-and-agentic-engineering/"/>
+        <updated>2026-05-06T15:06:37.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://simonwillison.net/2026/May/6/vibe-coding-and-agentic-engineering/
+Comments URL: https://news.ycombinator.com/item?id=48037128
+Points: 516
+# Comments: 566]]></summary>
+        <author>
+            <name>e12e</name>
         </author>
     </entry>
     <entry>
@@ -2966,45 +2979,6 @@ Points: 546
 # Comments: 395]]></summary>
         <author>
             <name>be7a</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Project Glasswing: Securing critical software for the AI era]]></title>
-        <id>https://news.ycombinator.com/item?id=47679121</id>
-        <link href="https://www.anthropic.com/glasswing"/>
-        <updated>2026-04-07T18:09:34.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.anthropic.com/glasswing
-Comments URL: https://news.ycombinator.com/item?id=47679121
-Points: 570
-# Comments: 228]]></summary>
-        <author>
-            <name>Ryan5453</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GLM-5.1: Towards Long-Horizon Tasks]]></title>
-        <id>https://news.ycombinator.com/item?id=47677853</id>
-        <link href="https://z.ai/blog/glm-5.1"/>
-        <updated>2026-04-07T16:32:15.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://z.ai/blog/glm-5.1
-Comments URL: https://news.ycombinator.com/item?id=47677853
-Points: 538
-# Comments: 222]]></summary>
-        <author>
-            <name>zixuanlimit</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lunar Flyby]]></title>
-        <id>https://news.ycombinator.com/item?id=47676509</id>
-        <link href="https://www.nasa.gov/gallery/lunar-flyby/"/>
-        <updated>2026-04-07T15:03:18.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.nasa.gov/gallery/lunar-flyby/
-Comments URL: https://news.ycombinator.com/item?id=47676509
-Points: 519
-# Comments: 122]]></summary>
-        <author>
-            <name>kipi</name>
         </author>
     </entry>
 </feed>
