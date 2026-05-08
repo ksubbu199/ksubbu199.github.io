@@ -56,6 +56,16 @@
           "imageUrl": "https://rmoff.net/images/2026/05/IMG_6442.webp"
         },
         {
+          "id": "https://news.ycombinator.com/item?id=48051562",
+          "author": "bsuh",
+          "description": "Article URL: https://bsuh.bearblog.dev/agents-need-control-flow/\nComments URL: https://news.ycombinator.com/item?id=48051562\nPoints: 509\n# Comments: 250",
+          "link": "https://bsuh.bearblog.dev/agents-need-control-flow/",
+          "publishedOn": "2026-05-07T16:43:35.000Z",
+          "wordCount": 1102,
+          "title": "Agents need control flow, not more prompts",
+          "imageUrl": "/static/og-image.png"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=48050964",
           "author": "newsoftheday",
           "description": "Article URL: https://old.reddit.com/r/chrome/comments/1t5qayz/chrome_removes_claim_of_ondevice_al_not_sending/\nComments URL: https://news.ycombinator.com/item?id=48050964\nPoints: 514\n# Comments: 196",
@@ -1894,16 +1904,6 @@
           "wordCount": 1541,
           "title": "Starfling: A one-tap endless orbital slingshot game in a single HTML file",
           "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=47697870",
-          "author": "pluc",
-          "description": "Article URL: https://obdev.at/products/littlesnitch-linux/index.html\nComments URL: https://news.ycombinator.com/item?id=47697870\nPoints: 539\n# Comments: 168",
-          "link": "https://obdev.at/products/littlesnitch-linux/index.html",
-          "publishedOn": "2026-04-09T00:26:08.000Z",
-          "wordCount": 1128,
-          "title": "LittleSnitch for Linux",
-          "imageUrl": "https://obdev.at/Images/social-graphs/opengraph-obdev.jpg"
         }
       ]
     },
@@ -2092,6 +2092,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKZozRVHRYsYHGEyNKuhhdA",
       "siteUrl": "https://www.youtube.com/channel/UCKZozRVHRYsYHGEyNKuhhdA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/shorts/oHQU4f3k2bc",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/oHQU4f3k2bc",
+          "publishedOn": "2026-05-08T13:40:58.000Z",
+          "wordCount": 2202,
+          "title": "Guess what's coming?",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/shorts/Z0y5sYO1150",
           "author": null,

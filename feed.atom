@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-05-08T11:15:06.776Z</updated>
+    <updated>2026-05-08T13:47:45.848Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Guess what's coming?]]></title>
+        <id>https://www.youtube.com/shorts/oHQU4f3k2bc</id>
+        <link href="https://www.youtube.com/shorts/oHQU4f3k2bc"/>
+        <updated>2026-05-08T13:40:58.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Think School</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Maybe you shouldn't install new software for a bit]]></title>
         <id>https://news.ycombinator.com/item?id=48056227</id>
@@ -80,6 +90,19 @@ Points: 540
         <summary type="html"><![CDATA[GitHub’s leadership blames the 3.5x increase in service load as the cause of degradation – or it might be self-inflicted.]]></summary>
         <author>
             <name>Gergely Orosz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Agents need control flow, not more prompts]]></title>
+        <id>https://news.ycombinator.com/item?id=48051562</id>
+        <link href="https://bsuh.bearblog.dev/agents-need-control-flow/"/>
+        <updated>2026-05-07T16:43:35.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://bsuh.bearblog.dev/agents-need-control-flow/
+Comments URL: https://news.ycombinator.com/item?id=48051562
+Points: 509
+# Comments: 250]]></summary>
+        <author>
+            <name>bsuh</name>
         </author>
     </entry>
     <entry>
@@ -2957,19 +2980,6 @@ Points: 507
 # Comments: 128]]></summary>
         <author>
             <name>iceberger2001</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LittleSnitch for Linux]]></title>
-        <id>https://news.ycombinator.com/item?id=47697870</id>
-        <link href="https://obdev.at/products/littlesnitch-linux/index.html"/>
-        <updated>2026-04-09T00:26:08.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://obdev.at/products/littlesnitch-linux/index.html
-Comments URL: https://news.ycombinator.com/item?id=47697870
-Points: 539
-# Comments: 168]]></summary>
-        <author>
-            <name>pluc</name>
         </author>
     </entry>
 </feed>
