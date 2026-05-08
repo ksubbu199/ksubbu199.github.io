@@ -6,6 +6,36 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=48053623",
+          "author": "flipped",
+          "description": "Article URL: https://www.openwall.com/lists/oss-security/2026/05/07/8\nComments URL: https://news.ycombinator.com/item?id=48053623\nPoints: 522\n# Comments: 218",
+          "link": "https://www.openwall.com/lists/oss-security/2026/05/07/8",
+          "publishedOn": "2026-05-07T19:21:32.000Z",
+          "wordCount": 9495,
+          "title": "Dirtyfrag: Universal Linux LPE",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=48053203",
+          "author": "thm",
+          "description": "Article URL: https://rmoff.net/2026/05/06/ai-slop-is-killing-online-communities/\nComments URL: https://news.ycombinator.com/item?id=48053203\nPoints: 540\n# Comments: 486",
+          "link": "https://rmoff.net/2026/05/06/ai-slop-is-killing-online-communities/",
+          "publishedOn": "2026-05-07T18:46:25.000Z",
+          "wordCount": 2198,
+          "title": "AI slop is killing online communities",
+          "imageUrl": "https://rmoff.net/images/2026/05/IMG_6442.webp"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=48050964",
+          "author": "newsoftheday",
+          "description": "Article URL: https://old.reddit.com/r/chrome/comments/1t5qayz/chrome_removes_claim_of_ondevice_al_not_sending/\nComments URL: https://news.ycombinator.com/item?id=48050964\nPoints: 514\n# Comments: 196",
+          "link": "https://old.reddit.com/r/chrome/comments/1t5qayz/chrome_removes_claim_of_ondevice_al_not_sending/",
+          "publishedOn": "2026-05-07T15:56:33.000Z",
+          "wordCount": null,
+          "title": "Chrome removes claim of On-device Al not sending data to Google Servers",
+          "imageUrl": null
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=48049653",
           "author": "speckx",
           "description": "Article URL: https://www.not-ship.com/burning-man-moop/\nComments URL: https://news.ycombinator.com/item?id=48049653\nPoints: 546\n# Comments: 289",
@@ -26,6 +56,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://news.ycombinator.com/item?id=48040269",
+          "author": "jeromechoo",
+          "description": "Article URL: https://www.stvn.sh/writing/programming-still-sucks-fqffhyp\nComments URL: https://news.ycombinator.com/item?id=48040269\nPoints: 531\n# Comments: 282",
+          "link": "https://www.stvn.sh/writing/programming-still-sucks-fqffhyp",
+          "publishedOn": "2026-05-06T19:06:41.000Z",
+          "wordCount": 4293,
+          "title": "Programming Still Sucks",
+          "imageUrl": null
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=48038001",
           "author": "diebillionaires",
           "description": "Article URL: https://nooneshappy.com/article/appearing-productive-in-the-workplace/\nComments URL: https://news.ycombinator.com/item?id=48038001\nPoints: 559\n# Comments: 220",
@@ -34,6 +74,16 @@
           "wordCount": 2272,
           "title": "Appearing productive in the workplace",
           "imageUrl": null
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=48037986",
+          "author": "meetpateltech",
+          "description": "Article URL: https://www.anthropic.com/news/higher-limits-spacex\nComments URL: https://news.ycombinator.com/item?id=48037986\nPoints: 501\n# Comments: 472",
+          "link": "https://www.anthropic.com/news/higher-limits-spacex",
+          "publishedOn": "2026-05-06T16:17:33.000Z",
+          "wordCount": 1564,
+          "title": "Higher usage limits for Claude and a compute deal with SpaceX",
+          "imageUrl": "https://www.anthropic.com/api/opengraph-illustration?name=Node%20Globe&backgroundColor=fig"
         },
         {
           "id": "https://news.ycombinator.com/item?id=48037555",
@@ -1824,16 +1874,6 @@
           "wordCount": 1128,
           "title": "LittleSnitch for Linux",
           "imageUrl": "https://obdev.at/Images/social-graphs/opengraph-obdev.jpg"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=47691730",
-          "author": "blkhp19",
-          "description": "Article URL: https://bryankeller.github.io/2026/04/08/porting-mac-os-x-nintendo-wii.html\nComments URL: https://news.ycombinator.com/item?id=47691730\nPoints: 628\n# Comments: 134",
-          "link": "https://bryankeller.github.io/2026/04/08/porting-mac-os-x-nintendo-wii.html",
-          "publishedOn": "2026-04-08T15:40:00.000Z",
-          "wordCount": 6242,
-          "title": "I ported Mac OS X to the Nintendo Wii",
-          "imageUrl": null
         }
       ]
     },
@@ -2257,16 +2297,6 @@
           "publishedOn": "2026-04-15T16:31:03.000Z",
           "wordCount": null,
           "title": "My new book: Root Cause - Stories from Two Decades of Backend Bugs",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/shorts/hFf9XYR2v1I",
-          "author": null,
-          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-          "link": "https://www.youtube.com/shorts/hFf9XYR2v1I",
-          "publishedOn": "2026-04-08T17:01:02.000Z",
-          "wordCount": 2164,
-          "title": "Someone is always getting blocked",
           "imageUrl": null
         }
       ]

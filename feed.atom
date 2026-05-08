@@ -2,10 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-05-08T02:54:25.525Z</updated>
+    <updated>2026-05-08T05:30:29.088Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Dirtyfrag: Universal Linux LPE]]></title>
+        <id>https://news.ycombinator.com/item?id=48053623</id>
+        <link href="https://www.openwall.com/lists/oss-security/2026/05/07/8"/>
+        <updated>2026-05-07T19:21:32.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.openwall.com/lists/oss-security/2026/05/07/8
+Comments URL: https://news.ycombinator.com/item?id=48053623
+Points: 522
+# Comments: 218]]></summary>
+        <author>
+            <name>flipped</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI slop is killing online communities]]></title>
+        <id>https://news.ycombinator.com/item?id=48053203</id>
+        <link href="https://rmoff.net/2026/05/06/ai-slop-is-killing-online-communities/"/>
+        <updated>2026-05-07T18:46:25.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://rmoff.net/2026/05/06/ai-slop-is-killing-online-communities/
+Comments URL: https://news.ycombinator.com/item?id=48053203
+Points: 540
+# Comments: 486]]></summary>
+        <author>
+            <name>thm</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Pulse: AI load breaks GitHub – why not other vendors?]]></title>
         <id>69fccc856562a30001f428bb</id>
@@ -14,6 +40,19 @@
         <summary type="html"><![CDATA[GitHub’s leadership blames the 3.5x increase in service load as the cause of degradation – or it might be self-inflicted.]]></summary>
         <author>
             <name>Gergely Orosz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chrome removes claim of On-device Al not sending data to Google Servers]]></title>
+        <id>https://news.ycombinator.com/item?id=48050964</id>
+        <link href="https://old.reddit.com/r/chrome/comments/1t5qayz/chrome_removes_claim_of_ondevice_al_not_sending/"/>
+        <updated>2026-05-07T15:56:33.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://old.reddit.com/r/chrome/comments/1t5qayz/chrome_removes_claim_of_ondevice_al_not_sending/
+Comments URL: https://news.ycombinator.com/item?id=48050964
+Points: 514
+# Comments: 196]]></summary>
+        <author>
+            <name>newsoftheday</name>
         </author>
     </entry>
     <entry>
@@ -72,6 +111,19 @@ Points: 545
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Programming Still Sucks]]></title>
+        <id>https://news.ycombinator.com/item?id=48040269</id>
+        <link href="https://www.stvn.sh/writing/programming-still-sucks-fqffhyp"/>
+        <updated>2026-05-06T19:06:41.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.stvn.sh/writing/programming-still-sucks-fqffhyp
+Comments URL: https://news.ycombinator.com/item?id=48040269
+Points: 531
+# Comments: 282]]></summary>
+        <author>
+            <name>jeromechoo</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Appearing productive in the workplace]]></title>
         <id>https://news.ycombinator.com/item?id=48038001</id>
         <link href="https://nooneshappy.com/article/appearing-productive-in-the-workplace/"/>
@@ -82,6 +134,19 @@ Points: 559
 # Comments: 220]]></summary>
         <author>
             <name>diebillionaires</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Higher usage limits for Claude and a compute deal with SpaceX]]></title>
+        <id>https://news.ycombinator.com/item?id=48037986</id>
+        <link href="https://www.anthropic.com/news/higher-limits-spacex"/>
+        <updated>2026-05-06T16:17:33.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.anthropic.com/news/higher-limits-spacex
+Comments URL: https://news.ycombinator.com/item?id=48037986
+Points: 501
+# Comments: 472]]></summary>
+        <author>
+            <name>meetpateltech</name>
         </author>
     </entry>
     <entry>
@@ -2865,29 +2930,6 @@ Points: 539
 # Comments: 168]]></summary>
         <author>
             <name>pluc</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Someone is always getting blocked]]></title>
-        <id>https://www.youtube.com/shorts/hFf9XYR2v1I</id>
-        <link href="https://www.youtube.com/shorts/hFf9XYR2v1I"/>
-        <updated>2026-04-08T17:01:02.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Hussein Nasser</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I ported Mac OS X to the Nintendo Wii]]></title>
-        <id>https://news.ycombinator.com/item?id=47691730</id>
-        <link href="https://bryankeller.github.io/2026/04/08/porting-mac-os-x-nintendo-wii.html"/>
-        <updated>2026-04-08T15:40:00.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://bryankeller.github.io/2026/04/08/porting-mac-os-x-nintendo-wii.html
-Comments URL: https://news.ycombinator.com/item?id=47691730
-Points: 628
-# Comments: 134]]></summary>
-        <author>
-            <name>blkhp19</name>
         </author>
     </entry>
 </feed>
