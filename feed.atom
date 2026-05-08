@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-05-08T13:47:45.848Z</updated>
+    <updated>2026-05-08T15:21:34.083Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -223,6 +223,26 @@ Points: 669
 # Comments: 213]]></summary>
         <author>
             <name>haunter</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rumors of my death are slightly exaggerated]]></title>
+        <id>https://news.ycombinator.com/item?id=48037336</id>
+        <link href="https://news.ycombinator.com/item?id=48037336"/>
+        <updated>2026-05-06T15:24:51.000Z</updated>
+        <summary type="html"><![CDATA[AI hallucinations are getting ambitious.
+A couple people recently emailed, asking whether the Klein bottle business was still operating after my death.
+“Huh?” I thought. “I ain’t dead yet.”
+After some digging, I discovered the source: an AI-generated review of The Cuckoo’s Egg circulating on Facebook. Alongside the usual synthetic praise and fabricated details, it confidently announced that I had died in May 2024.
+Apparently AI has now advanced to the point where it can kill people off before they notice.
+Mark Twain once wrote, “Reports of my death are greatly exaggerated.” I never expected to field-test the quote personally.
+source: https://www.facebook.com/story.php?story_fbid=989939243570691&id=100076638743004
+Cheers,   -Cliff
+Comments URL: https://news.ycombinator.com/item?id=48037336
+Points: 694
+# Comments: 96]]></summary>
+        <author>
+            <name>CliffStoll</name>
         </author>
     </entry>
     <entry>
@@ -2967,19 +2987,6 @@ Points: 521
 # Comments: 361]]></summary>
         <author>
             <name>playfultones</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Starfling: A one-tap endless orbital slingshot game in a single HTML file]]></title>
-        <id>https://news.ycombinator.com/item?id=47698455</id>
-        <link href="https://playstarfling.com/"/>
-        <updated>2026-04-09T01:52:47.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://playstarfling.com
-Comments URL: https://news.ycombinator.com/item?id=47698455
-Points: 507
-# Comments: 128]]></summary>
-        <author>
-            <name>iceberger2001</name>
         </author>
     </entry>
 </feed>
