@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=48067119",
+          "author": "anonymousiam",
+          "description": "Related: Google Cloud fraud defense, the next evolution of reCAPTCHA - https://news.ycombinator.com/item?id=48039362\nalso: Google Cloud Fraud Defence is just WEI repackaged - https://news.ycombinator.com/item?id=48063199\nComments URL: https://news.ycombinator.com/item?id=48067119\nPoints: 668\n# Comments: 237",
+          "link": "https://reclaimthenet.org/google-broke-recaptcha-for-de-googled-android-users",
+          "publishedOn": "2026-05-08T18:45:58.000Z",
+          "wordCount": 3050,
+          "title": "Google broke reCAPTCHA for de-googled Android users",
+          "imageUrl": "https://reclaimthenet.org/wp-content/uploads/2026/05/BAPiBKSUNDTJ-scaled.jpg"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=48063199",
           "author": "ribtoks",
           "description": "Article URL: https://privatecaptcha.com/blog/google-cloud-fraud-defence-wei/\nComments URL: https://news.ycombinator.com/item?id=48063199\nPoints: 572\n# Comments: 275",
@@ -1924,16 +1934,6 @@
           "wordCount": null,
           "title": "How NASA built Artemis II’s fault-tolerant computer",
           "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=47703419",
-          "author": "giuliomagnifico",
-          "description": "Article URL: https://www.axios.com/2026/04/09/meta-social-media-addiction-ads\nComments URL: https://news.ycombinator.com/item?id=47703419\nPoints: 513\n# Comments: 208",
-          "link": "https://www.axios.com/2026/04/09/meta-social-media-addiction-ads",
-          "publishedOn": "2026-04-09T13:23:50.000Z",
-          "wordCount": null,
-          "title": "Meta removes ads for social media addiction litigation",
-          "imageUrl": null
         }
       ]
     },
@@ -2060,16 +2060,6 @@
           "publishedOn": "2026-04-11T13:01:00.000Z",
           "wordCount": 140,
           "title": "Alan Turing play in Cambridge MA",
-          "imageUrl": "https://martinfowler.com/logo-sq.png"
-        },
-        {
-          "id": "https://martinfowler.com/fragments/2026-04-09.html",
-          "author": null,
-          "description": "I mostly link to written material here, but I’ve recently listened to two excellent podcasts that I can recommend.\nAnyone who regularly reads these fragments knows that I’m a big fan of Simon Willison, his (also very fragmentary) posts have earned a regular spot in my RSS reader. But the problem with fragments, however valuable, is that they don’t provide a cohesive overview of the situation. So his podcast with Lenny Rachitsky is a welcome survey of that state of world as seen through a discerning pair of eyeballs. He paints a good picture of how programming has changed for him since the “November inflection point”, important patterns for this work, and his concern about the security bomb nestled inside the beast.\nMy other great listening was on a regular podcast that I listen to, as Gerg…",
-          "link": "https://martinfowler.com/fragments/2026-04-09.html",
-          "publishedOn": "2026-04-09T13:23:00.000Z",
-          "wordCount": 1449,
-          "title": "Fragments: April  9",
           "imageUrl": "https://martinfowler.com/logo-sq.png"
         }
       ]

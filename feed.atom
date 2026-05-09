@@ -2,10 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-05-08T23:56:00.928Z</updated>
+    <updated>2026-05-09T02:49:06.185Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Google broke reCAPTCHA for de-googled Android users]]></title>
+        <id>https://news.ycombinator.com/item?id=48067119</id>
+        <link href="https://reclaimthenet.org/google-broke-recaptcha-for-de-googled-android-users"/>
+        <updated>2026-05-08T18:45:58.000Z</updated>
+        <summary type="html"><![CDATA[Related: Google Cloud fraud defense, the next evolution of reCAPTCHA - https://news.ycombinator.com/item?id=48039362
+also: Google Cloud Fraud Defence is just WEI repackaged - https://news.ycombinator.com/item?id=48063199
+Comments URL: https://news.ycombinator.com/item?id=48067119
+Points: 668
+# Comments: 237]]></summary>
+        <author>
+            <name>anonymousiam</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Google Cloud Fraud Defence is just WEI repackaged]]></title>
         <id>https://news.ycombinator.com/item?id=48063199</id>
@@ -2991,31 +3005,6 @@ Points: 524
 # Comments: 199]]></summary>
         <author>
             <name>speckx</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meta removes ads for social media addiction litigation]]></title>
-        <id>https://news.ycombinator.com/item?id=47703419</id>
-        <link href="https://www.axios.com/2026/04/09/meta-social-media-addiction-ads"/>
-        <updated>2026-04-09T13:23:50.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.axios.com/2026/04/09/meta-social-media-addiction-ads
-Comments URL: https://news.ycombinator.com/item?id=47703419
-Points: 513
-# Comments: 208]]></summary>
-        <author>
-            <name>giuliomagnifico</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fragments: April  9]]></title>
-        <id>https://martinfowler.com/fragments/2026-04-09.html</id>
-        <link href="https://martinfowler.com/fragments/2026-04-09.html"/>
-        <updated>2026-04-09T13:23:00.000Z</updated>
-        <summary type="html"><![CDATA[I mostly link to written material here, but I’ve recently listened to two excellent podcasts that I can recommend.
-Anyone who regularly reads these fragments knows that I’m a big fan of Simon Willison, his (also very fragmentary) posts have earned a regular spot in my RSS reader. But the problem with fragments, however valuable, is that they don’t provide a cohesive overview of the situation. So his podcast with Lenny Rachitsky is a welcome survey of that state of world as seen through a discerning pair of eyeballs. He paints a good picture of how programming has changed for him since the “November inflection point”, important patterns for this work, and his concern about the security bomb nestled inside the beast.
-My other great listening was on a regular podcast that I listen to, as Gerg…]]></summary>
-        <author>
-            <name>Martin Fowler</name>
         </author>
     </entry>
 </feed>
