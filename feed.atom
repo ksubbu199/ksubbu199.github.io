@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-05-09T22:43:49.343Z</updated>
+    <updated>2026-05-09T23:50:42.420Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Internet Archive Switzerland]]></title>
+        <id>https://news.ycombinator.com/item?id=48074265</id>
+        <link href="https://blog.archive.org/2026/05/06/internet-archive-switzerland-expanding-a-global-mission-to-preserve-knowledge/"/>
+        <updated>2026-05-09T12:00:30.000Z</updated>
+        <summary type="html"><![CDATA[https://internetarchive.ch/
+Comments URL: https://news.ycombinator.com/item?id=48074265
+Points: 510
+# Comments: 74]]></summary>
+        <author>
+            <name>hggh</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[A recent experience with ChatGPT 5.5 Pro]]></title>
         <id>https://news.ycombinator.com/item?id=48071262</id>
@@ -2967,19 +2980,6 @@ Points: 512
 # Comments: 639]]></summary>
         <author>
             <name>Teever</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FBI used iPhone notification data to retrieve deleted Signal messages]]></title>
-        <id>https://news.ycombinator.com/item?id=47716490</id>
-        <link href="https://9to5mac.com/2026/04/09/fbi-used-iphone-notification-data-to-retrieve-deleted-signal-messages/"/>
-        <updated>2026-04-10T11:29:04.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://9to5mac.com/2026/04/09/fbi-used-iphone-notification-data-to-retrieve-deleted-signal-messages/
-Comments URL: https://news.ycombinator.com/item?id=47716490
-Points: 516
-# Comments: 264]]></summary>
-        <author>
-            <name>01-_-</name>
         </author>
     </entry>
 </feed>
