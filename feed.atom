@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-05-09T02:49:06.185Z</updated>
+    <updated>2026-05-09T05:49:10.062Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -67,6 +67,19 @@ Points: 745
 # Comments: 644]]></summary>
         <author>
             <name>surprisetalk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[David Attenborough's 100th Birthday]]></title>
+        <id>https://news.ycombinator.com/item?id=48061884</id>
+        <link href="https://www.bbc.com/news/articles/cp3pww9g0p5o"/>
+        <updated>2026-05-08T12:03:26.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.bbc.com/news/articles/cp3pww9g0p5o
+Comments URL: https://news.ycombinator.com/item?id=48061884
+Points: 540
+# Comments: 103]]></summary>
+        <author>
+            <name>defrost</name>
         </author>
     </entry>
     <entry>
@@ -2979,32 +2992,6 @@ Points: 525
 # Comments: 241]]></summary>
         <author>
             <name>PaulHoule</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EFF is leaving X]]></title>
-        <id>https://news.ycombinator.com/item?id=47706268</id>
-        <link href="https://www.eff.org/deeplinks/2026/04/eff-leaving-x"/>
-        <updated>2026-04-09T17:08:04.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.eff.org/deeplinks/2026/04/eff-leaving-x
-Comments URL: https://news.ycombinator.com/item?id=47706268
-Points: 533
-# Comments: 484]]></summary>
-        <author>
-            <name>gregsadetsky</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How NASA built Artemis II’s fault-tolerant computer]]></title>
-        <id>https://news.ycombinator.com/item?id=47704804</id>
-        <link href="https://cacm.acm.org/news/how-nasa-built-artemis-iis-fault-tolerant-computer/"/>
-        <updated>2026-04-09T15:12:40.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://cacm.acm.org/news/how-nasa-built-artemis-iis-fault-tolerant-computer/
-Comments URL: https://news.ycombinator.com/item?id=47704804
-Points: 524
-# Comments: 199]]></summary>
-        <author>
-            <name>speckx</name>
         </author>
     </entry>
 </feed>
