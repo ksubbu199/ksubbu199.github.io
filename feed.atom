@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-05-10T19:03:27.593Z</updated>
+    <updated>2026-05-10T20:48:46.449Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -56,6 +56,19 @@ Points: 537
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[I returned to AWS and was reminded why I left]]></title>
+        <id>https://news.ycombinator.com/item?id=48073201</id>
+        <link href="http://fourlightyears.blogspot.com/2026/05/i-returned-to-aws-and-was-reminded-hard.html"/>
+        <updated>2026-05-09T08:37:41.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: http://fourlightyears.blogspot.com/2026/05/i-returned-to-aws-and-was-reminded-hard.html
+Comments URL: https://news.ycombinator.com/item?id=48073201
+Points: 545
+# Comments: 416]]></summary>
+        <author>
+            <name>andrewstuart</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[EU Parliamentary Research Service calls VPNs "a loophole that needs closing"]]></title>
         <id>https://news.ycombinator.com/item?id=48072190</id>
         <link href="https://cyberinsider.com/eu-calls-vpns-a-loophole-that-needs-closing-in-age-verification-push/"/>
@@ -66,6 +79,20 @@ Points: 534
 # Comments: 359]]></summary>
         <author>
             <name>muse900</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Using Claude Code: The unreasonable effectiveness of HTML]]></title>
+        <id>https://news.ycombinator.com/item?id=48071940</id>
+        <link href="https://twitter.com/trq212/status/2052809885763747935"/>
+        <updated>2026-05-09T04:53:52.000Z</updated>
+        <summary type="html"><![CDATA[Examples: https://thariqs.github.io/html-effectiveness/
+Related: https://simonwillison.net/2026/May/8/unreasonable-effectiven...
+Comments URL: https://news.ycombinator.com/item?id=48071940
+Points: 500
+# Comments: 270]]></summary>
+        <author>
+            <name>pretext</name>
         </author>
     </entry>
     <entry>
@@ -2925,19 +2952,6 @@ Points: 567
         <summary type="html"><![CDATA[Last night I saw Central Square Theater’s excellent production of Breaking the Code. It’s about Alan Turing, who made a monumental contribution to both my profession and the fate of free democracies. Well worth seeing if you’re in the Boston area this month.]]></summary>
         <author>
             <name>Martin Fowler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[France's government is ditching Windows for Linux, says US tech a strategic risk]]></title>
-        <id>https://news.ycombinator.com/item?id=47728653</id>
-        <link href="https://www.xda-developers.com/frances-government-ditching-windows-for-linux/"/>
-        <updated>2026-04-11T08:25:14.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.xda-developers.com/frances-government-ditching-windows-for-linux/
-Comments URL: https://news.ycombinator.com/item?id=47728653
-Points: 500
-# Comments: 295]]></summary>
-        <author>
-            <name>pabs3</name>
         </author>
     </entry>
 </feed>
