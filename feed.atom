@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-05-10T22:48:33.168Z</updated>
+    <updated>2026-05-10T23:52:46.333Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -285,6 +285,19 @@ Points: 540
         <summary type="html"><![CDATA[GitHub’s leadership blames the 3.5x increase in service load as the cause of degradation – or it might be self-inflicted.]]></summary>
         <author>
             <name>Gergely Orosz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenAI’s WebRTC problem]]></title>
+        <id>https://news.ycombinator.com/item?id=48051951</id>
+        <link href="https://moq.dev/blog/webrtc-is-the-problem/"/>
+        <updated>2026-05-07T17:11:59.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://moq.dev/blog/webrtc-is-the-problem/
+Comments URL: https://news.ycombinator.com/item?id=48051951
+Points: 500
+# Comments: 146]]></summary>
+        <author>
+            <name>atgctg</name>
         </author>
     </entry>
     <entry>
