@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-05-10T06:13:01.714Z</updated>
+    <updated>2026-05-10T08:53:45.005Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -17,6 +17,33 @@ Points: 510
 # Comments: 74]]></summary>
         <author>
             <name>hggh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bun's experimental Rust rewrite hits 99.8% test compatibility on Linux x64 glibc]]></title>
+        <id>https://news.ycombinator.com/item?id=48073680</id>
+        <link href="https://twitter.com/jarredsumner/status/2053047748191232310"/>
+        <updated>2026-05-09T10:12:55.000Z</updated>
+        <summary type="html"><![CDATA[https://xunroll.com/thread/2053047748191232310
+Recent and related: Zig → Rust porting guide - https://news.ycombinator.com/item?id=48016880 - May 2026 (540 comments)
+Comments URL: https://news.ycombinator.com/item?id=48073680
+Points: 537
+# Comments: 503]]></summary>
+        <author>
+            <name>heldrida</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EU Parliamentary Research Service calls VPNs "a loophole that needs closing"]]></title>
+        <id>https://news.ycombinator.com/item?id=48072190</id>
+        <link href="https://cyberinsider.com/eu-calls-vpns-a-loophole-that-needs-closing-in-age-verification-push/"/>
+        <updated>2026-05-09T05:52:12.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://cyberinsider.com/eu-calls-vpns-a-loophole-that-needs-closing-in-age-verification-push/
+Comments URL: https://news.ycombinator.com/item?id=48072190
+Points: 534
+# Comments: 359]]></summary>
+        <author>
+            <name>muse900</name>
         </author>
     </entry>
     <entry>
@@ -2928,19 +2955,6 @@ Points: 508
 # Comments: 67]]></summary>
         <author>
             <name>RohanAdwankar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI assistance when contributing to the Linux kernel]]></title>
-        <id>https://news.ycombinator.com/item?id=47721953</id>
-        <link href="https://github.com/torvalds/linux/blob/master/Documentation/process/coding-assistants.rst"/>
-        <updated>2026-04-10T18:35:21.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://github.com/torvalds/linux/blob/master/Documentation/process/coding-assistants.rst
-Comments URL: https://news.ycombinator.com/item?id=47721953
-Points: 500
-# Comments: 381]]></summary>
-        <author>
-            <name>hmokiguess</name>
         </author>
     </entry>
 </feed>
