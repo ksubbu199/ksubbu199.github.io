@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-05-10T02:55:43.385Z</updated>
+    <updated>2026-05-10T06:13:01.714Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -107,6 +107,19 @@ Points: 540
 # Comments: 103]]></summary>
         <author>
             <name>defrost</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[An Introduction to Meshtastic]]></title>
+        <id>https://news.ycombinator.com/item?id=48061566</id>
+        <link href="https://meshtastic.org/docs/introduction/"/>
+        <updated>2026-05-08T11:22:11.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://meshtastic.org/docs/introduction/
+Comments URL: https://news.ycombinator.com/item?id=48061566
+Points: 502
+# Comments: 184]]></summary>
+        <author>
+            <name>ColinWright</name>
         </author>
     </entry>
     <entry>
@@ -2928,58 +2941,6 @@ Points: 500
 # Comments: 381]]></summary>
         <author>
             <name>hmokiguess</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WireGuard makes new Windows release following Microsoft signing resolution]]></title>
-        <id>https://news.ycombinator.com/item?id=47719942</id>
-        <link href="https://lists.zx2c4.com/pipermail/wireguard/2026-April/009561.html"/>
-        <updated>2026-04-10T15:49:52.000Z</updated>
-        <summary type="html"><![CDATA[Recent and related: Microsoft terminated the account VeraCrypt used to sign Windows drivers - https://news.ycombinator.com/item?id=47686549
-Comments URL: https://news.ycombinator.com/item?id=47719942
-Points: 502
-# Comments: 147]]></summary>
-        <author>
-            <name>zx2c4</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[1D Chess]]></title>
-        <id>https://news.ycombinator.com/item?id=47719740</id>
-        <link href="https://rowan441.github.io/1dchess/chess.html"/>
-        <updated>2026-04-10T15:37:28.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://rowan441.github.io/1dchess/chess.html
-Comments URL: https://news.ycombinator.com/item?id=47719740
-Points: 567
-# Comments: 107]]></summary>
-        <author>
-            <name>burnt-resistor</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[You can't trust macOS Privacy and Security settings]]></title>
-        <id>https://news.ycombinator.com/item?id=47719602</id>
-        <link href="https://eclecticlight.co/2026/04/10/why-you-cant-trust-privacy-security/"/>
-        <updated>2026-04-10T15:28:24.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://eclecticlight.co/2026/04/10/why-you-cant-trust-privacy-security/
-Comments URL: https://news.ycombinator.com/item?id=47719602
-Points: 501
-# Comments: 167]]></summary>
-        <author>
-            <name>zdw</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[France to ditch Windows for Linux to reduce reliance on US tech]]></title>
-        <id>https://news.ycombinator.com/item?id=47719486</id>
-        <link href="https://techcrunch.com/2026/04/10/france-to-ditch-windows-for-linux-to-reduce-reliance-on-us-tech/"/>
-        <updated>2026-04-10T15:20:48.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://techcrunch.com/2026/04/10/france-to-ditch-windows-for-linux-to-reduce-reliance-on-us-tech/
-Comments URL: https://news.ycombinator.com/item?id=47719486
-Points: 512
-# Comments: 639]]></summary>
-        <author>
-            <name>Teever</name>
         </author>
     </entry>
 </feed>

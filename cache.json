@@ -76,6 +76,16 @@
           "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/4ee8/live/01ccbf70-4ace-11f1-a909-a5874e7743fb.jpg"
         },
         {
+          "id": "https://news.ycombinator.com/item?id=48061566",
+          "author": "ColinWright",
+          "description": "Article URL: https://meshtastic.org/docs/introduction/\nComments URL: https://news.ycombinator.com/item?id=48061566\nPoints: 502\n# Comments: 184",
+          "link": "https://meshtastic.org/docs/introduction/",
+          "publishedOn": "2026-05-08T11:22:11.000Z",
+          "wordCount": 425,
+          "title": "An Introduction to Meshtastic",
+          "imageUrl": null
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=48056227",
           "author": "psxuaw",
           "description": "Article URL: https://xeiaso.net/blog/2026/abstain-from-install/\nComments URL: https://news.ycombinator.com/item?id=48056227\nPoints: 504\n# Comments: 260",
@@ -1874,46 +1884,6 @@
           "wordCount": 1471,
           "title": "AI assistance when contributing to the Linux kernel",
           "imageUrl": "https://opengraph.githubassets.com/513724a4b660ce6f07acfddd66e3278c8184d39a84aff94c3045569ea99c220d/torvalds/linux"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=47719942",
-          "author": "zx2c4",
-          "description": "Recent and related: Microsoft terminated the account VeraCrypt used to sign Windows drivers - https://news.ycombinator.com/item?id=47686549\nComments URL: https://news.ycombinator.com/item?id=47719942\nPoints: 502\n# Comments: 147",
-          "link": "https://lists.zx2c4.com/pipermail/wireguard/2026-April/009561.html",
-          "publishedOn": "2026-04-10T15:49:52.000Z",
-          "wordCount": 716,
-          "title": "WireGuard makes new Windows release following Microsoft signing resolution",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=47719740",
-          "author": "burnt-resistor",
-          "description": "Article URL: https://rowan441.github.io/1dchess/chess.html\nComments URL: https://news.ycombinator.com/item?id=47719740\nPoints: 567\n# Comments: 107",
-          "link": "https://rowan441.github.io/1dchess/chess.html",
-          "publishedOn": "2026-04-10T15:37:28.000Z",
-          "wordCount": 248,
-          "title": "1D Chess",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=47719602",
-          "author": "zdw",
-          "description": "Article URL: https://eclecticlight.co/2026/04/10/why-you-cant-trust-privacy-security/\nComments URL: https://news.ycombinator.com/item?id=47719602\nPoints: 501\n# Comments: 167",
-          "link": "https://eclecticlight.co/2026/04/10/why-you-cant-trust-privacy-security/",
-          "publishedOn": "2026-04-10T15:28:24.000Z",
-          "wordCount": 5966,
-          "title": "You can't trust macOS Privacy and Security settings",
-          "imageUrl": "https://eclecticlight.co/wp-content/uploads/2026/04/insenticon.jpg"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=47719486",
-          "author": "Teever",
-          "description": "Article URL: https://techcrunch.com/2026/04/10/france-to-ditch-windows-for-linux-to-reduce-reliance-on-us-tech/\nComments URL: https://news.ycombinator.com/item?id=47719486\nPoints: 512\n# Comments: 639",
-          "link": "https://techcrunch.com/2026/04/10/france-to-ditch-windows-for-linux-to-reduce-reliance-on-us-tech/",
-          "publishedOn": "2026-04-10T15:20:48.000Z",
-          "wordCount": 3135,
-          "title": "France to ditch Windows for Linux to reduce reliance on US tech",
-          "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/04/france-flag-2233577438.jpg?resize=1200,873"
         }
       ]
     },
