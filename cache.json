@@ -6,6 +6,26 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=48093100",
+          "author": "orhunp_",
+          "description": "Article URL: https://ratty-term.org/\nComments URL: https://news.ycombinator.com/item?id=48093100\nPoints: 521\n# Comments: 173",
+          "link": "https://ratty-term.org/",
+          "publishedOn": "2026-05-11T10:13:04.000Z",
+          "wordCount": 141,
+          "title": "Ratty – A terminal emulator with inline 3D graphics",
+          "imageUrl": "assets/images/ratty-social-card.png"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=48091737",
+          "author": "TangerineDream",
+          "description": "Article URL: https://daniel.haxx.se/blog/2026/05/11/mythos-finds-a-curl-vulnerability/\nComments URL: https://news.ycombinator.com/item?id=48091737\nPoints: 547\n# Comments: 226",
+          "link": "https://daniel.haxx.se/blog/2026/05/11/mythos-finds-a-curl-vulnerability/",
+          "publishedOn": "2026-05-11T06:39:08.000Z",
+          "wordCount": 3164,
+          "title": "Mythos Finds a Curl Vulnerability",
+          "imageUrl": "https://daniel.haxx.se/blog/wp-content/uploads/2026/05/jinwon-robot.jpg"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=48090029",
           "author": "dropbox_miner",
           "description": "Article URL: https://blog.k10s.dev/im-going-back-to-writing-code-by-hand/\nComments URL: https://news.ycombinator.com/item?id=48090029\nPoints: 645\n# Comments: 347",
@@ -14,6 +34,16 @@
           "wordCount": 4332,
           "title": "I'm going back to writing code by hand",
           "imageUrl": "/static/og-image.png"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=48089091",
+          "author": "shintoist",
+          "description": "Article URL: https://jola.dev/posts/running-local-models-on-m4\nComments URL: https://news.ycombinator.com/item?id=48089091\nPoints: 518\n# Comments: 155",
+          "link": "https://jola.dev/posts/running-local-models-on-m4",
+          "publishedOn": "2026-05-10T23:09:10.000Z",
+          "wordCount": 1580,
+          "title": "Running local models on an M4 with 24GB memory",
+          "imageUrl": "https://jola.dev/images/og-image-2b7872671fc7c11e464dac899d8d3068.png?vsn=d"
         },
         {
           "id": "https://news.ycombinator.com/item?id=48086190",
@@ -1904,26 +1934,6 @@
           "wordCount": 6572,
           "title": "Bring Back Idiomatic Design (2023)",
           "imageUrl": "https://substackcdn.com/image/fetch/$s_!o7Gx!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1d9c4a86-cb01-4f2c-ab0e-1cf2f0d0a2c8_419x304.png"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=47736555",
-          "author": "tradertef",
-          "description": "Article URL: https://stevehanov.ca/blog/how-i-run-multiple-10k-mrr-companies-on-a-20month-tech-stack\nComments URL: https://news.ycombinator.com/item?id=47736555\nPoints: 504\n# Comments: 314",
-          "link": "https://stevehanov.ca/blog/how-i-run-multiple-10k-mrr-companies-on-a-20month-tech-stack",
-          "publishedOn": "2026-04-12T06:00:00.000Z",
-          "wordCount": 3082,
-          "title": "I run multiple $10K MRR companies on a $20/month tech stack",
-          "imageUrl": "https://stevehanov.ca/blog/images/95f16b3dbf861a9156cb2c6d1be39f5e2fcfc1b1f4c5f11ee6f9e182bd4c5f5a.png"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=47736476",
-          "author": "lsdmtme",
-          "description": "Article URL: https://github.com/anthropics/claude-code/issues/46829\nComments URL: https://news.ycombinator.com/item?id=47736476\nPoints: 500\n# Comments: 389",
-          "link": "https://github.com/anthropics/claude-code/issues/46829",
-          "publishedOn": "2026-04-12T05:45:52.000Z",
-          "wordCount": 9248,
-          "title": "Anthropic downgraded cache TTL on March 6th",
-          "imageUrl": "https://opengraph.githubassets.com/0e10559bf66298754108ffb8a43c6fab6df9799d7d336f40fc30da8803c17860/anthropics/claude-code/issues/46829"
         }
       ]
     },
@@ -1938,6 +1948,16 @@
       "feedUrl": "https://blog.boot.dev/index.xml",
       "siteUrl": "https://boot.dev/blog/",
       "articles": [
+        {
+          "id": "https://boot.dev/blog/news/bootdev-beat-2026-05/",
+          "author": null,
+          "description": "April was a polish-heavy month for us here at Boot.dev. We shipped many small improvements to the lesson experience, added Custom Learning Paths, made the Training Grounds easier to navigate, and cleaned up mobile UX annoyances.",
+          "link": "https://boot.dev/blog/news/bootdev-beat-2026-05/",
+          "publishedOn": "2026-05-11T00:00:00.000Z",
+          "wordCount": 812,
+          "title": "The Boot.dev Beat. May 2026",
+          "imageUrl": "https://boot.dev/blog/img/featured/the-bootdev-beat-may-2026.webp"
+        },
         {
           "id": "https://boot.dev/blog/news/nvidia-ceo/",
           "author": null,

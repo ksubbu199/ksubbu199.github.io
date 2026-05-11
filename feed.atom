@@ -2,10 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-05-11T17:24:08.006Z</updated>
+    <updated>2026-05-11T19:46:39.796Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Ratty – A terminal emulator with inline 3D graphics]]></title>
+        <id>https://news.ycombinator.com/item?id=48093100</id>
+        <link href="https://ratty-term.org/"/>
+        <updated>2026-05-11T10:13:04.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://ratty-term.org/
+Comments URL: https://news.ycombinator.com/item?id=48093100
+Points: 521
+# Comments: 173]]></summary>
+        <author>
+            <name>orhunp_</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mythos Finds a Curl Vulnerability]]></title>
+        <id>https://news.ycombinator.com/item?id=48091737</id>
+        <link href="https://daniel.haxx.se/blog/2026/05/11/mythos-finds-a-curl-vulnerability/"/>
+        <updated>2026-05-11T06:39:08.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://daniel.haxx.se/blog/2026/05/11/mythos-finds-a-curl-vulnerability/
+Comments URL: https://news.ycombinator.com/item?id=48091737
+Points: 547
+# Comments: 226]]></summary>
+        <author>
+            <name>TangerineDream</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[I'm going back to writing code by hand]]></title>
         <id>https://news.ycombinator.com/item?id=48090029</id>
@@ -17,6 +43,29 @@ Points: 645
 # Comments: 347]]></summary>
         <author>
             <name>dropbox_miner</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Boot.dev Beat. May 2026]]></title>
+        <id>https://boot.dev/blog/news/bootdev-beat-2026-05/</id>
+        <link href="https://boot.dev/blog/news/bootdev-beat-2026-05/"/>
+        <updated>2026-05-11T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[April was a polish-heavy month for us here at Boot.dev. We shipped many small improvements to the lesson experience, added Custom Learning Paths, made the Training Grounds easier to navigate, and cleaned up mobile UX annoyances.]]></summary>
+        <author>
+            <name>Boot.dev Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Running local models on an M4 with 24GB memory]]></title>
+        <id>https://news.ycombinator.com/item?id=48089091</id>
+        <link href="https://jola.dev/posts/running-local-models-on-m4"/>
+        <updated>2026-05-10T23:09:10.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://jola.dev/posts/running-local-models-on-m4
+Comments URL: https://news.ycombinator.com/item?id=48089091
+Points: 518
+# Comments: 155]]></summary>
+        <author>
+            <name>shintoist</name>
         </author>
     </entry>
     <entry>
@@ -2968,32 +3017,6 @@ Points: 502
 # Comments: 266]]></summary>
         <author>
             <name>phil294</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I run multiple $10K MRR companies on a $20/month tech stack]]></title>
-        <id>https://news.ycombinator.com/item?id=47736555</id>
-        <link href="https://stevehanov.ca/blog/how-i-run-multiple-10k-mrr-companies-on-a-20month-tech-stack"/>
-        <updated>2026-04-12T06:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://stevehanov.ca/blog/how-i-run-multiple-10k-mrr-companies-on-a-20month-tech-stack
-Comments URL: https://news.ycombinator.com/item?id=47736555
-Points: 504
-# Comments: 314]]></summary>
-        <author>
-            <name>tradertef</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Anthropic downgraded cache TTL on March 6th]]></title>
-        <id>https://news.ycombinator.com/item?id=47736476</id>
-        <link href="https://github.com/anthropics/claude-code/issues/46829"/>
-        <updated>2026-04-12T05:45:52.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://github.com/anthropics/claude-code/issues/46829
-Comments URL: https://news.ycombinator.com/item?id=47736476
-Points: 500
-# Comments: 389]]></summary>
-        <author>
-            <name>lsdmtme</name>
         </author>
     </entry>
 </feed>
