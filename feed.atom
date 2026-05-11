@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-05-11T07:40:55.032Z</updated>
+    <updated>2026-05-11T11:20:07.890Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -17,6 +17,19 @@ Points: 561
 # Comments: 192]]></summary>
         <author>
             <name>ChuckMcM</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Incident Report: CVE-2024-YIKES]]></title>
+        <id>https://news.ycombinator.com/item?id=48086082</id>
+        <link href="https://nesbitt.io/2026/02/03/incident-report-cve-2024-yikes.html"/>
+        <updated>2026-05-10T17:43:10.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://nesbitt.io/2026/02/03/incident-report-cve-2024-yikes.html
+Comments URL: https://news.ycombinator.com/item?id=48086082
+Points: 556
+# Comments: 142]]></summary>
+        <author>
+            <name>miniBill</name>
         </author>
     </entry>
     <entry>
