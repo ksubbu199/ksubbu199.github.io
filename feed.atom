@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-05-11T11:20:07.890Z</updated>
+    <updated>2026-05-11T14:50:29.945Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[I'm going back to writing code by hand]]></title>
+        <id>https://news.ycombinator.com/item?id=48090029</id>
+        <link href="https://blog.k10s.dev/im-going-back-to-writing-code-by-hand/"/>
+        <updated>2026-05-11T01:23:51.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://blog.k10s.dev/im-going-back-to-writing-code-by-hand/
+Comments URL: https://news.ycombinator.com/item?id=48090029
+Points: 645
+# Comments: 347]]></summary>
+        <author>
+            <name>dropbox_miner</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hardware Attestation as Monopoly Enabler]]></title>
         <id>https://news.ycombinator.com/item?id=48086190</id>
