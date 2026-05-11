@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-05-10T23:52:46.333Z</updated>
+    <updated>2026-05-11T03:32:26.195Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -20,12 +20,38 @@ Points: 561
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Local AI needs to be the norm]]></title>
+        <id>https://news.ycombinator.com/item?id=48085821</id>
+        <link href="https://unix.foo/posts/local-ai-needs-to-be-norm/"/>
+        <updated>2026-05-10T17:19:28.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://unix.foo/posts/local-ai-needs-to-be-norm/
+Comments URL: https://news.ycombinator.com/item?id=48085821
+Points: 689
+# Comments: 329]]></summary>
+        <author>
+            <name>cylo</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[India's THORIUM SECRET: How We SOLVED a Nuclear Problem NOBODY Could Crack for 70 YEARS | Case Study]]></title>
         <id>https://www.youtube.com/watch?v=mG2xWAaqsRQ</id>
         <link href="https://www.youtube.com/watch?v=mG2xWAaqsRQ"/>
         <updated>2026-05-10T15:27:38.000Z</updated>
         <author>
             <name>Think School</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Louis Rossmann offers to pay legal fees for a threatened OrcaSlicer developer]]></title>
+        <id>https://news.ycombinator.com/item?id=48084432</id>
+        <link href="https://www.tomshardware.com/3d-printing/louis-rossmann-tells-3d-printer-maker-bambu-lab-to-go-bleep-yourself-over-its-lawsuit-against-enthusiast-right-to-repair-advocate-offers-to-pay-the-legal-fees-for-a-threatened-orcaslicer-developer"/>
+        <updated>2026-05-10T14:47:05.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.tomshardware.com/3d-printing/louis-rossmann-tells-3d-printer-maker-bambu-lab-to-go-bleep-yourself-over-its-lawsuit-against-enthusiast-right-to-repair-advocate-offers-to-pay-the-legal-fees-for-a-threatened-orcaslicer-developer
+Comments URL: https://news.ycombinator.com/item?id=48084432
+Points: 500
+# Comments: 270]]></summary>
+        <author>
+            <name>iancmceachern</name>
         </author>
     </entry>
     <entry>
@@ -2968,16 +2994,6 @@ Points: 567
 # Comments: 166]]></summary>
         <author>
             <name>dominicq</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Alan Turing play in Cambridge MA]]></title>
-        <id>https://martinfowler.com/articles/202604-turing.html</id>
-        <link href="https://martinfowler.com/articles/202604-turing.html"/>
-        <updated>2026-04-11T13:01:00.000Z</updated>
-        <summary type="html"><![CDATA[Last night I saw Central Square Theater’s excellent production of Breaking the Code. It’s about Alan Turing, who made a monumental contribution to both my profession and the fate of free democracies. Well worth seeing if you’re in the Boston area this month.]]></summary>
-        <author>
-            <name>Martin Fowler</name>
         </author>
     </entry>
 </feed>
