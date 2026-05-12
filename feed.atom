@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-05-11T23:57:46.898Z</updated>
+    <updated>2026-05-12T03:49:18.780Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Postmortem: TanStack npm supply-chain compromise]]></title>
+        <id>https://news.ycombinator.com/item?id=48100706</id>
+        <link href="https://tanstack.com/blog/npm-supply-chain-compromise-postmortem"/>
+        <updated>2026-05-11T21:08:25.000Z</updated>
+        <summary type="html"><![CDATA[https://github.com/TanStack/router/issues/7383
+Comments URL: https://news.ycombinator.com/item?id=48100706
+Points: 601
+# Comments: 224]]></summary>
+        <author>
+            <name>varunsharma07</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ratty – A terminal emulator with inline 3D graphics]]></title>
         <id>https://news.ycombinator.com/item?id=48093100</id>
@@ -2973,63 +2986,6 @@ Points: 501
 # Comments: 143]]></summary>
         <author>
             <name>_Microft</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Seven countries now generate 100% of their electricity from renewable energy]]></title>
-        <id>https://news.ycombinator.com/item?id=47739313</id>
-        <link href="https://www.the-independent.com/tech/renewable-energy-solar-nepal-bhutan-iceland-b2533699.html"/>
-        <updated>2026-04-12T13:21:39.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.the-independent.com/tech/renewable-energy-solar-nepal-bhutan-iceland-b2533699.html
-Comments URL: https://news.ycombinator.com/item?id=47739313
-Points: 505
-# Comments: 257]]></summary>
-        <author>
-            <name>mpweiher</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pro Max 5x quota exhausted in 1.5 hours despite moderate usage]]></title>
-        <id>https://news.ycombinator.com/item?id=47739260</id>
-        <link href="https://github.com/anthropics/claude-code/issues/45756"/>
-        <updated>2026-04-12T13:15:31.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://github.com/anthropics/claude-code/issues/45756
-Comments URL: https://news.ycombinator.com/item?id=47739260
-Points: 504
-# Comments: 468]]></summary>
-        <author>
-            <name>cmaster11</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tell HN: docker pull fails in spain due to football cloudflare block]]></title>
-        <id>https://news.ycombinator.com/item?id=47738883</id>
-        <link href="https://news.ycombinator.com/item?id=47738883"/>
-        <updated>2026-04-12T12:28:57.000Z</updated>
-        <summary type="html"><![CDATA[I just spent 1h+ debugging why my locally-hosted gitlab runner would fail to create pipelines. The gitlab job output would just display weird TLS errors when trying to pull a docker images. After debugging gitlab and the runner, I realized after a while I could not even run "docker pull " on my machine as root:
-> error pulling image configuration: download failed after attempts=6: tls: failed to verify certificate: x509: certificate is not valid for any names, but wanted to match docker-images-prod.6aa30f8b08e16409b46e0173d6de2f56.r2.cloudflarestorage.com
-First blaming tailscale, dns configuration and all other stuff. Until I just copied that above URL into my browser on my laptop, and received a website banner:
-> El acceso a la presente dirección IP ha sido bloqueado en cumplimiento de lo dispuesto en la Sentencia de 18 de diciembre de 2024, dictada por el Juzgado de lo Mercantil nº 6 de Barcelona en el marco del procedimiento ordinario (Materia mercantil art. 249.1.4)-1005/2024-H instado por la Liga Nacional de Fútbol Profesional y por Telefónica Audiovisual Digital, S.L.U.
-https://www.laliga.com/noticias/nota-informativa-en-relacion-con-el-bloqueo-de-ips-durante-las-ultimas-jornadas-de-laliga-ea-sports-vinculadas-a-las-practicas-ilegales-de-cloudflare
-For those non-spanish speakers: It means there is football match on, and during that time that specific host is blocked. This is just plain madness. I guess that means my gitlab pipelines will not run when football is on. Thank you, Spain.
-Comments URL: https://news.ycombinator.com/item?id=47738883
-Points: 512
-# Comments: 212]]></summary>
-        <author>
-            <name>littlecranky67</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bring Back Idiomatic Design (2023)]]></title>
-        <id>https://news.ycombinator.com/item?id=47738827</id>
-        <link href="https://essays.johnloeber.com/p/4-bring-back-idiomatic-design"/>
-        <updated>2026-04-12T12:21:26.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://essays.johnloeber.com/p/4-bring-back-idiomatic-design
-Comments URL: https://news.ycombinator.com/item?id=47738827
-Points: 502
-# Comments: 266]]></summary>
-        <author>
-            <name>phil294</name>
         </author>
     </entry>
 </feed>

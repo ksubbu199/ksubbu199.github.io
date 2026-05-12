@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=48100706",
+          "author": "varunsharma07",
+          "description": "https://github.com/TanStack/router/issues/7383\nComments URL: https://news.ycombinator.com/item?id=48100706\nPoints: 601\n# Comments: 224",
+          "link": "https://tanstack.com/blog/npm-supply-chain-compromise-postmortem",
+          "publishedOn": "2026-05-11T21:08:25.000Z",
+          "wordCount": 5649,
+          "title": "Postmortem: TanStack npm supply-chain compromise",
+          "imageUrl": "https://tanstack.com/assets/og-C0HGjoLl.png"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=48093100",
           "author": "orhunp_",
           "description": "Article URL: https://ratty-term.org/\nComments URL: https://news.ycombinator.com/item?id=48093100\nPoints: 521\n# Comments: 173",
@@ -1904,46 +1914,6 @@
           "wordCount": 1192,
           "title": "DIY Soft Drinks",
           "imageUrl": "https://blinry.org/diy-soft-drinks/d8cca3de57200bb9.jpg-thumbnail.jpg"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=47739313",
-          "author": "mpweiher",
-          "description": "Article URL: https://www.the-independent.com/tech/renewable-energy-solar-nepal-bhutan-iceland-b2533699.html\nComments URL: https://news.ycombinator.com/item?id=47739313\nPoints: 505\n# Comments: 257",
-          "link": "https://www.the-independent.com/tech/renewable-energy-solar-nepal-bhutan-iceland-b2533699.html",
-          "publishedOn": "2026-04-12T13:21:39.000Z",
-          "wordCount": 3647,
-          "title": "Seven countries now generate 100% of their electricity from renewable energy",
-          "imageUrl": "https://static.the-independent.com/2024/04/16/11/renewable%20energy%20100%20map%20world.png?width=1200&height=800&crop=1200:800"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=47739260",
-          "author": "cmaster11",
-          "description": "Article URL: https://github.com/anthropics/claude-code/issues/45756\nComments URL: https://news.ycombinator.com/item?id=47739260\nPoints: 504\n# Comments: 468",
-          "link": "https://github.com/anthropics/claude-code/issues/45756",
-          "publishedOn": "2026-04-12T13:15:31.000Z",
-          "wordCount": 9652,
-          "title": "Pro Max 5x quota exhausted in 1.5 hours despite moderate usage",
-          "imageUrl": "https://opengraph.githubassets.com/8613e6355d8d14790c02b758285102900e1e03a1928c2766c73f09c593a314c4/anthropics/claude-code/issues/45756"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=47738883",
-          "author": "littlecranky67",
-          "description": "I just spent 1h+ debugging why my locally-hosted gitlab runner would fail to create pipelines. The gitlab job output would just display weird TLS errors when trying to pull a docker images. After debugging gitlab and the runner, I realized after a while I could not even run \"docker pull \" on my machine as root:\n> error pulling image configuration: download failed after attempts=6: tls: failed to verify certificate: x509: certificate is not valid for any names, but wanted to match docker-images-prod.6aa30f8b08e16409b46e0173d6de2f56.r2.cloudflarestorage.com\nFirst blaming tailscale, dns configuration and all other stuff. Until I just copied that above URL into my browser on my laptop, and received a website banner:\n> El acceso a la presente dirección IP ha sido bloqueado en cumplimiento de lo dispuesto en la Sentencia de 18 de diciembre de 2024, dictada por el Juzgado de lo Mercantil nº 6 de Barcelona en el marco del procedimiento ordinario (Materia mercantil art. 249.1.4)-1005/2024-H instado por la Liga Nacional de Fútbol Profesional y por Telefónica Audiovisual Digital, S.L.U.\nhttps://www.laliga.com/noticias/nota-informativa-en-relacion-con-el-bloqueo-de-ips-durante-las-ultimas-jornadas-de-laliga-ea-sports-vinculadas-a-las-practicas-ilegales-de-cloudflare\nFor those non-spanish speakers: It means there is football match on, and during that time that specific host is blocked. This is just plain madness. I guess that means my gitlab pipelines will not run when football is on. Thank you, Spain.\nComments URL: https://news.ycombinator.com/item?id=47738883\nPoints: 512\n# Comments: 212",
-          "link": "https://news.ycombinator.com/item?id=47738883",
-          "publishedOn": "2026-04-12T12:28:57.000Z",
-          "wordCount": 10476,
-          "title": "Tell HN: docker pull fails in spain due to football cloudflare block",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=47738827",
-          "author": "phil294",
-          "description": "Article URL: https://essays.johnloeber.com/p/4-bring-back-idiomatic-design\nComments URL: https://news.ycombinator.com/item?id=47738827\nPoints: 502\n# Comments: 266",
-          "link": "https://essays.johnloeber.com/p/4-bring-back-idiomatic-design",
-          "publishedOn": "2026-04-12T12:21:26.000Z",
-          "wordCount": 6572,
-          "title": "Bring Back Idiomatic Design (2023)",
-          "imageUrl": "https://substackcdn.com/image/fetch/$s_!o7Gx!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1d9c4a86-cb01-4f2c-ab0e-1cf2f0d0a2c8_419x304.png"
         }
       ]
     },
