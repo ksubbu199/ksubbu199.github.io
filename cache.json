@@ -16,6 +16,16 @@
           "imageUrl": "https://tanstack.com/assets/og-C0HGjoLl.png"
         },
         {
+          "id": "https://news.ycombinator.com/item?id=48100500",
+          "author": "AnonGitLabEmpl",
+          "description": "Article URL: https://about.gitlab.com/blog/gitlab-act-2/\nComments URL: https://news.ycombinator.com/item?id=48100500\nPoints: 511\n# Comments: 497",
+          "link": "https://about.gitlab.com/blog/gitlab-act-2/",
+          "publishedOn": "2026-05-11T20:51:57.000Z",
+          "wordCount": 4931,
+          "title": "GitLab announces workforce reduction and end of their CREDIT values",
+          "imageUrl": "https://res.cloudinary.com/about-gitlab-com/image/upload/v1776362275/ozbwn9tk0dditpnfddlz.png"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=48093100",
           "author": "orhunp_",
           "description": "Article URL: https://ratty-term.org/\nComments URL: https://news.ycombinator.com/item?id=48093100\nPoints: 521\n# Comments: 173",
@@ -1884,16 +1894,6 @@
           "wordCount": 842,
           "title": "All elementary functions from a single binary operator",
           "imageUrl": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=47743730",
-          "author": "super256",
-          "description": "Article URL: https://bsky.app/profile/serenityforge.com/post/3mj3r4nbiws2t\nComments URL: https://news.ycombinator.com/item?id=47743730\nPoints: 505\n# Comments: 278",
-          "link": "https://bsky.app/profile/serenityforge.com/post/3mj3r4nbiws2t",
-          "publishedOn": "2026-04-12T19:53:08.000Z",
-          "wordCount": 409,
-          "title": "Google removes \"Doki Doki Literature Club\" from Google Play",
-          "imageUrl": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vnea37icaea6aufss6n4vpo4/bafkreigaipkm5tcheomjrjjiwgwew2cb5o5gougsblcdyez5kmp3wgjtrm"
         }
       ]
     },
@@ -2331,18 +2331,7 @@
       "title": "Ben Hoyt's technical writing",
       "feedUrl": "https://benhoyt.com/writings/rss.xml",
       "siteUrl": "https://benhoyt.com/writings/",
-      "articles": [
-        {
-          "id": "https://benhoyt.com/writings/indecisive-ai-agent/",
-          "author": null,
-          "description": "In which I have some fun with Claude Opus 4.6, a seemingly indecisive AI coding agent.",
-          "link": "https://benhoyt.com/writings/indecisive-ai-agent/",
-          "publishedOn": "2026-04-12T19:55:00.000Z",
-          "wordCount": 2222,
-          "title": "Fun with an indecisive AI coding agent",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "High Scalability",

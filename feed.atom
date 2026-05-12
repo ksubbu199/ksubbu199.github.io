@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-05-12T06:36:49.887Z</updated>
+    <updated>2026-05-12T09:38:58.828Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -17,6 +17,19 @@ Points: 601
 # Comments: 224]]></summary>
         <author>
             <name>varunsharma07</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GitLab announces workforce reduction and end of their CREDIT values]]></title>
+        <id>https://news.ycombinator.com/item?id=48100500</id>
+        <link href="https://about.gitlab.com/blog/gitlab-act-2/"/>
+        <updated>2026-05-11T20:51:57.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://about.gitlab.com/blog/gitlab-act-2/
+Comments URL: https://news.ycombinator.com/item?id=48100500
+Points: 511
+# Comments: 497]]></summary>
+        <author>
+            <name>AnonGitLabEmpl</name>
         </author>
     </entry>
     <entry>
@@ -2931,29 +2944,6 @@ Points: 609
 # Comments: 169]]></summary>
         <author>
             <name>pizza</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fun with an indecisive AI coding agent]]></title>
-        <id>https://benhoyt.com/writings/indecisive-ai-agent/</id>
-        <link href="https://benhoyt.com/writings/indecisive-ai-agent/"/>
-        <updated>2026-04-12T19:55:00.000Z</updated>
-        <summary type="html"><![CDATA[In which I have some fun with Claude Opus 4.6, a seemingly indecisive AI coding agent.]]></summary>
-        <author>
-            <name>Ben Hoyt's technical writing</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google removes "Doki Doki Literature Club" from Google Play]]></title>
-        <id>https://news.ycombinator.com/item?id=47743730</id>
-        <link href="https://bsky.app/profile/serenityforge.com/post/3mj3r4nbiws2t"/>
-        <updated>2026-04-12T19:53:08.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://bsky.app/profile/serenityforge.com/post/3mj3r4nbiws2t
-Comments URL: https://news.ycombinator.com/item?id=47743730
-Points: 505
-# Comments: 278]]></summary>
-        <author>
-            <name>super256</name>
         </author>
     </entry>
 </feed>
