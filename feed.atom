@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-05-12T03:49:18.780Z</updated>
+    <updated>2026-05-12T06:36:49.887Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -2954,38 +2954,6 @@ Points: 505
 # Comments: 278]]></summary>
         <author>
             <name>super256</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: boringBar – a taskbar-style dock replacement for macOS]]></title>
-        <id>https://news.ycombinator.com/item?id=47742200</id>
-        <link href="https://boringbar.app/"/>
-        <updated>2026-04-12T17:25:44.000Z</updated>
-        <summary type="html"><![CDATA[Hi HN!
-I recently switched from a Fedora/GNOME laptop to a MacBook Air. My old setup served me well as a portable workstation, but I’ve started traveling more while working remotely and needed something with similar performance but better battery life. The main thing I missed was a simple taskbar that shows the windows in the current workspace instead of a Dock that mixes everything together.
-I built boringBar so I would not have to use the Dock. It shows only the windows in the current Space, lets you switch Spaces by scrolling on the bar, and adds a desktop switcher so you can jump directly to any Space. You can also hide the system Dock, pin apps, preview windows with thumbnails, and launch apps from a searchable menu (I keep Spotlight disabled because for some reason it uses a lot of system resources on my machine).
-I’ve been dogfooding it for a few months now, and it finally felt polished enough to share.
-It’s for people who like macOS but want window management to feel a bit more like GNOME, Windows, or a traditional taskbar. It’s also for people like me who wanted an easier transition to macOS, especially now that Windows feels increasingly user-hostile.
-I’d love feedback on the UX, bugs, and whether this solves the same Dock/Spaces pain for anyone else.
-P.S. It might also appeal to people who feel nostalgic for the GNOME 2 desktop of yore. I started my Linux journey with it, and boringBar brings back some of that feeling for me.
-Comments URL: https://news.ycombinator.com/item?id=47742200
-Points: 500
-# Comments: 285]]></summary>
-        <author>
-            <name>a-ve</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DIY Soft Drinks]]></title>
-        <id>https://news.ycombinator.com/item?id=47741701</id>
-        <link href="https://blinry.org/diy-soft-drinks/"/>
-        <updated>2026-04-12T16:38:43.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://blinry.org/diy-soft-drinks/
-Comments URL: https://news.ycombinator.com/item?id=47741701
-Points: 501
-# Comments: 143]]></summary>
-        <author>
-            <name>_Microft</name>
         </author>
     </entry>
 </feed>

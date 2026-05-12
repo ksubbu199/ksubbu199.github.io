@@ -1894,26 +1894,6 @@
           "wordCount": 409,
           "title": "Google removes \"Doki Doki Literature Club\" from Google Play",
           "imageUrl": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vnea37icaea6aufss6n4vpo4/bafkreigaipkm5tcheomjrjjiwgwew2cb5o5gougsblcdyez5kmp3wgjtrm"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=47742200",
-          "author": "a-ve",
-          "description": "Hi HN!\nI recently switched from a Fedora/GNOME laptop to a MacBook Air. My old setup served me well as a portable workstation, but I’ve started traveling more while working remotely and needed something with similar performance but better battery life. The main thing I missed was a simple taskbar that shows the windows in the current workspace instead of a Dock that mixes everything together.\nI built boringBar so I would not have to use the Dock. It shows only the windows in the current Space, lets you switch Spaces by scrolling on the bar, and adds a desktop switcher so you can jump directly to any Space. You can also hide the system Dock, pin apps, preview windows with thumbnails, and launch apps from a searchable menu (I keep Spotlight disabled because for some reason it uses a lot of system resources on my machine).\nI’ve been dogfooding it for a few months now, and it finally felt polished enough to share.\nIt’s for people who like macOS but want window management to feel a bit more like GNOME, Windows, or a traditional taskbar. It’s also for people like me who wanted an easier transition to macOS, especially now that Windows feels increasingly user-hostile.\nI’d love feedback on the UX, bugs, and whether this solves the same Dock/Spaces pain for anyone else.\nP.S. It might also appeal to people who feel nostalgic for the GNOME 2 desktop of yore. I started my Linux journey with it, and boringBar brings back some of that feeling for me.\nComments URL: https://news.ycombinator.com/item?id=47742200\nPoints: 500\n# Comments: 285",
-          "link": "https://boringbar.app/",
-          "publishedOn": "2026-04-12T17:25:44.000Z",
-          "wordCount": 1545,
-          "title": "Show HN: boringBar – a taskbar-style dock replacement for macOS",
-          "imageUrl": "https://boringbar.app/images/og-image.jpg"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=47741701",
-          "author": "_Microft",
-          "description": "Article URL: https://blinry.org/diy-soft-drinks/\nComments URL: https://news.ycombinator.com/item?id=47741701\nPoints: 501\n# Comments: 143",
-          "link": "https://blinry.org/diy-soft-drinks/",
-          "publishedOn": "2026-04-12T16:38:43.000Z",
-          "wordCount": 1192,
-          "title": "DIY Soft Drinks",
-          "imageUrl": "https://blinry.org/diy-soft-drinks/d8cca3de57200bb9.jpg-thumbnail.jpg"
         }
       ]
     },
