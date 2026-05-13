@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=48121266",
+          "author": "jorijn",
+          "description": "Article URL: https://jorijn.com/en/blog/leaving-github-for-forgejo/\nComments URL: https://news.ycombinator.com/item?id=48121266\nPoints: 515\n# Comments: 276",
+          "link": "https://jorijn.com/en/blog/leaving-github-for-forgejo/",
+          "publishedOn": "2026-05-13T12:54:00.000Z",
+          "wordCount": 3849,
+          "title": "Leaving GitHub for Forgejo",
+          "imageUrl": "https://jorijn.com/static/images/social-previews/9e36d69f81.png"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=48120629",
           "author": "monokai_nl",
           "description": "Article URL: https://monokai.com/articles/how-i-moved-my-digital-stack-to-europe/\nComments URL: https://news.ycombinator.com/item?id=48120629\nPoints: 514\n# Comments: 353",
@@ -1944,26 +1954,6 @@
           "wordCount": 3069,
           "title": "Rare concert recordings are landing on the Internet Archive",
           "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/04/GettyImages-2244156491-1.jpg?resize=1200,800"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=47763759",
-          "author": "tigerlily",
-          "description": "Article URL: https://steveklabnik.github.io/jujutsu-tutorial/introduction/what-is-jj-and-why-should-i-care.html\nComments URL: https://news.ycombinator.com/item?id=47763759\nPoints: 513\n# Comments: 446",
-          "link": "https://steveklabnik.github.io/jujutsu-tutorial/introduction/what-is-jj-and-why-should-i-care.html",
-          "publishedOn": "2026-04-14T10:33:39.000Z",
-          "wordCount": 721,
-          "title": "jj – the CLI for Jujutsu",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=47762864",
-          "author": "rrreese",
-          "description": "Article URL: https://rareese.com/posts/backblaze/\nComments URL: https://news.ycombinator.com/item?id=47762864\nPoints: 677\n# Comments: 415",
-          "link": "https://rareese.com/posts/backblaze/",
-          "publishedOn": "2026-04-14T08:30:27.000Z",
-          "wordCount": 1209,
-          "title": "Backblaze has stopped backing up OneDrive and Dropbox folders and maybe others",
-          "imageUrl": null
         }
       ]
     },

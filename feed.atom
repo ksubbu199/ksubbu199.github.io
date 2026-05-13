@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-05-13T22:11:53.262Z</updated>
+    <updated>2026-05-13T23:58:57.913Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -14,6 +14,19 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>Think School</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Leaving GitHub for Forgejo]]></title>
+        <id>https://news.ycombinator.com/item?id=48121266</id>
+        <link href="https://jorijn.com/en/blog/leaving-github-for-forgejo/"/>
+        <updated>2026-05-13T12:54:00.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://jorijn.com/en/blog/leaving-github-for-forgejo/
+Comments URL: https://news.ycombinator.com/item?id=48121266
+Points: 515
+# Comments: 276]]></summary>
+        <author>
+            <name>jorijn</name>
         </author>
     </entry>
     <entry>
@@ -3066,32 +3079,6 @@ Perl is a language I used a little, but never loved. However the definitive book
 Brya…]]></summary>
         <author>
             <name>Martin Fowler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[jj – the CLI for Jujutsu]]></title>
-        <id>https://news.ycombinator.com/item?id=47763759</id>
-        <link href="https://steveklabnik.github.io/jujutsu-tutorial/introduction/what-is-jj-and-why-should-i-care.html"/>
-        <updated>2026-04-14T10:33:39.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://steveklabnik.github.io/jujutsu-tutorial/introduction/what-is-jj-and-why-should-i-care.html
-Comments URL: https://news.ycombinator.com/item?id=47763759
-Points: 513
-# Comments: 446]]></summary>
-        <author>
-            <name>tigerlily</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Backblaze has stopped backing up OneDrive and Dropbox folders and maybe others]]></title>
-        <id>https://news.ycombinator.com/item?id=47762864</id>
-        <link href="https://rareese.com/posts/backblaze/"/>
-        <updated>2026-04-14T08:30:27.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://rareese.com/posts/backblaze/
-Comments URL: https://news.ycombinator.com/item?id=47762864
-Points: 677
-# Comments: 415]]></summary>
-        <author>
-            <name>rrreese</name>
         </author>
     </entry>
 </feed>
