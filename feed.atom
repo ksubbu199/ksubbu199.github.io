@@ -2,10 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-05-13T12:03:26.699Z</updated>
+    <updated>2026-05-13T15:42:07.163Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Behind the scenes of something big!!! Announcement on May 15th]]></title>
+        <id>https://www.youtube.com/shorts/ziVS1n7V5Cs</id>
+        <link href="https://www.youtube.com/shorts/ziVS1n7V5Cs"/>
+        <updated>2026-05-13T14:58:18.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Think School</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I Moved My Digital Stack to Europe]]></title>
+        <id>https://news.ycombinator.com/item?id=48120629</id>
+        <link href="https://monokai.com/articles/how-i-moved-my-digital-stack-to-europe/"/>
+        <updated>2026-05-13T11:42:20.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://monokai.com/articles/how-i-moved-my-digital-stack-to-europe/
+Comments URL: https://news.ycombinator.com/item?id=48120629
+Points: 514
+# Comments: 353]]></summary>
+        <author>
+            <name>monokai_nl</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Restore full BambuNetwork support for Bambu Lab printers]]></title>
+        <id>https://news.ycombinator.com/item?id=48115127</id>
+        <link href="https://github.com/FULU-Foundation/OrcaSlicer-bambulab"/>
+        <updated>2026-05-12T21:55:21.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://github.com/FULU-Foundation/OrcaSlicer-bambulab
+Comments URL: https://news.ycombinator.com/item?id=48115127
+Points: 586
+# Comments: 256]]></summary>
+        <author>
+            <name>Murfalo</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Show HN: Needle: We Distilled Gemini Tool Calling into a 26M Model]]></title>
         <id>https://news.ycombinator.com/item?id=48111896</id>
@@ -93,6 +129,19 @@ Points: 831
 more…]]></summary>
         <author>
             <name>Martin Fowler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rendering the Sky, Sunsets, and Planets]]></title>
+        <id>https://news.ycombinator.com/item?id=48107997</id>
+        <link href="https://blog.maximeheckel.com/posts/on-rendering-the-sky-sunsets-and-planets/"/>
+        <updated>2026-05-12T13:26:46.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://blog.maximeheckel.com/posts/on-rendering-the-sky-sunsets-and-planets/
+Comments URL: https://news.ycombinator.com/item?id=48107997
+Points: 512
+# Comments: 40]]></summary>
+        <author>
+            <name>ibobev</name>
         </author>
     </entry>
     <entry>
@@ -246,6 +295,16 @@ Points: 645
 # Comments: 347]]></summary>
         <author>
             <name>dropbox_miner</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The AI Land Grab Looks Familiar]]></title>
+        <id>https://boot.dev/blog/news/ai-land-grab-looks-familiar/</id>
+        <link href="https://boot.dev/blog/news/ai-land-grab-looks-familiar/"/>
+        <updated>2026-05-11T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In May of 2013, Yahoo announced plans to buy Tumblr for 1.1 billion dollars. Yahoo’s CEO, Marissa Mayer, stood in front of the press and said, “We promise not to screw it up”.]]></summary>
+        <author>
+            <name>Boot.dev Blog</name>
         </author>
     </entry>
     <entry>
@@ -3033,32 +3092,6 @@ Points: 677
 # Comments: 415]]></summary>
         <author>
             <name>rrreese</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A new spam policy for “back button hijacking”]]></title>
-        <id>https://news.ycombinator.com/item?id=47760764</id>
-        <link href="https://developers.google.com/search/blog/2026/04/back-button-hijacking"/>
-        <updated>2026-04-14T03:06:27.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://developers.google.com/search/blog/2026/04/back-button-hijacking
-Comments URL: https://news.ycombinator.com/item?id=47760764
-Points: 510
-# Comments: 301]]></summary>
-        <author>
-            <name>zdw</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DaVinci Resolve – Photo]]></title>
-        <id>https://news.ycombinator.com/item?id=47760529</id>
-        <link href="https://www.blackmagicdesign.com/products/davinciresolve/photo"/>
-        <updated>2026-04-14T02:25:15.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.blackmagicdesign.com/products/davinciresolve/photo
-Comments URL: https://news.ycombinator.com/item?id=47760529
-Points: 533
-# Comments: 127]]></summary>
-        <author>
-            <name>thebiblelover7</name>
         </author>
     </entry>
 </feed>

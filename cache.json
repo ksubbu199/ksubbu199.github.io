@@ -6,6 +6,26 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=48120629",
+          "author": "monokai_nl",
+          "description": "Article URL: https://monokai.com/articles/how-i-moved-my-digital-stack-to-europe/\nComments URL: https://news.ycombinator.com/item?id=48120629\nPoints: 514\n# Comments: 353",
+          "link": "https://monokai.com/articles/how-i-moved-my-digital-stack-to-europe/",
+          "publishedOn": "2026-05-13T11:42:20.000Z",
+          "wordCount": 2175,
+          "title": "I Moved My Digital Stack to Europe",
+          "imageUrl": "https://monokai.com/_app/immutable/assets/ybUIHW7NXm96qqZi.jpg"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=48115127",
+          "author": "Murfalo",
+          "description": "Article URL: https://github.com/FULU-Foundation/OrcaSlicer-bambulab\nComments URL: https://news.ycombinator.com/item?id=48115127\nPoints: 586\n# Comments: 256",
+          "link": "https://github.com/FULU-Foundation/OrcaSlicer-bambulab",
+          "publishedOn": "2026-05-12T21:55:21.000Z",
+          "wordCount": 1449,
+          "title": "Restore full BambuNetwork support for Bambu Lab printers",
+          "imageUrl": "https://opengraph.githubassets.com/32e80ef870453a501c65e6b661acdb40811e2feb86df63aa0d3d4be029293fed/FULU-Foundation/OrcaSlicer-bambulab"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=48111896",
           "author": "HenryNdubuaku",
           "description": "Hey HN, Henry here from Cactus. We open-sourced Needle, a 26M parameter function-calling (tool use) model. It runs at 6000 tok/s prefill and 1200 tok/s decode on consumer devices.\nWe were always frustrated by the little effort made towards building agentic models that run on budget phones, so we conducted investigations that led to an observation: agentic experiences are built upon tool calling, and massive models are overkill for it. Tool calling is fundamentally retrieval-and-assembly (match query to tool name, extract argument values, emit JSON), not reasoning. Cross-attention is the right primitive for this, and FFN parameters are wasted at this scale.\nSimple Attention Networks: the entire model is just attention and gating, no MLPs anywhere. Needle is an experimental run for single-sh…",
@@ -44,6 +64,16 @@
           "wordCount": 1037,
           "title": "Bambu Lab is abusing the open source social contract",
           "imageUrl": ""
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=48107997",
+          "author": "ibobev",
+          "description": "Article URL: https://blog.maximeheckel.com/posts/on-rendering-the-sky-sunsets-and-planets/\nComments URL: https://news.ycombinator.com/item?id=48107997\nPoints: 512\n# Comments: 40",
+          "link": "https://blog.maximeheckel.com/posts/on-rendering-the-sky-sunsets-and-planets/",
+          "publishedOn": "2026-05-12T13:26:46.000Z",
+          "wordCount": 22543,
+          "title": "Rendering the Sky, Sunsets, and Planets",
+          "imageUrl": "https://blog.maximeheckel.com/static/og/da33d3c51a51e65e0a533ff85c68891f.png?v1"
         },
         {
           "id": "https://news.ycombinator.com/item?id=48106534",
@@ -1934,26 +1964,6 @@
           "wordCount": 1209,
           "title": "Backblaze has stopped backing up OneDrive and Dropbox folders and maybe others",
           "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=47760764",
-          "author": "zdw",
-          "description": "Article URL: https://developers.google.com/search/blog/2026/04/back-button-hijacking\nComments URL: https://news.ycombinator.com/item?id=47760764\nPoints: 510\n# Comments: 301",
-          "link": "https://developers.google.com/search/blog/2026/04/back-button-hijacking",
-          "publishedOn": "2026-04-14T03:06:27.000Z",
-          "wordCount": 11619,
-          "title": "A new spam policy for “back button hijacking”",
-          "imageUrl": "https://developers.google.com/static/search/blog/images/social-share-blog.png"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=47760529",
-          "author": "thebiblelover7",
-          "description": "Article URL: https://www.blackmagicdesign.com/products/davinciresolve/photo\nComments URL: https://news.ycombinator.com/item?id=47760529\nPoints: 533\n# Comments: 127",
-          "link": "https://www.blackmagicdesign.com/products/davinciresolve/photo",
-          "publishedOn": "2026-04-14T02:25:15.000Z",
-          "wordCount": 3686,
-          "title": "DaVinci Resolve – Photo",
-          "imageUrl": null
         }
       ]
     },
@@ -1968,6 +1978,16 @@
       "feedUrl": "https://blog.boot.dev/index.xml",
       "siteUrl": "https://boot.dev/blog/",
       "articles": [
+        {
+          "id": "https://boot.dev/blog/news/ai-land-grab-looks-familiar/",
+          "author": null,
+          "description": "In May of 2013, Yahoo announced plans to buy Tumblr for 1.1 billion dollars. Yahoo’s CEO, Marissa Mayer, stood in front of the press and said, “We promise not to screw it up”.",
+          "link": "https://boot.dev/blog/news/ai-land-grab-looks-familiar/",
+          "publishedOn": "2026-05-11T00:00:00.000Z",
+          "wordCount": 3952,
+          "title": "The AI Land Grab Looks Familiar",
+          "imageUrl": "https://boot.dev/blog/img/featured/the-ai-land-grab-looks-familiar.webp"
+        },
         {
           "id": "https://boot.dev/blog/news/bootdev-beat-2026-05/",
           "author": null,
@@ -2152,6 +2172,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKZozRVHRYsYHGEyNKuhhdA",
       "siteUrl": "https://www.youtube.com/channel/UCKZozRVHRYsYHGEyNKuhhdA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/shorts/ziVS1n7V5Cs",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/ziVS1n7V5Cs",
+          "publishedOn": "2026-05-13T14:58:18.000Z",
+          "wordCount": 2079,
+          "title": "Behind the scenes of something big!!! Announcement on May 15th",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/shorts/43VtdaQfTEY",
           "author": null,
