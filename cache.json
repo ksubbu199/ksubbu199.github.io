@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=48111896",
+          "author": "HenryNdubuaku",
+          "description": "Hey HN, Henry here from Cactus. We open-sourced Needle, a 26M parameter function-calling (tool use) model. It runs at 6000 tok/s prefill and 1200 tok/s decode on consumer devices.\nWe were always frustrated by the little effort made towards building agentic models that run on budget phones, so we conducted investigations that led to an observation: agentic experiences are built upon tool calling, and massive models are overkill for it. Tool calling is fundamentally retrieval-and-assembly (match query to tool name, extract argument values, emit JSON), not reasoning. Cross-attention is the right primitive for this, and FFN parameters are wasted at this scale.\nSimple Attention Networks: the entire model is just attention and gating, no MLPs anywhere. Needle is an experimental run for single-sh…",
+          "link": "https://github.com/cactus-compute/needle",
+          "publishedOn": "2026-05-12T18:03:11.000Z",
+          "wordCount": 2299,
+          "title": "Show HN: Needle: We Distilled Gemini Tool Calling into a 26M Model",
+          "imageUrl": "https://opengraph.githubassets.com/9d12d2a1165a74d5c4993bfcced7e3daeeeca5960f46a8cb79a5dbed80dc3a74/cactus-compute/needle"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=48111545",
           "author": "tambourine_man",
           "description": "https://www.reddit.com/r/Android/comments/1tb8xls/introducin...\nComments URL: https://news.ycombinator.com/item?id=48111545\nPoints: 720\n# Comments: 1201",
@@ -34,6 +44,16 @@
           "wordCount": 1037,
           "title": "Bambu Lab is abusing the open source social contract",
           "imageUrl": ""
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=48106534",
+          "author": "thm",
+          "description": "Article URL: https://www.cnbc.com/2026/05/12/tiktok-instagram-social-media-addictive-eu-crack-down.html\nComments URL: https://news.ycombinator.com/item?id=48106534\nPoints: 501\n# Comments: 448",
+          "link": "https://www.cnbc.com/2026/05/12/tiktok-instagram-social-media-addictive-eu-crack-down.html",
+          "publishedOn": "2026-05-12T11:00:07.000Z",
+          "wordCount": 14778,
+          "title": "EU to crack down on TikTok, Instagram's 'addictive design' targeting kids",
+          "imageUrl": "https://image.cnbcfm.com/api/v1/image/108305441-1778573499669-gettyimages-2184717838-arriens-notitle241118_nprW7.jpeg?v=1778573506&w=1920&h=1080"
         },
         {
           "id": "https://news.ycombinator.com/item?id=48106024",

@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-05-13T09:44:01.691Z</updated>
+    <updated>2026-05-13T12:03:26.699Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Needle: We Distilled Gemini Tool Calling into a 26M Model]]></title>
+        <id>https://news.ycombinator.com/item?id=48111896</id>
+        <link href="https://github.com/cactus-compute/needle"/>
+        <updated>2026-05-12T18:03:11.000Z</updated>
+        <summary type="html"><![CDATA[Hey HN, Henry here from Cactus. We open-sourced Needle, a 26M parameter function-calling (tool use) model. It runs at 6000 tok/s prefill and 1200 tok/s decode on consumer devices.
+We were always frustrated by the little effort made towards building agentic models that run on budget phones, so we conducted investigations that led to an observation: agentic experiences are built upon tool calling, and massive models are overkill for it. Tool calling is fundamentally retrieval-and-assembly (match query to tool name, extract argument values, emit JSON), not reasoning. Cross-attention is the right primitive for this, and FFN parameters are wasted at this scale.
+Simple Attention Networks: the entire model is just attention and gating, no MLPs anywhere. Needle is an experimental run for single-sh…]]></summary>
+        <author>
+            <name>HenryNdubuaku</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Googlebook]]></title>
         <id>https://news.ycombinator.com/item?id=48111545</id>
@@ -91,6 +103,19 @@ more…]]></summary>
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>Think School</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EU to crack down on TikTok, Instagram's 'addictive design' targeting kids]]></title>
+        <id>https://news.ycombinator.com/item?id=48106534</id>
+        <link href="https://www.cnbc.com/2026/05/12/tiktok-instagram-social-media-addictive-eu-crack-down.html"/>
+        <updated>2026-05-12T11:00:07.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.cnbc.com/2026/05/12/tiktok-instagram-social-media-addictive-eu-crack-down.html
+Comments URL: https://news.ycombinator.com/item?id=48106534
+Points: 501
+# Comments: 448]]></summary>
+        <author>
+            <name>thm</name>
         </author>
     </entry>
     <entry>
