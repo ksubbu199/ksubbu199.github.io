@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-05-13T03:26:57.624Z</updated>
+    <updated>2026-05-13T06:47:19.967Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Googlebook]]></title>
+        <id>https://news.ycombinator.com/item?id=48111545</id>
+        <link href="https://googlebook.google/"/>
+        <updated>2026-05-12T17:37:36.000Z</updated>
+        <summary type="html"><![CDATA[https://www.reddit.com/r/Android/comments/1tb8xls/introducin...
+Comments URL: https://news.ycombinator.com/item?id=48111545
+Points: 720
+# Comments: 1201]]></summary>
+        <author>
+            <name>tambourine_man</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[TechPays has been acquired by Levels.fyi]]></title>
         <id>6a0348f9c21cab000134339f</id>
@@ -25,6 +38,19 @@ Pay transparency has always been an issue in tech, especially in Europe. For a w
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>Think School</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why senior developers fail to communicate their expertise]]></title>
+        <id>https://news.ycombinator.com/item?id=48109460</id>
+        <link href="https://www.nair.sh/guides-and-opinions/communicating-your-expertise/why-senior-developers-fail-to-communicate-their-expertise"/>
+        <updated>2026-05-12T15:08:40.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.nair.sh/guides-and-opinions/communicating-your-expertise/why-senior-developers-fail-to-communicate-their-expertise
+Comments URL: https://news.ycombinator.com/item?id=48109460
+Points: 507
+# Comments: 213]]></summary>
+        <author>
+            <name>nilirl</name>
         </author>
     </entry>
     <entry>
@@ -3021,19 +3047,6 @@ Points: 569
 # Comments: 318]]></summary>
         <author>
             <name>ezekg</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Someone Bought 30 WordPress Plugins and Planted a Backdoor in All of Them]]></title>
-        <id>https://news.ycombinator.com/item?id=47755629</id>
-        <link href="https://anchor.host/someone-bought-30-wordpress-plugins-and-planted-a-backdoor-in-all-of-them/"/>
-        <updated>2026-04-13T17:54:39.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://anchor.host/someone-bought-30-wordpress-plugins-and-planted-a-backdoor-in-all-of-them/
-Comments URL: https://news.ycombinator.com/item?id=47755629
-Points: 518
-# Comments: 143]]></summary>
-        <author>
-            <name>speckx</name>
         </author>
     </entry>
 </feed>

@@ -6,6 +6,26 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=48111545",
+          "author": "tambourine_man",
+          "description": "https://www.reddit.com/r/Android/comments/1tb8xls/introducin...\nComments URL: https://news.ycombinator.com/item?id=48111545\nPoints: 720\n# Comments: 1201",
+          "link": "https://googlebook.google/",
+          "publishedOn": "2026-05-12T17:37:36.000Z",
+          "wordCount": 411,
+          "title": "Googlebook",
+          "imageUrl": "https://www.gstatic.com/marketing-cms/assets/images/7d/5c/044d6f064de1aa894c1881f721e1/social-share.webp=n-w1440-h756-fcrop64=1,00000959fffff63f-rw"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=48109460",
+          "author": "nilirl",
+          "description": "Article URL: https://www.nair.sh/guides-and-opinions/communicating-your-expertise/why-senior-developers-fail-to-communicate-their-expertise\nComments URL: https://news.ycombinator.com/item?id=48109460\nPoints: 507\n# Comments: 213",
+          "link": "https://www.nair.sh/guides-and-opinions/communicating-your-expertise/why-senior-developers-fail-to-communicate-their-expertise",
+          "publishedOn": "2026-05-12T15:08:40.000Z",
+          "wordCount": 4494,
+          "title": "Why senior developers fail to communicate their expertise",
+          "imageUrl": null
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=48109224",
           "author": "rubenbe",
           "description": "Article URL: https://www.jeffgeerling.com/blog/2026/bambu-lab-abusing-open-source-social-contract/\nComments URL: https://news.ycombinator.com/item?id=48109224\nPoints: 831\n# Comments: 295",
@@ -1924,16 +1944,6 @@
           "wordCount": 722,
           "title": "GitHub Stacked PRs",
           "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=47755629",
-          "author": "speckx",
-          "description": "Article URL: https://anchor.host/someone-bought-30-wordpress-plugins-and-planted-a-backdoor-in-all-of-them/\nComments URL: https://news.ycombinator.com/item?id=47755629\nPoints: 518\n# Comments: 143",
-          "link": "https://anchor.host/someone-bought-30-wordpress-plugins-and-planted-a-backdoor-in-all-of-them/",
-          "publishedOn": "2026-04-13T17:54:39.000Z",
-          "wordCount": 2380,
-          "title": "Someone Bought 30 WordPress Plugins and Planted a Backdoor in All of Them",
-          "imageUrl": "https://anchor.host/wp-content/uploads/2026/04/wordpress-plugin-supply-chain-attack-1.webp"
         }
       ]
     },
