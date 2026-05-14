@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-05-14T19:46:05.724Z</updated>
+    <updated>2026-05-14T21:09:31.771Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -44,6 +44,19 @@ The way I can do this is to prompt the LLM to interrogate me. It should ask me
   it can't figure those out itself. Once it's done,…]]></summary>
         <author>
             <name>Martin Fowler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A message from President Kornbluth about funding and the talent pipeline]]></title>
+        <id>https://news.ycombinator.com/item?id=48136262</id>
+        <link href="https://president.mit.edu/writing-speeches/video-transcript-message-president-kornbluth-about-funding-and-talent-pipeline"/>
+        <updated>2026-05-14T14:51:14.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://president.mit.edu/writing-speeches/video-transcript-message-president-kornbluth-about-funding-and-talent-pipeline
+Comments URL: https://news.ycombinator.com/item?id=48136262
+Points: 532
+# Comments: 570]]></summary>
+        <author>
+            <name>dmayo</name>
         </author>
     </entry>
     <entry>
