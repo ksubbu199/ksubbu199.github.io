@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-05-13T23:58:57.913Z</updated>
+    <updated>2026-05-14T04:03:29.342Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -14,6 +14,19 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>Think School</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Setting up a free *.city.state.us locality domain (2025)]]></title>
+        <id>https://news.ycombinator.com/item?id=48122635</id>
+        <link href="https://fredchan.org/blog/locality-domains-guide/"/>
+        <updated>2026-05-13T14:45:18.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://fredchan.org/blog/locality-domains-guide/
+Comments URL: https://news.ycombinator.com/item?id=48122635
+Points: 522
+# Comments: 164]]></summary>
+        <author>
+            <name>speckx</name>
         </author>
     </entry>
     <entry>
@@ -3046,39 +3059,6 @@ Points: 530
 # Comments: 309]]></summary>
         <author>
             <name>matthieu_bl</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rare concert recordings are landing on the Internet Archive]]></title>
-        <id>https://news.ycombinator.com/item?id=47765604</id>
-        <link href="https://techcrunch.com/2026/04/13/thousands-of-rare-concert-recordings-are-landing-on-the-internet-archive-listen-now/"/>
-        <updated>2026-04-14T13:46:31.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://techcrunch.com/2026/04/13/thousands-of-rare-concert-recordings-are-landing-on-the-internet-archive-listen-now/
-Comments URL: https://news.ycombinator.com/item?id=47765604
-Points: 530
-# Comments: 163]]></summary>
-        <author>
-            <name>jrm-veris</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fragments: April 14]]></title>
-        <id>https://martinfowler.com/fragments/2026-04-14.html</id>
-        <link href="https://martinfowler.com/fragments/2026-04-14.html"/>
-        <updated>2026-04-14T13:16:00.000Z</updated>
-        <summary type="html"><![CDATA[I attended the first Pragmatic Summit early this year, and while there host
-Gergely Orosz interviewed Kent Beck and myself on stage. The video runs for about half-an-hour.
-
-I always enjoy nattering with Kent like this, and Gergely pushed into some worthwhile topics. Given
-the timing, AI dominated the conversation - we compared it to earlier
-technology shifts, the experience of agile methods, the role of TDD, the
-danger of unhealthy performance metrics, and how to thrive in an AI-native
-industry.
- ❄                ❄                ❄                ❄                ❄
-Perl is a language I used a little, but never loved. However the definitive book on it, by its designer Larry Wall, contains a wonderful gem. The three virtues of a programmer: hubris, impatience - and above all - laziness.
-Brya…]]></summary>
-        <author>
-            <name>Martin Fowler</name>
         </author>
     </entry>
 </feed>

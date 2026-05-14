@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=48122635",
+          "author": "speckx",
+          "description": "Article URL: https://fredchan.org/blog/locality-domains-guide/\nComments URL: https://news.ycombinator.com/item?id=48122635\nPoints: 522\n# Comments: 164",
+          "link": "https://fredchan.org/blog/locality-domains-guide/",
+          "publishedOn": "2026-05-13T14:45:18.000Z",
+          "wordCount": 1188,
+          "title": "Setting up a free *.city.state.us locality domain (2025)",
+          "imageUrl": "https://fredchan.org/assets/images/crow_solid.webp"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=48121266",
           "author": "jorijn",
           "description": "Article URL: https://jorijn.com/en/blog/leaving-github-for-forgejo/\nComments URL: https://news.ycombinator.com/item?id=48121266\nPoints: 515\n# Comments: 276",
@@ -1944,16 +1954,6 @@
           "wordCount": 3298,
           "title": "Claude Code Routines",
           "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=47765604",
-          "author": "jrm-veris",
-          "description": "Article URL: https://techcrunch.com/2026/04/13/thousands-of-rare-concert-recordings-are-landing-on-the-internet-archive-listen-now/\nComments URL: https://news.ycombinator.com/item?id=47765604\nPoints: 530\n# Comments: 163",
-          "link": "https://techcrunch.com/2026/04/13/thousands-of-rare-concert-recordings-are-landing-on-the-internet-archive-listen-now/",
-          "publishedOn": "2026-04-14T13:46:31.000Z",
-          "wordCount": 3069,
-          "title": "Rare concert recordings are landing on the Internet Archive",
-          "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/04/GettyImages-2244156491-1.jpg?resize=1200,800"
         }
       ]
     },
@@ -2090,16 +2090,6 @@
           "publishedOn": "2026-04-21T14:34:00.000Z",
           "wordCount": 1185,
           "title": "Fragments: April 21",
-          "imageUrl": "https://martinfowler.com/logo-sq.png"
-        },
-        {
-          "id": "https://martinfowler.com/fragments/2026-04-14.html",
-          "author": null,
-          "description": "I attended the first Pragmatic Summit early this year, and while there host\nGergely Orosz interviewed Kent Beck and myself on stage. The video runs for about half-an-hour.\n\nI always enjoy nattering with Kent like this, and Gergely pushed into some worthwhile topics. Given\nthe timing, AI dominated the conversation - we compared it to earlier\ntechnology shifts, the experience of agile methods, the role of TDD, the\ndanger of unhealthy performance metrics, and how to thrive in an AI-native\nindustry.\n ❄                ❄                ❄                ❄                ❄\nPerl is a language I used a little, but never loved. However the definitive book on it, by its designer Larry Wall, contains a wonderful gem. The three virtues of a programmer: hubris, impatience - and above all - laziness.\nBrya…",
-          "link": "https://martinfowler.com/fragments/2026-04-14.html",
-          "publishedOn": "2026-04-14T13:16:00.000Z",
-          "wordCount": 1240,
-          "title": "Fragments: April 14",
           "imageUrl": "https://martinfowler.com/logo-sq.png"
         }
       ]
