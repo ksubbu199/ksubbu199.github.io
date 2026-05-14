@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-05-14T21:09:31.771Z</updated>
+    <updated>2026-05-14T22:55:58.991Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Fragments: May 14]]></title>
+        <id>https://martinfowler.com/fragments/2026-05-14.html</id>
+        <link href="https://martinfowler.com/fragments/2026-05-14.html"/>
+        <updated>2026-05-14T21:52:00.000Z</updated>
+        <summary type="html"><![CDATA[Last week I spent a day at a retreat that brought together several people working in software development to talk about the profession’s future with the rise of agentic programming. The event was help under the Chatham House Rule, so I can’t attribute the comments and stories I heard. (If anyone recognizes themselves, and would like attribution, let me know.) Here are a few tidbits that caught my notebook.
+ ❄                ❄
+One group developed a behavioral clone of GNU Cobol compiler in Rust. The result is 70K lines of Rust and was built in 3 days. This is yet another sign of the ability of LLMs to do a good job of porting existing code to a new platform. Good regression tests are extremely valuable here (and I don’t know how good GNU Cobol’s are). There’s also the possibility of buildin…]]></summary>
+        <author>
+            <name>Martin Fowler</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Pulse: Did capacity shortages turn Anthropic hostile to devs?]]></title>
         <id>6a05f20bbfd90c000141d3d3</id>
@@ -77,6 +89,19 @@ Points: 532
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>Hussein Nasser</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Claude for Small Business]]></title>
+        <id>https://news.ycombinator.com/item?id=48130950</id>
+        <link href="https://www.anthropic.com/news/claude-for-small-business"/>
+        <updated>2026-05-14T03:59:35.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.anthropic.com/news/claude-for-small-business
+Comments URL: https://news.ycombinator.com/item?id=48130950
+Points: 502
+# Comments: 448]]></summary>
+        <author>
+            <name>neilfrndes</name>
         </author>
     </entry>
     <entry>
@@ -3049,19 +3074,6 @@ Points: 576
 # Comments: 368]]></summary>
         <author>
             <name>Aaronmacaron</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Want to write a compiler? Just read these two papers (2008)]]></title>
-        <id>https://news.ycombinator.com/item?id=47776796</id>
-        <link href="https://prog21.dadgum.com/30.html"/>
-        <updated>2026-04-15T09:41:19.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://prog21.dadgum.com/30.html
-Comments URL: https://news.ycombinator.com/item?id=47776796
-Points: 500
-# Comments: 155]]></summary>
-        <author>
-            <name>downbad_</name>
         </author>
     </entry>
 </feed>

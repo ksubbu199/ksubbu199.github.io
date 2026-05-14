@@ -16,6 +16,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://news.ycombinator.com/item?id=48130950",
+          "author": "neilfrndes",
+          "description": "Article URL: https://www.anthropic.com/news/claude-for-small-business\nComments URL: https://news.ycombinator.com/item?id=48130950\nPoints: 502\n# Comments: 448",
+          "link": "https://www.anthropic.com/news/claude-for-small-business",
+          "publishedOn": "2026-05-14T03:59:35.000Z",
+          "wordCount": 3814,
+          "title": "Claude for Small Business",
+          "imageUrl": "https://www.anthropic.com/api/opengraph-illustration?name=Object%20Store&backgroundColor=clay"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=48122635",
           "author": "speckx",
           "description": "Article URL: https://fredchan.org/blog/locality-domains-guide/\nComments URL: https://news.ycombinator.com/item?id=48122635\nPoints: 522\n# Comments: 164",
@@ -1904,16 +1914,6 @@
           "wordCount": 189,
           "title": "IPv6 traffic crosses the 50% mark",
           "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=47776796",
-          "author": "downbad_",
-          "description": "Article URL: https://prog21.dadgum.com/30.html\nComments URL: https://news.ycombinator.com/item?id=47776796\nPoints: 500\n# Comments: 155",
-          "link": "https://prog21.dadgum.com/30.html",
-          "publishedOn": "2026-04-15T09:41:19.000Z",
-          "wordCount": 670,
-          "title": "Want to write a compiler? Just read these two papers (2008)",
-          "imageUrl": null
         }
       ]
     },
@@ -1992,6 +1992,16 @@
       "feedUrl": "https://martinfowler.com/feed.atom",
       "siteUrl": "https://martinfowler.com/feed.atom",
       "articles": [
+        {
+          "id": "https://martinfowler.com/fragments/2026-05-14.html",
+          "author": null,
+          "description": "Last week I spent a day at a retreat that brought together several people working in software development to talk about the profession’s future with the rise of agentic programming. The event was help under the Chatham House Rule, so I can’t attribute the comments and stories I heard. (If anyone recognizes themselves, and would like attribution, let me know.) Here are a few tidbits that caught my notebook.\n ❄                ❄\nOne group developed a behavioral clone of GNU Cobol compiler in Rust. The result is 70K lines of Rust and was built in 3 days. This is yet another sign of the ability of LLMs to do a good job of porting existing code to a new platform. Good regression tests are extremely valuable here (and I don’t know how good GNU Cobol’s are). There’s also the possibility of buildin…",
+          "link": "https://martinfowler.com/fragments/2026-05-14.html",
+          "publishedOn": "2026-05-14T21:52:00.000Z",
+          "wordCount": 2463,
+          "title": "Fragments: May 14",
+          "imageUrl": "https://martinfowler.com/logo-sq.png"
+        },
         {
           "id": "https://martinfowler.com/bliki/InterrogatoryLLM.html",
           "author": null,
