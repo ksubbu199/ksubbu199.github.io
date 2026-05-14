@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-05-14T22:55:58.991Z</updated>
+    <updated>2026-05-14T23:58:42.401Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -16,6 +16,19 @@
 One group developed a behavioral clone of GNU Cobol compiler in Rust. The result is 70K lines of Rust and was built in 3 days. This is yet another sign of the ability of LLMs to do a good job of porting existing code to a new platform. Good regression tests are extremely valuable here (and I don’t know how good GNU Cobol’s are). There’s also the possibility of buildin…]]></summary>
         <author>
             <name>Martin Fowler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Removing the modem and GPS from my 2024 RAV4 hybrid]]></title>
+        <id>https://news.ycombinator.com/item?id=48138136</id>
+        <link href="https://arkadiyt.com/2026/05/13/removing-the-modem-and-gps-from-my-rav4/"/>
+        <updated>2026-05-14T17:08:00.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://arkadiyt.com/2026/05/13/removing-the-modem-and-gps-from-my-rav4/
+Comments URL: https://news.ycombinator.com/item?id=48138136
+Points: 519
+# Comments: 314]]></summary>
+        <author>
+            <name>arkadiyt</name>
         </author>
     </entry>
     <entry>
