@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-05-14T04:03:29.342Z</updated>
+    <updated>2026-05-14T07:41:18.389Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The core of backend system design]]></title>
+        <id>https://www.youtube.com/shorts/1nUnRgawAC8</id>
+        <link href="https://www.youtube.com/shorts/1nUnRgawAC8"/>
+        <updated>2026-05-14T07:00:01.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Hussein Nasser</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Behind the scenes of something big!!! Announcement on May 15th]]></title>
         <id>https://www.youtube.com/shorts/ziVS1n7V5Cs</id>
@@ -3002,63 +3012,6 @@ Points: 514
 # Comments: 126]]></summary>
         <author>
             <name>cdrnsf</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tell HN: Fiverr left customer files public and searchable]]></title>
-        <id>https://news.ycombinator.com/item?id=47769796</id>
-        <link href="https://news.ycombinator.com/item?id=47769796"/>
-        <updated>2026-04-14T18:56:40.000Z</updated>
-        <summary type="html"><![CDATA[Fiverr (gig work/task platform, competitor to Upwork) uses a service called Cloudinary to process PDF/images in messaging, including work products from the worker to client.
-Besides the PDF processing value add, Cloudinary effectively acts like S3 here, serving assets directly to the web client. Like S3, it has support for signed/expiring URLs. However, Fiverr opted to use public URLs, not signed ones, for sensitive client-worker communication.
-Moreover, it seems like they may be serving public HTML somewhere that links to these files. As a result, hundreds are in Google search results, many containing PII.
-Example query: site:fiverr-res.cloudinary.com form 1040
-In fact, Fiverr actively buys Google Ads for keywords like "form 1234 filing" despite knowing that it does not adequately secure the resulting work product, causing the preparer to violate the GLBA/FTC Safeguards Rule.
-Responsible Disclosure Note -- 40 days have passed since this was notified to the designated vulnerability email (security@fiverr.com). The security team did not reply. Therefore, this is being made public as it doesn't seem eligible for CVE/CERT processing as it is not really a code vulnerability, and I don't know anyone else who would care about it.
-Comments URL: https://news.ycombinator.com/item?id=47769796
-Points: 584
-# Comments: 123]]></summary>
-        <author>
-            <name>morpheuskafka</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cybersecurity looks like proof of work now]]></title>
-        <id>https://news.ycombinator.com/item?id=47769089</id>
-        <link href="https://www.dbreunig.com/2026/04/14/cybersecurity-is-proof-of-work-now.html"/>
-        <updated>2026-04-14T18:08:14.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.dbreunig.com/2026/04/14/cybersecurity-is-proof-of-work-now.html
-Comments URL: https://news.ycombinator.com/item?id=47769089
-Points: 506
-# Comments: 182]]></summary>
-        <author>
-            <name>dbreunig</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I wrote to Flock's privacy contact to opt out of their domestic spying program]]></title>
-        <id>https://news.ycombinator.com/item?id=47768813</id>
-        <link href="https://honeypot.net/2026/04/14/i-wrote-to-flocks-privacy.html"/>
-        <updated>2026-04-14T17:47:00.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://honeypot.net/2026/04/14/i-wrote-to-flocks-privacy.html
-Comments URL: https://news.ycombinator.com/item?id=47768813
-Points: 506
-# Comments: 207]]></summary>
-        <author>
-            <name>speckx</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Claude Code Routines]]></title>
-        <id>https://news.ycombinator.com/item?id=47768133</id>
-        <link href="https://code.claude.com/docs/en/routines"/>
-        <updated>2026-04-14T16:54:33.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://code.claude.com/docs/en/routines
-Comments URL: https://news.ycombinator.com/item?id=47768133
-Points: 530
-# Comments: 309]]></summary>
-        <author>
-            <name>matthieu_bl</name>
         </author>
     </entry>
 </feed>

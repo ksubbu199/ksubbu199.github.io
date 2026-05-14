@@ -1914,46 +1914,6 @@
           "wordCount": 3147,
           "title": "Stop Flock",
           "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=47769796",
-          "author": "morpheuskafka",
-          "description": "Fiverr (gig work/task platform, competitor to Upwork) uses a service called Cloudinary to process PDF/images in messaging, including work products from the worker to client.\nBesides the PDF processing value add, Cloudinary effectively acts like S3 here, serving assets directly to the web client. Like S3, it has support for signed/expiring URLs. However, Fiverr opted to use public URLs, not signed ones, for sensitive client-worker communication.\nMoreover, it seems like they may be serving public HTML somewhere that links to these files. As a result, hundreds are in Google search results, many containing PII.\nExample query: site:fiverr-res.cloudinary.com form 1040\nIn fact, Fiverr actively buys Google Ads for keywords like \"form 1234 filing\" despite knowing that it does not adequately secure the resulting work product, causing the preparer to violate the GLBA/FTC Safeguards Rule.\nResponsible Disclosure Note -- 40 days have passed since this was notified to the designated vulnerability email (security@fiverr.com). The security team did not reply. Therefore, this is being made public as it doesn't seem eligible for CVE/CERT processing as it is not really a code vulnerability, and I don't know anyone else who would care about it.\nComments URL: https://news.ycombinator.com/item?id=47769796\nPoints: 584\n# Comments: 123",
-          "link": "https://news.ycombinator.com/item?id=47769796",
-          "publishedOn": "2026-04-14T18:56:40.000Z",
-          "wordCount": 6239,
-          "title": "Tell HN: Fiverr left customer files public and searchable",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=47769089",
-          "author": "dbreunig",
-          "description": "Article URL: https://www.dbreunig.com/2026/04/14/cybersecurity-is-proof-of-work-now.html\nComments URL: https://news.ycombinator.com/item?id=47769089\nPoints: 506\n# Comments: 182",
-          "link": "https://www.dbreunig.com/2026/04/14/cybersecurity-is-proof-of-work-now.html",
-          "publishedOn": "2026-04-14T18:08:14.000Z",
-          "wordCount": 885,
-          "title": "Cybersecurity looks like proof of work now",
-          "imageUrl": "https://www.dbreunig.com/img/locks_and_keys.jpg"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=47768813",
-          "author": "speckx",
-          "description": "Article URL: https://honeypot.net/2026/04/14/i-wrote-to-flocks-privacy.html\nComments URL: https://news.ycombinator.com/item?id=47768813\nPoints: 506\n# Comments: 207",
-          "link": "https://honeypot.net/2026/04/14/i-wrote-to-flocks-privacy.html",
-          "publishedOn": "2026-04-14T17:47:00.000Z",
-          "wordCount": 607,
-          "title": "I wrote to Flock's privacy contact to opt out of their domestic spying program",
-          "imageUrl": "https://s3.amazonaws.com/micro.blog/opengraph/2026/04/14/5830244.png"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=47768133",
-          "author": "matthieu_bl",
-          "description": "Article URL: https://code.claude.com/docs/en/routines\nComments URL: https://news.ycombinator.com/item?id=47768133\nPoints: 530\n# Comments: 309",
-          "link": "https://code.claude.com/docs/en/routines",
-          "publishedOn": "2026-04-14T16:54:33.000Z",
-          "wordCount": 3298,
-          "title": "Claude Code Routines",
-          "imageUrl": null
         }
       ]
     },
@@ -2409,6 +2369,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC_ML5xP23TOWKUcc-oAE_Eg",
       "siteUrl": "https://www.youtube.com/channel/UC_ML5xP23TOWKUcc-oAE_Eg",
       "articles": [
+        {
+          "id": "https://www.youtube.com/shorts/1nUnRgawAC8",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/1nUnRgawAC8",
+          "publishedOn": "2026-05-14T07:00:01.000Z",
+          "wordCount": 2017,
+          "title": "The core of backend system design",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=Jx_4kfrQsiA",
           "author": null,
