@@ -1983,6 +1983,16 @@
       "siteUrl": "https://martinfowler.com/feed.atom",
       "articles": [
         {
+          "id": "https://martinfowler.com/bliki/InterrogatoryLLM.html",
+          "author": null,
+          "description": "When we need an LLM to perform a complex task, we often need to feed it a\n  lot of context. Coming up with a design for a new feature requires\n  descriptions of how we want the feature to appear to the user, guidelines on\n  how it should be implemented, information on external systems to consult, and\n  so on. All this can be several pages of markdown. The obvious way to do\n  this is for a human to write this context, but an alternative is to use an LLM to write\n  this context after interviewing a human.\nThe way I can do this is to prompt the LLM to interrogate me. It should ask me\n  all the questions it needs to create this appropriate context. I can feed much\n  of the information it needs, and tell it other sources it needs to consult if\n  it can't figure those out itself. Once it's done,…",
+          "link": "https://martinfowler.com/bliki/InterrogatoryLLM.html",
+          "publishedOn": "2026-05-14T15:04:00.000Z",
+          "wordCount": 559,
+          "title": "Bliki: Interrogatory LLM",
+          "imageUrl": "https://martinfowler.com/logo-sq.png"
+        },
+        {
           "id": "https://martinfowler.com/articles/what-is-code.html",
           "author": null,
           "description": "Increasingly humans delegate writing code to agents. Will there even be\n      source code in the future? To wrestle with this question, we have to\n      understand what code is. Unmesh Joshi sees code as having\n      two distinct but intertwined purposes: instructions to a machine and a\n      conceptual model of the problem domain. He explores why it's vital\n      to build a vocabulary to talk to the machine, how programming languages\n      are thinking tools, and how this affects our future as we work with LLMs.\nmore…",
