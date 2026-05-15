@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=48143880",
+          "author": "RGBCube",
+          "description": "Article URL: https://tmctmt.com/posts/mullvad-exit-ips-as-a-fingerprinting-vector/\nComments URL: https://news.ycombinator.com/item?id=48143880\nPoints: 523\n# Comments: 321",
+          "link": "https://tmctmt.com/posts/mullvad-exit-ips-as-a-fingerprinting-vector/",
+          "publishedOn": "2026-05-15T02:35:35.000Z",
+          "wordCount": 1127,
+          "title": "Mullvad exit IPs are surprisingly identifying",
+          "imageUrl": null
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=48140922",
           "author": "gjuggler",
           "description": "Article URL: https://twitter.com/tdietterich/status/2055000956144935055\nComments URL: https://news.ycombinator.com/item?id=48140922\nPoints: 504\n# Comments: 173",
@@ -1894,26 +1904,6 @@
           "wordCount": 2329,
           "title": "The future of everything is lies, I guess: Where do we go from here?",
           "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=47788542",
-          "author": "twapi",
-          "description": "Article URL: https://darkbloom.dev\nComments URL: https://news.ycombinator.com/item?id=47788542\nPoints: 500\n# Comments: 250",
-          "link": "https://darkbloom.dev/",
-          "publishedOn": "2026-04-16T04:06:39.000Z",
-          "wordCount": 3789,
-          "title": "Darkbloom – Private inference on idle Macs",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=47788385",
-          "author": "Zetaphor",
-          "description": "Article URL: https://sleepingrobots.com/dreams/stop-using-ollama/\nComments URL: https://news.ycombinator.com/item?id=47788385\nPoints: 517\n# Comments: 156",
-          "link": "https://sleepingrobots.com/dreams/stop-using-ollama/",
-          "publishedOn": "2026-04-16T03:35:11.000Z",
-          "wordCount": 2783,
-          "title": "The local LLM ecosystem doesn’t need Ollama",
-          "imageUrl": "https://sleepingrobots.com/og.png"
         }
       ]
     },
@@ -1965,6 +1955,16 @@
       "feedUrl": "https://jvns.ca/atom.xml",
       "siteUrl": "https://jvns.ca/atom.xml",
       "articles": [
+        {
+          "id": "https://jvns.ca/blog/2026/05/15/moving-away-from-tailwind--and-learning-to-structure-my-css-/",
+          "author": null,
+          "description": "Hello! 8 years ago, I wrote excitedly about discovering Tailwind.\nAt that time I really had no idea how to structure my CSS code and given the\nchoice between a pile of complete chaos and Tailwind, I was really happy to choose\nTailwind. It helped me make a lot of tiny sites!\nI spent the last week or so migrating a couple of sites away from Tailwind and\ntowards more semantic HTML + vanilla CSS, and it was SO fun and SO interesting,\nso here are some things I learned!\nAs usual I’m not a full-time frontend developer and so all of my CSS learning\nhas happened in fits and starts over many years.\nit turns out Tailwind taught me a lot\nWhen I started thinking about structuring CSS, I was intimidated at first: I’m\nnot very good at structuring my CSS! But then I started reading blog posts\ntalking abou…",
+          "link": "https://jvns.ca/blog/2026/05/15/moving-away-from-tailwind--and-learning-to-structure-my-css-/",
+          "publishedOn": "2026-05-15T00:00:00.000Z",
+          "wordCount": 1961,
+          "title": "Moving away from Tailwind, and learning to structure my CSS",
+          "imageUrl": null
+        },
         {
           "id": "https://jvns.ca/blog/2026/05/04/css-colour-palettes/",
           "author": null,
