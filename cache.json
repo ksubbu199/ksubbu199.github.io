@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=48140922",
+          "author": "gjuggler",
+          "description": "Article URL: https://twitter.com/tdietterich/status/2055000956144935055\nComments URL: https://news.ycombinator.com/item?id=48140922\nPoints: 504\n# Comments: 173",
+          "link": "https://twitter.com/tdietterich/status/2055000956144935055",
+          "publishedOn": "2026-05-14T20:39:12.000Z",
+          "wordCount": 985,
+          "title": "New arXiv policy: 1-year ban for hallucinated references",
+          "imageUrl": null
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=48138136",
           "author": "arkadiyt",
           "description": "Article URL: https://arkadiyt.com/2026/05/13/removing-the-modem-and-gps-from-my-rav4/\nComments URL: https://news.ycombinator.com/item?id=48138136\nPoints: 519\n# Comments: 314",
@@ -1894,36 +1904,6 @@
           "wordCount": 2783,
           "title": "The local LLM ecosystem doesn’t need Ollama",
           "imageUrl": "https://sleepingrobots.com/og.png"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=47785738",
-          "author": "bckygldstn",
-          "description": "Article URL: https://www.mcdonalds.co.jp/en/menu/burger/\nComments URL: https://news.ycombinator.com/item?id=47785738\nPoints: 580\n# Comments: 263",
-          "link": "https://www.mcdonalds.co.jp/en/menu/burger/",
-          "publishedOn": "2026-04-15T21:48:18.000Z",
-          "wordCount": 981,
-          "title": "The buns in McDonald's Japan's burger photos are all slightly askew",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=47783713",
-          "author": "Alex_Bond",
-          "description": "https://www.nytimes.com/2026/04/15/arts/music/live-nation-an..., https://archive.ph/KA1wV\nhttps://www.theverge.com/policy/912689/live-nation-ticketmas...\nComments URL: https://news.ycombinator.com/item?id=47783713\nPoints: 515\n# Comments: 149",
-          "link": "https://www.bloomberg.com/news/articles/2026-04-15/live-nation-illegally-monopolized-ticketing-market-jury-finds",
-          "publishedOn": "2026-04-15T19:06:39.000Z",
-          "wordCount": null,
-          "title": "Live Nation illegally monopolized ticketing market, jury finds",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=47782570",
-          "author": "Brajeshwar",
-          "description": "Article URL: https://www.eff.org/deeplinks/2026/04/google-broke-its-promise-me-now-ice-has-my-data\nComments URL: https://news.ycombinator.com/item?id=47782570\nPoints: 530\n# Comments: 215",
-          "link": "https://www.eff.org/deeplinks/2026/04/google-broke-its-promise-me-now-ice-has-my-data",
-          "publishedOn": "2026-04-15T17:44:26.000Z",
-          "wordCount": 1965,
-          "title": "Google Broke Its Promise to Me. Now ICE Has My Data",
-          "imageUrl": "https://www.eff.org/files/banner_library/google-spy-eye.png"
         }
       ]
     },
@@ -2427,16 +2407,6 @@
           "publishedOn": "2026-05-14T07:00:01.000Z",
           "wordCount": 2017,
           "title": "The core of backend system design",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=Jx_4kfrQsiA",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=Jx_4kfrQsiA",
-          "publishedOn": "2026-04-15T16:31:03.000Z",
-          "wordCount": null,
-          "title": "My new book: Root Cause - Stories from Two Decades of Backend Bugs",
           "imageUrl": null
         }
       ]

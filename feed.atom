@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-05-15T04:10:27.922Z</updated>
+    <updated>2026-05-15T10:22:42.583Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -16,6 +16,19 @@
 One group developed a behavioral clone of GNU Cobol compiler in Rust. The result is 70K lines of Rust and was built in 3 days. This is yet another sign of the ability of LLMs to do a good job of porting existing code to a new platform. Good regression tests are extremely valuable here (and I don’t know how good GNU Cobol’s are). There’s also the possibility of buildin…]]></summary>
         <author>
             <name>Martin Fowler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New arXiv policy: 1-year ban for hallucinated references]]></title>
+        <id>https://news.ycombinator.com/item?id=48140922</id>
+        <link href="https://twitter.com/tdietterich/status/2055000956144935055"/>
+        <updated>2026-05-14T20:39:12.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://twitter.com/tdietterich/status/2055000956144935055
+Comments URL: https://news.ycombinator.com/item?id=48140922
+Points: 504
+# Comments: 173]]></summary>
+        <author>
+            <name>gjuggler</name>
         </author>
     </entry>
     <entry>
@@ -3029,55 +3042,6 @@ Points: 517
 # Comments: 156]]></summary>
         <author>
             <name>Zetaphor</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The buns in McDonald's Japan's burger photos are all slightly askew]]></title>
-        <id>https://news.ycombinator.com/item?id=47785738</id>
-        <link href="https://www.mcdonalds.co.jp/en/menu/burger/"/>
-        <updated>2026-04-15T21:48:18.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.mcdonalds.co.jp/en/menu/burger/
-Comments URL: https://news.ycombinator.com/item?id=47785738
-Points: 580
-# Comments: 263]]></summary>
-        <author>
-            <name>bckygldstn</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Live Nation illegally monopolized ticketing market, jury finds]]></title>
-        <id>https://news.ycombinator.com/item?id=47783713</id>
-        <link href="https://www.bloomberg.com/news/articles/2026-04-15/live-nation-illegally-monopolized-ticketing-market-jury-finds"/>
-        <updated>2026-04-15T19:06:39.000Z</updated>
-        <summary type="html"><![CDATA[https://www.nytimes.com/2026/04/15/arts/music/live-nation-an..., https://archive.ph/KA1wV
-https://www.theverge.com/policy/912689/live-nation-ticketmas...
-Comments URL: https://news.ycombinator.com/item?id=47783713
-Points: 515
-# Comments: 149]]></summary>
-        <author>
-            <name>Alex_Bond</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google Broke Its Promise to Me. Now ICE Has My Data]]></title>
-        <id>https://news.ycombinator.com/item?id=47782570</id>
-        <link href="https://www.eff.org/deeplinks/2026/04/google-broke-its-promise-me-now-ice-has-my-data"/>
-        <updated>2026-04-15T17:44:26.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.eff.org/deeplinks/2026/04/google-broke-its-promise-me-now-ice-has-my-data
-Comments URL: https://news.ycombinator.com/item?id=47782570
-Points: 530
-# Comments: 215]]></summary>
-        <author>
-            <name>Brajeshwar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[My new book: Root Cause - Stories from Two Decades of Backend Bugs]]></title>
-        <id>https://www.youtube.com/watch?v=Jx_4kfrQsiA</id>
-        <link href="https://www.youtube.com/watch?v=Jx_4kfrQsiA"/>
-        <updated>2026-04-15T16:31:03.000Z</updated>
-        <author>
-            <name>Hussein Nasser</name>
         </author>
     </entry>
 </feed>
