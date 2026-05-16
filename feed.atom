@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-05-16T02:53:29.247Z</updated>
+    <updated>2026-05-16T05:54:29.142Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -50,6 +50,19 @@ Points: 577
         <updated>2026-05-15T12:37:00.000Z</updated>
         <author>
             <name>Think School</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Explore Wikipedia Like a Windows XP Desktop]]></title>
+        <id>https://news.ycombinator.com/item?id=48146129</id>
+        <link href="https://explorer.samismith.com/"/>
+        <updated>2026-05-15T08:45:36.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://explorer.samismith.com/
+Comments URL: https://news.ycombinator.com/item?id=48146129
+Points: 500
+# Comments: 112]]></summary>
+        <author>
+            <name>smusamashah</name>
         </author>
     </entry>
     <entry>
@@ -3058,19 +3071,6 @@ Points: 531
 # Comments: 204]]></summary>
         <author>
             <name>ColinWright</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Codex for almost everything]]></title>
-        <id>https://news.ycombinator.com/item?id=47796469</id>
-        <link href="https://openai.com/index/codex-for-almost-everything/"/>
-        <updated>2026-04-16T17:12:19.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://openai.com/index/codex-for-almost-everything/
-Comments URL: https://news.ycombinator.com/item?id=47796469
-Points: 520
-# Comments: 275]]></summary>
-        <author>
-            <name>mikeevans</name>
         </author>
     </entry>
 </feed>
