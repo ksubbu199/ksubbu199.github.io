@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-05-18T08:43:15.114Z</updated>
+    <updated>2026-05-18T12:30:34.632Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[This AI Agent Created A Video Ad In Minutes]]></title>
+        <id>https://www.youtube.com/shorts/_y0Sr9RXITM</id>
+        <link href="https://www.youtube.com/shorts/_y0Sr9RXITM"/>
+        <updated>2026-05-18T12:10:04.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Think School</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Security researcher says Microsoft built a Bitlocker backdoor, releases exploit]]></title>
         <id>https://news.ycombinator.com/item?id=48168856</id>
@@ -17,6 +27,19 @@ Points: 530
 # Comments: 226]]></summary>
         <author>
             <name>nolok</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I don't think AI will make your processes go faster]]></title>
+        <id>https://news.ycombinator.com/item?id=48168221</id>
+        <link href="https://frederickvanbrabant.com/blog/2026-05-15-i-dont-think-ai-will-make-your-processes-go-faster/"/>
+        <updated>2026-05-17T12:13:45.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://frederickvanbrabant.com/blog/2026-05-15-i-dont-think-ai-will-make-your-processes-go-faster/
+Comments URL: https://news.ycombinator.com/item?id=48168221
+Points: 621
+# Comments: 417]]></summary>
+        <author>
+            <name>TheEdonian</name>
         </author>
     </entry>
     <entry>
@@ -3054,45 +3077,6 @@ Points: 559
 # Comments: 326]]></summary>
         <author>
             <name>colesantiago</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Anonymous request-token comparisons from Opus 4.6 and Opus 4.7]]></title>
-        <id>https://news.ycombinator.com/item?id=47816960</id>
-        <link href="https://tokens.billchambers.me/leaderboard"/>
-        <updated>2026-04-18T16:05:43.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://tokens.billchambers.me/leaderboard
-Comments URL: https://news.ycombinator.com/item?id=47816960
-Points: 514
-# Comments: 503]]></summary>
-        <author>
-            <name>anabranch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Migrating from DigitalOcean to Hetzner]]></title>
-        <id>https://news.ycombinator.com/item?id=47815774</id>
-        <link href="https://isayeter.com/posts/digitalocean-to-hetzner-migration/"/>
-        <updated>2026-04-18T13:29:04.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://isayeter.com/posts/digitalocean-to-hetzner-migration/
-Comments URL: https://news.ycombinator.com/item?id=47815774
-Points: 521
-# Comments: 291]]></summary>
-        <author>
-            <name>yusufusta</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why Japan has such good railways]]></title>
-        <id>https://news.ycombinator.com/item?id=47815395</id>
-        <link href="https://worksinprogress.co/issue/why-japan-has-such-good-railways/"/>
-        <updated>2026-04-18T12:29:06.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://worksinprogress.co/issue/why-japan-has-such-good-railways/
-Comments URL: https://news.ycombinator.com/item?id=47815395
-Points: 510
-# Comments: 472]]></summary>
-        <author>
-            <name>RickJWagner</name>
         </author>
     </entry>
 </feed>
