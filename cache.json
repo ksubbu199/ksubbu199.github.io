@@ -1899,6 +1899,16 @@
       "siteUrl": "https://boot.dev/blog/",
       "articles": [
         {
+          "id": "https://boot.dev/blog/news/github-keeps-going-down/",
+          "author": null,
+          "description": "On February 9th, 2026, GitHub went down.\nNot “a little slow.” Not “some features degraded.” GitHub.com, the API, Git over HTTPS, Actions, Copilot - basically all of it was throwing errors.",
+          "link": "https://boot.dev/blog/news/github-keeps-going-down/",
+          "publishedOn": "2026-05-16T00:00:00.000Z",
+          "wordCount": 3175,
+          "title": "GitHub Keeps Going Down",
+          "imageUrl": "https://boot.dev/blog/img/featured/github-keeps-going-down.webp"
+        },
+        {
           "id": "https://boot.dev/blog/news/ai-land-grab-looks-familiar/",
           "author": null,
           "description": "In May of 2013, Yahoo announced plans to buy Tumblr for 1.1 billion dollars. Yahoo’s CEO, Marissa Mayer, stood in front of the press and said, “We promise not to screw it up”.",
