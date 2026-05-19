@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=48194352",
+          "author": "dmarcos",
+          "description": "https://xcancel.com/karpathy/status/2056753169888334312\nComments URL: https://news.ycombinator.com/item?id=48194352\nPoints: 804\n# Comments: 316",
+          "link": "https://twitter.com/karpathy/status/2056753169888334312",
+          "publishedOn": "2026-05-19T15:07:45.000Z",
+          "wordCount": 1016,
+          "title": "I’ve joined Anthropic",
+          "imageUrl": null
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=48188183",
           "author": "yakkomajuri",
           "description": "Article URL: https://simonwillison.net/2026/May/19/5-minute-llms/\nComments URL: https://news.ycombinator.com/item?id=48188183\nPoints: 507\n# Comments: 381",
@@ -2032,6 +2042,16 @@
       "feedUrl": "https://martinfowler.com/feed.atom",
       "siteUrl": "https://martinfowler.com/feed.atom",
       "articles": [
+        {
+          "id": "https://martinfowler.com/articles/sensors-for-coding-agents.html",
+          "author": null,
+          "description": "In her recent article about harness engineering for coding agent users,\n      Birgitta Böckeler laid out a mental model for expanding a\n      coding agent harness: a system of guides and sensors that increase the\n      probability of good agent outputs and enable self-correction before issues\n      reach human eyes. Birgitta has now started publishing an article where she\n      walks though her experiences using sensors to keep a codebase\n      maintainable. This part looks at static analysis with basic code linting.\nmore…",
+          "link": "https://martinfowler.com/articles/sensors-for-coding-agents.html",
+          "publishedOn": "2026-05-19T16:38:00.000Z",
+          "wordCount": 2038,
+          "title": "Maintainability sensors for coding agents",
+          "imageUrl": "https://martinfowler.com/articles/sensors-for-coding-agents/card.png"
+        },
         {
           "id": "https://martinfowler.com/fragments/2026-05-14.html",
           "author": null,

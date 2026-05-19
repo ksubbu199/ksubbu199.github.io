@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-05-19T16:19:27.576Z</updated>
+    <updated>2026-05-19T18:59:46.697Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Maintainability sensors for coding agents]]></title>
+        <id>https://martinfowler.com/articles/sensors-for-coding-agents.html</id>
+        <link href="https://martinfowler.com/articles/sensors-for-coding-agents.html"/>
+        <updated>2026-05-19T16:38:00.000Z</updated>
+        <summary type="html"><![CDATA[In her recent article about harness engineering for coding agent users,
+      Birgitta Böckeler laid out a mental model for expanding a
+      coding agent harness: a system of guides and sensors that increase the
+      probability of good agent outputs and enable self-correction before issues
+      reach human eyes. Birgitta has now started publishing an article where she
+      walks though her experiences using sensors to keep a codebase
+      maintainable. This part looks at static analysis with basic code linting.
+more…]]></summary>
+        <author>
+            <name>Martin Fowler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I’ve joined Anthropic]]></title>
+        <id>https://news.ycombinator.com/item?id=48194352</id>
+        <link href="https://twitter.com/karpathy/status/2056753169888334312"/>
+        <updated>2026-05-19T15:07:45.000Z</updated>
+        <summary type="html"><![CDATA[https://xcancel.com/karpathy/status/2056753169888334312
+Comments URL: https://news.ycombinator.com/item?id=48194352
+Points: 804
+# Comments: 316]]></summary>
+        <author>
+            <name>dmarcos</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The last six months in LLMs in five minutes]]></title>
         <id>https://news.ycombinator.com/item?id=48188183</id>
