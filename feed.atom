@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-05-18T22:03:02.239Z</updated>
+    <updated>2026-05-19T00:05:37.094Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -17,6 +17,19 @@ Points: 603
 # Comments: 306]]></summary>
         <author>
             <name>nycdatasci</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Files.md – Open-source alternative to Obsidian]]></title>
+        <id>https://news.ycombinator.com/item?id=48179677</id>
+        <link href="https://github.com/zakirullin/files.md"/>
+        <updated>2026-05-18T13:33:33.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://github.com/zakirullin/files.md
+Comments URL: https://news.ycombinator.com/item?id=48179677
+Points: 517
+# Comments: 269]]></summary>
+        <author>
+            <name>zakirullin</name>
         </author>
     </entry>
     <entry>
