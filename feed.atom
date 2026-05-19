@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-05-19T18:59:46.697Z</updated>
+    <updated>2026-05-19T20:49:13.179Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -34,6 +34,19 @@ Points: 804
 # Comments: 316]]></summary>
         <author>
             <name>dmarcos</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple unveils new accessibility features]]></title>
+        <id>https://news.ycombinator.com/item?id=48192224</id>
+        <link href="https://www.apple.com/newsroom/2026/05/apple-unveils-new-accessibility-features-and-updates-with-apple-intelligence/"/>
+        <updated>2026-05-19T12:04:18.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.apple.com/newsroom/2026/05/apple-unveils-new-accessibility-features-and-updates-with-apple-intelligence/
+Comments URL: https://news.ycombinator.com/item?id=48192224
+Points: 517
+# Comments: 271]]></summary>
+        <author>
+            <name>interpol_p</name>
         </author>
     </entry>
     <entry>
@@ -3170,19 +3183,6 @@ Points: 537
 # Comments: 124]]></summary>
         <author>
             <name>kevcampb</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GitHub's Fake Star Economy]]></title>
-        <id>https://news.ycombinator.com/item?id=47831621</id>
-        <link href="https://awesomeagents.ai/news/github-fake-stars-investigation/"/>
-        <updated>2026-04-20T08:26:52.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://awesomeagents.ai/news/github-fake-stars-investigation/
-Comments URL: https://news.ycombinator.com/item?id=47831621
-Points: 529
-# Comments: 288]]></summary>
-        <author>
-            <name>Liriel</name>
         </author>
     </entry>
 </feed>
