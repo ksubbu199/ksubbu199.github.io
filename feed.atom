@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-05-19T00:05:37.094Z</updated>
+    <updated>2026-05-19T05:00:55.946Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -17,6 +17,19 @@ Points: 603
 # Comments: 306]]></summary>
         <author>
             <name>nycdatasci</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Garry Tan, the CEO of YC, accused me of unethical reporting]]></title>
+        <id>https://news.ycombinator.com/item?id=48181041</id>
+        <link href="https://radleybalko.substack.com/p/truth-power-and-honest-journalism"/>
+        <updated>2026-05-18T15:18:19.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://radleybalko.substack.com/p/truth-power-and-honest-journalism
+Comments URL: https://news.ycombinator.com/item?id=48181041
+Points: 502
+# Comments: 148]]></summary>
+        <author>
+            <name>gok</name>
         </author>
     </entry>
     <entry>
@@ -92,6 +105,19 @@ Points: 509
 # Comments: 283]]></summary>
         <author>
             <name>gidellav</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Quiet Renovation at Bitwarden]]></title>
+        <id>https://news.ycombinator.com/item?id=48163389</id>
+        <link href="https://blog.ppb1701.com/the-quiet-renovation-at-bitwarden"/>
+        <updated>2026-05-16T20:13:41.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://blog.ppb1701.com/the-quiet-renovation-at-bitwarden
+Comments URL: https://news.ycombinator.com/item?id=48163389
+Points: 589
+# Comments: 262]]></summary>
+        <author>
+            <name>DaSHacka</name>
         </author>
     </entry>
     <entry>
@@ -3101,19 +3127,6 @@ Points: 529
 # Comments: 288]]></summary>
         <author>
             <name>Liriel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vercel April 2026 security incident]]></title>
-        <id>https://news.ycombinator.com/item?id=47824463</id>
-        <link href="https://www.bleepingcomputer.com/news/security/vercel-confirms-breach-as-hackers-claim-to-be-selling-stolen-data/"/>
-        <updated>2026-04-19T14:14:38.000Z</updated>
-        <summary type="html"><![CDATA[https://vercel.com/kb/bulletin/vercel-april-2026-security-in...
-Comments URL: https://news.ycombinator.com/item?id=47824463
-Points: 559
-# Comments: 326]]></summary>
-        <author>
-            <name>colesantiago</name>
         </author>
     </entry>
 </feed>
