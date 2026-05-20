@@ -6,6 +6,26 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=48197980",
+          "author": "ortusdux",
+          "description": "Article URL: https://www.npr.org/2026/05/19/nx-s1-5821265/minnesota-ban-prediction-markets\nComments URL: https://news.ycombinator.com/item?id=48197980\nPoints: 571\n# Comments: 171",
+          "link": "https://www.npr.org/2026/05/19/nx-s1-5821265/minnesota-ban-prediction-markets",
+          "publishedOn": "2026-05-19T19:13:26.000Z",
+          "wordCount": 1712,
+          "title": "Minnesota becomes first state to ban prediction markets",
+          "imageUrl": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4000x2250+0+170/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F20%2F8e%2Fd3b2b95e482fb859a4662dadf81d%2Fap26048635918644.jpg"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=48196570",
+          "author": "spectraldrift",
+          "description": "https://ai.google.dev/gemini-api/docs/models/gemini-3.5-flas...\nComments URL: https://news.ycombinator.com/item?id=48196570\nPoints: 671\n# Comments: 485",
+          "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/",
+          "publishedOn": "2026-05-19T17:43:45.000Z",
+          "wordCount": 6097,
+          "title": "Gemini 3.5 Flash",
+          "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-3-5__keywordstatement__metacard__light.width-1300.png"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=48195009",
           "author": "andreww591",
           "description": "Article URL: https://virtualosmuseum.org/\nComments URL: https://news.ycombinator.com/item?id=48195009\nPoints: 535\n# Comments: 126",
@@ -1904,56 +1924,6 @@
           "wordCount": 6342,
           "title": "At long last, InfoWars is ours",
           "imageUrl": "https://theonion.com/wp-content/uploads/2026/04/IW_Flags_Announcement_IHA_GR_16x9.jpg"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=47835735",
-          "author": "meetpateltech",
-          "description": "Article URL: https://www.kimi.com/blog/kimi-k2-6\nComments URL: https://news.ycombinator.com/item?id=47835735\nPoints: 507\n# Comments: 256",
-          "link": "https://www.kimi.com/blog/kimi-k2-6",
-          "publishedOn": "2026-04-20T15:28:13.000Z",
-          "wordCount": 2643,
-          "title": "Kimi K2.6: Advancing open-source coding",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=47835635",
-          "author": "nkurz",
-          "description": "Article URL: https://asteriskmag.com/issues/14/the-mystery-in-the-medicine-cabinet\nComments URL: https://news.ycombinator.com/item?id=47835635\nPoints: 504\n# Comments: 312",
-          "link": "https://asteriskmag.com/issues/14/the-mystery-in-the-medicine-cabinet",
-          "publishedOn": "2026-04-20T15:21:16.000Z",
-          "wordCount": 4454,
-          "title": "Acetaminophen vs. ibuprofen",
-          "imageUrl": "https://asteriskmag.com/media/pages/issues/14/the-mystery-in-the-medicine-cabinet/e71f2c3954-1776281832/dynomight-social-1600x900-crop-sharpen50.png"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=47834565",
-          "author": "mfiguiere",
-          "description": "Article URL: https://qwen.ai/blog?id=qwen3.6-max-preview\nComments URL: https://news.ycombinator.com/item?id=47834565\nPoints: 505\n# Comments: 252",
-          "link": "https://qwen.ai/blog?id=qwen3.6-max-preview",
-          "publishedOn": "2026-04-20T14:05:34.000Z",
-          "wordCount": 206,
-          "title": "Qwen3.6-Max-Preview: Smarter, Sharper, Still Evolving",
-          "imageUrl": "https://img.alicdn.com/imgextra/i1/O1CN013ltlI61OTOnTStXfj_!!6000000001706-55-tps-330-327.svg"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=47834195",
-          "author": "ramonga",
-          "description": "Article URL: https://www.theolivepress.es/spain-news/2026/04/20/eu-to-force-replaceable-batteries-in-phones-and-tablets-from-2027/\nComments URL: https://news.ycombinator.com/item?id=47834195\nPoints: 603\n# Comments: 475",
-          "link": "https://www.theolivepress.es/spain-news/2026/04/20/eu-to-force-replaceable-batteries-in-phones-and-tablets-from-2027/",
-          "publishedOn": "2026-04-20T13:41:25.000Z",
-          "wordCount": null,
-          "title": "All phones sold in the EU to have replaceable batteries from 2027",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=47833247",
-          "author": "kevcampb",
-          "description": "Article URL: https://letsdatascience.com/news/atlassian-enables-default-data-collection-to-train-ai-f71343d8\nComments URL: https://news.ycombinator.com/item?id=47833247\nPoints: 537\n# Comments: 124",
-          "link": "https://letsdatascience.com/news/atlassian-enables-default-data-collection-to-train-ai-f71343d8",
-          "publishedOn": "2026-04-20T12:23:39.000Z",
-          "wordCount": null,
-          "title": "Atlassian enables default data collection to train AI",
-          "imageUrl": null
         }
       ]
     },

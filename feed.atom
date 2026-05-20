@@ -2,10 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-05-20T00:05:56.312Z</updated>
+    <updated>2026-05-20T05:04:35.698Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Minnesota becomes first state to ban prediction markets]]></title>
+        <id>https://news.ycombinator.com/item?id=48197980</id>
+        <link href="https://www.npr.org/2026/05/19/nx-s1-5821265/minnesota-ban-prediction-markets"/>
+        <updated>2026-05-19T19:13:26.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.npr.org/2026/05/19/nx-s1-5821265/minnesota-ban-prediction-markets
+Comments URL: https://news.ycombinator.com/item?id=48197980
+Points: 571
+# Comments: 171]]></summary>
+        <author>
+            <name>ortusdux</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gemini 3.5 Flash]]></title>
+        <id>https://news.ycombinator.com/item?id=48196570</id>
+        <link href="https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/"/>
+        <updated>2026-05-19T17:43:45.000Z</updated>
+        <summary type="html"><![CDATA[https://ai.google.dev/gemini-api/docs/models/gemini-3.5-flas...
+Comments URL: https://news.ycombinator.com/item?id=48196570
+Points: 671
+# Comments: 485]]></summary>
+        <author>
+            <name>spectraldrift</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Maintainability sensors for coding agents]]></title>
         <id>https://martinfowler.com/articles/sensors-for-coding-agents.html</id>
@@ -3131,71 +3157,6 @@ Points: 508
         <updated>2026-04-20T16:35:57.000Z</updated>
         <author>
             <name>Think School</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kimi K2.6: Advancing open-source coding]]></title>
-        <id>https://news.ycombinator.com/item?id=47835735</id>
-        <link href="https://www.kimi.com/blog/kimi-k2-6"/>
-        <updated>2026-04-20T15:28:13.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.kimi.com/blog/kimi-k2-6
-Comments URL: https://news.ycombinator.com/item?id=47835735
-Points: 507
-# Comments: 256]]></summary>
-        <author>
-            <name>meetpateltech</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Acetaminophen vs. ibuprofen]]></title>
-        <id>https://news.ycombinator.com/item?id=47835635</id>
-        <link href="https://asteriskmag.com/issues/14/the-mystery-in-the-medicine-cabinet"/>
-        <updated>2026-04-20T15:21:16.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://asteriskmag.com/issues/14/the-mystery-in-the-medicine-cabinet
-Comments URL: https://news.ycombinator.com/item?id=47835635
-Points: 504
-# Comments: 312]]></summary>
-        <author>
-            <name>nkurz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Qwen3.6-Max-Preview: Smarter, Sharper, Still Evolving]]></title>
-        <id>https://news.ycombinator.com/item?id=47834565</id>
-        <link href="https://qwen.ai/blog?id=qwen3.6-max-preview"/>
-        <updated>2026-04-20T14:05:34.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://qwen.ai/blog?id=qwen3.6-max-preview
-Comments URL: https://news.ycombinator.com/item?id=47834565
-Points: 505
-# Comments: 252]]></summary>
-        <author>
-            <name>mfiguiere</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[All phones sold in the EU to have replaceable batteries from 2027]]></title>
-        <id>https://news.ycombinator.com/item?id=47834195</id>
-        <link href="https://www.theolivepress.es/spain-news/2026/04/20/eu-to-force-replaceable-batteries-in-phones-and-tablets-from-2027/"/>
-        <updated>2026-04-20T13:41:25.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.theolivepress.es/spain-news/2026/04/20/eu-to-force-replaceable-batteries-in-phones-and-tablets-from-2027/
-Comments URL: https://news.ycombinator.com/item?id=47834195
-Points: 603
-# Comments: 475]]></summary>
-        <author>
-            <name>ramonga</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Atlassian enables default data collection to train AI]]></title>
-        <id>https://news.ycombinator.com/item?id=47833247</id>
-        <link href="https://letsdatascience.com/news/atlassian-enables-default-data-collection-to-train-ai-f71343d8"/>
-        <updated>2026-04-20T12:23:39.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://letsdatascience.com/news/atlassian-enables-default-data-collection-to-train-ai-f71343d8
-Comments URL: https://news.ycombinator.com/item?id=47833247
-Points: 537
-# Comments: 124]]></summary>
-        <author>
-            <name>kevcampb</name>
         </author>
     </entry>
 </feed>
