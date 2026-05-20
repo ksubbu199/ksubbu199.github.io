@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=48212493",
+          "author": "tedsanders",
+          "description": "Article URL: https://openai.com/index/model-disproves-discrete-geometry-conjecture/\nComments URL: https://news.ycombinator.com/item?id=48212493\nPoints: 557\n# Comments: 374",
+          "link": "https://openai.com/index/model-disproves-discrete-geometry-conjecture/",
+          "publishedOn": "2026-05-20T19:05:30.000Z",
+          "wordCount": null,
+          "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
+          "imageUrl": null
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=48208502",
           "author": "ceejayoz",
           "description": "Article URL: https://www.fire.org/news/victory-tennessee-man-jailed-37-days-trump-meme-wins-835000-settlement-after-first-amendment\nComments URL: https://news.ycombinator.com/item?id=48208502\nPoints: 530\n# Comments: 315",
@@ -1954,16 +1964,6 @@
           "wordCount": null,
           "title": "Meta to start capturing employee mouse movements, keystrokes for AI training",
           "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=47847179",
-          "author": "milanm081",
-          "description": "Article URL: https://lawsofsoftwareengineering.com\nComments URL: https://news.ycombinator.com/item?id=47847179\nPoints: 664\n# Comments: 345",
-          "link": "https://lawsofsoftwareengineering.com/",
-          "publishedOn": "2026-04-21T11:04:56.000Z",
-          "wordCount": 23642,
-          "title": "Laws of Software Engineering",
-          "imageUrl": "https://lawsofsoftwareengineering.com/og-image.png"
         }
       ]
     },

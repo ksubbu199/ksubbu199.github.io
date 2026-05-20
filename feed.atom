@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-05-20T21:53:23.602Z</updated>
+    <updated>2026-05-20T23:12:24.918Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[An OpenAI model has disproved a central conjecture in discrete geometry]]></title>
+        <id>https://news.ycombinator.com/item?id=48212493</id>
+        <link href="https://openai.com/index/model-disproves-discrete-geometry-conjecture/"/>
+        <updated>2026-05-20T19:05:30.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://openai.com/index/model-disproves-discrete-geometry-conjecture/
+Comments URL: https://news.ycombinator.com/item?id=48212493
+Points: 557
+# Comments: 374]]></summary>
+        <author>
+            <name>tedsanders</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Tennessee man jailed 37 days for Trump meme wins settlement after lawsuit]]></title>
         <id>https://news.ycombinator.com/item?id=48208502</id>
@@ -3231,19 +3244,6 @@ As we would expect, the radar is dominated by AI-oriented topics. Part of this i
 An interesting consequence of AI in software development is that it’s not only forcing us to look to the future; it’s also pushing us to revisit the foundations of our craft. While assembling this edition, we found ourselves returning to many established techniques, from pair programming to zero trust architecture,…]]></summary>
         <author>
             <name>Martin Fowler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Laws of Software Engineering]]></title>
-        <id>https://news.ycombinator.com/item?id=47847179</id>
-        <link href="https://lawsofsoftwareengineering.com/"/>
-        <updated>2026-04-21T11:04:56.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://lawsofsoftwareengineering.com
-Comments URL: https://news.ycombinator.com/item?id=47847179
-Points: 664
-# Comments: 345]]></summary>
-        <author>
-            <name>milanm081</name>
         </author>
     </entry>
 </feed>
