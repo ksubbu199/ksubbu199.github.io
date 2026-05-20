@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-05-20T16:27:48.815Z</updated>
+    <updated>2026-05-20T19:25:02.831Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Tennessee man jailed 37 days for Trump meme wins settlement after lawsuit]]></title>
+        <id>https://news.ycombinator.com/item?id=48208502</id>
+        <link href="https://www.fire.org/news/victory-tennessee-man-jailed-37-days-trump-meme-wins-835000-settlement-after-first-amendment"/>
+        <updated>2026-05-20T14:30:47.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.fire.org/news/victory-tennessee-man-jailed-37-days-trump-meme-wins-835000-settlement-after-first-amendment
+Comments URL: https://news.ycombinator.com/item?id=48208502
+Points: 530
+# Comments: 315]]></summary>
+        <author>
+            <name>ceejayoz</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Goodbye Visa and Mastercard: 130M Europeans switching to sovereign payment]]></title>
         <id>https://news.ycombinator.com/item?id=48207004</id>
@@ -49,6 +62,19 @@ Points: 557
         <summary type="html"><![CDATA[A $124B fund in Australia would have lost all data stored with Google Cloud, had they not relied on a third-party backup. A rare blunder from GCP, where regional replication did not stop the deletion – and a just as rare statement from Google Cloud’s CEO taking the blame.]]></summary>
         <author>
             <name>Gergely Orosz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Incident Report: Railway Blocked by Google Cloud [resolved]]]></title>
+        <id>https://news.ycombinator.com/item?id=48201484</id>
+        <link href="https://status.railway.com/incident/I23M92U0"/>
+        <updated>2026-05-20T00:23:54.000Z</updated>
+        <summary type="html"><![CDATA[Subsequent thread: Incident Report: May 19, 2026 – GCP Account Suspension - https://news.ycombinator.com/item?id=48204770
+Comments URL: https://news.ycombinator.com/item?id=48201484
+Points: 539
+# Comments: 344]]></summary>
+        <author>
+            <name>aarondf</name>
         </author>
     </entry>
     <entry>
