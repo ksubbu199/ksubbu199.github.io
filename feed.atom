@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-05-20T19:25:02.831Z</updated>
+    <updated>2026-05-20T21:53:23.602Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -17,6 +17,22 @@ Points: 530
 # Comments: 315]]></summary>
         <author>
             <name>ceejayoz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Three more static code analysis sensors]]></title>
+        <id>https://martinfowler.com/articles/sensors-for-coding-agents.html#StaticCodeAnalysisDependencyRules</id>
+        <link href="https://martinfowler.com/articles/sensors-for-coding-agents.html#StaticCodeAnalysisDependencyRules"/>
+        <updated>2026-05-20T14:27:00.000Z</updated>
+        <summary type="html"><![CDATA[Birgitta Böckeler adds discussion of three more
+      sensors for static code analysis, focusing on checking and enforcing
+      better modularity. Computational sensors for dependency checks were good
+      at enforcing rules, but the rules were limited. Building a computational
+      sensor for coupling data proved lackluster. Prompting an inferential
+      sensor to review modularity was more effective.
+more…]]></summary>
+        <author>
+            <name>Martin Fowler</name>
         </author>
     </entry>
     <entry>
@@ -52,6 +68,19 @@ Points: 557
         <updated>2026-05-20T11:29:00.000Z</updated>
         <author>
             <name>Think School</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Qwen3.7-Max: The Agent Frontier]]></title>
+        <id>https://news.ycombinator.com/item?id=48205626</id>
+        <link href="https://qwen.ai/blog?id=qwen3.7"/>
+        <updated>2026-05-20T10:35:02.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://qwen.ai/blog?id=qwen3.7
+Comments URL: https://news.ycombinator.com/item?id=48205626
+Points: 554
+# Comments: 213]]></summary>
+        <author>
+            <name>kevinsimper</name>
         </author>
     </entry>
     <entry>
@@ -3215,19 +3244,6 @@ Points: 664
 # Comments: 345]]></summary>
         <author>
             <name>milanm081</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Your hex editor should color-code bytes]]></title>
-        <id>https://news.ycombinator.com/item?id=47846688</id>
-        <link href="https://simonomi.dev/blog/color-code-your-bytes/"/>
-        <updated>2026-04-21T09:52:09.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://simonomi.dev/blog/color-code-your-bytes/
-Comments URL: https://news.ycombinator.com/item?id=47846688
-Points: 512
-# Comments: 143]]></summary>
-        <author>
-            <name>tobr</name>
         </author>
     </entry>
 </feed>
