@@ -6,6 +6,26 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=48207004",
+          "author": "healsdata",
+          "description": "Article URL: https://www.lesnumeriques.com/banque-en-ligne/adieu-visa-et-mastercard-130-millions-d-europeens-basculent-vers-un-paiement-100-souverain-des-2026-n250918.html\nComments URL: https://news.ycombinator.com/item?id=48207004\nPoints: 544\n# Comments: 450",
+          "link": "https://www.lesnumeriques.com/banque-en-ligne/adieu-visa-et-mastercard-130-millions-d-europeens-basculent-vers-un-paiement-100-souverain-des-2026-n250918.html",
+          "publishedOn": "2026-05-20T13:02:30.000Z",
+          "wordCount": 3551,
+          "title": "Goodbye Visa and Mastercard: 130M Europeans switching to sovereign payment",
+          "imageUrl": "https://cdn.lesnumeriques.com/optim/news/25/250918/2079666a-adieu-visa-et-mastercard-130-millions-d-europeens-basculent-vers-un-paiement-100-souverain-des-2026__1200_678__0-192-4096-2342.jpg"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=48206768",
+          "author": "giuliomagnifico",
+          "description": "Article URL: https://www.alqst.org/ar/posts/1190\nComments URL: https://news.ycombinator.com/item?id=48206768\nPoints: 557\n# Comments: 219",
+          "link": "https://www.alqst.org/ar/posts/1190",
+          "publishedOn": "2026-05-20T12:43:41.000Z",
+          "wordCount": 1739,
+          "title": "Meta blocks human rights accounts from reaching audiences in Arabia and the UAE",
+          "imageUrl": "https://www.alqst.org/uploads/photos/shares/news/2026-05/6a0d7f2d38e34.jpeg"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=48201484",
           "author": "aarondf",
           "description": "https://status.railway.com/incident/I23M92U0\nComments URL: https://news.ycombinator.com/item?id=48201484\nPoints: 500\n# Comments: 317",
@@ -1924,16 +1944,6 @@
           "wordCount": 6316,
           "title": "Your hex editor should color-code bytes",
           "imageUrl": "https://simonomi.dev/images/color-code-your-bytes/preview.png"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=47844269",
-          "author": "jmsflknr",
-          "description": "Article URL: https://docs.openclaw.ai/providers/anthropic\nComments URL: https://news.ycombinator.com/item?id=47844269\nPoints: 501\n# Comments: 288",
-          "link": "https://docs.openclaw.ai/providers/anthropic",
-          "publishedOn": "2026-04-21T03:43:03.000Z",
-          "wordCount": 1154,
-          "title": "Anthropic says OpenClaw-style Claude CLI usage is allowed again",
-          "imageUrl": null
         }
       ]
     },
