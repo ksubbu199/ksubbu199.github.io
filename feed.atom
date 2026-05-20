@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-05-20T05:04:35.698Z</updated>
+    <updated>2026-05-20T09:34:11.539Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Google Cloud deletes Australian trading fund’s infra]]></title>
+        <id>6a0d707867d99e0001f62c84</id>
+        <link href="https://blog.pragmaticengineer.com/google-cloud-deletes-australian-trading-funds-infra/"/>
+        <updated>2026-05-20T08:31:08.000Z</updated>
+        <summary type="html"><![CDATA[A $124B fund in Australia would have lost all data stored with Google Cloud, had they not relied on a third-party backup. A rare blunder from GCP, where regional replication did not stop the deletion – and a just as rare statement from Google Cloud’s CEO taking the blame.]]></summary>
+        <author>
+            <name>Gergely Orosz</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Minnesota becomes first state to ban prediction markets]]></title>
         <id>https://news.ycombinator.com/item?id=48197980</id>
@@ -17,6 +27,21 @@ Points: 571
 # Comments: 171]]></summary>
         <author>
             <name>ortusdux</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google changes its search box]]></title>
+        <id>https://news.ycombinator.com/item?id=48197370</id>
+        <link href="https://blog.google/products-and-platforms/products/search/search-io-2026/"/>
+        <updated>2026-05-19T18:34:27.000Z</updated>
+        <summary type="html"><![CDATA[https://www.nytimes.com/2026/05/19/business/google-seach-bar..., https://archive.ph/XI1sQ
+https://techcrunch.com/2026/05/19/google-search-as-you-know-...
+https://www.theverge.com/tech/932970/google-search-ai-update...
+Comments URL: https://news.ycombinator.com/item?id=48197370
+Points: 537
+# Comments: 712]]></summary>
+        <author>
+            <name>berkeleyjunk</name>
         </author>
     </entry>
     <entry>
@@ -3109,54 +3134,6 @@ Points: 528
 # Comments: 152]]></summary>
         <author>
             <name>kaipereira</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[John Ternus to become Apple CEO]]></title>
-        <id>https://news.ycombinator.com/item?id=47840219</id>
-        <link href="https://www.apple.com/newsroom/2026/04/tim-cook-to-become-apple-executive-chairman-john-ternus-to-become-apple-ceo/"/>
-        <updated>2026-04-20T20:39:32.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.apple.com/newsroom/2026/04/tim-cook-to-become-apple-executive-chairman-john-ternus-to-become-apple-ceo/
-Comments URL: https://news.ycombinator.com/item?id=47840219
-Points: 752
-# Comments: 376]]></summary>
-        <author>
-            <name>schappim</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Changes to GitHub Copilot individual plans]]></title>
-        <id>https://news.ycombinator.com/item?id=47838508</id>
-        <link href="https://github.blog/news-insights/company-news/changes-to-github-copilot-individual-plans/"/>
-        <updated>2026-04-20T18:24:05.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://github.blog/news-insights/company-news/changes-to-github-copilot-individual-plans/
-Comments URL: https://news.ycombinator.com/item?id=47838508
-Points: 509
-# Comments: 212]]></summary>
-        <author>
-            <name>zorrn</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[At long last, InfoWars is ours]]></title>
-        <id>https://news.ycombinator.com/item?id=47837611</id>
-        <link href="https://theonion.com/at-long-last-infowars-is-ours/"/>
-        <updated>2026-04-20T17:23:58.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://theonion.com/at-long-last-infowars-is-ours/
-Comments URL: https://news.ycombinator.com/item?id=47837611
-Points: 508
-# Comments: 235]]></summary>
-        <author>
-            <name>HotGarbage</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SHOCKING Truth: Why the AMERICAN DREAM is Over | Who Wins the Global Race Now? ft. Balaji Srinivasan]]></title>
-        <id>https://www.youtube.com/watch?v=6dIdS6slVWE</id>
-        <link href="https://www.youtube.com/watch?v=6dIdS6slVWE"/>
-        <updated>2026-04-20T16:35:57.000Z</updated>
-        <author>
-            <name>Think School</name>
         </author>
     </entry>
 </feed>
