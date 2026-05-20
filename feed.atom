@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-05-19T22:15:57.426Z</updated>
+    <updated>2026-05-20T00:05:56.312Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -21,6 +21,19 @@
 more…]]></summary>
         <author>
             <name>Martin Fowler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I’ve built a virtual museum with nearly every operating system you can think of]]></title>
+        <id>https://news.ycombinator.com/item?id=48195009</id>
+        <link href="https://virtualosmuseum.org/"/>
+        <updated>2026-05-19T15:53:38.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://virtualosmuseum.org/
+Comments URL: https://news.ycombinator.com/item?id=48195009
+Points: 535
+# Comments: 126]]></summary>
+        <author>
+            <name>andreww591</name>
         </author>
     </entry>
     <entry>
