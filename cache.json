@@ -6,6 +6,26 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=48201484",
+          "author": "aarondf",
+          "description": "https://status.railway.com/incident/I23M92U0\nComments URL: https://news.ycombinator.com/item?id=48201484\nPoints: 500\n# Comments: 317",
+          "link": "https://blog.railway.com/p/incident-report-may-19-2026-gcp-account-outage",
+          "publishedOn": "2026-05-20T00:23:54.000Z",
+          "wordCount": 5575,
+          "title": "Incident Report: Railway Blocked by Google Cloud (Resolved)",
+          "imageUrl": "https://res.cloudinary.com/railway/image/upload/v1734405679/incident-hero_ri6qfy.png"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=48201316",
+          "author": "splenditer",
+          "description": "https://xcancel.com/github/status/2056884788179726685\nComments URL: https://news.ycombinator.com/item?id=48201316\nPoints: 505\n# Comments: 273",
+          "link": "https://twitter.com/github/status/2056884788179726685",
+          "publishedOn": "2026-05-20T00:01:18.000Z",
+          "wordCount": 981,
+          "title": "GitHub is investigating unauthorized access to their internal repositories",
+          "imageUrl": null
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=48197980",
           "author": "ortusdux",
           "description": "Article URL: https://www.npr.org/2026/05/19/nx-s1-5821265/minnesota-ban-prediction-markets\nComments URL: https://news.ycombinator.com/item?id=48197980\nPoints: 571\n# Comments: 171",
@@ -56,6 +76,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://news.ycombinator.com/item?id=48192383",
+          "author": "zambelli",
+          "description": "Hi HN, I'm Antoine Zambelli, AI Director at Texas Instruments.\nI built Forge, an open-source reliability layer for self-hosted LLM tool-calling.\nWhat it does:\n- Adds domain-and-tool-agnostic guardrails (retry nudges, step enforcement, error recovery, VRAM-aware context management) to local models running on consumer hardware\n- Takes an 8B model from ~53% to ~99% on multi-step agentic workflows without changing the model - just the system around it\n- Ships with an eval harness and interactive dashboard so you can reproduce every number\nI wanted to run a handful of always-on agentic systems for my portfolio, didn't want to pay cloud frontier costs, and immediately hit the compounding math problem on local models. 90% per-step accuracy sounds great, but with a 5-step workflow that's a 40% fai…",
+          "link": "https://github.com/antoinezambelli/forge",
+          "publishedOn": "2026-05-19T12:23:07.000Z",
+          "wordCount": 4763,
+          "title": "Show HN: Forge – Guardrails take an 8B model from 53% to 99% on agentic tasks",
+          "imageUrl": "https://opengraph.githubassets.com/2881e9353cac64c746ef8b0f4efd96ceb878f94978c1c41e8dc4138d0ab8c683/antoinezambelli/forge"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=48192224",
           "author": "interpol_p",
           "description": "Article URL: https://www.apple.com/newsroom/2026/05/apple-unveils-new-accessibility-features-and-updates-with-apple-intelligence/\nComments URL: https://news.ycombinator.com/item?id=48192224\nPoints: 517\n# Comments: 271",
@@ -64,6 +94,16 @@
           "wordCount": 6800,
           "title": "Apple unveils new accessibility features",
           "imageUrl": "https://www.apple.com/newsroom/images/2026/05/apple-unveils-new-accessibility-features-and-updates-with-apple-intelligence/tile/Apple-accessibility-features-VoiceOver-with-Apple-Intelligence-lp.jpg.og.jpg?202605191559"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=48191602",
+          "author": "danybittel",
+          "description": "The Setup:\nhttps://i.imgur.com/o0hgybh.jpeg\nhttps://i.imgur.com/mcNiomp.jpeg\nhttps://i.imgur.com/vIjw6pc.jpeg\nhttps://i.imgur.com/nzOwmSC.jpeg\nComments URL: https://news.ycombinator.com/item?id=48191602\nPoints: 504\n# Comments: 191",
+          "link": "https://superspl.at/scene/84df8849",
+          "publishedOn": "2026-05-19T10:38:47.000Z",
+          "wordCount": 587,
+          "title": "Show HN: Gaussian Splat of a Strawberry",
+          "imageUrl": "https://s3-eu-west-1.amazonaws.com/images.playcanvas.com/splat/84df8849/v1/xl.webp"
         },
         {
           "id": "https://news.ycombinator.com/item?id=48188183",
@@ -1894,16 +1934,6 @@
           "wordCount": 1154,
           "title": "Anthropic says OpenClaw-style Claude CLI usage is allowed again",
           "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=47842569",
-          "author": "kaipereira",
-          "description": "Article URL: https://www.youtube.com/watch?v=h6GWikWlAQA\nComments URL: https://news.ycombinator.com/item?id=47842569\nPoints: 528\n# Comments: 152",
-          "link": "https://www.youtube.com/watch?v=h6GWikWlAQA",
-          "publishedOn": "2026-04-20T23:35:06.000Z",
-          "wordCount": null,
-          "title": "Making RAM at Home [video]",
-          "imageUrl": null
         }
       ]
     },
@@ -2172,6 +2202,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKZozRVHRYsYHGEyNKuhhdA",
       "siteUrl": "https://www.youtube.com/channel/UCKZozRVHRYsYHGEyNKuhhdA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=cBuO_NdQw8c",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=cBuO_NdQw8c",
+          "publishedOn": "2026-05-20T11:29:00.000Z",
+          "wordCount": null,
+          "title": "How To SCALE Your Brand on QUICK COMMERCE?? | BIG Announcement",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/shorts/_y0Sr9RXITM",
           "author": null,
