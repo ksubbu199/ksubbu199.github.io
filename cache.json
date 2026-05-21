@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=48220647",
+          "author": "sandebert",
+          "description": "Article URL: https://blog.flipper.net/flipper-one-we-need-your-help/\nComments URL: https://news.ycombinator.com/item?id=48220647\nPoints: 519\n# Comments: 261",
+          "link": "https://blog.flipper.net/flipper-one-we-need-your-help/",
+          "publishedOn": "2026-05-21T11:03:38.000Z",
+          "wordCount": 5952,
+          "title": "Flipper One – we need your help",
+          "imageUrl": "https://blog.flipper.net/content/images/size/w1200/2026/05/Flipper-One-we-need-your-help-main-v2.jpg"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=48214449",
           "author": "cdrnsf",
           "description": "Article URL: https://tante.cc/2026/05/20/on-google-declaring-war-on-the-web/\nComments URL: https://news.ycombinator.com/item?id=48214449\nPoints: 533\n# Comments: 375",
@@ -2032,6 +2042,16 @@
       "feedUrl": "https://martinfowler.com/feed.atom",
       "siteUrl": "https://martinfowler.com/feed.atom",
       "articles": [
+        {
+          "id": "https://martinfowler.com/bliki/VibeCoding.html",
+          "author": null,
+          "description": "Vibe coding is building a software application by prompting an LLM, telling it\n  what to build, trying it out, prompting for changes - but without looking at\n  any of the code that the LLM generates. This technique can be used by people\n  without any knowledge of programming. However the resulting software often\n  shows problems with maintainability, correctness, and security - so is best\n  used for disposable software written for a limited audience.\nThe term was coined in February 2025 by Andrej Karpathy, an experienced\n  programmer, in a post on X:\nThere's a new kind of coding I call “vibe coding”, where you fully give\n    in to the vibes, embrace exponentials, and forget that the code even exists.\n    It's possible because the LLMs (e.g. Cursor Composer w Sonnet) are getting\n    too goo…",
+          "link": "https://martinfowler.com/bliki/VibeCoding.html",
+          "publishedOn": "2026-05-21T11:49:00.000Z",
+          "wordCount": 868,
+          "title": "Bliki: Vibe Coding",
+          "imageUrl": "https://martinfowler.com/logo-sq.png"
+        },
         {
           "id": "https://martinfowler.com/articles/sensors-for-coding-agents.html#StaticCodeAnalysisDependencyRules",
           "author": null,
