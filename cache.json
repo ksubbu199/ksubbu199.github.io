@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=48214449",
+          "author": "cdrnsf",
+          "description": "Article URL: https://tante.cc/2026/05/20/on-google-declaring-war-on-the-web/\nComments URL: https://news.ycombinator.com/item?id=48214449\nPoints: 533\n# Comments: 375",
+          "link": "https://tante.cc/2026/05/20/on-google-declaring-war-on-the-web/",
+          "publishedOn": "2026-05-20T21:33:18.000Z",
+          "wordCount": null,
+          "title": "Google Declaring War on the Web",
+          "imageUrl": null
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=48212493",
           "author": "tedsanders",
           "description": "Article URL: https://openai.com/index/model-disproves-discrete-geometry-conjecture/\nComments URL: https://news.ycombinator.com/item?id=48212493\nPoints: 557\n# Comments: 374",
@@ -1924,26 +1934,6 @@
           "wordCount": 158,
           "title": "Windows 9x Subsystem for Linux",
           "imageUrl": "https://social.hails.org/system/media_attachments/files/116/446/788/929/856/640/original/51e9df0c2c78e05c.png"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=47855293",
-          "author": "dmarcos",
-          "description": "https://www.reuters.com/technology/spacex-says-it-has-option...\nhttps://www.nytimes.com/2026/04/21/business/spacex-cursor-de... (https://archive.ph/c2Tac)\nhttps://www.bloomberg.com/news/articles/2026-04-21/spacex-sa...\nComments URL: https://news.ycombinator.com/item?id=47855293\nPoints: 574\n# Comments: 699",
-          "link": "https://twitter.com/spacex/status/2046713419978453374",
-          "publishedOn": "2026-04-21T22:13:18.000Z",
-          "wordCount": 883,
-          "title": "SpaceX says it has agreement to acquire Cursor for $60B",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=47854477",
-          "author": "JamesMcMinn",
-          "description": "https://x.com/TheAmolAvasare/status/2046725498592722972\nhttps://xcancel.com/TheAmolAvasare/status/204672549859272297...\nComments URL: https://news.ycombinator.com/item?id=47854477\nPoints: 560\n# Comments: 519",
-          "link": "https://bsky.app/profile/edzitron.com/post/3mjzxwfx3qs2a",
-          "publishedOn": "2026-04-21T21:03:04.000Z",
-          "wordCount": 441,
-          "title": "Claude Code to be removed from Anthropic's Pro plan?",
-          "imageUrl": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:qc6xzgctorfsm35w6i3vdebx/bafkreiddpkqpxwsi42rgzrktvrzurcwjcmwbegqouwd5u3qsz5c5c4drte"
         }
       ]
     },
@@ -2131,16 +2121,6 @@
           "wordCount": 7031,
           "title": "Structured-Prompt-Driven Development (SPDD)",
           "imageUrl": "https://martinfowler.com/articles/structured-prompt-driven/card.png"
-        },
-        {
-          "id": "https://martinfowler.com/fragments/2026-04-21.html",
-          "author": null,
-          "description": "Last week Thoughtworks released the 34th volume of our Technology Radar. This radar is our biannual survey of our experience of the technology scene, highlighting tools, techniques, platforms, and languages that we’ve used or otherwise caught our eye. This edition contains 118 blips, each briefly describing our impressions of one of these elements.\nAs we would expect, the radar is dominated by AI-oriented topics. Part of this is revisiting familiar ground with LLM-assisted eyes:\nAn interesting consequence of AI in software development is that it’s not only forcing us to look to the future; it’s also pushing us to revisit the foundations of our craft. While assembling this edition, we found ourselves returning to many established techniques, from pair programming to zero trust architecture,…",
-          "link": "https://martinfowler.com/fragments/2026-04-21.html",
-          "publishedOn": "2026-04-21T20:34:00.000Z",
-          "wordCount": 1185,
-          "title": "Fragments: April 21",
-          "imageUrl": "https://martinfowler.com/logo-sq.png"
         }
       ]
     },

@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-05-21T07:53:08.296Z</updated>
+    <updated>2026-05-21T11:24:33.522Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Google Declaring War on the Web]]></title>
+        <id>https://news.ycombinator.com/item?id=48214449</id>
+        <link href="https://tante.cc/2026/05/20/on-google-declaring-war-on-the-web/"/>
+        <updated>2026-05-20T21:33:18.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://tante.cc/2026/05/20/on-google-declaring-war-on-the-web/
+Comments URL: https://news.ycombinator.com/item?id=48214449
+Points: 533
+# Comments: 375]]></summary>
+        <author>
+            <name>cdrnsf</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[An OpenAI model has disproved a central conjecture in discrete geometry]]></title>
         <id>https://news.ycombinator.com/item?id=48212493</id>
@@ -3168,47 +3181,6 @@ Points: 656
 # Comments: 159]]></summary>
         <author>
             <name>sohkamyung</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SpaceX says it has agreement to acquire Cursor for $60B]]></title>
-        <id>https://news.ycombinator.com/item?id=47855293</id>
-        <link href="https://twitter.com/spacex/status/2046713419978453374"/>
-        <updated>2026-04-21T22:13:18.000Z</updated>
-        <summary type="html"><![CDATA[https://www.reuters.com/technology/spacex-says-it-has-option...
-https://www.nytimes.com/2026/04/21/business/spacex-cursor-de... (https://archive.ph/c2Tac)
-https://www.bloomberg.com/news/articles/2026-04-21/spacex-sa...
-Comments URL: https://news.ycombinator.com/item?id=47855293
-Points: 574
-# Comments: 699]]></summary>
-        <author>
-            <name>dmarcos</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Claude Code to be removed from Anthropic's Pro plan?]]></title>
-        <id>https://news.ycombinator.com/item?id=47854477</id>
-        <link href="https://bsky.app/profile/edzitron.com/post/3mjzxwfx3qs2a"/>
-        <updated>2026-04-21T21:03:04.000Z</updated>
-        <summary type="html"><![CDATA[https://x.com/TheAmolAvasare/status/2046725498592722972
-https://xcancel.com/TheAmolAvasare/status/204672549859272297...
-Comments URL: https://news.ycombinator.com/item?id=47854477
-Points: 560
-# Comments: 519]]></summary>
-        <author>
-            <name>JamesMcMinn</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fragments: April 21]]></title>
-        <id>https://martinfowler.com/fragments/2026-04-21.html</id>
-        <link href="https://martinfowler.com/fragments/2026-04-21.html"/>
-        <updated>2026-04-21T20:34:00.000Z</updated>
-        <summary type="html"><![CDATA[Last week Thoughtworks released the 34th volume of our Technology Radar. This radar is our biannual survey of our experience of the technology scene, highlighting tools, techniques, platforms, and languages that we’ve used or otherwise caught our eye. This edition contains 118 blips, each briefly describing our impressions of one of these elements.
-As we would expect, the radar is dominated by AI-oriented topics. Part of this is revisiting familiar ground with LLM-assisted eyes:
-An interesting consequence of AI in software development is that it’s not only forcing us to look to the future; it’s also pushing us to revisit the foundations of our craft. While assembling this edition, we found ourselves returning to many established techniques, from pair programming to zero trust architecture,…]]></summary>
-        <author>
-            <name>Martin Fowler</name>
         </author>
     </entry>
 </feed>
