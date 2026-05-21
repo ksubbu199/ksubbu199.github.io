@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-05-21T03:41:10.764Z</updated>
+    <updated>2026-05-21T07:53:08.296Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -3200,52 +3200,15 @@ Points: 560
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ChatGPT Images 2.0]]></title>
-        <id>https://news.ycombinator.com/item?id=47852835</id>
-        <link href="https://openai.com/index/introducing-chatgpt-images-2-0/"/>
-        <updated>2026-04-21T18:50:00.000Z</updated>
-        <summary type="html"><![CDATA[Livestream: https://openai.com/live/
-System card: https://deploymentsafety.openai.com/chatgpt-images-2-0/chatg...
-Comments URL: https://news.ycombinator.com/item?id=47852835
-Points: 628
-# Comments: 515]]></summary>
+        <title type="html"><![CDATA[Fragments: April 21]]></title>
+        <id>https://martinfowler.com/fragments/2026-04-21.html</id>
+        <link href="https://martinfowler.com/fragments/2026-04-21.html"/>
+        <updated>2026-04-21T20:34:00.000Z</updated>
+        <summary type="html"><![CDATA[Last week Thoughtworks released the 34th volume of our Technology Radar. This radar is our biannual survey of our experience of the technology scene, highlighting tools, techniques, platforms, and languages that we’ve used or otherwise caught our eye. This edition contains 118 blips, each briefly describing our impressions of one of these elements.
+As we would expect, the radar is dominated by AI-oriented topics. Part of this is revisiting familiar ground with LLM-assisted eyes:
+An interesting consequence of AI in software development is that it’s not only forcing us to look to the future; it’s also pushing us to revisit the foundations of our craft. While assembling this edition, we found ourselves returning to many established techniques, from pair programming to zero trust architecture,…]]></summary>
         <author>
-            <name>wahnfrieden</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Framework Laptop 13 Pro]]></title>
-        <id>https://news.ycombinator.com/item?id=47852177</id>
-        <link href="https://frame.work/laptop13pro"/>
-        <updated>2026-04-21T18:00:34.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://frame.work/laptop13pro
-Comments URL: https://news.ycombinator.com/item?id=47852177
-Points: 511
-# Comments: 296]]></summary>
-        <author>
-            <name>Trollmann</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meta to start capturing employee mouse movements, keystrokes for AI training]]></title>
-        <id>https://news.ycombinator.com/item?id=47851948</id>
-        <link href="https://www.reuters.com/sustainability/boards-policy-regulation/meta-start-capturing-employee-mouse-movements-keystrokes-ai-training-data-2026-04-21/"/>
-        <updated>2026-04-21T17:40:39.000Z</updated>
-        <summary type="html"><![CDATA[Alt link: https://tech.yahoo.com/ai/meta-ai/articles/exclusive-meta-st...
-Comments URL: https://news.ycombinator.com/item?id=47851948
-Points: 546
-# Comments: 393]]></summary>
-        <author>
-            <name>dlx</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[North vs South Divide : Modi's BIGGEST Political Challenge!!]]></title>
-        <id>https://www.youtube.com/watch?v=39CPjv3-C5A</id>
-        <link href="https://www.youtube.com/watch?v=39CPjv3-C5A"/>
-        <updated>2026-04-21T16:20:03.000Z</updated>
-        <author>
-            <name>Think School</name>
+            <name>Martin Fowler</name>
         </author>
     </entry>
 </feed>
