@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-05-20T23:12:24.918Z</updated>
+    <updated>2026-05-21T03:41:10.764Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -46,6 +46,20 @@ Points: 530
 more…]]></summary>
         <author>
             <name>Martin Fowler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GitHub confirms breach of 3,800 repos via malicious VSCode extension]]></title>
+        <id>https://news.ycombinator.com/item?id=48207660</id>
+        <link href="https://www.bleepingcomputer.com/news/security/github-confirms-breach-of-3-800-repos-via-malicious-vscode-extension/"/>
+        <updated>2026-05-20T13:43:37.000Z</updated>
+        <summary type="html"><![CDATA[Previous thread in sequence:
+GitHub is investigating unauthorized access to their internal repositories - https://news.ycombinator.com/item?id=48201316 - May 2026 (321 comments)
+Comments URL: https://news.ycombinator.com/item?id=48207660
+Points: 598
+# Comments: 219]]></summary>
+        <author>
+            <name>Timofeibu</name>
         </author>
     </entry>
     <entry>
@@ -3232,18 +3246,6 @@ Points: 546
         <updated>2026-04-21T16:20:03.000Z</updated>
         <author>
             <name>Think School</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fragments: April 21]]></title>
-        <id>https://martinfowler.com/fragments/2026-04-21.html</id>
-        <link href="https://martinfowler.com/fragments/2026-04-21.html"/>
-        <updated>2026-04-21T14:34:00.000Z</updated>
-        <summary type="html"><![CDATA[Last week Thoughtworks released the 34th volume of our Technology Radar. This radar is our biannual survey of our experience of the technology scene, highlighting tools, techniques, platforms, and languages that we’ve used or otherwise caught our eye. This edition contains 118 blips, each briefly describing our impressions of one of these elements.
-As we would expect, the radar is dominated by AI-oriented topics. Part of this is revisiting familiar ground with LLM-assisted eyes:
-An interesting consequence of AI in software development is that it’s not only forcing us to look to the future; it’s also pushing us to revisit the foundations of our craft. While assembling this edition, we found ourselves returning to many established techniques, from pair programming to zero trust architecture,…]]></summary>
-        <author>
-            <name>Martin Fowler</name>
         </author>
     </entry>
 </feed>
