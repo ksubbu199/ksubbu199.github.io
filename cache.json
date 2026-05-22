@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=48234413",
+          "author": "janandonly",
+          "description": "Article URL: https://annas-archive.gl/blog/llms-txt.html\nComments URL: https://news.ycombinator.com/item?id=48234413\nPoints: 517\n# Comments: 312",
+          "link": "https://annas-archive.gl/blog/llms-txt.html",
+          "publishedOn": "2026-05-22T11:28:08.000Z",
+          "wordCount": 1228,
+          "title": "If you’re an LLM, please read this",
+          "imageUrl": null
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=48225297",
           "author": "speleo",
           "description": "Article URL: https://valhovey.github.io/gaia-mary/\nComments URL: https://news.ycombinator.com/item?id=48225297\nPoints: 707\n# Comments: 165",
@@ -1944,16 +1954,6 @@
           "wordCount": 9153,
           "title": "Bitwarden CLI compromised in ongoing Checkmarx supply chain campaign",
           "imageUrl": "https://cdn.sanity.io/images/cgdhsj6q/production/65ef8dc5e66260e20fdf13cead82ebd41b705ee6-1018x666.png?w=1000&q=95&fit=max&auto=format"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=47872324",
-          "author": "bumbledraven",
-          "description": "Article URL: https://crawshaw.io/blog/building-a-cloud\nComments URL: https://news.ycombinator.com/item?id=47872324\nPoints: 581\n# Comments: 293",
-          "link": "https://crawshaw.io/blog/building-a-cloud",
-          "publishedOn": "2026-04-23T04:44:19.000Z",
-          "wordCount": 1703,
-          "title": "I am building a cloud",
-          "imageUrl": null
         }
       ]
     },
@@ -2222,6 +2222,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKZozRVHRYsYHGEyNKuhhdA",
       "siteUrl": "https://www.youtube.com/channel/UCKZozRVHRYsYHGEyNKuhhdA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=fNNz9a2OIn4",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=fNNz9a2OIn4",
+          "publishedOn": "2026-05-22T14:54:15.000Z",
+          "wordCount": null,
+          "title": "India’s NEXT Economic Crisis: Super El Niño 2026 | Case Study",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/shorts/XGeNZzoCRjI",
           "author": null,
