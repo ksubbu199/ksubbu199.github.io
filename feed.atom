@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-05-22T05:00:08.782Z</updated>
+    <updated>2026-05-22T08:27:57.673Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -3215,32 +3215,6 @@ Points: 581
         <summary type="html"><![CDATA[It feels like every week Dario (Anthropic’s CEO) is yelling about how AI is going to destroy white-collar jobs, particularly software engineering jobs. Well, in April 2026, about 4 years into the “in 6 weeks, AI is taking your coding job” cycle, Nvidia CEO Jensen Huang is finally talking about the potential consequences of that narrative:]]></summary>
         <author>
             <name>Boot.dev Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Apple fixes bug that cops used to extract deleted chat messages from iPhones]]></title>
-        <id>https://news.ycombinator.com/item?id=47868867</id>
-        <link href="https://techcrunch.com/2026/04/22/apple-fixes-bug-that-cops-used-to-extract-deleted-chat-messages-from-iphones/"/>
-        <updated>2026-04-22T20:27:31.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://techcrunch.com/2026/04/22/apple-fixes-bug-that-cops-used-to-extract-deleted-chat-messages-from-iphones/
-Comments URL: https://news.ycombinator.com/item?id=47868867
-Points: 585
-# Comments: 146]]></summary>
-        <author>
-            <name>cdrnsf</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[We found a stable Firefox identifier linking all your private Tor identities]]></title>
-        <id>https://news.ycombinator.com/item?id=47866697</id>
-        <link href="https://fingerprint.com/blog/firefox-tor-indexeddb-privacy-vulnerability/"/>
-        <updated>2026-04-22T17:35:03.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://fingerprint.com/blog/firefox-tor-indexeddb-privacy-vulnerability/
-Comments URL: https://news.ycombinator.com/item?id=47866697
-Points: 555
-# Comments: 162]]></summary>
-        <author>
-            <name>danpinto</name>
         </author>
     </entry>
 </feed>
