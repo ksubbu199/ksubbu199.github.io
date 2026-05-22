@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-05-22T11:45:27.735Z</updated>
+    <updated>2026-05-22T14:38:16.379Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -152,6 +152,19 @@ Points: 500
 # Comments: 171]]></summary>
         <author>
             <name>gregsadetsky</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apparently Google hates us now]]></title>
+        <id>https://news.ycombinator.com/item?id=48210263</id>
+        <link href="https://twitter.com/pokemoncentral/status/2057123807404638250"/>
+        <updated>2026-05-20T16:27:25.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://twitter.com/pokemoncentral/status/2057123807404638250
+Comments URL: https://news.ycombinator.com/item?id=48210263
+Points: 500
+# Comments: 250]]></summary>
+        <author>
+            <name>zeitg3ist</name>
         </author>
     </entry>
     <entry>
@@ -3215,16 +3228,6 @@ Points: 581
 # Comments: 293]]></summary>
         <author>
             <name>bumbledraven</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nvidia CEO: AI Doomers Could Cause a Software Engineer Shortage]]></title>
-        <id>https://boot.dev/blog/news/nvidia-ceo/</id>
-        <link href="https://boot.dev/blog/news/nvidia-ceo/"/>
-        <updated>2026-04-23T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[It feels like every week Dario (Anthropic’s CEO) is yelling about how AI is going to destroy white-collar jobs, particularly software engineering jobs. Well, in April 2026, about 4 years into the “in 6 weeks, AI is taking your coding job” cycle, Nvidia CEO Jensen Huang is finally talking about the potential consequences of that narrative:]]></summary>
-        <author>
-            <name>Boot.dev Blog</name>
         </author>
     </entry>
 </feed>
