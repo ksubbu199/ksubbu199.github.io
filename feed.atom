@@ -2,10 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-05-22T00:01:43.125Z</updated>
+    <updated>2026-05-22T05:00:08.782Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Project Hail Mary – Stellar Navigation Chart]]></title>
+        <id>https://news.ycombinator.com/item?id=48225297</id>
+        <link href="https://valhovey.github.io/gaia-mary/"/>
+        <updated>2026-05-21T16:23:11.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://valhovey.github.io/gaia-mary/
+Comments URL: https://news.ycombinator.com/item?id=48225297
+Points: 707
+# Comments: 165]]></summary>
+        <author>
+            <name>speleo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google's Antigravity bait and switch]]></title>
+        <id>https://news.ycombinator.com/item?id=48222529</id>
+        <link href="https://www.0xsid.com/blog/antigravity-bait-n-switch"/>
+        <updated>2026-05-21T13:50:59.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.0xsid.com/blog/antigravity-bait-n-switch
+Comments URL: https://news.ycombinator.com/item?id=48222529
+Points: 588
+# Comments: 280]]></summary>
+        <author>
+            <name>ssiddharth</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AI is just unauthorised plagiarism at a bigger scale]]></title>
         <id>https://news.ycombinator.com/item?id=48222383</id>
@@ -67,6 +93,19 @@ Points: 506
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Throwing AI-generated walls of text into conversations]]></title>
+        <id>https://news.ycombinator.com/item?id=48219992</id>
+        <link href="https://noslopgrenade.com/"/>
+        <updated>2026-05-21T09:31:15.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://noslopgrenade.com/
+Comments URL: https://news.ycombinator.com/item?id=48219992
+Points: 542
+# Comments: 319]]></summary>
+        <author>
+            <name>napolux</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Google Declaring War on the Web]]></title>
         <id>https://news.ycombinator.com/item?id=48214449</id>
         <link href="https://tante.cc/2026/05/20/on-google-declaring-war-on-the-web/"/>
@@ -90,6 +129,19 @@ Points: 557
 # Comments: 374]]></summary>
         <author>
             <name>tedsanders</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Flipper One Tech Specs]]></title>
+        <id>https://news.ycombinator.com/item?id=48212046</id>
+        <link href="https://docs.flipper.net/one/general/tech-specs"/>
+        <updated>2026-05-20T18:33:56.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://docs.flipper.net/one/general/tech-specs
+Comments URL: https://news.ycombinator.com/item?id=48212046
+Points: 500
+# Comments: 171]]></summary>
+        <author>
+            <name>gregsadetsky</name>
         </author>
     </entry>
     <entry>
@@ -3189,45 +3241,6 @@ Points: 555
 # Comments: 162]]></summary>
         <author>
             <name>danpinto</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Alberta startup sells no-tech tractors for half price]]></title>
-        <id>https://news.ycombinator.com/item?id=47865868</id>
-        <link href="https://wheelfront.com/this-alberta-startup-sells-no-tech-tractors-for-half-price/"/>
-        <updated>2026-04-22T16:29:25.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://wheelfront.com/this-alberta-startup-sells-no-tech-tractors-for-half-price/
-Comments URL: https://news.ycombinator.com/item?id=47865868
-Points: 560
-# Comments: 199]]></summary>
-        <author>
-            <name>Kaibeezy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[1-Bit Hokusai's "The Great Wave" (2023)]]></title>
-        <id>https://news.ycombinator.com/item?id=47863570</id>
-        <link href="https://www.hypertalking.com/2023/05/08/1-bit-pixel-art-of-hokusais-the-great-wave-off-kanagawa/"/>
-        <updated>2026-04-22T13:46:23.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.hypertalking.com/2023/05/08/1-bit-pixel-art-of-hokusais-the-great-wave-off-kanagawa/
-Comments URL: https://news.ycombinator.com/item?id=47863570
-Points: 528
-# Comments: 88]]></summary>
-        <author>
-            <name>stephen-hill</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Qwen3.6-27B: Flagship-Level Coding in a 27B Dense Model]]></title>
-        <id>https://news.ycombinator.com/item?id=47863217</id>
-        <link href="https://qwen.ai/blog?id=qwen3.6-27b"/>
-        <updated>2026-04-22T13:19:58.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://qwen.ai/blog?id=qwen3.6-27b
-Comments URL: https://news.ycombinator.com/item?id=47863217
-Points: 507
-# Comments: 247]]></summary>
-        <author>
-            <name>mfiguiere</name>
         </author>
     </entry>
 </feed>

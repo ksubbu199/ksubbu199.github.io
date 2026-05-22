@@ -6,6 +6,26 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=48225297",
+          "author": "speleo",
+          "description": "Article URL: https://valhovey.github.io/gaia-mary/\nComments URL: https://news.ycombinator.com/item?id=48225297\nPoints: 707\n# Comments: 165",
+          "link": "https://valhovey.github.io/gaia-mary/",
+          "publishedOn": "2026-05-21T16:23:11.000Z",
+          "wordCount": 46,
+          "title": "Project Hail Mary – Stellar Navigation Chart",
+          "imageUrl": "https://valhovey.github.io/gaia-mary/featured.png"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=48222529",
+          "author": "ssiddharth",
+          "description": "Article URL: https://www.0xsid.com/blog/antigravity-bait-n-switch\nComments URL: https://news.ycombinator.com/item?id=48222529\nPoints: 588\n# Comments: 280",
+          "link": "https://www.0xsid.com/blog/antigravity-bait-n-switch",
+          "publishedOn": "2026-05-21T13:50:59.000Z",
+          "wordCount": 1438,
+          "title": "Google's Antigravity bait and switch",
+          "imageUrl": null
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=48222383",
           "author": "speckx",
           "description": "Article URL: https://axelk.ee/ai-is-just-unauthorised-plagiarism-at-a-bigger-scale/\nComments URL: https://news.ycombinator.com/item?id=48222383\nPoints: 636\n# Comments: 501",
@@ -36,6 +56,16 @@
           "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GML_Search_social.width-1300.png"
         },
         {
+          "id": "https://news.ycombinator.com/item?id=48219992",
+          "author": "napolux",
+          "description": "Article URL: https://noslopgrenade.com/\nComments URL: https://news.ycombinator.com/item?id=48219992\nPoints: 542\n# Comments: 319",
+          "link": "https://noslopgrenade.com/",
+          "publishedOn": "2026-05-21T09:31:15.000Z",
+          "wordCount": 1116,
+          "title": "Throwing AI-generated walls of text into conversations",
+          "imageUrl": "https://noslopgrenade.com/og-image.png"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=48214449",
           "author": "cdrnsf",
           "description": "Article URL: https://tante.cc/2026/05/20/on-google-declaring-war-on-the-web/\nComments URL: https://news.ycombinator.com/item?id=48214449\nPoints: 533\n# Comments: 375",
@@ -54,6 +84,16 @@
           "wordCount": null,
           "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
           "imageUrl": null
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=48212046",
+          "author": "gregsadetsky",
+          "description": "Article URL: https://docs.flipper.net/one/general/tech-specs\nComments URL: https://news.ycombinator.com/item?id=48212046\nPoints: 500\n# Comments: 171",
+          "link": "https://docs.flipper.net/one/general/tech-specs",
+          "publishedOn": "2026-05-20T18:33:56.000Z",
+          "wordCount": 2695,
+          "title": "Flipper One Tech Specs",
+          "imageUrl": ""
         },
         {
           "id": "https://news.ycombinator.com/item?id=48208502",
@@ -1924,36 +1964,6 @@
           "wordCount": 36446,
           "title": "We found a stable Firefox identifier linking all your private Tor identities",
           "imageUrl": "https://fingerprint.com/static/893bf56cdf5a22443c3b3ace0bb862df/blog_firefox_vulnerability.jpg"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=47865868",
-          "author": "Kaibeezy",
-          "description": "Article URL: https://wheelfront.com/this-alberta-startup-sells-no-tech-tractors-for-half-price/\nComments URL: https://news.ycombinator.com/item?id=47865868\nPoints: 560\n# Comments: 199",
-          "link": "https://wheelfront.com/this-alberta-startup-sells-no-tech-tractors-for-half-price/",
-          "publishedOn": "2026-04-22T16:29:25.000Z",
-          "wordCount": null,
-          "title": "Alberta startup sells no-tech tractors for half price",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=47863570",
-          "author": "stephen-hill",
-          "description": "Article URL: https://www.hypertalking.com/2023/05/08/1-bit-pixel-art-of-hokusais-the-great-wave-off-kanagawa/\nComments URL: https://news.ycombinator.com/item?id=47863570\nPoints: 528\n# Comments: 88",
-          "link": "https://www.hypertalking.com/2023/05/08/1-bit-pixel-art-of-hokusais-the-great-wave-off-kanagawa/",
-          "publishedOn": "2026-04-22T13:46:23.000Z",
-          "wordCount": 453,
-          "title": "1-Bit Hokusai's \"The Great Wave\" (2023)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=47863217",
-          "author": "mfiguiere",
-          "description": "Article URL: https://qwen.ai/blog?id=qwen3.6-27b\nComments URL: https://news.ycombinator.com/item?id=47863217\nPoints: 507\n# Comments: 247",
-          "link": "https://qwen.ai/blog?id=qwen3.6-27b",
-          "publishedOn": "2026-04-22T13:19:58.000Z",
-          "wordCount": 206,
-          "title": "Qwen3.6-27B: Flagship-Level Coding in a 27B Dense Model",
-          "imageUrl": "https://img.alicdn.com/imgextra/i1/O1CN013ltlI61OTOnTStXfj_!!6000000001706-55-tps-330-327.svg"
         }
       ]
     },
