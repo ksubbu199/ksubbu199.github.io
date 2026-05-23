@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-05-23T09:53:12.433Z</updated>
+    <updated>2026-05-23T11:10:25.571Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Bun support is now limited and deprecated]]></title>
+        <id>https://news.ycombinator.com/item?id=48238789</id>
+        <link href="https://github.com/yt-dlp/yt-dlp/issues/16766"/>
+        <updated>2026-05-22T17:24:12.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://github.com/yt-dlp/yt-dlp/issues/16766
+Comments URL: https://news.ycombinator.com/item?id=48238789
+Points: 500
+# Comments: 513]]></summary>
+        <author>
+            <name>tamnd</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Why Japanese companies do so many different things]]></title>
         <id>https://news.ycombinator.com/item?id=48237163</id>
@@ -3188,19 +3201,6 @@ Points: 745
 # Comments: 416]]></summary>
         <author>
             <name>impact_sy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[US special forces soldier arrested after allegedly winning $400k on Maduro raid]]></title>
-        <id>https://news.ycombinator.com/item?id=47882645</id>
-        <link href="https://www.cnn.com/2026/04/23/politics/us-special-forces-soldier-arrested-maduro-raid-trade"/>
-        <updated>2026-04-23T21:56:15.000Z</updated>
-        <summary type="html"><![CDATA[https://www.justice.gov/usao-sdny/pr/us-soldier-charged-usin...
-Comments URL: https://news.ycombinator.com/item?id=47882645
-Points: 566
-# Comments: 608]]></summary>
-        <author>
-            <name>nkrisc</name>
         </author>
     </entry>
 </feed>
