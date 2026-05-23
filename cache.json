@@ -36,6 +36,16 @@
           "imageUrl": "https://i.insider.com/6a0f3ebbb1025a62a5c85a87?width=1200&format=jpeg"
         },
         {
+          "id": "https://news.ycombinator.com/item?id=48229319",
+          "author": "d0ks",
+          "description": "Article URL: https://davidoks.blog/p/ai-is-killing-the-cheap-smartphone\nComments URL: https://news.ycombinator.com/item?id=48229319\nPoints: 506\n# Comments: 595",
+          "link": "https://davidoks.blog/p/ai-is-killing-the-cheap-smartphone",
+          "publishedOn": "2026-05-21T21:55:56.000Z",
+          "wordCount": 9298,
+          "title": "The memory shortage is causing a repricing of consumer electronics",
+          "imageUrl": "https://substackcdn.com/image/fetch/$s_!5Z0b!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffb39b638-e59b-451f-af50-57065a9cbac5_800x533.jpeg"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=48225297",
           "author": "speleo",
           "description": "Article URL: https://valhovey.github.io/gaia-mary/\nComments URL: https://news.ycombinator.com/item?id=48225297\nPoints: 707\n# Comments: 165",
@@ -184,6 +194,16 @@
           "wordCount": 206,
           "title": "Qwen3.7-Max: The Agent Frontier",
           "imageUrl": "https://img.alicdn.com/imgextra/i1/O1CN013ltlI61OTOnTStXfj_!!6000000001706-55-tps-330-327.svg"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=48203698",
+          "author": "lycopodiopsida",
+          "description": "Article URL: https://blog.habets.se/2026/05/Everything-in-C-is-undefined-behavior.html\nComments URL: https://news.ycombinator.com/item?id=48203698\nPoints: 500\n# Comments: 704",
+          "link": "https://blog.habets.se/2026/05/Everything-in-C-is-undefined-behavior.html",
+          "publishedOn": "2026-05-20T06:07:22.000Z",
+          "wordCount": 2470,
+          "title": "Everything in C is undefined behavior",
+          "imageUrl": null
         },
         {
           "id": "https://news.ycombinator.com/item?id=48201484",
@@ -1914,46 +1934,6 @@
           "wordCount": null,
           "title": "US special forces soldier arrested after allegedly winning $400k on Maduro raid",
           "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=47879986",
-          "author": "Vaslo",
-          "description": "https://techcrunch.com/2026/04/23/meta-job-cuts-10-percent-8...\nComments URL: https://news.ycombinator.com/item?id=47879986\nPoints: 511\n# Comments: 490",
-          "link": "https://www.bloomberg.com/news/articles/2026-04-23/meta-tells-staff-it-will-cut-10-of-jobs-in-push-for-efficiency",
-          "publishedOn": "2026-04-23T18:55:32.000Z",
-          "wordCount": null,
-          "title": "Meta tells staff it will cut 10% of jobs",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=47879092",
-          "author": "rd",
-          "description": "Article URL: https://openai.com/index/introducing-gpt-5-5/\nComments URL: https://news.ycombinator.com/item?id=47879092\nPoints: 722\n# Comments: 346",
-          "link": "https://openai.com/index/introducing-gpt-5-5/",
-          "publishedOn": "2026-04-23T18:01:39.000Z",
-          "wordCount": null,
-          "title": "GPT-5.5",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=47878905",
-          "author": "mfiguiere",
-          "description": "Article URL: https://www.anthropic.com/engineering/april-23-postmortem\nComments URL: https://news.ycombinator.com/item?id=47878905\nPoints: 588\n# Comments: 444",
-          "link": "https://www.anthropic.com/engineering/april-23-postmortem",
-          "publishedOn": "2026-04-23T17:48:38.000Z",
-          "wordCount": 3787,
-          "title": "An update on recent Claude Code quality reports",
-          "imageUrl": "https://cdn.sanity.io/images/4zrzovbb/website/3f522820d47355885631ebda60e5d1f3e5c0fbc2-2000x1050.heif"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=47878633",
-          "author": "pavel_lishin",
-          "description": "Article URL: https://www.wired.com/story/palantir-employees-are-starting-to-wonder-if-theyre-the-bad-guys/\nComments URL: https://news.ycombinator.com/item?id=47878633\nPoints: 548\n# Comments: 396",
-          "link": "https://www.wired.com/story/palantir-employees-are-starting-to-wonder-if-theyre-the-bad-guys/",
-          "publishedOn": "2026-04-23T17:30:05.000Z",
-          "wordCount": 30354,
-          "title": "Palantir employees are starting to wonder if they're the bad guys",
-          "imageUrl": "https://media.wired.com/photos/69d3c62396de4781bbc4cf6e/191:100/w_1280,c_limit/GettyImages-2268833968.jpg"
         }
       ]
     },
@@ -2203,16 +2183,6 @@
           "publishedOn": "2026-04-30T14:52:36.000Z",
           "wordCount": 3182,
           "title": "The Pulse: token spend breaks budgets – what next?",
-          "imageUrl": null
-        },
-        {
-          "id": "69ea4ef45d681300012e37e5",
-          "author": "Gergely Orosz",
-          "description": "At Meta, Microsoft, Salesforce and other large companies, devs are purposefully burning tokens (and money!) to inflate their AI usage and hit AI usage metrics which they treat as targets.",
-          "link": "https://blog.pragmaticengineer.com/the-pulse-tokenmaxxing-as-a-weird-new-trend/",
-          "publishedOn": "2026-04-23T16:55:40.000Z",
-          "wordCount": 2692,
-          "title": "The Pulse: ‘Tokenmaxxing’ as a weird new trend",
           "imageUrl": null
         }
       ]

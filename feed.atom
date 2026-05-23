@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-05-23T04:41:15.905Z</updated>
+    <updated>2026-05-23T07:31:20.687Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -62,6 +62,19 @@ Points: 544
 # Comments: 467]]></summary>
         <author>
             <name>signa11</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The memory shortage is causing a repricing of consumer electronics]]></title>
+        <id>https://news.ycombinator.com/item?id=48229319</id>
+        <link href="https://davidoks.blog/p/ai-is-killing-the-cheap-smartphone"/>
+        <updated>2026-05-21T21:55:56.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://davidoks.blog/p/ai-is-killing-the-cheap-smartphone
+Comments URL: https://news.ycombinator.com/item?id=48229319
+Points: 506
+# Comments: 595]]></summary>
+        <author>
+            <name>d0ks</name>
         </author>
     </entry>
     <entry>
@@ -314,6 +327,19 @@ Points: 554
         <summary type="html"><![CDATA[A $124B fund in Australia would have lost all data stored with Google Cloud, had they not relied on a third-party backup. A rare blunder from GCP, where regional replication did not stop the deletion – and a just as rare statement from Google Cloud’s CEO taking the blame.]]></summary>
         <author>
             <name>Gergely Orosz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Everything in C is undefined behavior]]></title>
+        <id>https://news.ycombinator.com/item?id=48203698</id>
+        <link href="https://blog.habets.se/2026/05/Everything-in-C-is-undefined-behavior.html"/>
+        <updated>2026-05-20T06:07:22.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://blog.habets.se/2026/05/Everything-in-C-is-undefined-behavior.html
+Comments URL: https://news.ycombinator.com/item?id=48203698
+Points: 500
+# Comments: 704]]></summary>
+        <author>
+            <name>lycopodiopsida</name>
         </author>
     </entry>
     <entry>
@@ -3175,68 +3201,6 @@ Points: 566
 # Comments: 608]]></summary>
         <author>
             <name>nkrisc</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meta tells staff it will cut 10% of jobs]]></title>
-        <id>https://news.ycombinator.com/item?id=47879986</id>
-        <link href="https://www.bloomberg.com/news/articles/2026-04-23/meta-tells-staff-it-will-cut-10-of-jobs-in-push-for-efficiency"/>
-        <updated>2026-04-23T18:55:32.000Z</updated>
-        <summary type="html"><![CDATA[https://techcrunch.com/2026/04/23/meta-job-cuts-10-percent-8...
-Comments URL: https://news.ycombinator.com/item?id=47879986
-Points: 511
-# Comments: 490]]></summary>
-        <author>
-            <name>Vaslo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GPT-5.5]]></title>
-        <id>https://news.ycombinator.com/item?id=47879092</id>
-        <link href="https://openai.com/index/introducing-gpt-5-5/"/>
-        <updated>2026-04-23T18:01:39.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://openai.com/index/introducing-gpt-5-5/
-Comments URL: https://news.ycombinator.com/item?id=47879092
-Points: 722
-# Comments: 346]]></summary>
-        <author>
-            <name>rd</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[An update on recent Claude Code quality reports]]></title>
-        <id>https://news.ycombinator.com/item?id=47878905</id>
-        <link href="https://www.anthropic.com/engineering/april-23-postmortem"/>
-        <updated>2026-04-23T17:48:38.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.anthropic.com/engineering/april-23-postmortem
-Comments URL: https://news.ycombinator.com/item?id=47878905
-Points: 588
-# Comments: 444]]></summary>
-        <author>
-            <name>mfiguiere</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Palantir employees are starting to wonder if they're the bad guys]]></title>
-        <id>https://news.ycombinator.com/item?id=47878633</id>
-        <link href="https://www.wired.com/story/palantir-employees-are-starting-to-wonder-if-theyre-the-bad-guys/"/>
-        <updated>2026-04-23T17:30:05.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.wired.com/story/palantir-employees-are-starting-to-wonder-if-theyre-the-bad-guys/
-Comments URL: https://news.ycombinator.com/item?id=47878633
-Points: 548
-# Comments: 396]]></summary>
-        <author>
-            <name>pavel_lishin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Pulse: ‘Tokenmaxxing’ as a weird new trend]]></title>
-        <id>69ea4ef45d681300012e37e5</id>
-        <link href="https://blog.pragmaticengineer.com/the-pulse-tokenmaxxing-as-a-weird-new-trend/"/>
-        <updated>2026-04-23T16:55:40.000Z</updated>
-        <summary type="html"><![CDATA[At Meta, Microsoft, Salesforce and other large companies, devs are purposefully burning tokens (and money!) to inflate their AI usage and hit AI usage metrics which they treat as targets.]]></summary>
-        <author>
-            <name>Gergely Orosz</name>
         </author>
     </entry>
 </feed>
