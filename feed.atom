@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-05-23T00:12:36.221Z</updated>
+    <updated>2026-05-23T04:41:15.905Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Why Japanese companies do so many different things]]></title>
+        <id>https://news.ycombinator.com/item?id=48237163</id>
+        <link href="https://davidoks.blog/p/why-japanese-companies-do-so-many"/>
+        <updated>2026-05-22T15:22:04.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://davidoks.blog/p/why-japanese-companies-do-so-many
+Comments URL: https://news.ycombinator.com/item?id=48237163
+Points: 557
+# Comments: 292]]></summary>
+        <author>
+            <name>d0ks</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[India’s NEXT Economic Crisis: Super El Niño 2026 | Case Study]]></title>
         <id>https://www.youtube.com/watch?v=fNNz9a2OIn4</id>
@@ -3224,32 +3237,6 @@ Points: 548
         <summary type="html"><![CDATA[At Meta, Microsoft, Salesforce and other large companies, devs are purposefully burning tokens (and money!) to inflate their AI usage and hit AI usage metrics which they treat as targets.]]></summary>
         <author>
             <name>Gergely Orosz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[If America's so rich, how'd it get so sad?]]></title>
-        <id>https://news.ycombinator.com/item?id=47877429</id>
-        <link href="https://www.derekthompson.org/p/if-americas-so-rich-howd-it-get-so"/>
-        <updated>2026-04-23T16:05:30.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.derekthompson.org/p/if-americas-so-rich-howd-it-get-so
-Comments URL: https://news.ycombinator.com/item?id=47877429
-Points: 507
-# Comments: 967]]></summary>
-        <author>
-            <name>momentmaker</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bitwarden CLI compromised in ongoing Checkmarx supply chain campaign]]></title>
-        <id>https://news.ycombinator.com/item?id=47876043</id>
-        <link href="https://socket.dev/blog/bitwarden-cli-compromised"/>
-        <updated>2026-04-23T14:17:08.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://socket.dev/blog/bitwarden-cli-compromised
-Comments URL: https://news.ycombinator.com/item?id=47876043
-Points: 529
-# Comments: 251]]></summary>
-        <author>
-            <name>tosh</name>
         </author>
     </entry>
 </feed>

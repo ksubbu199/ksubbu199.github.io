@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=48237163",
+          "author": "d0ks",
+          "description": "Article URL: https://davidoks.blog/p/why-japanese-companies-do-so-many\nComments URL: https://news.ycombinator.com/item?id=48237163\nPoints: 557\n# Comments: 292",
+          "link": "https://davidoks.blog/p/why-japanese-companies-do-so-many",
+          "publishedOn": "2026-05-22T15:22:04.000Z",
+          "wordCount": 11744,
+          "title": "Why Japanese companies do so many different things",
+          "imageUrl": "https://substackcdn.com/image/fetch/$s_!q5kh!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fff42a7b2-6c27-4773-a0b0-561081c55da1_1605x2000.jpeg"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=48234413",
           "author": "janandonly",
           "description": "Article URL: https://annas-archive.gl/blog/llms-txt.html\nComments URL: https://news.ycombinator.com/item?id=48234413\nPoints: 517\n# Comments: 312",
@@ -1944,26 +1954,6 @@
           "wordCount": 30354,
           "title": "Palantir employees are starting to wonder if they're the bad guys",
           "imageUrl": "https://media.wired.com/photos/69d3c62396de4781bbc4cf6e/191:100/w_1280,c_limit/GettyImages-2268833968.jpg"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=47877429",
-          "author": "momentmaker",
-          "description": "Article URL: https://www.derekthompson.org/p/if-americas-so-rich-howd-it-get-so\nComments URL: https://news.ycombinator.com/item?id=47877429\nPoints: 507\n# Comments: 967",
-          "link": "https://www.derekthompson.org/p/if-americas-so-rich-howd-it-get-so",
-          "publishedOn": "2026-04-23T16:05:30.000Z",
-          "wordCount": 9580,
-          "title": "If America's so rich, how'd it get so sad?",
-          "imageUrl": "https://substackcdn.com/image/fetch/$s_!gAKe!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F16200edd-4e29-4729-8d58-4eefbab120d8_1260x893.png"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=47876043",
-          "author": "tosh",
-          "description": "Article URL: https://socket.dev/blog/bitwarden-cli-compromised\nComments URL: https://news.ycombinator.com/item?id=47876043\nPoints: 529\n# Comments: 251",
-          "link": "https://socket.dev/blog/bitwarden-cli-compromised",
-          "publishedOn": "2026-04-23T14:17:08.000Z",
-          "wordCount": 9153,
-          "title": "Bitwarden CLI compromised in ongoing Checkmarx supply chain campaign",
-          "imageUrl": "https://cdn.sanity.io/images/cgdhsj6q/production/65ef8dc5e66260e20fdf13cead82ebd41b705ee6-1018x666.png?w=1000&q=95&fit=max&auto=format"
         }
       ]
     },
