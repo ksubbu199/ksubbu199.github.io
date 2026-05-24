@@ -2116,6 +2116,16 @@
       "siteUrl": "https://blog.pragmaticengineer.com/",
       "articles": [
         {
+          "id": "6a0f3a9025c8da0001c931d1",
+          "author": "Gergely Orosz",
+          "description": "Massive demand for the role at Google, OpenAI, and Anthropic. The latest version of the FDE role looks like the consultant / solution architect role done by many early-junior engineers.",
+          "link": "https://blog.pragmaticengineer.com/the-pulse-forward-deployed-engineering-heats-up-again/",
+          "publishedOn": "2026-05-24T20:35:11.000Z",
+          "wordCount": 2422,
+          "title": "The Pulse: Forward deployed engineering heats up again",
+          "imageUrl": null
+        },
+        {
           "id": "6a0d707867d99e0001f62c84",
           "author": "Gergely Orosz",
           "description": "A $124B fund in Australia would have lost all data stored with Google Cloud, had they not relied on a third-party backup. A rare blunder from GCP, where regional replication did not stop the deletion – and a just as rare statement from Google Cloud’s CEO taking the blame.",
