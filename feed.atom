@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-05-24T20:55:04.854Z</updated>
+    <updated>2026-05-24T21:56:55.007Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -83,6 +83,22 @@ Points: 500
 # Comments: 513]]></summary>
         <author>
             <name>tamnd</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DeepSeek makes the V4 Pro price discount permanent]]></title>
+        <id>https://news.ycombinator.com/item?id=48237663</id>
+        <link href="https://api-docs.deepseek.com/quick_start/pricing"/>
+        <updated>2026-05-22T15:59:26.000Z</updated>
+        <summary type="html"><![CDATA[> (3) The deepseek-v4-pro model API pricing will be officially adjusted to 1/4 of the original price after the 75% discount promotion ends on 2026/05/31 15:59 UTC.
+https://x.com/deepseek_ai/status/2057854261699195173
+Related ongoing thread:
+DeepSeek reasonix, DeepSeek native coding agent with high caching and low cost - https://news.ycombinator.com/item?id=48256953 - May 2026 (135 comments)
+Comments URL: https://news.ycombinator.com/item?id=48237663
+Points: 502
+# Comments: 433]]></summary>
+        <author>
+            <name>Tiberium</name>
         </author>
     </entry>
     <entry>
