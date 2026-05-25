@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=48256953",
+          "author": "Alifatisk",
+          "description": "Related ongoing thread:\nDeepSeek makes the V4 Pro price discount permanent - https://news.ycombinator.com/item?id=48237663 - May 2026 (384 comments)\nComments URL: https://news.ycombinator.com/item?id=48256953\nPoints: 563\n# Comments: 233",
+          "link": "https://esengine.github.io/DeepSeek-Reasonix/",
+          "publishedOn": "2026-05-24T13:02:06.000Z",
+          "wordCount": 103,
+          "title": "DeepSeek reasonix, DeepSeek native coding agent with high caching and low cost",
+          "imageUrl": "https://raw.githubusercontent.com/esengine/reasonix/main/docs/assets/hero-terminal.svg"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=48249747",
           "author": "abawany",
           "description": "Article URL: https://reclaimthenet.org/texas-woman-arrested-for-facebook-post-about-town-water-quality\nComments URL: https://news.ycombinator.com/item?id=48249747\nPoints: 541\n# Comments: 237",
@@ -114,6 +124,16 @@
           "wordCount": 46,
           "title": "Project Hail Mary – Stellar Navigation Chart",
           "imageUrl": "https://valhovey.github.io/gaia-mary/featured.png"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=48223997",
+          "author": "dougdude3339",
+          "description": "Article URL: https://www.dougmacdowell.com/50-hours-to-draw-some-lines.html\nComments URL: https://news.ycombinator.com/item?id=48223997\nPoints: 542\n# Comments: 93",
+          "link": "https://www.dougmacdowell.com/50-hours-to-draw-some-lines.html",
+          "publishedOn": "2026-05-21T15:05:28.000Z",
+          "wordCount": 1628,
+          "title": "I spent 50 hours drawing a line graph",
+          "imageUrl": "https://dougmacdowell.com/images/coffeematic-pc-coffee-maker-computer-temperature-analysis.webp"
         },
         {
           "id": "https://news.ycombinator.com/item?id=48222529",
@@ -1904,26 +1924,6 @@
           "wordCount": null,
           "title": "Trump fires NSF's oversight board",
           "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=47904876",
-          "author": "gwerbret",
-          "description": "Article URL: https://fabiensanglard.net/usbcheat/index.html\nComments URL: https://news.ycombinator.com/item?id=47904876\nPoints: 500\n# Comments: 84",
-          "link": "https://fabiensanglard.net/usbcheat/index.html",
-          "publishedOn": "2026-04-25T21:51:18.000Z",
-          "wordCount": 902,
-          "title": "USB Cheat Sheet (2022)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=47903126",
-          "author": "pr337h4m",
-          "description": "https://www.erdosproblems.com/1196\nComments URL: https://news.ycombinator.com/item?id=47903126\nPoints: 517\n# Comments: 346",
-          "link": "https://www.scientificamerican.com/article/amateur-armed-with-chatgpt-vibe-maths-a-60-year-old-problem/",
-          "publishedOn": "2026-04-25T17:40:38.000Z",
-          "wordCount": 2751,
-          "title": "Amateur armed with ChatGPT solves an Erdős problem",
-          "imageUrl": "https://static.scientificamerican.com/dam/asset/124ad289-58c2-4d51-87e8-aee854d10fc7/abstract-rubiks-cube.jpg?m=1777033076.511&w=1200"
         }
       ]
     },
@@ -2490,16 +2490,6 @@
           "publishedOn": "2026-04-29T12:51:32.000Z",
           "wordCount": 2081,
           "title": "This Author Changed How Businesses Build VIRAL Products!",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=Ut5s4rImEhI",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=Ut5s4rImEhI",
-          "publishedOn": "2026-04-25T13:36:07.000Z",
-          "wordCount": null,
-          "title": "CIA’s Dirty Secret : How Peter Thiel built a 200 Billion dollar Weapon for America?",
           "imageUrl": null
         }
       ]
