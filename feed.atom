@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-05-25T21:06:17.489Z</updated>
+    <updated>2026-05-25T23:01:37.151Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -40,6 +40,19 @@ Points: 668
         <summary type="html"><![CDATA[Massive demand for the role at Google, OpenAI, and Anthropic. The latest version of the FDE role looks like the consultant / solution architect role done by many early-junior engineers.]]></summary>
         <author>
             <name>Gergely Orosz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Audiomass – a free, open-source multitrack audio editor for the web]]></title>
+        <id>https://news.ycombinator.com/item?id=48258015</id>
+        <link href="https://audiomass.co/?multitrack=1"/>
+        <updated>2026-05-24T15:25:43.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://audiomass.co/?multitrack=1
+Comments URL: https://news.ycombinator.com/item?id=48258015
+Points: 504
+# Comments: 110]]></summary>
+        <author>
+            <name>pantelisk</name>
         </author>
     </entry>
     <entry>
@@ -3194,19 +3207,6 @@ Points: 581
 # Comments: 731]]></summary>
         <author>
             <name>jeremyccrane</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Asahi Linux Progress Linux 7.0]]></title>
-        <id>https://news.ycombinator.com/item?id=47909226</id>
-        <link href="https://asahilinux.org/2026/04/progress-report-7-0/"/>
-        <updated>2026-04-26T10:50:32.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://asahilinux.org/2026/04/progress-report-7-0/
-Comments URL: https://news.ycombinator.com/item?id=47909226
-Points: 520
-# Comments: 226]]></summary>
-        <author>
-            <name>elisaado</name>
         </author>
     </entry>
 </feed>
