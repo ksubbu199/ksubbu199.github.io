@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-05-26T03:32:21.571Z</updated>
+    <updated>2026-05-26T07:45:03.264Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Using AI to write better code more slowly]]></title>
+        <id>https://news.ycombinator.com/item?id=48272984</id>
+        <link href="https://nolanlawson.com/2026/05/25/using-ai-to-write-better-code-more-slowly/"/>
+        <updated>2026-05-25T23:16:59.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://nolanlawson.com/2026/05/25/using-ai-to-write-better-code-more-slowly/
+Comments URL: https://news.ycombinator.com/item?id=48272984
+Points: 542
+# Comments: 203]]></summary>
+        <author>
+            <name>signa11</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[California moves to exempt Linux from its age-verification law after backlash]]></title>
         <id>https://news.ycombinator.com/item?id=48269961</id>
@@ -3194,32 +3207,6 @@ Points: 523
 # Comments: 382]]></summary>
         <author>
             <name>koshyjohn</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GoDaddy gave a domain to a stranger without any documentation]]></title>
-        <id>https://news.ycombinator.com/item?id=47911780</id>
-        <link href="https://anchor.host/godaddy-gave-a-domain-to-a-stranger-without-any-documentation/"/>
-        <updated>2026-04-26T16:57:56.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://anchor.host/godaddy-gave-a-domain-to-a-stranger-without-any-documentation/
-Comments URL: https://news.ycombinator.com/item?id=47911780
-Points: 552
-# Comments: 219]]></summary>
-        <author>
-            <name>jamesponddotco</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[An AI agent deleted our production database. The agent's confession is below]]></title>
-        <id>https://news.ycombinator.com/item?id=47911524</id>
-        <link href="https://twitter.com/lifeof_jer/status/2048103471019434248"/>
-        <updated>2026-04-26T16:27:29.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://twitter.com/lifeof_jer/status/2048103471019434248
-Comments URL: https://news.ycombinator.com/item?id=47911524
-Points: 581
-# Comments: 731]]></summary>
-        <author>
-            <name>jeremyccrane</name>
         </author>
     </entry>
 </feed>

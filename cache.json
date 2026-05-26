@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=48272984",
+          "author": "signa11",
+          "description": "Article URL: https://nolanlawson.com/2026/05/25/using-ai-to-write-better-code-more-slowly/\nComments URL: https://news.ycombinator.com/item?id=48272984\nPoints: 542\n# Comments: 203",
+          "link": "https://nolanlawson.com/2026/05/25/using-ai-to-write-better-code-more-slowly/",
+          "publishedOn": "2026-05-25T23:16:59.000Z",
+          "wordCount": 4381,
+          "title": "Using AI to write better code more slowly",
+          "imageUrl": "https://nolanlawson.com/wp-content/uploads/2025/01/favicon.png?w=32"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=48269961",
           "author": "rbanffy",
           "description": "Article URL: https://www.tomshardware.com/software/linux/california-moves-to-exempt-linux-from-its-upcoming-age-verification-law-after-backlash-over-forcing-operating-systems-to-collect-users-ages-amendment-proposed-by-the-same-lawmaker-who-wrote-the-original-law\nComments URL: https://news.ycombinator.com/item?id=48269961\nPoints: 699\n# Comments: 305",
@@ -1924,26 +1934,6 @@
           "wordCount": 2326,
           "title": "AI should elevate your thinking, not replace it",
           "imageUrl": "https://www.koshyjohn.com/blog/ai-should-elevate-your-thinking-not-replace-it/blog_social.jpg"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=47911780",
-          "author": "jamesponddotco",
-          "description": "Article URL: https://anchor.host/godaddy-gave-a-domain-to-a-stranger-without-any-documentation/\nComments URL: https://news.ycombinator.com/item?id=47911780\nPoints: 552\n# Comments: 219",
-          "link": "https://anchor.host/godaddy-gave-a-domain-to-a-stranger-without-any-documentation/",
-          "publishedOn": "2026-04-26T16:57:56.000Z",
-          "wordCount": 3446,
-          "title": "GoDaddy gave a domain to a stranger without any documentation",
-          "imageUrl": "https://anchor.host/wp-content/uploads/2026/04/godaddy-domain-handover.webp"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=47911524",
-          "author": "jeremyccrane",
-          "description": "Article URL: https://twitter.com/lifeof_jer/status/2048103471019434248\nComments URL: https://news.ycombinator.com/item?id=47911524\nPoints: 581\n# Comments: 731",
-          "link": "https://twitter.com/lifeof_jer/status/2048103471019434248",
-          "publishedOn": "2026-04-26T16:27:29.000Z",
-          "wordCount": 832,
-          "title": "An AI agent deleted our production database. The agent's confession is below",
-          "imageUrl": null
         }
       ]
     },
