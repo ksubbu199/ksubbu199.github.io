@@ -2,10 +2,33 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-05-26T07:45:03.264Z</updated>
+    <updated>2026-05-26T15:27:20.254Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The Biggest Myth About AI Agents]]></title>
+        <id>https://www.youtube.com/shorts/7IsT7VR-jZ0</id>
+        <link href="https://www.youtube.com/shorts/7IsT7VR-jZ0"/>
+        <updated>2026-05-26T13:49:31.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Think School</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Open Source Maintainers Are Crashing Out]]></title>
+        <id>https://boot.dev/blog/news/open-source-maintainer-crashouts/</id>
+        <link href="https://boot.dev/blog/news/open-source-maintainer-crashouts/"/>
+        <updated>2026-05-26T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Open source is a safe, sustainable development model.
+
+ 
+Right?]]></summary>
+        <author>
+            <name>Boot.dev Blog</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Using AI to write better code more slowly]]></title>
         <id>https://news.ycombinator.com/item?id=48272984</id>
@@ -3167,46 +3190,6 @@ Points: 523
 # Comments: 196]]></summary>
         <author>
             <name>Oravys</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sawe becomes first athlete to run a sub-two-hour marathon in a competitive race]]></title>
-        <id>https://news.ycombinator.com/item?id=47914350</id>
-        <link href="https://www.bbc.com/sport/athletics/articles/crm1m7e0zwzo"/>
-        <updated>2026-04-26T20:56:30.000Z</updated>
-        <summary type="html"><![CDATA[https://www.letsrun.com/news/2026/04/15930-sabastian-sawe-sh...
-https://news.adidas.com/running/two-adidas-athletes-sabastia...
-Comments URL: https://news.ycombinator.com/item?id=47914350
-Points: 500
-# Comments: 330]]></summary>
-        <author>
-            <name>berkeleyjunk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I bought Friendster for $30k – Here's what I'm doing with it]]></title>
-        <id>https://news.ycombinator.com/item?id=47914165</id>
-        <link href="https://ca98am79.medium.com/i-bought-friendster-for-30k-heres-what-i-m-doing-with-it-d5e8ddb3991d"/>
-        <updated>2026-04-26T20:41:06.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://ca98am79.medium.com/i-bought-friendster-for-30k-heres-what-i-m-doing-with-it-d5e8ddb3991d
-Comments URL: https://news.ycombinator.com/item?id=47914165
-Points: 599
-# Comments: 335]]></summary>
-        <author>
-            <name>ca98am79</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI should elevate your thinking, not replace it]]></title>
-        <id>https://news.ycombinator.com/item?id=47913650</id>
-        <link href="https://www.koshyjohn.com/blog/ai-should-elevate-your-thinking-not-replace-it/"/>
-        <updated>2026-04-26T20:03:12.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.koshyjohn.com/blog/ai-should-elevate-your-thinking-not-replace-it/
-Comments URL: https://news.ycombinator.com/item?id=47913650
-Points: 523
-# Comments: 382]]></summary>
-        <author>
-            <name>koshyjohn</name>
         </author>
     </entry>
 </feed>
