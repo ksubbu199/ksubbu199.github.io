@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-05-26T15:27:20.254Z</updated>
+    <updated>2026-05-26T18:25:50.896Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -14,6 +14,19 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>Think School</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GitHub Actions was down]]></title>
+        <id>https://news.ycombinator.com/item?id=48278374</id>
+        <link href="https://www.githubstatus.com/?today"/>
+        <updated>2026-05-26T11:42:58.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.githubstatus.com/?today
+Comments URL: https://news.ycombinator.com/item?id=48278374
+Points: 639
+# Comments: 328]]></summary>
+        <author>
+            <name>cebert</name>
         </author>
     </entry>
     <entry>
@@ -40,6 +53,19 @@ Points: 542
 # Comments: 203]]></summary>
         <author>
             <name>signa11</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Taking a walk may lead to more creativity than sitting, study finds (2014)]]></title>
+        <id>https://news.ycombinator.com/item?id=48272670</id>
+        <link href="https://www.apa.org/news/press/releases/2014/04/creativity-walk"/>
+        <updated>2026-05-25T22:30:27.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.apa.org/news/press/releases/2014/04/creativity-walk
+Comments URL: https://news.ycombinator.com/item?id=48272670
+Points: 521
+# Comments: 208]]></summary>
+        <author>
+            <name>bilsbie</name>
         </author>
     </entry>
     <entry>
