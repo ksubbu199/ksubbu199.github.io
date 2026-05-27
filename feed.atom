@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-05-27T00:04:19.901Z</updated>
+    <updated>2026-05-27T05:14:51.504Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -105,6 +105,19 @@ Points: 699
 # Comments: 305]]></summary>
         <author>
             <name>rbanffy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What we lost when we stopped letting kids leave the front yard]]></title>
+        <id>https://news.ycombinator.com/item?id=48267290</id>
+        <link href="https://stevemagness.substack.com/p/the-cost-of-safetyism"/>
+        <updated>2026-05-25T14:29:52.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://stevemagness.substack.com/p/the-cost-of-safetyism
+Comments URL: https://news.ycombinator.com/item?id=48267290
+Points: 506
+# Comments: 580]]></summary>
+        <author>
+            <name>obscurette</name>
         </author>
     </entry>
     <entry>
@@ -3188,34 +3201,6 @@ Points: 525
 # Comments: 358]]></summary>
         <author>
             <name>theogravity</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GitHub Copilot is moving to usage-based billing]]></title>
-        <id>https://news.ycombinator.com/item?id=47923357</id>
-        <link href="https://github.blog/news-insights/company-news/github-copilot-is-moving-to-usage-based-billing/"/>
-        <updated>2026-04-27T16:03:08.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://github.blog/news-insights/company-news/github-copilot-is-moving-to-usage-based-billing/
-Comments URL: https://news.ycombinator.com/item?id=47923357
-Points: 508
-# Comments: 390]]></summary>
-        <author>
-            <name>frizlab</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft and OpenAI end their exclusive and revenue-sharing deal]]></title>
-        <id>https://news.ycombinator.com/item?id=47921248</id>
-        <link href="https://www.bloomberg.com/news/articles/2026-04-27/microsoft-to-stop-sharing-revenue-with-main-ai-partner-openai"/>
-        <updated>2026-04-27T13:22:42.000Z</updated>
-        <summary type="html"><![CDATA[Gift Article: https://www.bloomberg.com/news/articles/2026-04-27/microsoft...
-https://openai.com/index/next-phase-of-microsoft-partnership...
-https://x.com/ajassy/status/2048806022253609115
-Comments URL: https://news.ycombinator.com/item?id=47921248
-Points: 522
-# Comments: 441]]></summary>
-        <author>
-            <name>helsinkiandrew</name>
         </author>
     </entry>
 </feed>
