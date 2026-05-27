@@ -6,6 +6,26 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=48296649",
+          "author": "HelloUsername",
+          "description": "Article URL: https://www.pcgamer.com/hardware/duckduckgos-ai-free-search-saw-nearly-28-percent-more-visits-in-the-week-following-googles-insistence-that-people-love-ai-mode/\nComments URL: https://news.ycombinator.com/item?id=48296649\nPoints: 539\n# Comments: 272",
+          "link": "https://www.pcgamer.com/hardware/duckduckgos-ai-free-search-saw-nearly-28-percent-more-visits-in-the-week-following-googles-insistence-that-people-love-ai-mode/",
+          "publishedOn": "2026-05-27T16:28:41.000Z",
+          "wordCount": 38837,
+          "title": "DuckDuckGo search saw 28% more visits after Google said people love AI mode",
+          "imageUrl": "https://cdn.mos.cms.futurecdn.net/CiEBkxLPHniUeZDcJCDbD7-1920-80.jpg"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=48295892",
+          "author": "twistslider",
+          "description": "Article URL: https://support.last.fm/t/last-fm-is-now-independent/118591\nComments URL: https://news.ycombinator.com/item?id=48295892\nPoints: 538\n# Comments: 150",
+          "link": "https://support.last.fm/t/last-fm-is-now-independent/118591",
+          "publishedOn": "2026-05-27T15:36:09.000Z",
+          "wordCount": 688,
+          "title": "Last.fm is now independent",
+          "imageUrl": "https://us1.discourse-cdn.com/flex021/uploads/lastfm/original/2X/f/f1f8c34ea6f18aad5b8f89905e38ba7b3424d9b1.png"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=48292224",
           "author": "theorchid",
           "description": "Article URL: https://orchidfiles.com/im-tired-of-ai-generated-answers/\nComments URL: https://news.ycombinator.com/item?id=48292224\nPoints: 1424\n# Comments: 707",
@@ -2022,6 +2042,16 @@
       "feedUrl": "https://martinfowler.com/feed.atom",
       "siteUrl": "https://martinfowler.com/feed.atom",
       "articles": [
+        {
+          "id": "https://martinfowler.com/fragments/2026-05-27.html",
+          "author": null,
+          "description": "At the GOTO Conference in Copenhagen in 2025, Kent Beck and I spent some time on stage talking and answering questions from the audience - a format I refer to as “two old geezers on a park bench”. We talk about our experiences with LLM-augmented programming (at that point - October 2025), we show our frustration that things we’ve been saying for thirty years  still need to be said, we say how anything like a manifesto reunion needs to be led by a younger generation, and opine on what junior developers should be focusing on in their career.\n\n ❄                ❄                ❄                ❄                ❄\nIan Johnson has written a series of posts about restructuring a gnarly codebase\nThe story follows a real Laravel + React codebase over ~3 months and ~258 commits from a legacy monoli…",
+          "link": "https://martinfowler.com/fragments/2026-05-27.html",
+          "publishedOn": "2026-05-27T19:40:00.000Z",
+          "wordCount": 1875,
+          "title": "Fragments: May 27",
+          "imageUrl": "https://martinfowler.com/logo-sq.png"
+        },
         {
           "id": "https://martinfowler.com/articles/sensors-for-coding-agents.html#TheTestSuiteAsARegressionSensor",
           "author": null,

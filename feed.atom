@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-05-27T19:24:56.963Z</updated>
+    <updated>2026-05-27T21:54:44.473Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Fragments: May 27]]></title>
+        <id>https://martinfowler.com/fragments/2026-05-27.html</id>
+        <link href="https://martinfowler.com/fragments/2026-05-27.html"/>
+        <updated>2026-05-27T19:40:00.000Z</updated>
+        <summary type="html"><![CDATA[At the GOTO Conference in Copenhagen in 2025, Kent Beck and I spent some time on stage talking and answering questions from the audience - a format I refer to as “two old geezers on a park bench”. We talk about our experiences with LLM-augmented programming (at that point - October 2025), we show our frustration that things we’ve been saying for thirty years  still need to be said, we say how anything like a manifesto reunion needs to be led by a younger generation, and opine on what junior developers should be focusing on in their career.
+
+ ❄                ❄                ❄                ❄                ❄
+Ian Johnson has written a series of posts about restructuring a gnarly codebase
+The story follows a real Laravel + React codebase over ~3 months and ~258 commits from a legacy monoli…]]></summary>
+        <author>
+            <name>Martin Fowler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DuckDuckGo search saw 28% more visits after Google said people love AI mode]]></title>
+        <id>https://news.ycombinator.com/item?id=48296649</id>
+        <link href="https://www.pcgamer.com/hardware/duckduckgos-ai-free-search-saw-nearly-28-percent-more-visits-in-the-week-following-googles-insistence-that-people-love-ai-mode/"/>
+        <updated>2026-05-27T16:28:41.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.pcgamer.com/hardware/duckduckgos-ai-free-search-saw-nearly-28-percent-more-visits-in-the-week-following-googles-insistence-that-people-love-ai-mode/
+Comments URL: https://news.ycombinator.com/item?id=48296649
+Points: 539
+# Comments: 272]]></summary>
+        <author>
+            <name>HelloUsername</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Last.fm is now independent]]></title>
+        <id>https://news.ycombinator.com/item?id=48295892</id>
+        <link href="https://support.last.fm/t/last-fm-is-now-independent/118591"/>
+        <updated>2026-05-27T15:36:09.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://support.last.fm/t/last-fm-is-now-independent/118591
+Comments URL: https://news.ycombinator.com/item?id=48295892
+Points: 538
+# Comments: 150]]></summary>
+        <author>
+            <name>twistslider</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The test suite as a regression sensor]]></title>
         <id>https://martinfowler.com/articles/sensors-for-coding-agents.html#TheTestSuiteAsARegressionSensor</id>
