@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=48285592",
+          "author": "cdrnsf",
+          "description": "Article URL: https://medium.com/@jakeorlowitz/wikipedia-is-doing-the-capitalist-thing-56a393232943\nComments URL: https://news.ycombinator.com/item?id=48285592\nPoints: 506\n# Comments: 296",
+          "link": "https://medium.com/@jakeorlowitz/wikipedia-is-doing-the-capitalist-thing-56a393232943",
+          "publishedOn": "2026-05-26T20:33:24.000Z",
+          "wordCount": null,
+          "title": "Big tech's anti-labor playbook has come for Wikipedia",
+          "imageUrl": null
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=48279316",
           "author": "thm",
           "description": "Article URL: https://www.reuters.com/business/spain-blocks-prediction-markets-polymarket-kalshi-over-lack-gambling-licences-2026-05-26/\nComments URL: https://news.ycombinator.com/item?id=48279316\nPoints: 587\n# Comments: 281",
@@ -1893,16 +1903,6 @@
           "publishedOn": "2026-04-28T11:24:52.000Z",
           "wordCount": null,
           "title": "Who owns the code Claude Code wrote?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=47927903",
-          "author": "jekude",
-          "description": "Article URL: https://talkie-lm.com/introducing-talkie\nComments URL: https://news.ycombinator.com/item?id=47927903\nPoints: 553\n# Comments: 225",
-          "link": "https://talkie-lm.com/introducing-talkie",
-          "publishedOn": "2026-04-27T21:55:48.000Z",
-          "wordCount": 6420,
-          "title": "Talkie: a 13B vintage language model from 1930",
           "imageUrl": null
         }
       ]

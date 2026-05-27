@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-05-27T09:48:38.987Z</updated>
+    <updated>2026-05-27T12:51:20.856Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Big tech's anti-labor playbook has come for Wikipedia]]></title>
+        <id>https://news.ycombinator.com/item?id=48285592</id>
+        <link href="https://medium.com/@jakeorlowitz/wikipedia-is-doing-the-capitalist-thing-56a393232943"/>
+        <updated>2026-05-26T20:33:24.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://medium.com/@jakeorlowitz/wikipedia-is-doing-the-capitalist-thing-56a393232943
+Comments URL: https://news.ycombinator.com/item?id=48285592
+Points: 506
+# Comments: 296]]></summary>
+        <author>
+            <name>cdrnsf</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Biggest Myth About AI Agents]]></title>
         <id>https://www.youtube.com/shorts/7IsT7VR-jZ0</id>
@@ -3175,19 +3188,6 @@ Points: 521
 # Comments: 483]]></summary>
         <author>
             <name>senaevren</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Talkie: a 13B vintage language model from 1930]]></title>
-        <id>https://news.ycombinator.com/item?id=47927903</id>
-        <link href="https://talkie-lm.com/introducing-talkie"/>
-        <updated>2026-04-27T21:55:48.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://talkie-lm.com/introducing-talkie
-Comments URL: https://news.ycombinator.com/item?id=47927903
-Points: 553
-# Comments: 225]]></summary>
-        <author>
-            <name>jekude</name>
         </author>
     </entry>
 </feed>
