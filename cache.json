@@ -6,6 +6,26 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=48302745",
+          "author": "mlsu",
+          "description": "Article URL: https://mlsu.io/posts/day-off/\nComments URL: https://news.ycombinator.com/item?id=48302745\nPoints: 600\n# Comments: 360",
+          "link": "https://mlsu.io/posts/day-off/",
+          "publishedOn": "2026-05-28T00:40:26.000Z",
+          "wordCount": 346,
+          "title": "Can we have the day off?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=48299753",
+          "author": "nopg",
+          "description": "https://variety.com/2026/digital/news/youtube-ai-video-label...\nComments URL: https://news.ycombinator.com/item?id=48299753\nPoints: 582\n# Comments: 351",
+          "link": "https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/",
+          "publishedOn": "2026-05-27T20:00:51.000Z",
+          "wordCount": 1111,
+          "title": "YouTube to automatically label AI-generated videos",
+          "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/en_HowThisWasMade_WithPopout.max-1440x810.png"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=48296794",
           "author": "simonw",
           "description": "Article URL: https://simonwillison.net/2026/May/27/product-market-fit/\nComments URL: https://news.ycombinator.com/item?id=48296794\nPoints: 552\n# Comments: 671",
@@ -1934,36 +1954,6 @@
           "wordCount": 1757,
           "title": "Ghostty is leaving GitHub",
           "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=47935853",
-          "author": "doener",
-          "description": "Article URL: https://keepandroidopen.org/en/\nComments URL: https://news.ycombinator.com/item?id=47935853\nPoints: 501\n# Comments: 281",
-          "link": "https://keepandroidopen.org/en/",
-          "publishedOn": "2026-04-28T15:21:00.000Z",
-          "wordCount": 25670,
-          "title": "Your phone is about to stop being yours",
-          "imageUrl": "https://keepandroidopen.org/img/lockdowns/android_lockdown_banner1.png"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=47933208",
-          "author": "bilsbie",
-          "description": "Article URL: https://github.com/localsend/localsend\nComments URL: https://news.ycombinator.com/item?id=47933208\nPoints: 662\n# Comments: 213",
-          "link": "https://github.com/localsend/localsend",
-          "publishedOn": "2026-04-28T11:54:20.000Z",
-          "wordCount": 4876,
-          "title": "Localsend: An open-source cross-platform alternative to AirDrop",
-          "imageUrl": "https://repository-images.githubusercontent.com/578822531/6c3c4f46-0ab9-4737-9afe-7fa7f2f929d7"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=47932937",
-          "author": "senaevren",
-          "description": "Article URL: https://legallayer.substack.com/p/who-owns-the-claude-code-wrote\nComments URL: https://news.ycombinator.com/item?id=47932937\nPoints: 521\n# Comments: 483",
-          "link": "https://legallayer.substack.com/p/who-owns-the-claude-code-wrote",
-          "publishedOn": "2026-04-28T11:24:52.000Z",
-          "wordCount": null,
-          "title": "Who owns the code Claude Code wrote?",
-          "imageUrl": null
         }
       ]
     },
@@ -2181,16 +2171,6 @@
           "wordCount": 1952,
           "title": "Fragments: April 29",
           "imageUrl": "https://martinfowler.com/logo-sq.png"
-        },
-        {
-          "id": "https://martinfowler.com/articles/structured-prompt-driven/",
-          "author": null,
-          "description": "LLM programming assistants have demonstrated considerable value, but\n      mostly with individual developers. The internal IT organization in\n      Thoughtworks has been using them for their teams and have developed a\n      method and workflow called Structured Prompt-Driven Development (SPDD).\n      Wei Zhang and Jessie Jie Xia describe a simple example of\n      this workflow with details in github. This workflow treats the prompts as\n      a first-class artifact, kept with the code in version control, and used to\n      align development with business needs. They have found that developers\n      need three key skills to be effective: alignment, abstraction-first, and\n      iterative review.\nmore…",
-          "link": "https://martinfowler.com/articles/structured-prompt-driven/",
-          "publishedOn": "2026-04-28T13:02:00.000Z",
-          "wordCount": 7031,
-          "title": "Structured-Prompt-Driven Development (SPDD)",
-          "imageUrl": "https://martinfowler.com/articles/structured-prompt-driven/card.png"
         }
       ]
     },

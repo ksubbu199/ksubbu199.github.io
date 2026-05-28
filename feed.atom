@@ -2,10 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-05-27T23:16:47.163Z</updated>
+    <updated>2026-05-28T03:35:25.351Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Can we have the day off?]]></title>
+        <id>https://news.ycombinator.com/item?id=48302745</id>
+        <link href="https://mlsu.io/posts/day-off/"/>
+        <updated>2026-05-28T00:40:26.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://mlsu.io/posts/day-off/
+Comments URL: https://news.ycombinator.com/item?id=48302745
+Points: 600
+# Comments: 360]]></summary>
+        <author>
+            <name>mlsu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[YouTube to automatically label AI-generated videos]]></title>
+        <id>https://news.ycombinator.com/item?id=48299753</id>
+        <link href="https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/"/>
+        <updated>2026-05-27T20:00:51.000Z</updated>
+        <summary type="html"><![CDATA[https://variety.com/2026/digital/news/youtube-ai-video-label...
+Comments URL: https://news.ycombinator.com/item?id=48299753
+Points: 582
+# Comments: 351]]></summary>
+        <author>
+            <name>nopg</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Fragments: May 27]]></title>
         <id>https://martinfowler.com/fragments/2026-05-27.html</id>
@@ -3261,65 +3287,6 @@ Points: 1037
 # Comments: 291]]></summary>
         <author>
             <name>WadeGrimridge</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Your phone is about to stop being yours]]></title>
-        <id>https://news.ycombinator.com/item?id=47935853</id>
-        <link href="https://keepandroidopen.org/en/"/>
-        <updated>2026-04-28T15:21:00.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://keepandroidopen.org/en/
-Comments URL: https://news.ycombinator.com/item?id=47935853
-Points: 501
-# Comments: 281]]></summary>
-        <author>
-            <name>doener</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Structured-Prompt-Driven Development (SPDD)]]></title>
-        <id>https://martinfowler.com/articles/structured-prompt-driven/</id>
-        <link href="https://martinfowler.com/articles/structured-prompt-driven/"/>
-        <updated>2026-04-28T13:02:00.000Z</updated>
-        <summary type="html"><![CDATA[LLM programming assistants have demonstrated considerable value, but
-      mostly with individual developers. The internal IT organization in
-      Thoughtworks has been using them for their teams and have developed a
-      method and workflow called Structured Prompt-Driven Development (SPDD).
-      Wei Zhang and Jessie Jie Xia describe a simple example of
-      this workflow with details in github. This workflow treats the prompts as
-      a first-class artifact, kept with the code in version control, and used to
-      align development with business needs. They have found that developers
-      need three key skills to be effective: alignment, abstraction-first, and
-      iterative review.
-more…]]></summary>
-        <author>
-            <name>Martin Fowler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Localsend: An open-source cross-platform alternative to AirDrop]]></title>
-        <id>https://news.ycombinator.com/item?id=47933208</id>
-        <link href="https://github.com/localsend/localsend"/>
-        <updated>2026-04-28T11:54:20.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://github.com/localsend/localsend
-Comments URL: https://news.ycombinator.com/item?id=47933208
-Points: 662
-# Comments: 213]]></summary>
-        <author>
-            <name>bilsbie</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Who owns the code Claude Code wrote?]]></title>
-        <id>https://news.ycombinator.com/item?id=47932937</id>
-        <link href="https://legallayer.substack.com/p/who-owns-the-claude-code-wrote"/>
-        <updated>2026-04-28T11:24:52.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://legallayer.substack.com/p/who-owns-the-claude-code-wrote
-Comments URL: https://news.ycombinator.com/item?id=47932937
-Points: 521
-# Comments: 483]]></summary>
-        <author>
-            <name>senaevren</name>
         </author>
     </entry>
 </feed>
