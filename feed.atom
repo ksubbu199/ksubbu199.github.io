@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-05-28T03:35:25.351Z</updated>
+    <updated>2026-05-28T07:57:33.563Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -44,6 +44,19 @@ Ian Johnson has written a series of posts about restructuring a gnarly codebase
 The story follows a real Laravel + React codebase over ~3 months and ~258 commits from a legacy monoli…]]></summary>
         <author>
             <name>Martin Fowler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Canada to order military plane fleet from Sweden in shift from US suppliers]]></title>
+        <id>https://news.ycombinator.com/item?id=48296994</id>
+        <link href="https://www.theguardian.com/world/2026/may/27/canada-sweden-saab-globaleye-aircraft"/>
+        <updated>2026-05-27T16:53:25.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.theguardian.com/world/2026/may/27/canada-sweden-saab-globaleye-aircraft
+Comments URL: https://news.ycombinator.com/item?id=48296994
+Points: 520
+# Comments: 362]]></summary>
+        <author>
+            <name>tosh</name>
         </author>
     </entry>
     <entry>
@@ -136,6 +149,19 @@ more…]]></summary>
         <updated>2026-05-27T14:01:49.000Z</updated>
         <author>
             <name>Think School</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Private equity bought America's essential services]]></title>
+        <id>https://news.ycombinator.com/item?id=48292941</id>
+        <link href="https://rubbishtalk.com/economy/how-private-equity-bought-americas-essential-services/"/>
+        <updated>2026-05-27T12:00:53.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://rubbishtalk.com/economy/how-private-equity-bought-americas-essential-services/
+Comments URL: https://news.ycombinator.com/item?id=48292941
+Points: 508
+# Comments: 516]]></summary>
+        <author>
+            <name>NoRagrets</name>
         </author>
     </entry>
     <entry>
@@ -3274,19 +3300,6 @@ Points: 511
 # Comments: 156]]></summary>
         <author>
             <name>mlex</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ghostty is leaving GitHub]]></title>
-        <id>https://news.ycombinator.com/item?id=47939579</id>
-        <link href="https://mitchellh.com/writing/ghostty-leaving-github"/>
-        <updated>2026-04-28T19:44:52.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://mitchellh.com/writing/ghostty-leaving-github
-Comments URL: https://news.ycombinator.com/item?id=47939579
-Points: 1037
-# Comments: 291]]></summary>
-        <author>
-            <name>WadeGrimridge</name>
         </author>
     </entry>
 </feed>
