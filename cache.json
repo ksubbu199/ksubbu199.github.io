@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=48314136",
+          "author": "philips",
+          "description": "Article URL: https://mybricklog.com/blog/bricks-minifigs-corporate-stole-old-mans-200000-lego-collection\nComments URL: https://news.ycombinator.com/item?id=48314136\nPoints: 689\n# Comments: 369",
+          "link": "https://mybricklog.com/blog/bricks-minifigs-corporate-stole-old-mans-200000-lego-collection",
+          "publishedOn": "2026-05-28T19:24:09.000Z",
+          "wordCount": 173,
+          "title": "Bricks and Minifigs Stole a Man's $200k Lego Collection",
+          "imageUrl": "https://www.mybricklog.com/thumbnail.png"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=48311647",
           "author": "craigmart",
           "description": "Article URL: https://www.anthropic.com/news/claude-opus-4-8\nComments URL: https://news.ycombinator.com/item?id=48311647\nPoints: 575\n# Comments: 405",
@@ -1914,26 +1924,6 @@
           "wordCount": null,
           "title": "Cursor Camp",
           "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=47949027",
-          "author": "salkahfi",
-          "description": "Article URL: https://zed.dev/blog/zed-1-0\nComments URL: https://news.ycombinator.com/item?id=47949027\nPoints: 742\n# Comments: 259",
-          "link": "https://zed.dev/blog/zed-1-0",
-          "publishedOn": "2026-04-29T14:34:19.000Z",
-          "wordCount": 12394,
-          "title": "Zed 1.0",
-          "imageUrl": "https://zed.dev/img/post/one-point-zero/thumbnail.webp"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=47948603",
-          "author": "icy",
-          "description": "Article URL: https://blog.tangled.org/federation/\nComments URL: https://news.ycombinator.com/item?id=47948603\nPoints: 506\n# Comments: 318",
-          "link": "https://blog.tangled.org/federation/",
-          "publishedOn": "2026-04-29T14:00:59.000Z",
-          "wordCount": 377,
-          "title": "We need a federation of forges",
-          "imageUrl": "https://assets.tangled.network/blog/federation/Light-OG.png"
         }
       ]
     },
@@ -2140,16 +2130,6 @@
           "publishedOn": "2026-05-05T16:18:00.000Z",
           "wordCount": 337,
           "title": "Bliki: Mythical Man Month",
-          "imageUrl": "https://martinfowler.com/logo-sq.png"
-        },
-        {
-          "id": "https://martinfowler.com/fragments/2026-04-29.html",
-          "author": null,
-          "description": "Chris Parsons has updated his guide on using AI to code. This is his third update, what I like about it is that he gives a lot of concrete information about how he uses AI, with sufficient detail that we can learn from him. His advice also resonates with the better advice I’ve seen out there, so the article makes a good overview of the state of using AI for software development.\nI wrote the previous version of this post in March 2025, updated it once in August, and it has been linked from almost everything I have written about AI engineering since. The fundamentals from that post still hold: keep changes small, build guardrails, document ruthlessly, and make sure every change gets verified before it ships. One thing has had to move with the volume. “Verified” used to mean “read by you”. Wi…",
-          "link": "https://martinfowler.com/fragments/2026-04-29.html",
-          "publishedOn": "2026-04-29T13:23:00.000Z",
-          "wordCount": 1952,
-          "title": "Fragments: April 29",
           "imageUrl": "https://martinfowler.com/logo-sq.png"
         }
       ]
