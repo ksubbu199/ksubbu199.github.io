@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-05-29T15:30:27.297Z</updated>
+    <updated>2026-05-29T18:32:49.325Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[I am retiring from tech to live offline]]></title>
+        <id>https://news.ycombinator.com/item?id=48323683</id>
+        <link href="https://openpath.quest/2026/i-am-retiring-from-tech-to-live-offline/"/>
+        <updated>2026-05-29T14:40:47.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://openpath.quest/2026/i-am-retiring-from-tech-to-live-offline/
+Comments URL: https://news.ycombinator.com/item?id=48323683
+Points: 522
+# Comments: 361]]></summary>
+        <author>
+            <name>PinkG</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Please Use AI]]></title>
         <id>https://news.ycombinator.com/item?id=48323101</id>
@@ -17,6 +30,19 @@ Points: 521
 # Comments: 202]]></summary>
         <author>
             <name>garycomtois</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GitHub bans security researcher who posted zero-day Windows exploits]]></title>
+        <id>https://news.ycombinator.com/item?id=48315968</id>
+        <link href="https://www.tomshardware.com/tech-industry/cyber-security/microsofts-github-bans-security-researcher-who-posted-zero-day-windows-exploits-because-company-ruined-their-life-expert-claims-action-is-vindictive-and-promises-further-retaliation"/>
+        <updated>2026-05-28T21:45:54.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.tomshardware.com/tech-industry/cyber-security/microsofts-github-bans-security-researcher-who-posted-zero-day-windows-exploits-because-company-ruined-their-life-expert-claims-action-is-vindictive-and-promises-further-retaliation
+Comments URL: https://news.ycombinator.com/item?id=48315968
+Points: 503
+# Comments: 242]]></summary>
+        <author>
+            <name>possibilistic</name>
         </author>
     </entry>
     <entry>
