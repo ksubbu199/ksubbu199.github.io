@@ -6,6 +6,26 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=48323101",
+          "author": "garycomtois",
+          "description": "Article URL: https://shawnsmucker.substack.com/p/please-use-ai\nComments URL: https://news.ycombinator.com/item?id=48323101\nPoints: 521\n# Comments: 202",
+          "link": "https://shawnsmucker.substack.com/p/please-use-ai",
+          "publishedOn": "2026-05-29T13:50:25.000Z",
+          "wordCount": null,
+          "title": "Please Use AI",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=48314951",
+          "author": "mattrighetti",
+          "description": "Article URL: https://nick.winans.io/blog/nice-nano/\nComments URL: https://news.ycombinator.com/item?id=48314951\nPoints: 504\n# Comments: 76",
+          "link": "https://nick.winans.io/blog/nice-nano/",
+          "publishedOn": "2026-05-28T20:25:21.000Z",
+          "wordCount": 1985,
+          "title": "I made a million dollar product from my dorm room (2025)",
+          "imageUrl": "https://nick.winans.io/blog/og?title=I%20Made%20a%20Million%20Dollar%20Product%20from%20My%20Dorm%20Room&description=The%20story%20of%20the%20nice!nano%3B%20a%20wireless%20Pro%20Micro-compatible%20microcontroller%20board%20I%20made%20in%20my%20freshman%20year%20of%20college.&date=2025-03-23T00%3A00%3A00.000Z"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=48314136",
           "author": "philips",
           "description": "Article URL: https://mybricklog.com/blog/bricks-minifigs-corporate-stole-old-mans-200000-lego-collection\nComments URL: https://news.ycombinator.com/item?id=48314136\nPoints: 689\n# Comments: 369",
@@ -1864,26 +1884,6 @@
           "wordCount": 3360,
           "title": "Mozilla's opposition to Chrome's Prompt API",
           "imageUrl": "https://opengraph.githubassets.com/67fea611536d1e843d13f2304d570d055afc600badc646876d80328b8d1fcab6/mozilla/standards-positions/issues/1213"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=47957688",
-          "author": "ilreb",
-          "description": "Article URL: https://openai.com/index/where-the-goblins-came-from/\nComments URL: https://news.ycombinator.com/item?id=47957688\nPoints: 543\n# Comments: 305",
-          "link": "https://openai.com/index/where-the-goblins-came-from/",
-          "publishedOn": "2026-04-30T03:21:04.000Z",
-          "wordCount": null,
-          "title": "Where the goblins came from",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=47957294",
-          "author": "lumpa",
-          "description": "Article URL: https://simonwillison.net/2026/Apr/30/zig-anti-ai/\nComments URL: https://news.ycombinator.com/item?id=47957294\nPoints: 559\n# Comments: 325",
-          "link": "https://simonwillison.net/2026/Apr/30/zig-anti-ai/",
-          "publishedOn": "2026-04-30T02:15:47.000Z",
-          "wordCount": 1224,
-          "title": "The Zig project's rationale for their anti-AI contribution policy",
-          "imageUrl": null
         }
       ]
     },
@@ -1898,6 +1898,26 @@
       "feedUrl": "https://blog.boot.dev/index.xml",
       "siteUrl": "https://boot.dev/blog/",
       "articles": [
+        {
+          "id": "https://boot.dev/blog/javascript/best-ways-to-learn-javascript/",
+          "author": null,
+          "description": "JavaScript is undoubtedly one of the best languages to learn as a developer, whether you’ve been at it for years or are just starting out, since more than 98 percent of today’s websites use JavaScript. The language is firmly entrenched in the online world, so regardless of your field, you’ll likely be exposed to JavaScript at some point in your career as a developer.\nThe best way to learn JavaScript depends entirely on the learner. Below, I’ve compiled the best methods for learning JavaScript so you can find the way that works for you. I’ll go over the best practices-both online and offline-to help you find what works for your learning style.",
+          "link": "https://boot.dev/blog/javascript/best-ways-to-learn-javascript/",
+          "publishedOn": "2026-05-28T00:00:00.000Z",
+          "wordCount": 3112,
+          "title": "12 Best Ways to Learn JavaScript",
+          "imageUrl": "https://boot.dev/img/featured/12-best-ways-to-learn-javascript-2026.webp"
+        },
+        {
+          "id": "https://boot.dev/blog/education/best-web-dev-courses/",
+          "author": null,
+          "description": "With thousands of web development courses available online, there’s never been a better time to explore your options. In fact, it can start to feel like an open-world game with too many paths-like you’ll get lost in the options before you even pick a direction. From YouTube and Discord to free websites and paid university courses, the learning options can feel endless. The challenge isn’t finding a course-it’s finding the right one.",
+          "link": "https://boot.dev/blog/education/best-web-dev-courses/",
+          "publishedOn": "2026-05-28T00:00:00.000Z",
+          "wordCount": 3760,
+          "title": "13 Best Web Development Courses",
+          "imageUrl": "https://boot.dev/img/featured/13-best-web-development-courses-2026.webp"
+        },
         {
           "id": "https://boot.dev/blog/news/open-source-maintainer-crashouts/",
           "author": null,

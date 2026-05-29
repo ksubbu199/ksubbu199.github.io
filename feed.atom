@@ -2,10 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-05-29T11:29:53.993Z</updated>
+    <updated>2026-05-29T15:30:27.297Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Please Use AI]]></title>
+        <id>https://news.ycombinator.com/item?id=48323101</id>
+        <link href="https://shawnsmucker.substack.com/p/please-use-ai"/>
+        <updated>2026-05-29T13:50:25.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://shawnsmucker.substack.com/p/please-use-ai
+Comments URL: https://news.ycombinator.com/item?id=48323101
+Points: 521
+# Comments: 202]]></summary>
+        <author>
+            <name>garycomtois</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I made a million dollar product from my dorm room (2025)]]></title>
+        <id>https://news.ycombinator.com/item?id=48314951</id>
+        <link href="https://nick.winans.io/blog/nice-nano/"/>
+        <updated>2026-05-28T20:25:21.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://nick.winans.io/blog/nice-nano/
+Comments URL: https://news.ycombinator.com/item?id=48314951
+Points: 504
+# Comments: 76]]></summary>
+        <author>
+            <name>mattrighetti</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Bricks and Minifigs Stole a Man's $200k Lego Collection]]></title>
         <id>https://news.ycombinator.com/item?id=48314136</id>
@@ -43,6 +69,27 @@ Points: 600
 # Comments: 360]]></summary>
         <author>
             <name>mlsu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[12 Best Ways to Learn JavaScript]]></title>
+        <id>https://boot.dev/blog/javascript/best-ways-to-learn-javascript/</id>
+        <link href="https://boot.dev/blog/javascript/best-ways-to-learn-javascript/"/>
+        <updated>2026-05-28T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[JavaScript is undoubtedly one of the best languages to learn as a developer, whether you’ve been at it for years or are just starting out, since more than 98 percent of today’s websites use JavaScript. The language is firmly entrenched in the online world, so regardless of your field, you’ll likely be exposed to JavaScript at some point in your career as a developer.
+The best way to learn JavaScript depends entirely on the learner. Below, I’ve compiled the best methods for learning JavaScript so you can find the way that works for you. I’ll go over the best practices-both online and offline-to help you find what works for your learning style.]]></summary>
+        <author>
+            <name>Boot.dev Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[13 Best Web Development Courses]]></title>
+        <id>https://boot.dev/blog/education/best-web-dev-courses/</id>
+        <link href="https://boot.dev/blog/education/best-web-dev-courses/"/>
+        <updated>2026-05-28T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[With thousands of web development courses available online, there’s never been a better time to explore your options. In fact, it can start to feel like an open-world game with too many paths-like you’ll get lost in the options before you even pick a direction. From YouTube and Discord to free websites and paid university courses, the learning options can feel endless. The challenge isn’t finding a course-it’s finding the right one.]]></summary>
+        <author>
+            <name>Boot.dev Blog</name>
         </author>
     </entry>
     <entry>
@@ -3130,32 +3177,6 @@ Points: 505
 # Comments: 196]]></summary>
         <author>
             <name>jaffathecake</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Where the goblins came from]]></title>
-        <id>https://news.ycombinator.com/item?id=47957688</id>
-        <link href="https://openai.com/index/where-the-goblins-came-from/"/>
-        <updated>2026-04-30T03:21:04.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://openai.com/index/where-the-goblins-came-from/
-Comments URL: https://news.ycombinator.com/item?id=47957688
-Points: 543
-# Comments: 305]]></summary>
-        <author>
-            <name>ilreb</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Zig project's rationale for their anti-AI contribution policy]]></title>
-        <id>https://news.ycombinator.com/item?id=47957294</id>
-        <link href="https://simonwillison.net/2026/Apr/30/zig-anti-ai/"/>
-        <updated>2026-04-30T02:15:47.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://simonwillison.net/2026/Apr/30/zig-anti-ai/
-Comments URL: https://news.ycombinator.com/item?id=47957294
-Points: 559
-# Comments: 325]]></summary>
-        <author>
-            <name>lumpa</name>
         </author>
     </entry>
 </feed>
