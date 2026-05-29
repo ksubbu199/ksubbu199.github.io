@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-05-29T18:32:49.325Z</updated>
+    <updated>2026-05-29T21:07:02.875Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -82,6 +82,19 @@ Points: 575
 # Comments: 405]]></summary>
         <author>
             <name>craigmart</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Disagreement among frontier LLMs on real-world fact-checks]]></title>
+        <id>https://news.ycombinator.com/item?id=48307887</id>
+        <link href="https://lenz.io/research/llm-disagreement"/>
+        <updated>2026-05-28T12:20:19.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://lenz.io/research/llm-disagreement
+Comments URL: https://news.ycombinator.com/item?id=48307887
+Points: 500
+# Comments: 344]]></summary>
+        <author>
+            <name>kostaj</name>
         </author>
     </entry>
     <entry>
@@ -3190,19 +3203,6 @@ Points: 522
 # Comments: 408]]></summary>
         <author>
             <name>mpweiher</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mozilla's opposition to Chrome's Prompt API]]></title>
-        <id>https://news.ycombinator.com/item?id=47959463</id>
-        <link href="https://github.com/mozilla/standards-positions/issues/1213#issuecomment-4347988313"/>
-        <updated>2026-04-30T07:43:55.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://github.com/mozilla/standards-positions/issues/1213#issuecomment-4347988313
-Comments URL: https://news.ycombinator.com/item?id=47959463
-Points: 505
-# Comments: 196]]></summary>
-        <author>
-            <name>jaffathecake</name>
         </author>
     </entry>
 </feed>

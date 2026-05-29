@@ -66,6 +66,16 @@
           "imageUrl": "https://cdn.sanity.io/images/4zrzovbb/website/0eaa0ed2dce9810169112e1c77de2585fcf1f5c2-2880x1620.jpg"
         },
         {
+          "id": "https://news.ycombinator.com/item?id=48307887",
+          "author": "kostaj",
+          "description": "Article URL: https://lenz.io/research/llm-disagreement\nComments URL: https://news.ycombinator.com/item?id=48307887\nPoints: 500\n# Comments: 344",
+          "link": "https://lenz.io/research/llm-disagreement",
+          "publishedOn": "2026-05-28T12:20:19.000Z",
+          "wordCount": 21218,
+          "title": "Disagreement among frontier LLMs on real-world fact-checks",
+          "imageUrl": "https://lenz.io/research/llm-disagreement/og.png"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=48302745",
           "author": "mlsu",
           "description": "Article URL: https://mlsu.io/posts/day-off/\nComments URL: https://news.ycombinator.com/item?id=48302745\nPoints: 600\n# Comments: 360",
@@ -1894,16 +1904,6 @@
           "wordCount": 3253,
           "title": "Belgium stops decommissioning nuclear power plants",
           "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=47959463",
-          "author": "jaffathecake",
-          "description": "Article URL: https://github.com/mozilla/standards-positions/issues/1213#issuecomment-4347988313\nComments URL: https://news.ycombinator.com/item?id=47959463\nPoints: 505\n# Comments: 196",
-          "link": "https://github.com/mozilla/standards-positions/issues/1213#issuecomment-4347988313",
-          "publishedOn": "2026-04-30T07:43:55.000Z",
-          "wordCount": 3360,
-          "title": "Mozilla's opposition to Chrome's Prompt API",
-          "imageUrl": "https://opengraph.githubassets.com/67fea611536d1e843d13f2304d570d055afc600badc646876d80328b8d1fcab6/mozilla/standards-positions/issues/1213"
         }
       ]
     },
