@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-05-30T03:24:45.765Z</updated>
+    <updated>2026-05-30T06:45:09.185Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -108,6 +108,19 @@ Points: 575
 # Comments: 405]]></summary>
         <author>
             <name>craigmart</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Citing 'severe' math deficits, UC faculty demand a return to SAT tests for STEM]]></title>
+        <id>https://news.ycombinator.com/item?id=48309233</id>
+        <link href="https://www.latimes.com/california/story/2026-05-27/uc-math-professors-demand-return-of-sat-for-stem-admissions"/>
+        <updated>2026-05-28T14:13:00.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.latimes.com/california/story/2026-05-27/uc-math-professors-demand-return-of-sat-for-stem-admissions
+Comments URL: https://news.ycombinator.com/item?id=48309233
+Points: 548
+# Comments: 747]]></summary>
+        <author>
+            <name>brandonb</name>
         </author>
     </entry>
     <entry>
@@ -3099,55 +3112,6 @@ Points: 528
 # Comments: 203]]></summary>
         <author>
             <name>Cider9986</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[For Linux kernel vulnerabilities, there is no heads-up to distributions]]></title>
-        <id>https://news.ycombinator.com/item?id=47965108</id>
-        <link href="https://www.openwall.com/lists/oss-security/2026/04/30/10"/>
-        <updated>2026-04-30T16:43:47.000Z</updated>
-        <summary type="html"><![CDATA[Recent: Copy Fail - https://news.ycombinator.com/item?id=47952181 - April 2026 (466 comments)
-Comments URL: https://news.ycombinator.com/item?id=47965108
-Points: 509
-# Comments: 397]]></summary>
-        <author>
-            <name>ori_b</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Mark Klein told the EFF about Room 641A [book excerpt]]]></title>
-        <id>https://news.ycombinator.com/item?id=47965060</id>
-        <link href="https://thereader.mitpress.mit.edu/the-whistleblower-who-uncovered-the-nsas-big-brother-machine/"/>
-        <updated>2026-04-30T16:41:00.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://thereader.mitpress.mit.edu/the-whistleblower-who-uncovered-the-nsas-big-brother-machine/
-Comments URL: https://news.ycombinator.com/item?id=47965060
-Points: 531
-# Comments: 177]]></summary>
-        <author>
-            <name>the-mitr</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Spain's parliament will act against massive IP blockages by LaLiga]]></title>
-        <id>https://news.ycombinator.com/item?id=47964034</id>
-        <link href="https://www.democrata.es/en/politics/congress-and-senate/congress-will-act-against-massive-ip-blockages-by-laliga/"/>
-        <updated>2026-04-30T15:31:40.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.democrata.es/en/politics/congress-and-senate/congress-will-act-against-massive-ip-blockages-by-laliga/
-Comments URL: https://news.ycombinator.com/item?id=47964034
-Points: 503
-# Comments: 221]]></summary>
-        <author>
-            <name>akyuu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why Startups With Great Products Fail? Ft. Nir Eyal]]></title>
-        <id>https://www.youtube.com/shorts/hpRyhR9wXB4</id>
-        <link href="https://www.youtube.com/shorts/hpRyhR9wXB4"/>
-        <updated>2026-04-30T15:30:25.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Think School</name>
         </author>
     </entry>
 </feed>
