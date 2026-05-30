@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=48326802",
+          "author": "tomasol",
+          "description": "Article URL: https://obeli.sk/blog/sqlite-is-all-you-need-for-durable-workflows/\nComments URL: https://news.ycombinator.com/item?id=48326802\nPoints: 521\n# Comments: 257",
+          "link": "https://obeli.sk/blog/sqlite-is-all-you-need-for-durable-workflows/",
+          "publishedOn": "2026-05-29T17:54:50.000Z",
+          "wordCount": null,
+          "title": "SQLite is all you need for durable workflows",
+          "imageUrl": null
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=48324712",
           "author": "WillDaSilva",
           "description": "Article URL: https://www.owenmcgrann.com/p/the-dead-economy-theory\nComments URL: https://news.ycombinator.com/item?id=48324712\nPoints: 561\n# Comments: 744",
@@ -1854,16 +1864,6 @@
           "wordCount": 4423,
           "title": "Show HN: WhatCable, a tiny menu bar app for inspecting USB-C cables",
           "imageUrl": "https://repository-images.githubusercontent.com/1226286910/faabb9c8-772f-43d0-8643-57d90b45f5b2"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=47967786",
-          "author": "Cider9986",
-          "description": "Article URL: https://rivian.com/support/article/can-i-disable-all-data-collection-from-my-vehicle\nComments URL: https://news.ycombinator.com/item?id=47967786\nPoints: 528\n# Comments: 203",
-          "link": "https://rivian.com/support/article/can-i-disable-all-data-collection-from-my-vehicle",
-          "publishedOn": "2026-04-30T20:27:22.000Z",
-          "wordCount": 2199,
-          "title": "Can I disable all data collection from my vehicle?",
-          "imageUrl": "https://media.rivian.com/image/upload/f_auto,q_auto/v1695930282/rivian-com/default-riv-com-sharing-image_gjg8mw.jpg"
         }
       ]
     },

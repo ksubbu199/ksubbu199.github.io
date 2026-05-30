@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-05-30T06:45:09.185Z</updated>
+    <updated>2026-05-30T09:16:12.248Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[SQLite is all you need for durable workflows]]></title>
+        <id>https://news.ycombinator.com/item?id=48326802</id>
+        <link href="https://obeli.sk/blog/sqlite-is-all-you-need-for-durable-workflows/"/>
+        <updated>2026-05-29T17:54:50.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://obeli.sk/blog/sqlite-is-all-you-need-for-durable-workflows/
+Comments URL: https://news.ycombinator.com/item?id=48326802
+Points: 521
+# Comments: 257]]></summary>
+        <author>
+            <name>tomasol</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The dead economy theory]]></title>
         <id>https://news.ycombinator.com/item?id=48324712</id>
@@ -3099,19 +3112,6 @@ Points: 506
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>Think School</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Can I disable all data collection from my vehicle?]]></title>
-        <id>https://news.ycombinator.com/item?id=47967786</id>
-        <link href="https://rivian.com/support/article/can-i-disable-all-data-collection-from-my-vehicle"/>
-        <updated>2026-04-30T20:27:22.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://rivian.com/support/article/can-i-disable-all-data-collection-from-my-vehicle
-Comments URL: https://news.ycombinator.com/item?id=47967786
-Points: 528
-# Comments: 203]]></summary>
-        <author>
-            <name>Cider9986</name>
         </author>
     </entry>
 </feed>
