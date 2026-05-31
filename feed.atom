@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-05-31T18:01:38.178Z</updated>
+    <updated>2026-05-31T20:07:07.362Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -130,6 +130,23 @@ Points: 501
 # Comments: 285]]></summary>
         <author>
             <name>1vuio0pswjnm7</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Blue Origin's New Glenn blows up during static fire test]]></title>
+        <id>https://news.ycombinator.com/item?id=48317774</id>
+        <link href="https://twitter.com/nasaspaceflight/status/2060164928472854821"/>
+        <updated>2026-05-29T01:16:38.000Z</updated>
+        <summary type="html"><![CDATA[https://twitter.com/nasaspaceflight/status/20601649284728548...
+https://xcancel.com/nasaspaceflight/status/20601649284728548...
+https://twitter.com/SawyerMerritt/status/2060174287563116696...
+https://xcancel.com/SawyerMerritt/status/2060174287563116696...
+https://arstechnica.com/space/2026/05/blue-origins-new-glenn...
+Comments URL: https://news.ycombinator.com/item?id=48317774
+Points: 500
+# Comments: 542]]></summary>
+        <author>
+            <name>enraged_camel</name>
         </author>
     </entry>
     <entry>
@@ -3053,29 +3070,6 @@ Points: 518
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>Think School</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Your Brain Hides 99.99% Reality | Ft. Nir Eyal]]></title>
-        <id>https://www.youtube.com/shorts/zNJhAh-90UE</id>
-        <link href="https://www.youtube.com/shorts/zNJhAh-90UE"/>
-        <updated>2026-05-02T06:57:33.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Think School</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why does it take so long to release black fan versions?]]></title>
-        <id>https://news.ycombinator.com/item?id=47983352</id>
-        <link href="https://www.noctua.at/en/expertise/blog/how-can-it-take-so-long-to-release-black-fan-versions"/>
-        <updated>2026-05-02T04:38:04.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.noctua.at/en/expertise/blog/how-can-it-take-so-long-to-release-black-fan-versions
-Comments URL: https://news.ycombinator.com/item?id=47983352
-Points: 521
-# Comments: 239]]></summary>
-        <author>
-            <name>buildbot</name>
         </author>
     </entry>
 </feed>
