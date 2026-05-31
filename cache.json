@@ -16,6 +16,16 @@
           "imageUrl": "https://consumerrights.wiki/images/logo/new_fixed_logo.png"
         },
         {
+          "id": "https://news.ycombinator.com/item?id=48340411",
+          "author": "aaronbrethorst",
+          "description": "Article URL: https://www.brethorsting.com/blog/2026/05/domain-expertise-has-always-been-the-real-moat/\nComments URL: https://news.ycombinator.com/item?id=48340411\nPoints: 529\n# Comments: 311",
+          "link": "https://www.brethorsting.com/blog/2026/05/domain-expertise-has-always-been-the-real-moat/",
+          "publishedOn": "2026-05-30T20:40:57.000Z",
+          "wordCount": 1130,
+          "title": "Domain expertise has always been the real moat",
+          "imageUrl": null
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=48330882",
           "author": "tambourine_man",
           "description": "Article URL: https://daringfireball.net/2026/05/what_is_a_dickover\nComments URL: https://news.ycombinator.com/item?id=48330882\nPoints: 505\n# Comments: 192",
@@ -1854,36 +1864,6 @@
           "wordCount": null,
           "title": "Why does it take so long to release black fan versions?",
           "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=47979583",
-          "author": "thatxliner",
-          "description": "Article URL: https://education.ti.com/en/products/calculators/graphing-calculators/ti-84-evo\nComments URL: https://news.ycombinator.com/item?id=47979583\nPoints: 507\n# Comments: 414",
-          "link": "https://education.ti.com/en/products/calculators/graphing-calculators/ti-84-evo",
-          "publishedOn": "2026-05-01T20:06:59.000Z",
-          "wordCount": 2795,
-          "title": "Ti-84 Evo",
-          "imageUrl": "https://education.ti.com/-/media/ti/education/images/global-images/logos/ti-edtech-og-social-400x.png?rev=ec2fd198-6664-4265-951e-8d68e29d91b5"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=47977134",
-          "author": "bobsmooth",
-          "description": "Article URL: https://github.com/Exocija/ZetaLib/blob/main/The%20Gay%20Jailbreak/The%20Gay%20Jailbreak.md\nComments URL: https://news.ycombinator.com/item?id=47977134\nPoints: 519\n# Comments: 213",
-          "link": "https://github.com/Exocija/ZetaLib/blob/main/The%20Gay%20Jailbreak/The%20Gay%20Jailbreak.md",
-          "publishedOn": "2026-05-01T16:59:35.000Z",
-          "wordCount": 3594,
-          "title": "The gay jailbreak technique (2025)",
-          "imageUrl": "https://opengraph.githubassets.com/386771a8ad795d0518dbbe0cbc70cdc47697868c424bac966d2130f3c47fd3cc/Exocija/ZetaLib"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=47977026",
-          "author": "indigodaddy",
-          "description": "Article URL: https://simonwillison.net/2026/Apr/24/deepseek-v4/\nComments URL: https://news.ycombinator.com/item?id=47977026\nPoints: 520\n# Comments: 319",
-          "link": "https://simonwillison.net/2026/Apr/24/deepseek-v4/",
-          "publishedOn": "2026-05-01T16:52:43.000Z",
-          "wordCount": 1322,
-          "title": "DeepSeek V4—almost on the frontier",
-          "imageUrl": "https://static.simonwillison.net/static/2026/deepseek-v4-card.jpg"
         }
       ]
     },

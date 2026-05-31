@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-05-31T04:45:51.537Z</updated>
+    <updated>2026-05-31T08:14:44.156Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -17,6 +17,19 @@ Points: 644
 # Comments: 204]]></summary>
         <author>
             <name>antipurist</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Domain expertise has always been the real moat]]></title>
+        <id>https://news.ycombinator.com/item?id=48340411</id>
+        <link href="https://www.brethorsting.com/blog/2026/05/domain-expertise-has-always-been-the-real-moat/"/>
+        <updated>2026-05-30T20:40:57.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.brethorsting.com/blog/2026/05/domain-expertise-has-always-been-the-real-moat/
+Comments URL: https://news.ycombinator.com/item?id=48340411
+Points: 529
+# Comments: 311]]></summary>
+        <author>
+            <name>aaronbrethorst</name>
         </author>
     </entry>
     <entry>
@@ -3085,45 +3098,6 @@ idea: just run the tests in the browser tab
 Alex Ch…]]></summary>
         <author>
             <name>Julia Evans</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ti-84 Evo]]></title>
-        <id>https://news.ycombinator.com/item?id=47979583</id>
-        <link href="https://education.ti.com/en/products/calculators/graphing-calculators/ti-84-evo"/>
-        <updated>2026-05-01T20:06:59.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://education.ti.com/en/products/calculators/graphing-calculators/ti-84-evo
-Comments URL: https://news.ycombinator.com/item?id=47979583
-Points: 507
-# Comments: 414]]></summary>
-        <author>
-            <name>thatxliner</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The gay jailbreak technique (2025)]]></title>
-        <id>https://news.ycombinator.com/item?id=47977134</id>
-        <link href="https://github.com/Exocija/ZetaLib/blob/main/The%20Gay%20Jailbreak/The%20Gay%20Jailbreak.md"/>
-        <updated>2026-05-01T16:59:35.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://github.com/Exocija/ZetaLib/blob/main/The%20Gay%20Jailbreak/The%20Gay%20Jailbreak.md
-Comments URL: https://news.ycombinator.com/item?id=47977134
-Points: 519
-# Comments: 213]]></summary>
-        <author>
-            <name>bobsmooth</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DeepSeek V4—almost on the frontier]]></title>
-        <id>https://news.ycombinator.com/item?id=47977026</id>
-        <link href="https://simonwillison.net/2026/Apr/24/deepseek-v4/"/>
-        <updated>2026-05-01T16:52:43.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://simonwillison.net/2026/Apr/24/deepseek-v4/
-Comments URL: https://news.ycombinator.com/item?id=47977026
-Points: 520
-# Comments: 319]]></summary>
-        <author>
-            <name>indigodaddy</name>
         </author>
     </entry>
 </feed>
