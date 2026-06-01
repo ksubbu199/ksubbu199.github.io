@@ -6,6 +6,26 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=48356625",
+          "author": "kurmiashish",
+          "description": "Article URL: https://github.com/RedHatInsights/javascript-clients/issues/492\nComments URL: https://news.ycombinator.com/item?id=48356625\nPoints: 576\n# Comments: 297",
+          "link": "https://github.com/RedHatInsights/javascript-clients/issues/492",
+          "publishedOn": "2026-06-01T13:30:21.000Z",
+          "wordCount": 1317,
+          "title": "Malicious npm packages detected across Red Hat Cloud Services",
+          "imageUrl": "https://opengraph.githubassets.com/81b6be3beea568b6cd77bff7667f4256cb7a678931e248c9efa036a2f509345b/RedHatInsights/javascript-clients/issues/492"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=48353348",
+          "author": "cafkafk",
+          "description": "Article URL: https://point.free/blog/gemma-4-on-a-2016-xeon/\nComments URL: https://news.ycombinator.com/item?id=48353348\nPoints: 501\n# Comments: 223",
+          "link": "https://point.free/blog/gemma-4-on-a-2016-xeon/",
+          "publishedOn": "2026-06-01T06:38:42.000Z",
+          "wordCount": 3061,
+          "title": "A 10 year old Xeon is all you need",
+          "imageUrl": "https://point.free/processed_images/banner.ebd2671bea295a74.jpg"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=48348578",
           "author": "thunderbong",
           "description": "Article URL: https://twitter.com/i/status/2060746160558543217\nComments URL: https://news.ycombinator.com/item?id=48348578\nPoints: 551\n# Comments: 264",
@@ -36,6 +56,16 @@
           "imageUrl": "/images/avatar.png?serial=2020111201"
         },
         {
+          "id": "https://news.ycombinator.com/item?id=48344961",
+          "author": "captain_bender",
+          "description": "Article URL: https://jbkempf.com/blog/2026/dav2d/\nComments URL: https://news.ycombinator.com/item?id=48344961\nPoints: 531\n# Comments: 193",
+          "link": "https://jbkempf.com/blog/2026/dav2d/",
+          "publishedOn": "2026-05-31T11:44:45.000Z",
+          "wordCount": null,
+          "title": "Dav2d",
+          "imageUrl": null
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=48343683",
           "author": "k1m",
           "description": "Article URL: https://specification.website/\nComments URL: https://news.ycombinator.com/item?id=48343683\nPoints: 502\n# Comments: 200",
@@ -44,6 +74,16 @@
           "wordCount": 526,
           "title": "The Website Specification",
           "imageUrl": "https://specification.website/og-default.png"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=48342705",
+          "author": "justdotJS",
+          "description": "Article URL: https://github.com/RsyncProject/rsync/issues/929\nComments URL: https://news.ycombinator.com/item?id=48342705\nPoints: 504\n# Comments: 457",
+          "link": "https://github.com/RsyncProject/rsync/issues/929",
+          "publishedOn": "2026-05-31T03:16:48.000Z",
+          "wordCount": 3337,
+          "title": "Please Do Not Vibe Fuck Up This Software",
+          "imageUrl": "https://opengraph.githubassets.com/2dba91679c507bad39152996e876d932f9925524ed8483b77de599ce1ffb6c0e/RsyncProject/rsync/issues/929"
         },
         {
           "id": "https://news.ycombinator.com/item?id=48341578",
@@ -1844,16 +1884,6 @@
           "wordCount": 8588,
           "title": "Mercedes-Benz commits to bringing back physical buttons",
           "imageUrl": "https://media.drive.com.au/obj/tx_q:70,rs:auto:1920:1080:1/driveau/upload/cms/uploads/7959f9e6-3ee0-5431-960e-8fec85c50000"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=47991981",
-          "author": "donsupreme",
-          "description": "Article URL: https://www.theguardian.com/technology/2026/apr/30/ai-outperforms-doctors-in-harvard-trial-of-emergency-triage-diagnoses\nComments URL: https://news.ycombinator.com/item?id=47991981\nPoints: 500\n# Comments: 456",
-          "link": "https://www.theguardian.com/technology/2026/apr/30/ai-outperforms-doctors-in-harvard-trial-of-emergency-triage-diagnoses",
-          "publishedOn": "2026-05-03T00:30:50.000Z",
-          "wordCount": 4845,
-          "title": "OpenAI’s o1 correctly diagnosed 67% of ER patients vs. 50-55% by triage doctors",
-          "imageUrl": "https://i.guim.co.uk/img/media/7f4b1062db43fb053f4d68c08b8e92dd39f49107/0_62_4362_3487/master/4362.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ceb8f56ddb65e715896d86461e95819f"
         }
       ]
     },
@@ -2142,6 +2172,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKZozRVHRYsYHGEyNKuhhdA",
       "siteUrl": "https://www.youtube.com/channel/UCKZozRVHRYsYHGEyNKuhhdA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/shorts/c9YL8KmOL7c",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/c9YL8KmOL7c",
+          "publishedOn": "2026-06-01T13:23:53.000Z",
+          "wordCount": 2166,
+          "title": "Experts Will Be More Important Than Generalists",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=h3Tv7t-zn2o",
           "author": null,
