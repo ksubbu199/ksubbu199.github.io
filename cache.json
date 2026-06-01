@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=48348578",
+          "author": "thunderbong",
+          "description": "Article URL: https://twitter.com/i/status/2060746160558543217\nComments URL: https://news.ycombinator.com/item?id=48348578\nPoints: 551\n# Comments: 264",
+          "link": "https://twitter.com/i/status/2060746160558543217",
+          "publishedOn": "2026-05-31T18:57:48.000Z",
+          "wordCount": 936,
+          "title": "Codex just found a \"workaround\" of not having sudo on my PC",
+          "imageUrl": null
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=48346947",
           "author": "MrJagil",
           "description": "Article URL: https://thesciverse.org/scientists-found-that-the-creatine-supplement-millions-take-for-muscle-gains-is-quietly-raising-brain-energy-levels-and-slowing-early-alzheimers-cognitive-decline-by-30/\nComments URL: https://news.ycombinator.com/item?id=48346947\nPoints: 507\n# Comments: 329",
@@ -24,6 +34,16 @@
           "wordCount": 364,
           "title": "Cloudflare Turnstile requiring fingerprintable WebGL",
           "imageUrl": "/images/avatar.png?serial=2020111201"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=48343683",
+          "author": "k1m",
+          "description": "Article URL: https://specification.website/\nComments URL: https://news.ycombinator.com/item?id=48343683\nPoints: 502\n# Comments: 200",
+          "link": "https://specification.website/",
+          "publishedOn": "2026-05-31T07:09:50.000Z",
+          "wordCount": 526,
+          "title": "The Website Specification",
+          "imageUrl": "https://specification.website/og-default.png"
         },
         {
           "id": "https://news.ycombinator.com/item?id=48341578",
@@ -1834,56 +1854,6 @@
           "wordCount": 4845,
           "title": "OpenAI’s o1 correctly diagnosed 67% of ER patients vs. 50-55% by triage doctors",
           "imageUrl": "https://i.guim.co.uk/img/media/7f4b1062db43fb053f4d68c08b8e92dd39f49107/0_62_4362_3487/master/4362.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ceb8f56ddb65e715896d86461e95819f"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=47990318",
-          "author": "richardboegli",
-          "description": "Article URL: https://ladybird.org/newsletter/2026-04-30/\nComments URL: https://news.ycombinator.com/item?id=47990318\nPoints: 500\n# Comments: 147",
-          "link": "https://ladybird.org/newsletter/2026-04-30/",
-          "publishedOn": "2026-05-02T20:46:30.000Z",
-          "wordCount": 2832,
-          "title": "This Month in Ladybird – April 2026",
-          "imageUrl": "/assets/img/ladybird-purple-on-black.png"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=47989883",
-          "author": "indrora",
-          "description": "Article URL: https://github.com/microsoft/vscode/pull/310226\nComments URL: https://news.ycombinator.com/item?id=47989883\nPoints: 532\n# Comments: 236",
-          "link": "https://github.com/microsoft/vscode/pull/310226",
-          "publishedOn": "2026-05-02T19:57:26.000Z",
-          "wordCount": 4414,
-          "title": "VS Code inserting 'Co-Authored-by Copilot' into commits regardless of usage",
-          "imageUrl": "https://opengraph.githubassets.com/c58d92193300555a421b24c3fec383de693446f5c7527251f577fafbbfb2fd63/microsoft/vscode/pull/310226"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=47988776",
-          "author": "rsaarelm",
-          "description": "Article URL: https://nethack.org/v500/release.html\nComments URL: https://news.ycombinator.com/item?id=47988776\nPoints: 503\n# Comments: 168",
-          "link": "https://nethack.org/v500/release.html",
-          "publishedOn": "2026-05-02T18:03:42.000Z",
-          "wordCount": 1609,
-          "title": "NetHack 5.0.0",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=47988592",
-          "author": "RubyGuy",
-          "description": "Article URL: https://donottrack.sh/\nComments URL: https://news.ycombinator.com/item?id=47988592\nPoints: 501\n# Comments: 156",
-          "link": "https://donottrack.sh/",
-          "publishedOn": "2026-05-02T17:40:55.000Z",
-          "wordCount": 919,
-          "title": "Do_not_track",
-          "imageUrl": "https://donottrack.sh/img/share.png"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=47988504",
-          "author": "dabinat",
-          "description": "Article URL: https://code.videolan.org/videolan/dav2d\nComments URL: https://news.ycombinator.com/item?id=47988504\nPoints: 518\n# Comments: 146",
-          "link": "https://code.videolan.org/videolan/dav2d",
-          "publishedOn": "2026-05-02T17:32:29.000Z",
-          "wordCount": 472,
-          "title": "Dav2d",
-          "imageUrl": "https://code.videolan.org/assets/twitter_card-570ddb06edf56a2312253c5872489847a0f385112ddbcd71ccfa1570febab5d2.jpg"
         }
       ]
     },

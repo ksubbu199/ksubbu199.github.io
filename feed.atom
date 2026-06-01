@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-06-01T04:04:20.391Z</updated>
+    <updated>2026-06-01T10:18:55.045Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Codex just found a "workaround" of not having sudo on my PC]]></title>
+        <id>https://news.ycombinator.com/item?id=48348578</id>
+        <link href="https://twitter.com/i/status/2060746160558543217"/>
+        <updated>2026-05-31T18:57:48.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://twitter.com/i/status/2060746160558543217
+Comments URL: https://news.ycombinator.com/item?id=48348578
+Points: 551
+# Comments: 264]]></summary>
+        <author>
+            <name>thunderbong</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Creatine raises brain energy levels and slows cognitive decline: study]]></title>
         <id>https://news.ycombinator.com/item?id=48346947</id>
@@ -30,6 +43,19 @@ Points: 552
 # Comments: 317]]></summary>
         <author>
             <name>HypnoticOcelot</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Website Specification]]></title>
+        <id>https://news.ycombinator.com/item?id=48343683</id>
+        <link href="https://specification.website/"/>
+        <updated>2026-05-31T07:09:50.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://specification.website/
+Comments URL: https://news.ycombinator.com/item?id=48343683
+Points: 502
+# Comments: 200]]></summary>
+        <author>
+            <name>k1m</name>
         </author>
     </entry>
     <entry>
@@ -3021,71 +3047,6 @@ Points: 500
 # Comments: 456]]></summary>
         <author>
             <name>donsupreme</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[This Month in Ladybird – April 2026]]></title>
-        <id>https://news.ycombinator.com/item?id=47990318</id>
-        <link href="https://ladybird.org/newsletter/2026-04-30/"/>
-        <updated>2026-05-02T20:46:30.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://ladybird.org/newsletter/2026-04-30/
-Comments URL: https://news.ycombinator.com/item?id=47990318
-Points: 500
-# Comments: 147]]></summary>
-        <author>
-            <name>richardboegli</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[VS Code inserting 'Co-Authored-by Copilot' into commits regardless of usage]]></title>
-        <id>https://news.ycombinator.com/item?id=47989883</id>
-        <link href="https://github.com/microsoft/vscode/pull/310226"/>
-        <updated>2026-05-02T19:57:26.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://github.com/microsoft/vscode/pull/310226
-Comments URL: https://news.ycombinator.com/item?id=47989883
-Points: 532
-# Comments: 236]]></summary>
-        <author>
-            <name>indrora</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NetHack 5.0.0]]></title>
-        <id>https://news.ycombinator.com/item?id=47988776</id>
-        <link href="https://nethack.org/v500/release.html"/>
-        <updated>2026-05-02T18:03:42.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://nethack.org/v500/release.html
-Comments URL: https://news.ycombinator.com/item?id=47988776
-Points: 503
-# Comments: 168]]></summary>
-        <author>
-            <name>rsaarelm</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Do_not_track]]></title>
-        <id>https://news.ycombinator.com/item?id=47988592</id>
-        <link href="https://donottrack.sh/"/>
-        <updated>2026-05-02T17:40:55.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://donottrack.sh/
-Comments URL: https://news.ycombinator.com/item?id=47988592
-Points: 501
-# Comments: 156]]></summary>
-        <author>
-            <name>RubyGuy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dav2d]]></title>
-        <id>https://news.ycombinator.com/item?id=47988504</id>
-        <link href="https://code.videolan.org/videolan/dav2d"/>
-        <updated>2026-05-02T17:32:29.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://code.videolan.org/videolan/dav2d
-Comments URL: https://news.ycombinator.com/item?id=47988504
-Points: 518
-# Comments: 146]]></summary>
-        <author>
-            <name>dabinat</name>
         </author>
     </entry>
 </feed>
