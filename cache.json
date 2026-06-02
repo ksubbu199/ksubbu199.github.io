@@ -16,6 +16,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://news.ycombinator.com/item?id=48358646",
+          "author": "surprisetalk",
+          "description": "https://www.reuters.com/business/ai-giant-anthropic-confiden...\nhttps://www.nytimes.com/2026/06/01/technology/anthropic-ipo....\nComments URL: https://news.ycombinator.com/item?id=48358646\nPoints: 503\n# Comments: 414",
+          "link": "https://www.anthropic.com/news/confidential-draft-s1-sec",
+          "publishedOn": "2026-06-01T16:00:40.000Z",
+          "wordCount": 902,
+          "title": "Anthropic confidentially submits draft S-1 to the SEC",
+          "imageUrl": "https://cdn.sanity.io/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=48357154",
           "author": "speckx",
           "description": "Article URL: https://torrentfreak.com/the-pirate-bay-remains-resilient-20-years-after-the-raid/\nComments URL: https://news.ycombinator.com/item?id=48357154\nPoints: 527\n# Comments: 254",
@@ -1864,26 +1874,6 @@
           "wordCount": 5273,
           "title": "GameStop makes $55.5B takeover offer for eBay",
           "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0759/live/6f3aea00-474a-11f1-b55d-0f258dce1735.jpg"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=48002777",
-          "author": "bjhess",
-          "description": "Article URL: https://letsbuyspiritair.com/\nComments URL: https://news.ycombinator.com/item?id=48002777\nPoints: 536\n# Comments: 517",
-          "link": "https://letsbuyspiritair.com/",
-          "publishedOn": "2026-05-03T23:36:11.000Z",
-          "wordCount": 14,
-          "title": "Let's Buy Spirit Air",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=48002136",
-          "author": "alattaran",
-          "description": "Article URL: https://github.com/aattaran/deepclaude\nComments URL: https://news.ycombinator.com/item?id=48002136\nPoints: 500\n# Comments: 200",
-          "link": "https://github.com/aattaran/deepclaude",
-          "publishedOn": "2026-05-03T22:13:20.000Z",
-          "wordCount": 6549,
-          "title": "DeepClaude – Claude Code agent loop with DeepSeek V4 Pro",
-          "imageUrl": "https://opengraph.githubassets.com/492c2860f27ab2e41c9f3d37ed225df42520230c95cf6db7c283d57e0938082a/aattaran/deepclaude"
         }
       ]
     },
@@ -1974,16 +1964,6 @@
           "wordCount": 1961,
           "title": "Moving away from Tailwind, and learning to structure my CSS",
           "imageUrl": null
-        },
-        {
-          "id": "https://jvns.ca/blog/2026/05/04/css-colour-palettes/",
-          "author": null,
-          "description": "A while back I decided to stop using Tailwind for new projects and to just write\nvanilla CSS instead.\nBut one thing I missed about Tailwind was the colour palette (here as CSS).\nIf I wanted a light blue I could just use blue-100 and if I didn’t like it\nmaybe try blue-200 or blue-50. I’m not very good with colours so it makes\na big difference to me to have a reasonable colour palette that somebody who is\nbetter at colour than me has thought about.\nBut I’m also a little tired of those Tailwind colours, so I asked on Mastodon\ntoday what other colour palettes were out there. And then a friend said they\nwanted links to those colour palettes, so here’s a blog post so my friend can\nsee them, and all the rest of you too :)\nmy favourites\nThe ones I liked the most were:\nuchū (css file, FAQ)\nflexoki (css file)\nreasonable colours, which seems to have a focus on accessibility (css file)\nmore colour palettes\nweb awesome\nradix\nUS web design systems\nmaterial design\ncolourscheme generators\nFolks also linked to a bunch of colour palette generators\nharmonizer\ntints.dev\ncoolors\ncolorpalette.pro\nI’ve always found these types of generators too hard to use but maybe one day I\nwill get better enough at colour that I’m able to use a colour palette generator\nsuccessfully so I’ll leave those links there anyway.\nand more colour tools:\ncolorhexa has some info about colorblindness\noklch\nGenerative colors with CSS gives an example of\nhow to use the oklch CSS function to dynamically generate colors.",
-          "link": "https://jvns.ca/blog/2026/05/04/css-colour-palettes/",
-          "publishedOn": "2026-05-04T00:00:00.000Z",
-          "wordCount": 478,
-          "title": "Links to CSS colour palettes",
-          "imageUrl": null
         }
       ]
     },
@@ -1992,6 +1972,16 @@
       "feedUrl": "https://martinfowler.com/feed.atom",
       "siteUrl": "https://martinfowler.com/feed.atom",
       "articles": [
+        {
+          "id": "https://martinfowler.com/fragments/2026-06-02.html",
+          "author": null,
+          "description": "Greg Wilson has noticed that lots of folks are using dodgy metrics to figure out if AI tools are worth their costs.\nWould you measure lines of code generated, or tickets closed? Or would you send out a survey asking whether developers feel more productive? Each of those approaches is flawed in a different way;\nHe lists lots of common metrics, and why they are flawed. Sadly he doesn’t give any suggestions on what would be better. In my view, since we cannot measure productivity, any metrics are weak evidence at the best of times.\nI do somewhat use one of his flawed measures: “Asking Developers If They Feel More Productive”. While I acknowledge the problems he gives with this measure, I find that in an environment where decent measures are hard to find, even such a dim light is the best we h…",
+          "link": "https://martinfowler.com/fragments/2026-06-02.html",
+          "publishedOn": "2026-06-02T09:21:00.000Z",
+          "wordCount": 1914,
+          "title": "Fragments: June  2",
+          "imageUrl": "https://martinfowler.com/logo-sq.png"
+        },
         {
           "id": "https://martinfowler.com/fragments/2026-05-27.html",
           "author": null,

@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-06-02T08:41:18.221Z</updated>
+    <updated>2026-06-02T12:41:46.583Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Fragments: June  2]]></title>
+        <id>https://martinfowler.com/fragments/2026-06-02.html</id>
+        <link href="https://martinfowler.com/fragments/2026-06-02.html"/>
+        <updated>2026-06-02T09:21:00.000Z</updated>
+        <summary type="html"><![CDATA[Greg Wilson has noticed that lots of folks are using dodgy metrics to figure out if AI tools are worth their costs.
+Would you measure lines of code generated, or tickets closed? Or would you send out a survey asking whether developers feel more productive? Each of those approaches is flawed in a different way;
+He lists lots of common metrics, and why they are flawed. Sadly he doesn’t give any suggestions on what would be better. In my view, since we cannot measure productivity, any metrics are weak evidence at the best of times.
+I do somewhat use one of his flawed measures: “Asking Developers If They Feel More Productive”. While I acknowledge the problems he gives with this measure, I find that in an environment where decent measures are hard to find, even such a dim light is the best we h…]]></summary>
+        <author>
+            <name>Martin Fowler</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The newest Instagram “exploit” is the goofiest I've seen]]></title>
         <id>https://news.ycombinator.com/item?id=48359102</id>
@@ -17,6 +30,20 @@ Points: 832
 # Comments: 206]]></summary>
         <author>
             <name>ssiddharth</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Anthropic confidentially submits draft S-1 to the SEC]]></title>
+        <id>https://news.ycombinator.com/item?id=48358646</id>
+        <link href="https://www.anthropic.com/news/confidential-draft-s1-sec"/>
+        <updated>2026-06-01T16:00:40.000Z</updated>
+        <summary type="html"><![CDATA[https://www.reuters.com/business/ai-giant-anthropic-confiden...
+https://www.nytimes.com/2026/06/01/technology/anthropic-ipo....
+Comments URL: https://news.ycombinator.com/item?id=48358646
+Points: 503
+# Comments: 414]]></summary>
+        <author>
+            <name>surprisetalk</name>
         </author>
     </entry>
     <entry>
@@ -3006,76 +3033,6 @@ Points: 552
 # Comments: 486]]></summary>
         <author>
             <name>n1b0m</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Links to CSS colour palettes]]></title>
-        <id>https://jvns.ca/blog/2026/05/04/css-colour-palettes/</id>
-        <link href="https://jvns.ca/blog/2026/05/04/css-colour-palettes/"/>
-        <updated>2026-05-04T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A while back I decided to stop using Tailwind for new projects and to just write
-vanilla CSS instead.
-But one thing I missed about Tailwind was the colour palette (here as CSS).
-If I wanted a light blue I could just use blue-100 and if I didn’t like it
-maybe try blue-200 or blue-50. I’m not very good with colours so it makes
-a big difference to me to have a reasonable colour palette that somebody who is
-better at colour than me has thought about.
-But I’m also a little tired of those Tailwind colours, so I asked on Mastodon
-today what other colour palettes were out there. And then a friend said they
-wanted links to those colour palettes, so here’s a blog post so my friend can
-see them, and all the rest of you too :)
-my favourites
-The ones I liked the most were:
-uchū (css file, FAQ)
-flexoki (css file)
-reasonable colours, which seems to have a focus on accessibility (css file)
-more colour palettes
-web awesome
-radix
-US web design systems
-material design
-colourscheme generators
-Folks also linked to a bunch of colour palette generators
-harmonizer
-tints.dev
-coolors
-colorpalette.pro
-I’ve always found these types of generators too hard to use but maybe one day I
-will get better enough at colour that I’m able to use a colour palette generator
-successfully so I’ll leave those links there anyway.
-and more colour tools:
-colorhexa has some info about colorblindness
-oklch
-Generative colors with CSS gives an example of
-how to use the oklch CSS function to dynamically generate colors.]]></summary>
-        <author>
-            <name>Julia Evans</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Let's Buy Spirit Air]]></title>
-        <id>https://news.ycombinator.com/item?id=48002777</id>
-        <link href="https://letsbuyspiritair.com/"/>
-        <updated>2026-05-03T23:36:11.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://letsbuyspiritair.com/
-Comments URL: https://news.ycombinator.com/item?id=48002777
-Points: 536
-# Comments: 517]]></summary>
-        <author>
-            <name>bjhess</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DeepClaude – Claude Code agent loop with DeepSeek V4 Pro]]></title>
-        <id>https://news.ycombinator.com/item?id=48002136</id>
-        <link href="https://github.com/aattaran/deepclaude"/>
-        <updated>2026-05-03T22:13:20.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://github.com/aattaran/deepclaude
-Comments URL: https://news.ycombinator.com/item?id=48002136
-Points: 500
-# Comments: 200]]></summary>
-        <author>
-            <name>alattaran</name>
         </author>
     </entry>
 </feed>
