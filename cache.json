@@ -6,6 +6,26 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=48370330",
+          "author": "IliaLitviak",
+          "description": "Earlier I posted in a “Who wants to be hired?” thread, looking for a place where I could apply my experience in hospitality, food tech and automation.\nA couple hours later I received an email:\n“Hi Ilia,\nI saw your comment on the June Who’s Hiring thread. I build production-ready TypeScript and Python systems that integrate LLMs into real workflows, with particular focus on RAG, agent orchestration, and clear blah-blah-blah”\nCome on.\nI am a forced immigrant with a wife, a cat, rent and crushing debt, who’s been unemployed for 6 months.\nI am naturally an extremely optimistic person, but boy is energy on the low by now.\nAnd every e-mail in my inbox, especially one starting with something related to my job search, is a glimmer of hope.\nJust to be crushed by what comes next.\nYes, it’s a minor cut, but those compound.\nPlease just don’t do this.\nMaybe add a skill to your Claude Code called “empathy”?\nYou can have your Claw access a “be considerate of other people’s experiences” MCP server!\nOr just ask your “Daily Grind Reminder” Telegram bot to recommend a good book of fiction from time to time. Just to develop some humanity.\nSorry for venting.\nComments URL: https://news.ycombinator.com/item?id=48370330\nPoints: 801\n# Comments: 214",
+          "link": "https://news.ycombinator.com/item?id=48370330",
+          "publishedOn": "2026-06-02T13:56:46.000Z",
+          "wordCount": 12552,
+          "title": "Please don't spam people looking for employment. It's just cruel",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=48364055",
+          "author": "1vuio0pswjnm7",
+          "description": "https://archive.ph/nKEVw\nComments URL: https://news.ycombinator.com/item?id=48364055\nPoints: 598\n# Comments: 1021",
+          "link": "https://www.economist.com/finance-and-economics/2026/06/01/can-the-stockmarket-swallow-anthropic-spacex-and-openai",
+          "publishedOn": "2026-06-01T23:45:46.000Z",
+          "wordCount": null,
+          "title": "Can the stockmarket swallow Anthropic, SpaceX and OpenAI?",
+          "imageUrl": null
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=48359102",
           "author": "ssiddharth",
           "description": "https://krebsonsecurity.com/2026/06/hackers-used-metas-ai-su...\nComments URL: https://news.ycombinator.com/item?id=48359102\nPoints: 832\n# Comments: 206",
@@ -34,6 +54,16 @@
           "wordCount": 2015,
           "title": "The Pirate Bay Remains Resilient, 20 Years After the Raid",
           "imageUrl": null
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=48357075",
+          "author": "kristianpaul",
+          "description": "Article URL: https://cs336.stanford.edu/\nComments URL: https://news.ycombinator.com/item?id=48357075\nPoints: 531\n# Comments: 49",
+          "link": "https://cs336.stanford.edu/",
+          "publishedOn": "2026-06-01T14:10:32.000Z",
+          "wordCount": 1511,
+          "title": "CS336: Language Modeling from Scratch",
+          "imageUrl": "https://cs336.stanford.edu/assets/images/stanford-nlp-logo-new.jpg"
         },
         {
           "id": "https://news.ycombinator.com/item?id=48356625",
@@ -1888,6 +1918,16 @@
       "feedUrl": "https://blog.boot.dev/index.xml",
       "siteUrl": "https://boot.dev/blog/",
       "articles": [
+        {
+          "id": "https://boot.dev/blog/news/wannacry-ransomware-attack/",
+          "author": null,
+          "description": "It was 3 PM on a Friday.\n\n \nA doctor at an NHS hospital in the UK tries to check his email. Instead, one of the PCs in the room reboots into a scary red screen demanding $300 in Bitcoin [23].",
+          "link": "https://boot.dev/blog/news/wannacry-ransomware-attack/",
+          "publishedOn": "2026-06-02T00:00:00.000Z",
+          "wordCount": 4076,
+          "title": "WannaCry: The Ransomware Attack That Shut Down Hospitals",
+          "imageUrl": "https://boot.dev/blog/img/featured/wannacry-the-ransomware-attack-that-shut-down-hospitals.webp"
+        },
         {
           "id": "https://boot.dev/blog/javascript/best-ways-to-learn-javascript/",
           "author": null,
