@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=48385906",
+          "author": "rvz",
+          "description": "Article URL: https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemma-4-12b/\nComments URL: https://news.ycombinator.com/item?id=48385906\nPoints: 558\n# Comments: 211",
+          "link": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemma-4-12b/",
+          "publishedOn": "2026-06-03T16:04:42.000Z",
+          "wordCount": 4455,
+          "title": "Gemma 4 12B: A unified, encoder-free multimodal model",
+          "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Social_Image_G4_12B.width-1300.png"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=48383220",
           "author": "reconnecting",
           "description": "Article URL: https://www.bbc.com/news/articles/c93x0k194yno\nComments URL: https://news.ycombinator.com/item?id=48383220\nPoints: 521\n# Comments: 484",
@@ -1864,16 +1874,6 @@
           "wordCount": 4220,
           "title": "AI didn't delete your database, you did",
           "imageUrl": "https://cdn.idiallo.com/images/assets/652/hero.jpg"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=48019219",
-          "author": "john-doe",
-          "description": "Article URL: https://www.thatprivacyguy.com/blog/chrome-silent-nano-install/\nComments URL: https://news.ycombinator.com/item?id=48019219\nPoints: 800\n# Comments: 565",
-          "link": "https://www.thatprivacyguy.com/blog/chrome-silent-nano-install/",
-          "publishedOn": "2026-05-05T07:34:55.000Z",
-          "wordCount": 5969,
-          "title": "Google Chrome silently installs a 4 GB AI model on your device without consent",
-          "imageUrl": "https://www.thatprivacyguy.com/blog/assets/2026-05-04-001.png"
         }
       ]
     },

@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-06-03T18:42:54.064Z</updated>
+    <updated>2026-06-03T21:48:31.831Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Gemma 4 12B: A unified, encoder-free multimodal model]]></title>
+        <id>https://news.ycombinator.com/item?id=48385906</id>
+        <link href="https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemma-4-12b/"/>
+        <updated>2026-06-03T16:04:42.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemma-4-12b/
+Comments URL: https://news.ycombinator.com/item?id=48385906
+Points: 558
+# Comments: 211]]></summary>
+        <author>
+            <name>rvz</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Meta workers can opt out of being tracked at work up to 30 min]]></title>
         <id>https://news.ycombinator.com/item?id=48383220</id>
@@ -3049,19 +3062,6 @@ Points: 511
         <updated>2026-05-05T09:51:28.000Z</updated>
         <author>
             <name>Think School</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google Chrome silently installs a 4 GB AI model on your device without consent]]></title>
-        <id>https://news.ycombinator.com/item?id=48019219</id>
-        <link href="https://www.thatprivacyguy.com/blog/chrome-silent-nano-install/"/>
-        <updated>2026-05-05T07:34:55.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.thatprivacyguy.com/blog/chrome-silent-nano-install/
-Comments URL: https://news.ycombinator.com/item?id=48019219
-Points: 800
-# Comments: 565]]></summary>
-        <author>
-            <name>john-doe</name>
         </author>
     </entry>
 </feed>
