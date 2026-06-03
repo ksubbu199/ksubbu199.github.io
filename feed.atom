@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-06-03T04:06:09.679Z</updated>
+    <updated>2026-06-03T09:24:41.495Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -96,6 +96,19 @@ Points: 598
 # Comments: 1021]]></summary>
         <author>
             <name>1vuio0pswjnm7</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Age verification for social media, the beginning of the end for a free internet?]]></title>
+        <id>https://news.ycombinator.com/item?id=48363882</id>
+        <link href="https://mullvad.net/en/blog/age-verification-for-social-media-the-beginning-of-the-end-for-a-free-internet"/>
+        <updated>2026-06-01T23:22:28.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://mullvad.net/en/blog/age-verification-for-social-media-the-beginning-of-the-end-for-a-free-internet
+Comments URL: https://news.ycombinator.com/item?id=48363882
+Points: 517
+# Comments: 419]]></summary>
+        <author>
+            <name>StrLght</name>
         </author>
     </entry>
     <entry>
@@ -3008,58 +3021,6 @@ Points: 526
 # Comments: 372]]></summary>
         <author>
             <name>SergeAx</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How OpenAI delivers low-latency voice AI at scale]]></title>
-        <id>https://news.ycombinator.com/item?id=48013919</id>
-        <link href="https://openai.com/index/delivering-low-latency-voice-ai-at-scale/"/>
-        <updated>2026-05-04T19:42:47.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://openai.com/index/delivering-low-latency-voice-ai-at-scale/
-Comments URL: https://news.ycombinator.com/item?id=48013919
-Points: 500
-# Comments: 144]]></summary>
-        <author>
-            <name>Sean-Der</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft Edge stores all passwords in memory in clear text, even when unused]]></title>
-        <id>https://news.ycombinator.com/item?id=48012735</id>
-        <link href="https://twitter.com/L1v1ng0ffTh3L4N/status/2051308329880719730"/>
-        <updated>2026-05-04T18:22:42.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://twitter.com/L1v1ng0ffTh3L4N/status/2051308329880719730
-Comments URL: https://news.ycombinator.com/item?id=48012735
-Points: 518
-# Comments: 183]]></summary>
-        <author>
-            <name>cft</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[US healthcare marketplaces shared citizenship and race data with ad tech giants]]></title>
-        <id>https://news.ycombinator.com/item?id=48011689</id>
-        <link href="https://techcrunch.com/2026/05/04/us-healthcare-marketplaces-shared-citizenship-and-race-data-with-ad-tech-giants/"/>
-        <updated>2026-05-04T17:16:36.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://techcrunch.com/2026/05/04/us-healthcare-marketplaces-shared-citizenship-and-race-data-with-ad-tech-giants/
-Comments URL: https://news.ycombinator.com/item?id=48011689
-Points: 501
-# Comments: 161]]></summary>
-        <author>
-            <name>ZeidJ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I am worried about Bun]]></title>
-        <id>https://news.ycombinator.com/item?id=48011184</id>
-        <link href="https://wwj.dev/posts/i-am-worried-about-bun/"/>
-        <updated>2026-05-04T16:45:00.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://wwj.dev/posts/i-am-worried-about-bun/
-Comments URL: https://news.ycombinator.com/item?id=48011184
-Points: 505
-# Comments: 336]]></summary>
-        <author>
-            <name>remote-dev</name>
         </author>
     </entry>
 </feed>

@@ -46,6 +46,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://news.ycombinator.com/item?id=48363882",
+          "author": "StrLght",
+          "description": "Article URL: https://mullvad.net/en/blog/age-verification-for-social-media-the-beginning-of-the-end-for-a-free-internet\nComments URL: https://news.ycombinator.com/item?id=48363882\nPoints: 517\n# Comments: 419",
+          "link": "https://mullvad.net/en/blog/age-verification-for-social-media-the-beginning-of-the-end-for-a-free-internet",
+          "publishedOn": "2026-06-01T23:22:28.000Z",
+          "wordCount": 6247,
+          "title": "Age verification for social media, the beginning of the end for a free internet?",
+          "imageUrl": "https://mullvad.net/press/MullvadVPN_logo_Round_RGB_Color_positive.png"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=48359102",
           "author": "ssiddharth",
           "description": "https://krebsonsecurity.com/2026/06/hackers-used-metas-ai-su...\nComments URL: https://news.ycombinator.com/item?id=48359102\nPoints: 832\n# Comments: 206",
@@ -1834,46 +1844,6 @@
           "wordCount": 428,
           "title": "Bun is being ported from Zig to Rust",
           "imageUrl": "https://opengraph.githubassets.com/71b057188fb96b3e204004bda82c56574fc44a5f6c7958772ae6d55f18d93afb/oven-sh/bun/commit/46d3bc29f270fa881dd5730ef1549e88407701a5"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=48013919",
-          "author": "Sean-Der",
-          "description": "Article URL: https://openai.com/index/delivering-low-latency-voice-ai-at-scale/\nComments URL: https://news.ycombinator.com/item?id=48013919\nPoints: 500\n# Comments: 144",
-          "link": "https://openai.com/index/delivering-low-latency-voice-ai-at-scale/",
-          "publishedOn": "2026-05-04T19:42:47.000Z",
-          "wordCount": null,
-          "title": "How OpenAI delivers low-latency voice AI at scale",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=48012735",
-          "author": "cft",
-          "description": "Article URL: https://twitter.com/L1v1ng0ffTh3L4N/status/2051308329880719730\nComments URL: https://news.ycombinator.com/item?id=48012735\nPoints: 518\n# Comments: 183",
-          "link": "https://twitter.com/L1v1ng0ffTh3L4N/status/2051308329880719730",
-          "publishedOn": "2026-05-04T18:22:42.000Z",
-          "wordCount": 924,
-          "title": "Microsoft Edge stores all passwords in memory in clear text, even when unused",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=48011689",
-          "author": "ZeidJ",
-          "description": "Article URL: https://techcrunch.com/2026/05/04/us-healthcare-marketplaces-shared-citizenship-and-race-data-with-ad-tech-giants/\nComments URL: https://news.ycombinator.com/item?id=48011689\nPoints: 501\n# Comments: 161",
-          "link": "https://techcrunch.com/2026/05/04/us-healthcare-marketplaces-shared-citizenship-and-race-data-with-ad-tech-giants/",
-          "publishedOn": "2026-05-04T17:16:36.000Z",
-          "wordCount": 3245,
-          "title": "US healthcare marketplaces shared citizenship and race data with ad tech giants",
-          "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/05/pixel-mouse-2217637165.jpg?resize=1200,870"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=48011184",
-          "author": "remote-dev",
-          "description": "Article URL: https://wwj.dev/posts/i-am-worried-about-bun/\nComments URL: https://news.ycombinator.com/item?id=48011184\nPoints: 505\n# Comments: 336",
-          "link": "https://wwj.dev/posts/i-am-worried-about-bun/",
-          "publishedOn": "2026-05-04T16:45:00.000Z",
-          "wordCount": 1279,
-          "title": "I am worried about Bun",
-          "imageUrl": null
         }
       ]
     },
