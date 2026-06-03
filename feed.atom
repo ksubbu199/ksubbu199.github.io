@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-06-03T09:24:41.495Z</updated>
+    <updated>2026-06-03T14:28:33.214Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -17,6 +17,34 @@ Points: 699
 # Comments: 420]]></summary>
         <author>
             <name>speckx</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MAI-Code-1-Flash]]></title>
+        <id>https://news.ycombinator.com/item?id=48374466</id>
+        <link href="https://microsoft.ai/news/introducingmai-code-1-flash/"/>
+        <updated>2026-06-02T18:47:07.000Z</updated>
+        <summary type="html"><![CDATA[https://microsoft.ai/models/mai-code-1-flash/
+https://microsoft.ai/pdf/MAI-Code-1-Flash-Model-Card.PDF
+Launching seven new MAI models: https://microsoft.ai/news/building-a-hillclimbing-machine-la...
+Comments URL: https://news.ycombinator.com/item?id=48374466
+Points: 500
+# Comments: 231]]></summary>
+        <author>
+            <name>EvanZhouDev</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[1-Click GitHub Token Stealing via a VSCode Bug]]></title>
+        <id>https://news.ycombinator.com/item?id=48371562</id>
+        <link href="https://blog.ammaraskar.com/github-token-stealing/"/>
+        <updated>2026-06-02T15:29:05.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://blog.ammaraskar.com/github-token-stealing/
+Comments URL: https://news.ycombinator.com/item?id=48371562
+Points: 532
+# Comments: 79]]></summary>
+        <author>
+            <name>ammar2</name>
         </author>
     </entry>
     <entry>
@@ -3008,19 +3036,6 @@ Points: 800
 # Comments: 565]]></summary>
         <author>
             <name>john-doe</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bun is being ported from Zig to Rust]]></title>
-        <id>https://news.ycombinator.com/item?id=48016880</id>
-        <link href="https://github.com/oven-sh/bun/commit/46d3bc29f270fa881dd5730ef1549e88407701a5"/>
-        <updated>2026-05-05T01:08:17.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://github.com/oven-sh/bun/commit/46d3bc29f270fa881dd5730ef1549e88407701a5
-Comments URL: https://news.ycombinator.com/item?id=48016880
-Points: 526
-# Comments: 372]]></summary>
-        <author>
-            <name>SergeAx</name>
         </author>
     </entry>
 </feed>

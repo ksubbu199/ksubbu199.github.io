@@ -16,6 +16,26 @@
           "imageUrl": "https://moddedbear.com/images/share.png"
         },
         {
+          "id": "https://news.ycombinator.com/item?id=48374466",
+          "author": "EvanZhouDev",
+          "description": "https://microsoft.ai/models/mai-code-1-flash/\nhttps://microsoft.ai/pdf/MAI-Code-1-Flash-Model-Card.PDF\nLaunching seven new MAI models: https://microsoft.ai/news/building-a-hillclimbing-machine-la...\nComments URL: https://news.ycombinator.com/item?id=48374466\nPoints: 500\n# Comments: 231",
+          "link": "https://microsoft.ai/news/introducingmai-code-1-flash/",
+          "publishedOn": "2026-06-02T18:47:07.000Z",
+          "wordCount": 1950,
+          "title": "MAI-Code-1-Flash",
+          "imageUrl": "https://microsoft.ai/wp-content/themes/wp-base-theme/images/social.jpg"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=48371562",
+          "author": "ammar2",
+          "description": "Article URL: https://blog.ammaraskar.com/github-token-stealing/\nComments URL: https://news.ycombinator.com/item?id=48371562\nPoints: 532\n# Comments: 79",
+          "link": "https://blog.ammaraskar.com/github-token-stealing/",
+          "publishedOn": "2026-06-02T15:29:05.000Z",
+          "wordCount": 2643,
+          "title": "1-Click GitHub Token Stealing via a VSCode Bug",
+          "imageUrl": null
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=48370330",
           "author": "IliaLitviak",
           "description": "Earlier I posted in a “Who wants to be hired?” thread, looking for a place where I could apply my experience in hospitality, food tech and automation.\nA couple hours later I received an email:\n“Hi Ilia,\nI saw your comment on the June Who’s Hiring thread. I build production-ready TypeScript and Python systems that integrate LLMs into real workflows, with particular focus on RAG, agent orchestration, and clear blah-blah-blah”\nCome on.\nI am a forced immigrant with a wife, a cat, rent and crushing debt, who’s been unemployed for 6 months.\nI am naturally an extremely optimistic person, but boy is energy on the low by now.\nAnd every e-mail in my inbox, especially one starting with something related to my job search, is a glimmer of hope.\nJust to be crushed by what comes next.\nYes, it’s a minor cut, but those compound.\nPlease just don’t do this.\nMaybe add a skill to your Claude Code called “empathy”?\nYou can have your Claw access a “be considerate of other people’s experiences” MCP server!\nOr just ask your “Daily Grind Reminder” Telegram bot to recommend a good book of fiction from time to time. Just to develop some humanity.\nSorry for venting.\nComments URL: https://news.ycombinator.com/item?id=48370330\nPoints: 801\n# Comments: 214",
@@ -1834,16 +1854,6 @@
           "wordCount": 5969,
           "title": "Google Chrome silently installs a 4 GB AI model on your device without consent",
           "imageUrl": "https://www.thatprivacyguy.com/blog/assets/2026-05-04-001.png"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=48016880",
-          "author": "SergeAx",
-          "description": "Article URL: https://github.com/oven-sh/bun/commit/46d3bc29f270fa881dd5730ef1549e88407701a5\nComments URL: https://news.ycombinator.com/item?id=48016880\nPoints: 526\n# Comments: 372",
-          "link": "https://github.com/oven-sh/bun/commit/46d3bc29f270fa881dd5730ef1549e88407701a5",
-          "publishedOn": "2026-05-05T01:08:17.000Z",
-          "wordCount": 428,
-          "title": "Bun is being ported from Zig to Rust",
-          "imageUrl": "https://opengraph.githubassets.com/71b057188fb96b3e204004bda82c56574fc44a5f6c7958772ae6d55f18d93afb/oven-sh/bun/commit/46d3bc29f270fa881dd5730ef1549e88407701a5"
         }
       ]
     },
