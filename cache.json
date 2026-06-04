@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=48388324",
+          "author": "cloud8421",
+          "description": "Article URL: https://elixir-lang.org/blog/2026/06/03/elixir-v1-20-0-released/\nComments URL: https://news.ycombinator.com/item?id=48388324\nPoints: 613\n# Comments: 224",
+          "link": "https://elixir-lang.org/blog/2026/06/03/elixir-v1-20-0-released/",
+          "publishedOn": "2026-06-03T19:02:26.000Z",
+          "wordCount": 1829,
+          "title": "Elixir v1.20: Now a gradually typed language",
+          "imageUrl": "https://elixir-lang.org/images/social/elixir-og-card.jpg"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=48385906",
           "author": "rvz",
           "description": "Article URL: https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemma-4-12b/\nComments URL: https://news.ycombinator.com/item?id=48385906\nPoints: 558\n# Comments: 211",
@@ -14,6 +24,16 @@
           "wordCount": 4455,
           "title": "Gemma 4 12B: A unified, encoder-free multimodal model",
           "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Social_Image_G4_12B.width-1300.png"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=48384355",
+          "author": "Tomte",
+          "description": "Article URL: https://burntsushi.net/encephalitis/\nComments URL: https://news.ycombinator.com/item?id=48384355\nPoints: 529\n# Comments: 164",
+          "link": "https://burntsushi.net/encephalitis/",
+          "publishedOn": "2026-06-03T14:10:06.000Z",
+          "wordCount": 1154,
+          "title": "I was recently diagnosed with anti-NMDA receptor encephalitis",
+          "imageUrl": null
         },
         {
           "id": "https://news.ycombinator.com/item?id=48383220",
@@ -1854,26 +1874,6 @@
           "wordCount": 4668,
           "title": "Accelerating Gemma 4: faster inference with multi-token prediction drafters",
           "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Social_Share_Image_7bOA183.width-1300.png"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=48023861",
-          "author": "blenderob",
-          "description": "Article URL: https://susam.net/inverse-laws-of-robotics.html\nComments URL: https://news.ycombinator.com/item?id=48023861\nPoints: 504\n# Comments: 334",
-          "link": "https://susam.net/inverse-laws-of-robotics.html",
-          "publishedOn": "2026-05-05T15:27:18.000Z",
-          "wordCount": 1449,
-          "title": "Three Inverse Laws of AI",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=48022742",
-          "author": "Brajeshwar",
-          "description": "Article URL: https://idiallo.com/blog/ai-didnt-delete-your-database-you-did\nComments URL: https://news.ycombinator.com/item?id=48022742\nPoints: 511\n# Comments: 284",
-          "link": "https://idiallo.com/blog/ai-didnt-delete-your-database-you-did",
-          "publishedOn": "2026-05-05T14:07:50.000Z",
-          "wordCount": 4220,
-          "title": "AI didn't delete your database, you did",
-          "imageUrl": "https://cdn.idiallo.com/images/assets/652/hero.jpg"
         }
       ]
     },

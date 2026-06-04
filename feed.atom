@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-06-03T23:43:05.683Z</updated>
+    <updated>2026-06-04T03:59:59.528Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Elixir v1.20: Now a gradually typed language]]></title>
+        <id>https://news.ycombinator.com/item?id=48388324</id>
+        <link href="https://elixir-lang.org/blog/2026/06/03/elixir-v1-20-0-released/"/>
+        <updated>2026-06-03T19:02:26.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://elixir-lang.org/blog/2026/06/03/elixir-v1-20-0-released/
+Comments URL: https://news.ycombinator.com/item?id=48388324
+Points: 613
+# Comments: 224]]></summary>
+        <author>
+            <name>cloud8421</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Gemma 4 12B: A unified, encoder-free multimodal model]]></title>
         <id>https://news.ycombinator.com/item?id=48385906</id>
@@ -17,6 +30,19 @@ Points: 558
 # Comments: 211]]></summary>
         <author>
             <name>rvz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I was recently diagnosed with anti-NMDA receptor encephalitis]]></title>
+        <id>https://news.ycombinator.com/item?id=48384355</id>
+        <link href="https://burntsushi.net/encephalitis/"/>
+        <updated>2026-06-03T14:10:06.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://burntsushi.net/encephalitis/
+Comments URL: https://news.ycombinator.com/item?id=48384355
+Points: 529
+# Comments: 164]]></summary>
+        <author>
+            <name>Tomte</name>
         </author>
     </entry>
     <entry>
@@ -3027,32 +3053,6 @@ Points: 518
 # Comments: 233]]></summary>
         <author>
             <name>amrrs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Three Inverse Laws of AI]]></title>
-        <id>https://news.ycombinator.com/item?id=48023861</id>
-        <link href="https://susam.net/inverse-laws-of-robotics.html"/>
-        <updated>2026-05-05T15:27:18.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://susam.net/inverse-laws-of-robotics.html
-Comments URL: https://news.ycombinator.com/item?id=48023861
-Points: 504
-# Comments: 334]]></summary>
-        <author>
-            <name>blenderob</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI didn't delete your database, you did]]></title>
-        <id>https://news.ycombinator.com/item?id=48022742</id>
-        <link href="https://idiallo.com/blog/ai-didnt-delete-your-database-you-did"/>
-        <updated>2026-05-05T14:07:50.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://idiallo.com/blog/ai-didnt-delete-your-database-you-did
-Comments URL: https://news.ycombinator.com/item?id=48022742
-Points: 511
-# Comments: 284]]></summary>
-        <author>
-            <name>Brajeshwar</name>
         </author>
     </entry>
 </feed>
