@@ -2,10 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-06-04T08:24:40.260Z</updated>
+    <updated>2026-06-04T11:53:22.015Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[U.S. to dismantle system tracking Atlantic currents that are at risk of collapse]]></title>
+        <id>https://news.ycombinator.com/item?id=48392232</id>
+        <link href="https://e360.yale.edu/digest/trump-ooi-amoc"/>
+        <updated>2026-06-04T00:44:13.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://e360.yale.edu/digest/trump-ooi-amoc
+Comments URL: https://news.ycombinator.com/item?id=48392232
+Points: 511
+# Comments: 338]]></summary>
+        <author>
+            <name>rguiscard</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[They’re made out of weights]]></title>
+        <id>https://news.ycombinator.com/item?id=48391611</id>
+        <link href="https://maxleiter.com/blog/weights"/>
+        <updated>2026-06-03T23:37:18.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://maxleiter.com/blog/weights
+Comments URL: https://news.ycombinator.com/item?id=48391611
+Points: 805
+# Comments: 310]]></summary>
+        <author>
+            <name>MaxLeiter</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Elixir v1.20: Now a gradually typed language]]></title>
         <id>https://news.ycombinator.com/item?id=48388324</id>
@@ -56,6 +82,19 @@ Points: 521
 # Comments: 484]]></summary>
         <author>
             <name>reconnecting</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Uber's $1,500/month AI limit is a useful signal for AI tool pricing]]></title>
+        <id>https://news.ycombinator.com/item?id=48383056</id>
+        <link href="https://simonwillison.net/2026/Jun/3/uber-caps-usage/"/>
+        <updated>2026-06-03T12:25:14.000Z</updated>
+        <summary type="html"><![CDATA[https://www.bloomberg.com/news/articles/2026-06-02/uber-caps... (https://archive.ph/ZrwAy)
+Comments URL: https://news.ycombinator.com/item?id=48383056
+Points: 507
+# Comments: 629]]></summary>
+        <author>
+            <name>pdyc</name>
         </author>
     </entry>
     <entry>
@@ -2971,45 +3010,6 @@ Points: 547
 # Comments: 290]]></summary>
         <author>
             <name>signa11</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DNSSEC disruption affecting .de domains – Resolved]]></title>
-        <id>https://news.ycombinator.com/item?id=48027897</id>
-        <link href="https://status.denic.de/pages/incident/592577eab611ce1e0d00046f/69fa60ef9d12f5057a974f38"/>
-        <updated>2026-05-05T20:16:35.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://status.denic.de/pages/incident/592577eab611ce1e0d00046f/69fa60ef9d12f5057a974f38
-Comments URL: https://news.ycombinator.com/item?id=48027897
-Points: 652
-# Comments: 319]]></summary>
-        <author>
-            <name>warpspin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[.de TLD offline due to DNSSEC?]]></title>
-        <id>https://news.ycombinator.com/item?id=48027897</id>
-        <link href="https://dnssec-analyzer.verisignlabs.com/nic.de"/>
-        <updated>2026-05-05T20:16:35.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://dnssec-analyzer.verisignlabs.com/nic.de
-Comments URL: https://news.ycombinator.com/item?id=48027897
-Points: 545
-# Comments: 260]]></summary>
-        <author>
-            <name>warpspin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Accelerating Gemma 4: faster inference with multi-token prediction drafters]]></title>
-        <id>https://news.ycombinator.com/item?id=48024540</id>
-        <link href="https://blog.google/innovation-and-ai/technology/developers-tools/multi-token-prediction-gemma-4/"/>
-        <updated>2026-05-05T16:14:17.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://blog.google/innovation-and-ai/technology/developers-tools/multi-token-prediction-gemma-4/
-Comments URL: https://news.ycombinator.com/item?id=48024540
-Points: 518
-# Comments: 233]]></summary>
-        <author>
-            <name>amrrs</name>
         </author>
     </entry>
 </feed>

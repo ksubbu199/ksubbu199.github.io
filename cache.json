@@ -6,6 +6,26 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=48392232",
+          "author": "rguiscard",
+          "description": "Article URL: https://e360.yale.edu/digest/trump-ooi-amoc\nComments URL: https://news.ycombinator.com/item?id=48392232\nPoints: 511\n# Comments: 338",
+          "link": "https://e360.yale.edu/digest/trump-ooi-amoc",
+          "publishedOn": "2026-06-04T00:44:13.000Z",
+          "wordCount": 770,
+          "title": "U.S. to dismantle system tracking Atlantic currents that are at risk of collapse",
+          "imageUrl": "https://yale-threesixty.transforms.svdcdn.com/production/OOI_WHOI.png?w=1200&q=60&auto=format&fit=max&dm=1780485909&s=e350e236f7ed410535e0f2084db500a5"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=48391611",
+          "author": "MaxLeiter",
+          "description": "Article URL: https://maxleiter.com/blog/weights\nComments URL: https://news.ycombinator.com/item?id=48391611\nPoints: 805\n# Comments: 310",
+          "link": "https://maxleiter.com/blog/weights",
+          "publishedOn": "2026-06-03T23:37:18.000Z",
+          "wordCount": 3888,
+          "title": "They’re made out of weights",
+          "imageUrl": "https://maxleiter.com/blog/weights/opengraph-image-3lcqvo?e0d2238ac8899640"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=48388324",
           "author": "cloud8421",
           "description": "Article URL: https://elixir-lang.org/blog/2026/06/03/elixir-v1-20-0-released/\nComments URL: https://news.ycombinator.com/item?id=48388324\nPoints: 613\n# Comments: 224",
@@ -44,6 +64,16 @@
           "wordCount": 5344,
           "title": "Meta workers can opt out of being tracked at work up to 30 min",
           "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/947f/live/8311e710-5f35-11f1-b9e6-7bbc2b9cb9c1.jpg"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=48383056",
+          "author": "pdyc",
+          "description": "https://www.bloomberg.com/news/articles/2026-06-02/uber-caps... (https://archive.ph/ZrwAy)\nComments URL: https://news.ycombinator.com/item?id=48383056\nPoints: 507\n# Comments: 629",
+          "link": "https://simonwillison.net/2026/Jun/3/uber-caps-usage/",
+          "publishedOn": "2026-06-03T12:25:14.000Z",
+          "wordCount": 1040,
+          "title": "Uber's $1,500/month AI limit is a useful signal for AI tool pricing",
+          "imageUrl": null
         },
         {
           "id": "https://news.ycombinator.com/item?id=48382310",
@@ -1844,36 +1874,6 @@
           "wordCount": 3416,
           "title": "StarFighter 16-Inch",
           "imageUrl": "http://us.starlabs.systems/cdn/shop/files/Star_6c731e1d-b2c1-4de1-a872-7081e0b5d878.png?v=1762248375"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=48027897",
-          "author": "warpspin",
-          "description": "Article URL: https://status.denic.de/pages/incident/592577eab611ce1e0d00046f/69fa60ef9d12f5057a974f38\nComments URL: https://news.ycombinator.com/item?id=48027897\nPoints: 652\n# Comments: 319",
-          "link": "https://status.denic.de/pages/incident/592577eab611ce1e0d00046f/69fa60ef9d12f5057a974f38",
-          "publishedOn": "2026-05-05T20:16:35.000Z",
-          "wordCount": 6537,
-          "title": "DNSSEC disruption affecting .de domains – Resolved",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=48027897",
-          "author": "warpspin",
-          "description": "Article URL: https://dnssec-analyzer.verisignlabs.com/nic.de\nComments URL: https://news.ycombinator.com/item?id=48027897\nPoints: 545\n# Comments: 260",
-          "link": "https://dnssec-analyzer.verisignlabs.com/nic.de",
-          "publishedOn": "2026-05-05T20:16:35.000Z",
-          "wordCount": 5310,
-          "title": ".de TLD offline due to DNSSEC?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=48024540",
-          "author": "amrrs",
-          "description": "Article URL: https://blog.google/innovation-and-ai/technology/developers-tools/multi-token-prediction-gemma-4/\nComments URL: https://news.ycombinator.com/item?id=48024540\nPoints: 518\n# Comments: 233",
-          "link": "https://blog.google/innovation-and-ai/technology/developers-tools/multi-token-prediction-gemma-4/",
-          "publishedOn": "2026-05-05T16:14:17.000Z",
-          "wordCount": 4668,
-          "title": "Accelerating Gemma 4: faster inference with multi-token prediction drafters",
-          "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Social_Share_Image_7bOA183.width-1300.png"
         }
       ]
     },
