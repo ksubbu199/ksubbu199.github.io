@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-06-04T11:53:22.015Z</updated>
+    <updated>2026-06-04T15:14:24.843Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -17,6 +17,19 @@ Points: 511
 # Comments: 338]]></summary>
         <author>
             <name>rguiscard</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Failing grades soar with AI usage, dwindling math skills in Berkeley CS classes]]></title>
+        <id>https://news.ycombinator.com/item?id=48392004</id>
+        <link href="https://www.dailycal.org/news/campus/academics/failing-grades-soar-as-professors-see-greater-ai-usage-dwindling-math-skills-in-uc-berkeley/article_16fad0bf-02cb-4b8c-8d88-888ffd9f8608.html"/>
+        <updated>2026-06-04T00:18:02.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.dailycal.org/news/campus/academics/failing-grades-soar-as-professors-see-greater-ai-usage-dwindling-math-skills-in-uc-berkeley/article_16fad0bf-02cb-4b8c-8d88-888ffd9f8608.html
+Comments URL: https://news.ycombinator.com/item?id=48392004
+Points: 534
+# Comments: 478]]></summary>
+        <author>
+            <name>littlexsparkee</name>
         </author>
     </entry>
     <entry>
@@ -46,6 +59,20 @@ Points: 613
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Artificial intelligence is not conscious – Ted Chiang]]></title>
+        <id>https://news.ycombinator.com/item?id=48387270</id>
+        <link href="https://www.theatlantic.com/philosophy/2026/06/no-artificial-intelligence-is-not-conscious/687378/"/>
+        <updated>2026-06-03T17:51:37.000Z</updated>
+        <summary type="html"><![CDATA[https://web.archive.org/web/20260603173839/https://www.theat...
+https://archive.is/bcpZl
+Comments URL: https://news.ycombinator.com/item?id=48387270
+Points: 581
+# Comments: 948]]></summary>
+        <author>
+            <name>lordleft</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Gemma 4 12B: A unified, encoder-free multimodal model]]></title>
         <id>https://news.ycombinator.com/item?id=48385906</id>
         <link href="https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemma-4-12b/"/>
@@ -56,6 +83,19 @@ Points: 558
 # Comments: 211]]></summary>
         <author>
             <name>rvz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DaVinci Resolve 21]]></title>
+        <id>https://news.ycombinator.com/item?id=48384482</id>
+        <link href="https://www.blackmagicdesign.com/products/davinciresolve/whatsnew"/>
+        <updated>2026-06-03T14:18:39.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.blackmagicdesign.com/products/davinciresolve/whatsnew
+Comments URL: https://news.ycombinator.com/item?id=48384482
+Points: 502
+# Comments: 223]]></summary>
+        <author>
+            <name>pentagrama</name>
         </author>
     </entry>
     <entry>
@@ -2984,32 +3024,6 @@ Points: 700
 # Comments: 153]]></summary>
         <author>
             <name>cianmm</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Agents can now create Cloudflare accounts, buy domains, and deploy]]></title>
-        <id>https://news.ycombinator.com/item?id=48031684</id>
-        <link href="https://blog.cloudflare.com/agents-stripe-projects/"/>
-        <updated>2026-05-06T03:10:33.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://blog.cloudflare.com/agents-stripe-projects/
-Comments URL: https://news.ycombinator.com/item?id=48031684
-Points: 525
-# Comments: 300]]></summary>
-        <author>
-            <name>rolph</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[StarFighter 16-Inch]]></title>
-        <id>https://news.ycombinator.com/item?id=48031261</id>
-        <link href="https://us.starlabs.systems/pages/starfighter"/>
-        <updated>2026-05-06T02:03:44.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://us.starlabs.systems/pages/starfighter
-Comments URL: https://news.ycombinator.com/item?id=48031261
-Points: 547
-# Comments: 290]]></summary>
-        <author>
-            <name>signa11</name>
         </author>
     </entry>
 </feed>
