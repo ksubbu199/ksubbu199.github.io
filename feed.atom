@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-06-04T03:59:59.528Z</updated>
+    <updated>2026-06-04T08:24:40.260Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -2997,49 +2997,6 @@ Points: 545
 # Comments: 260]]></summary>
         <author>
             <name>warpspin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fragments: May  5]]></title>
-        <id>https://martinfowler.com/fragments/2026-05-05.html</id>
-        <link href="https://martinfowler.com/fragments/2026-05-05.html"/>
-        <updated>2026-05-05T16:23:00.000Z</updated>
-        <summary type="html"><![CDATA[Over the last couple of months Rahul Garg published a series of posts here on how to reduce the friction in AI-assisted programming. To make it easier to put these ideas into practice he’s now built an open-source framework to operationalize these patterns.
-AI coding assistants jump straight to code, silently make design decisions, forget constraints mid-conversation, and produce output nobody reviewed against real engineering standards. Lattice fixes this with composable skills in three tiers – atoms, molecules, refiners – that embed battle-tested engineering disciplines (Clean Architecture, DDD, design-first methodology, secure coding, and more), plus a living context layer (the .lattice/ folder) that accumulates your project’s standards, decisions, and review insights. The system gets s…]]></summary>
-        <author>
-            <name>Martin Fowler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bliki: Mythical Man Month]]></title>
-        <id>https://martinfowler.com/bliki/MythicalManMonth.html</id>
-        <link href="https://martinfowler.com/bliki/MythicalManMonth.html"/>
-        <updated>2026-05-05T16:18:00.000Z</updated>
-        <summary type="html"><![CDATA[In the early 1960s, Fred Brooks managed the development of IBM's System/360
-  computer systems. After it was done he penned his thoughts in the book The
-  Mythical Man-Month which became one of the most influential books on software
-  development after its publication in 1975. Reading it in 2026, we'll find some
-  of it outdated, but it also retains many lessons that are still relevant today.
-The book contains Brooks's law: “Adding manpower to a late software project
-  makes it later.” The issue here is communication, as the number of people
-  grows, the number of communication paths between those people grows
-  exponentially. Unless these paths are skillfully designed, then work quickly
-  falls apart.
-Perhaps my most enduring lesson from this book is the importance of
-  conceptual integrity
-I will contend that conceptual integrity is the most important
-    consideration in system design. It is better to have a system omit certain
-    anomalous features and improvements, but to reflect one set of design ideas,
-    than to have one that contains many good but independent and uncoordinated
-    ideas.
-He argues that conceptual integrity comes from both simplicity and
-  straightforwardness - the latter being how easily we can compose elements.
-  This point of view has been a strong influence upon my career, the pursuit
-  of conceptual integrity underpins much of my work.
-The anniversary edition of this book is the one to get, because it also
-  includes his even-more influential 1986 essay “No Silver Bullet”.]]></summary>
-        <author>
-            <name>Martin Fowler</name>
         </author>
     </entry>
     <entry>

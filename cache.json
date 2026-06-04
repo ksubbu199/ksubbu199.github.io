@@ -2081,26 +2081,6 @@
           "wordCount": 2571,
           "title": "What is Code",
           "imageUrl": "https://martinfowler.com/logo-sq.png"
-        },
-        {
-          "id": "https://martinfowler.com/fragments/2026-05-05.html",
-          "author": null,
-          "description": "Over the last couple of months Rahul Garg published a series of posts here on how to reduce the friction in AI-assisted programming. To make it easier to put these ideas into practice he’s now built an open-source framework to operationalize these patterns.\nAI coding assistants jump straight to code, silently make design decisions, forget constraints mid-conversation, and produce output nobody reviewed against real engineering standards. Lattice fixes this with composable skills in three tiers – atoms, molecules, refiners – that embed battle-tested engineering disciplines (Clean Architecture, DDD, design-first methodology, secure coding, and more), plus a living context layer (the .lattice/ folder) that accumulates your project’s standards, decisions, and review insights. The system gets s…",
-          "link": "https://martinfowler.com/fragments/2026-05-05.html",
-          "publishedOn": "2026-05-05T16:23:00.000Z",
-          "wordCount": 1682,
-          "title": "Fragments: May  5",
-          "imageUrl": "https://martinfowler.com/logo-sq.png"
-        },
-        {
-          "id": "https://martinfowler.com/bliki/MythicalManMonth.html",
-          "author": null,
-          "description": "In the early 1960s, Fred Brooks managed the development of IBM's System/360\n  computer systems. After it was done he penned his thoughts in the book The\n  Mythical Man-Month which became one of the most influential books on software\n  development after its publication in 1975. Reading it in 2026, we'll find some\n  of it outdated, but it also retains many lessons that are still relevant today.\nThe book contains Brooks's law: “Adding manpower to a late software project\n  makes it later.” The issue here is communication, as the number of people\n  grows, the number of communication paths between those people grows\n  exponentially. Unless these paths are skillfully designed, then work quickly\n  falls apart.\nPerhaps my most enduring lesson from this book is the importance of\n  conceptual integrity\nI will contend that conceptual integrity is the most important\n    consideration in system design. It is better to have a system omit certain\n    anomalous features and improvements, but to reflect one set of design ideas,\n    than to have one that contains many good but independent and uncoordinated\n    ideas.\nHe argues that conceptual integrity comes from both simplicity and\n  straightforwardness - the latter being how easily we can compose elements.\n  This point of view has been a strong influence upon my career, the pursuit\n  of conceptual integrity underpins much of my work.\nThe anniversary edition of this book is the one to get, because it also\n  includes his even-more influential 1986 essay “No Silver Bullet”.",
-          "link": "https://martinfowler.com/bliki/MythicalManMonth.html",
-          "publishedOn": "2026-05-05T16:18:00.000Z",
-          "wordCount": 337,
-          "title": "Bliki: Mythical Man Month",
-          "imageUrl": "https://martinfowler.com/logo-sq.png"
         }
       ]
     },
