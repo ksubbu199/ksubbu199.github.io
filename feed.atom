@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-06-05T21:25:26.164Z</updated>
+    <updated>2026-06-05T23:08:48.128Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -53,6 +53,19 @@ Points: 502
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>Think School</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[When AI Builds Itself: Our progress toward recursive self-improvement]]></title>
+        <id>https://news.ycombinator.com/item?id=48400842</id>
+        <link href="https://www.anthropic.com/institute/recursive-self-improvement"/>
+        <updated>2026-06-04T16:20:17.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.anthropic.com/institute/recursive-self-improvement
+Comments URL: https://news.ycombinator.com/item?id=48400842
+Points: 502
+# Comments: 673]]></summary>
+        <author>
+            <name>meetpateltech</name>
         </author>
     </entry>
     <entry>
