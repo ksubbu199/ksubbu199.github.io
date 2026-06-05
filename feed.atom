@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-06-04T22:21:32.886Z</updated>
+    <updated>2026-06-05T00:07:41.660Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -304,6 +304,19 @@ Points: 517
 # Comments: 419]]></summary>
         <author>
             <name>StrLght</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI Agent Guidelines for CS336 at Stanford]]></title>
+        <id>https://news.ycombinator.com/item?id=48359232</id>
+        <link href="https://github.com/stanford-cs336/assignment1-basics/blob/main/CLAUDE.md"/>
+        <updated>2026-06-01T16:41:49.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://github.com/stanford-cs336/assignment1-basics/blob/main/CLAUDE.md
+Comments URL: https://news.ycombinator.com/item?id=48359232
+Points: 500
+# Comments: 153]]></summary>
+        <author>
+            <name>prakashqwerty</name>
         </author>
     </entry>
     <entry>
@@ -3034,19 +3047,6 @@ Points: 516
 # Comments: 566]]></summary>
         <author>
             <name>e12e</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: Red Squares – GitHub outages as contributions]]></title>
-        <id>https://news.ycombinator.com/item?id=48034587</id>
-        <link href="https://red-squares.cian.lol/"/>
-        <updated>2026-05-06T10:28:40.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://red-squares.cian.lol/
-Comments URL: https://news.ycombinator.com/item?id=48034587
-Points: 700
-# Comments: 153]]></summary>
-        <author>
-            <name>cianmm</name>
         </author>
     </entry>
 </feed>
