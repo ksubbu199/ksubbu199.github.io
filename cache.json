@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=48405718",
+          "author": "tristanj",
+          "description": "Article URL: https://www.bloomberg.com/news/articles/2026-06-04/s-p-dow-jones-keeps-megacap-ipo-rules-as-is-after-consultation\nComments URL: https://news.ycombinator.com/item?id=48405718\nPoints: 560\n# Comments: 270",
+          "link": "https://www.bloomberg.com/news/articles/2026-06-04/s-p-dow-jones-keeps-megacap-ipo-rules-as-is-after-consultation",
+          "publishedOn": "2026-06-04T22:48:19.000Z",
+          "wordCount": null,
+          "title": "SpaceX, Other Mega IPOs Denied Fast Index Entry by S&P",
+          "imageUrl": null
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=48398055",
           "author": "coloneltcb",
           "description": "Article URL: https://blog.cloudflare.com/voidzero-joins-cloudflare/\nComments URL: https://news.ycombinator.com/item?id=48398055\nPoints: 530\n# Comments: 238",
@@ -14,6 +24,16 @@
           "wordCount": 2465,
           "title": "VoidZero Is Joining Cloudflare",
           "imageUrl": "https://cf-assets.www.cloudflare.com/zkvhlag99gkb/77PFBBDzFzIVtsPi4GXm5g/ea71873167012a47518dc593033032c6/BLOG-VOID_OG.png"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=48397028",
+          "author": "mooreds",
+          "description": "Article URL: https://www.fieggen.com/shoelace/secureknot.htm\nComments URL: https://news.ycombinator.com/item?id=48397028\nPoints: 553\n# Comments: 209",
+          "link": "https://www.fieggen.com/shoelace/secureknot.htm",
+          "publishedOn": "2026-06-04T11:17:34.000Z",
+          "wordCount": 905,
+          "title": "Ian's Secure Shoelace Knot",
+          "imageUrl": "https://www.fieggen.com/shoelace/knots/ias0x.png"
         },
         {
           "id": "https://news.ycombinator.com/item?id=48392232",
@@ -1833,66 +1853,6 @@
           "publishedOn": "2026-05-06T21:58:43.000Z",
           "wordCount": 496,
           "title": "SQLite Is a Library of Congress Recommended Storage Format",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=48040269",
-          "author": "jeromechoo",
-          "description": "Article URL: https://www.stvn.sh/writing/programming-still-sucks-fqffhyp\nComments URL: https://news.ycombinator.com/item?id=48040269\nPoints: 531\n# Comments: 282",
-          "link": "https://www.stvn.sh/writing/programming-still-sucks-fqffhyp",
-          "publishedOn": "2026-05-06T19:06:41.000Z",
-          "wordCount": 4293,
-          "title": "Programming Still Sucks",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=48038001",
-          "author": "diebillionaires",
-          "description": "Article URL: https://nooneshappy.com/article/appearing-productive-in-the-workplace/\nComments URL: https://news.ycombinator.com/item?id=48038001\nPoints: 559\n# Comments: 220",
-          "link": "https://nooneshappy.com/article/appearing-productive-in-the-workplace/",
-          "publishedOn": "2026-05-06T16:18:29.000Z",
-          "wordCount": 2272,
-          "title": "Appearing productive in the workplace",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=48037986",
-          "author": "meetpateltech",
-          "description": "Article URL: https://www.anthropic.com/news/higher-limits-spacex\nComments URL: https://news.ycombinator.com/item?id=48037986\nPoints: 501\n# Comments: 472",
-          "link": "https://www.anthropic.com/news/higher-limits-spacex",
-          "publishedOn": "2026-05-06T16:17:33.000Z",
-          "wordCount": 1564,
-          "title": "Higher usage limits for Claude and a compute deal with SpaceX",
-          "imageUrl": "https://www.anthropic.com/api/opengraph-illustration?name=Node%20Globe&backgroundColor=fig"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=48037555",
-          "author": "haunter",
-          "description": "Article URL: https://www.digitalfoundry.net/news/2026/05/valve-releases-steam-controller-cad-files-under-creative-commons-license\nComments URL: https://news.ycombinator.com/item?id=48037555\nPoints: 669\n# Comments: 213",
-          "link": "https://www.digitalfoundry.net/news/2026/05/valve-releases-steam-controller-cad-files-under-creative-commons-license",
-          "publishedOn": "2026-05-06T15:44:13.000Z",
-          "wordCount": 1568,
-          "title": "Valve releases Steam Controller CAD files under Creative Commons license",
-          "imageUrl": "https://images.digitalfoundry.net/19e3ca4a25c2c/large.jpg"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=48037336",
-          "author": "CliffStoll",
-          "description": "AI hallucinations are getting ambitious.\nA couple people recently emailed, asking whether the Klein bottle business was still operating after my death.\n“Huh?” I thought. “I ain’t dead yet.”\nAfter some digging, I discovered the source: an AI-generated review of The Cuckoo’s Egg circulating on Facebook. Alongside the usual synthetic praise and fabricated details, it confidently announced that I had died in May 2024.\nApparently AI has now advanced to the point where it can kill people off before they notice.\nMark Twain once wrote, “Reports of my death are greatly exaggerated.” I never expected to field-test the quote personally.\nsource: https://www.facebook.com/story.php?story_fbid=989939243570691&id=100076638743004\nCheers,   -Cliff\nComments URL: https://news.ycombinator.com/item?id=48037336\nPoints: 694\n# Comments: 96",
-          "link": "https://news.ycombinator.com/item?id=48037336",
-          "publishedOn": "2026-05-06T15:24:51.000Z",
-          "wordCount": 3616,
-          "title": "Rumors of my death are slightly exaggerated",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=48037128",
-          "author": "e12e",
-          "description": "Article URL: https://simonwillison.net/2026/May/6/vibe-coding-and-agentic-engineering/\nComments URL: https://news.ycombinator.com/item?id=48037128\nPoints: 516\n# Comments: 566",
-          "link": "https://simonwillison.net/2026/May/6/vibe-coding-and-agentic-engineering/",
-          "publishedOn": "2026-05-06T15:06:37.000Z",
-          "wordCount": 2275,
-          "title": "Vibe coding and agentic engineering are getting closer than I'd like",
           "imageUrl": null
         }
       ]
