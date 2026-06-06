@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=48421442",
+          "author": "maltalex",
+          "description": "Article URL: https://arstechnica.com/tech-policy/2026/06/sp-500-blocks-fast-spacex-entry-wont-waive-rule-for-unprofitable-ai-firms/\nComments URL: https://news.ycombinator.com/item?id=48421442\nPoints: 566\n# Comments: 193",
+          "link": "https://arstechnica.com/tech-policy/2026/06/sp-500-blocks-fast-spacex-entry-wont-waive-rule-for-unprofitable-ai-firms/",
+          "publishedOn": "2026-06-06T04:38:36.000Z",
+          "wordCount": 3365,
+          "title": "S&P 500 rejects SpaceX, also blocking entry for OpenAI and Anthropic",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/SpaceX-signage-2560x1440.jpg"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=48409191",
           "author": "EdwinHoksberg",
           "description": "Article URL: https://ladybird.org/posts/changing-how-we-develop-ladybird/\nComments URL: https://news.ycombinator.com/item?id=48409191\nPoints: 639\n# Comments: 427",
@@ -1784,26 +1794,6 @@
           "wordCount": 425,
           "title": "An Introduction to Meshtastic",
           "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=48056227",
-          "author": "psxuaw",
-          "description": "Article URL: https://xeiaso.net/blog/2026/abstain-from-install/\nComments URL: https://news.ycombinator.com/item?id=48056227\nPoints: 504\n# Comments: 260",
-          "link": "https://xeiaso.net/blog/2026/abstain-from-install/",
-          "publishedOn": "2026-05-07T23:02:11.000Z",
-          "wordCount": 307,
-          "title": "Maybe you shouldn't install new software for a bit",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=48055913",
-          "author": "stefanpie",
-          "description": "https://thetech.com/2026/05/07/canvas-breach-26\nhttps://techcrunch.com/2026/05/07/hackers-deface-school-logi...\nComments URL: https://news.ycombinator.com/item?id=48055913\nPoints: 568\n# Comments: 347",
-          "link": "https://www.theverge.com/tech/926458/canvas-shinyhunters-breach",
-          "publishedOn": "2026-05-07T22:22:21.000Z",
-          "wordCount": 7526,
-          "title": "Canvas is down as ShinyHunters threatens to leak schools’ data",
-          "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25332725/STK419_DEEPFAKE_CVIRGINIA_L.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
         }
       ]
     },
