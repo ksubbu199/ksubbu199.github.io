@@ -146,6 +146,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://news.ycombinator.com/item?id=48383667",
+          "author": "riddley",
+          "description": "Article URL: https://mouseless.click\nComments URL: https://news.ycombinator.com/item?id=48383667\nPoints: 509\n# Comments: 211",
+          "link": "https://mouseless.click/",
+          "publishedOn": "2026-06-03T13:22:06.000Z",
+          "wordCount": 28,
+          "title": "Mouseless – keyboard-driven control of macOS/Linux/Windows",
+          "imageUrl": null
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=48383220",
           "author": "reconnecting",
           "description": "Article URL: https://www.bbc.com/news/articles/c93x0k194yno\nComments URL: https://news.ycombinator.com/item?id=48383220\nPoints: 521\n# Comments: 484",
@@ -1814,46 +1824,6 @@
           "wordCount": 9495,
           "title": "Dirtyfrag: Universal Linux LPE",
           "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=48053203",
-          "author": "thm",
-          "description": "Article URL: https://rmoff.net/2026/05/06/ai-slop-is-killing-online-communities/\nComments URL: https://news.ycombinator.com/item?id=48053203\nPoints: 540\n# Comments: 486",
-          "link": "https://rmoff.net/2026/05/06/ai-slop-is-killing-online-communities/",
-          "publishedOn": "2026-05-07T18:46:25.000Z",
-          "wordCount": 2198,
-          "title": "AI slop is killing online communities",
-          "imageUrl": "https://rmoff.net/images/2026/05/IMG_6442.webp"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=48051951",
-          "author": "atgctg",
-          "description": "Article URL: https://moq.dev/blog/webrtc-is-the-problem/\nComments URL: https://news.ycombinator.com/item?id=48051951\nPoints: 500\n# Comments: 146",
-          "link": "https://moq.dev/blog/webrtc-is-the-problem/",
-          "publishedOn": "2026-05-07T17:11:59.000Z",
-          "wordCount": 2603,
-          "title": "OpenAI’s WebRTC problem",
-          "imageUrl": "https://moq.dev/blog/webrtc-is-the-problem/rtt.png"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=48051562",
-          "author": "bsuh",
-          "description": "Article URL: https://bsuh.bearblog.dev/agents-need-control-flow/\nComments URL: https://news.ycombinator.com/item?id=48051562\nPoints: 509\n# Comments: 250",
-          "link": "https://bsuh.bearblog.dev/agents-need-control-flow/",
-          "publishedOn": "2026-05-07T16:43:35.000Z",
-          "wordCount": 1102,
-          "title": "Agents need control flow, not more prompts",
-          "imageUrl": "/static/og-image.png"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=48050964",
-          "author": "newsoftheday",
-          "description": "Article URL: https://old.reddit.com/r/chrome/comments/1t5qayz/chrome_removes_claim_of_ondevice_al_not_sending/\nComments URL: https://news.ycombinator.com/item?id=48050964\nPoints: 514\n# Comments: 196",
-          "link": "https://old.reddit.com/r/chrome/comments/1t5qayz/chrome_removes_claim_of_ondevice_al_not_sending/",
-          "publishedOn": "2026-05-07T15:56:33.000Z",
-          "wordCount": null,
-          "title": "Chrome removes claim of On-device Al not sending data to Google Servers",
-          "imageUrl": null
         }
       ]
     },
@@ -2114,16 +2084,6 @@
           "wordCount": 1412,
           "title": "TechPays has been acquired by Levels.fyi",
           "imageUrl": null
-        },
-        {
-          "id": "69fccc856562a30001f428bb",
-          "author": "Gergely Orosz",
-          "description": "GitHub’s leadership blames the 3.5x increase in service load as the cause of degradation – or it might be self-inflicted.",
-          "link": "https://blog.pragmaticengineer.com/the-pulse-ai-load-breaks-github/",
-          "publishedOn": "2026-05-07T17:33:18.000Z",
-          "wordCount": 3072,
-          "title": "The Pulse: AI load breaks GitHub – why not other vendors?",
-          "imageUrl": null
         }
       ]
     },
@@ -2132,6 +2092,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKZozRVHRYsYHGEyNKuhhdA",
       "siteUrl": "https://www.youtube.com/channel/UCKZozRVHRYsYHGEyNKuhhdA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/shorts/3078z8q4vUM",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/3078z8q4vUM",
+          "publishedOn": "2026-06-06T05:53:33.000Z",
+          "wordCount": 2157,
+          "title": "How AI can personalise videos at scale",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/shorts/p9noD13PyEo",
           "author": null,
