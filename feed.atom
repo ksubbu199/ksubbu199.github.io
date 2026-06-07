@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-06-06T23:03:22.895Z</updated>
+    <updated>2026-06-07T03:56:16.662Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -89,6 +89,19 @@ Points: 526
 # Comments: 200]]></summary>
         <author>
             <name>toomuchtodo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New method turns ocean water into drinking water, without waste]]></title>
+        <id>https://news.ycombinator.com/item?id=48413500</id>
+        <link href="https://www.rochester.edu/newscenter/what-is-desalination-definition-ocean-water-704732/"/>
+        <updated>2026-06-05T15:04:03.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.rochester.edu/newscenter/what-is-desalination-definition-ocean-water-704732/
+Comments URL: https://news.ycombinator.com/item?id=48413500
+Points: 503
+# Comments: 206]]></summary>
+        <author>
+            <name>speckx</name>
         </author>
     </entry>
     <entry>
@@ -2897,81 +2910,6 @@ Points: 668
 # Comments: 237]]></summary>
         <author>
             <name>anonymousiam</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google Cloud Fraud Defence is just WEI repackaged]]></title>
-        <id>https://news.ycombinator.com/item?id=48063199</id>
-        <link href="https://privatecaptcha.com/blog/google-cloud-fraud-defence-wei/"/>
-        <updated>2026-05-08T13:56:10.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://privatecaptcha.com/blog/google-cloud-fraud-defence-wei/
-Comments URL: https://news.ycombinator.com/item?id=48063199
-Points: 572
-# Comments: 275]]></summary>
-        <author>
-            <name>ribtoks</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Guess what's coming?]]></title>
-        <id>https://www.youtube.com/shorts/oHQU4f3k2bc</id>
-        <link href="https://www.youtube.com/shorts/oHQU4f3k2bc"/>
-        <updated>2026-05-08T13:40:58.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Think School</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A web page that shows you everything the browser told it without asking]]></title>
-        <id>https://news.ycombinator.com/item?id=48062178</id>
-        <link href="https://sinceyouarrived.world/taken"/>
-        <updated>2026-05-08T12:37:05.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://sinceyouarrived.world/taken
-Comments URL: https://news.ycombinator.com/item?id=48062178
-Points: 507
-# Comments: 249]]></summary>
-        <author>
-            <name>mwheelz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Poland is now among the 20 largest economies]]></title>
-        <id>https://news.ycombinator.com/item?id=48062117</id>
-        <link href="https://apnews.com/article/poland-economy-growth-g20-gdp-26fe06e120398410f8d773ba5661e7aa"/>
-        <updated>2026-05-08T12:30:05.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://apnews.com/article/poland-economy-growth-g20-gdp-26fe06e120398410f8d773ba5661e7aa
-Comments URL: https://news.ycombinator.com/item?id=48062117
-Points: 745
-# Comments: 644]]></summary>
-        <author>
-            <name>surprisetalk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[David Attenborough's 100th Birthday]]></title>
-        <id>https://news.ycombinator.com/item?id=48061884</id>
-        <link href="https://www.bbc.com/news/articles/cp3pww9g0p5o"/>
-        <updated>2026-05-08T12:03:26.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.bbc.com/news/articles/cp3pww9g0p5o
-Comments URL: https://news.ycombinator.com/item?id=48061884
-Points: 540
-# Comments: 103]]></summary>
-        <author>
-            <name>defrost</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[An Introduction to Meshtastic]]></title>
-        <id>https://news.ycombinator.com/item?id=48061566</id>
-        <link href="https://meshtastic.org/docs/introduction/"/>
-        <updated>2026-05-08T11:22:11.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://meshtastic.org/docs/introduction/
-Comments URL: https://news.ycombinator.com/item?id=48061566
-Points: 502
-# Comments: 184]]></summary>
-        <author>
-            <name>ColinWright</name>
         </author>
     </entry>
 </feed>
