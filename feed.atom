@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-06-07T07:55:05.972Z</updated>
+    <updated>2026-06-07T10:29:48.482Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -128,6 +128,19 @@ Points: 503
 # Comments: 206]]></summary>
         <author>
             <name>speckx</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Did Claude increase bugs in rsync?]]></title>
+        <id>https://news.ycombinator.com/item?id=48411635</id>
+        <link href="https://alexispurslane.github.io/rsync-analysis/"/>
+        <updated>2026-06-05T12:43:33.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://alexispurslane.github.io/rsync-analysis/
+Comments URL: https://news.ycombinator.com/item?id=48411635
+Points: 500
+# Comments: 517]]></summary>
+        <author>
+            <name>logicprog</name>
         </author>
     </entry>
     <entry>
