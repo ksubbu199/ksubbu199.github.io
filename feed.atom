@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-06-07T16:15:42.224Z</updated>
+    <updated>2026-06-07T18:03:43.504Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[LLMs are eroding my software engineering career and I don't know what to do]]></title>
+        <id>https://news.ycombinator.com/item?id=48434312</id>
+        <link href="https://human-in-the-loop.bearblog.dev/llms-are-eroding-my-software-engineering-career-and-i-dont-know-what-to-do/"/>
+        <updated>2026-06-07T12:49:29.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://human-in-the-loop.bearblog.dev/llms-are-eroding-my-software-engineering-career-and-i-dont-know-what-to-do/
+Comments URL: https://news.ycombinator.com/item?id=48434312
+Points: 602
+# Comments: 551]]></summary>
+        <author>
+            <name>poisonfountain</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Meta confirms 1000s of Instagram accounts were hacked by abusing its AI chatbot]]></title>
         <id>https://news.ycombinator.com/item?id=48427643</id>
@@ -2894,33 +2907,6 @@ Points: 545
 # Comments: 416]]></summary>
         <author>
             <name>andrewstuart</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EU Parliamentary Research Service calls VPNs "a loophole that needs closing"]]></title>
-        <id>https://news.ycombinator.com/item?id=48072190</id>
-        <link href="https://cyberinsider.com/eu-calls-vpns-a-loophole-that-needs-closing-in-age-verification-push/"/>
-        <updated>2026-05-09T05:52:12.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://cyberinsider.com/eu-calls-vpns-a-loophole-that-needs-closing-in-age-verification-push/
-Comments URL: https://news.ycombinator.com/item?id=48072190
-Points: 534
-# Comments: 359]]></summary>
-        <author>
-            <name>muse900</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Using Claude Code: The unreasonable effectiveness of HTML]]></title>
-        <id>https://news.ycombinator.com/item?id=48071940</id>
-        <link href="https://twitter.com/trq212/status/2052809885763747935"/>
-        <updated>2026-05-09T04:53:52.000Z</updated>
-        <summary type="html"><![CDATA[Examples: https://thariqs.github.io/html-effectiveness/
-Related: https://simonwillison.net/2026/May/8/unreasonable-effectiven...
-Comments URL: https://news.ycombinator.com/item?id=48071940
-Points: 500
-# Comments: 270]]></summary>
-        <author>
-            <name>pretext</name>
         </author>
     </entry>
 </feed>
