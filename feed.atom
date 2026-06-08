@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-06-08T00:08:12.244Z</updated>
+    <updated>2026-06-08T05:50:04.411Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Building from zero after addiction, prison, and a felony]]></title>
+        <id>https://news.ycombinator.com/item?id=48437406</id>
+        <link href="https://gavinray97.github.io/blog/building-from-zero-after-addiction-prison-felony"/>
+        <updated>2026-06-07T18:33:07.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://gavinray97.github.io/blog/building-from-zero-after-addiction-prison-felony
+Comments URL: https://news.ycombinator.com/item?id=48437406
+Points: 530
+# Comments: 238]]></summary>
+        <author>
+            <name>gavinray</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[LLMs are eroding my software engineering career and I don't know what to do]]></title>
         <id>https://news.ycombinator.com/item?id=48434312</id>
@@ -2854,19 +2867,6 @@ Points: 500
 # Comments: 270]]></summary>
         <author>
             <name>iancmceachern</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I’ve banned query strings]]></title>
-        <id>https://news.ycombinator.com/item?id=48076173</id>
-        <link href="https://chrismorgan.info/no-query-strings"/>
-        <updated>2026-05-09T16:28:36.000Z</updated>
-        <summary type="html"><![CDATA[Related: https://susam.net/no-query-strings.html
-Comments URL: https://news.ycombinator.com/item?id=48076173
-Points: 506
-# Comments: 264]]></summary>
-        <author>
-            <name>susam</name>
         </author>
     </entry>
 </feed>
