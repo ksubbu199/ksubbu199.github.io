@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-06-09T00:05:59.398Z</updated>
+    <updated>2026-06-09T05:05:34.486Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -27,6 +27,19 @@ Points: 533
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>Think School</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MiMo-v2.5-Pro-UltraSpeed: 1T model with 1000 tokens per second]]></title>
+        <id>https://news.ycombinator.com/item?id=48446639</id>
+        <link href="https://mimo.xiaomi.com/blog/mimo-tilert-1000tps"/>
+        <updated>2026-06-08T15:27:33.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://mimo.xiaomi.com/blog/mimo-tilert-1000tps
+Comments URL: https://news.ycombinator.com/item?id=48446639
+Points: 525
+# Comments: 380]]></summary>
+        <author>
+            <name>gainsurier</name>
         </author>
     </entry>
     <entry>
@@ -2949,19 +2962,6 @@ Points: 689
         <updated>2026-05-10T15:27:38.000Z</updated>
         <author>
             <name>Think School</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Louis Rossmann offers to pay legal fees for a threatened OrcaSlicer developer]]></title>
-        <id>https://news.ycombinator.com/item?id=48084432</id>
-        <link href="https://www.tomshardware.com/3d-printing/louis-rossmann-tells-3d-printer-maker-bambu-lab-to-go-bleep-yourself-over-its-lawsuit-against-enthusiast-right-to-repair-advocate-offers-to-pay-the-legal-fees-for-a-threatened-orcaslicer-developer"/>
-        <updated>2026-05-10T14:47:05.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.tomshardware.com/3d-printing/louis-rossmann-tells-3d-printer-maker-bambu-lab-to-go-bleep-yourself-over-its-lawsuit-against-enthusiast-right-to-repair-advocate-offers-to-pay-the-legal-fees-for-a-threatened-orcaslicer-developer
-Comments URL: https://news.ycombinator.com/item?id=48084432
-Points: 500
-# Comments: 270]]></summary>
-        <author>
-            <name>iancmceachern</name>
         </author>
     </entry>
 </feed>
