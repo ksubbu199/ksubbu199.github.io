@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-06-09T18:05:21.284Z</updated>
+    <updated>2026-06-09T20:57:03.129Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -39,6 +39,16 @@ Points: 539
 # Comments: 81]]></summary>
         <author>
             <name>sklopec</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Boot.dev Beat. June 2026]]></title>
+        <id>https://boot.dev/blog/news/bootdev-beat-2026-06/</id>
+        <link href="https://boot.dev/blog/news/bootdev-beat-2026-06/"/>
+        <updated>2026-06-09T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[May was a fun month. Interactive widgets (the ones we teased last month) are now live in select lesson content, sound effects rolled out to everyone, and every Python project course got type hints.]]></summary>
+        <author>
+            <name>Boot.dev Blog</name>
         </author>
     </entry>
     <entry>
@@ -101,6 +111,19 @@ Points: 533
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>Think School</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EU-banned pesticides found in rice, tea and spices]]></title>
+        <id>https://news.ycombinator.com/item?id=48447062</id>
+        <link href="https://www.foodwatch.org/en/eu-banned-pesticides-found-in-rice-tea-and-spices"/>
+        <updated>2026-06-08T15:59:04.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.foodwatch.org/en/eu-banned-pesticides-found-in-rice-tea-and-spices
+Comments URL: https://news.ycombinator.com/item?id=48447062
+Points: 500
+# Comments: 278]]></summary>
+        <author>
+            <name>john-titor</name>
         </author>
     </entry>
     <entry>
@@ -2955,32 +2978,6 @@ Points: 521
 # Comments: 173]]></summary>
         <author>
             <name>orhunp_</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gmail registration now requires scanning a QR code and sending a text message]]></title>
-        <id>https://news.ycombinator.com/item?id=48092028</id>
-        <link href="https://discuss.privacyguides.net/t/google-account-registration-now-requires-sending-an-sms-via-phone-instead-of-receiving-an-sms/36082"/>
-        <updated>2026-05-11T07:26:54.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://discuss.privacyguides.net/t/google-account-registration-now-requires-sending-an-sms-via-phone-instead-of-receiving-an-sms/36082
-Comments URL: https://news.ycombinator.com/item?id=48092028
-Points: 515
-# Comments: 360]]></summary>
-        <author>
-            <name>negura</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mythos Finds a Curl Vulnerability]]></title>
-        <id>https://news.ycombinator.com/item?id=48091737</id>
-        <link href="https://daniel.haxx.se/blog/2026/05/11/mythos-finds-a-curl-vulnerability/"/>
-        <updated>2026-05-11T06:39:08.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://daniel.haxx.se/blog/2026/05/11/mythos-finds-a-curl-vulnerability/
-Comments URL: https://news.ycombinator.com/item?id=48091737
-Points: 547
-# Comments: 226]]></summary>
-        <author>
-            <name>TangerineDream</name>
         </author>
     </entry>
 </feed>

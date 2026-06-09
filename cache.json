@@ -66,6 +66,16 @@
           "imageUrl": "https://img.panaitiu.com/_/1200/plain/https://lowtechguys.com/static/img/musicdecoy-screenshot.png"
         },
         {
+          "id": "https://news.ycombinator.com/item?id=48447062",
+          "author": "john-titor",
+          "description": "Article URL: https://www.foodwatch.org/en/eu-banned-pesticides-found-in-rice-tea-and-spices\nComments URL: https://news.ycombinator.com/item?id=48447062\nPoints: 500\n# Comments: 278",
+          "link": "https://www.foodwatch.org/en/eu-banned-pesticides-found-in-rice-tea-and-spices",
+          "publishedOn": "2026-06-08T15:59:04.000Z",
+          "wordCount": 941,
+          "title": "EU-banned pesticides found in rice, tea and spices",
+          "imageUrl": "https://www.foodwatch.org/fileadmin/_processed_/f/5/csm_foodwatch_logo_150x150_3ca367d925.jpg"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=48446893",
           "author": "crescit_eundo",
           "description": "Article URL: https://www.wheresyoured.at/ai-is-slowing-down/\nComments URL: https://news.ycombinator.com/item?id=48446893\nPoints: 548\n# Comments: 572",
@@ -1814,26 +1824,6 @@
           "wordCount": 141,
           "title": "Ratty – A terminal emulator with inline 3D graphics",
           "imageUrl": "assets/images/ratty-social-card.png"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=48092028",
-          "author": "negura",
-          "description": "Article URL: https://discuss.privacyguides.net/t/google-account-registration-now-requires-sending-an-sms-via-phone-instead-of-receiving-an-sms/36082\nComments URL: https://news.ycombinator.com/item?id=48092028\nPoints: 515\n# Comments: 360",
-          "link": "https://discuss.privacyguides.net/t/google-account-registration-now-requires-sending-an-sms-via-phone-instead-of-receiving-an-sms/36082",
-          "publishedOn": "2026-05-11T07:26:54.000Z",
-          "wordCount": 1291,
-          "title": "Gmail registration now requires scanning a QR code and sending a text message",
-          "imageUrl": "https://forum-uploads.privacyguidesusercontent.com/original/3X/9/8/9831576af17cf56f7f57776620c4da4b4af14b7c.jpeg"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=48091737",
-          "author": "TangerineDream",
-          "description": "Article URL: https://daniel.haxx.se/blog/2026/05/11/mythos-finds-a-curl-vulnerability/\nComments URL: https://news.ycombinator.com/item?id=48091737\nPoints: 547\n# Comments: 226",
-          "link": "https://daniel.haxx.se/blog/2026/05/11/mythos-finds-a-curl-vulnerability/",
-          "publishedOn": "2026-05-11T06:39:08.000Z",
-          "wordCount": 3164,
-          "title": "Mythos Finds a Curl Vulnerability",
-          "imageUrl": "https://daniel.haxx.se/blog/wp-content/uploads/2026/05/jinwon-robot.jpg"
         }
       ]
     },
@@ -1848,6 +1838,16 @@
       "feedUrl": "https://blog.boot.dev/index.xml",
       "siteUrl": "https://boot.dev/blog/",
       "articles": [
+        {
+          "id": "https://boot.dev/blog/news/bootdev-beat-2026-06/",
+          "author": null,
+          "description": "May was a fun month. Interactive widgets (the ones we teased last month) are now live in select lesson content, sound effects rolled out to everyone, and every Python project course got type hints.",
+          "link": "https://boot.dev/blog/news/bootdev-beat-2026-06/",
+          "publishedOn": "2026-06-09T00:00:00.000Z",
+          "wordCount": 829,
+          "title": "The Boot.dev Beat. June 2026",
+          "imageUrl": "https://boot.dev/blog/img/featured/the-bootdev-beat-june-2026.webp"
+        },
         {
           "id": "https://boot.dev/blog/news/wannacry-ransomware-attack/",
           "author": null,
