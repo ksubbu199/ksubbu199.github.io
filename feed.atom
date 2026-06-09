@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-06-09T12:37:30.375Z</updated>
+    <updated>2026-06-09T15:54:47.981Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[THE TRILLION DOLLAR IPO? The ANTHROPIC PLAYBOOK Explained | Case Study]]></title>
+        <id>https://www.youtube.com/watch?v=ZgPZ6pbxuXA</id>
+        <link href="https://www.youtube.com/watch?v=ZgPZ6pbxuXA"/>
+        <updated>2026-06-09T15:35:06.000Z</updated>
+        <author>
+            <name>Think School</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Surveillance is not safety: A statement on the UK's latest threat to privacy [pdf]]]></title>
         <id>https://news.ycombinator.com/item?id=48450646</id>
@@ -2933,19 +2942,6 @@ Points: 547
 # Comments: 226]]></summary>
         <author>
             <name>TangerineDream</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I'm going back to writing code by hand]]></title>
-        <id>https://news.ycombinator.com/item?id=48090029</id>
-        <link href="https://blog.k10s.dev/im-going-back-to-writing-code-by-hand/"/>
-        <updated>2026-05-11T01:23:51.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://blog.k10s.dev/im-going-back-to-writing-code-by-hand/
-Comments URL: https://news.ycombinator.com/item?id=48090029
-Points: 645
-# Comments: 347]]></summary>
-        <author>
-            <name>dropbox_miner</name>
         </author>
     </entry>
 </feed>
