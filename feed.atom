@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-06-09T15:54:47.981Z</updated>
+    <updated>2026-06-09T18:05:21.284Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Claude Fable 5]]></title>
+        <id>https://news.ycombinator.com/item?id=48463808</id>
+        <link href="https://www.anthropic.com/news/claude-fable-5-mythos-5"/>
+        <updated>2026-06-09T16:58:01.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.anthropic.com/news/claude-fable-5-mythos-5
+Comments URL: https://news.ycombinator.com/item?id=48463808
+Points: 573
+# Comments: 351]]></summary>
+        <author>
+            <name>Philpax</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[THE TRILLION DOLLAR IPO? The ANTHROPIC PLAYBOOK Explained | Case Study]]></title>
         <id>https://www.youtube.com/watch?v=ZgPZ6pbxuXA</id>
@@ -13,6 +26,19 @@
         <updated>2026-06-09T15:35:06.000Z</updated>
         <author>
             <name>Think School</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Making Graphics Like it's 1993]]></title>
+        <id>https://news.ycombinator.com/item?id=48459294</id>
+        <link href="https://staniks.github.io/articles/catlantean-3d-blog-1/"/>
+        <updated>2026-06-09T10:46:14.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://staniks.github.io/articles/catlantean-3d-blog-1/
+Comments URL: https://news.ycombinator.com/item?id=48459294
+Points: 539
+# Comments: 81]]></summary>
+        <author>
+            <name>sklopec</name>
         </author>
     </entry>
     <entry>
@@ -286,6 +312,19 @@ Points: 502
         <updated>2026-06-06T12:31:47.000Z</updated>
         <author>
             <name>Think School</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenCV 5 Is Here: The Biggest Leap in Years for Computer Vision]]></title>
+        <id>https://news.ycombinator.com/item?id=48421858</id>
+        <link href="https://opencv.org/opencv-5/"/>
+        <updated>2026-06-06T06:02:28.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://opencv.org/opencv-5/
+Comments URL: https://news.ycombinator.com/item?id=48421858
+Points: 548
+# Comments: 101]]></summary>
+        <author>
+            <name>ternaus</name>
         </author>
     </entry>
     <entry>

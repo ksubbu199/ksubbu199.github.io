@@ -6,6 +6,26 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=48463808",
+          "author": "Philpax",
+          "description": "Article URL: https://www.anthropic.com/news/claude-fable-5-mythos-5\nComments URL: https://news.ycombinator.com/item?id=48463808\nPoints: 573\n# Comments: 351",
+          "link": "https://www.anthropic.com/news/claude-fable-5-mythos-5",
+          "publishedOn": "2026-06-09T16:58:01.000Z",
+          "wordCount": 8079,
+          "title": "Claude Fable 5",
+          "imageUrl": "https://cdn.sanity.io/images/4zrzovbb/website/b7055119423427c40a0e4d84054aed17682b50a2-2880x1620.png"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=48459294",
+          "author": "sklopec",
+          "description": "Article URL: https://staniks.github.io/articles/catlantean-3d-blog-1/\nComments URL: https://news.ycombinator.com/item?id=48459294\nPoints: 539\n# Comments: 81",
+          "link": "https://staniks.github.io/articles/catlantean-3d-blog-1/",
+          "publishedOn": "2026-06-09T10:46:14.000Z",
+          "wordCount": 4178,
+          "title": "Making Graphics Like it's 1993",
+          "imageUrl": "https://staniks.github.io/img/articles/catlantean-3d/banner1.png"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=48450646",
           "author": "g0xA52A2A",
           "description": "Article URL: https://signal.org/blog/pdfs/2026-06-08-uk-surveillance-is-not-safety.pdf\nComments URL: https://news.ycombinator.com/item?id=48450646\nPoints: 565\n# Comments: 210",
@@ -154,6 +174,16 @@
           "wordCount": 9787,
           "title": "Pentagon raised threat of Israeli spying on U.S. to highest level, sources say",
           "imageUrl": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-06/260604-trump-netanyahu-vsb-1755-912832.jpg"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=48421858",
+          "author": "ternaus",
+          "description": "Article URL: https://opencv.org/opencv-5/\nComments URL: https://news.ycombinator.com/item?id=48421858\nPoints: 548\n# Comments: 101",
+          "link": "https://opencv.org/opencv-5/",
+          "publishedOn": "2026-06-06T06:02:28.000Z",
+          "wordCount": 9544,
+          "title": "OpenCV 5 Is Here: The Biggest Leap in Years for Computer Vision",
+          "imageUrl": "https://opencv.org/wp-content/uploads/2026/06/opencv-5.png"
         },
         {
           "id": "https://news.ycombinator.com/item?id=48421442",
