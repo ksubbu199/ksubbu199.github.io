@@ -2,10 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-06-09T05:05:34.486Z</updated>
+    <updated>2026-06-09T09:42:20.796Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Surveillance is not safety: A statement on the UK's latest threat to privacy [pdf]]]></title>
+        <id>https://news.ycombinator.com/item?id=48450646</id>
+        <link href="https://signal.org/blog/pdfs/2026-06-08-uk-surveillance-is-not-safety.pdf"/>
+        <updated>2026-06-08T19:42:28.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://signal.org/blog/pdfs/2026-06-08-uk-surveillance-is-not-safety.pdf
+Comments URL: https://news.ycombinator.com/item?id=48450646
+Points: 565
+# Comments: 210]]></summary>
+        <author>
+            <name>g0xA52A2A</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple reveals new AI architecture built around Google Gemini models]]></title>
+        <id>https://news.ycombinator.com/item?id=48450142</id>
+        <link href="https://www.macrumors.com/2026/06/08/apple-reveals-new-ai-architecture/"/>
+        <updated>2026-06-08T19:14:47.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.macrumors.com/2026/06/08/apple-reveals-new-ai-architecture/
+Comments URL: https://news.ycombinator.com/item?id=48450142
+Points: 590
+# Comments: 449]]></summary>
+        <author>
+            <name>unclefuzzy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Siri AI]]></title>
+        <id>https://news.ycombinator.com/item?id=48449084</id>
+        <link href="https://www.apple.com/apple-intelligence/"/>
+        <updated>2026-06-08T18:17:53.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.apple.com/apple-intelligence/
+Comments URL: https://news.ycombinator.com/item?id=48449084
+Points: 573
+# Comments: 530]]></summary>
+        <author>
+            <name>0xedb</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Stop the Apple Music app from launching]]></title>
         <id>https://news.ycombinator.com/item?id=48447935</id>
@@ -30,6 +69,19 @@ Points: 533
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[AI is slowing down]]></title>
+        <id>https://news.ycombinator.com/item?id=48446893</id>
+        <link href="https://www.wheresyoured.at/ai-is-slowing-down/"/>
+        <updated>2026-06-08T15:46:37.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.wheresyoured.at/ai-is-slowing-down/
+Comments URL: https://news.ycombinator.com/item?id=48446893
+Points: 548
+# Comments: 572]]></summary>
+        <author>
+            <name>crescit_eundo</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[MiMo-v2.5-Pro-UltraSpeed: 1T model with 1000 tokens per second]]></title>
         <id>https://news.ycombinator.com/item?id=48446639</id>
         <link href="https://mimo.xiaomi.com/blog/mimo-tilert-1000tps"/>
@@ -40,6 +92,19 @@ Points: 525
 # Comments: 380]]></summary>
         <author>
             <name>gainsurier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[xAI is looking more like a datacentre REIT than a frontier lab]]></title>
+        <id>https://news.ycombinator.com/item?id=48446428</id>
+        <link href="https://martinalderson.com/posts/xais-new-rental-business/"/>
+        <updated>2026-06-08T15:13:43.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://martinalderson.com/posts/xais-new-rental-business/
+Comments URL: https://news.ycombinator.com/item?id=48446428
+Points: 558
+# Comments: 437]]></summary>
+        <author>
+            <name>martinald</name>
         </author>
     </entry>
     <entry>
@@ -2914,54 +2979,6 @@ Points: 518
 # Comments: 155]]></summary>
         <author>
             <name>shintoist</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hardware Attestation as Monopoly Enabler]]></title>
-        <id>https://news.ycombinator.com/item?id=48086190</id>
-        <link href="https://grapheneos.social/@GrapheneOS/116550899908879585"/>
-        <updated>2026-05-10T17:54:02.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://grapheneos.social/@GrapheneOS/116550899908879585
-Comments URL: https://news.ycombinator.com/item?id=48086190
-Points: 561
-# Comments: 192]]></summary>
-        <author>
-            <name>ChuckMcM</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Incident Report: CVE-2024-YIKES]]></title>
-        <id>https://news.ycombinator.com/item?id=48086082</id>
-        <link href="https://nesbitt.io/2026/02/03/incident-report-cve-2024-yikes.html"/>
-        <updated>2026-05-10T17:43:10.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://nesbitt.io/2026/02/03/incident-report-cve-2024-yikes.html
-Comments URL: https://news.ycombinator.com/item?id=48086082
-Points: 556
-# Comments: 142]]></summary>
-        <author>
-            <name>miniBill</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Local AI needs to be the norm]]></title>
-        <id>https://news.ycombinator.com/item?id=48085821</id>
-        <link href="https://unix.foo/posts/local-ai-needs-to-be-norm/"/>
-        <updated>2026-05-10T17:19:28.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://unix.foo/posts/local-ai-needs-to-be-norm/
-Comments URL: https://news.ycombinator.com/item?id=48085821
-Points: 689
-# Comments: 329]]></summary>
-        <author>
-            <name>cylo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[India's THORIUM SECRET: How We SOLVED a Nuclear Problem NOBODY Could Crack for 70 YEARS | Case Study]]></title>
-        <id>https://www.youtube.com/watch?v=mG2xWAaqsRQ</id>
-        <link href="https://www.youtube.com/watch?v=mG2xWAaqsRQ"/>
-        <updated>2026-05-10T15:27:38.000Z</updated>
-        <author>
-            <name>Think School</name>
         </author>
     </entry>
 </feed>

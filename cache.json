@@ -6,6 +6,36 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=48450646",
+          "author": "g0xA52A2A",
+          "description": "Article URL: https://signal.org/blog/pdfs/2026-06-08-uk-surveillance-is-not-safety.pdf\nComments URL: https://news.ycombinator.com/item?id=48450646\nPoints: 565\n# Comments: 210",
+          "link": "https://signal.org/blog/pdfs/2026-06-08-uk-surveillance-is-not-safety.pdf",
+          "publishedOn": "2026-06-08T19:42:28.000Z",
+          "wordCount": 2511,
+          "title": "Surveillance is not safety: A statement on the UK's latest threat to privacy [pdf]",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=48450142",
+          "author": "unclefuzzy",
+          "description": "Article URL: https://www.macrumors.com/2026/06/08/apple-reveals-new-ai-architecture/\nComments URL: https://news.ycombinator.com/item?id=48450142\nPoints: 590\n# Comments: 449",
+          "link": "https://www.macrumors.com/2026/06/08/apple-reveals-new-ai-architecture/",
+          "publishedOn": "2026-06-08T19:14:47.000Z",
+          "wordCount": 2726,
+          "title": "Apple reveals new AI architecture built around Google Gemini models",
+          "imageUrl": "https://images.macrumors.com/t/dUIgpIiBn2wAKhWSl0HDOLdc2LU=/1600x/article-new/2026/06/apple-intelligence-architecture.jpg"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=48449084",
+          "author": "0xedb",
+          "description": "Article URL: https://www.apple.com/apple-intelligence/\nComments URL: https://news.ycombinator.com/item?id=48449084\nPoints: 573\n# Comments: 530",
+          "link": "https://www.apple.com/apple-intelligence/",
+          "publishedOn": "2026-06-08T18:17:53.000Z",
+          "wordCount": 7193,
+          "title": "Siri AI",
+          "imageUrl": "https://www.apple.com/v/apple-intelligence/h/images/meta/apple_intelligence__bj33bjkp28k2_og.png?202606081607"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=48447935",
           "author": "bobbiechen",
           "description": "Article URL: https://lowtechguys.com/musicdecoy/\nComments URL: https://news.ycombinator.com/item?id=48447935\nPoints: 533\n# Comments: 211",
@@ -16,6 +46,16 @@
           "imageUrl": "https://img.panaitiu.com/_/1200/plain/https://lowtechguys.com/static/img/musicdecoy-screenshot.png"
         },
         {
+          "id": "https://news.ycombinator.com/item?id=48446893",
+          "author": "crescit_eundo",
+          "description": "Article URL: https://www.wheresyoured.at/ai-is-slowing-down/\nComments URL: https://news.ycombinator.com/item?id=48446893\nPoints: 548\n# Comments: 572",
+          "link": "https://www.wheresyoured.at/ai-is-slowing-down/",
+          "publishedOn": "2026-06-08T15:46:37.000Z",
+          "wordCount": 7822,
+          "title": "AI is slowing down",
+          "imageUrl": "https://storage.ghost.io/c/24/d8/24d8fcec-dfba-4f40-a467-823d2941ae46/content/images/2024/01/wyea--1.jpeg"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=48446639",
           "author": "gainsurier",
           "description": "Article URL: https://mimo.xiaomi.com/blog/mimo-tilert-1000tps\nComments URL: https://news.ycombinator.com/item?id=48446639\nPoints: 525\n# Comments: 380",
@@ -24,6 +64,16 @@
           "wordCount": 2756,
           "title": "MiMo-v2.5-Pro-UltraSpeed: 1T model with 1000 tokens per second",
           "imageUrl": null
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=48446428",
+          "author": "martinald",
+          "description": "Article URL: https://martinalderson.com/posts/xais-new-rental-business/\nComments URL: https://news.ycombinator.com/item?id=48446428\nPoints: 558\n# Comments: 437",
+          "link": "https://martinalderson.com/posts/xais-new-rental-business/",
+          "publishedOn": "2026-06-08T15:13:43.000Z",
+          "wordCount": 1780,
+          "title": "xAI is looking more like a datacentre REIT than a frontier lab",
+          "imageUrl": "https://martinalderson.com/img/og/xai-is-looking-more-like-a-datacentre-reit-than-a-frontier-lab.png"
         },
         {
           "id": "https://news.ycombinator.com/item?id=48445554",
@@ -1774,36 +1824,6 @@
           "wordCount": 1580,
           "title": "Running local models on an M4 with 24GB memory",
           "imageUrl": "https://jola.dev/images/og-image-2b7872671fc7c11e464dac899d8d3068.png?vsn=d"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=48086190",
-          "author": "ChuckMcM",
-          "description": "Article URL: https://grapheneos.social/@GrapheneOS/116550899908879585\nComments URL: https://news.ycombinator.com/item?id=48086190\nPoints: 561\n# Comments: 192",
-          "link": "https://grapheneos.social/@GrapheneOS/116550899908879585",
-          "publishedOn": "2026-05-10T17:54:02.000Z",
-          "wordCount": 177,
-          "title": "Hardware Attestation as Monopoly Enabler",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=48086082",
-          "author": "miniBill",
-          "description": "Article URL: https://nesbitt.io/2026/02/03/incident-report-cve-2024-yikes.html\nComments URL: https://news.ycombinator.com/item?id=48086082\nPoints: 556\n# Comments: 142",
-          "link": "https://nesbitt.io/2026/02/03/incident-report-cve-2024-yikes.html",
-          "publishedOn": "2026-05-10T17:43:10.000Z",
-          "wordCount": 1801,
-          "title": "Incident Report: CVE-2024-YIKES",
-          "imageUrl": "https://nesbitt.io/images/boxes.png"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=48085821",
-          "author": "cylo",
-          "description": "Article URL: https://unix.foo/posts/local-ai-needs-to-be-norm/\nComments URL: https://news.ycombinator.com/item?id=48085821\nPoints: 689\n# Comments: 329",
-          "link": "https://unix.foo/posts/local-ai-needs-to-be-norm/",
-          "publishedOn": "2026-05-10T17:19:28.000Z",
-          "wordCount": 1167,
-          "title": "Local AI needs to be the norm",
-          "imageUrl": null
         }
       ]
     },
@@ -2320,16 +2340,6 @@
           "publishedOn": "2026-05-12T12:14:35.000Z",
           "wordCount": 2108,
           "title": "Coca-Cola’s GENIUS Marketing Strategy",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=mG2xWAaqsRQ",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=mG2xWAaqsRQ",
-          "publishedOn": "2026-05-10T15:27:38.000Z",
-          "wordCount": null,
-          "title": "India's THORIUM SECRET: How We SOLVED a Nuclear Problem NOBODY Could Crack for 70 YEARS | Case Study",
           "imageUrl": null
         }
       ]
