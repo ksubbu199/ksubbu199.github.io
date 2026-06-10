@@ -2,10 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-06-10T05:17:48.073Z</updated>
+    <updated>2026-06-10T09:59:16.851Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[German ruling declares Google liable for false answers in AI Overviews]]></title>
+        <id>https://news.ycombinator.com/item?id=48470248</id>
+        <link href="https://the-decoder.com/landmark-german-ruling-declares-googles-ai-overviews-are-googles-own-words-and-makes-it-liable-for-false-answers/"/>
+        <updated>2026-06-10T01:44:13.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://the-decoder.com/landmark-german-ruling-declares-googles-ai-overviews-are-googles-own-words-and-makes-it-liable-for-false-answers/
+Comments URL: https://news.ycombinator.com/item?id=48470248
+Points: 541
+# Comments: 311]]></summary>
+        <author>
+            <name>ahlCVA</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[macOS Container Machines]]></title>
+        <id>https://news.ycombinator.com/item?id=48469658</id>
+        <link href="https://github.com/apple/container/blob/main/docs/container-machine.md"/>
+        <updated>2026-06-10T00:29:01.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://github.com/apple/container/blob/main/docs/container-machine.md
+Comments URL: https://news.ycombinator.com/item?id=48469658
+Points: 756
+# Comments: 280]]></summary>
+        <author>
+            <name>timsneath</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[If Claude Fable stops helping you, you'll never know]]></title>
         <id>https://news.ycombinator.com/item?id=48467896</id>
@@ -2978,45 +3004,6 @@ Points: 509
 # Comments: 165]]></summary>
         <author>
             <name>tokenburner</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Postmortem: TanStack npm supply-chain compromise]]></title>
-        <id>https://news.ycombinator.com/item?id=48100706</id>
-        <link href="https://tanstack.com/blog/npm-supply-chain-compromise-postmortem"/>
-        <updated>2026-05-11T21:08:25.000Z</updated>
-        <summary type="html"><![CDATA[https://github.com/TanStack/router/issues/7383
-Comments URL: https://news.ycombinator.com/item?id=48100706
-Points: 601
-# Comments: 224]]></summary>
-        <author>
-            <name>varunsharma07</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GitLab announces workforce reduction and end of their CREDIT values]]></title>
-        <id>https://news.ycombinator.com/item?id=48100500</id>
-        <link href="https://about.gitlab.com/blog/gitlab-act-2/"/>
-        <updated>2026-05-11T20:51:57.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://about.gitlab.com/blog/gitlab-act-2/
-Comments URL: https://news.ycombinator.com/item?id=48100500
-Points: 511
-# Comments: 497]]></summary>
-        <author>
-            <name>AnonGitLabEmpl</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[If AI writes your code, why use Python?]]></title>
-        <id>https://news.ycombinator.com/item?id=48100433</id>
-        <link href="https://medium.com/@NMitchem/if-ai-writes-your-code-why-use-python-bf8c4ba1a055"/>
-        <updated>2026-05-11T20:45:55.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://medium.com/@NMitchem/if-ai-writes-your-code-why-use-python-bf8c4ba1a055
-Comments URL: https://news.ycombinator.com/item?id=48100433
-Points: 562
-# Comments: 599]]></summary>
-        <author>
-            <name>indigodaddy</name>
         </author>
     </entry>
 </feed>
