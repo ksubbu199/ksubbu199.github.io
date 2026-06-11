@@ -1784,26 +1784,6 @@
           "wordCount": 2175,
           "title": "I Moved My Digital Stack to Europe",
           "imageUrl": "https://monokai.com/_app/immutable/assets/ybUIHW7NXm96qqZi.jpg"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=48115127",
-          "author": "Murfalo",
-          "description": "Article URL: https://github.com/FULU-Foundation/OrcaSlicer-bambulab\nComments URL: https://news.ycombinator.com/item?id=48115127\nPoints: 586\n# Comments: 256",
-          "link": "https://github.com/FULU-Foundation/OrcaSlicer-bambulab",
-          "publishedOn": "2026-05-12T21:55:21.000Z",
-          "wordCount": 1449,
-          "title": "Restore full BambuNetwork support for Bambu Lab printers",
-          "imageUrl": "https://opengraph.githubassets.com/32e80ef870453a501c65e6b661acdb40811e2feb86df63aa0d3d4be029293fed/FULU-Foundation/OrcaSlicer-bambulab"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=48111896",
-          "author": "HenryNdubuaku",
-          "description": "Hey HN, Henry here from Cactus. We open-sourced Needle, a 26M parameter function-calling (tool use) model. It runs at 6000 tok/s prefill and 1200 tok/s decode on consumer devices.\nWe were always frustrated by the little effort made towards building agentic models that run on budget phones, so we conducted investigations that led to an observation: agentic experiences are built upon tool calling, and massive models are overkill for it. Tool calling is fundamentally retrieval-and-assembly (match query to tool name, extract argument values, emit JSON), not reasoning. Cross-attention is the right primitive for this, and FFN parameters are wasted at this scale.\nSimple Attention Networks: the entire model is just attention and gating, no MLPs anywhere. Needle is an experimental run for single-sh…",
-          "link": "https://github.com/cactus-compute/needle",
-          "publishedOn": "2026-05-12T18:03:11.000Z",
-          "wordCount": 2299,
-          "title": "Show HN: Needle: We Distilled Gemini Tool Calling into a 26M Model",
-          "imageUrl": "https://opengraph.githubassets.com/9d12d2a1165a74d5c4993bfcced7e3daeeeca5960f46a8cb79a5dbed80dc3a74/cactus-compute/needle"
         }
       ]
     },
@@ -2290,26 +2270,6 @@
           "publishedOn": "2026-05-13T14:58:18.000Z",
           "wordCount": 2079,
           "title": "Behind the scenes of something big!!! Announcement on May 15th",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/shorts/43VtdaQfTEY",
-          "author": null,
-          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-          "link": "https://www.youtube.com/shorts/43VtdaQfTEY",
-          "publishedOn": "2026-05-12T15:19:10.000Z",
-          "wordCount": 2414,
-          "title": "Narendra Modi: The Greatest Prime Minister?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/shorts/nFhUVo-kmGY",
-          "author": null,
-          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-          "link": "https://www.youtube.com/shorts/nFhUVo-kmGY",
-          "publishedOn": "2026-05-12T12:14:35.000Z",
-          "wordCount": 2108,
-          "title": "Coca-Cola’s GENIUS Marketing Strategy",
           "imageUrl": null
         }
       ]
