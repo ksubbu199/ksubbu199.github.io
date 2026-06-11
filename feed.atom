@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-06-11T18:12:52.326Z</updated>
+    <updated>2026-06-11T21:20:08.620Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -24,6 +24,20 @@
         <summary type="html"><![CDATA[Feedback about the redesigned IDE is overwhelmingly negative due to bugs, poor UX & model support, and eating through Gemini token quotas. Also: a clue that Antigravity’s own devs use other tools for their work?]]></summary>
         <author>
             <name>Gergely Orosz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Homebrew 6.0.0]]></title>
+        <id>https://news.ycombinator.com/item?id=48490024</id>
+        <link href="https://brew.sh/2026/06/11/homebrew-6.0.0/"/>
+        <updated>2026-06-11T13:24:29.000Z</updated>
+        <summary type="html"><![CDATA[Today, I’m proud to announce Homebrew 6.0.0. The most significant changes since 5.1.0 are a new tap trust security mechanism, the new faster, smaller, default internal Homebrew JSON API, sandboxing on Linux, better defaults informed by our user survey, many brew bundle improvements, improved performance and initial support for macOS 27 (Golden Gate).
+Happy to discuss any questions here!
+Comments URL: https://news.ycombinator.com/item?id=48490024
+Points: 712
+# Comments: 169]]></summary>
+        <author>
+            <name>mikemcquaid</name>
         </author>
     </entry>
     <entry>
