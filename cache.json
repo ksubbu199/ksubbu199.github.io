@@ -16,6 +16,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://news.ycombinator.com/item?id=48484584",
+          "author": "tanelpoder",
+          "description": "Article URL: https://lwn.net/SubscriberLink/1077035/c7e7c14fbd60fae9/\nComments URL: https://news.ycombinator.com/item?id=48484584\nPoints: 529\n# Comments: 239",
+          "link": "https://lwn.net/SubscriberLink/1077035/c7e7c14fbd60fae9/",
+          "publishedOn": "2026-06-11T00:10:08.000Z",
+          "wordCount": 4229,
+          "title": "AI agent runs amok in Fedora and elsewhere",
+          "imageUrl": null
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=48480978",
           "author": "helterskelter",
           "description": "Article URL: https://github.com/philipl/pifs\nComments URL: https://news.ycombinator.com/item?id=48480978\nPoints: 632\n# Comments: 145",
@@ -2025,6 +2035,26 @@
       "feedUrl": "https://blog.pragmaticengineer.com/rss/",
       "siteUrl": "https://blog.pragmaticengineer.com/",
       "articles": [
+        {
+          "id": "6a2ae21f4eaa560001de7fde",
+          "author": "Gergely Orosz",
+          "description": "Hi, this is Gergely with a bonus, free issue of the Pragmatic Engineer Newsletter. In every issue, I cover Big Tech and startups through the lens of senior engineers and engineering leaders. Today, we cover one out of four topics from The Pulse issue from two weeks ago. Full subscribers",
+          "link": "https://blog.pragmaticengineer.com/the-pulse-a-trend-of-trying-to-cut-back-on-ai-spend-within-eng-departments/",
+          "publishedOn": "2026-06-11T16:31:42.000Z",
+          "wordCount": 1859,
+          "title": "The Pulse: a trend of trying to cut back on AI spend within eng departments?",
+          "imageUrl": null
+        },
+        {
+          "id": "6a2ae0124eaa560001de7f72",
+          "author": "Gergely Orosz",
+          "description": "Feedback about the redesigned IDE is overwhelmingly negative due to bugs, poor UX & model support, and eating through Gemini token quotas. Also: a clue that Antigravity’s own devs use other tools for their work?",
+          "link": "https://blog.pragmaticengineer.com/the-pulse-antigravity-2-0-takes-ide-out-of-its-new-ide/",
+          "publishedOn": "2026-06-11T16:22:16.000Z",
+          "wordCount": 2014,
+          "title": "The Pulse: Antigravity 2.0 takes ‘IDE’ out of its new IDE",
+          "imageUrl": null
+        },
         {
           "id": "6a0f3a9025c8da0001c931d1",
           "author": "Gergely Orosz",

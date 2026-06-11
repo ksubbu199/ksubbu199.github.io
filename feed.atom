@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-06-11T14:35:33.286Z</updated>
+    <updated>2026-06-11T18:12:52.326Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The Pulse: a trend of trying to cut back on AI spend within eng departments?]]></title>
+        <id>6a2ae21f4eaa560001de7fde</id>
+        <link href="https://blog.pragmaticengineer.com/the-pulse-a-trend-of-trying-to-cut-back-on-ai-spend-within-eng-departments/"/>
+        <updated>2026-06-11T16:31:42.000Z</updated>
+        <summary type="html"><![CDATA[Hi, this is Gergely with a bonus, free issue of the Pragmatic Engineer Newsletter. In every issue, I cover Big Tech and startups through the lens of senior engineers and engineering leaders. Today, we cover one out of four topics from The Pulse issue from two weeks ago. Full subscribers]]></summary>
+        <author>
+            <name>Gergely Orosz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Pulse: Antigravity 2.0 takes ‘IDE’ out of its new IDE]]></title>
+        <id>6a2ae0124eaa560001de7f72</id>
+        <link href="https://blog.pragmaticengineer.com/the-pulse-antigravity-2-0-takes-ide-out-of-its-new-ide/"/>
+        <updated>2026-06-11T16:22:16.000Z</updated>
+        <summary type="html"><![CDATA[Feedback about the redesigned IDE is overwhelmingly negative due to bugs, poor UX & model support, and eating through Gemini token quotas. Also: a clue that Antigravity’s own devs use other tools for their work?]]></summary>
+        <author>
+            <name>Gergely Orosz</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Pokémon Go Scans Trained the Navigation Tech for Military Drones]]></title>
         <id>https://news.ycombinator.com/item?id=48487029</id>
@@ -17,6 +37,19 @@ Points: 507
 # Comments: 228]]></summary>
         <author>
             <name>vrganj</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI agent runs amok in Fedora and elsewhere]]></title>
+        <id>https://news.ycombinator.com/item?id=48484584</id>
+        <link href="https://lwn.net/SubscriberLink/1077035/c7e7c14fbd60fae9/"/>
+        <updated>2026-06-11T00:10:08.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://lwn.net/SubscriberLink/1077035/c7e7c14fbd60fae9/
+Comments URL: https://news.ycombinator.com/item?id=48484584
+Points: 529
+# Comments: 239]]></summary>
+        <author>
+            <name>tanelpoder</name>
         </author>
     </entry>
     <entry>
