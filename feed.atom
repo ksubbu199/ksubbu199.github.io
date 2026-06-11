@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-06-11T00:15:14.541Z</updated>
+    <updated>2026-06-11T05:47:43.107Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[πFS]]></title>
+        <id>https://news.ycombinator.com/item?id=48480978</id>
+        <link href="https://github.com/philipl/pifs"/>
+        <updated>2026-06-10T18:54:54.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://github.com/philipl/pifs
+Comments URL: https://news.ycombinator.com/item?id=48480978
+Points: 632
+# Comments: 145]]></summary>
+        <author>
+            <name>helterskelter</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How did Switzerland become Rich with Nothing? (With no oil & no gold) Economic Case Study]]></title>
         <id>https://www.youtube.com/watch?v=C_OZ-jpW8hA</id>
@@ -13,6 +26,26 @@
         <updated>2026-06-10T16:50:19.000Z</updated>
         <author>
             <name>Think School</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I'm Eric Ries, author of "The Lean Startup" and new book "Incorruptible" – AMA]]></title>
+        <id>https://news.ycombinator.com/item?id=48477135</id>
+        <link href="https://news.ycombinator.com/item?id=48477135"/>
+        <updated>2026-06-10T14:47:52.000Z</updated>
+        <summary type="html"><![CDATA[Hey gang, you may remember me from such books as _The Lean Startup_ and _The Startup Way_.
+It's been fifteen years since I wrote The Lean Startup, and in that time I've seen some things. In both big companies and tiny startups, NGOs and governments, in almost every industry you can name.
+I've helped a lot of people create a lot of amazing companies, but I've also seen so many ways this can go wrong. There's a darkness in our industry that we often don't talk about.
+I kept watching good companies drift away from the missions they were founded on. Not because anyone woke up one day and decided to be evil, but because the structure they were built on slowly pulled them there. I call that pull "financial gravity."
+We've all experienced watching a company we love or admire be warped and broken beyond recognition; until it's a husk of its former self, or worse. I wanted to understand why. And I wanted to know what all of us can do to stop that from happening.
+My new book _Incorruptible_ is my attempt to explain the invisible forces that shape organizations, and how a handful of companies (like Costco, Patagonia, and Novo Nordisk) have successfully been structured to resist gravity and thrive for decades -- or even centuries.
+Along the way, I founded the Long-Term Stock Exchange, co-founded an AI R&D lab called Answer.AI with Jeremy Howard, and helped a number of notable companies with their governance (yes, including Anthropic).
+I won't pretend I have this all figured out, but I've probably spent more time than is healthy on the "why do good companies go bad" question. Ask me anything!
+Comments URL: https://news.ycombinator.com/item?id=48477135
+Points: 594
+# Comments: 451]]></summary>
+        <author>
+            <name>eries</name>
         </author>
     </entry>
     <entry>
@@ -2890,30 +2923,6 @@ Simple Attention Networks: the entire model is just attention and gating, no MLP
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Googlebook]]></title>
-        <id>https://news.ycombinator.com/item?id=48111545</id>
-        <link href="https://googlebook.google/"/>
-        <updated>2026-05-12T17:37:36.000Z</updated>
-        <summary type="html"><![CDATA[https://www.reddit.com/r/Android/comments/1tb8xls/introducin...
-Comments URL: https://news.ycombinator.com/item?id=48111545
-Points: 720
-# Comments: 1201]]></summary>
-        <author>
-            <name>tambourine_man</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TechPays has been acquired by Levels.fyi]]></title>
-        <id>6a0348f9c21cab000134339f</id>
-        <link href="https://blog.pragmaticengineer.com/techpays-has-been-acquired-levels-fyi/"/>
-        <updated>2026-05-12T16:06:08.000Z</updated>
-        <summary type="html"><![CDATA[tl;dr: TechPays is joining Levels.fyi: so the leading tech salary site in Europe gets the love and care it deserves. Thanks to Zsombor for building this project with me for so many years.
-Pay transparency has always been an issue in tech, especially in Europe. For a while,]]></summary>
-        <author>
-            <name>Gergely Orosz</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Narendra Modi: The Greatest Prime Minister?]]></title>
         <id>https://www.youtube.com/shorts/43VtdaQfTEY</id>
         <link href="https://www.youtube.com/shorts/43VtdaQfTEY"/>
@@ -2921,62 +2930,6 @@ Pay transparency has always been an issue in tech, especially in Europe. For a w
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>Think School</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why senior developers fail to communicate their expertise]]></title>
-        <id>https://news.ycombinator.com/item?id=48109460</id>
-        <link href="https://www.nair.sh/guides-and-opinions/communicating-your-expertise/why-senior-developers-fail-to-communicate-their-expertise"/>
-        <updated>2026-05-12T15:08:40.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.nair.sh/guides-and-opinions/communicating-your-expertise/why-senior-developers-fail-to-communicate-their-expertise
-Comments URL: https://news.ycombinator.com/item?id=48109460
-Points: 507
-# Comments: 213]]></summary>
-        <author>
-            <name>nilirl</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bambu Lab is abusing the open source social contract]]></title>
-        <id>https://news.ycombinator.com/item?id=48109224</id>
-        <link href="https://www.jeffgeerling.com/blog/2026/bambu-lab-abusing-open-source-social-contract/"/>
-        <updated>2026-05-12T14:54:41.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.jeffgeerling.com/blog/2026/bambu-lab-abusing-open-source-social-contract/
-Comments URL: https://news.ycombinator.com/item?id=48109224
-Points: 831
-# Comments: 295]]></summary>
-        <author>
-            <name>rubenbe</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is Code]]></title>
-        <id>https://martinfowler.com/articles/what-is-code.html</id>
-        <link href="https://martinfowler.com/articles/what-is-code.html"/>
-        <updated>2026-05-12T13:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Increasingly humans delegate writing code to agents. Will there even be
-      source code in the future? To wrestle with this question, we have to
-      understand what code is. Unmesh Joshi sees code as having
-      two distinct but intertwined purposes: instructions to a machine and a
-      conceptual model of the problem domain. He explores why it's vital
-      to build a vocabulary to talk to the machine, how programming languages
-      are thinking tools, and how this affects our future as we work with LLMs.
-more…]]></summary>
-        <author>
-            <name>Martin Fowler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rendering the Sky, Sunsets, and Planets]]></title>
-        <id>https://news.ycombinator.com/item?id=48107997</id>
-        <link href="https://blog.maximeheckel.com/posts/on-rendering-the-sky-sunsets-and-planets/"/>
-        <updated>2026-05-12T13:26:46.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://blog.maximeheckel.com/posts/on-rendering-the-sky-sunsets-and-planets/
-Comments URL: https://news.ycombinator.com/item?id=48107997
-Points: 512
-# Comments: 40]]></summary>
-        <author>
-            <name>ibobev</name>
         </author>
     </entry>
     <entry>

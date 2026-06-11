@@ -6,6 +6,26 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=48480978",
+          "author": "helterskelter",
+          "description": "Article URL: https://github.com/philipl/pifs\nComments URL: https://news.ycombinator.com/item?id=48480978\nPoints: 632\n# Comments: 145",
+          "link": "https://github.com/philipl/pifs",
+          "publishedOn": "2026-06-10T18:54:54.000Z",
+          "wordCount": 3050,
+          "title": "πFS",
+          "imageUrl": "https://opengraph.githubassets.com/06051853c6ac2903b22126e5b3a7503ef3463eeadf27501d3f3eb83a498885bb/philipl/pifs"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=48477135",
+          "author": "eries",
+          "description": "Hey gang, you may remember me from such books as _The Lean Startup_ and _The Startup Way_.\nIt's been fifteen years since I wrote The Lean Startup, and in that time I've seen some things. In both big companies and tiny startups, NGOs and governments, in almost every industry you can name.\nI've helped a lot of people create a lot of amazing companies, but I've also seen so many ways this can go wrong. There's a darkness in our industry that we often don't talk about.\nI kept watching good companies drift away from the missions they were founded on. Not because anyone woke up one day and decided to be evil, but because the structure they were built on slowly pulled them there. I call that pull \"financial gravity.\"\nWe've all experienced watching a company we love or admire be warped and broken beyond recognition; until it's a husk of its former self, or worse. I wanted to understand why. And I wanted to know what all of us can do to stop that from happening.\nMy new book _Incorruptible_ is my attempt to explain the invisible forces that shape organizations, and how a handful of companies (like Costco, Patagonia, and Novo Nordisk) have successfully been structured to resist gravity and thrive for decades -- or even centuries.\nAlong the way, I founded the Long-Term Stock Exchange, co-founded an AI R&D lab called Answer.AI with Jeremy Howard, and helped a number of notable companies with their governance (yes, including Anthropic).\nI won't pretend I have this all figured out, but I've probably spent more time than is healthy on the \"why do good companies go bad\" question. Ask me anything!\nComments URL: https://news.ycombinator.com/item?id=48477135\nPoints: 594\n# Comments: 451",
+          "link": "https://news.ycombinator.com/item?id=48477135",
+          "publishedOn": "2026-06-10T14:47:52.000Z",
+          "wordCount": 33962,
+          "title": "I'm Eric Ries, author of \"The Lean Startup\" and new book \"Incorruptible\" – AMA",
+          "imageUrl": null
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=48475483",
           "author": "edent",
           "description": "Article URL: https://mohkohn.co.uk/writing/html-first/\nComments URL: https://news.ycombinator.com/item?id=48475483\nPoints: 588\n# Comments: 262",
@@ -1784,46 +1804,6 @@
           "wordCount": 2299,
           "title": "Show HN: Needle: We Distilled Gemini Tool Calling into a 26M Model",
           "imageUrl": "https://opengraph.githubassets.com/9d12d2a1165a74d5c4993bfcced7e3daeeeca5960f46a8cb79a5dbed80dc3a74/cactus-compute/needle"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=48111545",
-          "author": "tambourine_man",
-          "description": "https://www.reddit.com/r/Android/comments/1tb8xls/introducin...\nComments URL: https://news.ycombinator.com/item?id=48111545\nPoints: 720\n# Comments: 1201",
-          "link": "https://googlebook.google/",
-          "publishedOn": "2026-05-12T17:37:36.000Z",
-          "wordCount": 411,
-          "title": "Googlebook",
-          "imageUrl": "https://www.gstatic.com/marketing-cms/assets/images/7d/5c/044d6f064de1aa894c1881f721e1/social-share.webp=n-w1440-h756-fcrop64=1,00000959fffff63f-rw"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=48109460",
-          "author": "nilirl",
-          "description": "Article URL: https://www.nair.sh/guides-and-opinions/communicating-your-expertise/why-senior-developers-fail-to-communicate-their-expertise\nComments URL: https://news.ycombinator.com/item?id=48109460\nPoints: 507\n# Comments: 213",
-          "link": "https://www.nair.sh/guides-and-opinions/communicating-your-expertise/why-senior-developers-fail-to-communicate-their-expertise",
-          "publishedOn": "2026-05-12T15:08:40.000Z",
-          "wordCount": 4494,
-          "title": "Why senior developers fail to communicate their expertise",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=48109224",
-          "author": "rubenbe",
-          "description": "Article URL: https://www.jeffgeerling.com/blog/2026/bambu-lab-abusing-open-source-social-contract/\nComments URL: https://news.ycombinator.com/item?id=48109224\nPoints: 831\n# Comments: 295",
-          "link": "https://www.jeffgeerling.com/blog/2026/bambu-lab-abusing-open-source-social-contract/",
-          "publishedOn": "2026-05-12T14:54:41.000Z",
-          "wordCount": 1037,
-          "title": "Bambu Lab is abusing the open source social contract",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=48107997",
-          "author": "ibobev",
-          "description": "Article URL: https://blog.maximeheckel.com/posts/on-rendering-the-sky-sunsets-and-planets/\nComments URL: https://news.ycombinator.com/item?id=48107997\nPoints: 512\n# Comments: 40",
-          "link": "https://blog.maximeheckel.com/posts/on-rendering-the-sky-sunsets-and-planets/",
-          "publishedOn": "2026-05-12T13:26:46.000Z",
-          "wordCount": 22543,
-          "title": "Rendering the Sky, Sunsets, and Planets",
-          "imageUrl": "https://blog.maximeheckel.com/static/og/da33d3c51a51e65e0a533ff85c68891f.png?v1"
         }
       ]
     },
@@ -2011,16 +1991,6 @@
           "wordCount": 559,
           "title": "Bliki: Interrogatory LLM",
           "imageUrl": "https://martinfowler.com/logo-sq.png"
-        },
-        {
-          "id": "https://martinfowler.com/articles/what-is-code.html",
-          "author": null,
-          "description": "Increasingly humans delegate writing code to agents. Will there even be\n      source code in the future? To wrestle with this question, we have to\n      understand what code is. Unmesh Joshi sees code as having\n      two distinct but intertwined purposes: instructions to a machine and a\n      conceptual model of the problem domain. He explores why it's vital\n      to build a vocabulary to talk to the machine, how programming languages\n      are thinking tools, and how this affects our future as we work with LLMs.\nmore…",
-          "link": "https://martinfowler.com/articles/what-is-code.html",
-          "publishedOn": "2026-05-12T13:30:00.000Z",
-          "wordCount": 2571,
-          "title": "What is Code",
-          "imageUrl": "https://martinfowler.com/logo-sq.png"
         }
       ]
     },
@@ -2063,16 +2033,6 @@
           "publishedOn": "2026-05-14T16:10:59.000Z",
           "wordCount": 1858,
           "title": "The Pulse: Did capacity shortages turn Anthropic hostile to devs?",
-          "imageUrl": null
-        },
-        {
-          "id": "6a0348f9c21cab000134339f",
-          "author": "Gergely Orosz",
-          "description": "tl;dr: TechPays is joining Levels.fyi: so the leading tech salary site in Europe gets the love and care it deserves. Thanks to Zsombor for building this project with me for so many years.\nPay transparency has always been an issue in tech, especially in Europe. For a while,",
-          "link": "https://blog.pragmaticengineer.com/techpays-has-been-acquired-levels-fyi/",
-          "publishedOn": "2026-05-12T16:06:08.000Z",
-          "wordCount": 1412,
-          "title": "TechPays has been acquired by Levels.fyi",
           "imageUrl": null
         }
       ]
