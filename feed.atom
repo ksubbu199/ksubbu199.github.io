@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-06-10T22:02:49.691Z</updated>
+    <updated>2026-06-11T00:15:14.541Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -26,6 +26,19 @@ Points: 588
 # Comments: 262]]></summary>
         <author>
             <name>edent</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mercedes‑Benz starts large‑scale production of electric axial flux motor]]></title>
+        <id>https://news.ycombinator.com/item?id=48472877</id>
+        <link href="https://media.mercedes-benz.com/en/article/bebac2af-acdc-465a-9538-adb0bf3d8ccf"/>
+        <updated>2026-06-10T07:44:49.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://media.mercedes-benz.com/en/article/bebac2af-acdc-465a-9538-adb0bf3d8ccf
+Comments URL: https://news.ycombinator.com/item?id=48472877
+Points: 504
+# Comments: 319]]></summary>
+        <author>
+            <name>raffael_de</name>
         </author>
     </entry>
     <entry>
@@ -2974,19 +2987,6 @@ Points: 512
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>Think School</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EU to crack down on TikTok, Instagram's 'addictive design' targeting kids]]></title>
-        <id>https://news.ycombinator.com/item?id=48106534</id>
-        <link href="https://www.cnbc.com/2026/05/12/tiktok-instagram-social-media-addictive-eu-crack-down.html"/>
-        <updated>2026-05-12T11:00:07.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.cnbc.com/2026/05/12/tiktok-instagram-social-media-addictive-eu-crack-down.html
-Comments URL: https://news.ycombinator.com/item?id=48106534
-Points: 501
-# Comments: 448]]></summary>
-        <author>
-            <name>thm</name>
         </author>
     </entry>
 </feed>
