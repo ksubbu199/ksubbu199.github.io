@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-06-13T10:28:57.964Z</updated>
+    <updated>2026-06-13T12:25:11.365Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -30,6 +30,19 @@ Points: 1203
 # Comments: 769]]></summary>
         <author>
             <name>Dylan1312</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Electric motors with no rare earths]]></title>
+        <id>https://news.ycombinator.com/item?id=48510010</id>
+        <link href="https://www.renaultgroup.com/en/magazine/energy-and-powertrains/all-about-electric-motors-with-no-rare-earths/"/>
+        <updated>2026-06-12T22:08:03.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.renaultgroup.com/en/magazine/energy-and-powertrains/all-about-electric-motors-with-no-rare-earths/
+Comments URL: https://news.ycombinator.com/item?id=48510010
+Points: 526
+# Comments: 151]]></summary>
+        <author>
+            <name>bestouff</name>
         </author>
     </entry>
     <entry>
@@ -2906,41 +2919,6 @@ Points: 523
 # Comments: 321]]></summary>
         <author>
             <name>RGBCube</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Moving away from Tailwind, and learning to structure my CSS]]></title>
-        <id>https://jvns.ca/blog/2026/05/15/moving-away-from-tailwind--and-learning-to-structure-my-css-/</id>
-        <link href="https://jvns.ca/blog/2026/05/15/moving-away-from-tailwind--and-learning-to-structure-my-css-/"/>
-        <updated>2026-05-15T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Hello! 8 years ago, I wrote excitedly about discovering Tailwind.
-At that time I really had no idea how to structure my CSS code and given the
-choice between a pile of complete chaos and Tailwind, I was really happy to choose
-Tailwind. It helped me make a lot of tiny sites!
-I spent the last week or so migrating a couple of sites away from Tailwind and
-towards more semantic HTML + vanilla CSS, and it was SO fun and SO interesting,
-so here are some things I learned!
-As usual I’m not a full-time frontend developer and so all of my CSS learning
-has happened in fits and starts over many years.
-it turns out Tailwind taught me a lot
-When I started thinking about structuring CSS, I was intimidated at first: I’m
-not very good at structuring my CSS! But then I started reading blog posts
-talking abou…]]></summary>
-        <author>
-            <name>Julia Evans</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[UK government replaces Palantir software with internally-built refugee system]]></title>
-        <id>https://news.ycombinator.com/item?id=48142251</id>
-        <link href="https://www.bbc.com/news/articles/c2l2j1lxdk5o"/>
-        <updated>2026-05-14T22:44:16.000Z</updated>
-        <summary type="html"><![CDATA[https://shkspr.mobi/blog/2026/05/uk-government-kicks-out-pal...
-Comments URL: https://news.ycombinator.com/item?id=48142251
-Points: 500
-# Comments: 196]]></summary>
-        <author>
-            <name>cdrnsf</name>
         </author>
     </entry>
 </feed>
