@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-06-13T16:24:05.918Z</updated>
+    <updated>2026-06-13T18:07:59.604Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -179,6 +179,19 @@ Points: 504
         <summary type="html"><![CDATA[Feedback about the redesigned IDE is overwhelmingly negative due to bugs, poor UX & model support, and eating through Gemini token quotas. Also: a clue that Antigravity’s own devs use other tools for their work?]]></summary>
         <author>
             <name>Gergely Orosz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Solar generates more energy in US than coal for first time]]></title>
+        <id>https://news.ycombinator.com/item?id=48492306</id>
+        <link href="https://www.theguardian.com/us-news/2026/jun/11/solar-energy-us-coal"/>
+        <updated>2026-06-11T16:10:05.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.theguardian.com/us-news/2026/jun/11/solar-energy-us-coal
+Comments URL: https://news.ycombinator.com/item?id=48492306
+Points: 500
+# Comments: 250]]></summary>
+        <author>
+            <name>neilfrndes</name>
         </author>
     </entry>
     <entry>
