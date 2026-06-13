@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=48511072",
+          "author": "Dylan1312",
+          "description": "Article URL: https://www.anthropic.com/news/fable-mythos-access\nComments URL: https://news.ycombinator.com/item?id=48511072\nPoints: 1203\n# Comments: 769",
+          "link": "https://www.anthropic.com/news/fable-mythos-access",
+          "publishedOn": "2026-06-13T00:51:30.000Z",
+          "wordCount": 2304,
+          "title": "US Government directive to suspend access to Fable 5 and Mythos 5",
+          "imageUrl": "https://cdn.sanity.io/images/4zrzovbb/website/50159fff55088f12070cc8a56eb51ff61006b631-2400x1260.png"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=48505231",
           "author": "gmays",
           "description": "Article URL: https://innovativegenomics.org/news/crispr-technique-selectively-shreds-cancer-cells/\nComments URL: https://news.ycombinator.com/item?id=48505231\nPoints: 539\n# Comments: 145",
@@ -54,6 +64,16 @@
           "wordCount": 454,
           "title": "If you are asking for human attention, demonstrate human effort",
           "imageUrl": "https://tombedor.dev/img/icon-1024.png"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=48496539",
+          "author": "matthewbarras",
+          "description": "Article URL: https://fablepool.com\nComments URL: https://news.ycombinator.com/item?id=48496539\nPoints: 504\n# Comments: 270",
+          "link": "https://fablepool.com/",
+          "publishedOn": "2026-06-11T21:17:30.000Z",
+          "wordCount": 1534,
+          "title": "Show HN: FablePool – pool money behind a prompt, and Fable builds it in public",
+          "imageUrl": null
         },
         {
           "id": "https://news.ycombinator.com/item?id=48490826",
@@ -1844,16 +1864,6 @@
           "wordCount": 16568,
           "title": "RTX 5090 and M4 MacBook Air: Can It Game?",
           "imageUrl": "https://scottjg.com/posts/2026-05-05-egpu-mac-gaming/macos-egpu.jpg"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=48136262",
-          "author": "dmayo",
-          "description": "Article URL: https://president.mit.edu/writing-speeches/video-transcript-message-president-kornbluth-about-funding-and-talent-pipeline\nComments URL: https://news.ycombinator.com/item?id=48136262\nPoints: 532\n# Comments: 570",
-          "link": "https://president.mit.edu/writing-speeches/video-transcript-message-president-kornbluth-about-funding-and-talent-pipeline",
-          "publishedOn": "2026-05-14T14:51:14.000Z",
-          "wordCount": 1217,
-          "title": "A message from President Kornbluth about funding and the talent pipeline",
-          "imageUrl": null
         }
       ]
     },
@@ -2030,16 +2040,6 @@
           "publishedOn": "2026-05-14T21:52:00.000Z",
           "wordCount": 2463,
           "title": "Fragments: May 14",
-          "imageUrl": "https://martinfowler.com/logo-sq.png"
-        },
-        {
-          "id": "https://martinfowler.com/bliki/InterrogatoryLLM.html",
-          "author": null,
-          "description": "When we need an LLM to perform a complex task, we often need to feed it a\n  lot of context. Coming up with a design for a new feature requires\n  descriptions of how we want the feature to appear to the user, guidelines on\n  how it should be implemented, information on external systems to consult, and\n  so on. All this can be several pages of markdown. The obvious way to do\n  this is for a human to write this context, but an alternative is to use an LLM to write\n  this context after interviewing a human.\nThe way I can do this is to prompt the LLM to interrogate me. It should ask me\n  all the questions it needs to create this appropriate context. I can feed much\n  of the information it needs, and tell it other sources it needs to consult if\n  it can't figure those out itself. Once it's done,…",
-          "link": "https://martinfowler.com/bliki/InterrogatoryLLM.html",
-          "publishedOn": "2026-05-14T15:04:00.000Z",
-          "wordCount": 559,
-          "title": "Bliki: Interrogatory LLM",
           "imageUrl": "https://martinfowler.com/logo-sq.png"
         }
       ]

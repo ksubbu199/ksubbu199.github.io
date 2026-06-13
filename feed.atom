@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-06-12T23:17:09.717Z</updated>
+    <updated>2026-06-13T03:42:35.901Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[US Government directive to suspend access to Fable 5 and Mythos 5]]></title>
+        <id>https://news.ycombinator.com/item?id=48511072</id>
+        <link href="https://www.anthropic.com/news/fable-mythos-access"/>
+        <updated>2026-06-13T00:51:30.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.anthropic.com/news/fable-mythos-access
+Comments URL: https://news.ycombinator.com/item?id=48511072
+Points: 1203
+# Comments: 769]]></summary>
+        <author>
+            <name>Dylan1312</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CRISPR tech selectively shreds cancer cells, including "undruggable" cancers]]></title>
         <id>https://news.ycombinator.com/item?id=48505231</id>
@@ -98,6 +111,19 @@ Points: 645
 # Comments: 204]]></summary>
         <author>
             <name>jjfoooo4</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: FablePool – pool money behind a prompt, and Fable builds it in public]]></title>
+        <id>https://news.ycombinator.com/item?id=48496539</id>
+        <link href="https://fablepool.com/"/>
+        <updated>2026-06-11T21:17:30.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://fablepool.com
+Comments URL: https://news.ycombinator.com/item?id=48496539
+Points: 504
+# Comments: 270]]></summary>
+        <author>
+            <name>matthewbarras</name>
         </author>
     </entry>
     <entry>
@@ -2973,39 +2999,6 @@ Points: 515
 # Comments: 139]]></summary>
         <author>
             <name>allenleee</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bliki: Interrogatory LLM]]></title>
-        <id>https://martinfowler.com/bliki/InterrogatoryLLM.html</id>
-        <link href="https://martinfowler.com/bliki/InterrogatoryLLM.html"/>
-        <updated>2026-05-14T15:04:00.000Z</updated>
-        <summary type="html"><![CDATA[When we need an LLM to perform a complex task, we often need to feed it a
-  lot of context. Coming up with a design for a new feature requires
-  descriptions of how we want the feature to appear to the user, guidelines on
-  how it should be implemented, information on external systems to consult, and
-  so on. All this can be several pages of markdown. The obvious way to do
-  this is for a human to write this context, but an alternative is to use an LLM to write
-  this context after interviewing a human.
-The way I can do this is to prompt the LLM to interrogate me. It should ask me
-  all the questions it needs to create this appropriate context. I can feed much
-  of the information it needs, and tell it other sources it needs to consult if
-  it can't figure those out itself. Once it's done,…]]></summary>
-        <author>
-            <name>Martin Fowler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A message from President Kornbluth about funding and the talent pipeline]]></title>
-        <id>https://news.ycombinator.com/item?id=48136262</id>
-        <link href="https://president.mit.edu/writing-speeches/video-transcript-message-president-kornbluth-about-funding-and-talent-pipeline"/>
-        <updated>2026-05-14T14:51:14.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://president.mit.edu/writing-speeches/video-transcript-message-president-kornbluth-about-funding-and-talent-pipeline
-Comments URL: https://news.ycombinator.com/item?id=48136262
-Points: 532
-# Comments: 570]]></summary>
-        <author>
-            <name>dmayo</name>
         </author>
     </entry>
 </feed>
