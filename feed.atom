@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-06-13T07:47:19.991Z</updated>
+    <updated>2026-06-13T10:28:57.964Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -2941,31 +2941,6 @@ Points: 500
 # Comments: 196]]></summary>
         <author>
             <name>cdrnsf</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fragments: May 14]]></title>
-        <id>https://martinfowler.com/fragments/2026-05-14.html</id>
-        <link href="https://martinfowler.com/fragments/2026-05-14.html"/>
-        <updated>2026-05-14T21:52:00.000Z</updated>
-        <summary type="html"><![CDATA[Last week I spent a day at a retreat that brought together several people working in software development to talk about the profession’s future with the rise of agentic programming. The event was help under the Chatham House Rule, so I can’t attribute the comments and stories I heard. (If anyone recognizes themselves, and would like attribution, let me know.) Here are a few tidbits that caught my notebook.
- ❄                ❄
-One group developed a behavioral clone of GNU Cobol compiler in Rust. The result is 70K lines of Rust and was built in 3 days. This is yet another sign of the ability of LLMs to do a good job of porting existing code to a new platform. Good regression tests are extremely valuable here (and I don’t know how good GNU Cobol’s are). There’s also the possibility of buildin…]]></summary>
-        <author>
-            <name>Martin Fowler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New arXiv policy: 1-year ban for hallucinated references]]></title>
-        <id>https://news.ycombinator.com/item?id=48140922</id>
-        <link href="https://twitter.com/tdietterich/status/2055000956144935055"/>
-        <updated>2026-05-14T20:39:12.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://twitter.com/tdietterich/status/2055000956144935055
-Comments URL: https://news.ycombinator.com/item?id=48140922
-Points: 504
-# Comments: 173]]></summary>
-        <author>
-            <name>gjuggler</name>
         </author>
     </entry>
 </feed>
