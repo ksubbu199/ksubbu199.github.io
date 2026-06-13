@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-06-13T03:42:35.901Z</updated>
+    <updated>2026-06-13T07:47:19.991Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Open source AI must win]]></title>
+        <id>https://news.ycombinator.com/item?id=48511908</id>
+        <link href="https://opensourceaimustwin.com/?share=v2"/>
+        <updated>2026-06-13T02:14:24.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://opensourceaimustwin.com/?share=v2
+Comments URL: https://news.ycombinator.com/item?id=48511908
+Points: 773
+# Comments: 238]]></summary>
+        <author>
+            <name>vednig</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[US Government directive to suspend access to Fable 5 and Mythos 5]]></title>
         <id>https://news.ycombinator.com/item?id=48511072</id>
@@ -171,6 +184,19 @@ Points: 712
 # Comments: 169]]></summary>
         <author>
             <name>mikemcquaid</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Anthropic apologizes for invisible Claude Fable guardrails]]></title>
+        <id>https://news.ycombinator.com/item?id=48489229</id>
+        <link href="https://www.theverge.com/ai-artificial-intelligence/948280/anthropic-claude-fable-invisible-distillation-guardrail"/>
+        <updated>2026-06-11T12:05:02.000Z</updated>
+        <summary type="html"><![CDATA[https://web.archive.org/web/20260611122253/https://www.theve..., https://archive.ph/y4V4k
+Comments URL: https://news.ycombinator.com/item?id=48489229
+Points: 502
+# Comments: 439]]></summary>
+        <author>
+            <name>rarisma</name>
         </author>
     </entry>
     <entry>
@@ -2940,65 +2966,6 @@ Points: 504
 # Comments: 173]]></summary>
         <author>
             <name>gjuggler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI is making me dumb]]></title>
-        <id>https://news.ycombinator.com/item?id=48139148</id>
-        <link href="https://jpain.io/god-damn-ai-is-making-me-dumb/"/>
-        <updated>2026-05-14T18:19:28.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://jpain.io/god-damn-ai-is-making-me-dumb/
-Comments URL: https://news.ycombinator.com/item?id=48139148
-Points: 507
-# Comments: 293]]></summary>
-        <author>
-            <name>Eighth</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Removing the modem and GPS from my 2024 RAV4 hybrid]]></title>
-        <id>https://news.ycombinator.com/item?id=48138136</id>
-        <link href="https://arkadiyt.com/2026/05/13/removing-the-modem-and-gps-from-my-rav4/"/>
-        <updated>2026-05-14T17:08:00.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://arkadiyt.com/2026/05/13/removing-the-modem-and-gps-from-my-rav4/
-Comments URL: https://news.ycombinator.com/item?id=48138136
-Points: 519
-# Comments: 314]]></summary>
-        <author>
-            <name>arkadiyt</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Pulse: Did capacity shortages turn Anthropic hostile to devs?]]></title>
-        <id>6a05f20bbfd90c000141d3d3</id>
-        <link href="https://blog.pragmaticengineer.com/the-pulse-did-capacity-shortages-turn-anthropic-hostile-to-devs/"/>
-        <updated>2026-05-14T16:10:59.000Z</updated>
-        <summary type="html"><![CDATA[For the past few weeks, Anthropic has continually upset devs with its “dumber” model, and by removing Claude Code access from some paid accounts. After securing lots of compute from SpaceX, could the reason have been to conceal capacity issues?]]></summary>
-        <author>
-            <name>Gergely Orosz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BIG ANNOUNCEMENT]]></title>
-        <id>https://www.youtube.com/shorts/GpdMjPvHtOQ</id>
-        <link href="https://www.youtube.com/shorts/GpdMjPvHtOQ"/>
-        <updated>2026-05-14T16:06:08.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Think School</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RTX 5090 and M4 MacBook Air: Can It Game?]]></title>
-        <id>https://news.ycombinator.com/item?id=48137145</id>
-        <link href="https://scottjg.com/posts/2026-05-05-egpu-mac-gaming/"/>
-        <updated>2026-05-14T15:47:31.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://scottjg.com/posts/2026-05-05-egpu-mac-gaming/
-Comments URL: https://news.ycombinator.com/item?id=48137145
-Points: 515
-# Comments: 139]]></summary>
-        <author>
-            <name>allenleee</name>
         </author>
     </entry>
 </feed>

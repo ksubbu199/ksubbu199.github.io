@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=48511908",
+          "author": "vednig",
+          "description": "Article URL: https://opensourceaimustwin.com/?share=v2\nComments URL: https://news.ycombinator.com/item?id=48511908\nPoints: 773\n# Comments: 238",
+          "link": "https://opensourceaimustwin.com/?share=v2",
+          "publishedOn": "2026-06-13T02:14:24.000Z",
+          "wordCount": 413,
+          "title": "Open source AI must win",
+          "imageUrl": "https://opensourceaimustwin.com/og-image.png"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=48511072",
           "author": "Dylan1312",
           "description": "Article URL: https://www.anthropic.com/news/fable-mythos-access\nComments URL: https://news.ycombinator.com/item?id=48511072\nPoints: 1203\n# Comments: 769",
@@ -94,6 +104,16 @@
           "wordCount": 2617,
           "title": "Show HN: Homebrew 6.0.0",
           "imageUrl": "https://brew.sh/assets/img/homebrew-social-card.png"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=48489229",
+          "author": "rarisma",
+          "description": "https://web.archive.org/web/20260611122253/https://www.theve..., https://archive.ph/y4V4k\nComments URL: https://news.ycombinator.com/item?id=48489229\nPoints: 502\n# Comments: 439",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/948280/anthropic-claude-fable-invisible-distillation-guardrail",
+          "publishedOn": "2026-06-11T12:05:02.000Z",
+          "wordCount": 4124,
+          "title": "Anthropic apologizes for invisible Claude Fable guardrails",
+          "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKB364_CLAUDE_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
         },
         {
           "id": "https://news.ycombinator.com/item?id=48487029",
@@ -1834,36 +1854,6 @@
           "wordCount": 985,
           "title": "New arXiv policy: 1-year ban for hallucinated references",
           "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=48139148",
-          "author": "Eighth",
-          "description": "Article URL: https://jpain.io/god-damn-ai-is-making-me-dumb/\nComments URL: https://news.ycombinator.com/item?id=48139148\nPoints: 507\n# Comments: 293",
-          "link": "https://jpain.io/god-damn-ai-is-making-me-dumb/",
-          "publishedOn": "2026-05-14T18:19:28.000Z",
-          "wordCount": 1240,
-          "title": "AI is making me dumb",
-          "imageUrl": "/static/og-image.png"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=48138136",
-          "author": "arkadiyt",
-          "description": "Article URL: https://arkadiyt.com/2026/05/13/removing-the-modem-and-gps-from-my-rav4/\nComments URL: https://news.ycombinator.com/item?id=48138136\nPoints: 519\n# Comments: 314",
-          "link": "https://arkadiyt.com/2026/05/13/removing-the-modem-and-gps-from-my-rav4/",
-          "publishedOn": "2026-05-14T17:08:00.000Z",
-          "wordCount": 1873,
-          "title": "Removing the modem and GPS from my 2024 RAV4 hybrid",
-          "imageUrl": "https://arkadiyt.com/images/rav4/rav4.png"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=48137145",
-          "author": "allenleee",
-          "description": "Article URL: https://scottjg.com/posts/2026-05-05-egpu-mac-gaming/\nComments URL: https://news.ycombinator.com/item?id=48137145\nPoints: 515\n# Comments: 139",
-          "link": "https://scottjg.com/posts/2026-05-05-egpu-mac-gaming/",
-          "publishedOn": "2026-05-14T15:47:31.000Z",
-          "wordCount": 16568,
-          "title": "RTX 5090 and M4 MacBook Air: Can It Game?",
-          "imageUrl": "https://scottjg.com/posts/2026-05-05-egpu-mac-gaming/macos-egpu.jpg"
         }
       ]
     },
@@ -2093,16 +2083,6 @@
           "publishedOn": "2026-05-20T08:31:08.000Z",
           "wordCount": 1525,
           "title": "Google Cloud deletes Australian trading fund’s infra",
-          "imageUrl": null
-        },
-        {
-          "id": "6a05f20bbfd90c000141d3d3",
-          "author": "Gergely Orosz",
-          "description": "For the past few weeks, Anthropic has continually upset devs with its “dumber” model, and by removing Claude Code access from some paid accounts. After securing lots of compute from SpaceX, could the reason have been to conceal capacity issues?",
-          "link": "https://blog.pragmaticengineer.com/the-pulse-did-capacity-shortages-turn-anthropic-hostile-to-devs/",
-          "publishedOn": "2026-05-14T16:10:59.000Z",
-          "wordCount": 1858,
-          "title": "The Pulse: Did capacity shortages turn Anthropic hostile to devs?",
           "imageUrl": null
         }
       ]
@@ -2360,16 +2340,6 @@
           "publishedOn": "2026-05-15T12:37:00.000Z",
           "wordCount": null,
           "title": "⁠BIG ANNOUNCEMENT!! INDIA'S FIRST Quick Commerce Accelerator",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/shorts/GpdMjPvHtOQ",
-          "author": null,
-          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-          "link": "https://www.youtube.com/shorts/GpdMjPvHtOQ",
-          "publishedOn": "2026-05-14T16:06:08.000Z",
-          "wordCount": 2100,
-          "title": "BIG ANNOUNCEMENT",
           "imageUrl": null
         }
       ]
