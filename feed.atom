@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-06-14T05:49:04.207Z</updated>
+    <updated>2026-06-14T09:34:38.681Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Hire High-EQ People]]></title>
+        <id>https://www.youtube.com/shorts/hX-eOLuqnxM</id>
+        <link href="https://www.youtube.com/shorts/hX-eOLuqnxM"/>
+        <updated>2026-06-14T07:27:54.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Think School</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Amazon CEO's talks with U.S. officials triggered crackdown on Anthropic models]]></title>
         <id>https://news.ycombinator.com/item?id=48519092</id>
@@ -17,6 +27,19 @@ Points: 617
 # Comments: 452]]></summary>
         <author>
             <name>ls612</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GLM 5.2 Is Out]]></title>
+        <id>https://news.ycombinator.com/item?id=48518684</id>
+        <link href="https://twitter.com/jietang/status/2065784751345287314"/>
+        <updated>2026-06-13T16:18:31.000Z</updated>
+        <summary type="html"><![CDATA[https://digg.com/tech/ii9xibgn
+Comments URL: https://news.ycombinator.com/item?id=48518684
+Points: 568
+# Comments: 307]]></summary>
+        <author>
+            <name>aloknnikhil</name>
         </author>
     </entry>
     <entry>
@@ -2908,33 +2931,6 @@ Points: 531
 Not “a little slow.” Not “some features degraded.” GitHub.com, the API, Git over HTTPS, Actions, Copilot - basically all of it was throwing errors.]]></summary>
         <author>
             <name>Boot.dev Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I believe there are entire companies right now under AI psychosis]]></title>
-        <id>https://news.ycombinator.com/item?id=48153379</id>
-        <link href="https://twitter.com/mitchellh/status/2055380239711457578"/>
-        <updated>2026-05-15T20:26:47.000Z</updated>
-        <summary type="html"><![CDATA[https://xcancel.com/mitchellh/status/2055380239711457578
-https://hachyderm.io/@mitchellh/116580433508108130
-Comments URL: https://news.ycombinator.com/item?id=48153379
-Points: 577
-# Comments: 259]]></summary>
-        <author>
-            <name>reasonableklout</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bill to block publishers from killing online games advances in California]]></title>
-        <id>https://news.ycombinator.com/item?id=48152994</id>
-        <link href="https://arstechnica.com/gaming/2026/05/bill-to-keep-online-games-playable-clears-key-hurdle-in-california/"/>
-        <updated>2026-05-15T19:48:48.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://arstechnica.com/gaming/2026/05/bill-to-keep-online-games-playable-clears-key-hurdle-in-california/
-Comments URL: https://news.ycombinator.com/item?id=48152994
-Points: 515
-# Comments: 336]]></summary>
-        <author>
-            <name>Lihh27</name>
         </author>
     </entry>
 </feed>
