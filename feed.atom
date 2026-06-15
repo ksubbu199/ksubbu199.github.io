@@ -2,10 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-06-15T21:42:08.403Z</updated>
+    <updated>2026-06-15T23:45:11.895Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[A backdoor in a LinkedIn job offer]]></title>
+        <id>https://news.ycombinator.com/item?id=48546294</id>
+        <link href="https://roman.pt/posts/linkedin-backdoor/"/>
+        <updated>2026-06-15T20:00:57.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://roman.pt/posts/linkedin-backdoor/
+Comments URL: https://news.ycombinator.com/item?id=48546294
+Points: 508
+# Comments: 99]]></summary>
+        <author>
+            <name>lwhsiao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TinyWind: A pixel pirate sailing game with real wind physics (380k+ kms sailed)]]></title>
+        <id>https://news.ycombinator.com/item?id=48543475</id>
+        <link href="https://tinywind.io/"/>
+        <updated>2026-06-15T16:15:53.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://tinywind.io
+Comments URL: https://news.ycombinator.com/item?id=48543475
+Points: 544
+# Comments: 110]]></summary>
+        <author>
+            <name>tinywind</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Iroh 1.0]]></title>
         <id>https://news.ycombinator.com/item?id=48542480</id>
@@ -17,6 +43,19 @@ Points: 793
 # Comments: 256]]></summary>
         <author>
             <name>chadfowler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ask HN: Has anyone replaced Claude/GPT with a local model for daily coding?]]></title>
+        <id>https://news.ycombinator.com/item?id=48542100</id>
+        <link href="https://news.ycombinator.com/item?id=48542100"/>
+        <updated>2026-06-15T14:46:53.000Z</updated>
+        <summary type="html"><![CDATA[Has anyone here fully swapped Claude/GPT for a local model as their main coding tool, not just for side experiments? If so, please share your setup and performance (e.g tok/s)
+Comments URL: https://news.ycombinator.com/item?id=48542100
+Points: 584
+# Comments: 295]]></summary>
+        <author>
+            <name>cloudking</name>
         </author>
     </entry>
     <entry>
