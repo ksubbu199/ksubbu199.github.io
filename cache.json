@@ -6,6 +6,36 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=48537165",
+          "author": "secret-noun",
+          "description": "Article URL: https://daniel.haxx.se/blog/2026/06/15/curl-summer-of-bliss/\nComments URL: https://news.ycombinator.com/item?id=48537165\nPoints: 532\n# Comments: 213",
+          "link": "https://daniel.haxx.se/blog/2026/06/15/curl-summer-of-bliss/",
+          "publishedOn": "2026-06-15T06:02:57.000Z",
+          "wordCount": 1549,
+          "title": "Curl will not accept vulnerability reports during July 2026",
+          "imageUrl": "https://daniel.haxx.se/blog/wp-content/uploads/2026/06/curl-summer-of-bliss.jpg"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=48533848",
+          "author": "sohkamyung",
+          "description": "Article URL: https://andreklein.net/your-epub-is-fine-kobo-disagrees-blame-adobe/\nComments URL: https://news.ycombinator.com/item?id=48533848\nPoints: 719\n# Comments: 237",
+          "link": "https://andreklein.net/your-epub-is-fine-kobo-disagrees-blame-adobe/",
+          "publishedOn": "2026-06-14T22:54:55.000Z",
+          "wordCount": 83,
+          "title": "Your ePub Is fine",
+          "imageUrl": "https://andreklein.net/wp-content/uploads/2026/06/gandalf-1024x625.jpg"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=48529990",
+          "author": "tamnd",
+          "description": "Article URL: https://github.com/tamnd/kage\nComments URL: https://news.ycombinator.com/item?id=48529990\nPoints: 597\n# Comments: 119",
+          "link": "https://github.com/tamnd/kage",
+          "publishedOn": "2026-06-14T17:25:38.000Z",
+          "wordCount": 7172,
+          "title": "Show HN: Kage – Shadow any website to a single binary for offline viewing",
+          "imageUrl": "https://opengraph.githubassets.com/cc094cb2d0ba8ce7c1ed0de5bff4fa0f9b91a92d16667dc23512ad30285f821b/tamnd/kage"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=48526360",
           "author": "kingstoned",
           "description": "Article URL: https://paulgraham.com/earn.html\nComments URL: https://news.ycombinator.com/item?id=48526360\nPoints: 548\n# Comments: 1560",
@@ -1844,26 +1874,6 @@
           "wordCount": 1736,
           "title": "Mozilla to UK regulators: VPNs are essential privacy and security tools",
           "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=48164287",
-          "author": "gidellav",
-          "description": "Article URL: https://crates.io/crates/zerostack/1.0.0\nComments URL: https://news.ycombinator.com/item?id=48164287\nPoints: 509\n# Comments: 283",
-          "link": "https://crates.io/crates/zerostack/1.0.0",
-          "publishedOn": "2026-05-16T22:23:50.000Z",
-          "wordCount": null,
-          "title": "Zerostack – A Unix-inspired coding agent written in pure Rust",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=48163389",
-          "author": "DaSHacka",
-          "description": "Article URL: https://blog.ppb1701.com/the-quiet-renovation-at-bitwarden\nComments URL: https://news.ycombinator.com/item?id=48163389\nPoints: 589\n# Comments: 262",
-          "link": "https://blog.ppb1701.com/the-quiet-renovation-at-bitwarden",
-          "publishedOn": "2026-05-16T20:13:41.000Z",
-          "wordCount": 1422,
-          "title": "The Quiet Renovation at Bitwarden",
-          "imageUrl": "https://og.pagecord.com/og?accentColor=%234fbd9c&avatar=https%3A%2F%2Fpagecord.com%2Frails%2Factive_storage%2Frepresentations%2Fredirect%2FeyJfcmFpbHMiOnsiZGF0YSI6MTM4MDUsInB1ciI6ImJsb2JfaWQifX0%3D--3ce614a417fd5c9e8f0be054846bdbf731ad325f%2FeyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fbGltaXQiOls5Niw5Nl19LCJwdXIiOiJ2YXJpYXRpb24ifX0%3D--444b9f41a7151c95bdc8af786749430c0d771f80%2FIMG_3010.jpg&bgColor=%23ffffff&blogTitle=ByteHaven+-+Where+I+ramble+about+bytes&signature=2202b19b483e71d265d82c99013fbc8c510334721c81e97fdf10d21e3c7abf65&textColor=%23334155&title=The+Quiet+Renovation+at+Bitwarden"
         }
       ]
     },
@@ -2071,6 +2081,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKZozRVHRYsYHGEyNKuhhdA",
       "siteUrl": "https://www.youtube.com/channel/UCKZozRVHRYsYHGEyNKuhhdA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/shorts/mj_PPwxmckw",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/mj_PPwxmckw",
+          "publishedOn": "2026-06-15T09:41:22.000Z",
+          "wordCount": 2344,
+          "title": "Use this technique and your customers will never leave you!!",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=QaJqKWXUs1U",
           "author": null,
