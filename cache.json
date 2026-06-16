@@ -6,6 +6,26 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=48550779",
+          "author": "apitman",
+          "description": "https://xcancel.com/ID_AA_Carmack/status/2064095424420487226\nComments URL: https://news.ycombinator.com/item?id=48550779\nPoints: 628\n# Comments: 315",
+          "link": "https://twitter.com/ID_AA_Carmack/status/2064095424420487226",
+          "publishedOn": "2026-06-16T04:58:15.000Z",
+          "wordCount": 1010,
+          "title": "I admire Fabrice Bellard. He is almost certainly a better overall programmer",
+          "imageUrl": "https://pbs.twimg.com/profile_images/1560764938083352577/B1X3m4NN_200x200.jpg"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=48547985",
+          "author": "sohkamyung",
+          "description": "Article URL: https://www.richardosgood.com/posts/banned-book-library/\nComments URL: https://news.ycombinator.com/item?id=48547985\nPoints: 512\n# Comments: 302",
+          "link": "https://www.richardosgood.com/posts/banned-book-library/",
+          "publishedOn": "2026-06-15T22:37:55.000Z",
+          "wordCount": 6687,
+          "title": "Banned Book Library in a Wi-Fi Smart Light Bulb",
+          "imageUrl": "https://www.richardosgood.com/images/logo.png"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=48546294",
           "author": "lwhsiao",
           "description": "Article URL: https://roman.pt/posts/linkedin-backdoor/\nComments URL: https://news.ycombinator.com/item?id=48546294\nPoints: 508\n# Comments: 99",
@@ -54,6 +74,16 @@
           "wordCount": 415,
           "title": "CrankGPT",
           "imageUrl": "https://crankgpt.com/Images/og.jpg"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=48540844",
+          "author": "tuhtah",
+          "description": "https://www.hetzner.com/pressroom/standardization-and-price-...\nComments URL: https://news.ycombinator.com/item?id=48540844\nPoints: 516\n# Comments: 705",
+          "link": "https://docs.hetzner.com/general/infrastructure-and-availability/price-adjustment/#cloud-servers",
+          "publishedOn": "2026-06-15T13:19:39.000Z",
+          "wordCount": 4507,
+          "title": "Hetzner Price Adjustment",
+          "imageUrl": null
         },
         {
           "id": "https://news.ycombinator.com/item?id=48538229",
@@ -1949,6 +1979,16 @@
       "siteUrl": "https://boot.dev/blog/",
       "articles": [
         {
+          "id": "https://boot.dev/blog/news/sha-1-was-shattered/",
+          "author": null,
+          "description": "A couple of weeks ago I downloaded a copy of OBS, and my operating system yelled at me. Told me I shouldn’t trust it. And it was right, I shouldn’t have been trying to download from fastandrealobsfree.ru.",
+          "link": "https://boot.dev/blog/news/sha-1-was-shattered/",
+          "publishedOn": "2026-06-16T00:00:00.000Z",
+          "wordCount": 4004,
+          "title": "SHA-1 Was Shattered",
+          "imageUrl": "https://boot.dev/blog/img/featured/sha-1-was-shattered.webp"
+        },
+        {
           "id": "https://boot.dev/blog/news/bootdev-beat-2026-06/",
           "author": null,
           "description": "May was a fun month. Interactive widgets (the ones we teased last month) are now live in select lesson content, sound effects rolled out to everyone, and every Python project course got type hints.",
@@ -2011,6 +2051,16 @@
       "feedUrl": "https://martinfowler.com/feed.atom",
       "siteUrl": "https://martinfowler.com/feed.atom",
       "articles": [
+        {
+          "id": "https://martinfowler.com/articles/reliable-llm-bayer.html",
+          "author": null,
+          "description": "One of the most interesting projects my colleagues have done with LLMs\n      has been building a system with Bayer to allow pharmaceutical researchers to query\n      decades of information about studies buried in PDF reports. Sarang\n      Sanjay Kulkarni describes its evolution from keyword-based search\n      to an intelligent research assistant capable of answering complex\n      questions and drafting regulatory documents.\nmore…",
+          "link": "https://martinfowler.com/articles/reliable-llm-bayer.html",
+          "publishedOn": "2026-06-16T12:11:00.000Z",
+          "wordCount": 7778,
+          "title": "Building Reliable Agentic AI Systems",
+          "imageUrl": "https://martinfowler.com/articles/reliable-llm-bayer/card.png"
+        },
         {
           "id": "https://martinfowler.com/fragments/2026-06-16.html",
           "author": null,
@@ -2151,6 +2201,26 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKZozRVHRYsYHGEyNKuhhdA",
       "siteUrl": "https://www.youtube.com/channel/UCKZozRVHRYsYHGEyNKuhhdA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/shorts/qPtPIiVTuWw",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/qPtPIiVTuWw",
+          "publishedOn": "2026-06-16T15:08:22.000Z",
+          "wordCount": 2211,
+          "title": "Why Do Some Professionals Earn 10X More Than Others?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=KJm17Pjo264",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=KJm17Pjo264",
+          "publishedOn": "2026-06-16T13:39:52.000Z",
+          "wordCount": null,
+          "title": "Hard Work Is a Lie: The ₹3.6 Crore Career Trap No One Warned You About | ft. Ashwin Damera",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/shorts/mj_PPwxmckw",
           "author": null,

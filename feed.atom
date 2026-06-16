@@ -2,10 +2,45 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-06-16T10:06:02.193Z</updated>
+    <updated>2026-06-16T15:52:34.497Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Why Do Some Professionals Earn 10X More Than Others?]]></title>
+        <id>https://www.youtube.com/shorts/qPtPIiVTuWw</id>
+        <link href="https://www.youtube.com/shorts/qPtPIiVTuWw"/>
+        <updated>2026-06-16T15:08:22.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Think School</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hard Work Is a Lie: The ₹3.6 Crore Career Trap No One Warned You About | ft. Ashwin Damera]]></title>
+        <id>https://www.youtube.com/watch?v=KJm17Pjo264</id>
+        <link href="https://www.youtube.com/watch?v=KJm17Pjo264"/>
+        <updated>2026-06-16T13:39:52.000Z</updated>
+        <author>
+            <name>Think School</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building Reliable Agentic AI Systems]]></title>
+        <id>https://martinfowler.com/articles/reliable-llm-bayer.html</id>
+        <link href="https://martinfowler.com/articles/reliable-llm-bayer.html"/>
+        <updated>2026-06-16T12:11:00.000Z</updated>
+        <summary type="html"><![CDATA[One of the most interesting projects my colleagues have done with LLMs
+      has been building a system with Bayer to allow pharmaceutical researchers to query
+      decades of information about studies buried in PDF reports. Sarang
+      Sanjay Kulkarni describes its evolution from keyword-based search
+      to an intelligent research assistant capable of answering complex
+      questions and drafting regulatory documents.
+more…]]></summary>
+        <author>
+            <name>Martin Fowler</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Fragments: June 16]]></title>
         <id>https://martinfowler.com/fragments/2026-06-16.html</id>
@@ -16,6 +51,42 @@ Programming was how I could express myself. I wasn’t an artist. When I sing, d
 The LLM revolution worried him. Would they remove all that fun stuff? Happily he found it was the opposite. Like Kent Beck and others have told me, programming with LLMs is more fun than ever. His post lists reasons why: removing drudgery, speeding up feedback loops, reviving long…]]></summary>
         <author>
             <name>Martin Fowler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I admire Fabrice Bellard. He is almost certainly a better overall programmer]]></title>
+        <id>https://news.ycombinator.com/item?id=48550779</id>
+        <link href="https://twitter.com/ID_AA_Carmack/status/2064095424420487226"/>
+        <updated>2026-06-16T04:58:15.000Z</updated>
+        <summary type="html"><![CDATA[https://xcancel.com/ID_AA_Carmack/status/2064095424420487226
+Comments URL: https://news.ycombinator.com/item?id=48550779
+Points: 628
+# Comments: 315]]></summary>
+        <author>
+            <name>apitman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SHA-1 Was Shattered]]></title>
+        <id>https://boot.dev/blog/news/sha-1-was-shattered/</id>
+        <link href="https://boot.dev/blog/news/sha-1-was-shattered/"/>
+        <updated>2026-06-16T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A couple of weeks ago I downloaded a copy of OBS, and my operating system yelled at me. Told me I shouldn’t trust it. And it was right, I shouldn’t have been trying to download from fastandrealobsfree.ru.]]></summary>
+        <author>
+            <name>Boot.dev Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Banned Book Library in a Wi-Fi Smart Light Bulb]]></title>
+        <id>https://news.ycombinator.com/item?id=48547985</id>
+        <link href="https://www.richardosgood.com/posts/banned-book-library/"/>
+        <updated>2026-06-15T22:37:55.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.richardosgood.com/posts/banned-book-library/
+Comments URL: https://news.ycombinator.com/item?id=48547985
+Points: 512
+# Comments: 302]]></summary>
+        <author>
+            <name>sohkamyung</name>
         </author>
     </entry>
     <entry>
@@ -81,6 +152,19 @@ Points: 520
 # Comments: 208]]></summary>
         <author>
             <name>rishikeshs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hetzner Price Adjustment]]></title>
+        <id>https://news.ycombinator.com/item?id=48540844</id>
+        <link href="https://docs.hetzner.com/general/infrastructure-and-availability/price-adjustment/#cloud-servers"/>
+        <updated>2026-06-15T13:19:39.000Z</updated>
+        <summary type="html"><![CDATA[https://www.hetzner.com/pressroom/standardization-and-price-...
+Comments URL: https://news.ycombinator.com/item?id=48540844
+Points: 516
+# Comments: 705]]></summary>
+        <author>
+            <name>tuhtah</name>
         </author>
     </entry>
     <entry>
