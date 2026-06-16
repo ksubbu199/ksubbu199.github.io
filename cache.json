@@ -2012,6 +2012,16 @@
       "siteUrl": "https://martinfowler.com/feed.atom",
       "articles": [
         {
+          "id": "https://martinfowler.com/fragments/2026-06-16.html",
+          "author": null,
+          "description": "“Prag Dave” Thomas (co-author of the outstanding “Pragmatic Programmer”) has loved programming since he was young.\nProgramming was how I could express myself. I wasn’t an artist. When I sing, dogs howl. When I draw, friends say, “Very nice. What is it?” I didn’t connect particularly well with people, even though I wanted to. And yet, when I wrote my first program, I discovered a medium which let me convert thought into action. All the ideas that were bottled up behind a wall of frustration suddenly had an outlet.\nThe LLM revolution worried him. Would they remove all that fun stuff? Happily he found it was the opposite. Like Kent Beck and others have told me, programming with LLMs is more fun than ever. His post lists reasons why: removing drudgery, speeding up feedback loops, reviving long…",
+          "link": "https://martinfowler.com/fragments/2026-06-16.html",
+          "publishedOn": "2026-06-16T06:44:00.000Z",
+          "wordCount": 1431,
+          "title": "Fragments: June 16",
+          "imageUrl": "https://martinfowler.com/logo-sq.png"
+        },
+        {
           "id": "https://martinfowler.com/fragments/2026-06-02.html",
           "author": null,
           "description": "Greg Wilson has noticed that lots of folks are using dodgy metrics to figure out if AI tools are worth their costs.\nWould you measure lines of code generated, or tickets closed? Or would you send out a survey asking whether developers feel more productive? Each of those approaches is flawed in a different way;\nHe lists lots of common metrics, and why they are flawed. Sadly he doesn’t give any suggestions on what would be better. In my view, since we cannot measure productivity, any metrics are weak evidence at the best of times.\nI do somewhat use one of his flawed measures: “Asking Developers If They Feel More Productive”. While I acknowledge the problems he gives with this measure, I find that in an environment where decent measures are hard to find, even such a dim light is the best we h…",
