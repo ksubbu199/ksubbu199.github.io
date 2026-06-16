@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-06-16T15:52:34.497Z</updated>
+    <updated>2026-06-16T19:35:10.795Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -14,6 +14,19 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>Think School</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Running local models is good now]]></title>
+        <id>https://news.ycombinator.com/item?id=48555993</id>
+        <link href="https://vickiboykis.com/2026/06/15/running-local-models-is-good-now/"/>
+        <updated>2026-06-16T14:36:57.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://vickiboykis.com/2026/06/15/running-local-models-is-good-now/
+Comments URL: https://news.ycombinator.com/item?id=48555993
+Points: 645
+# Comments: 305]]></summary>
+        <author>
+            <name>jfb</name>
         </author>
     </entry>
     <entry>
@@ -39,6 +52,32 @@
 more…]]></summary>
         <author>
             <name>Martin Fowler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mechanical Watch (2022)]]></title>
+        <id>https://news.ycombinator.com/item?id=48553550</id>
+        <link href="https://ciechanow.ski/mechanical-watch/"/>
+        <updated>2026-06-16T11:26:27.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://ciechanow.ski/mechanical-watch/
+Comments URL: https://news.ycombinator.com/item?id=48553550
+Points: 543
+# Comments: 99]]></summary>
+        <author>
+            <name>razin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SpaceX to buy Cursor for $60B]]></title>
+        <id>https://news.ycombinator.com/item?id=48553224</id>
+        <link href="https://www.reuters.com/legal/transactional/spacex-buy-anysphere-60-billion-2026-06-16/"/>
+        <updated>2026-06-16T10:44:24.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.reuters.com/legal/transactional/spacex-buy-anysphere-60-billion-2026-06-16/
+Comments URL: https://news.ycombinator.com/item?id=48553224
+Points: 587
+# Comments: 983]]></summary>
+        <author>
+            <name>itsmarcelg</name>
         </author>
     </entry>
     <entry>
