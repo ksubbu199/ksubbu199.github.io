@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-06-16T22:11:46.251Z</updated>
+    <updated>2026-06-17T00:15:37.690Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Apple's weird anti-nausea dots cured my car sickness]]></title>
+        <id>https://news.ycombinator.com/item?id=48557530</id>
+        <link href="https://www.theverge.com/tech/942854/apple-vehicle-motion-cues-review-really-work"/>
+        <updated>2026-06-16T16:12:06.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.theverge.com/tech/942854/apple-vehicle-motion-cues-review-really-work
+Comments URL: https://news.ycombinator.com/item?id=48557530
+Points: 526
+# Comments: 176]]></summary>
+        <author>
+            <name>neilfrndes</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Why Do Some Professionals Earn 10X More Than Others?]]></title>
         <id>https://www.youtube.com/shorts/qPtPIiVTuWw</id>
@@ -3182,16 +3195,6 @@ Points: 517
 # Comments: 269]]></summary>
         <author>
             <name>zakirullin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[This AI Agent Created A Video Ad In Minutes]]></title>
-        <id>https://www.youtube.com/shorts/_y0Sr9RXITM</id>
-        <link href="https://www.youtube.com/shorts/_y0Sr9RXITM"/>
-        <updated>2026-05-18T12:10:04.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Think School</name>
         </author>
     </entry>
 </feed>
