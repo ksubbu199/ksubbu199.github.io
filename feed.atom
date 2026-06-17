@@ -2,10 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-06-17T00:15:37.690Z</updated>
+    <updated>2026-06-17T06:11:17.687Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[GrapheneOS has been ported to Android 17]]></title>
+        <id>https://news.ycombinator.com/item?id=48561654</id>
+        <link href="https://discuss.grapheneos.org/d/36469-grapheneos-has-been-ported-to-android-17-and-official-releases-are-coming-soon"/>
+        <updated>2026-06-16T20:34:35.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://discuss.grapheneos.org/d/36469-grapheneos-has-been-ported-to-android-17-and-official-releases-are-coming-soon
+Comments URL: https://news.ycombinator.com/item?id=48561654
+Points: 584
+# Comments: 255]]></summary>
+        <author>
+            <name>Cider9986</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Is Meta destroying its engineering organization?]]></title>
+        <id>https://news.ycombinator.com/item?id=48558045</id>
+        <link href="https://newsletter.pragmaticengineer.com/p/why-is-meta-destroying-its-engineering"/>
+        <updated>2026-06-16T16:42:32.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://newsletter.pragmaticengineer.com/p/why-is-meta-destroying-its-engineering
+Comments URL: https://news.ycombinator.com/item?id=48558045
+Points: 517
+# Comments: 469]]></summary>
+        <author>
+            <name>throwarayes</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Apple's weird anti-nausea dots cured my car sickness]]></title>
         <id>https://news.ycombinator.com/item?id=48557530</id>
@@ -3143,58 +3169,6 @@ Points: 507
 # Comments: 381]]></summary>
         <author>
             <name>yakkomajuri</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Elon Musk has lost his lawsuit against Sam Altman and OpenAI]]></title>
-        <id>https://news.ycombinator.com/item?id=48182754</id>
-        <link href="https://techcrunch.com/2026/05/18/elon-musk-has-lost-his-lawsuit-against-sam-altman-and-openai/"/>
-        <updated>2026-05-18T17:38:22.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://techcrunch.com/2026/05/18/elon-musk-has-lost-his-lawsuit-against-sam-altman-and-openai/
-Comments URL: https://news.ycombinator.com/item?id=48182754
-Points: 603
-# Comments: 306]]></summary>
-        <author>
-            <name>nycdatasci</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Anthropic acquires Stainless]]></title>
-        <id>https://news.ycombinator.com/item?id=48182281</id>
-        <link href="https://www.anthropic.com/news/anthropic-acquires-stainless"/>
-        <updated>2026-05-18T17:01:21.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.anthropic.com/news/anthropic-acquires-stainless
-Comments URL: https://news.ycombinator.com/item?id=48182281
-Points: 505
-# Comments: 356]]></summary>
-        <author>
-            <name>tomeraberbach</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Garry Tan, the CEO of YC, accused me of unethical reporting]]></title>
-        <id>https://news.ycombinator.com/item?id=48181041</id>
-        <link href="https://radleybalko.substack.com/p/truth-power-and-honest-journalism"/>
-        <updated>2026-05-18T15:18:19.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://radleybalko.substack.com/p/truth-power-and-honest-journalism
-Comments URL: https://news.ycombinator.com/item?id=48181041
-Points: 502
-# Comments: 148]]></summary>
-        <author>
-            <name>gok</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: Files.md – Open-source alternative to Obsidian]]></title>
-        <id>https://news.ycombinator.com/item?id=48179677</id>
-        <link href="https://github.com/zakirullin/files.md"/>
-        <updated>2026-05-18T13:33:33.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://github.com/zakirullin/files.md
-Comments URL: https://news.ycombinator.com/item?id=48179677
-Points: 517
-# Comments: 269]]></summary>
-        <author>
-            <name>zakirullin</name>
         </author>
     </entry>
 </feed>

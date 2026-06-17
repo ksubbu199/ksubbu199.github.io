@@ -6,6 +6,26 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=48561654",
+          "author": "Cider9986",
+          "description": "Article URL: https://discuss.grapheneos.org/d/36469-grapheneos-has-been-ported-to-android-17-and-official-releases-are-coming-soon\nComments URL: https://news.ycombinator.com/item?id=48561654\nPoints: 584\n# Comments: 255",
+          "link": "https://discuss.grapheneos.org/d/36469-grapheneos-has-been-ported-to-android-17-and-official-releases-are-coming-soon",
+          "publishedOn": "2026-06-16T20:34:35.000Z",
+          "wordCount": 2349,
+          "title": "GrapheneOS has been ported to Android 17",
+          "imageUrl": "https://discuss.grapheneos.org/opengraph.png"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=48558045",
+          "author": "throwarayes",
+          "description": "Article URL: https://newsletter.pragmaticengineer.com/p/why-is-meta-destroying-its-engineering\nComments URL: https://news.ycombinator.com/item?id=48558045\nPoints: 517\n# Comments: 469",
+          "link": "https://newsletter.pragmaticengineer.com/p/why-is-meta-destroying-its-engineering",
+          "publishedOn": "2026-06-16T16:42:32.000Z",
+          "wordCount": 12116,
+          "title": "Is Meta destroying its engineering organization?",
+          "imageUrl": "https://substackcdn.com/image/fetch/$s_!PupZ!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Feabe4407-76aa-47a3-a8cb-1d955c05bf03_1972x1072.png"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=48557530",
           "author": "neilfrndes",
           "description": "Article URL: https://www.theverge.com/tech/942854/apple-vehicle-motion-cues-review-really-work\nComments URL: https://news.ycombinator.com/item?id=48557530\nPoints: 526\n# Comments: 176",
@@ -1974,46 +1994,6 @@
           "wordCount": 1799,
           "title": "The last six months in LLMs in five minutes",
           "imageUrl": "https://static.simonwillison.net/static/2026/5-minutes-llms/5-minutes-llms.001.jpeg"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=48182754",
-          "author": "nycdatasci",
-          "description": "Article URL: https://techcrunch.com/2026/05/18/elon-musk-has-lost-his-lawsuit-against-sam-altman-and-openai/\nComments URL: https://news.ycombinator.com/item?id=48182754\nPoints: 603\n# Comments: 306",
-          "link": "https://techcrunch.com/2026/05/18/elon-musk-has-lost-his-lawsuit-against-sam-altman-and-openai/",
-          "publishedOn": "2026-05-18T17:38:22.000Z",
-          "wordCount": 3499,
-          "title": "Elon Musk has lost his lawsuit against Sam Altman and OpenAI",
-          "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/02/elon-musk-world-economic-forum1.jpg?resize=1200,800"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=48182281",
-          "author": "tomeraberbach",
-          "description": "Article URL: https://www.anthropic.com/news/anthropic-acquires-stainless\nComments URL: https://news.ycombinator.com/item?id=48182281\nPoints: 505\n# Comments: 356",
-          "link": "https://www.anthropic.com/news/anthropic-acquires-stainless",
-          "publishedOn": "2026-05-18T17:01:21.000Z",
-          "wordCount": 1307,
-          "title": "Anthropic acquires Stainless",
-          "imageUrl": "https://www.anthropic.com/api/opengraph-illustration?name=Node%20Shapes&backgroundColor=coral"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=48181041",
-          "author": "gok",
-          "description": "Article URL: https://radleybalko.substack.com/p/truth-power-and-honest-journalism\nComments URL: https://news.ycombinator.com/item?id=48181041\nPoints: 502\n# Comments: 148",
-          "link": "https://radleybalko.substack.com/p/truth-power-and-honest-journalism",
-          "publishedOn": "2026-05-18T15:18:19.000Z",
-          "wordCount": null,
-          "title": "Garry Tan, the CEO of YC, accused me of unethical reporting",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=48179677",
-          "author": "zakirullin",
-          "description": "Article URL: https://github.com/zakirullin/files.md\nComments URL: https://news.ycombinator.com/item?id=48179677\nPoints: 517\n# Comments: 269",
-          "link": "https://github.com/zakirullin/files.md",
-          "publishedOn": "2026-05-18T13:33:33.000Z",
-          "wordCount": 11396,
-          "title": "Show HN: Files.md – Open-source alternative to Obsidian",
-          "imageUrl": "https://opengraph.githubassets.com/74574a3b4a57b4c9ad178748107a0e9aed640babd8578ee1524457b0756b0934/zakirullin/files.md"
         }
       ]
     },
