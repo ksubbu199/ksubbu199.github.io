@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-06-17T21:05:04.609Z</updated>
+    <updated>2026-06-17T23:24:45.209Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -64,6 +64,19 @@ Points: 515
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[U.S. science is in chaos]]></title>
+        <id>https://news.ycombinator.com/item?id=48568058</id>
+        <link href="https://www.scientificamerican.com/article/americas-compact-between-science-and-politics-is-broken/"/>
+        <updated>2026-06-17T09:54:21.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.scientificamerican.com/article/americas-compact-between-science-and-politics-is-broken/
+Comments URL: https://news.ycombinator.com/item?id=48568058
+Points: 588
+# Comments: 670]]></summary>
+        <author>
+            <name>presspot</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[GLM-5.2 is the new leading open weights model on Artificial Analysis]]></title>
         <id>https://news.ycombinator.com/item?id=48567759</id>
         <link href="https://artificialanalysis.ai/articles/glm-5-2-is-the-new-leading-open-weights-model-on-the-artificial-analysis-intelligence-index"/>
@@ -84,6 +97,19 @@ Points: 600
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>Think School</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hacker News but for independent blogs]]></title>
+        <id>https://news.ycombinator.com/item?id=48567155</id>
+        <link href="https://bubbles.town/"/>
+        <updated>2026-06-17T07:49:44.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://bubbles.town/
+Comments URL: https://news.ycombinator.com/item?id=48567155
+Points: 517
+# Comments: 168]]></summary>
+        <author>
+            <name>headalgorithm</name>
         </author>
     </entry>
     <entry>
@@ -3258,23 +3284,6 @@ Points: 517
 # Comments: 271]]></summary>
         <author>
             <name>interpol_p</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: Gaussian Splat of a Strawberry]]></title>
-        <id>https://news.ycombinator.com/item?id=48191602</id>
-        <link href="https://superspl.at/scene/84df8849"/>
-        <updated>2026-05-19T10:38:47.000Z</updated>
-        <summary type="html"><![CDATA[The Setup:
-https://i.imgur.com/o0hgybh.jpeg
-https://i.imgur.com/mcNiomp.jpeg
-https://i.imgur.com/vIjw6pc.jpeg
-https://i.imgur.com/nzOwmSC.jpeg
-Comments URL: https://news.ycombinator.com/item?id=48191602
-Points: 504
-# Comments: 191]]></summary>
-        <author>
-            <name>danybittel</name>
         </author>
     </entry>
 </feed>
