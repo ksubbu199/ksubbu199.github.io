@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-06-17T15:29:01.023Z</updated>
+    <updated>2026-06-17T18:15:58.569Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -13,6 +13,19 @@
         <updated>2026-06-17T15:18:16.000Z</updated>
         <author>
             <name>Think School</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Epic Games announces Lore version control system]]></title>
+        <id>https://news.ycombinator.com/item?id=48571081</id>
+        <link href="https://lore.org/"/>
+        <updated>2026-06-17T14:30:27.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://lore.org/
+Comments URL: https://news.ycombinator.com/item?id=48571081
+Points: 534
+# Comments: 275]]></summary>
+        <author>
+            <name>regnerba</name>
         </author>
     </entry>
     <entry>
@@ -35,6 +48,19 @@ Points: 515
 # Comments: 263]]></summary>
         <author>
             <name>thm</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GLM-5.2 is the new leading open weights model on Artificial Analysis]]></title>
+        <id>https://news.ycombinator.com/item?id=48567759</id>
+        <link href="https://artificialanalysis.ai/articles/glm-5-2-is-the-new-leading-open-weights-model-on-the-artificial-analysis-intelligence-index"/>
+        <updated>2026-06-17T09:12:00.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://artificialanalysis.ai/articles/glm-5-2-is-the-new-leading-open-weights-model-on-the-artificial-analysis-intelligence-index
+Comments URL: https://news.ycombinator.com/item?id=48567759
+Points: 600
+# Comments: 316]]></summary>
+        <author>
+            <name>himata4113</name>
         </author>
     </entry>
     <entry>
@@ -84,6 +110,19 @@ Points: 517
 # Comments: 469]]></summary>
         <author>
             <name>throwarayes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TIL: You can make HTTP requests without curl using Bash /dev/TCP]]></title>
+        <id>https://news.ycombinator.com/item?id=48558018</id>
+        <link href="https://mareksuppa.com/til/bash-dev-tcp-http-without-curl/"/>
+        <updated>2026-06-16T16:40:58.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://mareksuppa.com/til/bash-dev-tcp-http-without-curl/
+Comments URL: https://news.ycombinator.com/item?id=48558018
+Points: 513
+# Comments: 223]]></summary>
+        <author>
+            <name>mrshu</name>
         </author>
     </entry>
     <entry>
