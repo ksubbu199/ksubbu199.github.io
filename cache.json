@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=48571526",
+          "author": "microtonal",
+          "description": "Article URL: https://discuss.grapheneos.org/d/35949-volkswagen-app?page=3\nComments URL: https://news.ycombinator.com/item?id=48571526\nPoints: 527\n# Comments: 348",
+          "link": "https://discuss.grapheneos.org/d/35949-volkswagen-app?page=3",
+          "publishedOn": "2026-06-17T15:04:47.000Z",
+          "wordCount": 2752,
+          "title": "Volkswagen started blocking GrapheneOS users",
+          "imageUrl": "https://discuss.grapheneos.org/opengraph.png"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=48571081",
           "author": "regnerba",
           "description": "Article URL: https://lore.org/\nComments URL: https://news.ycombinator.com/item?id=48571081\nPoints: 534\n# Comments: 275",
@@ -2024,46 +2034,6 @@
           "wordCount": 6097,
           "title": "Gemini 3.5 Flash",
           "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-3-5__keywordstatement__metacard__light.width-1300.png"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=48195009",
-          "author": "andreww591",
-          "description": "Article URL: https://virtualosmuseum.org/\nComments URL: https://news.ycombinator.com/item?id=48195009\nPoints: 535\n# Comments: 126",
-          "link": "https://virtualosmuseum.org/",
-          "publishedOn": "2026-05-19T15:53:38.000Z",
-          "wordCount": 1700,
-          "title": "I’ve built a virtual museum with nearly every operating system you can think of",
-          "imageUrl": "https://virtualosmuseum.org/images/front_page/0.%20Launcher%20main%20window.png"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=48194352",
-          "author": "dmarcos",
-          "description": "https://xcancel.com/karpathy/status/2056753169888334312\nComments URL: https://news.ycombinator.com/item?id=48194352\nPoints: 804\n# Comments: 316",
-          "link": "https://twitter.com/karpathy/status/2056753169888334312",
-          "publishedOn": "2026-05-19T15:07:45.000Z",
-          "wordCount": 1016,
-          "title": "I’ve joined Anthropic",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=48192383",
-          "author": "zambelli",
-          "description": "Hi HN, I'm Antoine Zambelli, AI Director at Texas Instruments.\nI built Forge, an open-source reliability layer for self-hosted LLM tool-calling.\nWhat it does:\n- Adds domain-and-tool-agnostic guardrails (retry nudges, step enforcement, error recovery, VRAM-aware context management) to local models running on consumer hardware\n- Takes an 8B model from ~53% to ~99% on multi-step agentic workflows without changing the model - just the system around it\n- Ships with an eval harness and interactive dashboard so you can reproduce every number\nI wanted to run a handful of always-on agentic systems for my portfolio, didn't want to pay cloud frontier costs, and immediately hit the compounding math problem on local models. 90% per-step accuracy sounds great, but with a 5-step workflow that's a 40% fai…",
-          "link": "https://github.com/antoinezambelli/forge",
-          "publishedOn": "2026-05-19T12:23:07.000Z",
-          "wordCount": 4763,
-          "title": "Show HN: Forge – Guardrails take an 8B model from 53% to 99% on agentic tasks",
-          "imageUrl": "https://opengraph.githubassets.com/2881e9353cac64c746ef8b0f4efd96ceb878f94978c1c41e8dc4138d0ab8c683/antoinezambelli/forge"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=48192224",
-          "author": "interpol_p",
-          "description": "Article URL: https://www.apple.com/newsroom/2026/05/apple-unveils-new-accessibility-features-and-updates-with-apple-intelligence/\nComments URL: https://news.ycombinator.com/item?id=48192224\nPoints: 517\n# Comments: 271",
-          "link": "https://www.apple.com/newsroom/2026/05/apple-unveils-new-accessibility-features-and-updates-with-apple-intelligence/",
-          "publishedOn": "2026-05-19T12:04:18.000Z",
-          "wordCount": 6800,
-          "title": "Apple unveils new accessibility features",
-          "imageUrl": "https://www.apple.com/newsroom/images/2026/05/apple-unveils-new-accessibility-features-and-updates-with-apple-intelligence/tile/Apple-accessibility-features-VoiceOver-with-Apple-Intelligence-lp.jpg.og.jpg?202605191559"
         }
       ]
     },

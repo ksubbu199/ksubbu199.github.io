@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-06-17T23:24:45.209Z</updated>
+    <updated>2026-06-18T03:58:21.104Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -13,6 +13,19 @@
         <updated>2026-06-17T15:18:16.000Z</updated>
         <author>
             <name>Think School</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Volkswagen started blocking GrapheneOS users]]></title>
+        <id>https://news.ycombinator.com/item?id=48571526</id>
+        <link href="https://discuss.grapheneos.org/d/35949-volkswagen-app?page=3"/>
+        <updated>2026-06-17T15:04:47.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://discuss.grapheneos.org/d/35949-volkswagen-app?page=3
+Comments URL: https://news.ycombinator.com/item?id=48571526
+Points: 527
+# Comments: 348]]></summary>
+        <author>
+            <name>microtonal</name>
         </author>
     </entry>
     <entry>
@@ -3229,61 +3242,6 @@ Points: 671
 more…]]></summary>
         <author>
             <name>Martin Fowler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I’ve built a virtual museum with nearly every operating system you can think of]]></title>
-        <id>https://news.ycombinator.com/item?id=48195009</id>
-        <link href="https://virtualosmuseum.org/"/>
-        <updated>2026-05-19T15:53:38.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://virtualosmuseum.org/
-Comments URL: https://news.ycombinator.com/item?id=48195009
-Points: 535
-# Comments: 126]]></summary>
-        <author>
-            <name>andreww591</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I’ve joined Anthropic]]></title>
-        <id>https://news.ycombinator.com/item?id=48194352</id>
-        <link href="https://twitter.com/karpathy/status/2056753169888334312"/>
-        <updated>2026-05-19T15:07:45.000Z</updated>
-        <summary type="html"><![CDATA[https://xcancel.com/karpathy/status/2056753169888334312
-Comments URL: https://news.ycombinator.com/item?id=48194352
-Points: 804
-# Comments: 316]]></summary>
-        <author>
-            <name>dmarcos</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: Forge – Guardrails take an 8B model from 53% to 99% on agentic tasks]]></title>
-        <id>https://news.ycombinator.com/item?id=48192383</id>
-        <link href="https://github.com/antoinezambelli/forge"/>
-        <updated>2026-05-19T12:23:07.000Z</updated>
-        <summary type="html"><![CDATA[Hi HN, I'm Antoine Zambelli, AI Director at Texas Instruments.
-I built Forge, an open-source reliability layer for self-hosted LLM tool-calling.
-What it does:
-- Adds domain-and-tool-agnostic guardrails (retry nudges, step enforcement, error recovery, VRAM-aware context management) to local models running on consumer hardware
-- Takes an 8B model from ~53% to ~99% on multi-step agentic workflows without changing the model - just the system around it
-- Ships with an eval harness and interactive dashboard so you can reproduce every number
-I wanted to run a handful of always-on agentic systems for my portfolio, didn't want to pay cloud frontier costs, and immediately hit the compounding math problem on local models. 90% per-step accuracy sounds great, but with a 5-step workflow that's a 40% fai…]]></summary>
-        <author>
-            <name>zambelli</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Apple unveils new accessibility features]]></title>
-        <id>https://news.ycombinator.com/item?id=48192224</id>
-        <link href="https://www.apple.com/newsroom/2026/05/apple-unveils-new-accessibility-features-and-updates-with-apple-intelligence/"/>
-        <updated>2026-05-19T12:04:18.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.apple.com/newsroom/2026/05/apple-unveils-new-accessibility-features-and-updates-with-apple-intelligence/
-Comments URL: https://news.ycombinator.com/item?id=48192224
-Points: 517
-# Comments: 271]]></summary>
-        <author>
-            <name>interpol_p</name>
         </author>
     </entry>
 </feed>
