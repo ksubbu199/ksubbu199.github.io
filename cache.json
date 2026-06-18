@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=48579650",
+          "author": "ricochet11",
+          "description": "https://www.midjourney.com/medical\nVideo: https://x.com/midjourney/status/2067422898407837797\nComments URL: https://news.ycombinator.com/item?id=48579650\nPoints: 658\n# Comments: 453",
+          "link": "https://www.midjourney.com/medical/blogpost",
+          "publishedOn": "2026-06-18T01:59:51.000Z",
+          "wordCount": null,
+          "title": "Midjourney Medical",
+          "imageUrl": null
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=48571526",
           "author": "microtonal",
           "description": "Article URL: https://discuss.grapheneos.org/d/35949-volkswagen-app?page=3\nComments URL: https://news.ycombinator.com/item?id=48571526\nPoints: 527\n# Comments: 348",
@@ -2004,36 +2014,6 @@
           "wordCount": 981,
           "title": "GitHub is investigating unauthorized access to their internal repositories",
           "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=48197980",
-          "author": "ortusdux",
-          "description": "Article URL: https://www.npr.org/2026/05/19/nx-s1-5821265/minnesota-ban-prediction-markets\nComments URL: https://news.ycombinator.com/item?id=48197980\nPoints: 571\n# Comments: 171",
-          "link": "https://www.npr.org/2026/05/19/nx-s1-5821265/minnesota-ban-prediction-markets",
-          "publishedOn": "2026-05-19T19:13:26.000Z",
-          "wordCount": 1712,
-          "title": "Minnesota becomes first state to ban prediction markets",
-          "imageUrl": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4000x2250+0+170/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F20%2F8e%2Fd3b2b95e482fb859a4662dadf81d%2Fap26048635918644.jpg"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=48197370",
-          "author": "berkeleyjunk",
-          "description": "https://www.nytimes.com/2026/05/19/business/google-seach-bar..., https://archive.ph/XI1sQ\nhttps://techcrunch.com/2026/05/19/google-search-as-you-know-...\nhttps://www.theverge.com/tech/932970/google-search-ai-update...\nComments URL: https://news.ycombinator.com/item?id=48197370\nPoints: 537\n# Comments: 712",
-          "link": "https://blog.google/products-and-platforms/products/search/search-io-2026/",
-          "publishedOn": "2026-05-19T18:34:27.000Z",
-          "wordCount": 5282,
-          "title": "Google changes its search box",
-          "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Search_AI_and_search_engine_v46_16x9_1.width-1300.jpg"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=48196570",
-          "author": "spectraldrift",
-          "description": "https://ai.google.dev/gemini-api/docs/models/gemini-3.5-flas...\nComments URL: https://news.ycombinator.com/item?id=48196570\nPoints: 671\n# Comments: 485",
-          "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/",
-          "publishedOn": "2026-05-19T17:43:45.000Z",
-          "wordCount": 6097,
-          "title": "Gemini 3.5 Flash",
-          "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-3-5__keywordstatement__metacard__light.width-1300.png"
         }
       ]
     },
@@ -2200,16 +2180,6 @@
           "wordCount": 4383,
           "title": "Three more static code analysis sensors",
           "imageUrl": "https://martinfowler.com/articles/sensors-for-coding-agents/card.png"
-        },
-        {
-          "id": "https://martinfowler.com/articles/sensors-for-coding-agents.html",
-          "author": null,
-          "description": "In her recent article about harness engineering for coding agent users,\n      Birgitta Böckeler laid out a mental model for expanding a\n      coding agent harness: a system of guides and sensors that increase the\n      probability of good agent outputs and enable self-correction before issues\n      reach human eyes. Birgitta has now started publishing an article where she\n      walks though her experiences using sensors to keep a codebase\n      maintainable. This part looks at static analysis with basic code linting.\nmore…",
-          "link": "https://martinfowler.com/articles/sensors-for-coding-agents.html",
-          "publishedOn": "2026-05-19T16:38:00.000Z",
-          "wordCount": 2038,
-          "title": "Maintainability sensors for coding agents",
-          "imageUrl": "https://martinfowler.com/articles/sensors-for-coding-agents/card.png"
         }
       ]
     },
@@ -2271,6 +2241,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKZozRVHRYsYHGEyNKuhhdA",
       "siteUrl": "https://www.youtube.com/channel/UCKZozRVHRYsYHGEyNKuhhdA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/shorts/kgg9vRiPAy0",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/kgg9vRiPAy0",
+          "publishedOn": "2026-06-18T06:05:38.000Z",
+          "wordCount": 2203,
+          "title": "How to Get Credit at Work",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=JvAqnBPVctg",
           "author": null,

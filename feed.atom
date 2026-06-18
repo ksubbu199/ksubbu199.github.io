@@ -2,10 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-06-18T03:58:21.104Z</updated>
+    <updated>2026-06-18T08:49:53.274Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Get Credit at Work]]></title>
+        <id>https://www.youtube.com/shorts/kgg9vRiPAy0</id>
+        <link href="https://www.youtube.com/shorts/kgg9vRiPAy0"/>
+        <updated>2026-06-18T06:05:38.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Think School</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Midjourney Medical]]></title>
+        <id>https://news.ycombinator.com/item?id=48579650</id>
+        <link href="https://www.midjourney.com/medical/blogpost"/>
+        <updated>2026-06-18T01:59:51.000Z</updated>
+        <summary type="html"><![CDATA[https://www.midjourney.com/medical
+Video: https://x.com/midjourney/status/2067422898407837797
+Comments URL: https://news.ycombinator.com/item?id=48579650
+Points: 658
+# Comments: 453]]></summary>
+        <author>
+            <name>ricochet11</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Quick Commerce Accelerator 2026]]></title>
         <id>https://www.youtube.com/watch?v=JvAqnBPVctg</id>
@@ -3184,64 +3208,6 @@ Points: 505
 # Comments: 273]]></summary>
         <author>
             <name>splenditer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Minnesota becomes first state to ban prediction markets]]></title>
-        <id>https://news.ycombinator.com/item?id=48197980</id>
-        <link href="https://www.npr.org/2026/05/19/nx-s1-5821265/minnesota-ban-prediction-markets"/>
-        <updated>2026-05-19T19:13:26.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.npr.org/2026/05/19/nx-s1-5821265/minnesota-ban-prediction-markets
-Comments URL: https://news.ycombinator.com/item?id=48197980
-Points: 571
-# Comments: 171]]></summary>
-        <author>
-            <name>ortusdux</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google changes its search box]]></title>
-        <id>https://news.ycombinator.com/item?id=48197370</id>
-        <link href="https://blog.google/products-and-platforms/products/search/search-io-2026/"/>
-        <updated>2026-05-19T18:34:27.000Z</updated>
-        <summary type="html"><![CDATA[https://www.nytimes.com/2026/05/19/business/google-seach-bar..., https://archive.ph/XI1sQ
-https://techcrunch.com/2026/05/19/google-search-as-you-know-...
-https://www.theverge.com/tech/932970/google-search-ai-update...
-Comments URL: https://news.ycombinator.com/item?id=48197370
-Points: 537
-# Comments: 712]]></summary>
-        <author>
-            <name>berkeleyjunk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gemini 3.5 Flash]]></title>
-        <id>https://news.ycombinator.com/item?id=48196570</id>
-        <link href="https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/"/>
-        <updated>2026-05-19T17:43:45.000Z</updated>
-        <summary type="html"><![CDATA[https://ai.google.dev/gemini-api/docs/models/gemini-3.5-flas...
-Comments URL: https://news.ycombinator.com/item?id=48196570
-Points: 671
-# Comments: 485]]></summary>
-        <author>
-            <name>spectraldrift</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Maintainability sensors for coding agents]]></title>
-        <id>https://martinfowler.com/articles/sensors-for-coding-agents.html</id>
-        <link href="https://martinfowler.com/articles/sensors-for-coding-agents.html"/>
-        <updated>2026-05-19T16:38:00.000Z</updated>
-        <summary type="html"><![CDATA[In her recent article about harness engineering for coding agent users,
-      Birgitta Böckeler laid out a mental model for expanding a
-      coding agent harness: a system of guides and sensors that increase the
-      probability of good agent outputs and enable self-correction before issues
-      reach human eyes. Birgitta has now started publishing an article where she
-      walks though her experiences using sensors to keep a codebase
-      maintainable. This part looks at static analysis with basic code linting.
-more…]]></summary>
-        <author>
-            <name>Martin Fowler</name>
         </author>
     </entry>
 </feed>
