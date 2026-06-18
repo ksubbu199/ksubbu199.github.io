@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-06-18T16:31:19.993Z</updated>
+    <updated>2026-06-18T19:28:16.904Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -3178,19 +3178,6 @@ Points: 554
         <summary type="html"><![CDATA[A $124B fund in Australia would have lost all data stored with Google Cloud, had they not relied on a third-party backup. A rare blunder from GCP, where regional replication did not stop the deletion – and a just as rare statement from Google Cloud’s CEO taking the blame.]]></summary>
         <author>
             <name>Gergely Orosz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Everything in C is undefined behavior]]></title>
-        <id>https://news.ycombinator.com/item?id=48203698</id>
-        <link href="https://blog.habets.se/2026/05/Everything-in-C-is-undefined-behavior.html"/>
-        <updated>2026-05-20T06:07:22.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://blog.habets.se/2026/05/Everything-in-C-is-undefined-behavior.html
-Comments URL: https://news.ycombinator.com/item?id=48203698
-Points: 500
-# Comments: 704]]></summary>
-        <author>
-            <name>lycopodiopsida</name>
         </author>
     </entry>
 </feed>
