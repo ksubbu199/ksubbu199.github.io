@@ -6,6 +6,36 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=48585746",
+          "author": "leonidasrup",
+          "description": "Article URL: https://www.bluewin.ch/en/news/switzerland/parliament-lifts-ban-on-new-nuclear-power-plants-3257535.html\nComments URL: https://news.ycombinator.com/item?id=48585746\nPoints: 607\n# Comments: 450",
+          "link": "https://www.bluewin.ch/en/news/switzerland/parliament-lifts-ban-on-new-nuclear-power-plants-3257535.html",
+          "publishedOn": "2026-06-18T14:17:07.000Z",
+          "wordCount": null,
+          "title": "Swiss parliament lifts ban on new nuclear power plants",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=48584207",
+          "author": "Adam-Hincu",
+          "description": "Article URL: https://www.windowslatest.com/2026/06/15/microsofts-new-outlook-takes-10-seconds-to-do-what-outlook-classic-does-instantly-on-windows/\nComments URL: https://news.ycombinator.com/item?id=48584207\nPoints: 538\n# Comments: 361",
+          "link": "https://www.windowslatest.com/2026/06/15/microsofts-new-outlook-takes-10-seconds-to-do-what-outlook-classic-does-instantly-on-windows/",
+          "publishedOn": "2026-06-18T12:19:05.000Z",
+          "wordCount": 4943,
+          "title": "Microsoft new Outlook takes 10 seconds to do what Outlook Classic does instantly",
+          "imageUrl": "https://www.windowslatest.com/wp-content/uploads/2026/06/Clicking-Outlook-notifications-will-take-longer-to-load-the-email-than-if-you-open-the-app-and-find-the-mail-directly.jpg"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=48583928",
+          "author": "theorchid",
+          "description": "Article URL: https://orchidfiles.com/github-repositories-distributing-malware/\nComments URL: https://news.ycombinator.com/item?id=48583928\nPoints: 575\n# Comments: 135",
+          "link": "https://orchidfiles.com/github-repositories-distributing-malware/",
+          "publishedOn": "2026-06-18T11:45:43.000Z",
+          "wordCount": 1867,
+          "title": "I found 10k GitHub repositories distributing Trojan malware",
+          "imageUrl": null
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=48579650",
           "author": "ricochet11",
           "description": "https://www.midjourney.com/medical\nVideo: https://x.com/midjourney/status/2067422898407837797\nComments URL: https://news.ycombinator.com/item?id=48579650\nPoints: 658\n# Comments: 453",
@@ -2192,16 +2222,6 @@
           "publishedOn": "2026-05-24T20:35:11.000Z",
           "wordCount": 2422,
           "title": "The Pulse: Forward deployed engineering heats up again",
-          "imageUrl": null
-        },
-        {
-          "id": "6a0d707867d99e0001f62c84",
-          "author": "Gergely Orosz",
-          "description": "A $124B fund in Australia would have lost all data stored with Google Cloud, had they not relied on a third-party backup. A rare blunder from GCP, where regional replication did not stop the deletion – and a just as rare statement from Google Cloud’s CEO taking the blame.",
-          "link": "https://blog.pragmaticengineer.com/google-cloud-deletes-australian-trading-funds-infra/",
-          "publishedOn": "2026-05-20T08:31:08.000Z",
-          "wordCount": 1525,
-          "title": "Google Cloud deletes Australian trading fund’s infra",
           "imageUrl": null
         }
       ]
