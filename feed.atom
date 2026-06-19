@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-06-19T21:11:10.880Z</updated>
+    <updated>2026-06-19T22:57:18.936Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Hyundai buys Boston Dynamics]]></title>
+        <id>https://news.ycombinator.com/item?id=48600312</id>
+        <link href="https://startupfortune.com/hyundai-takes-full-control-of-boston-dynamics-as-softbank-exits-for-325-million/"/>
+        <updated>2026-06-19T16:28:20.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://startupfortune.com/hyundai-takes-full-control-of-boston-dynamics-as-softbank-exits-for-325-million/
+Comments URL: https://news.ycombinator.com/item?id=48600312
+Points: 560
+# Comments: 264]]></summary>
+        <author>
+            <name>ck2</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Where Do AI Videos Actually Work?]]></title>
         <id>https://www.youtube.com/shorts/Fv_XwQs0JF8</id>
@@ -3084,32 +3097,6 @@ Points: 519
 # Comments: 261]]></summary>
         <author>
             <name>sandebert</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[We're testing new ad formats in Search and expanding our Direct Offers pilot]]></title>
-        <id>https://news.ycombinator.com/item?id=48220105</id>
-        <link href="https://blog.google/products/ads-commerce/google-marketing-live-search-ads/"/>
-        <updated>2026-05-21T09:49:46.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://blog.google/products/ads-commerce/google-marketing-live-search-ads/
-Comments URL: https://news.ycombinator.com/item?id=48220105
-Points: 506
-# Comments: 426]]></summary>
-        <author>
-            <name>sofumel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Throwing AI-generated walls of text into conversations]]></title>
-        <id>https://news.ycombinator.com/item?id=48219992</id>
-        <link href="https://noslopgrenade.com/"/>
-        <updated>2026-05-21T09:31:15.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://noslopgrenade.com/
-Comments URL: https://news.ycombinator.com/item?id=48219992
-Points: 542
-# Comments: 319]]></summary>
-        <author>
-            <name>napolux</name>
         </author>
     </entry>
 </feed>

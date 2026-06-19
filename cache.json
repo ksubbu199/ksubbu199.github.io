@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=48600312",
+          "author": "ck2",
+          "description": "Article URL: https://startupfortune.com/hyundai-takes-full-control-of-boston-dynamics-as-softbank-exits-for-325-million/\nComments URL: https://news.ycombinator.com/item?id=48600312\nPoints: 560\n# Comments: 264",
+          "link": "https://startupfortune.com/hyundai-takes-full-control-of-boston-dynamics-as-softbank-exits-for-325-million/",
+          "publishedOn": "2026-06-19T16:28:20.000Z",
+          "wordCount": 2911,
+          "title": "Hyundai buys Boston Dynamics",
+          "imageUrl": "https://startupfortune.com/wp-content/uploads/2026/06/sf-14065-1781845702426.jpg"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=48595511",
           "author": "philonoist",
           "description": "Article URL: https://www.jvm-weekly.com/p/project-valhalla-explained-how-a\nComments URL: https://news.ycombinator.com/item?id=48595511\nPoints: 504\n# Comments: 295",
@@ -1924,26 +1934,6 @@
           "wordCount": 5952,
           "title": "Flipper One – we need your help",
           "imageUrl": "https://blog.flipper.net/content/images/size/w1200/2026/05/Flipper-One-we-need-your-help-main-v2.jpg"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=48220105",
-          "author": "sofumel",
-          "description": "Article URL: https://blog.google/products/ads-commerce/google-marketing-live-search-ads/\nComments URL: https://news.ycombinator.com/item?id=48220105\nPoints: 506\n# Comments: 426",
-          "link": "https://blog.google/products/ads-commerce/google-marketing-live-search-ads/",
-          "publishedOn": "2026-05-21T09:49:46.000Z",
-          "wordCount": 4634,
-          "title": "We're testing new ad formats in Search and expanding our Direct Offers pilot",
-          "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GML_Search_social.width-1300.png"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=48219992",
-          "author": "napolux",
-          "description": "Article URL: https://noslopgrenade.com/\nComments URL: https://news.ycombinator.com/item?id=48219992\nPoints: 542\n# Comments: 319",
-          "link": "https://noslopgrenade.com/",
-          "publishedOn": "2026-05-21T09:31:15.000Z",
-          "wordCount": 1116,
-          "title": "Throwing AI-generated walls of text into conversations",
-          "imageUrl": "https://noslopgrenade.com/og-image.png"
         }
       ]
     },
