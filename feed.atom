@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-06-19T00:26:04.410Z</updated>
+    <updated>2026-06-19T06:19:29.111Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -3103,88 +3103,6 @@ Points: 500
 # Comments: 171]]></summary>
         <author>
             <name>gregsadetsky</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Apparently Google hates us now]]></title>
-        <id>https://news.ycombinator.com/item?id=48210263</id>
-        <link href="https://twitter.com/pokemoncentral/status/2057123807404638250"/>
-        <updated>2026-05-20T16:27:25.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://twitter.com/pokemoncentral/status/2057123807404638250
-Comments URL: https://news.ycombinator.com/item?id=48210263
-Points: 500
-# Comments: 250]]></summary>
-        <author>
-            <name>zeitg3ist</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tennessee man jailed 37 days for Trump meme wins settlement after lawsuit]]></title>
-        <id>https://news.ycombinator.com/item?id=48208502</id>
-        <link href="https://www.fire.org/news/victory-tennessee-man-jailed-37-days-trump-meme-wins-835000-settlement-after-first-amendment"/>
-        <updated>2026-05-20T14:30:47.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.fire.org/news/victory-tennessee-man-jailed-37-days-trump-meme-wins-835000-settlement-after-first-amendment
-Comments URL: https://news.ycombinator.com/item?id=48208502
-Points: 530
-# Comments: 315]]></summary>
-        <author>
-            <name>ceejayoz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Three more static code analysis sensors]]></title>
-        <id>https://martinfowler.com/articles/sensors-for-coding-agents.html#StaticCodeAnalysisDependencyRules</id>
-        <link href="https://martinfowler.com/articles/sensors-for-coding-agents.html#StaticCodeAnalysisDependencyRules"/>
-        <updated>2026-05-20T14:27:00.000Z</updated>
-        <summary type="html"><![CDATA[Birgitta Böckeler adds discussion of three more
-      sensors for static code analysis, focusing on checking and enforcing
-      better modularity. Computational sensors for dependency checks were good
-      at enforcing rules, but the rules were limited. Building a computational
-      sensor for coupling data proved lackluster. Prompting an inferential
-      sensor to review modularity was more effective.
-more…]]></summary>
-        <author>
-            <name>Martin Fowler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GitHub confirms breach of 3,800 repos via malicious VSCode extension]]></title>
-        <id>https://news.ycombinator.com/item?id=48207660</id>
-        <link href="https://www.bleepingcomputer.com/news/security/github-confirms-breach-of-3-800-repos-via-malicious-vscode-extension/"/>
-        <updated>2026-05-20T13:43:37.000Z</updated>
-        <summary type="html"><![CDATA[Previous thread in sequence:
-GitHub is investigating unauthorized access to their internal repositories - https://news.ycombinator.com/item?id=48201316 - May 2026 (321 comments)
-Comments URL: https://news.ycombinator.com/item?id=48207660
-Points: 598
-# Comments: 219]]></summary>
-        <author>
-            <name>Timofeibu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Goodbye Visa and Mastercard: 130M Europeans switching to sovereign payment]]></title>
-        <id>https://news.ycombinator.com/item?id=48207004</id>
-        <link href="https://www.lesnumeriques.com/banque-en-ligne/adieu-visa-et-mastercard-130-millions-d-europeens-basculent-vers-un-paiement-100-souverain-des-2026-n250918.html"/>
-        <updated>2026-05-20T13:02:30.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.lesnumeriques.com/banque-en-ligne/adieu-visa-et-mastercard-130-millions-d-europeens-basculent-vers-un-paiement-100-souverain-des-2026-n250918.html
-Comments URL: https://news.ycombinator.com/item?id=48207004
-Points: 544
-# Comments: 450]]></summary>
-        <author>
-            <name>healsdata</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meta blocks human rights accounts from reaching audiences in Arabia and the UAE]]></title>
-        <id>https://news.ycombinator.com/item?id=48206768</id>
-        <link href="https://www.alqst.org/ar/posts/1190"/>
-        <updated>2026-05-20T12:43:41.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.alqst.org/ar/posts/1190
-Comments URL: https://news.ycombinator.com/item?id=48206768
-Points: 557
-# Comments: 219]]></summary>
-        <author>
-            <name>giuliomagnifico</name>
         </author>
     </entry>
 </feed>
