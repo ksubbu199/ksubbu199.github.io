@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-06-20T00:13:40.386Z</updated>
+    <updated>2026-06-20T05:14:15.654Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -17,6 +17,19 @@ Points: 560
 # Comments: 264]]></summary>
         <author>
             <name>ck2</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Norway imposes near ban on AI in elementary school]]></title>
+        <id>https://news.ycombinator.com/item?id=48600093</id>
+        <link href="https://www.reuters.com/technology/norway-imposes-near-ban-ai-elementary-school-2026-06-19/"/>
+        <updated>2026-06-19T16:03:15.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.reuters.com/technology/norway-imposes-near-ban-ai-elementary-school-2026-06-19/
+Comments URL: https://news.ycombinator.com/item?id=48600093
+Points: 539
+# Comments: 360]]></summary>
+        <author>
+            <name>ilreb</name>
         </author>
     </entry>
     <entry>
@@ -3011,58 +3024,6 @@ Points: 506
 # Comments: 595]]></summary>
         <author>
             <name>d0ks</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Project Hail Mary – Stellar Navigation Chart]]></title>
-        <id>https://news.ycombinator.com/item?id=48225297</id>
-        <link href="https://valhovey.github.io/gaia-mary/"/>
-        <updated>2026-05-21T16:23:11.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://valhovey.github.io/gaia-mary/
-Comments URL: https://news.ycombinator.com/item?id=48225297
-Points: 707
-# Comments: 165]]></summary>
-        <author>
-            <name>speleo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I spent 50 hours drawing a line graph]]></title>
-        <id>https://news.ycombinator.com/item?id=48223997</id>
-        <link href="https://www.dougmacdowell.com/50-hours-to-draw-some-lines.html"/>
-        <updated>2026-05-21T15:05:28.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.dougmacdowell.com/50-hours-to-draw-some-lines.html
-Comments URL: https://news.ycombinator.com/item?id=48223997
-Points: 542
-# Comments: 93]]></summary>
-        <author>
-            <name>dougdude3339</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google's Antigravity bait and switch]]></title>
-        <id>https://news.ycombinator.com/item?id=48222529</id>
-        <link href="https://www.0xsid.com/blog/antigravity-bait-n-switch"/>
-        <updated>2026-05-21T13:50:59.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.0xsid.com/blog/antigravity-bait-n-switch
-Comments URL: https://news.ycombinator.com/item?id=48222529
-Points: 588
-# Comments: 280]]></summary>
-        <author>
-            <name>ssiddharth</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI is just unauthorised plagiarism at a bigger scale]]></title>
-        <id>https://news.ycombinator.com/item?id=48222383</id>
-        <link href="https://axelk.ee/ai-is-just-unauthorised-plagiarism-at-a-bigger-scale/"/>
-        <updated>2026-05-21T13:38:12.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://axelk.ee/ai-is-just-unauthorised-plagiarism-at-a-bigger-scale/
-Comments URL: https://news.ycombinator.com/item?id=48222383
-Points: 636
-# Comments: 501]]></summary>
-        <author>
-            <name>speckx</name>
         </author>
     </entry>
 </feed>
