@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-06-20T16:17:25.823Z</updated>
+    <updated>2026-06-20T18:11:16.258Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -43,6 +43,19 @@ Points: 539
 # Comments: 360]]></summary>
         <author>
             <name>ilreb</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[There are no instances in ATProto]]></title>
+        <id>https://news.ycombinator.com/item?id=48599515</id>
+        <link href="https://overreacted.io/there-are-no-instances-in-atproto/"/>
+        <updated>2026-06-19T15:10:02.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://overreacted.io/there-are-no-instances-in-atproto/
+Comments URL: https://news.ycombinator.com/item?id=48599515
+Points: 502
+# Comments: 282]]></summary>
+        <author>
+            <name>danabramov</name>
         </author>
     </entry>
     <entry>
