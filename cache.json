@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=48608223",
+          "author": "msalsas",
+          "description": "Article URL: https://cssquake.com/\nComments URL: https://news.ycombinator.com/item?id=48608223\nPoints: 506\n# Comments: 107",
+          "link": "https://cssquake.com/",
+          "publishedOn": "2026-06-20T10:49:53.000Z",
+          "wordCount": 1227,
+          "title": "CSSQuake",
+          "imageUrl": "https://cssquake.com/assets/cssquake-social.webp"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=48600946",
           "author": "hn_acker",
           "description": "Article URL: https://www.eff.org/deeplinks/2026/06/court-records-should-be-free\nComments URL: https://news.ycombinator.com/item?id=48600946\nPoints: 505\n# Comments: 134",
@@ -1844,36 +1854,6 @@
           "wordCount": null,
           "title": "Texas woman arrested for Facebook post about town water quality",
           "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=48241997",
-          "author": "lexandstuff",
-          "description": "Article URL: https://notesbylex.com/shipping-a-laptop-to-a-refugee-camp-in-uganda\nComments URL: https://news.ycombinator.com/item?id=48241997\nPoints: 547\n# Comments: 195",
-          "link": "https://notesbylex.com/shipping-a-laptop-to-a-refugee-camp-in-uganda",
-          "publishedOn": "2026-05-22T21:36:55.000Z",
-          "wordCount": 3467,
-          "title": "Shipping a laptop to a refugee camp in Uganda",
-          "imageUrl": "./_media/shipping-laptop-uganda-cover.png"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=48241890",
-          "author": "tlhunter",
-          "description": "https://www.uscis.gov/newsroom/news-releases/us-citizenship-...\nhttps://www.uscis.gov/sites/default/files/document/memos/PM-... [pdf]\nhttps://twitter.com/DHSgov/status/2057817233200418837, https://xcancel.com/DHSgov/status/2057817233200418837\nhttps://www.bbc.com/news/articles/cgrpz4l1klgo\nhttps://www.washingtonpost.com/immigration/2026/05/22/new-ru..., https://archive.is/yi2cX\nComments URL: https://news.ycombinator.com/item?id=48241890\nPoints: 677\n# Comments: 1165",
-          "link": "https://www.nytimes.com/2026/05/22/us/politics/green-card-changes-trump.html",
-          "publishedOn": "2026-05-22T21:27:12.000Z",
-          "wordCount": null,
-          "title": "Green card seekers must leave U.S. to apply, Trump administration says",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=48240419",
-          "author": "louiereederson",
-          "description": "Article URL: https://www.anthropic.com/research/glasswing-initial-update\nComments URL: https://news.ycombinator.com/item?id=48240419\nPoints: 506\n# Comments: 298",
-          "link": "https://www.anthropic.com/research/glasswing-initial-update",
-          "publishedOn": "2026-05-22T19:31:45.000Z",
-          "wordCount": 5457,
-          "title": "Project Glasswing: An Initial Update",
-          "imageUrl": "https://cdn.sanity.io/images/4zrzovbb/website/8831fc381f1087ce855b4fbb4f080b2685ea38ec-1200x630.jpg"
         }
       ]
     },
