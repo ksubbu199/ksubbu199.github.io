@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=48600946",
+          "author": "hn_acker",
+          "description": "Article URL: https://www.eff.org/deeplinks/2026/06/court-records-should-be-free\nComments URL: https://news.ycombinator.com/item?id=48600946\nPoints: 505\n# Comments: 134",
+          "link": "https://www.eff.org/deeplinks/2026/06/court-records-should-be-free",
+          "publishedOn": "2026-06-19T17:34:18.000Z",
+          "wordCount": 1586,
+          "title": "Court Records Should Be Free",
+          "imageUrl": "https://www.eff.org/files/banner_library/supreme-court-3b.jpg"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=48600345",
           "author": "birdculture",
           "description": "Article URL: https://tales.fromprod.com/2026/169/google-workspace-threatening-to-block-firefox.html\nComments URL: https://news.ycombinator.com/item?id=48600345\nPoints: 505\n# Comments: 162",
@@ -24,6 +34,16 @@
           "wordCount": 2911,
           "title": "Hyundai buys Boston Dynamics",
           "imageUrl": "https://startupfortune.com/wp-content/uploads/2026/06/sf-14065-1781845702426.jpg"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=48600167",
+          "author": "oshrimpton",
+          "description": "Article URL: https://arrowtsx.dev/bigger-models/\nComments URL: https://news.ycombinator.com/item?id=48600167\nPoints: 518\n# Comments: 250",
+          "link": "https://arrowtsx.dev/bigger-models/",
+          "publishedOn": "2026-06-19T16:11:25.000Z",
+          "wordCount": 1051,
+          "title": "GPT-5.5 hallucinates 3x more than MIT-licensed GLM-5.2",
+          "imageUrl": null
         },
         {
           "id": "https://news.ycombinator.com/item?id=48600093",
@@ -1854,36 +1874,6 @@
           "wordCount": 5457,
           "title": "Project Glasswing: An Initial Update",
           "imageUrl": "https://cdn.sanity.io/images/4zrzovbb/website/8831fc381f1087ce855b4fbb4f080b2685ea38ec-1200x630.jpg"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=48238789",
-          "author": "tamnd",
-          "description": "Article URL: https://github.com/yt-dlp/yt-dlp/issues/16766\nComments URL: https://news.ycombinator.com/item?id=48238789\nPoints: 500\n# Comments: 513",
-          "link": "https://github.com/yt-dlp/yt-dlp/issues/16766",
-          "publishedOn": "2026-05-22T17:24:12.000Z",
-          "wordCount": 2312,
-          "title": "Bun support is now limited and deprecated",
-          "imageUrl": "https://opengraph.githubassets.com/3de586ef7b1d334166954e9571c2d7e74346f821fbf35daf5016161e19fa7b45/yt-dlp/yt-dlp/issues/16766"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=48237663",
-          "author": "Tiberium",
-          "description": "> (3) The deepseek-v4-pro model API pricing will be officially adjusted to 1/4 of the original price after the 75% discount promotion ends on 2026/05/31 15:59 UTC.\nhttps://x.com/deepseek_ai/status/2057854261699195173\nRelated ongoing thread:\nDeepSeek reasonix, DeepSeek native coding agent with high caching and low cost - https://news.ycombinator.com/item?id=48256953 - May 2026 (135 comments)\nComments URL: https://news.ycombinator.com/item?id=48237663\nPoints: 502\n# Comments: 433",
-          "link": "https://api-docs.deepseek.com/quick_start/pricing",
-          "publishedOn": "2026-05-22T15:59:26.000Z",
-          "wordCount": 341,
-          "title": "DeepSeek makes the V4 Pro price discount permanent",
-          "imageUrl": "https://api-docs.deepseek.com/img/deepseek-social-card.jpeg"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=48237163",
-          "author": "d0ks",
-          "description": "Article URL: https://davidoks.blog/p/why-japanese-companies-do-so-many\nComments URL: https://news.ycombinator.com/item?id=48237163\nPoints: 557\n# Comments: 292",
-          "link": "https://davidoks.blog/p/why-japanese-companies-do-so-many",
-          "publishedOn": "2026-05-22T15:22:04.000Z",
-          "wordCount": 11744,
-          "title": "Why Japanese companies do so many different things",
-          "imageUrl": "https://substackcdn.com/image/fetch/$s_!q5kh!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fff42a7b2-6c27-4773-a0b0-561081c55da1_1605x2000.jpeg"
         }
       ]
     },
@@ -2389,16 +2379,6 @@
           "publishedOn": "2026-05-26T13:49:31.000Z",
           "wordCount": 2143,
           "title": "The Biggest Myth About AI Agents",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=fNNz9a2OIn4",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=fNNz9a2OIn4",
-          "publishedOn": "2026-05-22T14:54:15.000Z",
-          "wordCount": null,
-          "title": "India’s NEXT Economic Crisis: Super El Niño 2026 | Case Study",
           "imageUrl": null
         }
       ]

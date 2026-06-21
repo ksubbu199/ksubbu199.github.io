@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-06-21T00:05:25.693Z</updated>
+    <updated>2026-06-21T06:00:59.339Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Court Records Should Be Free]]></title>
+        <id>https://news.ycombinator.com/item?id=48600946</id>
+        <link href="https://www.eff.org/deeplinks/2026/06/court-records-should-be-free"/>
+        <updated>2026-06-19T17:34:18.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.eff.org/deeplinks/2026/06/court-records-should-be-free
+Comments URL: https://news.ycombinator.com/item?id=48600946
+Points: 505
+# Comments: 134]]></summary>
+        <author>
+            <name>hn_acker</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Google workspace threatening to block Firefox access]]></title>
         <id>https://news.ycombinator.com/item?id=48600345</id>
@@ -30,6 +43,19 @@ Points: 560
 # Comments: 264]]></summary>
         <author>
             <name>ck2</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GPT-5.5 hallucinates 3x more than MIT-licensed GLM-5.2]]></title>
+        <id>https://news.ycombinator.com/item?id=48600167</id>
+        <link href="https://arrowtsx.dev/bigger-models/"/>
+        <updated>2026-06-19T16:11:25.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://arrowtsx.dev/bigger-models/
+Comments URL: https://news.ycombinator.com/item?id=48600167
+Points: 518
+# Comments: 250]]></summary>
+        <author>
+            <name>oshrimpton</name>
         </author>
     </entry>
     <entry>
@@ -2950,57 +2976,6 @@ Points: 506
 # Comments: 298]]></summary>
         <author>
             <name>louiereederson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bun support is now limited and deprecated]]></title>
-        <id>https://news.ycombinator.com/item?id=48238789</id>
-        <link href="https://github.com/yt-dlp/yt-dlp/issues/16766"/>
-        <updated>2026-05-22T17:24:12.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://github.com/yt-dlp/yt-dlp/issues/16766
-Comments URL: https://news.ycombinator.com/item?id=48238789
-Points: 500
-# Comments: 513]]></summary>
-        <author>
-            <name>tamnd</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DeepSeek makes the V4 Pro price discount permanent]]></title>
-        <id>https://news.ycombinator.com/item?id=48237663</id>
-        <link href="https://api-docs.deepseek.com/quick_start/pricing"/>
-        <updated>2026-05-22T15:59:26.000Z</updated>
-        <summary type="html"><![CDATA[> (3) The deepseek-v4-pro model API pricing will be officially adjusted to 1/4 of the original price after the 75% discount promotion ends on 2026/05/31 15:59 UTC.
-https://x.com/deepseek_ai/status/2057854261699195173
-Related ongoing thread:
-DeepSeek reasonix, DeepSeek native coding agent with high caching and low cost - https://news.ycombinator.com/item?id=48256953 - May 2026 (135 comments)
-Comments URL: https://news.ycombinator.com/item?id=48237663
-Points: 502
-# Comments: 433]]></summary>
-        <author>
-            <name>Tiberium</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why Japanese companies do so many different things]]></title>
-        <id>https://news.ycombinator.com/item?id=48237163</id>
-        <link href="https://davidoks.blog/p/why-japanese-companies-do-so-many"/>
-        <updated>2026-05-22T15:22:04.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://davidoks.blog/p/why-japanese-companies-do-so-many
-Comments URL: https://news.ycombinator.com/item?id=48237163
-Points: 557
-# Comments: 292]]></summary>
-        <author>
-            <name>d0ks</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[India’s NEXT Economic Crisis: Super El Niño 2026 | Case Study]]></title>
-        <id>https://www.youtube.com/watch?v=fNNz9a2OIn4</id>
-        <link href="https://www.youtube.com/watch?v=fNNz9a2OIn4"/>
-        <updated>2026-05-22T14:54:15.000Z</updated>
-        <author>
-            <name>Think School</name>
         </author>
     </entry>
 </feed>
