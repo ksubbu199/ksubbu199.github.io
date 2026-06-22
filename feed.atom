@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-06-22T04:14:14.555Z</updated>
+    <updated>2026-06-22T10:37:20.213Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Did my old job only exist because of fraud?]]></title>
+        <id>https://news.ycombinator.com/item?id=48622867</id>
+        <link href="https://david.newgas.net/did-my-old-job-only-exist-because-of-fraud/"/>
+        <updated>2026-06-21T21:40:53.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://david.newgas.net/did-my-old-job-only-exist-because-of-fraud/
+Comments URL: https://news.ycombinator.com/item?id=48622867
+Points: 570
+# Comments: 247]]></summary>
+        <author>
+            <name>advisedwang</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Identity verification on Claude]]></title>
         <id>https://news.ycombinator.com/item?id=48618455</id>
@@ -2946,32 +2959,6 @@ Points: 504
 # Comments: 185]]></summary>
         <author>
             <name>DamnInteresting</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Time to talk about my writerdeck]]></title>
-        <id>https://news.ycombinator.com/item?id=48250144</id>
-        <link href="https://veronicaexplains.net/my-first-writerdeck/"/>
-        <updated>2026-05-23T18:45:37.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://veronicaexplains.net/my-first-writerdeck/
-Comments URL: https://news.ycombinator.com/item?id=48250144
-Points: 500
-# Comments: 288]]></summary>
-        <author>
-            <name>hggh</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Texas woman arrested for Facebook post about town water quality]]></title>
-        <id>https://news.ycombinator.com/item?id=48249747</id>
-        <link href="https://reclaimthenet.org/texas-woman-arrested-for-facebook-post-about-town-water-quality"/>
-        <updated>2026-05-23T18:02:42.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://reclaimthenet.org/texas-woman-arrested-for-facebook-post-about-town-water-quality
-Comments URL: https://news.ycombinator.com/item?id=48249747
-Points: 541
-# Comments: 237]]></summary>
-        <author>
-            <name>abawany</name>
         </author>
     </entry>
 </feed>
