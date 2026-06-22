@@ -6,6 +6,26 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=48630066",
+          "author": "audiodude",
+          "description": "Article URL: https://nevergivethemyourface.com/\nComments URL: https://news.ycombinator.com/item?id=48630066\nPoints: 651\n# Comments: 358",
+          "link": "https://nevergivethemyourface.com/",
+          "publishedOn": "2026-06-22T13:45:48.000Z",
+          "wordCount": 1482,
+          "title": "Never Give Them Your Face",
+          "imageUrl": "https://nevergivethemyourface.com/assets/images/og.png"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=48630020",
+          "author": "tosh",
+          "description": "Article URL: https://mitchellh.com/writing/zig-donation-2026\nComments URL: https://news.ycombinator.com/item?id=48630020\nPoints: 596\n# Comments: 192",
+          "link": "https://mitchellh.com/writing/zig-donation-2026",
+          "publishedOn": "2026-06-22T13:43:01.000Z",
+          "wordCount": 879,
+          "title": "Pledging another $400k to the Zig software foundation",
+          "imageUrl": null
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=48626137",
           "author": "GeneralMaximus",
           "description": "Article URL: https://docs.deno.com/runtime/desktop/\nComments URL: https://news.ycombinator.com/item?id=48626137\nPoints: 778\n# Comments: 308",
@@ -23,6 +43,16 @@
           "publishedOn": "2026-06-21T21:40:53.000Z",
           "wordCount": null,
           "title": "Did my old job only exist because of fraud?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=48622778",
+          "author": "T-A",
+          "description": "Article URL: https://apertvs.ai/\nComments URL: https://news.ycombinator.com/item?id=48622778\nPoints: 506\n# Comments: 168",
+          "link": "https://apertvs.ai/",
+          "publishedOn": "2026-06-21T21:29:43.000Z",
+          "wordCount": 346,
+          "title": "Apertus – Open Foundation Model for Sovereign AI",
           "imageUrl": null
         },
         {
