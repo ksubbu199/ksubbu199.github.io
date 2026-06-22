@@ -2,10 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-06-22T10:37:20.213Z</updated>
+    <updated>2026-06-22T15:50:22.046Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Elon's Scariest Prediction: 2041 is India's Final Deadline to Escape Poverty | Economic Case Study]]></title>
+        <id>https://www.youtube.com/watch?v=c55Z6OlVzJA</id>
+        <link href="https://www.youtube.com/watch?v=c55Z6OlVzJA"/>
+        <updated>2026-06-22T15:16:02.000Z</updated>
+        <author>
+            <name>Think School</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Deno Desktop]]></title>
+        <id>https://news.ycombinator.com/item?id=48626137</id>
+        <link href="https://docs.deno.com/runtime/desktop/"/>
+        <updated>2026-06-22T05:38:40.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://docs.deno.com/runtime/desktop/
+Comments URL: https://news.ycombinator.com/item?id=48626137
+Points: 778
+# Comments: 308]]></summary>
+        <author>
+            <name>GeneralMaximus</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Did my old job only exist because of fraud?]]></title>
         <id>https://news.ycombinator.com/item?id=48622867</id>
@@ -17,6 +39,19 @@ Points: 570
 # Comments: 247]]></summary>
         <author>
             <name>advisedwang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Prefer duplication over the wrong abstraction (2016)]]></title>
+        <id>https://news.ycombinator.com/item?id=48620090</id>
+        <link href="https://sandimetz.com/blog/2016/1/20/the-wrong-abstraction"/>
+        <updated>2026-06-21T16:08:23.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://sandimetz.com/blog/2016/1/20/the-wrong-abstraction
+Comments URL: https://news.ycombinator.com/item?id=48620090
+Points: 517
+# Comments: 326]]></summary>
+        <author>
+            <name>rafaepta</name>
         </author>
     </entry>
     <entry>
@@ -2946,19 +2981,6 @@ Points: 563
 # Comments: 233]]></summary>
         <author>
             <name>Alifatisk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft open-sources “the earliest DOS source code discovered to date”]]></title>
-        <id>https://news.ycombinator.com/item?id=48253386</id>
-        <link href="https://arstechnica.com/gadgets/2026/04/microsoft-open-sources-the-earliest-dos-source-code-discovered-to-date/"/>
-        <updated>2026-05-24T01:21:13.000Z</updated>
-        <summary type="html"><![CDATA[https://opensource.microsoft.com/blog/2026/04/28/continuing-...
-Comments URL: https://news.ycombinator.com/item?id=48253386
-Points: 504
-# Comments: 185]]></summary>
-        <author>
-            <name>DamnInteresting</name>
         </author>
     </entry>
 </feed>

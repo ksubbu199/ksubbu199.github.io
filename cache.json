@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=48626137",
+          "author": "GeneralMaximus",
+          "description": "Article URL: https://docs.deno.com/runtime/desktop/\nComments URL: https://news.ycombinator.com/item?id=48626137\nPoints: 778\n# Comments: 308",
+          "link": "https://docs.deno.com/runtime/desktop/",
+          "publishedOn": "2026-06-22T05:38:40.000Z",
+          "wordCount": 852,
+          "title": "Deno Desktop",
+          "imageUrl": "https://docs.deno.com/runtime/desktop/index.png"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=48622867",
           "author": "advisedwang",
           "description": "Article URL: https://david.newgas.net/did-my-old-job-only-exist-because-of-fraud/\nComments URL: https://news.ycombinator.com/item?id=48622867\nPoints: 570\n# Comments: 247",
@@ -13,6 +23,16 @@
           "publishedOn": "2026-06-21T21:40:53.000Z",
           "wordCount": null,
           "title": "Did my old job only exist because of fraud?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=48620090",
+          "author": "rafaepta",
+          "description": "Article URL: https://sandimetz.com/blog/2016/1/20/the-wrong-abstraction\nComments URL: https://news.ycombinator.com/item?id=48620090\nPoints: 517\n# Comments: 326",
+          "link": "https://sandimetz.com/blog/2016/1/20/the-wrong-abstraction",
+          "publishedOn": "2026-06-21T16:08:23.000Z",
+          "wordCount": 2859,
+          "title": "Prefer duplication over the wrong abstraction (2016)",
           "imageUrl": null
         },
         {
@@ -1854,16 +1874,6 @@
           "wordCount": 103,
           "title": "DeepSeek reasonix, DeepSeek native coding agent with high caching and low cost",
           "imageUrl": "https://raw.githubusercontent.com/esengine/reasonix/main/docs/assets/hero-terminal.svg"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=48253386",
-          "author": "DamnInteresting",
-          "description": "https://opensource.microsoft.com/blog/2026/04/28/continuing-...\nComments URL: https://news.ycombinator.com/item?id=48253386\nPoints: 504\n# Comments: 185",
-          "link": "https://arstechnica.com/gadgets/2026/04/microsoft-open-sources-the-earliest-dos-source-code-discovered-to-date/",
-          "publishedOn": "2026-05-24T01:21:13.000Z",
-          "wordCount": 3045,
-          "title": "Microsoft open-sources “the earliest DOS source code discovered to date”",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/86-DOS-artifact-and-IBM-PC-1152x648.jpg"
         }
       ]
     },
@@ -2061,6 +2071,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKZozRVHRYsYHGEyNKuhhdA",
       "siteUrl": "https://www.youtube.com/channel/UCKZozRVHRYsYHGEyNKuhhdA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=c55Z6OlVzJA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=c55Z6OlVzJA",
+          "publishedOn": "2026-06-22T15:16:02.000Z",
+          "wordCount": null,
+          "title": "Elon's Scariest Prediction: 2041 is India's Final Deadline to Escape Poverty | Economic Case Study",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/shorts/Fv_XwQs0JF8",
           "author": null,
