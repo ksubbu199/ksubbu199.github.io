@@ -6,6 +6,26 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=48647799",
+          "author": "tosh",
+          "description": "Article URL: https://github.com/future-file-format/f3\nComments URL: https://news.ycombinator.com/item?id=48647799\nPoints: 559\n# Comments: 125",
+          "link": "https://github.com/future-file-format/f3",
+          "publishedOn": "2026-06-23T16:53:32.000Z",
+          "wordCount": 2718,
+          "title": "F3",
+          "imageUrl": "https://opengraph.githubassets.com/fde8408a613349b0f4d4b305403077c50372d1c1b59aa511e42fcd6383aa6a21/future-file-format/F3"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=48645173",
+          "author": "hn_acker",
+          "description": "Article URL: https://pluralistic.net/2026/06/23/destroy-the-village/\nComments URL: https://news.ycombinator.com/item?id=48645173\nPoints: 728\n# Comments: 390",
+          "link": "https://pluralistic.net/2026/06/23/destroy-the-village/",
+          "publishedOn": "2026-06-23T14:04:43.000Z",
+          "wordCount": 3278,
+          "title": "What we call \"age verification\" is actually mass surveillance",
+          "imageUrl": null
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=48636377",
           "author": "TechTechTech",
           "description": "Article URL: https://unsloth.ai/docs/models/glm-5.2\nComments URL: https://news.ycombinator.com/item?id=48636377\nPoints: 509\n# Comments: 239",
@@ -1934,16 +1954,6 @@
           "wordCount": 4197,
           "title": "Search engines alternatives now that Google isn't Google anymore",
           "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-2151663494.jpg?resize=1200,801"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=48265206",
-          "author": "theletterf",
-          "description": "Article URL: https://www.vatican.va/content/leo-xiv/en/encyclicals/documents/20260515-magnifica-humanitas.html\nComments URL: https://news.ycombinator.com/item?id=48265206\nPoints: 668\n# Comments: 282",
-          "link": "https://www.vatican.va/content/leo-xiv/en/encyclicals/documents/20260515-magnifica-humanitas.html",
-          "publishedOn": "2026-05-25T10:11:29.000Z",
-          "wordCount": 43493,
-          "title": "Magnifica Humanitas",
-          "imageUrl": null
         }
       ]
     },
