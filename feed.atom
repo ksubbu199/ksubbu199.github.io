@@ -2,10 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-06-23T08:35:04.708Z</updated>
+    <updated>2026-06-23T12:07:24.375Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Flock-Powered Police Chiefs Stalking Women Shows Why Warrants Are Needed]]></title>
+        <id>https://news.ycombinator.com/item?id=48634694</id>
+        <link href="https://ipvm.com/reports/police-chiefs-track"/>
+        <updated>2026-06-22T19:13:46.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://ipvm.com/reports/police-chiefs-track
+Comments URL: https://news.ycombinator.com/item?id=48634694
+Points: 538
+# Comments: 248]]></summary>
+        <author>
+            <name>jhonovich</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Canada plans 'nuclear renaissance' with up to 10 reactors built by 2040]]></title>
+        <id>https://news.ycombinator.com/item?id=48634585</id>
+        <link href="https://www.cbc.ca/news/politics/federal-nuclear-strategy-9.7244509"/>
+        <updated>2026-06-22T19:06:48.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.cbc.ca/news/politics/federal-nuclear-strategy-9.7244509
+Comments URL: https://news.ycombinator.com/item?id=48634585
+Points: 506
+# Comments: 349]]></summary>
+        <author>
+            <name>geox</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Steam Machine launches today]]></title>
         <id>https://news.ycombinator.com/item?id=48632884</id>
@@ -54,6 +80,19 @@ Points: 596
 # Comments: 192]]></summary>
         <author>
             <name>tosh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GLM 5.2 vs. Opus]]></title>
+        <id>https://news.ycombinator.com/item?id=48626866</id>
+        <link href="https://techstackups.com/comparisons/glm-5.2-vs-opus/"/>
+        <updated>2026-06-22T07:22:03.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://techstackups.com/comparisons/glm-5.2-vs-opus/
+Comments URL: https://news.ycombinator.com/item?id=48626866
+Points: 506
+# Comments: 330]]></summary>
+        <author>
+            <name>ritzaco</name>
         </author>
     </entry>
     <entry>
@@ -3011,16 +3050,6 @@ Points: 668
 # Comments: 282]]></summary>
         <author>
             <name>theletterf</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Pulse: Forward deployed engineering heats up again]]></title>
-        <id>6a0f3a9025c8da0001c931d1</id>
-        <link href="https://blog.pragmaticengineer.com/the-pulse-forward-deployed-engineering-heats-up-again/"/>
-        <updated>2026-05-24T20:35:11.000Z</updated>
-        <summary type="html"><![CDATA[Massive demand for the role at Google, OpenAI, and Anthropic. The latest version of the FDE role looks like the consultant / solution architect role done by many early-junior engineers.]]></summary>
-        <author>
-            <name>Gergely Orosz</name>
         </author>
     </entry>
 </feed>

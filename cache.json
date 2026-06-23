@@ -6,6 +6,26 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=48634694",
+          "author": "jhonovich",
+          "description": "Article URL: https://ipvm.com/reports/police-chiefs-track\nComments URL: https://news.ycombinator.com/item?id=48634694\nPoints: 538\n# Comments: 248",
+          "link": "https://ipvm.com/reports/police-chiefs-track",
+          "publishedOn": "2026-06-22T19:13:46.000Z",
+          "wordCount": null,
+          "title": "Flock-Powered Police Chiefs Stalking Women Shows Why Warrants Are Needed",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=48634585",
+          "author": "geox",
+          "description": "Article URL: https://www.cbc.ca/news/politics/federal-nuclear-strategy-9.7244509\nComments URL: https://news.ycombinator.com/item?id=48634585\nPoints: 506\n# Comments: 349",
+          "link": "https://www.cbc.ca/news/politics/federal-nuclear-strategy-9.7244509",
+          "publishedOn": "2026-06-22T19:06:48.000Z",
+          "wordCount": 4743,
+          "title": "Canada plans 'nuclear renaissance' with up to 10 reactors built by 2040",
+          "imageUrl": "https://i.cbc.ca/ais/4d6542bd-2c48-422d-8c55-7951b56230a5,1782148011502/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C169%2C4544%2C2556%29%3BResize%3D620"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=48632884",
           "author": "theschwa",
           "description": "https://store.steampowered.com/sale/steammachine\nhttps://www.lttlabs.com/articles/2026/06/22/the-newell-nucle...\nhttps://www.youtube.com/watch?v=66QzlDewigE\nComments URL: https://news.ycombinator.com/item?id=48632884\nPoints: 905\n# Comments: 783",
@@ -34,6 +54,16 @@
           "wordCount": 879,
           "title": "Pledging another $400k to the Zig software foundation",
           "imageUrl": null
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=48626866",
+          "author": "ritzaco",
+          "description": "Article URL: https://techstackups.com/comparisons/glm-5.2-vs-opus/\nComments URL: https://news.ycombinator.com/item?id=48626866\nPoints: 506\n# Comments: 330",
+          "link": "https://techstackups.com/comparisons/glm-5.2-vs-opus/",
+          "publishedOn": "2026-06-22T07:22:03.000Z",
+          "wordCount": 2966,
+          "title": "GLM 5.2 vs. Opus",
+          "imageUrl": "https://techstackups.com/img/comparisons/glm-5.2-vs-opus/cover.jpg"
         },
         {
           "id": "https://news.ycombinator.com/item?id=48626137",
@@ -2082,16 +2112,6 @@
           "publishedOn": "2026-06-11T16:22:16.000Z",
           "wordCount": 2014,
           "title": "The Pulse: Antigravity 2.0 takes ‘IDE’ out of its new IDE",
-          "imageUrl": null
-        },
-        {
-          "id": "6a0f3a9025c8da0001c931d1",
-          "author": "Gergely Orosz",
-          "description": "Massive demand for the role at Google, OpenAI, and Anthropic. The latest version of the FDE role looks like the consultant / solution architect role done by many early-junior engineers.",
-          "link": "https://blog.pragmaticengineer.com/the-pulse-forward-deployed-engineering-heats-up-again/",
-          "publishedOn": "2026-05-24T20:35:11.000Z",
-          "wordCount": 2422,
-          "title": "The Pulse: Forward deployed engineering heats up again",
           "imageUrl": null
         }
       ]
