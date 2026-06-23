@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-06-23T00:06:20.301Z</updated>
+    <updated>2026-06-23T05:00:00.499Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -145,6 +145,19 @@ Points: 506
 # Comments: 107]]></summary>
         <author>
             <name>msalsas</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Help I accidentally a wigglegram]]></title>
+        <id>https://news.ycombinator.com/item?id=48605561</id>
+        <link href="https://lmao.center/blog/wiggle-accidents/"/>
+        <updated>2026-06-20T01:55:16.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://lmao.center/blog/wiggle-accidents/
+Comments URL: https://news.ycombinator.com/item?id=48605561
+Points: 508
+# Comments: 120]]></summary>
+        <author>
+            <name>gregsadetsky</name>
         </author>
     </entry>
     <entry>
@@ -3008,33 +3021,6 @@ Points: 668
         <summary type="html"><![CDATA[Massive demand for the role at Google, OpenAI, and Anthropic. The latest version of the FDE role looks like the consultant / solution architect role done by many early-junior engineers.]]></summary>
         <author>
             <name>Gergely Orosz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: Audiomass – a free, open-source multitrack audio editor for the web]]></title>
-        <id>https://news.ycombinator.com/item?id=48258015</id>
-        <link href="https://audiomass.co/?multitrack=1"/>
-        <updated>2026-05-24T15:25:43.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://audiomass.co/?multitrack=1
-Comments URL: https://news.ycombinator.com/item?id=48258015
-Points: 504
-# Comments: 110]]></summary>
-        <author>
-            <name>pantelisk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DeepSeek reasonix, DeepSeek native coding agent with high caching and low cost]]></title>
-        <id>https://news.ycombinator.com/item?id=48256953</id>
-        <link href="https://esengine.github.io/DeepSeek-Reasonix/"/>
-        <updated>2026-05-24T13:02:06.000Z</updated>
-        <summary type="html"><![CDATA[Related ongoing thread:
-DeepSeek makes the V4 Pro price discount permanent - https://news.ycombinator.com/item?id=48237663 - May 2026 (384 comments)
-Comments URL: https://news.ycombinator.com/item?id=48256953
-Points: 563
-# Comments: 233]]></summary>
-        <author>
-            <name>Alifatisk</name>
         </author>
     </entry>
 </feed>
