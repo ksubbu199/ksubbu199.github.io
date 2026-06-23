@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-06-23T15:47:11.708Z</updated>
+    <updated>2026-06-23T17:55:16.087Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Reliability fail: No automated zone failover for Coinbase’s global trading service]]></title>
+        <id>6a3ab42d341dfc0001969c22</id>
+        <link href="https://blog.pragmaticengineer.com/coinbase-fail/"/>
+        <updated>2026-06-23T16:30:59.000Z</updated>
+        <summary type="html"><![CDATA[Hi, this is Gergely with a bonus, free issue of the Pragmatic Engineer Newsletter. In every issue, I cover Big Tech and startups through the lens of senior engineers and engineering leaders. Today, we cover one out of four topics from this past The Pulse issue. Full subscribers received the]]></summary>
+        <author>
+            <name>Gergely Orosz</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[GLM-5.2 – How to Run Locally]]></title>
         <id>https://news.ycombinator.com/item?id=48636377</id>
