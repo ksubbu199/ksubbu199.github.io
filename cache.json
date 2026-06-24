@@ -86,6 +86,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://news.ycombinator.com/item?id=48626930",
+          "author": "vantareed",
+          "description": "Article URL: https://github.com/openai/codex/issues/28224\nComments URL: https://news.ycombinator.com/item?id=48626930\nPoints: 501\n# Comments: 269",
+          "link": "https://github.com/openai/codex/issues/28224",
+          "publishedOn": "2026-06-22T07:30:17.000Z",
+          "wordCount": 10266,
+          "title": "Codex logging bug may write TBs to local SSDs",
+          "imageUrl": "https://opengraph.githubassets.com/8df94030d29b8be1057c283444543312a0c33570bf6736a7d2974ed2a1e8606e/openai/codex/issues/28224"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=48626866",
           "author": "ritzaco",
           "description": "Article URL: https://techstackups.com/comparisons/glm-5.2-vs-opus/\nComments URL: https://news.ycombinator.com/item?id=48626866\nPoints: 506\n# Comments: 330",
@@ -1934,26 +1944,6 @@
           "wordCount": 40456,
           "title": "California moves to exempt Linux from its age-verification law after backlash",
           "imageUrl": "https://cdn.mos.cms.futurecdn.net/Nhs4yvdLbHSMdgjnZmv4wn-1024-80.jpg"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=48267290",
-          "author": "obscurette",
-          "description": "Article URL: https://stevemagness.substack.com/p/the-cost-of-safetyism\nComments URL: https://news.ycombinator.com/item?id=48267290\nPoints: 506\n# Comments: 580",
-          "link": "https://stevemagness.substack.com/p/the-cost-of-safetyism",
-          "publishedOn": "2026-05-25T14:29:52.000Z",
-          "wordCount": null,
-          "title": "What we lost when we stopped letting kids leave the front yard",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=48266051",
-          "author": "elorant",
-          "description": "Article URL: https://techcrunch.com/2026/05/21/six-search-engines-worth-trying-now-that-google-isnt-really-google-anymore/\nComments URL: https://news.ycombinator.com/item?id=48266051\nPoints: 511\n# Comments: 474",
-          "link": "https://techcrunch.com/2026/05/21/six-search-engines-worth-trying-now-that-google-isnt-really-google-anymore/",
-          "publishedOn": "2026-05-25T12:27:11.000Z",
-          "wordCount": 4197,
-          "title": "Search engines alternatives now that Google isn't Google anymore",
-          "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-2151663494.jpg?resize=1200,801"
         }
       ]
     },

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-06-23T23:56:58.700Z</updated>
+    <updated>2026-06-24T03:58:06.741Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -129,6 +129,19 @@ Points: 596
 # Comments: 192]]></summary>
         <author>
             <name>tosh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Codex logging bug may write TBs to local SSDs]]></title>
+        <id>https://news.ycombinator.com/item?id=48626930</id>
+        <link href="https://github.com/openai/codex/issues/28224"/>
+        <updated>2026-06-22T07:30:17.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://github.com/openai/codex/issues/28224
+Comments URL: https://news.ycombinator.com/item?id=48626930
+Points: 501
+# Comments: 269]]></summary>
+        <author>
+            <name>vantareed</name>
         </author>
     </entry>
     <entry>
@@ -3060,32 +3073,6 @@ Points: 699
 # Comments: 305]]></summary>
         <author>
             <name>rbanffy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What we lost when we stopped letting kids leave the front yard]]></title>
-        <id>https://news.ycombinator.com/item?id=48267290</id>
-        <link href="https://stevemagness.substack.com/p/the-cost-of-safetyism"/>
-        <updated>2026-05-25T14:29:52.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://stevemagness.substack.com/p/the-cost-of-safetyism
-Comments URL: https://news.ycombinator.com/item?id=48267290
-Points: 506
-# Comments: 580]]></summary>
-        <author>
-            <name>obscurette</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Search engines alternatives now that Google isn't Google anymore]]></title>
-        <id>https://news.ycombinator.com/item?id=48266051</id>
-        <link href="https://techcrunch.com/2026/05/21/six-search-engines-worth-trying-now-that-google-isnt-really-google-anymore/"/>
-        <updated>2026-05-25T12:27:11.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://techcrunch.com/2026/05/21/six-search-engines-worth-trying-now-that-google-isnt-really-google-anymore/
-Comments URL: https://news.ycombinator.com/item?id=48266051
-Points: 511
-# Comments: 474]]></summary>
-        <author>
-            <name>elorant</name>
         </author>
     </entry>
 </feed>
