@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=48649435",
+          "author": "turtleyacht",
+          "description": "https://www.openculture.com/2026/06/this-man-has-been-drawin...\nComments URL: https://news.ycombinator.com/item?id=48649435\nPoints: 524\n# Comments: 56",
+          "link": "http://www.jerrysmap.com/the-map",
+          "publishedOn": "2026-06-23T18:40:22.000Z",
+          "wordCount": 3930,
+          "title": "Jerry's Map",
+          "imageUrl": null
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=48649011",
           "author": "justinwp",
           "description": "https://xcancel.com/JPoehnelt/status/2069482265953087602\nComments URL: https://news.ycombinator.com/item?id=48649011\nPoints: 553\n# Comments: 320",
@@ -1934,16 +1944,6 @@
           "wordCount": 7758,
           "title": "GitHub Actions was down",
           "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=48272984",
-          "author": "signa11",
-          "description": "Article URL: https://nolanlawson.com/2026/05/25/using-ai-to-write-better-code-more-slowly/\nComments URL: https://news.ycombinator.com/item?id=48272984\nPoints: 542\n# Comments: 203",
-          "link": "https://nolanlawson.com/2026/05/25/using-ai-to-write-better-code-more-slowly/",
-          "publishedOn": "2026-05-25T23:16:59.000Z",
-          "wordCount": 4381,
-          "title": "Using AI to write better code more slowly",
-          "imageUrl": "https://nolanlawson.com/wp-content/uploads/2025/01/favicon.png?w=32"
         }
       ]
     },

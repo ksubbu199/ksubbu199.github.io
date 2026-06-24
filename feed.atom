@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-06-24T10:49:57.330Z</updated>
+    <updated>2026-06-24T13:21:42.943Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Jerry's Map]]></title>
+        <id>https://news.ycombinator.com/item?id=48649435</id>
+        <link href="http://www.jerrysmap.com/the-map"/>
+        <updated>2026-06-23T18:40:22.000Z</updated>
+        <summary type="html"><![CDATA[https://www.openculture.com/2026/06/this-man-has-been-drawin...
+Comments URL: https://news.ycombinator.com/item?id=48649435
+Points: 524
+# Comments: 56]]></summary>
+        <author>
+            <name>turtleyacht</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Fired by Google for creating the Google workspace CLI]]></title>
         <id>https://news.ycombinator.com/item?id=48649011</id>
@@ -3060,19 +3073,6 @@ Points: 639
 Right?]]></summary>
         <author>
             <name>Boot.dev Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Using AI to write better code more slowly]]></title>
-        <id>https://news.ycombinator.com/item?id=48272984</id>
-        <link href="https://nolanlawson.com/2026/05/25/using-ai-to-write-better-code-more-slowly/"/>
-        <updated>2026-05-25T23:16:59.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://nolanlawson.com/2026/05/25/using-ai-to-write-better-code-more-slowly/
-Comments URL: https://news.ycombinator.com/item?id=48272984
-Points: 542
-# Comments: 203]]></summary>
-        <author>
-            <name>signa11</name>
         </author>
     </entry>
 </feed>
