@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-06-24T13:21:42.943Z</updated>
+    <updated>2026-06-24T16:21:43.373Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[We’re making Bunny DNS free]]></title>
+        <id>https://news.ycombinator.com/item?id=48657030</id>
+        <link href="https://bunny.net/blog/were-making-bunny-dns-free/"/>
+        <updated>2026-06-24T08:50:41.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://bunny.net/blog/were-making-bunny-dns-free/
+Comments URL: https://news.ycombinator.com/item?id=48657030
+Points: 607
+# Comments: 199]]></summary>
+        <author>
+            <name>dabinat</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Jerry's Map]]></title>
         <id>https://news.ycombinator.com/item?id=48649435</id>
@@ -30,6 +43,19 @@ Points: 553
 # Comments: 320]]></summary>
         <author>
             <name>justinwp</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[In memory of the man who put red and green squiggles under words]]></title>
+        <id>https://news.ycombinator.com/item?id=48648959</id>
+        <link href="https://devblogs.microsoft.com/oldnewthing/20260622-00/?p=112451"/>
+        <updated>2026-06-23T18:10:47.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://devblogs.microsoft.com/oldnewthing/20260622-00/?p=112451
+Comments URL: https://news.ycombinator.com/item?id=48648959
+Points: 549
+# Comments: 96]]></summary>
+        <author>
+            <name>saikatsg</name>
         </author>
     </entry>
     <entry>
