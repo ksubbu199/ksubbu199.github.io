@@ -2,10 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-06-25T18:09:42.771Z</updated>
+    <updated>2026-06-25T20:56:49.540Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[An entire Herculaneum scroll has been read for the first time]]></title>
+        <id>https://news.ycombinator.com/item?id=48675179</id>
+        <link href="https://scrollprize.org/firstscroll"/>
+        <updated>2026-06-25T15:48:07.000Z</updated>
+        <summary type="html"><![CDATA[Preprint: https://scrollprize.org/pdf/main.pdf
+https://github.com/ScrollPrize/villa
+Comments URL: https://news.ycombinator.com/item?id=48675179
+Points: 583
+# Comments: 143]]></summary>
+        <author>
+            <name>verditelabs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ford AI hiccups push carmaker to rehire ‘gray beard’ inspectors]]></title>
         <id>https://news.ycombinator.com/item?id=48674446</id>
@@ -17,6 +31,19 @@ Points: 528
 # Comments: 265]]></summary>
         <author>
             <name>alanwreath</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: I made Google Trends for Hacker News by indexing 18 years of comments]]></title>
+        <id>https://news.ycombinator.com/item?id=48673671</id>
+        <link href="https://hackernewstrends.com/"/>
+        <updated>2026-06-25T14:08:55.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://hackernewstrends.com
+Comments URL: https://news.ycombinator.com/item?id=48673671
+Points: 547
+# Comments: 137]]></summary>
+        <author>
+            <name>ytkimirti</name>
         </author>
     </entry>
     <entry>
