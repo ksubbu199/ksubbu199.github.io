@@ -6,6 +6,26 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=48696585",
+          "author": "aurenvale",
+          "description": "Article URL: https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf\nComments URL: https://news.ycombinator.com/item?id=48696585\nPoints: 563\n# Comments: 218",
+          "link": "https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf",
+          "publishedOn": "2026-06-27T09:18:52.000Z",
+          "wordCount": 430,
+          "title": "DSpark: Speculative decoding accelerates LLM inference [pdf]",
+          "imageUrl": "https://opengraph.githubassets.com/9e82c00fc59cdbb9acf50afb1d2e5fa3d7fd958ac41a140f78660a2779148555/deepseek-ai/DeepSpec"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=48692995",
+          "author": "bobrenjc93",
+          "description": "https://archive.md/ArXuF\nhttps://www.nbcnews.com/tech/tech-news/us-government-gives-a...\nComments URL: https://news.ycombinator.com/item?id=48692995\nPoints: 506\n# Comments: 669",
+          "link": "https://www.semafor.com/article/06/27/2026/us-releases-powerful-anthropic-model-mythos-to-some-us-companies",
+          "publishedOn": "2026-06-26T22:48:28.000Z",
+          "wordCount": 769,
+          "title": "U.S. allows Anthropic to release Mythos AI to ‘trusted’ US organizations",
+          "imageUrl": "https://img.semafor.com/50a98e4cab1aadfa340671d35d9027ed27e6899b-740x493.png?rect=0,53,740,389&w=1200&h=630&q=75&auto=format"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=48690101",
           "author": "alain94040",
           "description": "https://archive.ph/PCQQl\nComments URL: https://news.ycombinator.com/item?id=48690101\nPoints: 656\n# Comments: 805",
@@ -1914,16 +1934,6 @@
           "wordCount": null,
           "title": "Please Use AI",
           "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=48318481",
-          "author": "1vuio0pswjnm7",
-          "description": "Article URL: https://www.bbc.com/future/article/20260513-your-car-is-spying-on-you-its-about-to-get-worse\nComments URL: https://news.ycombinator.com/item?id=48318481\nPoints: 501\n# Comments: 285",
-          "link": "https://www.bbc.com/future/article/20260513-your-car-is-spying-on-you-its-about-to-get-worse",
-          "publishedOn": "2026-05-29T03:01:00.000Z",
-          "wordCount": 11106,
-          "title": "Cars collect a startling amount of data about you",
-          "imageUrl": "https://ychef.files.bbci.co.uk/624x351/p0nkx9w7.jpg"
         }
       ]
     },
@@ -2091,6 +2101,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKZozRVHRYsYHGEyNKuhhdA",
       "siteUrl": "https://www.youtube.com/channel/UCKZozRVHRYsYHGEyNKuhhdA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=rRcu6PE82dU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=rRcu6PE82dU",
+          "publishedOn": "2026-06-27T14:04:45.000Z",
+          "wordCount": null,
+          "title": "Billionaire’s Card | How AMEX built the most powerful Billionaire Network? | Case Study",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=CSiNS9566Vk",
           "author": null,
