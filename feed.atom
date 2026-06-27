@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-06-26T23:06:17.377Z</updated>
+    <updated>2026-06-27T03:26:56.525Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -39,6 +39,19 @@ Points: 619
         <updated>2026-06-26T13:53:28.000Z</updated>
         <author>
             <name>Think School</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Incident CVE-2026-LGTM]]></title>
+        <id>https://news.ycombinator.com/item?id=48686093</id>
+        <link href="https://nesbitt.io/2026/06/26/incident-report-cve-2026-lgtm.html"/>
+        <updated>2026-06-26T12:58:07.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://nesbitt.io/2026/06/26/incident-report-cve-2026-lgtm.html
+Comments URL: https://news.ycombinator.com/item?id=48686093
+Points: 524
+# Comments: 86]]></summary>
+        <author>
+            <name>mooreds</name>
         </author>
     </entry>
     <entry>
@@ -3023,32 +3036,6 @@ Points: 575
 # Comments: 405]]></summary>
         <author>
             <name>craigmart</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Citing 'severe' math deficits, UC faculty demand a return to SAT tests for STEM]]></title>
-        <id>https://news.ycombinator.com/item?id=48309233</id>
-        <link href="https://www.latimes.com/california/story/2026-05-27/uc-math-professors-demand-return-of-sat-for-stem-admissions"/>
-        <updated>2026-05-28T14:13:00.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.latimes.com/california/story/2026-05-27/uc-math-professors-demand-return-of-sat-for-stem-admissions
-Comments URL: https://news.ycombinator.com/item?id=48309233
-Points: 548
-# Comments: 747]]></summary>
-        <author>
-            <name>brandonb</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Disagreement among frontier LLMs on real-world fact-checks]]></title>
-        <id>https://news.ycombinator.com/item?id=48307887</id>
-        <link href="https://lenz.io/research/llm-disagreement"/>
-        <updated>2026-05-28T12:20:19.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://lenz.io/research/llm-disagreement
-Comments URL: https://news.ycombinator.com/item?id=48307887
-Points: 500
-# Comments: 344]]></summary>
-        <author>
-            <name>kostaj</name>
         </author>
     </entry>
     <entry>

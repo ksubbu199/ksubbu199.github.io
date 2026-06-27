@@ -26,6 +26,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://news.ycombinator.com/item?id=48686093",
+          "author": "mooreds",
+          "description": "Article URL: https://nesbitt.io/2026/06/26/incident-report-cve-2026-lgtm.html\nComments URL: https://news.ycombinator.com/item?id=48686093\nPoints: 524\n# Comments: 86",
+          "link": "https://nesbitt.io/2026/06/26/incident-report-cve-2026-lgtm.html",
+          "publishedOn": "2026-06-26T12:58:07.000Z",
+          "wordCount": 2401,
+          "title": "Incident CVE-2026-LGTM",
+          "imageUrl": "https://nesbitt.io/images/boxes.png"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=48679608",
           "author": "bilsbie",
           "description": "Article URL: https://expression.fire.org/p/the-papers-please-era-of-the-internet\nComments URL: https://news.ycombinator.com/item?id=48679608\nPoints: 522\n# Comments: 242",
@@ -1964,26 +1974,6 @@
           "wordCount": 3734,
           "title": "Claude Opus 4.8",
           "imageUrl": "https://cdn.sanity.io/images/4zrzovbb/website/0eaa0ed2dce9810169112e1c77de2585fcf1f5c2-2880x1620.jpg"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=48309233",
-          "author": "brandonb",
-          "description": "Article URL: https://www.latimes.com/california/story/2026-05-27/uc-math-professors-demand-return-of-sat-for-stem-admissions\nComments URL: https://news.ycombinator.com/item?id=48309233\nPoints: 548\n# Comments: 747",
-          "link": "https://www.latimes.com/california/story/2026-05-27/uc-math-professors-demand-return-of-sat-for-stem-admissions",
-          "publishedOn": "2026-05-28T14:13:00.000Z",
-          "wordCount": 6340,
-          "title": "Citing 'severe' math deficits, UC faculty demand a return to SAT tests for STEM",
-          "imageUrl": "https://ca-times.brightspotcdn.com/dims4/default/6a6f7ae/2147483647/strip/true/crop/5472x2873+0+388/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F71%2F9a%2Fa7e16b5640b59762cc3e758ffc1a%2F1294188-me-uc-irvine-student-housing-001-ajs.jpg"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=48307887",
-          "author": "kostaj",
-          "description": "Article URL: https://lenz.io/research/llm-disagreement\nComments URL: https://news.ycombinator.com/item?id=48307887\nPoints: 500\n# Comments: 344",
-          "link": "https://lenz.io/research/llm-disagreement",
-          "publishedOn": "2026-05-28T12:20:19.000Z",
-          "wordCount": 21218,
-          "title": "Disagreement among frontier LLMs on real-world fact-checks",
-          "imageUrl": "https://lenz.io/research/llm-disagreement/og.png"
         }
       ]
     },
