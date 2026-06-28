@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-06-28T03:49:57.623Z</updated>
+    <updated>2026-06-28T07:51:23.366Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[India’s Ignored Goldmine : Why Ageing India is a Trillion dollar Opportunity?]]></title>
+        <id>https://www.youtube.com/watch?v=DrXaa0jD4oo</id>
+        <link href="https://www.youtube.com/watch?v=DrXaa0jD4oo"/>
+        <updated>2026-06-28T05:57:44.000Z</updated>
+        <author>
+            <name>Think School</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Pollen tried to remove my article about Callum Negus-Fancey, and Google is assisting to it]]></title>
         <id>6a4069be08e0e1000161f830</id>
@@ -63,6 +72,19 @@ Points: 606
 # Comments: 123]]></summary>
         <author>
             <name>tosh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fintech Engineering Handbook]]></title>
+        <id>https://news.ycombinator.com/item?id=48696982</id>
+        <link href="https://w.pitula.me/fintech-engineering-handbook/"/>
+        <updated>2026-06-27T10:28:53.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://w.pitula.me/fintech-engineering-handbook/
+Comments URL: https://news.ycombinator.com/item?id=48696982
+Points: 541
+# Comments: 171]]></summary>
+        <author>
+            <name>signa11</name>
         </author>
     </entry>
     <entry>
@@ -2988,19 +3010,6 @@ Points: 505
 # Comments: 192]]></summary>
         <author>
             <name>tambourine_man</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SQLite is all you need for durable workflows]]></title>
-        <id>https://news.ycombinator.com/item?id=48326802</id>
-        <link href="https://obeli.sk/blog/sqlite-is-all-you-need-for-durable-workflows/"/>
-        <updated>2026-05-29T17:54:50.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://obeli.sk/blog/sqlite-is-all-you-need-for-durable-workflows/
-Comments URL: https://news.ycombinator.com/item?id=48326802
-Points: 521
-# Comments: 257]]></summary>
-        <author>
-            <name>tomasol</name>
         </author>
     </entry>
     <entry>
