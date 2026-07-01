@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=48740771",
+          "author": "Pragmata",
+          "description": "Article URL: https://twitter.com/AnthropicAI/status/2072106151890809341\nComments URL: https://news.ycombinator.com/item?id=48740771\nPoints: 637\n# Comments: 347",
+          "link": "https://twitter.com/AnthropicAI/status/2072106151890809341",
+          "publishedOn": "2026-06-30T23:55:12.000Z",
+          "wordCount": 432,
+          "title": "Department of Commerce has lifted export controls on Claude Fable 5 and Mythos 5",
+          "imageUrl": "https://pbs.twimg.com/profile_images/1798110641414443008/XP8gyBaY_200x200.jpg"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=48736605",
           "author": "marinesebastian",
           "description": "Article URL: https://www.anthropic.com/news/claude-sonnet-5\nComments URL: https://news.ycombinator.com/item?id=48736605\nPoints: 691\n# Comments: 366",
@@ -1964,36 +1974,6 @@
           "wordCount": 6247,
           "title": "Age verification for social media, the beginning of the end for a free internet?",
           "imageUrl": "https://mullvad.net/press/MullvadVPN_logo_Round_RGB_Color_positive.png"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=48359232",
-          "author": "prakashqwerty",
-          "description": "Article URL: https://github.com/stanford-cs336/assignment1-basics/blob/main/CLAUDE.md\nComments URL: https://news.ycombinator.com/item?id=48359232\nPoints: 500\n# Comments: 153",
-          "link": "https://github.com/stanford-cs336/assignment1-basics/blob/main/CLAUDE.md",
-          "publishedOn": "2026-06-01T16:41:49.000Z",
-          "wordCount": 3408,
-          "title": "AI Agent Guidelines for CS336 at Stanford",
-          "imageUrl": "https://opengraph.githubassets.com/2655a7819751e33b4c41f6f7e76ef72a38d6f9a40c3545a76eafcd2cb5301ed5/stanford-cs336/assignment1-basics"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=48359102",
-          "author": "ssiddharth",
-          "description": "https://krebsonsecurity.com/2026/06/hackers-used-metas-ai-su...\nComments URL: https://news.ycombinator.com/item?id=48359102\nPoints: 832\n# Comments: 206",
-          "link": "https://www.0xsid.com/blog/meta-account-takeover-fiasco",
-          "publishedOn": "2026-06-01T16:31:42.000Z",
-          "wordCount": 1412,
-          "title": "The newest Instagram “exploit” is the goofiest I've seen",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=48358646",
-          "author": "surprisetalk",
-          "description": "https://www.reuters.com/business/ai-giant-anthropic-confiden...\nhttps://www.nytimes.com/2026/06/01/technology/anthropic-ipo....\nComments URL: https://news.ycombinator.com/item?id=48358646\nPoints: 503\n# Comments: 414",
-          "link": "https://www.anthropic.com/news/confidential-draft-s1-sec",
-          "publishedOn": "2026-06-01T16:00:40.000Z",
-          "wordCount": 902,
-          "title": "Anthropic confidentially submits draft S-1 to the SEC",
-          "imageUrl": "https://cdn.sanity.io/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg"
         }
       ]
     },
@@ -2569,16 +2549,6 @@
           "publishedOn": "2026-06-04T16:54:10.000Z",
           "wordCount": 2106,
           "title": "Episode Coming Soon!",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/shorts/c9YL8KmOL7c",
-          "author": null,
-          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-          "link": "https://www.youtube.com/shorts/c9YL8KmOL7c",
-          "publishedOn": "2026-06-01T13:23:53.000Z",
-          "wordCount": 2166,
-          "title": "Experts Will Be More Important Than Generalists",
           "imageUrl": null
         }
       ]
