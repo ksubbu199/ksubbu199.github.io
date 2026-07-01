@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-07-01T19:55:12.920Z</updated>
+    <updated>2026-07-01T21:27:55.321Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -39,6 +39,19 @@ Points: 559
 # Comments: 431]]></summary>
         <author>
             <name>backlit4034</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Asahi Linux 7.1 Progress Report]]></title>
+        <id>https://news.ycombinator.com/item?id=48744518</id>
+        <link href="https://asahilinux.org/2026/06/progress-report-7-1/"/>
+        <updated>2026-07-01T10:07:04.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://asahilinux.org/2026/06/progress-report-7-1/
+Comments URL: https://news.ycombinator.com/item?id=48744518
+Points: 506
+# Comments: 182]]></summary>
+        <author>
+            <name>pantalaimon</name>
         </author>
     </entry>
     <entry>
@@ -3130,19 +3143,6 @@ Points: 533
 # Comments: 225]]></summary>
         <author>
             <name>semanser</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fragments: June  2]]></title>
-        <id>https://martinfowler.com/fragments/2026-06-02.html</id>
-        <link href="https://martinfowler.com/fragments/2026-06-02.html"/>
-        <updated>2026-06-02T09:21:00.000Z</updated>
-        <summary type="html"><![CDATA[Greg Wilson has noticed that lots of folks are using dodgy metrics to figure out if AI tools are worth their costs.
-Would you measure lines of code generated, or tickets closed? Or would you send out a survey asking whether developers feel more productive? Each of those approaches is flawed in a different way;
-He lists lots of common metrics, and why they are flawed. Sadly he doesn’t give any suggestions on what would be better. In my view, since we cannot measure productivity, any metrics are weak evidence at the best of times.
-I do somewhat use one of his flawed measures: “Asking Developers If They Feel More Productive”. While I acknowledge the problems he gives with this measure, I find that in an environment where decent measures are hard to find, even such a dim light is the best we h…]]></summary>
-        <author>
-            <name>Martin Fowler</name>
         </author>
     </entry>
     <entry>
