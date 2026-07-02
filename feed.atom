@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-07-02T17:46:54.349Z</updated>
+    <updated>2026-07-02T19:24:13.748Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The Pulse: a new trend, smart model routing]]></title>
+        <id>6a46b160d2d7770001b1479c</id>
+        <link href="https://blog.pragmaticengineer.com/the-pulse-a-new-trend-smart-model-routing/"/>
+        <updated>2026-07-02T18:46:24.000Z</updated>
+        <summary type="html"><![CDATA[Are there any ‘intelligent’ router solutions out there which select the right model for the right task? I looked into it, and there are a few options.]]></summary>
+        <author>
+            <name>Gergely Orosz</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[This Company Is Bringing Foreign Universities to India]]></title>
         <id>https://www.youtube.com/shorts/yXgfsA1Uks8</id>
@@ -47,6 +57,19 @@ Points: 587
 # Comments: 242]]></summary>
         <author>
             <name>drewfax</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bring back crappy forums]]></title>
+        <id>https://news.ycombinator.com/item?id=48755731</id>
+        <link href="https://tedium.co/2026/07/01/online-web-forums-retrospective/"/>
+        <updated>2026-07-02T02:30:16.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://tedium.co/2026/07/01/online-web-forums-retrospective/
+Comments URL: https://news.ycombinator.com/item?id=48755731
+Points: 508
+# Comments: 319]]></summary>
+        <author>
+            <name>pentagrama</name>
         </author>
     </entry>
     <entry>
@@ -117,7 +140,7 @@ Points: 537
         <updated>2026-07-01T12:12:17.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://box2d.org/posts/2026/06/announcing-box3d/
 Comments URL: https://news.ycombinator.com/item?id=48745445
-Points: 500
+Points: 501
 # Comments: 120]]></summary>
         <author>
             <name>makepanic</name>
