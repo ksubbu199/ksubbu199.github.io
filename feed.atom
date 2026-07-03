@@ -2,10 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-07-03T12:13:22.049Z</updated>
+    <updated>2026-07-03T15:11:26.776Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Half-Baked Product]]></title>
+        <id>https://news.ycombinator.com/item?id=48772388</id>
+        <link href="https://weli.dev/blog/half-baked-product/"/>
+        <updated>2026-07-03T08:23:32.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://weli.dev/blog/half-baked-product/
+Comments URL: https://news.ycombinator.com/item?id=48772388
+Points: 717
+# Comments: 204]]></summary>
+        <author>
+            <name>weli</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Switzerland has 25 gbit internet and America doesn't]]></title>
+        <id>https://news.ycombinator.com/item?id=48770647</id>
+        <link href="https://stefan.schueller.net/posts/the-free-market-lie/"/>
+        <updated>2026-07-03T04:16:17.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://stefan.schueller.net/posts/the-free-market-lie/
+Comments URL: https://news.ycombinator.com/item?id=48770647
+Points: 508
+# Comments: 394]]></summary>
+        <author>
+            <name>talonx</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Virginia bans sale of geolocation data]]></title>
         <id>https://news.ycombinator.com/item?id=48767347</id>
@@ -40,6 +66,19 @@ Points: 540
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Since Linux 6.9, LUKS suspend stopped wiping disk-encryption keys from memory]]></title>
+        <id>https://news.ycombinator.com/item?id=48763035</id>
+        <link href="https://mathstodon.xyz/@iblech/116769502749142438"/>
+        <updated>2026-07-02T15:25:16.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://mathstodon.xyz/@iblech/116769502749142438
+Comments URL: https://news.ycombinator.com/item?id=48763035
+Points: 508
+# Comments: 217]]></summary>
+        <author>
+            <name>IngoBlechschmid</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Spain Orders Blacklist of Palantir from Public and Private Companies]]></title>
         <id>https://news.ycombinator.com/item?id=48762725</id>
         <link href="https://clashreport.com/world/articles/spain-orders-blacklist-of-us-tech-giant-palantir-from-public-and-private-companies-fsnc2z17gjv"/>
@@ -63,6 +102,19 @@ Points: 532
 # Comments: 209]]></summary>
         <author>
             <name>soheilpro</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Immich 3.0]]></title>
+        <id>https://news.ycombinator.com/item?id=48761944</id>
+        <link href="https://github.com/immich-app/immich/discussions/29439"/>
+        <updated>2026-07-02T14:13:26.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://github.com/immich-app/immich/discussions/29439
+Comments URL: https://news.ycombinator.com/item?id=48761944
+Points: 530
+# Comments: 257]]></summary>
+        <author>
+            <name>hashier</name>
         </author>
     </entry>
     <entry>
@@ -131,8 +183,8 @@ Points: 508
         <updated>2026-07-01T22:03:36.000Z</updated>
         <summary type="html"><![CDATA[Article URL: https://zcode.z.ai/en
 Comments URL: https://news.ycombinator.com/item?id=48753715
-Points: 501
-# Comments: 349]]></summary>
+Points: 503
+# Comments: 350]]></summary>
         <author>
             <name>chvid</name>
         </author>
@@ -3088,32 +3140,6 @@ Points: 553
 # Comments: 209]]></summary>
         <author>
             <name>mooreds</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[U.S. to dismantle system tracking Atlantic currents that are at risk of collapse]]></title>
-        <id>https://news.ycombinator.com/item?id=48392232</id>
-        <link href="https://e360.yale.edu/digest/trump-ooi-amoc"/>
-        <updated>2026-06-04T00:44:13.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://e360.yale.edu/digest/trump-ooi-amoc
-Comments URL: https://news.ycombinator.com/item?id=48392232
-Points: 511
-# Comments: 338]]></summary>
-        <author>
-            <name>rguiscard</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Failing grades soar with AI usage, dwindling math skills in Berkeley CS classes]]></title>
-        <id>https://news.ycombinator.com/item?id=48392004</id>
-        <link href="https://www.dailycal.org/news/campus/academics/failing-grades-soar-as-professors-see-greater-ai-usage-dwindling-math-skills-in-uc-berkeley/article_16fad0bf-02cb-4b8c-8d88-888ffd9f8608.html"/>
-        <updated>2026-06-04T00:18:02.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.dailycal.org/news/campus/academics/failing-grades-soar-as-professors-see-greater-ai-usage-dwindling-math-skills-in-uc-berkeley/article_16fad0bf-02cb-4b8c-8d88-888ffd9f8608.html
-Comments URL: https://news.ycombinator.com/item?id=48392004
-Points: 534
-# Comments: 478]]></summary>
-        <author>
-            <name>littlexsparkee</name>
         </author>
     </entry>
     <entry>

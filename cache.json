@@ -6,6 +6,26 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=48772388",
+          "author": "weli",
+          "description": "Article URL: https://weli.dev/blog/half-baked-product/\nComments URL: https://news.ycombinator.com/item?id=48772388\nPoints: 717\n# Comments: 204",
+          "link": "https://weli.dev/blog/half-baked-product/",
+          "publishedOn": "2026-07-03T08:23:32.000Z",
+          "wordCount": null,
+          "title": "Half-Baked Product",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=48770647",
+          "author": "talonx",
+          "description": "Article URL: https://stefan.schueller.net/posts/the-free-market-lie/\nComments URL: https://news.ycombinator.com/item?id=48770647\nPoints: 508\n# Comments: 394",
+          "link": "https://stefan.schueller.net/posts/the-free-market-lie/",
+          "publishedOn": "2026-07-03T04:16:17.000Z",
+          "wordCount": 2379,
+          "title": "Why Switzerland has 25 gbit internet and America doesn't",
+          "imageUrl": "https://stefan.schueller.net/posts/the-free-market-lie/title-image.png"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=48767347",
           "author": "toomuchtodo",
           "description": "Article URL: https://www.hunton.com/privacy-and-cybersecurity-law-blog/virginia-bans-sale-of-geolocation-data\nComments URL: https://news.ycombinator.com/item?id=48767347\nPoints: 540\n# Comments: 94",
@@ -14,6 +34,16 @@
           "wordCount": 2349,
           "title": "Virginia bans sale of geolocation data",
           "imageUrl": "https://www.hunton.com/privacy-and-cybersecurity-law-blog/assets/images-t1783027116/206510.png"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=48763035",
+          "author": "IngoBlechschmid",
+          "description": "Article URL: https://mathstodon.xyz/@iblech/116769502749142438\nComments URL: https://news.ycombinator.com/item?id=48763035\nPoints: 508\n# Comments: 217",
+          "link": "https://mathstodon.xyz/@iblech/116769502749142438",
+          "publishedOn": "2026-07-02T15:25:16.000Z",
+          "wordCount": 431,
+          "title": "Since Linux 6.9, LUKS suspend stopped wiping disk-encryption keys from memory",
+          "imageUrl": null
         },
         {
           "id": "https://news.ycombinator.com/item?id=48762725",
@@ -34,6 +64,16 @@
           "wordCount": 2576,
           "title": "Podman v6.0.0",
           "imageUrl": "https://s0.wp.com/i/blank.jpg"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=48761944",
+          "author": "hashier",
+          "description": "Article URL: https://github.com/immich-app/immich/discussions/29439\nComments URL: https://news.ycombinator.com/item?id=48761944\nPoints: 530\n# Comments: 257",
+          "link": "https://github.com/immich-app/immich/discussions/29439",
+          "publishedOn": "2026-07-02T14:13:26.000Z",
+          "wordCount": 12036,
+          "title": "Immich 3.0",
+          "imageUrl": "https://opengraph.githubassets.com/82979bdd61c696a5d64eb0c88e825c7119435c6744351c52c70dcf0c2abed919/immich-app/immich/discussions/29439"
         },
         {
           "id": "https://news.ycombinator.com/item?id=48759634",
@@ -68,7 +108,7 @@
         {
           "id": "https://news.ycombinator.com/item?id=48753715",
           "author": "chvid",
-          "description": "Article URL: https://zcode.z.ai/en\nComments URL: https://news.ycombinator.com/item?id=48753715\nPoints: 501\n# Comments: 349",
+          "description": "Article URL: https://zcode.z.ai/en\nComments URL: https://news.ycombinator.com/item?id=48753715\nPoints: 503\n# Comments: 350",
           "link": "https://zcode.z.ai/en",
           "publishedOn": "2026-07-01T22:03:36.000Z",
           "wordCount": 1798,
@@ -1944,26 +1984,6 @@
           "wordCount": 905,
           "title": "Ian's Secure Shoelace Knot",
           "imageUrl": "https://www.fieggen.com/shoelace/knots/ias0x.png"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=48392232",
-          "author": "rguiscard",
-          "description": "Article URL: https://e360.yale.edu/digest/trump-ooi-amoc\nComments URL: https://news.ycombinator.com/item?id=48392232\nPoints: 511\n# Comments: 338",
-          "link": "https://e360.yale.edu/digest/trump-ooi-amoc",
-          "publishedOn": "2026-06-04T00:44:13.000Z",
-          "wordCount": 770,
-          "title": "U.S. to dismantle system tracking Atlantic currents that are at risk of collapse",
-          "imageUrl": "https://yale-threesixty.transforms.svdcdn.com/production/OOI_WHOI.png?w=1200&q=60&auto=format&fit=max&dm=1780485909&s=e350e236f7ed410535e0f2084db500a5"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=48392004",
-          "author": "littlexsparkee",
-          "description": "Article URL: https://www.dailycal.org/news/campus/academics/failing-grades-soar-as-professors-see-greater-ai-usage-dwindling-math-skills-in-uc-berkeley/article_16fad0bf-02cb-4b8c-8d88-888ffd9f8608.html\nComments URL: https://news.ycombinator.com/item?id=48392004\nPoints: 534\n# Comments: 478",
-          "link": "https://www.dailycal.org/news/campus/academics/failing-grades-soar-as-professors-see-greater-ai-usage-dwindling-math-skills-in-uc-berkeley/article_16fad0bf-02cb-4b8c-8d88-888ffd9f8608.html",
-          "publishedOn": "2026-06-04T00:18:02.000Z",
-          "wordCount": 11831,
-          "title": "Failing grades soar with AI usage, dwindling math skills in Berkeley CS classes",
-          "imageUrl": "https://bloximages.chicago2.vip.townnews.com/dailycal.org/content/tncms/assets/v3/editorial/c/40/c40f11cf-dfb0-4973-a534-c64044165f16/6a206ddeec122.image.jpg?crop=1793%2C941%2C0%2C106&resize=1200%2C630&order=crop%2Cresize"
         }
       ]
     },
