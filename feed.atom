@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-07-03T06:34:41.922Z</updated>
+    <updated>2026-07-03T09:58:41.408Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -50,6 +50,19 @@ Points: 528
 # Comments: 170]]></summary>
         <author>
             <name>mgh2</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Podman v6.0.0]]></title>
+        <id>https://news.ycombinator.com/item?id=48762098</id>
+        <link href="https://blog.podman.io/2026/07/introducing-podman-v6-0-0/"/>
+        <updated>2026-07-02T14:23:09.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://blog.podman.io/2026/07/introducing-podman-v6-0-0/
+Comments URL: https://news.ycombinator.com/item?id=48762098
+Points: 532
+# Comments: 209]]></summary>
+        <author>
+            <name>soheilpro</name>
         </author>
     </entry>
     <entry>
@@ -3101,32 +3114,6 @@ Points: 805
 # Comments: 310]]></summary>
         <author>
             <name>MaxLeiter</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How LLMs work]]></title>
-        <id>https://news.ycombinator.com/item?id=48389360</id>
-        <link href="https://www.0xkato.xyz/how-llms-actually-work/"/>
-        <updated>2026-06-03T20:15:13.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.0xkato.xyz/how-llms-actually-work/
-Comments URL: https://news.ycombinator.com/item?id=48389360
-Points: 597
-# Comments: 173]]></summary>
-        <author>
-            <name>0xkato</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Elixir v1.20: Now a gradually typed language]]></title>
-        <id>https://news.ycombinator.com/item?id=48388324</id>
-        <link href="https://elixir-lang.org/blog/2026/06/03/elixir-v1-20-0-released/"/>
-        <updated>2026-06-03T19:02:26.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://elixir-lang.org/blog/2026/06/03/elixir-v1-20-0-released/
-Comments URL: https://news.ycombinator.com/item?id=48388324
-Points: 613
-# Comments: 224]]></summary>
-        <author>
-            <name>cloud8421</name>
         </author>
     </entry>
     <entry>
