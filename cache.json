@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=48767347",
+          "author": "toomuchtodo",
+          "description": "Article URL: https://www.hunton.com/privacy-and-cybersecurity-law-blog/virginia-bans-sale-of-geolocation-data\nComments URL: https://news.ycombinator.com/item?id=48767347\nPoints: 540\n# Comments: 94",
+          "link": "https://www.hunton.com/privacy-and-cybersecurity-law-blog/virginia-bans-sale-of-geolocation-data",
+          "publishedOn": "2026-07-02T21:03:45.000Z",
+          "wordCount": 2349,
+          "title": "Virginia bans sale of geolocation data",
+          "imageUrl": "https://www.hunton.com/privacy-and-cybersecurity-law-blog/assets/images-t1783027116/206510.png"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=48762725",
           "author": "mgh2",
           "description": "Article URL: https://clashreport.com/world/articles/spain-orders-blacklist-of-us-tech-giant-palantir-from-public-and-private-companies-fsnc2z17gjv\nComments URL: https://news.ycombinator.com/item?id=48762725\nPoints: 528\n# Comments: 170",
@@ -14,6 +24,16 @@
           "wordCount": 15129,
           "title": "Spain Orders Blacklist of Palantir from Public and Private Companies",
           "imageUrl": "https://imagedelivery.net/qIvImu8MgTZD-kGvW-i83w/production.gdh/b4f0dccd-d76f-4a2c-8132-24ae18004b72/w=1200,h=630,fit=cover,q=80"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=48759634",
+          "author": "doener",
+          "description": "Article URL: https://github.com/Chocobozzz/PeerTube\nComments URL: https://news.ycombinator.com/item?id=48759634\nPoints: 531\n# Comments: 242",
+          "link": "https://github.com/Chocobozzz/PeerTube",
+          "publishedOn": "2026-07-02T11:17:45.000Z",
+          "wordCount": 4283,
+          "title": "PeerTube is a free, decentralized and federated video platform",
+          "imageUrl": "https://opengraph.githubassets.com/2f18741e2bd94ae743f90396e1727c73f52e2398293bec492010cfaf9b69c987/Chocobozzz/PeerTube"
         },
         {
           "id": "https://news.ycombinator.com/item?id=48755965",
@@ -1974,56 +1994,6 @@
           "wordCount": 4455,
           "title": "Gemma 4 12B: A unified, encoder-free multimodal model",
           "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Social_Image_G4_12B.width-1300.png"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=48384482",
-          "author": "pentagrama",
-          "description": "Article URL: https://www.blackmagicdesign.com/products/davinciresolve/whatsnew\nComments URL: https://news.ycombinator.com/item?id=48384482\nPoints: 502\n# Comments: 223",
-          "link": "https://www.blackmagicdesign.com/products/davinciresolve/whatsnew",
-          "publishedOn": "2026-06-03T14:18:39.000Z",
-          "wordCount": 4854,
-          "title": "DaVinci Resolve 21",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=48384355",
-          "author": "Tomte",
-          "description": "Article URL: https://burntsushi.net/encephalitis/\nComments URL: https://news.ycombinator.com/item?id=48384355\nPoints: 529\n# Comments: 164",
-          "link": "https://burntsushi.net/encephalitis/",
-          "publishedOn": "2026-06-03T14:10:06.000Z",
-          "wordCount": 1154,
-          "title": "I was recently diagnosed with anti-NMDA receptor encephalitis",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=48383667",
-          "author": "riddley",
-          "description": "Article URL: https://mouseless.click\nComments URL: https://news.ycombinator.com/item?id=48383667\nPoints: 509\n# Comments: 211",
-          "link": "https://mouseless.click/",
-          "publishedOn": "2026-06-03T13:22:06.000Z",
-          "wordCount": 28,
-          "title": "Mouseless – keyboard-driven control of macOS/Linux/Windows",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=48383220",
-          "author": "reconnecting",
-          "description": "Article URL: https://www.bbc.com/news/articles/c93x0k194yno\nComments URL: https://news.ycombinator.com/item?id=48383220\nPoints: 521\n# Comments: 484",
-          "link": "https://www.bbc.com/news/articles/c93x0k194yno",
-          "publishedOn": "2026-06-03T12:42:07.000Z",
-          "wordCount": 5344,
-          "title": "Meta workers can opt out of being tracked at work up to 30 min",
-          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/947f/live/8311e710-5f35-11f1-b9e6-7bbc2b9cb9c1.jpg"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=48383056",
-          "author": "pdyc",
-          "description": "https://www.bloomberg.com/news/articles/2026-06-02/uber-caps... (https://archive.ph/ZrwAy)\nComments URL: https://news.ycombinator.com/item?id=48383056\nPoints: 507\n# Comments: 629",
-          "link": "https://simonwillison.net/2026/Jun/3/uber-caps-usage/",
-          "publishedOn": "2026-06-03T12:25:14.000Z",
-          "wordCount": 1040,
-          "title": "Uber's $1,500/month AI limit is a useful signal for AI tool pricing",
-          "imageUrl": null
         }
       ]
     },
