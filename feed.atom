@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-07-05T00:01:13.577Z</updated>
+    <updated>2026-07-05T04:56:41.092Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Leaking YouTube creators' private videos]]></title>
+        <id>https://news.ycombinator.com/item?id=48786781</id>
+        <link href="https://javoriuski.com/post/youtube"/>
+        <updated>2026-07-04T16:45:10.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://javoriuski.com/post/youtube
+Comments URL: https://news.ycombinator.com/item?id=48786781
+Points: 537
+# Comments: 303]]></summary>
+        <author>
+            <name>javxfps</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The bottleneck might be the air in the room]]></title>
         <id>https://news.ycombinator.com/item?id=48783117</id>
@@ -3073,46 +3086,6 @@ Points: 566
 # Comments: 193]]></summary>
         <author>
             <name>maltalex</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gov.uk has replaced Stripe with Dutch provider Adyen]]></title>
-        <id>https://news.ycombinator.com/item?id=48415217</id>
-        <link href="https://www.theregister.com/public-sector/2026/06/04/govuk-goes-dutch-on-payments-as-it-dumps-stripe/5250763"/>
-        <updated>2026-06-05T16:55:30.000Z</updated>
-        <summary type="html"><![CDATA[https://gds.blog.gov.uk/2026/06/02/building-for-the-future-m...
-https://www.adyen.com/press-and-media/adyen-payments-gov-uk
-Comments URL: https://news.ycombinator.com/item?id=48415217
-Points: 526
-# Comments: 200]]></summary>
-        <author>
-            <name>toomuchtodo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New method turns ocean water into drinking water, without waste]]></title>
-        <id>https://news.ycombinator.com/item?id=48413500</id>
-        <link href="https://www.rochester.edu/newscenter/what-is-desalination-definition-ocean-water-704732/"/>
-        <updated>2026-06-05T15:04:03.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.rochester.edu/newscenter/what-is-desalination-definition-ocean-water-704732/
-Comments URL: https://news.ycombinator.com/item?id=48413500
-Points: 503
-# Comments: 206]]></summary>
-        <author>
-            <name>speckx</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Did Claude increase bugs in rsync?]]></title>
-        <id>https://news.ycombinator.com/item?id=48411635</id>
-        <link href="https://alexispurslane.github.io/rsync-analysis/"/>
-        <updated>2026-06-05T12:43:33.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://alexispurslane.github.io/rsync-analysis/
-Comments URL: https://news.ycombinator.com/item?id=48411635
-Points: 500
-# Comments: 517]]></summary>
-        <author>
-            <name>logicprog</name>
         </author>
     </entry>
     <entry>

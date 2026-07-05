@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=48786781",
+          "author": "javxfps",
+          "description": "Article URL: https://javoriuski.com/post/youtube\nComments URL: https://news.ycombinator.com/item?id=48786781\nPoints: 537\n# Comments: 303",
+          "link": "https://javoriuski.com/post/youtube",
+          "publishedOn": "2026-07-04T16:45:10.000Z",
+          "wordCount": 2005,
+          "title": "Leaking YouTube creators' private videos",
+          "imageUrl": "https://javoriuski.com/assets/youtube.jpg"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=48783117",
           "author": "gslin",
           "description": "Article URL: https://blog.mikebowler.ca/2026/07/03/co2-and-decision-making/\nComments URL: https://news.ycombinator.com/item?id=48783117\nPoints: 530\n# Comments: 322",
@@ -1944,36 +1954,6 @@
           "wordCount": 3365,
           "title": "S&P 500 rejects SpaceX, also blocking entry for OpenAI and Anthropic",
           "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/SpaceX-signage-2560x1440.jpg"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=48415217",
-          "author": "toomuchtodo",
-          "description": "https://gds.blog.gov.uk/2026/06/02/building-for-the-future-m...\nhttps://www.adyen.com/press-and-media/adyen-payments-gov-uk\nComments URL: https://news.ycombinator.com/item?id=48415217\nPoints: 526\n# Comments: 200",
-          "link": "https://www.theregister.com/public-sector/2026/06/04/govuk-goes-dutch-on-payments-as-it-dumps-stripe/5250763",
-          "publishedOn": "2026-06-05T16:55:30.000Z",
-          "wordCount": 7111,
-          "title": "Gov.uk has replaced Stripe with Dutch provider Adyen",
-          "imageUrl": "https://image.theregister.com/252660.jpg?imageId=252660&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=48413500",
-          "author": "speckx",
-          "description": "Article URL: https://www.rochester.edu/newscenter/what-is-desalination-definition-ocean-water-704732/\nComments URL: https://news.ycombinator.com/item?id=48413500\nPoints: 503\n# Comments: 206",
-          "link": "https://www.rochester.edu/newscenter/what-is-desalination-definition-ocean-water-704732/",
-          "publishedOn": "2026-06-05T15:04:03.000Z",
-          "wordCount": 2710,
-          "title": "New method turns ocean water into drinking water, without waste",
-          "imageUrl": "https://www.rochester.edu/newscenter/wp-content/uploads/2026/05/fea-what-is-desalination-definition-ocean-water-2026-04-08_Guo_desalination_0064-1200x630.jpg"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=48411635",
-          "author": "logicprog",
-          "description": "Article URL: https://alexispurslane.github.io/rsync-analysis/\nComments URL: https://news.ycombinator.com/item?id=48411635\nPoints: 500\n# Comments: 517",
-          "link": "https://alexispurslane.github.io/rsync-analysis/",
-          "publishedOn": "2026-06-05T12:43:33.000Z",
-          "wordCount": 5158,
-          "title": "Did Claude increase bugs in rsync?",
-          "imageUrl": null
         }
       ]
     },
