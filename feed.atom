@@ -2,10 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-07-05T18:02:28.359Z</updated>
+    <updated>2026-07-05T20:14:00.049Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Organic Maps]]></title>
+        <id>https://news.ycombinator.com/item?id=48794446</id>
+        <link href="https://organicmaps.app/"/>
+        <updated>2026-07-05T14:14:30.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://organicmaps.app/
+Comments URL: https://news.ycombinator.com/item?id=48794446
+Points: 577
+# Comments: 175]]></summary>
+        <author>
+            <name>tosh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[If you're a button, you have one job]]></title>
+        <id>https://news.ycombinator.com/item?id=48790689</id>
+        <link href="https://unsung.aresluna.org/if-youre-a-button-you-have-one-job/"/>
+        <updated>2026-07-05T02:01:03.000Z</updated>
+        <summary type="html"><![CDATA[Related: https://aresluna.org/show-your-hands-honor/
+Comments URL: https://news.ycombinator.com/item?id=48790689
+Points: 503
+# Comments: 247]]></summary>
+        <author>
+            <name>nozzlegear</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Command and Conquer Generals natively ported to macOS, iPhone, iPad using Fable]]></title>
         <id>https://news.ycombinator.com/item?id=48788283</id>
