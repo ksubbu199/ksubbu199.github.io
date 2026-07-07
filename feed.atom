@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-07-07T10:55:00.999Z</updated>
+    <updated>2026-07-07T13:20:33.133Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Viability of local models for coding]]></title>
+        <id>https://martinfowler.com/articles/exploring-gen-ai/local-models-for-coding-factors.html</id>
+        <link href="https://martinfowler.com/articles/exploring-gen-ai/local-models-for-coding-factors.html"/>
+        <updated>2026-07-07T12:34:00.000Z</updated>
+        <summary type="html"><![CDATA[Birgitta Böckeler recently spent some time trying out
+      running local LLMs for some programming tasks. In this memo she outlines the factors that
+      influence how viable they are for the job.
+more…]]></summary>
+        <author>
+            <name>Martin Fowler</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[You Are Loving Your Parents Wrong]]></title>
         <id>https://www.youtube.com/shorts/yhLmA56qHSo</id>
@@ -14,6 +27,32 @@
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>Think School</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fable turned reMarkable into Tom Riddle's diary from Harry Potter]]></title>
+        <id>https://news.ycombinator.com/item?id=48811591</id>
+        <link href="https://github.com/MaximeRivest/Riddle"/>
+        <updated>2026-07-06T23:00:24.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://github.com/MaximeRivest/Riddle
+Comments URL: https://news.ycombinator.com/item?id=48811591
+Points: 533
+# Comments: 336]]></summary>
+        <author>
+            <name>modinfo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GLM 5.2 and the coming AI margin collapse]]></title>
+        <id>https://news.ycombinator.com/item?id=48809877</id>
+        <link href="https://martinalderson.com/posts/the-upcoming-ai-margin-collapse-part-1-glm-5-2/"/>
+        <updated>2026-07-06T20:14:55.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://martinalderson.com/posts/the-upcoming-ai-margin-collapse-part-1-glm-5-2/
+Comments URL: https://news.ycombinator.com/item?id=48809877
+Points: 542
+# Comments: 332]]></summary>
+        <author>
+            <name>martinald</name>
         </author>
     </entry>
     <entry>
