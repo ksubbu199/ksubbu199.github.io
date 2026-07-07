@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-07-07T21:23:30.098Z</updated>
+    <updated>2026-07-07T23:00:59.349Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Chat Control passed first round in EU Parliament]]></title>
+        <id>https://news.ycombinator.com/item?id=48819008</id>
+        <link href="https://www.heise.de/en/news/Showdown-in-Strasbourg-The-unexpected-return-of-Chat-Control-1-0-11356680.html"/>
+        <updated>2026-07-07T15:16:15.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.heise.de/en/news/Showdown-in-Strasbourg-The-unexpected-return-of-Chat-Control-1-0-11356680.html
+Comments URL: https://news.ycombinator.com/item?id=48819008
+Points: 511
+# Comments: 223]]></summary>
+        <author>
+            <name>miroljub</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[StreetComplete: Fixing OpenStreetMap, one tiny quest at a time]]></title>
         <id>https://news.ycombinator.com/item?id=48816883</id>
