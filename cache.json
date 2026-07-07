@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=48804993",
+          "author": "dijksterhuis",
+          "description": "Article URL: https://news.xbox.com/en-us/2026/07/06/resetting-xbox/\nComments URL: https://news.ycombinator.com/item?id=48804993\nPoints: 501\n# Comments: 489",
+          "link": "https://news.xbox.com/en-us/2026/07/06/resetting-xbox/",
+          "publishedOn": "2026-07-06T14:18:23.000Z",
+          "wordCount": 2659,
+          "title": "Resetting Xbox",
+          "imageUrl": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/05/Bootup_Wire-9c068aa206c9a72d2b1f.png"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=48797916",
           "author": "bouh",
           "description": "Article URL: https://www.opentools.studio/\nComments URL: https://news.ycombinator.com/item?id=48797916\nPoints: 581\n# Comments: 133",
@@ -1974,26 +1984,6 @@
           "wordCount": 5477,
           "title": "Building from zero after addiction, prison, and a felony",
           "imageUrl": "https://gavinray97.github.io/static/images/building-from-zero.svg"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=48434436",
-          "author": "predkambrij",
-          "description": "Article URL: https://github.com/anthropics/claude-code/issues/65697\nComments URL: https://news.ycombinator.com/item?id=48434436\nPoints: 509\n# Comments: 291",
-          "link": "https://github.com/anthropics/claude-code/issues/65697",
-          "publishedOn": "2026-06-07T13:06:52.000Z",
-          "wordCount": 8194,
-          "title": "Anthropic, please ship an official Claude Desktop for Linux",
-          "imageUrl": "https://opengraph.githubassets.com/bddfec0dbc008aeb374f3db8d7f65c1c6d634b3b36cc24cb1e48c7cb18705ea3/anthropics/claude-code/issues/65697"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=48434312",
-          "author": "poisonfountain",
-          "description": "Article URL: https://human-in-the-loop.bearblog.dev/llms-are-eroding-my-software-engineering-career-and-i-dont-know-what-to-do/\nComments URL: https://news.ycombinator.com/item?id=48434312\nPoints: 602\n# Comments: 551",
-          "link": "https://human-in-the-loop.bearblog.dev/llms-are-eroding-my-software-engineering-career-and-i-dont-know-what-to-do/",
-          "publishedOn": "2026-06-07T12:49:29.000Z",
-          "wordCount": 2622,
-          "title": "LLMs are eroding my software engineering career and I don't know what to do",
-          "imageUrl": "https://i.ibb.co/SDdRz6RG/pawel-czerwinski-G6ez-Kt1-XOs-unsplash-1.jpg"
         }
       ]
     },
