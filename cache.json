@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=48808482",
+          "author": "peter_d_sherman",
+          "description": "Article URL: https://openwrt.org/toh/openwrt/one\nComments URL: https://news.ycombinator.com/item?id=48808482\nPoints: 558\n# Comments: 220",
+          "link": "https://openwrt.org/toh/openwrt/one",
+          "publishedOn": "2026-07-06T18:23:12.000Z",
+          "wordCount": 2613,
+          "title": "OpenWrt One – Open Hardware Router",
+          "imageUrl": null
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=48804993",
           "author": "dijksterhuis",
           "description": "Article URL: https://news.xbox.com/en-us/2026/07/06/resetting-xbox/\nComments URL: https://news.ycombinator.com/item?id=48804993\nPoints: 501\n# Comments: 489",
@@ -1974,16 +1984,6 @@
           "wordCount": 1407,
           "title": "Dopamine Fracking",
           "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=48437406",
-          "author": "gavinray",
-          "description": "Article URL: https://gavinray97.github.io/blog/building-from-zero-after-addiction-prison-felony\nComments URL: https://news.ycombinator.com/item?id=48437406\nPoints: 530\n# Comments: 238",
-          "link": "https://gavinray97.github.io/blog/building-from-zero-after-addiction-prison-felony",
-          "publishedOn": "2026-06-07T18:33:07.000Z",
-          "wordCount": 5477,
-          "title": "Building from zero after addiction, prison, and a felony",
-          "imageUrl": "https://gavinray97.github.io/static/images/building-from-zero.svg"
         }
       ]
     },
