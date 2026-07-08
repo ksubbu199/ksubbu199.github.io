@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-07-08T08:26:55.844Z</updated>
+    <updated>2026-07-08T11:03:32.112Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -17,6 +17,19 @@ Points: 513
 # Comments: 673]]></summary>
         <author>
             <name>nickslaughter02</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[30papers.com – Ilya's 30 essential ML papers, in a beginner friendly format]]></title>
+        <id>https://news.ycombinator.com/item?id=48819608</id>
+        <link href="https://30papers.com/"/>
+        <updated>2026-07-07T15:58:13.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://30papers.com/
+Comments URL: https://news.ycombinator.com/item?id=48819608
+Points: 538
+# Comments: 78]]></summary>
+        <author>
+            <name>notmcrowley</name>
         </author>
     </entry>
     <entry>
@@ -56,6 +69,32 @@ Points: 533
 # Comments: 171]]></summary>
         <author>
             <name>gasull</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[98% isn't much]]></title>
+        <id>https://news.ycombinator.com/item?id=48816959</id>
+        <link href="https://whynothugo.nl/journal/2026/07/03/98-isnt-very-much/"/>
+        <updated>2026-07-07T12:45:14.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://whynothugo.nl/journal/2026/07/03/98-isnt-very-much/
+Comments URL: https://news.ycombinator.com/item?id=48816959
+Points: 501
+# Comments: 330]]></summary>
+        <author>
+            <name>speckx</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A better way to tie gym shorts (or any drawstring) [video]]]></title>
+        <id>https://news.ycombinator.com/item?id=48816956</id>
+        <link href="https://www.youtube.com/watch?v=3R0Lp86GEBk"/>
+        <updated>2026-07-07T12:45:06.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.youtube.com/watch?v=3R0Lp86GEBk
+Comments URL: https://news.ycombinator.com/item?id=48816956
+Points: 505
+# Comments: 171]]></summary>
+        <author>
+            <name>surprisetalk</name>
         </author>
     </entry>
     <entry>
@@ -3072,45 +3111,6 @@ Points: 514
         <summary type="html"><![CDATA[May was a fun month. Interactive widgets (the ones we teased last month) are now live in select lesson content, sound effects rolled out to everyone, and every Python project course got type hints.]]></summary>
         <author>
             <name>Boot.dev Blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Surveillance is not safety: A statement on the UK's latest threat to privacy [pdf]]]></title>
-        <id>https://news.ycombinator.com/item?id=48450646</id>
-        <link href="https://signal.org/blog/pdfs/2026-06-08-uk-surveillance-is-not-safety.pdf"/>
-        <updated>2026-06-08T19:42:28.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://signal.org/blog/pdfs/2026-06-08-uk-surveillance-is-not-safety.pdf
-Comments URL: https://news.ycombinator.com/item?id=48450646
-Points: 565
-# Comments: 210]]></summary>
-        <author>
-            <name>g0xA52A2A</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Apple reveals new AI architecture built around Google Gemini models]]></title>
-        <id>https://news.ycombinator.com/item?id=48450142</id>
-        <link href="https://www.macrumors.com/2026/06/08/apple-reveals-new-ai-architecture/"/>
-        <updated>2026-06-08T19:14:47.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.macrumors.com/2026/06/08/apple-reveals-new-ai-architecture/
-Comments URL: https://news.ycombinator.com/item?id=48450142
-Points: 590
-# Comments: 449]]></summary>
-        <author>
-            <name>unclefuzzy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Siri AI]]></title>
-        <id>https://news.ycombinator.com/item?id=48449084</id>
-        <link href="https://www.apple.com/apple-intelligence/"/>
-        <updated>2026-06-08T18:17:53.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.apple.com/apple-intelligence/
-Comments URL: https://news.ycombinator.com/item?id=48449084
-Points: 573
-# Comments: 530]]></summary>
-        <author>
-            <name>0xedb</name>
         </author>
     </entry>
     <entry>
