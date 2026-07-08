@@ -2072,6 +2072,16 @@
       "siteUrl": "https://martinfowler.com/feed.atom",
       "articles": [
         {
+          "id": "https://martinfowler.com/articles/exploring-gen-ai/local-models-for-coding-experiences.html",
+          "author": null,
+          "description": "Birgitta Böckeler now reports on her recent experiences\n      trying local models for coding. She compares them using two standard\n      tasks, and tries out the most promising model for day-to-day use.\nmore…",
+          "link": "https://martinfowler.com/articles/exploring-gen-ai/local-models-for-coding-experiences.html",
+          "publishedOn": "2026-07-08T11:57:00.000Z",
+          "wordCount": 2553,
+          "title": "Experiences with local models for coding",
+          "imageUrl": "https://martinfowler.com/articles/exploring-gen-ai/donkey-card.png"
+        },
+        {
           "id": "https://martinfowler.com/articles/exploring-gen-ai/local-models-for-coding-factors.html",
           "author": null,
           "description": "Birgitta Böckeler recently spent some time trying out\n      running local LLMs for some programming tasks. In this memo she outlines the factors that\n      influence how viable they are for the job.\nmore…",

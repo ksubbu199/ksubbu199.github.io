@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-07-08T11:03:32.112Z</updated>
+    <updated>2026-07-08T14:04:54.598Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Experiences with local models for coding]]></title>
+        <id>https://martinfowler.com/articles/exploring-gen-ai/local-models-for-coding-experiences.html</id>
+        <link href="https://martinfowler.com/articles/exploring-gen-ai/local-models-for-coding-experiences.html"/>
+        <updated>2026-07-08T11:57:00.000Z</updated>
+        <summary type="html"><![CDATA[Birgitta Böckeler now reports on her recent experiences
+      trying local models for coding. She compares them using two standard
+      tasks, and tries out the most promising model for day-to-day use.
+more…]]></summary>
+        <author>
+            <name>Martin Fowler</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Every new car sold in the European Union must include a driver monitoring camera]]></title>
         <id>https://news.ycombinator.com/item?id=48823557</id>
