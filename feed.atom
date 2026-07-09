@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-07-09T21:23:02.119Z</updated>
+    <updated>2026-07-09T23:11:19.016Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -17,12 +17,157 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[GPT-5.6]]></title>
+        <id>https://news.ycombinator.com/item?id=48849066</id>
+        <link href="https://openai.com/index/gpt-5-6/"/>
+        <updated>2026-07-09T17:04:14.000Z</updated>
+        <summary type="html"><![CDATA[https://deploymentsafety.openai.com/gpt-5-6/gpt-5-6.pdf
+https://developers.openai.com/api/docs/guides/latest-model
+https://x.com/levie/status/2075287443411222628, https://xcancel.com/levie/status/2075287443411222628
+Comments URL: https://news.ycombinator.com/item?id=48849066
+Points: 922
+# Comments: 688]]></summary>
+        <author>
+            <name>logickkk1</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: 18 Words]]></title>
+        <id>https://news.ycombinator.com/item?id=48845049</id>
+        <link href="https://18words.com/"/>
+        <updated>2026-07-09T12:48:52.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://18words.com/
+Comments URL: https://news.ycombinator.com/item?id=48845049
+Points: 762
+# Comments: 273]]></summary>
+        <author>
+            <name>pompomsheep</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EU Parliament greenlights Chat Control 1.0]]></title>
+        <id>https://news.ycombinator.com/item?id=48843923</id>
+        <link href="https://www.patrick-breyer.de/en/eu-parliament-greenlights-chat-control-1-0-breyer-our-children-lose-out/"/>
+        <updated>2026-07-09T11:03:54.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.patrick-breyer.de/en/eu-parliament-greenlights-chat-control-1-0-breyer-our-children-lose-out/
+Comments URL: https://news.ycombinator.com/item?id=48843923
+Points: 895
+# Comments: 434]]></summary>
+        <author>
+            <name>rapnie</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[My thoughts on the Bun Rust rewrite]]></title>
+        <id>https://news.ycombinator.com/item?id=48843352</id>
+        <link href="https://andrewkelley.me/post/my-thoughts-bun-rust-rewrite.html"/>
+        <updated>2026-07-09T09:47:28.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://andrewkelley.me/post/my-thoughts-bun-rust-rewrite.html
+Comments URL: https://news.ycombinator.com/item?id=48843352
+Points: 612
+# Comments: 523]]></summary>
+        <author>
+            <name>kristoff_it</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[John Deere owners will get the right to repair equipment under FTC settlement]]></title>
+        <id>https://news.ycombinator.com/item?id=48838876</id>
+        <link href="https://apnews.com/article/john-deere-right-to-repair-agriculture-equipment-cb7514ffedb95c130a976af661f2bc02"/>
+        <updated>2026-07-08T23:37:43.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://apnews.com/article/john-deere-right-to-repair-agriculture-equipment-cb7514ffedb95c130a976af661f2bc02
+Comments URL: https://news.ycombinator.com/item?id=48838876
+Points: 1285
+# Comments: 267]]></summary>
+        <author>
+            <name>djoldman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rewriting Bun in Rust]]></title>
+        <id>https://news.ycombinator.com/item?id=48837877</id>
+        <link href="https://bun.com/blog/bun-in-rust"/>
+        <updated>2026-07-08T21:49:59.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://bun.com/blog/bun-in-rust
+Comments URL: https://news.ycombinator.com/item?id=48837877
+Points: 745
+# Comments: 481]]></summary>
+        <author>
+            <name>afturner</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cloudflare Drop]]></title>
+        <id>https://news.ycombinator.com/item?id=48836233</id>
+        <link href="https://www.cloudflare.com/drop/"/>
+        <updated>2026-07-08T19:18:26.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.cloudflare.com/drop/
+Comments URL: https://news.ycombinator.com/item?id=48836233
+Points: 517
+# Comments: 278]]></summary>
+        <author>
+            <name>coloneltcb</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Grok 4.5]]></title>
+        <id>https://news.ycombinator.com/item?id=48835111</id>
+        <link href="https://x.ai/news/grok-4-5"/>
+        <updated>2026-07-08T18:00:32.000Z</updated>
+        <summary type="html"><![CDATA[https://cursor.com/blog/grok-4-5
+Comments URL: https://news.ycombinator.com/item?id=48835111
+Points: 755
+# Comments: 1399]]></summary>
+        <author>
+            <name>BoumTAC</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GPT‑Live]]></title>
+        <id>https://news.ycombinator.com/item?id=48834405</id>
+        <link href="https://openai.com/index/introducing-gpt-live/"/>
+        <updated>2026-07-08T17:03:19.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://openai.com/index/introducing-gpt-live/
+Comments URL: https://news.ycombinator.com/item?id=48834405
+Points: 738
+# Comments: 512]]></summary>
+        <author>
+            <name>logickkk1</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TypeScript 7]]></title>
+        <id>https://news.ycombinator.com/item?id=48833715</id>
+        <link href="https://devblogs.microsoft.com/typescript/announcing-typescript-7-0/"/>
+        <updated>2026-07-08T16:06:35.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://devblogs.microsoft.com/typescript/announcing-typescript-7-0/
+Comments URL: https://news.ycombinator.com/item?id=48833715
+Points: 698
+# Comments: 294]]></summary>
+        <author>
+            <name>DanRosenwasser</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[India's Richest SCAM : With 81,000cr Why does Mumbai still look like a Poor African Country?]]></title>
         <id>https://www.youtube.com/watch?v=Sy_FhoGSGs8</id>
         <link href="https://www.youtube.com/watch?v=Sy_FhoGSGs8"/>
         <updated>2026-07-08T15:20:16.000Z</updated>
         <author>
             <name>Think School</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chatto is now open source]]></title>
+        <id>https://news.ycombinator.com/item?id=48833116</id>
+        <link href="https://www.hmans.dev/blog/chatto-is-open-source"/>
+        <updated>2026-07-08T15:19:50.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.hmans.dev/blog/chatto-is-open-source
+Comments URL: https://news.ycombinator.com/item?id=48833116
+Points: 1066
+# Comments: 290]]></summary>
+        <author>
+            <name>speckx</name>
         </author>
     </entry>
     <entry>
@@ -52,6 +197,19 @@ Points: 955
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[GitLost: We Tricked GitHub's AI Agent into Leaking Private Repos]]></title>
+        <id>https://news.ycombinator.com/item?id=48827858</id>
+        <link href="https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos/"/>
+        <updated>2026-07-08T05:25:35.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos/
+Comments URL: https://news.ycombinator.com/item?id=48827858
+Points: 532
+# Comments: 203]]></summary>
+        <author>
+            <name>ColinEberhardt</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Every new car sold in the European Union must include a driver monitoring camera]]></title>
         <id>https://news.ycombinator.com/item?id=48823557</id>
         <link href="https://allaboutcookies.org/eu-mandatory-distracted-driver-system"/>
@@ -62,6 +220,19 @@ Points: 513
 # Comments: 673]]></summary>
         <author>
             <name>nickslaughter02</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Local, CPU-Friendly, High-Quality TTS (Text-to-Speech) with Kokoro]]></title>
+        <id>https://news.ycombinator.com/item?id=48821576</id>
+        <link href="https://ariya.io/2026/03/local-cpu-friendly-high-quality-tts-text-to-speech-with-kokoro/"/>
+        <updated>2026-07-07T18:24:10.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://ariya.io/2026/03/local-cpu-friendly-high-quality-tts-text-to-speech-with-kokoro/
+Comments URL: https://news.ycombinator.com/item?id=48821576
+Points: 512
+# Comments: 97]]></summary>
+        <author>
+            <name>speckx</name>
         </author>
     </entry>
     <entry>
