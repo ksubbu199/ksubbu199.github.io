@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-07-09T15:18:38.177Z</updated>
+    <updated>2026-07-09T17:56:02.144Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The Pulse: Interesting AI coding stats from Cursor]]></title>
+        <id>6a4fd7106171aa00016f1eab</id>
+        <link href="https://blog.pragmaticengineer.com/the-pulse-interesting-ai-coding-stats-from-cursor/"/>
+        <updated>2026-07-09T17:20:34.000Z</updated>
+        <summary type="html"><![CDATA[Power users generate 10x as many lines of code vs the median, most of the AI spend is coming from input tokens not output ones, and almost half of AI changes are accepted without manual review by devs (!!)]]></summary>
+        <author>
+            <name>Gergely Orosz</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[India's Richest SCAM : With 81,000cr Why does Mumbai still look like a Poor African Country?]]></title>
         <id>https://www.youtube.com/watch?v=Sy_FhoGSGs8</id>
