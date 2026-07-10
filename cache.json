@@ -46,6 +46,26 @@
           "imageUrl": null
         },
         {
+          "id": "https://news.ycombinator.com/item?id=48842459",
+          "author": "vforno",
+          "description": "A few days ago I found myself trying out GLM 5.2 and was really positively impressed. The capabilities and security I was getting from this LLM are similar to those I've gotten from models like Claude or GPT, and this really surprised me.\nBut then I thought, \"I wonder how it would work on a normal computer like mine,\" and above all, \"I wonder if it would work without going into OOM on a computer like mine.\" So I started working with the help of agents to test this possibility.\nI started converting the model to int4, understanding MTP usage, and if possible implementing DSA for long context. How it responds in int4 and whether the quality is maintained or not. Until I got to the point, on my computer with 32GB of RAM, I was able to communicate with GLM 5.2 with times that, of course, aren't…",
+          "link": "https://github.com/JustVugg/colibri",
+          "publishedOn": "2026-07-09T08:05:04.000Z",
+          "wordCount": 8122,
+          "title": "Show HN: Getting GLM 5.2 running on my slow computer",
+          "imageUrl": "https://opengraph.githubassets.com/79d7cdd1caa9ac781f2276d019f3438c66a878cd396934e4e789462a0e725557/JustVugg/colibri"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=48841676",
+          "author": "SweetSoftPillow",
+          "description": "Article URL: https://github.com/malisper/pgrust\nComments URL: https://news.ycombinator.com/item?id=48841676\nPoints: 599\n# Comments: 501",
+          "link": "https://github.com/malisper/pgrust",
+          "publishedOn": "2026-07-09T06:18:19.000Z",
+          "wordCount": 3176,
+          "title": "Postgres rewritten in Rust, now passing 100% of the Postgres regression tests",
+          "imageUrl": "https://opengraph.githubassets.com/2e33e066fec0b13f566d38215c194925032e56d0eee2d70d45cb39275ace0944/malisper/pgrust"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=48838876",
           "author": "djoldman",
           "description": "Article URL: https://apnews.com/article/john-deere-right-to-repair-agriculture-equipment-cb7514ffedb95c130a976af661f2bc02\nComments URL: https://news.ycombinator.com/item?id=48838876\nPoints: 1285\n# Comments: 267",
@@ -1974,26 +1994,6 @@
           "wordCount": 4229,
           "title": "AI agent runs amok in Fedora and elsewhere",
           "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=48480978",
-          "author": "helterskelter",
-          "description": "Article URL: https://github.com/philipl/pifs\nComments URL: https://news.ycombinator.com/item?id=48480978\nPoints: 632\n# Comments: 145",
-          "link": "https://github.com/philipl/pifs",
-          "publishedOn": "2026-06-10T18:54:54.000Z",
-          "wordCount": 3050,
-          "title": "πFS",
-          "imageUrl": "https://opengraph.githubassets.com/06051853c6ac2903b22126e5b3a7503ef3463eeadf27501d3f3eb83a498885bb/philipl/pifs"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=48478969",
-          "author": "speckx",
-          "description": "Article URL: https://techcrunch.com/2026/06/10/cybersecurity-researchers-arent-happy-about-the-guardrails-on-anthropics-fable/\nComments URL: https://news.ycombinator.com/item?id=48478969\nPoints: 527\n# Comments: 464",
-          "link": "https://techcrunch.com/2026/06/10/cybersecurity-researchers-arent-happy-about-the-guardrails-on-anthropics-fable/",
-          "publishedOn": "2026-06-10T16:42:00.000Z",
-          "wordCount": 3489,
-          "title": "Cybersecurity researchers aren't happy about the guardrails on Anthropic's Fable",
-          "imageUrl": "https://techcrunch.com/wp-content/uploads/2026/06/anthropic-claude-fable.jpg?resize=1200,798"
         }
       ]
     },
@@ -2599,16 +2599,6 @@
           "publishedOn": "2026-06-12T06:40:17.000Z",
           "wordCount": 2355,
           "title": "How 2 People Closed 1,000 Enterprise Deals a Month",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=C_OZ-jpW8hA",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=C_OZ-jpW8hA",
-          "publishedOn": "2026-06-10T16:50:19.000Z",
-          "wordCount": null,
-          "title": "How did Switzerland become Rich with Nothing? (With no oil & no gold) Economic Case Study",
           "imageUrl": null
         }
       ]

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-07-10T03:17:10.096Z</updated>
+    <updated>2026-07-10T07:35:04.708Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -68,6 +68,31 @@ Points: 612
 # Comments: 523]]></summary>
         <author>
             <name>kristoff_it</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Getting GLM 5.2 running on my slow computer]]></title>
+        <id>https://news.ycombinator.com/item?id=48842459</id>
+        <link href="https://github.com/JustVugg/colibri"/>
+        <updated>2026-07-09T08:05:04.000Z</updated>
+        <summary type="html"><![CDATA[A few days ago I found myself trying out GLM 5.2 and was really positively impressed. The capabilities and security I was getting from this LLM are similar to those I've gotten from models like Claude or GPT, and this really surprised me.
+But then I thought, "I wonder how it would work on a normal computer like mine," and above all, "I wonder if it would work without going into OOM on a computer like mine." So I started working with the help of agents to test this possibility.
+I started converting the model to int4, understanding MTP usage, and if possible implementing DSA for long context. How it responds in int4 and whether the quality is maintained or not. Until I got to the point, on my computer with 32GB of RAM, I was able to communicate with GLM 5.2 with times that, of course, aren't…]]></summary>
+        <author>
+            <name>vforno</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Postgres rewritten in Rust, now passing 100% of the Postgres regression tests]]></title>
+        <id>https://news.ycombinator.com/item?id=48841676</id>
+        <link href="https://github.com/malisper/pgrust"/>
+        <updated>2026-07-09T06:18:19.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://github.com/malisper/pgrust
+Comments URL: https://news.ycombinator.com/item?id=48841676
+Points: 599
+# Comments: 501]]></summary>
+        <author>
+            <name>SweetSoftPillow</name>
         </author>
     </entry>
     <entry>
@@ -3097,41 +3122,6 @@ Points: 529
 # Comments: 239]]></summary>
         <author>
             <name>tanelpoder</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[πFS]]></title>
-        <id>https://news.ycombinator.com/item?id=48480978</id>
-        <link href="https://github.com/philipl/pifs"/>
-        <updated>2026-06-10T18:54:54.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://github.com/philipl/pifs
-Comments URL: https://news.ycombinator.com/item?id=48480978
-Points: 632
-# Comments: 145]]></summary>
-        <author>
-            <name>helterskelter</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How did Switzerland become Rich with Nothing? (With no oil & no gold) Economic Case Study]]></title>
-        <id>https://www.youtube.com/watch?v=C_OZ-jpW8hA</id>
-        <link href="https://www.youtube.com/watch?v=C_OZ-jpW8hA"/>
-        <updated>2026-06-10T16:50:19.000Z</updated>
-        <author>
-            <name>Think School</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cybersecurity researchers aren't happy about the guardrails on Anthropic's Fable]]></title>
-        <id>https://news.ycombinator.com/item?id=48478969</id>
-        <link href="https://techcrunch.com/2026/06/10/cybersecurity-researchers-arent-happy-about-the-guardrails-on-anthropics-fable/"/>
-        <updated>2026-06-10T16:42:00.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://techcrunch.com/2026/06/10/cybersecurity-researchers-arent-happy-about-the-guardrails-on-anthropics-fable/
-Comments URL: https://news.ycombinator.com/item?id=48478969
-Points: 527
-# Comments: 464]]></summary>
-        <author>
-            <name>speckx</name>
         </author>
     </entry>
     <entry>
