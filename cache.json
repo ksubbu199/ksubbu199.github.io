@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=48865019",
+          "author": "stock_toaster",
+          "description": "https://www.macrumors.com/2026/07/10/apple-sues-openai/\nComments URL: https://news.ycombinator.com/item?id=48865019\nPoints: 616\n# Comments: 295",
+          "link": "https://9to5mac.com/2026/07/10/apple-sues-openai-trade-secret-theft/",
+          "publishedOn": "2026-07-10T20:47:09.000Z",
+          "wordCount": 4032,
+          "title": "Apple sues OpenAI, accuses ex-employees of stealing trade secrets",
+          "imageUrl": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/05/apple-openai.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=48849066",
           "author": "logickkk1",
           "description": "https://deploymentsafety.openai.com/gpt-5-6/gpt-5-6.pdf\nhttps://developers.openai.com/api/docs/guides/latest-model\nhttps://x.com/levie/status/2075287443411222628, https://xcancel.com/levie/status/2075287443411222628\nComments URL: https://news.ycombinator.com/item?id=48849066\nPoints: 922\n# Comments: 688",
@@ -1954,36 +1964,6 @@
           "wordCount": 4313,
           "title": "Solar generates more energy in US than coal for first time",
           "imageUrl": "https://i.guim.co.uk/img/media/6896f10f7c27f4e6f179c666f072c6bdd627772a/548_0_5821_4658/master/5821.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=5b460ece2e3b1f906962e06dbad7b3c3"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=48490826",
-          "author": "apeters",
-          "description": "Article URL: https://mimo.xiaomi.com/mimocode\nComments URL: https://news.ycombinator.com/item?id=48490826\nPoints: 510\n# Comments: 282",
-          "link": "https://mimo.xiaomi.com/mimocode",
-          "publishedOn": "2026-06-11T14:27:19.000Z",
-          "wordCount": 3,
-          "title": "MiMo Code is now released and open-source",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=48490024",
-          "author": "mikemcquaid",
-          "description": "Today, I’m proud to announce Homebrew 6.0.0. The most significant changes since 5.1.0 are a new tap trust security mechanism, the new faster, smaller, default internal Homebrew JSON API, sandboxing on Linux, better defaults informed by our user survey, many brew bundle improvements, improved performance and initial support for macOS 27 (Golden Gate).\nHappy to discuss any questions here!\nComments URL: https://news.ycombinator.com/item?id=48490024\nPoints: 712\n# Comments: 169",
-          "link": "https://brew.sh/2026/06/11/homebrew-6.0.0/",
-          "publishedOn": "2026-06-11T13:24:29.000Z",
-          "wordCount": 2617,
-          "title": "Show HN: Homebrew 6.0.0",
-          "imageUrl": "https://brew.sh/assets/img/homebrew-social-card.png"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=48489229",
-          "author": "rarisma",
-          "description": "https://web.archive.org/web/20260611122253/https://www.theve..., https://archive.ph/y4V4k\nComments URL: https://news.ycombinator.com/item?id=48489229\nPoints: 502\n# Comments: 439",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/948280/anthropic-claude-fable-invisible-distillation-guardrail",
-          "publishedOn": "2026-06-11T12:05:02.000Z",
-          "wordCount": 4124,
-          "title": "Anthropic apologizes for invisible Claude Fable guardrails",
-          "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKB364_CLAUDE_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
         }
       ]
     },

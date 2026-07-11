@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-07-10T23:57:39.473Z</updated>
+    <updated>2026-07-11T02:56:08.877Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Apple sues OpenAI, accuses ex-employees of stealing trade secrets]]></title>
+        <id>https://news.ycombinator.com/item?id=48865019</id>
+        <link href="https://9to5mac.com/2026/07/10/apple-sues-openai-trade-secret-theft/"/>
+        <updated>2026-07-10T20:47:09.000Z</updated>
+        <summary type="html"><![CDATA[https://www.macrumors.com/2026/07/10/apple-sues-openai/
+Comments URL: https://news.ycombinator.com/item?id=48865019
+Points: 616
+# Comments: 295]]></summary>
+        <author>
+            <name>stock_toaster</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How a query optimization gave birth to Infinite scroll]]></title>
         <id>https://www.youtube.com/watch?v=Tzt89dHF79Y</id>
@@ -3088,46 +3101,6 @@ Points: 500
 # Comments: 250]]></summary>
         <author>
             <name>neilfrndes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MiMo Code is now released and open-source]]></title>
-        <id>https://news.ycombinator.com/item?id=48490826</id>
-        <link href="https://mimo.xiaomi.com/mimocode"/>
-        <updated>2026-06-11T14:27:19.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://mimo.xiaomi.com/mimocode
-Comments URL: https://news.ycombinator.com/item?id=48490826
-Points: 510
-# Comments: 282]]></summary>
-        <author>
-            <name>apeters</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: Homebrew 6.0.0]]></title>
-        <id>https://news.ycombinator.com/item?id=48490024</id>
-        <link href="https://brew.sh/2026/06/11/homebrew-6.0.0/"/>
-        <updated>2026-06-11T13:24:29.000Z</updated>
-        <summary type="html"><![CDATA[Today, I’m proud to announce Homebrew 6.0.0. The most significant changes since 5.1.0 are a new tap trust security mechanism, the new faster, smaller, default internal Homebrew JSON API, sandboxing on Linux, better defaults informed by our user survey, many brew bundle improvements, improved performance and initial support for macOS 27 (Golden Gate).
-Happy to discuss any questions here!
-Comments URL: https://news.ycombinator.com/item?id=48490024
-Points: 712
-# Comments: 169]]></summary>
-        <author>
-            <name>mikemcquaid</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Anthropic apologizes for invisible Claude Fable guardrails]]></title>
-        <id>https://news.ycombinator.com/item?id=48489229</id>
-        <link href="https://www.theverge.com/ai-artificial-intelligence/948280/anthropic-claude-fable-invisible-distillation-guardrail"/>
-        <updated>2026-06-11T12:05:02.000Z</updated>
-        <summary type="html"><![CDATA[https://web.archive.org/web/20260611122253/https://www.theve..., https://archive.ph/y4V4k
-Comments URL: https://news.ycombinator.com/item?id=48489229
-Points: 502
-# Comments: 439]]></summary>
-        <author>
-            <name>rarisma</name>
         </author>
     </entry>
     <entry>
