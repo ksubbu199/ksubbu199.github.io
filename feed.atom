@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-07-11T02:56:08.877Z</updated>
+    <updated>2026-07-11T05:41:40.057Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -17,6 +17,19 @@ Points: 616
 # Comments: 295]]></summary>
         <author>
             <name>stock_toaster</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[QuadRF can spot drones and see WiFi through my wall]]></title>
+        <id>https://news.ycombinator.com/item?id=48861717</id>
+        <link href="https://www.jeffgeerling.com/blog/2026/quadrf-can-spot-drones-and-see-wifi-through-my-wall/"/>
+        <updated>2026-07-10T15:59:53.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.jeffgeerling.com/blog/2026/quadrf-can-spot-drones-and-see-wifi-through-my-wall/
+Comments URL: https://news.ycombinator.com/item?id=48861717
+Points: 516
+# Comments: 184]]></summary>
+        <author>
+            <name>speckx</name>
         </author>
     </entry>
     <entry>
@@ -3068,39 +3081,6 @@ Points: 504
 # Comments: 270]]></summary>
         <author>
             <name>matthewbarras</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Pulse: a trend of trying to cut back on AI spend within eng departments?]]></title>
-        <id>6a2ae21f4eaa560001de7fde</id>
-        <link href="https://blog.pragmaticengineer.com/the-pulse-a-trend-of-trying-to-cut-back-on-ai-spend-within-eng-departments/"/>
-        <updated>2026-06-11T16:31:42.000Z</updated>
-        <summary type="html"><![CDATA[Hi, this is Gergely with a bonus, free issue of the Pragmatic Engineer Newsletter. In every issue, I cover Big Tech and startups through the lens of senior engineers and engineering leaders. Today, we cover one out of four topics from The Pulse issue from two weeks ago. Full subscribers]]></summary>
-        <author>
-            <name>Gergely Orosz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Pulse: Antigravity 2.0 takes ‘IDE’ out of its new IDE]]></title>
-        <id>6a2ae0124eaa560001de7f72</id>
-        <link href="https://blog.pragmaticengineer.com/the-pulse-antigravity-2-0-takes-ide-out-of-its-new-ide/"/>
-        <updated>2026-06-11T16:22:16.000Z</updated>
-        <summary type="html"><![CDATA[Feedback about the redesigned IDE is overwhelmingly negative due to bugs, poor UX & model support, and eating through Gemini token quotas. Also: a clue that Antigravity’s own devs use other tools for their work?]]></summary>
-        <author>
-            <name>Gergely Orosz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Solar generates more energy in US than coal for first time]]></title>
-        <id>https://news.ycombinator.com/item?id=48492306</id>
-        <link href="https://www.theguardian.com/us-news/2026/jun/11/solar-energy-us-coal"/>
-        <updated>2026-06-11T16:10:05.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.theguardian.com/us-news/2026/jun/11/solar-energy-us-coal
-Comments URL: https://news.ycombinator.com/item?id=48492306
-Points: 500
-# Comments: 250]]></summary>
-        <author>
-            <name>neilfrndes</name>
         </author>
     </entry>
     <entry>

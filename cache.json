@@ -16,6 +16,16 @@
           "imageUrl": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/05/apple-openai.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
         },
         {
+          "id": "https://news.ycombinator.com/item?id=48861717",
+          "author": "speckx",
+          "description": "Article URL: https://www.jeffgeerling.com/blog/2026/quadrf-can-spot-drones-and-see-wifi-through-my-wall/\nComments URL: https://news.ycombinator.com/item?id=48861717\nPoints: 516\n# Comments: 184",
+          "link": "https://www.jeffgeerling.com/blog/2026/quadrf-can-spot-drones-and-see-wifi-through-my-wall/",
+          "publishedOn": "2026-07-10T15:59:53.000Z",
+          "wordCount": 1026,
+          "title": "QuadRF can spot drones and see WiFi through my wall",
+          "imageUrl": ""
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=48849066",
           "author": "logickkk1",
           "description": "https://deploymentsafety.openai.com/gpt-5-6/gpt-5-6.pdf\nhttps://developers.openai.com/api/docs/guides/latest-model\nhttps://x.com/levie/status/2075287443411222628, https://xcancel.com/levie/status/2075287443411222628\nComments URL: https://news.ycombinator.com/item?id=48849066\nPoints: 922\n# Comments: 688",
@@ -1954,16 +1964,6 @@
           "wordCount": 1534,
           "title": "Show HN: FablePool – pool money behind a prompt, and Fable builds it in public",
           "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=48492306",
-          "author": "neilfrndes",
-          "description": "Article URL: https://www.theguardian.com/us-news/2026/jun/11/solar-energy-us-coal\nComments URL: https://news.ycombinator.com/item?id=48492306\nPoints: 500\n# Comments: 250",
-          "link": "https://www.theguardian.com/us-news/2026/jun/11/solar-energy-us-coal",
-          "publishedOn": "2026-06-11T16:10:05.000Z",
-          "wordCount": 4313,
-          "title": "Solar generates more energy in US than coal for first time",
-          "imageUrl": "https://i.guim.co.uk/img/media/6896f10f7c27f4e6f179c666f072c6bdd627772a/548_0_5821_4658/master/5821.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=5b460ece2e3b1f906962e06dbad7b3c3"
         }
       ]
     },
@@ -2152,26 +2152,6 @@
           "publishedOn": "2026-06-23T16:30:59.000Z",
           "wordCount": 1666,
           "title": "Reliability fail: No automated zone failover for Coinbase’s global trading service",
-          "imageUrl": null
-        },
-        {
-          "id": "6a2ae21f4eaa560001de7fde",
-          "author": "Gergely Orosz",
-          "description": "Hi, this is Gergely with a bonus, free issue of the Pragmatic Engineer Newsletter. In every issue, I cover Big Tech and startups through the lens of senior engineers and engineering leaders. Today, we cover one out of four topics from The Pulse issue from two weeks ago. Full subscribers",
-          "link": "https://blog.pragmaticengineer.com/the-pulse-a-trend-of-trying-to-cut-back-on-ai-spend-within-eng-departments/",
-          "publishedOn": "2026-06-11T16:31:42.000Z",
-          "wordCount": 1859,
-          "title": "The Pulse: a trend of trying to cut back on AI spend within eng departments?",
-          "imageUrl": null
-        },
-        {
-          "id": "6a2ae0124eaa560001de7f72",
-          "author": "Gergely Orosz",
-          "description": "Feedback about the redesigned IDE is overwhelmingly negative due to bugs, poor UX & model support, and eating through Gemini token quotas. Also: a clue that Antigravity’s own devs use other tools for their work?",
-          "link": "https://blog.pragmaticengineer.com/the-pulse-antigravity-2-0-takes-ide-out-of-its-new-ide/",
-          "publishedOn": "2026-06-11T16:22:16.000Z",
-          "wordCount": 2014,
-          "title": "The Pulse: Antigravity 2.0 takes ‘IDE’ out of its new IDE",
           "imageUrl": null
         }
       ]
