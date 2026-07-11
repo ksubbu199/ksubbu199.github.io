@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-07-11T17:59:07.728Z</updated>
+    <updated>2026-07-11T19:17:26.904Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -46,6 +46,20 @@ Points: 616
 # Comments: 295]]></summary>
         <author>
             <name>stock_toaster</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GPT-5.6 Sol Ultra produces proof of the Cycle Double Cover Conjecture [pdf]]]></title>
+        <id>https://news.ycombinator.com/item?id=48863490</id>
+        <link href="https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_proof.pdf"/>
+        <updated>2026-07-10T18:29:19.000Z</updated>
+        <summary type="html"><![CDATA[https://x.com/__eknight__/status/2075643450196971805, https://xcancel.com/__eknight__/status/2075643450196971805
+Prompt: https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98...
+Comments URL: https://news.ycombinator.com/item?id=48863490
+Points: 502
+# Comments: 418]]></summary>
+        <author>
+            <name>scrlk</name>
         </author>
     </entry>
     <entry>
@@ -3059,16 +3073,6 @@ Points: 539
         <id>https://www.youtube.com/watch?v=-eDZpzT8WJM</id>
         <link href="https://www.youtube.com/watch?v=-eDZpzT8WJM"/>
         <updated>2026-06-12T12:52:39.000Z</updated>
-        <author>
-            <name>Think School</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How 2 People Closed 1,000 Enterprise Deals a Month]]></title>
-        <id>https://www.youtube.com/shorts/9nbwjGa0uwE</id>
-        <link href="https://www.youtube.com/shorts/9nbwjGa0uwE"/>
-        <updated>2026-06-12T06:40:17.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>Think School</name>
         </author>
