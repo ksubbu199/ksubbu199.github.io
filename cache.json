@@ -6,6 +6,26 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=48889637",
+          "author": "crowdhailer",
+          "description": "Article URL: https://raymyers.org/post/zed-creator-calls-spade-a-spade/\nComments URL: https://news.ycombinator.com/item?id=48889637\nPoints: 1257\n# Comments: 633",
+          "link": "https://raymyers.org/post/zed-creator-calls-spade-a-spade/",
+          "publishedOn": "2026-07-13T08:39:39.000Z",
+          "wordCount": 8,
+          "title": "Zig Creator Calls Spade a Spade, Anthropic Blows Smoke",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=48888331",
+          "author": "rakel_rakel",
+          "description": "Article URL: https://www.lyrebirddreaming.com/post/the-graph-that-should-be-front-page-news\nComments URL: https://news.ycombinator.com/item?id=48888331\nPoints: 550\n# Comments: 331",
+          "link": "https://www.lyrebirddreaming.com/post/the-graph-that-should-be-front-page-news",
+          "publishedOn": "2026-07-13T05:35:27.000Z",
+          "wordCount": 10731,
+          "title": "The Graph That Should Be Front-Page News",
+          "imageUrl": "https://static.wixstatic.com/media/d3c6c2_85a4b62a65324ff587885b5dc4b8751d~mv2.jpg/v1/fill/w_1244,h_903,al_c/d3c6c2_85a4b62a65324ff587885b5dc4b8751d~mv2.jpg"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=48886741",
           "author": "levkk",
           "description": "Should HN add the ability to flag articles as AI-generated? This doesn't have to act as a regular flag, i.e., it won't de-rank the article; it could just show up as an indicator, allowing others (like myself) who don't like reading AI-generated text, to skip it.\nOpen questions:\n1. Why is the regular voting system not enough?\n2. Should HN change in response to the gen AI era? It has been successful not changing fundamentals.\nComments URL: https://news.ycombinator.com/item?id=48886741\nPoints: 687\n# Comments: 311",
@@ -24,6 +44,26 @@
           "wordCount": 11872,
           "title": "Claude Code sends 33k tokens before reading the prompt; OpenCode sends 7k",
           "imageUrl": "https://systima.ai/images/claude-code-vs-opencode-banner.png"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=48882056",
+          "author": "silcoon",
+          "description": "Article URL: https://scotto.me/blog/2026-07-12-how-to-read-more-books/\nComments URL: https://news.ycombinator.com/item?id=48882056\nPoints: 513\n# Comments: 275",
+          "link": "https://scotto.me/blog/2026-07-12-how-to-read-more-books/",
+          "publishedOn": "2026-07-12T15:47:16.000Z",
+          "wordCount": 2021,
+          "title": "How to read more books",
+          "imageUrl": "https://scotto.me/og/2026-07-12-how-to-read-more-books.png"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=48877371",
+          "author": "jhoho",
+          "description": "Article URL: https://gist.github.com/cereblab/dc9a40bc26120f4540e4e09b75ffb547\nComments URL: https://news.ycombinator.com/item?id=48877371\nPoints: 509\n# Comments: 190",
+          "link": "https://gist.github.com/cereblab/dc9a40bc26120f4540e4e09b75ffb547",
+          "publishedOn": "2026-07-12T01:09:50.000Z",
+          "wordCount": 4391,
+          "title": "What xAI's Grok build CLI sends to xAI: A wire-level analysis",
+          "imageUrl": "https://github.githubassets.com/assets/gist-og-image-54fd7dc0713e.png"
         },
         {
           "id": "https://news.ycombinator.com/item?id=48865019",
@@ -2494,7 +2534,18 @@
       "title": "Lea Verou’s blog",
       "feedUrl": "https://lea.verou.me/feed.xml",
       "siteUrl": "https://lea.verou.me/feed.xml",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://lea.verou.me/blog/2026/polyfills/",
+          "author": null,
+          "description": "If you’re a web developer, you may find the title baffling.\n“Polyfills need defending? Who’s against them?!” you might ask.\nTwo weeks ago, I’d be in the same boat.\nPolyfills and I go way back.\nI dug up a JSConf EU talk of mine from 2011 on exactly this topic.\nOne of the few opinions I have held strongly over the years is that polyfills are a net positive for the Web, and the good outweighs the rare failure cases where polyfills became too popular, too soon, and restricted the design space for the native API.\nAs with most things in life, it’s all about the cost-benefit.\nWe don’t stop flying planes because crashes happen.\nWe do a post-mortem and figure out how we can prevent the same accident from happening again.\nAnd crucially, the point of a post-mortem is to find the root cause — not to g…",
+          "link": "https://lea.verou.me/blog/2026/polyfills/",
+          "publishedOn": "2026-07-13T00:00:00.000Z",
+          "wordCount": 4295,
+          "title": "In defense of polyfills",
+          "imageUrl": "https://lea.verou.me/blog/2026/polyfills/images/cover.png"
+        }
+      ]
     },
     {
       "title": "Ben Hoyt's technical writing",
