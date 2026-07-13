@@ -2,10 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-07-13T02:45:41.943Z</updated>
+    <updated>2026-07-13T06:18:43.105Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Claude Code sends 33k tokens before reading the prompt; OpenCode sends 7k]]></title>
+        <id>https://news.ycombinator.com/item?id=48883275</id>
+        <link href="https://systima.ai/blog/claude-code-vs-opencode-token-overhead"/>
+        <updated>2026-07-12T18:25:51.000Z</updated>
+        <summary type="html"><![CDATA[This started based off of a hunch. We usually use OpenCode, but were 'forced' to use Claude Code for a while due to issues with Meridian. In that time, we saw the usage meter rise much, much more quickly than when using OpenCode.
+This was the initial anecdotal evidence, but we undertook this small study to collect empirical data:
+We added logging between the agentic coding tool (Claude Code and OpenCode) and Anthropic's endpoint, and captured all requests (and the returned usage blocks).
+With one caveat (toward the end of the post) we found unambiguously that Claude Code was far more inefficient in terms of its cache strategy and its harness token usage than OpenCode.
+Comments URL: https://news.ycombinator.com/item?id=48883275
+Points: 535
+# Comments: 300]]></summary>
+        <author>
+            <name>systima</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The ₹300 Crore Mistake Every Founder Must Avoid]]></title>
         <id>https://www.youtube.com/shorts/LeaW-L3xN5M</id>
@@ -2914,32 +2930,6 @@ Points: 548
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>Think School</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon CEO's talks with U.S. officials triggered crackdown on Anthropic models]]></title>
-        <id>https://news.ycombinator.com/item?id=48519092</id>
-        <link href="https://www.wsj.com/tech/ai/amazon-ceos-talks-with-u-s-officials-triggered-crackdown-on-anthropic-models-dcc90578?st=Yct6gx&amp;reflink=desktopwebshare_permalink"/>
-        <updated>2026-06-13T16:57:49.000Z</updated>
-        <summary type="html"><![CDATA[https://www.wsj.com/tech/ai/amazon-ceos-talks-with-u-s-offic...
-Comments URL: https://news.ycombinator.com/item?id=48519092
-Points: 617
-# Comments: 452]]></summary>
-        <author>
-            <name>ls612</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GLM 5.2 Is Out]]></title>
-        <id>https://news.ycombinator.com/item?id=48518684</id>
-        <link href="https://twitter.com/jietang/status/2065784751345287314"/>
-        <updated>2026-06-13T16:18:31.000Z</updated>
-        <summary type="html"><![CDATA[https://digg.com/tech/ii9xibgn
-Comments URL: https://news.ycombinator.com/item?id=48518684
-Points: 568
-# Comments: 307]]></summary>
-        <author>
-            <name>aloknnikhil</name>
         </author>
     </entry>
     <entry>

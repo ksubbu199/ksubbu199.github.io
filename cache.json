@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=48883275",
+          "author": "systima",
+          "description": "This started based off of a hunch. We usually use OpenCode, but were 'forced' to use Claude Code for a while due to issues with Meridian. In that time, we saw the usage meter rise much, much more quickly than when using OpenCode.\nThis was the initial anecdotal evidence, but we undertook this small study to collect empirical data:\nWe added logging between the agentic coding tool (Claude Code and OpenCode) and Anthropic's endpoint, and captured all requests (and the returned usage blocks).\nWith one caveat (toward the end of the post) we found unambiguously that Claude Code was far more inefficient in terms of its cache strategy and its harness token usage than OpenCode.\nComments URL: https://news.ycombinator.com/item?id=48883275\nPoints: 535\n# Comments: 300",
+          "link": "https://systima.ai/blog/claude-code-vs-opencode-token-overhead",
+          "publishedOn": "2026-07-12T18:25:51.000Z",
+          "wordCount": 11872,
+          "title": "Claude Code sends 33k tokens before reading the prompt; OpenCode sends 7k",
+          "imageUrl": "https://systima.ai/images/claude-code-vs-opencode-banner.png"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=48865019",
           "author": "stock_toaster",
           "description": "https://www.macrumors.com/2026/07/10/apple-sues-openai/\nComments URL: https://news.ycombinator.com/item?id=48865019\nPoints: 616\n# Comments: 295",
@@ -1834,26 +1844,6 @@
           "wordCount": 2547,
           "title": "How to earn a billion dollars",
           "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=48519092",
-          "author": "ls612",
-          "description": "https://www.wsj.com/tech/ai/amazon-ceos-talks-with-u-s-offic...\nComments URL: https://news.ycombinator.com/item?id=48519092\nPoints: 617\n# Comments: 452",
-          "link": "https://www.wsj.com/tech/ai/amazon-ceos-talks-with-u-s-officials-triggered-crackdown-on-anthropic-models-dcc90578?st=Yct6gx&reflink=desktopwebshare_permalink",
-          "publishedOn": "2026-06-13T16:57:49.000Z",
-          "wordCount": null,
-          "title": "Amazon CEO's talks with U.S. officials triggered crackdown on Anthropic models",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=48518684",
-          "author": "aloknnikhil",
-          "description": "https://digg.com/tech/ii9xibgn\nComments URL: https://news.ycombinator.com/item?id=48518684\nPoints: 568\n# Comments: 307",
-          "link": "https://twitter.com/jietang/status/2065784751345287314",
-          "publishedOn": "2026-06-13T16:18:31.000Z",
-          "wordCount": 820,
-          "title": "GLM 5.2 Is Out",
-          "imageUrl": "https://pbs.twimg.com/profile_images/2969848274/9650ac94b38c2872eecea8a7dfa376ef_200x200.jpeg"
         }
       ]
     },
