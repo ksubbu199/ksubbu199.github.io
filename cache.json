@@ -6,16 +6,6 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
-          "id": "https://news.ycombinator.com/item?id=48889637",
-          "author": "crowdhailer",
-          "description": "Article URL: https://raymyers.org/post/zed-creator-calls-spade-a-spade/\nComments URL: https://news.ycombinator.com/item?id=48889637\nPoints: 671\n# Comments: 323",
-          "link": "https://raymyers.org/post/zed-creator-calls-spade-a-spade/",
-          "publishedOn": "2026-07-13T08:39:39.000Z",
-          "wordCount": 3107,
-          "title": "Zig Creator Calls Spade a Spade, Anthropic Blows Smoke",
-          "imageUrl": "https://raymyers.org/weblog-card-1.png"
-        },
-        {
           "id": "https://news.ycombinator.com/item?id=48886741",
           "author": "levkk",
           "description": "Should HN add the ability to flag articles as AI-generated? This doesn't have to act as a regular flag, i.e., it won't de-rank the article; it could just show up as an indicator, allowing others (like myself) who don't like reading AI-generated text, to skip it.\nOpen questions:\n1. Why is the regular voting system not enough?\n2. Should HN change in response to the gen AI era? It has been successful not changing fundamentals.\nComments URL: https://news.ycombinator.com/item?id=48886741\nPoints: 687\n# Comments: 311",
@@ -1951,6 +1941,16 @@
       "feedUrl": "https://martinfowler.com/feed.atom",
       "siteUrl": "https://martinfowler.com/feed.atom",
       "articles": [
+        {
+          "id": "https://martinfowler.com/fragments/2026-07-13.html",
+          "author": null,
+          "description": "Some more of my notes from Thoughtworks Future of Software Development Retreat.\nWhen we had our first retreat in Utah early this year, nobody had heard of Harness Engineering. This time we had a whole session on it.\nWhen comes to the guide side of harnesses, most of the discussion is about context management. While context windows have increased is size as models get more sophisticated, that doesn’t mean that models will properly focus on the right bits. Models typically only focus attention on part of the context, and to get the best behavior, we need to manage that focus. One attendee keeps their context small, limiting the agents.md file to less than 200 lines\nOn the sensor side, we see more attention on computational sensors. Two patterns from one participant was shifting to languages …",
+          "link": "https://martinfowler.com/fragments/2026-07-13.html",
+          "publishedOn": "2026-07-13T16:06:00.000Z",
+          "wordCount": 2624,
+          "title": "Fragments: July 13",
+          "imageUrl": "https://martinfowler.com/logo-sq.png"
+        },
         {
           "id": "https://martinfowler.com/articles/exploring-gen-ai/local-models-for-coding-experiences.html",
           "author": null,
