@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=48886741",
+          "author": "levkk",
+          "description": "Should HN add the ability to flag articles as AI-generated? This doesn't have to act as a regular flag, i.e., it won't de-rank the article; it could just show up as an indicator, allowing others (like myself) who don't like reading AI-generated text, to skip it.\nOpen questions:\n1. Why is the regular voting system not enough?\n2. Should HN change in response to the gen AI era? It has been successful not changing fundamentals.\nComments URL: https://news.ycombinator.com/item?id=48886741\nPoints: 687\n# Comments: 311",
+          "link": "https://news.ycombinator.com/item?id=48886741",
+          "publishedOn": "2026-07-13T01:24:20.000Z",
+          "wordCount": 21137,
+          "title": "Ask HN: Add flag for AI-generated articles",
+          "imageUrl": null
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=48883275",
           "author": "systima",
           "description": "This started based off of a hunch. We usually use OpenCode, but were 'forced' to use Claude Code for a while due to issues with Meridian. In that time, we saw the usage meter rise much, much more quickly than when using OpenCode.\nThis was the initial anecdotal evidence, but we undertook this small study to collect empirical data:\nWe added logging between the agentic coding tool (Claude Code and OpenCode) and Anthropic's endpoint, and captured all requests (and the returned usage blocks).\nWith one caveat (toward the end of the post) we found unambiguously that Claude Code was far more inefficient in terms of its cache strategy and its harness token usage than OpenCode.\nComments URL: https://news.ycombinator.com/item?id=48883275\nPoints: 535\n# Comments: 300",
@@ -2439,16 +2449,6 @@
           "publishedOn": "2026-06-14T07:27:54.000Z",
           "wordCount": 2148,
           "title": "How to Hire High-EQ People",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=kahlcsBonVw",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=kahlcsBonVw",
-          "publishedOn": "2026-06-13T16:14:06.000Z",
-          "wordCount": null,
-          "title": "The TRAGIC Fall of INDIAN FOOTBALL: Why India NEVER Qualifies for FIFA & it's not MONEY | Case Study",
           "imageUrl": null
         }
       ]
