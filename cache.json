@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=48894752",
+          "author": "get-inscribe",
+          "description": "Article URL: https://get-inscribe.com/blog/apple-speech-api-benchmark.html\nComments URL: https://news.ycombinator.com/item?id=48894752\nPoints: 505\n# Comments: 198",
+          "link": "https://get-inscribe.com/blog/apple-speech-api-benchmark.html",
+          "publishedOn": "2026-07-13T16:06:08.000Z",
+          "wordCount": 1810,
+          "title": "Apple's new SpeechAnalyzer API, benchmarked against Whisper and its predecessor",
+          "imageUrl": "https://images.unsplash.com/photo-1589254065878-42c9da997008?w=1200&h=600&fit=crop&q=80"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=48889637",
           "author": "crowdhailer",
           "description": "Article URL: https://raymyers.org/post/zed-creator-calls-spade-a-spade/\nComments URL: https://news.ycombinator.com/item?id=48889637\nPoints: 1257\n# Comments: 633",
@@ -1864,26 +1874,6 @@
           "wordCount": 43899,
           "title": "Windows 11 users are tired of MS account requirements creeping into everything",
           "imageUrl": "https://cdn.mos.cms.futurecdn.net/j6KmfXaKwgMziobFTx9itD-1687-80.jpg"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=48529990",
-          "author": "tamnd",
-          "description": "Article URL: https://github.com/tamnd/kage\nComments URL: https://news.ycombinator.com/item?id=48529990\nPoints: 597\n# Comments: 119",
-          "link": "https://github.com/tamnd/kage",
-          "publishedOn": "2026-06-14T17:25:38.000Z",
-          "wordCount": 7172,
-          "title": "Show HN: Kage – Shadow any website to a single binary for offline viewing",
-          "imageUrl": "https://opengraph.githubassets.com/cc094cb2d0ba8ce7c1ed0de5bff4fa0f9b91a92d16667dc23512ad30285f821b/tamnd/kage"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=48527700",
-          "author": "yegg",
-          "description": "Article URL: https://gabrielweinberg.com/p/people-are-consuming-ai-like-they\nComments URL: https://news.ycombinator.com/item?id=48527700\nPoints: 500\n# Comments: 537",
-          "link": "https://gabrielweinberg.com/p/people-are-consuming-ai-like-they",
-          "publishedOn": "2026-06-14T14:44:29.000Z",
-          "wordCount": 4740,
-          "title": "Not everyone is using AI for everything",
-          "imageUrl": "https://substackcdn.com/image/fetch/$s_!n_r-!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F957dc207-33f4-4e66-a821-66f340c9a623_1424x1404.png"
         }
       ]
     },
