@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-07-14T12:12:18.706Z</updated>
+    <updated>2026-07-14T14:50:48.499Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[DSLs Enable Reliable Use of LLMs]]></title>
+        <id>https://martinfowler.com/articles/llm-and-dsls.html</id>
+        <link href="https://martinfowler.com/articles/llm-and-dsls.html"/>
+        <updated>2026-07-14T12:51:00.000Z</updated>
+        <summary type="html"><![CDATA[LLMs generate code incredibly fast, but to ensure they generate
+      exactly what is intended, they need clear boundaries. Abstractions and
+      Domain-Specific Languages (DSLs) provide a strong harness that guides LLMs
+      right from the start. Unmesh Joshi describes how the example
+      of Tickloom - a domain model and DSL for illustrating distributed system
+      behavior - shows how we can use an LLM as a partner to iteratively build a
+      DSL and as a natural language interface to use it. Such a DSL can act as
+      the key source of truth for software systems in the world of LLMs. 
+more…]]></summary>
+        <author>
+            <name>Martin Fowler</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Japan develops a method to recover up to 90% of lithium from used EV batteries]]></title>
         <id>https://news.ycombinator.com/item?id=48901569</id>
@@ -30,6 +48,19 @@ Points: 503
 # Comments: 185]]></summary>
         <author>
             <name>benwerd</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building and shipping Mac and iOS apps without opening Xcode]]></title>
+        <id>https://news.ycombinator.com/item?id=48896665</id>
+        <link href="https://scottwillsey.com/building-and-shipping-mac-and-ios-apps-without-ever-opening-xcode/"/>
+        <updated>2026-07-13T18:22:16.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://scottwillsey.com/building-and-shipping-mac-and-ios-apps-without-ever-opening-xcode/
+Comments URL: https://news.ycombinator.com/item?id=48896665
+Points: 521
+# Comments: 221]]></summary>
+        <author>
+            <name>speckx</name>
         </author>
     </entry>
     <entry>
