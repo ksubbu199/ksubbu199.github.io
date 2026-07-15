@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=48924912",
+          "author": "vimarsh6739",
+          "description": "Article URL: https://thinkingmachines.ai/news/introducing-inkling/\nComments URL: https://news.ycombinator.com/item?id=48924912\nPoints: 568\n# Comments: 141",
+          "link": "https://thinkingmachines.ai/news/introducing-inkling/",
+          "publishedOn": "2026-07-15T18:12:45.000Z",
+          "wordCount": 11530,
+          "title": "Inkling: Our Open-Weights Model",
+          "imageUrl": "https://thinkingmachines.ai/news/introducing-inkling/images/cover-social-inkling-post.png"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=48920181",
           "author": "youngtaff",
           "description": "Article URL: https://www.ft.com/content/3a023b95-66c3-41e1-b0ce-df752a499541\nComments URL: https://news.ycombinator.com/item?id=48920181\nPoints: 500\n# Comments: 485",
@@ -1864,26 +1874,6 @@
           "wordCount": 1379,
           "title": "Running local models is good now",
           "imageUrl": "https://vickiboykis.com/images/refactor_gemma.png"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=48553550",
-          "author": "razin",
-          "description": "Article URL: https://ciechanow.ski/mechanical-watch/\nComments URL: https://news.ycombinator.com/item?id=48553550\nPoints: 543\n# Comments: 99",
-          "link": "https://ciechanow.ski/mechanical-watch/",
-          "publishedOn": "2026-06-16T11:26:27.000Z",
-          "wordCount": 8103,
-          "title": "Mechanical Watch (2022)",
-          "imageUrl": "https://ciechanow.ski/images/og/watch.png"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=48553224",
-          "author": "itsmarcelg",
-          "description": "Article URL: https://www.reuters.com/legal/transactional/spacex-buy-anysphere-60-billion-2026-06-16/\nComments URL: https://news.ycombinator.com/item?id=48553224\nPoints: 587\n# Comments: 983",
-          "link": "https://www.reuters.com/legal/transactional/spacex-buy-anysphere-60-billion-2026-06-16/",
-          "publishedOn": "2026-06-16T10:44:24.000Z",
-          "wordCount": null,
-          "title": "SpaceX to buy Cursor for $60B",
-          "imageUrl": null
         }
       ]
     },
