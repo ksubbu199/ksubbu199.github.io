@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-07-15T06:13:30.340Z</updated>
+    <updated>2026-07-15T09:08:53.199Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -35,6 +35,32 @@ Points: 522
 more…]]></summary>
         <author>
             <name>Martin Fowler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to stop Claude from saying load-bearing]]></title>
+        <id>https://news.ycombinator.com/item?id=48905248</id>
+        <link href="https://jola.dev/posts/how-to-stop-claude-from-saying-load-bearing"/>
+        <updated>2026-07-14T11:46:02.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://jola.dev/posts/how-to-stop-claude-from-saying-load-bearing
+Comments URL: https://news.ycombinator.com/item?id=48905248
+Points: 524
+# Comments: 551]]></summary>
+        <author>
+            <name>shintoist</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[European "age verification" "app" forcing everyone to use Android or iOS]]></title>
+        <id>https://news.ycombinator.com/item?id=48903777</id>
+        <link href="https://github.com/eu-digital-identity-wallet/av-doc-technical-specification/discussions/19"/>
+        <updated>2026-07-14T08:34:57.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://github.com/eu-digital-identity-wallet/av-doc-technical-specification/discussions/19
+Comments URL: https://news.ycombinator.com/item?id=48903777
+Points: 528
+# Comments: 370]]></summary>
+        <author>
+            <name>roundabout-host</name>
         </author>
     </entry>
     <entry>
@@ -2931,19 +2957,6 @@ Points: 512
 # Comments: 302]]></summary>
         <author>
             <name>sohkamyung</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A backdoor in a LinkedIn job offer]]></title>
-        <id>https://news.ycombinator.com/item?id=48546294</id>
-        <link href="https://roman.pt/posts/linkedin-backdoor/"/>
-        <updated>2026-06-15T20:00:57.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://roman.pt/posts/linkedin-backdoor/
-Comments URL: https://news.ycombinator.com/item?id=48546294
-Points: 508
-# Comments: 99]]></summary>
-        <author>
-            <name>lwhsiao</name>
         </author>
     </entry>
     <entry>
