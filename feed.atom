@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-07-15T03:19:31.662Z</updated>
+    <updated>2026-07-15T06:13:30.340Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Bonsai 27B: A 27B-Class model that runs on a phone]]></title>
+        <id>https://news.ycombinator.com/item?id=48910545</id>
+        <link href="https://prismml.com/news/bonsai-27b"/>
+        <updated>2026-07-14T17:50:48.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://prismml.com/news/bonsai-27b
+Comments URL: https://news.ycombinator.com/item?id=48910545
+Points: 522
+# Comments: 187]]></summary>
+        <author>
+            <name>xenova</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[DSLs Enable Reliable Use of LLMs]]></title>
         <id>https://martinfowler.com/articles/llm-and-dsls.html</id>
@@ -2931,19 +2944,6 @@ Points: 508
 # Comments: 99]]></summary>
         <author>
             <name>lwhsiao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TinyWind: A pixel pirate sailing game with real wind physics (380k+ kms sailed)]]></title>
-        <id>https://news.ycombinator.com/item?id=48543475</id>
-        <link href="https://tinywind.io/"/>
-        <updated>2026-06-15T16:15:53.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://tinywind.io
-Comments URL: https://news.ycombinator.com/item?id=48543475
-Points: 544
-# Comments: 110]]></summary>
-        <author>
-            <name>tinywind</name>
         </author>
     </entry>
     <entry>

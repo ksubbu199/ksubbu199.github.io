@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=48910545",
+          "author": "xenova",
+          "description": "Article URL: https://prismml.com/news/bonsai-27b\nComments URL: https://news.ycombinator.com/item?id=48910545\nPoints: 522\n# Comments: 187",
+          "link": "https://prismml.com/news/bonsai-27b",
+          "publishedOn": "2026-07-14T17:50:48.000Z",
+          "wordCount": 3388,
+          "title": "Bonsai 27B: A 27B-Class model that runs on a phone",
+          "imageUrl": ""
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=48901569",
           "author": "donohoe",
           "description": "Article URL: https://tech.supercarblondie.com/japan-recovers-up-to-90-of-lithium-from-used-ev-batteries/\nComments URL: https://news.ycombinator.com/item?id=48901569\nPoints: 503\n# Comments: 124",
@@ -1834,16 +1844,6 @@
           "wordCount": 707,
           "title": "A backdoor in a LinkedIn job offer",
           "imageUrl": "https://roman.pt/posts/linkedin-backdoor/splash.png"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=48543475",
-          "author": "tinywind",
-          "description": "Article URL: https://tinywind.io\nComments URL: https://news.ycombinator.com/item?id=48543475\nPoints: 544\n# Comments: 110",
-          "link": "https://tinywind.io/",
-          "publishedOn": "2026-06-15T16:15:53.000Z",
-          "wordCount": 151,
-          "title": "TinyWind: A pixel pirate sailing game with real wind physics (380k+ kms sailed)",
-          "imageUrl": "https://tinywind.io/opengraph-image?ca63dcafdaa67b1f"
         }
       ]
     },
