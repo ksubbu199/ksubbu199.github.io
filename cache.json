@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=48915709",
+          "author": "vinhnx",
+          "description": "Article URL: https://fabiensanglard.net/jurrasic_park_computers/index.html\nComments URL: https://news.ycombinator.com/item?id=48915709\nPoints: 523\n# Comments: 125",
+          "link": "https://fabiensanglard.net/jurrasic_park_computers/index.html",
+          "publishedOn": "2026-07-15T02:57:47.000Z",
+          "wordCount": 2930,
+          "title": "Jurassic Park computers in excruciating detail",
+          "imageUrl": null
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=48910545",
           "author": "xenova",
           "description": "Article URL: https://prismml.com/news/bonsai-27b\nComments URL: https://news.ycombinator.com/item?id=48910545\nPoints: 522\n# Comments: 187",
@@ -1844,16 +1854,6 @@
           "wordCount": 1010,
           "title": "I admire Fabrice Bellard. He is almost certainly a better overall programmer",
           "imageUrl": "https://pbs.twimg.com/profile_images/1560764938083352577/B1X3m4NN_200x200.jpg"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=48547985",
-          "author": "sohkamyung",
-          "description": "Article URL: https://www.richardosgood.com/posts/banned-book-library/\nComments URL: https://news.ycombinator.com/item?id=48547985\nPoints: 512\n# Comments: 302",
-          "link": "https://www.richardosgood.com/posts/banned-book-library/",
-          "publishedOn": "2026-06-15T22:37:55.000Z",
-          "wordCount": 6687,
-          "title": "Banned Book Library in a Wi-Fi Smart Light Bulb",
-          "imageUrl": "https://www.richardosgood.com/images/logo.png"
         }
       ]
     },
