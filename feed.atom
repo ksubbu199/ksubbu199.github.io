@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-07-15T19:09:36.394Z</updated>
+    <updated>2026-07-15T21:00:06.549Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[SpaceX bond worth 10% less than issue price – heading for junk bond status]]></title>
+        <id>https://news.ycombinator.com/item?id=48920181</id>
+        <link href="https://www.ft.com/content/3a023b95-66c3-41e1-b0ce-df752a499541"/>
+        <updated>2026-07-15T12:59:09.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.ft.com/content/3a023b95-66c3-41e1-b0ce-df752a499541
+Comments URL: https://news.ycombinator.com/item?id=48920181
+Points: 500
+# Comments: 485]]></summary>
+        <author>
+            <name>youngtaff</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Sleep regularity is a stronger predictor of mortality risk than sleep duration (2023)]]></title>
         <id>https://news.ycombinator.com/item?id=48919363</id>
@@ -2919,6 +2932,18 @@ Points: 645
         <updated>2026-06-16T13:39:52.000Z</updated>
         <author>
             <name>Think School</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fragments: June 16]]></title>
+        <id>https://martinfowler.com/fragments/2026-06-16.html</id>
+        <link href="https://martinfowler.com/fragments/2026-06-16.html"/>
+        <updated>2026-06-16T12:44:00.000Z</updated>
+        <summary type="html"><![CDATA[“Prag Dave” Thomas (co-author of the outstanding “Pragmatic Programmer”) has loved programming since he was young.
+Programming was how I could express myself. I wasn’t an artist. When I sing, dogs howl. When I draw, friends say, “Very nice. What is it?” I didn’t connect particularly well with people, even though I wanted to. And yet, when I wrote my first program, I discovered a medium which let me convert thought into action. All the ideas that were bottled up behind a wall of frustration suddenly had an outlet.
+The LLM revolution worried him. Would they remove all that fun stuff? Happily he found it was the opposite. Like Kent Beck and others have told me, programming with LLMs is more fun than ever. His post lists reasons why: removing drudgery, speeding up feedback loops, reviving long…]]></summary>
+        <author>
+            <name>Martin Fowler</name>
         </author>
     </entry>
     <entry>
