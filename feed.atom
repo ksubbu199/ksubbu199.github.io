@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-07-15T15:26:01.924Z</updated>
+    <updated>2026-07-15T17:17:00.501Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Sleep regularity is a stronger predictor of mortality risk than sleep duration (2023)]]></title>
+        <id>https://news.ycombinator.com/item?id=48919363</id>
+        <link href="https://academic.oup.com/sleep/article/47/1/zsad253/7280269"/>
+        <updated>2026-07-15T11:46:06.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://academic.oup.com/sleep/article/47/1/zsad253/7280269
+Comments URL: https://news.ycombinator.com/item?id=48919363
+Points: 533
+# Comments: 261]]></summary>
+        <author>
+            <name>bilsbie</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[I tricked Claude into leaking your deepest, darkest secrets]]></title>
         <id>https://news.ycombinator.com/item?id=48916975</id>
@@ -56,6 +69,19 @@ Points: 514
 # Comments: 239]]></summary>
         <author>
             <name>cdrnsf</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Are we offloading too much of our thinking to AI?]]></title>
+        <id>https://news.ycombinator.com/item?id=48908178</id>
+        <link href="https://www.artfish.ai/p/offloading-thinking-to-ai"/>
+        <updated>2026-07-14T15:18:13.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.artfish.ai/p/offloading-thinking-to-ai
+Comments URL: https://news.ycombinator.com/item?id=48908178
+Points: 504
+# Comments: 458]]></summary>
+        <author>
+            <name>yenniejun111</name>
         </author>
     </entry>
     <entry>
@@ -2960,19 +2986,6 @@ Programming was how I could express myself. I wasn’t an artist. When I sing, d
 The LLM revolution worried him. Would they remove all that fun stuff? Happily he found it was the opposite. Like Kent Beck and others have told me, programming with LLMs is more fun than ever. His post lists reasons why: removing drudgery, speeding up feedback loops, reviving long…]]></summary>
         <author>
             <name>Martin Fowler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I admire Fabrice Bellard. He is almost certainly a better overall programmer]]></title>
-        <id>https://news.ycombinator.com/item?id=48550779</id>
-        <link href="https://twitter.com/ID_AA_Carmack/status/2064095424420487226"/>
-        <updated>2026-06-16T04:58:15.000Z</updated>
-        <summary type="html"><![CDATA[https://xcancel.com/ID_AA_Carmack/status/2064095424420487226
-Comments URL: https://news.ycombinator.com/item?id=48550779
-Points: 628
-# Comments: 315]]></summary>
-        <author>
-            <name>apitman</name>
         </author>
     </entry>
     <entry>

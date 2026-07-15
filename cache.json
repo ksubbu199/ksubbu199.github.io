@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=48919363",
+          "author": "bilsbie",
+          "description": "Article URL: https://academic.oup.com/sleep/article/47/1/zsad253/7280269\nComments URL: https://news.ycombinator.com/item?id=48919363\nPoints: 533\n# Comments: 261",
+          "link": "https://academic.oup.com/sleep/article/47/1/zsad253/7280269",
+          "publishedOn": "2026-07-15T11:46:06.000Z",
+          "wordCount": null,
+          "title": "Sleep regularity is a stronger predictor of mortality risk than sleep duration (2023)",
+          "imageUrl": null
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=48916975",
           "author": "macleginn",
           "description": "Article URL: https://www.ayush.digital/blog/the-memory-heist\nComments URL: https://news.ycombinator.com/item?id=48916975\nPoints: 507\n# Comments: 244",
@@ -44,6 +54,16 @@
           "wordCount": 1096,
           "title": "The Tower Keeps Rising",
           "imageUrl": "https://lucumr.pocoo.org/social/2026-07-13-the-tower-keeps-rising-social.png"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=48908178",
+          "author": "yenniejun111",
+          "description": "Article URL: https://www.artfish.ai/p/offloading-thinking-to-ai\nComments URL: https://news.ycombinator.com/item?id=48908178\nPoints: 504\n# Comments: 458",
+          "link": "https://www.artfish.ai/p/offloading-thinking-to-ai",
+          "publishedOn": "2026-07-14T15:18:13.000Z",
+          "wordCount": 5302,
+          "title": "Are we offloading too much of our thinking to AI?",
+          "imageUrl": "https://substackcdn.com/image/fetch/$s_!NTK9!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffb548edd-f827-4d19-aa23-3bd68fdc980c_1456x1092.webp"
         },
         {
           "id": "https://news.ycombinator.com/item?id=48905248",
@@ -1864,16 +1884,6 @@
           "wordCount": 7544,
           "title": "Feds freaked over Fable 5 after 'fix this code', not jailbreak, say researchers",
           "imageUrl": "https://image.theregister.com/5255863.jpg?imageId=5255863&x=0&y=9.43&cropw=100&croph=81.13&panox=0&panoy=9.43&panow=100&panoh=81.13&width=1200&height=683"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=48550779",
-          "author": "apitman",
-          "description": "https://xcancel.com/ID_AA_Carmack/status/2064095424420487226\nComments URL: https://news.ycombinator.com/item?id=48550779\nPoints: 628\n# Comments: 315",
-          "link": "https://twitter.com/ID_AA_Carmack/status/2064095424420487226",
-          "publishedOn": "2026-06-16T04:58:15.000Z",
-          "wordCount": 1010,
-          "title": "I admire Fabrice Bellard. He is almost certainly a better overall programmer",
-          "imageUrl": "https://pbs.twimg.com/profile_images/1560764938083352577/B1X3m4NN_200x200.jpg"
         }
       ]
     },
