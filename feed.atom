@@ -2,10 +2,55 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-07-16T11:38:21.055Z</updated>
+    <updated>2026-07-16T13:49:17.174Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The Archaeologist’s Copilot]]></title>
+        <id>https://martinfowler.com/articles/archaeologist-copilot.html</id>
+        <link href="https://martinfowler.com/articles/archaeologist-copilot.html"/>
+        <updated>2026-07-16T13:25:00.000Z</updated>
+        <summary type="html"><![CDATA[When people think of legacy modernization, most folks aren't imagining
+      the target environment will be Java 8. But this was the challenge facing
+      Nik Malykhin when he needed to run a Java 1.5 codebase on
+      today's hardware. His early use of LLMs gave plausible answers that did
+      not hold up in the codebase. Progress came when he grounded the process in
+      evidence, using AI to support analysis, validation in a stable Docker
+      environment, and gradual refactoring protected by tests. The main takeaway
+      is practical: AI was most useful when constrained by evidence, clear
+      roles, and a step-by-step modernization strategy.
+more…]]></summary>
+        <author>
+            <name>Martin Fowler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The lost joy of music piracy]]></title>
+        <id>https://news.ycombinator.com/item?id=48930454</id>
+        <link href="https://www.pigeonsandplanes.com/read/music-piracy-what-cd-oink-nine-inch-nails-streaming"/>
+        <updated>2026-07-16T04:46:21.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.pigeonsandplanes.com/read/music-piracy-what-cd-oink-nine-inch-nails-streaming
+Comments URL: https://news.ycombinator.com/item?id=48930454
+Points: 501
+# Comments: 328]]></summary>
+        <author>
+            <name>mcgin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Grok Build is open source]]></title>
+        <id>https://news.ycombinator.com/item?id=48926590</id>
+        <link href="https://github.com/xai-org/grok-build"/>
+        <updated>2026-07-15T20:24:58.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://github.com/xai-org/grok-build
+Comments URL: https://news.ycombinator.com/item?id=48926590
+Points: 513
+# Comments: 553]]></summary>
+        <author>
+            <name>skp1995</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Inkling: Our Open-Weights Model]]></title>
         <id>https://news.ycombinator.com/item?id=48924912</id>
