@@ -2,10 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-07-16T15:38:31.392Z</updated>
+    <updated>2026-07-16T17:15:15.875Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The Pulse: What can we learn from Bun’s rapid Rust rewrite with AI?]]></title>
+        <id>6a58cdde676a90000149edb3</id>
+        <link href="https://blog.pragmaticengineer.com/the-pulse-what-can-we-learn-from-buns-rapid-rust-rewrite-with-ai/"/>
+        <updated>2026-07-16T16:50:20.000Z</updated>
+        <summary type="html"><![CDATA[To a sceptic, spending $165K to migrate Bun from Zig to Rust sounds very expensive. But to a realist, shortening a 1-2 year migration down to 11 days opens amazing new opportunities for devs. However, a thoroughly-tested project is required to pull it off.]]></summary>
+        <author>
+            <name>Ivan Klaric</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Zepto’s Biggest Weakness : Why Zepto wants to be Dmart without the Profits?]]></title>
+        <id>https://www.youtube.com/watch?v=CitRMLnB6TU</id>
+        <link href="https://www.youtube.com/watch?v=CitRMLnB6TU"/>
+        <updated>2026-07-16T15:51:14.000Z</updated>
+        <author>
+            <name>Think School</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Archaeologist’s Copilot]]></title>
         <id>https://martinfowler.com/articles/archaeologist-copilot.html</id>
@@ -2867,19 +2886,6 @@ Points: 517
 # Comments: 168]]></summary>
         <author>
             <name>headalgorithm</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[US holds off blacklisting DeepSeek, more than 100 firms deemed security risks]]></title>
-        <id>https://news.ycombinator.com/item?id=48565498</id>
-        <link href="https://www.reuters.com/world/china/us-holds-off-blacklisting-chinas-deepseek-more-than-100-firms-deemed-security-2026-06-17/"/>
-        <updated>2026-06-17T03:55:16.000Z</updated>
-        <summary type="html"><![CDATA[https://archive.ph/MlU1U
-Comments URL: https://news.ycombinator.com/item?id=48565498
-Points: 508
-# Comments: 561]]></summary>
-        <author>
-            <name>giuliomagnifico</name>
         </author>
     </entry>
     <entry>

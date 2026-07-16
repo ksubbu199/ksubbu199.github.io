@@ -1814,16 +1814,6 @@
           "wordCount": 1221,
           "title": "Hacker News but for independent blogs",
           "imageUrl": "https://bubbles.town/static/bubbles_1200x630.png"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=48565498",
-          "author": "giuliomagnifico",
-          "description": "https://archive.ph/MlU1U\nComments URL: https://news.ycombinator.com/item?id=48565498\nPoints: 508\n# Comments: 561",
-          "link": "https://www.reuters.com/world/china/us-holds-off-blacklisting-chinas-deepseek-more-than-100-firms-deemed-security-2026-06-17/",
-          "publishedOn": "2026-06-17T03:55:16.000Z",
-          "wordCount": null,
-          "title": "US holds off blacklisting DeepSeek, more than 100 firms deemed security risks",
-          "imageUrl": null
         }
       ]
     },
@@ -1985,6 +1975,16 @@
       "siteUrl": "https://blog.pragmaticengineer.com/",
       "articles": [
         {
+          "id": "6a58cdde676a90000149edb3",
+          "author": "Ivan Klaric",
+          "description": "To a sceptic, spending $165K to migrate Bun from Zig to Rust sounds very expensive. But to a realist, shortening a 1-2 year migration down to 11 days opens amazing new opportunities for devs. However, a thoroughly-tested project is required to pull it off.",
+          "link": "https://blog.pragmaticengineer.com/the-pulse-what-can-we-learn-from-buns-rapid-rust-rewrite-with-ai/",
+          "publishedOn": "2026-07-16T16:50:20.000Z",
+          "wordCount": 2861,
+          "title": "The Pulse: What can we learn from Bun’s rapid Rust rewrite with AI?",
+          "imageUrl": null
+        },
+        {
           "id": "6a4fd7106171aa00016f1eab",
           "author": "Gergely Orosz",
           "description": "Power users generate 10x as many lines of code vs the median, most of the AI spend is coming from input tokens not output ones, and almost half of AI changes are accepted without manual review by devs (!!)",
@@ -2031,6 +2031,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKZozRVHRYsYHGEyNKuhhdA",
       "siteUrl": "https://www.youtube.com/channel/UCKZozRVHRYsYHGEyNKuhhdA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=CitRMLnB6TU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=CitRMLnB6TU",
+          "publishedOn": "2026-07-16T15:51:14.000Z",
+          "wordCount": null,
+          "title": "Zepto’s Biggest Weakness : Why Zepto wants to be Dmart without the Profits?",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/shorts/LeaW-L3xN5M",
           "author": null,
