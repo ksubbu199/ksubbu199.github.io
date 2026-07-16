@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-07-16T17:15:15.875Z</updated>
+    <updated>2026-07-16T19:10:10.176Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -23,6 +23,19 @@
         <updated>2026-07-16T15:51:14.000Z</updated>
         <author>
             <name>Think School</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kimi K3 is now live]]></title>
+        <id>https://news.ycombinator.com/item?id=48935342</id>
+        <link href="https://www.kimi.com/en"/>
+        <updated>2026-07-16T14:46:05.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.kimi.com/en
+Comments URL: https://news.ycombinator.com/item?id=48935342
+Points: 559
+# Comments: 285]]></summary>
+        <author>
+            <name>vincent_s</name>
         </author>
     </entry>
     <entry>
