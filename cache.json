@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=48936426",
+          "author": "jervant",
+          "description": "Article URL: https://opensource.microsoft.com/blog/2026/07/16/microsoft-comic-chat-is-now-open-source/\nComments URL: https://news.ycombinator.com/item?id=48936426\nPoints: 571\n# Comments: 124",
+          "link": "https://opensource.microsoft.com/blog/2026/07/16/microsoft-comic-chat-is-now-open-source/",
+          "publishedOn": "2026-07-16T16:06:27.000Z",
+          "wordCount": 6076,
+          "title": "Microsoft Comic Chat is now open source",
+          "imageUrl": "https://opensource.microsoft.com/blog/wp-content/uploads/2026/07/Microsoft365-FY26-Consumer-C2-ArtStudio-2749-RGB-scaled.jpg"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=48935342",
           "author": "vincent_s",
           "description": "https://www.kimi.com/en\nKimi K3 Intelligence, Performance & Price Analysis: https://artificialanalysis.ai/models/kimi-k3\nComments URL: https://news.ycombinator.com/item?id=48935342\nPoints: 882\n# Comments: 526",
@@ -1784,46 +1794,6 @@
           "wordCount": null,
           "title": "Midjourney Medical",
           "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=48571526",
-          "author": "microtonal",
-          "description": "Article URL: https://discuss.grapheneos.org/d/35949-volkswagen-app?page=3\nComments URL: https://news.ycombinator.com/item?id=48571526\nPoints: 527\n# Comments: 348",
-          "link": "https://discuss.grapheneos.org/d/35949-volkswagen-app?page=3",
-          "publishedOn": "2026-06-17T15:04:47.000Z",
-          "wordCount": 2752,
-          "title": "Volkswagen started blocking GrapheneOS users",
-          "imageUrl": "https://discuss.grapheneos.org/opengraph.png"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=48571081",
-          "author": "regnerba",
-          "description": "Article URL: https://lore.org/\nComments URL: https://news.ycombinator.com/item?id=48571081\nPoints: 534\n# Comments: 275",
-          "link": "https://lore.org/",
-          "publishedOn": "2026-06-17T14:30:27.000Z",
-          "wordCount": 2777,
-          "title": "Epic Games announces Lore version control system",
-          "imageUrl": "https://cms-assets.unrealengine.com/AEOpzOpKNRbioUBp6s1Yjz/resize=width:1200/cmpy4vcov0my207oh3rrbztmu"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=48569954",
-          "author": "lutr",
-          "description": "Article URL: https://www.lutr.dev/want-your-images-back-sure-that-ll-be-5-dollars\nComments URL: https://news.ycombinator.com/item?id=48569954\nPoints: 555\n# Comments: 234",
-          "link": "https://www.lutr.dev/want-your-images-back-sure-that-ll-be-5-dollars",
-          "publishedOn": "2026-06-17T13:05:03.000Z",
-          "wordCount": 2054,
-          "title": "Want your images back? That'll be $5",
-          "imageUrl": "https://lutr.dev/assets/covers/want-your-images-back-sure-that-ll-be-5-dollars.png"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=48569278",
-          "author": "thm",
-          "description": "Article URL: https://wpvip.com/future-of-the-web-2026/\nComments URL: https://news.ycombinator.com/item?id=48569278\nPoints: 515\n# Comments: 263",
-          "link": "https://wpvip.com/future-of-the-web-2026/",
-          "publishedOn": "2026-06-17T12:11:27.000Z",
-          "wordCount": 6916,
-          "title": "Sixty percent of US consumers say 'AI' in brand messaging is a turnoff",
-          "imageUrl": "https://wpvip.com/wp-content/uploads/sites/3/2026/06/FOW-REPORT_f53628.jpg"
         }
       ]
     },
@@ -2370,16 +2340,6 @@
           "wordCount": 2203,
           "title": "How to Get Credit at Work",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=JvAqnBPVctg",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=JvAqnBPVctg",
-          "publishedOn": "2026-06-17T15:18:16.000Z",
-          "wordCount": null,
-          "title": "Quick Commerce Accelerator 2026",
-          "imageUrl": null
         }
       ]
     },
@@ -2396,16 +2356,6 @@
           "publishedOn": "2026-07-10T14:00:21.000Z",
           "wordCount": null,
           "title": "How a query optimization gave birth to Infinite scroll",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=gO4J5Bkd1Oc",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=gO4J5Bkd1Oc",
-          "publishedOn": "2026-06-17T13:00:24.000Z",
-          "wordCount": null,
-          "title": "Postgres is half as fast in Linux 7.0, and we always knew why",
           "imageUrl": null
         }
       ]
