@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-07-17T06:15:08.939Z</updated>
+    <updated>2026-07-17T09:08:22.336Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -14,6 +14,19 @@
         <summary type="html"><![CDATA[To a sceptic, spending $165K to migrate Bun from Zig to Rust sounds very expensive. But to a realist, shortening a 1-2 year migration down to 11 days opens amazing new opportunities for devs. However, a thoroughly-tested project is required to pull it off.]]></summary>
         <author>
             <name>Ivan Klaric</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Decoy Font]]></title>
+        <id>https://news.ycombinator.com/item?id=48936584</id>
+        <link href="https://www.mixfont.com/experiments/decoy-font"/>
+        <updated>2026-07-16T16:18:21.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.mixfont.com/experiments/decoy-font
+Comments URL: https://news.ycombinator.com/item?id=48936584
+Points: 541
+# Comments: 126]]></summary>
+        <author>
+            <name>ray__</name>
         </author>
     </entry>
     <entry>
