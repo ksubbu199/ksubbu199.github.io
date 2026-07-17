@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-07-17T09:08:22.336Z</updated>
+    <updated>2026-07-17T11:21:23.533Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[India's Next Billion Dollar Space Story | Podcast Out Soon]]></title>
+        <id>https://www.youtube.com/shorts/Qb9lOC6rNoI</id>
+        <link href="https://www.youtube.com/shorts/Qb9lOC6rNoI"/>
+        <updated>2026-07-17T10:50:03.000Z</updated>
+        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
+        <author>
+            <name>Think School</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Pulse: What can we learn from Bun’s rapid Rust rewrite with AI?]]></title>
         <id>6a58cdde676a90000149edb3</id>
@@ -108,6 +118,19 @@ Points: 515
 # Comments: 314]]></summary>
         <author>
             <name>nekusar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Our Rust-to-Zig Rewrite Is Going]]></title>
+        <id>https://news.ycombinator.com/item?id=48933149</id>
+        <link href="https://rtfeldman.com/rust-to-zig"/>
+        <updated>2026-07-16T11:39:27.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://rtfeldman.com/rust-to-zig
+Comments URL: https://news.ycombinator.com/item?id=48933149
+Points: 501
+# Comments: 267]]></summary>
+        <author>
+            <name>jorangreef</name>
         </author>
     </entry>
     <entry>
