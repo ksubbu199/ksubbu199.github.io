@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=48957779",
+          "author": "mbustamanter",
+          "description": "Article URL: https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a/\nComments URL: https://news.ycombinator.com/item?id=48957779\nPoints: 533\n# Comments: 343",
+          "link": "https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a/",
+          "publishedOn": "2026-07-18T13:00:52.000Z",
+          "wordCount": null,
+          "title": "GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
+          "imageUrl": null
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=48956688",
           "author": "baranul",
           "description": "Article URL: https://videocardz.com/newz/lg-monitors-silently-install-software-through-windows-update-without-user-consent\nComments URL: https://news.ycombinator.com/item?id=48956688\nPoints: 589\n# Comments: 311",
@@ -1754,66 +1764,6 @@
           "wordCount": 454,
           "title": "Help I accidentally a wigglegram",
           "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=48600946",
-          "author": "hn_acker",
-          "description": "Article URL: https://www.eff.org/deeplinks/2026/06/court-records-should-be-free\nComments URL: https://news.ycombinator.com/item?id=48600946\nPoints: 505\n# Comments: 134",
-          "link": "https://www.eff.org/deeplinks/2026/06/court-records-should-be-free",
-          "publishedOn": "2026-06-19T17:34:18.000Z",
-          "wordCount": 1586,
-          "title": "Court Records Should Be Free",
-          "imageUrl": "https://www.eff.org/files/banner_library/supreme-court-3b.jpg"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=48600345",
-          "author": "birdculture",
-          "description": "Article URL: https://tales.fromprod.com/2026/169/google-workspace-threatening-to-block-firefox.html\nComments URL: https://news.ycombinator.com/item?id=48600345\nPoints: 505\n# Comments: 162",
-          "link": "https://tales.fromprod.com/2026/169/google-workspace-threatening-to-block-firefox.html",
-          "publishedOn": "2026-06-19T16:30:49.000Z",
-          "wordCount": 842,
-          "title": "Google workspace threatening to block Firefox access",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=48600312",
-          "author": "ck2",
-          "description": "Article URL: https://startupfortune.com/hyundai-takes-full-control-of-boston-dynamics-as-softbank-exits-for-325-million/\nComments URL: https://news.ycombinator.com/item?id=48600312\nPoints: 560\n# Comments: 264",
-          "link": "https://startupfortune.com/hyundai-takes-full-control-of-boston-dynamics-as-softbank-exits-for-325-million/",
-          "publishedOn": "2026-06-19T16:28:20.000Z",
-          "wordCount": 2911,
-          "title": "Hyundai buys Boston Dynamics",
-          "imageUrl": "https://startupfortune.com/wp-content/uploads/2026/06/sf-14065-1781845702426.jpg"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=48600167",
-          "author": "oshrimpton",
-          "description": "Article URL: https://arrowtsx.dev/bigger-models/\nComments URL: https://news.ycombinator.com/item?id=48600167\nPoints: 518\n# Comments: 250",
-          "link": "https://arrowtsx.dev/bigger-models/",
-          "publishedOn": "2026-06-19T16:11:25.000Z",
-          "wordCount": 1051,
-          "title": "GPT-5.5 hallucinates 3x more than MIT-licensed GLM-5.2",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=48600093",
-          "author": "ilreb",
-          "description": "Article URL: https://www.reuters.com/technology/norway-imposes-near-ban-ai-elementary-school-2026-06-19/\nComments URL: https://news.ycombinator.com/item?id=48600093\nPoints: 539\n# Comments: 360",
-          "link": "https://www.reuters.com/technology/norway-imposes-near-ban-ai-elementary-school-2026-06-19/",
-          "publishedOn": "2026-06-19T16:03:15.000Z",
-          "wordCount": null,
-          "title": "Norway imposes near ban on AI in elementary school",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=48599515",
-          "author": "danabramov",
-          "description": "Article URL: https://overreacted.io/there-are-no-instances-in-atproto/\nComments URL: https://news.ycombinator.com/item?id=48599515\nPoints: 502\n# Comments: 282",
-          "link": "https://overreacted.io/there-are-no-instances-in-atproto/",
-          "publishedOn": "2026-06-19T15:10:02.000Z",
-          "wordCount": 33695,
-          "title": "There are no instances in ATProto",
-          "imageUrl": "https://overreacted.io/there-are-no-instances-in-atproto/opengraph-image?5b0b970dfd19bb8c"
         }
       ]
     },

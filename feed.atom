@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-07-19T02:40:44.745Z</updated>
+    <updated>2026-07-19T05:52:43.994Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -23,6 +23,19 @@
         <updated>2026-07-18T13:07:27.000Z</updated>
         <author>
             <name>Think School</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GPT-5.6 used a prompt to close a 30-year gap in convex optimization]]></title>
+        <id>https://news.ycombinator.com/item?id=48957779</id>
+        <link href="https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a/"/>
+        <updated>2026-07-18T13:00:52.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a/
+Comments URL: https://news.ycombinator.com/item?id=48957779
+Points: 533
+# Comments: 343]]></summary>
+        <author>
+            <name>mbustamanter</name>
         </author>
     </entry>
     <entry>
@@ -2839,84 +2852,6 @@ Points: 508
 # Comments: 120]]></summary>
         <author>
             <name>gregsadetsky</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Court Records Should Be Free]]></title>
-        <id>https://news.ycombinator.com/item?id=48600946</id>
-        <link href="https://www.eff.org/deeplinks/2026/06/court-records-should-be-free"/>
-        <updated>2026-06-19T17:34:18.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.eff.org/deeplinks/2026/06/court-records-should-be-free
-Comments URL: https://news.ycombinator.com/item?id=48600946
-Points: 505
-# Comments: 134]]></summary>
-        <author>
-            <name>hn_acker</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google workspace threatening to block Firefox access]]></title>
-        <id>https://news.ycombinator.com/item?id=48600345</id>
-        <link href="https://tales.fromprod.com/2026/169/google-workspace-threatening-to-block-firefox.html"/>
-        <updated>2026-06-19T16:30:49.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://tales.fromprod.com/2026/169/google-workspace-threatening-to-block-firefox.html
-Comments URL: https://news.ycombinator.com/item?id=48600345
-Points: 505
-# Comments: 162]]></summary>
-        <author>
-            <name>birdculture</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hyundai buys Boston Dynamics]]></title>
-        <id>https://news.ycombinator.com/item?id=48600312</id>
-        <link href="https://startupfortune.com/hyundai-takes-full-control-of-boston-dynamics-as-softbank-exits-for-325-million/"/>
-        <updated>2026-06-19T16:28:20.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://startupfortune.com/hyundai-takes-full-control-of-boston-dynamics-as-softbank-exits-for-325-million/
-Comments URL: https://news.ycombinator.com/item?id=48600312
-Points: 560
-# Comments: 264]]></summary>
-        <author>
-            <name>ck2</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GPT-5.5 hallucinates 3x more than MIT-licensed GLM-5.2]]></title>
-        <id>https://news.ycombinator.com/item?id=48600167</id>
-        <link href="https://arrowtsx.dev/bigger-models/"/>
-        <updated>2026-06-19T16:11:25.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://arrowtsx.dev/bigger-models/
-Comments URL: https://news.ycombinator.com/item?id=48600167
-Points: 518
-# Comments: 250]]></summary>
-        <author>
-            <name>oshrimpton</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Norway imposes near ban on AI in elementary school]]></title>
-        <id>https://news.ycombinator.com/item?id=48600093</id>
-        <link href="https://www.reuters.com/technology/norway-imposes-near-ban-ai-elementary-school-2026-06-19/"/>
-        <updated>2026-06-19T16:03:15.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.reuters.com/technology/norway-imposes-near-ban-ai-elementary-school-2026-06-19/
-Comments URL: https://news.ycombinator.com/item?id=48600093
-Points: 539
-# Comments: 360]]></summary>
-        <author>
-            <name>ilreb</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[There are no instances in ATProto]]></title>
-        <id>https://news.ycombinator.com/item?id=48599515</id>
-        <link href="https://overreacted.io/there-are-no-instances-in-atproto/"/>
-        <updated>2026-06-19T15:10:02.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://overreacted.io/there-are-no-instances-in-atproto/
-Comments URL: https://news.ycombinator.com/item?id=48599515
-Points: 502
-# Comments: 282]]></summary>
-        <author>
-            <name>danabramov</name>
         </author>
     </entry>
     <entry>
