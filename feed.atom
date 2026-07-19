@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-07-19T19:05:29.173Z</updated>
+    <updated>2026-07-19T20:47:37.000Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Show HN: I replaced a $120k bowling center system with $1,600 in ESP32s]]></title>
+        <id>https://news.ycombinator.com/item?id=48968606</id>
+        <link href="https://news.ycombinator.com/item?id=48968606"/>
+        <updated>2026-07-19T14:41:16.000Z</updated>
+        <summary type="html"><![CDATA[I might be the only SRE on Earth with his own bowling center. It's a more in-depth gig than you'd think.
+My family and I bought an abandoned 8-lane bowling center in the rural mid-west. In our small town there weren't many recreation options for families. You've heard of a food desert? This is an R&R desert.
+It had been abandoned for a good reason. The roof leaks, the electrical system was constantly surging, and my 70-year-old bowling equipment (still) doesn't work perfectly. The system that keeps your score is particularly interesting to me. It's the thing you watch during your game, but it fades into the background beyond that. Turns out these things are really cool, but absurdly expensive.
+Ours was installed in 2008 and cost six figures. It's calculating ball speed and trajectory, came…]]></summary>
+        <author>
+            <name>section33</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Qwen 3.8]]></title>
         <id>https://news.ycombinator.com/item?id=48966120</id>
