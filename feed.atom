@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-07-20T10:09:37.964Z</updated>
+    <updated>2026-07-20T13:04:51.315Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Claude Fable produced a counterexample to the Jacobian Conjecture]]></title>
+        <id>https://news.ycombinator.com/item?id=48973869</id>
+        <link href="https://xcancel.com/__alpoge__/status/2079028340955197566"/>
+        <updated>2026-07-20T02:51:16.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://xcancel.com/__alpoge__/status/2079028340955197566
+Comments URL: https://news.ycombinator.com/item?id=48973869
+Points: 500
+# Comments: 322]]></summary>
+        <author>
+            <name>loubbrad</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Show HN: I replaced a $120k bowling center system with $1,600 in ESP32s]]></title>
         <id>https://news.ycombinator.com/item?id=48968606</id>
@@ -17,6 +30,19 @@ It had been abandoned for a good reason. The roof leaks, the electrical system w
 Ours was installed in 2008 and cost six figures. It's calculating ball speed and trajectory, came…]]></summary>
         <author>
             <name>section33</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What I learned selling 2,500 MIDI recorders: Hardware is not so hard]]></title>
+        <id>https://news.ycombinator.com/item?id=48966713</id>
+        <link href="https://chipweinberger.com/articles/20260719-hardware-is-not-so-hard"/>
+        <updated>2026-07-19T10:34:58.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://chipweinberger.com/articles/20260719-hardware-is-not-so-hard
+Comments URL: https://news.ycombinator.com/item?id=48966713
+Points: 517
+# Comments: 235]]></summary>
+        <author>
+            <name>chipweinberger</name>
         </author>
     </entry>
     <entry>
