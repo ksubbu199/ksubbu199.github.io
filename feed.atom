@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-07-20T18:02:24.466Z</updated>
+    <updated>2026-07-20T20:20:45.963Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -13,6 +13,32 @@
         <updated>2026-07-20T16:12:46.000Z</updated>
         <author>
             <name>Think School</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[China's open-weights AI strategy is winning]]></title>
+        <id>https://news.ycombinator.com/item?id=48979269</id>
+        <link href="https://werd.io/american-ai-is-locked-down-and-proprietary-its-losing/"/>
+        <updated>2026-07-20T14:21:47.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://werd.io/american-ai-is-locked-down-and-proprietary-its-losing/
+Comments URL: https://news.ycombinator.com/item?id=48979269
+Points: 614
+# Comments: 518]]></summary>
+        <author>
+            <name>benwerd</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Airport Simulator]]></title>
+        <id>https://news.ycombinator.com/item?id=48976846</id>
+        <link href="https://airport.apunen.com/"/>
+        <updated>2026-07-20T10:30:40.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://airport.apunen.com/
+Comments URL: https://news.ycombinator.com/item?id=48976846
+Points: 540
+# Comments: 112]]></summary>
+        <author>
+            <name>apunen</name>
         </author>
     </entry>
     <entry>
