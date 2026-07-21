@@ -6,6 +6,26 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=48993414",
+          "author": "logickkk1",
+          "description": "https://console.cloud.google.com/agent-platform/publishers/g...\nComments URL: https://news.ycombinator.com/item?id=48993414\nPoints: 508\n# Comments: 400",
+          "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-6-flash-3-5-flash-lite-3-5-flash-cyber/",
+          "publishedOn": "2026-07-21T15:17:16.000Z",
+          "wordCount": 5484,
+          "title": "Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
+          "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-3-5_3-6_3-5-Cyber__key-art__statement_.width-1300.jpg"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=48989701",
+          "author": "ilreb",
+          "description": "Article URL: https://qwen.ai/blog?id=qwen-image-3.0\nComments URL: https://news.ycombinator.com/item?id=48989701\nPoints: 508\n# Comments: 206",
+          "link": "https://qwen.ai/blog?id=qwen-image-3.0",
+          "publishedOn": "2026-07-21T08:44:23.000Z",
+          "wordCount": 206,
+          "title": "Qwen-Image-3.0: Rich Content, Authentic Details, Deep Knowledge",
+          "imageUrl": "https://img.alicdn.com/imgextra/i4/O1CN01OXv3EM1FN8t9W4P79_!!6000000000474-2-tps-80-80.png"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=48981703",
           "author": "ms7892",
           "description": "Article URL: https://www.kimi.com/products/kimi-work\nComments URL: https://news.ycombinator.com/item?id=48981703\nPoints: 519\n# Comments: 225",
@@ -1824,26 +1844,6 @@
           "wordCount": 879,
           "title": "Pledging another $400k to the Zig software foundation",
           "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=48626930",
-          "author": "vantareed",
-          "description": "Article URL: https://github.com/openai/codex/issues/28224\nComments URL: https://news.ycombinator.com/item?id=48626930\nPoints: 501\n# Comments: 269",
-          "link": "https://github.com/openai/codex/issues/28224",
-          "publishedOn": "2026-06-22T07:30:17.000Z",
-          "wordCount": 10266,
-          "title": "Codex logging bug may write TBs to local SSDs",
-          "imageUrl": "https://opengraph.githubassets.com/8df94030d29b8be1057c283444543312a0c33570bf6736a7d2974ed2a1e8606e/openai/codex/issues/28224"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=48626866",
-          "author": "ritzaco",
-          "description": "Article URL: https://techstackups.com/comparisons/glm-5.2-vs-opus/\nComments URL: https://news.ycombinator.com/item?id=48626866\nPoints: 506\n# Comments: 330",
-          "link": "https://techstackups.com/comparisons/glm-5.2-vs-opus/",
-          "publishedOn": "2026-06-22T07:22:03.000Z",
-          "wordCount": 2966,
-          "title": "GLM 5.2 vs. Opus",
-          "imageUrl": "https://techstackups.com/img/comparisons/glm-5.2-vs-opus/cover.jpg"
         }
       ]
     },
@@ -1925,6 +1925,16 @@
       "feedUrl": "https://jvns.ca/atom.xml",
       "siteUrl": "https://jvns.ca/atom.xml",
       "articles": [
+        {
+          "id": "https://jvns.ca/blog/2026/07/21/more-nice-django-things/",
+          "author": null,
+          "description": "Hello! I’m on a funny journey right now where I’m trying to learn how to make\nwebsites in a sort of 2010 style, where I have an SQL database and render some\nHTML on the backend.\nIt’s kind of an interesting journey because it doesn’t necessarily feel “easy”\nto me to make websites in this way: I never learned how to do it in the 2000s or\n2010s, and there’s a lot I need to learn.\nSo here are some Django features that make building this kind of site feel\nmore realistic than when I was trying and failing to use Go’s standard library\nor Flask. And I’ll talk about a couple of issues with Django I’ve run into.\nwhy learn to make websites like it’s 2010?\nPreviously the toolkit I felt confident with for making websites was:\nstatic site generators (like for this blog)\nstatic sites that do some fun stu…",
+          "link": "https://jvns.ca/blog/2026/07/21/more-nice-django-things/",
+          "publishedOn": "2026-07-21T00:00:00.000Z",
+          "wordCount": 1641,
+          "title": "Some more things about Django I've been enjoying",
+          "imageUrl": null
+        },
         {
           "id": "https://jvns.ca/blog/2026/07/17/learning-about-running-sqlite/",
           "author": null,

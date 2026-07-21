@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-07-21T19:21:09.247Z</updated>
+    <updated>2026-07-21T21:08:28.159Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber]]></title>
+        <id>https://news.ycombinator.com/item?id=48993414</id>
+        <link href="https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-6-flash-3-5-flash-lite-3-5-flash-cyber/"/>
+        <updated>2026-07-21T15:17:16.000Z</updated>
+        <summary type="html"><![CDATA[https://console.cloud.google.com/agent-platform/publishers/g...
+Comments URL: https://news.ycombinator.com/item?id=48993414
+Points: 508
+# Comments: 400]]></summary>
+        <author>
+            <name>logickkk1</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Fragments: July 21]]></title>
         <id>https://martinfowler.com/fragments/2026-07-21.html</id>
@@ -22,6 +35,41 @@ Legacy modernization is the clearest, most defensible near-term value pool.
 A session convened around the mismatch of views about using LLMs between engineers using it and the C-suite and boards that were calling for it. The concern is that boards are looking at promised…]]></summary>
         <author>
             <name>Martin Fowler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Qwen-Image-3.0: Rich Content, Authentic Details, Deep Knowledge]]></title>
+        <id>https://news.ycombinator.com/item?id=48989701</id>
+        <link href="https://qwen.ai/blog?id=qwen-image-3.0"/>
+        <updated>2026-07-21T08:44:23.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://qwen.ai/blog?id=qwen-image-3.0
+Comments URL: https://news.ycombinator.com/item?id=48989701
+Points: 508
+# Comments: 206]]></summary>
+        <author>
+            <name>ilreb</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Some more things about Django I've been enjoying]]></title>
+        <id>https://jvns.ca/blog/2026/07/21/more-nice-django-things/</id>
+        <link href="https://jvns.ca/blog/2026/07/21/more-nice-django-things/"/>
+        <updated>2026-07-21T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Hello! I’m on a funny journey right now where I’m trying to learn how to make
+websites in a sort of 2010 style, where I have an SQL database and render some
+HTML on the backend.
+It’s kind of an interesting journey because it doesn’t necessarily feel “easy”
+to me to make websites in this way: I never learned how to do it in the 2000s or
+2010s, and there’s a lot I need to learn.
+So here are some Django features that make building this kind of site feel
+more realistic than when I was trying and failing to use Go’s standard library
+or Flask. And I’ll talk about a couple of issues with Django I’ve run into.
+why learn to make websites like it’s 2010?
+Previously the toolkit I felt confident with for making websites was:
+static site generators (like for this blog)
+static sites that do some fun stu…]]></summary>
+        <author>
+            <name>Julia Evans</name>
         </author>
     </entry>
     <entry>
@@ -2957,32 +3005,6 @@ Points: 596
 # Comments: 192]]></summary>
         <author>
             <name>tosh</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Codex logging bug may write TBs to local SSDs]]></title>
-        <id>https://news.ycombinator.com/item?id=48626930</id>
-        <link href="https://github.com/openai/codex/issues/28224"/>
-        <updated>2026-06-22T07:30:17.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://github.com/openai/codex/issues/28224
-Comments URL: https://news.ycombinator.com/item?id=48626930
-Points: 501
-# Comments: 269]]></summary>
-        <author>
-            <name>vantareed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GLM 5.2 vs. Opus]]></title>
-        <id>https://news.ycombinator.com/item?id=48626866</id>
-        <link href="https://techstackups.com/comparisons/glm-5.2-vs-opus/"/>
-        <updated>2026-06-22T07:22:03.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://techstackups.com/comparisons/glm-5.2-vs-opus/
-Comments URL: https://news.ycombinator.com/item?id=48626866
-Points: 506
-# Comments: 330]]></summary>
-        <author>
-            <name>ritzaco</name>
         </author>
     </entry>
     <entry>
