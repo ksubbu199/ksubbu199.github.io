@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-07-22T02:43:06.570Z</updated>
+    <updated>2026-07-22T05:50:05.347Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -18,6 +18,19 @@ Points: 564
 # Comments: 370]]></summary>
         <author>
             <name>mfiguiere</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Advertise in ChatGPT]]></title>
+        <id>https://news.ycombinator.com/item?id=48996571</id>
+        <link href="https://ads.openai.com/"/>
+        <updated>2026-07-21T18:58:44.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://ads.openai.com/
+Comments URL: https://news.ycombinator.com/item?id=48996571
+Points: 571
+# Comments: 420]]></summary>
+        <author>
+            <name>montecarl</name>
         </author>
     </entry>
     <entry>
@@ -2969,21 +2982,6 @@ Points: 506
 # Comments: 349]]></summary>
         <author>
             <name>geox</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Steam Machine launches today]]></title>
-        <id>https://news.ycombinator.com/item?id=48632884</id>
-        <link href="https://store.steampowered.com/news/group/45479024/view/685257114654870245"/>
-        <updated>2026-06-22T17:09:51.000Z</updated>
-        <summary type="html"><![CDATA[https://store.steampowered.com/sale/steammachine
-https://www.lttlabs.com/articles/2026/06/22/the-newell-nucle...
-https://www.youtube.com/watch?v=66QzlDewigE
-Comments URL: https://news.ycombinator.com/item?id=48632884
-Points: 905
-# Comments: 783]]></summary>
-        <author>
-            <name>theschwa</name>
         </author>
     </entry>
     <entry>
