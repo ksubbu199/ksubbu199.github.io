@@ -2,10 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-07-22T19:18:17.665Z</updated>
+    <updated>2026-07-22T21:06:33.788Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Bento - An entire PowerPoint in one HTML file (edit+view+data+collab)]]></title>
+        <id>https://news.ycombinator.com/item?id=49008211</id>
+        <link href="https://bento.page/slides/"/>
+        <updated>2026-07-22T15:19:23.000Z</updated>
+        <summary type="html"><![CDATA[Over the past few months, our team has been building more and more slidedecks using web frontend technologies with coding harnesses like Claude Code, but a common complaint is to make even small edits we need to edit the code either manually or via the harness.
+To avoid this loop, I ended up creating Bento, a single HTML file with everything you need in a slide tool including animations and shared editing. There's no install or cloud login, everything works offline. The default deck is around 560 KB and it doesn't need to fetch anything once you got it.
+Open it in a browser and then you can edit, present, print and save. Share it via email or via Airdrop and all they need is a browser to edit, present and also do live collab on the slides. Drop it in to Claude or ChatGPT to transform existing pptx files into Bento slides. There is no cloud involved, only an encrypted blind relay to allow for shared editing. The relay doesn't see any of the data.
+Check it out at https://bento.page/slides/ which takes you straight to the editor.
+Go to https://bento.page/guestbook/ to try out the live guestbook to experience share editing / collab.
+There is also a gallery with some sample decks on the website - https://bento.page/
+All the code is MIT licensed and you can find it here - https://github.com/nyblnet/bento . I used reveal.js with several other libraries (including some homegrown ones), and Claude Code.
+Comments URL: https://news.ycombinator.com/item?id=49008211
+Points: 522
+# Comments: 112]]></summary>
+        <author>
+            <name>starfallg</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[OverpAId – Fire your CEO. Hire the future]]></title>
         <id>https://news.ycombinator.com/item?id=49004663</id>
