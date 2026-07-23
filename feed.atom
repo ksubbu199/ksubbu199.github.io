@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-07-23T05:53:10.667Z</updated>
+    <updated>2026-07-23T08:29:15.344Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -35,6 +35,19 @@ Points: 639
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Are AI labs pelicanmaxxing?]]></title>
+        <id>https://news.ycombinator.com/item?id=49010129</id>
+        <link href="https://dylancastillo.co/posts/pelicanmaxxing.html"/>
+        <updated>2026-07-22T17:17:54.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://dylancastillo.co/posts/pelicanmaxxing.html
+Comments URL: https://news.ycombinator.com/item?id=49010129
+Points: 506
+# Comments: 196]]></summary>
+        <author>
+            <name>dcastm</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Show HN: Bento - An entire PowerPoint in one HTML file (edit+view+data+collab)]]></title>
         <id>https://news.ycombinator.com/item?id=49008211</id>
         <link href="https://bento.page/slides/"/>
@@ -51,6 +64,19 @@ Points: 522
 # Comments: 112]]></summary>
         <author>
             <name>starfallg</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Passkeys were invented by engineers with zero understanding of consumer brain]]></title>
+        <id>https://news.ycombinator.com/item?id=49007374</id>
+        <link href="https://twitter.com/nikitabier/status/2079787406300266743"/>
+        <updated>2026-07-22T14:25:13.000Z</updated>
+        <summary type="html"><![CDATA[https://xcancel.com/nikitabier/status/2079787406300266743
+Comments URL: https://news.ycombinator.com/item?id=49007374
+Points: 507
+# Comments: 679]]></summary>
+        <author>
+            <name>ksec</name>
         </author>
     </entry>
     <entry>
@@ -2955,45 +2981,6 @@ Points: 607
 # Comments: 199]]></summary>
         <author>
             <name>dabinat</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Jerry's Map]]></title>
-        <id>https://news.ycombinator.com/item?id=48649435</id>
-        <link href="http://www.jerrysmap.com/the-map"/>
-        <updated>2026-06-23T18:40:22.000Z</updated>
-        <summary type="html"><![CDATA[https://www.openculture.com/2026/06/this-man-has-been-drawin...
-Comments URL: https://news.ycombinator.com/item?id=48649435
-Points: 524
-# Comments: 56]]></summary>
-        <author>
-            <name>turtleyacht</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fired by Google for creating the Google workspace CLI]]></title>
-        <id>https://news.ycombinator.com/item?id=48649011</id>
-        <link href="https://twitter.com/JPoehnelt/status/2069482265953087602"/>
-        <updated>2026-06-23T18:13:40.000Z</updated>
-        <summary type="html"><![CDATA[https://xcancel.com/JPoehnelt/status/2069482265953087602
-Comments URL: https://news.ycombinator.com/item?id=48649011
-Points: 553
-# Comments: 320]]></summary>
-        <author>
-            <name>justinwp</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[In memory of the man who put red and green squiggles under words]]></title>
-        <id>https://news.ycombinator.com/item?id=48648959</id>
-        <link href="https://devblogs.microsoft.com/oldnewthing/20260622-00/?p=112451"/>
-        <updated>2026-06-23T18:10:47.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://devblogs.microsoft.com/oldnewthing/20260622-00/?p=112451
-Comments URL: https://news.ycombinator.com/item?id=48648959
-Points: 549
-# Comments: 96]]></summary>
-        <author>
-            <name>saikatsg</name>
         </author>
     </entry>
     <entry>
