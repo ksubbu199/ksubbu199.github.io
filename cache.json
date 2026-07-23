@@ -2056,6 +2056,16 @@
       "siteUrl": "https://blog.pragmaticengineer.com/",
       "articles": [
         {
+          "id": "6a61e422435ae800016524b9",
+          "author": "Ivan Klaric",
+          "description": "Top of mind for engineering leaders: what to do about the growing code review load, and how devs are starting to review code less thoroughly than before? Many questions, but few proven solutions.",
+          "link": "https://blog.pragmaticengineer.com/the-pulse-new-trend-concern-about-massive-increase-in-code-review-load/",
+          "publishedOn": "2026-07-23T16:55:29.000Z",
+          "wordCount": 1357,
+          "title": "The Pulse: New trend - concern about massive increase in code review load",
+          "imageUrl": null
+        },
+        {
           "id": "6a58cdde676a90000149edb3",
           "author": "Ivan Klaric",
           "description": "To a sceptic, spending $165K to migrate Bun from Zig to Rust sounds very expensive. But to a realist, shortening a 1-2 year migration down to 11 days opens amazing new opportunities for devs. However, a thoroughly-tested project is required to pull it off.",
