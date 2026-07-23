@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=49023016",
+          "author": "theanonymousone",
+          "description": "https://littletech.org/\nhttps://static.politico.com/4a/bf/9c4021d8404386b0a311dcccf0...\nComments URL: https://news.ycombinator.com/item?id=49023016\nPoints: 638\n# Comments: 592",
+          "link": "https://www.politico.com/news/2026/07/22/startup-founders-urge-trump-not-to-shut-off-chinese-open-weight-ai-01008992",
+          "publishedOn": "2026-07-23T15:18:40.000Z",
+          "wordCount": null,
+          "title": "Startup founders urge U.S. government not to shut off Chinese open weight AI",
+          "imageUrl": null
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=49022152",
           "author": "dwwoelfel",
           "description": "Article URL: https://nealstephenson.substack.com/p/writing-by-hand-is-good-for-your\nComments URL: https://news.ycombinator.com/item?id=49022152\nPoints: 562\n# Comments: 278",
@@ -14,6 +24,16 @@
           "wordCount": null,
           "title": "Writing by hand is good for your brain",
           "imageUrl": null
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=49020999",
+          "author": "technewssss",
+          "description": "Article URL: https://futurism.com/artificial-intelligence/ai-companies-hide-debt-off-balance-sheet\nComments URL: https://news.ycombinator.com/item?id=49020999\nPoints: 557\n# Comments: 267",
+          "link": "https://futurism.com/artificial-intelligence/ai-companies-hide-debt-off-balance-sheet",
+          "publishedOn": "2026-07-23T13:09:10.000Z",
+          "wordCount": 3299,
+          "title": "AI Companies Are Trying to Hide a Staggering Amount of Debt",
+          "imageUrl": "https://futurism.com/wp-content/uploads/2026/07/ai-companies-hide-debt-off-balance-sheet.jpg?w=1200"
         },
         {
           "id": "https://news.ycombinator.com/item?id=49012070",
@@ -1864,16 +1884,6 @@
           "wordCount": 2785,
           "title": "Founding a company in Germany: €9600, 152 days and I still can't send an invoice",
           "imageUrl": "https://paolino.me/assets/images/og/posts/founding-a-company-in-germany.png"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=48657030",
-          "author": "dabinat",
-          "description": "Article URL: https://bunny.net/blog/were-making-bunny-dns-free/\nComments URL: https://news.ycombinator.com/item?id=48657030\nPoints: 607\n# Comments: 199",
-          "link": "https://bunny.net/blog/were-making-bunny-dns-free/",
-          "publishedOn": "2026-06-24T08:50:41.000Z",
-          "wordCount": 10935,
-          "title": "We’re making Bunny DNS free",
-          "imageUrl": "https://bunny.net/blog/content/images/2026/06/DNS_-Free-DNS-blog-post--1-.png"
         }
       ]
     },
