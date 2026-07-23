@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-07-23T11:09:07.919Z</updated>
+    <updated>2026-07-23T13:57:54.765Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -19,6 +19,19 @@ Points: 587
 # Comments: 186]]></summary>
         <author>
             <name>coleca</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Everyone should know SIMD]]></title>
+        <id>https://news.ycombinator.com/item?id=49010648</id>
+        <link href="https://mitchellh.com/writing/everyone-should-know-simd"/>
+        <updated>2026-07-22T17:48:18.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://mitchellh.com/writing/everyone-should-know-simd
+Comments URL: https://news.ycombinator.com/item?id=49010648
+Points: 523
+# Comments: 185]]></summary>
+        <author>
+            <name>WadeGrimridge</name>
         </author>
     </entry>
     <entry>
@@ -90,6 +103,19 @@ Points: 507
 # Comments: 679]]></summary>
         <author>
             <name>ksec</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[So Reddit has decided that plain HTML is unsafe]]></title>
+        <id>https://news.ycombinator.com/item?id=49005747</id>
+        <link href="https://www.cole-k.com/2026/07/21/reddit/"/>
+        <updated>2026-07-22T12:32:48.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.cole-k.com/2026/07/21/reddit/
+Comments URL: https://news.ycombinator.com/item?id=49005747
+Points: 555
+# Comments: 570]]></summary>
+        <author>
+            <name>montroser</name>
         </author>
     </entry>
     <entry>
