@@ -6,6 +6,26 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=49012070",
+          "author": "coleca",
+          "description": "https://xcancel.com/na_announce/status/2079952538040672302\nhttps://www.twit.community/t/john-c-dvorak-has-passed-away/2...\nhttps://www.facebook.com/aric.mackey/posts/john-c-dvorak-194...\nComments URL: https://news.ycombinator.com/item?id=49012070\nPoints: 587\n# Comments: 186",
+          "link": "https://twitter.com/na_announce/status/2079952538040672302",
+          "publishedOn": "2026-07-22T19:22:19.000Z",
+          "wordCount": 572,
+          "title": "John C. Dvorak has died",
+          "imageUrl": "https://pbs.twimg.com/profile_images/1350980458/na_twitter2_200x200.gif"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=49010345",
+          "author": "gmays",
+          "description": "Article URL: https://chatgpt.com/share/6a5fdc7a-d6f8-83e8-bbea-8deb42cfed56\nComments URL: https://news.ycombinator.com/item?id=49010345\nPoints: 639\n# Comments: 392",
+          "link": "https://chatgpt.com/share/6a5fdc7a-d6f8-83e8-bbea-8deb42cfed56",
+          "publishedOn": "2026-07-22T17:30:40.000Z",
+          "wordCount": 51233,
+          "title": "Terrence Tao's ChatGPT Conversation about the Jacobian Conjecture Counterexample",
+          "imageUrl": "https://cdn.openai.com/chatgpt/share-og.png"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=49008211",
           "author": "starfallg",
           "description": "Over the past few months, our team has been building more and more slidedecks using web frontend technologies with coding harnesses like Claude Code, but a common complaint is to make even small edits we need to edit the code either manually or via the harness.\nTo avoid this loop, I ended up creating Bento, a single HTML file with everything you need in a slide tool including animations and shared editing. There's no install or cloud login, everything works offline. The default deck is around 560 KB and it doesn't need to fetch anything once you got it.\nOpen it in a browser and then you can edit, present, print and save. Share it via email or via Airdrop and all they need is a browser to edit, present and also do live collab on the slides. Drop it in to Claude or ChatGPT to transform existing pptx files into Bento slides. There is no cloud involved, only an encrypted blind relay to allow for shared editing. The relay doesn't see any of the data.\nCheck it out at https://bento.page/slides/ which takes you straight to the editor.\nGo to https://bento.page/guestbook/ to try out the live guestbook to experience share editing / collab.\nThere is also a gallery with some sample decks on the website - https://bento.page/\nAll the code is MIT licensed and you can find it here - https://github.com/nyblnet/bento . I used reveal.js with several other libraries (including some homegrown ones), and Claude Code.\nComments URL: https://news.ycombinator.com/item?id=49008211\nPoints: 522\n# Comments: 112",
@@ -1844,16 +1864,6 @@
           "wordCount": 2718,
           "title": "F3",
           "imageUrl": "https://opengraph.githubassets.com/fde8408a613349b0f4d4b305403077c50372d1c1b59aa511e42fcd6383aa6a21/future-file-format/F3"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=48645173",
-          "author": "hn_acker",
-          "description": "Article URL: https://pluralistic.net/2026/06/23/destroy-the-village/\nComments URL: https://news.ycombinator.com/item?id=48645173\nPoints: 728\n# Comments: 390",
-          "link": "https://pluralistic.net/2026/06/23/destroy-the-village/",
-          "publishedOn": "2026-06-23T14:04:43.000Z",
-          "wordCount": 3278,
-          "title": "What we call \"age verification\" is actually mass surveillance",
-          "imageUrl": null
         }
       ]
     },
