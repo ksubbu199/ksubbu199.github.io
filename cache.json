@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=49038433",
+          "author": "alvis",
+          "description": "https://www.anthropic.com/claude-opus-5-system-card\nComments URL: https://news.ycombinator.com/item?id=49038433\nPoints: 723\n# Comments: 405",
+          "link": "https://www.anthropic.com/news/claude-opus-5",
+          "publishedOn": "2026-07-24T16:57:41.000Z",
+          "wordCount": 5805,
+          "title": "Claude Opus 5",
+          "imageUrl": "https://cdn.sanity.io/images/4zrzovbb/website/54b7ab1d2c2521f83ae5d2da5f9d99321c370d24-2880x1620.png"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=49032660",
           "author": "peykar",
           "description": "Article URL: https://glyphack.com/attention/\nComments URL: https://news.ycombinator.com/item?id=49032660\nPoints: 557\n# Comments: 312",
@@ -1884,16 +1894,6 @@
           "wordCount": 3171,
           "title": "LastPass notifies users of yet another data breach",
           "imageUrl": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2024/03/lastpass-outage.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=48669534",
-          "author": "panza",
-          "description": "Article URL: https://hl2.slqnt.dev/\nComments URL: https://news.ycombinator.com/item?id=48669534\nPoints: 568\n# Comments: 226",
-          "link": "https://hl2.slqnt.dev/",
-          "publishedOn": "2026-06-25T06:00:04.000Z",
-          "wordCount": 57,
-          "title": "Half-Life 2 in a Browser",
-          "imageUrl": null
         }
       ]
     },
