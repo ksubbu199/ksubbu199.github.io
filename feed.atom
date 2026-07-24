@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-07-24T06:25:07.662Z</updated>
+    <updated>2026-07-24T09:21:19.276Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -54,6 +54,19 @@ Points: 557
 # Comments: 267]]></summary>
         <author>
             <name>technewssss</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenAI’s accidental attack against Hugging Face is science fiction that happened]]></title>
+        <id>https://news.ycombinator.com/item?id=49015639</id>
+        <link href="https://simonwillison.net/2026/Jul/22/openai-cyberattack/"/>
+        <updated>2026-07-23T01:16:14.000Z</updated>
+        <summary type="html"><![CDATA[OpenAI and Hugging Face address security incident during model evaluation - https://news.ycombinator.com/item?id=48997548 - July 2026 (1121 comments)
+Comments URL: https://news.ycombinator.com/item?id=49015639
+Points: 514
+# Comments: 395]]></summary>
+        <author>
+            <name>abhisek</name>
         </author>
     </entry>
     <entry>
@@ -3016,19 +3029,6 @@ Points: 568
 # Comments: 226]]></summary>
         <author>
             <name>panza</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Anthropic says Alibaba illicitly extracted Claude AI model capabilities]]></title>
-        <id>https://news.ycombinator.com/item?id=48664814</id>
-        <link href="https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/"/>
-        <updated>2026-06-24T19:48:01.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/
-Comments URL: https://news.ycombinator.com/item?id=48664814
-Points: 500
-# Comments: 856]]></summary>
-        <author>
-            <name>htrp</name>
         </author>
     </entry>
     <entry>
