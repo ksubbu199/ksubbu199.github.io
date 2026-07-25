@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-07-25T00:12:05.268Z</updated>
+    <updated>2026-07-25T04:09:32.745Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -27,6 +27,47 @@ Points: 723
         <summary type="html"><![CDATA[In this reel, Pawan Kumar Chandana, Co-Founder & CEO of Skyroot Aerospace, explains how satellites in space can analyze plant health using advanced Earth obs...]]></summary>
         <author>
             <name>Think School</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nvidia, Microsoft, Meta warn against overregulating open-weight models]]></title>
+        <id>https://news.ycombinator.com/item?id=49035303</id>
+        <link href="https://www.cnbc.com/2026/07/24/nvidia-microsoft-meta-open-weight-ai-models.html"/>
+        <updated>2026-07-24T13:32:30.000Z</updated>
+        <summary type="html"><![CDATA[Letter: https://images.nvidia.com/pdf/Open-Weights-and-American-AI-L... [pdf]
+https://x.com/JensenHuang/status/2080643682408321103, https://xcancel.com/JensenHuang/status/2080643682408321103
+https://www.wired.com/story/silicon-valley-is-completely-div..., https://archive.ph/LAkVI
+Comments URL: https://news.ycombinator.com/item?id=49035303
+Points: 551
+# Comments: 247]]></summary>
+        <author>
+            <name>louiereederson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[My security camera shipped a GitHub admin token in its login page]]></title>
+        <id>https://news.ycombinator.com/item?id=49034292</id>
+        <link href="https://hhh.hn/hanwha-github-token/"/>
+        <updated>2026-07-24T11:54:41.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://hhh.hn/hanwha-github-token/
+Comments URL: https://news.ycombinator.com/item?id=49034292
+Points: 535
+# Comments: 184]]></summary>
+        <author>
+            <name>hhh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[If coding has been solved, why does software keep getting worse?]]></title>
+        <id>https://news.ycombinator.com/item?id=49033004</id>
+        <link href="https://ptrchm.com/posts/nothing-works-and-everyone-is-euphoric/"/>
+        <updated>2026-07-24T09:08:17.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://ptrchm.com/posts/nothing-works-and-everyone-is-euphoric/
+Comments URL: https://news.ycombinator.com/item?id=49033004
+Points: 609
+# Comments: 477]]></summary>
+        <author>
+            <name>pchm</name>
         </author>
     </entry>
     <entry>
@@ -3002,82 +3043,6 @@ Points: 667
 # Comments: 66]]></summary>
         <author>
             <name>minimaxir</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[An entire Herculaneum scroll has been read for the first time]]></title>
-        <id>https://news.ycombinator.com/item?id=48675179</id>
-        <link href="https://scrollprize.org/firstscroll"/>
-        <updated>2026-06-25T15:48:07.000Z</updated>
-        <summary type="html"><![CDATA[Preprint: https://scrollprize.org/pdf/main.pdf
-https://github.com/ScrollPrize/villa
-Comments URL: https://news.ycombinator.com/item?id=48675179
-Points: 583
-# Comments: 143]]></summary>
-        <author>
-            <name>verditelabs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ford AI hiccups push carmaker to rehire ‘gray beard’ inspectors]]></title>
-        <id>https://news.ycombinator.com/item?id=48674446</id>
-        <link href="https://www.bloomberg.com/news/articles/2026-06-25/ford-has-been-rehiring-quality-inspectors-after-ai-fell-short"/>
-        <updated>2026-06-25T14:58:50.000Z</updated>
-        <summary type="html"><![CDATA[https://archive.ph/DI4Cq
-Comments URL: https://news.ycombinator.com/item?id=48674446
-Points: 528
-# Comments: 265]]></summary>
-        <author>
-            <name>alanwreath</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: I made Google Trends for Hacker News by indexing 18 years of comments]]></title>
-        <id>https://news.ycombinator.com/item?id=48673671</id>
-        <link href="https://hackernewstrends.com/"/>
-        <updated>2026-06-25T14:08:55.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://hackernewstrends.com
-Comments URL: https://news.ycombinator.com/item?id=48673671
-Points: 547
-# Comments: 137]]></summary>
-        <author>
-            <name>ytkimirti</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Comet Sells Out Every Drop in Under 10 Minutes!]]></title>
-        <id>https://www.youtube.com/shorts/9-pG9mdpTw0</id>
-        <link href="https://www.youtube.com/shorts/9-pG9mdpTw0"/>
-        <updated>2026-06-25T13:37:50.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Think School</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Apple raises prices of MacBooks, iPads]]></title>
-        <id>https://news.ycombinator.com/item?id=48672732</id>
-        <link href="https://www.reuters.com/world/asia-pacific/apple-raises-prices-macbooks-ipads-memory-costs-skyrocket-2026-06-25/"/>
-        <updated>2026-06-25T13:02:56.000Z</updated>
-        <summary type="html"><![CDATA[https://9to5mac.com/2026/06/25/apple-price-increases-mac-ipa...
-Comments URL: https://news.ycombinator.com/item?id=48672732
-Points: 543
-# Comments: 797]]></summary>
-        <author>
-            <name>virgildotcodes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hey Nico, you didn't vibe code your data room but stole it from Papermark]]></title>
-        <id>https://news.ycombinator.com/item?id=48672328</id>
-        <link href="https://twitter.com/mfts0/status/2070080422482977095"/>
-        <updated>2026-06-25T12:23:05.000Z</updated>
-        <summary type="html"><![CDATA[https://xcancel.com/mfts0/status/2070080422482977095
-Comments URL: https://news.ycombinator.com/item?id=48672328
-Points: 576
-# Comments: 244]]></summary>
-        <author>
-            <name>mmunj</name>
         </author>
     </entry>
     <entry>
