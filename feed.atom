@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-07-25T11:09:52.869Z</updated>
+    <updated>2026-07-25T13:25:05.672Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -17,6 +17,19 @@ Points: 723
 # Comments: 405]]></summary>
         <author>
             <name>alvis</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Be skeptical of OpenAI's rogue hacker agent story]]></title>
+        <id>https://news.ycombinator.com/item?id=49038060</id>
+        <link href="https://www.theguardian.com/technology/2026/jul/24/openai-rogue-hacker"/>
+        <updated>2026-07-24T16:33:31.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.theguardian.com/technology/2026/jul/24/openai-rogue-hacker
+Comments URL: https://news.ycombinator.com/item?id=49038060
+Points: 501
+# Comments: 282]]></summary>
+        <author>
+            <name>rwmj</name>
         </author>
     </entry>
     <entry>
