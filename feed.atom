@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-07-27T10:42:24.421Z</updated>
+    <updated>2026-07-27T13:39:06.998Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Kimi-K3 Releases on HuggingFace 7/27]]></title>
+        <id>https://news.ycombinator.com/item?id=49065752</id>
+        <link href="https://huggingface.co/moonshotai/Kimi-K3"/>
+        <updated>2026-07-27T06:18:10.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://huggingface.co/moonshotai/Kimi-K3
+Comments URL: https://news.ycombinator.com/item?id=49065752
+Points: 582
+# Comments: 263]]></summary>
+        <author>
+            <name>nateb2022</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[PGSimCity - How PostgreSQL Works]]></title>
         <id>https://news.ycombinator.com/item?id=49063754</id>
@@ -2942,17 +2955,6 @@ Points: 579
         <updated>2026-06-28T05:57:44.000Z</updated>
         <author>
             <name>Think School</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pollen tried to remove my article about Callum Negus-Fancey, and Google is assisting to it]]></title>
-        <id>6a4069be08e0e1000161f830</id>
-        <link href="https://blog.pragmaticengineer.com/pollen-tried-to-remove-my-article-about-callum-negus-fancey-and-google-is-assisting-to-it/"/>
-        <updated>2026-06-28T00:40:25.000Z</updated>
-        <summary type="html"><![CDATA[In 2022, I wrote about the damning fall of events tech company Pollen, founded by  Callum Negus-Fancey. The short of it:
-Pollen seemed to have pulled off the improbable feat of building a business in the notoriously low margin industry of events, surviving Covid-19, and building a solid]]></summary>
-        <author>
-            <name>Gergely Orosz</name>
         </author>
     </entry>
     <entry>

@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=49065752",
+          "author": "nateb2022",
+          "description": "Article URL: https://huggingface.co/moonshotai/Kimi-K3\nComments URL: https://news.ycombinator.com/item?id=49065752\nPoints: 582\n# Comments: 263",
+          "link": "https://huggingface.co/moonshotai/Kimi-K3",
+          "publishedOn": "2026-07-27T06:18:10.000Z",
+          "wordCount": 302,
+          "title": "Kimi-K3 Releases on HuggingFace 7/27",
+          "imageUrl": "https://cdn-thumbnails.huggingface.co/social-thumbnails/models/moonshotai/Kimi-K3.png"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=49063754",
           "author": "jonbaer",
           "description": "Article URL: https://nikolays.github.io/PGSimCity/\nComments URL: https://news.ycombinator.com/item?id=49063754\nPoints: 625\n# Comments: 61",
@@ -2034,16 +2044,6 @@
           "wordCount": 1485,
           "title": "The Pulse: a new trend, smart model routing",
           "imageUrl": null
-        },
-        {
-          "id": "6a4069be08e0e1000161f830",
-          "author": "Gergely Orosz",
-          "description": "In 2022, I wrote about the damning fall of events tech company Pollen, founded by  Callum Negus-Fancey. The short of it:\nPollen seemed to have pulled off the improbable feat of building a business in the notoriously low margin industry of events, surviving Covid-19, and building a solid",
-          "link": "https://blog.pragmaticengineer.com/pollen-tried-to-remove-my-article-about-callum-negus-fancey-and-google-is-assisting-to-it/",
-          "publishedOn": "2026-06-28T00:40:25.000Z",
-          "wordCount": 1273,
-          "title": "Pollen tried to remove my article about Callum Negus-Fancey, and Google is assisting to it",
-          "imageUrl": "https://storage.ghost.io/c/39/f8/39f85cc7-8637-40fc-a57c-f45754453717/content/images/2026/06/Screenshot-2022-09-19-at-19.32.45.png"
         }
       ]
     },
