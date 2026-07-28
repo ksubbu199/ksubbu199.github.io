@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=49080664",
+          "author": "krembo",
+          "description": "Article URL: https://www.data.jma.go.jp/multi/quake/quake_detail.html?eventID=20260728163528&lang=en\nComments URL: https://news.ycombinator.com/item?id=49080664\nPoints: 564\n# Comments: 112",
+          "link": "https://www.data.jma.go.jp/multi/quake/quake_detail.html?eventID=20260728163528&lang=en",
+          "publishedOn": "2026-07-28T07:44:24.000Z",
+          "wordCount": 27,
+          "title": "7.1 Earthquake in Japan",
+          "imageUrl": null
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=49076057",
           "author": "surprisetalk",
           "description": "Article URL: https://www.anthropic.com/news/position-open-weights-models\nComments URL: https://news.ycombinator.com/item?id=49076057\nPoints: 582\n# Comments: 820",
@@ -1774,16 +1784,6 @@
           "wordCount": 2926,
           "title": "Age verification is just a precursor to automated attribution of speech",
           "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=48713832",
-          "author": "sambellll",
-          "description": "Article URL: https://danunparsed.com/p/hackerrank-open-source-ats\nComments URL: https://news.ycombinator.com/item?id=48713832\nPoints: 503\n# Comments: 193",
-          "link": "https://danunparsed.com/p/hackerrank-open-source-ats",
-          "publishedOn": "2026-06-29T01:44:40.000Z",
-          "wordCount": 3653,
-          "title": "HackerRank open sourced its ATS. My resume scored 90/100. Oh wait 74. No – 88",
-          "imageUrl": "https://substackcdn.com/image/fetch/$s_!S-dx!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fbab22a57-acb5-4fe4-929f-132059bcb466_1800x900.png"
         }
       ]
     },
@@ -1892,6 +1892,26 @@
       "feedUrl": "https://martinfowler.com/feed.atom",
       "siteUrl": "https://martinfowler.com/feed.atom",
       "articles": [
+        {
+          "id": "https://martinfowler.com/articles/orchestrator-tax.html",
+          "author": null,
+          "description": "Subagents get justified by time saved and parallel execution, but\n      Rahul Garg explains that's not what matters most. Every\n      token in the orchestrator's context is competing for its attention, and\n      the real value of a subagent is what it keeps out of that context.\n      Subagents should be treated as a tool for protecting the orchestrator's\n      working memory, offloading reasoning it doesn't need to hold onto. Doing\n      this well means giving the orchestrator explicit ground rules for when and\n      how to delegate. \nmore…",
+          "link": "https://martinfowler.com/articles/orchestrator-tax.html",
+          "publishedOn": "2026-07-28T13:10:00.000Z",
+          "wordCount": 2999,
+          "title": "The Orchestrator's Tax",
+          "imageUrl": "https://martinfowler.com/logo-sq.png"
+        },
+        {
+          "id": "https://martinfowler.com/rachels-ramblings/intro.html",
+          "author": null,
+          "description": "TL;DR\nI have ideas. I haven’t been writing them. That’s about to change. I promise… myself.\n\nI’ve been thinking a lot about talent. Actually, I’ve been thinking a lot about thinking. And writing. Or more specifically, not writing. This really hit me earlier this year at the Future of Software conference. I was surrounded by people sharing their latest ideas and I had a slightly uncomfortable realization:\nI have my own.\nNot just opinions. Actual patterns. Hypotheses. Things I’m seeing across clients, across teams, across the industry that feel new or at least not well articulated yet in a way that a leader can think about and act upon in some way that can influence how they strategise and plan for the future. Because helping clients and other leaders internal and external to thoughtworks do…",
+          "link": "https://martinfowler.com/rachels-ramblings/intro.html",
+          "publishedOn": "2026-07-28T12:32:00.000Z",
+          "wordCount": 778,
+          "title": "Why I’m Writing Rachel’s Ramblings",
+          "imageUrl": "https://martinfowler.com/rachels-ramblings/card.png"
+        },
         {
           "id": "https://martinfowler.com/fragments/2026-07-21.html",
           "author": null,
@@ -2022,6 +2042,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKZozRVHRYsYHGEyNKuhhdA",
       "siteUrl": "https://www.youtube.com/channel/UCKZozRVHRYsYHGEyNKuhhdA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/shorts/C_Amz57CsYk",
+          "author": null,
+          "description": "In this video, Tarun Sharma, CEO and Co founder of PEP Brands, the parent company of mCaffeine and HYPHEN, reveals a simple yet powerful strategy every found...",
+          "link": "https://www.youtube.com/shorts/C_Amz57CsYk",
+          "publishedOn": "2026-07-28T14:31:46.000Z",
+          "wordCount": 3524,
+          "title": "How to Test Your Brand Under 50k?",
+          "imageUrl": "https://i.ytimg.com/vi/C_Amz57CsYk/oardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLBXt06LkHSS2qKHfqH6RkmqAY1fjw&usqp=CCk"
+        },
         {
           "id": "https://www.youtube.com/shorts/HGjb-Qqm8RU",
           "author": null,

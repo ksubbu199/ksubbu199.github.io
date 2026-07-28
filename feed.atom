@@ -2,10 +2,66 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-07-28T12:53:10.162Z</updated>
+    <updated>2026-07-28T15:19:52.197Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Test Your Brand Under 50k?]]></title>
+        <id>https://www.youtube.com/shorts/C_Amz57CsYk</id>
+        <link href="https://www.youtube.com/shorts/C_Amz57CsYk"/>
+        <updated>2026-07-28T14:31:46.000Z</updated>
+        <summary type="html"><![CDATA[In this video, Tarun Sharma, CEO and Co founder of PEP Brands, the parent company of mCaffeine and HYPHEN, reveals a simple yet powerful strategy every found...]]></summary>
+        <author>
+            <name>Think School</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Orchestrator's Tax]]></title>
+        <id>https://martinfowler.com/articles/orchestrator-tax.html</id>
+        <link href="https://martinfowler.com/articles/orchestrator-tax.html"/>
+        <updated>2026-07-28T13:10:00.000Z</updated>
+        <summary type="html"><![CDATA[Subagents get justified by time saved and parallel execution, but
+      Rahul Garg explains that's not what matters most. Every
+      token in the orchestrator's context is competing for its attention, and
+      the real value of a subagent is what it keeps out of that context.
+      Subagents should be treated as a tool for protecting the orchestrator's
+      working memory, offloading reasoning it doesn't need to hold onto. Doing
+      this well means giving the orchestrator explicit ground rules for when and
+      how to delegate. 
+more…]]></summary>
+        <author>
+            <name>Martin Fowler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why I’m Writing Rachel’s Ramblings]]></title>
+        <id>https://martinfowler.com/rachels-ramblings/intro.html</id>
+        <link href="https://martinfowler.com/rachels-ramblings/intro.html"/>
+        <updated>2026-07-28T12:32:00.000Z</updated>
+        <summary type="html"><![CDATA[TL;DR
+I have ideas. I haven’t been writing them. That’s about to change. I promise… myself.
+
+I’ve been thinking a lot about talent. Actually, I’ve been thinking a lot about thinking. And writing. Or more specifically, not writing. This really hit me earlier this year at the Future of Software conference. I was surrounded by people sharing their latest ideas and I had a slightly uncomfortable realization:
+I have my own.
+Not just opinions. Actual patterns. Hypotheses. Things I’m seeing across clients, across teams, across the industry that feel new or at least not well articulated yet in a way that a leader can think about and act upon in some way that can influence how they strategise and plan for the future. Because helping clients and other leaders internal and external to thoughtworks do…]]></summary>
+        <author>
+            <name>Martin Fowler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[7.1 Earthquake in Japan]]></title>
+        <id>https://news.ycombinator.com/item?id=49080664</id>
+        <link href="https://www.data.jma.go.jp/multi/quake/quake_detail.html?eventID=20260728163528&amp;lang=en"/>
+        <updated>2026-07-28T07:44:24.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.data.jma.go.jp/multi/quake/quake_detail.html?eventID=20260728163528&lang=en
+Comments URL: https://news.ycombinator.com/item?id=49080664
+Points: 564
+# Comments: 112]]></summary>
+        <author>
+            <name>krembo</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Our position on open-weights models]]></title>
         <id>https://news.ycombinator.com/item?id=49076057</id>
@@ -2904,19 +2960,6 @@ Points: 534
 # Comments: 305]]></summary>
         <author>
             <name>arkhiver</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HackerRank open sourced its ATS. My resume scored 90/100. Oh wait 74. No – 88]]></title>
-        <id>https://news.ycombinator.com/item?id=48713832</id>
-        <link href="https://danunparsed.com/p/hackerrank-open-source-ats"/>
-        <updated>2026-06-29T01:44:40.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://danunparsed.com/p/hackerrank-open-source-ats
-Comments URL: https://news.ycombinator.com/item?id=48713832
-Points: 503
-# Comments: 193]]></summary>
-        <author>
-            <name>sambellll</name>
         </author>
     </entry>
     <entry>
