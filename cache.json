@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=49083314",
+          "author": "codebyaditya",
+          "description": "Article URL: https://www.lji.org/news-events/news/post/new-hiv-vaccine-shows-unprecedented-success-in-preclinical-study/\nComments URL: https://news.ycombinator.com/item?id=49083314\nPoints: 516\n# Comments: 229",
+          "link": "https://www.lji.org/news-events/news/post/new-hiv-vaccine-shows-unprecedented-success-in-preclinical-study/",
+          "publishedOn": "2026-07-28T13:12:01.000Z",
+          "wordCount": null,
+          "title": "New HIV vaccine shows unprecedented success in preclinical study",
+          "imageUrl": null
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=49080664",
           "author": "krembo",
           "description": "Article URL: https://www.data.jma.go.jp/multi/quake/quake_detail.html?eventID=20260728163528&lang=en\nComments URL: https://news.ycombinator.com/item?id=49080664\nPoints: 564\n# Comments: 112",
@@ -1754,26 +1764,6 @@
           "wordCount": 4623,
           "title": "US Supreme Court rules geofence warrants require constitutional protections",
           "imageUrl": "https://i.guim.co.uk/img/media/ddb87e813bdb11401cf5abac3654ec9ff5b15d85/328_0_5001_4002/master/5001.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4dde1080bea475527e46e854344cca12"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=48717469",
-          "author": "Risse",
-          "description": "Article URL: https://det.social/@lostgen/116820546568940358\nComments URL: https://news.ycombinator.com/item?id=48717469\nPoints: 505\n# Comments: 1129",
-          "link": "https://det.social/@lostgen/116820546568940358",
-          "publishedOn": "2026-06-29T10:45:51.000Z",
-          "wordCount": 208,
-          "title": "The CEO of Mullvad is the main financer of the Swedish Örebro party",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=48716902",
-          "author": "taubek",
-          "description": "Article URL: https://blog.pragmaticengineer.com/pollen-tried-to-remove-my-article-about-callum-negus-fancey-and-google-is-assisting-to-it/\nComments URL: https://news.ycombinator.com/item?id=48716902\nPoints: 556\n# Comments: 79",
-          "link": "https://blog.pragmaticengineer.com/pollen-tried-to-remove-my-article-about-callum-negus-fancey-and-google-is-assisting-to-it/",
-          "publishedOn": "2026-06-29T09:28:08.000Z",
-          "wordCount": 1747,
-          "title": "Pollen (CEO Negus-Fancey, CTO Wright) tried to remove article, and Google helped",
-          "imageUrl": "https://storage.ghost.io/c/39/f8/39f85cc7-8637-40fc-a57c-f45754453717/content/images/2026/06/Screenshot-2022-09-19-at-19.32.45.png"
         }
       ]
     },
@@ -2370,36 +2360,6 @@
           "publishedOn": "2026-06-29T14:20:53.000Z",
           "wordCount": 2197,
           "title": "How Comet Built the Coolest Shoe",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/shorts/sWge9gQ8Jak",
-          "author": null,
-          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-          "link": "https://www.youtube.com/shorts/sWge9gQ8Jak",
-          "publishedOn": "2026-06-29T10:08:20.000Z",
-          "wordCount": 2098,
-          "title": "Why You Should Never Retire",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/shorts/qs13b_eFzgg",
-          "author": null,
-          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-          "link": "https://www.youtube.com/shorts/qs13b_eFzgg",
-          "publishedOn": "2026-06-29T09:39:41.000Z",
-          "wordCount": 2122,
-          "title": "This AI Helps Founders Scale Faster",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/shorts/6SzGFTkcffA",
-          "author": null,
-          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-          "link": "https://www.youtube.com/shorts/6SzGFTkcffA",
-          "publishedOn": "2026-06-29T09:08:51.000Z",
-          "wordCount": 2206,
-          "title": "This AI Cut Marketing Costs by 83%",
           "imageUrl": null
         }
       ]
