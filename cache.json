@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=49089755",
+          "author": "bakigul",
+          "description": "Article URL: https://github.com/openai/codex-security\nComments URL: https://news.ycombinator.com/item?id=49089755\nPoints: 531\n# Comments: 192",
+          "link": "https://github.com/openai/codex-security",
+          "publishedOn": "2026-07-28T20:52:55.000Z",
+          "wordCount": 1279,
+          "title": "Codex Security",
+          "imageUrl": "https://opengraph.githubassets.com/8c0fa994c8421c053e9df076b91f0d7d3ac112fe776d123d1ad65b7089a54d88/openai/codex-security"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=49086788",
           "author": "speckx",
           "description": "Article URL: https://elizabethtai.com/2026/06/10/substack-writers-you-need-a-website/\nComments URL: https://news.ycombinator.com/item?id=49086788\nPoints: 509\n# Comments: 248",
@@ -1754,16 +1764,6 @@
           "wordCount": 5932,
           "title": "The US ambassador had Belgian police stop our reporting",
           "imageUrl": "https://images.europeancorrespondent.com/attRp54hjyayl13fH/public"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=48724230",
-          "author": "HumanCCF",
-          "description": "Article URL: https://hccf.onmy.cloud/2026/06/21/reclaiming-our-digital-selves-hccfs-vision-for-a-human-centered-top-level-domain/\nComments URL: https://news.ycombinator.com/item?id=48724230\nPoints: 503\n# Comments: 289",
-          "link": "https://hccf.onmy.cloud/2026/06/21/reclaiming-our-digital-selves-hccfs-vision-for-a-human-centered-top-level-domain/",
-          "publishedOn": "2026-06-29T19:49:28.000Z",
-          "wordCount": 4896,
-          "title": ".self: A new top-level domain designed to support self-hosting",
-          "imageUrl": null
         }
       ]
     },
