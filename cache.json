@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=49086788",
+          "author": "speckx",
+          "description": "Article URL: https://elizabethtai.com/2026/06/10/substack-writers-you-need-a-website/\nComments URL: https://news.ycombinator.com/item?id=49086788\nPoints: 509\n# Comments: 248",
+          "link": "https://elizabethtai.com/2026/06/10/substack-writers-you-need-a-website/",
+          "publishedOn": "2026-07-28T16:58:31.000Z",
+          "wordCount": null,
+          "title": "Substack writers, you need a website",
+          "imageUrl": null
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=49084938",
           "author": "doener",
           "description": "Article URL: https://citizens-initiative.europa.eu/initiatives/details/2026/000011_en\nComments URL: https://news.ycombinator.com/item?id=49084938\nPoints: 541\n# Comments: 193",
@@ -1754,16 +1764,6 @@
           "wordCount": 4896,
           "title": ".self: A new top-level domain designed to support self-hosting",
           "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=48721903",
-          "author": "stared",
-          "description": "Article URL: https://quesma.com/blog/qwen-36-is-awesome/\nComments URL: https://news.ycombinator.com/item?id=48721903\nPoints: 505\n# Comments: 440",
-          "link": "https://quesma.com/blog/qwen-36-is-awesome/",
-          "publishedOn": "2026-06-29T17:05:16.000Z",
-          "wordCount": 2009,
-          "title": "Qwen 3.6 27B is the sweet spot for local development",
-          "imageUrl": "https://quesma.com/_astro/thermal_master_p3_macbook.DJG2GL38.jpg"
         }
       ]
     },
@@ -2340,26 +2340,6 @@
           "publishedOn": "2026-06-30T09:19:23.000Z",
           "wordCount": 2106,
           "title": "Most Loneliness Happens in Joint Families",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/shorts/oA0CWzkAyrY",
-          "author": null,
-          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-          "link": "https://www.youtube.com/shorts/oA0CWzkAyrY",
-          "publishedOn": "2026-06-29T15:49:16.000Z",
-          "wordCount": 2235,
-          "title": "How to Prevent Early Mortality",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/shorts/i8yVmfwNQIA",
-          "author": null,
-          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-          "link": "https://www.youtube.com/shorts/i8yVmfwNQIA",
-          "publishedOn": "2026-06-29T14:20:53.000Z",
-          "wordCount": 2197,
-          "title": "How Comet Built the Coolest Shoe",
           "imageUrl": null
         }
       ]
