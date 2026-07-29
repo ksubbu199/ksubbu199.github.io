@@ -73,6 +73,38 @@
                       <details
                         class="article-expander"
                         data-action="toggle-native-accordion"
+                        data-accordion-key="https://news.ycombinator.com/item?id&#x3D;49098510"
+                        open
+                      >
+                        <summary class="article-expander__title">Show HN: Open-source engine running Gemma 4 26B in 2 GB RAM on any M-series Mac</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://github.com/drumih/turbo-fieldfare">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://repository-images.githubusercontent.com/github-production-repository-image-32fea6/1304159264/d6c0493d-d97a-45fc-b20a-dd40d1b6e090?X-Amz-Algorithm&#x3D;AWS4-HMAC-SHA256&amp;X-Amz-Credential&#x3D;AKIAVCODYLSA53PQK4ZA%2F20260729%2Fus-east-1%2Fs3%2Faws4_request&amp;X-Amz-Date&#x3D;20260729T205435Z&amp;X-Amz-Expires&#x3D;300&amp;X-Amz-Signature&#x3D;3182e00d219876b47230cfb928de8ba3d29ffce99aa037eced6bf66e9860e6f9&amp;X-Amz-SignedHeaders&#x3D;host&amp;jwt&#x3D;eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoiaHR0cHM6Ly9yZXBvc2l0b3J5LWltYWdlcy5naXRodWJ1c2VyY29udGVudC5jb20vIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4NTM1ODc3NSwibmJmIjoxNzg1MzU4NDc1LCJwYXRoIjoicmVwb3NpdG9yeS1pbWFnZXMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIn0.pqDzaXJI1eN34dwdGO_jiwrsVJoArM6qvzdjP3O9nwU" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>Hi HN,
+I built a specialized inference engine for running 4-bit Gemma 4 26B-A4B-IT on any M-series Mac using about 2 GB of RAM. It is called TurboFieldfare and is written in Swift and Metal.
+I have always adored on-device AI. It feels like magic that you can run a powerful NN on your Mac or iPhone. So I wanted to push the limits a bit and run a model whose weights don’t fit in memory.
+The model’s 4-bit quantized weights occupy roughly 14 GB, which makes running it with conventional inference tools almost impossible on an 8 GB or even 16 GB Mac once the OS, applications, and KV cache are included.
+The trick is to keep the shared part of the model and the KV cache in RAM, then stream only the routed experts needed for each token from SSD. An SSD is way slower than RAM, so the runtime uses a small expert cache and bounded parallel &#x60;pread&#x60;. While those reads are in flight, the GPU runs the shared part of the layer.
+I ran more than 100 experiments. Most didn’t work. A few got me here. The experiments are described in the GitHub repo.
+It currently generates 5–6 tok/s on an 8 GB M2 MacBook Air and 31–35 tok/s on an M5 MacBook Pro.
+I also added an experimental OpenAI-compatible local server. It supports streaming and tool calls, and reuses one prompt prefix from the KV cache.
+Try it! The Mac app is easy to install. On the first run, it will download 15 GB of weights from Hugging Face. The model is surprisingly capable.
+I would love any kind of feedback!
+Comments URL: https://news.ycombinator.com/item?id&#x3D;49098510
+Points: 510
+# Comments: 179</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;23
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
                         data-accordion-key="https://news.ycombinator.com/item?id&#x3D;49095865"
                         open
                       >
@@ -6608,8 +6640,8 @@ Right?</span>
       </section>
 
     <footer>
-      <a class="footer-link" href="https://github.com/ksubbu199/ksubbu199.github.io/actions/runs/30483501939">
-        <time id="build-timestamp" datetime="2026-07-29T19:15:18.106Z">2026-07-29T19:15:18.106Z</time>
+      <a class="footer-link" href="https://github.com/ksubbu199/ksubbu199.github.io/actions/runs/30490264921">
+        <time id="build-timestamp" datetime="2026-07-29T20:55:22.587Z">2026-07-29T20:55:22.587Z</time>
       </a>
       <a class="footer-link" href="https://github.com/osmoscraft/osmosfeed">osmosfeed 1.15.1</a>
     </footer>
