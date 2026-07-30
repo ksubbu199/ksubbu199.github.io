@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=49098965",
+          "author": "yan",
+          "description": "https://mitchellh.com/writing/superlogical\nComments URL: https://news.ycombinator.com/item?id=49098965\nPoints: 548\n# Comments: 340",
+          "link": "https://www.superlogical.com/",
+          "publishedOn": "2026-07-29T15:41:33.000Z",
+          "wordCount": 681,
+          "title": "Superlogical",
+          "imageUrl": "https://www.superlogical.com/og.webp"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=49098510",
           "author": "gitpusher42",
           "description": "Hi HN,\nI built a specialized inference engine for running 4-bit Gemma 4 26B-A4B-IT on any M-series Mac using about 2 GB of RAM. It is called TurboFieldfare and is written in Swift and Metal.\nI have always adored on-device AI. It feels like magic that you can run a powerful NN on your Mac or iPhone. So I wanted to push the limits a bit and run a model whose weights don’t fit in memory.\nThe model’s 4-bit quantized weights occupy roughly 14 GB, which makes running it with conventional inference tools almost impossible on an 8 GB or even 16 GB Mac once the OS, applications, and KV cache are included.\nThe trick is to keep the shared part of the model and the KV cache in RAM, then stream only the routed experts needed for each token from SSD. An SSD is way slower than RAM, so the runtime uses a small expert cache and bounded parallel `pread`. While those reads are in flight, the GPU runs the shared part of the layer.\nI ran more than 100 experiments. Most didn’t work. A few got me here. The experiments are described in the GitHub repo.\nIt currently generates 5–6 tok/s on an 8 GB M2 MacBook Air and 31–35 tok/s on an M5 MacBook Pro.\nI also added an experimental OpenAI-compatible local server. It supports streaming and tool calls, and reuses one prompt prefix from the KV cache.\nTry it! The Mac app is easy to install. On the first run, it will download 15 GB of weights from Hugging Face. The model is surprisingly capable.\nI would love any kind of feedback!\nComments URL: https://news.ycombinator.com/item?id=49098510\nPoints: 510\n# Comments: 179",
