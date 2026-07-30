@@ -1744,16 +1744,6 @@
           "wordCount": 49889,
           "title": "Godot will no longer accept AI-authored code contributions",
           "imageUrl": "https://cdn.mos.cms.futurecdn.net/9fe6i3bvMxcRA6sb2TJAS-1600-80.jpg"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=48740771",
-          "author": "Pragmata",
-          "description": "Article URL: https://twitter.com/AnthropicAI/status/2072106151890809341\nComments URL: https://news.ycombinator.com/item?id=48740771\nPoints: 637\n# Comments: 347",
-          "link": "https://twitter.com/AnthropicAI/status/2072106151890809341",
-          "publishedOn": "2026-06-30T23:55:12.000Z",
-          "wordCount": 432,
-          "title": "Department of Commerce has lifted export controls on Claude Fable 5 and Mythos 5",
-          "imageUrl": "https://pbs.twimg.com/profile_images/1798110641414443008/XP8gyBaY_200x200.jpg"
         }
       ]
     },
@@ -1862,6 +1852,16 @@
       "feedUrl": "https://martinfowler.com/feed.atom",
       "siteUrl": "https://martinfowler.com/feed.atom",
       "articles": [
+        {
+          "id": "https://martinfowler.com/articles/exploring-gen-ai/refactoring-economic-benefit.html",
+          "author": null,
+          "description": "Giles Edwards-Alexander does an experiment to see if decomposing a\n      large function helps reduce token costs, suggesting that is may now be\n      possible to measure the economic benefit of refactoring\nmore…",
+          "link": "https://martinfowler.com/articles/exploring-gen-ai/refactoring-economic-benefit.html",
+          "publishedOn": "2026-07-30T13:04:00.000Z",
+          "wordCount": 3340,
+          "title": "The Economic Benefit of Refactoring",
+          "imageUrl": "https://martinfowler.com/articles/exploring-gen-ai/donkey-card.png"
+        },
         {
           "id": "https://martinfowler.com/articles/orchestrator-tax.html",
           "author": null,
