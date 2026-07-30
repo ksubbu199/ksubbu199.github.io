@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=49102774",
+          "author": "robbiet480",
+          "description": "Article URL: https://christianselig.com/2026/07/vision-pro-house/\nComments URL: https://news.ycombinator.com/item?id=49102774\nPoints: 537\n# Comments: 225",
+          "link": "https://christianselig.com/2026/07/vision-pro-house/",
+          "publishedOn": "2026-07-29T20:39:40.000Z",
+          "wordCount": 2015,
+          "title": "The coolest use for the Vision Pro",
+          "imageUrl": "https://christianselig.com/2026/07/vision-pro-house/hero.jpeg"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=49098965",
           "author": "yan",
           "description": "https://mitchellh.com/writing/superlogical\nComments URL: https://news.ycombinator.com/item?id=49098965\nPoints: 548\n# Comments: 340",
@@ -1734,46 +1744,6 @@
           "wordCount": 432,
           "title": "Department of Commerce has lifted export controls on Claude Fable 5 and Mythos 5",
           "imageUrl": "https://pbs.twimg.com/profile_images/1798110641414443008/XP8gyBaY_200x200.jpg"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=48736605",
-          "author": "marinesebastian",
-          "description": "Article URL: https://www.anthropic.com/news/claude-sonnet-5\nComments URL: https://news.ycombinator.com/item?id=48736605\nPoints: 691\n# Comments: 366",
-          "link": "https://www.anthropic.com/news/claude-sonnet-5",
-          "publishedOn": "2026-06-30T17:59:52.000Z",
-          "wordCount": 4568,
-          "title": "Claude Sonnet 5",
-          "imageUrl": "https://cdn.sanity.io/images/4zrzovbb/website/458ea645ef6b729f6847cba16932716e6b547f2f-2880x1620.png"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=48735770",
-          "author": "lebovic",
-          "description": "Article URL: https://claude.com/product/claude-science\nComments URL: https://news.ycombinator.com/item?id=48735770\nPoints: 506\n# Comments: 149",
-          "link": "https://claude.com/product/claude-science",
-          "publishedOn": "2026-06-30T17:07:41.000Z",
-          "wordCount": 22310,
-          "title": "Claude Science",
-          "imageUrl": "https://cdn.prod.website-files.com/6889473510b50328dbb70ae6/6a429b9909aa1b063a203021_life-sciences-tn.jpg"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=48734373",
-          "author": "kirushik",
-          "description": "Article URL: https://thereallo.dev/blog/claude-code-prompt-steganography\nComments URL: https://news.ycombinator.com/item?id=48734373\nPoints: 525\n# Comments: 169",
-          "link": "https://thereallo.dev/blog/claude-code-prompt-steganography",
-          "publishedOn": "2026-06-30T15:44:24.000Z",
-          "wordCount": null,
-          "title": "Claude Code Is Steganographically Marking Requests",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=48734234",
-          "author": "loughnane",
-          "description": "Article URL: https://libertystreeteconomics.newyorkfed.org/2026/06/the-post-covid-decline-in-the-labor-share/\nComments URL: https://news.ycombinator.com/item?id=48734234\nPoints: 500\n# Comments: 544",
-          "link": "https://libertystreeteconomics.newyorkfed.org/2026/06/the-post-covid-decline-in-the-labor-share/",
-          "publishedOn": "2026-06-30T15:35:04.000Z",
-          "wordCount": 4872,
-          "title": "The labor share of income in the US is at its lowest post-war level",
-          "imageUrl": "https://libertystreeteconomics.newyorkfed.org/wp-content/uploads/sites/2/2026/06/LSE_2026_labor-share_schuh_460.jpg"
         }
       ]
     },
