@@ -2,10 +2,39 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-07-30T13:59:37.486Z</updated>
+    <updated>2026-07-30T15:56:05.543Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The Pulse: Quitting Spotify Podcasts over reliability]]></title>
+        <id>6a6b68cb5afb0c00015a3f23</id>
+        <link href="https://blog.pragmaticengineer.com/the-pulse-quitting-spotify-podcasts-over-reliability/"/>
+        <updated>2026-07-30T15:51:38.000Z</updated>
+        <summary type="html"><![CDATA[Spotify’s podcast platform has become chronically unreliable since the company’s leadership started boasting about AI adoption. Competitors haven’t had similar issues, so I offboarded from Spotify.]]></summary>
+        <author>
+            <name>Ivan Klaric</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI Can Save Crores in Your Business]]></title>
+        <id>https://www.youtube.com/shorts/ydgGMX8lOWA</id>
+        <link href="https://www.youtube.com/shorts/ydgGMX8lOWA"/>
+        <updated>2026-07-30T15:37:19.000Z</updated>
+        <summary type="html"><![CDATA[Can AI actually save your business crores?In this short, Gayatri Agrawal, Founder of Altrd, explains how businesses use ChatGPT and Codex to uncover hidden r...]]></summary>
+        <author>
+            <name>Think School</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why 99% of Businesses Fail at AI | How in 30-Days you can make your Business AI-Ready]]></title>
+        <id>https://www.youtube.com/watch?v=NOvqC-9MZu8</id>
+        <link href="https://www.youtube.com/watch?v=NOvqC-9MZu8"/>
+        <updated>2026-07-30T15:01:49.000Z</updated>
+        <author>
+            <name>Think School</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Economic Benefit of Refactoring]]></title>
         <id>https://martinfowler.com/articles/exploring-gen-ai/refactoring-economic-benefit.html</id>
