@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-07-31T18:20:02.428Z</updated>
+    <updated>2026-07-31T20:20:19.978Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Elevators]]></title>
+        <id>https://news.ycombinator.com/item?id=49124218</id>
+        <link href="https://john.fun/elevators"/>
+        <updated>2026-07-31T15:17:28.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://john.fun/elevators
+Comments URL: https://news.ycombinator.com/item?id=49124218
+Points: 613
+# Comments: 160]]></summary>
+        <author>
+            <name>Jrh0203</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Conductor Developer]]></title>
         <id>https://martinfowler.com/rachels-ramblings/conductor-developer.html</id>
