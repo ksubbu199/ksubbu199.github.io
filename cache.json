@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=49118781",
+          "author": "apitman",
+          "description": "Article URL: https://earendil.com/posts/session-portability/\nComments URL: https://news.ycombinator.com/item?id=49118781\nPoints: 563\n# Comments: 152",
+          "link": "https://earendil.com/posts/session-portability/",
+          "publishedOn": "2026-07-31T03:47:59.000Z",
+          "wordCount": 3107,
+          "title": "The session you cannot take with you",
+          "imageUrl": "https://earendil.com/static/og/posts/session-portability.png"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=49113929",
           "author": "dickfickling",
           "description": "Article URL: https://www.uefa.com/news-media/news/02a7-213a92896eb0-54dfbf454e3b-1000--statement-on-behalf-of-uefa-and-its-55-national-associations/\nComments URL: https://news.ycombinator.com/item?id=49113929\nPoints: 634\n# Comments: 349",
@@ -1822,6 +1832,16 @@
       "feedUrl": "https://martinfowler.com/feed.atom",
       "siteUrl": "https://martinfowler.com/feed.atom",
       "articles": [
+        {
+          "id": "https://martinfowler.com/rachels-ramblings/conductor-developer.html",
+          "author": null,
+          "description": "TL;DR\nWhy I think software development is starting to feel a little more like conducting an orchestra.\n\nThere’s a shift happening in software development that I don’t think we’re talking about clearly enough.\nFor the last couple of years we’ve framed AI as a productivity tool. How much faster can it write code? How many more features can we ship? How much cheaper can we build software? I think that’s the wrong question, but I understand why.\nThe first thing AI became good at was writing code, so naturally that’s where we focused. As AI got better at coding, I expected the bottlenecks to move through the software delivery lifecycle: from coding to design and specification, architecture, then verification. And they have. We spent a lot of time at the most recent FOSE  event discussing how we…",
+          "link": "https://martinfowler.com/rachels-ramblings/conductor-developer.html",
+          "publishedOn": "2026-07-31T13:48:00.000Z",
+          "wordCount": 1105,
+          "title": "The Conductor Developer",
+          "imageUrl": "https://martinfowler.com/rachels-ramblings/card.png"
+        },
         {
           "id": "https://martinfowler.com/articles/exploring-gen-ai/refactoring-economic-benefit.html",
           "author": null,

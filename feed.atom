@@ -2,10 +2,38 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-07-31T11:59:28.648Z</updated>
+    <updated>2026-07-31T14:26:45.804Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The Conductor Developer]]></title>
+        <id>https://martinfowler.com/rachels-ramblings/conductor-developer.html</id>
+        <link href="https://martinfowler.com/rachels-ramblings/conductor-developer.html"/>
+        <updated>2026-07-31T13:48:00.000Z</updated>
+        <summary type="html"><![CDATA[TL;DR
+Why I think software development is starting to feel a little more like conducting an orchestra.
+
+There’s a shift happening in software development that I don’t think we’re talking about clearly enough.
+For the last couple of years we’ve framed AI as a productivity tool. How much faster can it write code? How many more features can we ship? How much cheaper can we build software? I think that’s the wrong question, but I understand why.
+The first thing AI became good at was writing code, so naturally that’s where we focused. As AI got better at coding, I expected the bottlenecks to move through the software delivery lifecycle: from coding to design and specification, architecture, then verification. And they have. We spent a lot of time at the most recent FOSE  event discussing how we…]]></summary>
+        <author>
+            <name>Martin Fowler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The session you cannot take with you]]></title>
+        <id>https://news.ycombinator.com/item?id=49118781</id>
+        <link href="https://earendil.com/posts/session-portability/"/>
+        <updated>2026-07-31T03:47:59.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://earendil.com/posts/session-portability/
+Comments URL: https://news.ycombinator.com/item?id=49118781
+Points: 563
+# Comments: 152]]></summary>
+        <author>
+            <name>apitman</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[UEFA and its national associations will not participate in FIFA competitions]]></title>
         <id>https://news.ycombinator.com/item?id=49113929</id>
