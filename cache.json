@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=49119559",
+          "author": "dnhkng",
+          "description": "Article URL: https://api-docs.deepseek.com/updates/\nComments URL: https://news.ycombinator.com/item?id=49119559\nPoints: 521\n# Comments: 255",
+          "link": "https://api-docs.deepseek.com/updates/",
+          "publishedOn": "2026-07-31T06:08:36.000Z",
+          "wordCount": 1416,
+          "title": "DeepSeek-V4-Flash Update",
+          "imageUrl": "https://api-docs.deepseek.com/img/deepseek-social-card.jpeg"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=49118781",
           "author": "apitman",
           "description": "Article URL: https://earendil.com/posts/session-portability/\nComments URL: https://news.ycombinator.com/item?id=49118781\nPoints: 563\n# Comments: 152",
@@ -1704,26 +1714,6 @@
           "wordCount": 4283,
           "title": "PeerTube is a free, decentralized and federated video platform",
           "imageUrl": "https://opengraph.githubassets.com/2f18741e2bd94ae743f90396e1727c73f52e2398293bec492010cfaf9b69c987/Chocobozzz/PeerTube"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=48755965",
-          "author": "drewfax",
-          "description": "Article URL: https://f-droid.org/2026/07/01/adv-malware.html\nComments URL: https://news.ycombinator.com/item?id=48755965\nPoints: 587\n# Comments: 242",
-          "link": "https://f-droid.org/2026/07/01/adv-malware.html",
-          "publishedOn": "2026-07-02T03:00:15.000Z",
-          "wordCount": 1454,
-          "title": "A new Android malware from Google",
-          "imageUrl": "https://f-droid.org/assets/fdroid-logo_bfHl7nsLHOUQxzdU8-rGIhn4bAgl6z7k2mA3fWoCyT4=.png"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=48755731",
-          "author": "pentagrama",
-          "description": "Article URL: https://tedium.co/2026/07/01/online-web-forums-retrospective/\nComments URL: https://news.ycombinator.com/item?id=48755731\nPoints: 508\n# Comments: 319",
-          "link": "https://tedium.co/2026/07/01/online-web-forums-retrospective/",
-          "publishedOn": "2026-07-02T02:30:16.000Z",
-          "wordCount": 5523,
-          "title": "Bring back crappy forums",
-          "imageUrl": "https://v1.screenshot.11ty.dev/https%3A%2F%2Ftedium.co%2Fog-images%2F2026%2F07%2F01%2Fonline-web-forums-retrospective%2F/opengraph/?v=1782997529"
         }
       ]
     },

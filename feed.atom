@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-07-31T14:26:45.804Z</updated>
+    <updated>2026-07-31T16:45:04.893Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -19,6 +19,19 @@ For the last couple of years we’ve framed AI as a productivity tool. How much 
 The first thing AI became good at was writing code, so naturally that’s where we focused. As AI got better at coding, I expected the bottlenecks to move through the software delivery lifecycle: from coding to design and specification, architecture, then verification. And they have. We spent a lot of time at the most recent FOSE  event discussing how we…]]></summary>
         <author>
             <name>Martin Fowler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DeepSeek-V4-Flash Update]]></title>
+        <id>https://news.ycombinator.com/item?id=49119559</id>
+        <link href="https://api-docs.deepseek.com/updates/"/>
+        <updated>2026-07-31T06:08:36.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://api-docs.deepseek.com/updates/
+Comments URL: https://news.ycombinator.com/item?id=49119559
+Points: 521
+# Comments: 255]]></summary>
+        <author>
+            <name>dnhkng</name>
         </author>
     </entry>
     <entry>
@@ -2843,32 +2856,6 @@ Points: 531
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>Think School</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A new Android malware from Google]]></title>
-        <id>https://news.ycombinator.com/item?id=48755965</id>
-        <link href="https://f-droid.org/2026/07/01/adv-malware.html"/>
-        <updated>2026-07-02T03:00:15.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://f-droid.org/2026/07/01/adv-malware.html
-Comments URL: https://news.ycombinator.com/item?id=48755965
-Points: 587
-# Comments: 242]]></summary>
-        <author>
-            <name>drewfax</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bring back crappy forums]]></title>
-        <id>https://news.ycombinator.com/item?id=48755731</id>
-        <link href="https://tedium.co/2026/07/01/online-web-forums-retrospective/"/>
-        <updated>2026-07-02T02:30:16.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://tedium.co/2026/07/01/online-web-forums-retrospective/
-Comments URL: https://news.ycombinator.com/item?id=48755731
-Points: 508
-# Comments: 319]]></summary>
-        <author>
-            <name>pentagrama</name>
         </author>
     </entry>
     <entry>
