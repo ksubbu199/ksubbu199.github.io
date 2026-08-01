@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-08-01T04:19:56.458Z</updated>
+    <updated>2026-08-01T07:26:30.066Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Tailscale didn't stop the Hugging Face intrusion]]></title>
+        <id>https://news.ycombinator.com/item?id=49127306</id>
+        <link href="https://tailscale.com/blog/hugging-face-intrusion"/>
+        <updated>2026-07-31T19:03:45.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://tailscale.com/blog/hugging-face-intrusion
+Comments URL: https://news.ycombinator.com/item?id=49127306
+Points: 527
+# Comments: 196]]></summary>
+        <author>
+            <name>bluehatbrit</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[qm – Multiplayer agent harness for work]]></title>
         <id>https://news.ycombinator.com/item?id=49126604</id>
@@ -2764,16 +2777,6 @@ Points: 540
 # Comments: 94]]></summary>
         <author>
             <name>toomuchtodo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Pulse: a new trend, smart model routing]]></title>
-        <id>6a46b160d2d7770001b1479c</id>
-        <link href="https://blog.pragmaticengineer.com/the-pulse-a-new-trend-smart-model-routing/"/>
-        <updated>2026-07-02T18:46:24.000Z</updated>
-        <summary type="html"><![CDATA[Are there any ‘intelligent’ router solutions out there which select the right model for the right task? I looked into it, and there are a few options.]]></summary>
-        <author>
-            <name>Gergely Orosz</name>
         </author>
     </entry>
     <entry>

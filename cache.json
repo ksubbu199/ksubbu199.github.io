@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=49127306",
+          "author": "bluehatbrit",
+          "description": "Article URL: https://tailscale.com/blog/hugging-face-intrusion\nComments URL: https://news.ycombinator.com/item?id=49127306\nPoints: 527\n# Comments: 196",
+          "link": "https://tailscale.com/blog/hugging-face-intrusion",
+          "publishedOn": "2026-07-31T19:03:45.000Z",
+          "wordCount": 3572,
+          "title": "Tailscale didn't stop the Hugging Face intrusion",
+          "imageUrl": "https://tailscale.com/api/og-image?id=0dafcba5-55df-4373-be5e-564b368a27af"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=49126604",
           "author": "tosh",
           "description": "Article URL: https://github.com/yc-software/qm\nComments URL: https://news.ycombinator.com/item?id=49126604\nPoints: 507\n# Comments: 107",
@@ -1943,16 +1953,6 @@
           "publishedOn": "2026-07-09T17:20:34.000Z",
           "wordCount": 1871,
           "title": "The Pulse: Interesting AI coding stats from Cursor",
-          "imageUrl": null
-        },
-        {
-          "id": "6a46b160d2d7770001b1479c",
-          "author": "Gergely Orosz",
-          "description": "Are there any ‘intelligent’ router solutions out there which select the right model for the right task? I looked into it, and there are a few options.",
-          "link": "https://blog.pragmaticengineer.com/the-pulse-a-new-trend-smart-model-routing/",
-          "publishedOn": "2026-07-02T18:46:24.000Z",
-          "wordCount": 1485,
-          "title": "The Pulse: a new trend, smart model routing",
           "imageUrl": null
         }
       ]
