@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=49138188",
+          "author": "ryanseys",
+          "description": "Article URL: https://diataxis.fr/\nComments URL: https://news.ycombinator.com/item?id=49138188\nPoints: 501\n# Comments: 57",
+          "link": "https://diataxis.fr/",
+          "publishedOn": "2026-08-01T20:33:27.000Z",
+          "wordCount": 539,
+          "title": "Diátaxis",
+          "imageUrl": null
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=49136821",
           "author": "pudgywalsh",
           "description": "Article URL: https://openrss.org/blog/how-google-helped-destroy-adoption-of-rss-feeds\nComments URL: https://news.ycombinator.com/item?id=49136821\nPoints: 516\n# Comments: 177",
@@ -1624,16 +1634,6 @@
           "wordCount": 9531,
           "title": "Explanation of everything you can see in htop/top on Linux (2019)",
           "imageUrl": "https://peteris.rocks/blog/htop/canyoukillit-before.png"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=48783117",
-          "author": "gslin",
-          "description": "Article URL: https://blog.mikebowler.ca/2026/07/03/co2-and-decision-making/\nComments URL: https://news.ycombinator.com/item?id=48783117\nPoints: 530\n# Comments: 322",
-          "link": "https://blog.mikebowler.ca/2026/07/03/co2-and-decision-making/",
-          "publishedOn": "2026-07-04T06:32:28.000Z",
-          "wordCount": 906,
-          "title": "The bottleneck might be the air in the room",
-          "imageUrl": null
         }
       ]
     },
