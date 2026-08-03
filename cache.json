@@ -6,6 +6,26 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=49151933",
+          "author": "ngruhn",
+          "description": "Article URL: https://gruhn.me/blog/2026-08-03/\nComments URL: https://news.ycombinator.com/item?id=49151933\nPoints: 682\n# Comments: 298",
+          "link": "https://gruhn.me/blog/2026-08-03/",
+          "publishedOn": "2026-08-03T06:28:01.000Z",
+          "wordCount": 263,
+          "title": "Don't be a meat proxy",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=49150470",
+          "author": "ai2027",
+          "description": "Article URL: https://qwen.ai/blog?id=qwen3.8\nComments URL: https://news.ycombinator.com/item?id=49150470\nPoints: 627\n# Comments: 315",
+          "link": "https://qwen.ai/blog?id=qwen3.8",
+          "publishedOn": "2026-08-03T02:16:09.000Z",
+          "wordCount": 592,
+          "title": "Qwen3.8-Max: A New Bar for Coding and Cowork",
+          "imageUrl": "https://img.alicdn.com/imgextra/i4/O1CN01OXv3EM1FN8t9W4P79_!!6000000000474-2-tps-80-80.png"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=49140998",
           "author": "delichon",
           "description": "https://xcancel.com/karpathy/status/2083749667410727319\nComments URL: https://news.ycombinator.com/item?id=49140998\nPoints: 545\n# Comments: 381",
@@ -1604,16 +1624,6 @@
           "wordCount": 534,
           "title": "If you're a button, you have one job",
           "imageUrl": "https://unsung.aresluna.org/_media/if-youre-a-button-you-have-one-job/ogimage.png"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=48788283",
-          "author": "asronline",
-          "description": "Article URL: https://github.com/ammaarreshi/Generals-Mac-iOS-iPad/tree/main\nComments URL: https://news.ycombinator.com/item?id=48788283\nPoints: 531\n# Comments: 219",
-          "link": "https://github.com/ammaarreshi/Generals-Mac-iOS-iPad/tree/main",
-          "publishedOn": "2026-07-04T19:41:10.000Z",
-          "wordCount": 4345,
-          "title": "Command and Conquer Generals natively ported to macOS, iPhone, iPad using Fable",
-          "imageUrl": "https://opengraph.githubassets.com/bf5687e096471d638636e5e487c1d864ecf31a9963b585662f51db15f1f9b5b6/ammaarreshi/Generals-Mac-iOS-iPad"
         }
       ]
     },
