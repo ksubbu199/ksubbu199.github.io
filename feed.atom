@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-08-03T14:37:36.445Z</updated>
+    <updated>2026-08-03T17:08:06.262Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -13,6 +13,19 @@
         <updated>2026-08-03T14:04:26.000Z</updated>
         <author>
             <name>Think School</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Critical CVE issued for hallucinated SQLite vulnerability]]></title>
+        <id>https://news.ycombinator.com/item?id=49154332</id>
+        <link href="https://research.jfrog.com/post/sqlite-critical-cves-or-llm-slops/"/>
+        <updated>2026-08-03T11:28:54.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://research.jfrog.com/post/sqlite-critical-cves-or-llm-slops/
+Comments URL: https://news.ycombinator.com/item?id=49154332
+Points: 588
+# Comments: 215]]></summary>
+        <author>
+            <name>ymir_e</name>
         </author>
     </entry>
     <entry>
