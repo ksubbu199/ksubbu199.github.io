@@ -6,6 +6,26 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=49161518",
+          "author": "MaxMussio",
+          "description": "Article URL: https://www.seangoedecke.com/llms-reward-expertise/\nComments URL: https://news.ycombinator.com/item?id=49161518\nPoints: 587\n# Comments: 250",
+          "link": "https://www.seangoedecke.com/llms-reward-expertise/",
+          "publishedOn": "2026-08-03T21:13:53.000Z",
+          "wordCount": 1058,
+          "title": "LLMs reward expertise",
+          "imageUrl": "https://www.seangoedecke.com/og-image.jpg"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=49156111",
+          "author": "bryanmikaelian",
+          "description": "Article URL: https://blog.exe.dev/devtools-must-be-open-source\nComments URL: https://news.ycombinator.com/item?id=49156111\nPoints: 532\n# Comments: 189",
+          "link": "https://blog.exe.dev/devtools-must-be-open-source",
+          "publishedOn": "2026-08-03T14:15:47.000Z",
+          "wordCount": 2672,
+          "title": "Devtools must be open source",
+          "imageUrl": "https://blog.exe.dev/static/og-card.png"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=49154332",
           "author": "ymir_e",
           "description": "Article URL: https://research.jfrog.com/post/sqlite-critical-cves-or-llm-slops/\nComments URL: https://news.ycombinator.com/item?id=49154332\nPoints: 588\n# Comments: 215",
@@ -1604,26 +1624,6 @@
           "wordCount": 1389,
           "title": "OpenPrinter",
           "imageUrl": "https://www.opentools.studio/web/image/1096-6c03f418/Open-printer_2_black-prints.webp"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=48794750",
-          "author": "popcar2",
-          "description": "Article URL: https://popcar.bearblog.dev/its-about-ownership/\nComments URL: https://news.ycombinator.com/item?id=48794750\nPoints: 504\n# Comments: 373",
-          "link": "https://popcar.bearblog.dev/its-about-ownership/",
-          "publishedOn": "2026-07-05T14:56:15.000Z",
-          "wordCount": 3267,
-          "title": "It's not about physical vs. digital games, it's about ownership",
-          "imageUrl": "/static/og-image.png"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=48794446",
-          "author": "tosh",
-          "description": "Article URL: https://organicmaps.app/\nComments URL: https://news.ycombinator.com/item?id=48794446\nPoints: 865\n# Comments: 250",
-          "link": "https://organicmaps.app/",
-          "publishedOn": "2026-07-05T14:14:30.000Z",
-          "wordCount": 1225,
-          "title": "Organic Maps",
-          "imageUrl": "https://organicmaps.app/images/screenshots/prague.jpg"
         }
       ]
     },
