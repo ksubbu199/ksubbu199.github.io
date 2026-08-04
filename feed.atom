@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-08-04T10:38:33.710Z</updated>
+    <updated>2026-08-04T13:01:56.705Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Fragments: August  4]]></title>
+        <id>https://martinfowler.com/fragments/2026-08-04.html</id>
+        <link href="https://martinfowler.com/fragments/2026-08-04.html"/>
+        <updated>2026-08-04T12:08:00.000Z</updated>
+        <summary type="html"><![CDATA[There’s been a fair bit of publicity of the Open AI “rogue agent” that hacked into Hugging Face. This prompted Anthropic to check what their models were up to and, to my complete lack of surprise, discovered three incidents where models had gained unauthorized access to data in other organizations. Simon Wilison concluded:
+It’s abundantly clear now that running evals of cyberattack potential in models is a spectacularly risky business. Every AI lab needs to pay attention to this. Keeping a close eye on what’s happening in those sandboxes is crucial
+It strikes me that this is akin to a virus escaping from a laboratory. It makes clear that the model builders are not putting sufficient controls in place to prevent these lab escapes. They are morally responsible for any consequences of this, a…]]></summary>
+        <author>
+            <name>Martin Fowler</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[LLMs reward expertise]]></title>
         <id>https://news.ycombinator.com/item?id=49161518</id>
@@ -65,6 +77,19 @@ Points: 588
 # Comments: 215]]></summary>
         <author>
             <name>ymir_e</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Prevent cognitive debt by manually retyping LLM-generated code]]></title>
+        <id>https://news.ycombinator.com/item?id=49153374</id>
+        <link href="https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code/"/>
+        <updated>2026-08-03T09:32:07.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code/
+Comments URL: https://news.ycombinator.com/item?id=49153374
+Points: 507
+# Comments: 416]]></summary>
+        <author>
+            <name>mpweiher</name>
         </author>
     </entry>
     <entry>
