@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-08-04T04:13:26.348Z</updated>
+    <updated>2026-08-04T07:39:06.105Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -17,6 +17,19 @@ Points: 587
 # Comments: 250]]></summary>
         <author>
             <name>MaxMussio</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ten advances in mathematics and theoretical computer science]]></title>
+        <id>https://news.ycombinator.com/item?id=49157930</id>
+        <link href="https://openai.com/index/ten-advances-in-mathematics/"/>
+        <updated>2026-08-03T16:27:12.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://openai.com/index/ten-advances-in-mathematics/
+Comments URL: https://news.ycombinator.com/item?id=49157930
+Points: 520
+# Comments: 799]]></summary>
+        <author>
+            <name>milkshakes</name>
         </author>
     </entry>
     <entry>
