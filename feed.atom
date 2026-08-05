@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-08-05T04:08:28.105Z</updated>
+    <updated>2026-08-05T07:38:15.020Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -17,6 +17,22 @@ Points: 538
 # Comments: 26]]></summary>
         <author>
             <name>jdcampolargo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Simple algorithm and color space to generate diverse skin tones]]></title>
+        <id>https://news.ycombinator.com/item?id=49170165</id>
+        <link href="https://toneyalexander.github.io/inclusive-color-space/"/>
+        <updated>2026-08-04T15:16:22.000Z</updated>
+        <summary type="html"><![CDATA[Hello HN!
+I found that picking out plausible but diverse skin tones for my digital art and game development projects was kind of difficult, and I got curious about if there was a way to define a color space that made it easy.
+I've built a color picker and procedural generation algorithm based on the space as well as a bunch of other fun js features and demos throughout the page that use the equations. If you find it interesting, I have lots of explanations of how I built it and what properties the space has.
+The methodology might be a bit shaky, but hopefully the result is as helpful for others as I have found it! There's lots of room for improvements (see the Future Work section), but I'm really happy with how it turned out.
+Comments URL: https://news.ycombinator.com/item?id=49170165
+Points: 510
+# Comments: 92]]></summary>
+        <author>
+            <name>automatoney</name>
         </author>
     </entry>
     <entry>
@@ -2743,61 +2759,6 @@ Points: 542
 # Comments: 332]]></summary>
         <author>
             <name>martinald</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CoMaps – FOSS Offline Maps]]></title>
-        <id>https://news.ycombinator.com/item?id=48808928</id>
-        <link href="https://www.comaps.app/"/>
-        <updated>2026-07-06T18:55:07.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.comaps.app/
-Comments URL: https://news.ycombinator.com/item?id=48808928
-Points: 587
-# Comments: 128]]></summary>
-        <author>
-            <name>basilikum</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenWrt One – Open Hardware Router]]></title>
-        <id>https://news.ycombinator.com/item?id=48808482</id>
-        <link href="https://openwrt.org/toh/openwrt/one"/>
-        <updated>2026-07-06T18:23:12.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://openwrt.org/toh/openwrt/one
-Comments URL: https://news.ycombinator.com/item?id=48808482
-Points: 558
-# Comments: 220]]></summary>
-        <author>
-            <name>peter_d_sherman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Dirty AI lie : How the GREATEST bet in human history started to crack in June 2026?]]></title>
-        <id>https://www.youtube.com/watch?v=WcckBmkauBQ</id>
-        <link href="https://www.youtube.com/watch?v=WcckBmkauBQ"/>
-        <updated>2026-07-06T15:13:19.000Z</updated>
-        <author>
-            <name>Think School</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What Your Parents Really Want]]></title>
-        <id>https://www.youtube.com/shorts/FF-zfB5Xrgo</id>
-        <link href="https://www.youtube.com/shorts/FF-zfB5Xrgo"/>
-        <updated>2026-07-06T14:44:56.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Think School</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Does Your College Really Matter?]]></title>
-        <id>https://www.youtube.com/shorts/-UR87ejUgnk</id>
-        <link href="https://www.youtube.com/shorts/-UR87ejUgnk"/>
-        <updated>2026-07-06T12:22:50.000Z</updated>
-        <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
-        <author>
-            <name>Think School</name>
         </author>
     </entry>
     <entry>

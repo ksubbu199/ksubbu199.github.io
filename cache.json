@@ -16,6 +16,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://news.ycombinator.com/item?id=49170165",
+          "author": "automatoney",
+          "description": "Hello HN!\nI found that picking out plausible but diverse skin tones for my digital art and game development projects was kind of difficult, and I got curious about if there was a way to define a color space that made it easy.\nI've built a color picker and procedural generation algorithm based on the space as well as a bunch of other fun js features and demos throughout the page that use the equations. If you find it interesting, I have lots of explanations of how I built it and what properties the space has.\nThe methodology might be a bit shaky, but hopefully the result is as helpful for others as I have found it! There's lots of room for improvements (see the Future Work section), but I'm really happy with how it turned out.\nComments URL: https://news.ycombinator.com/item?id=49170165\nPoints: 510\n# Comments: 92",
+          "link": "https://toneyalexander.github.io/inclusive-color-space/",
+          "publishedOn": "2026-08-04T15:16:22.000Z",
+          "wordCount": 3880,
+          "title": "Show HN: Simple algorithm and color space to generate diverse skin tones",
+          "imageUrl": "https://toneyalexander.github.io/inclusive-color-space/img/preview.png"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=49167448",
           "author": "surprisetalk",
           "description": "Article URL: https://birchtree.me/blog/xbox-goes-down-you-cant-play-games-you-own-on-disc/\nComments URL: https://news.ycombinator.com/item?id=49167448\nPoints: 533\n# Comments: 574",
@@ -1644,26 +1654,6 @@
           "wordCount": 2134,
           "title": "GLM 5.2 and the coming AI margin collapse",
           "imageUrl": "https://martinalderson.com/img/og/glm-5-2-and-the-coming-ai-margin-collapse-part-1.png"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=48808928",
-          "author": "basilikum",
-          "description": "Article URL: https://www.comaps.app/\nComments URL: https://news.ycombinator.com/item?id=48808928\nPoints: 587\n# Comments: 128",
-          "link": "https://www.comaps.app/",
-          "publishedOn": "2026-07-06T18:55:07.000Z",
-          "wordCount": 1084,
-          "title": "CoMaps – FOSS Offline Maps",
-          "imageUrl": "https://www.comaps.app/images/sections/map-s-3.webp"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=48808482",
-          "author": "peter_d_sherman",
-          "description": "Article URL: https://openwrt.org/toh/openwrt/one\nComments URL: https://news.ycombinator.com/item?id=48808482\nPoints: 558\n# Comments: 220",
-          "link": "https://openwrt.org/toh/openwrt/one",
-          "publishedOn": "2026-07-06T18:23:12.000Z",
-          "wordCount": 2613,
-          "title": "OpenWrt One – Open Hardware Router",
-          "imageUrl": null
         }
       ]
     },
@@ -2240,36 +2230,6 @@
           "publishedOn": "2026-07-07T07:40:28.000Z",
           "wordCount": 2135,
           "title": "You Are Loving Your Parents Wrong",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=WcckBmkauBQ",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=WcckBmkauBQ",
-          "publishedOn": "2026-07-06T15:13:19.000Z",
-          "wordCount": null,
-          "title": "The Dirty AI lie : How the GREATEST bet in human history started to crack in June 2026?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/shorts/FF-zfB5Xrgo",
-          "author": null,
-          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-          "link": "https://www.youtube.com/shorts/FF-zfB5Xrgo",
-          "publishedOn": "2026-07-06T14:44:56.000Z",
-          "wordCount": 2118,
-          "title": "What Your Parents Really Want",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/shorts/-UR87ejUgnk",
-          "author": null,
-          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-          "link": "https://www.youtube.com/shorts/-UR87ejUgnk",
-          "publishedOn": "2026-07-06T12:22:50.000Z",
-          "wordCount": 2250,
-          "title": "Does Your College Really Matter?",
           "imageUrl": null
         }
       ]
