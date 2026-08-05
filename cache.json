@@ -1634,16 +1634,6 @@
           "wordCount": 521,
           "title": "StreetComplete: Fixing OpenStreetMap, one tiny quest at a time",
           "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=48811591",
-          "author": "modinfo",
-          "description": "Article URL: https://github.com/MaximeRivest/Riddle\nComments URL: https://news.ycombinator.com/item?id=48811591\nPoints: 533\n# Comments: 336",
-          "link": "https://github.com/MaximeRivest/Riddle",
-          "publishedOn": "2026-07-06T23:00:24.000Z",
-          "wordCount": 4583,
-          "title": "Fable turned reMarkable into Tom Riddle's diary from Harry Potter",
-          "imageUrl": "https://opengraph.githubassets.com/c315af455b1eee1c75590c31412ab4830f9a220effecb5e3cf31db16a21b83be/MaximeRivest/riddle"
         }
       ]
     },
@@ -1875,6 +1865,16 @@
       "feedUrl": "https://blog.pragmaticengineer.com/rss/",
       "siteUrl": "https://blog.pragmaticengineer.com/",
       "articles": [
+        {
+          "id": "6a72f95dd1f60900010e34a7",
+          "author": "Gergely Orosz",
+          "description": "In only 5 years, Hopin went from zero to a $7.7B valuation, and back to zero again. Also: Bending Spoons’ startup acquisition model.",
+          "link": "https://blog.pragmaticengineer.com/the-pulse-bending-spoons-acquisition-strategy/",
+          "publishedOn": "2026-08-05T11:45:13.000Z",
+          "wordCount": 2956,
+          "title": "The Pulse: Bending Spoons' Acquisition Strategy",
+          "imageUrl": null
+        },
         {
           "id": "6a6b68cb5afb0c00015a3f23",
           "author": "Ivan Klaric",
