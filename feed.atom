@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-08-06T00:03:44.337Z</updated>
+    <updated>2026-08-06T04:11:12.408Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -17,6 +17,22 @@ Points: 502
 # Comments: 307]]></summary>
         <author>
             <name>xtreak29</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Changes at Google DeepMind: Demis Hassabis from CEO to Chair, Jeff Dean departs]]></title>
+        <id>https://news.ycombinator.com/item?id=49184755</id>
+        <link href="https://blog.google/company-news/inside-google/message-ceo/next-chapter-ai-momentum/"/>
+        <updated>2026-08-05T16:05:31.000Z</updated>
+        <summary type="html"><![CDATA[https://www.axios.com/2026/08/05/google-deepmind-demis-hassa...
+https://www.reuters.com/business/google-shakes-up-ai-leaders...
+https://www.discoveryloop.com/, https://news.ycombinator.com/item?id=49184960
+https://twitter.com/JeffDean/status/2085034604172603724, https://xcancel.com/JeffDean/status/2085034604172603724
+Comments URL: https://news.ycombinator.com/item?id=49184755
+Points: 534
+# Comments: 619]]></summary>
+        <author>
+            <name>colesantiago</name>
         </author>
     </entry>
     <entry>
@@ -2677,110 +2693,6 @@ Points: 512
 # Comments: 97]]></summary>
         <author>
             <name>speckx</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[30papers.com – Ilya's 30 essential ML papers, in a beginner friendly format]]></title>
-        <id>https://news.ycombinator.com/item?id=48819608</id>
-        <link href="https://30papers.com/"/>
-        <updated>2026-07-07T15:58:13.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://30papers.com/
-Comments URL: https://news.ycombinator.com/item?id=48819608
-Points: 538
-# Comments: 78]]></summary>
-        <author>
-            <name>notmcrowley</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft fire idTech team at Id software]]></title>
-        <id>https://news.ycombinator.com/item?id=48819244</id>
-        <link href="https://gamefromscratch.com/microsoft-fire-idtech-team-at-id-software/"/>
-        <updated>2026-07-07T15:33:20.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://gamefromscratch.com/microsoft-fire-idtech-team-at-id-software/
-Comments URL: https://news.ycombinator.com/item?id=48819244
-Points: 552
-# Comments: 502]]></summary>
-        <author>
-            <name>bauc</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chat Control passed first round in EU Parliament]]></title>
-        <id>https://news.ycombinator.com/item?id=48819008</id>
-        <link href="https://www.heise.de/en/news/Showdown-in-Strasbourg-The-unexpected-return-of-Chat-Control-1-0-11356680.html"/>
-        <updated>2026-07-07T15:16:15.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.heise.de/en/news/Showdown-in-Strasbourg-The-unexpected-return-of-Chat-Control-1-0-11356680.html
-Comments URL: https://news.ycombinator.com/item?id=48819008
-Points: 511
-# Comments: 223]]></summary>
-        <author>
-            <name>miroljub</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chat Control 1.0 and 2.0 Explained]]></title>
-        <id>https://news.ycombinator.com/item?id=48818311</id>
-        <link href="https://fightchatcontrol.eu/chat-control-overview"/>
-        <updated>2026-07-07T14:23:15.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://fightchatcontrol.eu/chat-control-overview
-Comments URL: https://news.ycombinator.com/item?id=48818311
-Points: 533
-# Comments: 171]]></summary>
-        <author>
-            <name>gasull</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[98% isn't much]]></title>
-        <id>https://news.ycombinator.com/item?id=48816959</id>
-        <link href="https://whynothugo.nl/journal/2026/07/03/98-isnt-very-much/"/>
-        <updated>2026-07-07T12:45:14.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://whynothugo.nl/journal/2026/07/03/98-isnt-very-much/
-Comments URL: https://news.ycombinator.com/item?id=48816959
-Points: 501
-# Comments: 330]]></summary>
-        <author>
-            <name>speckx</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A better way to tie gym shorts (or any drawstring) [video]]]></title>
-        <id>https://news.ycombinator.com/item?id=48816956</id>
-        <link href="https://www.youtube.com/watch?v=3R0Lp86GEBk"/>
-        <updated>2026-07-07T12:45:06.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.youtube.com/watch?v=3R0Lp86GEBk
-Comments URL: https://news.ycombinator.com/item?id=48816956
-Points: 505
-# Comments: 171]]></summary>
-        <author>
-            <name>surprisetalk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[StreetComplete: Fixing OpenStreetMap, one tiny quest at a time]]></title>
-        <id>https://news.ycombinator.com/item?id=48816883</id>
-        <link href="https://streetcomplete.app/"/>
-        <updated>2026-07-07T12:38:35.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://streetcomplete.app/
-Comments URL: https://news.ycombinator.com/item?id=48816883
-Points: 600
-# Comments: 138]]></summary>
-        <author>
-            <name>kls0e</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Viability of local models for coding]]></title>
-        <id>https://martinfowler.com/articles/exploring-gen-ai/local-models-for-coding-factors.html</id>
-        <link href="https://martinfowler.com/articles/exploring-gen-ai/local-models-for-coding-factors.html"/>
-        <updated>2026-07-07T12:34:00.000Z</updated>
-        <summary type="html"><![CDATA[Birgitta Böckeler recently spent some time trying out
-      running local LLMs for some programming tasks. In this memo she outlines the factors that
-      influence how viable they are for the job.
-more…]]></summary>
-        <author>
-            <name>Martin Fowler</name>
         </author>
     </entry>
     <entry>
