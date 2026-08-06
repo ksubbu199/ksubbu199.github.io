@@ -6,6 +6,36 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=49195231",
+          "author": "theanonymousone",
+          "description": "Article URL: https://www.mayerowitz.io/blog/mario-meets-pareto\nComments URL: https://news.ycombinator.com/item?id=49195231\nPoints: 838\n# Comments: 146",
+          "link": "https://www.mayerowitz.io/blog/mario-meets-pareto",
+          "publishedOn": "2026-08-06T11:24:53.000Z",
+          "wordCount": 923,
+          "title": "Mario Meets Pareto",
+          "imageUrl": "https://www.mayerowitz.io/SEO/mario-meets-pareto.png"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=49192566",
+          "author": "DarkContinent",
+          "description": "Article URL: https://www.crimepaysbutbotanydoesnt.com/reading-list\nComments URL: https://news.ycombinator.com/item?id=49192566\nPoints: 640\n# Comments: 200",
+          "link": "https://www.crimepaysbutbotanydoesnt.com/reading-list",
+          "publishedOn": "2026-08-06T04:46:35.000Z",
+          "wordCount": 2986,
+          "title": "Crime Pays but Botany Doesn't",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=49187256",
+          "author": "ahamez",
+          "description": "Article URL: https://zed.dev/deltadb\nComments URL: https://news.ycombinator.com/item?id=49187256\nPoints: 518\n# Comments: 301",
+          "link": "https://zed.dev/deltadb",
+          "publishedOn": "2026-08-05T18:52:54.000Z",
+          "wordCount": 11023,
+          "title": "Zed DeltaDB",
+          "imageUrl": "https://zed.dev/api/og?title=DeltaDB"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=49184960",
           "author": "xtreak29",
           "description": "Article URL: https://www.discoveryloop.com/\nComments URL: https://news.ycombinator.com/item?id=49184960\nPoints: 502\n# Comments: 307",
@@ -1574,26 +1604,6 @@
           "wordCount": 878,
           "title": "Chatto is now open source",
           "imageUrl": "https://hmans.dev/blog/chatto-is-open-source/banner.png"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=48829312",
-          "author": "speerer",
-          "description": "Article URL: https://tris.sherliker.net/blog/obfuscated-self-evaluating-bash-script-by-cdn-akamai-being-supplied-to-consumers-via-retail-stores/\nComments URL: https://news.ycombinator.com/item?id=48829312\nPoints: 955\n# Comments: 170",
-          "link": "https://tris.sherliker.net/blog/obfuscated-self-evaluating-bash-script-by-cdn-akamai-being-supplied-to-consumers-via-retail-stores/",
-          "publishedOn": "2026-07-08T08:46:06.000Z",
-          "wordCount": 1017,
-          "title": "Decoding the obfuscated bash script on a Uniqlo t-shirt",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=48827858",
-          "author": "ColinEberhardt",
-          "description": "Article URL: https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos/\nComments URL: https://news.ycombinator.com/item?id=48827858\nPoints: 532\n# Comments: 203",
-          "link": "https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos/",
-          "publishedOn": "2026-07-08T05:25:35.000Z",
-          "wordCount": 6315,
-          "title": "GitLost: We Tricked GitHub's AI Agent into Leaking Private Repos",
-          "imageUrl": null
         }
       ]
     },
@@ -1791,16 +1801,6 @@
           "wordCount": 2624,
           "title": "Fragments: July 13",
           "imageUrl": "https://martinfowler.com/logo-sq.png"
-        },
-        {
-          "id": "https://martinfowler.com/articles/exploring-gen-ai/local-models-for-coding-experiences.html",
-          "author": null,
-          "description": "Birgitta Böckeler now reports on her recent experiences\n      trying local models for coding. She compares them using two standard\n      tasks, and tries out the most promising model for day-to-day use.\nmore…",
-          "link": "https://martinfowler.com/articles/exploring-gen-ai/local-models-for-coding-experiences.html",
-          "publishedOn": "2026-07-08T11:57:00.000Z",
-          "wordCount": 2553,
-          "title": "Experiences with local models for coding",
-          "imageUrl": "https://martinfowler.com/articles/exploring-gen-ai/donkey-card.png"
         }
       ]
     },

@@ -2,10 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-08-06T15:12:56.827Z</updated>
+    <updated>2026-08-06T23:57:51.239Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Mario Meets Pareto]]></title>
+        <id>https://news.ycombinator.com/item?id=49195231</id>
+        <link href="https://www.mayerowitz.io/blog/mario-meets-pareto"/>
+        <updated>2026-08-06T11:24:53.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.mayerowitz.io/blog/mario-meets-pareto
+Comments URL: https://news.ycombinator.com/item?id=49195231
+Points: 838
+# Comments: 146]]></summary>
+        <author>
+            <name>theanonymousone</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Crime Pays but Botany Doesn't]]></title>
+        <id>https://news.ycombinator.com/item?id=49192566</id>
+        <link href="https://www.crimepaysbutbotanydoesnt.com/reading-list"/>
+        <updated>2026-08-06T04:46:35.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.crimepaysbutbotanydoesnt.com/reading-list
+Comments URL: https://news.ycombinator.com/item?id=49192566
+Points: 640
+# Comments: 200]]></summary>
+        <author>
+            <name>DarkContinent</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Dark mode toggles: two states are enough]]></title>
         <id>https://lea.verou.me/blog/2026/dark-mode-toggles/</id>
@@ -37,6 +63,19 @@ One is a policy (whatever my OS says, do that)
 The other is a value (dark, forever, I don’t car…]]></summary>
         <author>
             <name>Lea Verou’s blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Zed DeltaDB]]></title>
+        <id>https://news.ycombinator.com/item?id=49187256</id>
+        <link href="https://zed.dev/deltadb"/>
+        <updated>2026-08-05T18:52:54.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://zed.dev/deltadb
+Comments URL: https://news.ycombinator.com/item?id=49187256
+Points: 518
+# Comments: 301]]></summary>
+        <author>
+            <name>ahamez</name>
         </author>
     </entry>
     <entry>
@@ -2674,45 +2713,6 @@ Points: 1066
 # Comments: 290]]></summary>
         <author>
             <name>speckx</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Experiences with local models for coding]]></title>
-        <id>https://martinfowler.com/articles/exploring-gen-ai/local-models-for-coding-experiences.html</id>
-        <link href="https://martinfowler.com/articles/exploring-gen-ai/local-models-for-coding-experiences.html"/>
-        <updated>2026-07-08T11:57:00.000Z</updated>
-        <summary type="html"><![CDATA[Birgitta Böckeler now reports on her recent experiences
-      trying local models for coding. She compares them using two standard
-      tasks, and tries out the most promising model for day-to-day use.
-more…]]></summary>
-        <author>
-            <name>Martin Fowler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Decoding the obfuscated bash script on a Uniqlo t-shirt]]></title>
-        <id>https://news.ycombinator.com/item?id=48829312</id>
-        <link href="https://tris.sherliker.net/blog/obfuscated-self-evaluating-bash-script-by-cdn-akamai-being-supplied-to-consumers-via-retail-stores/"/>
-        <updated>2026-07-08T08:46:06.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://tris.sherliker.net/blog/obfuscated-self-evaluating-bash-script-by-cdn-akamai-being-supplied-to-consumers-via-retail-stores/
-Comments URL: https://news.ycombinator.com/item?id=48829312
-Points: 955
-# Comments: 170]]></summary>
-        <author>
-            <name>speerer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GitLost: We Tricked GitHub's AI Agent into Leaking Private Repos]]></title>
-        <id>https://news.ycombinator.com/item?id=48827858</id>
-        <link href="https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos/"/>
-        <updated>2026-07-08T05:25:35.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos/
-Comments URL: https://news.ycombinator.com/item?id=48827858
-Points: 532
-# Comments: 203]]></summary>
-        <author>
-            <name>ColinEberhardt</name>
         </author>
     </entry>
     <entry>
