@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-08-06T04:11:12.408Z</updated>
+    <updated>2026-08-06T07:38:36.872Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -42,6 +42,19 @@ Points: 534
         <updated>2026-08-05T15:05:24.000Z</updated>
         <author>
             <name>Think School</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cloudflare OS: an open platform for agents, apps, and work]]></title>
+        <id>https://news.ycombinator.com/item?id=49182996</id>
+        <link href="https://blog.cloudflare.com/cloudflare-os/"/>
+        <updated>2026-08-05T13:58:53.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://blog.cloudflare.com/cloudflare-os/
+Comments URL: https://news.ycombinator.com/item?id=49182996
+Points: 542
+# Comments: 263]]></summary>
+        <author>
+            <name>speckx</name>
         </author>
     </entry>
     <entry>
@@ -2680,19 +2693,6 @@ Points: 513
 # Comments: 673]]></summary>
         <author>
             <name>nickslaughter02</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Local, CPU-Friendly, High-Quality TTS (Text-to-Speech) with Kokoro]]></title>
-        <id>https://news.ycombinator.com/item?id=48821576</id>
-        <link href="https://ariya.io/2026/03/local-cpu-friendly-high-quality-tts-text-to-speech-with-kokoro/"/>
-        <updated>2026-07-07T18:24:10.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://ariya.io/2026/03/local-cpu-friendly-high-quality-tts-text-to-speech-with-kokoro/
-Comments URL: https://news.ycombinator.com/item?id=48821576
-Points: 512
-# Comments: 97]]></summary>
-        <author>
-            <name>speckx</name>
         </author>
     </entry>
     <entry>
