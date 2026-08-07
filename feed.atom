@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-08-07T13:01:37.804Z</updated>
+    <updated>2026-08-07T14:51:43.236Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[US strikes $1.2B deal to pay German firm to halt offshore wind projects]]></title>
+        <id>https://news.ycombinator.com/item?id=49208314</id>
+        <link href="https://www.bbc.com/news/articles/c1e1vg0gjl5o"/>
+        <updated>2026-08-07T10:28:55.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.bbc.com/news/articles/c1e1vg0gjl5o
+Comments URL: https://news.ycombinator.com/item?id=49208314
+Points: 625
+# Comments: 569]]></summary>
+        <author>
+            <name>defrost</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AMD acquires Taalas to boost inference performance by etching models in silicon]]></title>
         <id>https://news.ycombinator.com/item?id=49201970</id>
@@ -31,6 +44,19 @@ Points: 505
 # Comments: 319]]></summary>
         <author>
             <name>apitman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Taste Is All That's Left]]></title>
+        <id>https://news.ycombinator.com/item?id=49199346</id>
+        <link href="https://notashelf.dev/posts/taste-is-all-thats-left"/>
+        <updated>2026-08-06T17:01:33.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://notashelf.dev/posts/taste-is-all-thats-left
+Comments URL: https://news.ycombinator.com/item?id=49199346
+Points: 549
+# Comments: 413]]></summary>
+        <author>
+            <name>tsak</name>
         </author>
     </entry>
     <entry>
