@@ -1564,16 +1564,6 @@
           "wordCount": 1705,
           "title": "My thoughts on the Bun Rust rewrite",
           "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=48842459",
-          "author": "vforno",
-          "description": "A few days ago I found myself trying out GLM 5.2 and was really positively impressed. The capabilities and security I was getting from this LLM are similar to those I've gotten from models like Claude or GPT, and this really surprised me.\nBut then I thought, \"I wonder how it would work on a normal computer like mine,\" and above all, \"I wonder if it would work without going into OOM on a computer like mine.\" So I started working with the help of agents to test this possibility.\nI started converting the model to int4, understanding MTP usage, and if possible implementing DSA for long context. How it responds in int4 and whether the quality is maintained or not. Until I got to the point, on my computer with 32GB of RAM, I was able to communicate with GLM 5.2 with times that, of course, aren't…",
-          "link": "https://github.com/JustVugg/colibri",
-          "publishedOn": "2026-07-09T08:05:04.000Z",
-          "wordCount": 8122,
-          "title": "Show HN: Getting GLM 5.2 running on my slow computer",
-          "imageUrl": "https://opengraph.githubassets.com/79d7cdd1caa9ac781f2276d019f3438c66a878cd396934e4e789462a0e725557/JustVugg/colibri"
         }
       ]
     },

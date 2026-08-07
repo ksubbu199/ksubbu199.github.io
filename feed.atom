@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-08-07T19:52:03.058Z</updated>
+    <updated>2026-08-07T20:40:07.959Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -2658,18 +2658,6 @@ Points: 612
 # Comments: 523]]></summary>
         <author>
             <name>kristoff_it</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: Getting GLM 5.2 running on my slow computer]]></title>
-        <id>https://news.ycombinator.com/item?id=48842459</id>
-        <link href="https://github.com/JustVugg/colibri"/>
-        <updated>2026-07-09T08:05:04.000Z</updated>
-        <summary type="html"><![CDATA[A few days ago I found myself trying out GLM 5.2 and was really positively impressed. The capabilities and security I was getting from this LLM are similar to those I've gotten from models like Claude or GPT, and this really surprised me.
-But then I thought, "I wonder how it would work on a normal computer like mine," and above all, "I wonder if it would work without going into OOM on a computer like mine." So I started working with the help of agents to test this possibility.
-I started converting the model to int4, understanding MTP usage, and if possible implementing DSA for long context. How it responds in int4 and whether the quality is maintained or not. Until I got to the point, on my computer with 32GB of RAM, I was able to communicate with GLM 5.2 with times that, of course, aren't…]]></summary>
-        <author>
-            <name>vforno</name>
         </author>
     </entry>
     <entry>
