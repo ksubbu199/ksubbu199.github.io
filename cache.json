@@ -16,6 +16,16 @@
           "imageUrl": "https://image.theregister.com/5284365.jpg?imageId=5284365&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683"
         },
         {
+          "id": "https://news.ycombinator.com/item?id=49200652",
+          "author": "apitman",
+          "description": "Article URL: https://artificialanalysis.ai/?intelligence=agentic-index\nComments URL: https://news.ycombinator.com/item?id=49200652\nPoints: 505\n# Comments: 319",
+          "link": "https://artificialanalysis.ai/?intelligence=agentic-index",
+          "publishedOn": "2026-08-06T18:44:49.000Z",
+          "wordCount": 10620,
+          "title": "Qwen3.8 Max now ranked as the best overall model by agentic index",
+          "imageUrl": "https://artificialanalysis.ai/opengraph-image.png?732728ccc2829321"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=49195231",
           "author": "theanonymousone",
           "description": "Article URL: https://www.mayerowitz.io/blog/mario-meets-pareto\nComments URL: https://news.ycombinator.com/item?id=49195231\nPoints: 838\n# Comments: 146",
@@ -1544,26 +1554,6 @@
           "wordCount": 3176,
           "title": "Postgres rewritten in Rust, now passing 100% of the Postgres regression tests",
           "imageUrl": "https://opengraph.githubassets.com/2e33e066fec0b13f566d38215c194925032e56d0eee2d70d45cb39275ace0944/malisper/pgrust"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=48838876",
-          "author": "djoldman",
-          "description": "Article URL: https://apnews.com/article/john-deere-right-to-repair-agriculture-equipment-cb7514ffedb95c130a976af661f2bc02\nComments URL: https://news.ycombinator.com/item?id=48838876\nPoints: 1285\n# Comments: 267",
-          "link": "https://apnews.com/article/john-deere-right-to-repair-agriculture-equipment-cb7514ffedb95c130a976af661f2bc02",
-          "publishedOn": "2026-07-08T23:37:43.000Z",
-          "wordCount": 15175,
-          "title": "John Deere owners will get the right to repair equipment under FTC settlement",
-          "imageUrl": "https://dims.apnews.com/dims4/default/eb2d449/2147483647/strip/true/crop/4513x3007+0+162/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fca%2Fc8%2F5fff3b3e7c95ef4bbd4696383598%2F674e975157b745d28967fa953a18c3d4"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=48837877",
-          "author": "afturner",
-          "description": "Article URL: https://bun.com/blog/bun-in-rust\nComments URL: https://news.ycombinator.com/item?id=48837877\nPoints: 745\n# Comments: 481",
-          "link": "https://bun.com/blog/bun-in-rust",
-          "publishedOn": "2026-07-08T21:49:59.000Z",
-          "wordCount": 5898,
-          "title": "Rewriting Bun in Rust",
-          "imageUrl": null
         }
       ]
     },

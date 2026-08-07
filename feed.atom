@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-08-07T10:01:08.416Z</updated>
+    <updated>2026-08-07T11:43:38.892Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -18,6 +18,19 @@ Points: 526
 # Comments: 404]]></summary>
         <author>
             <name>itvision</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Qwen3.8 Max now ranked as the best overall model by agentic index]]></title>
+        <id>https://news.ycombinator.com/item?id=49200652</id>
+        <link href="https://artificialanalysis.ai/?intelligence=agentic-index"/>
+        <updated>2026-08-06T18:44:49.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://artificialanalysis.ai/?intelligence=agentic-index
+Comments URL: https://news.ycombinator.com/item?id=49200652
+Points: 505
+# Comments: 319]]></summary>
+        <author>
+            <name>apitman</name>
         </author>
     </entry>
     <entry>
@@ -2627,32 +2640,6 @@ Points: 599
 # Comments: 501]]></summary>
         <author>
             <name>SweetSoftPillow</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[John Deere owners will get the right to repair equipment under FTC settlement]]></title>
-        <id>https://news.ycombinator.com/item?id=48838876</id>
-        <link href="https://apnews.com/article/john-deere-right-to-repair-agriculture-equipment-cb7514ffedb95c130a976af661f2bc02"/>
-        <updated>2026-07-08T23:37:43.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://apnews.com/article/john-deere-right-to-repair-agriculture-equipment-cb7514ffedb95c130a976af661f2bc02
-Comments URL: https://news.ycombinator.com/item?id=48838876
-Points: 1285
-# Comments: 267]]></summary>
-        <author>
-            <name>djoldman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rewriting Bun in Rust]]></title>
-        <id>https://news.ycombinator.com/item?id=48837877</id>
-        <link href="https://bun.com/blog/bun-in-rust"/>
-        <updated>2026-07-08T21:49:59.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://bun.com/blog/bun-in-rust
-Comments URL: https://news.ycombinator.com/item?id=48837877
-Points: 745
-# Comments: 481]]></summary>
-        <author>
-            <name>afturner</name>
         </author>
     </entry>
     <entry>
