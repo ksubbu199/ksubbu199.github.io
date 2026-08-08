@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=49222189",
+          "author": "senko",
+          "description": "Article URL: https://blog.senko.net/code-was-never-the-hard-part-is-an-insult-to-all-programmers\nComments URL: https://news.ycombinator.com/item?id=49222189\nPoints: 509\n# Comments: 336",
+          "link": "https://blog.senko.net/code-was-never-the-hard-part-is-an-insult-to-all-programmers",
+          "publishedOn": "2026-08-08T14:32:33.000Z",
+          "wordCount": 1850,
+          "title": "“Code was never the hard part” is an insult to all programmers",
+          "imageUrl": "https://cdn.writeas.net/img/w-sq-light.png"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=49214008",
           "author": "tosh",
           "description": "Article URL: https://arcprize.org/results/deepseek-v4-flash-0731\nComments URL: https://news.ycombinator.com/item?id=49214008\nPoints: 529\n# Comments: 315",
@@ -1544,16 +1554,6 @@
           "wordCount": 1026,
           "title": "QuadRF can spot drones and see WiFi through my wall",
           "imageUrl": ""
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=48858121",
-          "author": "theanonymousone",
-          "description": "Article URL: https://www.gingerbill.org/article/2026/07/10/good-tools-are-invisible/\nComments URL: https://news.ycombinator.com/item?id=48858121\nPoints: 511\n# Comments: 230",
-          "link": "https://www.gingerbill.org/article/2026/07/10/good-tools-are-invisible/",
-          "publishedOn": "2026-07-10T10:32:41.000Z",
-          "wordCount": 1813,
-          "title": "Good Tools Are Invisible",
-          "imageUrl": null
         }
       ]
     },
