@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-08-08T19:29:21.307Z</updated>
+    <updated>2026-08-08T20:28:31.581Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -113,6 +113,19 @@ Points: 549
 # Comments: 413]]></summary>
         <author>
             <name>tsak</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GitHub Actions and Pages are experiencing degraded availability]]></title>
+        <id>https://news.ycombinator.com/item?id=49198302</id>
+        <link href="https://www.githubstatus.com/incidents/qcvjkzcs7j74"/>
+        <updated>2026-08-06T15:49:38.000Z</updated>
+        <summary type="html"><![CDATA[https://www.githubstatus.com/uptime/br0l2tvcx85d
+Comments URL: https://news.ycombinator.com/item?id=49198302
+Points: 501
+# Comments: 409]]></summary>
+        <author>
+            <name>Footkerchief</name>
         </author>
     </entry>
     <entry>
