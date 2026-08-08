@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-08-08T14:31:17.924Z</updated>
+    <updated>2026-08-08T15:28:50.049Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -17,6 +17,19 @@ Points: 529
 # Comments: 315]]></summary>
         <author>
             <name>tosh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Oracle bans AI-generated code from OpenJDK]]></title>
+        <id>https://news.ycombinator.com/item?id=49213754</id>
+        <link href="https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code"/>
+        <updated>2026-08-07T17:36:30.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code
+Comments URL: https://news.ycombinator.com/item?id=49213754
+Points: 501
+# Comments: 359]]></summary>
+        <author>
+            <name>delduca</name>
         </author>
     </entry>
     <entry>
