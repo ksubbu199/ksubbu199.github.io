@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=49224294",
+          "author": "theanonymousone",
+          "description": "Article URL: https://mezha.net/eng/bukvy/ca117584_denmark_requires_oral/\nComments URL: https://news.ycombinator.com/item?id=49224294\nPoints: 530\n# Comments: 248",
+          "link": "https://mezha.net/eng/bukvy/ca117584_denmark_requires_oral/",
+          "publishedOn": "2026-08-08T18:09:31.000Z",
+          "wordCount": null,
+          "title": "Danish high schoolers will have to verbally defend written assignments",
+          "imageUrl": null
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=49222189",
           "author": "senko",
           "description": "Article URL: https://blog.senko.net/code-was-never-the-hard-part-is-an-insult-to-all-programmers\nComments URL: https://news.ycombinator.com/item?id=49222189\nPoints: 509\n# Comments: 336",
@@ -2098,18 +2108,7 @@
       "title": "Hussein Nasser",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC_ML5xP23TOWKUcc-oAE_Eg",
       "siteUrl": "https://www.youtube.com/channel/UC_ML5xP23TOWKUcc-oAE_Eg",
-      "articles": [
-        {
-          "id": "https://www.youtube.com/watch?v=Tzt89dHF79Y",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=Tzt89dHF79Y",
-          "publishedOn": "2026-07-10T14:00:21.000Z",
-          "wordCount": null,
-          "title": "How a query optimization gave birth to Infinite scroll",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Lea Verou’s blog",
