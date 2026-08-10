@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-08-10T16:02:34.708Z</updated>
+    <updated>2026-08-10T17:50:24.603Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -17,6 +17,19 @@ Points: 617
 # Comments: 329]]></summary>
         <author>
             <name>riordan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Docker Sandboxes – Disposable, isolated sandboxes for AI agents]]></title>
+        <id>https://news.ycombinator.com/item?id=49239751</id>
+        <link href="https://www.docker.com/products/docker-sandboxes/"/>
+        <updated>2026-08-10T06:02:38.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.docker.com/products/docker-sandboxes/
+Comments URL: https://news.ycombinator.com/item?id=49239751
+Points: 513
+# Comments: 309]]></summary>
+        <author>
+            <name>etoxin</name>
         </author>
     </entry>
     <entry>
