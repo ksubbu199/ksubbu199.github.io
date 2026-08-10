@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-08-10T05:25:38.409Z</updated>
+    <updated>2026-08-10T07:39:14.224Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -33,6 +33,19 @@ Points: 511
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[My server is a phone now]]></title>
+        <id>https://news.ycombinator.com/item?id=49226636</id>
+        <link href="https://seg6.space/posts/phone-server/"/>
+        <updated>2026-08-08T22:49:23.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://seg6.space/posts/phone-server/
+Comments URL: https://news.ycombinator.com/item?id=49226636
+Points: 503
+# Comments: 239]]></summary>
+        <author>
+            <name>seg6</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Danish high schoolers will have to verbally defend written assignments]]></title>
         <id>https://news.ycombinator.com/item?id=49224294</id>
         <link href="https://mezha.net/eng/bukvy/ca117584_denmark_requires_oral/"/>
@@ -43,6 +56,19 @@ Points: 530
 # Comments: 248]]></summary>
         <author>
             <name>theanonymousone</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fastmail offers EU data region]]></title>
+        <id>https://news.ycombinator.com/item?id=49223082</id>
+        <link href="https://www.fastmail.com/blog/fastmail-offers-eu-data-region/"/>
+        <updated>2026-08-08T16:04:51.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.fastmail.com/blog/fastmail-offers-eu-data-region/
+Comments URL: https://news.ycombinator.com/item?id=49223082
+Points: 500
+# Comments: 290]]></summary>
+        <author>
+            <name>groomlake</name>
         </author>
     </entry>
     <entry>
