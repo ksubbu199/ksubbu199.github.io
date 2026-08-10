@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-08-10T14:57:32.183Z</updated>
+    <updated>2026-08-10T16:02:34.708Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Meta Muse Glimmer – open weights 30B local coding model]]></title>
+        <id>https://news.ycombinator.com/item?id=49241679</id>
+        <link href="https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model"/>
+        <updated>2026-08-10T10:10:02.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model
+Comments URL: https://news.ycombinator.com/item?id=49241679
+Points: 617
+# Comments: 329]]></summary>
+        <author>
+            <name>riordan</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How I use LLMs to learn complex topics]]></title>
         <id>https://news.ycombinator.com/item?id=49234675</id>
@@ -2597,19 +2610,6 @@ Points: 513
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>Think School</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What xAI's Grok build CLI sends to xAI: A wire-level analysis]]></title>
-        <id>https://news.ycombinator.com/item?id=48877371</id>
-        <link href="https://gist.github.com/cereblab/dc9a40bc26120f4540e4e09b75ffb547"/>
-        <updated>2026-07-12T01:09:50.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://gist.github.com/cereblab/dc9a40bc26120f4540e4e09b75ffb547
-Comments URL: https://news.ycombinator.com/item?id=48877371
-Points: 509
-# Comments: 190]]></summary>
-        <author>
-            <name>jhoho</name>
         </author>
     </entry>
     <entry>
