@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-08-11T13:02:59.390Z</updated>
+    <updated>2026-08-11T14:56:31.221Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -22,6 +22,19 @@ more…]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[France to ban unsolicited telemarketing calls]]></title>
+        <id>https://news.ycombinator.com/item?id=49254880</id>
+        <link href="https://www.lemonde.fr/en/france/article/2026/08/06/france-to-ban-unsolicited-telemarketing-calls-from-august-11_6756208_7.html"/>
+        <updated>2026-08-11T08:15:46.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.lemonde.fr/en/france/article/2026/08/06/france-to-ban-unsolicited-telemarketing-calls-from-august-11_6756208_7.html
+Comments URL: https://news.ycombinator.com/item?id=49254880
+Points: 686
+# Comments: 357]]></summary>
+        <author>
+            <name>aziaziazi</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[The UK's war on anonymity has come to America]]></title>
         <id>https://news.ycombinator.com/item?id=49251411</id>
         <link href="https://www.effort.news/uk-lobby"/>
@@ -32,6 +45,19 @@ Points: 510
 # Comments: 453]]></summary>
         <author>
             <name>slowin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[As AI eats the web, the internet’s collective memory is disappearing]]></title>
+        <id>https://news.ycombinator.com/item?id=49250836</id>
+        <link href="https://thewalrus.ca/google-search-is-dying/"/>
+        <updated>2026-08-10T22:36:30.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://thewalrus.ca/google-search-is-dying/
+Comments URL: https://news.ycombinator.com/item?id=49250836
+Points: 572
+# Comments: 658]]></summary>
+        <author>
+            <name>awnird</name>
         </author>
     </entry>
     <entry>
@@ -2604,22 +2630,6 @@ Points: 550
 # Comments: 331]]></summary>
         <author>
             <name>rakel_rakel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ask HN: Add flag for AI-generated articles]]></title>
-        <id>https://news.ycombinator.com/item?id=48886741</id>
-        <link href="https://news.ycombinator.com/item?id=48886741"/>
-        <updated>2026-07-13T01:24:20.000Z</updated>
-        <summary type="html"><![CDATA[Should HN add the ability to flag articles as AI-generated? This doesn't have to act as a regular flag, i.e., it won't de-rank the article; it could just show up as an indicator, allowing others (like myself) who don't like reading AI-generated text, to skip it.
-Open questions:
-1. Why is the regular voting system not enough?
-2. Should HN change in response to the gen AI era? It has been successful not changing fundamentals.
-Comments URL: https://news.ycombinator.com/item?id=48886741
-Points: 687
-# Comments: 311]]></summary>
-        <author>
-            <name>levkk</name>
         </author>
     </entry>
     <entry>
