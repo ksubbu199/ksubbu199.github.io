@@ -2,10 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-08-11T10:58:20.542Z</updated>
+    <updated>2026-08-11T11:49:34.857Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[TDD inside the agent loop - theater or actual value?]]></title>
+        <id>https://martinfowler.com/articles/exploring-gen-ai/tdd-in-the-agent-loop.html</id>
+        <link href="https://martinfowler.com/articles/exploring-gen-ai/tdd-in-the-agent-loop.html"/>
+        <updated>2026-08-11T11:39:00.000Z</updated>
+        <summary type="html"><![CDATA[My colleagues at Thoughtworks tend to be big fans of Test-Driven
+      Development, and many people in the industry advocate telling LLM agents
+      to use TDD when building software. Birgitta Böckeler was
+      curious if this really makes a difference, so conducted a few experiments.
+      
+more…]]></summary>
+        <author>
+            <name>Martin Fowler</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The UK's war on anonymity has come to America]]></title>
         <id>https://news.ycombinator.com/item?id=49251411</id>
