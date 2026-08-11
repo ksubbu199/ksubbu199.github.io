@@ -2124,16 +2124,6 @@
           "wordCount": 3036,
           "title": "Dark mode toggles: two states are enough",
           "imageUrl": "https://lea.verou.me/blog/2026/dark-mode-toggles/image.png"
-        },
-        {
-          "id": "https://lea.verou.me/blog/2026/polyfills/",
-          "author": null,
-          "description": "If you’re a web developer, you may find the title baffling.\n“Polyfills need defending? Who’s against them?!” you might ask.\nTwo weeks ago, I’d be in the same boat.\nPolyfills and I go way back.\nI dug up a JSConf EU talk of mine from 2011 on exactly this topic.\nOne of the few opinions I have held strongly over the years is that polyfills are a net positive for the Web, and the good outweighs the rare failure cases where polyfills became too popular, too soon, and restricted the design space for the native API.\nAs with most things in life, it’s all about the cost-benefit.\nWe don’t stop flying planes because crashes happen.\nWe do a post-mortem and figure out how we can prevent the same accident from happening again.\nAnd crucially, the point of a post-mortem is to find the root cause — not to g…",
-          "link": "https://lea.verou.me/blog/2026/polyfills/",
-          "publishedOn": "2026-07-13T00:00:00.000Z",
-          "wordCount": 4295,
-          "title": "In defense of polyfills",
-          "imageUrl": "https://lea.verou.me/blog/2026/polyfills/images/cover.png"
         }
       ]
     },

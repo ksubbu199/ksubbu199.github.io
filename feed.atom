@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-08-11T11:49:34.857Z</updated>
+    <updated>2026-08-11T13:02:59.390Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -2620,25 +2620,6 @@ Points: 687
 # Comments: 311]]></summary>
         <author>
             <name>levkk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[In defense of polyfills]]></title>
-        <id>https://lea.verou.me/blog/2026/polyfills/</id>
-        <link href="https://lea.verou.me/blog/2026/polyfills/"/>
-        <updated>2026-07-13T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[If you’re a web developer, you may find the title baffling.
-“Polyfills need defending? Who’s against them?!” you might ask.
-Two weeks ago, I’d be in the same boat.
-Polyfills and I go way back.
-I dug up a JSConf EU talk of mine from 2011 on exactly this topic.
-One of the few opinions I have held strongly over the years is that polyfills are a net positive for the Web, and the good outweighs the rare failure cases where polyfills became too popular, too soon, and restricted the design space for the native API.
-As with most things in life, it’s all about the cost-benefit.
-We don’t stop flying planes because crashes happen.
-We do a post-mortem and figure out how we can prevent the same accident from happening again.
-And crucially, the point of a post-mortem is to find the root cause — not to g…]]></summary>
-        <author>
-            <name>Lea Verou’s blog</name>
         </author>
     </entry>
     <entry>
