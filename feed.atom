@@ -2,10 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-08-12T01:53:35.736Z</updated>
+    <updated>2026-08-12T04:06:53.062Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Stealing Reasoning Traces from Proprietary LLM APIs]]></title>
+        <id>https://news.ycombinator.com/item?id=49257876</id>
+        <link href="https://stolen-thoughts.com/"/>
+        <updated>2026-08-11T13:22:00.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://stolen-thoughts.com/
+Comments URL: https://news.ycombinator.com/item?id=49257876
+Points: 539
+# Comments: 227]]></summary>
+        <author>
+            <name>quantumgarbage</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[England set to be one of the first countries to eliminate hepatitis C]]></title>
+        <id>https://news.ycombinator.com/item?id=49257377</id>
+        <link href="https://www.bbc.com/news/articles/c75gk620r22o"/>
+        <updated>2026-08-11T12:41:59.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.bbc.com/news/articles/c75gk620r22o
+Comments URL: https://news.ycombinator.com/item?id=49257377
+Points: 500
+# Comments: 361]]></summary>
+        <author>
+            <name>stevekemp</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[TDD inside the agent loop - theater or actual value?]]></title>
         <id>https://martinfowler.com/articles/exploring-gen-ai/tdd-in-the-agent-loop.html</id>
@@ -2579,32 +2605,6 @@ Points: 521
 # Comments: 221]]></summary>
         <author>
             <name>speckx</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Apple's new SpeechAnalyzer API, benchmarked against Whisper and its predecessor]]></title>
-        <id>https://news.ycombinator.com/item?id=48894752</id>
-        <link href="https://get-inscribe.com/blog/apple-speech-api-benchmark.html"/>
-        <updated>2026-07-13T16:06:08.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://get-inscribe.com/blog/apple-speech-api-benchmark.html
-Comments URL: https://news.ycombinator.com/item?id=48894752
-Points: 505
-# Comments: 198]]></summary>
-        <author>
-            <name>get-inscribe</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fragments: July 13]]></title>
-        <id>https://martinfowler.com/fragments/2026-07-13.html</id>
-        <link href="https://martinfowler.com/fragments/2026-07-13.html"/>
-        <updated>2026-07-13T16:06:00.000Z</updated>
-        <summary type="html"><![CDATA[Some more of my notes from Thoughtworks Future of Software Development Retreat.
-When we had our first retreat in Utah early this year, nobody had heard of Harness Engineering. This time we had a whole session on it.
-When comes to the guide side of harnesses, most of the discussion is about context management. While context windows have increased is size as models get more sophisticated, that doesn’t mean that models will properly focus on the right bits. Models typically only focus attention on part of the context, and to get the best behavior, we need to manage that focus. One attendee keeps their context small, limiting the agents.md file to less than 200 lines
-On the sensor side, we see more attention on computational sensors. Two patterns from one participant was shifting to languages …]]></summary>
-        <author>
-            <name>Martin Fowler</name>
         </author>
     </entry>
     <entry>
