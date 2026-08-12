@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-08-12T19:01:03.457Z</updated>
+    <updated>2026-08-12T20:03:10.208Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -13,6 +13,32 @@
         <updated>2026-08-12T15:19:20.000Z</updated>
         <author>
             <name>Think School</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tailscale Traces Database Corruption to 16y/o SQLite WAL-Reset Bug]]></title>
+        <id>https://news.ycombinator.com/item?id=49272832</id>
+        <link href="https://tailscale.com/blog/sqlite-wal-reset-bug"/>
+        <updated>2026-08-12T14:22:30.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://tailscale.com/blog/sqlite-wal-reset-bug
+Comments URL: https://news.ycombinator.com/item?id=49272832
+Points: 554
+# Comments: 92]]></summary>
+        <author>
+            <name>ropbear</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI is removing the middle class of software engineering]]></title>
+        <id>https://news.ycombinator.com/item?id=49271994</id>
+        <link href="https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html"/>
+        <updated>2026-08-12T13:20:05.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html
+Comments URL: https://news.ycombinator.com/item?id=49271994
+Points: 539
+# Comments: 452]]></summary>
+        <author>
+            <name>florianherrengt</name>
         </author>
     </entry>
     <entry>
@@ -52,6 +78,20 @@ Points: 500
 # Comments: 361]]></summary>
         <author>
             <name>stevekemp</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenAI’s head of ethics leaves less than a year after joining]]></title>
+        <id>https://news.ycombinator.com/item?id=49257160</id>
+        <link href="https://www.ft.com/content/e49dfb75-f841-4466-a577-f7aaff8779a0"/>
+        <updated>2026-08-11T12:23:07.000Z</updated>
+        <summary type="html"><![CDATA[https://archive.ph/W48UV
+https://aimagazine.com/news/why-did-openai-head-of-ethics-ch...
+Comments URL: https://news.ycombinator.com/item?id=49257160
+Points: 500
+# Comments: 466]]></summary>
+        <author>
+            <name>ilamont</name>
         </author>
     </entry>
     <entry>
