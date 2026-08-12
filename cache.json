@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=49274600",
+          "author": "explosion-s",
+          "description": "Article URL: https://openrouter.ai/deepseek/deepseek-v4-pro-0813\nComments URL: https://news.ycombinator.com/item?id=49274600\nPoints: 598\n# Comments: 215",
+          "link": "https://openrouter.ai/deepseek/deepseek-v4-pro-0813",
+          "publishedOn": "2026-08-12T16:04:50.000Z",
+          "wordCount": 2213,
+          "title": "DeepSeek V4 Pro 0813",
+          "imageUrl": "https://openrouter.ai/deepseek/deepseek-v4-pro-0813/opengraph-image-1oizug?abd1ffaa6102aa5f"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=49272832",
           "author": "ropbear",
           "description": "Article URL: https://tailscale.com/blog/sqlite-wal-reset-bug\nComments URL: https://news.ycombinator.com/item?id=49272832\nPoints: 554\n# Comments: 92",
@@ -1594,16 +1604,6 @@
           "wordCount": 458,
           "title": "How to stop Claude from saying load-bearing",
           "imageUrl": "https://jola.dev/images/og/posts/how-to-stop-claude-from-saying-load-bearing.png"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=48903777",
-          "author": "roundabout-host",
-          "description": "Article URL: https://github.com/eu-digital-identity-wallet/av-doc-technical-specification/discussions/19\nComments URL: https://news.ycombinator.com/item?id=48903777\nPoints: 528\n# Comments: 370",
-          "link": "https://github.com/eu-digital-identity-wallet/av-doc-technical-specification/discussions/19",
-          "publishedOn": "2026-07-14T08:34:57.000Z",
-          "wordCount": 6896,
-          "title": "European \"age verification\" \"app\" forcing everyone to use Android or iOS",
-          "imageUrl": "https://opengraph.githubassets.com/765a3603a941d2aa491cf3090385d274a42e453112e6ff90b4127d400e564e00/eu-digital-identity-wallet/av-doc-technical-specification/discussions/19"
         }
       ]
     },
