@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-08-13T01:55:58.416Z</updated>
+    <updated>2026-08-13T04:12:00.215Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -26,6 +26,19 @@ Points: 598
         <updated>2026-08-12T15:19:20.000Z</updated>
         <author>
             <name>Think School</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Qwen3.8-2.4T]]></title>
+        <id>https://news.ycombinator.com/item?id=49273478</id>
+        <link href="https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B"/>
+        <updated>2026-08-12T15:01:17.000Z</updated>
+        <summary type="html"><![CDATA[https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B-FP8
+Comments URL: https://news.ycombinator.com/item?id=49273478
+Points: 527
+# Comments: 116]]></summary>
+        <author>
+            <name>Philpax</name>
         </author>
     </entry>
     <entry>
@@ -2597,19 +2610,6 @@ Points: 514
 # Comments: 239]]></summary>
         <author>
             <name>cdrnsf</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Are we offloading too much of our thinking to AI?]]></title>
-        <id>https://news.ycombinator.com/item?id=48908178</id>
-        <link href="https://www.artfish.ai/p/offloading-thinking-to-ai"/>
-        <updated>2026-07-14T15:18:13.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.artfish.ai/p/offloading-thinking-to-ai
-Comments URL: https://news.ycombinator.com/item?id=48908178
-Points: 504
-# Comments: 458]]></summary>
-        <author>
-            <name>yenniejun111</name>
         </author>
     </entry>
     <entry>
