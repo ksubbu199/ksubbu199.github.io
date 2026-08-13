@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-08-13T20:41:25.861Z</updated>
+    <updated>2026-08-13T21:43:04.164Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -22,6 +22,20 @@
         <updated>2026-08-13T14:59:13.000Z</updated>
         <author>
             <name>Think School</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DeepSeek Harness developer preview]]></title>
+        <id>https://news.ycombinator.com/item?id=49285244</id>
+        <link href="https://deepseek.com/harness/en/"/>
+        <updated>2026-08-13T12:58:02.000Z</updated>
+        <summary type="html"><![CDATA[https://github.com/deepseek-ai/deepseek-harness
+https://deepseek-harness.github.io/deepseek-harness/en/guide...
+Comments URL: https://news.ycombinator.com/item?id=49285244
+Points: 506
+# Comments: 229]]></summary>
+        <author>
+            <name>bjin</name>
         </author>
     </entry>
     <entry>
