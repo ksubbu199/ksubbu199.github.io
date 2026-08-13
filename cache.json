@@ -1604,16 +1604,6 @@
           "wordCount": 5302,
           "title": "Are we offloading too much of our thinking to AI?",
           "imageUrl": "https://substackcdn.com/image/fetch/$s_!NTK9!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffb548edd-f827-4d19-aa23-3bd68fdc980c_1456x1092.webp"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=48905248",
-          "author": "shintoist",
-          "description": "Article URL: https://jola.dev/posts/how-to-stop-claude-from-saying-load-bearing\nComments URL: https://news.ycombinator.com/item?id=48905248\nPoints: 524\n# Comments: 551",
-          "link": "https://jola.dev/posts/how-to-stop-claude-from-saying-load-bearing",
-          "publishedOn": "2026-07-14T11:46:02.000Z",
-          "wordCount": 458,
-          "title": "How to stop Claude from saying load-bearing",
-          "imageUrl": "https://jola.dev/images/og/posts/how-to-stop-claude-from-saying-load-bearing.png"
         }
       ]
     },
@@ -1801,16 +1791,6 @@
           "wordCount": 5598,
           "title": "The Archaeologist’s Copilot",
           "imageUrl": "https://martinfowler.com/articles/archaeologist-copilot/card.png"
-        },
-        {
-          "id": "https://martinfowler.com/articles/llm-and-dsls.html",
-          "author": null,
-          "description": "LLMs generate code incredibly fast, but to ensure they generate\n      exactly what is intended, they need clear boundaries. Abstractions and\n      Domain-Specific Languages (DSLs) provide a strong harness that guides LLMs\n      right from the start. Unmesh Joshi describes how the example\n      of Tickloom - a domain model and DSL for illustrating distributed system\n      behavior - shows how we can use an LLM as a partner to iteratively build a\n      DSL and as a natural language interface to use it. Such a DSL can act as\n      the key source of truth for software systems in the world of LLMs. \nmore…",
-          "link": "https://martinfowler.com/articles/llm-and-dsls.html",
-          "publishedOn": "2026-07-14T12:51:00.000Z",
-          "wordCount": 3928,
-          "title": "DSLs Enable Reliable Use of LLMs",
-          "imageUrl": "https://martinfowler.com/logo-sq.png"
         }
       ]
     },
