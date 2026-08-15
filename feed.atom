@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-08-15T01:11:09.827Z</updated>
+    <updated>2026-08-15T02:51:13.834Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -2640,25 +2640,6 @@ Points: 559
 # Comments: 285]]></summary>
         <author>
             <name>vincent_s</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Archaeologist’s Copilot]]></title>
-        <id>https://martinfowler.com/articles/archaeologist-copilot.html</id>
-        <link href="https://martinfowler.com/articles/archaeologist-copilot.html"/>
-        <updated>2026-07-16T13:25:00.000Z</updated>
-        <summary type="html"><![CDATA[When people think of legacy modernization, most folks aren't imagining
-      the target environment will be Java 8. But this was the challenge facing
-      Nik Malykhin when he needed to run a Java 1.5 codebase on
-      today's hardware. His early use of LLMs gave plausible answers that did
-      not hold up in the codebase. Progress came when he grounded the process in
-      evidence, using AI to support analysis, validation in a stable Docker
-      environment, and gradual refactoring protected by tests. The main takeaway
-      is practical: AI was most useful when constrained by evidence, clear
-      roles, and a step-by-step modernization strategy.
-more…]]></summary>
-        <author>
-            <name>Martin Fowler</name>
         </author>
     </entry>
     <entry>

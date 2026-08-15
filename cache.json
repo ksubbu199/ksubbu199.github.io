@@ -1781,16 +1781,6 @@
           "wordCount": 2259,
           "title": "Fragments: July 21",
           "imageUrl": "https://martinfowler.com/logo-sq.png"
-        },
-        {
-          "id": "https://martinfowler.com/articles/archaeologist-copilot.html",
-          "author": null,
-          "description": "When people think of legacy modernization, most folks aren't imagining\n      the target environment will be Java 8. But this was the challenge facing\n      Nik Malykhin when he needed to run a Java 1.5 codebase on\n      today's hardware. His early use of LLMs gave plausible answers that did\n      not hold up in the codebase. Progress came when he grounded the process in\n      evidence, using AI to support analysis, validation in a stable Docker\n      environment, and gradual refactoring protected by tests. The main takeaway\n      is practical: AI was most useful when constrained by evidence, clear\n      roles, and a step-by-step modernization strategy.\nmore…",
-          "link": "https://martinfowler.com/articles/archaeologist-copilot.html",
-          "publishedOn": "2026-07-16T13:25:00.000Z",
-          "wordCount": 5598,
-          "title": "The Archaeologist’s Copilot",
-          "imageUrl": "https://martinfowler.com/articles/archaeologist-copilot/card.png"
         }
       ]
     },
