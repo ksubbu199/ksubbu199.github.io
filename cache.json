@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=49303202",
+          "author": "DemiGuru",
+          "description": "Article URL: https://www.pcworld.com/article/3212428/firefox-is-now-the-last-major-browser-that-still-supports-ublock-origin.html\nComments URL: https://news.ycombinator.com/item?id=49303202\nPoints: 524\n# Comments: 195",
+          "link": "https://www.pcworld.com/article/3212428/firefox-is-now-the-last-major-browser-that-still-supports-ublock-origin.html",
+          "publishedOn": "2026-08-14T19:03:20.000Z",
+          "wordCount": 6785,
+          "title": "Firefox is now the last major browser that still supports uBlock Origin",
+          "imageUrl": "https://www.pcworld.com/wp-content/uploads/2026/08/3212428-0-62401400-1786636364-Firefox-foto-mozilla.png?w=1024"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=49299605",
           "author": "erdaltoprak",
           "description": "Article URL: https://huggingface.co/Qwen/Qwen3.8-27B-FP8\nComments URL: https://news.ycombinator.com/item?id=49299605\nPoints: 549\n# Comments: 367",
@@ -1584,26 +1594,6 @@
           "wordCount": 6076,
           "title": "Microsoft Comic Chat is now open source",
           "imageUrl": "https://opensource.microsoft.com/blog/wp-content/uploads/2026/07/Microsoft365-FY26-Consumer-C2-ArtStudio-2749-RGB-scaled.jpg"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=48935342",
-          "author": "vincent_s",
-          "description": "https://www.kimi.com/en\nKimi K3 Intelligence, Performance & Price Analysis: https://artificialanalysis.ai/models/kimi-k3\nComments URL: https://news.ycombinator.com/item?id=48935342\nPoints: 882\n# Comments: 526",
-          "link": "https://www.kimi.com/blog/kimi-k3",
-          "publishedOn": "2026-07-16T14:46:05.000Z",
-          "wordCount": 5683,
-          "title": "Kimi K3: Open Frontier Intelligence",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=48935342",
-          "author": "vincent_s",
-          "description": "Article URL: https://www.kimi.com/en\nComments URL: https://news.ycombinator.com/item?id=48935342\nPoints: 559\n# Comments: 285",
-          "link": "https://www.kimi.com/en",
-          "publishedOn": "2026-07-16T14:46:05.000Z",
-          "wordCount": 281,
-          "title": "Kimi K3 is now live",
-          "imageUrl": null
         }
       ]
     },
