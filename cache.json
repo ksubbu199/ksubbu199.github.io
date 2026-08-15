@@ -1664,16 +1664,6 @@
           "wordCount": 1641,
           "title": "Some more things about Django I've been enjoying",
           "imageUrl": null
-        },
-        {
-          "id": "https://jvns.ca/blog/2026/07/17/learning-about-running-sqlite/",
-          "author": null,
-          "description": "Hello! I’ve been working on a Django site recently, and I decided to use SQLite\nas the database.\nWhen I was getting started with using SQLite as database for a website I read a bunch\nof blog posts about how it is totally fine to use SQLite in production for a\nsmall site and I think it is totally fine, but what I did not fully appreciate\nis that SQLite is still a database, databases are complicated, and I do not know\na lot about operating databases.\nSo here are a couple of small things I’ve been learning about running SQLite. This\nis the 4th website I’ve used SQLite for, and I think this one is harder because\nwith the power of the Django ORM I’ve been making the database do more work than\nI was previously without Django.\nI started by turning on WAL mode like all the blog posts said to do an…",
-          "link": "https://jvns.ca/blog/2026/07/17/learning-about-running-sqlite/",
-          "publishedOn": "2026-07-17T00:00:00.000Z",
-          "wordCount": 1222,
-          "title": "Learning a few things about running SQLite",
-          "imageUrl": null
         }
       ]
     },
