@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-08-15T04:29:42.433Z</updated>
+    <updated>2026-08-15T05:23:14.718Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -2581,16 +2581,6 @@ I was previously without Django.
 I started by turning on WAL mode like all the blog posts said to do an…]]></summary>
         <author>
             <name>Julia Evans</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Pulse: What can we learn from Bun’s rapid Rust rewrite with AI?]]></title>
-        <id>6a58cdde676a90000149edb3</id>
-        <link href="https://blog.pragmaticengineer.com/the-pulse-what-can-we-learn-from-buns-rapid-rust-rewrite-with-ai/"/>
-        <updated>2026-07-16T16:50:20.000Z</updated>
-        <summary type="html"><![CDATA[To a sceptic, spending $165K to migrate Bun from Zig to Rust sounds very expensive. But to a realist, shortening a 1-2 year migration down to 11 days opens amazing new opportunities for devs. However, a thoroughly-tested project is required to pull it off.]]></summary>
-        <author>
-            <name>Ivan Klaric</name>
         </author>
     </entry>
     <entry>
