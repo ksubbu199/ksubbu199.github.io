@@ -6,6 +6,26 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=49319633",
+          "author": "pentagrama",
+          "description": "Article URL: https://support.mozilla.org/en-US/kb/block-ads-firefox-ios\nComments URL: https://news.ycombinator.com/item?id=49319633\nPoints: 525\n# Comments: 217",
+          "link": "https://support.mozilla.org/en-US/kb/block-ads-firefox-ios",
+          "publishedOn": "2026-08-16T12:58:10.000Z",
+          "wordCount": 177,
+          "title": "Firefox for iOS now has a native adblocker",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=49319556",
+          "author": "tosh",
+          "description": "Article URL: https://platform.claude.com/docs/en/release-notes/system-prompts\nComments URL: https://news.ycombinator.com/item?id=49319556\nPoints: 526\n# Comments: 222",
+          "link": "https://platform.claude.com/docs/en/release-notes/system-prompts",
+          "publishedOn": "2026-08-16T12:48:21.000Z",
+          "wordCount": 110870,
+          "title": "Claude: System Prompts",
+          "imageUrl": "https://platform.claude.com/docs/og?locale=en&path=release-notes/system-prompts&design-rev=1"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=49312845",
           "author": "rzk",
           "description": "Article URL: https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians\nComments URL: https://news.ycombinator.com/item?id=49312845\nPoints: 500\n# Comments: 421",
@@ -1524,16 +1544,6 @@
           "wordCount": 567,
           "title": "The Kimi K3 Moment",
           "imageUrl": "https://stephen.bochinski.dev/assets/posts/2026-07-18-the-kimi-k3-moment.png"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=48957779",
-          "author": "mbustamanter",
-          "description": "Article URL: https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a/\nComments URL: https://news.ycombinator.com/item?id=48957779\nPoints: 533\n# Comments: 343",
-          "link": "https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a/",
-          "publishedOn": "2026-07-18T13:00:52.000Z",
-          "wordCount": null,
-          "title": "GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
-          "imageUrl": null
         }
       ]
     },
@@ -2000,16 +2010,6 @@
           "publishedOn": "2026-07-18T15:56:21.000Z",
           "wordCount": 3479,
           "title": "Why Elon Musk Wants to Bomb Mars",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=RrXFEGK1bQU",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=RrXFEGK1bQU",
-          "publishedOn": "2026-07-18T13:07:27.000Z",
-          "wordCount": null,
-          "title": "India's SpaceX Moment : How 2 Ex-ISRO Scientists Found a Billion-Dollar Gap in Elon's Empire",
           "imageUrl": null
         }
       ]
