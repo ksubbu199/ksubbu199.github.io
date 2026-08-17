@@ -16,6 +16,16 @@
           "imageUrl": "https://static.simonwillison.net/static/2026/qwen-thinking-bicycle-27b.jpg"
         },
         {
+          "id": "https://news.ycombinator.com/item?id=49324087",
+          "author": "ropbear",
+          "description": "Article URL: https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing\nComments URL: https://news.ycombinator.com/item?id=49324087\nPoints: 510\n# Comments: 460",
+          "link": "https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing",
+          "publishedOn": "2026-08-16T21:53:43.000Z",
+          "wordCount": 4801,
+          "title": "Anthropic's 'watermark' text adulteration in Claude is a perversion of writing",
+          "imageUrl": "https://daringfireball.net/graphics/df-wide-card.png"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=49322107",
           "author": "stagas",
           "description": "A few hours ago I switched my nameservers to Cloudflare in order to enable R2 bucket serving through my own subdomain, and I found out that it silently had injected a JS analytics snippet in my HTML-only JS-free site textlog.cc — I had to go to the Analytics dashboard, Add the site to the analytics and then disable the snippet. I find this approach entirely invasive, you should opt-in to features like that not have to opt-out. Just a warning out there to folks who might not be aware of this.\nComments URL: https://news.ycombinator.com/item?id=49322107\nPoints: 517\n# Comments: 143",
