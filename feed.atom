@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-08-17T08:42:03.532Z</updated>
+    <updated>2026-08-17T09:40:31.469Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[A third world engineer responds to “RISC-V: They should have known better”]]></title>
+        <id>https://news.ycombinator.com/item?id=49321717</id>
+        <link href="https://rvembedded.com/blog_post/12/"/>
+        <updated>2026-08-16T17:01:07.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://rvembedded.com/blog_post/12/
+Comments URL: https://news.ycombinator.com/item?id=49321717
+Points: 502
+# Comments: 266]]></summary>
+        <author>
+            <name>Narishma</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Firefox for iOS now has a native adblocker]]></title>
         <id>https://news.ycombinator.com/item?id=49319633</id>
