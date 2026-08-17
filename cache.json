@@ -6,6 +6,26 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=49324985",
+          "author": "bilsbie",
+          "description": "Article URL: https://simonwillison.net/2026/Aug/16/qwen-38-27b/\nComments URL: https://news.ycombinator.com/item?id=49324985\nPoints: 501\n# Comments: 230",
+          "link": "https://simonwillison.net/2026/Aug/16/qwen-38-27b/",
+          "publishedOn": "2026-08-16T23:45:09.000Z",
+          "wordCount": 2917,
+          "title": "Qwen 3.8 27B is excellent, but it defaults to overthinking things",
+          "imageUrl": "https://static.simonwillison.net/static/2026/qwen-thinking-bicycle-27b.jpg"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=49322107",
+          "author": "stagas",
+          "description": "A few hours ago I switched my nameservers to Cloudflare in order to enable R2 bucket serving through my own subdomain, and I found out that it silently had injected a JS analytics snippet in my HTML-only JS-free site textlog.cc — I had to go to the Analytics dashboard, Add the site to the analytics and then disable the snippet. I find this approach entirely invasive, you should opt-in to features like that not have to opt-out. Just a warning out there to folks who might not be aware of this.\nComments URL: https://news.ycombinator.com/item?id=49322107\nPoints: 517\n# Comments: 143",
+          "link": "https://news.ycombinator.com/item?id=49322107",
+          "publishedOn": "2026-08-16T17:49:46.000Z",
+          "wordCount": 7405,
+          "title": "Tell HN: Cloudflare silently injects its analytics when you switch nameservers",
+          "imageUrl": null
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=49321717",
           "author": "Narishma",
           "description": "Article URL: https://rvembedded.com/blog_post/12/\nComments URL: https://news.ycombinator.com/item?id=49321717\nPoints: 502\n# Comments: 266",
@@ -1534,16 +1554,6 @@
           "wordCount": 1437,
           "title": "Transcribe.cpp",
           "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=48962983",
-          "author": "gnabgib",
-          "description": "Article URL: https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties/\nComments URL: https://news.ycombinator.com/item?id=48962983\nPoints: 508\n# Comments: 220",
-          "link": "https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties/",
-          "publishedOn": "2026-07-18T22:13:39.000Z",
-          "wordCount": 1427,
-          "title": "NYC may require landlords and realtors to disclose the use of AI in listings",
-          "imageUrl": "https://petapixel.com/assets/uploads/2026/07/mamdani-copy.jpg"
         }
       ]
     },
