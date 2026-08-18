@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-08-18T17:25:19.504Z</updated>
+    <updated>2026-08-18T18:37:04.168Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -17,6 +17,19 @@ Happily she’s starting writing “Rachel’s Ramblings”
 Fast, imperfect, thinking…]]></summary>
         <author>
             <name>Martin Fowler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Amazon tax]]></title>
+        <id>https://news.ycombinator.com/item?id=49345263</id>
+        <link href="https://seths.blog/2026/08/the-amazon-tax/"/>
+        <updated>2026-08-18T13:22:38.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://seths.blog/2026/08/the-amazon-tax/
+Comments URL: https://news.ycombinator.com/item?id=49345263
+Points: 540
+# Comments: 377]]></summary>
+        <author>
+            <name>herbertl</name>
         </author>
     </entry>
     <entry>
@@ -229,6 +242,19 @@ Points: 500
 # Comments: 421]]></summary>
         <author>
             <name>rzk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Semaglutide linked to lower predicted dementia risk]]></title>
+        <id>https://news.ycombinator.com/item?id=49311651</id>
+        <link href="https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/dad2.70432"/>
+        <updated>2026-08-15T15:58:53.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/dad2.70432
+Comments URL: https://news.ycombinator.com/item?id=49311651
+Points: 500
+# Comments: 397]]></summary>
+        <author>
+            <name>randycupertino</name>
         </author>
     </entry>
     <entry>
