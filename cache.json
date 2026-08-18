@@ -6,6 +6,26 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=49336573",
+          "author": "mooreds",
+          "description": "Article URL: https://www.rickmanelius.com/p/aidr-ai-didnt-read\nComments URL: https://news.ycombinator.com/item?id=49336573\nPoints: 564\n# Comments: 356",
+          "link": "https://www.rickmanelius.com/p/aidr-ai-didnt-read",
+          "publishedOn": "2026-08-17T19:47:15.000Z",
+          "wordCount": 1947,
+          "title": "AI;DR (AI; Didn't Read)",
+          "imageUrl": "https://substackcdn.com/image/fetch/$s_!v6i6!,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Frickmanelius.substack.com%2Ftwitter%2Fsubscribe-card.jpg%3Fv%3D-1034328908%26version%3D9"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=49330781",
+          "author": "ibotty",
+          "description": "Article URL: https://duckdb.org/2026/08/17/duckdb-20-highlights\nComments URL: https://news.ycombinator.com/item?id=49330781\nPoints: 524\n# Comments: 93",
+          "link": "https://duckdb.org/2026/08/17/duckdb-20-highlights",
+          "publishedOn": "2026-08-17T13:46:27.000Z",
+          "wordCount": 3207,
+          "title": "A Preview of DuckDB v2.0",
+          "imageUrl": "https://duckdb.org/images/blog/thumbs/duckdb-preview-2-0.png"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=49330684",
           "author": "kevcampb",
           "description": "Article URL: https://www.githubstatus.com/incidents/zkxwbgr0cnmx\nComments URL: https://news.ycombinator.com/item?id=49330684\nPoints: 661\n# Comments: 474",
@@ -1533,16 +1553,6 @@
           "publishedOn": "2026-07-19T14:41:16.000Z",
           "wordCount": 4920,
           "title": "Show HN: I replaced a $120k bowling center system with $1,600 in ESP32s",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=48966713",
-          "author": "chipweinberger",
-          "description": "Article URL: https://chipweinberger.com/articles/20260719-hardware-is-not-so-hard\nComments URL: https://news.ycombinator.com/item?id=48966713\nPoints: 517\n# Comments: 235",
-          "link": "https://chipweinberger.com/articles/20260719-hardware-is-not-so-hard",
-          "publishedOn": "2026-07-19T10:34:58.000Z",
-          "wordCount": 844,
-          "title": "What I learned selling 2,500 MIDI recorders: Hardware is not so hard",
           "imageUrl": null
         }
       ]
