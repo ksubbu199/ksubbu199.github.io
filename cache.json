@@ -1574,16 +1574,6 @@
           "wordCount": 998,
           "title": "Xiaomi-Robotics-1",
           "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=48973869",
-          "author": "loubbrad",
-          "description": "Article URL: https://xcancel.com/__alpoge__/status/2079028340955197566\nComments URL: https://news.ycombinator.com/item?id=48973869\nPoints: 500\n# Comments: 322",
-          "link": "https://xcancel.com/__alpoge__/status/2079028340955197566",
-          "publishedOn": "2026-07-20T02:51:16.000Z",
-          "wordCount": null,
-          "title": "Claude Fable produced a counterexample to the Jacobian Conjecture",
-          "imageUrl": null
         }
       ]
     },
@@ -1682,6 +1672,16 @@
       "feedUrl": "https://martinfowler.com/feed.atom",
       "siteUrl": "https://martinfowler.com/feed.atom",
       "articles": [
+        {
+          "id": "https://martinfowler.com/fragments/2026-08-18.html",
+          "author": null,
+          "description": "Part of the reason why I’m at Thoughtworks is because I’d like to see a software development organization founded on technical excellence as an example for the rest of the industry. The trouble is that I have little aptitude or inclination for the hard work of building such an organization. So I rely on working with people who are prepared to actually put the effort in. A key partner in all of this is Rachel Laycock, who is the global CTO of Thoughtworks.\nNot just is she far better than me at running a technology organization, she’s also a keen observer and connector of ideas. I’ve been urging her to write these down, even if her busy schedule makes it difficult for her to compose them into something substantial.\nHappily she’s starting writing “Rachel’s Ramblings”\nFast, imperfect, thinking…",
+          "link": "https://martinfowler.com/fragments/2026-08-18.html",
+          "publishedOn": "2026-08-18T15:04:00.000Z",
+          "wordCount": 1872,
+          "title": "Fragments: August 18",
+          "imageUrl": "https://martinfowler.com/logo-sq.png"
+        },
         {
           "id": "https://martinfowler.com/articles/exploring-gen-ai/tdd-in-the-agent-loop.html",
           "author": null,
