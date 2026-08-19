@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-08-18T23:21:02.498Z</updated>
+    <updated>2026-08-19T01:11:47.678Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -53,6 +53,19 @@ Points: 518
 # Comments: 357]]></summary>
         <author>
             <name>pseudolus</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linux 7.3 improves performance when running out of vRAM]]></title>
+        <id>https://news.ycombinator.com/item?id=49342719</id>
+        <link href="https://pixelcluster.dev/VRAM-Overcommit/"/>
+        <updated>2026-08-18T07:51:50.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://pixelcluster.dev/VRAM-Overcommit/
+Comments URL: https://news.ycombinator.com/item?id=49342719
+Points: 507
+# Comments: 270]]></summary>
+        <author>
+            <name>flaburgan</name>
         </author>
     </entry>
     <entry>
@@ -2555,19 +2568,6 @@ Points: 538
 # Comments: 301]]></summary>
         <author>
             <name>speckx</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The EU is about to sell our most sensitive data to the US for visa-free travel]]></title>
-        <id>https://news.ycombinator.com/item?id=48977711</id>
-        <link href="https://edri.org/our-work/the-eu-is-about-to-sell-our-most-sensitive-data-to-the-us-for-visa-free-travel/"/>
-        <updated>2026-07-20T12:14:08.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://edri.org/our-work/the-eu-is-about-to-sell-our-most-sensitive-data-to-the-us-for-visa-free-travel/
-Comments URL: https://news.ycombinator.com/item?id=48977711
-Points: 500
-# Comments: 301]]></summary>
-        <author>
-            <name>rapnie</name>
         </author>
     </entry>
     <entry>
