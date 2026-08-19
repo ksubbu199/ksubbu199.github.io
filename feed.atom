@@ -2,10 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-08-19T18:33:46.380Z</updated>
+    <updated>2026-08-19T19:23:40.077Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Citizens Build, Agents Execute, Experts Govern]]></title>
+        <id>https://martinfowler.com/rachels-ramblings/citizens-agents-experts.html</id>
+        <link href="https://martinfowler.com/rachels-ramblings/citizens-agents-experts.html"/>
+        <updated>2026-08-19T18:30:00.000Z</updated>
+        <summary type="html"><![CDATA[TL;DR
+Why building an app over the weekend isn't the same as building enterprise software
+
+I’ve noticed an interesting gap opening up over the last six months. It isn’t really a gap in technology. It’s a gap in what different people think software engineering actually is.
+The conversation usually starts the same way. A non-techie, maybe an executive, tells me about something they’ve built over the weekend. Sometimes it’s a chatbot. Sometimes it’s an internal workflow. Sometimes it’s a surprisingly polished application that solves a real business problem. They’re excited, and they should be. Twelve months ago they probably couldn’t have built it at all. Then comes the question.
+“If AI can do this now, why aren’t our engineering teams delivering ten times faster?”
+It’s a perfectly reasonable…]]></summary>
+        <author>
+            <name>Martin Fowler</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Practitioner Voice: The Writing Category Nobody has Named Yet]]></title>
         <id>https://martinfowler.com/articles/practitioner-voice.html</id>
@@ -37,6 +53,32 @@ more…]]></summary>
         <updated>2026-08-19T13:00:33.000Z</updated>
         <author>
             <name>Think School</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Devices with GrapheneOS support should be available in 2027]]></title>
+        <id>https://news.ycombinator.com/item?id=49360242</id>
+        <link href="https://grapheneos.social/@GrapheneOS/117078064184215730"/>
+        <updated>2026-08-19T11:46:58.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://grapheneos.social/@GrapheneOS/117078064184215730
+Comments URL: https://news.ycombinator.com/item?id=49360242
+Points: 519
+# Comments: 321]]></summary>
+        <author>
+            <name>exceptione</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A joke domain purchase turned in geopolitical warfare]]></title>
+        <id>https://news.ycombinator.com/item?id=49360015</id>
+        <link href="https://sprocketfox.io/xssfox/2026/08/19/sondehub-and-war/"/>
+        <updated>2026-08-19T11:21:50.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://sprocketfox.io/xssfox/2026/08/19/sondehub-and-war/
+Comments URL: https://news.ycombinator.com/item?id=49360015
+Points: 517
+# Comments: 67]]></summary>
+        <author>
+            <name>kareiva</name>
         </author>
     </entry>
     <entry>

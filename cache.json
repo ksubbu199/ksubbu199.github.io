@@ -6,6 +6,26 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=49360242",
+          "author": "exceptione",
+          "description": "Article URL: https://grapheneos.social/@GrapheneOS/117078064184215730\nComments URL: https://news.ycombinator.com/item?id=49360242\nPoints: 519\n# Comments: 321",
+          "link": "https://grapheneos.social/@GrapheneOS/117078064184215730",
+          "publishedOn": "2026-08-19T11:46:58.000Z",
+          "wordCount": 291,
+          "title": "Devices with GrapheneOS support should be available in 2027",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=49360015",
+          "author": "kareiva",
+          "description": "Article URL: https://sprocketfox.io/xssfox/2026/08/19/sondehub-and-war/\nComments URL: https://news.ycombinator.com/item?id=49360015\nPoints: 517\n# Comments: 67",
+          "link": "https://sprocketfox.io/xssfox/2026/08/19/sondehub-and-war/",
+          "publishedOn": "2026-08-19T11:21:50.000Z",
+          "wordCount": 2390,
+          "title": "A joke domain purchase turned in geopolitical warfare",
+          "imageUrl": "https://sprocketfox.io/xssfox/images/war.png"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=49355606",
           "author": "amatheus",
           "description": "Article URL: https://openlogi.org/en\nComments URL: https://news.ycombinator.com/item?id=49355606\nPoints: 609\n# Comments: 160",
@@ -1671,6 +1691,16 @@
       "feedUrl": "https://martinfowler.com/feed.atom",
       "siteUrl": "https://martinfowler.com/feed.atom",
       "articles": [
+        {
+          "id": "https://martinfowler.com/rachels-ramblings/citizens-agents-experts.html",
+          "author": null,
+          "description": "TL;DR\nWhy building an app over the weekend isn't the same as building enterprise software\n\nI’ve noticed an interesting gap opening up over the last six months. It isn’t really a gap in technology. It’s a gap in what different people think software engineering actually is.\nThe conversation usually starts the same way. A non-techie, maybe an executive, tells me about something they’ve built over the weekend. Sometimes it’s a chatbot. Sometimes it’s an internal workflow. Sometimes it’s a surprisingly polished application that solves a real business problem. They’re excited, and they should be. Twelve months ago they probably couldn’t have built it at all. Then comes the question.\n“If AI can do this now, why aren’t our engineering teams delivering ten times faster?”\nIt’s a perfectly reasonable…",
+          "link": "https://martinfowler.com/rachels-ramblings/citizens-agents-experts.html",
+          "publishedOn": "2026-08-19T18:30:00.000Z",
+          "wordCount": 1399,
+          "title": "Citizens Build, Agents Execute, Experts Govern",
+          "imageUrl": "https://martinfowler.com/rachels-ramblings/card.png"
+        },
         {
           "id": "https://martinfowler.com/articles/practitioner-voice.html",
           "author": null,
