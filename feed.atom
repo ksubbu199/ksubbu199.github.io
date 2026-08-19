@@ -2,10 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-08-19T17:25:44.364Z</updated>
+    <updated>2026-08-19T18:33:46.380Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Practitioner Voice: The Writing Category Nobody has Named Yet]]></title>
+        <id>https://martinfowler.com/articles/practitioner-voice.html</id>
+        <link href="https://martinfowler.com/articles/practitioner-voice.html"/>
+        <updated>2026-08-19T18:15:00.000Z</updated>
+        <summary type="html"><![CDATA[Jim Highsmith recognizes that effective writing from a practitioner is
+      a style distinct from academic writing or thought-leadership content. It's
+      a style that I advocate, and my contributors mostly follow. Jim decided it
+      was important to give it a name, and identify what makes it distinctive.
+more…]]></summary>
+        <author>
+            <name>Martin Fowler</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Pulse: Grok’s CLI caught uploading all your local files to the cloud]]></title>
         <id>6a85ba5c1b8a5e00015742b1</id>
