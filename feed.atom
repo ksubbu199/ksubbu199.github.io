@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-08-19T13:43:01.010Z</updated>
+    <updated>2026-08-19T14:32:47.446Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The Pulse: Grok’s CLI caught uploading all your local files to the cloud]]></title>
+        <id>6a85ba5c1b8a5e00015742b1</id>
+        <link href="https://blog.pragmaticengineer.com/grolk-cli-uploaded-all-your-files-to-the-cloud/"/>
+        <updated>2026-08-19T14:21:33.000Z</updated>
+        <summary type="html"><![CDATA[Devs discover that Grok CLI pushed all local files, .env files and git history have been pushed to a GCP bucket, unencrypted. SpaceX’s initial reaction? Blame the devs]]></summary>
+        <author>
+            <name>Gergely Orosz</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Air India CURSE : How Tata’s Dream Acquisition Became a Nightmare]]></title>
         <id>https://www.youtube.com/watch?v=_fE28TZFim4</id>

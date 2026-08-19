@@ -1765,6 +1765,16 @@
       "siteUrl": "https://blog.pragmaticengineer.com/",
       "articles": [
         {
+          "id": "6a85ba5c1b8a5e00015742b1",
+          "author": "Gergely Orosz",
+          "description": "Devs discover that Grok CLI pushed all local files, .env files and git history have been pushed to a GCP bucket, unencrypted. SpaceX’s initial reaction? Blame the devs",
+          "link": "https://blog.pragmaticengineer.com/grolk-cli-uploaded-all-your-files-to-the-cloud/",
+          "publishedOn": "2026-08-19T14:21:33.000Z",
+          "wordCount": 2959,
+          "title": "The Pulse: Grok’s CLI caught uploading all your local files to the cloud",
+          "imageUrl": "https://storage.ghost.io/c/39/f8/39f85cc7-8637-40fc-a57c-f45754453717/content/images/2026/08/aa1de119-a4fd-4a85-b20a-bdc73c9db948_1182x842.webp"
+        },
+        {
           "id": "6a72f95dd1f60900010e34a7",
           "author": "Gergely Orosz",
           "description": "In only 5 years, Hopin went from zero to a $7.7B valuation, and back to zero again. Also: Bending Spoons’ startup acquisition model.",
