@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-08-19T02:55:55.762Z</updated>
+    <updated>2026-08-19T03:46:58.462Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -131,6 +131,19 @@ Points: 503
 # Comments: 403]]></summary>
         <author>
             <name>haunter</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cursor launches Origin, GitHub alternative]]></title>
+        <id>https://news.ycombinator.com/item?id=49334209</id>
+        <link href="https://cursor.com/changelog/origin-code-hosting"/>
+        <updated>2026-08-17T17:02:44.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://cursor.com/changelog/origin-code-hosting
+Comments URL: https://news.ycombinator.com/item?id=49334209
+Points: 501
+# Comments: 385]]></summary>
+        <author>
+            <name>tomasreimers</name>
         </author>
     </entry>
     <entry>
