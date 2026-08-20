@@ -2161,7 +2161,18 @@
       "title": "Ben Hoyt's technical writing",
       "feedUrl": "https://benhoyt.com/writings/rss.xml",
       "siteUrl": "https://benhoyt.com/writings/",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://benhoyt.com/writings/updating-gifty-with-ai/",
+          "author": null,
+          "description": "I used an AI agent to make a big update to my GiftyWeddings.com website, taking it from a gift registry to a full website builder in 275 commits.",
+          "link": "https://benhoyt.com/writings/updating-gifty-with-ai/",
+          "publishedOn": "2026-08-20T21:15:00.000Z",
+          "wordCount": 2279,
+          "title": "Updating a side project with AI in 275 commits",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "High Scalability",
