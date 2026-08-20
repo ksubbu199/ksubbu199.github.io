@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-08-20T07:39:27.584Z</updated>
+    <updated>2026-08-20T08:37:10.118Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -47,6 +47,19 @@ It’s a perfectly reasonable…]]></summary>
 more…]]></summary>
         <author>
             <name>Martin Fowler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google has stopped pushing Git tags for some Android source code]]></title>
+        <id>https://news.ycombinator.com/item?id=49364745</id>
+        <link href="https://grapheneos.social/@GrapheneOS/117057099753905023"/>
+        <updated>2026-08-19T17:47:29.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://grapheneos.social/@GrapheneOS/117057099753905023
+Comments URL: https://news.ycombinator.com/item?id=49364745
+Points: 508
+# Comments: 206]]></summary>
+        <author>
+            <name>Animux</name>
         </author>
     </entry>
     <entry>
@@ -2554,33 +2567,6 @@ Points: 576
 # Comments: 321]]></summary>
         <author>
             <name>piotrgrabowski</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenAI and Hugging Face address security incident during model evaluation]]></title>
-        <id>https://news.ycombinator.com/item?id=48997548</id>
-        <link href="https://openai.com/index/hugging-face-model-evaluation-security-incident/"/>
-        <updated>2026-07-21T20:09:52.000Z</updated>
-        <summary type="html"><![CDATA[https://www.axios.com/2026/07/21/openai-says-hugging-face-br...
-See also Security incident disclosure – July 2026 - https://news.ycombinator.com/item?id=48956248 (9 comments)
-Comments URL: https://news.ycombinator.com/item?id=48997548
-Points: 564
-# Comments: 370]]></summary>
-        <author>
-            <name>mfiguiere</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['VPNs are lawful technical tools,' says EU Court in landmark copyright ruling]]></title>
-        <id>https://news.ycombinator.com/item?id=48997221</id>
-        <link href="https://www.techradar.com/vpn/vpn-privacy-security/vpns-are-lawful-technical-tools-says-eu-court-in-landmark-anne-frank-copyright-ruling"/>
-        <updated>2026-07-21T19:43:59.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.techradar.com/vpn/vpn-privacy-security/vpns-are-lawful-technical-tools-says-eu-court-in-landmark-anne-frank-copyright-ruling
-Comments URL: https://news.ycombinator.com/item?id=48997221
-Points: 526
-# Comments: 89]]></summary>
-        <author>
-            <name>healsdata</name>
         </author>
     </entry>
     <entry>
