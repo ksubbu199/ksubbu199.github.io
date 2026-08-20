@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-08-19T23:21:22.268Z</updated>
+    <updated>2026-08-20T01:10:27.855Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -37,6 +37,19 @@ more…]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[OpenRouter is joining Stripe]]></title>
+        <id>https://news.ycombinator.com/item?id=49364559</id>
+        <link href="https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe/"/>
+        <updated>2026-08-19T17:32:38.000Z</updated>
+        <summary type="html"><![CDATA[Previously: Stripe will reportedly acquire OpenRouter for $7B+ https://news.ycombinator.com/item?id=49323381
+Comments URL: https://news.ycombinator.com/item?id=49364559
+Points: 612
+# Comments: 329]]></summary>
+        <author>
+            <name>rvz</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[The Pulse: Grok’s CLI caught uploading all your local files to the cloud]]></title>
         <id>6a85ba5c1b8a5e00015742b1</id>
         <link href="https://blog.pragmaticengineer.com/grolk-cli-uploaded-all-your-files-to-the-cloud/"/>
@@ -44,6 +57,19 @@ more…]]></summary>
         <summary type="html"><![CDATA[Devs discover that Grok CLI pushed all local files, .env files and git history have been pushed to a GCP bucket, unencrypted. SpaceX’s initial reaction? Blame the devs]]></summary>
         <author>
             <name>Gergely Orosz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Moderna reports first positive Phase 3 for mRNA neoantigen therapy in melanoma]]></title>
+        <id>https://news.ycombinator.com/item?id=49361395</id>
+        <link href="https://twitter.com/NoubarAfeyan/status/2090050162441752787"/>
+        <updated>2026-08-19T13:33:35.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://twitter.com/NoubarAfeyan/status/2090050162441752787
+Comments URL: https://news.ycombinator.com/item?id=49361395
+Points: 519
+# Comments: 246]]></summary>
+        <author>
+            <name>heydenberk</name>
         </author>
     </entry>
     <entry>
