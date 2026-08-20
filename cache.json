@@ -1795,6 +1795,16 @@
       "siteUrl": "https://blog.pragmaticengineer.com/",
       "articles": [
         {
+          "id": "6a87427404189e00018c442c",
+          "author": "Gergely Orosz",
+          "description": "In what was predictable: Meta’s layoffs and forced reassignments pushed engineers not impacted by either to look for a new job. Meta is now offering large equity retainers, and it doesn’t seem working",
+          "link": "https://blog.pragmaticengineer.com/the-pulse-metas-self-inflicted-resignation-wave/",
+          "publishedOn": "2026-08-20T18:08:45.000Z",
+          "wordCount": 2627,
+          "title": "The Pulse: Meta’s self-inflicted resignation-wave",
+          "imageUrl": null
+        },
+        {
           "id": "6a85ba5c1b8a5e00015742b1",
           "author": "Gergely Orosz",
           "description": "Devs discover that Grok CLI pushed all local files, .env files and git history have been pushed to a GCP bucket, unencrypted. SpaceX’s initial reaction? Blame the devs",
