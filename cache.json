@@ -16,6 +16,26 @@
           "imageUrl": "https://bear-images.sfo2.cdn.digitaloceanspaces.com/curiousquail/img_2026_web.jpg"
         },
         {
+          "id": "https://news.ycombinator.com/item?id=49378957",
+          "author": "0xedb",
+          "description": "Article URL: https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/\nComments URL: https://news.ycombinator.com/item?id=49378957\nPoints: 533\n# Comments: 592",
+          "link": "https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/",
+          "publishedOn": "2026-08-20T19:22:24.000Z",
+          "wordCount": 3487,
+          "title": "The August 17 outage",
+          "imageUrl": "https://github.blog/wp-content/uploads/2026/01/generic-github-logo-left.png"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=49374269",
+          "author": "abhisek",
+          "description": "https://blog.rust-lang.org/2026/08/20/supply-chain-attack-on...\nhttps://github.com/rustsec/advisory-db/issues/3161\nComments URL: https://news.ycombinator.com/item?id=49374269\nPoints: 502\n# Comments: 424",
+          "link": "https://safedep.io/arrayref-proc-macro1-rust-build-time-malware/",
+          "publishedOn": "2026-08-20T13:23:12.000Z",
+          "wordCount": 3457,
+          "title": "Malicious Rust crate Arrayref runs a build-time payload",
+          "imageUrl": "https://safedep.io/images/arrayref-blog-blanner.png"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=49373456",
           "author": "simedw",
           "description": "I trained a 125M-parameter transformer to autocomplete piano performances in real time (~108 notes/sec on an iPhone 15).\nThe idea is basically GitHub Copilot or Tabnine, except instead of prompting it with code, you prompt it by playing a few notes on a MIDI piano. The model then continues what you played, entirely on-device.\nThe app is free if anyone wants to try it. Happy to answer questions about the model, training, Core ML, or the many things that didn't work.\nComments URL: https://news.ycombinator.com/item?id=49373456\nPoints: 528\n# Comments: 108",
