@@ -16,6 +16,16 @@
           "imageUrl": "https://bear-images.sfo2.cdn.digitaloceanspaces.com/curiousquail/img_2026_web.jpg"
         },
         {
+          "id": "https://news.ycombinator.com/item?id=49373456",
+          "author": "simedw",
+          "description": "I trained a 125M-parameter transformer to autocomplete piano performances in real time (~108 notes/sec on an iPhone 15).\nThe idea is basically GitHub Copilot or Tabnine, except instead of prompting it with code, you prompt it by playing a few notes on a MIDI piano. The model then continues what you played, entirely on-device.\nThe app is free if anyone wants to try it. Happy to answer questions about the model, training, Core ML, or the many things that didn't work.\nComments URL: https://news.ycombinator.com/item?id=49373456\nPoints: 528\n# Comments: 108",
+          "link": "https://simedw.com/2026/08/20/midi-autocomplete/",
+          "publishedOn": "2026-08-20T12:04:38.000Z",
+          "wordCount": 2866,
+          "title": "Show HN: I trained a 125M model to autocomplete piano on-device",
+          "imageUrl": "https://simedw.com/2026/08/20/midi-autocomplete/images/rolltab_phone.jpg"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=49372583",
           "author": "emctech",
           "description": "Article URL: https://blog.laserphile.com/2026/08/aliexpress-webpage-keeping-multipoint.html\nComments URL: https://news.ycombinator.com/item?id=49372583\nPoints: 539\n# Comments: 181",
@@ -1594,16 +1604,6 @@
           "wordCount": 246,
           "title": "Show HN: Bento - An entire PowerPoint in one HTML file (edit+view+data+collab)",
           "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=49007374",
-          "author": "ksec",
-          "description": "https://xcancel.com/nikitabier/status/2079787406300266743\nComments URL: https://news.ycombinator.com/item?id=49007374\nPoints: 507\n# Comments: 679",
-          "link": "https://twitter.com/nikitabier/status/2079787406300266743",
-          "publishedOn": "2026-07-22T14:25:13.000Z",
-          "wordCount": 1136,
-          "title": "Passkeys were invented by engineers with zero understanding of consumer brain",
-          "imageUrl": "https://pbs.twimg.com/profile_images/1755448801957945344/Fh2HNw5Y_200x200.jpg"
         }
       ]
     },

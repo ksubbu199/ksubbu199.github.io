@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-08-21T01:15:06.418Z</updated>
+    <updated>2026-08-21T03:01:51.196Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -37,6 +37,21 @@ Points: 624
         <summary type="html"><![CDATA[In what was predictable: Meta’s layoffs and forced reassignments pushed engineers not impacted by either to look for a new job. Meta is now offering large equity retainers, and it doesn’t seem working]]></summary>
         <author>
             <name>Gergely Orosz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: I trained a 125M model to autocomplete piano on-device]]></title>
+        <id>https://news.ycombinator.com/item?id=49373456</id>
+        <link href="https://simedw.com/2026/08/20/midi-autocomplete/"/>
+        <updated>2026-08-20T12:04:38.000Z</updated>
+        <summary type="html"><![CDATA[I trained a 125M-parameter transformer to autocomplete piano performances in real time (~108 notes/sec on an iPhone 15).
+The idea is basically GitHub Copilot or Tabnine, except instead of prompting it with code, you prompt it by playing a few notes on a MIDI piano. The model then continues what you played, entirely on-device.
+The app is free if anyone wants to try it. Happy to answer questions about the model, training, Core ML, or the many things that didn't work.
+Comments URL: https://news.ycombinator.com/item?id=49373456
+Points: 528
+# Comments: 108]]></summary>
+        <author>
+            <name>simedw</name>
         </author>
     </entry>
     <entry>
@@ -2599,19 +2614,6 @@ Points: 522
 # Comments: 112]]></summary>
         <author>
             <name>starfallg</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Passkeys were invented by engineers with zero understanding of consumer brain]]></title>
-        <id>https://news.ycombinator.com/item?id=49007374</id>
-        <link href="https://twitter.com/nikitabier/status/2079787406300266743"/>
-        <updated>2026-07-22T14:25:13.000Z</updated>
-        <summary type="html"><![CDATA[https://xcancel.com/nikitabier/status/2079787406300266743
-Comments URL: https://news.ycombinator.com/item?id=49007374
-Points: 507
-# Comments: 679]]></summary>
-        <author>
-            <name>ksec</name>
         </author>
     </entry>
     <entry>
