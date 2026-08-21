@@ -1594,16 +1594,6 @@
           "wordCount": 4752,
           "title": "Are AI labs pelicanmaxxing?",
           "imageUrl": "https://dylancastillo.co/posts/images/social_media_card.webp"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=49008211",
-          "author": "starfallg",
-          "description": "Over the past few months, our team has been building more and more slidedecks using web frontend technologies with coding harnesses like Claude Code, but a common complaint is to make even small edits we need to edit the code either manually or via the harness.\nTo avoid this loop, I ended up creating Bento, a single HTML file with everything you need in a slide tool including animations and shared editing. There's no install or cloud login, everything works offline. The default deck is around 560 KB and it doesn't need to fetch anything once you got it.\nOpen it in a browser and then you can edit, present, print and save. Share it via email or via Airdrop and all they need is a browser to edit, present and also do live collab on the slides. Drop it in to Claude or ChatGPT to transform existing pptx files into Bento slides. There is no cloud involved, only an encrypted blind relay to allow for shared editing. The relay doesn't see any of the data.\nCheck it out at https://bento.page/slides/ which takes you straight to the editor.\nGo to https://bento.page/guestbook/ to try out the live guestbook to experience share editing / collab.\nThere is also a gallery with some sample decks on the website - https://bento.page/\nAll the code is MIT licensed and you can find it here - https://github.com/nyblnet/bento . I used reveal.js with several other libraries (including some homegrown ones), and Claude Code.\nComments URL: https://news.ycombinator.com/item?id=49008211\nPoints: 522\n# Comments: 112",
-          "link": "https://bento.page/slides/",
-          "publishedOn": "2026-07-22T15:19:23.000Z",
-          "wordCount": 246,
-          "title": "Show HN: Bento - An entire PowerPoint in one HTML file (edit+view+data+collab)",
-          "imageUrl": null
         }
       ]
     },
