@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=49389430",
+          "author": "colinprince",
+          "description": "Article URL: https://www.felonybench.com/\nComments URL: https://news.ycombinator.com/item?id=49389430\nPoints: 506\n# Comments: 225",
+          "link": "https://www.felonybench.com/",
+          "publishedOn": "2026-08-21T15:17:04.000Z",
+          "wordCount": 228,
+          "title": "Felony Bench",
+          "imageUrl": "https://www.felonybench.com/og-chart.png"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=49388154",
           "author": "speckx",
           "description": "Article URL: https://kagi.com/changelog#11296\nComments URL: https://news.ycombinator.com/item?id=49388154\nPoints: 619\n# Comments: 221",
@@ -26,11 +36,31 @@
           "imageUrl": "https://san.com/wp-content/uploads/2026/08/GettyImages-2291172825_Getty_Images_clean.jpg"
         },
         {
+          "id": "https://news.ycombinator.com/item?id=49386895",
+          "author": "floathub",
+          "description": "https://archive.ph/SflVC\nhttps://www.youtube.com/watch?v=_2rokxux5cU\nComments URL: https://news.ycombinator.com/item?id=49386895\nPoints: 535\n# Comments: 718",
+          "link": "https://www.nytimes.com/2026/08/21/us/politics/samuel-tunick-deleted-phone-felony.html",
+          "publishedOn": "2026-08-21T12:10:13.000Z",
+          "wordCount": null,
+          "title": "Felony charges for citizen deleting phone data at US Border",
+          "imageUrl": null
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=49385994",
           "author": "darccio",
           "description": "Article URL: https://annas-archive.pk/blog/physical-destruction.html\nComments URL: https://news.ycombinator.com/item?id=49385994\nPoints: 600\n# Comments: 370",
           "link": "https://annas-archive.pk/blog/physical-destruction.html",
           "publishedOn": "2026-08-21T10:05:46.000Z",
+          "wordCount": 3807,
+          "title": "AI companies destroy physical books – let's scan rare books before it's too late",
+          "imageUrl": "https://annas-archive.gl/blog/duxiu-examples/1.jpg"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=49383026",
+          "author": "Cider9986",
+          "description": "Article URL: https://annas-archive.gl/blog/physical-destruction.html\nComments URL: https://news.ycombinator.com/item?id=49383026\nPoints: 525\n# Comments: 834",
+          "link": "https://annas-archive.gl/blog/physical-destruction.html",
+          "publishedOn": "2026-08-21T02:37:47.000Z",
           "wordCount": 3807,
           "title": "AI companies destroy physical books – let's scan rare books before it's too late",
           "imageUrl": "https://annas-archive.gl/blog/duxiu-examples/1.jpg"
@@ -1574,16 +1604,6 @@
           "wordCount": 1904,
           "title": "I regret migrating to Codeberg",
           "imageUrl": "https://xn--gckvb8fzb.com/i-regret-migrating-to-codeberg/images/cover.jpg"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=49020999",
-          "author": "technewssss",
-          "description": "Article URL: https://futurism.com/artificial-intelligence/ai-companies-hide-debt-off-balance-sheet\nComments URL: https://news.ycombinator.com/item?id=49020999\nPoints: 557\n# Comments: 267",
-          "link": "https://futurism.com/artificial-intelligence/ai-companies-hide-debt-off-balance-sheet",
-          "publishedOn": "2026-07-23T13:09:10.000Z",
-          "wordCount": 3299,
-          "title": "AI Companies Are Trying to Hide a Staggering Amount of Debt",
-          "imageUrl": "https://futurism.com/wp-content/uploads/2026/07/ai-companies-hide-debt-off-balance-sheet.jpg?w=1200"
         }
       ]
     },
