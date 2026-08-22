@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-08-22T12:36:40.708Z</updated>
+    <updated>2026-08-22T13:31:15.448Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[There's no reason for software to be slow anymore]]></title>
+        <id>https://news.ycombinator.com/item?id=49395628</id>
+        <link href="https://danluu.com/perf-opt/"/>
+        <updated>2026-08-22T01:06:17.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://danluu.com/perf-opt/
+Comments URL: https://news.ycombinator.com/item?id=49395628
+Points: 502
+# Comments: 365]]></summary>
+        <author>
+            <name>Jach</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Kobo can run apps now]]></title>
         <id>https://news.ycombinator.com/item?id=49390427</id>
