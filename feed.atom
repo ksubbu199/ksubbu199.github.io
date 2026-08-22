@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-08-22T06:38:21.608Z</updated>
+    <updated>2026-08-22T07:30:57.477Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Kobo can run apps now]]></title>
+        <id>https://news.ycombinator.com/item?id=49390427</id>
+        <link href="https://bandarlabs.github.io/Cobalt/"/>
+        <updated>2026-08-21T16:25:25.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://bandarlabs.github.io/Cobalt/
+Comments URL: https://news.ycombinator.com/item?id=49390427
+Points: 507
+# Comments: 177]]></summary>
+        <author>
+            <name>thepoet</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Felony Bench]]></title>
         <id>https://news.ycombinator.com/item?id=49389430</id>
@@ -30,6 +43,19 @@ Points: 619
 # Comments: 221]]></summary>
         <author>
             <name>speckx</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I accidentally logged hundreds of thousands of phone calls to military bases]]></title>
+        <id>https://news.ycombinator.com/item?id=49387570</id>
+        <link href="https://lina.sh/blog/hijacking-e164-arpa"/>
+        <updated>2026-08-21T13:11:28.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://lina.sh/blog/hijacking-e164-arpa
+Comments URL: https://news.ycombinator.com/item?id=49387570
+Points: 516
+# Comments: 56]]></summary>
+        <author>
+            <name>gavide</name>
         </author>
     </entry>
     <entry>

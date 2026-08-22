@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=49390427",
+          "author": "thepoet",
+          "description": "Article URL: https://bandarlabs.github.io/Cobalt/\nComments URL: https://news.ycombinator.com/item?id=49390427\nPoints: 507\n# Comments: 177",
+          "link": "https://bandarlabs.github.io/Cobalt/",
+          "publishedOn": "2026-08-21T16:25:25.000Z",
+          "wordCount": 2415,
+          "title": "Kobo can run apps now",
+          "imageUrl": "https://bandarlabs.github.io/Cobalt/media/site/og-card.jpg"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=49389430",
           "author": "colinprince",
           "description": "Article URL: https://www.felonybench.com/\nComments URL: https://news.ycombinator.com/item?id=49389430\nPoints: 506\n# Comments: 225",
@@ -23,6 +33,16 @@
           "publishedOn": "2026-08-21T13:56:37.000Z",
           "wordCount": 24978,
           "title": "Kagi added a setting for removing paywalled links from search results",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=49387570",
+          "author": "gavide",
+          "description": "Article URL: https://lina.sh/blog/hijacking-e164-arpa\nComments URL: https://news.ycombinator.com/item?id=49387570\nPoints: 516\n# Comments: 56",
+          "link": "https://lina.sh/blog/hijacking-e164-arpa",
+          "publishedOn": "2026-08-21T13:11:28.000Z",
+          "wordCount": 2105,
+          "title": "I accidentally logged hundreds of thousands of phone calls to military bases",
           "imageUrl": null
         },
         {
