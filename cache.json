@@ -1602,6 +1602,16 @@
       "siteUrl": "https://martinfowler.com/feed.atom",
       "articles": [
         {
+          "id": "https://martinfowler.com/fragments/2026-08-24.html",
+          "author": null,
+          "description": "I was listening to Ezra Klein’s interview with Helen Toner about the recent OpenAI hack of Hugging Face and the subsequent discovery that there were swarms of agents inside OpenAI doing unsanctioned activities. One of the points Klein made was that at no point did any of these (thousands of?) agents ever try to check in with a human\n[Klein:] So these message boards — you have however many A.I. agents posting hundreds of thousands of messages. At no point do they say: Hey, researchers, programmers, parents at OpenAI, Anthropic — do you want us coordinating with each other on this message board we have created in the innards of your systems?\n[Toner:] Or even F.Y.I., we have a message board we’re coordinating on in the innards of your system.\nListening to that, another thing occurred to me - …",
+          "link": "https://martinfowler.com/fragments/2026-08-24.html",
+          "publishedOn": "2026-08-24T15:29:00.000Z",
+          "wordCount": 1266,
+          "title": "Fragments: August 24",
+          "imageUrl": "/fragments/fragments-thumb.png"
+        },
+        {
           "id": "https://martinfowler.com/rachels-ramblings/citizens-agents-experts.html",
           "author": null,
           "description": "TL;DR\nWhy building an app over the weekend isn't the same as building enterprise software\n\nI’ve noticed an interesting gap opening up over the last six months. It isn’t really a gap in technology. It’s a gap in what different people think software engineering actually is.\nThe conversation usually starts the same way. A non-techie, maybe an executive, tells me about something they’ve built over the weekend. Sometimes it’s a chatbot. Sometimes it’s an internal workflow. Sometimes it’s a surprisingly polished application that solves a real business problem. They’re excited, and they should be. Twelve months ago they probably couldn’t have built it at all. Then comes the question.\n“If AI can do this now, why aren’t our engineering teams delivering ten times faster?”\nIt’s a perfectly reasonable…",

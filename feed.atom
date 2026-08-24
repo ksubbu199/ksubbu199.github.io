@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-08-24T14:40:47.850Z</updated>
+    <updated>2026-08-24T15:38:19.195Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Fragments: August 24]]></title>
+        <id>https://martinfowler.com/fragments/2026-08-24.html</id>
+        <link href="https://martinfowler.com/fragments/2026-08-24.html"/>
+        <updated>2026-08-24T15:29:00.000Z</updated>
+        <summary type="html"><![CDATA[I was listening to Ezra Klein’s interview with Helen Toner about the recent OpenAI hack of Hugging Face and the subsequent discovery that there were swarms of agents inside OpenAI doing unsanctioned activities. One of the points Klein made was that at no point did any of these (thousands of?) agents ever try to check in with a human
+[Klein:] So these message boards — you have however many A.I. agents posting hundreds of thousands of messages. At no point do they say: Hey, researchers, programmers, parents at OpenAI, Anthropic — do you want us coordinating with each other on this message board we have created in the innards of your systems?
+[Toner:] Or even F.Y.I., we have a message board we’re coordinating on in the innards of your system.
+Listening to that, another thing occurred to me - …]]></summary>
+        <author>
+            <name>Martin Fowler</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Canada suspends trade negotiations with USA and match tariffs dollar for dollar]]></title>
         <id>https://news.ycombinator.com/item?id=49398304</id>
