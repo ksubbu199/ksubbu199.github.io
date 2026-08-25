@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-08-25T22:26:07.878Z</updated>
+    <updated>2026-08-25T23:23:51.645Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -19,6 +19,19 @@ Points: 665
 # Comments: 99]]></summary>
         <author>
             <name>helsinkiandrew</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nitter project received cease and desist]]></title>
+        <id>https://news.ycombinator.com/item?id=49437283</id>
+        <link href="https://github.com/zedeus/nitter/issues/1442"/>
+        <updated>2026-08-25T17:08:21.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://github.com/zedeus/nitter/issues/1442
+Comments URL: https://news.ycombinator.com/item?id=49437283
+Points: 526
+# Comments: 364]]></summary>
+        <author>
+            <name>Banditoz</name>
         </author>
     </entry>
     <entry>
