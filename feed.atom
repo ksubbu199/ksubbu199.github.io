@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-08-25T02:57:52.881Z</updated>
+    <updated>2026-08-25T03:52:10.749Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -69,6 +69,19 @@ Points: 605
 # Comments: 316]]></summary>
         <author>
             <name>reasonableklout</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Executable Is a SQLite Database]]></title>
+        <id>https://news.ycombinator.com/item?id=49415271</id>
+        <link href="https://fzakaria.com/2026/08/23/your-executable-is-a-sqlite-database"/>
+        <updated>2026-08-24T04:48:20.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://fzakaria.com/2026/08/23/your-executable-is-a-sqlite-database
+Comments URL: https://news.ycombinator.com/item?id=49415271
+Points: 504
+# Comments: 95]]></summary>
+        <author>
+            <name>setheron</name>
         </author>
     </entry>
     <entry>
