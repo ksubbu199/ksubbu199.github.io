@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-08-25T17:30:30.303Z</updated>
+    <updated>2026-08-25T18:38:17.619Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -23,6 +23,19 @@
         <updated>2026-08-25T15:23:48.000Z</updated>
         <author>
             <name>Think School</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New Mac Studio with M5 Max and M5 Ultra]]></title>
+        <id>https://news.ycombinator.com/item?id=49433316</id>
+        <link href="https://www.apple.com/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra/"/>
+        <updated>2026-08-25T13:03:17.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.apple.com/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra/
+Comments URL: https://news.ycombinator.com/item?id=49433316
+Points: 550
+# Comments: 326]]></summary>
+        <author>
+            <name>interpol_p</name>
         </author>
     </entry>
     <entry>
@@ -2649,19 +2662,6 @@ Points: 574
 # Comments: 330]]></summary>
         <author>
             <name>anon373839</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kimi-K3 Releases on HuggingFace 7/27]]></title>
-        <id>https://news.ycombinator.com/item?id=49065752</id>
-        <link href="https://huggingface.co/moonshotai/Kimi-K3"/>
-        <updated>2026-07-27T06:18:10.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://huggingface.co/moonshotai/Kimi-K3
-Comments URL: https://news.ycombinator.com/item?id=49065752
-Points: 582
-# Comments: 263]]></summary>
-        <author>
-            <name>nateb2022</name>
         </author>
     </entry>
     <entry>
