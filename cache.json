@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=49421158",
+          "author": "ComputerGuru",
+          "description": "Article URL: https://xusheng.dev/posts/reversing/mspaint_invisible_watermark/main/\nComments URL: https://news.ycombinator.com/item?id=49421158\nPoints: 550\n# Comments: 218",
+          "link": "https://xusheng.dev/posts/reversing/mspaint_invisible_watermark/main/",
+          "publishedOn": "2026-08-24T15:28:04.000Z",
+          "wordCount": 3030,
+          "title": "MS Paint and Photos inivisibly watermark even locally generated output with GUID",
+          "imageUrl": "https://xusheng.dev/posts/reversing/mspaint_invisible_watermark/social-preview.jpg"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=49420873",
           "author": "tosh",
           "description": "https://xcancel.com/lemire/status/2091894299289874926\nComments URL: https://news.ycombinator.com/item?id=49420873\nPoints: 543\n# Comments: 363",
@@ -46,6 +56,16 @@
           "imageUrl": "https://schlarp.com/posts/everything-i-own-owned/webcam.jpg"
         },
         {
+          "id": "https://news.ycombinator.com/item?id=49412396",
+          "author": "bilsbie",
+          "description": "https://xcancel.com/paulg/status/2091544343589060625\nComments URL: https://news.ycombinator.com/item?id=49412396\nPoints: 505\n# Comments: 603",
+          "link": "https://twitter.com/paulg/status/2091544343589060625",
+          "publishedOn": "2026-08-23T20:38:09.000Z",
+          "wordCount": 942,
+          "title": "I were 17, I'd learn how to build LLMs from scratch",
+          "imageUrl": "https://pbs.twimg.com/profile_images/1824002576/pg-railsconf_400x400.jpg"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=49411643",
           "author": "vanpra",
           "description": "Article URL: https://lalitm.com/post/find-problems-staff-engineer/\nComments URL: https://news.ycombinator.com/item?id=49411643\nPoints: 544\n# Comments: 156",
@@ -84,6 +104,16 @@
           "wordCount": 3195,
           "title": "I spent $266 and four AI models to own my tablet. GLM-5.3 finished it in a day",
           "imageUrl": null
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=49402232",
+          "author": "felineflock",
+          "description": "Article URL: https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917\nComments URL: https://news.ycombinator.com/item?id=49402232\nPoints: 500\n# Comments: 202",
+          "link": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917",
+          "publishedOn": "2026-08-22T18:14:16.000Z",
+          "wordCount": 9759,
+          "title": "Why your local LLM feels dumber than it is",
+          "imageUrl": "https://level1techs.us-east-1.linodeobjects.com/original/4X/d/8/7/d87c01532439840126d90ea94abfdfcf6501f42f.png"
         },
         {
           "id": "https://news.ycombinator.com/item?id=49398304",
@@ -1584,26 +1614,6 @@
           "wordCount": 6345,
           "title": "US citizen charged after GrapheneOS phone wipes during airport search",
           "imageUrl": "https://www.techspot.com/images2/news/bigimage/2026/07/2026-07-26-image-4.jpg"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=49057241",
-          "author": "rcy",
-          "description": "Article URL: https://swag.htmx.org/en-cad/products/htmx-4-the-game\nComments URL: https://news.ycombinator.com/item?id=49057241\nPoints: 501\n# Comments: 193",
-          "link": "https://swag.htmx.org/en-cad/products/htmx-4-the-game",
-          "publishedOn": "2026-07-26T12:00:11.000Z",
-          "wordCount": 2170,
-          "title": "Htmx 4.0, the first JavaScript library to release exclusively on the Game Boy",
-          "imageUrl": "https://imgproxy.fourthwall.dev/fFacE7iRN78e36VJLwizpILfnQcPu0ke2aIoxlQ7jc0/w:1200/sm:1/enc/EwYqh2EzXPAU7H04/BMXqquHCApkGKbGh/LoFc40D31bsD6gv4/lJ5EIYZduCxm8qAG/13LlpWyyziWbLs7D/Xi4TfM5SZiC5kSsq/f-tOQtISSQdUx14H/3kaNrBbOOijmZBov/fuUJOdCo4m-eyLcf/7A97CwuTeNBI_GsD/K81ThuM9c3cS1p--/oRP_PAY7b_W4O2kr/rRJzjKSc6clktadC/XRtwNg.png"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=49057175",
-          "author": "rapnie",
-          "description": "Article URL: https://killthecookiebanner.eu/\nComments URL: https://news.ycombinator.com/item?id=49057175\nPoints: 614\n# Comments: 297",
-          "link": "https://killthecookiebanner.eu/",
-          "publishedOn": "2026-07-26T11:53:17.000Z",
-          "wordCount": 2319,
-          "title": "Kill The Cookie Banner",
-          "imageUrl": null
         }
       ]
     },
