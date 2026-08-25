@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-08-25T11:26:38.010Z</updated>
+    <updated>2026-08-25T12:44:51.907Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[iCloud+ Hide My Email addresses will remain on icloud.com]]></title>
+        <id>https://news.ycombinator.com/item?id=49426564</id>
+        <link href="https://developer.apple.com/news/?id=1ptvdtcm"/>
+        <updated>2026-08-24T22:13:40.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://developer.apple.com/news/?id=1ptvdtcm
+Comments URL: https://news.ycombinator.com/item?id=49426564
+Points: 511
+# Comments: 155]]></summary>
+        <author>
+            <name>K7PJP</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Oceans hit highest temperature on record]]></title>
         <id>https://news.ycombinator.com/item?id=49424606</id>
@@ -17,6 +30,19 @@ Points: 507
 # Comments: 410]]></summary>
         <author>
             <name>tcp_handshaker</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The entire city of San Francisco as a video game]]></title>
+        <id>https://news.ycombinator.com/item?id=49422784</id>
+        <link href="https://sf.thijs.gg/"/>
+        <updated>2026-08-24T17:05:38.000Z</updated>
+        <summary type="html"><![CDATA[https://twitter.com/cdngdev/status/2091909073038082139, https://xcancel.com/cdngdev/status/2091909073038082139
+Comments URL: https://news.ycombinator.com/item?id=49422784
+Points: 510
+# Comments: 149]]></summary>
+        <author>
+            <name>centrosphere</name>
         </author>
     </entry>
     <entry>
@@ -2604,19 +2630,6 @@ Points: 582
 # Comments: 263]]></summary>
         <author>
             <name>nateb2022</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PGSimCity - How PostgreSQL Works]]></title>
-        <id>https://news.ycombinator.com/item?id=49063754</id>
-        <link href="https://nikolays.github.io/PGSimCity/"/>
-        <updated>2026-07-27T00:19:04.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://nikolays.github.io/PGSimCity/
-Comments URL: https://news.ycombinator.com/item?id=49063754
-Points: 625
-# Comments: 61]]></summary>
-        <author>
-            <name>jonbaer</name>
         </author>
     </entry>
     <entry>

@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=49426564",
+          "author": "K7PJP",
+          "description": "Article URL: https://developer.apple.com/news/?id=1ptvdtcm\nComments URL: https://news.ycombinator.com/item?id=49426564\nPoints: 511\n# Comments: 155",
+          "link": "https://developer.apple.com/news/?id=1ptvdtcm",
+          "publishedOn": "2026-08-24T22:13:40.000Z",
+          "wordCount": 935,
+          "title": "iCloud+ Hide My Email addresses will remain on icloud.com",
+          "imageUrl": "https://developer.apple.com/news/images/og/icloud-og.jpg"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=49424606",
           "author": "tcp_handshaker",
           "description": "Article URL: https://www.bbc.com/news/articles/c62m4gpnp78o\nComments URL: https://news.ycombinator.com/item?id=49424606\nPoints: 507\n# Comments: 410",
@@ -14,6 +24,16 @@
           "wordCount": 6741,
           "title": "Oceans hit highest temperature on record",
           "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/6e1c/live/bc7158a0-9fc3-11f1-8648-8d7b77845e6d.jpg"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=49422784",
+          "author": "centrosphere",
+          "description": "https://twitter.com/cdngdev/status/2091909073038082139, https://xcancel.com/cdngdev/status/2091909073038082139\nComments URL: https://news.ycombinator.com/item?id=49422784\nPoints: 510\n# Comments: 149",
+          "link": "https://sf.thijs.gg/",
+          "publishedOn": "2026-08-24T17:05:38.000Z",
+          "wordCount": 9545,
+          "title": "The entire city of San Francisco as a video game",
+          "imageUrl": null
         },
         {
           "id": "https://news.ycombinator.com/item?id=49421554",
@@ -1624,16 +1644,6 @@
           "wordCount": 302,
           "title": "Kimi-K3 Releases on HuggingFace 7/27",
           "imageUrl": "https://cdn-thumbnails.huggingface.co/social-thumbnails/models/moonshotai/Kimi-K3.png"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=49063754",
-          "author": "jonbaer",
-          "description": "Article URL: https://nikolays.github.io/PGSimCity/\nComments URL: https://news.ycombinator.com/item?id=49063754\nPoints: 625\n# Comments: 61",
-          "link": "https://nikolays.github.io/PGSimCity/",
-          "publishedOn": "2026-07-27T00:19:04.000Z",
-          "wordCount": 123,
-          "title": "PGSimCity - How PostgreSQL Works",
-          "imageUrl": "https://nikolays.github.io/PGSimCity/og.png"
         }
       ]
     },
