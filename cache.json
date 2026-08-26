@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=49451448",
+          "author": "mykowebhn",
+          "description": "Article URL: https://www.theguardian.com/film/2026/aug/26/tim-curry-dies-rocky-horror-show-stephen-king-it-legend-film\nComments URL: https://news.ycombinator.com/item?id=49451448\nPoints: 522\n# Comments: 184",
+          "link": "https://www.theguardian.com/film/2026/aug/26/tim-curry-dies-rocky-horror-show-stephen-king-it-legend-film",
+          "publishedOn": "2026-08-26T16:03:37.000Z",
+          "wordCount": 4705,
+          "title": "Tim Curry has died",
+          "imageUrl": "https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pictures/2015/11/10/1447180876442/d3b4806e-2803-42bb-8aec-690e08e5c939-2060x1236.jpeg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b04bfdbe488cdc524bb7fbaefc4933be"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=49449507",
           "author": "Philpax",
           "description": "Article URL: https://z.ai/blog/glm-5.3-flash\nComments URL: https://news.ycombinator.com/item?id=49449507\nPoints: 594\n# Comments: 278",
@@ -24,6 +34,16 @@
           "wordCount": 1680,
           "title": "AWS Acquires DuckDB",
           "imageUrl": "https://ducklabs.com/img/blog/ducklabs-aws-blog.png"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=49448210",
+          "author": "tosh",
+          "description": "https://imageat.com/models/qwen-3-8-27b-uncensored\nComments URL: https://news.ycombinator.com/item?id=49448210\nPoints: 589\n# Comments: 192",
+          "link": "https://qwen.ai/blog?id=qwen3.8-flash-next",
+          "publishedOn": "2026-08-26T12:52:12.000Z",
+          "wordCount": 592,
+          "title": "Qwen3.8-Flash-Next",
+          "imageUrl": "https://img.alicdn.com/imgextra/i4/O1CN01OXv3EM1FN8t9W4P79_!!6000000000474-2-tps-80-80.png"
         },
         {
           "id": "https://news.ycombinator.com/item?id=49438052",
@@ -1693,16 +1713,6 @@
           "publishedOn": "2026-07-28T13:12:01.000Z",
           "wordCount": null,
           "title": "New HIV vaccine shows unprecedented success in preclinical study",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=49080664",
-          "author": "krembo",
-          "description": "Article URL: https://www.data.jma.go.jp/multi/quake/quake_detail.html?eventID=20260728163528&lang=en\nComments URL: https://news.ycombinator.com/item?id=49080664\nPoints: 564\n# Comments: 112",
-          "link": "https://www.data.jma.go.jp/multi/quake/quake_detail.html?eventID=20260728163528&lang=en",
-          "publishedOn": "2026-07-28T07:44:24.000Z",
-          "wordCount": 27,
-          "title": "7.1 Earthquake in Japan",
           "imageUrl": null
         }
       ]
