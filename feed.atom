@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-08-26T05:33:40.404Z</updated>
+    <updated>2026-08-26T06:47:20.526Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -32,6 +32,19 @@ Points: 526
 # Comments: 364]]></summary>
         <author>
             <name>Banditoz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[My Friend Aaron]]></title>
+        <id>https://news.ycombinator.com/item?id=49437069</id>
+        <link href="https://rorz.io/writing/my-friend-aaron"/>
+        <updated>2026-08-25T16:53:33.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://rorz.io/writing/my-friend-aaron
+Comments URL: https://news.ycombinator.com/item?id=49437069
+Points: 520
+# Comments: 141]]></summary>
+        <author>
+            <name>sarreph</name>
         </author>
     </entry>
     <entry>
