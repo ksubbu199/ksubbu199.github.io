@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-08-26T10:33:51.703Z</updated>
+    <updated>2026-08-26T11:28:47.689Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -64,6 +64,19 @@ Points: 520
         <updated>2026-08-25T15:23:48.000Z</updated>
         <author>
             <name>Think School</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenAI Jalapeño: Better than Nvidia Blackwell]]></title>
+        <id>https://news.ycombinator.com/item?id=49434378</id>
+        <link href="https://newsletter.semianalysis.com/p/openai-jalapeno-better-than-nvidia"/>
+        <updated>2026-08-25T14:06:02.000Z</updated>
+        <summary type="html"><![CDATA[https://www.bloomberg.com/news/articles/2026-08-25/openai-cl..., https://archive.ph/yCTrr
+Comments URL: https://news.ycombinator.com/item?id=49434378
+Points: 505
+# Comments: 320]]></summary>
+        <author>
+            <name>bmulholland</name>
         </author>
     </entry>
     <entry>
