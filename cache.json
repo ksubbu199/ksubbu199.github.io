@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=49452990",
+          "author": "nderjung",
+          "description": "Article URL: https://github.com/tailscale/tailcat\nComments URL: https://news.ycombinator.com/item?id=49452990\nPoints: 505\n# Comments: 94",
+          "link": "https://github.com/tailscale/tailcat",
+          "publishedOn": "2026-08-26T17:42:22.000Z",
+          "wordCount": 7967,
+          "title": "Tailcat – Like netcat, but over Tailscale’s data plane",
+          "imageUrl": "https://opengraph.githubassets.com/7dadb48fa1fb82727ce818ca6dd58fafc89bcd0a9e37b9117f6ded2460f64395/tailscale/tailcat"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=49451448",
           "author": "mykowebhn",
           "description": "Article URL: https://www.theguardian.com/film/2026/aug/26/tim-curry-dies-rocky-horror-show-stephen-king-it-legend-film\nComments URL: https://news.ycombinator.com/item?id=49451448\nPoints: 522\n# Comments: 184",
@@ -1684,36 +1694,6 @@
           "wordCount": null,
           "title": "Substack writers, you need a website",
           "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=49085698",
-          "author": "ModelForge",
-          "description": "Article URL: https://sebastianraschka.com/blog/2026/kimi-k3-architecture-notes.html\nComments URL: https://news.ycombinator.com/item?id=49085698\nPoints: 500\n# Comments: 109",
-          "link": "https://sebastianraschka.com/blog/2026/kimi-k3-architecture-notes.html",
-          "publishedOn": "2026-07-28T15:48:34.000Z",
-          "wordCount": 1015,
-          "title": "Kimi K3 Architecture Overview and Notes",
-          "imageUrl": "https://sebastianraschka.com/images/blog/2026/kimi-k3-architecture-notes/kimi-k3-architecture.png"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=49084938",
-          "author": "doener",
-          "description": "Article URL: https://citizens-initiative.europa.eu/initiatives/details/2026/000011_en\nComments URL: https://news.ycombinator.com/item?id=49084938\nPoints: 541\n# Comments: 193",
-          "link": "https://citizens-initiative.europa.eu/initiatives/details/2026/000011_en",
-          "publishedOn": "2026-07-28T14:58:15.000Z",
-          "wordCount": 149,
-          "title": "Stop Killing the Internet: No Digital ID and No Age Verification",
-          "imageUrl": "https://citizens-initiative.europa.eu/profiles/contrib/ewcms/modules/ewcms_seo/assets/images/eu-socialmedia-fallback.png"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=49083314",
-          "author": "codebyaditya",
-          "description": "Article URL: https://www.lji.org/news-events/news/post/new-hiv-vaccine-shows-unprecedented-success-in-preclinical-study/\nComments URL: https://news.ycombinator.com/item?id=49083314\nPoints: 516\n# Comments: 229",
-          "link": "https://www.lji.org/news-events/news/post/new-hiv-vaccine-shows-unprecedented-success-in-preclinical-study/",
-          "publishedOn": "2026-07-28T13:12:01.000Z",
-          "wordCount": null,
-          "title": "New HIV vaccine shows unprecedented success in preclinical study",
-          "imageUrl": null
         }
       ]
     },
@@ -1880,26 +1860,6 @@
           "wordCount": 3340,
           "title": "The Economic Benefit of Refactoring",
           "imageUrl": "https://martinfowler.com/articles/exploring-gen-ai/donkey-card.png"
-        },
-        {
-          "id": "https://martinfowler.com/articles/orchestrator-tax.html",
-          "author": null,
-          "description": "Subagents get justified by time saved and parallel execution, but\n      Rahul Garg explains that's not what matters most. Every\n      token in the orchestrator's context is competing for its attention, and\n      the real value of a subagent is what it keeps out of that context.\n      Subagents should be treated as a tool for protecting the orchestrator's\n      working memory, offloading reasoning it doesn't need to hold onto. Doing\n      this well means giving the orchestrator explicit ground rules for when and\n      how to delegate. \nmore…",
-          "link": "https://martinfowler.com/articles/orchestrator-tax.html",
-          "publishedOn": "2026-07-28T13:10:00.000Z",
-          "wordCount": 2999,
-          "title": "The Orchestrator's Tax",
-          "imageUrl": "https://martinfowler.com/logo-sq.png"
-        },
-        {
-          "id": "https://martinfowler.com/rachels-ramblings/intro.html",
-          "author": null,
-          "description": "TL;DR\nI have ideas. I haven’t been writing them. That’s about to change. I promise… myself.\n\nI’ve been thinking a lot about talent. Actually, I’ve been thinking a lot about thinking. And writing. Or more specifically, not writing. This really hit me earlier this year at the Future of Software conference. I was surrounded by people sharing their latest ideas and I had a slightly uncomfortable realization:\nI have my own.\nNot just opinions. Actual patterns. Hypotheses. Things I’m seeing across clients, across teams, across the industry that feel new or at least not well articulated yet in a way that a leader can think about and act upon in some way that can influence how they strategise and plan for the future. Because helping clients and other leaders internal and external to thoughtworks do…",
-          "link": "https://martinfowler.com/rachels-ramblings/intro.html",
-          "publishedOn": "2026-07-28T12:32:00.000Z",
-          "wordCount": 778,
-          "title": "Why I’m Writing Rachel’s Ramblings",
-          "imageUrl": "https://martinfowler.com/rachels-ramblings/card.png"
         }
       ]
     },

@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-08-26T22:45:57.952Z</updated>
+    <updated>2026-08-27T04:17:33.118Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Tailcat – Like netcat, but over Tailscale’s data plane]]></title>
+        <id>https://news.ycombinator.com/item?id=49452990</id>
+        <link href="https://github.com/tailscale/tailcat"/>
+        <updated>2026-08-26T17:42:22.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://github.com/tailscale/tailcat
+Comments URL: https://news.ycombinator.com/item?id=49452990
+Points: 505
+# Comments: 94]]></summary>
+        <author>
+            <name>nderjung</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Tim Curry has died]]></title>
         <id>https://news.ycombinator.com/item?id=49451448</id>
@@ -2653,32 +2666,6 @@ Points: 509
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Kimi K3 Architecture Overview and Notes]]></title>
-        <id>https://news.ycombinator.com/item?id=49085698</id>
-        <link href="https://sebastianraschka.com/blog/2026/kimi-k3-architecture-notes.html"/>
-        <updated>2026-07-28T15:48:34.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://sebastianraschka.com/blog/2026/kimi-k3-architecture-notes.html
-Comments URL: https://news.ycombinator.com/item?id=49085698
-Points: 500
-# Comments: 109]]></summary>
-        <author>
-            <name>ModelForge</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stop Killing the Internet: No Digital ID and No Age Verification]]></title>
-        <id>https://news.ycombinator.com/item?id=49084938</id>
-        <link href="https://citizens-initiative.europa.eu/initiatives/details/2026/000011_en"/>
-        <updated>2026-07-28T14:58:15.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://citizens-initiative.europa.eu/initiatives/details/2026/000011_en
-Comments URL: https://news.ycombinator.com/item?id=49084938
-Points: 541
-# Comments: 193]]></summary>
-        <author>
-            <name>doener</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[How to Test Your Brand Under 50k?]]></title>
         <id>https://www.youtube.com/shorts/C_Amz57CsYk</id>
         <link href="https://www.youtube.com/shorts/C_Amz57CsYk"/>
@@ -2686,52 +2673,6 @@ Points: 541
         <summary type="html"><![CDATA[In this video, Tarun Sharma, CEO and Co founder of PEP Brands, the parent company of mCaffeine and HYPHEN, reveals a simple yet powerful strategy every found...]]></summary>
         <author>
             <name>Think School</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New HIV vaccine shows unprecedented success in preclinical study]]></title>
-        <id>https://news.ycombinator.com/item?id=49083314</id>
-        <link href="https://www.lji.org/news-events/news/post/new-hiv-vaccine-shows-unprecedented-success-in-preclinical-study/"/>
-        <updated>2026-07-28T13:12:01.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.lji.org/news-events/news/post/new-hiv-vaccine-shows-unprecedented-success-in-preclinical-study/
-Comments URL: https://news.ycombinator.com/item?id=49083314
-Points: 516
-# Comments: 229]]></summary>
-        <author>
-            <name>codebyaditya</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Orchestrator's Tax]]></title>
-        <id>https://martinfowler.com/articles/orchestrator-tax.html</id>
-        <link href="https://martinfowler.com/articles/orchestrator-tax.html"/>
-        <updated>2026-07-28T13:10:00.000Z</updated>
-        <summary type="html"><![CDATA[Subagents get justified by time saved and parallel execution, but
-      Rahul Garg explains that's not what matters most. Every
-      token in the orchestrator's context is competing for its attention, and
-      the real value of a subagent is what it keeps out of that context.
-      Subagents should be treated as a tool for protecting the orchestrator's
-      working memory, offloading reasoning it doesn't need to hold onto. Doing
-      this well means giving the orchestrator explicit ground rules for when and
-      how to delegate. 
-more…]]></summary>
-        <author>
-            <name>Martin Fowler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why I’m Writing Rachel’s Ramblings]]></title>
-        <id>https://martinfowler.com/rachels-ramblings/intro.html</id>
-        <link href="https://martinfowler.com/rachels-ramblings/intro.html"/>
-        <updated>2026-07-28T12:32:00.000Z</updated>
-        <summary type="html"><![CDATA[TL;DR
-I have ideas. I haven’t been writing them. That’s about to change. I promise… myself.
-
-I’ve been thinking a lot about talent. Actually, I’ve been thinking a lot about thinking. And writing. Or more specifically, not writing. This really hit me earlier this year at the Future of Software conference. I was surrounded by people sharing their latest ideas and I had a slightly uncomfortable realization:
-I have my own.
-Not just opinions. Actual patterns. Hypotheses. Things I’m seeing across clients, across teams, across the industry that feel new or at least not well articulated yet in a way that a leader can think about and act upon in some way that can influence how they strategise and plan for the future. Because helping clients and other leaders internal and external to thoughtworks do…]]></summary>
-        <author>
-            <name>Martin Fowler</name>
         </author>
     </entry>
     <entry>
