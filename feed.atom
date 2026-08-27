@@ -2,10 +2,63 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-08-27T04:17:33.118Z</updated>
+    <updated>2026-08-27T16:07:36.970Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Making Your Data Ready for Agentic AI]]></title>
+        <id>https://martinfowler.com/articles/making-data-ready-for-agentic-ai.html</id>
+        <link href="https://martinfowler.com/articles/making-data-ready-for-agentic-ai.html"/>
+        <updated>2026-08-27T13:11:00.000Z</updated>
+        <summary type="html"><![CDATA[Lots of organizations are excited about what AI can do to streamline
+      their processes, save money, and juice margins. But AI's capabilities are
+      founded on the data that AI accesses, and for many organizations that
+      foundation is little more than sand. Pramod Sadalage and
+      Prem Chandrasekaran write about how to build a reliable
+      foundation of data that can be accurate and trusted.
+more…]]></summary>
+        <author>
+            <name>Martin Fowler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why you're not getting a response to your podcast pitch from me (or others)]]></title>
+        <id>6a900187f1788f0001c465cd</id>
+        <link href="https://blog.pragmaticengineer.com/why-youre-not-getting-a-response-to-your-podcast-pitch-from-me-or-others/"/>
+        <updated>2026-08-27T09:59:13.000Z</updated>
+        <summary type="html"><![CDATA[This email is a response to the 50+ podcast pitches that arrived in my inbox just last month, and keep arriving in growing numbers, from PR agencies and marketing teams at various companies. It's also a message to tech founders building stuff for developers: focus on building something]]></summary>
+        <author>
+            <name>Gergely Orosz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CEO fired developers to make room for AI. Developers create open source AI CEO]]></title>
+        <id>https://news.ycombinator.com/item?id=49458418</id>
+        <link href="https://github.com/SenteLabsAI/OpenExecutive"/>
+        <updated>2026-08-27T01:46:22.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://github.com/SenteLabsAI/OpenExecutive
+Comments URL: https://news.ycombinator.com/item?id=49458418
+Points: 854
+# Comments: 587]]></summary>
+        <author>
+            <name>GrumpySciGuy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nvidia agrees to acquire Hugging Face for $13B]]></title>
+        <id>https://news.ycombinator.com/item?id=49458161</id>
+        <link href="https://www.businessinsider.com/nvidia-in-talks-to-buy-hugging-face-13-billion-dollars-2026-8"/>
+        <updated>2026-08-27T01:12:55.000Z</updated>
+        <summary type="html"><![CDATA[https://www.theinformation.com/articles/nvidia-agrees-buy-op... (paywalled)
+https://techcrunch.com/2026/08/24/hugging-face-reportedly-in...
+Comments URL: https://news.ycombinator.com/item?id=49458161
+Points: 1621
+# Comments: 754]]></summary>
+        <author>
+            <name>mfiguiere</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Tailcat – Like netcat, but over Tailscale’s data plane]]></title>
         <id>https://news.ycombinator.com/item?id=49452990</id>
@@ -17,6 +70,19 @@ Points: 505
 # Comments: 94]]></summary>
         <author>
             <name>nderjung</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[U.S. State Department pauses immigrant visa applications]]></title>
+        <id>https://news.ycombinator.com/item?id=49452709</id>
+        <link href="https://www.wsj.com/politics/policy/u-s-state-department-pauses-immigrant-visa-applications-25b31b23"/>
+        <updated>2026-08-26T17:22:16.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.wsj.com/politics/policy/u-s-state-department-pauses-immigrant-visa-applications-25b31b23
+Comments URL: https://news.ycombinator.com/item?id=49452709
+Points: 748
+# Comments: 1134]]></summary>
+        <author>
+            <name>sss111</name>
         </author>
     </entry>
     <entry>
@@ -33,6 +99,19 @@ Points: 522
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Twitter Viewer – View Twitter Without Account]]></title>
+        <id>https://news.ycombinator.com/item?id=49449576</id>
+        <link href="https://twitterwebviewer.com/"/>
+        <updated>2026-08-26T14:11:39.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://twitterwebviewer.com/
+Comments URL: https://news.ycombinator.com/item?id=49449576
+Points: 547
+# Comments: 346]]></summary>
+        <author>
+            <name>motownphilly</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[GLM-5.3-Flash]]></title>
         <id>https://news.ycombinator.com/item?id=49449507</id>
         <link href="https://z.ai/blog/glm-5.3-flash"/>
@@ -43,6 +122,19 @@ Points: 594
 # Comments: 278]]></summary>
         <author>
             <name>Philpax</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Meta reaches $17B settlement over social media harms to children]]></title>
+        <id>https://news.ycombinator.com/item?id=49448819</id>
+        <link href="https://www.reuters.com/world/us/meta-settles-with-us-states-over-social-media-harms-2026-08-26/"/>
+        <updated>2026-08-26T13:28:32.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.reuters.com/world/us/meta-settles-with-us-states-over-social-media-harms-2026-08-26/
+Comments URL: https://news.ycombinator.com/item?id=49448819
+Points: 524
+# Comments: 522]]></summary>
+        <author>
+            <name>bhouston</name>
         </author>
     </entry>
     <entry>
@@ -2637,42 +2729,6 @@ Points: 565
 # Comments: 180]]></summary>
         <author>
             <name>Cider9986</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Codex Security]]></title>
-        <id>https://news.ycombinator.com/item?id=49089755</id>
-        <link href="https://github.com/openai/codex-security"/>
-        <updated>2026-07-28T20:52:55.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://github.com/openai/codex-security
-Comments URL: https://news.ycombinator.com/item?id=49089755
-Points: 531
-# Comments: 192]]></summary>
-        <author>
-            <name>bakigul</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Substack writers, you need a website]]></title>
-        <id>https://news.ycombinator.com/item?id=49086788</id>
-        <link href="https://elizabethtai.com/2026/06/10/substack-writers-you-need-a-website/"/>
-        <updated>2026-07-28T16:58:31.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://elizabethtai.com/2026/06/10/substack-writers-you-need-a-website/
-Comments URL: https://news.ycombinator.com/item?id=49086788
-Points: 509
-# Comments: 248]]></summary>
-        <author>
-            <name>speckx</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Test Your Brand Under 50k?]]></title>
-        <id>https://www.youtube.com/shorts/C_Amz57CsYk</id>
-        <link href="https://www.youtube.com/shorts/C_Amz57CsYk"/>
-        <updated>2026-07-28T14:31:46.000Z</updated>
-        <summary type="html"><![CDATA[In this video, Tarun Sharma, CEO and Co founder of PEP Brands, the parent company of mCaffeine and HYPHEN, reveals a simple yet powerful strategy every found...]]></summary>
-        <author>
-            <name>Think School</name>
         </author>
     </entry>
     <entry>

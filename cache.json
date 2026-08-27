@@ -6,6 +6,26 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=49458418",
+          "author": "GrumpySciGuy",
+          "description": "Article URL: https://github.com/SenteLabsAI/OpenExecutive\nComments URL: https://news.ycombinator.com/item?id=49458418\nPoints: 854\n# Comments: 587",
+          "link": "https://github.com/SenteLabsAI/OpenExecutive",
+          "publishedOn": "2026-08-27T01:46:22.000Z",
+          "wordCount": 8397,
+          "title": "CEO fired developers to make room for AI. Developers create open source AI CEO",
+          "imageUrl": "https://opengraph.githubassets.com/5d8d88af1762cdc0cfe6485f0fd0d5151ce670b889cb11aa6ab0ee7d46f940b8/SenteLabsAI/OpenExecutive"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=49458161",
+          "author": "mfiguiere",
+          "description": "https://www.theinformation.com/articles/nvidia-agrees-buy-op... (paywalled)\nhttps://techcrunch.com/2026/08/24/hugging-face-reportedly-in...\nComments URL: https://news.ycombinator.com/item?id=49458161\nPoints: 1621\n# Comments: 754",
+          "link": "https://www.businessinsider.com/nvidia-in-talks-to-buy-hugging-face-13-billion-dollars-2026-8",
+          "publishedOn": "2026-08-27T01:12:55.000Z",
+          "wordCount": 4638,
+          "title": "Nvidia agrees to acquire Hugging Face for $13B",
+          "imageUrl": "https://i.insider.com/6a8f6dc43f7df8787cff40f7?width=1200&format=jpeg"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=49452990",
           "author": "nderjung",
           "description": "Article URL: https://github.com/tailscale/tailcat\nComments URL: https://news.ycombinator.com/item?id=49452990\nPoints: 505\n# Comments: 94",
@@ -14,6 +34,16 @@
           "wordCount": 7967,
           "title": "Tailcat – Like netcat, but over Tailscale’s data plane",
           "imageUrl": "https://opengraph.githubassets.com/7dadb48fa1fb82727ce818ca6dd58fafc89bcd0a9e37b9117f6ded2460f64395/tailscale/tailcat"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=49452709",
+          "author": "sss111",
+          "description": "Article URL: https://www.wsj.com/politics/policy/u-s-state-department-pauses-immigrant-visa-applications-25b31b23\nComments URL: https://news.ycombinator.com/item?id=49452709\nPoints: 748\n# Comments: 1134",
+          "link": "https://www.wsj.com/politics/policy/u-s-state-department-pauses-immigrant-visa-applications-25b31b23",
+          "publishedOn": "2026-08-26T17:22:16.000Z",
+          "wordCount": null,
+          "title": "U.S. State Department pauses immigrant visa applications",
+          "imageUrl": null
         },
         {
           "id": "https://news.ycombinator.com/item?id=49451448",
@@ -26,6 +56,16 @@
           "imageUrl": "https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pictures/2015/11/10/1447180876442/d3b4806e-2803-42bb-8aec-690e08e5c939-2060x1236.jpeg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b04bfdbe488cdc524bb7fbaefc4933be"
         },
         {
+          "id": "https://news.ycombinator.com/item?id=49449576",
+          "author": "motownphilly",
+          "description": "Article URL: https://twitterwebviewer.com/\nComments URL: https://news.ycombinator.com/item?id=49449576\nPoints: 547\n# Comments: 346",
+          "link": "https://twitterwebviewer.com/",
+          "publishedOn": "2026-08-26T14:11:39.000Z",
+          "wordCount": null,
+          "title": "Twitter Viewer – View Twitter Without Account",
+          "imageUrl": null
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=49449507",
           "author": "Philpax",
           "description": "Article URL: https://z.ai/blog/glm-5.3-flash\nComments URL: https://news.ycombinator.com/item?id=49449507\nPoints: 594\n# Comments: 278",
@@ -33,6 +73,16 @@
           "publishedOn": "2026-08-26T14:08:50.000Z",
           "wordCount": 2,
           "title": "GLM-5.3-Flash",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=49448819",
+          "author": "bhouston",
+          "description": "Article URL: https://www.reuters.com/world/us/meta-settles-with-us-states-over-social-media-harms-2026-08-26/\nComments URL: https://news.ycombinator.com/item?id=49448819\nPoints: 524\n# Comments: 522",
+          "link": "https://www.reuters.com/world/us/meta-settles-with-us-states-over-social-media-harms-2026-08-26/",
+          "publishedOn": "2026-08-26T13:28:32.000Z",
+          "wordCount": null,
+          "title": "Meta reaches $17B settlement over social media harms to children",
           "imageUrl": null
         },
         {
@@ -1674,26 +1724,6 @@
           "wordCount": 54,
           "title": "KOReader",
           "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=49089755",
-          "author": "bakigul",
-          "description": "Article URL: https://github.com/openai/codex-security\nComments URL: https://news.ycombinator.com/item?id=49089755\nPoints: 531\n# Comments: 192",
-          "link": "https://github.com/openai/codex-security",
-          "publishedOn": "2026-07-28T20:52:55.000Z",
-          "wordCount": 1279,
-          "title": "Codex Security",
-          "imageUrl": "https://opengraph.githubassets.com/8c0fa994c8421c053e9df076b91f0d7d3ac112fe776d123d1ad65b7089a54d88/openai/codex-security"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=49086788",
-          "author": "speckx",
-          "description": "Article URL: https://elizabethtai.com/2026/06/10/substack-writers-you-need-a-website/\nComments URL: https://news.ycombinator.com/item?id=49086788\nPoints: 509\n# Comments: 248",
-          "link": "https://elizabethtai.com/2026/06/10/substack-writers-you-need-a-website/",
-          "publishedOn": "2026-07-28T16:58:31.000Z",
-          "wordCount": null,
-          "title": "Substack writers, you need a website",
-          "imageUrl": null
         }
       ]
     },
@@ -1781,6 +1811,16 @@
       "feedUrl": "https://martinfowler.com/feed.atom",
       "siteUrl": "https://martinfowler.com/feed.atom",
       "articles": [
+        {
+          "id": "https://martinfowler.com/articles/making-data-ready-for-agentic-ai.html",
+          "author": null,
+          "description": "Lots of organizations are excited about what AI can do to streamline\n      their processes, save money, and juice margins. But AI's capabilities are\n      founded on the data that AI accesses, and for many organizations that\n      foundation is little more than sand. Pramod Sadalage and\n      Prem Chandrasekaran write about how to build a reliable\n      foundation of data that can be accurate and trusted.\nmore…",
+          "link": "https://martinfowler.com/articles/making-data-ready-for-agentic-ai.html",
+          "publishedOn": "2026-08-27T13:11:00.000Z",
+          "wordCount": 10079,
+          "title": "Making Your Data Ready for Agentic AI",
+          "imageUrl": "https://martinfowler.com/articles/making-data-ready-for-agentic-ai/card.png"
+        },
         {
           "id": "https://martinfowler.com/fragments/2026-08-24.html",
           "author": null,
@@ -1874,6 +1914,16 @@
       "feedUrl": "https://blog.pragmaticengineer.com/rss/",
       "siteUrl": "https://blog.pragmaticengineer.com/",
       "articles": [
+        {
+          "id": "6a900187f1788f0001c465cd",
+          "author": "Gergely Orosz",
+          "description": "This email is a response to the 50+ podcast pitches that arrived in my inbox just last month, and keep arriving in growing numbers, from PR agencies and marketing teams at various companies. It's also a message to tech founders building stuff for developers: focus on building something",
+          "link": "https://blog.pragmaticengineer.com/why-youre-not-getting-a-response-to-your-podcast-pitch-from-me-or-others/",
+          "publishedOn": "2026-08-27T09:59:13.000Z",
+          "wordCount": 1707,
+          "title": "Why you're not getting a response to your podcast pitch from me (or others)",
+          "imageUrl": null
+        },
         {
           "id": "6a87427404189e00018c442c",
           "author": "Gergely Orosz",
@@ -2160,16 +2210,6 @@
           "wordCount": null,
           "title": "Trump's ILLEGAL Goldmine | Why Trump Is Breaking International Law to Beat China?",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/shorts/C_Amz57CsYk",
-          "author": null,
-          "description": "In this video, Tarun Sharma, CEO and Co founder of PEP Brands, the parent company of mCaffeine and HYPHEN, reveals a simple yet powerful strategy every found...",
-          "link": "https://www.youtube.com/shorts/C_Amz57CsYk",
-          "publishedOn": "2026-07-28T14:31:46.000Z",
-          "wordCount": 3524,
-          "title": "How to Test Your Brand Under 50k?",
-          "imageUrl": "https://i.ytimg.com/vi/C_Amz57CsYk/oardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLBXt06LkHSS2qKHfqH6RkmqAY1fjw&usqp=CCk"
         }
       ]
     },
