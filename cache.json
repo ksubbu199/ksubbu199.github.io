@@ -6,6 +6,46 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=49479878",
+          "author": "jeudesprits",
+          "description": "https://twitter.com/Zai_org/status/2093354097122455713\nhttps://z.ai/blog/glm-5.3\nComments URL: https://news.ycombinator.com/item?id=49479878\nPoints: 544\n# Comments: 195",
+          "link": "https://huggingface.co/zai-org/GLM-5.3",
+          "publishedOn": "2026-08-28T15:20:13.000Z",
+          "wordCount": 2516,
+          "title": "GLM-5.3 is now open-weight",
+          "imageUrl": "https://cdn-thumbnails.huggingface.co/social-thumbnails/models/zai-org/GLM-5.3.png"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=49479837",
+          "author": "ckardaris",
+          "description": "Article URL: https://ckardaris.com/blog/2026/08/28/keyboard-driven-guis.html\nComments URL: https://news.ycombinator.com/item?id=49479837\nPoints: 517\n# Comments: 273",
+          "link": "https://ckardaris.com/blog/2026/08/28/keyboard-driven-guis.html",
+          "publishedOn": "2026-08-28T15:17:09.000Z",
+          "wordCount": 1057,
+          "title": "GUIs should be fully keyboard-driven",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=49478340",
+          "author": "smartmic",
+          "description": "Article URL: https://en.refund4freedom.org/\nComments URL: https://news.ycombinator.com/item?id=49478340\nPoints: 638\n# Comments: 259",
+          "link": "https://en.refund4freedom.org/",
+          "publishedOn": "2026-08-28T13:42:40.000Z",
+          "wordCount": 1719,
+          "title": "Get your Windows license refund",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=49477600",
+          "author": "blenderob",
+          "description": "Article URL: https://shkspr.mobi/blog/2026/08/it-works-better-in-the-app/\nComments URL: https://news.ycombinator.com/item?id=49477600\nPoints: 618\n# Comments: 427",
+          "link": "https://shkspr.mobi/blog/2026/08/it-works-better-in-the-app/",
+          "publishedOn": "2026-08-28T12:32:16.000Z",
+          "wordCount": 2122,
+          "title": "“It works better in the app”",
+          "imageUrl": "https://shkspr.mobi/blog/wp-content/uploads/2026/07/Google-Calendar-Help.webp"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=49468083",
           "author": "TangerineDream",
           "description": "Article URL: https://blog.cloudflare.com/dns-cache-memory-optimization-1111/\nComments URL: https://news.ycombinator.com/item?id=49468083\nPoints: 830\n# Comments: 245",
@@ -54,6 +94,16 @@
           "wordCount": 8015,
           "title": "Microduck",
           "imageUrl": "https://pollen-robotics.com/assets/og/og-microduck-squad-v2.jpg"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=49462253",
+          "author": "leumon",
+          "description": "It seems like the PayPal app now refuses to run on GrapheneOS. I don't know if it's only because I have enabled the PayPal card for contacless NFC payments, but when opening the app it crashes with the following exception: com.paypal.oslo.app.rasp.RootDetectionSecurityException: Security policy violation: s=root\nComments URL: https://news.ycombinator.com/item?id=49462253\nPoints: 500\n# Comments: 323",
+          "link": "https://news.ycombinator.com/item?id=49462253",
+          "publishedOn": "2026-08-27T09:56:54.000Z",
+          "wordCount": null,
+          "title": "Tell HN: PayPal blocks GrapheneOS",
+          "imageUrl": null
         },
         {
           "id": "https://news.ycombinator.com/item?id=49461817",

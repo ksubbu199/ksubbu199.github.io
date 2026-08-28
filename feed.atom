@@ -2,10 +2,63 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-08-28T13:50:10.576Z</updated>
+    <updated>2026-08-28T23:25:19.331Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[GLM-5.3 is now open-weight]]></title>
+        <id>https://news.ycombinator.com/item?id=49479878</id>
+        <link href="https://huggingface.co/zai-org/GLM-5.3"/>
+        <updated>2026-08-28T15:20:13.000Z</updated>
+        <summary type="html"><![CDATA[https://twitter.com/Zai_org/status/2093354097122455713
+https://z.ai/blog/glm-5.3
+Comments URL: https://news.ycombinator.com/item?id=49479878
+Points: 544
+# Comments: 195]]></summary>
+        <author>
+            <name>jeudesprits</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GUIs should be fully keyboard-driven]]></title>
+        <id>https://news.ycombinator.com/item?id=49479837</id>
+        <link href="https://ckardaris.com/blog/2026/08/28/keyboard-driven-guis.html"/>
+        <updated>2026-08-28T15:17:09.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://ckardaris.com/blog/2026/08/28/keyboard-driven-guis.html
+Comments URL: https://news.ycombinator.com/item?id=49479837
+Points: 517
+# Comments: 273]]></summary>
+        <author>
+            <name>ckardaris</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Get your Windows license refund]]></title>
+        <id>https://news.ycombinator.com/item?id=49478340</id>
+        <link href="https://en.refund4freedom.org/"/>
+        <updated>2026-08-28T13:42:40.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://en.refund4freedom.org/
+Comments URL: https://news.ycombinator.com/item?id=49478340
+Points: 638
+# Comments: 259]]></summary>
+        <author>
+            <name>smartmic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“It works better in the app”]]></title>
+        <id>https://news.ycombinator.com/item?id=49477600</id>
+        <link href="https://shkspr.mobi/blog/2026/08/it-works-better-in-the-app/"/>
+        <updated>2026-08-28T12:32:16.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://shkspr.mobi/blog/2026/08/it-works-better-in-the-app/
+Comments URL: https://news.ycombinator.com/item?id=49477600
+Points: 618
+# Comments: 427]]></summary>
+        <author>
+            <name>blenderob</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Mercedes Almost KILLED BMW: How A Blind Billionaire Saved BMW From Mercedes]]></title>
         <id>https://www.youtube.com/watch?v=X7pNbK8ATiE</id>
@@ -114,6 +167,19 @@ Points: 502
         <summary type="html"><![CDATA[This email is a response to the 50+ podcast pitches that arrived in my inbox just last month, and keep arriving in growing numbers, from PR agencies and marketing teams at various companies. It's also a message to tech founders building stuff for developers: focus on building something]]></summary>
         <author>
             <name>Gergely Orosz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tell HN: PayPal blocks GrapheneOS]]></title>
+        <id>https://news.ycombinator.com/item?id=49462253</id>
+        <link href="https://news.ycombinator.com/item?id=49462253"/>
+        <updated>2026-08-27T09:56:54.000Z</updated>
+        <summary type="html"><![CDATA[It seems like the PayPal app now refuses to run on GrapheneOS. I don't know if it's only because I have enabled the PayPal card for contacless NFC payments, but when opening the app it crashes with the following exception: com.paypal.oslo.app.rasp.RootDetectionSecurityException: Security policy violation: s=root
+Comments URL: https://news.ycombinator.com/item?id=49462253
+Points: 500
+# Comments: 323]]></summary>
+        <author>
+            <name>leumon</name>
         </author>
     </entry>
     <entry>
