@@ -6,6 +6,46 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=49468083",
+          "author": "TangerineDream",
+          "description": "Article URL: https://blog.cloudflare.com/dns-cache-memory-optimization-1111/\nComments URL: https://news.ycombinator.com/item?id=49468083\nPoints: 830\n# Comments: 245",
+          "link": "https://blog.cloudflare.com/dns-cache-memory-optimization-1111/",
+          "publishedOn": "2026-08-27T17:17:57.000Z",
+          "wordCount": 3653,
+          "title": "Saving 100 terabytes of memory by optimizing 1.1.1.1's DNS cache",
+          "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01M1185AQ3B90700DKB48C2HHM.png"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=49466917",
+          "author": "tosh",
+          "description": "Article URL: https://calv.info/small-models-have-arrived\nComments URL: https://news.ycombinator.com/item?id=49466917\nPoints: 708\n# Comments: 310",
+          "link": "https://calv.info/small-models-have-arrived",
+          "publishedOn": "2026-08-27T15:56:58.000Z",
+          "wordCount": 726,
+          "title": "Small Models Have Arrived",
+          "imageUrl": "https://calv.info/api/og?title=Small%20Models%20Have%20Arrived"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=49465169",
+          "author": "helloplanets",
+          "description": "Book (1868): https://archive.org/details/fivehundredseven00browiala\nComments URL: https://news.ycombinator.com/item?id=49465169\nPoints: 622\n# Comments: 76",
+          "link": "https://507movements.com/",
+          "publishedOn": "2026-08-27T14:08:18.000Z",
+          "wordCount": 218,
+          "title": "507 Mechanical Movements",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=49464896",
+          "author": "throw0101d",
+          "description": "Article URL: https://xkcd.com/3290/\nComments URL: https://news.ycombinator.com/item?id=49464896\nPoints: 525\n# Comments: 250",
+          "link": "https://xkcd.com/3290/",
+          "publishedOn": "2026-08-27T13:49:29.000Z",
+          "wordCount": 178,
+          "title": "Trade (and Tariffs)",
+          "imageUrl": "https://imgs.xkcd.com/comics/trade_2x.png"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=49462763",
           "author": "robotswantdata",
           "description": "Article URL: https://pollen-robotics.com/microduck/\nComments URL: https://news.ycombinator.com/item?id=49462763\nPoints: 502\n# Comments: 182",
@@ -14,6 +54,16 @@
           "wordCount": 8015,
           "title": "Microduck",
           "imageUrl": "https://pollen-robotics.com/assets/og/og-microduck-squad-v2.jpg"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=49461817",
+          "author": "Labo333",
+          "description": "Article URL: https://louisabraham.github.io/load-bearing/\nComments URL: https://news.ycombinator.com/item?id=49461817\nPoints: 608\n# Comments: 295",
+          "link": "https://louisabraham.github.io/load-bearing/",
+          "publishedOn": "2026-08-27T08:59:49.000Z",
+          "wordCount": 14360,
+          "title": "Show HN: The load-bearing vocabulary of Claude",
+          "imageUrl": null
         },
         {
           "id": "https://news.ycombinator.com/item?id=49458418",
@@ -1694,46 +1744,6 @@
           "wordCount": 3235,
           "title": "Gemini Robotics 2 brings whole body intelligence to robots",
           "imageUrl": "https://lh3.googleusercontent.com/VZ5KwQMxv9xBcQnYipsQB2EUj3oX1yvFYLktIamY8V2a76Y6ctEEuaLF59TuPdnaVn6OAMINDilqnuhju1O-AXc7QlOVmcogjskrWxS7xVQ1mc5S7g=w1200-h630-n-nu-rw"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=49103285",
-          "author": "YeGoblynQueenne",
-          "description": "Article URL: https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research\nComments URL: https://news.ycombinator.com/item?id=49103285\nPoints: 509\n# Comments: 263",
-          "link": "https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research",
-          "publishedOn": "2026-07-29T21:25:40.000Z",
-          "wordCount": null,
-          "title": "AI's top startups are barely publishing their research",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=49102774",
-          "author": "robbiet480",
-          "description": "Article URL: https://christianselig.com/2026/07/vision-pro-house/\nComments URL: https://news.ycombinator.com/item?id=49102774\nPoints: 537\n# Comments: 225",
-          "link": "https://christianselig.com/2026/07/vision-pro-house/",
-          "publishedOn": "2026-07-29T20:39:40.000Z",
-          "wordCount": 2015,
-          "title": "The coolest use for the Vision Pro",
-          "imageUrl": "https://christianselig.com/2026/07/vision-pro-house/hero.jpeg"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=49098965",
-          "author": "yan",
-          "description": "https://mitchellh.com/writing/superlogical\nComments URL: https://news.ycombinator.com/item?id=49098965\nPoints: 548\n# Comments: 340",
-          "link": "https://www.superlogical.com/",
-          "publishedOn": "2026-07-29T15:41:33.000Z",
-          "wordCount": 681,
-          "title": "Superlogical",
-          "imageUrl": "https://www.superlogical.com/og.webp"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=49098510",
-          "author": "gitpusher42",
-          "description": "Hi HN,\nI built a specialized inference engine for running 4-bit Gemma 4 26B-A4B-IT on any M-series Mac using about 2 GB of RAM. It is called TurboFieldfare and is written in Swift and Metal.\nI have always adored on-device AI. It feels like magic that you can run a powerful NN on your Mac or iPhone. So I wanted to push the limits a bit and run a model whose weights don’t fit in memory.\nThe model’s 4-bit quantized weights occupy roughly 14 GB, which makes running it with conventional inference tools almost impossible on an 8 GB or even 16 GB Mac once the OS, applications, and KV cache are included.\nThe trick is to keep the shared part of the model and the KV cache in RAM, then stream only the routed experts needed for each token from SSD. An SSD is way slower than RAM, so the runtime uses a small expert cache and bounded parallel `pread`. While those reads are in flight, the GPU runs the shared part of the layer.\nI ran more than 100 experiments. Most didn’t work. A few got me here. The experiments are described in the GitHub repo.\nIt currently generates 5–6 tok/s on an 8 GB M2 MacBook Air and 31–35 tok/s on an M5 MacBook Pro.\nI also added an experimental OpenAI-compatible local server. It supports streaming and tool calls, and reuses one prompt prefix from the KV cache.\nTry it! The Mac app is easy to install. On the first run, it will download 15 GB of weights from Hugging Face. The model is surprisingly capable.\nI would love any kind of feedback!\nComments URL: https://news.ycombinator.com/item?id=49098510\nPoints: 510\n# Comments: 179",
-          "link": "https://github.com/drumih/turbo-fieldfare",
-          "publishedOn": "2026-07-29T15:05:43.000Z",
-          "wordCount": 6798,
-          "title": "Show HN: Open-source engine running Gemma 4 26B in 2 GB RAM on any M-series Mac",
-          "imageUrl": "https://repository-images.githubusercontent.com/github-production-repository-image-32fea6/1304159264/d6c0493d-d97a-45fc-b20a-dd40d1b6e090?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20260729%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260729T205435Z&X-Amz-Expires=300&X-Amz-Signature=3182e00d219876b47230cfb928de8ba3d29ffce99aa037eced6bf66e9860e6f9&X-Amz-SignedHeaders=host&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoiaHR0cHM6Ly9yZXBvc2l0b3J5LWltYWdlcy5naXRodWJ1c2VyY29udGVudC5jb20vIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4NTM1ODc3NSwibmJmIjoxNzg1MzU4NDc1LCJwYXRoIjoicmVwb3NpdG9yeS1pbWFnZXMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIn0.pqDzaXJI1eN34dwdGO_jiwrsVJoArM6qvzdjP3O9nwU"
         }
       ]
     },
@@ -1992,6 +2002,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCKZozRVHRYsYHGEyNKuhhdA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=X7pNbK8ATiE",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=X7pNbK8ATiE",
+          "publishedOn": "2026-08-28T12:14:02.000Z",
+          "wordCount": null,
+          "title": "Mercedes Almost KILLED BMW: How A Blind Billionaire Saved BMW From Mercedes",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/shorts/DdiGAleaJMI",
           "author": null,
           "description": "In this podcast, Jonah Berger, Wharton professor and bestselling author of Contagious, breaks down the science behind viral marketing and explains how brands...",
@@ -2219,16 +2239,6 @@
           "publishedOn": "2026-07-30T15:01:49.000Z",
           "wordCount": null,
           "title": "Why 99% of Businesses Fail at AI | How in 30-Days you can make your Business AI-Ready",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=-tSj2A_Pqfo",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=-tSj2A_Pqfo",
-          "publishedOn": "2026-07-29T15:47:55.000Z",
-          "wordCount": null,
-          "title": "Trump's ILLEGAL Goldmine | Why Trump Is Breaking International Law to Beat China?",
           "imageUrl": null
         }
       ]
