@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=49462763",
+          "author": "robotswantdata",
+          "description": "Article URL: https://pollen-robotics.com/microduck/\nComments URL: https://news.ycombinator.com/item?id=49462763\nPoints: 502\n# Comments: 182",
+          "link": "https://pollen-robotics.com/microduck/",
+          "publishedOn": "2026-08-27T10:57:56.000Z",
+          "wordCount": 8015,
+          "title": "Microduck",
+          "imageUrl": "https://pollen-robotics.com/assets/og/og-microduck-squad-v2.jpg"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=49458418",
           "author": "GrumpySciGuy",
           "description": "Article URL: https://github.com/SenteLabsAI/OpenExecutive\nComments URL: https://news.ycombinator.com/item?id=49458418\nPoints: 854\n# Comments: 587",
@@ -24,6 +34,16 @@
           "wordCount": 4638,
           "title": "Nvidia agrees to acquire Hugging Face for $13B",
           "imageUrl": "https://i.insider.com/6a8f6dc43f7df8787cff40f7?width=1200&format=jpeg"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=49457545",
+          "author": "tmp10423288442",
+          "description": "Article URL: https://www.mturk.com/\nComments URL: https://news.ycombinator.com/item?id=49457545\nPoints: 518\n# Comments: 157",
+          "link": "https://www.mturk.com/",
+          "publishedOn": "2026-08-26T23:55:44.000Z",
+          "wordCount": 913,
+          "title": "Mechanical Turk shutting down September 30",
+          "imageUrl": null
         },
         {
           "id": "https://news.ycombinator.com/item?id=49452990",
@@ -1714,16 +1734,6 @@
           "wordCount": 6798,
           "title": "Show HN: Open-source engine running Gemma 4 26B in 2 GB RAM on any M-series Mac",
           "imageUrl": "https://repository-images.githubusercontent.com/github-production-repository-image-32fea6/1304159264/d6c0493d-d97a-45fc-b20a-dd40d1b6e090?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20260729%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260729T205435Z&X-Amz-Expires=300&X-Amz-Signature=3182e00d219876b47230cfb928de8ba3d29ffce99aa037eced6bf66e9860e6f9&X-Amz-SignedHeaders=host&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoiaHR0cHM6Ly9yZXBvc2l0b3J5LWltYWdlcy5naXRodWJ1c2VyY29udGVudC5jb20vIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4NTM1ODc3NSwibmJmIjoxNzg1MzU4NDc1LCJwYXRoIjoicmVwb3NpdG9yeS1pbWFnZXMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIn0.pqDzaXJI1eN34dwdGO_jiwrsVJoArM6qvzdjP3O9nwU"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=49095865",
-          "author": "Cider9986",
-          "description": "Article URL: https://koreader.rocks/\nComments URL: https://news.ycombinator.com/item?id=49095865\nPoints: 565\n# Comments: 180",
-          "link": "https://koreader.rocks/",
-          "publishedOn": "2026-07-29T11:05:08.000Z",
-          "wordCount": 54,
-          "title": "KOReader",
-          "imageUrl": null
         }
       ]
     },
@@ -1914,6 +1924,16 @@
       "feedUrl": "https://blog.pragmaticengineer.com/rss/",
       "siteUrl": "https://blog.pragmaticengineer.com/",
       "articles": [
+        {
+          "id": "6a900f61f1788f0001c466a3",
+          "author": "Ivan Klaric",
+          "description": "Asana migrated off testing framework Enzyme in two weeks: without AI, this work would surely have been kicked down the road. Airbnb and Uber share similar stories and AI seems excellent at migrations.",
+          "link": "https://blog.pragmaticengineer.com/the-pulse-we-need-to-talk-about-migrations-with-ai/",
+          "publishedOn": "2026-08-27T18:04:54.000Z",
+          "wordCount": 2580,
+          "title": "The Pulse: We need to talk about migrations with AI",
+          "imageUrl": null
+        },
         {
           "id": "6a900187f1788f0001c465cd",
           "author": "Gergely Orosz",

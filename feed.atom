@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-08-27T16:07:36.970Z</updated>
+    <updated>2026-08-28T01:16:43.418Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The Pulse: We need to talk about migrations with AI]]></title>
+        <id>6a900f61f1788f0001c466a3</id>
+        <link href="https://blog.pragmaticengineer.com/the-pulse-we-need-to-talk-about-migrations-with-ai/"/>
+        <updated>2026-08-27T18:04:54.000Z</updated>
+        <summary type="html"><![CDATA[Asana migrated off testing framework Enzyme in two weeks: without AI, this work would surely have been kicked down the road. Airbnb and Uber share similar stories and AI seems excellent at migrations.]]></summary>
+        <author>
+            <name>Ivan Klaric</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Making Your Data Ready for Agentic AI]]></title>
         <id>https://martinfowler.com/articles/making-data-ready-for-agentic-ai.html</id>
@@ -20,6 +30,19 @@
 more…]]></summary>
         <author>
             <name>Martin Fowler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microduck]]></title>
+        <id>https://news.ycombinator.com/item?id=49462763</id>
+        <link href="https://pollen-robotics.com/microduck/"/>
+        <updated>2026-08-27T10:57:56.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://pollen-robotics.com/microduck/
+Comments URL: https://news.ycombinator.com/item?id=49462763
+Points: 502
+# Comments: 182]]></summary>
+        <author>
+            <name>robotswantdata</name>
         </author>
     </entry>
     <entry>
@@ -57,6 +80,19 @@ Points: 1621
 # Comments: 754]]></summary>
         <author>
             <name>mfiguiere</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mechanical Turk shutting down September 30]]></title>
+        <id>https://news.ycombinator.com/item?id=49457545</id>
+        <link href="https://www.mturk.com/"/>
+        <updated>2026-08-26T23:55:44.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.mturk.com/
+Comments URL: https://news.ycombinator.com/item?id=49457545
+Points: 518
+# Comments: 157]]></summary>
+        <author>
+            <name>tmp10423288442</name>
         </author>
     </entry>
     <entry>
@@ -2716,19 +2752,6 @@ Points: 510
 # Comments: 179]]></summary>
         <author>
             <name>gitpusher42</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[KOReader]]></title>
-        <id>https://news.ycombinator.com/item?id=49095865</id>
-        <link href="https://koreader.rocks/"/>
-        <updated>2026-07-29T11:05:08.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://koreader.rocks/
-Comments URL: https://news.ycombinator.com/item?id=49095865
-Points: 565
-# Comments: 180]]></summary>
-        <author>
-            <name>Cider9986</name>
         </author>
     </entry>
     <entry>
