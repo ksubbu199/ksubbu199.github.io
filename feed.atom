@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-08-28T23:25:19.331Z</updated>
+    <updated>2026-08-29T05:51:07.380Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -47,6 +47,34 @@ Points: 638
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Htmx 4.0]]></title>
+        <id>https://news.ycombinator.com/item?id=49478178</id>
+        <link href="https://four.htmx.org/announcements/2026-08-28-htmx-4.0.0-is-released"/>
+        <updated>2026-08-28T13:28:56.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://four.htmx.org/announcements/2026-08-28-htmx-4.0.0-is-released
+Comments URL: https://news.ycombinator.com/item?id=49478178
+Points: 591
+# Comments: 144]]></summary>
+        <author>
+            <name>rmsaksida</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[U.S. sanctions against the A/I Collective]]></title>
+        <id>https://news.ycombinator.com/item?id=49477854</id>
+        <link href="https://www.inventati.org/"/>
+        <updated>2026-08-28T12:58:53.000Z</updated>
+        <summary type="html"><![CDATA[Earlier:
+US Government designates host of noblogs.org a "global terrorist" - https://news.ycombinator.com/item?id=49464391 -  (131 comments)
+US sanctions Italian hosting provider Autistici Inventati - https://news.ycombinator.com/item?id=49451343 - (219 comments)
+Comments URL: https://news.ycombinator.com/item?id=49477854
+Points: 540
+# Comments: 530]]></summary>
+        <author>
+            <name>exiguus</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[“It works better in the app”]]></title>
         <id>https://news.ycombinator.com/item?id=49477600</id>
         <link href="https://shkspr.mobi/blog/2026/08/it-works-better-in-the-app/"/>
@@ -66,6 +94,20 @@ Points: 618
         <updated>2026-08-28T12:14:02.000Z</updated>
         <author>
             <name>Think School</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Judge rules Trump administration’s blacklisting of Anthropic was illegal]]></title>
+        <id>https://news.ycombinator.com/item?id=49473522</id>
+        <link href="https://www.nytimes.com/2026/08/27/technology/anthropic-government-blacklisting-ruling.html"/>
+        <updated>2026-08-28T02:03:38.000Z</updated>
+        <summary type="html"><![CDATA[https://archive.ph/ni6I3
+https://storage.courtlistener.com/recap/gov.uscourts.cand.46...
+Comments URL: https://news.ycombinator.com/item?id=49473522
+Points: 566
+# Comments: 412]]></summary>
+        <author>
+            <name>jbegley</name>
         </author>
     </entry>
     <entry>
@@ -2731,55 +2773,6 @@ Points: 634
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Advancing the price-performance frontier with GPT‑5.6]]></title>
-        <id>https://news.ycombinator.com/item?id=49112867</id>
-        <link href="https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6/"/>
-        <updated>2026-07-30T17:15:51.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6/
-Comments URL: https://news.ycombinator.com/item?id=49112867
-Points: 505
-# Comments: 335]]></summary>
-        <author>
-            <name>tedsanders</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Read this before you buy that TV streaming stick]]></title>
-        <id>https://news.ycombinator.com/item?id=49112744</id>
-        <link href="https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/"/>
-        <updated>2026-07-30T17:04:53.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/
-Comments URL: https://news.ycombinator.com/item?id=49112744
-Points: 588
-# Comments: 345]]></summary>
-        <author>
-            <name>speckx</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stacked PRs are now live on GitHub]]></title>
-        <id>https://news.ycombinator.com/item?id=49112232</id>
-        <link href="https://github.blog/changelog/2026-07-30-stacked-pull-requests-are-now-in-public-preview/"/>
-        <updated>2026-07-30T16:26:16.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://github.blog/changelog/2026-07-30-stacked-pull-requests-are-now-in-public-preview/
-Comments URL: https://news.ycombinator.com/item?id=49112232
-Points: 572
-# Comments: 191]]></summary>
-        <author>
-            <name>tomzorz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Pulse: Quitting Spotify Podcasts over reliability]]></title>
-        <id>6a6b68cb5afb0c00015a3f23</id>
-        <link href="https://blog.pragmaticengineer.com/the-pulse-quitting-spotify-podcasts-over-reliability/"/>
-        <updated>2026-07-30T15:51:38.000Z</updated>
-        <summary type="html"><![CDATA[Spotify’s podcast platform has become chronically unreliable since the company’s leadership started boasting about AI adoption. Competitors haven’t had similar issues, so I offboarded from Spotify.]]></summary>
-        <author>
-            <name>Ivan Klaric</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[AI Can Save Crores in Your Business]]></title>
         <id>https://www.youtube.com/shorts/ydgGMX8lOWA</id>
         <link href="https://www.youtube.com/shorts/ydgGMX8lOWA"/>
@@ -2790,38 +2783,12 @@ Points: 572
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Gemini Robotics 2 brings whole body intelligence to robots]]></title>
-        <id>https://news.ycombinator.com/item?id=49111237</id>
-        <link href="https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/"/>
-        <updated>2026-07-30T15:15:48.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/
-Comments URL: https://news.ycombinator.com/item?id=49111237
-Points: 523
-# Comments: 420]]></summary>
-        <author>
-            <name>ai2027</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Why 99% of Businesses Fail at AI | How in 30-Days you can make your Business AI-Ready]]></title>
         <id>https://www.youtube.com/watch?v=NOvqC-9MZu8</id>
         <link href="https://www.youtube.com/watch?v=NOvqC-9MZu8"/>
         <updated>2026-07-30T15:01:49.000Z</updated>
         <author>
             <name>Think School</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Economic Benefit of Refactoring]]></title>
-        <id>https://martinfowler.com/articles/exploring-gen-ai/refactoring-economic-benefit.html</id>
-        <link href="https://martinfowler.com/articles/exploring-gen-ai/refactoring-economic-benefit.html"/>
-        <updated>2026-07-30T13:04:00.000Z</updated>
-        <summary type="html"><![CDATA[Giles Edwards-Alexander does an experiment to see if decomposing a
-      large function helps reduce token costs, suggesting that is may now be
-      possible to measure the economic benefit of refactoring
-more…]]></summary>
-        <author>
-            <name>Martin Fowler</name>
         </author>
     </entry>
     <entry>

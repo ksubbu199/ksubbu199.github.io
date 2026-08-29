@@ -36,6 +36,26 @@
           "imageUrl": null
         },
         {
+          "id": "https://news.ycombinator.com/item?id=49478178",
+          "author": "rmsaksida",
+          "description": "Article URL: https://four.htmx.org/announcements/2026-08-28-htmx-4.0.0-is-released\nComments URL: https://news.ycombinator.com/item?id=49478178\nPoints: 591\n# Comments: 144",
+          "link": "https://four.htmx.org/announcements/2026-08-28-htmx-4.0.0-is-released",
+          "publishedOn": "2026-08-28T13:28:56.000Z",
+          "wordCount": 1951,
+          "title": "Htmx 4.0",
+          "imageUrl": "https://four.htmx.org/img/og-image.png"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=49477854",
+          "author": "exiguus",
+          "description": "Earlier:\nUS Government designates host of noblogs.org a \"global terrorist\" - https://news.ycombinator.com/item?id=49464391 -  (131 comments)\nUS sanctions Italian hosting provider Autistici Inventati - https://news.ycombinator.com/item?id=49451343 - (219 comments)\nComments URL: https://news.ycombinator.com/item?id=49477854\nPoints: 540\n# Comments: 530",
+          "link": "https://www.inventati.org/",
+          "publishedOn": "2026-08-28T12:58:53.000Z",
+          "wordCount": 275,
+          "title": "U.S. sanctions against the A/I Collective",
+          "imageUrl": null
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=49477600",
           "author": "blenderob",
           "description": "Article URL: https://shkspr.mobi/blog/2026/08/it-works-better-in-the-app/\nComments URL: https://news.ycombinator.com/item?id=49477600\nPoints: 618\n# Comments: 427",
@@ -44,6 +64,16 @@
           "wordCount": 2122,
           "title": "“It works better in the app”",
           "imageUrl": "https://shkspr.mobi/blog/wp-content/uploads/2026/07/Google-Calendar-Help.webp"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=49473522",
+          "author": "jbegley",
+          "description": "https://archive.ph/ni6I3\nhttps://storage.courtlistener.com/recap/gov.uscourts.cand.46...\nComments URL: https://news.ycombinator.com/item?id=49473522\nPoints: 566\n# Comments: 412",
+          "link": "https://www.nytimes.com/2026/08/27/technology/anthropic-government-blacklisting-ruling.html",
+          "publishedOn": "2026-08-28T02:03:38.000Z",
+          "wordCount": null,
+          "title": "Judge rules Trump administration’s blacklisting of Anthropic was illegal",
+          "imageUrl": null
         },
         {
           "id": "https://news.ycombinator.com/item?id=49468083",
@@ -1754,46 +1784,6 @@
           "wordCount": 1157,
           "title": "UEFA and its national associations will not participate in FIFA competitions",
           "imageUrl": "https://editorial.uefa.com/resources/02a7-213acb6c89f6-6c8e1ae54e77-1000/uefa_corporate_logo_all_crops.png"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=49112867",
-          "author": "tedsanders",
-          "description": "Article URL: https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6/\nComments URL: https://news.ycombinator.com/item?id=49112867\nPoints: 505\n# Comments: 335",
-          "link": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6/",
-          "publishedOn": "2026-07-30T17:15:51.000Z",
-          "wordCount": null,
-          "title": "Advancing the price-performance frontier with GPT‑5.6",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=49112744",
-          "author": "speckx",
-          "description": "Article URL: https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/\nComments URL: https://news.ycombinator.com/item?id=49112744\nPoints: 588\n# Comments: 345",
-          "link": "https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/",
-          "publishedOn": "2026-07-30T17:04:53.000Z",
-          "wordCount": 3030,
-          "title": "Read this before you buy that TV streaming stick",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=49112232",
-          "author": "tomzorz",
-          "description": "Article URL: https://github.blog/changelog/2026-07-30-stacked-pull-requests-are-now-in-public-preview/\nComments URL: https://news.ycombinator.com/item?id=49112232\nPoints: 572\n# Comments: 191",
-          "link": "https://github.blog/changelog/2026-07-30-stacked-pull-requests-are-now-in-public-preview/",
-          "publishedOn": "2026-07-30T16:26:16.000Z",
-          "wordCount": 1962,
-          "title": "Stacked PRs are now live on GitHub",
-          "imageUrl": "https://github.blog/wp-content/uploads/2026/07/Changelog-Stacks-NewRelease-Unfurl.png"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=49111237",
-          "author": "ai2027",
-          "description": "Article URL: https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/\nComments URL: https://news.ycombinator.com/item?id=49111237\nPoints: 523\n# Comments: 420",
-          "link": "https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/",
-          "publishedOn": "2026-07-30T15:15:48.000Z",
-          "wordCount": 3235,
-          "title": "Gemini Robotics 2 brings whole body intelligence to robots",
-          "imageUrl": "https://lh3.googleusercontent.com/VZ5KwQMxv9xBcQnYipsQB2EUj3oX1yvFYLktIamY8V2a76Y6ctEEuaLF59TuPdnaVn6OAMINDilqnuhju1O-AXc7QlOVmcogjskrWxS7xVQ1mc5S7g=w1200-h630-n-nu-rw"
         }
       ]
     },
@@ -1960,16 +1950,6 @@
           "wordCount": 1105,
           "title": "The Conductor Developer",
           "imageUrl": "https://martinfowler.com/rachels-ramblings/card.png"
-        },
-        {
-          "id": "https://martinfowler.com/articles/exploring-gen-ai/refactoring-economic-benefit.html",
-          "author": null,
-          "description": "Giles Edwards-Alexander does an experiment to see if decomposing a\n      large function helps reduce token costs, suggesting that is may now be\n      possible to measure the economic benefit of refactoring\nmore…",
-          "link": "https://martinfowler.com/articles/exploring-gen-ai/refactoring-economic-benefit.html",
-          "publishedOn": "2026-07-30T13:04:00.000Z",
-          "wordCount": 3340,
-          "title": "The Economic Benefit of Refactoring",
-          "imageUrl": "https://martinfowler.com/articles/exploring-gen-ai/donkey-card.png"
         }
       ]
     },
@@ -2032,16 +2012,6 @@
           "publishedOn": "2026-08-05T11:45:13.000Z",
           "wordCount": 2956,
           "title": "The Pulse: Bending Spoons' Acquisition Strategy",
-          "imageUrl": null
-        },
-        {
-          "id": "6a6b68cb5afb0c00015a3f23",
-          "author": "Ivan Klaric",
-          "description": "Spotify’s podcast platform has become chronically unreliable since the company’s leadership started boasting about AI adoption. Competitors haven’t had similar issues, so I offboarded from Spotify.",
-          "link": "https://blog.pragmaticengineer.com/the-pulse-quitting-spotify-podcasts-over-reliability/",
-          "publishedOn": "2026-07-30T15:51:38.000Z",
-          "wordCount": 3060,
-          "title": "The Pulse: Quitting Spotify Podcasts over reliability",
           "imageUrl": null
         }
       ]
