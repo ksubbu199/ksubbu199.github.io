@@ -86,6 +86,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://news.ycombinator.com/item?id=49475079",
+          "author": "miniBill",
+          "description": "Article URL: https://blog.luanti.org/2026/08/27/luanti-dmca-tracer-ai/\nComments URL: https://news.ycombinator.com/item?id=49475079\nPoints: 500\n# Comments: 150",
+          "link": "https://blog.luanti.org/2026/08/27/luanti-dmca-tracer-ai/",
+          "publishedOn": "2026-08-28T06:33:57.000Z",
+          "wordCount": 3213,
+          "title": "Luanti removed from Google Play due to baseless AI copyright notice",
+          "imageUrl": "https://blog.luanti.org/static/blog/2026_dmca/cover.webp"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=49473522",
           "author": "jbegley",
           "description": "https://archive.ph/ni6I3\nhttps://storage.courtlistener.com/recap/gov.uscourts.cand.46...\nComments URL: https://news.ycombinator.com/item?id=49473522\nPoints: 566\n# Comments: 412",
@@ -1784,16 +1794,6 @@
           "wordCount": 1416,
           "title": "DeepSeek-V4-Flash Update",
           "imageUrl": "https://api-docs.deepseek.com/img/deepseek-social-card.jpeg"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=49118781",
-          "author": "apitman",
-          "description": "Article URL: https://earendil.com/posts/session-portability/\nComments URL: https://news.ycombinator.com/item?id=49118781\nPoints: 563\n# Comments: 152",
-          "link": "https://earendil.com/posts/session-portability/",
-          "publishedOn": "2026-07-31T03:47:59.000Z",
-          "wordCount": 3107,
-          "title": "The session you cannot take with you",
-          "imageUrl": "https://earendil.com/static/og/posts/session-portability.png"
         }
       ]
     },
@@ -2031,6 +2031,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKZozRVHRYsYHGEyNKuhhdA",
       "siteUrl": "https://www.youtube.com/channel/UCKZozRVHRYsYHGEyNKuhhdA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=U4Kvm8Zt-RU",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=U4Kvm8Zt-RU",
+          "publishedOn": "2026-08-29T15:21:37.000Z",
+          "wordCount": null,
+          "title": "SAUDI’S DREAM TURNED INTO A DISASTER | The Trillion-Dollar Failure of NEOM",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=X7pNbK8ATiE",
           "author": null,
