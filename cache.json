@@ -16,6 +16,16 @@
           "imageUrl": "https://cdn.mos.cms.futurecdn.net/G9dtD87HfBhVHzDmSHE2tE-1920-80.jpg"
         },
         {
+          "id": "https://news.ycombinator.com/item?id=49491791",
+          "author": "zdw",
+          "description": "Article URL: https://people.kernel.org/monsieuricon/creepy-crawlies\nComments URL: https://news.ycombinator.com/item?id=49491791\nPoints: 607\n# Comments: 303",
+          "link": "https://people.kernel.org/monsieuricon/creepy-crawlies",
+          "publishedOn": "2026-08-29T17:49:01.000Z",
+          "wordCount": 1801,
+          "title": "Creepy Crawlies",
+          "imageUrl": "https://kaoti.ca/graphs/fig2-urlspace.png"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=49486172",
           "author": "meetpateltech",
           "description": "Article URL: https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex/\nComments URL: https://news.ycombinator.com/item?id=49486172\nPoints: 588\n# Comments: 331",
@@ -1751,7 +1761,18 @@
       "title": "/dev/lawyer",
       "feedUrl": "https://writing.kemitchell.com/feed.xml",
       "siteUrl": "https://writing.kemitchell.com",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://writing.kemitchell.com/2026/08/30/Sans-Serifs-Fonts-for-Contracts",
+          "author": null,
+          "description": "law, technology, and the space between",
+          "link": "https://writing.kemitchell.com/2026/08/30/Sans-Serifs-Fonts-for-Contracts",
+          "publishedOn": "2026-08-30T19:00:22.000Z",
+          "wordCount": 379,
+          "title": "Sans-Serif Fonts for Contracts",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "Boot.dev Blog",
