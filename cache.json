@@ -1734,36 +1734,6 @@
           "wordCount": 5181,
           "title": "How Google helped destroy adoption of RSS feeds (2023)",
           "imageUrl": "https://openrss.orghttps://openrss.org/media/google-links-break.jpg"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=49127306",
-          "author": "bluehatbrit",
-          "description": "Article URL: https://tailscale.com/blog/hugging-face-intrusion\nComments URL: https://news.ycombinator.com/item?id=49127306\nPoints: 527\n# Comments: 196",
-          "link": "https://tailscale.com/blog/hugging-face-intrusion",
-          "publishedOn": "2026-07-31T19:03:45.000Z",
-          "wordCount": 3572,
-          "title": "Tailscale didn't stop the Hugging Face intrusion",
-          "imageUrl": "https://tailscale.com/api/og-image?id=0dafcba5-55df-4373-be5e-564b368a27af"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=49126604",
-          "author": "tosh",
-          "description": "Article URL: https://github.com/yc-software/qm\nComments URL: https://news.ycombinator.com/item?id=49126604\nPoints: 507\n# Comments: 107",
-          "link": "https://github.com/yc-software/qm",
-          "publishedOn": "2026-07-31T18:04:58.000Z",
-          "wordCount": 4308,
-          "title": "qm – Multiplayer agent harness for work",
-          "imageUrl": "https://opengraph.githubassets.com/9a11c880e6821cbcb42a2da42361d154799b3efdb51af1332f29468aa6f7e90b/yc-software/qm"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=49124218",
-          "author": "Jrh0203",
-          "description": "Article URL: https://john.fun/elevators\nComments URL: https://news.ycombinator.com/item?id=49124218\nPoints: 613\n# Comments: 160",
-          "link": "https://john.fun/elevators",
-          "publishedOn": "2026-07-31T15:17:28.000Z",
-          "wordCount": 1041,
-          "title": "Elevators",
-          "imageUrl": "https://john.fun/metadata/elevator/twitter-card.png"
         }
       ]
     },
@@ -1920,16 +1890,6 @@
           "wordCount": 1509,
           "title": "Fragments: August  4",
           "imageUrl": "https://martinfowler.com/logo-sq.png"
-        },
-        {
-          "id": "https://martinfowler.com/rachels-ramblings/conductor-developer.html",
-          "author": null,
-          "description": "TL;DR\nWhy I think software development is starting to feel a little more like conducting an orchestra.\n\nThere’s a shift happening in software development that I don’t think we’re talking about clearly enough.\nFor the last couple of years we’ve framed AI as a productivity tool. How much faster can it write code? How many more features can we ship? How much cheaper can we build software? I think that’s the wrong question, but I understand why.\nThe first thing AI became good at was writing code, so naturally that’s where we focused. As AI got better at coding, I expected the bottlenecks to move through the software delivery lifecycle: from coding to design and specification, architecture, then verification. And they have. We spent a lot of time at the most recent FOSE  event discussing how we…",
-          "link": "https://martinfowler.com/rachels-ramblings/conductor-developer.html",
-          "publishedOn": "2026-07-31T13:48:00.000Z",
-          "wordCount": 1105,
-          "title": "The Conductor Developer",
-          "imageUrl": "https://martinfowler.com/rachels-ramblings/card.png"
         }
       ]
     },
@@ -2001,6 +1961,26 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKZozRVHRYsYHGEyNKuhhdA",
       "siteUrl": "https://www.youtube.com/channel/UCKZozRVHRYsYHGEyNKuhhdA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/shorts/gHuwSWBV0qA",
+          "author": null,
+          "description": "In this YouTube Short, Saad Khaja explains why salespeople are often perceived negatively in India and reveals what most people misunderstand about sales.He ...",
+          "link": "https://www.youtube.com/shorts/gHuwSWBV0qA",
+          "publishedOn": "2026-08-30T06:55:57.000Z",
+          "wordCount": 4305,
+          "title": "Why Do Indians Hate Salespeople? Ft. Saad Khaja",
+          "imageUrl": "https://i.ytimg.com/vi/gHuwSWBV0qA/oardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLAxLk8feAPJm_0VDgDjE2df0oVL1A&usqp=CCk"
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=BZv_N4I_THQ",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=BZv_N4I_THQ",
+          "publishedOn": "2026-08-30T06:50:41.000Z",
+          "wordCount": null,
+          "title": "How to SELL ANYTHING to ANYONE? | The Cold Calling Masterclass | Saad Khaja",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=U4Kvm8Zt-RU",
           "author": null,
