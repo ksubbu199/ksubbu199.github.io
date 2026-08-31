@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-08-31T03:57:02.895Z</updated>
+    <updated>2026-08-31T10:41:19.148Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[“I just chose words carefully”]]></title>
+        <id>https://news.ycombinator.com/item?id=49503601</id>
+        <link href="https://unsung.aresluna.org/i-just-chose-words-carefully/"/>
+        <updated>2026-08-30T22:49:48.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://unsung.aresluna.org/i-just-chose-words-carefully/
+Comments URL: https://news.ycombinator.com/item?id=49503601
+Points: 824
+# Comments: 211]]></summary>
+        <author>
+            <name>zdw</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Sans-Serif Fonts for Contracts]]></title>
         <id>https://writing.kemitchell.com/2026/08/30/Sans-Serifs-Fonts-for-Contracts</id>
@@ -14,6 +27,19 @@
         <summary type="html"><![CDATA[law, technology, and the space between]]></summary>
         <author>
             <name>/dev/lawyer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Omarchy: Any User Process Can Escalate to Root]]></title>
+        <id>https://news.ycombinator.com/item?id=49499854</id>
+        <link href="https://0xcc.io/posts/omarchy-root-creds/"/>
+        <updated>2026-08-30T15:59:49.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://0xcc.io/posts/omarchy-root-creds/
+Comments URL: https://news.ycombinator.com/item?id=49499854
+Points: 501
+# Comments: 495]]></summary>
+        <author>
+            <name>trap0xcc</name>
         </author>
     </entry>
     <entry>
@@ -78,6 +104,19 @@ Points: 607
         <updated>2026-08-29T15:21:37.000Z</updated>
         <author>
             <name>Think School</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Debian votes to allow "responsible use of generative AI"]]></title>
+        <id>https://news.ycombinator.com/item?id=49489982</id>
+        <link href="https://lwn.net/Articles/1091231/"/>
+        <updated>2026-08-29T14:02:10.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://lwn.net/Articles/1091231/
+Comments URL: https://news.ycombinator.com/item?id=49489982
+Points: 506
+# Comments: 470]]></summary>
+        <author>
+            <name>pluc</name>
         </author>
     </entry>
     <entry>
@@ -2729,41 +2768,6 @@ Points: 545
 # Comments: 381]]></summary>
         <author>
             <name>delichon</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Diátaxis]]></title>
-        <id>https://news.ycombinator.com/item?id=49138188</id>
-        <link href="https://diataxis.fr/"/>
-        <updated>2026-08-01T20:33:27.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://diataxis.fr/
-Comments URL: https://news.ycombinator.com/item?id=49138188
-Points: 501
-# Comments: 57]]></summary>
-        <author>
-            <name>ryanseys</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Google helped destroy adoption of RSS feeds (2023)]]></title>
-        <id>https://news.ycombinator.com/item?id=49136821</id>
-        <link href="https://openrss.org/blog/how-google-helped-destroy-adoption-of-rss-feeds"/>
-        <updated>2026-08-01T18:07:07.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://openrss.org/blog/how-google-helped-destroy-adoption-of-rss-feeds
-Comments URL: https://news.ycombinator.com/item?id=49136821
-Points: 516
-# Comments: 177]]></summary>
-        <author>
-            <name>pudgywalsh</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[US market nightmare | Why are the Tech Stocks suddenly Falling?]]></title>
-        <id>https://www.youtube.com/watch?v=801JPiGAKOE</id>
-        <link href="https://www.youtube.com/watch?v=801JPiGAKOE"/>
-        <updated>2026-08-01T15:59:53.000Z</updated>
-        <author>
-            <name>Think School</name>
         </author>
     </entry>
     <entry>

@@ -6,6 +6,26 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=49503601",
+          "author": "zdw",
+          "description": "Article URL: https://unsung.aresluna.org/i-just-chose-words-carefully/\nComments URL: https://news.ycombinator.com/item?id=49503601\nPoints: 824\n# Comments: 211",
+          "link": "https://unsung.aresluna.org/i-just-chose-words-carefully/",
+          "publishedOn": "2026-08-30T22:49:48.000Z",
+          "wordCount": 364,
+          "title": "“I just chose words carefully”",
+          "imageUrl": "https://unsung.aresluna.org/_media/i-just-chose-words-carefully/ogimage.jpg"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=49499854",
+          "author": "trap0xcc",
+          "description": "Article URL: https://0xcc.io/posts/omarchy-root-creds/\nComments URL: https://news.ycombinator.com/item?id=49499854\nPoints: 501\n# Comments: 495",
+          "link": "https://0xcc.io/posts/omarchy-root-creds/",
+          "publishedOn": "2026-08-30T15:59:49.000Z",
+          "wordCount": 857,
+          "title": "Omarchy: Any User Process Can Escalate to Root",
+          "imageUrl": null
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=49495372",
           "author": "shscs911",
           "description": "Article URL: https://www.tomshardware.com/software/linux/california-lawmakers-unanimously-pass-linux-exemption-from-age-verification-law-software-distributed-under-the-gpl-mit-bsd-and-apache-licenses-are-exempt\nComments URL: https://news.ycombinator.com/item?id=49495372\nPoints: 613\n# Comments: 292",
@@ -24,6 +44,16 @@
           "wordCount": 1801,
           "title": "Creepy Crawlies",
           "imageUrl": "https://kaoti.ca/graphs/fig2-urlspace.png"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=49489982",
+          "author": "pluc",
+          "description": "Article URL: https://lwn.net/Articles/1091231/\nComments URL: https://news.ycombinator.com/item?id=49489982\nPoints: 506\n# Comments: 470",
+          "link": "https://lwn.net/Articles/1091231/",
+          "publishedOn": "2026-08-29T14:02:10.000Z",
+          "wordCount": null,
+          "title": "Debian votes to allow \"responsible use of generative AI\"",
+          "imageUrl": null
         },
         {
           "id": "https://news.ycombinator.com/item?id=49486172",
@@ -1734,26 +1764,6 @@
           "wordCount": 1679,
           "title": "Karpathy’s Pelican",
           "imageUrl": "https://pbs.twimg.com/amplify_video_thumb/2083744791876292608/img/tWEKnM_bdE_nlfYD.jpg"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=49138188",
-          "author": "ryanseys",
-          "description": "Article URL: https://diataxis.fr/\nComments URL: https://news.ycombinator.com/item?id=49138188\nPoints: 501\n# Comments: 57",
-          "link": "https://diataxis.fr/",
-          "publishedOn": "2026-08-01T20:33:27.000Z",
-          "wordCount": 539,
-          "title": "Diátaxis",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=49136821",
-          "author": "pudgywalsh",
-          "description": "Article URL: https://openrss.org/blog/how-google-helped-destroy-adoption-of-rss-feeds\nComments URL: https://news.ycombinator.com/item?id=49136821\nPoints: 516\n# Comments: 177",
-          "link": "https://openrss.org/blog/how-google-helped-destroy-adoption-of-rss-feeds",
-          "publishedOn": "2026-08-01T18:07:07.000Z",
-          "wordCount": 5181,
-          "title": "How Google helped destroy adoption of RSS feeds (2023)",
-          "imageUrl": "https://openrss.orghttps://openrss.org/media/google-links-break.jpg"
         }
       ]
     },
@@ -2241,16 +2251,6 @@
           "wordCount": 3538,
           "title": "Ozempic: Miracle or Disaster?",
           "imageUrl": "https://i.ytimg.com/vi/Rd_qJzaHugA/sardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLAs6dmnKVJhMqelD96dAe04_lAn5w"
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=801JPiGAKOE",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=801JPiGAKOE",
-          "publishedOn": "2026-08-01T15:59:53.000Z",
-          "wordCount": null,
-          "title": "US market nightmare | Why are the Tech Stocks suddenly Falling?",
-          "imageUrl": null
         }
       ]
     },
