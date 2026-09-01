@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-01T17:37:56.649Z</updated>
+    <updated>2026-09-01T20:37:55.641Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Fragments: September  1]]></title>
+        <id>https://martinfowler.com/fragments/2026-09-01.html</id>
+        <link href="https://martinfowler.com/fragments/2026-09-01.html"/>
+        <updated>2026-09-01T19:50:00.000Z</updated>
+        <summary type="html"><![CDATA[Like many readers, I’m wary of AI generated prose. Simon Wilison has written an LLM cliché highlighter - paste in some text, or a URL, and it will flag various patterns common to LLMs. It references a wikipedia page of signs of AI writing. That page points out that:
+Humans are notoriously bad at distinguishing human and LLM-generated text. While research on humans’ abilities to detect AI-generated text is still limited, a 2025 study has shown that human ability to distinguish LLM text from human is no better than random chance. Another 2025 study on German theses has shown that humans managed a “recognition rate of 57% for AI texts and 64% for human-generated texts”.[
+Not just do I find myself repelled by prose with an LLM-voice, I also wonder how accurate my reaction is. I’m old enough to…]]></summary>
+        <author>
+            <name>Martin Fowler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Claude Fable 5.1 and Claude Mythos 5.1]]></title>
+        <id>https://news.ycombinator.com/item?id=49525378</id>
+        <link href="https://www.anthropic.com/claude-fable-and-mythos-5-1"/>
+        <updated>2026-09-01T17:53:53.000Z</updated>
+        <summary type="html"><![CDATA[What's new in Claude Fable 5.1
+ – https://platform.claude.com/docs/en/models/fable-5-1/whats-n...
+System Card: https://www-cdn.anthropic.com/0339e6a7c5c7b87f5c07798616dc32...
+Comments URL: https://news.ycombinator.com/item?id=49525378
+Points: 589
+# Comments: 563]]></summary>
+        <author>
+            <name>denysvitali</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How software engineering is changing: an essay challenge]]></title>
         <id>6a96f544dd3e7c0001ccc8b2</id>
@@ -2797,32 +2824,6 @@ Points: 507
 # Comments: 416]]></summary>
         <author>
             <name>mpweiher</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Don't be a meat proxy]]></title>
-        <id>https://news.ycombinator.com/item?id=49151933</id>
-        <link href="https://gruhn.me/blog/2026-08-03/"/>
-        <updated>2026-08-03T06:28:01.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://gruhn.me/blog/2026-08-03/
-Comments URL: https://news.ycombinator.com/item?id=49151933
-Points: 682
-# Comments: 298]]></summary>
-        <author>
-            <name>ngruhn</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[More German than many Germans]]></title>
-        <id>https://news.ycombinator.com/item?id=49151734</id>
-        <link href="https://mertbulan.com/more-german-than-many-germans/"/>
-        <updated>2026-08-03T06:00:14.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://mertbulan.com/more-german-than-many-germans/
-Comments URL: https://news.ycombinator.com/item?id=49151734
-Points: 547
-# Comments: 394]]></summary>
-        <author>
-            <name>mertbio</name>
         </author>
     </entry>
     <entry>
