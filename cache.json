@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=49517448",
+          "author": "nreece",
+          "description": "Article URL: https://fastpotify.rocks/\nComments URL: https://news.ycombinator.com/item?id=49517448\nPoints: 537\n# Comments: 312",
+          "link": "https://fastpotify.rocks/",
+          "publishedOn": "2026-09-01T02:52:14.000Z",
+          "wordCount": 1486,
+          "title": "Fastpotify",
+          "imageUrl": "https://fastpotify.rocks/screenshot.png"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=49514878",
           "author": "twapi",
           "description": "Article URL: https://webiterate.dev/google-removed-extensions-ublock-origin-108/\nComments URL: https://news.ycombinator.com/item?id=49514878\nPoints: 657\n# Comments: 503",
@@ -13,6 +23,16 @@
           "publishedOn": "2026-08-31T21:10:58.000Z",
           "wordCount": null,
           "title": "Google Has Removed MV2 Extensions from the Chrome Web Store, Including UBO",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=49511856",
+          "author": "speckx",
+          "description": "Article URL: https://jasontucker.blog/how-i-turned-my-security-cameras-into-an-automatic-bird-identification-system-with-birdnet-go/\nComments URL: https://news.ycombinator.com/item?id=49511856\nPoints: 534\n# Comments: 136",
+          "link": "https://jasontucker.blog/how-i-turned-my-security-cameras-into-an-automatic-bird-identification-system-with-birdnet-go/",
+          "publishedOn": "2026-08-31T16:47:11.000Z",
+          "wordCount": null,
+          "title": "I turned my security cameras into an automatic bird identification system",
           "imageUrl": null
         },
         {

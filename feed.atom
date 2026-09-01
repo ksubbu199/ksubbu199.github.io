@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-01T07:20:37.994Z</updated>
+    <updated>2026-09-01T13:09:00.938Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Fastpotify]]></title>
+        <id>https://news.ycombinator.com/item?id=49517448</id>
+        <link href="https://fastpotify.rocks/"/>
+        <updated>2026-09-01T02:52:14.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://fastpotify.rocks/
+Comments URL: https://news.ycombinator.com/item?id=49517448
+Points: 537
+# Comments: 312]]></summary>
+        <author>
+            <name>nreece</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Google Has Removed MV2 Extensions from the Chrome Web Store, Including UBO]]></title>
         <id>https://news.ycombinator.com/item?id=49514878</id>
@@ -17,6 +30,19 @@ Points: 657
 # Comments: 503]]></summary>
         <author>
             <name>twapi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I turned my security cameras into an automatic bird identification system]]></title>
+        <id>https://news.ycombinator.com/item?id=49511856</id>
+        <link href="https://jasontucker.blog/how-i-turned-my-security-cameras-into-an-automatic-bird-identification-system-with-birdnet-go/"/>
+        <updated>2026-08-31T16:47:11.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://jasontucker.blog/how-i-turned-my-security-cameras-into-an-automatic-bird-identification-system-with-birdnet-go/
+Comments URL: https://news.ycombinator.com/item?id=49511856
+Points: 534
+# Comments: 136]]></summary>
+        <author>
+            <name>speckx</name>
         </author>
     </entry>
     <entry>
