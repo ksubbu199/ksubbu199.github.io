@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=49520022",
+          "author": "hexa555",
+          "description": "Article URL: https://github.com/ankidroid/Anki-Android/issues/21656\nComments URL: https://news.ycombinator.com/item?id=49520022\nPoints: 655\n# Comments: 172",
+          "link": "https://github.com/ankidroid/Anki-Android/issues/21656",
+          "publishedOn": "2026-09-01T10:11:02.000Z",
+          "wordCount": 21823,
+          "title": "AnkiDroid: Google Play no longer allowing Open Collective donation link",
+          "imageUrl": "https://opengraph.githubassets.com/3799ce275eda4e5ba78b1883560611cdf9bdfafe234c4e24ebf5dbfdf4ce18d4/ankidroid/Anki-Android/issues/21656"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=49517448",
           "author": "nreece",
           "description": "Article URL: https://fastpotify.rocks/\nComments URL: https://news.ycombinator.com/item?id=49517448\nPoints: 537\n# Comments: 312",
@@ -64,6 +74,16 @@
           "wordCount": 364,
           "title": "“I just chose words carefully”",
           "imageUrl": "https://unsung.aresluna.org/_media/i-just-chose-words-carefully/ogimage.jpg"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=49503521",
+          "author": "matthewsinclair",
+          "description": "Article URL: https://www.youtube.com/watch?v=OOMx2BHHWtE\nComments URL: https://news.ycombinator.com/item?id=49503521\nPoints: 567\n# Comments: 74",
+          "link": "https://www.youtube.com/watch?v=OOMx2BHHWtE",
+          "publishedOn": "2026-08-30T22:37:01.000Z",
+          "wordCount": null,
+          "title": "Terence Tao explains 6 essential mathematical concepts [video]",
+          "imageUrl": null
         },
         {
           "id": "https://news.ycombinator.com/item?id=49499854",
@@ -1794,16 +1814,6 @@
           "wordCount": 2955,
           "title": "More German than many Germans",
           "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=49150470",
-          "author": "ai2027",
-          "description": "Article URL: https://qwen.ai/blog?id=qwen3.8\nComments URL: https://news.ycombinator.com/item?id=49150470\nPoints: 627\n# Comments: 315",
-          "link": "https://qwen.ai/blog?id=qwen3.8",
-          "publishedOn": "2026-08-03T02:16:09.000Z",
-          "wordCount": 592,
-          "title": "Qwen3.8-Max: A New Bar for Coding and Cowork",
-          "imageUrl": "https://img.alicdn.com/imgextra/i4/O1CN01OXv3EM1FN8t9W4P79_!!6000000000474-2-tps-80-80.png"
         }
       ]
     },
@@ -1985,6 +1995,16 @@
       "feedUrl": "https://blog.pragmaticengineer.com/rss/",
       "siteUrl": "https://blog.pragmaticengineer.com/",
       "articles": [
+        {
+          "id": "6a96f544dd3e7c0001ccc8b2",
+          "author": "Gergely Orosz",
+          "description": "The pace of change in software engineering is only accelerating, especially since January of this year. This is all to do with the industry-wide adoption of LLMs, AI tooling, and AI infrastructure. At The Pragmatic Engineer, we always want to capture as much of what’s going on",
+          "link": "https://blog.pragmaticengineer.com/how-software-engineering-is-changing-an-essay-challenge/",
+          "publishedOn": "2026-09-01T16:06:50.000Z",
+          "wordCount": 1842,
+          "title": "How software engineering is changing: an essay challenge",
+          "imageUrl": null
+        },
         {
           "id": "6a900f61f1788f0001c466a3",
           "author": "Ivan Klaric",
