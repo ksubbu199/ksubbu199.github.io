@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-01T20:37:55.641Z</updated>
+    <updated>2026-09-01T23:02:53.895Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -54,6 +54,19 @@ Points: 655
 # Comments: 172]]></summary>
         <author>
             <name>hexa555</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I trained a small transformer in 1.5hrs and it beats many LLMs]]></title>
+        <id>https://news.ycombinator.com/item?id=49519939</id>
+        <link href="https://mvakde.github.io/blog/44-on-arc-1/"/>
+        <updated>2026-09-01T09:52:45.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://mvakde.github.io/blog/44-on-arc-1/
+Comments URL: https://news.ycombinator.com/item?id=49519939
+Points: 534
+# Comments: 146]]></summary>
+        <author>
+            <name>porridgeraisin</name>
         </author>
     </entry>
     <entry>
@@ -2811,19 +2824,6 @@ Points: 588
 # Comments: 215]]></summary>
         <author>
             <name>ymir_e</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Prevent cognitive debt by manually retyping LLM-generated code]]></title>
-        <id>https://news.ycombinator.com/item?id=49153374</id>
-        <link href="https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code/"/>
-        <updated>2026-08-03T09:32:07.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code/
-Comments URL: https://news.ycombinator.com/item?id=49153374
-Points: 507
-# Comments: 416]]></summary>
-        <author>
-            <name>mpweiher</name>
         </author>
     </entry>
     <entry>

@@ -26,6 +26,16 @@
           "imageUrl": "https://opengraph.githubassets.com/3799ce275eda4e5ba78b1883560611cdf9bdfafe234c4e24ebf5dbfdf4ce18d4/ankidroid/Anki-Android/issues/21656"
         },
         {
+          "id": "https://news.ycombinator.com/item?id=49519939",
+          "author": "porridgeraisin",
+          "description": "Article URL: https://mvakde.github.io/blog/44-on-arc-1/\nComments URL: https://news.ycombinator.com/item?id=49519939\nPoints: 534\n# Comments: 146",
+          "link": "https://mvakde.github.io/blog/44-on-arc-1/",
+          "publishedOn": "2026-09-01T09:52:45.000Z",
+          "wordCount": 3412,
+          "title": "I trained a small transformer in 1.5hrs and it beats many LLMs",
+          "imageUrl": null
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=49517448",
           "author": "nreece",
           "description": "Article URL: https://fastpotify.rocks/\nComments URL: https://news.ycombinator.com/item?id=49517448\nPoints: 537\n# Comments: 312",
@@ -1793,16 +1803,6 @@
           "publishedOn": "2026-08-03T11:28:54.000Z",
           "wordCount": 3039,
           "title": "Critical CVE issued for hallucinated SQLite vulnerability",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=49153374",
-          "author": "mpweiher",
-          "description": "Article URL: https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code/\nComments URL: https://news.ycombinator.com/item?id=49153374\nPoints: 507\n# Comments: 416",
-          "link": "https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code/",
-          "publishedOn": "2026-08-03T09:32:07.000Z",
-          "wordCount": 878,
-          "title": "Prevent cognitive debt by manually retyping LLM-generated code",
           "imageUrl": null
         }
       ]
