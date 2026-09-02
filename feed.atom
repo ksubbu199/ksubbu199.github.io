@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-01T23:02:53.895Z</updated>
+    <updated>2026-09-02T03:07:19.083Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Hang on to Your Firefox]]></title>
+        <id>https://news.ycombinator.com/item?id=49527748</id>
+        <link href="https://www.newsonaut.com/articles/hang-on-to-your-firefox"/>
+        <updated>2026-09-01T20:30:51.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.newsonaut.com/articles/hang-on-to-your-firefox
+Comments URL: https://news.ycombinator.com/item?id=49527748
+Points: 664
+# Comments: 353]]></summary>
+        <author>
+            <name>speckx</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Fragments: September  1]]></title>
         <id>https://martinfowler.com/fragments/2026-09-01.html</id>
@@ -2792,38 +2805,12 @@ Points: 520
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Devtools must be open source]]></title>
-        <id>https://news.ycombinator.com/item?id=49156111</id>
-        <link href="https://blog.exe.dev/devtools-must-be-open-source"/>
-        <updated>2026-08-03T14:15:47.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://blog.exe.dev/devtools-must-be-open-source
-Comments URL: https://news.ycombinator.com/item?id=49156111
-Points: 532
-# Comments: 189]]></summary>
-        <author>
-            <name>bryanmikaelian</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[OpenAI's TRILLION Dollar Comeback : How Altman Turned a $27B Loss Into an EMPIRE?]]></title>
         <id>https://www.youtube.com/watch?v=opLMb_oYfMI</id>
         <link href="https://www.youtube.com/watch?v=opLMb_oYfMI"/>
         <updated>2026-08-03T14:04:26.000Z</updated>
         <author>
             <name>Think School</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Critical CVE issued for hallucinated SQLite vulnerability]]></title>
-        <id>https://news.ycombinator.com/item?id=49154332</id>
-        <link href="https://research.jfrog.com/post/sqlite-critical-cves-or-llm-slops/"/>
-        <updated>2026-08-03T11:28:54.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://research.jfrog.com/post/sqlite-critical-cves-or-llm-slops/
-Comments URL: https://news.ycombinator.com/item?id=49154332
-Points: 588
-# Comments: 215]]></summary>
-        <author>
-            <name>ymir_e</name>
         </author>
     </entry>
     <entry>

@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=49527748",
+          "author": "speckx",
+          "description": "Article URL: https://www.newsonaut.com/articles/hang-on-to-your-firefox\nComments URL: https://news.ycombinator.com/item?id=49527748\nPoints: 664\n# Comments: 353",
+          "link": "https://www.newsonaut.com/articles/hang-on-to-your-firefox",
+          "publishedOn": "2026-09-01T20:30:51.000Z",
+          "wordCount": 421,
+          "title": "Hang on to Your Firefox",
+          "imageUrl": ""
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=49525378",
           "author": "denysvitali",
           "description": "What's new in Claude Fable 5.1\n – https://platform.claude.com/docs/en/models/fable-5-1/whats-n...\nSystem Card: https://www-cdn.anthropic.com/0339e6a7c5c7b87f5c07798616dc32...\nComments URL: https://news.ycombinator.com/item?id=49525378\nPoints: 589\n# Comments: 563",
@@ -1783,26 +1793,6 @@
           "publishedOn": "2026-08-03T16:27:12.000Z",
           "wordCount": null,
           "title": "Ten advances in mathematics and theoretical computer science",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=49156111",
-          "author": "bryanmikaelian",
-          "description": "Article URL: https://blog.exe.dev/devtools-must-be-open-source\nComments URL: https://news.ycombinator.com/item?id=49156111\nPoints: 532\n# Comments: 189",
-          "link": "https://blog.exe.dev/devtools-must-be-open-source",
-          "publishedOn": "2026-08-03T14:15:47.000Z",
-          "wordCount": 2672,
-          "title": "Devtools must be open source",
-          "imageUrl": "https://blog.exe.dev/static/og-card.png"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=49154332",
-          "author": "ymir_e",
-          "description": "Article URL: https://research.jfrog.com/post/sqlite-critical-cves-or-llm-slops/\nComments URL: https://news.ycombinator.com/item?id=49154332\nPoints: 588\n# Comments: 215",
-          "link": "https://research.jfrog.com/post/sqlite-critical-cves-or-llm-slops/",
-          "publishedOn": "2026-08-03T11:28:54.000Z",
-          "wordCount": 3039,
-          "title": "Critical CVE issued for hallucinated SQLite vulnerability",
           "imageUrl": null
         }
       ]
