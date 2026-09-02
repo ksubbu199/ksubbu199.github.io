@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=49535752",
+          "author": "rwky",
+          "description": "Article URL: https://lwn.net/Articles/1090585/\nComments URL: https://news.ycombinator.com/item?id=49535752\nPoints: 533\n# Comments: 114",
+          "link": "https://lwn.net/Articles/1090585/",
+          "publishedOn": "2026-09-02T13:17:12.000Z",
+          "wordCount": 665,
+          "title": "A Note from LWN",
+          "imageUrl": null
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=49527748",
           "author": "speckx",
           "description": "Article URL: https://www.newsonaut.com/articles/hang-on-to-your-firefox\nComments URL: https://news.ycombinator.com/item?id=49527748\nPoints: 664\n# Comments: 353",
@@ -1903,6 +1913,26 @@
       "siteUrl": "https://martinfowler.com/feed.atom",
       "articles": [
         {
+          "id": "https://martinfowler.com/articles/exploring-gen-ai/an-accidental-blackboard.html",
+          "author": null,
+          "description": "Giles Edwards-Alexander reports that during an\n      experiment to see how productive a team could be using fully agentic\n      engineering practices, the team accidentally prompted the agents into\n      creating a blackboard coordination system inside the git repository.\nmore…",
+          "link": "https://martinfowler.com/articles/exploring-gen-ai/an-accidental-blackboard.html",
+          "publishedOn": "2026-09-02T14:45:00.000Z",
+          "wordCount": 1368,
+          "title": "An Accidental Blackboard",
+          "imageUrl": "https://martinfowler.com/articles/exploring-gen-ai/donkey-card.png"
+        },
+        {
+          "id": "https://martinfowler.com/rachels-ramblings/code-review.html",
+          "author": null,
+          "description": "TL;DR\nOr, perhaps the problem isn't that AI has broken code review, maybe it’s that we've been using code review to solve the wrong problems\n\nI was on a panel recently with Brian Houck from DX at Code Remix, hosted by Moderne. It was one of the more interesting panels I’ve done, largely because we disagreed. As my colleague Martin Fowler says, panels are much more interesting when people disagree and both sides have a good argument. Brian and I definitely did.\nBrian has since written a thoughtful piece called What are code reviews even for? He is clearly passionate about his position, and I am passionate enough about mine that I’m writing this response. To be clear, I think we mostly want the same things. I just don’t think code review is the best way to get them. Brian is lovely, by the w…",
+          "link": "https://martinfowler.com/rachels-ramblings/code-review.html",
+          "publishedOn": "2026-09-02T13:32:00.000Z",
+          "wordCount": 1257,
+          "title": "Maybe We Shouldn't Be Reviewing All This Code",
+          "imageUrl": "https://martinfowler.com/rachels-ramblings/card.png"
+        },
+        {
           "id": "https://martinfowler.com/fragments/2026-09-01.html",
           "author": null,
           "description": "Like many readers, I’m wary of AI generated prose. Simon Wilison has written an LLM cliché highlighter - paste in some text, or a URL, and it will flag various patterns common to LLMs. It references a wikipedia page of signs of AI writing. That page points out that:\nHumans are notoriously bad at distinguishing human and LLM-generated text. While research on humans’ abilities to detect AI-generated text is still limited, a 2025 study has shown that human ability to distinguish LLM text from human is no better than random chance. Another 2025 study on German theses has shown that humans managed a “recognition rate of 57% for AI texts and 64% for human-generated texts”.[\nNot just do I find myself repelled by prose with an LLM-voice, I also wonder how accurate my reaction is. I’m old enough to…",
@@ -2306,6 +2336,16 @@
       "feedUrl": "https://lea.verou.me/feed.xml",
       "siteUrl": "https://lea.verou.me/feed.xml",
       "articles": [
+        {
+          "id": "https://lea.verou.me/blog/2026/dark-mode-toggles-2/",
+          "author": null,
+          "description": "About a month ago, I wrote an article recommending that if you are going to have an always visible control for switching between light and dark mode, it should be a two-state toggle that alternates between system and whatever the current opposite of system is, not a tri-state one (system, light, dark).\nIf you are forced to include such a control (say, someone is pointing a gun at you and shouting “code dammit! now!”), I stand by that recommendation: use two states, as described in the article.\nBut the article explicitly doesn’t answer the question “should you have one at all?”.\nI was much more neutral on this at the time of writing.\nI am now firmly in the “no” camp. More on that below.\n\n\n\n\n\nThe two-state toggle design proposed in my article can actually express all three data model states.…",
+          "link": "https://lea.verou.me/blog/2026/dark-mode-toggles-2/",
+          "publishedOn": "2026-09-02T00:00:00.000Z",
+          "wordCount": 4406,
+          "title": "The best dark mode toggle is probably none",
+          "imageUrl": "https://lea.verou.me/blog/2026/dark-mode-toggles-2/images/image.png"
+        },
         {
           "id": "https://lea.verou.me/blog/2026/dark-mode-toggles/",
           "author": null,
