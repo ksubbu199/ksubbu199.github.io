@@ -1814,16 +1814,6 @@
           "wordCount": 434,
           "title": "AI-Generated Images Discourage Me from Reading Your Blog",
           "imageUrl": "https://nelson.cloud/ai-generated-images-discourage-me-from-reading-your-blog/og.png"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=49166491",
-          "author": "askvictor",
-          "description": "Article URL: https://short-stories.co/@raybradbury/there-will-come-soft-rains-6k8vr4xxlnmj\nComments URL: https://news.ycombinator.com/item?id=49166491\nPoints: 500\n# Comments: 6",
-          "link": "https://short-stories.co/@raybradbury/there-will-come-soft-rains-6k8vr4xxlnmj",
-          "publishedOn": "2026-08-04T10:13:13.000Z",
-          "wordCount": 1175,
-          "title": "Ray Bradbury's \"There Will Come Soft Rains\" is set today (2026-08-04)",
-          "imageUrl": "https://d2se8qvny5nxid.cloudfront.net/eyJidWNrZXQiOiJzaG9ydC1zdG9yaWVzLXdlYiIsImtleSI6ImltYWdlcy9zb2NpYWwvc29jaWFsLXNoYXJlLTMucG5nIiwiZWRpdHMiOnsicG5nIjp7InF1YWxpdHkiOjgyLCJwcm9ncmVzc2l2ZSI6ZmFsc2V9LCJyZXNpemUiOnsid2lkdGgiOjEyMDAsImhlaWdodCI6NjMwLCJmaXQiOiJjb3ZlciJ9LCJzaGFycGVuIjp0cnVlfX0=?mtime=1720649965"
         }
       ]
     },
@@ -1922,6 +1912,16 @@
       "feedUrl": "https://martinfowler.com/feed.atom",
       "siteUrl": "https://martinfowler.com/feed.atom",
       "articles": [
+        {
+          "id": "https://martinfowler.com/bliki/ParacelsusMaxim.html",
+          "author": null,
+          "description": "The difference between a medicine and a poison is dosage.\nOften we talk about certain habits, in programming or life, are good or\n  bad. But few things are simple binaries. Some vary with context: reading a\n  book is a good thing sitting in my garden, but not while driving my car. But\n  another variable is dosage: a little pain-killer salves my headache, but too\n  much will kill me.\nThe importance of dosage was noticed by a 16th century Swiss physician\n  called Paracelsus. His quote was originally in German “Alle Dinge sind Gift,\n  und nichts ist ohne Gift; allein die Dosis macht, dass ein Ding kein Gift\n  ist.” which (according to\n  Wikipedia) translates as “All things are poison, and nothing is without\n  poison; the dosage alone makes it so a thing is not a poison.” It's also known\n  as “The dose makes the poison” or if you prefer your sayings in Latin “dosis\n  sola facit venenum”.\nIn programming, global data is a good example of the Paracelsus Maxim (as I\n  like to call it). A little global data, especially when immutable, can be a\n  handy way of propagating information that may needed anywhere in a program,\n  but it quickly becomes dangerous if there is a lot of it about.\nThis kind of thing crops up in lots of places. So when thinking about when\n  things are good or bad, we should always ask “in what contexts” and “in what\n  doses”?",
+          "link": "https://martinfowler.com/bliki/ParacelsusMaxim.html",
+          "publishedOn": "2026-09-02T22:03:00.000Z",
+          "wordCount": 331,
+          "title": "Bliki: Paracelsus Maxim",
+          "imageUrl": "https://martinfowler.com/logo-sq.png"
+        },
         {
           "id": "https://martinfowler.com/articles/exploring-gen-ai/an-accidental-blackboard.html",
           "author": null,

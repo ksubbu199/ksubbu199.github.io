@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-02T20:34:00.776Z</updated>
+    <updated>2026-09-02T23:00:46.667Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Bliki: Paracelsus Maxim]]></title>
+        <id>https://martinfowler.com/bliki/ParacelsusMaxim.html</id>
+        <link href="https://martinfowler.com/bliki/ParacelsusMaxim.html"/>
+        <updated>2026-09-02T22:03:00.000Z</updated>
+        <summary type="html"><![CDATA[The difference between a medicine and a poison is dosage.
+Often we talk about certain habits, in programming or life, are good or
+  bad. But few things are simple binaries. Some vary with context: reading a
+  book is a good thing sitting in my garden, but not while driving my car. But
+  another variable is dosage: a little pain-killer salves my headache, but too
+  much will kill me.
+The importance of dosage was noticed by a 16th century Swiss physician
+  called Paracelsus. His quote was originally in German “Alle Dinge sind Gift,
+  und nichts ist ohne Gift; allein die Dosis macht, dass ein Ding kein Gift
+  ist.” which (according to
+  Wikipedia) translates as “All things are poison, and nothing is without
+  poison; the dosage alone makes it so a thing is not a poison.” It's also known
+  as “The dose makes the poison” or if you prefer your sayings in Latin “dosis
+  sola facit venenum”.
+In programming, global data is a good example of the Paracelsus Maxim (as I
+  like to call it). A little global data, especially when immutable, can be a
+  handy way of propagating information that may needed anywhere in a program,
+  but it quickly becomes dangerous if there is a lot of it about.
+This kind of thing crops up in lots of places. So when thinking about when
+  things are good or bad, we should always ask “in what contexts” and “in what
+  doses”?]]></summary>
+        <author>
+            <name>Martin Fowler</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Gemini 3.8 Flash and 3.8 Flash Cyber]]></title>
         <id>https://news.ycombinator.com/item?id=49537553</id>
@@ -2876,19 +2906,6 @@ Points: 670
 # Comments: 411]]></summary>
         <author>
             <name>meysamazad</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ray Bradbury's "There Will Come Soft Rains" is set today (2026-08-04)]]></title>
-        <id>https://news.ycombinator.com/item?id=49166491</id>
-        <link href="https://short-stories.co/@raybradbury/there-will-come-soft-rains-6k8vr4xxlnmj"/>
-        <updated>2026-08-04T10:13:13.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://short-stories.co/@raybradbury/there-will-come-soft-rains-6k8vr4xxlnmj
-Comments URL: https://news.ycombinator.com/item?id=49166491
-Points: 500
-# Comments: 6]]></summary>
-        <author>
-            <name>askvictor</name>
         </author>
     </entry>
     <entry>
