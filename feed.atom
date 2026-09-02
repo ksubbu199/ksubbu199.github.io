@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-02T08:25:43.312Z</updated>
+    <updated>2026-09-02T13:16:57.481Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -80,6 +80,19 @@ Points: 516
 # Comments: 212]]></summary>
         <author>
             <name>erikvanoosten</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Introducing Ad Blocker for Firefox on iOS]]></title>
+        <id>https://news.ycombinator.com/item?id=49521973</id>
+        <link href="https://blog.mozilla.org/en/firefox/ad-blocker-on-ios/"/>
+        <updated>2026-09-01T13:46:49.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://blog.mozilla.org/en/firefox/ad-blocker-on-ios/
+Comments URL: https://news.ycombinator.com/item?id=49521973
+Points: 527
+# Comments: 169]]></summary>
+        <author>
+            <name>HieronymusBosch</name>
         </author>
     </entry>
     <entry>
@@ -2802,19 +2815,6 @@ Points: 500
 # Comments: 6]]></summary>
         <author>
             <name>askvictor</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LLMs reward expertise]]></title>
-        <id>https://news.ycombinator.com/item?id=49161518</id>
-        <link href="https://www.seangoedecke.com/llms-reward-expertise/"/>
-        <updated>2026-08-03T21:13:53.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.seangoedecke.com/llms-reward-expertise/
-Comments URL: https://news.ycombinator.com/item?id=49161518
-Points: 587
-# Comments: 250]]></summary>
-        <author>
-            <name>MaxMussio</name>
         </author>
     </entry>
     <entry>
