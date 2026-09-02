@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-02T17:37:33.313Z</updated>
+    <updated>2026-09-02T20:34:00.776Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Gemini 3.8 Flash and 3.8 Flash Cyber]]></title>
+        <id>https://news.ycombinator.com/item?id=49537553</id>
+        <link href="https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/"/>
+        <updated>2026-09-02T15:12:40.000Z</updated>
+        <summary type="html"><![CDATA[https://deepmind.google/models/model-cards/gemini-3-8-flash/
+Comments URL: https://news.ycombinator.com/item?id=49537553
+Points: 662
+# Comments: 389]]></summary>
+        <author>
+            <name>bratao</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[An Accidental Blackboard]]></title>
         <id>https://martinfowler.com/articles/exploring-gen-ai/an-accidental-blackboard.html</id>
