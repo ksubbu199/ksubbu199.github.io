@@ -2011,16 +2011,6 @@
           "wordCount": 4062,
           "title": "TDD inside the agent loop - theater or actual value?",
           "imageUrl": "https://martinfowler.com/articles/exploring-gen-ai/donkey-card.png"
-        },
-        {
-          "id": "https://martinfowler.com/fragments/2026-08-04.html",
-          "author": null,
-          "description": "There’s been a fair bit of publicity of the Open AI “rogue agent” that hacked into Hugging Face. This prompted Anthropic to check what their models were up to and, to my complete lack of surprise, discovered three incidents where models had gained unauthorized access to data in other organizations. Simon Wilison concluded:\nIt’s abundantly clear now that running evals of cyberattack potential in models is a spectacularly risky business. Every AI lab needs to pay attention to this. Keeping a close eye on what’s happening in those sandboxes is crucial\nIt strikes me that this is akin to a virus escaping from a laboratory. It makes clear that the model builders are not putting sufficient controls in place to prevent these lab escapes. They are morally responsible for any consequences of this, a…",
-          "link": "https://martinfowler.com/fragments/2026-08-04.html",
-          "publishedOn": "2026-08-04T12:08:00.000Z",
-          "wordCount": 1509,
-          "title": "Fragments: August  4",
-          "imageUrl": "https://martinfowler.com/logo-sq.png"
         }
       ]
     },
