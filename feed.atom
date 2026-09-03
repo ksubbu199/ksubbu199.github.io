@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-03T16:05:56.650Z</updated>
+    <updated>2026-09-03T19:40:08.149Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The Pulse: Meta wanted to reduce teams by 60% because of AI]]></title>
+        <id>6a9934b9534530000142389d</id>
+        <link href="https://blog.pragmaticengineer.com/the-pulse-meta-wanted-to-reduce-teams-by-60-because-of-ai/"/>
+        <updated>2026-09-03T17:01:49.000Z</updated>
+        <summary type="html"><![CDATA[An in-depth report by Reuters details how Meta’s leadership decided to slash team sizes by 60%. Zuckerberg changed his mind, and now the company is stuck with low morale and culture turned mercenary.]]></summary>
+        <author>
+            <name>Ivan Klaric</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AI can't be trained without this]]></title>
         <id>https://www.youtube.com/watch?v=en6Vx7En9HU</id>
@@ -13,6 +23,19 @@
         <updated>2026-09-03T15:00:26.000Z</updated>
         <author>
             <name>Hussein Nasser</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[.name Termination]]></title>
+        <id>https://news.ycombinator.com/item?id=49550772</id>
+        <link href="https://neil.fraser.name/news/2026/09/03/"/>
+        <updated>2026-09-03T14:54:39.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://neil.fraser.name/news/2026/09/03/
+Comments URL: https://news.ycombinator.com/item?id=49550772
+Points: 891
+# Comments: 242]]></summary>
+        <author>
+            <name>pavel_lishin</name>
         </author>
     </entry>
     <entry>
@@ -96,6 +119,19 @@ Points: 662
 more…]]></summary>
         <author>
             <name>Martin Fowler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Three sites made 215,128 “best software” pages for AI. Perplexity cites them]]></title>
+        <id>https://news.ycombinator.com/item?id=49536375</id>
+        <link href="https://trellner.com/reports/manufactured-sources-behind-ai-recommendations/"/>
+        <updated>2026-09-02T13:59:59.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://trellner.com/reports/manufactured-sources-behind-ai-recommendations/
+Comments URL: https://news.ycombinator.com/item?id=49536375
+Points: 501
+# Comments: 244]]></summary>
+        <author>
+            <name>jakobgreenfeld</name>
         </author>
     </entry>
     <entry>

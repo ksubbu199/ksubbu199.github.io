@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=49550772",
+          "author": "pavel_lishin",
+          "description": "Article URL: https://neil.fraser.name/news/2026/09/03/\nComments URL: https://news.ycombinator.com/item?id=49550772\nPoints: 891\n# Comments: 242",
+          "link": "https://neil.fraser.name/news/2026/09/03/",
+          "publishedOn": "2026-09-03T14:54:39.000Z",
+          "wordCount": 725,
+          "title": ".name Termination",
+          "imageUrl": null
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=49548395",
           "author": "ClydeN",
           "description": "Article URL: https://github.com/audacity/audacity/releases/tag/Audacity-4.0.0\nComments URL: https://news.ycombinator.com/item?id=49548395\nPoints: 686\n# Comments: 162",
@@ -34,6 +44,16 @@
           "wordCount": 5006,
           "title": "Gemini 3.8 Flash and 3.8 Flash Cyber",
           "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-3-8_flash__blog__header__16-9__light.width-1300.png"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=49536375",
+          "author": "jakobgreenfeld",
+          "description": "Article URL: https://trellner.com/reports/manufactured-sources-behind-ai-recommendations/\nComments URL: https://news.ycombinator.com/item?id=49536375\nPoints: 501\n# Comments: 244",
+          "link": "https://trellner.com/reports/manufactured-sources-behind-ai-recommendations/",
+          "publishedOn": "2026-09-02T13:59:59.000Z",
+          "wordCount": 2043,
+          "title": "Three sites made 215,128 “best software” pages for AI. Perplexity cites them",
+          "imageUrl": "https://trellner.com/og.png"
         },
         {
           "id": "https://news.ycombinator.com/item?id=49535752",
@@ -1995,6 +2015,16 @@
       "feedUrl": "https://blog.pragmaticengineer.com/rss/",
       "siteUrl": "https://blog.pragmaticengineer.com/",
       "articles": [
+        {
+          "id": "6a9934b9534530000142389d",
+          "author": "Ivan Klaric",
+          "description": "An in-depth report by Reuters details how Meta’s leadership decided to slash team sizes by 60%. Zuckerberg changed his mind, and now the company is stuck with low morale and culture turned mercenary.",
+          "link": "https://blog.pragmaticengineer.com/the-pulse-meta-wanted-to-reduce-teams-by-60-because-of-ai/",
+          "publishedOn": "2026-09-03T17:01:49.000Z",
+          "wordCount": 3990,
+          "title": "The Pulse: Meta wanted to reduce teams by 60% because of AI",
+          "imageUrl": null
+        },
         {
           "id": "6a96f544dd3e7c0001ccc8b2",
           "author": "Gergely Orosz",
