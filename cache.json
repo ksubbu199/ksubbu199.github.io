@@ -16,6 +16,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://news.ycombinator.com/item?id=49554520",
+          "author": "altertable",
+          "description": "Article URL: https://inference-docs.cerebras.ai/models/overview\nComments URL: https://news.ycombinator.com/item?id=49554520\nPoints: 504\n# Comments: 153",
+          "link": "https://inference-docs.cerebras.ai/models/overview",
+          "publishedOn": "2026-09-03T18:32:13.000Z",
+          "wordCount": 514,
+          "title": "Qwen 3.8 27B available on Cerebras at 1500 tokens/s",
+          "imageUrl": null
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=49550772",
           "author": "pavel_lishin",
           "description": "Article URL: https://neil.fraser.name/news/2026/09/03/\nComments URL: https://news.ycombinator.com/item?id=49550772\nPoints: 891\n# Comments: 242",
@@ -24,6 +34,16 @@
           "wordCount": 725,
           "title": ".name Termination",
           "imageUrl": null
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=49550698",
+          "author": "thinkingemote",
+          "description": "Article URL: https://anyhumanever.com/\nComments URL: https://news.ycombinator.com/item?id=49550698\nPoints: 525\n# Comments: 254",
+          "link": "https://anyhumanever.com/",
+          "publishedOn": "2026-09-03T14:51:10.000Z",
+          "wordCount": 151,
+          "title": "Any Human Ever – One life, drawn at random from all who have ever lived",
+          "imageUrl": "https://anyhumanever.com/static/og-card.png?v=100b"
         },
         {
           "id": "https://news.ycombinator.com/item?id=49548395",
@@ -1794,36 +1814,6 @@
           "wordCount": 11023,
           "title": "Zed DeltaDB",
           "imageUrl": "https://zed.dev/api/og?title=DeltaDB"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=49184960",
-          "author": "xtreak29",
-          "description": "Article URL: https://www.discoveryloop.com/\nComments URL: https://news.ycombinator.com/item?id=49184960\nPoints: 502\n# Comments: 307",
-          "link": "https://www.discoveryloop.com/",
-          "publishedOn": "2026-08-05T16:19:44.000Z",
-          "wordCount": 1394,
-          "title": "Discovery Loop",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=49184755",
-          "author": "colesantiago",
-          "description": "https://www.axios.com/2026/08/05/google-deepmind-demis-hassa...\nhttps://www.reuters.com/business/google-shakes-up-ai-leaders...\nhttps://www.discoveryloop.com/, https://news.ycombinator.com/item?id=49184960\nhttps://twitter.com/JeffDean/status/2085034604172603724, https://xcancel.com/JeffDean/status/2085034604172603724\nComments URL: https://news.ycombinator.com/item?id=49184755\nPoints: 534\n# Comments: 619",
-          "link": "https://blog.google/company-news/inside-google/message-ceo/next-chapter-ai-momentum/",
-          "publishedOn": "2026-08-05T16:05:31.000Z",
-          "wordCount": 4025,
-          "title": "Changes at Google DeepMind: Demis Hassabis from CEO to Chair, Jeff Dean departs",
-          "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/super-g_1.width-1300.jpg"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=49182996",
-          "author": "speckx",
-          "description": "Article URL: https://blog.cloudflare.com/cloudflare-os/\nComments URL: https://news.ycombinator.com/item?id=49182996\nPoints: 542\n# Comments: 263",
-          "link": "https://blog.cloudflare.com/cloudflare-os/",
-          "publishedOn": "2026-08-05T13:58:53.000Z",
-          "wordCount": 3599,
-          "title": "Cloudflare OS: an open platform for agents, apps, and work",
-          "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01KZ7PN06AYFEQJN4FBVAE8WHH.png"
         }
       ]
     },
