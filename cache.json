@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=49570669",
+          "author": "negura",
+          "description": "Article URL: https://nvd.nist.gov/vuln/detail/cve-2026-85046\nComments URL: https://news.ycombinator.com/item?id=49570669\nPoints: 555\n# Comments: 296",
+          "link": "https://nvd.nist.gov/vuln/detail/cve-2026-85046",
+          "publishedOn": "2026-09-04T21:52:01.000Z",
+          "wordCount": 70,
+          "title": "Actively exploited sandbox RCE in all Chromium versions",
+          "imageUrl": null
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=49568506",
           "author": "jlebar",
           "description": "https://xenaproject.wordpress.com/2026/09/04/flt-anthropic-h...\nComments URL: https://news.ycombinator.com/item?id=49568506\nPoints: 519\n# Comments: 326",
@@ -1764,26 +1774,6 @@
           "wordCount": 4437,
           "title": "2027 memory capacity is reportedly sold out",
           "imageUrl": "https://assets-prd.ignimgs.com/2022/06/24/corsair-dominator-platinum-rgb-1656107201735.jpg?width=1280&format=jpg&auto=webp&quality=80"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=49204352",
-          "author": "boplicity",
-          "description": "https://www.reuters.com/world/new-mexico-court-orders-meta-p...\nhttps://www.theguardian.com/technology/2026/aug/06/new-mexic...\nhttps://www.kob.com/new-mexico/nm-court-orders-meta-to-pay-5...\nhttps://www.bbc.com/news/articles/cd7lz3wr2rlo\nhttps://www.wsj.com/tech/meta-ordered-to-pay-942-million-to-...\nComments URL: https://news.ycombinator.com/item?id=49204352\nPoints: 510\n# Comments: 277",
-          "link": "https://www.theguardian.com/technology/2026/aug/06/new-mexico-court-meta",
-          "publishedOn": "2026-08-07T00:06:28.000Z",
-          "wordCount": 4470,
-          "title": "New Mexico court orders Meta to pay $567m over harms to children’s mental health",
-          "imageUrl": "https://i.guim.co.uk/img/media/6e9c72f1d4d1541ee16137214046b3255b6a1981/410_0_6827_5464/master/6827.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=bde32639cfe3328257ea8f512bc97b88"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=49201970",
-          "author": "itvision",
-          "description": "https://ir.amd.com/news-events/press-releases/detail/1296/am...\nhttps://chatjimmy.ai/\nComments URL: https://news.ycombinator.com/item?id=49201970\nPoints: 526\n# Comments: 404",
-          "link": "https://www.theregister.com/systems/2026/08/06/amd-acquires-ai-chip-startup-taalas-to-boost-inference-performance-by-etching-models-into-silicon/5284344",
-          "publishedOn": "2026-08-06T20:23:11.000Z",
-          "wordCount": 7839,
-          "title": "AMD acquires Taalas to boost inference performance by etching models in silicon",
-          "imageUrl": "https://image.theregister.com/5284365.jpg?imageId=5284365&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683"
         }
       ]
     },
