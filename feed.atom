@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-05T03:10:26.423Z</updated>
+    <updated>2026-09-05T08:05:02.726Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Common Form Toolbox]]></title>
+        <id>https://writing.kemitchell.com/2026/09/04/Common-Form-Toolbox</id>
+        <link href="https://writing.kemitchell.com/2026/09/04/Common-Form-Toolbox"/>
+        <updated>2026-09-05T04:21:47.000Z</updated>
+        <summary type="html"><![CDATA[quick utilities for editing contract text]]></summary>
+        <author>
+            <name>/dev/lawyer</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Formalizing Fermat's Last Theorem]]></title>
         <id>https://news.ycombinator.com/item?id=49568506</id>
@@ -2809,45 +2819,6 @@ Points: 526
 # Comments: 404]]></summary>
         <author>
             <name>itvision</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Qwen3.8 Max now ranked as the best overall model by agentic index]]></title>
-        <id>https://news.ycombinator.com/item?id=49200652</id>
-        <link href="https://artificialanalysis.ai/?intelligence=agentic-index"/>
-        <updated>2026-08-06T18:44:49.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://artificialanalysis.ai/?intelligence=agentic-index
-Comments URL: https://news.ycombinator.com/item?id=49200652
-Points: 505
-# Comments: 319]]></summary>
-        <author>
-            <name>apitman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Taste Is All That's Left]]></title>
-        <id>https://news.ycombinator.com/item?id=49199346</id>
-        <link href="https://notashelf.dev/posts/taste-is-all-thats-left"/>
-        <updated>2026-08-06T17:01:33.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://notashelf.dev/posts/taste-is-all-thats-left
-Comments URL: https://news.ycombinator.com/item?id=49199346
-Points: 549
-# Comments: 413]]></summary>
-        <author>
-            <name>tsak</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GitHub Actions and Pages are experiencing degraded availability]]></title>
-        <id>https://news.ycombinator.com/item?id=49198302</id>
-        <link href="https://www.githubstatus.com/incidents/qcvjkzcs7j74"/>
-        <updated>2026-08-06T15:49:38.000Z</updated>
-        <summary type="html"><![CDATA[https://www.githubstatus.com/uptime/br0l2tvcx85d
-Comments URL: https://news.ycombinator.com/item?id=49198302
-Points: 501
-# Comments: 409]]></summary>
-        <author>
-            <name>Footkerchief</name>
         </author>
     </entry>
     <entry>
