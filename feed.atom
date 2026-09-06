@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-05T22:39:24.206Z</updated>
+    <updated>2026-09-06T00:35:50.962Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -14,6 +14,19 @@
         <summary type="html"><![CDATA[quick utilities for editing contract text]]></summary>
         <author>
             <name>/dev/lawyer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nitter has more working instances than before the takedowns]]></title>
+        <id>https://news.ycombinator.com/item?id=49571634</id>
+        <link href="https://codeberg.org/mv12star/shitter/wiki/Instances"/>
+        <updated>2026-09-05T00:04:16.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://codeberg.org/mv12star/shitter/wiki/Instances
+Comments URL: https://news.ycombinator.com/item?id=49571634
+Points: 614
+# Comments: 292]]></summary>
+        <author>
+            <name>Cider9986</name>
         </author>
     </entry>
     <entry>
@@ -2788,32 +2801,6 @@ Points: 510
 # Comments: 593]]></summary>
         <author>
             <name>RickJWagner</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[US strikes $1.2B deal to pay German firm to halt offshore wind projects]]></title>
-        <id>https://news.ycombinator.com/item?id=49208314</id>
-        <link href="https://www.bbc.com/news/articles/c1e1vg0gjl5o"/>
-        <updated>2026-08-07T10:28:55.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.bbc.com/news/articles/c1e1vg0gjl5o
-Comments URL: https://news.ycombinator.com/item?id=49208314
-Points: 625
-# Comments: 569]]></summary>
-        <author>
-            <name>defrost</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2027 memory capacity is reportedly sold out]]></title>
-        <id>https://news.ycombinator.com/item?id=49207236</id>
-        <link href="https://www.ign.com/articles/ramageddon-continues-another-year-as-2027-memory-capacity-is-reportedly-sold-out"/>
-        <updated>2026-08-07T07:58:24.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.ign.com/articles/ramageddon-continues-another-year-as-2027-memory-capacity-is-reportedly-sold-out
-Comments URL: https://news.ycombinator.com/item?id=49207236
-Points: 501
-# Comments: 480]]></summary>
-        <author>
-            <name>inigyou</name>
         </author>
     </entry>
     <entry>
