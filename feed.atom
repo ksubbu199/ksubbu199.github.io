@@ -2,10 +2,39 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-06T23:30:49.969Z</updated>
+    <updated>2026-09-07T03:08:08.499Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Nitter and XCancel resume service after legal advice]]></title>
+        <id>https://news.ycombinator.com/item?id=49588988</id>
+        <link href="https://github.com/zedeus/nitter/commit/1428b4c2b4246f92a7e5b2673438e5fb39fcc4a3"/>
+        <updated>2026-09-06T17:49:47.000Z</updated>
+        <summary type="html"><![CDATA[https://github.com/zedeus/nitter
+https://xcancel.com/cdclegal
+https://nitter.net/
+https://xcancel.com/
+Comments URL: https://news.ycombinator.com/item?id=49588988
+Points: 503
+# Comments: 261]]></summary>
+        <author>
+            <name>zImPatrick</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A/I shuts down]]></title>
+        <id>https://news.ycombinator.com/item?id=49586898</id>
+        <link href="https://keepitfree.ai/announcements/a/i-shuts-down-stay-human/"/>
+        <updated>2026-09-06T14:34:34.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://keepitfree.ai/announcements/a/i-shuts-down-stay-human/
+Comments URL: https://news.ycombinator.com/item?id=49586898
+Points: 536
+# Comments: 425]]></summary>
+        <author>
+            <name>captainmuon</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[QBittorrent breaks out of sandbox to commit crimes]]></title>
         <id>https://news.ycombinator.com/item?id=49586171</id>
@@ -17,6 +46,19 @@ Points: 965
 # Comments: 197]]></summary>
         <author>
             <name>mraniki</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Your intellectual fly is open when you use an LLM to author a post (2025)]]></title>
+        <id>https://news.ycombinator.com/item?id=49585644</id>
+        <link href="https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open/"/>
+        <updated>2026-09-06T11:56:43.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open/
+Comments URL: https://news.ycombinator.com/item?id=49585644
+Points: 559
+# Comments: 368]]></summary>
+        <author>
+            <name>cyb0rg0</name>
         </author>
     </entry>
     <entry>
@@ -2840,19 +2882,6 @@ Points: 500
 # Comments: 290]]></summary>
         <author>
             <name>groomlake</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“Code was never the hard part” is an insult to all programmers]]></title>
-        <id>https://news.ycombinator.com/item?id=49222189</id>
-        <link href="https://blog.senko.net/code-was-never-the-hard-part-is-an-insult-to-all-programmers"/>
-        <updated>2026-08-08T14:32:33.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://blog.senko.net/code-was-never-the-hard-part-is-an-insult-to-all-programmers
-Comments URL: https://news.ycombinator.com/item?id=49222189
-Points: 509
-# Comments: 336]]></summary>
-        <author>
-            <name>senko</name>
         </author>
     </entry>
     <entry>

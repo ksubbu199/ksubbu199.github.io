@@ -6,6 +6,26 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=49588988",
+          "author": "zImPatrick",
+          "description": "https://github.com/zedeus/nitter\nhttps://xcancel.com/cdclegal\nhttps://nitter.net/\nhttps://xcancel.com/\nComments URL: https://news.ycombinator.com/item?id=49588988\nPoints: 503\n# Comments: 261",
+          "link": "https://github.com/zedeus/nitter/commit/1428b4c2b4246f92a7e5b2673438e5fb39fcc4a3",
+          "publishedOn": "2026-09-06T17:49:47.000Z",
+          "wordCount": 1362,
+          "title": "Nitter and XCancel resume service after legal advice",
+          "imageUrl": "https://opengraph.githubassets.com/92962a83efd8bc2e3e8432afc9522dcfe42750f8345dee563ecb199ee76f3aed/zedeus/nitter/commit/1428b4c2b4246f92a7e5b2673438e5fb39fcc4a3"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=49586898",
+          "author": "captainmuon",
+          "description": "Article URL: https://keepitfree.ai/announcements/a/i-shuts-down-stay-human/\nComments URL: https://news.ycombinator.com/item?id=49586898\nPoints: 536\n# Comments: 425",
+          "link": "https://keepitfree.ai/announcements/a/i-shuts-down-stay-human/",
+          "publishedOn": "2026-09-06T14:34:34.000Z",
+          "wordCount": 439,
+          "title": "A/I shuts down",
+          "imageUrl": null
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=49586171",
           "author": "mraniki",
           "description": "Article URL: https://beige.party/@intransitivelie/117057396732763183\nComments URL: https://news.ycombinator.com/item?id=49586171\nPoints: 965\n# Comments: 197",
@@ -13,6 +33,16 @@
           "publishedOn": "2026-09-06T13:02:41.000Z",
           "wordCount": 287,
           "title": "QBittorrent breaks out of sandbox to commit crimes",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=49585644",
+          "author": "cyb0rg0",
+          "description": "Article URL: https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open/\nComments URL: https://news.ycombinator.com/item?id=49585644\nPoints: 559\n# Comments: 368",
+          "link": "https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open/",
+          "publishedOn": "2026-09-06T11:56:43.000Z",
+          "wordCount": 568,
+          "title": "Your intellectual fly is open when you use an LLM to author a post (2025)",
           "imageUrl": null
         },
         {
@@ -1804,16 +1834,6 @@
           "wordCount": 1727,
           "title": "Fastmail offers EU data region",
           "imageUrl": "https://www.fastmail.com/assets/images/data-center-hero-3jPa_k89iw-1200.png"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=49222189",
-          "author": "senko",
-          "description": "Article URL: https://blog.senko.net/code-was-never-the-hard-part-is-an-insult-to-all-programmers\nComments URL: https://news.ycombinator.com/item?id=49222189\nPoints: 509\n# Comments: 336",
-          "link": "https://blog.senko.net/code-was-never-the-hard-part-is-an-insult-to-all-programmers",
-          "publishedOn": "2026-08-08T14:32:33.000Z",
-          "wordCount": 1850,
-          "title": "“Code was never the hard part” is an insult to all programmers",
-          "imageUrl": "https://cdn.writeas.net/img/w-sq-light.png"
         }
       ]
     },
