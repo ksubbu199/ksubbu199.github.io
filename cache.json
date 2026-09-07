@@ -6,6 +6,26 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=49594878",
+          "author": "chris_overseas",
+          "description": "Article URL: https://www.notebookcheck.net/LG-smart-TVs-caught-logging-audio-with-screen-off-and-snooping-on-local-devices.1391214.0.html\nComments URL: https://news.ycombinator.com/item?id=49594878\nPoints: 596\n# Comments: 305",
+          "link": "https://www.notebookcheck.net/LG-smart-TVs-caught-logging-audio-with-screen-off-and-snooping-on-local-devices.1391214.0.html",
+          "publishedOn": "2026-09-07T07:03:20.000Z",
+          "wordCount": 3824,
+          "title": "LG smart TVs caught logging audio with screen off and snooping on local devices",
+          "imageUrl": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/LG-smart-TV-investigation.png"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=49593563",
+          "author": "sonicrocketman",
+          "description": "Article URL: https://blog.archive.org/2026/09/01/keep-our-servers-running-your-recurring-donation-goes-3x-this-september/\nComments URL: https://news.ycombinator.com/item?id=49593563\nPoints: 702\n# Comments: 173",
+          "link": "https://blog.archive.org/2026/09/01/keep-our-servers-running-your-recurring-donation-goes-3x-this-september/",
+          "publishedOn": "2026-09-07T03:29:51.000Z",
+          "wordCount": 2292,
+          "title": "Keep Our Servers Running",
+          "imageUrl": null
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=49588988",
           "author": "zImPatrick",
           "description": "https://github.com/zedeus/nitter\nhttps://xcancel.com/cdclegal\nhttps://nitter.net/\nhttps://xcancel.com/\nComments URL: https://news.ycombinator.com/item?id=49588988\nPoints: 503\n# Comments: 261",
@@ -24,6 +44,16 @@
           "wordCount": 439,
           "title": "A/I shuts down",
           "imageUrl": null
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=49586698",
+          "author": "mdp2021",
+          "description": "https://www.phoronix.com/news/Asahi-Linux-Official-M3\nComments URL: https://news.ycombinator.com/item?id=49586698\nPoints: 523\n# Comments: 319",
+          "link": "https://asahilinux.org/2026/09/m2-episode-1/",
+          "publishedOn": "2026-09-06T14:08:59.000Z",
+          "wordCount": 474,
+          "title": "Asahi Linux on M3",
+          "imageUrl": "https://asahilinux.org/img/AsahiLinux_logomark_256px.png"
         },
         {
           "id": "https://news.ycombinator.com/item?id=49586171",
@@ -134,6 +164,16 @@
           "wordCount": 70,
           "title": "Actively exploited sandbox RCE in all Chromium versions",
           "imageUrl": null
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=49569896",
+          "author": "p4bl0",
+          "description": "Article URL: https://www.statichost.eu/\nComments URL: https://news.ycombinator.com/item?id=49569896\nPoints: 501\n# Comments: 244",
+          "link": "https://www.statichost.eu/",
+          "publishedOn": "2026-09-04T20:34:49.000Z",
+          "wordCount": 411,
+          "title": "Statichost.eu – European static site hosting",
+          "imageUrl": "/%20preview.png"
         },
         {
           "id": "https://news.ycombinator.com/item?id=49568506",
@@ -1804,16 +1844,6 @@
           "wordCount": 418,
           "title": "Mea Culpa – Dark Hours",
           "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=49226636",
-          "author": "seg6",
-          "description": "Article URL: https://seg6.space/posts/phone-server/\nComments URL: https://news.ycombinator.com/item?id=49226636\nPoints: 503\n# Comments: 239",
-          "link": "https://seg6.space/posts/phone-server/",
-          "publishedOn": "2026-08-08T22:49:23.000Z",
-          "wordCount": 2667,
-          "title": "My server is a phone now",
-          "imageUrl": "https://seg6.space/img/phone-server/system-dashboard.png"
         }
       ]
     },
