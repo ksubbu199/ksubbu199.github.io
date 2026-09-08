@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-08T14:54:59.661Z</updated>
+    <updated>2026-09-08T18:20:42.823Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Fragments: September  8]]></title>
+        <id>https://martinfowler.com/fragments/2026-09-08.html</id>
+        <link href="https://martinfowler.com/fragments/2026-09-08.html"/>
+        <updated>2026-09-08T15:22:00.000Z</updated>
+        <summary type="html"><![CDATA[Christian Catalini says we’re in a situation where we are vastly reducing the cost of generating things, but not the cost of verifying them:.
+This explains why the first major AI products appeared in chat, image generation, and code assistance. Not because these were the hardest human problems, but because their outputs were relatively easy to inspect. A user can judge the tone of a message, look at an image, or run a test on a piece of code.
+[…]
+The old automation boundary was routine versus non-routine work. The new boundary is increasingly measurable versus non-measurable work.
+The issue is then over how well you can measure something. In our profession, we know there’s a big difference between how many lines of code we write and how productive we are, and we’ve seen a regular failure t…]]></summary>
+        <author>
+            <name>Martin Fowler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LibreOffice breaks download records after declaring it has no AI features]]></title>
+        <id>https://news.ycombinator.com/item?id=49610538</id>
+        <link href="https://manualdousuario.net/en/libreoffice-download-record-no-ai/"/>
+        <updated>2026-09-08T14:05:57.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://manualdousuario.net/en/libreoffice-download-record-no-ai/
+Comments URL: https://news.ycombinator.com/item?id=49610538
+Points: 595
+# Comments: 201]]></summary>
+        <author>
+            <name>rpgbr</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Do you even need a presentation?]]></title>
         <id>https://martinfowler.com/articles/never-send-slides/need-presentation.html</id>
@@ -18,6 +45,19 @@
 more…]]></summary>
         <author>
             <name>Martin Fowler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Navier-Stokes – Tristan Buckmaster [pdf]]]></title>
+        <id>https://news.ycombinator.com/item?id=49605915</id>
+        <link href="https://cims.nyu.edu/~tristanb/statement.pdf"/>
+        <updated>2026-09-08T05:42:28.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://cims.nyu.edu/~tristanb/statement.pdf
+Comments URL: https://news.ycombinator.com/item?id=49605915
+Points: 536
+# Comments: 308]]></summary>
+        <author>
+            <name>procedurecall</name>
         </author>
     </entry>
     <entry>
@@ -44,6 +84,19 @@ Points: 522
 # Comments: 247]]></summary>
         <author>
             <name>0xC0ncord</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[De-Brainrot Vacations]]></title>
+        <id>https://news.ycombinator.com/item?id=49597907</id>
+        <link href="https://devz.cl/posts/i-spent-my-vacations-de-brainrotting/"/>
+        <updated>2026-09-07T13:00:48.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://devz.cl/posts/i-spent-my-vacations-de-brainrotting/
+Comments URL: https://news.ycombinator.com/item?id=49597907
+Points: 502
+# Comments: 202]]></summary>
+        <author>
+            <name>DanielVZ</name>
         </author>
     </entry>
     <entry>
@@ -2896,19 +2949,6 @@ Points: 617
 # Comments: 329]]></summary>
         <author>
             <name>riordan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Docker Sandboxes – Disposable, isolated sandboxes for AI agents]]></title>
-        <id>https://news.ycombinator.com/item?id=49239751</id>
-        <link href="https://www.docker.com/products/docker-sandboxes/"/>
-        <updated>2026-08-10T06:02:38.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.docker.com/products/docker-sandboxes/
-Comments URL: https://news.ycombinator.com/item?id=49239751
-Points: 513
-# Comments: 309]]></summary>
-        <author>
-            <name>etoxin</name>
         </author>
     </entry>
     <entry>
