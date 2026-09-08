@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-08T10:40:36.398Z</updated>
+    <updated>2026-09-08T14:54:59.661Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Do you even need a presentation?]]></title>
+        <id>https://martinfowler.com/articles/never-send-slides/need-presentation.html</id>
+        <link href="https://martinfowler.com/articles/never-send-slides/need-presentation.html"/>
+        <updated>2026-09-08T13:42:00.000Z</updated>
+        <summary type="html"><![CDATA[Like me, Sumeet Gayathri Moghe is tired of poor
+      presentations with bad slide decks. He's started to write a series of
+      posts on how to avoid these calamities, beginning with a post that questions
+      whether a presentation is needed at all. 
+more…]]></summary>
+        <author>
+            <name>Martin Fowler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mistral raises €3B]]></title>
+        <id>https://news.ycombinator.com/item?id=49605767</id>
+        <link href="https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier/"/>
+        <updated>2026-09-08T05:06:23.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier/
+Comments URL: https://news.ycombinator.com/item?id=49605767
+Points: 656
+# Comments: 478]]></summary>
+        <author>
+            <name>kuberwastaken</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jellyfin 12.0]]></title>
+        <id>https://news.ycombinator.com/item?id=49604861</id>
+        <link href="https://jellyfin.org/posts/jellyfin-release-12.0/"/>
+        <updated>2026-09-08T01:56:35.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://jellyfin.org/posts/jellyfin-release-12.0/
+Comments URL: https://news.ycombinator.com/item?id=49604861
+Points: 522
+# Comments: 247]]></summary>
+        <author>
+            <name>0xC0ncord</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[LG smart TVs caught logging audio with screen off and snooping on local devices]]></title>
         <id>https://news.ycombinator.com/item?id=49594878</id>

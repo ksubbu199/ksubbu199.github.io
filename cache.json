@@ -6,6 +6,26 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=49605767",
+          "author": "kuberwastaken",
+          "description": "Article URL: https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier/\nComments URL: https://news.ycombinator.com/item?id=49605767\nPoints: 656\n# Comments: 478",
+          "link": "https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier/",
+          "publishedOn": "2026-09-08T05:06:23.000Z",
+          "wordCount": 1731,
+          "title": "Mistral raises €3B",
+          "imageUrl": "https://mistral.ai/cms-media/api/media/file/fundraise.jpg"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=49604861",
+          "author": "0xC0ncord",
+          "description": "Article URL: https://jellyfin.org/posts/jellyfin-release-12.0/\nComments URL: https://news.ycombinator.com/item?id=49604861\nPoints: 522\n# Comments: 247",
+          "link": "https://jellyfin.org/posts/jellyfin-release-12.0/",
+          "publishedOn": "2026-09-08T01:56:35.000Z",
+          "wordCount": 3414,
+          "title": "Jellyfin 12.0",
+          "imageUrl": "https://jellyfin.org/images/social.png?v2"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=49594878",
           "author": "chris_overseas",
           "description": "Article URL: https://www.notebookcheck.net/LG-smart-TVs-caught-logging-audio-with-screen-off-and-snooping-on-local-devices.1391214.0.html\nComments URL: https://news.ycombinator.com/item?id=49594878\nPoints: 596\n# Comments: 305",
@@ -1932,6 +1952,16 @@
       "feedUrl": "https://martinfowler.com/feed.atom",
       "siteUrl": "https://martinfowler.com/feed.atom",
       "articles": [
+        {
+          "id": "https://martinfowler.com/articles/never-send-slides/need-presentation.html",
+          "author": null,
+          "description": "Like me, Sumeet Gayathri Moghe is tired of poor\n      presentations with bad slide decks. He's started to write a series of\n      posts on how to avoid these calamities, beginning with a post that questions\n      whether a presentation is needed at all. \nmore…",
+          "link": "https://martinfowler.com/articles/never-send-slides/need-presentation.html",
+          "publishedOn": "2026-09-08T13:42:00.000Z",
+          "wordCount": 2469,
+          "title": "Do you even need a presentation?",
+          "imageUrl": "https://martinfowler.com/articles/never-send-slides/index/card.png"
+        },
         {
           "id": "https://martinfowler.com/bliki/ParacelsusMaxim.html",
           "author": null,
