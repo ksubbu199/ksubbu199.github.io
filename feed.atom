@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-08T18:20:42.823Z</updated>
+    <updated>2026-09-08T21:35:43.279Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[On the Navier–Stokes Millennium Prize Problem]]></title>
+        <id>https://news.ycombinator.com/item?id=49613262</id>
+        <link href="https://openai.com/index/navier-stokes-solution/"/>
+        <updated>2026-09-08T17:13:21.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://openai.com/index/navier-stokes-solution/
+Comments URL: https://news.ycombinator.com/item?id=49613262
+Points: 903
+# Comments: 712]]></summary>
+        <author>
+            <name>tedsanders</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Fragments: September  8]]></title>
         <id>https://martinfowler.com/fragments/2026-09-08.html</id>
@@ -71,6 +84,19 @@ Points: 656
 # Comments: 478]]></summary>
         <author>
             <name>kuberwastaken</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[There's a new "Google Jail" for independent wikis]]></title>
+        <id>https://news.ycombinator.com/item?id=49604870</id>
+        <link href="https://weirdgloop.org/blog/google-jail"/>
+        <updated>2026-09-08T01:57:23.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://weirdgloop.org/blog/google-jail
+Comments URL: https://news.ycombinator.com/item?id=49604870
+Points: 507
+# Comments: 211]]></summary>
+        <author>
+            <name>pizzaiolo</name>
         </author>
     </entry>
     <entry>
