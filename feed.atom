@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-09T17:35:53.842Z</updated>
+    <updated>2026-09-09T20:29:59.426Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -29,6 +29,45 @@ more…]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Shopify acquires Tailwind]]></title>
+        <id>https://news.ycombinator.com/item?id=49626190</id>
+        <link href="https://tailwindcss.com/blog/tailwind-is-joining-shopify"/>
+        <updated>2026-09-09T13:27:11.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://tailwindcss.com/blog/tailwind-is-joining-shopify
+Comments URL: https://news.ycombinator.com/item?id=49626190
+Points: 711
+# Comments: 297]]></summary>
+        <author>
+            <name>EdwinHoksberg</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Flock Wants a Closely Surveilled World with No Exit]]></title>
+        <id>https://news.ycombinator.com/item?id=49624394</id>
+        <link href="https://www.newyorker.com/culture/infinite-scroll/flock-wants-a-closely-surveilled-world-with-no-exit"/>
+        <updated>2026-09-09T10:54:18.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.newyorker.com/culture/infinite-scroll/flock-wants-a-closely-surveilled-world-with-no-exit
+Comments URL: https://news.ycombinator.com/item?id=49624394
+Points: 541
+# Comments: 511]]></summary>
+        <author>
+            <name>pseudolus</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Claude, change the “Add to Cart” button to blue]]></title>
+        <id>https://news.ycombinator.com/item?id=49623754</id>
+        <link href="https://opusfived.dev/"/>
+        <updated>2026-09-09T09:39:46.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://opusfived.dev/
+Comments URL: https://news.ycombinator.com/item?id=49623754
+Points: 846
+# Comments: 350]]></summary>
+        <author>
+            <name>matthieu_bl</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[I resigned from Anthropic today]]></title>
         <id>https://news.ycombinator.com/item?id=49619227</id>
         <link href="https://twitter.com/hilbertspaess/status/2097476196791709843#m"/>
@@ -39,6 +78,19 @@ Points: 540
 # Comments: 696]]></summary>
         <author>
             <name>yurivish</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Muse – Meta’s personal AI agent]]></title>
+        <id>https://news.ycombinator.com/item?id=49615537</id>
+        <link href="https://ai.meta.com/muse/"/>
+        <updated>2026-09-08T19:25:00.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://ai.meta.com/muse/
+Comments URL: https://news.ycombinator.com/item?id=49615537
+Points: 620
+# Comments: 678]]></summary>
+        <author>
+            <name>yks</name>
         </author>
     </entry>
     <entry>
@@ -93,6 +145,19 @@ Points: 505
 # Comments: 117]]></summary>
         <author>
             <name>utiiiD</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I-have-ADHD: A skill to stop coding agents from burying the answer]]></title>
+        <id>https://news.ycombinator.com/item?id=49610631</id>
+        <link href="https://github.com/ayghri/i-have-adhd"/>
+        <updated>2026-09-08T14:13:26.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://github.com/ayghri/i-have-adhd
+Comments URL: https://news.ycombinator.com/item?id=49610631
+Points: 523
+# Comments: 359]]></summary>
+        <author>
+            <name>domhudson</name>
         </author>
     </entry>
     <entry>
@@ -172,6 +237,19 @@ Points: 522
 # Comments: 247]]></summary>
         <author>
             <name>0xC0ncord</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I've factored the RSA keys of a Certificate Authority from the 90s]]></title>
+        <id>https://news.ycombinator.com/item?id=49604637</id>
+        <link href="https://mcpherrin.ca/2026/09/07/rsa.html"/>
+        <updated>2026-09-08T01:16:59.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://mcpherrin.ca/2026/09/07/rsa.html
+Comments URL: https://news.ycombinator.com/item?id=49604637
+Points: 506
+# Comments: 130]]></summary>
+        <author>
+            <name>ahlCVA</name>
         </author>
     </entry>
     <entry>
@@ -2944,45 +3022,6 @@ Points: 500
 more…]]></summary>
         <author>
             <name>Martin Fowler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[France to ban unsolicited telemarketing calls]]></title>
-        <id>https://news.ycombinator.com/item?id=49254880</id>
-        <link href="https://www.lemonde.fr/en/france/article/2026/08/06/france-to-ban-unsolicited-telemarketing-calls-from-august-11_6756208_7.html"/>
-        <updated>2026-08-11T08:15:46.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.lemonde.fr/en/france/article/2026/08/06/france-to-ban-unsolicited-telemarketing-calls-from-august-11_6756208_7.html
-Comments URL: https://news.ycombinator.com/item?id=49254880
-Points: 686
-# Comments: 357]]></summary>
-        <author>
-            <name>aziaziazi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The UK's war on anonymity has come to America]]></title>
-        <id>https://news.ycombinator.com/item?id=49251411</id>
-        <link href="https://www.effort.news/uk-lobby"/>
-        <updated>2026-08-10T23:45:50.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.effort.news/uk-lobby
-Comments URL: https://news.ycombinator.com/item?id=49251411
-Points: 510
-# Comments: 453]]></summary>
-        <author>
-            <name>slowin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[As AI eats the web, the internet’s collective memory is disappearing]]></title>
-        <id>https://news.ycombinator.com/item?id=49250836</id>
-        <link href="https://thewalrus.ca/google-search-is-dying/"/>
-        <updated>2026-08-10T22:36:30.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://thewalrus.ca/google-search-is-dying/
-Comments URL: https://news.ycombinator.com/item?id=49250836
-Points: 572
-# Comments: 658]]></summary>
-        <author>
-            <name>awnird</name>
         </author>
     </entry>
     <entry>

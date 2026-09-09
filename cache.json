@@ -6,6 +6,36 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=49626190",
+          "author": "EdwinHoksberg",
+          "description": "Article URL: https://tailwindcss.com/blog/tailwind-is-joining-shopify\nComments URL: https://news.ycombinator.com/item?id=49626190\nPoints: 711\n# Comments: 297",
+          "link": "https://tailwindcss.com/blog/tailwind-is-joining-shopify",
+          "publishedOn": "2026-09-09T13:27:11.000Z",
+          "wordCount": 1796,
+          "title": "Shopify acquires Tailwind",
+          "imageUrl": "https://tailwindcss.com/_next/static/media/og-image.103kpqahmns2b.jpg"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=49624394",
+          "author": "pseudolus",
+          "description": "Article URL: https://www.newyorker.com/culture/infinite-scroll/flock-wants-a-closely-surveilled-world-with-no-exit\nComments URL: https://news.ycombinator.com/item?id=49624394\nPoints: 541\n# Comments: 511",
+          "link": "https://www.newyorker.com/culture/infinite-scroll/flock-wants-a-closely-surveilled-world-with-no-exit",
+          "publishedOn": "2026-09-09T10:54:18.000Z",
+          "wordCount": 22828,
+          "title": "Flock Wants a Closely Surveilled World with No Exit",
+          "imageUrl": "https://media.newyorker.com/photos/6aa05e7b6979461f46da3deb/16:9/w_1280,c_limit/NewYorker_flockcamera_final.jpg"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=49623754",
+          "author": "matthieu_bl",
+          "description": "Article URL: https://opusfived.dev/\nComments URL: https://news.ycombinator.com/item?id=49623754\nPoints: 846\n# Comments: 350",
+          "link": "https://opusfived.dev/",
+          "publishedOn": "2026-09-09T09:39:46.000Z",
+          "wordCount": 30,
+          "title": "Claude, change the “Add to Cart” button to blue",
+          "imageUrl": "https://pub-bb2e103a32db4e198524a2e9ed8f35b4.r2.dev/30670832-9635-4801-aee1-22bf39bccebf/id-preview-364e3d04--0e3289c2-58d2-415e-a7ad-27daeb3a63a1.lovable.app-1788612778060.png"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=49619227",
           "author": "yurivish",
           "description": "https://xcancel.com/hilbertspaess/status/2097476196791709843...\nComments URL: https://news.ycombinator.com/item?id=49619227\nPoints: 540\n# Comments: 696",
@@ -14,6 +44,16 @@
           "wordCount": 1602,
           "title": "I resigned from Anthropic today",
           "imageUrl": "https://pbs.twimg.com/profile_images/2097232673865601024/d6H8UbQJ_400x400.jpg"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=49615537",
+          "author": "yks",
+          "description": "Article URL: https://ai.meta.com/muse/\nComments URL: https://news.ycombinator.com/item?id=49615537\nPoints: 620\n# Comments: 678",
+          "link": "https://ai.meta.com/muse/",
+          "publishedOn": "2026-09-08T19:25:00.000Z",
+          "wordCount": 1309,
+          "title": "Muse – Meta’s personal AI agent",
+          "imageUrl": "https://scontent-sea1-1.xx.fbcdn.net/v/t39.2365-6/795767136_1630478025086800_8969738526855678960_n.webp?_nc_cat=104&ccb=1-7&_nc_sid=aa6a2f&_nc_ohc=QtIWi2o_kBUQ7kNvwEXUfHY&_nc_oc=AdooCmwbQNO_WIQzFU59clA62WCL9_KeDHdpfwayfi9oufMd59uEVpFEPkwz9UcsVH_Y4co_y2ppGEwfvvzrNwRz&_nc_zt=14&_nc_ht=scontent-sea1-1.xx&_nc_gid=gxgZnw0sSiI-ee-GPO7nTw&_nc_ss=7b20f&oh=00_AQLddhB1REycbXK8EP1M3IcZioo3HI-IcUYPHNNl_W4gbA&oe=6AA7A113"
         },
         {
           "id": "https://news.ycombinator.com/item?id=49613262",
@@ -44,6 +84,16 @@
           "wordCount": 3410,
           "title": "AlphaGenome Atlas: a high-resolution map of human DNA",
           "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AlphaGenome_Atlas_herosocial.width-1300.png"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=49610631",
+          "author": "domhudson",
+          "description": "Article URL: https://github.com/ayghri/i-have-adhd\nComments URL: https://news.ycombinator.com/item?id=49610631\nPoints: 523\n# Comments: 359",
+          "link": "https://github.com/ayghri/i-have-adhd",
+          "publishedOn": "2026-09-08T14:13:26.000Z",
+          "wordCount": 2193,
+          "title": "I-have-ADHD: A skill to stop coding agents from burying the answer",
+          "imageUrl": "https://opengraph.githubassets.com/578bff495f5f41131e4a27fdafe1316eaf84014782bea93213ec651c1c22cae7/ayghri/i-have-adhd"
         },
         {
           "id": "https://news.ycombinator.com/item?id=49610538",
@@ -94,6 +144,16 @@
           "wordCount": 3414,
           "title": "Jellyfin 12.0",
           "imageUrl": "https://jellyfin.org/images/social.png?v2"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=49604637",
+          "author": "ahlCVA",
+          "description": "Article URL: https://mcpherrin.ca/2026/09/07/rsa.html\nComments URL: https://news.ycombinator.com/item?id=49604637\nPoints: 506\n# Comments: 130",
+          "link": "https://mcpherrin.ca/2026/09/07/rsa.html",
+          "publishedOn": "2026-09-08T01:16:59.000Z",
+          "wordCount": 932,
+          "title": "I've factored the RSA keys of a Certificate Authority from the 90s",
+          "imageUrl": null
         },
         {
           "id": "https://news.ycombinator.com/item?id=49597907",
@@ -1843,36 +1903,6 @@
           "publishedOn": "2026-08-11T12:23:07.000Z",
           "wordCount": null,
           "title": "OpenAI’s head of ethics leaves less than a year after joining",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=49254880",
-          "author": "aziaziazi",
-          "description": "Article URL: https://www.lemonde.fr/en/france/article/2026/08/06/france-to-ban-unsolicited-telemarketing-calls-from-august-11_6756208_7.html\nComments URL: https://news.ycombinator.com/item?id=49254880\nPoints: 686\n# Comments: 357",
-          "link": "https://www.lemonde.fr/en/france/article/2026/08/06/france-to-ban-unsolicited-telemarketing-calls-from-august-11_6756208_7.html",
-          "publishedOn": "2026-08-11T08:15:46.000Z",
-          "wordCount": 177,
-          "title": "France to ban unsolicited telemarketing calls",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=49251411",
-          "author": "slowin",
-          "description": "Article URL: https://www.effort.news/uk-lobby\nComments URL: https://news.ycombinator.com/item?id=49251411\nPoints: 510\n# Comments: 453",
-          "link": "https://www.effort.news/uk-lobby",
-          "publishedOn": "2026-08-10T23:45:50.000Z",
-          "wordCount": 3006,
-          "title": "The UK's war on anonymity has come to America",
-          "imageUrl": "https://www.effort.news/images/article-graphics/uk-lobby/reset-bipartite-graph-cover.png"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=49250836",
-          "author": "awnird",
-          "description": "Article URL: https://thewalrus.ca/google-search-is-dying/\nComments URL: https://news.ycombinator.com/item?id=49250836\nPoints: 572\n# Comments: 658",
-          "link": "https://thewalrus.ca/google-search-is-dying/",
-          "publishedOn": "2026-08-10T22:36:30.000Z",
-          "wordCount": null,
-          "title": "As AI eats the web, the internet’s collective memory is disappearing",
           "imageUrl": null
         }
       ]
