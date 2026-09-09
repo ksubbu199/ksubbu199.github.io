@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-08T23:51:38.176Z</updated>
+    <updated>2026-09-09T03:19:52.428Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -31,6 +31,20 @@ The old automation boundary was routine versus non-routine work. The new boundar
 The issue is then over how well you can measure something. In our profession, we know there’s a big difference between how many lines of code we write and how productive we are, and we’ve seen a regular failure t…]]></summary>
         <author>
             <name>Martin Fowler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AlphaGenome Atlas: a high-resolution map of human DNA]]></title>
+        <id>https://news.ycombinator.com/item?id=49611251</id>
+        <link href="https://blog.google/innovation-and-ai/models-and-research/google-deepmind/alphagenome-atlas/"/>
+        <updated>2026-09-08T14:55:45.000Z</updated>
+        <summary type="html"><![CDATA[https://deepmind.google/blog/alphagenome-atlas-a-predictive-...
+https://deepmind.google.com/science/alphagenome/atlas
+Comments URL: https://news.ycombinator.com/item?id=49611251
+Points: 505
+# Comments: 117]]></summary>
+        <author>
+            <name>utiiiD</name>
         </author>
     </entry>
     <entry>
@@ -2935,46 +2949,6 @@ The whole model is a single 14MB binary that runs a full session in 28MB of RAM;
 On the tool call and mobile device use benchmarks, Needle 2 trades wins with closest small models like LFM2.5 230M and Apple Foundation Model, at 5x to 70…]]></summary>
         <author>
             <name>HenryNdubuaku</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mark Zuckerberg attacks 'closed' AI rivals as Meta returns to open models]]></title>
-        <id>https://news.ycombinator.com/item?id=49243880</id>
-        <link href="https://www.ft.com/content/4e3957f8-ea7c-4c46-a3de-cdce8e526878"/>
-        <updated>2026-08-10T14:06:22.000Z</updated>
-        <summary type="html"><![CDATA[https://archive.is/20LOJ
-https://www.meta.com/thefutureisforeveryone/
-Comments URL: https://news.ycombinator.com/item?id=49243880
-Points: 505
-# Comments: 467]]></summary>
-        <author>
-            <name>root-parent</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tl;dv: Over 180k meetings left wide open]]></title>
-        <id>https://news.ycombinator.com/item?id=49242739</id>
-        <link href="https://bobdahacker.com/blog/tldv-hack"/>
-        <updated>2026-08-10T12:26:05.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://bobdahacker.com/blog/tldv-hack
-Comments URL: https://news.ycombinator.com/item?id=49242739
-Points: 513
-# Comments: 171]]></summary>
-        <author>
-            <name>colesantiago</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meta Muse Glimmer – open weights 30B local coding model]]></title>
-        <id>https://news.ycombinator.com/item?id=49241679</id>
-        <link href="https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model"/>
-        <updated>2026-08-10T10:10:02.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model
-Comments URL: https://news.ycombinator.com/item?id=49241679
-Points: 617
-# Comments: 329]]></summary>
-        <author>
-            <name>riordan</name>
         </author>
     </entry>
     <entry>
