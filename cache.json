@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=49619227",
+          "author": "yurivish",
+          "description": "https://xcancel.com/hilbertspaess/status/2097476196791709843...\nComments URL: https://news.ycombinator.com/item?id=49619227\nPoints: 540\n# Comments: 696",
+          "link": "https://twitter.com/hilbertspaess/status/2097476196791709843#m",
+          "publishedOn": "2026-09-09T00:40:40.000Z",
+          "wordCount": 1602,
+          "title": "I resigned from Anthropic today",
+          "imageUrl": "https://pbs.twimg.com/profile_images/2097232673865601024/d6H8UbQJ_400x400.jpg"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=49613262",
           "author": "tedsanders",
           "description": "Article URL: https://openai.com/index/navier-stokes-solution/\nComments URL: https://news.ycombinator.com/item?id=49613262\nPoints: 903\n# Comments: 712",
@@ -14,6 +24,16 @@
           "wordCount": null,
           "title": "On the Navier–Stokes Millennium Prize Problem",
           "imageUrl": null
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=49612329",
+          "author": "sbulaev",
+          "description": "Article URL: https://www.theverge.com/tech/991190/lg-tv-spying-standby-recording-wi-fi-scanning-gamers-nexus\nComments URL: https://news.ycombinator.com/item?id=49612329\nPoints: 531\n# Comments: 312",
+          "link": "https://www.theverge.com/tech/991190/lg-tv-spying-standby-recording-wi-fi-scanning-gamers-nexus",
+          "publishedOn": "2026-09-08T16:07:08.000Z",
+          "wordCount": 3839,
+          "title": "LG TVs caught spying even when offline or on standby",
+          "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/258078_LG_G5_OLED_TV_JHiggins_0007.jpg?quality=90&strip=all&crop=0%2C7.9509095732762%2C100%2C78.534031413613&w=1200"
         },
         {
           "id": "https://news.ycombinator.com/item?id=49611251",
@@ -1854,16 +1874,6 @@
           "wordCount": null,
           "title": "As AI eats the web, the internet’s collective memory is disappearing",
           "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=49246804",
-          "author": "HenryNdubuaku",
-          "description": "Hey HN,\nHenry from Cactus here!\nWe previously released Cactus Needle, a 14MB agentic LLM for tool call, device use, and structured extraction for phones, wearables, smart homes, small robots and microcontrollers. We got really great feedback here, and have now incorporated the suggestions to release Needle 2.\nThe whole model is a single 14MB binary that runs a full session in 28MB of RAM; 45m parameters at 2bit compression. Needle hits 500 tokens/sec decode speed on a Raspberry Pi 5, sits between 400-1,500 tokens/sec on VR devices like Meta Quest 3S and Apple Vision Pro, and ranges 300-700 on sub-$200 phones such as the Samsung A-Series.\nOn the tool call and mobile device use benchmarks, Needle 2 trades wins with closest small models like LFM2.5 230M and Apple Foundation Model, at 5x to 70…",
-          "link": "https://cactuscompute.com/needle",
-          "publishedOn": "2026-08-10T17:22:07.000Z",
-          "wordCount": 6390,
-          "title": "Show HN: Needle2: 14MB agentic LLM for phones, wearables, smart home and robots",
-          "imageUrl": "https://cactuscompute.com/opengraph-image?9df76a35fe8276e2"
         }
       ]
     },

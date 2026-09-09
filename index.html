@@ -22,6 +22,57 @@
             data-action="toggle-accordions"
             title="Click to toggle the day, Ctrl + click to toggle all."
           >
+            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2026-09-09 datetime="2026-09-09T00:40:40.000Z">2026-09-09</time>
+            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2026-09-09 datetime="2026-09-09T00:40:40.000Z"></time>
+          </button>
+        </h2>
+        <ul class="sources card">
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >Hacker News: Newest</button>
+                  <a class="source-heading__link" href="https://news.ycombinator.com/newest">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://news.ycombinator.com/item?id&#x3D;49619227"
+                        open
+                      >
+                        <summary class="article-expander__title">I resigned from Anthropic today</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://twitter.com/hilbertspaess/status/2097476196791709843#m">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://pbs.twimg.com/profile_images/2097232673865601024/d6H8UbQJ_400x400.jpg" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>https://xcancel.com/hilbertspaess/status/2097476196791709843...
+Comments URL: https://news.ycombinator.com/item?id&#x3D;49619227
+Points: 540
+# Comments: 696</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;5
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+        </ul>
+      </section>
+      <section class="daily-content js-toggle-accordions-scope">
+        <h2 class="daily-heading">
+          <button
+            class="daily-heading-toggle"
+            data-action="toggle-accordions"
+            title="Click to toggle the day, Ctrl + click to toggle all."
+          >
             <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2026-09-08 datetime="2026-09-08T17:13:21.000Z">2026-09-08</time>
             <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2026-09-08 datetime="2026-09-08T17:13:21.000Z"></time>
           </button>
@@ -53,6 +104,29 @@
 Comments URL: https://news.ycombinator.com/item?id&#x3D;49613262
 Points: 903
 # Comments: 712</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://news.ycombinator.com/item?id&#x3D;49612329"
+                        open
+                      >
+                        <summary class="article-expander__title">LG TVs caught spying even when offline or on standby</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://www.theverge.com/tech/991190/lg-tv-spying-standby-recording-wi-fi-scanning-gamers-nexus">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/258078_LG_G5_OLED_TV_JHiggins_0007.jpg?quality&#x3D;90&amp;strip&#x3D;all&amp;crop&#x3D;0%2C7.9509095732762%2C100%2C78.534031413613&amp;w&#x3D;1200" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>Article URL: https://www.theverge.com/tech/991190/lg-tv-spying-standby-recording-wi-fi-scanning-gamers-nexus
+Comments URL: https://news.ycombinator.com/item?id&#x3D;49612329
+Points: 531
+# Comments: 312</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;13
+                                  min&hairsp;)</span>
                             </span>
                           </div>
                         </a>
@@ -6357,30 +6431,6 @@ Points: 572
                         </a>
                       </details>
                     </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://news.ycombinator.com/item?id&#x3D;49246804"
-                        open
-                      >
-                        <summary class="article-expander__title">Show HN: Needle2: 14MB agentic LLM for phones, wearables, smart home and robots</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://cactuscompute.com/needle">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://cactuscompute.com/opengraph-image?9df76a35fe8276e2" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>Hey HN,
-Henry from Cactus here!
-We previously released Cactus Needle, a 14MB agentic LLM for tool call, device use, and structured extraction for phones, wearables, smart homes, small robots and microcontrollers. We got really great feedback here, and have now incorporated the suggestions to release Needle 2.
-The whole model is a single 14MB binary that runs a full session in 28MB of RAM; 45m parameters at 2bit compression. Needle hits 500 tokens/sec decode speed on a Raspberry Pi 5, sits between 400-1,500 tokens/sec on VR devices like Meta Quest 3S and Apple Vision Pro, and ranges 300-700 on sub-$200 phones such as the Samsung A-Series.
-On the tool call and mobile device use benchmarks, Needle 2 trades wins with closest small models like LFM2.5 230M and Apple Foundation Model, at 5x to 70…</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;21
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
                 </section>
               </section>
             </li>
@@ -6655,8 +6705,8 @@ Right?</span>
       </section>
 
     <footer>
-      <a class="footer-link" href="https://github.com/ksubbu199/ksubbu199.github.io/actions/runs/34306676636">
-        <time id="build-timestamp" datetime="2026-09-09T03:19:52.403Z">2026-09-09T03:19:52.403Z</time>
+      <a class="footer-link" href="https://github.com/ksubbu199/ksubbu199.github.io/actions/runs/34330392333">
+        <time id="build-timestamp" datetime="2026-09-09T08:40:48.536Z">2026-09-09T08:40:48.536Z</time>
       </a>
       <a class="footer-link" href="https://github.com/osmoscraft/osmosfeed">osmosfeed 1.15.1</a>
     </footer>
