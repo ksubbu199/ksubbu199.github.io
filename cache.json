@@ -1983,6 +1983,16 @@
       "siteUrl": "https://martinfowler.com/feed.atom",
       "articles": [
         {
+          "id": "https://martinfowler.com/articles/2026-social-traffic.html",
+          "author": null,
+          "description": "A quick survey of recent engagement of my posts on social media, indicating which\n      service has by far the most engagement, and which service has seen a\n      precipitous decline since early 2025.\nmore…",
+          "link": "https://martinfowler.com/articles/2026-social-traffic.html",
+          "publishedOn": "2026-09-09T16:21:00.000Z",
+          "wordCount": 1329,
+          "title": "Social Media Engagement: summer 2026",
+          "imageUrl": "https://martinfowler.com/articles/2026-social-traffic/card.png"
+        },
+        {
           "id": "https://martinfowler.com/fragments/2026-09-08.html",
           "author": null,
           "description": "Christian Catalini says we’re in a situation where we are vastly reducing the cost of generating things, but not the cost of verifying them:.\nThis explains why the first major AI products appeared in chat, image generation, and code assistance. Not because these were the hardest human problems, but because their outputs were relatively easy to inspect. A user can judge the tone of a message, look at an image, or run a test on a piece of code.\n[…]\nThe old automation boundary was routine versus non-routine work. The new boundary is increasingly measurable versus non-measurable work.\nThe issue is then over how well you can measure something. In our profession, we know there’s a big difference between how many lines of code we write and how productive we are, and we’ve seen a regular failure t…",
@@ -2182,6 +2192,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKZozRVHRYsYHGEyNKuhhdA",
       "siteUrl": "https://www.youtube.com/channel/UCKZozRVHRYsYHGEyNKuhhdA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=GpJhBB7Gv0c",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=GpJhBB7Gv0c",
+          "publishedOn": "2026-09-09T14:57:00.000Z",
+          "wordCount": null,
+          "title": "How Tim Cook Built Apple’s $4.5 Trillion Empire | Untold Story of the Man Who Made Apple Unstoppable",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=tCMzkJxBM5c",
           "author": null,

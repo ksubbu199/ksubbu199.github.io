@@ -2,10 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-09T13:26:50.563Z</updated>
+    <updated>2026-09-09T17:35:53.842Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Social Media Engagement: summer 2026]]></title>
+        <id>https://martinfowler.com/articles/2026-social-traffic.html</id>
+        <link href="https://martinfowler.com/articles/2026-social-traffic.html"/>
+        <updated>2026-09-09T16:21:00.000Z</updated>
+        <summary type="html"><![CDATA[A quick survey of recent engagement of my posts on social media, indicating which
+      service has by far the most engagement, and which service has seen a
+      precipitous decline since early 2025.
+more…]]></summary>
+        <author>
+            <name>Martin Fowler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Tim Cook Built Apple’s $4.5 Trillion Empire | Untold Story of the Man Who Made Apple Unstoppable]]></title>
+        <id>https://www.youtube.com/watch?v=GpJhBB7Gv0c</id>
+        <link href="https://www.youtube.com/watch?v=GpJhBB7Gv0c"/>
+        <updated>2026-09-09T14:57:00.000Z</updated>
+        <author>
+            <name>Think School</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[I resigned from Anthropic today]]></title>
         <id>https://news.ycombinator.com/item?id=49619227</id>
