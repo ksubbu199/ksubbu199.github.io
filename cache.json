@@ -6,6 +6,26 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=49643982",
+          "author": "fnthawar2",
+          "description": "Article URL: https://shopify.engineering/back-to-native\nComments URL: https://news.ycombinator.com/item?id=49643982\nPoints: 600\n# Comments: 410",
+          "link": "https://shopify.engineering/back-to-native",
+          "publishedOn": "2026-09-10T14:09:31.000Z",
+          "wordCount": 10537,
+          "title": "Shopify moves back to Native from React Native",
+          "imageUrl": "https://cdn.shopify.com/b/shopify-brochure2-assets/74f109ae9b0c3034a78a3b63294ae2e6.png"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=49643546",
+          "author": "mmastrac",
+          "description": "Article URL: https://rustfoundation.org/media/guest-post-rust-is-tier-1-language-at-microsoft/\nComments URL: https://news.ycombinator.com/item?id=49643546\nPoints: 535\n# Comments: 290",
+          "link": "https://rustfoundation.org/media/guest-post-rust-is-tier-1-language-at-microsoft/",
+          "publishedOn": "2026-09-10T13:39:16.000Z",
+          "wordCount": 2633,
+          "title": "Rust is tier-1 language at Microsoft",
+          "imageUrl": "https://rustfoundation.org/wp-content/uploads/2026/09/Guest-Blog-Graphic-2.png"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=49639090",
           "author": "Liwink",
           "description": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash\nComments URL: https://news.ycombinator.com/item?id=49639090\nPoints: 801\n# Comments: 445",
@@ -34,6 +54,26 @@
           "wordCount": 15053,
           "title": "iPhone Duo",
           "imageUrl": "https://www.apple.com/v/iphone-duo/a/images/meta/iphone-duo_overview__bmsaaq50eyaa_og.png?202609071346"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=49630253",
+          "author": "awad",
+          "description": "Article URL: https://www.apple.com/newsroom/2026/09/apple-introduces-airpods-5-with-best-in-class-open-ear-active-noise-cancellation/\nComments URL: https://news.ycombinator.com/item?id=49630253\nPoints: 501\n# Comments: 443",
+          "link": "https://www.apple.com/newsroom/2026/09/apple-introduces-airpods-5-with-best-in-class-open-ear-active-noise-cancellation/",
+          "publishedOn": "2026-09-09T17:39:24.000Z",
+          "wordCount": 6680,
+          "title": "AirPods 5",
+          "imageUrl": "https://www.apple.com/newsroom/images/2026/09/apple-introduces-airpods-5-with-best-in-class-open-ear-active-noise-cancellation/tile/Apple-AirPods-5-hero-260909-lp.jpg.og.jpg?202609101300"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=49627370",
+          "author": "ModelForge",
+          "description": "Article URL: https://magazine.sebastianraschka.com/p/gpt-6-astra-looped-transformers-and\nComments URL: https://news.ycombinator.com/item?id=49627370\nPoints: 500\n# Comments: 160",
+          "link": "https://magazine.sebastianraschka.com/p/gpt-6-astra-looped-transformers-and",
+          "publishedOn": "2026-09-09T14:37:47.000Z",
+          "wordCount": 16695,
+          "title": "GPT-6 Astra, looped transformers, and hidden reasoning",
+          "imageUrl": "https://substackcdn.com/image/fetch/$s_!bGKc!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3d2ac2ec-ab80-43a8-aa93-a33a846dda43_1564x874.png"
         },
         {
           "id": "https://news.ycombinator.com/item?id=49626190",
@@ -1894,16 +1934,6 @@
           "wordCount": null,
           "title": "uBlock Origin Is Giving Up the Fight to Keep Ads Off Facebook",
           "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=49268580",
-          "author": "wiradikusuma",
-          "description": "Article URL: https://www.asus.com/accessories/bike-booster/asus-oxiis/oxiis-intelligent-bike-booster/\nComments URL: https://news.ycombinator.com/item?id=49268580\nPoints: 508\n# Comments: 351",
-          "link": "https://www.asus.com/accessories/bike-booster/asus-oxiis/oxiis-intelligent-bike-booster/",
-          "publishedOn": "2026-08-12T06:33:12.000Z",
-          "wordCount": 8073,
-          "title": "Asus Bike Booster",
-          "imageUrl": "https://dlcdnwebimgs.asus.com/gain/36fca81d-66d4-4a3a-9fa3-05976be35494/"
         }
       ]
     },
