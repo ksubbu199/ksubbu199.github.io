@@ -2,10 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-10T14:51:12.537Z</updated>
+    <updated>2026-09-10T18:07:38.284Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The Pulse: tech companies move to open AI models]]></title>
+        <id>6aa26df1e3d0390001d47f92</id>
+        <link href="https://blog.pragmaticengineer.com/the-pulse-tech-companies-move-to-open-ai-models/"/>
+        <updated>2026-09-10T17:22:31.000Z</updated>
+        <summary type="html"><![CDATA[Uber, Pinterest, Stripe, Coinbase, Ramp, and AT&T are making large savings on their AI bills by dropping proprietary models and using smart model routing.]]></summary>
+        <author>
+            <name>Ivan Klaric</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DeepSeek v4.1 Flash]]></title>
+        <id>https://news.ycombinator.com/item?id=49639090</id>
+        <link href="https://twitter.com/deepseek_ai/status/2097930608790167907"/>
+        <updated>2026-09-10T06:11:05.000Z</updated>
+        <summary type="html"><![CDATA[https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash
+Comments URL: https://news.ycombinator.com/item?id=49639090
+Points: 801
+# Comments: 445]]></summary>
+        <author>
+            <name>Liwink</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: What if the speed of light was 5 km/h?]]></title>
+        <id>https://news.ycombinator.com/item?id=49637385</id>
+        <link href="https://rivendell.dmitrybrant.com/relativity/"/>
+        <updated>2026-09-10T01:58:00.000Z</updated>
+        <summary type="html"><![CDATA[I've always wanted to make a visualization where the speed of light was scaled down to human speeds, so that we could intuit relativistic effects with everyday objects. Here is the first version of it!
+Comments URL: https://news.ycombinator.com/item?id=49637385
+Points: 548
+# Comments: 239]]></summary>
+        <author>
+            <name>dmitrybrant</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[iPhone Duo]]></title>
         <id>https://news.ycombinator.com/item?id=49630931</id>

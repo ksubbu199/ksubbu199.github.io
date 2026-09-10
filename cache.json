@@ -6,6 +6,26 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=49639090",
+          "author": "Liwink",
+          "description": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash\nComments URL: https://news.ycombinator.com/item?id=49639090\nPoints: 801\n# Comments: 445",
+          "link": "https://twitter.com/deepseek_ai/status/2097930608790167907",
+          "publishedOn": "2026-09-10T06:11:05.000Z",
+          "wordCount": 1560,
+          "title": "DeepSeek v4.1 Flash",
+          "imageUrl": "https://pbs.twimg.com/media/HR1UyHiaAAAtpqw?format=webp&name=large"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=49637385",
+          "author": "dmitrybrant",
+          "description": "I've always wanted to make a visualization where the speed of light was scaled down to human speeds, so that we could intuit relativistic effects with everyday objects. Here is the first version of it!\nComments URL: https://news.ycombinator.com/item?id=49637385\nPoints: 548\n# Comments: 239",
+          "link": "https://rivendell.dmitrybrant.com/relativity/",
+          "publishedOn": "2026-09-10T01:58:00.000Z",
+          "wordCount": 640,
+          "title": "Show HN: What if the speed of light was 5 km/h?",
+          "imageUrl": null
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=49630931",
           "author": "thecosmicfrog",
           "description": "Article URL: https://www.apple.com/iphone-duo/\nComments URL: https://news.ycombinator.com/item?id=49630931\nPoints: 730\n# Comments: 1467",
@@ -2125,6 +2145,16 @@
       "feedUrl": "https://blog.pragmaticengineer.com/rss/",
       "siteUrl": "https://blog.pragmaticengineer.com/",
       "articles": [
+        {
+          "id": "6aa26df1e3d0390001d47f92",
+          "author": "Ivan Klaric",
+          "description": "Uber, Pinterest, Stripe, Coinbase, Ramp, and AT&T are making large savings on their AI bills by dropping proprietary models and using smart model routing.",
+          "link": "https://blog.pragmaticengineer.com/the-pulse-tech-companies-move-to-open-ai-models/",
+          "publishedOn": "2026-09-10T17:22:31.000Z",
+          "wordCount": 1982,
+          "title": "The Pulse: tech companies move to open AI models",
+          "imageUrl": null
+        },
         {
           "id": "6a9934b9534530000142389d",
           "author": "Ivan Klaric",
