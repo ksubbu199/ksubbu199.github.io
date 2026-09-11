@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=49657850",
+          "author": "cromka",
+          "description": "Over past couple months I noticed that HN feed is almost exclusively AI or AI-adjacent news. Meanwhile the legitimately, broadly-hacker stuff gets left out for the most part.\nI noticed that because the things I find genuinely interesting that I post here now get zero traction, which is the stuff that I believe would previously be met with some discussion.\nNote that I don't care that my submissions were ignored, I don't need that validation. Problem is that if my stuff gains no traction, I am myself not seeing similar stuff posted by others, stuff I am genuinely also interested in and would want to hear about from this community.\nHere are two most recent examples:\n- Lenovo showed a model that incorporates solid-state air cooling. That technology has been around for a while but it looks like it matured and is production-ready. This allows for super-light and slim designs, which, in turn, should allow for bigger batteries installed and I think it's some sort of breakthrough:  \nhttps://news.ycombinator.com/item?id=49580229\n- Brax Industries devices, genuinely interesting, open-soruce and innovative, especially the wall display, with its modularity and on-device processing compatible with Home Assistant. I also appreciate the very clean design:  \nhttps://news.ycombinator.com/item?id=49643215\nAs said, I honestly believe this would gain some traction here on HN a year or two ago. I no longer find HN a good source of \"what's new\" in the industry, it's almost exclusively AI talk now.\nSo I think the point I am trying to make is that maybe YC could start curating the content somehow to give those easily-drowned-out articles a visibility bump?\nOr, at the very least, introduce simple tagging, so we can start filtering stuff out.\nComments URL: https://news.ycombinator.com/item?id=49657850\nPoints: 670\n# Comments: 329",
+          "link": "https://news.ycombinator.com/item?id=49657850",
+          "publishedOn": "2026-09-11T13:11:04.000Z",
+          "wordCount": 16931,
+          "title": "Ask HN: Can we please limit the AI news flood?",
+          "imageUrl": null
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=49645393",
           "author": "Brajeshwar",
           "description": "Article URL: https://blog.jim-nielsen.com/2026/hands-off-my-cables/\nComments URL: https://news.ycombinator.com/item?id=49645393\nPoints: 612\n# Comments: 382",
@@ -124,6 +134,16 @@
           "wordCount": 30,
           "title": "Claude, change the “Add to Cart” button to blue",
           "imageUrl": "https://pub-bb2e103a32db4e198524a2e9ed8f35b4.r2.dev/30670832-9635-4801-aee1-22bf39bccebf/id-preview-364e3d04--0e3289c2-58d2-415e-a7ad-27daeb3a63a1.lovable.app-1788612778060.png"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=49621546",
+          "author": "player85",
+          "description": "Article URL: https://mmoustafa.com/blog/so-you-want-to-use-openrouter/\nComments URL: https://news.ycombinator.com/item?id=49621546\nPoints: 536\n# Comments: 142",
+          "link": "https://mmoustafa.com/blog/so-you-want-to-use-openrouter/",
+          "publishedOn": "2026-09-09T05:37:21.000Z",
+          "wordCount": 1907,
+          "title": "So you want to use OpenRouter?",
+          "imageUrl": null
         },
         {
           "id": "https://news.ycombinator.com/item?id=49619227",
@@ -2371,16 +2391,6 @@
           "wordCount": null,
           "title": "Gold Just Crashed 30% | Is This the Best Time to Buy in a Decade?",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/shorts/NurTcIOVyZ8",
-          "author": null,
-          "description": "What if you could communicate like an FBI negotiator?Chris Voss reveals powerful communication and negotiation tricks that can help you handle arguments, dif...",
-          "link": "https://www.youtube.com/shorts/NurTcIOVyZ8",
-          "publishedOn": "2026-08-13T05:03:17.000Z",
-          "wordCount": 3457,
-          "title": "FBI Negotiator Reveals Hidden Communication Tricks",
-          "imageUrl": "https://i.ytimg.com/vi/NurTcIOVyZ8/oardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLDgZ8OQG-JrtbkEv0X9p-1DCvQgwg&usqp=CCk"
         }
       ]
     },

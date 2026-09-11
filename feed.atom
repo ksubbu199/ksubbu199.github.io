@@ -2,10 +2,33 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-11T13:16:27.240Z</updated>
+    <updated>2026-09-11T17:33:22.999Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Ask HN: Can we please limit the AI news flood?]]></title>
+        <id>https://news.ycombinator.com/item?id=49657850</id>
+        <link href="https://news.ycombinator.com/item?id=49657850"/>
+        <updated>2026-09-11T13:11:04.000Z</updated>
+        <summary type="html"><![CDATA[Over past couple months I noticed that HN feed is almost exclusively AI or AI-adjacent news. Meanwhile the legitimately, broadly-hacker stuff gets left out for the most part.
+I noticed that because the things I find genuinely interesting that I post here now get zero traction, which is the stuff that I believe would previously be met with some discussion.
+Note that I don't care that my submissions were ignored, I don't need that validation. Problem is that if my stuff gains no traction, I am myself not seeing similar stuff posted by others, stuff I am genuinely also interested in and would want to hear about from this community.
+Here are two most recent examples:
+- Lenovo showed a model that incorporates solid-state air cooling. That technology has been around for a while but it looks like it matured and is production-ready. This allows for super-light and slim designs, which, in turn, should allow for bigger batteries installed and I think it's some sort of breakthrough:  
+https://news.ycombinator.com/item?id=49580229
+- Brax Industries devices, genuinely interesting, open-soruce and innovative, especially the wall display, with its modularity and on-device processing compatible with Home Assistant. I also appreciate the very clean design:  
+https://news.ycombinator.com/item?id=49643215
+As said, I honestly believe this would gain some traction here on HN a year or two ago. I no longer find HN a good source of "what's new" in the industry, it's almost exclusively AI talk now.
+So I think the point I am trying to make is that maybe YC could start curating the content somehow to give those easily-drowned-out articles a visibility bump?
+Or, at the very least, introduce simple tagging, so we can start filtering stuff out.
+Comments URL: https://news.ycombinator.com/item?id=49657850
+Points: 670
+# Comments: 329]]></summary>
+        <author>
+            <name>cromka</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Pulse: tech companies move to open AI models]]></title>
         <id>6aa26df1e3d0390001d47f92</id>
@@ -195,6 +218,19 @@ Points: 846
 # Comments: 350]]></summary>
         <author>
             <name>matthieu_bl</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[So you want to use OpenRouter?]]></title>
+        <id>https://news.ycombinator.com/item?id=49621546</id>
+        <link href="https://mmoustafa.com/blog/so-you-want-to-use-openrouter/"/>
+        <updated>2026-09-09T05:37:21.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://mmoustafa.com/blog/so-you-want-to-use-openrouter/
+Comments URL: https://news.ycombinator.com/item?id=49621546
+Points: 536
+# Comments: 142]]></summary>
+        <author>
+            <name>player85</name>
         </author>
     </entry>
     <entry>
@@ -2947,16 +2983,6 @@ Points: 506
 # Comments: 229]]></summary>
         <author>
             <name>bjin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FBI Negotiator Reveals Hidden Communication Tricks]]></title>
-        <id>https://www.youtube.com/shorts/NurTcIOVyZ8</id>
-        <link href="https://www.youtube.com/shorts/NurTcIOVyZ8"/>
-        <updated>2026-08-13T05:03:17.000Z</updated>
-        <summary type="html"><![CDATA[What if you could communicate like an FBI negotiator?Chris Voss reveals powerful communication and negotiation tricks that can help you handle arguments, dif...]]></summary>
-        <author>
-            <name>Think School</name>
         </author>
     </entry>
     <entry>
