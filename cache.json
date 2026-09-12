@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=49671329",
+          "author": "JayOtter",
+          "description": "Article URL: https://www.joelotter.com/posts/2026/09/make-it-anyway/\nComments URL: https://news.ycombinator.com/item?id=49671329\nPoints: 517\n# Comments: 517",
+          "link": "https://www.joelotter.com/posts/2026/09/make-it-anyway/",
+          "publishedOn": "2026-09-12T11:42:32.000Z",
+          "wordCount": 1068,
+          "title": "Fuck it, make it anyway",
+          "imageUrl": "https://www.joelotter.com/img/2026/09/anyway.jpg"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=49668386",
           "author": "1e1a",
           "description": "Article URL: https://www.autom.dev/blog/google-search-goto-links\nComments URL: https://news.ycombinator.com/item?id=49668386\nPoints: 516\n# Comments: 415",
@@ -94,6 +104,16 @@
           "wordCount": 2633,
           "title": "Rust is tier-1 language at Microsoft",
           "imageUrl": "https://rustfoundation.org/wp-content/uploads/2026/09/Guest-Blog-Graphic-2.png"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=49639647",
+          "author": "kegenaar",
+          "description": "Article URL: https://www.youtube.com/watch?v=iZODN0QUgjI\nComments URL: https://news.ycombinator.com/item?id=49639647\nPoints: 503\n# Comments: 131",
+          "link": "https://www.youtube.com/watch?v=iZODN0QUgjI",
+          "publishedOn": "2026-09-10T07:20:50.000Z",
+          "wordCount": null,
+          "title": "IKEA made a mod for Skyrim [video]",
+          "imageUrl": null
         },
         {
           "id": "https://news.ycombinator.com/item?id=49639408",
@@ -1892,6 +1912,16 @@
       "feedUrl": "https://writing.kemitchell.com/feed.xml",
       "siteUrl": "https://writing.kemitchell.com",
       "articles": [
+        {
+          "id": "https://writing.kemitchell.com/2026/09/12/PolyForm-Licenses-2.0.0-pre.3",
+          "author": null,
+          "description": "steps toward 2.0.0",
+          "link": "https://writing.kemitchell.com/2026/09/12/PolyForm-Licenses-2.0.0-pre.3",
+          "publishedOn": "2026-09-12T07:00:00.000Z",
+          "wordCount": 140,
+          "title": "PolyForm Noncommercial 2.0.0-pre.3",
+          "imageUrl": null
+        },
         {
           "id": "https://writing.kemitchell.com/2026/09/04/Common-Form-Toolbox",
           "author": null,
