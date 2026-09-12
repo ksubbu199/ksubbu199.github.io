@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-12T11:29:13.548Z</updated>
+    <updated>2026-09-12T15:04:27.688Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[google.com/goto: Google's anti-scraping update]]></title>
+        <id>https://news.ycombinator.com/item?id=49668386</id>
+        <link href="https://www.autom.dev/blog/google-search-goto-links"/>
+        <updated>2026-09-12T03:14:20.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.autom.dev/blog/google-search-goto-links
+Comments URL: https://news.ycombinator.com/item?id=49668386
+Points: 516
+# Comments: 415]]></summary>
+        <author>
+            <name>1e1a</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[OpenAI agents carried out an undisclosed attack on RubyGems]]></title>
         <id>https://news.ycombinator.com/item?id=49666735</id>
