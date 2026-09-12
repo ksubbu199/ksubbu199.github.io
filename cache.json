@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=49666735",
+          "author": "chao-",
+          "description": "https://simonwillison.net/2026/Sep/12/openai-agents-rubygems...\nComments URL: https://news.ycombinator.com/item?id=49666735\nPoints: 589\n# Comments: 337",
+          "link": "https://www.rubyhack.ai/",
+          "publishedOn": "2026-09-11T23:17:42.000Z",
+          "wordCount": 3678,
+          "title": "OpenAI agents carried out an undisclosed attack on RubyGems",
+          "imageUrl": "https://rubyhack.ai/img/rubyhack-social.png"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=49662371",
           "author": "meredydd",
           "description": "https://terrytao.wordpress.com/2026/09/11/a-severe-misalignm...\nhttps://www.economist.com/science-and-technology/2026/09/11/..., https://unwall.app/www.economist.com/science-and-technology/...\nComments URL: https://news.ycombinator.com/item?id=49662371\nPoints: 598\n# Comments: 655",
@@ -1864,36 +1874,6 @@
           "wordCount": 2,
           "title": "GLM-5.3: Frontier coding with emergent cyber capabilities",
           "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=49289844",
-          "author": "pr337h4m",
-          "description": "Article URL: https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai\nComments URL: https://news.ycombinator.com/item?id=49289844\nPoints: 524\n# Comments: 220",
-          "link": "https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai",
-          "publishedOn": "2026-08-13T18:10:02.000Z",
-          "wordCount": 3625,
-          "title": "Accelerating GPT-5.6 Sol Ultrafast",
-          "imageUrl": "https://cdn.sanity.io/images/e4qjo92p/production/fdfac76baee0b174ea63df807f9d4f975341caea-1672x941.png?rect=0,32,1672,878&w=1200&h=630&fit=max&auto=format"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=49289112",
-          "author": "thisisauserid",
-          "description": "https://ai.google.dev/gemini-api/docs/models/gemini-3.7-flas...\nComments URL: https://news.ycombinator.com/item?id=49289112\nPoints: 506\n# Comments: 308",
-          "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/",
-          "publishedOn": "2026-08-13T17:23:22.000Z",
-          "wordCount": 4934,
-          "title": "Gemini 3.7 Flash",
-          "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-3-7-flash.width-1300.png"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=49286341",
-          "author": "matt_d",
-          "description": "Article URL: https://github.com/xoreaxeaxeax/skitter-creek-bath-salts\nComments URL: https://news.ycombinator.com/item?id=49286341\nPoints: 529\n# Comments: 144",
-          "link": "https://github.com/xoreaxeaxeax/skitter-creek-bath-salts",
-          "publishedOn": "2026-08-13T14:17:13.000Z",
-          "wordCount": 19294,
-          "title": "Spaghettifying DRAM",
-          "imageUrl": "https://opengraph.githubassets.com/db2a9522882c18e9d78d2f5df84b569552c1035a474b247d4b9418a37cd72418/xoreaxeaxeax/skitter-creek-bath-salts"
         }
       ]
     },
