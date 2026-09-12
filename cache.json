@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=49662371",
+          "author": "meredydd",
+          "description": "https://terrytao.wordpress.com/2026/09/11/a-severe-misalignm...\nhttps://www.economist.com/science-and-technology/2026/09/11/..., https://unwall.app/www.economist.com/science-and-technology/...\nComments URL: https://news.ycombinator.com/item?id=49662371\nPoints: 598\n# Comments: 655",
+          "link": "https://mathandai.org/",
+          "publishedOn": "2026-09-11T17:45:12.000Z",
+          "wordCount": null,
+          "title": "A misalignment of AI in mathematics",
+          "imageUrl": null
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=49657850",
           "author": "cromka",
           "description": "Over past couple months I noticed that HN feed is almost exclusively AI or AI-adjacent news. Meanwhile the legitimately, broadly-hacker stuff gets left out for the most part.\nI noticed that because the things I find genuinely interesting that I post here now get zero traction, which is the stuff that I believe would previously be met with some discussion.\nNote that I don't care that my submissions were ignored, I don't need that validation. Problem is that if my stuff gains no traction, I am myself not seeing similar stuff posted by others, stuff I am genuinely also interested in and would want to hear about from this community.\nHere are two most recent examples:\n- Lenovo showed a model that incorporates solid-state air cooling. That technology has been around for a while but it looks like it matured and is production-ready. This allows for super-light and slim designs, which, in turn, should allow for bigger batteries installed and I think it's some sort of breakthrough:  \nhttps://news.ycombinator.com/item?id=49580229\n- Brax Industries devices, genuinely interesting, open-soruce and innovative, especially the wall display, with its modularity and on-device processing compatible with Home Assistant. I also appreciate the very clean design:  \nhttps://news.ycombinator.com/item?id=49643215\nAs said, I honestly believe this would gain some traction here on HN a year or two ago. I no longer find HN a good source of \"what's new\" in the industry, it's almost exclusively AI talk now.\nSo I think the point I am trying to make is that maybe YC could start curating the content somehow to give those easily-drowned-out articles a visibility bump?\nOr, at the very least, introduce simple tagging, so we can start filtering stuff out.\nComments URL: https://news.ycombinator.com/item?id=49657850\nPoints: 670\n# Comments: 329",
@@ -1884,16 +1894,6 @@
           "wordCount": 19294,
           "title": "Spaghettifying DRAM",
           "imageUrl": "https://opengraph.githubassets.com/db2a9522882c18e9d78d2f5df84b569552c1035a474b247d4b9418a37cd72418/xoreaxeaxeax/skitter-creek-bath-salts"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=49285244",
-          "author": "bjin",
-          "description": "https://github.com/deepseek-ai/deepseek-harness\nhttps://deepseek-harness.github.io/deepseek-harness/en/guide...\nComments URL: https://news.ycombinator.com/item?id=49285244\nPoints: 506\n# Comments: 229",
-          "link": "https://deepseek.com/harness/en/",
-          "publishedOn": "2026-08-13T12:58:02.000Z",
-          "wordCount": 1461,
-          "title": "DeepSeek Harness developer preview",
-          "imageUrl": null
         }
       ]
     },
