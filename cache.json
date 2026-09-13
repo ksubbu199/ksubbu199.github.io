@@ -6,6 +6,36 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=49678683",
+          "author": "xena",
+          "description": "Article URL: https://xeiaso.net/notes/2026/everyone-slowdown-but-me/\nComments URL: https://news.ycombinator.com/item?id=49678683\nPoints: 607\n# Comments: 367",
+          "link": "https://xeiaso.net/notes/2026/everyone-slowdown-but-me/",
+          "publishedOn": "2026-09-13T00:30:44.000Z",
+          "wordCount": 574,
+          "title": "Everyone should slow down AI development except for me",
+          "imageUrl": "https://files.xeiaso.net/hero/solution-nine.jpg"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=49674050",
+          "author": "juliantigler",
+          "description": "Article URL: https://high5apps.github.io/josm-plugin-website-wizard/\nComments URL: https://news.ycombinator.com/item?id=49674050\nPoints: 515\n# Comments: 132",
+          "link": "https://high5apps.github.io/josm-plugin-website-wizard/",
+          "publishedOn": "2026-09-12T16:25:08.000Z",
+          "wordCount": 855,
+          "title": "Make your first edit to OpenStreetMap",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=49673098",
+          "author": "tolugenius",
+          "description": "https://archive.ph/kt50V\nComments URL: https://news.ycombinator.com/item?id=49673098\nPoints: 518\n# Comments: 366",
+          "link": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
+          "publishedOn": "2026-09-12T15:08:27.000Z",
+          "wordCount": null,
+          "title": "Nvidia is the central bank of AI",
+          "imageUrl": null
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=49672510",
           "author": "apsec112",
           "description": "Article URL: https://darioamodei.com/post/we-must-pace-the-frontier\nComments URL: https://news.ycombinator.com/item?id=49672510\nPoints: 575\n# Comments: 807",
@@ -56,6 +86,16 @@
           "imageUrl": "https://dayzlegame.com/og.png"
         },
         {
+          "id": "https://news.ycombinator.com/item?id=49662672",
+          "author": "doener",
+          "description": "Article URL: https://capitalbnews.org/data-centers-permit-rules-epa/\nComments URL: https://news.ycombinator.com/item?id=49662672\nPoints: 500\n# Comments: 392",
+          "link": "https://capitalbnews.org/data-centers-permit-rules-epa/",
+          "publishedOn": "2026-09-11T18:05:21.000Z",
+          "wordCount": 4726,
+          "title": "The EPA is planning to scrap public review rules for data center pollution",
+          "imageUrl": "https://i0.wp.com/capitalbnews.org/wp-content/uploads/2026/09/GettyImages-2266751110-scaled.jpg?fit=2560%2C1707&ssl=1"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=49662371",
           "author": "meredydd",
           "description": "https://terrytao.wordpress.com/2026/09/11/a-severe-misalignm...\nhttps://www.economist.com/science-and-technology/2026/09/11/..., https://unwall.app/www.economist.com/science-and-technology/...\nComments URL: https://news.ycombinator.com/item?id=49662371\nPoints: 598\n# Comments: 655",
@@ -84,6 +124,16 @@
           "wordCount": 6909,
           "title": "Claude is only available to people over 18 years",
           "imageUrl": "https://downloads.intercomcdn.com/i/o/lupk8zyo/792494/717b10d3ebd874823db64841659b/76f3062d78ebbb04863fb1de3ef9cca0.png"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=49645480",
+          "author": "datakan",
+          "description": "https://www.lg.com/global/newsroom/news/statements/statement...\nComments URL: https://news.ycombinator.com/item?id=49645480\nPoints: 574\n# Comments: 438",
+          "link": "https://www.tomshardware.com/tech-industry/big-tech/lg-strongly-denies-tv-security-claims-says-tracking-and-snooping-concerns-not-true-online-investigation-claims-216-000-000-spy-tvs-record-audio",
+          "publishedOn": "2026-09-10T15:31:37.000Z",
+          "wordCount": 53204,
+          "title": "LG denies TV spying claims, says tracking and snooping concerns 'not true'",
+          "imageUrl": "https://cdn.mos.cms.futurecdn.net/wcBwi9EfLxcZ9QCuRwh33k-2560-80.jpg"
         },
         {
           "id": "https://news.ycombinator.com/item?id=49645393",
@@ -1874,16 +1924,6 @@
           "wordCount": null,
           "title": "Semaglutide linked to lower predicted dementia risk",
           "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=49303202",
-          "author": "DemiGuru",
-          "description": "Article URL: https://www.pcworld.com/article/3212428/firefox-is-now-the-last-major-browser-that-still-supports-ublock-origin.html\nComments URL: https://news.ycombinator.com/item?id=49303202\nPoints: 524\n# Comments: 195",
-          "link": "https://www.pcworld.com/article/3212428/firefox-is-now-the-last-major-browser-that-still-supports-ublock-origin.html",
-          "publishedOn": "2026-08-14T19:03:20.000Z",
-          "wordCount": 6785,
-          "title": "Firefox is now the last major browser that still supports uBlock Origin",
-          "imageUrl": "https://www.pcworld.com/wp-content/uploads/2026/08/3212428-0-62401400-1786636364-Firefox-foto-mozilla.png?w=1024"
         }
       ]
     },
