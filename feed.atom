@@ -2,10 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-13T20:23:43.806Z</updated>
+    <updated>2026-09-13T22:54:40.028Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Homebrew 7.0.0]]></title>
+        <id>https://news.ycombinator.com/item?id=49681545</id>
+        <link href="https://brew.sh/2026/09/13/homebrew-7.0.0/"/>
+        <updated>2026-09-13T08:41:17.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://brew.sh/2026/09/13/homebrew-7.0.0/
+Comments URL: https://news.ycombinator.com/item?id=49681545
+Points: 533
+# Comments: 210]]></summary>
+        <author>
+            <name>mikemcquaid</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JetKVM Mini]]></title>
+        <id>https://news.ycombinator.com/item?id=49681152</id>
+        <link href="https://jetkvm.com/blog/introducing-jetkvm-mini"/>
+        <updated>2026-09-13T07:49:46.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://jetkvm.com/blog/introducing-jetkvm-mini
+Comments URL: https://news.ycombinator.com/item?id=49681152
+Points: 504
+# Comments: 199]]></summary>
+        <author>
+            <name>taubek</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Why are AI agents lying, cheating and coordinating?]]></title>
         <id>https://news.ycombinator.com/item?id=49678969</id>
