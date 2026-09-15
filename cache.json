@@ -6,6 +6,36 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=49701004",
+          "author": "throw0101d",
+          "description": "Article URL: https://www.apple.com/newsroom/2026/09/major-updates-for-apples-software-platforms-are-now-available/\nComments URL: https://news.ycombinator.com/item?id=49701004\nPoints: 504\n# Comments: 550",
+          "link": "https://www.apple.com/newsroom/2026/09/major-updates-for-apples-software-platforms-are-now-available/",
+          "publishedOn": "2026-09-14T17:50:29.000Z",
+          "wordCount": 8544,
+          "title": "iOS 27, iPadOS 27, and macOS 27",
+          "imageUrl": "https://www.apple.com/newsroom/images/2026/09/major-updates-for-apples-software-platforms-are-now-available/tile/Apple-OS-availability-hero-lp.jpg.og.jpg?202609141710"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=49700661",
+          "author": "bsimpson",
+          "description": "Article URL: https://store.steampowered.com/hardware/steamframe\nComments URL: https://news.ycombinator.com/item?id=49700661\nPoints: 603\n# Comments: 451",
+          "link": "https://store.steampowered.com/hardware/steamframe",
+          "publishedOn": "2026-09-14T17:27:55.000Z",
+          "wordCount": 407,
+          "title": "Steam Frame starts at $1059",
+          "imageUrl": "https://clan.akamai.steamstatic.com/images/45479024/41ac1feaa13a1396844a31be91beb068eb2e509f.jpg"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=49694296",
+          "author": "gaganyaan",
+          "description": "Article URL: https://xcancel.com/#\nComments URL: https://news.ycombinator.com/item?id=49694296\nPoints: 551\n# Comments: 828",
+          "link": "https://xcancel.com/#",
+          "publishedOn": "2026-09-14T09:51:50.000Z",
+          "wordCount": null,
+          "title": "XCancel service is suspended until further notice",
+          "imageUrl": null
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=49688695",
           "author": "u1hcw9nx",
           "description": "Article URL: https://www.vals.ai/blogs/fable-solves-cyphral-distich\nComments URL: https://news.ycombinator.com/item?id=49688695\nPoints: 698\n# Comments: 306",
@@ -1914,46 +1944,6 @@
           "wordCount": 4801,
           "title": "Anthropic's 'watermark' text adulteration in Claude is a perversion of writing",
           "imageUrl": "https://daringfireball.net/graphics/df-wide-card.png"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=49322107",
-          "author": "stagas",
-          "description": "A few hours ago I switched my nameservers to Cloudflare in order to enable R2 bucket serving through my own subdomain, and I found out that it silently had injected a JS analytics snippet in my HTML-only JS-free site textlog.cc — I had to go to the Analytics dashboard, Add the site to the analytics and then disable the snippet. I find this approach entirely invasive, you should opt-in to features like that not have to opt-out. Just a warning out there to folks who might not be aware of this.\nComments URL: https://news.ycombinator.com/item?id=49322107\nPoints: 517\n# Comments: 143",
-          "link": "https://news.ycombinator.com/item?id=49322107",
-          "publishedOn": "2026-08-16T17:49:46.000Z",
-          "wordCount": 7405,
-          "title": "Tell HN: Cloudflare silently injects its analytics when you switch nameservers",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=49321717",
-          "author": "Narishma",
-          "description": "Article URL: https://rvembedded.com/blog_post/12/\nComments URL: https://news.ycombinator.com/item?id=49321717\nPoints: 502\n# Comments: 266",
-          "link": "https://rvembedded.com/blog_post/12/",
-          "publishedOn": "2026-08-16T17:01:07.000Z",
-          "wordCount": 4653,
-          "title": "A third world engineer responds to “RISC-V: They should have known better”",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=49319633",
-          "author": "pentagrama",
-          "description": "Article URL: https://support.mozilla.org/en-US/kb/block-ads-firefox-ios\nComments URL: https://news.ycombinator.com/item?id=49319633\nPoints: 525\n# Comments: 217",
-          "link": "https://support.mozilla.org/en-US/kb/block-ads-firefox-ios",
-          "publishedOn": "2026-08-16T12:58:10.000Z",
-          "wordCount": 177,
-          "title": "Firefox for iOS now has a native adblocker",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=49319556",
-          "author": "tosh",
-          "description": "Article URL: https://platform.claude.com/docs/en/release-notes/system-prompts\nComments URL: https://news.ycombinator.com/item?id=49319556\nPoints: 526\n# Comments: 222",
-          "link": "https://platform.claude.com/docs/en/release-notes/system-prompts",
-          "publishedOn": "2026-08-16T12:48:21.000Z",
-          "wordCount": 110870,
-          "title": "Claude: System Prompts",
-          "imageUrl": "https://platform.claude.com/docs/og?locale=en&path=release-notes/system-prompts&design-rev=1"
         }
       ]
     },
