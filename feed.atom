@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-15T11:11:33.398Z</updated>
+    <updated>2026-09-15T16:22:16.807Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Nail the Narrative]]></title>
+        <id>https://martinfowler.com/articles/never-send-slides/nail-your-narrative.html</id>
+        <link href="https://martinfowler.com/articles/never-send-slides/nail-your-narrative.html"/>
+        <updated>2026-09-15T15:11:00.000Z</updated>
+        <summary type="html"><![CDATA[Sumeet Gayathri Moghe finds many folks building
+      presentations get tangled in building slides without a coherent narrative.
+      He advises distilling the big idea, visualizing the audience, and
+      building a structured storyline. 
+more…]]></summary>
+        <author>
+            <name>Martin Fowler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations]]></title>
+        <id>https://news.ycombinator.com/item?id=49711544</id>
+        <link href="https://github.com/arnegiacomo/fugleramme"/>
+        <updated>2026-09-15T12:31:10.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://github.com/arnegiacomo/fugleramme
+Comments URL: https://news.ycombinator.com/item?id=49711544
+Points: 557
+# Comments: 90]]></summary>
+        <author>
+            <name>arnemunthekaas</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I can't stop thinking about Papua New Guinea]]></title>
+        <id>https://news.ycombinator.com/item?id=49708431</id>
+        <link href="https://notnottalmud.substack.com/p/why-i-cant-stop-thinking-about-papua"/>
+        <updated>2026-09-15T06:16:24.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://notnottalmud.substack.com/p/why-i-cant-stop-thinking-about-papua
+Comments URL: https://news.ycombinator.com/item?id=49708431
+Points: 682
+# Comments: 294]]></summary>
+        <author>
+            <name>networked</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[iOS 27, iPadOS 27, and macOS 27]]></title>
         <id>https://news.ycombinator.com/item?id=49701004</id>
@@ -3020,19 +3060,6 @@ Points: 661
         <summary type="html"><![CDATA[Why Are India’s Infrastructure Projects Always Delayed?In this clip from our debate, 12 Years of BJP, Anish Gawande questions the explanations often given fo...]]></summary>
         <author>
             <name>Think School</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Qwen 3.8 27B is excellent, but it defaults to overthinking things]]></title>
-        <id>https://news.ycombinator.com/item?id=49324985</id>
-        <link href="https://simonwillison.net/2026/Aug/16/qwen-38-27b/"/>
-        <updated>2026-08-16T23:45:09.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://simonwillison.net/2026/Aug/16/qwen-38-27b/
-Comments URL: https://news.ycombinator.com/item?id=49324985
-Points: 501
-# Comments: 230]]></summary>
-        <author>
-            <name>bilsbie</name>
         </author>
     </entry>
     <entry>

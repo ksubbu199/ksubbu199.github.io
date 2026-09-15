@@ -6,6 +6,26 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=49711544",
+          "author": "arnemunthekaas",
+          "description": "Article URL: https://github.com/arnegiacomo/fugleramme\nComments URL: https://news.ycombinator.com/item?id=49711544\nPoints: 557\n# Comments: 90",
+          "link": "https://github.com/arnegiacomo/fugleramme",
+          "publishedOn": "2026-09-15T12:31:10.000Z",
+          "wordCount": 3785,
+          "title": "Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations",
+          "imageUrl": "https://repository-images.githubusercontent.com/1294088656/7d2dbd8d-ec72-4781-8363-f4f5b9afc352"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=49708431",
+          "author": "networked",
+          "description": "Article URL: https://notnottalmud.substack.com/p/why-i-cant-stop-thinking-about-papua\nComments URL: https://news.ycombinator.com/item?id=49708431\nPoints: 682\n# Comments: 294",
+          "link": "https://notnottalmud.substack.com/p/why-i-cant-stop-thinking-about-papua",
+          "publishedOn": "2026-09-15T06:16:24.000Z",
+          "wordCount": null,
+          "title": "I can't stop thinking about Papua New Guinea",
+          "imageUrl": null
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=49701004",
           "author": "throw0101d",
           "description": "Article URL: https://www.apple.com/newsroom/2026/09/major-updates-for-apples-software-platforms-are-now-available/\nComments URL: https://news.ycombinator.com/item?id=49701004\nPoints: 504\n# Comments: 550",
@@ -1934,16 +1954,6 @@
           "wordCount": 6128,
           "title": "Incident with Github.com",
           "imageUrl": "https://dka575ofm4ao0.cloudfront.net/pages-twitter_logos/original/36420/GitHub-Mark-120px-plus.png"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=49324985",
-          "author": "bilsbie",
-          "description": "Article URL: https://simonwillison.net/2026/Aug/16/qwen-38-27b/\nComments URL: https://news.ycombinator.com/item?id=49324985\nPoints: 501\n# Comments: 230",
-          "link": "https://simonwillison.net/2026/Aug/16/qwen-38-27b/",
-          "publishedOn": "2026-08-16T23:45:09.000Z",
-          "wordCount": 2917,
-          "title": "Qwen 3.8 27B is excellent, but it defaults to overthinking things",
-          "imageUrl": "https://static.simonwillison.net/static/2026/qwen-thinking-bicycle-27b.jpg"
         }
       ]
     },
@@ -2062,6 +2072,16 @@
       "feedUrl": "https://martinfowler.com/feed.atom",
       "siteUrl": "https://martinfowler.com/feed.atom",
       "articles": [
+        {
+          "id": "https://martinfowler.com/articles/never-send-slides/nail-your-narrative.html",
+          "author": null,
+          "description": "Sumeet Gayathri Moghe finds many folks building\n      presentations get tangled in building slides without a coherent narrative.\n      He advises distilling the big idea, visualizing the audience, and\n      building a structured storyline. \nmore…",
+          "link": "https://martinfowler.com/articles/never-send-slides/nail-your-narrative.html",
+          "publishedOn": "2026-09-15T15:11:00.000Z",
+          "wordCount": 3024,
+          "title": "Nail the Narrative",
+          "imageUrl": "https://martinfowler.com/articles/never-send-slides/index/card.png"
+        },
         {
           "id": "https://martinfowler.com/articles/2026-social-traffic.html",
           "author": null,
