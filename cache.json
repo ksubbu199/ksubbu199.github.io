@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=49724141",
+          "author": "hackernj",
+          "description": "Article URL: https://www.bbc.com/news/articles/cjwyzrr9d3dko\nComments URL: https://news.ycombinator.com/item?id=49724141\nPoints: 597\n# Comments: 705",
+          "link": "https://www.bbc.com/news/articles/cjwyzrr9d3dko",
+          "publishedOn": "2026-09-16T09:54:05.000Z",
+          "wordCount": 7405,
+          "title": "EU chief opens door for Canada to become 'associate member'",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/4305/live/f4857df0-b1cc-11f1-b1d1-571ed4d7ff2c.jpg"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=49717558",
           "author": "albelfio",
           "description": "Article URL: https://typesafe.ai/blog/introducing-system-one-models-and-jev\nComments URL: https://news.ycombinator.com/item?id=49717558\nPoints: 582\n# Comments: 193",
@@ -44,6 +54,16 @@
           "wordCount": 4977,
           "title": "25 years of mass surveillance is enough",
           "imageUrl": null
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=49710253",
+          "author": "choult",
+          "description": "Article URL: https://www.bbc.com/news/articles/c8ly49w9g1edo\nComments URL: https://news.ycombinator.com/item?id=49710253\nPoints: 508\n# Comments: 453",
+          "link": "https://www.bbc.com/news/articles/c8ly49w9g1edo",
+          "publishedOn": "2026-09-15T10:22:46.000Z",
+          "wordCount": 5671,
+          "title": "Suspected sabotage causes major Netherlands rail disruption",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/5666/live/b70fbd00-b109-11f1-a451-6b1ff10ed362.jpg"
         },
         {
           "id": "https://news.ycombinator.com/item?id=49708431",
@@ -1904,16 +1924,6 @@
           "wordCount": 5190,
           "title": "Linux 7.3 improves performance when running out of vRAM",
           "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=49338459",
-          "author": "gavide",
-          "description": "Article URL: https://timmarinin.net/2026/bluesky-screenshots/\nComments URL: https://news.ycombinator.com/item?id=49338459\nPoints: 529\n# Comments: 351",
-          "link": "https://timmarinin.net/2026/bluesky-screenshots/",
-          "publishedOn": "2026-08-17T22:20:40.000Z",
-          "wordCount": 486,
-          "title": "How Bluesky draws its logo on screenshots",
-          "imageUrl": null
         }
       ]
     },
@@ -2252,6 +2262,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKZozRVHRYsYHGEyNKuhhdA",
       "siteUrl": "https://www.youtube.com/channel/UCKZozRVHRYsYHGEyNKuhhdA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=PK4Ty_cyCMI",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=PK4Ty_cyCMI",
+          "publishedOn": "2026-09-16T12:09:44.000Z",
+          "wordCount": null,
+          "title": "Putin’s $30 Trillion Gamble | The Arctic Jackpot That Could Make Russia a Superpower Again",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=Pb9KiLgqahY",
           "author": null,
