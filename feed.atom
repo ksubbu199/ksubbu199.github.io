@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-15T23:25:24.122Z</updated>
+    <updated>2026-09-16T03:34:01.123Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -70,6 +70,19 @@ Points: 682
 # Comments: 294]]></summary>
         <author>
             <name>networked</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A single firm is behind OpenAI, Anthropic, and Meta hacking scandals]]></title>
+        <id>https://news.ycombinator.com/item?id=49704132</id>
+        <link href="https://www.effort.news/irregular"/>
+        <updated>2026-09-14T21:15:01.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.effort.news/irregular
+Comments URL: https://news.ycombinator.com/item?id=49704132
+Points: 508
+# Comments: 175]]></summary>
+        <author>
+            <name>yusufozkan</name>
         </author>
     </entry>
     <entry>
@@ -3050,45 +3063,6 @@ Points: 525
         <summary type="html"><![CDATA[Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.]]></summary>
         <author>
             <name>Think School</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ask HN: Alternatives to GitHub]]></title>
-        <id>https://news.ycombinator.com/item?id=49331033</id>
-        <link href="https://news.ycombinator.com/item?id=49331033"/>
-        <updated>2026-08-17T13:59:17.000Z</updated>
-        <summary type="html"><![CDATA[Github has been down consistently over the last few months - does it make sense to switch to alternatives?
-Comments URL: https://news.ycombinator.com/item?id=49331033
-Points: 506
-# Comments: 325]]></summary>
-        <author>
-            <name>dhruv3006</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Preview of DuckDB v2.0]]></title>
-        <id>https://news.ycombinator.com/item?id=49330781</id>
-        <link href="https://duckdb.org/2026/08/17/duckdb-20-highlights"/>
-        <updated>2026-08-17T13:46:27.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://duckdb.org/2026/08/17/duckdb-20-highlights
-Comments URL: https://news.ycombinator.com/item?id=49330781
-Points: 524
-# Comments: 93]]></summary>
-        <author>
-            <name>ibotty</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Incident with Github.com]]></title>
-        <id>https://news.ycombinator.com/item?id=49330684</id>
-        <link href="https://www.githubstatus.com/incidents/zkxwbgr0cnmx"/>
-        <updated>2026-08-17T13:40:55.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.githubstatus.com/incidents/zkxwbgr0cnmx
-Comments URL: https://news.ycombinator.com/item?id=49330684
-Points: 661
-# Comments: 474]]></summary>
-        <author>
-            <name>kevcampb</name>
         </author>
     </entry>
     <entry>

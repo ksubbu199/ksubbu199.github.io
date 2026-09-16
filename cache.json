@@ -46,6 +46,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://news.ycombinator.com/item?id=49704132",
+          "author": "yusufozkan",
+          "description": "Article URL: https://www.effort.news/irregular\nComments URL: https://news.ycombinator.com/item?id=49704132\nPoints: 508\n# Comments: 175",
+          "link": "https://www.effort.news/irregular",
+          "publishedOn": "2026-09-14T21:15:01.000Z",
+          "wordCount": 1734,
+          "title": "A single firm is behind OpenAI, Anthropic, and Meta hacking scandals",
+          "imageUrl": "https://www.effort.news/images/article-graphics/irregular/irregular-network.png"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=49701004",
           "author": "throw0101d",
           "description": "Article URL: https://www.apple.com/newsroom/2026/09/major-updates-for-apples-software-platforms-are-now-available/\nComments URL: https://news.ycombinator.com/item?id=49701004\nPoints: 504\n# Comments: 550",
@@ -1954,36 +1964,6 @@
           "wordCount": 6625,
           "title": "Universal health coverage could save $1T and 114k lives a year: study",
           "imageUrl": "https://ysm-res.cloudinary.com/image/upload/c_limit,f_jpg,h_630,q_auto,w_1200/v1/yms/prod/2678383b-f910-4164-833a-e287b5fed96e"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=49331033",
-          "author": "dhruv3006",
-          "description": "Github has been down consistently over the last few months - does it make sense to switch to alternatives?\nComments URL: https://news.ycombinator.com/item?id=49331033\nPoints: 506\n# Comments: 325",
-          "link": "https://news.ycombinator.com/item?id=49331033",
-          "publishedOn": "2026-08-17T13:59:17.000Z",
-          "wordCount": 16362,
-          "title": "Ask HN: Alternatives to GitHub",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=49330781",
-          "author": "ibotty",
-          "description": "Article URL: https://duckdb.org/2026/08/17/duckdb-20-highlights\nComments URL: https://news.ycombinator.com/item?id=49330781\nPoints: 524\n# Comments: 93",
-          "link": "https://duckdb.org/2026/08/17/duckdb-20-highlights",
-          "publishedOn": "2026-08-17T13:46:27.000Z",
-          "wordCount": 3207,
-          "title": "A Preview of DuckDB v2.0",
-          "imageUrl": "https://duckdb.org/images/blog/thumbs/duckdb-preview-2-0.png"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=49330684",
-          "author": "kevcampb",
-          "description": "Article URL: https://www.githubstatus.com/incidents/zkxwbgr0cnmx\nComments URL: https://news.ycombinator.com/item?id=49330684\nPoints: 661\n# Comments: 474",
-          "link": "https://www.githubstatus.com/incidents/zkxwbgr0cnmx",
-          "publishedOn": "2026-08-17T13:40:55.000Z",
-          "wordCount": 6128,
-          "title": "Incident with Github.com",
-          "imageUrl": "https://dka575ofm4ao0.cloudfront.net/pages-twitter_logos/original/36420/GitHub-Mark-120px-plus.png"
         }
       ]
     },
