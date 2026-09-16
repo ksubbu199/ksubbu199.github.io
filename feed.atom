@@ -2,10 +2,27 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-16T18:40:26.610Z</updated>
+    <updated>2026-09-16T21:54:30.469Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Fragments: September 16]]></title>
+        <id>https://martinfowler.com/fragments/2026-09-16.html</id>
+        <link href="https://martinfowler.com/fragments/2026-09-16.html"/>
+        <updated>2026-09-16T20:05:00.000Z</updated>
+        <summary type="html"><![CDATA[Reports of agentic hacking continue, in this case it happened back in May and it seems OpenAI did not disclose that they were responsible. Simon Willison sees two options:
+After the Hugging Face and Wiki attacks OpenAI were still unable to review their previous logs and determine that they had previously attacked RubyGems.
+They knew about the attack on RubyGems and made the decision not to reach out to the RubyGems team about it.
+Both of these are bad!
+Given this incident, the Hugging Face situation, and the Wiki attack, the obvious question right now is how many more incidents like this are out there waiting to be discovered?
+ ❄                ❄                ❄                ❄                ❄
+Dave Farley:
+Stop asking the sci-fi question: ‘Is it conscious?’ Start asking the engineering …]]></summary>
+        <author>
+            <name>Martin Fowler</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Putin’s $30 Trillion Gamble | The Arctic Jackpot That Could Make Russia a Superpower Again]]></title>
         <id>https://www.youtube.com/watch?v=PK4Ty_cyCMI</id>
@@ -2997,19 +3014,6 @@ Points: 518
 # Comments: 357]]></summary>
         <author>
             <name>pseudolus</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Linux 7.3 improves performance when running out of vRAM]]></title>
-        <id>https://news.ycombinator.com/item?id=49342719</id>
-        <link href="https://pixelcluster.dev/VRAM-Overcommit/"/>
-        <updated>2026-08-18T07:51:50.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://pixelcluster.dev/VRAM-Overcommit/
-Comments URL: https://news.ycombinator.com/item?id=49342719
-Points: 507
-# Comments: 270]]></summary>
-        <author>
-            <name>flaburgan</name>
         </author>
     </entry>
     <entry>
