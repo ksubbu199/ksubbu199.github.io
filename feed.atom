@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-17T11:03:25.536Z</updated>
+    <updated>2026-09-17T16:20:35.398Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[I don't like LLMs]]></title>
+        <id>https://martinfowler.com/articles/2026-dont-like-llms.html</id>
+        <link href="https://martinfowler.com/articles/2026-dont-like-llms.html"/>
+        <updated>2026-09-17T13:50:00.000Z</updated>
+        <summary type="html"><![CDATA[I have a lot of mixed feelings about AI and LLM technology. I’m
+fascinated by its effect on our profession, excited by the potential gains
+in productivity - and thus the products we could rapidly build. On the other
+hand, I’m fearful of the damage AI might cause: agent swarms taking over our
+virtual and physical infrastructure, designing bio weapons. But, back on my
+first hand, LLMs might also design miracle cures, and come up with clever
+ways to raise our prosperity. Fundamentally I don’t think we have a choice
+about riding on the AI technology train. It’s a wild ride and I just hope
+we’ll get through it OK.
+But as I mull on this more, I realize that among this mix of contrasting
+feelings, there is one emotion that dominates - one that comes from my
+direct interactions with LLMs. I don’t …]]></summary>
+        <author>
+            <name>Martin Fowler</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Freemium the Registry]]></title>
         <id>https://writing.kemitchell.com/2026/09/16/Freemium-the-Registry</id>
@@ -14,6 +35,19 @@
         <summary type="html"><![CDATA[Laurie Voss on an open source funding model]]></summary>
         <author>
             <name>/dev/lawyer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Xiaomi Mimo 2.6 live post-training dashboard]]></title>
+        <id>https://news.ycombinator.com/item?id=49732270</id>
+        <link href="https://mimo.xiaomi.com/rl/"/>
+        <updated>2026-09-16T20:09:18.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://mimo.xiaomi.com/rl/
+Comments URL: https://news.ycombinator.com/item?id=49732270
+Points: 513
+# Comments: 146]]></summary>
+        <author>
+            <name>krackers</name>
         </author>
     </entry>
     <entry>
@@ -131,6 +165,19 @@ Points: 505
 # Comments: 334]]></summary>
         <author>
             <name>imwally</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS says it can't restore some data from mideast facilities struck by Iran]]></title>
+        <id>https://news.ycombinator.com/item?id=49719249</id>
+        <link href="https://www.wsj.com/world/middle-east/aws-says-it-cant-restore-some-data-from-mideast-facilities-struck-by-iran-ddcb7e5d"/>
+        <updated>2026-09-15T21:41:42.000Z</updated>
+        <summary type="html"><![CDATA[https://archive.is/Ay7RJ
+Comments URL: https://news.ycombinator.com/item?id=49719249
+Points: 500
+# Comments: 420]]></summary>
+        <author>
+            <name>berkeleyjunk</name>
         </author>
     </entry>
     <entry>
@@ -3014,19 +3061,6 @@ Points: 517
 # Comments: 67]]></summary>
         <author>
             <name>kareiva</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenLogi]]></title>
-        <id>https://news.ycombinator.com/item?id=49355606</id>
-        <link href="https://openlogi.org/en"/>
-        <updated>2026-08-19T01:58:28.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://openlogi.org/en
-Comments URL: https://news.ycombinator.com/item?id=49355606
-Points: 609
-# Comments: 160]]></summary>
-        <author>
-            <name>amatheus</name>
         </author>
     </entry>
     <entry>

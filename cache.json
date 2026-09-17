@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=49732270",
+          "author": "krackers",
+          "description": "Article URL: https://mimo.xiaomi.com/rl/\nComments URL: https://news.ycombinator.com/item?id=49732270\nPoints: 513\n# Comments: 146",
+          "link": "https://mimo.xiaomi.com/rl/",
+          "publishedOn": "2026-09-16T20:09:18.000Z",
+          "wordCount": 10,
+          "title": "Xiaomi Mimo 2.6 live post-training dashboard",
+          "imageUrl": null
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=49731285",
           "author": "polyphilz",
           "description": "Article URL: https://rohanbansal.com/qorl\nComments URL: https://news.ycombinator.com/item?id=49731285\nPoints: 562\n# Comments: 120",
@@ -74,6 +84,16 @@
           "wordCount": 9865,
           "title": "Apple Reference Image: A New Approach for Verified Photography",
           "imageUrl": "https://security.apple.com/assets/image/seo-image.jpg"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=49719249",
+          "author": "berkeleyjunk",
+          "description": "https://archive.is/Ay7RJ\nComments URL: https://news.ycombinator.com/item?id=49719249\nPoints: 500\n# Comments: 420",
+          "link": "https://www.wsj.com/world/middle-east/aws-says-it-cant-restore-some-data-from-mideast-facilities-struck-by-iran-ddcb7e5d",
+          "publishedOn": "2026-09-15T21:41:42.000Z",
+          "wordCount": null,
+          "title": "AWS says it can't restore some data from mideast facilities struck by Iran",
+          "imageUrl": null
         },
         {
           "id": "https://news.ycombinator.com/item?id=49717558",
@@ -1924,16 +1944,6 @@
           "wordCount": 2390,
           "title": "A joke domain purchase turned in geopolitical warfare",
           "imageUrl": "https://sprocketfox.io/xssfox/images/war.png"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=49355606",
-          "author": "amatheus",
-          "description": "Article URL: https://openlogi.org/en\nComments URL: https://news.ycombinator.com/item?id=49355606\nPoints: 609\n# Comments: 160",
-          "link": "https://openlogi.org/en",
-          "publishedOn": "2026-08-19T01:58:28.000Z",
-          "wordCount": 2773,
-          "title": "OpenLogi",
-          "imageUrl": "https://openlogi.org/social-preview.png"
         }
       ]
     },
@@ -2062,6 +2072,16 @@
       "feedUrl": "https://martinfowler.com/feed.atom",
       "siteUrl": "https://martinfowler.com/feed.atom",
       "articles": [
+        {
+          "id": "https://martinfowler.com/articles/2026-dont-like-llms.html",
+          "author": null,
+          "description": "I have a lot of mixed feelings about AI and LLM technology. I’m\nfascinated by its effect on our profession, excited by the potential gains\nin productivity - and thus the products we could rapidly build. On the other\nhand, I’m fearful of the damage AI might cause: agent swarms taking over our\nvirtual and physical infrastructure, designing bio weapons. But, back on my\nfirst hand, LLMs might also design miracle cures, and come up with clever\nways to raise our prosperity. Fundamentally I don’t think we have a choice\nabout riding on the AI technology train. It’s a wild ride and I just hope\nwe’ll get through it OK.\nBut as I mull on this more, I realize that among this mix of contrasting\nfeelings, there is one emotion that dominates - one that comes from my\ndirect interactions with LLMs. I don’t …",
+          "link": "https://martinfowler.com/articles/2026-dont-like-llms.html",
+          "publishedOn": "2026-09-17T13:50:00.000Z",
+          "wordCount": 562,
+          "title": "I don't like LLMs",
+          "imageUrl": "https://martinfowler.com/logo-sq.png"
+        },
         {
           "id": "https://martinfowler.com/fragments/2026-09-16.html",
           "author": null,
