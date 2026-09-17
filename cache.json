@@ -6,6 +6,26 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=49731285",
+          "author": "polyphilz",
+          "description": "Article URL: https://rohanbansal.com/qorl\nComments URL: https://news.ycombinator.com/item?id=49731285\nPoints: 562\n# Comments: 120",
+          "link": "https://rohanbansal.com/qorl",
+          "publishedOn": "2026-09-16T18:50:00.000Z",
+          "wordCount": 14541,
+          "title": "Training a 4B model to produce 81% faster query plans than Postgres",
+          "imageUrl": "https://rohanbansal.com/og/qorl-20260916.png"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=49729000",
+          "author": "signa11",
+          "description": "Article URL: https://will-keleher.com/posts/small-programming-tricks-matter/\nComments URL: https://news.ycombinator.com/item?id=49729000\nPoints: 531\n# Comments: 239",
+          "link": "https://will-keleher.com/posts/small-programming-tricks-matter/",
+          "publishedOn": "2026-09-16T15:56:47.000Z",
+          "wordCount": 810,
+          "title": "Small programming tricks",
+          "imageUrl": null
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=49726586",
           "author": "driverdan",
           "description": "https://micahflee.com/flock-cameras-are-riddled-with-securit...\nComments URL: https://news.ycombinator.com/item?id=49726586\nPoints: 509\n# Comments: 232",
@@ -14,6 +34,16 @@
           "wordCount": 30554,
           "title": "Hackers Got Inside a Flock Camera",
           "imageUrl": "https://media.wired.com/photos/6aa9a89861c11f99a88f271a/191:100/w_1280,c_limit/Security_Hackers%20Got%20Inside%20a%20Flock%20Camera.%20Its%20Data%20Shows%20How%20the%20System%20Really%20Works.jpg"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=49724881",
+          "author": "nonmaskable",
+          "description": "Article URL: https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels/\nComments URL: https://news.ycombinator.com/item?id=49724881\nPoints: 714\n# Comments: 292",
+          "link": "https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels/",
+          "publishedOn": "2026-09-16T11:15:53.000Z",
+          "wordCount": 6484,
+          "title": "Nvidia announces native GPU programming in Rust",
+          "imageUrl": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/09/image1-1.webp"
         },
         {
           "id": "https://news.ycombinator.com/item?id=49724141",
@@ -1904,16 +1934,6 @@
           "wordCount": 2773,
           "title": "OpenLogi",
           "imageUrl": "https://openlogi.org/social-preview.png"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=49351324",
-          "author": "KolmogorovComp",
-          "description": "Article URL: https://about.iceland.co.uk/our-story/the-dark-ages/beware-management-consultants/\nComments URL: https://news.ycombinator.com/item?id=49351324\nPoints: 507\n# Comments: 126",
-          "link": "https://about.iceland.co.uk/our-story/the-dark-ages/beware-management-consultants/",
-          "publishedOn": "2026-08-18T19:29:51.000Z",
-          "wordCount": 1258,
-          "title": "Beware Management Consultants",
-          "imageUrl": null
         }
       ]
     },
@@ -2401,16 +2421,6 @@
           "wordCount": null,
           "title": "The Air India CURSE : How Tata’s Dream Acquisition Became a Nightmare",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/shorts/aME1OWXP-00",
-          "author": null,
-          "description": "AI is changing jobs faster than most people realize.Today, almost everyone knows how to use AI. But the real advantage lies in knowing how to build with AI c...",
-          "link": "https://www.youtube.com/shorts/aME1OWXP-00",
-          "publishedOn": "2026-08-18T12:47:26.000Z",
-          "wordCount": 4080,
-          "title": "Using AI is no longer enough. You need to know how to BUILD with it.",
-          "imageUrl": "https://i.ytimg.com/vi/aME1OWXP-00/oar2.jpg?sqp=-oaymwEkCJsDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLADGG3dhPkmP3F6C1HzzRfIgmTf8A&usqp=CCk"
         }
       ]
     },

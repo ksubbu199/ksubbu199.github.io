@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-17T05:47:39.581Z</updated>
+    <updated>2026-09-17T11:03:25.536Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -34,6 +34,32 @@ Stop asking the sci-fi question: ‘Is it conscious?’ Start asking the enginee
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Training a 4B model to produce 81% faster query plans than Postgres]]></title>
+        <id>https://news.ycombinator.com/item?id=49731285</id>
+        <link href="https://rohanbansal.com/qorl"/>
+        <updated>2026-09-16T18:50:00.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://rohanbansal.com/qorl
+Comments URL: https://news.ycombinator.com/item?id=49731285
+Points: 562
+# Comments: 120]]></summary>
+        <author>
+            <name>polyphilz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Small programming tricks]]></title>
+        <id>https://news.ycombinator.com/item?id=49729000</id>
+        <link href="https://will-keleher.com/posts/small-programming-tricks-matter/"/>
+        <updated>2026-09-16T15:56:47.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://will-keleher.com/posts/small-programming-tricks-matter/
+Comments URL: https://news.ycombinator.com/item?id=49729000
+Points: 531
+# Comments: 239]]></summary>
+        <author>
+            <name>signa11</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Hackers Got Inside a Flock Camera]]></title>
         <id>https://news.ycombinator.com/item?id=49726586</id>
         <link href="https://www.wired.com/story/hackers-flock-camera-data-shows-how-system-works/"/>
@@ -53,6 +79,19 @@ Points: 509
         <updated>2026-09-16T12:09:44.000Z</updated>
         <author>
             <name>Think School</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nvidia announces native GPU programming in Rust]]></title>
+        <id>https://news.ycombinator.com/item?id=49724881</id>
+        <link href="https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels/"/>
+        <updated>2026-09-16T11:15:53.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels/
+Comments URL: https://news.ycombinator.com/item?id=49724881
+Points: 714
+# Comments: 292]]></summary>
+        <author>
+            <name>nonmaskable</name>
         </author>
     </entry>
     <entry>
@@ -2988,29 +3027,6 @@ Points: 609
 # Comments: 160]]></summary>
         <author>
             <name>amatheus</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Beware Management Consultants]]></title>
-        <id>https://news.ycombinator.com/item?id=49351324</id>
-        <link href="https://about.iceland.co.uk/our-story/the-dark-ages/beware-management-consultants/"/>
-        <updated>2026-08-18T19:29:51.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://about.iceland.co.uk/our-story/the-dark-ages/beware-management-consultants/
-Comments URL: https://news.ycombinator.com/item?id=49351324
-Points: 507
-# Comments: 126]]></summary>
-        <author>
-            <name>KolmogorovComp</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Using AI is no longer enough. You need to know how to BUILD with it.]]></title>
-        <id>https://www.youtube.com/shorts/aME1OWXP-00</id>
-        <link href="https://www.youtube.com/shorts/aME1OWXP-00"/>
-        <updated>2026-08-18T12:47:26.000Z</updated>
-        <summary type="html"><![CDATA[AI is changing jobs faster than most people realize.Today, almost everyone knows how to use AI. But the real advantage lies in knowing how to build with AI c...]]></summary>
-        <author>
-            <name>Think School</name>
         </author>
     </entry>
     <entry>
