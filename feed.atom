@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-17T00:07:58.840Z</updated>
+    <updated>2026-09-17T05:47:39.581Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Freemium the Registry]]></title>
+        <id>https://writing.kemitchell.com/2026/09/16/Freemium-the-Registry</id>
+        <link href="https://writing.kemitchell.com/2026/09/16/Freemium-the-Registry"/>
+        <updated>2026-09-17T04:21:50.000Z</updated>
+        <summary type="html"><![CDATA[Laurie Voss on an open source funding model]]></summary>
+        <author>
+            <name>/dev/lawyer</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Fragments: September 16]]></title>
         <id>https://martinfowler.com/fragments/2026-09-16.html</id>
@@ -21,6 +31,19 @@ Dave Farley:
 Stop asking the sci-fi question: ‘Is it conscious?’ Start asking the engineering …]]></summary>
         <author>
             <name>Martin Fowler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hackers Got Inside a Flock Camera]]></title>
+        <id>https://news.ycombinator.com/item?id=49726586</id>
+        <link href="https://www.wired.com/story/hackers-flock-camera-data-shows-how-system-works/"/>
+        <updated>2026-09-16T13:18:47.000Z</updated>
+        <summary type="html"><![CDATA[https://micahflee.com/flock-cameras-are-riddled-with-securit...
+Comments URL: https://news.ycombinator.com/item?id=49726586
+Points: 509
+# Comments: 232]]></summary>
+        <author>
+            <name>driverdan</name>
         </author>
     </entry>
     <entry>
@@ -56,6 +79,19 @@ Points: 520
 # Comments: 183]]></summary>
         <author>
             <name>vertigoruntime</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple Reference Image: A New Approach for Verified Photography]]></title>
+        <id>https://news.ycombinator.com/item?id=49721322</id>
+        <link href="https://security.apple.com/blog/apple-reference-image/"/>
+        <updated>2026-09-16T02:07:31.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://security.apple.com/blog/apple-reference-image/
+Comments URL: https://news.ycombinator.com/item?id=49721322
+Points: 505
+# Comments: 334]]></summary>
+        <author>
+            <name>imwally</name>
         </author>
     </entry>
     <entry>
@@ -2965,45 +3001,6 @@ Points: 507
 # Comments: 126]]></summary>
         <author>
             <name>KolmogorovComp</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I like 'em thick: an apology to my English teachers]]></title>
-        <id>https://news.ycombinator.com/item?id=49347543</id>
-        <link href="https://www.experimental-history.com/p/i-like-em-thick"/>
-        <updated>2026-08-18T15:50:52.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.experimental-history.com/p/i-like-em-thick
-Comments URL: https://news.ycombinator.com/item?id=49347543
-Points: 504
-# Comments: 242]]></summary>
-        <author>
-            <name>Ariarule</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fragments: August 18]]></title>
-        <id>https://martinfowler.com/fragments/2026-08-18.html</id>
-        <link href="https://martinfowler.com/fragments/2026-08-18.html"/>
-        <updated>2026-08-18T15:04:00.000Z</updated>
-        <summary type="html"><![CDATA[Part of the reason why I’m at Thoughtworks is because I’d like to see a software development organization founded on technical excellence as an example for the rest of the industry. The trouble is that I have little aptitude or inclination for the hard work of building such an organization. So I rely on working with people who are prepared to actually put the effort in. A key partner in all of this is Rachel Laycock, who is the global CTO of Thoughtworks.
-Not just is she far better than me at running a technology organization, she’s also a keen observer and connector of ideas. I’ve been urging her to write these down, even if her busy schedule makes it difficult for her to compose them into something substantial.
-Happily she’s starting writing “Rachel’s Ramblings”
-Fast, imperfect, thinking…]]></summary>
-        <author>
-            <name>Martin Fowler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Amazon tax]]></title>
-        <id>https://news.ycombinator.com/item?id=49345263</id>
-        <link href="https://seths.blog/2026/08/the-amazon-tax/"/>
-        <updated>2026-08-18T13:22:38.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://seths.blog/2026/08/the-amazon-tax/
-Comments URL: https://news.ycombinator.com/item?id=49345263
-Points: 540
-# Comments: 377]]></summary>
-        <author>
-            <name>herbertl</name>
         </author>
     </entry>
     <entry>

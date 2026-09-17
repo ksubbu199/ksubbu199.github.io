@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=49726586",
+          "author": "driverdan",
+          "description": "https://micahflee.com/flock-cameras-are-riddled-with-securit...\nComments URL: https://news.ycombinator.com/item?id=49726586\nPoints: 509\n# Comments: 232",
+          "link": "https://www.wired.com/story/hackers-flock-camera-data-shows-how-system-works/",
+          "publishedOn": "2026-09-16T13:18:47.000Z",
+          "wordCount": 30554,
+          "title": "Hackers Got Inside a Flock Camera",
+          "imageUrl": "https://media.wired.com/photos/6aa9a89861c11f99a88f271a/191:100/w_1280,c_limit/Security_Hackers%20Got%20Inside%20a%20Flock%20Camera.%20Its%20Data%20Shows%20How%20the%20System%20Really%20Works.jpg"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=49724141",
           "author": "hackernj",
           "description": "Article URL: https://www.bbc.com/news/articles/cjwyzrr9d3dko\nComments URL: https://news.ycombinator.com/item?id=49724141\nPoints: 597\n# Comments: 705",
@@ -24,6 +34,16 @@
           "wordCount": 1718,
           "title": "Mistral X Mozilla: Private, Multilingual AI Browsing",
           "imageUrl": "https://mistral.ai/cms-media/api/media/file/Linkedin-Partnership-Firefox%20copie.jpg"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=49721322",
+          "author": "imwally",
+          "description": "Article URL: https://security.apple.com/blog/apple-reference-image/\nComments URL: https://news.ycombinator.com/item?id=49721322\nPoints: 505\n# Comments: 334",
+          "link": "https://security.apple.com/blog/apple-reference-image/",
+          "publishedOn": "2026-09-16T02:07:31.000Z",
+          "wordCount": 9865,
+          "title": "Apple Reference Image: A New Approach for Verified Photography",
+          "imageUrl": "https://security.apple.com/assets/image/seo-image.jpg"
         },
         {
           "id": "https://news.ycombinator.com/item?id=49717558",
@@ -1894,26 +1914,6 @@
           "wordCount": 1258,
           "title": "Beware Management Consultants",
           "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=49347543",
-          "author": "Ariarule",
-          "description": "Article URL: https://www.experimental-history.com/p/i-like-em-thick\nComments URL: https://news.ycombinator.com/item?id=49347543\nPoints: 504\n# Comments: 242",
-          "link": "https://www.experimental-history.com/p/i-like-em-thick",
-          "publishedOn": "2026-08-18T15:50:52.000Z",
-          "wordCount": 10016,
-          "title": "I like 'em thick: an apology to my English teachers",
-          "imageUrl": "https://substackcdn.com/image/fetch/$s_!KGpc!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F56ced727-423b-4a20-b330-8769c728da1c_1146x1623.jpeg"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=49345263",
-          "author": "herbertl",
-          "description": "Article URL: https://seths.blog/2026/08/the-amazon-tax/\nComments URL: https://news.ycombinator.com/item?id=49345263\nPoints: 540\n# Comments: 377",
-          "link": "https://seths.blog/2026/08/the-amazon-tax/",
-          "publishedOn": "2026-08-18T13:22:38.000Z",
-          "wordCount": 2347,
-          "title": "The Amazon tax",
-          "imageUrl": "https://seths.blog/wp-content/uploads/2018/06/seth_godin_ogimages_v02_18061312.jpg"
         }
       ]
     },
@@ -1922,6 +1922,16 @@
       "feedUrl": "https://writing.kemitchell.com/feed.xml",
       "siteUrl": "https://writing.kemitchell.com",
       "articles": [
+        {
+          "id": "https://writing.kemitchell.com/2026/09/16/Freemium-the-Registry",
+          "author": null,
+          "description": "Laurie Voss on an open source funding model",
+          "link": "https://writing.kemitchell.com/2026/09/16/Freemium-the-Registry",
+          "publishedOn": "2026-09-17T04:21:50.000Z",
+          "wordCount": 167,
+          "title": "Freemium the Registry",
+          "imageUrl": null
+        },
         {
           "id": "https://writing.kemitchell.com/2026/09/12/PolyForm-Licenses-2.0.0-pre.3",
           "author": null,
@@ -2160,16 +2170,6 @@
           "publishedOn": "2026-08-19T18:15:00.000Z",
           "wordCount": 1633,
           "title": "Practitioner Voice: The Writing Category Nobody has Named Yet",
-          "imageUrl": "https://martinfowler.com/logo-sq.png"
-        },
-        {
-          "id": "https://martinfowler.com/fragments/2026-08-18.html",
-          "author": null,
-          "description": "Part of the reason why I’m at Thoughtworks is because I’d like to see a software development organization founded on technical excellence as an example for the rest of the industry. The trouble is that I have little aptitude or inclination for the hard work of building such an organization. So I rely on working with people who are prepared to actually put the effort in. A key partner in all of this is Rachel Laycock, who is the global CTO of Thoughtworks.\nNot just is she far better than me at running a technology organization, she’s also a keen observer and connector of ideas. I’ve been urging her to write these down, even if her busy schedule makes it difficult for her to compose them into something substantial.\nHappily she’s starting writing “Rachel’s Ramblings”\nFast, imperfect, thinking…",
-          "link": "https://martinfowler.com/fragments/2026-08-18.html",
-          "publishedOn": "2026-08-18T15:04:00.000Z",
-          "wordCount": 1872,
-          "title": "Fragments: August 18",
           "imageUrl": "https://martinfowler.com/logo-sq.png"
         }
       ]
