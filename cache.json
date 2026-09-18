@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=49754785",
+          "author": "jcbhmr",
+          "description": "Article URL: https://try.cloudflare.com/\nComments URL: https://news.ycombinator.com/item?id=49754785\nPoints: 502\n# Comments: 218",
+          "link": "https://try.cloudflare.com/",
+          "publishedOn": "2026-09-18T14:18:41.000Z",
+          "wordCount": 3552,
+          "title": "Cloudflare Quick Tunnels",
+          "imageUrl": null
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=49753211",
           "author": "ethanhawksley",
           "description": "Article URL: https://hawksley.dev/blog/i-dont-like-passkeys\nComments URL: https://news.ycombinator.com/item?id=49753211\nPoints: 526\n# Comments: 511",
@@ -24,6 +34,16 @@
           "wordCount": 4014,
           "title": "Microsoft exec called AI scraping 'the largest theft of labor in human history'",
           "imageUrl": "https://techcrunch.com/wp-content/uploads/2023/11/GettyImages-1778706504.jpg?resize=1200,783"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=49752041",
+          "author": "ilreb",
+          "description": "Article URL: https://openjev.com/\nComments URL: https://news.ycombinator.com/item?id=49752041\nPoints: 521\n# Comments: 235",
+          "link": "https://openjev.com/",
+          "publishedOn": "2026-09-18T09:42:22.000Z",
+          "wordCount": 562,
+          "title": "OpenJev",
+          "imageUrl": null
         },
         {
           "id": "https://news.ycombinator.com/item?id=49746618",
@@ -104,6 +124,16 @@
           "wordCount": 30554,
           "title": "Hackers Got Inside a Flock Camera",
           "imageUrl": "https://media.wired.com/photos/6aa9a89861c11f99a88f271a/191:100/w_1280,c_limit/Security_Hackers%20Got%20Inside%20a%20Flock%20Camera.%20Its%20Data%20Shows%20How%20the%20System%20Really%20Works.jpg"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=49726007",
+          "author": "mhb",
+          "description": "Article URL: https://en.wikipedia.org/wiki/Wax_motor\nComments URL: https://news.ycombinator.com/item?id=49726007\nPoints: 501\n# Comments: 102",
+          "link": "https://en.wikipedia.org/wiki/Wax_motor",
+          "publishedOn": "2026-09-16T12:35:14.000Z",
+          "wordCount": null,
+          "title": "Wax motor",
+          "imageUrl": null
         },
         {
           "id": "https://news.ycombinator.com/item?id=49724881",
@@ -1904,16 +1934,6 @@
           "wordCount": 2866,
           "title": "Show HN: I trained a 125M model to autocomplete piano on-device",
           "imageUrl": "https://simedw.com/2026/08/20/midi-autocomplete/images/rolltab_phone.jpg"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=49372583",
-          "author": "emctech",
-          "description": "Article URL: https://blog.laserphile.com/2026/08/aliexpress-webpage-keeping-multipoint.html\nComments URL: https://news.ycombinator.com/item?id=49372583\nPoints: 539\n# Comments: 181",
-          "link": "https://blog.laserphile.com/2026/08/aliexpress-webpage-keeping-multipoint.html",
-          "publishedOn": "2026-08-20T10:08:52.000Z",
-          "wordCount": 3735,
-          "title": "AliExpress runs silent WebAudio fingerprinting that breaks Bluetooth multipoint",
-          "imageUrl": null
         }
       ]
     },
