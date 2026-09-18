@@ -6,6 +6,36 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=49753211",
+          "author": "ethanhawksley",
+          "description": "Article URL: https://hawksley.dev/blog/i-dont-like-passkeys\nComments URL: https://news.ycombinator.com/item?id=49753211\nPoints: 526\n# Comments: 511",
+          "link": "https://hawksley.dev/blog/i-dont-like-passkeys",
+          "publishedOn": "2026-09-18T12:06:50.000Z",
+          "wordCount": 1216,
+          "title": "I don't like passkeys",
+          "imageUrl": "https://hawksley.dev/og/blog/i-dont-like-passkeys.jpg?v=7"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=49752056",
+          "author": "pluc",
+          "description": "Article URL: https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/\nComments URL: https://news.ycombinator.com/item?id=49752056\nPoints: 722\n# Comments: 622",
+          "link": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/",
+          "publishedOn": "2026-09-18T09:45:07.000Z",
+          "wordCount": 4014,
+          "title": "Microsoft exec called AI scraping 'the largest theft of labor in human history'",
+          "imageUrl": "https://techcrunch.com/wp-content/uploads/2023/11/GettyImages-1778706504.jpg?resize=1200,783"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=49746618",
+          "author": "JonSchneider",
+          "description": "Article URL: https://prismml.com/news/bonsai-2-27b\nComments URL: https://news.ycombinator.com/item?id=49746618\nPoints: 540\n# Comments: 176",
+          "link": "https://prismml.com/news/bonsai-2-27b",
+          "publishedOn": "2026-09-17T21:13:31.000Z",
+          "wordCount": 2897,
+          "title": "Bonsai 2 27B: Near-Lossless Compression in a 9x Smaller Footprint",
+          "imageUrl": "https://cdn.prod.website-files.com/699604cc2b9dd89bdbda0608/6a6d0e0bc0d5f9a97a5164c0_69cc089669ab0df26e921aac_prism-og-img%2520(2).png"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=49746163",
           "author": "nicolas-siplis",
           "description": "Article URL: https://bend-lang.com/\nComments URL: https://news.ycombinator.com/item?id=49746163\nPoints: 515\n# Comments: 248",

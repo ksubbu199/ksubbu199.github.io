@@ -2,10 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-18T13:24:44.641Z</updated>
+    <updated>2026-09-18T17:30:56.552Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[I don't like passkeys]]></title>
+        <id>https://news.ycombinator.com/item?id=49753211</id>
+        <link href="https://hawksley.dev/blog/i-dont-like-passkeys"/>
+        <updated>2026-09-18T12:06:50.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://hawksley.dev/blog/i-dont-like-passkeys
+Comments URL: https://news.ycombinator.com/item?id=49753211
+Points: 526
+# Comments: 511]]></summary>
+        <author>
+            <name>ethanhawksley</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft exec called AI scraping 'the largest theft of labor in human history']]></title>
+        <id>https://news.ycombinator.com/item?id=49752056</id>
+        <link href="https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/"/>
+        <updated>2026-09-18T09:45:07.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/
+Comments URL: https://news.ycombinator.com/item?id=49752056
+Points: 722
+# Comments: 622]]></summary>
+        <author>
+            <name>pluc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bonsai 2 27B: Near-Lossless Compression in a 9x Smaller Footprint]]></title>
+        <id>https://news.ycombinator.com/item?id=49746618</id>
+        <link href="https://prismml.com/news/bonsai-2-27b"/>
+        <updated>2026-09-17T21:13:31.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://prismml.com/news/bonsai-2-27b
+Comments URL: https://news.ycombinator.com/item?id=49746618
+Points: 540
+# Comments: 176]]></summary>
+        <author>
+            <name>JonSchneider</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Bend – A language that blocks AI mistakes via proof, on CPU and GPU]]></title>
         <id>https://news.ycombinator.com/item?id=49746163</id>
