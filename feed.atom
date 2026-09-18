@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-18T03:25:22.413Z</updated>
+    <updated>2026-09-18T08:47:43.570Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Hister: A private search engine for the pages you visit and the files you keep]]></title>
+        <id>https://news.ycombinator.com/item?id=49743097</id>
+        <link href="https://github.com/asciimoo/hister"/>
+        <updated>2026-09-17T16:25:37.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://github.com/asciimoo/hister
+Comments URL: https://news.ycombinator.com/item?id=49743097
+Points: 594
+# Comments: 161]]></summary>
+        <author>
+            <name>bookofjoe</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[I don't like LLMs]]></title>
         <id>https://martinfowler.com/articles/2026-dont-like-llms.html</id>
@@ -2908,97 +2921,6 @@ Points: 580
 # Comments: 280]]></summary>
         <author>
             <name>pjerem</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Go 1.27]]></title>
-        <id>https://news.ycombinator.com/item?id=49365405</id>
-        <link href="https://go.dev/blog/go1.27"/>
-        <updated>2026-08-19T18:33:49.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://go.dev/blog/go1.27
-Comments URL: https://news.ycombinator.com/item?id=49365405
-Points: 508
-# Comments: 135]]></summary>
-        <author>
-            <name>database64128</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Citizens Build, Agents Execute, Experts Govern]]></title>
-        <id>https://martinfowler.com/rachels-ramblings/citizens-agents-experts.html</id>
-        <link href="https://martinfowler.com/rachels-ramblings/citizens-agents-experts.html"/>
-        <updated>2026-08-19T18:30:00.000Z</updated>
-        <summary type="html"><![CDATA[TL;DR
-Why building an app over the weekend isn't the same as building enterprise software
-
-I’ve noticed an interesting gap opening up over the last six months. It isn’t really a gap in technology. It’s a gap in what different people think software engineering actually is.
-The conversation usually starts the same way. A non-techie, maybe an executive, tells me about something they’ve built over the weekend. Sometimes it’s a chatbot. Sometimes it’s an internal workflow. Sometimes it’s a surprisingly polished application that solves a real business problem. They’re excited, and they should be. Twelve months ago they probably couldn’t have built it at all. Then comes the question.
-“If AI can do this now, why aren’t our engineering teams delivering ten times faster?”
-It’s a perfectly reasonable…]]></summary>
-        <author>
-            <name>Martin Fowler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Practitioner Voice: The Writing Category Nobody has Named Yet]]></title>
-        <id>https://martinfowler.com/articles/practitioner-voice.html</id>
-        <link href="https://martinfowler.com/articles/practitioner-voice.html"/>
-        <updated>2026-08-19T18:15:00.000Z</updated>
-        <summary type="html"><![CDATA[Jim Highsmith recognizes that effective writing from a practitioner is
-      a style distinct from academic writing or thought-leadership content. It's
-      a style that I advocate, and my contributors mostly follow. Jim decided it
-      was important to give it a name, and identify what makes it distinctive.
-more…]]></summary>
-        <author>
-            <name>Martin Fowler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google has stopped pushing Git tags for some Android source code]]></title>
-        <id>https://news.ycombinator.com/item?id=49364745</id>
-        <link href="https://grapheneos.social/@GrapheneOS/117057099753905023"/>
-        <updated>2026-08-19T17:47:29.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://grapheneos.social/@GrapheneOS/117057099753905023
-Comments URL: https://news.ycombinator.com/item?id=49364745
-Points: 508
-# Comments: 206]]></summary>
-        <author>
-            <name>Animux</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenRouter is joining Stripe]]></title>
-        <id>https://news.ycombinator.com/item?id=49364559</id>
-        <link href="https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe/"/>
-        <updated>2026-08-19T17:32:38.000Z</updated>
-        <summary type="html"><![CDATA[Previously: Stripe will reportedly acquire OpenRouter for $7B+ https://news.ycombinator.com/item?id=49323381
-Comments URL: https://news.ycombinator.com/item?id=49364559
-Points: 612
-# Comments: 329]]></summary>
-        <author>
-            <name>rvz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Remote workers report the highest well-being in study of 7,700 employees]]></title>
-        <id>https://news.ycombinator.com/item?id=49362934</id>
-        <link href="https://www.colorado.edu/today/2026/08/12/remote-workers-report-highest-well-being-study-7700-employees"/>
-        <updated>2026-08-19T15:32:08.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.colorado.edu/today/2026/08/12/remote-workers-report-highest-well-being-study-7700-employees
-Comments URL: https://news.ycombinator.com/item?id=49362934
-Points: 514
-# Comments: 251]]></summary>
-        <author>
-            <name>downbad_</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Air India CURSE : How Tata’s Dream Acquisition Became a Nightmare]]></title>
-        <id>https://www.youtube.com/watch?v=_fE28TZFim4</id>
-        <link href="https://www.youtube.com/watch?v=_fE28TZFim4"/>
-        <updated>2026-08-19T13:00:33.000Z</updated>
-        <author>
-            <name>Think School</name>
         </author>
     </entry>
     <entry>

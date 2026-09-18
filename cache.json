@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=49743097",
+          "author": "bookofjoe",
+          "description": "Article URL: https://github.com/asciimoo/hister\nComments URL: https://news.ycombinator.com/item?id=49743097\nPoints: 594\n# Comments: 161",
+          "link": "https://github.com/asciimoo/hister",
+          "publishedOn": "2026-09-17T16:25:37.000Z",
+          "wordCount": 2512,
+          "title": "Hister: A private search engine for the pages you visit and the files you keep",
+          "imageUrl": "https://opengraph.githubassets.com/6ca1582cbd0fa6a92cc93bd0efa751dcdd48e2801e39616d0b75294006f8d951/asciimoo/hister"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=49732270",
           "author": "krackers",
           "description": "Article URL: https://mimo.xiaomi.com/rl/\nComments URL: https://news.ycombinator.com/item?id=49732270\nPoints: 513\n# Comments: 146",
@@ -1864,46 +1874,6 @@
           "wordCount": 365,
           "title": "Don't Paste the AI, please",
           "imageUrl": "https://dontpastetheai.com/assets/og-image.png"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=49365405",
-          "author": "database64128",
-          "description": "Article URL: https://go.dev/blog/go1.27\nComments URL: https://news.ycombinator.com/item?id=49365405\nPoints: 508\n# Comments: 135",
-          "link": "https://go.dev/blog/go1.27",
-          "publishedOn": "2026-08-19T18:33:49.000Z",
-          "wordCount": 844,
-          "title": "Go 1.27",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=49364745",
-          "author": "Animux",
-          "description": "Article URL: https://grapheneos.social/@GrapheneOS/117057099753905023\nComments URL: https://news.ycombinator.com/item?id=49364745\nPoints: 508\n# Comments: 206",
-          "link": "https://grapheneos.social/@GrapheneOS/117057099753905023",
-          "publishedOn": "2026-08-19T17:47:29.000Z",
-          "wordCount": 252,
-          "title": "Google has stopped pushing Git tags for some Android source code",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=49364559",
-          "author": "rvz",
-          "description": "Previously: Stripe will reportedly acquire OpenRouter for $7B+ https://news.ycombinator.com/item?id=49323381\nComments URL: https://news.ycombinator.com/item?id=49364559\nPoints: 612\n# Comments: 329",
-          "link": "https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe/",
-          "publishedOn": "2026-08-19T17:32:38.000Z",
-          "wordCount": 1814,
-          "title": "OpenRouter is joining Stripe",
-          "imageUrl": "https://openrouter.ai/blog/images/openrouter-stripe.png"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=49362934",
-          "author": "downbad_",
-          "description": "Article URL: https://www.colorado.edu/today/2026/08/12/remote-workers-report-highest-well-being-study-7700-employees\nComments URL: https://news.ycombinator.com/item?id=49362934\nPoints: 514\n# Comments: 251",
-          "link": "https://www.colorado.edu/today/2026/08/12/remote-workers-report-highest-well-being-study-7700-employees",
-          "publishedOn": "2026-08-19T15:32:08.000Z",
-          "wordCount": 965,
-          "title": "Remote workers report the highest well-being in study of 7,700 employees",
-          "imageUrl": "https://www.colorado.edu/today/sites/default/files/2026-08/pexels-helenalopes-27178146.jpg"
         }
       ]
     },
@@ -2151,26 +2121,6 @@
           "wordCount": 1266,
           "title": "Fragments: August 24",
           "imageUrl": "/fragments/fragments-thumb.png"
-        },
-        {
-          "id": "https://martinfowler.com/rachels-ramblings/citizens-agents-experts.html",
-          "author": null,
-          "description": "TL;DR\nWhy building an app over the weekend isn't the same as building enterprise software\n\nI’ve noticed an interesting gap opening up over the last six months. It isn’t really a gap in technology. It’s a gap in what different people think software engineering actually is.\nThe conversation usually starts the same way. A non-techie, maybe an executive, tells me about something they’ve built over the weekend. Sometimes it’s a chatbot. Sometimes it’s an internal workflow. Sometimes it’s a surprisingly polished application that solves a real business problem. They’re excited, and they should be. Twelve months ago they probably couldn’t have built it at all. Then comes the question.\n“If AI can do this now, why aren’t our engineering teams delivering ten times faster?”\nIt’s a perfectly reasonable…",
-          "link": "https://martinfowler.com/rachels-ramblings/citizens-agents-experts.html",
-          "publishedOn": "2026-08-19T18:30:00.000Z",
-          "wordCount": 1399,
-          "title": "Citizens Build, Agents Execute, Experts Govern",
-          "imageUrl": "https://martinfowler.com/rachels-ramblings/card.png"
-        },
-        {
-          "id": "https://martinfowler.com/articles/practitioner-voice.html",
-          "author": null,
-          "description": "Jim Highsmith recognizes that effective writing from a practitioner is\n      a style distinct from academic writing or thought-leadership content. It's\n      a style that I advocate, and my contributors mostly follow. Jim decided it\n      was important to give it a name, and identify what makes it distinctive.\nmore…",
-          "link": "https://martinfowler.com/articles/practitioner-voice.html",
-          "publishedOn": "2026-08-19T18:15:00.000Z",
-          "wordCount": 1633,
-          "title": "Practitioner Voice: The Writing Category Nobody has Named Yet",
-          "imageUrl": "https://martinfowler.com/logo-sq.png"
         }
       ]
     },
@@ -2380,16 +2330,6 @@
           "publishedOn": "2026-08-25T15:23:48.000Z",
           "wordCount": null,
           "title": "The Science of VIRALITY: I Gave a Wharton Professor $1,000 To Make Boring Products Go Viral!",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=_fE28TZFim4",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=_fE28TZFim4",
-          "publishedOn": "2026-08-19T13:00:33.000Z",
-          "wordCount": null,
-          "title": "The Air India CURSE : How Tata’s Dream Acquisition Became a Nightmare",
           "imageUrl": null
         }
       ]
