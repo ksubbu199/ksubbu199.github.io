@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-17T23:23:15.585Z</updated>
+    <updated>2026-09-18T03:25:22.413Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -204,6 +204,19 @@ Points: 519
 # Comments: 265]]></summary>
         <author>
             <name>ChrisArchitect</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fujitsu launches made-in-Japan next-generation CPU FUJITSU-MONAKA]]></title>
+        <id>https://news.ycombinator.com/item?id=49715813</id>
+        <link href="https://global.fujitsu/en-global/pr/news/2026/09/14-02"/>
+        <updated>2026-09-15T17:28:38.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://global.fujitsu/en-global/pr/news/2026/09/14-02
+Comments URL: https://news.ycombinator.com/item?id=49715813
+Points: 528
+# Comments: 201]]></summary>
+        <author>
+            <name>my123</name>
         </author>
     </entry>
     <entry>
@@ -2980,74 +2993,12 @@ Points: 514
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[HTML Can Do That]]></title>
-        <id>https://news.ycombinator.com/item?id=49362689</id>
-        <link href="https://chrisburnell.com/html-can-do-that/"/>
-        <updated>2026-08-19T15:11:36.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://chrisburnell.com/html-can-do-that/
-Comments URL: https://news.ycombinator.com/item?id=49362689
-Points: 520
-# Comments: 148]]></summary>
-        <author>
-            <name>encyclopedism</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Pulse: Grok’s CLI caught uploading all your local files to the cloud]]></title>
-        <id>6a85ba5c1b8a5e00015742b1</id>
-        <link href="https://blog.pragmaticengineer.com/grolk-cli-uploaded-all-your-files-to-the-cloud/"/>
-        <updated>2026-08-19T14:21:33.000Z</updated>
-        <summary type="html"><![CDATA[Devs discover that Grok CLI pushed all local files, .env files and git history have been pushed to a GCP bucket, unencrypted. SpaceX’s initial reaction? Blame the devs]]></summary>
-        <author>
-            <name>Gergely Orosz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Moderna reports first positive Phase 3 for mRNA neoantigen therapy in melanoma]]></title>
-        <id>https://news.ycombinator.com/item?id=49361395</id>
-        <link href="https://twitter.com/NoubarAfeyan/status/2090050162441752787"/>
-        <updated>2026-08-19T13:33:35.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://twitter.com/NoubarAfeyan/status/2090050162441752787
-Comments URL: https://news.ycombinator.com/item?id=49361395
-Points: 519
-# Comments: 246]]></summary>
-        <author>
-            <name>heydenberk</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The Air India CURSE : How Tata’s Dream Acquisition Became a Nightmare]]></title>
         <id>https://www.youtube.com/watch?v=_fE28TZFim4</id>
         <link href="https://www.youtube.com/watch?v=_fE28TZFim4"/>
         <updated>2026-08-19T13:00:33.000Z</updated>
         <author>
             <name>Think School</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Geolocating a random island using geometry and CUDA programming]]></title>
-        <id>https://news.ycombinator.com/item?id=49360545</id>
-        <link href="https://yassa9.github.io/osint/gralhix-004/"/>
-        <updated>2026-08-19T12:19:52.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://yassa9.github.io/osint/gralhix-004/
-Comments URL: https://news.ycombinator.com/item?id=49360545
-Points: 500
-# Comments: 81]]></summary>
-        <author>
-            <name>yassa9</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Devices with GrapheneOS support should be available in 2027]]></title>
-        <id>https://news.ycombinator.com/item?id=49360242</id>
-        <link href="https://grapheneos.social/@GrapheneOS/117078064184215730"/>
-        <updated>2026-08-19T11:46:58.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://grapheneos.social/@GrapheneOS/117078064184215730
-Comments URL: https://news.ycombinator.com/item?id=49360242
-Points: 519
-# Comments: 321]]></summary>
-        <author>
-            <name>exceptione</name>
         </author>
     </entry>
     <entry>
