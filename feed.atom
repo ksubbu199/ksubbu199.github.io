@@ -2,10 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-18T08:47:43.570Z</updated>
+    <updated>2026-09-18T13:24:44.641Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Bend – A language that blocks AI mistakes via proof, on CPU and GPU]]></title>
+        <id>https://news.ycombinator.com/item?id=49746163</id>
+        <link href="https://bend-lang.com/"/>
+        <updated>2026-09-17T20:36:13.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://bend-lang.com/
+Comments URL: https://news.ycombinator.com/item?id=49746163
+Points: 515
+# Comments: 248]]></summary>
+        <author>
+            <name>nicolas-siplis</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Astra for Law]]></title>
+        <id>https://news.ycombinator.com/item?id=49745940</id>
+        <link href="https://openai.com/index/astra-for-law/"/>
+        <updated>2026-09-17T20:17:48.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://openai.com/index/astra-for-law/
+Comments URL: https://news.ycombinator.com/item?id=49745940
+Points: 523
+# Comments: 627]]></summary>
+        <author>
+            <name>vertigoruntime</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hister: A private search engine for the pages you visit and the files you keep]]></title>
         <id>https://news.ycombinator.com/item?id=49743097</id>
