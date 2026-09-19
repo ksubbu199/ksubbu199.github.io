@@ -2,10 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-18T23:02:09.325Z</updated>
+    <updated>2026-09-19T03:22:00.809Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Claude Code now reads AGENTS.md if there is no Claude.md]]></title>
+        <id>https://news.ycombinator.com/item?id=49760187</id>
+        <link href="https://code.claude.com/docs/en/changelog"/>
+        <updated>2026-09-18T21:00:32.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://code.claude.com/docs/en/changelog
+Comments URL: https://news.ycombinator.com/item?id=49760187
+Points: 544
+# Comments: 198]]></summary>
+        <author>
+            <name>datadrivenangel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Android 17 is the first since 3.x to add new APIs without releasing to the AOSP]]></title>
+        <id>https://news.ycombinator.com/item?id=49758736</id>
+        <link href="https://grapheneos.social/@GrapheneOS/117282080803799576"/>
+        <updated>2026-09-18T19:03:09.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://grapheneos.social/@GrapheneOS/117282080803799576
+Comments URL: https://news.ycombinator.com/item?id=49758736
+Points: 603
+# Comments: 282]]></summary>
+        <author>
+            <name>theanonymousone</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Cloudflare Quick Tunnels]]></title>
         <id>https://news.ycombinator.com/item?id=49754785</id>
@@ -2970,35 +2996,6 @@ Points: 533
         <summary type="html"><![CDATA[In what was predictable: Meta’s layoffs and forced reassignments pushed engineers not impacted by either to look for a new job. Meta is now offering large equity retainers, and it doesn’t seem working]]></summary>
         <author>
             <name>Gergely Orosz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Malicious Rust crate Arrayref runs a build-time payload]]></title>
-        <id>https://news.ycombinator.com/item?id=49374269</id>
-        <link href="https://safedep.io/arrayref-proc-macro1-rust-build-time-malware/"/>
-        <updated>2026-08-20T13:23:12.000Z</updated>
-        <summary type="html"><![CDATA[https://blog.rust-lang.org/2026/08/20/supply-chain-attack-on...
-https://github.com/rustsec/advisory-db/issues/3161
-Comments URL: https://news.ycombinator.com/item?id=49374269
-Points: 502
-# Comments: 424]]></summary>
-        <author>
-            <name>abhisek</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: I trained a 125M model to autocomplete piano on-device]]></title>
-        <id>https://news.ycombinator.com/item?id=49373456</id>
-        <link href="https://simedw.com/2026/08/20/midi-autocomplete/"/>
-        <updated>2026-08-20T12:04:38.000Z</updated>
-        <summary type="html"><![CDATA[I trained a 125M-parameter transformer to autocomplete piano performances in real time (~108 notes/sec on an iPhone 15).
-The idea is basically GitHub Copilot or Tabnine, except instead of prompting it with code, you prompt it by playing a few notes on a MIDI piano. The model then continues what you played, entirely on-device.
-The app is free if anyone wants to try it. Happy to answer questions about the model, training, Core ML, or the many things that didn't work.
-Comments URL: https://news.ycombinator.com/item?id=49373456
-Points: 528
-# Comments: 108]]></summary>
-        <author>
-            <name>simedw</name>
         </author>
     </entry>
     <entry>

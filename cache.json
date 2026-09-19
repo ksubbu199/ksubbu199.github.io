@@ -6,6 +6,26 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=49760187",
+          "author": "datadrivenangel",
+          "description": "Article URL: https://code.claude.com/docs/en/changelog\nComments URL: https://news.ycombinator.com/item?id=49760187\nPoints: 544\n# Comments: 198",
+          "link": "https://code.claude.com/docs/en/changelog",
+          "publishedOn": "2026-09-18T21:00:32.000Z",
+          "wordCount": 114200,
+          "title": "Claude Code now reads AGENTS.md if there is no Claude.md",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=49758736",
+          "author": "theanonymousone",
+          "description": "Article URL: https://grapheneos.social/@GrapheneOS/117282080803799576\nComments URL: https://news.ycombinator.com/item?id=49758736\nPoints: 603\n# Comments: 282",
+          "link": "https://grapheneos.social/@GrapheneOS/117282080803799576",
+          "publishedOn": "2026-09-18T19:03:09.000Z",
+          "wordCount": 276,
+          "title": "Android 17 is the first since 3.x to add new APIs without releasing to the AOSP",
+          "imageUrl": null
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=49754785",
           "author": "jcbhmr",
           "description": "Article URL: https://try.cloudflare.com/\nComments URL: https://news.ycombinator.com/item?id=49754785\nPoints: 502\n# Comments: 218",
@@ -1914,26 +1934,6 @@
           "wordCount": 3487,
           "title": "The August 17 outage",
           "imageUrl": "https://github.blog/wp-content/uploads/2026/01/generic-github-logo-left.png"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=49374269",
-          "author": "abhisek",
-          "description": "https://blog.rust-lang.org/2026/08/20/supply-chain-attack-on...\nhttps://github.com/rustsec/advisory-db/issues/3161\nComments URL: https://news.ycombinator.com/item?id=49374269\nPoints: 502\n# Comments: 424",
-          "link": "https://safedep.io/arrayref-proc-macro1-rust-build-time-malware/",
-          "publishedOn": "2026-08-20T13:23:12.000Z",
-          "wordCount": 3457,
-          "title": "Malicious Rust crate Arrayref runs a build-time payload",
-          "imageUrl": "https://safedep.io/images/arrayref-blog-blanner.png"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=49373456",
-          "author": "simedw",
-          "description": "I trained a 125M-parameter transformer to autocomplete piano performances in real time (~108 notes/sec on an iPhone 15).\nThe idea is basically GitHub Copilot or Tabnine, except instead of prompting it with code, you prompt it by playing a few notes on a MIDI piano. The model then continues what you played, entirely on-device.\nThe app is free if anyone wants to try it. Happy to answer questions about the model, training, Core ML, or the many things that didn't work.\nComments URL: https://news.ycombinator.com/item?id=49373456\nPoints: 528\n# Comments: 108",
-          "link": "https://simedw.com/2026/08/20/midi-autocomplete/",
-          "publishedOn": "2026-08-20T12:04:38.000Z",
-          "wordCount": 2866,
-          "title": "Show HN: I trained a 125M model to autocomplete piano on-device",
-          "imageUrl": "https://simedw.com/2026/08/20/midi-autocomplete/images/rolltab_phone.jpg"
         }
       ]
     },
