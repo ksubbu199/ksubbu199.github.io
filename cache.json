@@ -66,6 +66,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://news.ycombinator.com/item?id=49747070",
+          "author": "joeriddles",
+          "description": "Article URL: https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/\nComments URL: https://news.ycombinator.com/item?id=49747070\nPoints: 520\n# Comments: 344",
+          "link": "https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/",
+          "publishedOn": "2026-09-17T21:48:38.000Z",
+          "wordCount": 1379,
+          "title": "How to Write with an LLM",
+          "imageUrl": "https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/workshop_hu_1de7cdec7d0e03c9.jpg"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=49746618",
           "author": "JonSchneider",
           "description": "Article URL: https://prismml.com/news/bonsai-2-27b\nComments URL: https://news.ycombinator.com/item?id=49746618\nPoints: 540\n# Comments: 176",
@@ -2402,18 +2412,7 @@
       "title": "Ben Hoyt's technical writing",
       "feedUrl": "https://benhoyt.com/writings/rss.xml",
       "siteUrl": "https://benhoyt.com/writings/",
-      "articles": [
-        {
-          "id": "https://benhoyt.com/writings/updating-gifty-with-ai/",
-          "author": null,
-          "description": "I used an AI agent to make a big update to my GiftyWeddings.com website, taking it from a gift registry to a full website builder in 275 commits.",
-          "link": "https://benhoyt.com/writings/updating-gifty-with-ai/",
-          "publishedOn": "2026-08-20T21:15:00.000Z",
-          "wordCount": 2279,
-          "title": "Updating a side project with AI in 275 commits",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "High Scalability",

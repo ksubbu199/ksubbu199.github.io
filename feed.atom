@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-19T08:33:54.597Z</updated>
+    <updated>2026-09-19T12:53:43.618Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -82,6 +82,19 @@ Points: 521
 # Comments: 235]]></summary>
         <author>
             <name>ilreb</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Write with an LLM]]></title>
+        <id>https://news.ycombinator.com/item?id=49747070</id>
+        <link href="https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/"/>
+        <updated>2026-09-17T21:48:38.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/
+Comments URL: https://news.ycombinator.com/item?id=49747070
+Points: 520
+# Comments: 344]]></summary>
+        <author>
+            <name>joeriddles</name>
         </author>
     </entry>
     <entry>
@@ -2950,16 +2963,6 @@ Points: 525
 # Comments: 834]]></summary>
         <author>
             <name>Cider9986</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Updating a side project with AI in 275 commits]]></title>
-        <id>https://benhoyt.com/writings/updating-gifty-with-ai/</id>
-        <link href="https://benhoyt.com/writings/updating-gifty-with-ai/"/>
-        <updated>2026-08-20T21:15:00.000Z</updated>
-        <summary type="html"><![CDATA[I used an AI agent to make a big update to my GiftyWeddings.com website, taking it from a gift registry to a full website builder in 275 commits.]]></summary>
-        <author>
-            <name>Ben Hoyt's technical writing</name>
         </author>
     </entry>
     <entry>
