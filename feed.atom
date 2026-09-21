@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-21T03:34:25.221Z</updated>
+    <updated>2026-09-21T09:38:29.406Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -17,6 +17,19 @@ Points: 501
 # Comments: 290]]></summary>
         <author>
             <name>lmbbuchodi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pirate Face Rescues LLM Models from Deletion]]></title>
+        <id>https://news.ycombinator.com/item?id=49776699</id>
+        <link href="https://pirateface.co/"/>
+        <updated>2026-09-20T15:16:07.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://pirateface.co/
+Comments URL: https://news.ycombinator.com/item?id=49776699
+Points: 537
+# Comments: 143]]></summary>
+        <author>
+            <name>skepticalgenius</name>
         </author>
     </entry>
     <entry>
@@ -2893,19 +2906,6 @@ Points: 676
 # Comments: 289]]></summary>
         <author>
             <name>dr_pardee</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why your local LLM feels dumber than it is]]></title>
-        <id>https://news.ycombinator.com/item?id=49402232</id>
-        <link href="https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917"/>
-        <updated>2026-08-22T18:14:16.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917
-Comments URL: https://news.ycombinator.com/item?id=49402232
-Points: 500
-# Comments: 202]]></summary>
-        <author>
-            <name>felineflock</name>
         </author>
     </entry>
     <entry>
