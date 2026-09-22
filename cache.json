@@ -6,6 +6,36 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=49805509",
+          "author": "OfficialTurkey",
+          "description": "Article URL: https://openai.com/index/introducing-gpt-6-sol-and-luna/\nComments URL: https://news.ycombinator.com/item?id=49805509\nPoints: 879\n# Comments: 460",
+          "link": "https://openai.com/index/introducing-gpt-6-sol-and-luna/",
+          "publishedOn": "2026-09-22T18:00:34.000Z",
+          "wordCount": null,
+          "title": "GPT-6 Sol and Luna",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=49803892",
+          "author": "km144",
+          "description": "Article URL: https://www.anthropic.com/claude-opus-5-5\nComments URL: https://news.ycombinator.com/item?id=49803892\nPoints: 942\n# Comments: 689",
+          "link": "https://www.anthropic.com/claude-opus-5-5",
+          "publishedOn": "2026-09-22T16:29:05.000Z",
+          "wordCount": 12243,
+          "title": "Claude Opus 5.5",
+          "imageUrl": "https://cdn.sanity.io/images/4zrzovbb/website/f4d37a1d1f582f53f4e89440062b649b6273a093-1200x630.jpg"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=49801939",
+          "author": "MC995",
+          "description": "Article URL: https://www.techradar.com/phones/iphone/i-wish-apple-would-just-stop-that-crap-apple-has-added-persistent-ads-to-ios-and-its-driving-users-crazy\nComments URL: https://news.ycombinator.com/item?id=49801939\nPoints: 531\n# Comments: 401",
+          "link": "https://www.techradar.com/phones/iphone/i-wish-apple-would-just-stop-that-crap-apple-has-added-persistent-ads-to-ios-and-its-driving-users-crazy",
+          "publishedOn": "2026-09-22T14:30:12.000Z",
+          "wordCount": 47776,
+          "title": "Apple has added persistent 'ads' to iOS, and it's driving users crazy",
+          "imageUrl": "https://cdn.mos.cms.futurecdn.net/sMMYYw2WasgE4m4saLhZ9M-2560-80.jpg"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=49797982",
           "author": "thatslast",
           "description": "Article URL: https://dbushell.com/2026/09/22/apple-intelligence/\nComments URL: https://news.ycombinator.com/item?id=49797982\nPoints: 706\n# Comments: 566",
@@ -124,6 +154,16 @@
           "wordCount": 1314,
           "title": "AX – Google’s Open Agentic Orchestrator",
           "imageUrl": "/axolotl.svg"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=49780630",
+          "author": "paimapi",
+          "description": "Article URL: https://truthout.org/articles/warren-introduces-bill-to-ban-private-equity-from-owning-medical-practices/\nComments URL: https://news.ycombinator.com/item?id=49780630\nPoints: 501\n# Comments: 373",
+          "link": "https://truthout.org/articles/warren-introduces-bill-to-ban-private-equity-from-owning-medical-practices/",
+          "publishedOn": "2026-09-20T22:13:46.000Z",
+          "wordCount": 5810,
+          "title": "Bill to Ban Private Equity from Owning Medical Practices",
+          "imageUrl": "https://truthout.org/app/uploads/2026/09/2026_09-17-elizabeth-warren.jpg"
         },
         {
           "id": "https://news.ycombinator.com/item?id=49778029",
@@ -1934,16 +1974,6 @@
           "wordCount": 1813,
           "title": "How Europe is killing makers and micro-entrepreneurs",
           "imageUrl": "https://lectronz.com/lectronz/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NzAzNjgsInB1ciI6ImJsb2JfaWQifX0=--86803ec7bfb65d5430f3e59aa9c5b2a8dafd15f0/DSC_1769.JPG"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=49416055",
-          "author": "reasonableklout",
-          "description": "Article URL: https://www.modelrepublic.org/articles/a16z-portfolio\nComments URL: https://news.ycombinator.com/item?id=49416055\nPoints: 605\n# Comments: 316",
-          "link": "https://www.modelrepublic.org/articles/a16z-portfolio",
-          "publishedOn": "2026-08-24T06:57:01.000Z",
-          "wordCount": 31106,
-          "title": "Andreessen Horowitz is investing billions into a bleak future",
-          "imageUrl": "https://framerusercontent.com/images/uNIrxXkbxFMlxJRgNjZm1lfmI.jpg?width=1200&height=675"
         }
       ]
     },
