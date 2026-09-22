@@ -6,6 +6,26 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=49792730",
+          "author": "volf_",
+          "description": "Article URL: https://mimo.xiaomi.com/mimo-v2-6\nComments URL: https://news.ycombinator.com/item?id=49792730\nPoints: 617\n# Comments: 310",
+          "link": "https://mimo.xiaomi.com/mimo-v2-6",
+          "publishedOn": "2026-09-21T20:12:12.000Z",
+          "wordCount": 722,
+          "title": "Xiaomi MiMo v2.6",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=49788838",
+          "author": "meetpateltech",
+          "description": "Article URL: https://x.ai/news/grok-4-7\nComments URL: https://news.ycombinator.com/item?id=49788838\nPoints: 519\n# Comments: 435",
+          "link": "https://x.ai/news/grok-4-7",
+          "publishedOn": "2026-09-21T15:50:15.000Z",
+          "wordCount": 5669,
+          "title": "Grok 4.7",
+          "imageUrl": "https://x.ai/images/news/grok-4-7-og.webp"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=49787726",
           "author": "zer0tonin",
           "description": "Article URL: https://alicegg.tech/2026/09/21/attention\nComments URL: https://news.ycombinator.com/item?id=49787726\nPoints: 544\n# Comments: 155",
@@ -14,6 +34,16 @@
           "wordCount": 685,
           "title": "Attention is all you have",
           "imageUrl": "https://www.alicegg.tech/assets/2026-09-21-attention/tetris.jpg"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=49787436",
+          "author": "chmaynard",
+          "description": "Article URL: https://bcantrill.dtrace.org/2026/09/20/what-sun-got-wrong/\nComments URL: https://news.ycombinator.com/item?id=49787436\nPoints: 521\n# Comments: 309",
+          "link": "https://bcantrill.dtrace.org/2026/09/20/what-sun-got-wrong/",
+          "publishedOn": "2026-09-21T14:03:18.000Z",
+          "wordCount": 795,
+          "title": "What Sun got wrong",
+          "imageUrl": null
         },
         {
           "id": "https://news.ycombinator.com/item?id=49785429",
@@ -1913,26 +1943,6 @@
           "publishedOn": "2026-08-23T18:16:37.000Z",
           "wordCount": null,
           "title": "Anthropic's best AI model struggles to attract users as cheaper tools thrive",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=49409092",
-          "author": "tosh",
-          "description": "Article URL: https://earendil.com/posts/what-is-a-harness/\nComments URL: https://news.ycombinator.com/item?id=49409092\nPoints: 536\n# Comments: 173",
-          "link": "https://earendil.com/posts/what-is-a-harness/",
-          "publishedOn": "2026-08-23T14:24:21.000Z",
-          "wordCount": 2075,
-          "title": "What Is a Harness?",
-          "imageUrl": "https://earendil.com/static/og/posts/what-is-a-harness.png"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=49409073",
-          "author": "dr_pardee",
-          "description": "Article URL: https://ericpardee.github.io/fire-hd-ownership/\nComments URL: https://news.ycombinator.com/item?id=49409073\nPoints: 676\n# Comments: 289",
-          "link": "https://ericpardee.github.io/fire-hd-ownership/",
-          "publishedOn": "2026-08-23T14:23:09.000Z",
-          "wordCount": 3195,
-          "title": "I spent $266 and four AI models to own my tablet. GLM-5.3 finished it in a day",
           "imageUrl": null
         }
       ]
