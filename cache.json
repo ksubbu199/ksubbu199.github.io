@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=49797982",
+          "author": "thatslast",
+          "description": "Article URL: https://dbushell.com/2026/09/22/apple-intelligence/\nComments URL: https://news.ycombinator.com/item?id=49797982\nPoints: 706\n# Comments: 566",
+          "link": "https://dbushell.com/2026/09/22/apple-intelligence/",
+          "publishedOn": "2026-09-22T08:04:55.000Z",
+          "wordCount": 2131,
+          "title": "I said no and Apple said yes",
+          "imageUrl": "https://dbushell.com/images/articles/2026-09-22-apple-intelligence.png"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=49794615",
           "author": "possibilistic",
           "description": "Article URL: https://brand.io/article/spymarks/\nComments URL: https://news.ycombinator.com/item?id=49794615\nPoints: 564\n# Comments: 135",
@@ -1934,16 +1944,6 @@
           "wordCount": 31106,
           "title": "Andreessen Horowitz is investing billions into a bleak future",
           "imageUrl": "https://framerusercontent.com/images/uNIrxXkbxFMlxJRgNjZm1lfmI.jpg?width=1200&height=675"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=49415271",
-          "author": "setheron",
-          "description": "Article URL: https://fzakaria.com/2026/08/23/your-executable-is-a-sqlite-database\nComments URL: https://news.ycombinator.com/item?id=49415271\nPoints: 504\n# Comments: 95",
-          "link": "https://fzakaria.com/2026/08/23/your-executable-is-a-sqlite-database",
-          "publishedOn": "2026-08-24T04:48:20.000Z",
-          "wordCount": 2886,
-          "title": "Executable Is a SQLite Database",
-          "imageUrl": null
         }
       ]
     },
