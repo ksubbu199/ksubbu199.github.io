@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=49806430",
+          "author": "devonnull",
+          "description": "https://archive.ph/0V37g\nComments URL: https://news.ycombinator.com/item?id=49806430\nPoints: 531\n# Comments: 259",
+          "link": "https://www.bloomberg.com/graphics/2026-iran-school-attack/",
+          "publishedOn": "2026-09-22T19:03:38.000Z",
+          "wordCount": null,
+          "title": "Pentagon says overreliance on AI contributed to missile strike on Iran school",
+          "imageUrl": null
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=49805509",
           "author": "OfficialTurkey",
           "description": "Article URL: https://openai.com/index/introducing-gpt-6-sol-and-luna/\nComments URL: https://news.ycombinator.com/item?id=49805509\nPoints: 879\n# Comments: 460",
@@ -14,6 +24,16 @@
           "wordCount": null,
           "title": "GPT-6 Sol and Luna",
           "imageUrl": null
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=49805278",
+          "author": "spenvo",
+          "description": "https://archive.ph/96YBP\nComments URL: https://news.ycombinator.com/item?id=49805278\nPoints: 509\n# Comments: 360",
+          "link": "https://www.404media.co/we-hacked-the-fbi-hackers-say-they-have-data-on-all-fbi-employees/",
+          "publishedOn": "2026-09-22T17:46:02.000Z",
+          "wordCount": 1140,
+          "title": "'We hacked the FBI:' Hackers say they have data on all FBI employees",
+          "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/2026/09/8136629475_f6f0b408b3_z.jpg"
         },
         {
           "id": "https://news.ycombinator.com/item?id=49803892",
@@ -1934,56 +1954,6 @@
           "wordCount": 6741,
           "title": "Oceans hit highest temperature on record",
           "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/6e1c/live/bc7158a0-9fc3-11f1-8648-8d7b77845e6d.jpg"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=49422784",
-          "author": "centrosphere",
-          "description": "https://twitter.com/cdngdev/status/2091909073038082139, https://xcancel.com/cdngdev/status/2091909073038082139\nComments URL: https://news.ycombinator.com/item?id=49422784\nPoints: 510\n# Comments: 149",
-          "link": "https://sf.thijs.gg/",
-          "publishedOn": "2026-08-24T17:05:38.000Z",
-          "wordCount": 9545,
-          "title": "The entire city of San Francisco as a video game",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=49421554",
-          "author": "larsfaye",
-          "description": "Article URL: https://larsfaye.com/articles/ai-coding-will-prevent-expertise\nComments URL: https://news.ycombinator.com/item?id=49421554\nPoints: 501\n# Comments: 490",
-          "link": "https://larsfaye.com/articles/ai-coding-will-prevent-expertise",
-          "publishedOn": "2026-08-24T15:52:33.000Z",
-          "wordCount": 3808,
-          "title": "Coding expertise is going to collapse from AI reliance",
-          "imageUrl": "/opengraph-expertise.jpg"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=49421158",
-          "author": "ComputerGuru",
-          "description": "Article URL: https://xusheng.dev/posts/reversing/mspaint_invisible_watermark/main/\nComments URL: https://news.ycombinator.com/item?id=49421158\nPoints: 550\n# Comments: 218",
-          "link": "https://xusheng.dev/posts/reversing/mspaint_invisible_watermark/main/",
-          "publishedOn": "2026-08-24T15:28:04.000Z",
-          "wordCount": 3030,
-          "title": "MS Paint and Photos inivisibly watermark even locally generated output with GUID",
-          "imageUrl": "https://xusheng.dev/posts/reversing/mspaint_invisible_watermark/social-preview.jpg"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=49420873",
-          "author": "tosh",
-          "description": "https://xcancel.com/lemire/status/2091894299289874926\nComments URL: https://news.ycombinator.com/item?id=49420873\nPoints: 543\n# Comments: 363",
-          "link": "https://twitter.com/lemire/status/2091894299289874926",
-          "publishedOn": "2026-08-24T15:08:17.000Z",
-          "wordCount": 1533,
-          "title": "Xiaomi: New CPU matches Apple cores single threaded, much faster multithreaded",
-          "imageUrl": "https://pbs.twimg.com/media/HQfmx0UWoAAvbt6.jpg:large"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=49419237",
-          "author": "l-one-lone",
-          "description": "Article URL: https://lectronz.com/u/lectronz/articles/how-europe-is-killing-makers-and-micro-entrepreneurs\nComments URL: https://news.ycombinator.com/item?id=49419237\nPoints: 784\n# Comments: 527",
-          "link": "https://lectronz.com/u/lectronz/articles/how-europe-is-killing-makers-and-micro-entrepreneurs",
-          "publishedOn": "2026-08-24T13:05:25.000Z",
-          "wordCount": 1813,
-          "title": "How Europe is killing makers and micro-entrepreneurs",
-          "imageUrl": "https://lectronz.com/lectronz/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NzAzNjgsInB1ciI6ImJsb2JfaWQifX0=--86803ec7bfb65d5430f3e59aa9c5b2a8dafd15f0/DSC_1769.JPG"
         }
       ]
     },
@@ -2221,16 +2191,6 @@
           "wordCount": 10079,
           "title": "Making Your Data Ready for Agentic AI",
           "imageUrl": "https://martinfowler.com/articles/making-data-ready-for-agentic-ai/card.png"
-        },
-        {
-          "id": "https://martinfowler.com/fragments/2026-08-24.html",
-          "author": null,
-          "description": "I was listening to Ezra Klein’s interview with Helen Toner about the recent OpenAI hack of Hugging Face and the subsequent discovery that there were swarms of agents inside OpenAI doing unsanctioned activities. One of the points Klein made was that at no point did any of these (thousands of?) agents ever try to check in with a human\n[Klein:] So these message boards — you have however many A.I. agents posting hundreds of thousands of messages. At no point do they say: Hey, researchers, programmers, parents at OpenAI, Anthropic — do you want us coordinating with each other on this message board we have created in the innards of your systems?\n[Toner:] Or even F.Y.I., we have a message board we’re coordinating on in the innards of your system.\nListening to that, another thing occurred to me - …",
-          "link": "https://martinfowler.com/fragments/2026-08-24.html",
-          "publishedOn": "2026-08-24T15:29:00.000Z",
-          "wordCount": 1266,
-          "title": "Fragments: August 24",
-          "imageUrl": "/fragments/fragments-thumb.png"
         }
       ]
     },

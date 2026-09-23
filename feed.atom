@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-23T00:01:35.541Z</updated>
+    <updated>2026-09-23T05:31:24.424Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Pentagon says overreliance on AI contributed to missile strike on Iran school]]></title>
+        <id>https://news.ycombinator.com/item?id=49806430</id>
+        <link href="https://www.bloomberg.com/graphics/2026-iran-school-attack/"/>
+        <updated>2026-09-22T19:03:38.000Z</updated>
+        <summary type="html"><![CDATA[https://archive.ph/0V37g
+Comments URL: https://news.ycombinator.com/item?id=49806430
+Points: 531
+# Comments: 259]]></summary>
+        <author>
+            <name>devonnull</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[GPT-6 Sol and Luna]]></title>
         <id>https://news.ycombinator.com/item?id=49805509</id>
@@ -17,6 +30,19 @@ Points: 879
 # Comments: 460]]></summary>
         <author>
             <name>OfficialTurkey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['We hacked the FBI:' Hackers say they have data on all FBI employees]]></title>
+        <id>https://news.ycombinator.com/item?id=49805278</id>
+        <link href="https://www.404media.co/we-hacked-the-fbi-hackers-say-they-have-data-on-all-fbi-employees/"/>
+        <updated>2026-09-22T17:46:02.000Z</updated>
+        <summary type="html"><![CDATA[https://archive.ph/96YBP
+Comments URL: https://news.ycombinator.com/item?id=49805278
+Points: 509
+# Comments: 360]]></summary>
+        <author>
+            <name>spenvo</name>
         </author>
     </entry>
     <entry>
@@ -2971,84 +2997,6 @@ Points: 507
 # Comments: 410]]></summary>
         <author>
             <name>tcp_handshaker</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The entire city of San Francisco as a video game]]></title>
-        <id>https://news.ycombinator.com/item?id=49422784</id>
-        <link href="https://sf.thijs.gg/"/>
-        <updated>2026-08-24T17:05:38.000Z</updated>
-        <summary type="html"><![CDATA[https://twitter.com/cdngdev/status/2091909073038082139, https://xcancel.com/cdngdev/status/2091909073038082139
-Comments URL: https://news.ycombinator.com/item?id=49422784
-Points: 510
-# Comments: 149]]></summary>
-        <author>
-            <name>centrosphere</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Coding expertise is going to collapse from AI reliance]]></title>
-        <id>https://news.ycombinator.com/item?id=49421554</id>
-        <link href="https://larsfaye.com/articles/ai-coding-will-prevent-expertise"/>
-        <updated>2026-08-24T15:52:33.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://larsfaye.com/articles/ai-coding-will-prevent-expertise
-Comments URL: https://news.ycombinator.com/item?id=49421554
-Points: 501
-# Comments: 490]]></summary>
-        <author>
-            <name>larsfaye</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fragments: August 24]]></title>
-        <id>https://martinfowler.com/fragments/2026-08-24.html</id>
-        <link href="https://martinfowler.com/fragments/2026-08-24.html"/>
-        <updated>2026-08-24T15:29:00.000Z</updated>
-        <summary type="html"><![CDATA[I was listening to Ezra Klein’s interview with Helen Toner about the recent OpenAI hack of Hugging Face and the subsequent discovery that there were swarms of agents inside OpenAI doing unsanctioned activities. One of the points Klein made was that at no point did any of these (thousands of?) agents ever try to check in with a human
-[Klein:] So these message boards — you have however many A.I. agents posting hundreds of thousands of messages. At no point do they say: Hey, researchers, programmers, parents at OpenAI, Anthropic — do you want us coordinating with each other on this message board we have created in the innards of your systems?
-[Toner:] Or even F.Y.I., we have a message board we’re coordinating on in the innards of your system.
-Listening to that, another thing occurred to me - …]]></summary>
-        <author>
-            <name>Martin Fowler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MS Paint and Photos inivisibly watermark even locally generated output with GUID]]></title>
-        <id>https://news.ycombinator.com/item?id=49421158</id>
-        <link href="https://xusheng.dev/posts/reversing/mspaint_invisible_watermark/main/"/>
-        <updated>2026-08-24T15:28:04.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://xusheng.dev/posts/reversing/mspaint_invisible_watermark/main/
-Comments URL: https://news.ycombinator.com/item?id=49421158
-Points: 550
-# Comments: 218]]></summary>
-        <author>
-            <name>ComputerGuru</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Xiaomi: New CPU matches Apple cores single threaded, much faster multithreaded]]></title>
-        <id>https://news.ycombinator.com/item?id=49420873</id>
-        <link href="https://twitter.com/lemire/status/2091894299289874926"/>
-        <updated>2026-08-24T15:08:17.000Z</updated>
-        <summary type="html"><![CDATA[https://xcancel.com/lemire/status/2091894299289874926
-Comments URL: https://news.ycombinator.com/item?id=49420873
-Points: 543
-# Comments: 363]]></summary>
-        <author>
-            <name>tosh</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Europe is killing makers and micro-entrepreneurs]]></title>
-        <id>https://news.ycombinator.com/item?id=49419237</id>
-        <link href="https://lectronz.com/u/lectronz/articles/how-europe-is-killing-makers-and-micro-entrepreneurs"/>
-        <updated>2026-08-24T13:05:25.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://lectronz.com/u/lectronz/articles/how-europe-is-killing-makers-and-micro-entrepreneurs
-Comments URL: https://news.ycombinator.com/item?id=49419237
-Points: 784
-# Comments: 527]]></summary>
-        <author>
-            <name>l-one-lone</name>
         </author>
     </entry>
     <entry>
