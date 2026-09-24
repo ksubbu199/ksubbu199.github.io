@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=49820134",
+          "author": "raahelb",
+          "description": "Article URL: https://www.anthropic.com/news/claude-discovers-novel-enzyme-system\nComments URL: https://news.ycombinator.com/item?id=49820134\nPoints: 607\n# Comments: 619",
+          "link": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
+          "publishedOn": "2026-09-23T18:06:47.000Z",
+          "wordCount": 3937,
+          "title": "Claude discovers a novel enzyme system with CRISPR-like repeats",
+          "imageUrl": "https://www-cdn.anthropic.com/images/4zrzovbb/website/394de337d8a5d8db93a1c048fa1cb53e16a09625-2048x1240.jpg"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=49819221",
           "author": "geox",
           "description": "Article URL: https://apnews.com/article/italy-nuclear-chernobyl-4891b6b7c7791ae84db6b0bf0f7cf567\nComments URL: https://news.ycombinator.com/item?id=49819221\nPoints: 576\n# Comments: 365",
@@ -1884,56 +1894,6 @@
           "wordCount": 592,
           "title": "Qwen3.8-Flash-Next",
           "imageUrl": "https://img.alicdn.com/imgextra/i4/O1CN01OXv3EM1FN8t9W4P79_!!6000000000474-2-tps-80-80.png"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=49438052",
-          "author": "helsinkiandrew",
-          "description": "https://www.cnn.com/2026/08/25/entertainment/dolly-parton-de...\nhttps://www.nytimes.com/2026/08/25/arts/music/dolly-parton-d..., https://archive.ph/w4vsE\nhttps://www.hollywoodreporter.com/music/music-news/dolly-par...\nComments URL: https://news.ycombinator.com/item?id=49438052\nPoints: 665\n# Comments: 99",
-          "link": "https://www.theguardian.com/music/2026/aug/25/dolly-parton-country-singer-dead",
-          "publishedOn": "2026-08-25T18:02:22.000Z",
-          "wordCount": 6010,
-          "title": "Dolly Parton has died",
-          "imageUrl": "https://i.guim.co.uk/img/media/db513fae83c84853e4a9af6ea9929e2ba4c00afa/0_392_3000_1799/master/3000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e83c716e31904f324eae4c1917e317a3"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=49437283",
-          "author": "Banditoz",
-          "description": "Article URL: https://github.com/zedeus/nitter/issues/1442\nComments URL: https://news.ycombinator.com/item?id=49437283\nPoints: 526\n# Comments: 364",
-          "link": "https://github.com/zedeus/nitter/issues/1442",
-          "publishedOn": "2026-08-25T17:08:21.000Z",
-          "wordCount": 1354,
-          "title": "Nitter project received cease and desist",
-          "imageUrl": "https://opengraph.githubassets.com/7d6bb5c1b3e61754726cd6b301199636ea37ef501d250bf15da38b61c8934e6e/zedeus/nitter/issues/1442"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=49437069",
-          "author": "sarreph",
-          "description": "Article URL: https://rorz.io/writing/my-friend-aaron\nComments URL: https://news.ycombinator.com/item?id=49437069\nPoints: 520\n# Comments: 141",
-          "link": "https://rorz.io/writing/my-friend-aaron",
-          "publishedOn": "2026-08-25T16:53:33.000Z",
-          "wordCount": 11503,
-          "title": "My Friend Aaron",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=49434378",
-          "author": "bmulholland",
-          "description": "https://www.bloomberg.com/news/articles/2026-08-25/openai-cl..., https://archive.ph/yCTrr\nComments URL: https://news.ycombinator.com/item?id=49434378\nPoints: 505\n# Comments: 320",
-          "link": "https://newsletter.semianalysis.com/p/openai-jalapeno-better-than-nvidia",
-          "publishedOn": "2026-08-25T14:06:02.000Z",
-          "wordCount": 14091,
-          "title": "OpenAI Jalapeño: Better than Nvidia Blackwell",
-          "imageUrl": "https://substackcdn.com/image/fetch/$s_!FdaK!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8f308659-4472-47f2-bb48-10442949f1a6_1535x1024.png"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=49433450",
-          "author": "runako",
-          "description": "Article URL: https://www.apple.com/newsroom/2026/08/apple-unveils-a-more-powerful-mac-mini-featuring-the-all-new-m6-and-m5-pro/\nComments URL: https://news.ycombinator.com/item?id=49433450\nPoints: 500\n# Comments: 316",
-          "link": "https://www.apple.com/newsroom/2026/08/apple-unveils-a-more-powerful-mac-mini-featuring-the-all-new-m6-and-m5-pro/",
-          "publishedOn": "2026-08-25T13:13:00.000Z",
-          "wordCount": 7887,
-          "title": "New Mac mini, featuring M6 and M5 Pro",
-          "imageUrl": "https://www.apple.com/newsroom/images/2026/08/apple-unveils-a-more-powerful-mac-mini-featuring-the-all-new-m6-and-m5-pro/tile/Apple-Mac-mini-hero-260825-lp.jpg.og.jpg?202608260058"
         }
       ]
     },
@@ -2360,26 +2320,6 @@
           "publishedOn": "2026-08-28T12:14:02.000Z",
           "wordCount": null,
           "title": "Mercedes Almost KILLED BMW: How A Blind Billionaire Saved BMW From Mercedes",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/shorts/DdiGAleaJMI",
-          "author": null,
-          "description": "In this podcast, Jonah Berger, Wharton professor and bestselling author of Contagious, breaks down the science behind viral marketing and explains how brands...",
-          "link": "https://www.youtube.com/shorts/DdiGAleaJMI",
-          "publishedOn": "2026-08-25T15:28:25.000Z",
-          "wordCount": 4111,
-          "title": "How Boring Products Go Viral | Ft. Jonah Berger",
-          "imageUrl": "https://i.ytimg.com/vi/DdiGAleaJMI/hq720.jpg?sqp=-oaymwEoCJUDENAFSFryq4qpAxoIARUAAAAAJQAAyEI9AICiQ3gB0AEBuAL3GA==&rs=AOn4CLDw_Q7EbteqVx3RJHeXWnKazWUOOw"
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=wPQez8ft91g",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=wPQez8ft91g",
-          "publishedOn": "2026-08-25T15:23:48.000Z",
-          "wordCount": null,
-          "title": "The Science of VIRALITY: I Gave a Wharton Professor $1,000 To Make Boring Products Go Viral!",
           "imageUrl": null
         }
       ]
