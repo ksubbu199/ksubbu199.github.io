@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-23T22:43:34.794Z</updated>
+    <updated>2026-09-24T01:07:36.131Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Italian parliament votes for return to nuclear energy]]></title>
+        <id>https://news.ycombinator.com/item?id=49819221</id>
+        <link href="https://apnews.com/article/italy-nuclear-chernobyl-4891b6b7c7791ae84db6b0bf0f7cf567"/>
+        <updated>2026-09-23T17:06:16.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://apnews.com/article/italy-nuclear-chernobyl-4891b6b7c7791ae84db6b0bf0f7cf567
+Comments URL: https://news.ycombinator.com/item?id=49819221
+Points: 576
+# Comments: 365]]></summary>
+        <author>
+            <name>geox</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Jev in 25 Lines of Python]]></title>
         <id>https://news.ycombinator.com/item?id=49812769</id>
@@ -2958,32 +2971,6 @@ Points: 500
 # Comments: 316]]></summary>
         <author>
             <name>runako</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Mac Studio with M5 Max and M5 Ultra]]></title>
-        <id>https://news.ycombinator.com/item?id=49433316</id>
-        <link href="https://www.apple.com/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra/"/>
-        <updated>2026-08-25T13:03:17.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.apple.com/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra/
-Comments URL: https://news.ycombinator.com/item?id=49433316
-Points: 550
-# Comments: 326]]></summary>
-        <author>
-            <name>interpol_p</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Apple introduces M6 and M5 Ultra for a big leap in performance and AI compute]]></title>
-        <id>https://news.ycombinator.com/item?id=49433292</id>
-        <link href="https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/"/>
-        <updated>2026-08-25T13:01:22.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/
-Comments URL: https://news.ycombinator.com/item?id=49433292
-Points: 573
-# Comments: 463]]></summary>
-        <author>
-            <name>interpol_p</name>
         </author>
     </entry>
     <entry>
