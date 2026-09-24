@@ -2,10 +2,83 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-24T13:16:23.377Z</updated>
+    <updated>2026-09-24T18:13:52.826Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The Pulse: a new trend of CPU shortages]]></title>
+        <id>6aab98704a58460001d006e2</id>
+        <link href="https://blog.pragmaticengineer.com/the-pulse-a-new-trend-of-cpu-shortages/"/>
+        <updated>2026-09-24T16:45:01.000Z</updated>
+        <summary type="html"><![CDATA[After a GPU shortage and memory shortage driven by AI companies, we’re now experiencing a CPU shortage, thanks to AI agents using a lot more CPU with tool usage.]]></summary>
+        <author>
+            <name>Ivan Klaric</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BETRAYAL OF SAUDI ARABIA? | Why America Abandoned Saudi Arabia in Its Darkest Hour?]]></title>
+        <id>https://www.youtube.com/watch?v=UY9H83yQnzc</id>
+        <link href="https://www.youtube.com/watch?v=UY9H83yQnzc"/>
+        <updated>2026-09-24T16:11:47.000Z</updated>
+        <author>
+            <name>Think School</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fragments: September 24]]></title>
+        <id>https://martinfowler.com/fragments/2026-09-24.html</id>
+        <link href="https://martinfowler.com/fragments/2026-09-24.html"/>
+        <updated>2026-09-24T15:35:00.000Z</updated>
+        <summary type="html"><![CDATA[Rob Bowley is “flipping tables in his head” with anger at the current media coverage of the danger of AI killing us all
+The risk I’m worried about isn’t a future machine deciding to wipe us out. It’s today’s AI, being wired into everything, carelessly and fast.
+Cyber attacks have already cost millions of dollars in lost economic output, often without AI being involved at all. Bowley feels the push to slow down AI is distracting us from the problems that are lurking with current technology. Too often agents are deployed in situations where they include the Lethal Trifecta, opening up a gaping security hole.
+What we really need to slow down on is wiring it all up to everything. Not because of what the models might become, but because nobody has worked out how to do this safely yet. We are bu…]]></summary>
+        <author>
+            <name>Martin Fowler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Healthy Feedback]]></title>
+        <id>https://martinfowler.com/articles/healthy-peer-feedback.html</id>
+        <link href="https://martinfowler.com/articles/healthy-peer-feedback.html"/>
+        <updated>2026-09-24T14:10:00.000Z</updated>
+        <summary type="html"><![CDATA[Human collaboration, like most things, improves with feedback. But it's
+      not obvious how to make feedback effective. Anuja Karnik
+      and Sumeet Gayathri Moghe pass on a bevy of tips for healthy
+      feedback, based on the principle that both praise and criticism should be
+      seen as positive.
+more…]]></summary>
+        <author>
+            <name>Martin Fowler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Meta takes down a critical video about meta AI Glasses after filming at Meta]]></title>
+        <id>https://news.ycombinator.com/item?id=49827794</id>
+        <link href="https://www.reddit.com/r/facebook/comments/1wotwrk/meta_takes_down_a_critical_video_about_meta_ai/"/>
+        <updated>2026-09-24T08:23:03.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.reddit.com/r/facebook/comments/1wotwrk/meta_takes_down_a_critical_video_about_meta_ai/
+Comments URL: https://news.ycombinator.com/item?id=49827794
+Points: 566
+# Comments: 338]]></summary>
+        <author>
+            <name>pieterr</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linux support is coming to Snapdragon X2 series]]></title>
+        <id>https://news.ycombinator.com/item?id=49823582</id>
+        <link href="https://www.qualcomm.com/news/onq/2026/09/snapdragon-summit-agentic-ai-pcs-linux"/>
+        <updated>2026-09-23T22:38:16.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.qualcomm.com/news/onq/2026/09/snapdragon-summit-agentic-ai-pcs-linux
+Comments URL: https://news.ycombinator.com/item?id=49823582
+Points: 576
+# Comments: 244]]></summary>
+        <author>
+            <name>aaronday</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Claude discovers a novel enzyme system with CRISPR-like repeats]]></title>
         <id>https://news.ycombinator.com/item?id=49820134</id>
@@ -30,6 +103,19 @@ Points: 576
 # Comments: 365]]></summary>
         <author>
             <name>geox</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fixing the Portobello Police Station Clock]]></title>
+        <id>https://news.ycombinator.com/item?id=49817469</id>
+        <link href="https://pointinthecloud.com/2026-04-11-211700.html"/>
+        <updated>2026-09-23T15:18:53.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://pointinthecloud.com/2026-04-11-211700.html
+Comments URL: https://news.ycombinator.com/item?id=49817469
+Points: 510
+# Comments: 113]]></summary>
+        <author>
+            <name>avidly</name>
         </author>
     </entry>
     <entry>

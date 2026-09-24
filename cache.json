@@ -6,6 +6,26 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=49827794",
+          "author": "pieterr",
+          "description": "Article URL: https://www.reddit.com/r/facebook/comments/1wotwrk/meta_takes_down_a_critical_video_about_meta_ai/\nComments URL: https://news.ycombinator.com/item?id=49827794\nPoints: 566\n# Comments: 338",
+          "link": "https://www.reddit.com/r/facebook/comments/1wotwrk/meta_takes_down_a_critical_video_about_meta_ai/",
+          "publishedOn": "2026-09-24T08:23:03.000Z",
+          "wordCount": null,
+          "title": "Meta takes down a critical video about meta AI Glasses after filming at Meta",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=49823582",
+          "author": "aaronday",
+          "description": "Article URL: https://www.qualcomm.com/news/onq/2026/09/snapdragon-summit-agentic-ai-pcs-linux\nComments URL: https://news.ycombinator.com/item?id=49823582\nPoints: 576\n# Comments: 244",
+          "link": "https://www.qualcomm.com/news/onq/2026/09/snapdragon-summit-agentic-ai-pcs-linux",
+          "publishedOn": "2026-09-23T22:38:16.000Z",
+          "wordCount": 162,
+          "title": "Linux support is coming to Snapdragon X2 series",
+          "imageUrl": "https://s7d1.scene7.com/is/image/dmqualcommprod/snapdragon-summit-agentic-ai-pcs-linux"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=49820134",
           "author": "raahelb",
           "description": "Article URL: https://www.anthropic.com/news/claude-discovers-novel-enzyme-system\nComments URL: https://news.ycombinator.com/item?id=49820134\nPoints: 607\n# Comments: 619",
@@ -23,6 +43,16 @@
           "publishedOn": "2026-09-23T17:06:16.000Z",
           "wordCount": null,
           "title": "Italian parliament votes for return to nuclear energy",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=49817469",
+          "author": "avidly",
+          "description": "Article URL: https://pointinthecloud.com/2026-04-11-211700.html\nComments URL: https://news.ycombinator.com/item?id=49817469\nPoints: 510\n# Comments: 113",
+          "link": "https://pointinthecloud.com/2026-04-11-211700.html",
+          "publishedOn": "2026-09-23T15:18:53.000Z",
+          "wordCount": 1425,
+          "title": "Fixing the Portobello Police Station Clock",
           "imageUrl": null
         },
         {
@@ -2023,6 +2053,26 @@
       "siteUrl": "https://martinfowler.com/feed.atom",
       "articles": [
         {
+          "id": "https://martinfowler.com/fragments/2026-09-24.html",
+          "author": null,
+          "description": "Rob Bowley is “flipping tables in his head” with anger at the current media coverage of the danger of AI killing us all\nThe risk I’m worried about isn’t a future machine deciding to wipe us out. It’s today’s AI, being wired into everything, carelessly and fast.\nCyber attacks have already cost millions of dollars in lost economic output, often without AI being involved at all. Bowley feels the push to slow down AI is distracting us from the problems that are lurking with current technology. Too often agents are deployed in situations where they include the Lethal Trifecta, opening up a gaping security hole.\nWhat we really need to slow down on is wiring it all up to everything. Not because of what the models might become, but because nobody has worked out how to do this safely yet. We are bu…",
+          "link": "https://martinfowler.com/fragments/2026-09-24.html",
+          "publishedOn": "2026-09-24T15:35:00.000Z",
+          "wordCount": 1032,
+          "title": "Fragments: September 24",
+          "imageUrl": "https://martinfowler.com/fragments/fragments-thumb.png"
+        },
+        {
+          "id": "https://martinfowler.com/articles/healthy-peer-feedback.html",
+          "author": null,
+          "description": "Human collaboration, like most things, improves with feedback. But it's\n      not obvious how to make feedback effective. Anuja Karnik\n      and Sumeet Gayathri Moghe pass on a bevy of tips for healthy\n      feedback, based on the principle that both praise and criticism should be\n      seen as positive.\nmore…",
+          "link": "https://martinfowler.com/articles/healthy-peer-feedback.html",
+          "publishedOn": "2026-09-24T14:10:00.000Z",
+          "wordCount": 5543,
+          "title": "Healthy Feedback",
+          "imageUrl": "https://martinfowler.com/articles/healthy-peer-feedback/card.png"
+        },
+        {
           "id": "https://martinfowler.com/articles/2026-dont-like-llms.html",
           "author": null,
           "description": "I have a lot of mixed feelings about AI and LLM technology. I’m\nfascinated by its effect on our profession, excited by the potential gains\nin productivity - and thus the products we could rapidly build. On the other\nhand, I’m fearful of the damage AI might cause: agent swarms taking over our\nvirtual and physical infrastructure, designing bio weapons. But, back on my\nfirst hand, LLMs might also design miracle cures, and come up with clever\nways to raise our prosperity. Fundamentally I don’t think we have a choice\nabout riding on the AI technology train. It’s a wild ride and I just hope\nwe’ll get through it OK.\nBut as I mull on this more, I realize that among this mix of contrasting\nfeelings, there is one emotion that dominates - one that comes from my\ndirect interactions with LLMs. I don’t …",
@@ -2146,6 +2196,16 @@
       "siteUrl": "https://blog.pragmaticengineer.com/",
       "articles": [
         {
+          "id": "6aab98704a58460001d006e2",
+          "author": "Ivan Klaric",
+          "description": "After a GPU shortage and memory shortage driven by AI companies, we’re now experiencing a CPU shortage, thanks to AI agents using a lot more CPU with tool usage.",
+          "link": "https://blog.pragmaticengineer.com/the-pulse-a-new-trend-of-cpu-shortages/",
+          "publishedOn": "2026-09-24T16:45:01.000Z",
+          "wordCount": 2231,
+          "title": "The Pulse: a new trend of CPU shortages",
+          "imageUrl": null
+        },
+        {
           "id": "6aa26df1e3d0390001d47f92",
           "author": "Ivan Klaric",
           "description": "Uber, Pinterest, Stripe, Coinbase, Ramp, and AT&T are making large savings on their AI bills by dropping proprietary models and using smart model routing.",
@@ -2202,6 +2262,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKZozRVHRYsYHGEyNKuhhdA",
       "siteUrl": "https://www.youtube.com/channel/UCKZozRVHRYsYHGEyNKuhhdA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=UY9H83yQnzc",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=UY9H83yQnzc",
+          "publishedOn": "2026-09-24T16:11:47.000Z",
+          "wordCount": null,
+          "title": "BETRAYAL OF SAUDI ARABIA? | Why America Abandoned Saudi Arabia in Its Darkest Hour?",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=ky6jesFvIqY",
           "author": null,
