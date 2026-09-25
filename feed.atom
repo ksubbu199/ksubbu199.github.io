@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-25T11:16:03.455Z</updated>
+    <updated>2026-09-25T16:39:39.601Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Dutch governments builds alternative for Microsoft based on NixOS]]></title>
+        <id>https://news.ycombinator.com/item?id=49841563</id>
+        <link href="https://www.dawo.community/en/"/>
+        <updated>2026-09-25T08:06:49.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.dawo.community/en/
+Comments URL: https://news.ycombinator.com/item?id=49841563
+Points: 781
+# Comments: 442]]></summary>
+        <author>
+            <name>fjfaase</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Pulse: a new trend of CPU shortages]]></title>
         <id>6aab98704a58460001d006e2</id>
@@ -14,6 +27,19 @@
         <summary type="html"><![CDATA[After a GPU shortage and memory shortage driven by AI companies, we’re now experiencing a CPU shortage, thanks to AI agents using a lot more CPU with tool usage.]]></summary>
         <author>
             <name>Ivan Klaric</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why is the liver so weirdly regenerative?]]></title>
+        <id>https://news.ycombinator.com/item?id=49832938</id>
+        <link href="https://dynomight.substack.com/p/liver"/>
+        <updated>2026-09-24T16:23:00.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://dynomight.substack.com/p/liver
+Comments URL: https://news.ycombinator.com/item?id=49832938
+Points: 506
+# Comments: 257]]></summary>
+        <author>
+            <name>jbotz</name>
         </author>
     </entry>
     <entry>
@@ -2866,46 +2892,6 @@ Points: 608
 # Comments: 295]]></summary>
         <author>
             <name>Labo333</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CEO fired developers to make room for AI. Developers create open source AI CEO]]></title>
-        <id>https://news.ycombinator.com/item?id=49458418</id>
-        <link href="https://github.com/SenteLabsAI/OpenExecutive"/>
-        <updated>2026-08-27T01:46:22.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://github.com/SenteLabsAI/OpenExecutive
-Comments URL: https://news.ycombinator.com/item?id=49458418
-Points: 854
-# Comments: 587]]></summary>
-        <author>
-            <name>GrumpySciGuy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nvidia agrees to acquire Hugging Face for $13B]]></title>
-        <id>https://news.ycombinator.com/item?id=49458161</id>
-        <link href="https://www.businessinsider.com/nvidia-in-talks-to-buy-hugging-face-13-billion-dollars-2026-8"/>
-        <updated>2026-08-27T01:12:55.000Z</updated>
-        <summary type="html"><![CDATA[https://www.theinformation.com/articles/nvidia-agrees-buy-op... (paywalled)
-https://techcrunch.com/2026/08/24/hugging-face-reportedly-in...
-Comments URL: https://news.ycombinator.com/item?id=49458161
-Points: 1621
-# Comments: 754]]></summary>
-        <author>
-            <name>mfiguiere</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mechanical Turk shutting down September 30]]></title>
-        <id>https://news.ycombinator.com/item?id=49457545</id>
-        <link href="https://www.mturk.com/"/>
-        <updated>2026-08-26T23:55:44.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.mturk.com/
-Comments URL: https://news.ycombinator.com/item?id=49457545
-Points: 518
-# Comments: 157]]></summary>
-        <author>
-            <name>tmp10423288442</name>
         </author>
     </entry>
     <entry>

@@ -6,6 +6,26 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=49841563",
+          "author": "fjfaase",
+          "description": "Article URL: https://www.dawo.community/en/\nComments URL: https://news.ycombinator.com/item?id=49841563\nPoints: 781\n# Comments: 442",
+          "link": "https://www.dawo.community/en/",
+          "publishedOn": "2026-09-25T08:06:49.000Z",
+          "wordCount": 479,
+          "title": "Dutch governments builds alternative for Microsoft based on NixOS",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=49832938",
+          "author": "jbotz",
+          "description": "Article URL: https://dynomight.substack.com/p/liver\nComments URL: https://news.ycombinator.com/item?id=49832938\nPoints: 506\n# Comments: 257",
+          "link": "https://dynomight.substack.com/p/liver",
+          "publishedOn": "2026-09-24T16:23:00.000Z",
+          "wordCount": null,
+          "title": "Why is the liver so weirdly regenerative?",
+          "imageUrl": null
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=49831968",
           "author": "daveoc64",
           "description": "Article URL: https://f-droid.org/2026/09/24/f-droid-2.0-a-new-chapter-for-android-freedom.html\nComments URL: https://news.ycombinator.com/item?id=49831968\nPoints: 763\n# Comments: 213",
@@ -1833,36 +1853,6 @@
           "publishedOn": "2026-08-27T08:59:49.000Z",
           "wordCount": 14360,
           "title": "Show HN: The load-bearing vocabulary of Claude",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=49458418",
-          "author": "GrumpySciGuy",
-          "description": "Article URL: https://github.com/SenteLabsAI/OpenExecutive\nComments URL: https://news.ycombinator.com/item?id=49458418\nPoints: 854\n# Comments: 587",
-          "link": "https://github.com/SenteLabsAI/OpenExecutive",
-          "publishedOn": "2026-08-27T01:46:22.000Z",
-          "wordCount": 8397,
-          "title": "CEO fired developers to make room for AI. Developers create open source AI CEO",
-          "imageUrl": "https://opengraph.githubassets.com/5d8d88af1762cdc0cfe6485f0fd0d5151ce670b889cb11aa6ab0ee7d46f940b8/SenteLabsAI/OpenExecutive"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=49458161",
-          "author": "mfiguiere",
-          "description": "https://www.theinformation.com/articles/nvidia-agrees-buy-op... (paywalled)\nhttps://techcrunch.com/2026/08/24/hugging-face-reportedly-in...\nComments URL: https://news.ycombinator.com/item?id=49458161\nPoints: 1621\n# Comments: 754",
-          "link": "https://www.businessinsider.com/nvidia-in-talks-to-buy-hugging-face-13-billion-dollars-2026-8",
-          "publishedOn": "2026-08-27T01:12:55.000Z",
-          "wordCount": 4638,
-          "title": "Nvidia agrees to acquire Hugging Face for $13B",
-          "imageUrl": "https://i.insider.com/6a8f6dc43f7df8787cff40f7?width=1200&format=jpeg"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=49457545",
-          "author": "tmp10423288442",
-          "description": "Article URL: https://www.mturk.com/\nComments URL: https://news.ycombinator.com/item?id=49457545\nPoints: 518\n# Comments: 157",
-          "link": "https://www.mturk.com/",
-          "publishedOn": "2026-08-26T23:55:44.000Z",
-          "wordCount": 913,
-          "title": "Mechanical Turk shutting down September 30",
           "imageUrl": null
         }
       ]
