@@ -36,6 +36,16 @@
           "imageUrl": "https://f-droid.org/assets/fdroid-logo_bfHl7nsLHOUQxzdU8-rGIhn4bAgl6z7k2mA3fWoCyT4=.png"
         },
         {
+          "id": "https://news.ycombinator.com/item?id=49828731",
+          "author": "ReturnoftheHack",
+          "description": "Article URL: https://macanorak.com/two-tier-encryption-in-the-uk/\nComments URL: https://news.ycombinator.com/item?id=49828731\nPoints: 500\n# Comments: 458",
+          "link": "https://macanorak.com/two-tier-encryption-in-the-uk/",
+          "publishedOn": "2026-09-24T10:39:19.000Z",
+          "wordCount": null,
+          "title": "Two-tier encryption in the UK",
+          "imageUrl": null
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=49827794",
           "author": "pieterr",
           "description": "Article URL: https://www.reddit.com/r/facebook/comments/1wotwrk/meta_takes_down_a_critical_video_about_meta_ai/\nComments URL: https://news.ycombinator.com/item?id=49827794\nPoints: 566\n# Comments: 338",
@@ -1824,36 +1834,6 @@
           "wordCount": 178,
           "title": "Trade (and Tariffs)",
           "imageUrl": "https://imgs.xkcd.com/comics/trade_2x.png"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=49462763",
-          "author": "robotswantdata",
-          "description": "Article URL: https://pollen-robotics.com/microduck/\nComments URL: https://news.ycombinator.com/item?id=49462763\nPoints: 502\n# Comments: 182",
-          "link": "https://pollen-robotics.com/microduck/",
-          "publishedOn": "2026-08-27T10:57:56.000Z",
-          "wordCount": 8015,
-          "title": "Microduck",
-          "imageUrl": "https://pollen-robotics.com/assets/og/og-microduck-squad-v2.jpg"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=49462253",
-          "author": "leumon",
-          "description": "It seems like the PayPal app now refuses to run on GrapheneOS. I don't know if it's only because I have enabled the PayPal card for contacless NFC payments, but when opening the app it crashes with the following exception: com.paypal.oslo.app.rasp.RootDetectionSecurityException: Security policy violation: s=root\nComments URL: https://news.ycombinator.com/item?id=49462253\nPoints: 500\n# Comments: 323",
-          "link": "https://news.ycombinator.com/item?id=49462253",
-          "publishedOn": "2026-08-27T09:56:54.000Z",
-          "wordCount": null,
-          "title": "Tell HN: PayPal blocks GrapheneOS",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=49461817",
-          "author": "Labo333",
-          "description": "Article URL: https://louisabraham.github.io/load-bearing/\nComments URL: https://news.ycombinator.com/item?id=49461817\nPoints: 608\n# Comments: 295",
-          "link": "https://louisabraham.github.io/load-bearing/",
-          "publishedOn": "2026-08-27T08:59:49.000Z",
-          "wordCount": 14360,
-          "title": "Show HN: The load-bearing vocabulary of Claude",
-          "imageUrl": null
         }
       ]
     },
@@ -2173,16 +2153,6 @@
           "publishedOn": "2026-08-27T18:04:54.000Z",
           "wordCount": 2580,
           "title": "The Pulse: We need to talk about migrations with AI",
-          "imageUrl": null
-        },
-        {
-          "id": "6a900187f1788f0001c465cd",
-          "author": "Gergely Orosz",
-          "description": "This email is a response to the 50+ podcast pitches that arrived in my inbox just last month, and keep arriving in growing numbers, from PR agencies and marketing teams at various companies. It's also a message to tech founders building stuff for developers: focus on building something",
-          "link": "https://blog.pragmaticengineer.com/why-youre-not-getting-a-response-to-your-podcast-pitch-from-me-or-others/",
-          "publishedOn": "2026-08-27T09:59:13.000Z",
-          "wordCount": 1707,
-          "title": "Why you're not getting a response to your podcast pitch from me (or others)",
           "imageUrl": null
         }
       ]

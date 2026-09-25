@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-25T20:16:59.461Z</updated>
+    <updated>2026-09-25T23:51:08.497Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -90,6 +90,19 @@ Points: 763
 more…]]></summary>
         <author>
             <name>Martin Fowler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Two-tier encryption in the UK]]></title>
+        <id>https://news.ycombinator.com/item?id=49828731</id>
+        <link href="https://macanorak.com/two-tier-encryption-in-the-uk/"/>
+        <updated>2026-09-24T10:39:19.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://macanorak.com/two-tier-encryption-in-the-uk/
+Comments URL: https://news.ycombinator.com/item?id=49828731
+Points: 500
+# Comments: 458]]></summary>
+        <author>
+            <name>ReturnoftheHack</name>
         </author>
     </entry>
     <entry>
@@ -2843,55 +2856,6 @@ Points: 525
 more…]]></summary>
         <author>
             <name>Martin Fowler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microduck]]></title>
-        <id>https://news.ycombinator.com/item?id=49462763</id>
-        <link href="https://pollen-robotics.com/microduck/"/>
-        <updated>2026-08-27T10:57:56.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://pollen-robotics.com/microduck/
-Comments URL: https://news.ycombinator.com/item?id=49462763
-Points: 502
-# Comments: 182]]></summary>
-        <author>
-            <name>robotswantdata</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why you're not getting a response to your podcast pitch from me (or others)]]></title>
-        <id>6a900187f1788f0001c465cd</id>
-        <link href="https://blog.pragmaticengineer.com/why-youre-not-getting-a-response-to-your-podcast-pitch-from-me-or-others/"/>
-        <updated>2026-08-27T09:59:13.000Z</updated>
-        <summary type="html"><![CDATA[This email is a response to the 50+ podcast pitches that arrived in my inbox just last month, and keep arriving in growing numbers, from PR agencies and marketing teams at various companies. It's also a message to tech founders building stuff for developers: focus on building something]]></summary>
-        <author>
-            <name>Gergely Orosz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tell HN: PayPal blocks GrapheneOS]]></title>
-        <id>https://news.ycombinator.com/item?id=49462253</id>
-        <link href="https://news.ycombinator.com/item?id=49462253"/>
-        <updated>2026-08-27T09:56:54.000Z</updated>
-        <summary type="html"><![CDATA[It seems like the PayPal app now refuses to run on GrapheneOS. I don't know if it's only because I have enabled the PayPal card for contacless NFC payments, but when opening the app it crashes with the following exception: com.paypal.oslo.app.rasp.RootDetectionSecurityException: Security policy violation: s=root
-Comments URL: https://news.ycombinator.com/item?id=49462253
-Points: 500
-# Comments: 323]]></summary>
-        <author>
-            <name>leumon</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: The load-bearing vocabulary of Claude]]></title>
-        <id>https://news.ycombinator.com/item?id=49461817</id>
-        <link href="https://louisabraham.github.io/load-bearing/"/>
-        <updated>2026-08-27T08:59:49.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://louisabraham.github.io/load-bearing/
-Comments URL: https://news.ycombinator.com/item?id=49461817
-Points: 608
-# Comments: 295]]></summary>
-        <author>
-            <name>Labo333</name>
         </author>
     </entry>
     <entry>
