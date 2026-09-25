@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-25T00:27:35.183Z</updated>
+    <updated>2026-09-25T05:52:34.023Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -77,6 +77,19 @@ Points: 566
 # Comments: 338]]></summary>
         <author>
             <name>pieterr</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Make cursed fonts like Times New Bastard]]></title>
+        <id>https://news.ycombinator.com/item?id=49823738</id>
+        <link href="https://bastardica.mitpit.com/"/>
+        <updated>2026-09-23T22:53:28.000Z</updated>
+        <summary type="html"><![CDATA[A joke tool that abuses OpenType's ligature feature to mix fonts. It works pretty fast on client-side by loading Python in WASM.
+Comments URL: https://news.ycombinator.com/item?id=49823738
+Points: 575
+# Comments: 80]]></summary>
+        <author>
+            <name>MitPitt</name>
         </author>
     </entry>
     <entry>
@@ -2893,110 +2906,6 @@ Points: 518
 # Comments: 157]]></summary>
         <author>
             <name>tmp10423288442</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tailcat – Like netcat, but over Tailscale’s data plane]]></title>
-        <id>https://news.ycombinator.com/item?id=49452990</id>
-        <link href="https://github.com/tailscale/tailcat"/>
-        <updated>2026-08-26T17:42:22.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://github.com/tailscale/tailcat
-Comments URL: https://news.ycombinator.com/item?id=49452990
-Points: 505
-# Comments: 94]]></summary>
-        <author>
-            <name>nderjung</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[U.S. State Department pauses immigrant visa applications]]></title>
-        <id>https://news.ycombinator.com/item?id=49452709</id>
-        <link href="https://www.wsj.com/politics/policy/u-s-state-department-pauses-immigrant-visa-applications-25b31b23"/>
-        <updated>2026-08-26T17:22:16.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.wsj.com/politics/policy/u-s-state-department-pauses-immigrant-visa-applications-25b31b23
-Comments URL: https://news.ycombinator.com/item?id=49452709
-Points: 748
-# Comments: 1134]]></summary>
-        <author>
-            <name>sss111</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tim Curry has died]]></title>
-        <id>https://news.ycombinator.com/item?id=49451448</id>
-        <link href="https://www.theguardian.com/film/2026/aug/26/tim-curry-dies-rocky-horror-show-stephen-king-it-legend-film"/>
-        <updated>2026-08-26T16:03:37.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.theguardian.com/film/2026/aug/26/tim-curry-dies-rocky-horror-show-stephen-king-it-legend-film
-Comments URL: https://news.ycombinator.com/item?id=49451448
-Points: 522
-# Comments: 184]]></summary>
-        <author>
-            <name>mykowebhn</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Twitter Viewer – View Twitter Without Account]]></title>
-        <id>https://news.ycombinator.com/item?id=49449576</id>
-        <link href="https://twitterwebviewer.com/"/>
-        <updated>2026-08-26T14:11:39.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://twitterwebviewer.com/
-Comments URL: https://news.ycombinator.com/item?id=49449576
-Points: 547
-# Comments: 346]]></summary>
-        <author>
-            <name>motownphilly</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GLM-5.3-Flash]]></title>
-        <id>https://news.ycombinator.com/item?id=49449507</id>
-        <link href="https://z.ai/blog/glm-5.3-flash"/>
-        <updated>2026-08-26T14:08:50.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://z.ai/blog/glm-5.3-flash
-Comments URL: https://news.ycombinator.com/item?id=49449507
-Points: 594
-# Comments: 278]]></summary>
-        <author>
-            <name>Philpax</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meta reaches $17B settlement over social media harms to children]]></title>
-        <id>https://news.ycombinator.com/item?id=49448819</id>
-        <link href="https://www.reuters.com/world/us/meta-settles-with-us-states-over-social-media-harms-2026-08-26/"/>
-        <updated>2026-08-26T13:28:32.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.reuters.com/world/us/meta-settles-with-us-states-over-social-media-harms-2026-08-26/
-Comments URL: https://news.ycombinator.com/item?id=49448819
-Points: 524
-# Comments: 522]]></summary>
-        <author>
-            <name>bhouston</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS Acquires DuckDB]]></title>
-        <id>https://news.ycombinator.com/item?id=49448321</id>
-        <link href="https://ducklabs.com/news/2026/08/26/ducklabs-to-join-aws"/>
-        <updated>2026-08-26T12:59:26.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://ducklabs.com/news/2026/08/26/ducklabs-to-join-aws
-Comments URL: https://news.ycombinator.com/item?id=49448321
-Points: 602
-# Comments: 152]]></summary>
-        <author>
-            <name>onderkalaci</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Qwen3.8-Flash-Next]]></title>
-        <id>https://news.ycombinator.com/item?id=49448210</id>
-        <link href="https://qwen.ai/blog?id=qwen3.8-flash-next"/>
-        <updated>2026-08-26T12:52:12.000Z</updated>
-        <summary type="html"><![CDATA[https://imageat.com/models/qwen-3-8-27b-uncensored
-Comments URL: https://news.ycombinator.com/item?id=49448210
-Points: 589
-# Comments: 192]]></summary>
-        <author>
-            <name>tosh</name>
         </author>
     </entry>
     <entry>

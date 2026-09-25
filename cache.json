@@ -26,6 +26,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://news.ycombinator.com/item?id=49823738",
+          "author": "MitPitt",
+          "description": "A joke tool that abuses OpenType's ligature feature to mix fonts. It works pretty fast on client-side by loading Python in WASM.\nComments URL: https://news.ycombinator.com/item?id=49823738\nPoints: 575\n# Comments: 80",
+          "link": "https://bastardica.mitpit.com/",
+          "publishedOn": "2026-09-23T22:53:28.000Z",
+          "wordCount": 262,
+          "title": "Show HN: Make cursed fonts like Times New Bastard",
+          "imageUrl": "https://bastardica.mitpit.com/scr2.png"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=49823582",
           "author": "aaronday",
           "description": "Article URL: https://www.qualcomm.com/news/onq/2026/09/snapdragon-summit-agentic-ai-pcs-linux\nComments URL: https://news.ycombinator.com/item?id=49823582\nPoints: 576\n# Comments: 244",
@@ -1854,86 +1864,6 @@
           "wordCount": 913,
           "title": "Mechanical Turk shutting down September 30",
           "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=49452990",
-          "author": "nderjung",
-          "description": "Article URL: https://github.com/tailscale/tailcat\nComments URL: https://news.ycombinator.com/item?id=49452990\nPoints: 505\n# Comments: 94",
-          "link": "https://github.com/tailscale/tailcat",
-          "publishedOn": "2026-08-26T17:42:22.000Z",
-          "wordCount": 7967,
-          "title": "Tailcat – Like netcat, but over Tailscale’s data plane",
-          "imageUrl": "https://opengraph.githubassets.com/7dadb48fa1fb82727ce818ca6dd58fafc89bcd0a9e37b9117f6ded2460f64395/tailscale/tailcat"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=49452709",
-          "author": "sss111",
-          "description": "Article URL: https://www.wsj.com/politics/policy/u-s-state-department-pauses-immigrant-visa-applications-25b31b23\nComments URL: https://news.ycombinator.com/item?id=49452709\nPoints: 748\n# Comments: 1134",
-          "link": "https://www.wsj.com/politics/policy/u-s-state-department-pauses-immigrant-visa-applications-25b31b23",
-          "publishedOn": "2026-08-26T17:22:16.000Z",
-          "wordCount": null,
-          "title": "U.S. State Department pauses immigrant visa applications",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=49451448",
-          "author": "mykowebhn",
-          "description": "Article URL: https://www.theguardian.com/film/2026/aug/26/tim-curry-dies-rocky-horror-show-stephen-king-it-legend-film\nComments URL: https://news.ycombinator.com/item?id=49451448\nPoints: 522\n# Comments: 184",
-          "link": "https://www.theguardian.com/film/2026/aug/26/tim-curry-dies-rocky-horror-show-stephen-king-it-legend-film",
-          "publishedOn": "2026-08-26T16:03:37.000Z",
-          "wordCount": 4705,
-          "title": "Tim Curry has died",
-          "imageUrl": "https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pictures/2015/11/10/1447180876442/d3b4806e-2803-42bb-8aec-690e08e5c939-2060x1236.jpeg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b04bfdbe488cdc524bb7fbaefc4933be"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=49449576",
-          "author": "motownphilly",
-          "description": "Article URL: https://twitterwebviewer.com/\nComments URL: https://news.ycombinator.com/item?id=49449576\nPoints: 547\n# Comments: 346",
-          "link": "https://twitterwebviewer.com/",
-          "publishedOn": "2026-08-26T14:11:39.000Z",
-          "wordCount": null,
-          "title": "Twitter Viewer – View Twitter Without Account",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=49449507",
-          "author": "Philpax",
-          "description": "Article URL: https://z.ai/blog/glm-5.3-flash\nComments URL: https://news.ycombinator.com/item?id=49449507\nPoints: 594\n# Comments: 278",
-          "link": "https://z.ai/blog/glm-5.3-flash",
-          "publishedOn": "2026-08-26T14:08:50.000Z",
-          "wordCount": 2,
-          "title": "GLM-5.3-Flash",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=49448819",
-          "author": "bhouston",
-          "description": "Article URL: https://www.reuters.com/world/us/meta-settles-with-us-states-over-social-media-harms-2026-08-26/\nComments URL: https://news.ycombinator.com/item?id=49448819\nPoints: 524\n# Comments: 522",
-          "link": "https://www.reuters.com/world/us/meta-settles-with-us-states-over-social-media-harms-2026-08-26/",
-          "publishedOn": "2026-08-26T13:28:32.000Z",
-          "wordCount": null,
-          "title": "Meta reaches $17B settlement over social media harms to children",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=49448321",
-          "author": "onderkalaci",
-          "description": "Article URL: https://ducklabs.com/news/2026/08/26/ducklabs-to-join-aws\nComments URL: https://news.ycombinator.com/item?id=49448321\nPoints: 602\n# Comments: 152",
-          "link": "https://ducklabs.com/news/2026/08/26/ducklabs-to-join-aws",
-          "publishedOn": "2026-08-26T12:59:26.000Z",
-          "wordCount": 1680,
-          "title": "AWS Acquires DuckDB",
-          "imageUrl": "https://ducklabs.com/img/blog/ducklabs-aws-blog.png"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=49448210",
-          "author": "tosh",
-          "description": "https://imageat.com/models/qwen-3-8-27b-uncensored\nComments URL: https://news.ycombinator.com/item?id=49448210\nPoints: 589\n# Comments: 192",
-          "link": "https://qwen.ai/blog?id=qwen3.8-flash-next",
-          "publishedOn": "2026-08-26T12:52:12.000Z",
-          "wordCount": 592,
-          "title": "Qwen3.8-Flash-Next",
-          "imageUrl": "https://img.alicdn.com/imgextra/i4/O1CN01OXv3EM1FN8t9W4P79_!!6000000000474-2-tps-80-80.png"
         }
       ]
     },
