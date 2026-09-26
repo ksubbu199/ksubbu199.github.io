@@ -2,10 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-26T09:10:00.056Z</updated>
+    <updated>2026-09-26T14:09:24.154Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Revealing the details of how OpenAI agents hacked Hugging Face]]></title>
+        <id>https://news.ycombinator.com/item?id=49849985</id>
+        <link href="https://swarmtraces.org/"/>
+        <updated>2026-09-25T21:09:27.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://swarmtraces.org/
+Comments URL: https://news.ycombinator.com/item?id=49849985
+Points: 557
+# Comments: 350]]></summary>
+        <author>
+            <name>specked-citrus</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ollaya – Ollama for open-source, Jev-style decision models]]></title>
+        <id>https://news.ycombinator.com/item?id=49848269</id>
+        <link href="https://ollaya.dev/"/>
+        <updated>2026-09-25T18:33:50.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://ollaya.dev/
+Comments URL: https://news.ycombinator.com/item?id=49848269
+Points: 505
+# Comments: 126]]></summary>
+        <author>
+            <name>Ardakilic</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Dutch governments builds alternative for Microsoft based on NixOS]]></title>
         <id>https://news.ycombinator.com/item?id=49841563</id>
@@ -2764,20 +2790,6 @@ Points: 500
 # Comments: 150]]></summary>
         <author>
             <name>miniBill</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Judge rules Trump administration’s blacklisting of Anthropic was illegal]]></title>
-        <id>https://news.ycombinator.com/item?id=49473522</id>
-        <link href="https://www.nytimes.com/2026/08/27/technology/anthropic-government-blacklisting-ruling.html"/>
-        <updated>2026-08-28T02:03:38.000Z</updated>
-        <summary type="html"><![CDATA[https://archive.ph/ni6I3
-https://storage.courtlistener.com/recap/gov.uscourts.cand.46...
-Comments URL: https://news.ycombinator.com/item?id=49473522
-Points: 566
-# Comments: 412]]></summary>
-        <author>
-            <name>jbegley</name>
         </author>
     </entry>
     <entry>
