@@ -1875,7 +1875,18 @@
       "title": "Julia Evans",
       "feedUrl": "https://jvns.ca/atom.xml",
       "siteUrl": "https://jvns.ca/atom.xml",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://jvns.ca/blog/2026/09/27/replacing-the-old-battery-on-rechargeable-bike-lights/",
+          "author": null,
+          "description": "Hello! Recently I needed bike lights for my bike. And I remembered that I\nalready had rechargeable bike lights that I bought ten years ago, that I hadn’t\ntried in a long time. I tried to recharge them, but after fully charging them,\nthey only worked for maybe 5 minutes before they turned off again.\nI don’t know much about electronics, but I’ve been curious about whether it’s\npossible to fix old electronics for a long time, and this seemed like the\nperfect repair project because I might just need to replace the battery.\nSo I went to the local queer makerspace where I’m a member to use the soldering\niron and try to do it! I don’t know much about electronics and this post does\nnot contain any safety advice because I don’t know much about safety.\nI think it’s nice to do projects in a community…",
+          "link": "https://jvns.ca/blog/2026/09/27/replacing-the-old-battery-on-rechargeable-bike-lights/",
+          "publishedOn": "2026-09-27T00:00:00.000Z",
+          "wordCount": 1222,
+          "title": "Replacing the old battery on rechargeable bike lights",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "Martin Fowler",

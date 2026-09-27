@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-27T12:47:25.971Z</updated>
+    <updated>2026-09-27T17:32:09.028Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Replacing the old battery on rechargeable bike lights]]></title>
+        <id>https://jvns.ca/blog/2026/09/27/replacing-the-old-battery-on-rechargeable-bike-lights/</id>
+        <link href="https://jvns.ca/blog/2026/09/27/replacing-the-old-battery-on-rechargeable-bike-lights/"/>
+        <updated>2026-09-27T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Hello! Recently I needed bike lights for my bike. And I remembered that I
+already had rechargeable bike lights that I bought ten years ago, that I hadn’t
+tried in a long time. I tried to recharge them, but after fully charging them,
+they only worked for maybe 5 minutes before they turned off again.
+I don’t know much about electronics, but I’ve been curious about whether it’s
+possible to fix old electronics for a long time, and this seemed like the
+perfect repair project because I might just need to replace the battery.
+So I went to the local queer makerspace where I’m a member to use the soldering
+iron and try to do it! I don’t know much about electronics and this post does
+not contain any safety advice because I don’t know much about safety.
+I think it’s nice to do projects in a community…]]></summary>
+        <author>
+            <name>Julia Evans</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[I'm the mom in that viral Giants clip. Let me tell you about my husband]]></title>
         <id>https://news.ycombinator.com/item?id=49857899</id>
