@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=49872723",
+          "author": "Eric_Gullichsen",
+          "description": "Article URL: https://colo.to/nvidia-stock-narrative.html\nComments URL: https://news.ycombinator.com/item?id=49872723\nPoints: 1010\n# Comments: 425",
+          "link": "https://colo.to/nvidia-stock-narrative.html",
+          "publishedOn": "2026-09-28T02:05:13.000Z",
+          "wordCount": 1122,
+          "title": "Owed a billion dollars in Nvidia stock",
+          "imageUrl": null
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=49870367",
           "author": "sancho-panza",
           "description": "Article URL: https://sancho.bearblog.dev/google-weird/\nComments URL: https://news.ycombinator.com/item?id=49870367\nPoints: 564\n# Comments: 302",
@@ -14,6 +24,16 @@
           "wordCount": 1301,
           "title": "When did Google get so weird?",
           "imageUrl": "/static/og-image.png"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=49868830",
+          "author": "gmays",
+          "description": "Article URL: https://fireworks.ai/blog/ember-1\nComments URL: https://news.ycombinator.com/item?id=49868830\nPoints: 564\n# Comments: 241",
+          "link": "https://fireworks.ai/blog/ember-1",
+          "publishedOn": "2026-09-27T17:31:53.000Z",
+          "wordCount": 7018,
+          "title": "Ember-1",
+          "imageUrl": "https://fireworks.ai/images/OpenGraph.png"
         },
         {
           "id": "https://news.ycombinator.com/item?id=49863864",
@@ -64,6 +84,16 @@
           "wordCount": 876,
           "title": "Ollaya – Ollama for open-source, Jev-style decision models",
           "imageUrl": "https://ollaya.dev/static/og.png?v=7bd2eae221"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=49844657",
+          "author": "silveraxe93",
+          "description": "Article URL: https://www.astralcodexten.com/p/does-georgism-work-five-years-later\nComments URL: https://news.ycombinator.com/item?id=49844657\nPoints: 504\n# Comments: 502",
+          "link": "https://www.astralcodexten.com/p/does-georgism-work-five-years-later",
+          "publishedOn": "2026-09-25T13:48:38.000Z",
+          "wordCount": 20443,
+          "title": "Does Georgism work? Five years later",
+          "imageUrl": "https://substackcdn.com/image/fetch/$s_!exwi!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc40c781e-9ade-4737-9d3e-2fb83913a579_1018x511.jpeg"
         },
         {
           "id": "https://news.ycombinator.com/item?id=49841563",
@@ -1734,26 +1764,6 @@
           "wordCount": 857,
           "title": "Omarchy: Any User Process Can Escalate to Root",
           "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=49495372",
-          "author": "shscs911",
-          "description": "Article URL: https://www.tomshardware.com/software/linux/california-lawmakers-unanimously-pass-linux-exemption-from-age-verification-law-software-distributed-under-the-gpl-mit-bsd-and-apache-licenses-are-exempt\nComments URL: https://news.ycombinator.com/item?id=49495372\nPoints: 613\n# Comments: 292",
-          "link": "https://www.tomshardware.com/software/linux/california-lawmakers-unanimously-pass-linux-exemption-from-age-verification-law-software-distributed-under-the-gpl-mit-bsd-and-apache-licenses-are-exempt",
-          "publishedOn": "2026-08-30T03:15:36.000Z",
-          "wordCount": 56967,
-          "title": "California lawmakers unanimously pass Linux exemption from age-verification law",
-          "imageUrl": "https://cdn.mos.cms.futurecdn.net/G9dtD87HfBhVHzDmSHE2tE-1920-80.jpg"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=49491791",
-          "author": "zdw",
-          "description": "Article URL: https://people.kernel.org/monsieuricon/creepy-crawlies\nComments URL: https://news.ycombinator.com/item?id=49491791\nPoints: 607\n# Comments: 303",
-          "link": "https://people.kernel.org/monsieuricon/creepy-crawlies",
-          "publishedOn": "2026-08-29T17:49:01.000Z",
-          "wordCount": 1801,
-          "title": "Creepy Crawlies",
-          "imageUrl": "https://kaoti.ca/graphs/fig2-urlspace.png"
         }
       ]
     },
