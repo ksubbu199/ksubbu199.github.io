@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-28T18:29:09.608Z</updated>
+    <updated>2026-09-28T23:43:57.527Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Sonnet 5.5]]></title>
+        <id>https://news.ycombinator.com/item?id=49881850</id>
+        <link href="https://www.anthropic.com/claude-sonnet-5-5"/>
+        <updated>2026-09-28T17:58:11.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.anthropic.com/claude-sonnet-5-5
+Comments URL: https://news.ycombinator.com/item?id=49881850
+Points: 519
+# Comments: 348]]></summary>
+        <author>
+            <name>D2OQZG8l5BI1S06</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Owed a billion dollars in Nvidia stock]]></title>
         <id>https://news.ycombinator.com/item?id=49872723</id>
@@ -141,6 +154,19 @@ Points: 504
 # Comments: 502]]></summary>
         <author>
             <name>silveraxe93</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PipePipe: NewPipe hard fork implementing SponsorBlock]]></title>
+        <id>https://news.ycombinator.com/item?id=49842764</id>
+        <link href="https://github.com/InfinityLoop1308/PipePipe"/>
+        <updated>2026-09-25T10:55:40.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://github.com/InfinityLoop1308/PipePipe
+Comments URL: https://news.ycombinator.com/item?id=49842764
+Points: 501
+# Comments: 285]]></summary>
+        <author>
+            <name>Qision</name>
         </author>
     </entry>
     <entry>
@@ -2716,25 +2742,6 @@ Points: 501
         <link href="https://www.youtube.com/shorts/XQGm-aFx7WM"/>
         <updated>2026-08-30T11:47:42.000Z</updated>
         <summary type="html"><![CDATA[In this Short, Saad Khaja reveals why cold calling is one of the best ways to get a job. He explains how a well-researched cold call can help you connect wit...]]></summary>
-        <author>
-            <name>Think School</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why Do Indians Hate Salespeople? Ft. Saad Khaja]]></title>
-        <id>https://www.youtube.com/shorts/gHuwSWBV0qA</id>
-        <link href="https://www.youtube.com/shorts/gHuwSWBV0qA"/>
-        <updated>2026-08-30T06:55:57.000Z</updated>
-        <summary type="html"><![CDATA[In this YouTube Short, Saad Khaja explains why salespeople are often perceived negatively in India and reveals what most people misunderstand about sales.He ...]]></summary>
-        <author>
-            <name>Think School</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to SELL ANYTHING to ANYONE? | The Cold Calling Masterclass | Saad Khaja]]></title>
-        <id>https://www.youtube.com/watch?v=BZv_N4I_THQ</id>
-        <link href="https://www.youtube.com/watch?v=BZv_N4I_THQ"/>
-        <updated>2026-08-30T06:50:41.000Z</updated>
         <author>
             <name>Think School</name>
         </author>
