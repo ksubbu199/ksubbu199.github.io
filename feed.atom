@@ -2,10 +2,70 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-29T11:08:31.291Z</updated>
+    <updated>2026-09-29T17:43:31.145Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[TATA’S BIGGEST GAMBLE | How Jaguar Land Rover Became a Global Success Story]]></title>
+        <id>https://www.youtube.com/watch?v=eUCXN_4w7dI</id>
+        <link href="https://www.youtube.com/watch?v=eUCXN_4w7dI"/>
+        <updated>2026-09-29T14:04:09.000Z</updated>
+        <author>
+            <name>Think School</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bliki: Sensible Default]]></title>
+        <id>https://martinfowler.com/bliki/SensibleDefault.html</id>
+        <link href="https://martinfowler.com/bliki/SensibleDefault.html"/>
+        <updated>2026-09-29T13:43:00.000Z</updated>
+        <summary type="html"><![CDATA[A Sensible Default is a practice that, absent some overriding context,
+  should be used when carrying out a certain kind of task. In software
+  development such sensible defaults might include things like “use version
+  control”, “separate UI logic from domain logic”, “automate deployment
+  pipelines”.
+The term “sensible default” is a deliberate contrast to “best practice”.
+  Folks dislike calling things “best practice” because that term implies a
+  general presumption that the best practice is something we should always
+  expect to do. A “sensible default”, however, is something that should be
+  reassessed in a new context, something that can (and should) be overridden
+  when circumstances change.
+I first heard the term when it was popularized within Thoughtworks by Evan
+  Bottcher. He go…]]></summary>
+        <author>
+            <name>Martin Fowler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fragments: September 29]]></title>
+        <id>https://martinfowler.com/fragments/2026-09-29.html</id>
+        <link href="https://martinfowler.com/fragments/2026-09-29.html"/>
+        <updated>2026-09-29T12:41:00.000Z</updated>
+        <summary type="html"><![CDATA[Simon Willison:
+The more time I spend working with coding agents, the more convinced I am that they make software engineering even harder
+We can do amazing things with them, but unlocking their full potential requires extraordinary discipline and knowledge
+This has been a constant impression I get from following Willison’s writing. While things like vibe coding get a lot of attention, the real strength of agentic programming relies on more sophisticated techniques - and these are not easy to learn or execute. It’s a reason I’m wary of extrapolating my own dabblings into firm opinions about how to use the genie.
+ ❄                ❄                ❄                ❄                ❄
+Harper Reed explored what turns agents into hackers by creating a breakaway agent
+It ran and ran attacking all…]]></summary>
+        <author>
+            <name>Martin Fowler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[You are no longer invited to dinner]]></title>
+        <id>https://news.ycombinator.com/item?id=49891295</id>
+        <link href="https://www.derekthompson.org/p/the-death-of-the-american-host"/>
+        <updated>2026-09-29T11:14:45.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.derekthompson.org/p/the-death-of-the-american-host
+Comments URL: https://news.ycombinator.com/item?id=49891295
+Points: 557
+# Comments: 487]]></summary>
+        <author>
+            <name>barry-cotter</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Jeff – Jev-compatible 0.8B decision models, trained at home, ~30 ms]]></title>
         <id>https://news.ycombinator.com/item?id=49883844</id>
@@ -43,6 +103,19 @@ Points: 519
 # Comments: 348]]></summary>
         <author>
             <name>D2OQZG8l5BI1S06</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Windows 11½]]></title>
+        <id>https://news.ycombinator.com/item?id=49881747</id>
+        <link href="https://definitelynotwindows.com/"/>
+        <updated>2026-09-28T17:51:24.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://definitelynotwindows.com/
+Comments URL: https://news.ycombinator.com/item?id=49881747
+Points: 508
+# Comments: 169]]></summary>
+        <author>
+            <name>jjbinx007</name>
         </author>
     </entry>
     <entry>

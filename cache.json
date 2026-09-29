@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=49891295",
+          "author": "barry-cotter",
+          "description": "Article URL: https://www.derekthompson.org/p/the-death-of-the-american-host\nComments URL: https://news.ycombinator.com/item?id=49891295\nPoints: 557\n# Comments: 487",
+          "link": "https://www.derekthompson.org/p/the-death-of-the-american-host",
+          "publishedOn": "2026-09-29T11:14:45.000Z",
+          "wordCount": 7214,
+          "title": "You are no longer invited to dinner",
+          "imageUrl": "https://substackcdn.com/image/fetch/$s_!Hczb!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fefc21223-6d44-45bb-84be-7a80c50acc8a_2014x1332.png"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=49883844",
           "author": "firelex",
           "description": "Article URL: https://github.com/firelex/jeff\nComments URL: https://news.ycombinator.com/item?id=49883844\nPoints: 506\n# Comments: 192",
@@ -34,6 +44,16 @@
           "wordCount": 5997,
           "title": "Sonnet 5.5",
           "imageUrl": "https://www-cdn.anthropic.com/images/4zrzovbb/website/eaa6046f4ae8c88e368c3c530c4c1312f7ff6f2e-1200x630.jpg"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=49881747",
+          "author": "jjbinx007",
+          "description": "Article URL: https://definitelynotwindows.com/\nComments URL: https://news.ycombinator.com/item?id=49881747\nPoints: 508\n# Comments: 169",
+          "link": "https://definitelynotwindows.com/",
+          "publishedOn": "2026-09-28T17:51:24.000Z",
+          "wordCount": 19932,
+          "title": "Windows 11½",
+          "imageUrl": "https://definitelynotwindows.com/social-preview.png"
         },
         {
           "id": "https://news.ycombinator.com/item?id=49880036",
@@ -1934,6 +1954,26 @@
       "siteUrl": "https://martinfowler.com/feed.atom",
       "articles": [
         {
+          "id": "https://martinfowler.com/bliki/SensibleDefault.html",
+          "author": null,
+          "description": "A Sensible Default is a practice that, absent some overriding context,\n  should be used when carrying out a certain kind of task. In software\n  development such sensible defaults might include things like “use version\n  control”, “separate UI logic from domain logic”, “automate deployment\n  pipelines”.\nThe term “sensible default” is a deliberate contrast to “best practice”.\n  Folks dislike calling things “best practice” because that term implies a\n  general presumption that the best practice is something we should always\n  expect to do. A “sensible default”, however, is something that should be\n  reassessed in a new context, something that can (and should) be overridden\n  when circumstances change.\nI first heard the term when it was popularized within Thoughtworks by Evan\n  Bottcher. He go…",
+          "link": "https://martinfowler.com/bliki/SensibleDefault.html",
+          "publishedOn": "2026-09-29T13:43:00.000Z",
+          "wordCount": 441,
+          "title": "Bliki: Sensible Default",
+          "imageUrl": "https://martinfowler.com/logo-sq.png"
+        },
+        {
+          "id": "https://martinfowler.com/fragments/2026-09-29.html",
+          "author": null,
+          "description": "Simon Willison:\nThe more time I spend working with coding agents, the more convinced I am that they make software engineering even harder\nWe can do amazing things with them, but unlocking their full potential requires extraordinary discipline and knowledge\nThis has been a constant impression I get from following Willison’s writing. While things like vibe coding get a lot of attention, the real strength of agentic programming relies on more sophisticated techniques - and these are not easy to learn or execute. It’s a reason I’m wary of extrapolating my own dabblings into firm opinions about how to use the genie.\n ❄                ❄                ❄                ❄                ❄\nHarper Reed explored what turns agents into hackers by creating a breakaway agent\nIt ran and ran attacking all…",
+          "link": "https://martinfowler.com/fragments/2026-09-29.html",
+          "publishedOn": "2026-09-29T12:41:00.000Z",
+          "wordCount": 1019,
+          "title": "Fragments: September 29",
+          "imageUrl": "https://martinfowler.com/fragments/fragments-thumb.png"
+        },
+        {
           "id": "https://martinfowler.com/fragments/2026-09-24.html",
           "author": null,
           "description": "Rob Bowley is “flipping tables in his head” with anger at the current media coverage of the danger of AI killing us all\nThe risk I’m worried about isn’t a future machine deciding to wipe us out. It’s today’s AI, being wired into everything, carelessly and fast.\nCyber attacks have already cost millions of dollars in lost economic output, often without AI being involved at all. Bowley feels the push to slow down AI is distracting us from the problems that are lurking with current technology. Too often agents are deployed in situations where they include the Lethal Trifecta, opening up a gaping security hole.\nWhat we really need to slow down on is wiring it all up to everything. Not because of what the models might become, but because nobody has worked out how to do this safely yet. We are bu…",
@@ -2113,6 +2153,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKZozRVHRYsYHGEyNKuhhdA",
       "siteUrl": "https://www.youtube.com/channel/UCKZozRVHRYsYHGEyNKuhhdA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=eUCXN_4w7dI",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=eUCXN_4w7dI",
+          "publishedOn": "2026-09-29T14:04:09.000Z",
+          "wordCount": null,
+          "title": "TATA’S BIGGEST GAMBLE | How Jaguar Land Rover Became a Global Success Story",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=UY9H83yQnzc",
           "author": null,
