@@ -2,10 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-29T04:29:40.385Z</updated>
+    <updated>2026-09-29T11:08:31.291Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Jeff – Jev-compatible 0.8B decision models, trained at home, ~30 ms]]></title>
+        <id>https://news.ycombinator.com/item?id=49883844</id>
+        <link href="https://github.com/firelex/jeff"/>
+        <updated>2026-09-28T20:23:36.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://github.com/firelex/jeff
+Comments URL: https://news.ycombinator.com/item?id=49883844
+Points: 506
+# Comments: 192]]></summary>
+        <author>
+            <name>firelex</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[It's Time to Investigate the AI Labs]]></title>
+        <id>https://news.ycombinator.com/item?id=49883471</id>
+        <link href="https://calnewport.com/its-time-to-investigate-the-ai-labs/"/>
+        <updated>2026-09-28T19:53:35.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://calnewport.com/its-time-to-investigate-the-ai-labs/
+Comments URL: https://news.ycombinator.com/item?id=49883471
+Points: 517
+# Comments: 212]]></summary>
+        <author>
+            <name>ibobev</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Sonnet 5.5]]></title>
         <id>https://news.ycombinator.com/item?id=49881850</id>
@@ -17,6 +43,45 @@ Points: 519
 # Comments: 348]]></summary>
         <author>
             <name>D2OQZG8l5BI1S06</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pirating the Pirates]]></title>
+        <id>https://news.ycombinator.com/item?id=49880036</id>
+        <link href="https://mubi.com/en/notebook/posts/pirating-the-pirates"/>
+        <updated>2026-09-28T15:54:15.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://mubi.com/en/notebook/posts/pirating-the-pirates
+Comments URL: https://news.ycombinator.com/item?id=49880036
+Points: 600
+# Comments: 303]]></summary>
+        <author>
+            <name>piotrgrabowski</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Updated Google Maps shows destruction of the city of Rafah]]></title>
+        <id>https://news.ycombinator.com/item?id=49879645</id>
+        <link href="https://twitter.com/AliAbunimah/status/2103890594137309425"/>
+        <updated>2026-09-28T15:32:18.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://twitter.com/AliAbunimah/status/2103890594137309425
+Comments URL: https://news.ycombinator.com/item?id=49879645
+Points: 593
+# Comments: 430]]></summary>
+        <author>
+            <name>slowin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Coding is not solved]]></title>
+        <id>https://news.ycombinator.com/item?id=49877988</id>
+        <link href="https://blog.alexewerlof.com/p/coding-is-not-solved"/>
+        <updated>2026-09-28T13:52:57.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://blog.alexewerlof.com/p/coding-is-not-solved
+Comments URL: https://news.ycombinator.com/item?id=49877988
+Points: 500
+# Comments: 491]]></summary>
+        <author>
+            <name>firstSpeaker</name>
         </author>
     </entry>
     <entry>
@@ -2685,52 +2750,6 @@ Points: 534
 # Comments: 125]]></summary>
         <author>
             <name>metrofun</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“I just chose words carefully”]]></title>
-        <id>https://news.ycombinator.com/item?id=49503601</id>
-        <link href="https://unsung.aresluna.org/i-just-chose-words-carefully/"/>
-        <updated>2026-08-30T22:49:48.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://unsung.aresluna.org/i-just-chose-words-carefully/
-Comments URL: https://news.ycombinator.com/item?id=49503601
-Points: 824
-# Comments: 211]]></summary>
-        <author>
-            <name>zdw</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Terence Tao explains 6 essential mathematical concepts [video]]]></title>
-        <id>https://news.ycombinator.com/item?id=49503521</id>
-        <link href="https://www.youtube.com/watch?v=OOMx2BHHWtE"/>
-        <updated>2026-08-30T22:37:01.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.youtube.com/watch?v=OOMx2BHHWtE
-Comments URL: https://news.ycombinator.com/item?id=49503521
-Points: 567
-# Comments: 74]]></summary>
-        <author>
-            <name>matthewsinclair</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sans-Serif Fonts for Contracts]]></title>
-        <id>https://writing.kemitchell.com/2026/08/30/Sans-Serifs-Fonts-for-Contracts</id>
-        <link href="https://writing.kemitchell.com/2026/08/30/Sans-Serifs-Fonts-for-Contracts"/>
-        <updated>2026-08-30T19:00:22.000Z</updated>
-        <summary type="html"><![CDATA[law, technology, and the space between]]></summary>
-        <author>
-            <name>/dev/lawyer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Do This If You Want a Job Quickly]]></title>
-        <id>https://www.youtube.com/shorts/XQGm-aFx7WM</id>
-        <link href="https://www.youtube.com/shorts/XQGm-aFx7WM"/>
-        <updated>2026-08-30T11:47:42.000Z</updated>
-        <summary type="html"><![CDATA[In this Short, Saad Khaja reveals why cold calling is one of the best ways to get a job. He explains how a well-researched cold call can help you connect wit...]]></summary>
-        <author>
-            <name>Think School</name>
         </author>
     </entry>
     <entry>
