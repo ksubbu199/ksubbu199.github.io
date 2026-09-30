@@ -2,10 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-30T08:03:45.692Z</updated>
+    <updated>2026-09-30T15:40:09.356Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Principles for effective slides]]></title>
+        <id>https://martinfowler.com/articles/never-send-slides/slide-principles.html</id>
+        <link href="https://martinfowler.com/articles/never-send-slides/slide-principles.html"/>
+        <updated>2026-09-30T14:14:00.000Z</updated>
+        <summary type="html"><![CDATA[Not every presentation needs slides, but when they earn their place,
+      they work as a visual channel that complements the speaker rather than
+      replacing them. Sumeet Gayathri Moghe sets out the
+      principles that follow from that idea — control over the rate of knowledge
+      exposition, tight coupling between slides and speaker, minimalism by
+      default, visuals that say more than words can, and never sending your
+      slides out in advance.
+more…]]></summary>
+        <author>
+            <name>Martin Fowler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Livenerf: Has Opus 5.5 been nerfed yet?]]></title>
+        <id>https://news.ycombinator.com/item?id=49901736</id>
+        <link href="https://github.com/ninjahawk/livenerf"/>
+        <updated>2026-09-29T22:36:14.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://github.com/ninjahawk/livenerf
+Comments URL: https://news.ycombinator.com/item?id=49901736
+Points: 782
+# Comments: 329]]></summary>
+        <author>
+            <name>bryan0</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dots: Always-on agents]]></title>
+        <id>https://news.ycombinator.com/item?id=49896604</id>
+        <link href="https://openai.com/index/introducing-dots/"/>
+        <updated>2026-09-29T17:07:57.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://openai.com/index/introducing-dots/
+Comments URL: https://news.ycombinator.com/item?id=49896604
+Points: 700
+# Comments: 566]]></summary>
+        <author>
+            <name>alvis</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price]]></title>
         <id>https://news.ycombinator.com/item?id=49896586</id>
@@ -30,6 +73,19 @@ Points: 500
 # Comments: 345]]></summary>
         <author>
             <name>paimapi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[America.gov]]></title>
+        <id>https://news.ycombinator.com/item?id=49893509</id>
+        <link href="https://america.gov/"/>
+        <updated>2026-09-29T14:04:57.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://america.gov/
+Comments URL: https://news.ycombinator.com/item?id=49893509
+Points: 698
+# Comments: 599]]></summary>
+        <author>
+            <name>plesiv</name>
         </author>
     </entry>
     <entry>
@@ -61,6 +117,19 @@ I first heard the term when it was popularized within Thoughtworks by Evan
   Bottcher. He go…]]></summary>
         <author>
             <name>Martin Fowler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Delhi cut electricity loss from 50 to 5 percent]]></title>
+        <id>https://news.ycombinator.com/item?id=49892245</id>
+        <link href="https://spectrum.ieee.org/delhi-electricity-loss"/>
+        <updated>2026-09-29T12:43:29.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://spectrum.ieee.org/delhi-electricity-loss
+Comments URL: https://news.ycombinator.com/item?id=49892245
+Points: 551
+# Comments: 300]]></summary>
+        <author>
+            <name>rbanffy</name>
         </author>
     </entry>
     <entry>
@@ -2762,84 +2831,6 @@ Points: 534
 # Comments: 146]]></summary>
         <author>
             <name>porridgeraisin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fastpotify]]></title>
-        <id>https://news.ycombinator.com/item?id=49517448</id>
-        <link href="https://fastpotify.rocks/"/>
-        <updated>2026-09-01T02:52:14.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://fastpotify.rocks/
-Comments URL: https://news.ycombinator.com/item?id=49517448
-Points: 537
-# Comments: 312]]></summary>
-        <author>
-            <name>nreece</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google Has Removed MV2 Extensions from the Chrome Web Store, Including UBO]]></title>
-        <id>https://news.ycombinator.com/item?id=49514878</id>
-        <link href="https://webiterate.dev/google-removed-extensions-ublock-origin-108/"/>
-        <updated>2026-08-31T21:10:58.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://webiterate.dev/google-removed-extensions-ublock-origin-108/
-Comments URL: https://news.ycombinator.com/item?id=49514878
-Points: 657
-# Comments: 503]]></summary>
-        <author>
-            <name>twapi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I turned my security cameras into an automatic bird identification system]]></title>
-        <id>https://news.ycombinator.com/item?id=49511856</id>
-        <link href="https://jasontucker.blog/how-i-turned-my-security-cameras-into-an-automatic-bird-identification-system-with-birdnet-go/"/>
-        <updated>2026-08-31T16:47:11.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://jasontucker.blog/how-i-turned-my-security-cameras-into-an-automatic-bird-identification-system-with-birdnet-go/
-Comments URL: https://news.ycombinator.com/item?id=49511856
-Points: 534
-# Comments: 136]]></summary>
-        <author>
-            <name>speckx</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Playa Phone]]></title>
-        <id>https://news.ycombinator.com/item?id=49510514</id>
-        <link href="https://playaphone.com/"/>
-        <updated>2026-08-31T14:52:26.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://playaphone.com/
-Comments URL: https://news.ycombinator.com/item?id=49510514
-Points: 593
-# Comments: 207]]></summary>
-        <author>
-            <name>cutoff</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Apple caught off guard by AI demand for Mac Mini and Mac Studio]]></title>
-        <id>https://news.ycombinator.com/item?id=49508982</id>
-        <link href="https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand/"/>
-        <updated>2026-08-31T12:41:22.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand/
-Comments URL: https://news.ycombinator.com/item?id=49508982
-Points: 500
-# Comments: 593]]></summary>
-        <author>
-            <name>thm</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenShot 4.0 – Open-source video editor]]></title>
-        <id>https://news.ycombinator.com/item?id=49507822</id>
-        <link href="https://www.openshot.org/blog/2026/08/30/openshot-40-record-edit-color-like-never-before/"/>
-        <updated>2026-08-31T09:59:05.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.openshot.org/blog/2026/08/30/openshot-40-record-edit-color-like-never-before/
-Comments URL: https://news.ycombinator.com/item?id=49507822
-Points: 534
-# Comments: 125]]></summary>
-        <author>
-            <name>metrofun</name>
         </author>
     </entry>
     <entry>

@@ -6,6 +6,26 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=49901736",
+          "author": "bryan0",
+          "description": "Article URL: https://github.com/ninjahawk/livenerf\nComments URL: https://news.ycombinator.com/item?id=49901736\nPoints: 782\n# Comments: 329",
+          "link": "https://github.com/ninjahawk/livenerf",
+          "publishedOn": "2026-09-29T22:36:14.000Z",
+          "wordCount": 8365,
+          "title": "Livenerf: Has Opus 5.5 been nerfed yet?",
+          "imageUrl": "https://opengraph.githubassets.com/b80183c4de23cc3e21a49a54bf6b9fab9b5572e6bccc3e651e7085cdcc96d5b1/ninjahawk/livenerf"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=49896604",
+          "author": "alvis",
+          "description": "Article URL: https://openai.com/index/introducing-dots/\nComments URL: https://news.ycombinator.com/item?id=49896604\nPoints: 700\n# Comments: 566",
+          "link": "https://openai.com/index/introducing-dots/",
+          "publishedOn": "2026-09-29T17:07:57.000Z",
+          "wordCount": null,
+          "title": "Dots: Always-on agents",
+          "imageUrl": null
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=49896586",
           "author": "crorella",
           "description": "Article URL: https://openai.com/index/introducing-gpt-6-1-sol/\nComments URL: https://news.ycombinator.com/item?id=49896586\nPoints: 662\n# Comments: 594",
@@ -24,6 +44,26 @@
           "wordCount": 1783,
           "title": "DraftKings Is Using AI to Behaviorally Target Chronic Gamblers",
           "imageUrl": "https://www.eff.org/files/banner_library/mobile-privacy.png"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=49893509",
+          "author": "plesiv",
+          "description": "Article URL: https://america.gov/\nComments URL: https://news.ycombinator.com/item?id=49893509\nPoints: 698\n# Comments: 599",
+          "link": "https://america.gov/",
+          "publishedOn": "2026-09-29T14:04:57.000Z",
+          "wordCount": null,
+          "title": "America.gov",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=49892245",
+          "author": "rbanffy",
+          "description": "Article URL: https://spectrum.ieee.org/delhi-electricity-loss\nComments URL: https://news.ycombinator.com/item?id=49892245\nPoints: 551\n# Comments: 300",
+          "link": "https://spectrum.ieee.org/delhi-electricity-loss",
+          "publishedOn": "2026-09-29T12:43:29.000Z",
+          "wordCount": 14362,
+          "title": "How Delhi cut electricity loss from 50 to 5 percent",
+          "imageUrl": "https://spectrum.ieee.org/media-library/image.jpg?id=67793961&width=1200&height=600&coordinates=0%2C250%2C0%2C250"
         },
         {
           "id": "https://news.ycombinator.com/item?id=49891295",
@@ -1784,66 +1824,6 @@
           "wordCount": 3412,
           "title": "I trained a small transformer in 1.5hrs and it beats many LLMs",
           "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=49517448",
-          "author": "nreece",
-          "description": "Article URL: https://fastpotify.rocks/\nComments URL: https://news.ycombinator.com/item?id=49517448\nPoints: 537\n# Comments: 312",
-          "link": "https://fastpotify.rocks/",
-          "publishedOn": "2026-09-01T02:52:14.000Z",
-          "wordCount": 1486,
-          "title": "Fastpotify",
-          "imageUrl": "https://fastpotify.rocks/screenshot.png"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=49514878",
-          "author": "twapi",
-          "description": "Article URL: https://webiterate.dev/google-removed-extensions-ublock-origin-108/\nComments URL: https://news.ycombinator.com/item?id=49514878\nPoints: 657\n# Comments: 503",
-          "link": "https://webiterate.dev/google-removed-extensions-ublock-origin-108/",
-          "publishedOn": "2026-08-31T21:10:58.000Z",
-          "wordCount": null,
-          "title": "Google Has Removed MV2 Extensions from the Chrome Web Store, Including UBO",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=49511856",
-          "author": "speckx",
-          "description": "Article URL: https://jasontucker.blog/how-i-turned-my-security-cameras-into-an-automatic-bird-identification-system-with-birdnet-go/\nComments URL: https://news.ycombinator.com/item?id=49511856\nPoints: 534\n# Comments: 136",
-          "link": "https://jasontucker.blog/how-i-turned-my-security-cameras-into-an-automatic-bird-identification-system-with-birdnet-go/",
-          "publishedOn": "2026-08-31T16:47:11.000Z",
-          "wordCount": null,
-          "title": "I turned my security cameras into an automatic bird identification system",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=49510514",
-          "author": "cutoff",
-          "description": "Article URL: https://playaphone.com/\nComments URL: https://news.ycombinator.com/item?id=49510514\nPoints: 593\n# Comments: 207",
-          "link": "https://playaphone.com/",
-          "publishedOn": "2026-08-31T14:52:26.000Z",
-          "wordCount": 277,
-          "title": "Playa Phone",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=49508982",
-          "author": "thm",
-          "description": "Article URL: https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand/\nComments URL: https://news.ycombinator.com/item?id=49508982\nPoints: 500\n# Comments: 593",
-          "link": "https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand/",
-          "publishedOn": "2026-08-31T12:41:22.000Z",
-          "wordCount": 2756,
-          "title": "Apple caught off guard by AI demand for Mac Mini and Mac Studio",
-          "imageUrl": "https://images.macrumors.com/t/OsRlBLMFhQf-DlTIBvCnu2Opj54=/2500x/article-new/2026/04/Mac-mini-vs-Studio-Feature-Sans-Text-1.jpg"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=49507822",
-          "author": "metrofun",
-          "description": "Article URL: https://www.openshot.org/blog/2026/08/30/openshot-40-record-edit-color-like-never-before/\nComments URL: https://news.ycombinator.com/item?id=49507822\nPoints: 534\n# Comments: 125",
-          "link": "https://www.openshot.org/blog/2026/08/30/openshot-40-record-edit-color-like-never-before/",
-          "publishedOn": "2026-08-31T09:59:05.000Z",
-          "wordCount": 5547,
-          "title": "OpenShot 4.0 – Open-source video editor",
-          "imageUrl": "https://cdn.openshot.org/images/uploads/zinnia/2026/08/30/color-view.webp"
         }
       ]
     },
@@ -1973,6 +1953,16 @@
       "feedUrl": "https://martinfowler.com/feed.atom",
       "siteUrl": "https://martinfowler.com/feed.atom",
       "articles": [
+        {
+          "id": "https://martinfowler.com/articles/never-send-slides/slide-principles.html",
+          "author": null,
+          "description": "Not every presentation needs slides, but when they earn their place,\n      they work as a visual channel that complements the speaker rather than\n      replacing them. Sumeet Gayathri Moghe sets out the\n      principles that follow from that idea — control over the rate of knowledge\n      exposition, tight coupling between slides and speaker, minimalism by\n      default, visuals that say more than words can, and never sending your\n      slides out in advance.\nmore…",
+          "link": "https://martinfowler.com/articles/never-send-slides/slide-principles.html",
+          "publishedOn": "2026-09-30T14:14:00.000Z",
+          "wordCount": 3361,
+          "title": "Principles for effective slides",
+          "imageUrl": "https://martinfowler.com/articles/never-send-slides/index/card.png"
+        },
         {
           "id": "https://martinfowler.com/bliki/SensibleDefault.html",
           "author": null,
