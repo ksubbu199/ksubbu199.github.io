@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-09-30T20:34:42.991Z</updated>
+    <updated>2026-10-01T00:22:41.280Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Gemini 4 Argon]]></title>
+        <id>https://news.ycombinator.com/item?id=49913571</id>
+        <link href="https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/"/>
+        <updated>2026-09-30T20:04:37.000Z</updated>
+        <summary type="html"><![CDATA[See also: Gemini 4 Argon (High): Intelligence, Performance and Price Analysis - https://news.ycombinator.com/item?id=49914236
+Comments URL: https://news.ycombinator.com/item?id=49913571
+Points: 872
+# Comments: 589]]></summary>
+        <author>
+            <name>bradleyg223</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Principles for effective slides]]></title>
         <id>https://martinfowler.com/articles/never-send-slides/slide-principles.html</id>
@@ -2831,32 +2844,6 @@ Points: 527
 # Comments: 169]]></summary>
         <author>
             <name>HieronymusBosch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AnkiDroid: Google Play no longer allowing Open Collective donation link]]></title>
-        <id>https://news.ycombinator.com/item?id=49520022</id>
-        <link href="https://github.com/ankidroid/Anki-Android/issues/21656"/>
-        <updated>2026-09-01T10:11:02.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://github.com/ankidroid/Anki-Android/issues/21656
-Comments URL: https://news.ycombinator.com/item?id=49520022
-Points: 655
-# Comments: 172]]></summary>
-        <author>
-            <name>hexa555</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I trained a small transformer in 1.5hrs and it beats many LLMs]]></title>
-        <id>https://news.ycombinator.com/item?id=49519939</id>
-        <link href="https://mvakde.github.io/blog/44-on-arc-1/"/>
-        <updated>2026-09-01T09:52:45.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://mvakde.github.io/blog/44-on-arc-1/
-Comments URL: https://news.ycombinator.com/item?id=49519939
-Points: 534
-# Comments: 146]]></summary>
-        <author>
-            <name>porridgeraisin</name>
         </author>
     </entry>
     <entry>

@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=49913571",
+          "author": "bradleyg223",
+          "description": "See also: Gemini 4 Argon (High): Intelligence, Performance and Price Analysis - https://news.ycombinator.com/item?id=49914236\nComments URL: https://news.ycombinator.com/item?id=49913571\nPoints: 872\n# Comments: 589",
+          "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/",
+          "publishedOn": "2026-09-30T20:04:37.000Z",
+          "wordCount": 5124,
+          "title": "Gemini 4 Argon",
+          "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/g4_30-09-26_key-art_blog.width-1300.png"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=49906637",
           "author": "yarapavan",
           "description": "Article URL: https://earendil.com/posts/you-said-no-mcp/\nComments URL: https://news.ycombinator.com/item?id=49906637\nPoints: 540\n# Comments: 314",
@@ -1824,26 +1834,6 @@
           "wordCount": 1695,
           "title": "Introducing Ad Blocker for Firefox on iOS",
           "imageUrl": "https://blog.mozilla.org/wp-content/blogs.dir/278/files/2026/08/iOS-AdBlocker-1-1080x720.png"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=49520022",
-          "author": "hexa555",
-          "description": "Article URL: https://github.com/ankidroid/Anki-Android/issues/21656\nComments URL: https://news.ycombinator.com/item?id=49520022\nPoints: 655\n# Comments: 172",
-          "link": "https://github.com/ankidroid/Anki-Android/issues/21656",
-          "publishedOn": "2026-09-01T10:11:02.000Z",
-          "wordCount": 21823,
-          "title": "AnkiDroid: Google Play no longer allowing Open Collective donation link",
-          "imageUrl": "https://opengraph.githubassets.com/3799ce275eda4e5ba78b1883560611cdf9bdfafe234c4e24ebf5dbfdf4ce18d4/ankidroid/Anki-Android/issues/21656"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=49519939",
-          "author": "porridgeraisin",
-          "description": "Article URL: https://mvakde.github.io/blog/44-on-arc-1/\nComments URL: https://news.ycombinator.com/item?id=49519939\nPoints: 534\n# Comments: 146",
-          "link": "https://mvakde.github.io/blog/44-on-arc-1/",
-          "publishedOn": "2026-09-01T09:52:45.000Z",
-          "wordCount": 3412,
-          "title": "I trained a small transformer in 1.5hrs and it beats many LLMs",
-          "imageUrl": null
         }
       ]
     },
