@@ -1784,36 +1784,6 @@
           "wordCount": 2288,
           "title": "Muse Spark 1.3",
           "imageUrl": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.2365-6/741888780_1335161144859187_4416712401061192452_n.png?_nc_cat=108&ccb=1-7&_nc_sid=aa6a2f&_nc_ohc=evUxC5HEdFQQ7kNvwGqp2qc&_nc_oc=Adp4f0DQlEpHaW4rIvihTH9551XdLW83bTLaoVeSZojITTgu9rY-n9HKlzvtJPr8jFM&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=61umDQsgFYkt6Hk2gidUnQ&_nc_ss=7320f&oh=00_AQLtjVqHdmN-NCA8wpKJke6t72B-qcev7Y0v16UY8Z7deg&oe=6A9F0751"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=49537553",
-          "author": "bratao",
-          "description": "https://deepmind.google/models/model-cards/gemini-3-8-flash/\nComments URL: https://news.ycombinator.com/item?id=49537553\nPoints: 662\n# Comments: 389",
-          "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/",
-          "publishedOn": "2026-09-02T15:12:40.000Z",
-          "wordCount": 5006,
-          "title": "Gemini 3.8 Flash and 3.8 Flash Cyber",
-          "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-3-8_flash__blog__header__16-9__light.width-1300.png"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=49536375",
-          "author": "jakobgreenfeld",
-          "description": "Article URL: https://trellner.com/reports/manufactured-sources-behind-ai-recommendations/\nComments URL: https://news.ycombinator.com/item?id=49536375\nPoints: 501\n# Comments: 244",
-          "link": "https://trellner.com/reports/manufactured-sources-behind-ai-recommendations/",
-          "publishedOn": "2026-09-02T13:59:59.000Z",
-          "wordCount": 2043,
-          "title": "Three sites made 215,128 “best software” pages for AI. Perplexity cites them",
-          "imageUrl": "https://trellner.com/og.png"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=49535752",
-          "author": "rwky",
-          "description": "Article URL: https://lwn.net/Articles/1090585/\nComments URL: https://news.ycombinator.com/item?id=49535752\nPoints: 533\n# Comments: 114",
-          "link": "https://lwn.net/Articles/1090585/",
-          "publishedOn": "2026-09-02T13:17:12.000Z",
-          "wordCount": 665,
-          "title": "A Note from LWN",
-          "imageUrl": null
         }
       ]
     },
@@ -2062,26 +2032,6 @@
           "wordCount": 331,
           "title": "Bliki: Paracelsus Maxim",
           "imageUrl": "https://martinfowler.com/logo-sq.png"
-        },
-        {
-          "id": "https://martinfowler.com/articles/exploring-gen-ai/an-accidental-blackboard.html",
-          "author": null,
-          "description": "Giles Edwards-Alexander reports that during an\n      experiment to see how productive a team could be using fully agentic\n      engineering practices, the team accidentally prompted the agents into\n      creating a blackboard coordination system inside the git repository.\nmore…",
-          "link": "https://martinfowler.com/articles/exploring-gen-ai/an-accidental-blackboard.html",
-          "publishedOn": "2026-09-02T14:45:00.000Z",
-          "wordCount": 1368,
-          "title": "An Accidental Blackboard",
-          "imageUrl": "https://martinfowler.com/articles/exploring-gen-ai/donkey-card.png"
-        },
-        {
-          "id": "https://martinfowler.com/rachels-ramblings/code-review.html",
-          "author": null,
-          "description": "TL;DR\nOr, perhaps the problem isn't that AI has broken code review, maybe it’s that we've been using code review to solve the wrong problems\n\nI was on a panel recently with Brian Houck from DX at Code Remix, hosted by Moderne. It was one of the more interesting panels I’ve done, largely because we disagreed. As my colleague Martin Fowler says, panels are much more interesting when people disagree and both sides have a good argument. Brian and I definitely did.\nBrian has since written a thoughtful piece called What are code reviews even for? He is clearly passionate about his position, and I am passionate enough about mine that I’m writing this response. To be clear, I think we mostly want the same things. I just don’t think code review is the best way to get them. Brian is lovely, by the w…",
-          "link": "https://martinfowler.com/rachels-ramblings/code-review.html",
-          "publishedOn": "2026-09-02T13:32:00.000Z",
-          "wordCount": 1257,
-          "title": "Maybe We Shouldn't Be Reviewing All This Code",
-          "imageUrl": "https://martinfowler.com/rachels-ramblings/card.png"
         }
       ]
     },

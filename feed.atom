@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-10-02T00:32:40.203Z</updated>
+    <updated>2026-10-02T06:43:53.621Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -2717,73 +2717,6 @@ Points: 513
 # Comments: 348]]></summary>
         <author>
             <name>bvaldivielso</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gemini 3.8 Flash and 3.8 Flash Cyber]]></title>
-        <id>https://news.ycombinator.com/item?id=49537553</id>
-        <link href="https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/"/>
-        <updated>2026-09-02T15:12:40.000Z</updated>
-        <summary type="html"><![CDATA[https://deepmind.google/models/model-cards/gemini-3-8-flash/
-Comments URL: https://news.ycombinator.com/item?id=49537553
-Points: 662
-# Comments: 389]]></summary>
-        <author>
-            <name>bratao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[An Accidental Blackboard]]></title>
-        <id>https://martinfowler.com/articles/exploring-gen-ai/an-accidental-blackboard.html</id>
-        <link href="https://martinfowler.com/articles/exploring-gen-ai/an-accidental-blackboard.html"/>
-        <updated>2026-09-02T14:45:00.000Z</updated>
-        <summary type="html"><![CDATA[Giles Edwards-Alexander reports that during an
-      experiment to see how productive a team could be using fully agentic
-      engineering practices, the team accidentally prompted the agents into
-      creating a blackboard coordination system inside the git repository.
-more…]]></summary>
-        <author>
-            <name>Martin Fowler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Three sites made 215,128 “best software” pages for AI. Perplexity cites them]]></title>
-        <id>https://news.ycombinator.com/item?id=49536375</id>
-        <link href="https://trellner.com/reports/manufactured-sources-behind-ai-recommendations/"/>
-        <updated>2026-09-02T13:59:59.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://trellner.com/reports/manufactured-sources-behind-ai-recommendations/
-Comments URL: https://news.ycombinator.com/item?id=49536375
-Points: 501
-# Comments: 244]]></summary>
-        <author>
-            <name>jakobgreenfeld</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Maybe We Shouldn't Be Reviewing All This Code]]></title>
-        <id>https://martinfowler.com/rachels-ramblings/code-review.html</id>
-        <link href="https://martinfowler.com/rachels-ramblings/code-review.html"/>
-        <updated>2026-09-02T13:32:00.000Z</updated>
-        <summary type="html"><![CDATA[TL;DR
-Or, perhaps the problem isn't that AI has broken code review, maybe it’s that we've been using code review to solve the wrong problems
-
-I was on a panel recently with Brian Houck from DX at Code Remix, hosted by Moderne. It was one of the more interesting panels I’ve done, largely because we disagreed. As my colleague Martin Fowler says, panels are much more interesting when people disagree and both sides have a good argument. Brian and I definitely did.
-Brian has since written a thoughtful piece called What are code reviews even for? He is clearly passionate about his position, and I am passionate enough about mine that I’m writing this response. To be clear, I think we mostly want the same things. I just don’t think code review is the best way to get them. Brian is lovely, by the w…]]></summary>
-        <author>
-            <name>Martin Fowler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Note from LWN]]></title>
-        <id>https://news.ycombinator.com/item?id=49535752</id>
-        <link href="https://lwn.net/Articles/1090585/"/>
-        <updated>2026-09-02T13:17:12.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://lwn.net/Articles/1090585/
-Comments URL: https://news.ycombinator.com/item?id=49535752
-Points: 533
-# Comments: 114]]></summary>
-        <author>
-            <name>rwky</name>
         </author>
     </entry>
     <entry>
