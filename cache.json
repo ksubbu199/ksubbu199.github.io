@@ -16,6 +16,16 @@
           "imageUrl": "https://earendil.com/static/og/posts/pi-1-0.png"
         },
         {
+          "id": "https://news.ycombinator.com/item?id=49923692",
+          "author": "jasondavies",
+          "description": "Article URL: https://blog.cloudflare.com/clef-decision-models/\nComments URL: https://news.ycombinator.com/item?id=49923692\nPoints: 549\n# Comments: 195",
+          "link": "https://blog.cloudflare.com/clef-decision-models/",
+          "publishedOn": "2026-10-01T16:18:57.000Z",
+          "wordCount": 3343,
+          "title": "Clef: Open-weight decision models, and new RL fine-tuning platform",
+          "imageUrl": "https://blog.cloudflare.com/_emdash/api/media/file/01M3TJV43SPQCPKJ6GBXFCDKNE.01M3TJV53VYDMVNCZDPH1FBFYN.png"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=49920160",
           "author": "Snowly",
           "description": "Article URL: https://github.com/streetcomplete/StreetComplete/issues/5421\nComments URL: https://news.ycombinator.com/item?id=49920160\nPoints: 513\n# Comments: 123",
@@ -1774,16 +1784,6 @@
           "wordCount": 1129,
           "title": "Audacity 4.0",
           "imageUrl": "https://opengraph.githubassets.com/bda56dd5fb280eb5e9f6e49e854d8cc7fd1ced9647d8f5a85966c6196bd079c1/audacity/audacity/releases/tag/Audacity-4.0.0"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=49541256",
-          "author": "bvaldivielso",
-          "description": "https://research.meta.ai/blog/introducing-muse-spark-1-3\nComments URL: https://news.ycombinator.com/item?id=49541256\nPoints: 513\n# Comments: 348",
-          "link": "https://developer.meta.com/ai/models/muse-spark/",
-          "publishedOn": "2026-09-02T19:35:04.000Z",
-          "wordCount": 2288,
-          "title": "Muse Spark 1.3",
-          "imageUrl": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.2365-6/741888780_1335161144859187_4416712401061192452_n.png?_nc_cat=108&ccb=1-7&_nc_sid=aa6a2f&_nc_ohc=evUxC5HEdFQQ7kNvwGqp2qc&_nc_oc=Adp4f0DQlEpHaW4rIvihTH9551XdLW83bTLaoVeSZojITTgu9rY-n9HKlzvtJPr8jFM&_nc_zt=14&_nc_ht=scontent-iad3-1.xx&_nc_gid=61umDQsgFYkt6Hk2gidUnQ&_nc_ss=7320f&oh=00_AQLtjVqHdmN-NCA8wpKJke6t72B-qcev7Y0v16UY8Z7deg&oe=6A9F0751"
         }
       ]
     },
@@ -2022,16 +2022,6 @@
           "wordCount": 2469,
           "title": "Do you even need a presentation?",
           "imageUrl": "https://martinfowler.com/articles/never-send-slides/index/card.png"
-        },
-        {
-          "id": "https://martinfowler.com/bliki/ParacelsusMaxim.html",
-          "author": null,
-          "description": "The difference between a medicine and a poison is dosage.\nOften we talk about certain habits, in programming or life, are good or\n  bad. But few things are simple binaries. Some vary with context: reading a\n  book is a good thing sitting in my garden, but not while driving my car. But\n  another variable is dosage: a little pain-killer salves my headache, but too\n  much will kill me.\nThe importance of dosage was noticed by a 16th century Swiss physician\n  called Paracelsus. His quote was originally in German “Alle Dinge sind Gift,\n  und nichts ist ohne Gift; allein die Dosis macht, dass ein Ding kein Gift\n  ist.” which (according to\n  Wikipedia) translates as “All things are poison, and nothing is without\n  poison; the dosage alone makes it so a thing is not a poison.” It's also known\n  as “The dose makes the poison” or if you prefer your sayings in Latin “dosis\n  sola facit venenum”.\nIn programming, global data is a good example of the Paracelsus Maxim (as I\n  like to call it). A little global data, especially when immutable, can be a\n  handy way of propagating information that may needed anywhere in a program,\n  but it quickly becomes dangerous if there is a lot of it about.\nThis kind of thing crops up in lots of places. So when thinking about when\n  things are good or bad, we should always ask “in what contexts” and “in what\n  doses”?",
-          "link": "https://martinfowler.com/bliki/ParacelsusMaxim.html",
-          "publishedOn": "2026-09-02T22:03:00.000Z",
-          "wordCount": 331,
-          "title": "Bliki: Paracelsus Maxim",
-          "imageUrl": "https://martinfowler.com/logo-sq.png"
         }
       ]
     },
@@ -2093,6 +2083,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKZozRVHRYsYHGEyNKuhhdA",
       "siteUrl": "https://www.youtube.com/channel/UCKZozRVHRYsYHGEyNKuhhdA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/shorts/l4LhxmuaDXA",
+          "author": null,
+          "description": "Build with Sarvam: https://drive.google.com/file/d/1uMjno4QqqUELDlIQ1GkUvFgAO7X2DwMy/view?usp=sharing We built an AI recruiter with Sarvam's voice agents, an...",
+          "link": "https://www.youtube.com/shorts/l4LhxmuaDXA",
+          "publishedOn": "2026-10-02T12:27:34.000Z",
+          "wordCount": 3641,
+          "title": "We built an AI recruiter with Sarvam's voice agents, and what it can do is crazy",
+          "imageUrl": "https://i.ytimg.com/vi/l4LhxmuaDXA/oardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLAdxA-XsScNwZ-TnkYsPmbPy2tVkw&usqp=CCk"
+        },
         {
           "id": "https://www.youtube.com/watch?v=eUCXN_4w7dI",
           "author": null,

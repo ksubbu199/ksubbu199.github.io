@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-10-02T06:43:53.621Z</updated>
+    <updated>2026-10-02T13:36:18.373Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[We built an AI recruiter with Sarvam's voice agents, and what it can do is crazy]]></title>
+        <id>https://www.youtube.com/shorts/l4LhxmuaDXA</id>
+        <link href="https://www.youtube.com/shorts/l4LhxmuaDXA"/>
+        <updated>2026-10-02T12:27:34.000Z</updated>
+        <summary type="html"><![CDATA[Build with Sarvam: https://drive.google.com/file/d/1uMjno4QqqUELDlIQ1GkUvFgAO7X2DwMy/view?usp=sharing We built an AI recruiter with Sarvam's voice agents, an...]]></summary>
+        <author>
+            <name>Think School</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Pi 1.0]]></title>
         <id>https://news.ycombinator.com/item?id=49926069</id>
@@ -27,6 +37,19 @@ Points: 683
         <summary type="html"><![CDATA[In his Rails World keynote, David Heinemeier Hansson (DHH) declared the end for writing code by hand for professional work – at 37signals at least. Is this change now unstoppable?]]></summary>
         <author>
             <name>Ivan Klaric</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Clef: Open-weight decision models, and new RL fine-tuning platform]]></title>
+        <id>https://news.ycombinator.com/item?id=49923692</id>
+        <link href="https://blog.cloudflare.com/clef-decision-models/"/>
+        <updated>2026-10-01T16:18:57.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://blog.cloudflare.com/clef-decision-models/
+Comments URL: https://news.ycombinator.com/item?id=49923692
+Points: 549
+# Comments: 195]]></summary>
+        <author>
+            <name>jasondavies</name>
         </author>
     </entry>
     <entry>
@@ -2674,49 +2697,6 @@ Points: 686
 # Comments: 162]]></summary>
         <author>
             <name>ClydeN</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bliki: Paracelsus Maxim]]></title>
-        <id>https://martinfowler.com/bliki/ParacelsusMaxim.html</id>
-        <link href="https://martinfowler.com/bliki/ParacelsusMaxim.html"/>
-        <updated>2026-09-02T22:03:00.000Z</updated>
-        <summary type="html"><![CDATA[The difference between a medicine and a poison is dosage.
-Often we talk about certain habits, in programming or life, are good or
-  bad. But few things are simple binaries. Some vary with context: reading a
-  book is a good thing sitting in my garden, but not while driving my car. But
-  another variable is dosage: a little pain-killer salves my headache, but too
-  much will kill me.
-The importance of dosage was noticed by a 16th century Swiss physician
-  called Paracelsus. His quote was originally in German “Alle Dinge sind Gift,
-  und nichts ist ohne Gift; allein die Dosis macht, dass ein Ding kein Gift
-  ist.” which (according to
-  Wikipedia) translates as “All things are poison, and nothing is without
-  poison; the dosage alone makes it so a thing is not a poison.” It's also known
-  as “The dose makes the poison” or if you prefer your sayings in Latin “dosis
-  sola facit venenum”.
-In programming, global data is a good example of the Paracelsus Maxim (as I
-  like to call it). A little global data, especially when immutable, can be a
-  handy way of propagating information that may needed anywhere in a program,
-  but it quickly becomes dangerous if there is a lot of it about.
-This kind of thing crops up in lots of places. So when thinking about when
-  things are good or bad, we should always ask “in what contexts” and “in what
-  doses”?]]></summary>
-        <author>
-            <name>Martin Fowler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Muse Spark 1.3]]></title>
-        <id>https://news.ycombinator.com/item?id=49541256</id>
-        <link href="https://developer.meta.com/ai/models/muse-spark/"/>
-        <updated>2026-09-02T19:35:04.000Z</updated>
-        <summary type="html"><![CDATA[https://research.meta.ai/blog/introducing-muse-spark-1-3
-Comments URL: https://news.ycombinator.com/item?id=49541256
-Points: 513
-# Comments: 348]]></summary>
-        <author>
-            <name>bvaldivielso</name>
         </author>
     </entry>
     <entry>
