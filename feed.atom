@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-10-02T13:36:18.373Z</updated>
+    <updated>2026-10-02T19:00:07.490Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Democracy Is Being Manipulated? | Why India’s Voter List Has Triggered Nationwide Protests?]]></title>
+        <id>https://www.youtube.com/watch?v=MGRTpIyJRIk</id>
+        <link href="https://www.youtube.com/watch?v=MGRTpIyJRIk"/>
+        <updated>2026-10-02T15:31:53.000Z</updated>
+        <author>
+            <name>Think School</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[We built an AI recruiter with Sarvam's voice agents, and what it can do is crazy]]></title>
         <id>https://www.youtube.com/shorts/l4LhxmuaDXA</id>
@@ -14,6 +23,32 @@
         <summary type="html"><![CDATA[Build with Sarvam: https://drive.google.com/file/d/1uMjno4QqqUELDlIQ1GkUvFgAO7X2DwMy/view?usp=sharing We built an AI recruiter with Sarvam's voice agents, an...]]></summary>
         <author>
             <name>Think School</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Several vulnerabilities have been discovered in the Linux kernel]]></title>
+        <id>https://news.ycombinator.com/item?id=49928121</id>
+        <link href="https://lwn.net/Articles/1097401/"/>
+        <updated>2026-10-01T23:10:44.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://lwn.net/Articles/1097401/
+Comments URL: https://news.ycombinator.com/item?id=49928121
+Points: 529
+# Comments: 380]]></summary>
+        <author>
+            <name>luispa</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Frog and Toad and the Increasingly Capable Machines]]></title>
+        <id>https://news.ycombinator.com/item?id=49927760</id>
+        <link href="https://www.frogandtoad.ai/"/>
+        <updated>2026-10-01T22:23:38.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.frogandtoad.ai/
+Comments URL: https://news.ycombinator.com/item?id=49927760
+Points: 526
+# Comments: 118]]></summary>
+        <author>
+            <name>supermdguy</name>
         </author>
     </entry>
     <entry>
@@ -27,6 +62,19 @@ Points: 683
 # Comments: 227]]></summary>
         <author>
             <name>sergiotapia</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Git 3.0's upcoming SHA-256 default will be a costly mistake]]></title>
+        <id>https://news.ycombinator.com/item?id=49924179</id>
+        <link href="https://blog.gitbutler.com/git-3-sha-256"/>
+        <updated>2026-10-01T16:57:03.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://blog.gitbutler.com/git-3-sha-256
+Comments URL: https://news.ycombinator.com/item?id=49924179
+Points: 537
+# Comments: 504]]></summary>
+        <author>
+            <name>chmaynard</name>
         </author>
     </entry>
     <entry>

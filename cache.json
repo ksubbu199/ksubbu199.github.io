@@ -6,6 +6,26 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=49928121",
+          "author": "luispa",
+          "description": "Article URL: https://lwn.net/Articles/1097401/\nComments URL: https://news.ycombinator.com/item?id=49928121\nPoints: 529\n# Comments: 380",
+          "link": "https://lwn.net/Articles/1097401/",
+          "publishedOn": "2026-10-01T23:10:44.000Z",
+          "wordCount": 1535,
+          "title": "Several vulnerabilities have been discovered in the Linux kernel",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=49927760",
+          "author": "supermdguy",
+          "description": "Article URL: https://www.frogandtoad.ai/\nComments URL: https://news.ycombinator.com/item?id=49927760\nPoints: 526\n# Comments: 118",
+          "link": "https://www.frogandtoad.ai/",
+          "publishedOn": "2026-10-01T22:23:38.000Z",
+          "wordCount": 12,
+          "title": "Frog and Toad and the Increasingly Capable Machines",
+          "imageUrl": "https://www.frogandtoad.ai/illustrations/FAT-social-card.jpg"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=49926069",
           "author": "sergiotapia",
           "description": "Related: Pi Durable - https://news.ycombinator.com/item?id=49925969\nComments URL: https://news.ycombinator.com/item?id=49926069\nPoints: 683\n# Comments: 227",
@@ -14,6 +34,16 @@
           "wordCount": 988,
           "title": "Pi 1.0",
           "imageUrl": "https://earendil.com/static/og/posts/pi-1-0.png"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=49924179",
+          "author": "chmaynard",
+          "description": "Article URL: https://blog.gitbutler.com/git-3-sha-256\nComments URL: https://news.ycombinator.com/item?id=49924179\nPoints: 537\n# Comments: 504",
+          "link": "https://blog.gitbutler.com/git-3-sha-256",
+          "publishedOn": "2026-10-01T16:57:03.000Z",
+          "wordCount": 110347,
+          "title": "Git 3.0's upcoming SHA-256 default will be a costly mistake",
+          "imageUrl": "https://gitbutler-docs-images-public.s3.us-east-1.amazonaws.com/git-3-sha-256.webp"
         },
         {
           "id": "https://news.ycombinator.com/item?id=49923692",
@@ -2083,6 +2113,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKZozRVHRYsYHGEyNKuhhdA",
       "siteUrl": "https://www.youtube.com/channel/UCKZozRVHRYsYHGEyNKuhhdA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=MGRTpIyJRIk",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=MGRTpIyJRIk",
+          "publishedOn": "2026-10-02T15:31:53.000Z",
+          "wordCount": null,
+          "title": "Democracy Is Being Manipulated? | Why India’s Voter List Has Triggered Nationwide Protests?",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/shorts/l4LhxmuaDXA",
           "author": null,
