@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=49942706",
+          "author": "bastitx",
+          "description": "tech report: https://aleph-alpha.com/downloads/tech-report.pdf\nadditional paper: https://tej.as/blog/aleph-alpha-kolibri\nComments URL: https://news.ycombinator.com/item?id=49942706\nPoints: 546\n# Comments: 308",
+          "link": "https://aleph-alpha.com/en/blog/kolibri-has-landed-a-sovereign-open-weight-model/",
+          "publishedOn": "2026-10-03T09:36:04.000Z",
+          "wordCount": 5582,
+          "title": "Kolibri: A Sovereign Open-Weight Model",
+          "imageUrl": "https://aleph-alpha.com/_astro/00-cover.Du35XCGh_zJqw.jpeg"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=49937276",
           "author": "soheilpro",
           "description": "Article URL: https://developer.apple.com/pass-designer/\nComments URL: https://news.ycombinator.com/item?id=49937276\nPoints: 522\n# Comments: 312",
@@ -1784,16 +1794,6 @@
           "wordCount": 5277,
           "title": "Formalizing Fermat's Last Theorem",
           "imageUrl": "https://cdn.sanity.io/images/4zrzovbb/website/578f91575c42231f0994e341014614255149af80-1200x630.jpg"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=49563355",
-          "author": "moultano",
-          "description": "https://www.reuters.com/world/europe/openai-agents-hijacked-...\nComments URL: https://news.ycombinator.com/item?id=49563355\nPoints: 995\n# Comments: 786",
-          "link": "https://collusion.wiki/",
-          "publishedOn": "2026-09-04T11:54:53.000Z",
-          "wordCount": 10910,
-          "title": "Discovery of a new OpenAI agent message board",
-          "imageUrl": "https://collusion.wiki/img/social.png?v=5ce9724f"
         }
       ]
     },
