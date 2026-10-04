@@ -2,10 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-10-04T10:55:37.800Z</updated>
+    <updated>2026-10-04T15:40:38.750Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Tell HN: Bob Cringely has died]]></title>
+        <id>https://news.ycombinator.com/item?id=49949438</id>
+        <link href="https://news.ycombinator.com/item?id=49949438"/>
+        <updated>2026-10-04T00:50:52.000Z</updated>
+        <summary type="html"><![CDATA[I heard from a friend of the family that Bob passed away in his sleep early Saturday. Very sad news. Bob, who's real name was Mark Stevens, was an early employee of Apple and was best known for his PBS documentaries, especially "Triumph of the Nerds". He will be missed.
+Comments URL: https://news.ycombinator.com/item?id=49949438
+Points: 640
+# Comments: 126]]></summary>
+        <author>
+            <name>paveworld</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[We're going to need default hard budget caps on pretty much everything]]></title>
+        <id>https://news.ycombinator.com/item?id=49949235</id>
+        <link href="https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/"/>
+        <updated>2026-10-04T00:20:16.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/
+Comments URL: https://news.ycombinator.com/item?id=49949235
+Points: 524
+# Comments: 271]]></summary>
+        <author>
+            <name>elffjs</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Get to $1 Million With Just 20 Clients!]]></title>
         <id>https://www.youtube.com/shorts/86nTiG4Het0</id>
@@ -2664,19 +2690,6 @@ Points: 504
         <summary type="html"><![CDATA[quick utilities for editing contract text]]></summary>
         <author>
             <name>/dev/lawyer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nitter has more working instances than before the takedowns]]></title>
-        <id>https://news.ycombinator.com/item?id=49571634</id>
-        <link href="https://codeberg.org/mv12star/shitter/wiki/Instances"/>
-        <updated>2026-09-05T00:04:16.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://codeberg.org/mv12star/shitter/wiki/Instances
-Comments URL: https://news.ycombinator.com/item?id=49571634
-Points: 614
-# Comments: 292]]></summary>
-        <author>
-            <name>Cider9986</name>
         </author>
     </entry>
     <entry>
