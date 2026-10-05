@@ -2,10 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-10-05T01:38:11.797Z</updated>
+    <updated>2026-10-05T08:25:37.748Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Fragments: October  4]]></title>
+        <id>https://martinfowler.com/fragments/2026-10-04.html</id>
+        <link href="https://martinfowler.com/fragments/2026-10-04.html"/>
+        <updated>2026-10-05T04:28:00.000Z</updated>
+        <summary type="html"><![CDATA[In response to my last fragments (probably the bit about us worrying if LLMs have consciousness when we when we should be wondering why they don’t have a conscience) “Metalanguage” replied:
+we shipped the id and forgot the superego. classic software lifecycle.
+I don’t know what was on their mind, but their post immediately made me think of the classic 1956 movie Forbidden Planet. Plenty of sci-fi, and other literature, have explored humans creating technology with unintended behavior, going back at least to Mary Shelly. But that movie was particularly influential on sci-fi film-making and in the heart of its story is what happens when we nurture a thinking machine.
+I use the term “nurture” here deliberately. We talk of building software, but building implies a degree of determinism. When w…]]></summary>
+        <author>
+            <name>Martin Fowler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Turn off Apple Intelligence on macOS 27 and get its disk space back]]></title>
+        <id>https://news.ycombinator.com/item?id=49957116</id>
+        <link href="https://github.com/omlahore/RemoveMacAI"/>
+        <updated>2026-10-04T19:42:25.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://github.com/omlahore/RemoveMacAI
+Comments URL: https://news.ycombinator.com/item?id=49957116
+Points: 541
+# Comments: 360]]></summary>
+        <author>
+            <name>privacyisntdead</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Run Qwen 3.8 Flash Next (125B) on consumer hardware (RTX 4090) at 100T/s]]></title>
         <id>https://news.ycombinator.com/item?id=49953495</id>
@@ -2693,19 +2719,6 @@ Points: 608
 # Comments: 322]]></summary>
         <author>
             <name>bookmtn</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Real Luxuries In Life]]></title>
-        <id>https://news.ycombinator.com/item?id=49578866</id>
-        <link href="https://feld.com/archives/2026/09/the-real-luxuries-in-life/"/>
-        <updated>2026-09-05T17:46:16.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://feld.com/archives/2026/09/the-real-luxuries-in-life/
-Comments URL: https://news.ycombinator.com/item?id=49578866
-Points: 504
-# Comments: 238]]></summary>
-        <author>
-            <name>tosh</name>
         </author>
     </entry>
     <entry>

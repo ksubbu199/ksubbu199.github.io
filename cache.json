@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=49957116",
+          "author": "privacyisntdead",
+          "description": "Article URL: https://github.com/omlahore/RemoveMacAI\nComments URL: https://news.ycombinator.com/item?id=49957116\nPoints: 541\n# Comments: 360",
+          "link": "https://github.com/omlahore/RemoveMacAI",
+          "publishedOn": "2026-10-04T19:42:25.000Z",
+          "wordCount": 2781,
+          "title": "Turn off Apple Intelligence on macOS 27 and get its disk space back",
+          "imageUrl": "https://repository-images.githubusercontent.com/1394989252/13dcf083-d511-4f51-9681-c6ccbda3cae9"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=49953495",
           "author": "snehesht",
           "description": "Article URL: https://github.com/Niko1221/Strata\nComments URL: https://news.ycombinator.com/item?id=49953495\nPoints: 525\n# Comments: 261",
@@ -1774,16 +1784,6 @@
           "wordCount": 51823,
           "title": "Private German rocket makes history, reaches orbit from European soil",
           "imageUrl": "https://cdn.mos.cms.futurecdn.net/CQvDAjNriBWKJva9TUiy4Z-2560-80.jpg"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=49578866",
-          "author": "tosh",
-          "description": "Article URL: https://feld.com/archives/2026/09/the-real-luxuries-in-life/\nComments URL: https://news.ycombinator.com/item?id=49578866\nPoints: 504\n# Comments: 238",
-          "link": "https://feld.com/archives/2026/09/the-real-luxuries-in-life/",
-          "publishedOn": "2026-09-05T17:46:16.000Z",
-          "wordCount": 484,
-          "title": "The Real Luxuries In Life",
-          "imageUrl": "https://feld.com/og-default.png"
         }
       ]
     },
@@ -1903,6 +1903,16 @@
       "feedUrl": "https://martinfowler.com/feed.atom",
       "siteUrl": "https://martinfowler.com/feed.atom",
       "articles": [
+        {
+          "id": "https://martinfowler.com/fragments/2026-10-04.html",
+          "author": null,
+          "description": "In response to my last fragments (probably the bit about us worrying if LLMs have consciousness when we when we should be wondering why they don’t have a conscience) “Metalanguage” replied:\nwe shipped the id and forgot the superego. classic software lifecycle.\nI don’t know what was on their mind, but their post immediately made me think of the classic 1956 movie Forbidden Planet. Plenty of sci-fi, and other literature, have explored humans creating technology with unintended behavior, going back at least to Mary Shelly. But that movie was particularly influential on sci-fi film-making and in the heart of its story is what happens when we nurture a thinking machine.\nI use the term “nurture” here deliberately. We talk of building software, but building implies a degree of determinism. When w…",
+          "link": "https://martinfowler.com/fragments/2026-10-04.html",
+          "publishedOn": "2026-10-05T04:28:00.000Z",
+          "wordCount": 1707,
+          "title": "Fragments: October  4",
+          "imageUrl": "https://martinfowler.com/fragments/fragments-thumb.png"
+        },
         {
           "id": "https://martinfowler.com/articles/never-send-slides/slide-principles.html",
           "author": null,
