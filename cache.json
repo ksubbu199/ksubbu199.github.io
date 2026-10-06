@@ -6,6 +6,26 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=49963171",
+          "author": "tosh",
+          "description": "Article URL: https://developers.cloudflare.com/changelog/post/2026-10-02-introducing-web-search-api/\nComments URL: https://news.ycombinator.com/item?id=49963171\nPoints: 509\n# Comments: 234",
+          "link": "https://developers.cloudflare.com/changelog/post/2026-10-02-introducing-web-search-api/",
+          "publishedOn": "2026-10-05T10:47:06.000Z",
+          "wordCount": 998,
+          "title": "Web Search API",
+          "imageUrl": "https://developers.cloudflare.com/changelog/post/2026-10-02-introducing-web-search-api/og.png?v=1deaa8fb09156b56"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=49961057",
+          "author": "emptybits",
+          "description": "Article URL: https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html\nComments URL: https://news.ycombinator.com/item?id=49961057\nPoints: 633\n# Comments: 504",
+          "link": "https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html",
+          "publishedOn": "2026-10-05T05:37:40.000Z",
+          "wordCount": 6373,
+          "title": "Anthropic reported diary entry to police, woman faces felony charge",
+          "imageUrl": "https://www.techspot.com/images2/news/bigimage/2026/10/2026-10-04-image-9.jpg"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=49957116",
           "author": "privacyisntdead",
           "description": "Article URL: https://github.com/omlahore/RemoveMacAI\nComments URL: https://news.ycombinator.com/item?id=49957116\nPoints: 541\n# Comments: 360",
@@ -1704,46 +1724,6 @@
           "wordCount": 1362,
           "title": "Nitter and XCancel resume service after legal advice",
           "imageUrl": "https://opengraph.githubassets.com/92962a83efd8bc2e3e8432afc9522dcfe42750f8345dee563ecb199ee76f3aed/zedeus/nitter/commit/1428b4c2b4246f92a7e5b2673438e5fb39fcc4a3"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=49586898",
-          "author": "captainmuon",
-          "description": "Article URL: https://keepitfree.ai/announcements/a/i-shuts-down-stay-human/\nComments URL: https://news.ycombinator.com/item?id=49586898\nPoints: 536\n# Comments: 425",
-          "link": "https://keepitfree.ai/announcements/a/i-shuts-down-stay-human/",
-          "publishedOn": "2026-09-06T14:34:34.000Z",
-          "wordCount": 439,
-          "title": "A/I shuts down",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=49586698",
-          "author": "mdp2021",
-          "description": "https://www.phoronix.com/news/Asahi-Linux-Official-M3\nComments URL: https://news.ycombinator.com/item?id=49586698\nPoints: 523\n# Comments: 319",
-          "link": "https://asahilinux.org/2026/09/m2-episode-1/",
-          "publishedOn": "2026-09-06T14:08:59.000Z",
-          "wordCount": 474,
-          "title": "Asahi Linux on M3",
-          "imageUrl": "https://asahilinux.org/img/AsahiLinux_logomark_256px.png"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=49586171",
-          "author": "mraniki",
-          "description": "Article URL: https://beige.party/@intransitivelie/117057396732763183\nComments URL: https://news.ycombinator.com/item?id=49586171\nPoints: 965\n# Comments: 197",
-          "link": "https://beige.party/@intransitivelie/117057396732763183",
-          "publishedOn": "2026-09-06T13:02:41.000Z",
-          "wordCount": 287,
-          "title": "QBittorrent breaks out of sandbox to commit crimes",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=49585644",
-          "author": "cyb0rg0",
-          "description": "Article URL: https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open/\nComments URL: https://news.ycombinator.com/item?id=49585644\nPoints: 559\n# Comments: 368",
-          "link": "https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open/",
-          "publishedOn": "2026-09-06T11:56:43.000Z",
-          "wordCount": 568,
-          "title": "Your intellectual fly is open when you use an LLM to author a post (2025)",
-          "imageUrl": null
         }
       ]
     },
