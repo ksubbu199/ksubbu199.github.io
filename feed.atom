@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-10-06T18:47:50.173Z</updated>
+    <updated>2026-10-06T22:54:14.928Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -92,6 +92,19 @@ Points: 509
 # Comments: 234]]></summary>
         <author>
             <name>tosh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Denmark data breach exposes 8.8M people's personal data]]></title>
+        <id>https://news.ycombinator.com/item?id=49962012</id>
+        <link href="https://www.cpr.dk/cpr-nyt/nyhedsarkiv/2026/okt/omfattende-uautoriseret-adgang-til-borgeres-cpr-oplysninger"/>
+        <updated>2026-10-05T08:09:36.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.cpr.dk/cpr-nyt/nyhedsarkiv/2026/okt/omfattende-uautoriseret-adgang-til-borgeres-cpr-oplysninger
+Comments URL: https://news.ycombinator.com/item?id=49962012
+Points: 501
+# Comments: 350]]></summary>
+        <author>
+            <name>clan</name>
         </author>
     </entry>
     <entry>
@@ -2661,19 +2674,6 @@ Points: 502
 # Comments: 202]]></summary>
         <author>
             <name>DanielVZ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LG smart TVs caught logging audio with screen off and snooping on local devices]]></title>
-        <id>https://news.ycombinator.com/item?id=49594878</id>
-        <link href="https://www.notebookcheck.net/LG-smart-TVs-caught-logging-audio-with-screen-off-and-snooping-on-local-devices.1391214.0.html"/>
-        <updated>2026-09-07T07:03:20.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.notebookcheck.net/LG-smart-TVs-caught-logging-audio-with-screen-off-and-snooping-on-local-devices.1391214.0.html
-Comments URL: https://news.ycombinator.com/item?id=49594878
-Points: 596
-# Comments: 305]]></summary>
-        <author>
-            <name>chris_overseas</name>
         </author>
     </entry>
     <entry>
