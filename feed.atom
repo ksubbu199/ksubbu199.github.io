@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-10-07T17:17:24.535Z</updated>
+    <updated>2026-10-07T22:47:38.717Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Claude Haiku 5.5]]></title>
+        <id>https://news.ycombinator.com/item?id=49996437</id>
+        <link href="https://www.anthropic.com/claude-haiku-5-5"/>
+        <updated>2026-10-07T18:01:32.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.anthropic.com/claude-haiku-5-5
+Comments URL: https://news.ycombinator.com/item?id=49996437
+Points: 572
+# Comments: 275]]></summary>
+        <author>
+            <name>sfkgtbor</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Sharing AI progress in mathematics]]></title>
         <id>https://news.ycombinator.com/item?id=49984923</id>
@@ -18,6 +31,25 @@ Points: 915
 # Comments: 837]]></summary>
         <author>
             <name>OfficialTurkey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tell HN: GitHub refuses to remove cracked copies of my software after a month]]></title>
+        <id>https://news.ycombinator.com/item?id=49982498</id>
+        <link href="https://news.ycombinator.com/item?id=49982498"/>
+        <updated>2026-10-06T18:54:01.000Z</updated>
+        <summary type="html"><![CDATA[I am a developer of https://www.photopea.com, a popular photo editor that runs in a web browser.
+Many people are asking AI models to take the Javascript code from my website, remove all ads from it, and they publish such a "new product" on Github for everyone to download.
+There exist tens of such repositories on Github. I want my website to be the only source of a stable version of my program Photopea. I even received emails from people complaining about something in Photopea, and it took several emails to figure out that they are not using Photopea.com (so it ruins my reputation a little).
+I reported it to Github on the 4th of September 2026: https://www.photopea.com/g/XKoqqIGv
+Today, a month later, I received this response:
+Thank you for submitting a DMCA takedown notice. We've reviewed the information you've provided, and based on the facts presented to us, we're unable to confirm a violation of 17 U.S. Code § 1201.
+What do you think I could do? Do you think I should look for a lawyer to deal with it outside the digital world? I really doubt that a real person ever looked at my report, and they probably send this response automatically to 99% of people.
+Comments URL: https://news.ycombinator.com/item?id=49982498
+Points: 505
+# Comments: 297]]></summary>
+        <author>
+            <name>IvanK_net</name>
         </author>
     </entry>
     <entry>
@@ -2623,19 +2655,6 @@ Points: 595
 more…]]></summary>
         <author>
             <name>Martin Fowler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Navier-Stokes – Tristan Buckmaster [pdf]]]></title>
-        <id>https://news.ycombinator.com/item?id=49605915</id>
-        <link href="https://cims.nyu.edu/~tristanb/statement.pdf"/>
-        <updated>2026-09-08T05:42:28.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://cims.nyu.edu/~tristanb/statement.pdf
-Comments URL: https://news.ycombinator.com/item?id=49605915
-Points: 536
-# Comments: 308]]></summary>
-        <author>
-            <name>procedurecall</name>
         </author>
     </entry>
     <entry>
