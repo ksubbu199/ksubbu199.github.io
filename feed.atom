@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-10-07T22:47:38.717Z</updated>
+    <updated>2026-10-08T02:33:20.244Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Margaret Hamilton has died]]></title>
+        <id>https://news.ycombinator.com/item?id=49998895</id>
+        <link href="https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007"/>
+        <updated>2026-10-07T21:16:18.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007
+Comments URL: https://news.ycombinator.com/item?id=49998895
+Points: 781
+# Comments: 91]]></summary>
+        <author>
+            <name>muglug</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Claude Haiku 5.5]]></title>
         <id>https://news.ycombinator.com/item?id=49996437</id>
@@ -17,6 +30,19 @@ Points: 572
 # Comments: 275]]></summary>
         <author>
             <name>sfkgtbor</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GPT‑6 and Intelligent UI for everyone]]></title>
+        <id>https://news.ycombinator.com/item?id=49996425</id>
+        <link href="https://openai.com/index/gpt-6-for-everyone/"/>
+        <updated>2026-10-07T18:00:58.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://openai.com/index/gpt-6-for-everyone/
+Comments URL: https://news.ycombinator.com/item?id=49996425
+Points: 510
+# Comments: 268]]></summary>
+        <author>
+            <name>joshuawright11</name>
         </author>
     </entry>
     <entry>
@@ -2615,46 +2641,6 @@ Points: 505
 # Comments: 117]]></summary>
         <author>
             <name>utiiiD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I-have-ADHD: A skill to stop coding agents from burying the answer]]></title>
-        <id>https://news.ycombinator.com/item?id=49610631</id>
-        <link href="https://github.com/ayghri/i-have-adhd"/>
-        <updated>2026-09-08T14:13:26.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://github.com/ayghri/i-have-adhd
-Comments URL: https://news.ycombinator.com/item?id=49610631
-Points: 523
-# Comments: 359]]></summary>
-        <author>
-            <name>domhudson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LibreOffice breaks download records after declaring it has no AI features]]></title>
-        <id>https://news.ycombinator.com/item?id=49610538</id>
-        <link href="https://manualdousuario.net/en/libreoffice-download-record-no-ai/"/>
-        <updated>2026-09-08T14:05:57.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://manualdousuario.net/en/libreoffice-download-record-no-ai/
-Comments URL: https://news.ycombinator.com/item?id=49610538
-Points: 595
-# Comments: 201]]></summary>
-        <author>
-            <name>rpgbr</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Do you even need a presentation?]]></title>
-        <id>https://martinfowler.com/articles/never-send-slides/need-presentation.html</id>
-        <link href="https://martinfowler.com/articles/never-send-slides/need-presentation.html"/>
-        <updated>2026-09-08T13:42:00.000Z</updated>
-        <summary type="html"><![CDATA[Like me, Sumeet Gayathri Moghe is tired of poor
-      presentations with bad slide decks. He's started to write a series of
-      posts on how to avoid these calamities, beginning with a post that questions
-      whether a presentation is needed at all. 
-more…]]></summary>
-        <author>
-            <name>Martin Fowler</name>
         </author>
     </entry>
     <entry>

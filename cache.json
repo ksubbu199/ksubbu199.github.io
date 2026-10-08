@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=49998895",
+          "author": "muglug",
+          "description": "Article URL: https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007\nComments URL: https://news.ycombinator.com/item?id=49998895\nPoints: 781\n# Comments: 91",
+          "link": "https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007",
+          "publishedOn": "2026-10-07T21:16:18.000Z",
+          "wordCount": 2690,
+          "title": "Margaret Hamilton has died",
+          "imageUrl": "https://news.mit.edu/sites/default/files/images/202610/margaret-hamilton-portrait-toan-trinh-mit-technology-review-A1_1.png"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=49996437",
           "author": "sfkgtbor",
           "description": "Article URL: https://www.anthropic.com/claude-haiku-5-5\nComments URL: https://news.ycombinator.com/item?id=49996437\nPoints: 572\n# Comments: 275",
@@ -14,6 +24,16 @@
           "wordCount": 3508,
           "title": "Claude Haiku 5.5",
           "imageUrl": "https://www-cdn.anthropic.com/images/4zrzovbb/website/89e9b0fbfe0181f6ca565d913686ce8e49b5e9c2-1200x630.jpg"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=49996425",
+          "author": "joshuawright11",
+          "description": "Article URL: https://openai.com/index/gpt-6-for-everyone/\nComments URL: https://news.ycombinator.com/item?id=49996425\nPoints: 510\n# Comments: 268",
+          "link": "https://openai.com/index/gpt-6-for-everyone/",
+          "publishedOn": "2026-10-07T18:00:58.000Z",
+          "wordCount": null,
+          "title": "GPT‑6 and Intelligent UI for everyone",
+          "imageUrl": null
         },
         {
           "id": "https://news.ycombinator.com/item?id=49984923",
@@ -1704,26 +1724,6 @@
           "wordCount": 3410,
           "title": "AlphaGenome Atlas: a high-resolution map of human DNA",
           "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AlphaGenome_Atlas_herosocial.width-1300.png"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=49610631",
-          "author": "domhudson",
-          "description": "Article URL: https://github.com/ayghri/i-have-adhd\nComments URL: https://news.ycombinator.com/item?id=49610631\nPoints: 523\n# Comments: 359",
-          "link": "https://github.com/ayghri/i-have-adhd",
-          "publishedOn": "2026-09-08T14:13:26.000Z",
-          "wordCount": 2193,
-          "title": "I-have-ADHD: A skill to stop coding agents from burying the answer",
-          "imageUrl": "https://opengraph.githubassets.com/578bff495f5f41131e4a27fdafe1316eaf84014782bea93213ec651c1c22cae7/ayghri/i-have-adhd"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=49610538",
-          "author": "rpgbr",
-          "description": "Article URL: https://manualdousuario.net/en/libreoffice-download-record-no-ai/\nComments URL: https://news.ycombinator.com/item?id=49610538\nPoints: 595\n# Comments: 201",
-          "link": "https://manualdousuario.net/en/libreoffice-download-record-no-ai/",
-          "publishedOn": "2026-09-08T14:05:57.000Z",
-          "wordCount": 701,
-          "title": "LibreOffice breaks download records after declaring it has no AI features",
-          "imageUrl": "https://manualdousuario.net/wp-content/uploads/2026/09/libreoffice.png"
         }
       ]
     },
@@ -1952,16 +1952,6 @@
           "wordCount": 2125,
           "title": "Fragments: September  8",
           "imageUrl": "https://martinfowler.com/fragments/fragments-thumb.png"
-        },
-        {
-          "id": "https://martinfowler.com/articles/never-send-slides/need-presentation.html",
-          "author": null,
-          "description": "Like me, Sumeet Gayathri Moghe is tired of poor\n      presentations with bad slide decks. He's started to write a series of\n      posts on how to avoid these calamities, beginning with a post that questions\n      whether a presentation is needed at all. \nmore…",
-          "link": "https://martinfowler.com/articles/never-send-slides/need-presentation.html",
-          "publishedOn": "2026-09-08T13:42:00.000Z",
-          "wordCount": 2469,
-          "title": "Do you even need a presentation?",
-          "imageUrl": "https://martinfowler.com/articles/never-send-slides/index/card.png"
         }
       ]
     },
