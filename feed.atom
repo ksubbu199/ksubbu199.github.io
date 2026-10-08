@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-10-08T17:44:40.844Z</updated>
+    <updated>2026-10-08T22:58:34.917Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -14,6 +14,30 @@
         <summary type="html"><![CDATA[The Firebase iOS SDK crashed after a backend change, crashing all apps which used Firebase analytics for 2-6 hours. Google didn’t update the status page, but did offer a postmortem 4 days later.]]></summary>
         <author>
             <name>Ivan Klaric</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Trump administration is suspending Microsoft from a green card program]]></title>
+        <id>https://news.ycombinator.com/item?id=50006832</id>
+        <link href="https://apnews.com/article/h1b-visa-program-vance-microsoft-e7b3a407f822702b269ee277d21343ea"/>
+        <updated>2026-10-08T15:15:00.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://apnews.com/article/h1b-visa-program-vance-microsoft-e7b3a407f822702b269ee277d21343ea
+Comments URL: https://news.ycombinator.com/item?id=50006832
+Points: 776
+# Comments: 1351]]></summary>
+        <author>
+            <name>alephnerd</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tell HN: I've been paying for a rural Tanzanian's education for 10 years]]></title>
+        <id>https://news.ycombinator.com/item?id=50006366</id>
+        <link href="https://news.ycombinator.com/item?id=50006366"/>
+        <updated>2026-10-08T14:39:47.000Z</updated>
+        <summary type="html"><![CDATA[Ten years ago I was 19 and traveling through East Africa, and I spent a summer in Ibumila, a village in the Njombe highlands of Tanzania. There's no school in the village. The nearest one is a boarding school an hour away that costs a few hundred dollars a year, which is out of reach for most families there and was about two weeks of summer job money for me. The daughter of the family I stayed with, Anwarite, was 11. I offered to pay her fees and told myself I'd keep paying as long as she wanted to keep going.
+This summer she graduated from the University of Dar es Salaam with a degree in Language Studies, and last week she told me she'd been accepted into a Master of Arts in Swahili program there. Roughly 2% of people from Njombe ever finish a university degree. Her goal is to get a PhD a…]]></summary>
+        <author>
+            <name>lukehandcool</name>
         </author>
     </entry>
     <entry>
@@ -2580,32 +2604,6 @@ Points: 711
 # Comments: 297]]></summary>
         <author>
             <name>EdwinHoksberg</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Flock Wants a Closely Surveilled World with No Exit]]></title>
-        <id>https://news.ycombinator.com/item?id=49624394</id>
-        <link href="https://www.newyorker.com/culture/infinite-scroll/flock-wants-a-closely-surveilled-world-with-no-exit"/>
-        <updated>2026-09-09T10:54:18.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.newyorker.com/culture/infinite-scroll/flock-wants-a-closely-surveilled-world-with-no-exit
-Comments URL: https://news.ycombinator.com/item?id=49624394
-Points: 541
-# Comments: 511]]></summary>
-        <author>
-            <name>pseudolus</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Claude, change the “Add to Cart” button to blue]]></title>
-        <id>https://news.ycombinator.com/item?id=49623754</id>
-        <link href="https://opusfived.dev/"/>
-        <updated>2026-09-09T09:39:46.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://opusfived.dev/
-Comments URL: https://news.ycombinator.com/item?id=49623754
-Points: 846
-# Comments: 350]]></summary>
-        <author>
-            <name>matthieu_bl</name>
         </author>
     </entry>
     <entry>
