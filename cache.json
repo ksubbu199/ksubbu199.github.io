@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=50002008",
+          "author": "ent101",
+          "description": "Article URL: https://mathstodon.xyz/@tao/117395269325940185\nComments URL: https://news.ycombinator.com/item?id=50002008\nPoints: 542\n# Comments: 542",
+          "link": "https://mathstodon.xyz/@tao/117395269325940185",
+          "publishedOn": "2026-10-08T05:14:14.000Z",
+          "wordCount": 369,
+          "title": "“Math 2.0” will need to value mathematical progress more holistically",
+          "imageUrl": null
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=49998895",
           "author": "muglug",
           "description": "Article URL: https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007\nComments URL: https://news.ycombinator.com/item?id=49998895\nPoints: 781\n# Comments: 91",
@@ -1684,26 +1694,6 @@
           "wordCount": 30,
           "title": "Claude, change the “Add to Cart” button to blue",
           "imageUrl": "https://pub-bb2e103a32db4e198524a2e9ed8f35b4.r2.dev/30670832-9635-4801-aee1-22bf39bccebf/id-preview-364e3d04--0e3289c2-58d2-415e-a7ad-27daeb3a63a1.lovable.app-1788612778060.png"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=49621546",
-          "author": "player85",
-          "description": "Article URL: https://mmoustafa.com/blog/so-you-want-to-use-openrouter/\nComments URL: https://news.ycombinator.com/item?id=49621546\nPoints: 536\n# Comments: 142",
-          "link": "https://mmoustafa.com/blog/so-you-want-to-use-openrouter/",
-          "publishedOn": "2026-09-09T05:37:21.000Z",
-          "wordCount": 1907,
-          "title": "So you want to use OpenRouter?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=49619227",
-          "author": "yurivish",
-          "description": "https://xcancel.com/hilbertspaess/status/2097476196791709843...\nComments URL: https://news.ycombinator.com/item?id=49619227\nPoints: 540\n# Comments: 696",
-          "link": "https://twitter.com/hilbertspaess/status/2097476196791709843#m",
-          "publishedOn": "2026-09-09T00:40:40.000Z",
-          "wordCount": 1602,
-          "title": "I resigned from Anthropic today",
-          "imageUrl": "https://pbs.twimg.com/profile_images/2097232673865601024/d6H8UbQJ_400x400.jpg"
         }
       ]
     },
@@ -1937,6 +1927,16 @@
       "siteUrl": "https://blog.pragmaticengineer.com/",
       "articles": [
         {
+          "id": "6ac768715c3b8b00012d84b0",
+          "author": "Ivan Klaric",
+          "description": "The Firebase iOS SDK crashed after a backend change, crashing all apps which used Firebase analytics for 2-6 hours. Google didn’t update the status page, but did offer a postmortem 4 days later.",
+          "link": "https://blog.pragmaticengineer.com/the-pulse-firebases-global-outage-poor-response/",
+          "publishedOn": "2026-10-08T16:56:37.000Z",
+          "wordCount": 2380,
+          "title": "The Pulse: Firebase’s global outage & poor response",
+          "imageUrl": null
+        },
+        {
           "id": "6abe3b03734bf80001b842c0",
           "author": "Ivan Klaric",
           "description": "In his Rails World keynote, David Heinemeier Hansson (DHH) declared the end for writing code by hand for professional work – at 37signals at least. Is this change now unstoppable?",
@@ -1973,6 +1973,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKZozRVHRYsYHGEyNKuhhdA",
       "siteUrl": "https://www.youtube.com/channel/UCKZozRVHRYsYHGEyNKuhhdA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=g01HPntRJpY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=g01HPntRJpY",
+          "publishedOn": "2026-10-08T14:02:50.000Z",
+          "wordCount": null,
+          "title": "A strange shift in IT | Why the industry is changing faster than anyone expected?",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/shorts/lP4enqLb-uM",
           "author": null,

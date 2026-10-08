@@ -2,10 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-10-08T10:04:47.815Z</updated>
+    <updated>2026-10-08T17:44:40.844Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The Pulse: Firebase’s global outage & poor response]]></title>
+        <id>6ac768715c3b8b00012d84b0</id>
+        <link href="https://blog.pragmaticengineer.com/the-pulse-firebases-global-outage-poor-response/"/>
+        <updated>2026-10-08T16:56:37.000Z</updated>
+        <summary type="html"><![CDATA[The Firebase iOS SDK crashed after a backend change, crashing all apps which used Firebase analytics for 2-6 hours. Google didn’t update the status page, but did offer a postmortem 4 days later.]]></summary>
+        <author>
+            <name>Ivan Klaric</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A strange shift in IT | Why the industry is changing faster than anyone expected?]]></title>
+        <id>https://www.youtube.com/watch?v=g01HPntRJpY</id>
+        <link href="https://www.youtube.com/watch?v=g01HPntRJpY"/>
+        <updated>2026-10-08T14:02:50.000Z</updated>
+        <author>
+            <name>Think School</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“Math 2.0” will need to value mathematical progress more holistically]]></title>
+        <id>https://news.ycombinator.com/item?id=50002008</id>
+        <link href="https://mathstodon.xyz/@tao/117395269325940185"/>
+        <updated>2026-10-08T05:14:14.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://mathstodon.xyz/@tao/117395269325940185
+Comments URL: https://news.ycombinator.com/item?id=50002008
+Points: 542
+# Comments: 542]]></summary>
+        <author>
+            <name>ent101</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Margaret Hamilton has died]]></title>
         <id>https://news.ycombinator.com/item?id=49998895</id>
@@ -2574,32 +2606,6 @@ Points: 846
 # Comments: 350]]></summary>
         <author>
             <name>matthieu_bl</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[So you want to use OpenRouter?]]></title>
-        <id>https://news.ycombinator.com/item?id=49621546</id>
-        <link href="https://mmoustafa.com/blog/so-you-want-to-use-openrouter/"/>
-        <updated>2026-09-09T05:37:21.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://mmoustafa.com/blog/so-you-want-to-use-openrouter/
-Comments URL: https://news.ycombinator.com/item?id=49621546
-Points: 536
-# Comments: 142]]></summary>
-        <author>
-            <name>player85</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I resigned from Anthropic today]]></title>
-        <id>https://news.ycombinator.com/item?id=49619227</id>
-        <link href="https://twitter.com/hilbertspaess/status/2097476196791709843#m"/>
-        <updated>2026-09-09T00:40:40.000Z</updated>
-        <summary type="html"><![CDATA[https://xcancel.com/hilbertspaess/status/2097476196791709843...
-Comments URL: https://news.ycombinator.com/item?id=49619227
-Points: 540
-# Comments: 696]]></summary>
-        <author>
-            <name>yurivish</name>
         </author>
     </entry>
     <entry>
