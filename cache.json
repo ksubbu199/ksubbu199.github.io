@@ -36,6 +36,36 @@
           "imageUrl": null
         },
         {
+          "id": "https://news.ycombinator.com/item?id=49994443",
+          "author": "SpeakingOfBrad",
+          "description": "Article URL: https://bigwords.page/\nComments URL: https://news.ycombinator.com/item?id=49994443\nPoints: 507\n# Comments: 142",
+          "link": "https://bigwords.page/",
+          "publishedOn": "2026-10-07T15:44:21.000Z",
+          "wordCount": 313,
+          "title": "Show HN: Bigwords.page – Turn any screen into a sign. The URL is the app",
+          "imageUrl": "https://bigwords.page/og.png"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=49993914",
+          "author": "DeepLogin",
+          "description": "Article URL: https://www.classaction.org/news/visa-mastercard-major-banks-facing-new-litigation-over-anticompetitive-merchant-credit-card-transaction-fees\nComments URL: https://news.ycombinator.com/item?id=49993914\nPoints: 546\n# Comments: 392",
+          "link": "https://www.classaction.org/news/visa-mastercard-major-banks-facing-new-litigation-over-anticompetitive-merchant-credit-card-transaction-fees",
+          "publishedOn": "2026-10-07T15:09:59.000Z",
+          "wordCount": 1649,
+          "title": "Visa, Mastercard, major banks facing new litigation over 'anticompetitive' fees",
+          "imageUrl": "https://www.classaction.org/media/twitter-newswire-default.png"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=49991227",
+          "author": "AshleysBrain",
+          "description": "Article URL: https://developer.chrome.com/blog/jpeg-xl-in-chrome\nComments URL: https://news.ycombinator.com/item?id=49991227\nPoints: 549\n# Comments: 366",
+          "link": "https://developer.chrome.com/blog/jpeg-xl-in-chrome",
+          "publishedOn": "2026-10-07T11:25:02.000Z",
+          "wordCount": 1320,
+          "title": "Shipping JPEG XL in Chrome",
+          "imageUrl": "https://developer.chrome.com/static/blog/jpeg-xl-in-chrome/images/cover.png"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=49984923",
           "author": "OfficialTurkey",
           "description": "https://github.com/openai/math\nhttps://github.com/openai/math/tree/main/preprints\nComments URL: https://news.ycombinator.com/item?id=49984923\nPoints: 915\n# Comments: 837",
@@ -1674,56 +1704,6 @@
           "wordCount": 1602,
           "title": "I resigned from Anthropic today",
           "imageUrl": "https://pbs.twimg.com/profile_images/2097232673865601024/d6H8UbQJ_400x400.jpg"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=49615537",
-          "author": "yks",
-          "description": "Article URL: https://ai.meta.com/muse/\nComments URL: https://news.ycombinator.com/item?id=49615537\nPoints: 620\n# Comments: 678",
-          "link": "https://ai.meta.com/muse/",
-          "publishedOn": "2026-09-08T19:25:00.000Z",
-          "wordCount": 1309,
-          "title": "Muse – Meta’s personal AI agent",
-          "imageUrl": "https://scontent-sea1-1.xx.fbcdn.net/v/t39.2365-6/795767136_1630478025086800_8969738526855678960_n.webp?_nc_cat=104&ccb=1-7&_nc_sid=aa6a2f&_nc_ohc=QtIWi2o_kBUQ7kNvwEXUfHY&_nc_oc=AdooCmwbQNO_WIQzFU59clA62WCL9_KeDHdpfwayfi9oufMd59uEVpFEPkwz9UcsVH_Y4co_y2ppGEwfvvzrNwRz&_nc_zt=14&_nc_ht=scontent-sea1-1.xx&_nc_gid=gxgZnw0sSiI-ee-GPO7nTw&_nc_ss=7b20f&oh=00_AQLddhB1REycbXK8EP1M3IcZioo3HI-IcUYPHNNl_W4gbA&oe=6AA7A113"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=49614280",
-          "author": "evakhoury",
-          "description": "Article URL: https://tautology.town/2026/06/01/card-networks.html\nComments URL: https://news.ycombinator.com/item?id=49614280\nPoints: 541\n# Comments: 324",
-          "link": "https://tautology.town/2026/06/01/card-networks.html",
-          "publishedOn": "2026-09-08T18:11:05.000Z",
-          "wordCount": 2738,
-          "title": "What do Visa and Mastercard do? An intro to card networks",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=49613262",
-          "author": "tedsanders",
-          "description": "Article URL: https://openai.com/index/navier-stokes-solution/\nComments URL: https://news.ycombinator.com/item?id=49613262\nPoints: 903\n# Comments: 712",
-          "link": "https://openai.com/index/navier-stokes-solution/",
-          "publishedOn": "2026-09-08T17:13:21.000Z",
-          "wordCount": null,
-          "title": "On the Navier–Stokes Millennium Prize Problem",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=49612329",
-          "author": "sbulaev",
-          "description": "Article URL: https://www.theverge.com/tech/991190/lg-tv-spying-standby-recording-wi-fi-scanning-gamers-nexus\nComments URL: https://news.ycombinator.com/item?id=49612329\nPoints: 531\n# Comments: 312",
-          "link": "https://www.theverge.com/tech/991190/lg-tv-spying-standby-recording-wi-fi-scanning-gamers-nexus",
-          "publishedOn": "2026-09-08T16:07:08.000Z",
-          "wordCount": 3839,
-          "title": "LG TVs caught spying even when offline or on standby",
-          "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/258078_LG_G5_OLED_TV_JHiggins_0007.jpg?quality=90&strip=all&crop=0%2C7.9509095732762%2C100%2C78.534031413613&w=1200"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=49611251",
-          "author": "utiiiD",
-          "description": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-...\nhttps://deepmind.google.com/science/alphagenome/atlas\nComments URL: https://news.ycombinator.com/item?id=49611251\nPoints: 505\n# Comments: 117",
-          "link": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/alphagenome-atlas/",
-          "publishedOn": "2026-09-08T14:55:45.000Z",
-          "wordCount": 3410,
-          "title": "AlphaGenome Atlas: a high-resolution map of human DNA",
-          "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AlphaGenome_Atlas_herosocial.width-1300.png"
         }
       ]
     },
@@ -1942,16 +1922,6 @@
           "wordCount": 1329,
           "title": "Social Media Engagement: summer 2026",
           "imageUrl": "https://martinfowler.com/articles/2026-social-traffic/card.png"
-        },
-        {
-          "id": "https://martinfowler.com/fragments/2026-09-08.html",
-          "author": null,
-          "description": "Christian Catalini says we’re in a situation where we are vastly reducing the cost of generating things, but not the cost of verifying them:.\nThis explains why the first major AI products appeared in chat, image generation, and code assistance. Not because these were the hardest human problems, but because their outputs were relatively easy to inspect. A user can judge the tone of a message, look at an image, or run a test on a piece of code.\n[…]\nThe old automation boundary was routine versus non-routine work. The new boundary is increasingly measurable versus non-measurable work.\nThe issue is then over how well you can measure something. In our profession, we know there’s a big difference between how many lines of code we write and how productive we are, and we’ve seen a regular failure t…",
-          "link": "https://martinfowler.com/fragments/2026-09-08.html",
-          "publishedOn": "2026-09-08T15:22:00.000Z",
-          "wordCount": 2125,
-          "title": "Fragments: September  8",
-          "imageUrl": "https://martinfowler.com/fragments/fragments-thumb.png"
         }
       ]
     },
