@@ -6,6 +6,26 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=50019911",
+          "author": "ilreb",
+          "description": "Article URL: https://deno.com/blog/cloudflare\nComments URL: https://news.ycombinator.com/item?id=50019911\nPoints: 646\n# Comments: 344",
+          "link": "https://deno.com/blog/cloudflare",
+          "publishedOn": "2026-10-09T13:03:48.000Z",
+          "wordCount": 837,
+          "title": "Deno Is Joining Cloudflare",
+          "imageUrl": "https://deno.com/blog/cloudflare/deno-cf-balanced-og.webp"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=50009295",
+          "author": "kbyatnal",
+          "description": "Article URL: https://www.theranos.world/\nComments URL: https://news.ycombinator.com/item?id=50009295\nPoints: 517\n# Comments: 188",
+          "link": "https://www.theranos.world/",
+          "publishedOn": "2026-10-08T17:51:49.000Z",
+          "wordCount": 80,
+          "title": "Theranos.world",
+          "imageUrl": "https://www.theranos.world/assets/theranos-world-social-v1.jpg"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=50008427",
           "author": "gmays",
           "description": "Article URL: https://cactuscompute.com/blog/whistle\nComments URL: https://news.ycombinator.com/item?id=50008427\nPoints: 575\n# Comments: 128",
@@ -33,6 +53,16 @@
           "publishedOn": "2026-10-08T14:39:47.000Z",
           "wordCount": 14089,
           "title": "Tell HN: I've been paying for a rural Tanzanian's education for 10 years",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=50003796",
+          "author": "Michelangelo11",
+          "description": "Article URL: https://htmx.org/essays/yes-and/\nComments URL: https://news.ycombinator.com/item?id=50003796\nPoints: 642\n# Comments: 250",
+          "link": "https://htmx.org/essays/yes-and/",
+          "publishedOn": "2026-10-08T09:48:18.000Z",
+          "wordCount": 2318,
+          "title": "Yes, and",
           "imageUrl": null
         },
         {
@@ -1684,16 +1714,6 @@
           "wordCount": 1560,
           "title": "DeepSeek v4.1 Flash",
           "imageUrl": "https://pbs.twimg.com/media/HR1UyHiaAAAtpqw?format=webp&name=large"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=49637385",
-          "author": "dmitrybrant",
-          "description": "I've always wanted to make a visualization where the speed of light was scaled down to human speeds, so that we could intuit relativistic effects with everyday objects. Here is the first version of it!\nComments URL: https://news.ycombinator.com/item?id=49637385\nPoints: 548\n# Comments: 239",
-          "link": "https://rivendell.dmitrybrant.com/relativity/",
-          "publishedOn": "2026-09-10T01:58:00.000Z",
-          "wordCount": 640,
-          "title": "Show HN: What if the speed of light was 5 km/h?",
-          "imageUrl": null
         }
       ]
     },
@@ -1963,6 +1983,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKZozRVHRYsYHGEyNKuhhdA",
       "siteUrl": "https://www.youtube.com/channel/UCKZozRVHRYsYHGEyNKuhhdA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=5PyTHJGkYWk",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=5PyTHJGkYWk",
+          "publishedOn": "2026-10-09T14:04:12.000Z",
+          "wordCount": null,
+          "title": "Strange Fall of Oracle | How a $300 Billion AI Deal Changed Everything?",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=g01HPntRJpY",
           "author": null,
