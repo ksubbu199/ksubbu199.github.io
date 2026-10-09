@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-10-09T17:20:41.357Z</updated>
+    <updated>2026-10-09T22:19:37.934Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -16,6 +16,19 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Our $445M Series D]]></title>
+        <id>https://news.ycombinator.com/item?id=50020014</id>
+        <link href="https://oxide.computer/blog/our-445m-series-d"/>
+        <updated>2026-10-09T13:12:47.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://oxide.computer/blog/our-445m-series-d
+Comments URL: https://news.ycombinator.com/item?id=50020014
+Points: 536
+# Comments: 232]]></summary>
+        <author>
+            <name>ahlCVA</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Deno Is Joining Cloudflare]]></title>
         <id>https://news.ycombinator.com/item?id=50019911</id>
         <link href="https://deno.com/blog/cloudflare"/>
@@ -26,6 +39,19 @@ Points: 646
 # Comments: 344]]></summary>
         <author>
             <name>ilreb</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sorry, I'm in a meeting]]></title>
+        <id>https://news.ycombinator.com/item?id=50018088</id>
+        <link href="https://iminafleeting.com/"/>
+        <updated>2026-10-09T09:21:48.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://iminafleeting.com/
+Comments URL: https://news.ycombinator.com/item?id=50018088
+Points: 682
+# Comments: 216]]></summary>
+        <author>
+            <name>splintersio</name>
         </author>
     </entry>
     <entry>
@@ -2575,48 +2601,6 @@ Points: 535
 # Comments: 290]]></summary>
         <author>
             <name>mmastrac</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[IKEA made a mod for Skyrim [video]]]></title>
-        <id>https://news.ycombinator.com/item?id=49639647</id>
-        <link href="https://www.youtube.com/watch?v=iZODN0QUgjI"/>
-        <updated>2026-09-10T07:20:50.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.youtube.com/watch?v=iZODN0QUgjI
-Comments URL: https://news.ycombinator.com/item?id=49639647
-Points: 503
-# Comments: 131]]></summary>
-        <author>
-            <name>kegenaar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[More questions about whether researchers can trust OpenAI with unpublished math]]></title>
-        <id>https://news.ycombinator.com/item?id=49639408</id>
-        <link href="https://mathstodon.xyz/@andreasthom/117240535270608201"/>
-        <updated>2026-09-10T06:49:43.000Z</updated>
-        <summary type="html"><![CDATA[https://mathstodon.xyz/@andreasthom/117240536885387540
-https://mathstodon.xyz/@andreasthom/117240537520615623
-https://x.com/ValerioCapraro/status/2097791836269977996, https://xcancel.com/ValerioCapraro/status/209779183626997799...
-https://bsky.app/profile/did:plc:ckaz32jwl6t2cno6fmuw2nhn/po...
-Comments URL: https://news.ycombinator.com/item?id=49639408
-Points: 586
-# Comments: 586]]></summary>
-        <author>
-            <name>pred_</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DeepSeek v4.1 Flash]]></title>
-        <id>https://news.ycombinator.com/item?id=49639090</id>
-        <link href="https://twitter.com/deepseek_ai/status/2097930608790167907"/>
-        <updated>2026-09-10T06:11:05.000Z</updated>
-        <summary type="html"><![CDATA[https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash
-Comments URL: https://news.ycombinator.com/item?id=49639090
-Points: 801
-# Comments: 445]]></summary>
-        <author>
-            <name>Liwink</name>
         </author>
     </entry>
     <entry>

@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=50020014",
+          "author": "ahlCVA",
+          "description": "Article URL: https://oxide.computer/blog/our-445m-series-d\nComments URL: https://news.ycombinator.com/item?id=50020014\nPoints: 536\n# Comments: 232",
+          "link": "https://oxide.computer/blog/our-445m-series-d",
+          "publishedOn": "2026-10-09T13:12:47.000Z",
+          "wordCount": 3510,
+          "title": "Our $445M Series D",
+          "imageUrl": "https://oxide-computer-pziso2iyz-oxidecomputer.vercel.app/img/blog/series-d/series-d-announcement-og-image.png"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=50019911",
           "author": "ilreb",
           "description": "Article URL: https://deno.com/blog/cloudflare\nComments URL: https://news.ycombinator.com/item?id=50019911\nPoints: 646\n# Comments: 344",
@@ -14,6 +24,16 @@
           "wordCount": 837,
           "title": "Deno Is Joining Cloudflare",
           "imageUrl": "https://deno.com/blog/cloudflare/deno-cf-balanced-og.webp"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=50018088",
+          "author": "splintersio",
+          "description": "Article URL: https://iminafleeting.com/\nComments URL: https://news.ycombinator.com/item?id=50018088\nPoints: 682\n# Comments: 216",
+          "link": "https://iminafleeting.com/",
+          "publishedOn": "2026-10-09T09:21:48.000Z",
+          "wordCount": null,
+          "title": "Sorry, I'm in a meeting",
+          "imageUrl": null
         },
         {
           "id": "https://news.ycombinator.com/item?id=50009295",
@@ -1684,36 +1704,6 @@
           "wordCount": 2633,
           "title": "Rust is tier-1 language at Microsoft",
           "imageUrl": "https://rustfoundation.org/wp-content/uploads/2026/09/Guest-Blog-Graphic-2.png"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=49639647",
-          "author": "kegenaar",
-          "description": "Article URL: https://www.youtube.com/watch?v=iZODN0QUgjI\nComments URL: https://news.ycombinator.com/item?id=49639647\nPoints: 503\n# Comments: 131",
-          "link": "https://www.youtube.com/watch?v=iZODN0QUgjI",
-          "publishedOn": "2026-09-10T07:20:50.000Z",
-          "wordCount": null,
-          "title": "IKEA made a mod for Skyrim [video]",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=49639408",
-          "author": "pred_",
-          "description": "https://mathstodon.xyz/@andreasthom/117240536885387540\nhttps://mathstodon.xyz/@andreasthom/117240537520615623\nhttps://x.com/ValerioCapraro/status/2097791836269977996, https://xcancel.com/ValerioCapraro/status/209779183626997799...\nhttps://bsky.app/profile/did:plc:ckaz32jwl6t2cno6fmuw2nhn/po...\nComments URL: https://news.ycombinator.com/item?id=49639408\nPoints: 586\n# Comments: 586",
-          "link": "https://mathstodon.xyz/@andreasthom/117240535270608201",
-          "publishedOn": "2026-09-10T06:49:43.000Z",
-          "wordCount": 487,
-          "title": "More questions about whether researchers can trust OpenAI with unpublished math",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=49639090",
-          "author": "Liwink",
-          "description": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash\nComments URL: https://news.ycombinator.com/item?id=49639090\nPoints: 801\n# Comments: 445",
-          "link": "https://twitter.com/deepseek_ai/status/2097930608790167907",
-          "publishedOn": "2026-09-10T06:11:05.000Z",
-          "wordCount": 1560,
-          "title": "DeepSeek v4.1 Flash",
-          "imageUrl": "https://pbs.twimg.com/media/HR1UyHiaAAAtpqw?format=webp&name=large"
         }
       ]
     },
