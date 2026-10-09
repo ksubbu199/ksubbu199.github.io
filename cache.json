@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=50008427",
+          "author": "gmays",
+          "description": "Article URL: https://cactuscompute.com/blog/whistle\nComments URL: https://news.ycombinator.com/item?id=50008427\nPoints: 575\n# Comments: 128",
+          "link": "https://cactuscompute.com/blog/whistle",
+          "publishedOn": "2026-10-08T16:59:39.000Z",
+          "wordCount": 3482,
+          "title": "Whistle: Speech to Text in 16.9 MB",
+          "imageUrl": null
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=50006832",
           "author": "alephnerd",
           "description": "Article URL: https://apnews.com/article/h1b-visa-program-vance-microsoft-e7b3a407f822702b269ee277d21343ea\nComments URL: https://news.ycombinator.com/item?id=50006832\nPoints: 776\n# Comments: 1351",
@@ -1674,26 +1684,6 @@
           "wordCount": 6680,
           "title": "AirPods 5",
           "imageUrl": "https://www.apple.com/newsroom/images/2026/09/apple-introduces-airpods-5-with-best-in-class-open-ear-active-noise-cancellation/tile/Apple-AirPods-5-hero-260909-lp.jpg.og.jpg?202609101300"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=49627370",
-          "author": "ModelForge",
-          "description": "Article URL: https://magazine.sebastianraschka.com/p/gpt-6-astra-looped-transformers-and\nComments URL: https://news.ycombinator.com/item?id=49627370\nPoints: 500\n# Comments: 160",
-          "link": "https://magazine.sebastianraschka.com/p/gpt-6-astra-looped-transformers-and",
-          "publishedOn": "2026-09-09T14:37:47.000Z",
-          "wordCount": 16695,
-          "title": "GPT-6 Astra, looped transformers, and hidden reasoning",
-          "imageUrl": "https://substackcdn.com/image/fetch/$s_!bGKc!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3d2ac2ec-ab80-43a8-aa93-a33a846dda43_1564x874.png"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=49626190",
-          "author": "EdwinHoksberg",
-          "description": "Article URL: https://tailwindcss.com/blog/tailwind-is-joining-shopify\nComments URL: https://news.ycombinator.com/item?id=49626190\nPoints: 711\n# Comments: 297",
-          "link": "https://tailwindcss.com/blog/tailwind-is-joining-shopify",
-          "publishedOn": "2026-09-09T13:27:11.000Z",
-          "wordCount": 1796,
-          "title": "Shopify acquires Tailwind",
-          "imageUrl": "https://tailwindcss.com/_next/static/media/og-image.103kpqahmns2b.jpg"
         }
       ]
     },

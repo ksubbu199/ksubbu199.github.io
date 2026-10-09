@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-10-08T22:58:34.917Z</updated>
+    <updated>2026-10-09T02:53:12.206Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Whistle: Speech to Text in 16.9 MB]]></title>
+        <id>https://news.ycombinator.com/item?id=50008427</id>
+        <link href="https://cactuscompute.com/blog/whistle"/>
+        <updated>2026-10-08T16:59:39.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://cactuscompute.com/blog/whistle
+Comments URL: https://news.ycombinator.com/item?id=50008427
+Points: 575
+# Comments: 128]]></summary>
+        <author>
+            <name>gmays</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Pulse: Firebase’s global outage & poor response]]></title>
         <id>6ac768715c3b8b00012d84b0</id>
@@ -2578,32 +2591,6 @@ more…]]></summary>
         <updated>2026-09-09T14:57:00.000Z</updated>
         <author>
             <name>Think School</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GPT-6 Astra, looped transformers, and hidden reasoning]]></title>
-        <id>https://news.ycombinator.com/item?id=49627370</id>
-        <link href="https://magazine.sebastianraschka.com/p/gpt-6-astra-looped-transformers-and"/>
-        <updated>2026-09-09T14:37:47.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://magazine.sebastianraschka.com/p/gpt-6-astra-looped-transformers-and
-Comments URL: https://news.ycombinator.com/item?id=49627370
-Points: 500
-# Comments: 160]]></summary>
-        <author>
-            <name>ModelForge</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Shopify acquires Tailwind]]></title>
-        <id>https://news.ycombinator.com/item?id=49626190</id>
-        <link href="https://tailwindcss.com/blog/tailwind-is-joining-shopify"/>
-        <updated>2026-09-09T13:27:11.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://tailwindcss.com/blog/tailwind-is-joining-shopify
-Comments URL: https://news.ycombinator.com/item?id=49626190
-Points: 711
-# Comments: 297]]></summary>
-        <author>
-            <name>EdwinHoksberg</name>
         </author>
     </entry>
     <entry>
