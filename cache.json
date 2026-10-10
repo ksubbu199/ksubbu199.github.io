@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=50022292",
+          "author": "robin_reala",
+          "description": "Article URL: https://minesweeper.mikelacher.com/\nComments URL: https://news.ycombinator.com/item?id=50022292\nPoints: 660\n# Comments: 122",
+          "link": "https://minesweeper.mikelacher.com/",
+          "publishedOn": "2026-10-09T15:51:05.000Z",
+          "wordCount": 4,
+          "title": "Triple-A Minesweeper",
+          "imageUrl": "https://minesweeper.mikelacher.com/images/share.png"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=50020014",
           "author": "ahlCVA",
           "description": "Article URL: https://oxide.computer/blog/our-445m-series-d\nComments URL: https://news.ycombinator.com/item?id=50020014\nPoints: 536\n# Comments: 232",
@@ -1694,16 +1704,6 @@
           "wordCount": 10537,
           "title": "Shopify moves back to Native from React Native",
           "imageUrl": "https://cdn.shopify.com/b/shopify-brochure2-assets/74f109ae9b0c3034a78a3b63294ae2e6.png"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=49643546",
-          "author": "mmastrac",
-          "description": "Article URL: https://rustfoundation.org/media/guest-post-rust-is-tier-1-language-at-microsoft/\nComments URL: https://news.ycombinator.com/item?id=49643546\nPoints: 535\n# Comments: 290",
-          "link": "https://rustfoundation.org/media/guest-post-rust-is-tier-1-language-at-microsoft/",
-          "publishedOn": "2026-09-10T13:39:16.000Z",
-          "wordCount": 2633,
-          "title": "Rust is tier-1 language at Microsoft",
-          "imageUrl": "https://rustfoundation.org/wp-content/uploads/2026/09/Guest-Blog-Graphic-2.png"
         }
       ]
     },

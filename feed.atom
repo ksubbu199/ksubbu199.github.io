@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-10-09T22:19:37.934Z</updated>
+    <updated>2026-10-10T02:07:14.284Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Triple-A Minesweeper]]></title>
+        <id>https://news.ycombinator.com/item?id=50022292</id>
+        <link href="https://minesweeper.mikelacher.com/"/>
+        <updated>2026-10-09T15:51:05.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://minesweeper.mikelacher.com/
+Comments URL: https://news.ycombinator.com/item?id=50022292
+Points: 660
+# Comments: 122]]></summary>
+        <author>
+            <name>robin_reala</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Strange Fall of Oracle | How a $300 Billion AI Deal Changed Everything?]]></title>
         <id>https://www.youtube.com/watch?v=5PyTHJGkYWk</id>
@@ -2588,19 +2601,6 @@ Points: 600
 # Comments: 410]]></summary>
         <author>
             <name>fnthawar2</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rust is tier-1 language at Microsoft]]></title>
-        <id>https://news.ycombinator.com/item?id=49643546</id>
-        <link href="https://rustfoundation.org/media/guest-post-rust-is-tier-1-language-at-microsoft/"/>
-        <updated>2026-09-10T13:39:16.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://rustfoundation.org/media/guest-post-rust-is-tier-1-language-at-microsoft/
-Comments URL: https://news.ycombinator.com/item?id=49643546
-Points: 535
-# Comments: 290]]></summary>
-        <author>
-            <name>mmastrac</name>
         </author>
     </entry>
     <entry>
