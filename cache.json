@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=50026555",
+          "author": "gumby",
+          "description": "Article URL: https://gizmodo.com/youtuber-says-cops-paid-him-a-visit-after-he-built-flock-style-camera-to-track-cops-2000824306\nComments URL: https://news.ycombinator.com/item?id=50026555\nPoints: 570\n# Comments: 308",
+          "link": "https://gizmodo.com/youtuber-says-cops-paid-him-a-visit-after-he-built-flock-style-camera-to-track-cops-2000824306",
+          "publishedOn": "2026-10-09T21:06:59.000Z",
+          "wordCount": null,
+          "title": "YouTuber Says Cops Visited Him After He Built a Flock-Style Camera to Track Cops",
+          "imageUrl": null
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=50022292",
           "author": "robin_reala",
           "description": "Article URL: https://minesweeper.mikelacher.com/\nComments URL: https://news.ycombinator.com/item?id=50022292\nPoints: 660\n# Comments: 122",
@@ -1674,36 +1684,6 @@
           "wordCount": 6909,
           "title": "Claude is only available to people over 18 years",
           "imageUrl": "https://downloads.intercomcdn.com/i/o/lupk8zyo/792494/717b10d3ebd874823db64841659b/76f3062d78ebbb04863fb1de3ef9cca0.png"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=49645480",
-          "author": "datakan",
-          "description": "https://www.lg.com/global/newsroom/news/statements/statement...\nComments URL: https://news.ycombinator.com/item?id=49645480\nPoints: 574\n# Comments: 438",
-          "link": "https://www.tomshardware.com/tech-industry/big-tech/lg-strongly-denies-tv-security-claims-says-tracking-and-snooping-concerns-not-true-online-investigation-claims-216-000-000-spy-tvs-record-audio",
-          "publishedOn": "2026-09-10T15:31:37.000Z",
-          "wordCount": 53204,
-          "title": "LG denies TV spying claims, says tracking and snooping concerns 'not true'",
-          "imageUrl": "https://cdn.mos.cms.futurecdn.net/wcBwi9EfLxcZ9QCuRwh33k-2560-80.jpg"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=49645393",
-          "author": "Brajeshwar",
-          "description": "Article URL: https://blog.jim-nielsen.com/2026/hands-off-my-cables/\nComments URL: https://news.ycombinator.com/item?id=49645393\nPoints: 612\n# Comments: 382",
-          "link": "https://blog.jim-nielsen.com/2026/hands-off-my-cables/",
-          "publishedOn": "2026-09-10T15:27:22.000Z",
-          "wordCount": 630,
-          "title": "Don't let anyone take away your big box of cables",
-          "imageUrl": "https://cdn.jim-nielsen.com/blog/2026/cables.jpg"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=49643982",
-          "author": "fnthawar2",
-          "description": "Article URL: https://shopify.engineering/back-to-native\nComments URL: https://news.ycombinator.com/item?id=49643982\nPoints: 600\n# Comments: 410",
-          "link": "https://shopify.engineering/back-to-native",
-          "publishedOn": "2026-09-10T14:09:31.000Z",
-          "wordCount": 10537,
-          "title": "Shopify moves back to Native from React Native",
-          "imageUrl": "https://cdn.shopify.com/b/shopify-brochure2-assets/74f109ae9b0c3034a78a3b63294ae2e6.png"
         }
       ]
     },
@@ -1954,16 +1934,6 @@
           "publishedOn": "2026-09-24T16:45:01.000Z",
           "wordCount": 2231,
           "title": "The Pulse: a new trend of CPU shortages",
-          "imageUrl": null
-        },
-        {
-          "id": "6aa26df1e3d0390001d47f92",
-          "author": "Ivan Klaric",
-          "description": "Uber, Pinterest, Stripe, Coinbase, Ramp, and AT&T are making large savings on their AI bills by dropping proprietary models and using smart model routing.",
-          "link": "https://blog.pragmaticengineer.com/the-pulse-tech-companies-move-to-open-ai-models/",
-          "publishedOn": "2026-09-10T17:22:31.000Z",
-          "wordCount": 1982,
-          "title": "The Pulse: tech companies move to open AI models",
           "imageUrl": null
         }
       ]
