@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-10-11T17:24:13.227Z</updated>
+    <updated>2026-10-11T21:32:58.156Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -17,6 +17,45 @@ Points: 513
 # Comments: 198]]></summary>
         <author>
             <name>walrus01</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[3rd Yandex Cloud Data Center Was Hit]]></title>
+        <id>https://news.ycombinator.com/item?id=50040547</id>
+        <link href="https://status.yandex.cloud/en/incidents/2136"/>
+        <updated>2026-10-11T07:34:45.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://status.yandex.cloud/en/incidents/2136
+Comments URL: https://news.ycombinator.com/item?id=50040547
+Points: 522
+# Comments: 629]]></summary>
+        <author>
+            <name>defly</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A city-building game in which the city would prefer you didn't]]></title>
+        <id>https://news.ycombinator.com/item?id=50036864</id>
+        <link href="https://housing.over.pizza/"/>
+        <updated>2026-10-10T20:31:50.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://housing.over.pizza/
+Comments URL: https://news.ycombinator.com/item?id=50036864
+Points: 523
+# Comments: 173]]></summary>
+        <author>
+            <name>JumpCrisscross</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lobbying is corruption]]></title>
+        <id>https://news.ycombinator.com/item?id=50032556</id>
+        <link href="https://carette.xyz/posts/lobbying_and_corruption/"/>
+        <updated>2026-10-10T13:05:58.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://carette.xyz/posts/lobbying_and_corruption/
+Comments URL: https://news.ycombinator.com/item?id=50032556
+Points: 506
+# Comments: 281]]></summary>
+        <author>
+            <name>LucidLynx</name>
         </author>
     </entry>
     <entry>
@@ -2505,16 +2544,6 @@ Points: 517
 # Comments: 517]]></summary>
         <author>
             <name>JayOtter</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PolyForm Noncommercial 2.0.0-pre.3]]></title>
-        <id>https://writing.kemitchell.com/2026/09/12/PolyForm-Licenses-2.0.0-pre.3</id>
-        <link href="https://writing.kemitchell.com/2026/09/12/PolyForm-Licenses-2.0.0-pre.3"/>
-        <updated>2026-09-12T07:00:00.000Z</updated>
-        <summary type="html"><![CDATA[steps toward 2.0.0]]></summary>
-        <author>
-            <name>/dev/lawyer</name>
         </author>
     </entry>
     <entry>
