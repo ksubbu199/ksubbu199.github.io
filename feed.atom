@@ -2,10 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-10-11T11:14:36.869Z</updated>
+    <updated>2026-10-11T17:24:13.227Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Bot traffic from Yandex]]></title>
+        <id>https://news.ycombinator.com/item?id=50041619</id>
+        <link href="https://radar.cloudflare.com/bots/as13238?dateRange=7d"/>
+        <updated>2026-10-11T10:27:53.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://radar.cloudflare.com/bots/as13238?dateRange=7d
+Comments URL: https://news.ycombinator.com/item?id=50041619
+Points: 513
+# Comments: 198]]></summary>
+        <author>
+            <name>walrus01</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Lightbulb Computer]]></title>
+        <id>https://news.ycombinator.com/item?id=50029487</id>
+        <link href="https://lightbulbcomputer.com/"/>
+        <updated>2026-10-10T04:12:26.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://lightbulbcomputer.com/
+Comments URL: https://news.ycombinator.com/item?id=50029487
+Points: 541
+# Comments: 88]]></summary>
+        <author>
+            <name>oskarth</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[REA Reverse – Engineer Anything]]></title>
         <id>https://news.ycombinator.com/item?id=50028275</id>
@@ -2489,32 +2515,6 @@ Points: 517
         <summary type="html"><![CDATA[steps toward 2.0.0]]></summary>
         <author>
             <name>/dev/lawyer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[google.com/goto: Google's anti-scraping update]]></title>
-        <id>https://news.ycombinator.com/item?id=49668386</id>
-        <link href="https://www.autom.dev/blog/google-search-goto-links"/>
-        <updated>2026-09-12T03:14:20.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.autom.dev/blog/google-search-goto-links
-Comments URL: https://news.ycombinator.com/item?id=49668386
-Points: 516
-# Comments: 415]]></summary>
-        <author>
-            <name>1e1a</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenAI agents carried out an undisclosed attack on RubyGems]]></title>
-        <id>https://news.ycombinator.com/item?id=49666735</id>
-        <link href="https://www.rubyhack.ai/"/>
-        <updated>2026-09-11T23:17:42.000Z</updated>
-        <summary type="html"><![CDATA[https://simonwillison.net/2026/Sep/12/openai-agents-rubygems...
-Comments URL: https://news.ycombinator.com/item?id=49666735
-Points: 589
-# Comments: 337]]></summary>
-        <author>
-            <name>chao-</name>
         </author>
     </entry>
     <entry>
