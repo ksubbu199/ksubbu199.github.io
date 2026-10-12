@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=50048312",
+          "author": "laurex",
+          "description": "Article URL: https://nonfunctional.substack.com/p/passkeys-are-a-trap-do-not-use-them\nComments URL: https://news.ycombinator.com/item?id=50048312\nPoints: 578\n# Comments: 329",
+          "link": "https://nonfunctional.substack.com/p/passkeys-are-a-trap-do-not-use-them",
+          "publishedOn": "2026-10-11T21:59:48.000Z",
+          "wordCount": null,
+          "title": "Passkeys are a trap",
+          "imageUrl": null
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=50041619",
           "author": "walrus01",
           "description": "Article URL: https://radar.cloudflare.com/bots/as13238?dateRange=7d\nComments URL: https://news.ycombinator.com/item?id=50041619\nPoints: 513\n# Comments: 198",
@@ -1644,36 +1654,6 @@
           "wordCount": 574,
           "title": "Everyone should slow down AI development except for me",
           "imageUrl": "https://files.xeiaso.net/hero/solution-nine.jpg"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=49674050",
-          "author": "juliantigler",
-          "description": "Article URL: https://high5apps.github.io/josm-plugin-website-wizard/\nComments URL: https://news.ycombinator.com/item?id=49674050\nPoints: 515\n# Comments: 132",
-          "link": "https://high5apps.github.io/josm-plugin-website-wizard/",
-          "publishedOn": "2026-09-12T16:25:08.000Z",
-          "wordCount": 855,
-          "title": "Make your first edit to OpenStreetMap",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=49673098",
-          "author": "tolugenius",
-          "description": "https://archive.ph/kt50V\nComments URL: https://news.ycombinator.com/item?id=49673098\nPoints: 518\n# Comments: 366",
-          "link": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
-          "publishedOn": "2026-09-12T15:08:27.000Z",
-          "wordCount": null,
-          "title": "Nvidia is the central bank of AI",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=49672510",
-          "author": "apsec112",
-          "description": "Article URL: https://darioamodei.com/post/we-must-pace-the-frontier\nComments URL: https://news.ycombinator.com/item?id=49672510\nPoints: 575\n# Comments: 807",
-          "link": "https://darioamodei.com/post/we-must-pace-the-frontier",
-          "publishedOn": "2026-09-12T14:10:49.000Z",
-          "wordCount": 6365,
-          "title": "We must pace the frontier",
-          "imageUrl": "https://cdn.prod.website-files.com/67ecbba31246a69e485fdd4b/6aa5311897ee19af5d9f2cd9_og_we-must-pace-the-frontier.jpg"
         }
       ]
     },
@@ -2052,26 +2032,6 @@
           "wordCount": null,
           "title": "The Billion-Dollar Monastery | How Bhutan Fought Poverty With Bitcoins",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/shorts/mohPtT7HnFM",
-          "author": null,
-          "description": "Can you really build a business without a huge amount of capital?In this episode, we sit down with Eric Ries, bestselling author of *The Lean Startup*, to un...",
-          "link": "https://www.youtube.com/shorts/mohPtT7HnFM",
-          "publishedOn": "2026-09-12T15:49:17.000Z",
-          "wordCount": 4351,
-          "title": "Finding a Goldmine Business opportunity!",
-          "imageUrl": "https://i.ytimg.com/vi/mohPtT7HnFM/oardefault.jpg?sqp=-oaymwEoCJUDENAFSFqQAgHyq4qpAxcIARUAAAAAJQAAyEI9AICiQ3gBuALzGA==&rs=AOn4CLBl-eYzC6BvH0cWHKDrcDWhCzPZhA&usqp=CCk"
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=eErcrQQHzg4",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=eErcrQQHzg4",
-          "publishedOn": "2026-09-12T15:03:56.000Z",
-          "wordCount": null,
-          "title": "Start a Business With No Money | Eric Ries’ Guide for First-Time Founders",
-          "imageUrl": null
         }
       ]
     },
@@ -2085,7 +2045,18 @@
       "title": "Lea Verou’s blog",
       "feedUrl": "https://lea.verou.me/feed.xml",
       "siteUrl": "https://lea.verou.me/feed.xml",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://lea.verou.me/blog/2026/icons/",
+          "author": null,
+          "description": "-->\nI’ve always had a soft spot for icons1.\nNot only do they add polish to a UI, they can also tangibly improve usability.\nFamiliar icons help users find what they need quickly, since we recognize pictures much faster than we read words.\nAnd as a web architect at heart, the current dominant ways we have to include icons on the Web make me sad.\nWhile there are many, many different ways to include icons in a Web UI, each with different performance characteristics, by far the most common ones involve adding inline SVG to the HTML.\nFor example, a trash icon might be included like this:\n<button>\n<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-…",
+          "link": "https://lea.verou.me/blog/2026/icons/",
+          "publishedOn": "2026-10-11T00:00:00.000Z",
+          "wordCount": 6012,
+          "title": "The best way to use icons in Web UIs",
+          "imageUrl": "https://lea.verou.me/blog/2026/icons/images/image.png"
+        }
+      ]
     },
     {
       "title": "Ben Hoyt's technical writing",

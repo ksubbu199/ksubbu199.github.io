@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-10-12T01:01:41.703Z</updated>
+    <updated>2026-10-12T08:40:58.596Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Passkeys are a trap]]></title>
+        <id>https://news.ycombinator.com/item?id=50048312</id>
+        <link href="https://nonfunctional.substack.com/p/passkeys-are-a-trap-do-not-use-them"/>
+        <updated>2026-10-11T21:59:48.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://nonfunctional.substack.com/p/passkeys-are-a-trap-do-not-use-them
+Comments URL: https://news.ycombinator.com/item?id=50048312
+Points: 578
+# Comments: 329]]></summary>
+        <author>
+            <name>laurex</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Bot traffic from Yandex]]></title>
         <id>https://news.ycombinator.com/item?id=50041619</id>
@@ -30,6 +43,24 @@ Points: 522
 # Comments: 629]]></summary>
         <author>
             <name>defly</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The best way to use icons in Web UIs]]></title>
+        <id>https://lea.verou.me/blog/2026/icons/</id>
+        <link href="https://lea.verou.me/blog/2026/icons/"/>
+        <updated>2026-10-11T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[-->
+I’ve always had a soft spot for icons1.
+Not only do they add polish to a UI, they can also tangibly improve usability.
+Familiar icons help users find what they need quickly, since we recognize pictures much faster than we read words.
+And as a web architect at heart, the current dominant ways we have to include icons on the Web make me sad.
+While there are many, many different ways to include icons in a Web UI, each with different performance characteristics, by far the most common ones involve adding inline SVG to the HTML.
+For example, a trash icon might be included like this:
+<button>
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-…]]></summary>
+        <author>
+            <name>Lea Verou’s blog</name>
         </author>
     </entry>
     <entry>
@@ -2473,64 +2504,6 @@ Points: 607
 # Comments: 367]]></summary>
         <author>
             <name>xena</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Make your first edit to OpenStreetMap]]></title>
-        <id>https://news.ycombinator.com/item?id=49674050</id>
-        <link href="https://high5apps.github.io/josm-plugin-website-wizard/"/>
-        <updated>2026-09-12T16:25:08.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://high5apps.github.io/josm-plugin-website-wizard/
-Comments URL: https://news.ycombinator.com/item?id=49674050
-Points: 515
-# Comments: 132]]></summary>
-        <author>
-            <name>juliantigler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Finding a Goldmine Business opportunity!]]></title>
-        <id>https://www.youtube.com/shorts/mohPtT7HnFM</id>
-        <link href="https://www.youtube.com/shorts/mohPtT7HnFM"/>
-        <updated>2026-09-12T15:49:17.000Z</updated>
-        <summary type="html"><![CDATA[Can you really build a business without a huge amount of capital?In this episode, we sit down with Eric Ries, bestselling author of *The Lean Startup*, to un...]]></summary>
-        <author>
-            <name>Think School</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nvidia is the central bank of AI]]></title>
-        <id>https://news.ycombinator.com/item?id=49673098</id>
-        <link href="https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai"/>
-        <updated>2026-09-12T15:08:27.000Z</updated>
-        <summary type="html"><![CDATA[https://archive.ph/kt50V
-Comments URL: https://news.ycombinator.com/item?id=49673098
-Points: 518
-# Comments: 366]]></summary>
-        <author>
-            <name>tolugenius</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Start a Business With No Money | Eric Ries’ Guide for First-Time Founders]]></title>
-        <id>https://www.youtube.com/watch?v=eErcrQQHzg4</id>
-        <link href="https://www.youtube.com/watch?v=eErcrQQHzg4"/>
-        <updated>2026-09-12T15:03:56.000Z</updated>
-        <author>
-            <name>Think School</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[We must pace the frontier]]></title>
-        <id>https://news.ycombinator.com/item?id=49672510</id>
-        <link href="https://darioamodei.com/post/we-must-pace-the-frontier"/>
-        <updated>2026-09-12T14:10:49.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://darioamodei.com/post/we-must-pace-the-frontier
-Comments URL: https://news.ycombinator.com/item?id=49672510
-Points: 575
-# Comments: 807]]></summary>
-        <author>
-            <name>apsec112</name>
         </author>
     </entry>
     <entry>
