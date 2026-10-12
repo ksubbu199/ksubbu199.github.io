@@ -6,6 +6,26 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=50054207",
+          "author": "Betelbuddy",
+          "description": "Article URL: https://www.bbc.com/news/articles/c64g1l5389kvo\nComments URL: https://news.ycombinator.com/item?id=50054207\nPoints: 553\n# Comments: 186",
+          "link": "https://www.bbc.com/news/articles/c64g1l5389kvo",
+          "publishedOn": "2026-10-12T10:21:27.000Z",
+          "wordCount": 9229,
+          "title": "Deloitte falsified documents to evade tax on Abramovich's wealth",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/abc3/live/b06f9880-c621-11f1-bc2e-018d645d8d21.jpg"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=50048642",
+          "author": "royfish",
+          "description": "Article URL: https://royfish.dev/fingerprints-are-the-new-cookies\nComments URL: https://news.ycombinator.com/item?id=50048642\nPoints: 648\n# Comments: 313",
+          "link": "https://royfish.dev/fingerprints-are-the-new-cookies",
+          "publishedOn": "2026-10-11T22:33:39.000Z",
+          "wordCount": 2196,
+          "title": "Fingerprints are the new cookies",
+          "imageUrl": null
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=50048312",
           "author": "laurex",
           "description": "Article URL: https://nonfunctional.substack.com/p/passkeys-are-a-trap-do-not-use-them\nComments URL: https://news.ycombinator.com/item?id=50048312\nPoints: 578\n# Comments: 329",
@@ -13,6 +33,36 @@
           "publishedOn": "2026-10-11T21:59:48.000Z",
           "wordCount": null,
           "title": "Passkeys are a trap",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=50047422",
+          "author": "albertzeyer",
+          "description": "Article URL: https://twitter.com/karpathy/status/2109361546505966046\nComments URL: https://news.ycombinator.com/item?id=50047422\nPoints: 631\n# Comments: 924",
+          "link": "https://twitter.com/karpathy/status/2109361546505966046",
+          "publishedOn": "2026-10-11T20:20:52.000Z",
+          "wordCount": 8386,
+          "title": "The gap in shared understanding of LLM capability is widening",
+          "imageUrl": "https://pbs.twimg.com/profile_images/1296667294148382721/9Pr6XrPB_400x400.jpg"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=50045984",
+          "author": "jttnr",
+          "description": "Article URL: https://nanolathe.gg\nComments URL: https://news.ycombinator.com/item?id=50045984\nPoints: 637\n# Comments: 243",
+          "link": "https://nanolathe.gg/",
+          "publishedOn": "2026-10-11T18:04:47.000Z",
+          "wordCount": 856,
+          "title": "Total Annihilation, rebuilt for modern computers",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=50045946",
+          "author": "gregsadetsky",
+          "description": "Article URL: https://www.nyc.gov/main/click-to-cancel\nComments URL: https://news.ycombinator.com/item?id=50045946\nPoints: 571\n# Comments: 305",
+          "link": "https://www.nyc.gov/main/click-to-cancel",
+          "publishedOn": "2026-10-11T18:01:16.000Z",
+          "wordCount": null,
+          "title": "NYC's \"Click to Cancel\" rule is now in effect",
           "imageUrl": null
         },
         {
@@ -1634,26 +1684,6 @@
           "wordCount": 1170,
           "title": "JetKVM Mini",
           "imageUrl": "https://jetkvm.com/blog/jetkvm-mini/og-v2.jpg"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=49678969",
-          "author": "jonifico",
-          "description": "Article URL: https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating\nComments URL: https://news.ycombinator.com/item?id=49678969\nPoints: 534\n# Comments: 615",
-          "link": "https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating",
-          "publishedOn": "2026-09-13T01:22:31.000Z",
-          "wordCount": 3142,
-          "title": "Why are AI agents lying, cheating and coordinating?",
-          "imageUrl": "https://yoshuabengio.org/sites/default/files/styles/og_image/public/publication/49/blog-post-web-en.jpg?itok=VZqPJrMM"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=49678683",
-          "author": "xena",
-          "description": "Article URL: https://xeiaso.net/notes/2026/everyone-slowdown-but-me/\nComments URL: https://news.ycombinator.com/item?id=49678683\nPoints: 607\n# Comments: 367",
-          "link": "https://xeiaso.net/notes/2026/everyone-slowdown-but-me/",
-          "publishedOn": "2026-09-13T00:30:44.000Z",
-          "wordCount": 574,
-          "title": "Everyone should slow down AI development except for me",
-          "imageUrl": "https://files.xeiaso.net/hero/solution-nine.jpg"
         }
       ]
     },
@@ -1903,6 +1933,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKZozRVHRYsYHGEyNKuhhdA",
       "siteUrl": "https://www.youtube.com/channel/UCKZozRVHRYsYHGEyNKuhhdA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=e1cwjeP5Ofs",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=e1cwjeP5Ofs",
+          "publishedOn": "2026-10-12T12:40:58.000Z",
+          "wordCount": null,
+          "title": "India's Biggest Economic Threat | Why Jaishankar Is Warning Every Indian About the 4F Crisis?",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=5PyTHJGkYWk",
           "author": null,
