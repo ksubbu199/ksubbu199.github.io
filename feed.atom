@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-10-12T18:38:40.173Z</updated>
+    <updated>2026-10-13T01:07:28.572Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Muse Wonder]]></title>
+        <id>https://news.ycombinator.com/item?id=50059115</id>
+        <link href="https://research.meta.ai/blog/muse-wonder"/>
+        <updated>2026-10-12T16:48:01.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://research.meta.ai/blog/muse-wonder
+Comments URL: https://news.ycombinator.com/item?id=50059115
+Points: 516
+# Comments: 285]]></summary>
+        <author>
+            <name>meetpateltech</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[India's Biggest Economic Threat | Why Jaishankar Is Warning Every Indian About the 4F Crisis?]]></title>
         <id>https://www.youtube.com/watch?v=e1cwjeP5Ofs</id>
@@ -91,6 +104,19 @@ Points: 571
 # Comments: 305]]></summary>
         <author>
             <name>gregsadetsky</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Terence Tao: Math 2.0 [pdf]]]></title>
+        <id>https://news.ycombinator.com/item?id=50043026</id>
+        <link href="https://teorth.github.io/tao-web/slides/math-2-0-caltech-2026.pdf"/>
+        <updated>2026-10-11T13:16:45.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://teorth.github.io/tao-web/slides/math-2-0-caltech-2026.pdf
+Comments URL: https://news.ycombinator.com/item?id=50043026
+Points: 522
+# Comments: 517]]></summary>
+        <author>
+            <name>Anon84</name>
         </author>
     </entry>
     <entry>
@@ -2526,32 +2552,6 @@ Points: 539
 # Comments: 259]]></summary>
         <author>
             <name>iamflimflam1</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Homebrew 7.0.0]]></title>
-        <id>https://news.ycombinator.com/item?id=49681545</id>
-        <link href="https://brew.sh/2026/09/13/homebrew-7.0.0/"/>
-        <updated>2026-09-13T08:41:17.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://brew.sh/2026/09/13/homebrew-7.0.0/
-Comments URL: https://news.ycombinator.com/item?id=49681545
-Points: 533
-# Comments: 210]]></summary>
-        <author>
-            <name>mikemcquaid</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JetKVM Mini]]></title>
-        <id>https://news.ycombinator.com/item?id=49681152</id>
-        <link href="https://jetkvm.com/blog/introducing-jetkvm-mini"/>
-        <updated>2026-09-13T07:49:46.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://jetkvm.com/blog/introducing-jetkvm-mini
-Comments URL: https://news.ycombinator.com/item?id=49681152
-Points: 504
-# Comments: 199]]></summary>
-        <author>
-            <name>taubek</name>
         </author>
     </entry>
     <entry>

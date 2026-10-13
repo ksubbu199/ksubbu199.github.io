@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=50059115",
+          "author": "meetpateltech",
+          "description": "Article URL: https://research.meta.ai/blog/muse-wonder\nComments URL: https://news.ycombinator.com/item?id=50059115\nPoints: 516\n# Comments: 285",
+          "link": "https://research.meta.ai/blog/muse-wonder",
+          "publishedOn": "2026-10-12T16:48:01.000Z",
+          "wordCount": 6017,
+          "title": "Muse Wonder",
+          "imageUrl": "https://research.meta.ai/articles/introducing-muse-wonder/social/muse-wonder-social-v1.webp"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=50054207",
           "author": "Betelbuddy",
           "description": "Article URL: https://www.bbc.com/news/articles/c64g1l5389kvo\nComments URL: https://news.ycombinator.com/item?id=50054207\nPoints: 553\n# Comments: 186",
@@ -63,6 +73,16 @@
           "publishedOn": "2026-10-11T18:01:16.000Z",
           "wordCount": null,
           "title": "NYC's \"Click to Cancel\" rule is now in effect",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=50043026",
+          "author": "Anon84",
+          "description": "Article URL: https://teorth.github.io/tao-web/slides/math-2-0-caltech-2026.pdf\nComments URL: https://news.ycombinator.com/item?id=50043026\nPoints: 522\n# Comments: 517",
+          "link": "https://teorth.github.io/tao-web/slides/math-2-0-caltech-2026.pdf",
+          "publishedOn": "2026-10-11T13:16:45.000Z",
+          "wordCount": 11183,
+          "title": "Terence Tao: Math 2.0 [pdf]",
           "imageUrl": null
         },
         {
@@ -1664,26 +1684,6 @@
           "wordCount": 1427,
           "title": "Why is Google still serving dodgy ads?",
           "imageUrl": "https://www.atomic14.com/assets/article_images/2026-09-13/dodgy.webp"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=49681545",
-          "author": "mikemcquaid",
-          "description": "Article URL: https://brew.sh/2026/09/13/homebrew-7.0.0/\nComments URL: https://news.ycombinator.com/item?id=49681545\nPoints: 533\n# Comments: 210",
-          "link": "https://brew.sh/2026/09/13/homebrew-7.0.0/",
-          "publishedOn": "2026-09-13T08:41:17.000Z",
-          "wordCount": 3386,
-          "title": "Homebrew 7.0.0",
-          "imageUrl": "https://brew.sh/assets/img/homebrew-social-card.png"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=49681152",
-          "author": "taubek",
-          "description": "Article URL: https://jetkvm.com/blog/introducing-jetkvm-mini\nComments URL: https://news.ycombinator.com/item?id=49681152\nPoints: 504\n# Comments: 199",
-          "link": "https://jetkvm.com/blog/introducing-jetkvm-mini",
-          "publishedOn": "2026-09-13T07:49:46.000Z",
-          "wordCount": 1170,
-          "title": "JetKVM Mini",
-          "imageUrl": "https://jetkvm.com/blog/jetkvm-mini/og-v2.jpg"
         }
       ]
     },
