@@ -6,6 +6,26 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=50069499",
+          "author": "formerly_proven",
+          "description": "Article URL: https://github.com/rust-lang/rust/issues/164250\nComments URL: https://news.ycombinator.com/item?id=50069499\nPoints: 506\n# Comments: 288",
+          "link": "https://github.com/rust-lang/rust/issues/164250",
+          "publishedOn": "2026-10-13T10:27:00.000Z",
+          "wordCount": 6922,
+          "title": "11 year old unsoundness bugs found in Rust borrow checker",
+          "imageUrl": "https://opengraph.githubassets.com/527ed16f3c9f045366b9ea42e29f199fbb28666619b05d90dcc5b3598440fbe4/rust-lang/rust/issues/164250"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=50063427",
+          "author": "layer8",
+          "description": "Article URL: https://yyhh.org/blog/2026/10/ai-is-a-tool/\nComments URL: https://news.ycombinator.com/item?id=50063427\nPoints: 570\n# Comments: 454",
+          "link": "https://yyhh.org/blog/2026/10/ai-is-a-tool/",
+          "publishedOn": "2026-10-12T21:40:18.000Z",
+          "wordCount": 913,
+          "title": "AI is a tool and using it well takes skill",
+          "imageUrl": null
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=50060694",
           "author": "whimblepop",
           "description": "Article URL: https://github.com/openai/codex/issues/48195\nComments URL: https://news.ycombinator.com/item?id=50060694\nPoints: 550\n# Comments: 273",
@@ -1704,16 +1724,6 @@
           "wordCount": null,
           "title": "XCancel service is suspended until further notice",
           "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=49688695",
-          "author": "u1hcw9nx",
-          "description": "Article URL: https://www.vals.ai/blogs/fable-solves-cyphral-distich\nComments URL: https://news.ycombinator.com/item?id=49688695\nPoints: 698\n# Comments: 306",
-          "link": "https://www.vals.ai/blogs/fable-solves-cyphral-distich",
-          "publishedOn": "2026-09-13T21:06:13.000Z",
-          "wordCount": 2458,
-          "title": "Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher",
-          "imageUrl": "https://www.vals.ai/og.jpg"
         }
       ]
     },
@@ -1823,6 +1833,26 @@
       "feedUrl": "https://martinfowler.com/feed.atom",
       "siteUrl": "https://martinfowler.com/feed.atom",
       "articles": [
+        {
+          "id": "https://martinfowler.com/articles/practitioner-voice.html#TheCraftOfPractitionerVoice",
+          "author": null,
+          "description": "A couple of months ago Jim Highsmith explained how\n      practitioners writing for each other forms a distinct style of writing. He\n      now adds a section to the article with more detail on the craft of how we\n      write in this style. How the writer shows up in the prose, its four\n      principles, the role of story, how to sensibly use AI, three levels of\n      editing, and clarity of the audience.\nmore…",
+          "link": "https://martinfowler.com/articles/practitioner-voice.html#TheCraftOfPractitionerVoice",
+          "publishedOn": "2026-10-13T14:06:00.000Z",
+          "wordCount": 8687,
+          "title": "The Craft of Practitioner Voice",
+          "imageUrl": "https://martinfowler.com/logo-sq.png"
+        },
+        {
+          "id": "https://martinfowler.com/articles/are-harnesses-worth-the-cost.html",
+          "author": null,
+          "description": "Naresh Jain compares coding agents building the same\n      API service with and without a behavioral harness. A frontier model, GPT-6\n      Sol, passed every external evaluation either way. But a cost-optimized\n      model, GPT-6 Luna, succeeded in only 3 of 10 unharnessed runs and all 10\n      with the harness. While adding the harness increased token usage and\n      runtime for Luna, the harnessed Luna runs achieved the same 10-for-10\n      reliability as GPT-6 Sol while costing 33% less per run ($0.273 vs\n      $0.406). This experiment suggests a behavioral harness might be a\n      practical way to get dependable results from smaller, cost-optimized\n      models.\nmore…",
+          "link": "https://martinfowler.com/articles/are-harnesses-worth-the-cost.html",
+          "publishedOn": "2026-10-13T13:35:00.000Z",
+          "wordCount": 4154,
+          "title": "Are Harnesses Worth the Cost?",
+          "imageUrl": "https://martinfowler.com/articles/exploring-gen-ai/donkey-card.png"
+        },
         {
           "id": "https://martinfowler.com/fragments/2026-10-04.html",
           "author": null,

@@ -2,10 +2,72 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-10-13T09:00:25.200Z</updated>
+    <updated>2026-10-13T16:53:34.240Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The Craft of Practitioner Voice]]></title>
+        <id>https://martinfowler.com/articles/practitioner-voice.html#TheCraftOfPractitionerVoice</id>
+        <link href="https://martinfowler.com/articles/practitioner-voice.html#TheCraftOfPractitionerVoice"/>
+        <updated>2026-10-13T14:06:00.000Z</updated>
+        <summary type="html"><![CDATA[A couple of months ago Jim Highsmith explained how
+      practitioners writing for each other forms a distinct style of writing. He
+      now adds a section to the article with more detail on the craft of how we
+      write in this style. How the writer shows up in the prose, its four
+      principles, the role of story, how to sensibly use AI, three levels of
+      editing, and clarity of the audience.
+more…]]></summary>
+        <author>
+            <name>Martin Fowler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Are Harnesses Worth the Cost?]]></title>
+        <id>https://martinfowler.com/articles/are-harnesses-worth-the-cost.html</id>
+        <link href="https://martinfowler.com/articles/are-harnesses-worth-the-cost.html"/>
+        <updated>2026-10-13T13:35:00.000Z</updated>
+        <summary type="html"><![CDATA[Naresh Jain compares coding agents building the same
+      API service with and without a behavioral harness. A frontier model, GPT-6
+      Sol, passed every external evaluation either way. But a cost-optimized
+      model, GPT-6 Luna, succeeded in only 3 of 10 unharnessed runs and all 10
+      with the harness. While adding the harness increased token usage and
+      runtime for Luna, the harnessed Luna runs achieved the same 10-for-10
+      reliability as GPT-6 Sol while costing 33% less per run ($0.273 vs
+      $0.406). This experiment suggests a behavioral harness might be a
+      practical way to get dependable results from smaller, cost-optimized
+      models.
+more…]]></summary>
+        <author>
+            <name>Martin Fowler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[11 year old unsoundness bugs found in Rust borrow checker]]></title>
+        <id>https://news.ycombinator.com/item?id=50069499</id>
+        <link href="https://github.com/rust-lang/rust/issues/164250"/>
+        <updated>2026-10-13T10:27:00.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://github.com/rust-lang/rust/issues/164250
+Comments URL: https://news.ycombinator.com/item?id=50069499
+Points: 506
+# Comments: 288]]></summary>
+        <author>
+            <name>formerly_proven</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI is a tool and using it well takes skill]]></title>
+        <id>https://news.ycombinator.com/item?id=50063427</id>
+        <link href="https://yyhh.org/blog/2026/10/ai-is-a-tool/"/>
+        <updated>2026-10-12T21:40:18.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://yyhh.org/blog/2026/10/ai-is-a-tool/
+Comments URL: https://news.ycombinator.com/item?id=50063427
+Points: 570
+# Comments: 454]]></summary>
+        <author>
+            <name>layer8</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Codex CLI installs a persistent, self-updating background daemon by default]]></title>
         <id>https://news.ycombinator.com/item?id=50060694</id>
@@ -2581,19 +2643,6 @@ Points: 551
 # Comments: 828]]></summary>
         <author>
             <name>gaganyaan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher]]></title>
-        <id>https://news.ycombinator.com/item?id=49688695</id>
-        <link href="https://www.vals.ai/blogs/fable-solves-cyphral-distich"/>
-        <updated>2026-09-13T21:06:13.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.vals.ai/blogs/fable-solves-cyphral-distich
-Comments URL: https://news.ycombinator.com/item?id=49688695
-Points: 698
-# Comments: 306]]></summary>
-        <author>
-            <name>u1hcw9nx</name>
         </author>
     </entry>
     <entry>
