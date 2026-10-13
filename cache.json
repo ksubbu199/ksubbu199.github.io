@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=50060694",
+          "author": "whimblepop",
+          "description": "Article URL: https://github.com/openai/codex/issues/48195\nComments URL: https://news.ycombinator.com/item?id=50060694\nPoints: 550\n# Comments: 273",
+          "link": "https://github.com/openai/codex/issues/48195",
+          "publishedOn": "2026-10-12T18:29:04.000Z",
+          "wordCount": 12478,
+          "title": "Codex CLI installs a persistent, self-updating background daemon by default",
+          "imageUrl": "https://opengraph.githubassets.com/ded22d74fe6fbff9b2b664f14d2050e4c8cbd3236313c1167714825f0121e236/openai/codex/issues/48195"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=50059115",
           "author": "meetpateltech",
           "description": "Article URL: https://research.meta.ai/blog/muse-wonder\nComments URL: https://news.ycombinator.com/item?id=50059115\nPoints: 516\n# Comments: 285",
@@ -14,6 +24,36 @@
           "wordCount": 6017,
           "title": "Muse Wonder",
           "imageUrl": "https://research.meta.ai/articles/introducing-muse-wonder/social/muse-wonder-social-v1.webp"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=50058528",
+          "author": "prophittcorey",
+          "description": "Article URL: https://prophitt.me/writing/a-modern-web-app-in-c\nComments URL: https://news.ycombinator.com/item?id=50058528\nPoints: 547\n# Comments: 228",
+          "link": "https://prophitt.me/writing/a-modern-web-app-in-c",
+          "publishedOn": "2026-10-12T16:13:10.000Z",
+          "wordCount": 1433,
+          "title": "A Modern Web App in C",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=50058507",
+          "author": "ilreb",
+          "description": "Article URL: https://z.ai/blog/glm-legal\nComments URL: https://news.ycombinator.com/item?id=50058507\nPoints: 549\n# Comments: 313",
+          "link": "https://z.ai/blog/glm-legal",
+          "publishedOn": "2026-10-12T16:11:45.000Z",
+          "wordCount": 2,
+          "title": "GLM-Legal",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=50055304",
+          "author": "Zeekaas",
+          "description": "https://www.reuters.com/business/retail-consumer/french-supe..., https://www.bbc.com/news/articles/crq5nzxv9q4yo, https://www.lemonde.fr/en/france/article/2026/10/12/french-s...\nRelated:\nhttps://www.claroty.com/team82/research/freeze-the-controlle...\nI think the military commissary's freezers were hacked - https://news.ycombinator.com/item?id=49508506 - Aug 2026 (239 comments)\nComments URL: https://news.ycombinator.com/item?id=50055304\nPoints: 673\n# Comments: 800",
+          "link": "https://www.tomshardware.com/tech-industry/cyber-security/unprecedented-cyberattack-cripples-supermarket-fridges-across-europe-as-hackers-activate-automatic-defrosting-delivery-and-store-prices-also-impacted-by-incident",
+          "publishedOn": "2026-10-12T12:16:42.000Z",
+          "wordCount": 47116,
+          "title": "Hackers activate automatic defrosting in supermarket fridges across Europe",
+          "imageUrl": "https://cdn.mos.cms.futurecdn.net/o7hTqTruL84oHxvg6pYS3K-2000-80.jpg"
         },
         {
           "id": "https://news.ycombinator.com/item?id=50054207",
@@ -1674,16 +1714,6 @@
           "wordCount": 2458,
           "title": "Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher",
           "imageUrl": "https://www.vals.ai/og.jpg"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=49686445",
-          "author": "iamflimflam1",
-          "description": "Article URL: https://www.atomic14.com/2026/09/13/why-is-google-still-serving-dodgy-ads\nComments URL: https://news.ycombinator.com/item?id=49686445\nPoints: 539\n# Comments: 259",
-          "link": "https://www.atomic14.com/2026/09/13/why-is-google-still-serving-dodgy-ads",
-          "publishedOn": "2026-09-13T17:37:44.000Z",
-          "wordCount": 1427,
-          "title": "Why is Google still serving dodgy ads?",
-          "imageUrl": "https://www.atomic14.com/assets/article_images/2026-09-13/dodgy.webp"
         }
       ]
     },
