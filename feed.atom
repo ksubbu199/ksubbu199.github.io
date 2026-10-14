@@ -2,10 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-10-13T21:44:34.980Z</updated>
+    <updated>2026-10-14T00:53:51.838Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Gemini 4 Argon]]></title>
+        <id>https://news.ycombinator.com/item?id=50073879</id>
+        <link href="https://deepmind.google/models/gemini/"/>
+        <updated>2026-10-13T16:03:16.000Z</updated>
+        <summary type="html"><![CDATA[See also: Gemini 4 Argon for Robotics - https://news.ycombinator.com/item?id=50074869
+Comments URL: https://news.ycombinator.com/item?id=50073879
+Points: 957
+# Comments: 737]]></summary>
+        <author>
+            <name>737max</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Redesigning source control at Anthropic]]></title>
+        <id>https://news.ycombinator.com/item?id=50073633</id>
+        <link href="https://www.anthropic.com/engineering/redesigning-source-control"/>
+        <updated>2026-10-13T15:49:56.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.anthropic.com/engineering/redesigning-source-control
+Comments URL: https://news.ycombinator.com/item?id=50073633
+Points: 509
+# Comments: 506]]></summary>
+        <author>
+            <name>Philpax</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Craft of Practitioner Voice]]></title>
         <id>https://martinfowler.com/articles/practitioner-voice.html#TheCraftOfPractitionerVoice</id>
@@ -40,6 +66,32 @@ more…]]></summary>
 more…]]></summary>
         <author>
             <name>Martin Fowler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple HomeView]]></title>
+        <id>https://news.ycombinator.com/item?id=50071017</id>
+        <link href="https://www.apple.com/apple-homeview/"/>
+        <updated>2026-10-13T13:02:12.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.apple.com/apple-homeview/
+Comments URL: https://news.ycombinator.com/item?id=50071017
+Points: 646
+# Comments: 770]]></summary>
+        <author>
+            <name>etothet</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Firefox Enterprise]]></title>
+        <id>https://news.ycombinator.com/item?id=50070302</id>
+        <link href="https://www.firefox.com/en-US/enterprise/"/>
+        <updated>2026-10-13T12:00:42.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.firefox.com/en-US/enterprise/
+Comments URL: https://news.ycombinator.com/item?id=50070302
+Points: 631
+# Comments: 258]]></summary>
+        <author>
+            <name>recvonline</name>
         </author>
     </entry>
     <entry>
@@ -2611,38 +2663,12 @@ Points: 551
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[OpenAI bots knew about the RubyGems caching vulnerability]]></title>
-        <id>https://news.ycombinator.com/item?id=49695876</id>
-        <link href="https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive/"/>
-        <updated>2026-09-14T12:40:57.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive/
-Comments URL: https://news.ycombinator.com/item?id=49695876
-Points: 501
-# Comments: 413]]></summary>
-        <author>
-            <name>gregnavis</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The Billion-Dollar Monastery | How Bhutan Fought Poverty With Bitcoins]]></title>
         <id>https://www.youtube.com/watch?v=Pb9KiLgqahY</id>
         <link href="https://www.youtube.com/watch?v=Pb9KiLgqahY"/>
         <updated>2026-09-14T12:29:59.000Z</updated>
         <author>
             <name>Think School</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[XCancel service is suspended until further notice]]></title>
-        <id>https://news.ycombinator.com/item?id=49694296</id>
-        <link href="https://xcancel.com/#"/>
-        <updated>2026-09-14T09:51:50.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://xcancel.com/#
-Comments URL: https://news.ycombinator.com/item?id=49694296
-Points: 551
-# Comments: 828]]></summary>
-        <author>
-            <name>gaganyaan</name>
         </author>
     </entry>
     <entry>

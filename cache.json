@@ -6,6 +6,46 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=50073879",
+          "author": "737max",
+          "description": "See also: Gemini 4 Argon for Robotics - https://news.ycombinator.com/item?id=50074869\nComments URL: https://news.ycombinator.com/item?id=50073879\nPoints: 957\n# Comments: 737",
+          "link": "https://deepmind.google/models/gemini/",
+          "publishedOn": "2026-10-13T16:03:16.000Z",
+          "wordCount": 4636,
+          "title": "Gemini 4 Argon",
+          "imageUrl": "https://lh3.googleusercontent.com/ufe__EokQeN6itypUE9XmN6-HX9kqi1cNllSWZ688h8dXXOh8lDS_Ltc8c-hdbJSp86GcKcpbHmsXharkzaEaFzhOFLsbx7zFcoi20GqnwTREcto=w1200-h630-n-nu-rw"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=50073633",
+          "author": "Philpax",
+          "description": "Article URL: https://www.anthropic.com/engineering/redesigning-source-control\nComments URL: https://news.ycombinator.com/item?id=50073633\nPoints: 509\n# Comments: 506",
+          "link": "https://www.anthropic.com/engineering/redesigning-source-control",
+          "publishedOn": "2026-10-13T15:49:56.000Z",
+          "wordCount": 8142,
+          "title": "Redesigning source control at Anthropic",
+          "imageUrl": "https://www-cdn.anthropic.com/images/4zrzovbb/website/d344b849251502fade67ad16f09bb86fa6f42363-500x263.png"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=50071017",
+          "author": "etothet",
+          "description": "Article URL: https://www.apple.com/apple-homeview/\nComments URL: https://news.ycombinator.com/item?id=50071017\nPoints: 646\n# Comments: 770",
+          "link": "https://www.apple.com/apple-homeview/",
+          "publishedOn": "2026-10-13T13:02:12.000Z",
+          "wordCount": 8449,
+          "title": "Apple HomeView",
+          "imageUrl": "https://www.apple.com/v/apple-homeview/a/images/meta/apple-homeview__lk7n65hb6bm2_og.png?202610121723"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=50070302",
+          "author": "recvonline",
+          "description": "Article URL: https://www.firefox.com/en-US/enterprise/\nComments URL: https://news.ycombinator.com/item?id=50070302\nPoints: 631\n# Comments: 258",
+          "link": "https://www.firefox.com/en-US/enterprise/",
+          "publishedOn": "2026-10-13T12:00:42.000Z",
+          "wordCount": 897,
+          "title": "Firefox Enterprise",
+          "imageUrl": "https://www.firefox.com/media/cms/images/enterprise-og.width-1200.webp"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=50069499",
           "author": "formerly_proven",
           "description": "Article URL: https://github.com/rust-lang/rust/issues/164250\nComments URL: https://news.ycombinator.com/item?id=50069499\nPoints: 506\n# Comments: 288",
@@ -1703,26 +1743,6 @@
           "publishedOn": "2026-09-14T14:50:32.000Z",
           "wordCount": 2898,
           "title": "Dario, Please",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=49695876",
-          "author": "gregnavis",
-          "description": "Article URL: https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive/\nComments URL: https://news.ycombinator.com/item?id=49695876\nPoints: 501\n# Comments: 413",
-          "link": "https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive/",
-          "publishedOn": "2026-09-14T12:40:57.000Z",
-          "wordCount": 860,
-          "title": "OpenAI bots knew about the RubyGems caching vulnerability",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=49694296",
-          "author": "gaganyaan",
-          "description": "Article URL: https://xcancel.com/#\nComments URL: https://news.ycombinator.com/item?id=49694296\nPoints: 551\n# Comments: 828",
-          "link": "https://xcancel.com/#",
-          "publishedOn": "2026-09-14T09:51:50.000Z",
-          "wordCount": null,
-          "title": "XCancel service is suspended until further notice",
           "imageUrl": null
         }
       ]
