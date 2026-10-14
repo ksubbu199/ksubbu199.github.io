@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=50078141",
+          "author": "forthwall",
+          "description": "https://x.com/OpenAINewsroom/status/2110095403198849132\nComments URL: https://news.ycombinator.com/item?id=50078141\nPoints: 600\n# Comments: 497",
+          "link": "https://sfstandard.com/2026/10/13/openai-engineer-arrested-alleged-bugging-executive-conference-room/",
+          "publishedOn": "2026-10-13T20:23:55.000Z",
+          "wordCount": 14479,
+          "title": "OpenAI engineer arrested in bugging of executive conference room",
+          "imageUrl": "https://assets.sfstandard.com/image/994911177489/image_q73l9v67ul4sd7jt6h5u5rm001/-C100.00%25x78.71%25%2C0.00%25%2C7.09%25-S1200x630-FPNG"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=50073879",
           "author": "737max",
           "description": "See also: Gemini 4 Argon for Robotics - https://news.ycombinator.com/item?id=50074869\nComments URL: https://news.ycombinator.com/item?id=50073879\nPoints: 957\n# Comments: 737",
@@ -124,6 +134,16 @@
           "wordCount": 9229,
           "title": "Deloitte falsified documents to evade tax on Abramovich's wealth",
           "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/abc3/live/b06f9880-c621-11f1-bc2e-018d645d8d21.jpg"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=50054092",
+          "author": "thm",
+          "description": "https://www.heise.de/en/news/Crypto-thieves-sell-hardware-wa...\nhttps://crypto.news/ledger-confirms-hidden-chip-in-crypto-wa...\nhttps://www.youtube.com/watch?v=8JnHdr30v4g\nhttps://www.youtube.com/watch?v=Nf4FEFlgv3Q\nhttps://www.tibane.net/research/ledger-nano-x-implant\nComments URL: https://news.ycombinator.com/item?id=50054092\nPoints: 721\n# Comments: 452",
+          "link": "https://www.bleepingcomputer.com/news/security/ledger-confirms-hardware-wallet-spy-implant-behind-crypto-thefts/",
+          "publishedOn": "2026-10-12T10:09:37.000Z",
+          "wordCount": null,
+          "title": "Ledger confirms spy chip implant behind wallet crypto thefts",
+          "imageUrl": null
         },
         {
           "id": "https://news.ycombinator.com/item?id=50048642",
@@ -1704,46 +1724,6 @@
           "wordCount": null,
           "title": "I can't stop thinking about Papua New Guinea",
           "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=49704132",
-          "author": "yusufozkan",
-          "description": "Article URL: https://www.effort.news/irregular\nComments URL: https://news.ycombinator.com/item?id=49704132\nPoints: 508\n# Comments: 175",
-          "link": "https://www.effort.news/irregular",
-          "publishedOn": "2026-09-14T21:15:01.000Z",
-          "wordCount": 1734,
-          "title": "A single firm is behind OpenAI, Anthropic, and Meta hacking scandals",
-          "imageUrl": "https://www.effort.news/images/article-graphics/irregular/irregular-network.png"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=49701004",
-          "author": "throw0101d",
-          "description": "Article URL: https://www.apple.com/newsroom/2026/09/major-updates-for-apples-software-platforms-are-now-available/\nComments URL: https://news.ycombinator.com/item?id=49701004\nPoints: 504\n# Comments: 550",
-          "link": "https://www.apple.com/newsroom/2026/09/major-updates-for-apples-software-platforms-are-now-available/",
-          "publishedOn": "2026-09-14T17:50:29.000Z",
-          "wordCount": 8544,
-          "title": "iOS 27, iPadOS 27, and macOS 27",
-          "imageUrl": "https://www.apple.com/newsroom/images/2026/09/major-updates-for-apples-software-platforms-are-now-available/tile/Apple-OS-availability-hero-lp.jpg.og.jpg?202609141710"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=49700661",
-          "author": "bsimpson",
-          "description": "Article URL: https://store.steampowered.com/hardware/steamframe\nComments URL: https://news.ycombinator.com/item?id=49700661\nPoints: 603\n# Comments: 451",
-          "link": "https://store.steampowered.com/hardware/steamframe",
-          "publishedOn": "2026-09-14T17:27:55.000Z",
-          "wordCount": 407,
-          "title": "Steam Frame starts at $1059",
-          "imageUrl": "https://clan.akamai.steamstatic.com/images/45479024/41ac1feaa13a1396844a31be91beb068eb2e509f.jpg"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=49697893",
-          "author": "0x5FC3",
-          "description": "Article URL: https://pop.rdi.sh/dario-please/\nComments URL: https://news.ycombinator.com/item?id=49697893\nPoints: 551\n# Comments: 261",
-          "link": "https://pop.rdi.sh/dario-please/",
-          "publishedOn": "2026-09-14T14:50:32.000Z",
-          "wordCount": 2898,
-          "title": "Dario, Please",
-          "imageUrl": null
         }
       ]
     },
@@ -2141,16 +2121,6 @@
           "publishedOn": "2026-09-16T12:09:44.000Z",
           "wordCount": null,
           "title": "Putin’s $30 Trillion Gamble | The Arctic Jackpot That Could Make Russia a Superpower Again",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=Pb9KiLgqahY",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=Pb9KiLgqahY",
-          "publishedOn": "2026-09-14T12:29:59.000Z",
-          "wordCount": null,
-          "title": "The Billion-Dollar Monastery | How Bhutan Fought Poverty With Bitcoins",
           "imageUrl": null
         }
       ]
