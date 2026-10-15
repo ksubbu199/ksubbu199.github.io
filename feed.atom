@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-10-14T23:43:02.806Z</updated>
+    <updated>2026-10-15T03:25:16.258Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -30,6 +30,19 @@ Points: 683
 # Comments: 301]]></summary>
         <author>
             <name>latexr</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Passkeys are not a trap]]></title>
+        <id>https://news.ycombinator.com/item?id=50088935</id>
+        <link href="https://scotthelme.co.uk/passkeys-are-not-a-trap/"/>
+        <updated>2026-10-14T15:15:45.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://scotthelme.co.uk/passkeys-are-not-a-trap/
+Comments URL: https://news.ycombinator.com/item?id=50088935
+Points: 513
+# Comments: 676]]></summary>
+        <author>
+            <name>speckx</name>
         </author>
     </entry>
     <entry>
@@ -2656,33 +2669,6 @@ Points: 528
 # Comments: 201]]></summary>
         <author>
             <name>my123</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nail the Narrative]]></title>
-        <id>https://martinfowler.com/articles/never-send-slides/nail-your-narrative.html</id>
-        <link href="https://martinfowler.com/articles/never-send-slides/nail-your-narrative.html"/>
-        <updated>2026-09-15T15:11:00.000Z</updated>
-        <summary type="html"><![CDATA[Sumeet Gayathri Moghe finds many folks building
-      presentations get tangled in building slides without a coherent narrative.
-      He advises distilling the big idea, visualizing the audience, and
-      building a structured storyline. 
-more…]]></summary>
-        <author>
-            <name>Martin Fowler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations]]></title>
-        <id>https://news.ycombinator.com/item?id=49711544</id>
-        <link href="https://github.com/arnegiacomo/fugleramme"/>
-        <updated>2026-09-15T12:31:10.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://github.com/arnegiacomo/fugleramme
-Comments URL: https://news.ycombinator.com/item?id=49711544
-Points: 557
-# Comments: 90]]></summary>
-        <author>
-            <name>arnemunthekaas</name>
         </author>
     </entry>
     <entry>
