@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=50094994",
+          "author": "gmays",
+          "description": "Article URL: https://anoma.ly/notes/opencode-2-0/\nComments URL: https://news.ycombinator.com/item?id=50094994\nPoints: 583\n# Comments: 225",
+          "link": "https://anoma.ly/notes/opencode-2-0/",
+          "publishedOn": "2026-10-14T20:48:24.000Z",
+          "wordCount": 15748,
+          "title": "OpenCode 2.0",
+          "imageUrl": "https://anoma.ly/notes/og/opencode-2-0.png"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=50093568",
           "author": "jjmaxwell4",
           "description": "Article URL: https://jjmaxwell4.com/writing/things-to-know-when-you-get-cancer/\nComments URL: https://news.ycombinator.com/item?id=50093568\nPoints: 611\n# Comments: 161",
@@ -24,6 +34,16 @@
           "wordCount": 7624,
           "title": "AI agents aren't 'going rogue.' Frontier labs are skipping security basics",
           "imageUrl": "https://www.csoonline.com/wp-content/uploads/2026/10/4234854-0-28632700-1792004597-shutterstock_2472843149.jpg?quality=50&strip=all&w=1024"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=50090246",
+          "author": "bhrlady",
+          "description": "Article URL: https://prospect.org/2026/10/14/ice-planning-nightmare-domestic-spy-program-ero-one/\nComments URL: https://news.ycombinator.com/item?id=50090246\nPoints: 511\n# Comments: 316",
+          "link": "https://prospect.org/2026/10/14/ice-planning-nightmare-domestic-spy-program-ero-one/",
+          "publishedOn": "2026-10-14T16:24:11.000Z",
+          "wordCount": 8978,
+          "title": "ICE Planning $100M 'Nightmare' Domestic Spy Program",
+          "imageUrl": "https://i0.wp.com/prospect.org/wp-content/uploads/2026/10/Wimbish-ERO-ONE-101426.jpg?fit=2145%2C1398&ssl=1"
         },
         {
           "id": "https://news.ycombinator.com/item?id=50088935",
@@ -1713,36 +1733,6 @@
           "publishedOn": "2026-09-15T21:41:42.000Z",
           "wordCount": null,
           "title": "AWS says it can't restore some data from mideast facilities struck by Iran",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=49717558",
-          "author": "albelfio",
-          "description": "Article URL: https://typesafe.ai/blog/introducing-system-one-models-and-jev\nComments URL: https://news.ycombinator.com/item?id=49717558\nPoints: 582\n# Comments: 193",
-          "link": "https://typesafe.ai/blog/introducing-system-one-models-and-jev",
-          "publishedOn": "2026-09-15T19:25:03.000Z",
-          "wordCount": 7359,
-          "title": "Introducing System One Models and Jev",
-          "imageUrl": "https://framerusercontent.com/images/RtIGTDwO43jR4ZDilesXiR5znc.jpg"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=49716176",
-          "author": "ChrisArchitect",
-          "description": "Article URL: https://blog.archive.org/2026/09/15/an-update-on-wayback-machine-access/\nComments URL: https://news.ycombinator.com/item?id=49716176\nPoints: 519\n# Comments: 265",
-          "link": "https://blog.archive.org/2026/09/15/an-update-on-wayback-machine-access/",
-          "publishedOn": "2026-09-15T17:52:18.000Z",
-          "wordCount": 2471,
-          "title": "An update on Wayback Machine access",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=49715813",
-          "author": "my123",
-          "description": "Article URL: https://global.fujitsu/en-global/pr/news/2026/09/14-02\nComments URL: https://news.ycombinator.com/item?id=49715813\nPoints: 528\n# Comments: 201",
-          "link": "https://global.fujitsu/en-global/pr/news/2026/09/14-02",
-          "publishedOn": "2026-09-15T17:28:38.000Z",
-          "wordCount": null,
-          "title": "Fujitsu launches made-in-Japan next-generation CPU FUJITSU-MONAKA",
           "imageUrl": null
         }
       ]
