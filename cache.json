@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=50096142",
+          "author": "donohoe",
+          "description": "Article URL: https://tinylittleoffice.com/\nComments URL: https://news.ycombinator.com/item?id=50096142\nPoints: 537\n# Comments: 120",
+          "link": "https://tinylittleoffice.com/",
+          "publishedOn": "2026-10-14T22:10:08.000Z",
+          "wordCount": 326,
+          "title": "Tiny Little Office",
+          "imageUrl": "https://tinylittleoffice.com/og.png"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=50094994",
           "author": "gmays",
           "description": "Article URL: https://anoma.ly/notes/opencode-2-0/\nComments URL: https://news.ycombinator.com/item?id=50094994\nPoints: 583\n# Comments: 225",
@@ -1724,16 +1734,6 @@
           "wordCount": 9865,
           "title": "Apple Reference Image: A New Approach for Verified Photography",
           "imageUrl": "https://security.apple.com/assets/image/seo-image.jpg"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=49719249",
-          "author": "berkeleyjunk",
-          "description": "https://archive.is/Ay7RJ\nComments URL: https://news.ycombinator.com/item?id=49719249\nPoints: 500\n# Comments: 420",
-          "link": "https://www.wsj.com/world/middle-east/aws-says-it-cant-restore-some-data-from-mideast-facilities-struck-by-iran-ddcb7e5d",
-          "publishedOn": "2026-09-15T21:41:42.000Z",
-          "wordCount": null,
-          "title": "AWS says it can't restore some data from mideast facilities struck by Iran",
-          "imageUrl": null
         }
       ]
     },
@@ -1843,6 +1843,16 @@
       "feedUrl": "https://martinfowler.com/feed.atom",
       "siteUrl": "https://martinfowler.com/feed.atom",
       "articles": [
+        {
+          "id": "https://martinfowler.com/articles/software-meets-hardware.html",
+          "author": null,
+          "description": "When software meets hardware, engineering principles remain largely the\n    same, but the sensible defaults often change. Kuldeep Singh\n    describes our experience modernizing a large IoT fleet of battery-powered\n    sensors. Our familiar principles remained important; what changed was how we\n    applied them. These practices emerged through experiments, failures, and\n    operational experience—each challenge helping us replace a reasonable\n    assumption with a more sensible default. \nmore…",
+          "link": "https://martinfowler.com/articles/software-meets-hardware.html",
+          "publishedOn": "2026-10-15T13:25:00.000Z",
+          "wordCount": 3316,
+          "title": "When Software Meets Hardware",
+          "imageUrl": "https://martinfowler.com/articles/software-meets-hardware/card.png"
+        },
         {
           "id": "https://martinfowler.com/articles/never-send-slides/build-your-slide-template.html",
           "author": null,
@@ -2003,6 +2013,26 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKZozRVHRYsYHGEyNKuhhdA",
       "siteUrl": "https://www.youtube.com/channel/UCKZozRVHRYsYHGEyNKuhhdA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=dbM8AMmEdgY",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=dbM8AMmEdgY",
+          "publishedOn": "2026-10-15T13:28:48.000Z",
+          "wordCount": null,
+          "title": "How to Earn Millions From Luxury Real Estate: Sri Lanka vs Dubai vs Bali",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/shorts/AD0zW9tqHpA",
+          "author": null,
+          "description": "Sri Lanka Real Estate vs Mumbai: Where Can You Earn More?Can Sri Lanka offer better real estate returns than Mumbai?In this snippet from our upcoming podcast...",
+          "link": "https://www.youtube.com/shorts/AD0zW9tqHpA",
+          "publishedOn": "2026-10-15T12:40:19.000Z",
+          "wordCount": 3554,
+          "title": "Sri Lanka vs Dubai vs Thailand: Which Is the Safest Real Estate Bet for Indians?",
+          "imageUrl": "https://i.ytimg.com/vi/AD0zW9tqHpA/hq720.jpg?sqp=-oaymwEoCJUDENAFSFryq4qpAxoIARUAAAAAJQAAyEI9AICiQ3gB0AEBuALzGA==&rs=AOn4CLCRK336O2ih9HUDAqFFbYrpz0MnZw"
+        },
         {
           "id": "https://www.youtube.com/watch?v=e1cwjeP5Ofs",
           "author": null,
