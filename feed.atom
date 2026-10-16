@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-10-16T05:29:33.087Z</updated>
+    <updated>2026-10-16T10:48:06.273Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[What I self-host]]></title>
+        <id>https://news.ycombinator.com/item?id=50109715</id>
+        <link href="https://viceconsole.fyi/blog/2026/10/10/what-i-self-host/"/>
+        <updated>2026-10-15T20:23:25.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://viceconsole.fyi/blog/2026/10/10/what-i-self-host/
+Comments URL: https://news.ycombinator.com/item?id=50109715
+Points: 502
+# Comments: 315]]></summary>
+        <author>
+            <name>BrunoBernardino</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Muse Spark Open]]></title>
         <id>https://news.ycombinator.com/item?id=50107379</id>
@@ -2674,58 +2687,6 @@ direct interactions with LLMs. I don’t …]]></summary>
         <summary type="html"><![CDATA[Laurie Voss on an open source funding model]]></summary>
         <author>
             <name>/dev/lawyer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Xiaomi Mimo 2.6 live post-training dashboard]]></title>
-        <id>https://news.ycombinator.com/item?id=49732270</id>
-        <link href="https://mimo.xiaomi.com/rl/"/>
-        <updated>2026-09-16T20:09:18.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://mimo.xiaomi.com/rl/
-Comments URL: https://news.ycombinator.com/item?id=49732270
-Points: 513
-# Comments: 146]]></summary>
-        <author>
-            <name>krackers</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fragments: September 16]]></title>
-        <id>https://martinfowler.com/fragments/2026-09-16.html</id>
-        <link href="https://martinfowler.com/fragments/2026-09-16.html"/>
-        <updated>2026-09-16T20:05:00.000Z</updated>
-        <summary type="html"><![CDATA[Reports of agentic hacking continue, in this case it happened back in May and it seems OpenAI did not disclose that they were responsible. Simon Willison sees two options:
-After the Hugging Face and Wiki attacks OpenAI were still unable to review their previous logs and determine that they had previously attacked RubyGems.
-They knew about the attack on RubyGems and made the decision not to reach out to the RubyGems team about it.
-Both of these are bad!
-Given this incident, the Hugging Face situation, and the Wiki attack, the obvious question right now is how many more incidents like this are out there waiting to be discovered?
- ❄                ❄                ❄                ❄                ❄
-Dave Farley:
-Stop asking the sci-fi question: ‘Is it conscious?’ Start asking the engineering …]]></summary>
-        <author>
-            <name>Martin Fowler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Training a 4B model to produce 81% faster query plans than Postgres]]></title>
-        <id>https://news.ycombinator.com/item?id=49731285</id>
-        <link href="https://rohanbansal.com/qorl"/>
-        <updated>2026-09-16T18:50:00.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://rohanbansal.com/qorl
-Comments URL: https://news.ycombinator.com/item?id=49731285
-Points: 562
-# Comments: 120]]></summary>
-        <author>
-            <name>polyphilz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Putin’s $30 Trillion Gamble | The Arctic Jackpot That Could Make Russia a Superpower Again]]></title>
-        <id>https://www.youtube.com/watch?v=PK4Ty_cyCMI</id>
-        <link href="https://www.youtube.com/watch?v=PK4Ty_cyCMI"/>
-        <updated>2026-09-16T12:09:44.000Z</updated>
-        <author>
-            <name>Think School</name>
         </author>
     </entry>
     <entry>

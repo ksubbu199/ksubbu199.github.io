@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=50109715",
+          "author": "BrunoBernardino",
+          "description": "Article URL: https://viceconsole.fyi/blog/2026/10/10/what-i-self-host/\nComments URL: https://news.ycombinator.com/item?id=50109715\nPoints: 502\n# Comments: 315",
+          "link": "https://viceconsole.fyi/blog/2026/10/10/what-i-self-host/",
+          "publishedOn": "2026-10-15T20:23:25.000Z",
+          "wordCount": null,
+          "title": "What I self-host",
+          "imageUrl": null
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=50107379",
           "author": "bigwheels",
           "description": "https://dev.meta.ai/resources/blog/build-with-muse-spark-ope...\nhttps://huggingface.co/meta-models/Muse-Spark-Open-816B-A42B\nhttps://9to5mac.com/2026/10/15/meta-launches-new-muse-spark-...\nComments URL: https://news.ycombinator.com/item?id=50107379\nPoints: 713\n# Comments: 378",
@@ -1724,26 +1734,6 @@
           "wordCount": 2512,
           "title": "Hister: A private search engine for the pages you visit and the files you keep",
           "imageUrl": "https://opengraph.githubassets.com/6ca1582cbd0fa6a92cc93bd0efa751dcdd48e2801e39616d0b75294006f8d951/asciimoo/hister"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=49732270",
-          "author": "krackers",
-          "description": "Article URL: https://mimo.xiaomi.com/rl/\nComments URL: https://news.ycombinator.com/item?id=49732270\nPoints: 513\n# Comments: 146",
-          "link": "https://mimo.xiaomi.com/rl/",
-          "publishedOn": "2026-09-16T20:09:18.000Z",
-          "wordCount": 10,
-          "title": "Xiaomi Mimo 2.6 live post-training dashboard",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=49731285",
-          "author": "polyphilz",
-          "description": "Article URL: https://rohanbansal.com/qorl\nComments URL: https://news.ycombinator.com/item?id=49731285\nPoints: 562\n# Comments: 120",
-          "link": "https://rohanbansal.com/qorl",
-          "publishedOn": "2026-09-16T18:50:00.000Z",
-          "wordCount": 14541,
-          "title": "Training a 4B model to produce 81% faster query plans than Postgres",
-          "imageUrl": "https://rohanbansal.com/og/qorl-20260916.png"
         }
       ]
     },
@@ -1962,16 +1952,6 @@
           "wordCount": 562,
           "title": "I don't like LLMs",
           "imageUrl": "https://martinfowler.com/logo-sq.png"
-        },
-        {
-          "id": "https://martinfowler.com/fragments/2026-09-16.html",
-          "author": null,
-          "description": "Reports of agentic hacking continue, in this case it happened back in May and it seems OpenAI did not disclose that they were responsible. Simon Willison sees two options:\nAfter the Hugging Face and Wiki attacks OpenAI were still unable to review their previous logs and determine that they had previously attacked RubyGems.\nThey knew about the attack on RubyGems and made the decision not to reach out to the RubyGems team about it.\nBoth of these are bad!\nGiven this incident, the Hugging Face situation, and the Wiki attack, the obvious question right now is how many more incidents like this are out there waiting to be discovered?\n ❄                ❄                ❄                ❄                ❄\nDave Farley:\nStop asking the sci-fi question: ‘Is it conscious?’ Start asking the engineering …",
-          "link": "https://martinfowler.com/fragments/2026-09-16.html",
-          "publishedOn": "2026-09-16T20:05:00.000Z",
-          "wordCount": 803,
-          "title": "Fragments: September 16",
-          "imageUrl": "https://martinfowler.com/fragments/fragments-thumb.png"
         }
       ]
     },
@@ -2171,16 +2151,6 @@
           "publishedOn": "2026-09-19T13:32:59.000Z",
           "wordCount": null,
           "title": "Elon Musk & Dario’s Final Warning | Why the AI Race Is Getting Dangerously Out of Control?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=PK4Ty_cyCMI",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=PK4Ty_cyCMI",
-          "publishedOn": "2026-09-16T12:09:44.000Z",
-          "wordCount": null,
-          "title": "Putin’s $30 Trillion Gamble | The Arctic Jackpot That Could Make Russia a Superpower Again",
           "imageUrl": null
         }
       ]
