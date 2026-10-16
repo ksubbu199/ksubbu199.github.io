@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-10-16T10:48:06.273Z</updated>
+    <updated>2026-10-16T15:13:40.334Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -42,6 +42,19 @@ Points: 713
         <summary type="html"><![CDATA[Ramp and Stripe built platforms for non-engineers to build internal websites and tools with, and both are taking off in those workplaces. I expect more companies to do the same.]]></summary>
         <author>
             <name>Ivan Klaric</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jev meets the Trolley Problem]]></title>
+        <id>https://news.ycombinator.com/item?id=50106023</id>
+        <link href="https://zachlandes.com/trolley-problem/"/>
+        <updated>2026-10-15T16:24:52.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://zachlandes.com/trolley-problem/
+Comments URL: https://news.ycombinator.com/item?id=50106023
+Points: 577
+# Comments: 230]]></summary>
+        <author>
+            <name>zlandes86</name>
         </author>
     </entry>
     <entry>
