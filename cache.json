@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=50112657",
+          "author": "shekhar101",
+          "description": "https://www.youtube.com/watch?v=7p5LxFdc-Qg\nhttps://twitter.com/Tesla/status/2110788059008819215\nComments URL: https://news.ycombinator.com/item?id=50112657\nPoints: 634\n# Comments: 1037",
+          "link": "https://www.tesla.com/roadster",
+          "publishedOn": "2026-10-16T01:32:45.000Z",
+          "wordCount": null,
+          "title": "Tesla Roadster",
+          "imageUrl": null
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=50109715",
           "author": "BrunoBernardino",
           "description": "Article URL: https://viceconsole.fyi/blog/2026/10/10/what-i-self-host/\nComments URL: https://news.ycombinator.com/item?id=50109715\nPoints: 502\n# Comments: 315",
@@ -1751,18 +1761,7 @@
       "title": "/dev/lawyer",
       "feedUrl": "https://writing.kemitchell.com/feed.xml",
       "siteUrl": "https://writing.kemitchell.com",
-      "articles": [
-        {
-          "id": "https://writing.kemitchell.com/2026/09/16/Freemium-the-Registry",
-          "author": null,
-          "description": "Laurie Voss on an open source funding model",
-          "link": "https://writing.kemitchell.com/2026/09/16/Freemium-the-Registry",
-          "publishedOn": "2026-09-17T04:21:50.000Z",
-          "wordCount": 167,
-          "title": "Freemium the Registry",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Boot.dev Blog",

@@ -2,10 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-10-16T15:13:40.334Z</updated>
+    <updated>2026-10-16T19:20:47.209Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Tesla Roadster]]></title>
+        <id>https://news.ycombinator.com/item?id=50112657</id>
+        <link href="https://www.tesla.com/roadster"/>
+        <updated>2026-10-16T01:32:45.000Z</updated>
+        <summary type="html"><![CDATA[https://www.youtube.com/watch?v=7p5LxFdc-Qg
+https://twitter.com/Tesla/status/2110788059008819215
+Comments URL: https://news.ycombinator.com/item?id=50112657
+Points: 634
+# Comments: 1037]]></summary>
+        <author>
+            <name>shekhar101</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What I self-host]]></title>
         <id>https://news.ycombinator.com/item?id=50109715</id>
@@ -2690,16 +2704,6 @@ feelings, there is one emotion that dominates - one that comes from my
 direct interactions with LLMs. I don’t …]]></summary>
         <author>
             <name>Martin Fowler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Freemium the Registry]]></title>
-        <id>https://writing.kemitchell.com/2026/09/16/Freemium-the-Registry</id>
-        <link href="https://writing.kemitchell.com/2026/09/16/Freemium-the-Registry"/>
-        <updated>2026-09-17T04:21:50.000Z</updated>
-        <summary type="html"><![CDATA[Laurie Voss on an open source funding model]]></summary>
-        <author>
-            <name>/dev/lawyer</name>
         </author>
     </entry>
     <entry>
