@@ -6,6 +6,46 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=50107379",
+          "author": "bigwheels",
+          "description": "https://dev.meta.ai/resources/blog/build-with-muse-spark-ope...\nhttps://huggingface.co/meta-models/Muse-Spark-Open-816B-A42B\nhttps://9to5mac.com/2026/10/15/meta-launches-new-muse-spark-...\nComments URL: https://news.ycombinator.com/item?id=50107379\nPoints: 713\n# Comments: 378",
+          "link": "https://research.meta.ai/blog/muse-spark-open",
+          "publishedOn": "2026-10-15T17:47:39.000Z",
+          "wordCount": 3194,
+          "title": "Muse Spark Open",
+          "imageUrl": "https://research.meta.ai/articles/muse-spark-open/social/muse-spark-1-2-open-weights-social-v2.webp"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=50105647",
+          "author": "themgt",
+          "description": "https://twitter.com/nickcammarata/status/2110757819427574056\nComments URL: https://news.ycombinator.com/item?id=50105647\nPoints: 582\n# Comments: 217",
+          "link": "https://already-clean.goodfire.com/",
+          "publishedOn": "2026-10-15T16:04:01.000Z",
+          "wordCount": 99445,
+          "title": "Neural networks are clean",
+          "imageUrl": "https://already-clean.goodfire.com/assets/social/city-and-knot-20261015.png"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=50103338",
+          "author": "FinalDestiny",
+          "description": "Article URL: https://github.com/fyzugx/DEsk\nComments URL: https://news.ycombinator.com/item?id=50103338\nPoints: 555\n# Comments: 221",
+          "link": "https://github.com/fyzugx/DEsk",
+          "publishedOn": "2026-10-15T13:23:44.000Z",
+          "wordCount": 10998,
+          "title": "Wayland desktop for Linux with skeuomorphic design",
+          "imageUrl": "https://opengraph.githubassets.com/65152faa74697ae273aef8abb2638b2ac74e8a229ab18a401b6e538e8e01f408/fyzugx/DEsk"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=50103000",
+          "author": "chunkyslink",
+          "description": "https://www.theverge.com/tech/1011956/discover-tech-zero-cli...\nComments URL: https://news.ycombinator.com/item?id=50103000\nPoints: 502\n# Comments: 1",
+          "link": "https://www.theguardian.com/technology/2026/oct/15/israeli-firm-digital-ads-enabling-installation-of-zero-click-spyware-researchers-say",
+          "publishedOn": "2026-10-15T12:58:32.000Z",
+          "wordCount": 4567,
+          "title": "Online ads weaponised to deliver ‘zero-click’ spyware, researchers say",
+          "imageUrl": "https://i.guim.co.uk/img/media/3035c44f5ae09be7cb6b5806453ff11e9db3e89f/401_440_2305_1844/master/2305.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=934fb19a9352c330577175c1f90d49df"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=50096142",
           "author": "donohoe",
           "description": "Article URL: https://tinylittleoffice.com/\nComments URL: https://news.ycombinator.com/item?id=50096142\nPoints: 537\n# Comments: 120",
@@ -34,6 +74,16 @@
           "wordCount": 4807,
           "title": "Things to know when you get cancer – 2026 Edition",
           "imageUrl": "https://jjmaxwell4.com/open-graph/things-to-know-when-you-get-cancer.png"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=50093180",
+          "author": "ivewonyoung",
+          "description": "Article URL: https://www.telegraph.co.uk/news/2026/10/13/suicide-rates-highest-ever-among-middle-aged-men/\nComments URL: https://news.ycombinator.com/item?id=50093180\nPoints: 518\n# Comments: 744",
+          "link": "https://www.telegraph.co.uk/news/2026/10/13/suicide-rates-highest-ever-among-middle-aged-men/",
+          "publishedOn": "2026-10-14T19:03:58.000Z",
+          "wordCount": 2091,
+          "title": "Suicide rates highest ever among middle-aged men",
+          "imageUrl": "https://www.telegraph.co.uk/content/dam/briefs/2026/10/13/TELEMMGLPICT000507183811_17919022221720_trans_NvBQzQNjv4BqrnykcIhNBTQGIhNzmTaT-cLZq-j_VIcNfiYtpwBx7zI.jpeg?impolicy=OG-Standard"
         },
         {
           "id": "https://news.ycombinator.com/item?id=50091788",
@@ -104,6 +154,16 @@
           "wordCount": 1587,
           "title": "Iosevka is an open-source, sans-serif and slab-serif monospace font",
           "imageUrl": null
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=50083130",
+          "author": "tharen",
+          "description": "Article URL: https://github.com/android/ndk/issues/2260\nComments URL: https://news.ycombinator.com/item?id=50083130\nPoints: 503\n# Comments: 250",
+          "link": "https://github.com/android/ndk/issues/2260",
+          "publishedOn": "2026-10-14T06:18:01.000Z",
+          "wordCount": 12472,
+          "title": "AOSP Source Releases Are So Late Developers Disassemble Libraries to Report Bugs",
+          "imageUrl": "https://opengraph.githubassets.com/4d2e44ac42801498f07c726c9e6d61fa738b049bb89160d65e58caab75e48ae4/android/ndk/issues/2260"
         },
         {
           "id": "https://news.ycombinator.com/item?id=50078141",
@@ -1684,46 +1744,6 @@
           "wordCount": 14541,
           "title": "Training a 4B model to produce 81% faster query plans than Postgres",
           "imageUrl": "https://rohanbansal.com/og/qorl-20260916.png"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=49729000",
-          "author": "signa11",
-          "description": "Article URL: https://will-keleher.com/posts/small-programming-tricks-matter/\nComments URL: https://news.ycombinator.com/item?id=49729000\nPoints: 531\n# Comments: 239",
-          "link": "https://will-keleher.com/posts/small-programming-tricks-matter/",
-          "publishedOn": "2026-09-16T15:56:47.000Z",
-          "wordCount": 810,
-          "title": "Small programming tricks",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=49726586",
-          "author": "driverdan",
-          "description": "https://micahflee.com/flock-cameras-are-riddled-with-securit...\nComments URL: https://news.ycombinator.com/item?id=49726586\nPoints: 509\n# Comments: 232",
-          "link": "https://www.wired.com/story/hackers-flock-camera-data-shows-how-system-works/",
-          "publishedOn": "2026-09-16T13:18:47.000Z",
-          "wordCount": 30554,
-          "title": "Hackers Got Inside a Flock Camera",
-          "imageUrl": "https://media.wired.com/photos/6aa9a89861c11f99a88f271a/191:100/w_1280,c_limit/Security_Hackers%20Got%20Inside%20a%20Flock%20Camera.%20Its%20Data%20Shows%20How%20the%20System%20Really%20Works.jpg"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=49726007",
-          "author": "mhb",
-          "description": "Article URL: https://en.wikipedia.org/wiki/Wax_motor\nComments URL: https://news.ycombinator.com/item?id=49726007\nPoints: 501\n# Comments: 102",
-          "link": "https://en.wikipedia.org/wiki/Wax_motor",
-          "publishedOn": "2026-09-16T12:35:14.000Z",
-          "wordCount": null,
-          "title": "Wax motor",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=49724881",
-          "author": "nonmaskable",
-          "description": "Article URL: https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels/\nComments URL: https://news.ycombinator.com/item?id=49724881\nPoints: 714\n# Comments: 292",
-          "link": "https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels/",
-          "publishedOn": "2026-09-16T11:15:53.000Z",
-          "wordCount": 6484,
-          "title": "Nvidia announces native GPU programming in Rust",
-          "imageUrl": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/09/image1-1.webp"
         }
       ]
     },
