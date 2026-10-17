@@ -16,6 +16,16 @@
           "imageUrl": "https://www-cdn.anthropic.com/images/4zrzovbb/website/dac862860da089b5a053e6ad2105b422d01fefe1-1200x630.jpg"
         },
         {
+          "id": "https://news.ycombinator.com/item?id=50121179",
+          "author": "speckx",
+          "description": "Article URL: https://www.mercor.com/research/labor-index/benchmark-map/\nComments URL: https://news.ycombinator.com/item?id=50121179\nPoints: 512\n# Comments: 439",
+          "link": "https://www.mercor.com/research/labor-index/benchmark-map/",
+          "publishedOn": "2026-10-16T17:08:38.000Z",
+          "wordCount": 5357,
+          "title": "90% of US working hours are spent on tasks not covered well by AI benchmarks",
+          "imageUrl": "https://www.mercor.com/mercor-logo-white.png"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=50112657",
           "author": "shekhar101",
           "description": "https://www.youtube.com/watch?v=7p5LxFdc-Qg\nhttps://twitter.com/Tesla/status/2110788059008819215\nComments URL: https://news.ycombinator.com/item?id=50112657\nPoints: 634\n# Comments: 1037",
@@ -1723,46 +1733,6 @@
           "publishedOn": "2026-09-18T09:42:22.000Z",
           "wordCount": 562,
           "title": "OpenJev",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=49747070",
-          "author": "joeriddles",
-          "description": "Article URL: https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/\nComments URL: https://news.ycombinator.com/item?id=49747070\nPoints: 520\n# Comments: 344",
-          "link": "https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/",
-          "publishedOn": "2026-09-17T21:48:38.000Z",
-          "wordCount": 1379,
-          "title": "How to Write with an LLM",
-          "imageUrl": "https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/workshop_hu_1de7cdec7d0e03c9.jpg"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=49746618",
-          "author": "JonSchneider",
-          "description": "Article URL: https://prismml.com/news/bonsai-2-27b\nComments URL: https://news.ycombinator.com/item?id=49746618\nPoints: 540\n# Comments: 176",
-          "link": "https://prismml.com/news/bonsai-2-27b",
-          "publishedOn": "2026-09-17T21:13:31.000Z",
-          "wordCount": 2897,
-          "title": "Bonsai 2 27B: Near-Lossless Compression in a 9x Smaller Footprint",
-          "imageUrl": "https://cdn.prod.website-files.com/699604cc2b9dd89bdbda0608/6a6d0e0bc0d5f9a97a5164c0_69cc089669ab0df26e921aac_prism-og-img%2520(2).png"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=49746163",
-          "author": "nicolas-siplis",
-          "description": "Article URL: https://bend-lang.com/\nComments URL: https://news.ycombinator.com/item?id=49746163\nPoints: 515\n# Comments: 248",
-          "link": "https://bend-lang.com/",
-          "publishedOn": "2026-09-17T20:36:13.000Z",
-          "wordCount": 4334,
-          "title": "Bend – A language that blocks AI mistakes via proof, on CPU and GPU",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=49745940",
-          "author": "vertigoruntime",
-          "description": "Article URL: https://openai.com/index/astra-for-law/\nComments URL: https://news.ycombinator.com/item?id=49745940\nPoints: 523\n# Comments: 627",
-          "link": "https://openai.com/index/astra-for-law/",
-          "publishedOn": "2026-09-17T20:17:48.000Z",
-          "wordCount": null,
-          "title": "Astra for Law",
           "imageUrl": null
         }
       ]

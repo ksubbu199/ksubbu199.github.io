@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-10-17T06:36:52.061Z</updated>
+    <updated>2026-10-17T11:23:59.989Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -17,6 +17,19 @@ Points: 508
 # Comments: 212]]></summary>
         <author>
             <name>ahlCVA</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[90% of US working hours are spent on tasks not covered well by AI benchmarks]]></title>
+        <id>https://news.ycombinator.com/item?id=50121179</id>
+        <link href="https://www.mercor.com/research/labor-index/benchmark-map/"/>
+        <updated>2026-10-16T17:08:38.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.mercor.com/research/labor-index/benchmark-map/
+Comments URL: https://news.ycombinator.com/item?id=50121179
+Points: 512
+# Comments: 439]]></summary>
+        <author>
+            <name>speckx</name>
         </author>
     </entry>
     <entry>
@@ -2645,58 +2658,6 @@ Points: 521
 # Comments: 235]]></summary>
         <author>
             <name>ilreb</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Write with an LLM]]></title>
-        <id>https://news.ycombinator.com/item?id=49747070</id>
-        <link href="https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/"/>
-        <updated>2026-09-17T21:48:38.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/
-Comments URL: https://news.ycombinator.com/item?id=49747070
-Points: 520
-# Comments: 344]]></summary>
-        <author>
-            <name>joeriddles</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bonsai 2 27B: Near-Lossless Compression in a 9x Smaller Footprint]]></title>
-        <id>https://news.ycombinator.com/item?id=49746618</id>
-        <link href="https://prismml.com/news/bonsai-2-27b"/>
-        <updated>2026-09-17T21:13:31.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://prismml.com/news/bonsai-2-27b
-Comments URL: https://news.ycombinator.com/item?id=49746618
-Points: 540
-# Comments: 176]]></summary>
-        <author>
-            <name>JonSchneider</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bend – A language that blocks AI mistakes via proof, on CPU and GPU]]></title>
-        <id>https://news.ycombinator.com/item?id=49746163</id>
-        <link href="https://bend-lang.com/"/>
-        <updated>2026-09-17T20:36:13.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://bend-lang.com/
-Comments URL: https://news.ycombinator.com/item?id=49746163
-Points: 515
-# Comments: 248]]></summary>
-        <author>
-            <name>nicolas-siplis</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Astra for Law]]></title>
-        <id>https://news.ycombinator.com/item?id=49745940</id>
-        <link href="https://openai.com/index/astra-for-law/"/>
-        <updated>2026-09-17T20:17:48.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://openai.com/index/astra-for-law/
-Comments URL: https://news.ycombinator.com/item?id=49745940
-Points: 523
-# Comments: 627]]></summary>
-        <author>
-            <name>vertigoruntime</name>
         </author>
     </entry>
     <entry>
