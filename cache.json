@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=50133401",
+          "author": "pranshuchittora",
+          "description": "Article URL: https://twitter.com/opencode/status/2111516673953935833\nComments URL: https://news.ycombinator.com/item?id=50133401\nPoints: 682\n# Comments: 119",
+          "link": "https://twitter.com/opencode/status/2111516673953935833",
+          "publishedOn": "2026-10-17T18:01:41.000Z",
+          "wordCount": 1423,
+          "title": "OpenCode Hacked: User credentials leaked",
+          "imageUrl": "https://pbs.twimg.com/profile_images/1973794620233433088/nBn75BTm_400x400.png"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=50129121",
           "author": "theanonymousone",
           "description": "Article URL: https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017\nComments URL: https://news.ycombinator.com/item?id=50129121\nPoints: 511\n# Comments: 5",
@@ -1734,26 +1744,6 @@
           "wordCount": 1216,
           "title": "I don't like passkeys",
           "imageUrl": "https://hawksley.dev/og/blog/i-dont-like-passkeys.jpg?v=7"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=49752056",
-          "author": "pluc",
-          "description": "Article URL: https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/\nComments URL: https://news.ycombinator.com/item?id=49752056\nPoints: 722\n# Comments: 622",
-          "link": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/",
-          "publishedOn": "2026-09-18T09:45:07.000Z",
-          "wordCount": 4014,
-          "title": "Microsoft exec called AI scraping 'the largest theft of labor in human history'",
-          "imageUrl": "https://techcrunch.com/wp-content/uploads/2023/11/GettyImages-1778706504.jpg?resize=1200,783"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=49752041",
-          "author": "ilreb",
-          "description": "Article URL: https://openjev.com/\nComments URL: https://news.ycombinator.com/item?id=49752041\nPoints: 521\n# Comments: 235",
-          "link": "https://openjev.com/",
-          "publishedOn": "2026-09-18T09:42:22.000Z",
-          "wordCount": 562,
-          "title": "OpenJev",
-          "imageUrl": null
         }
       ]
     },

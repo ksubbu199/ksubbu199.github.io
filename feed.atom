@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-10-17T21:14:54.001Z</updated>
+    <updated>2026-10-17T23:46:17.685Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[OpenCode Hacked: User credentials leaked]]></title>
+        <id>https://news.ycombinator.com/item?id=50133401</id>
+        <link href="https://twitter.com/opencode/status/2111516673953935833"/>
+        <updated>2026-10-17T18:01:41.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://twitter.com/opencode/status/2111516673953935833
+Comments URL: https://news.ycombinator.com/item?id=50133401
+Points: 682
+# Comments: 119]]></summary>
+        <author>
+            <name>pranshuchittora</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[DeepSeek: DeepSeek v4.1 Flash 1017]]></title>
         <id>https://news.ycombinator.com/item?id=50129121</id>
@@ -2659,32 +2672,6 @@ Points: 526
 # Comments: 511]]></summary>
         <author>
             <name>ethanhawksley</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft exec called AI scraping 'the largest theft of labor in human history']]></title>
-        <id>https://news.ycombinator.com/item?id=49752056</id>
-        <link href="https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/"/>
-        <updated>2026-09-18T09:45:07.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/
-Comments URL: https://news.ycombinator.com/item?id=49752056
-Points: 722
-# Comments: 622]]></summary>
-        <author>
-            <name>pluc</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenJev]]></title>
-        <id>https://news.ycombinator.com/item?id=49752041</id>
-        <link href="https://openjev.com/"/>
-        <updated>2026-09-18T09:42:22.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://openjev.com/
-Comments URL: https://news.ycombinator.com/item?id=49752041
-Points: 521
-# Comments: 235]]></summary>
-        <author>
-            <name>ilreb</name>
         </author>
     </entry>
     <entry>
