@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-10-17T18:10:48.701Z</updated>
+    <updated>2026-10-17T21:14:54.001Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -17,6 +17,20 @@ Points: 511
 # Comments: 5]]></summary>
         <author>
             <name>theanonymousone</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DeepSeek-v4.1-Flash-1017]]></title>
+        <id>https://news.ycombinator.com/item?id=50129045</id>
+        <link href="https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017"/>
+        <updated>2026-10-17T08:21:25.000Z</updated>
+        <summary type="html"><![CDATA[https://api-docs.deepseek.com/news/news261017/
+https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017
+Comments URL: https://news.ycombinator.com/item?id=50129045
+Points: 581
+# Comments: 517]]></summary>
+        <author>
+            <name>theykk</name>
         </author>
     </entry>
     <entry>
