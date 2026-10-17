@@ -86,6 +86,16 @@
           "imageUrl": "https://i.guim.co.uk/img/media/3035c44f5ae09be7cb6b5806453ff11e9db3e89f/401_440_2305_1844/master/2305.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=934fb19a9352c330577175c1f90d49df"
         },
         {
+          "id": "https://news.ycombinator.com/item?id=50101813",
+          "author": "jcomp",
+          "description": "https://www.theguardian.com/technology/2026/oct/15/israeli-f...\nhttps://www.theverge.com/tech/1011956/discover-tech-zero-cli...\nComments URL: https://news.ycombinator.com/item?id=50101813\nPoints: 501\n# Comments: 670",
+          "link": "https://citizenlab.ca/research/how-discover-tech-turned-targeted-ads-into-a-pipeline-for-spyware/",
+          "publishedOn": "2026-10-15T10:43:36.000Z",
+          "wordCount": 26534,
+          "title": "AdFection: Targeted ads turned into a pipeline for zero-click mercenary spyware",
+          "imageUrl": "https://citizenlab.ca/wp-content/uploads/2026/10/discover-report_updated-01-e1792025505984.png"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=50096142",
           "author": "donohoe",
           "description": "Article URL: https://tinylittleoffice.com/\nComments URL: https://news.ycombinator.com/item?id=50096142\nPoints: 537\n# Comments: 120",
@@ -1754,16 +1764,6 @@
           "wordCount": null,
           "title": "Astra for Law",
           "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=49743097",
-          "author": "bookofjoe",
-          "description": "Article URL: https://github.com/asciimoo/hister\nComments URL: https://news.ycombinator.com/item?id=49743097\nPoints: 594\n# Comments: 161",
-          "link": "https://github.com/asciimoo/hister",
-          "publishedOn": "2026-09-17T16:25:37.000Z",
-          "wordCount": 2512,
-          "title": "Hister: A private search engine for the pages you visit and the files you keep",
-          "imageUrl": "https://opengraph.githubassets.com/6ca1582cbd0fa6a92cc93bd0efa751dcdd48e2801e39616d0b75294006f8d951/asciimoo/hister"
         }
       ]
     },
@@ -1961,16 +1961,6 @@
           "wordCount": 5543,
           "title": "Healthy Feedback",
           "imageUrl": "https://martinfowler.com/articles/healthy-peer-feedback/card.png"
-        },
-        {
-          "id": "https://martinfowler.com/articles/2026-dont-like-llms.html",
-          "author": null,
-          "description": "I have a lot of mixed feelings about AI and LLM technology. I’m\nfascinated by its effect on our profession, excited by the potential gains\nin productivity - and thus the products we could rapidly build. On the other\nhand, I’m fearful of the damage AI might cause: agent swarms taking over our\nvirtual and physical infrastructure, designing bio weapons. But, back on my\nfirst hand, LLMs might also design miracle cures, and come up with clever\nways to raise our prosperity. Fundamentally I don’t think we have a choice\nabout riding on the AI technology train. It’s a wild ride and I just hope\nwe’ll get through it OK.\nBut as I mull on this more, I realize that among this mix of contrasting\nfeelings, there is one emotion that dominates - one that comes from my\ndirect interactions with LLMs. I don’t …",
-          "link": "https://martinfowler.com/articles/2026-dont-like-llms.html",
-          "publishedOn": "2026-09-17T13:50:00.000Z",
-          "wordCount": 562,
-          "title": "I don't like LLMs",
-          "imageUrl": "https://martinfowler.com/logo-sq.png"
         }
       ]
     },

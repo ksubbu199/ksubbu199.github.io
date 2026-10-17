@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-10-17T01:04:57.506Z</updated>
+    <updated>2026-10-17T06:36:52.061Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -166,6 +166,20 @@ Points: 502
         <summary type="html"><![CDATA[Sri Lanka Real Estate vs Mumbai: Where Can You Earn More?Can Sri Lanka offer better real estate returns than Mumbai?In this snippet from our upcoming podcast...]]></summary>
         <author>
             <name>Think School</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AdFection: Targeted ads turned into a pipeline for zero-click mercenary spyware]]></title>
+        <id>https://news.ycombinator.com/item?id=50101813</id>
+        <link href="https://citizenlab.ca/research/how-discover-tech-turned-targeted-ads-into-a-pipeline-for-spyware/"/>
+        <updated>2026-10-15T10:43:36.000Z</updated>
+        <summary type="html"><![CDATA[https://www.theguardian.com/technology/2026/oct/15/israeli-f...
+https://www.theverge.com/tech/1011956/discover-tech-zero-cli...
+Comments URL: https://news.ycombinator.com/item?id=50101813
+Points: 501
+# Comments: 670]]></summary>
+        <author>
+            <name>jcomp</name>
         </author>
     </entry>
     <entry>
@@ -2683,40 +2697,6 @@ Points: 523
 # Comments: 627]]></summary>
         <author>
             <name>vertigoruntime</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hister: A private search engine for the pages you visit and the files you keep]]></title>
-        <id>https://news.ycombinator.com/item?id=49743097</id>
-        <link href="https://github.com/asciimoo/hister"/>
-        <updated>2026-09-17T16:25:37.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://github.com/asciimoo/hister
-Comments URL: https://news.ycombinator.com/item?id=49743097
-Points: 594
-# Comments: 161]]></summary>
-        <author>
-            <name>bookofjoe</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I don't like LLMs]]></title>
-        <id>https://martinfowler.com/articles/2026-dont-like-llms.html</id>
-        <link href="https://martinfowler.com/articles/2026-dont-like-llms.html"/>
-        <updated>2026-09-17T13:50:00.000Z</updated>
-        <summary type="html"><![CDATA[I have a lot of mixed feelings about AI and LLM technology. I’m
-fascinated by its effect on our profession, excited by the potential gains
-in productivity - and thus the products we could rapidly build. On the other
-hand, I’m fearful of the damage AI might cause: agent swarms taking over our
-virtual and physical infrastructure, designing bio weapons. But, back on my
-first hand, LLMs might also design miracle cures, and come up with clever
-ways to raise our prosperity. Fundamentally I don’t think we have a choice
-about riding on the AI technology train. It’s a wild ride and I just hope
-we’ll get through it OK.
-But as I mull on this more, I realize that among this mix of contrasting
-feelings, there is one emotion that dominates - one that comes from my
-direct interactions with LLMs. I don’t …]]></summary>
-        <author>
-            <name>Martin Fowler</name>
         </author>
     </entry>
     <entry>
