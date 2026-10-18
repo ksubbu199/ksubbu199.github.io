@@ -16,6 +16,16 @@
           "imageUrl": "https://pbs.twimg.com/profile_images/1973794620233433088/nBn75BTm_400x400.png"
         },
         {
+          "id": "https://news.ycombinator.com/item?id=50131256",
+          "author": "xbmcuser",
+          "description": "Article URL: https://www.pv-magazine.com/2026/09/29/solar-surpasses-nuclear-power-globally-for-first-time/\nComments URL: https://news.ycombinator.com/item?id=50131256\nPoints: 500\n# Comments: 315",
+          "link": "https://www.pv-magazine.com/2026/09/29/solar-surpasses-nuclear-power-globally-for-first-time/",
+          "publishedOn": "2026-10-17T14:01:01.000Z",
+          "wordCount": 5537,
+          "title": "Solar surpasses nuclear power globally for first time",
+          "imageUrl": "https://www.pv-magazine.com/wp-content/uploads/2026/09/hans-ott-4e4ZKnPbZAI-unsplash-scaled.jpg"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=50129121",
           "author": "theanonymousone",
           "description": "Article URL: https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017\nComments URL: https://news.ycombinator.com/item?id=50129121\nPoints: 511\n# Comments: 5",
@@ -34,6 +44,16 @@
           "wordCount": 968,
           "title": "DeepSeek-v4.1-Flash-1017",
           "imageUrl": "https://cdn-thumbnails.huggingface.co/social-thumbnails/models/deepseek-ai/DeepSeek-V4.1-Flash-1017.png"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=50122878",
+          "author": "speckx",
+          "description": "https://twitter.com/heyyalexwang/status/2111158818730397932\nComments URL: https://news.ycombinator.com/item?id=50122878\nPoints: 511\n# Comments: 120",
+          "link": "https://alexwang.ai/posts/associative-memory/",
+          "publishedOn": "2026-10-16T19:01:17.000Z",
+          "wordCount": 8095,
+          "title": "You could have invented transformers from memory",
+          "imageUrl": "https://alexwang.ai/images/share-card_hu_ba29a66ace5a286c.jpg"
         },
         {
           "id": "https://news.ycombinator.com/item?id=50122800",
@@ -1724,26 +1744,6 @@
           "wordCount": null,
           "title": "US Military had close call after using AI for hallucinated intelligence report",
           "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=49754785",
-          "author": "jcbhmr",
-          "description": "Article URL: https://try.cloudflare.com/\nComments URL: https://news.ycombinator.com/item?id=49754785\nPoints: 502\n# Comments: 218",
-          "link": "https://try.cloudflare.com/",
-          "publishedOn": "2026-09-18T14:18:41.000Z",
-          "wordCount": 3552,
-          "title": "Cloudflare Quick Tunnels",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=49753211",
-          "author": "ethanhawksley",
-          "description": "Article URL: https://hawksley.dev/blog/i-dont-like-passkeys\nComments URL: https://news.ycombinator.com/item?id=49753211\nPoints: 526\n# Comments: 511",
-          "link": "https://hawksley.dev/blog/i-dont-like-passkeys",
-          "publishedOn": "2026-09-18T12:06:50.000Z",
-          "wordCount": 1216,
-          "title": "I don't like passkeys",
-          "imageUrl": "https://hawksley.dev/og/blog/i-dont-like-passkeys.jpg?v=7"
         }
       ]
     },
