@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=50138531",
+          "author": "fagnerbrack",
+          "description": "Article URL: https://api-docs.deepseek.com/guides/search/\nComments URL: https://news.ycombinator.com/item?id=50138531\nPoints: 507\n# Comments: 251",
+          "link": "https://api-docs.deepseek.com/guides/search/",
+          "publishedOn": "2026-10-18T06:50:36.000Z",
+          "wordCount": 1191,
+          "title": "DeepSeek search and fetch – $0.75 per 1000 successful requests",
+          "imageUrl": "https://api-docs.deepseek.com/img/deepseek-social-card.jpeg"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=50136881",
           "author": "DeepLogin",
           "description": "Article URL: https://meidasnews.com/news/zuckerbergs-meta-takes-down-no-kings-instagram-during-massive-protest-day\nComments URL: https://news.ycombinator.com/item?id=50136881\nPoints: 511\n# Comments: 304",
@@ -1724,16 +1734,6 @@
           "wordCount": 1945,
           "title": "I built non-autoregressive decision models with RL a year ago",
           "imageUrl": "https://laya-ai.vercel.app/laya_vs_jev_full.png"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=49764791",
-          "author": "ereiamjh",
-          "description": "Article URL: https://john.hartnup.uk/2026/06/07/ai-event-posters.html\nComments URL: https://news.ycombinator.com/item?id=49764791\nPoints: 686\n# Comments: 405",
-          "link": "https://john.hartnup.uk/2026/06/07/ai-event-posters.html",
-          "publishedOn": "2026-09-19T09:20:58.000Z",
-          "wordCount": 1595,
-          "title": "AI-generated posters don’t have to be horrible",
-          "imageUrl": null
         }
       ]
     },

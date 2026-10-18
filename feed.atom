@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-10-18T19:14:21.054Z</updated>
+    <updated>2026-10-18T22:14:04.039Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[DeepSeek search and fetch – $0.75 per 1000 successful requests]]></title>
+        <id>https://news.ycombinator.com/item?id=50138531</id>
+        <link href="https://api-docs.deepseek.com/guides/search/"/>
+        <updated>2026-10-18T06:50:36.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://api-docs.deepseek.com/guides/search/
+Comments URL: https://news.ycombinator.com/item?id=50138531
+Points: 507
+# Comments: 251]]></summary>
+        <author>
+            <name>fagnerbrack</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Zuckerberg's Meta Takes Down No Kings Instagram During Protest Day]]></title>
         <id>https://news.ycombinator.com/item?id=50136881</id>
@@ -2646,19 +2659,6 @@ Points: 750
 # Comments: 179]]></summary>
         <author>
             <name>nandakishor_ml</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI-generated posters don’t have to be horrible]]></title>
-        <id>https://news.ycombinator.com/item?id=49764791</id>
-        <link href="https://john.hartnup.uk/2026/06/07/ai-event-posters.html"/>
-        <updated>2026-09-19T09:20:58.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://john.hartnup.uk/2026/06/07/ai-event-posters.html
-Comments URL: https://news.ycombinator.com/item?id=49764791
-Points: 686
-# Comments: 405]]></summary>
-        <author>
-            <name>ereiamjh</name>
         </author>
     </entry>
     <entry>
