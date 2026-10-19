@@ -6,6 +6,26 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=50150750",
+          "author": "DeepLogin",
+          "description": "Article URL: https://www.wjcl.com/article/savannah-police-officer-ice-agent-flock-access/74135816\nComments URL: https://news.ycombinator.com/item?id=50150750\nPoints: 604\n# Comments: 340",
+          "link": "https://www.wjcl.com/article/savannah-police-officer-ice-agent-flock-access/74135816",
+          "publishedOn": "2026-10-19T10:45:14.000Z",
+          "wordCount": 16365,
+          "title": "Ousted Savannah police officer gave ICE agent husband access to Flock system",
+          "imageUrl": "https://kubrick.htvapps.com/htv-prod/images/59afd81a-246a-4dd8-be64-a0263cee209e.png?crop=1.00xw%3A1.00xh%3B0%2C0&resize=1200%3A*"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=50149392",
+          "author": "cjd8",
+          "description": "Article URL: https://lwn.net/Articles/1101143/\nComments URL: https://news.ycombinator.com/item?id=50149392\nPoints: 565\n# Comments: 256",
+          "link": "https://lwn.net/Articles/1101143/",
+          "publishedOn": "2026-10-19T07:23:57.000Z",
+          "wordCount": null,
+          "title": "Linux 7.3",
+          "imageUrl": null
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=50142866",
           "author": "sashk",
           "description": "Article URL: https://www.reddit.com/r/sysadmin/comments/1x8cycd/namecheap_just_seized_and_disabled_all_my_domains/\nComments URL: https://news.ycombinator.com/item?id=50142866\nPoints: 515\n# Comments: 268",
@@ -14,6 +34,16 @@
           "wordCount": null,
           "title": "Namecheap just seized and disabled all my domains",
           "imageUrl": null
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=50142573",
+          "author": "tosh",
+          "description": "Article URL: https://karrisaarinen.com/posts/someone-behind-the-software/\nComments URL: https://news.ycombinator.com/item?id=50142573\nPoints: 536\n# Comments: 193",
+          "link": "https://karrisaarinen.com/posts/someone-behind-the-software/",
+          "publishedOn": "2026-10-18T16:32:00.000Z",
+          "wordCount": 917,
+          "title": "Someone behind the software",
+          "imageUrl": "https://karrisaarinen.com/static/linear-assets/081de7ffce667bb13cb63d8b2a1d312e19d747ea1d3818af2c5cc1e5a9445e21.webp"
         },
         {
           "id": "https://news.ycombinator.com/item?id=50138531",
@@ -33,6 +63,16 @@
           "publishedOn": "2026-10-18T01:18:50.000Z",
           "wordCount": null,
           "title": "Zuckerberg's Meta Takes Down No Kings Instagram During Protest Day",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=50136150",
+          "author": "mdp2021",
+          "description": "Article URL: https://www.youtube.com/watch?v=LKrwhjOI8Nc\nComments URL: https://news.ycombinator.com/item?id=50136150\nPoints: 526\n# Comments: 731",
+          "link": "https://www.youtube.com/watch?v=LKrwhjOI8Nc",
+          "publishedOn": "2026-10-17T23:26:35.000Z",
+          "wordCount": null,
+          "title": "There's never been a better time to go into math (by: 3blue1brown) [video]",
           "imageUrl": null
         },
         {
@@ -1714,16 +1754,6 @@
           "wordCount": 592,
           "title": "Qwen Image 2.1",
           "imageUrl": "https://img.alicdn.com/imgextra/i4/O1CN01OXv3EM1FN8t9W4P79_!!6000000000474-2-tps-80-80.png"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=49772961",
-          "author": "latein",
-          "description": "Article URL: https://reclaimthenet.org/spain-blocks-archive-today-and-mirrors\nComments URL: https://news.ycombinator.com/item?id=49772961\nPoints: 514\n# Comments: 404",
-          "link": "https://reclaimthenet.org/spain-blocks-archive-today-and-mirrors",
-          "publishedOn": "2026-09-20T06:16:42.000Z",
-          "wordCount": 864,
-          "title": "Spain orders blocks on Archive.today and its mirrors",
-          "imageUrl": "https://media.reclaimthenet.org/images/2026/09/VlEW9CtTFnlS.jpg"
         }
       ]
     },
