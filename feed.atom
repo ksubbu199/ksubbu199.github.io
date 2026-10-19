@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-10-19T19:02:25.059Z</updated>
+    <updated>2026-10-19T23:20:17.257Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -17,6 +17,19 @@ Points: 604
 # Comments: 340]]></summary>
         <author>
             <name>DeepLogin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Timestral: Mistral's time-series foundation models]]></title>
+        <id>https://news.ycombinator.com/item?id=50150434</id>
+        <link href="https://mistral.ai/news/timestral/"/>
+        <updated>2026-10-19T09:59:32.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://mistral.ai/news/timestral/
+Comments URL: https://news.ycombinator.com/item?id=50150434
+Points: 523
+# Comments: 97]]></summary>
+        <author>
+            <name>groar</name>
         </author>
     </entry>
     <entry>
@@ -40,6 +53,22 @@ Points: 565
         <summary type="html"><![CDATA[Watch the full episode now!https://youtu.be/dbM8AMmEdgY?si=ZwrytguQoifnlMC0⭐️ Think School’s flagship Communication course with live doubt sessions :https://...]]></summary>
         <author>
             <name>Think School</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hybrid Reasoning Agents: LLM agents that think in latent space, act through text]]></title>
+        <id>https://news.ycombinator.com/item?id=50145337</id>
+        <link href="https://arxiv.org/abs/2610.18861"/>
+        <updated>2026-10-18T20:48:14.000Z</updated>
+        <summary type="html"><![CDATA[https://x.com/Jiaru_Zou/status/2110400256647340476
+https://github.com/togethercomputer/HybridAgent
+https://huggingface.co/collections/togethercomputer/hybridag...
+Evaluations: https://arxiv.org/html/2610.18861v1#S5
+Comments URL: https://news.ycombinator.com/item?id=50145337
+Points: 501
+# Comments: 236]]></summary>
+        <author>
+            <name>allinonai</name>
         </author>
     </entry>
     <entry>

@@ -16,6 +16,16 @@
           "imageUrl": "https://kubrick.htvapps.com/htv-prod/images/59afd81a-246a-4dd8-be64-a0263cee209e.png?crop=1.00xw%3A1.00xh%3B0%2C0&resize=1200%3A*"
         },
         {
+          "id": "https://news.ycombinator.com/item?id=50150434",
+          "author": "groar",
+          "description": "Article URL: https://mistral.ai/news/timestral/\nComments URL: https://news.ycombinator.com/item?id=50150434\nPoints: 523\n# Comments: 97",
+          "link": "https://mistral.ai/news/timestral/",
+          "publishedOn": "2026-10-19T09:59:32.000Z",
+          "wordCount": 2256,
+          "title": "Timestral: Mistral's time-series foundation models",
+          "imageUrl": "https://mistral.ai/cms-media/api/media/file/og-timestral.webp"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=50149392",
           "author": "cjd8",
           "description": "Article URL: https://lwn.net/Articles/1101143/\nComments URL: https://news.ycombinator.com/item?id=50149392\nPoints: 565\n# Comments: 256",
@@ -24,6 +34,16 @@
           "wordCount": null,
           "title": "Linux 7.3",
           "imageUrl": null
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=50145337",
+          "author": "allinonai",
+          "description": "https://x.com/Jiaru_Zou/status/2110400256647340476\nhttps://github.com/togethercomputer/HybridAgent\nhttps://huggingface.co/collections/togethercomputer/hybridag...\nEvaluations: https://arxiv.org/html/2610.18861v1#S5\nComments URL: https://news.ycombinator.com/item?id=50145337\nPoints: 501\n# Comments: 236",
+          "link": "https://arxiv.org/abs/2610.18861",
+          "publishedOn": "2026-10-18T20:48:14.000Z",
+          "wordCount": 686,
+          "title": "Hybrid Reasoning Agents: LLM agents that think in latent space, act through text",
+          "imageUrl": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
         },
         {
           "id": "https://news.ycombinator.com/item?id=50142866",
