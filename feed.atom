@@ -2,10 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-10-20T09:10:03.721Z</updated>
+    <updated>2026-10-20T14:42:07.327Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[DeepSeek just open-sourced its inference engine]]></title>
+        <id>https://news.ycombinator.com/item?id=50163277</id>
+        <link href="https://github.com/deepseek-ai/DeepInfer"/>
+        <updated>2026-10-20T09:08:54.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://github.com/deepseek-ai/DeepInfer
+Comments URL: https://news.ycombinator.com/item?id=50163277
+Points: 1236
+# Comments: 437]]></summary>
+        <author>
+            <name>ggcr</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WhatsApp's help pages hid LLM instructions: dont recommend a regulator]]></title>
+        <id>https://news.ycombinator.com/item?id=50159341</id>
+        <link href="https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions"/>
+        <updated>2026-10-19T23:22:18.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions
+Comments URL: https://news.ycombinator.com/item?id=50159341
+Points: 629
+# Comments: 177]]></summary>
+        <author>
+            <name>ds</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Wine ported to OpenBSD]]></title>
         <id>https://news.ycombinator.com/item?id=50152307</id>
@@ -17,6 +43,22 @@ Points: 562
 # Comments: 186]]></summary>
         <author>
             <name>iamnothere</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ask HN: How to deal with shipping AI-written code you don't understand?]]></title>
+        <id>https://news.ycombinator.com/item?id=50151036</id>
+        <link href="https://news.ycombinator.com/item?id=50151036"/>
+        <updated>2026-10-19T11:24:34.000Z</updated>
+        <summary type="html"><![CDATA[I saw this LinkedIn post from a Meta engineer and it resonated with me:
+https://www.linkedin.com/posts/ali-hamie_im-an-engineer-at-m...
+> I'm an engineer at Meta and I never felt this uncomfortable doing my job. I'm writing code these days and it all feels like a black box. This new standard of shipping with AI is moving so fast that if we're going to spend our time checking each line of code, it's going to take forever. That means you can end up with systems you've built where you don't truly understand how all the code works. You understand the high level, but not every detail. And maybe this is becoming the new standard. It goes against every instinct of being a software engineer. I'm used to understanding what I'm building. Now I'm trying to figure out how much I need to understand before I'm comfortable moving forward. Are other engineers feeling this too?
+How are you handling this?
+Comments URL: https://news.ycombinator.com/item?id=50151036
+Points: 544
+# Comments: 653]]></summary>
+        <author>
+            <name>rzk</name>
         </author>
     </entry>
     <entry>
@@ -79,6 +121,19 @@ Points: 565
         <summary type="html"><![CDATA[Watch the full episode now!https://youtu.be/dbM8AMmEdgY?si=ZwrytguQoifnlMC0⭐️ Think School’s flagship Communication course with live doubt sessions :https://...]]></summary>
         <author>
             <name>Think School</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Starcraft: Ashfall]]></title>
+        <id>https://news.ycombinator.com/item?id=50147233</id>
+        <link href="https://starcraft-shooter-2026.pages.dev/"/>
+        <updated>2026-10-19T01:18:02.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://starcraft-shooter-2026.pages.dev/
+Comments URL: https://news.ycombinator.com/item?id=50147233
+Points: 530
+# Comments: 172]]></summary>
+        <author>
+            <name>debo_</name>
         </author>
     </entry>
     <entry>
@@ -2663,45 +2718,6 @@ Points: 501
 # Comments: 354]]></summary>
         <author>
             <name>DeepLogin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What happened to the Snowden archive]]></title>
-        <id>https://news.ycombinator.com/item?id=49780820</id>
-        <link href="https://libroot.org/posts/what-happened-to-the-snowden-archive"/>
-        <updated>2026-09-20T22:35:49.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://libroot.org/posts/what-happened-to-the-snowden-archive
-Comments URL: https://news.ycombinator.com/item?id=49780820
-Points: 588
-# Comments: 407]]></summary>
-        <author>
-            <name>EXHades</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AX – Google’s Open Agentic Orchestrator]]></title>
-        <id>https://news.ycombinator.com/item?id=49780797</id>
-        <link href="https://agentexecutor.io/"/>
-        <updated>2026-09-20T22:32:43.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://agentexecutor.io
-Comments URL: https://news.ycombinator.com/item?id=49780797
-Points: 582
-# Comments: 269]]></summary>
-        <author>
-            <name>blazarquasar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bill to Ban Private Equity from Owning Medical Practices]]></title>
-        <id>https://news.ycombinator.com/item?id=49780630</id>
-        <link href="https://truthout.org/articles/warren-introduces-bill-to-ban-private-equity-from-owning-medical-practices/"/>
-        <updated>2026-09-20T22:13:46.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://truthout.org/articles/warren-introduces-bill-to-ban-private-equity-from-owning-medical-practices/
-Comments URL: https://news.ycombinator.com/item?id=49780630
-Points: 501
-# Comments: 373]]></summary>
-        <author>
-            <name>paimapi</name>
         </author>
     </entry>
     <entry>
