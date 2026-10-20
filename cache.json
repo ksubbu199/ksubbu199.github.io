@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=50152307",
+          "author": "iamnothere",
+          "description": "Article URL: https://marc.info/?l=openbsd-ports&m=179236125692175\nComments URL: https://news.ycombinator.com/item?id=50152307\nPoints: 562\n# Comments: 186",
+          "link": "https://marc.info/?l=openbsd-ports&m=179236125692175",
+          "publishedOn": "2026-10-19T13:35:34.000Z",
+          "wordCount": 417,
+          "title": "Wine ported to OpenBSD",
+          "imageUrl": null
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=50150750",
           "author": "DeepLogin",
           "description": "Article URL: https://www.wjcl.com/article/savannah-police-officer-ice-agent-flock-access/74135816\nComments URL: https://news.ycombinator.com/item?id=50150750\nPoints: 604\n# Comments: 340",
@@ -24,6 +34,16 @@
           "wordCount": 2256,
           "title": "Timestral: Mistral's time-series foundation models",
           "imageUrl": "https://mistral.ai/cms-media/api/media/file/og-timestral.webp"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=50150089",
+          "author": "hakonjdjohnsen",
+          "description": "Article URL: https://www.youtube.com/watch?v=Ndftcft6XhU\nComments URL: https://news.ycombinator.com/item?id=50150089\nPoints: 536\n# Comments: 110",
+          "link": "https://www.youtube.com/watch?v=Ndftcft6XhU",
+          "publishedOn": "2026-10-19T09:05:07.000Z",
+          "wordCount": null,
+          "title": "I built a drone with only one motor [video]",
+          "imageUrl": null
         },
         {
           "id": "https://news.ycombinator.com/item?id=50149392",
@@ -93,6 +113,16 @@
           "publishedOn": "2026-10-17T23:26:35.000Z",
           "wordCount": null,
           "title": "There's never been a better time to go into math (by: 3blue1brown) [video]",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=50134472",
+          "author": "goostavos",
+          "description": "Article URL: https://chriskiehl.com/article/it-is-still-ok-to-enjoy-programming\nComments URL: https://news.ycombinator.com/item?id=50134472\nPoints: 590\n# Comments: 514",
+          "link": "https://chriskiehl.com/article/it-is-still-ok-to-enjoy-programming",
+          "publishedOn": "2026-10-17T19:53:20.000Z",
+          "wordCount": 493,
+          "title": "It's still ok to enjoy programming",
           "imageUrl": null
         },
         {
@@ -1734,46 +1764,6 @@
           "wordCount": 5810,
           "title": "Bill to Ban Private Equity from Owning Medical Practices",
           "imageUrl": "https://truthout.org/app/uploads/2026/09/2026_09-17-elizabeth-warren.jpg"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=49778029",
-          "author": "giuliomagnifico",
-          "description": "Article URL: https://en.sedaily.com/finance/2026/09/20/samsung-to-double-hbm4-output-next-year-sources-say\nComments URL: https://news.ycombinator.com/item?id=49778029\nPoints: 530\n# Comments: 399",
-          "link": "https://en.sedaily.com/finance/2026/09/20/samsung-to-double-hbm4-output-next-year-sources-say",
-          "publishedOn": "2026-09-20T17:38:50.000Z",
-          "wordCount": 4439,
-          "title": "Samsung is expected to more than double output of its HBM4 and HBM4E DRAM",
-          "imageUrl": "https://wimg.sedaily.com/news/cms/2026/09/20/rcv.YNA.20260318.PYH2026031803840001300_P1.jpg"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=49776729",
-          "author": "lmbbuchodi",
-          "description": "Article URL: https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector/\nComments URL: https://news.ycombinator.com/item?id=49776729\nPoints: 501\n# Comments: 290",
-          "link": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector/",
-          "publishedOn": "2026-09-20T15:18:44.000Z",
-          "wordCount": 1552,
-          "title": "ChatGPT now knows what you do on other websites via ad collector",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=49776699",
-          "author": "skepticalgenius",
-          "description": "Article URL: https://pirateface.co/\nComments URL: https://news.ycombinator.com/item?id=49776699\nPoints: 537\n# Comments: 143",
-          "link": "https://pirateface.co/",
-          "publishedOn": "2026-09-20T15:16:07.000Z",
-          "wordCount": 2328,
-          "title": "Pirate Face Rescues LLM Models from Deletion",
-          "imageUrl": "https://pirateface.co/og/home"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=49775499",
-          "author": "jmillikin",
-          "description": "Article URL: https://qwen.ai/blog?id=qwen-image-2.1\nComments URL: https://news.ycombinator.com/item?id=49775499\nPoints: 526\n# Comments: 157",
-          "link": "https://qwen.ai/blog?id=qwen-image-2.1",
-          "publishedOn": "2026-09-20T13:09:25.000Z",
-          "wordCount": 592,
-          "title": "Qwen Image 2.1",
-          "imageUrl": "https://img.alicdn.com/imgextra/i4/O1CN01OXv3EM1FN8t9W4P79_!!6000000000474-2-tps-80-80.png"
         }
       ]
     },

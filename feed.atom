@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-10-20T03:37:25.870Z</updated>
+    <updated>2026-10-20T09:10:03.721Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Wine ported to OpenBSD]]></title>
+        <id>https://news.ycombinator.com/item?id=50152307</id>
+        <link href="https://marc.info/?l=openbsd-ports&amp;m=179236125692175"/>
+        <updated>2026-10-19T13:35:34.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://marc.info/?l=openbsd-ports&m=179236125692175
+Comments URL: https://news.ycombinator.com/item?id=50152307
+Points: 562
+# Comments: 186]]></summary>
+        <author>
+            <name>iamnothere</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ousted Savannah police officer gave ICE agent husband access to Flock system]]></title>
         <id>https://news.ycombinator.com/item?id=50150750</id>
@@ -30,6 +43,19 @@ Points: 523
 # Comments: 97]]></summary>
         <author>
             <name>groar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I built a drone with only one motor [video]]]></title>
+        <id>https://news.ycombinator.com/item?id=50150089</id>
+        <link href="https://www.youtube.com/watch?v=Ndftcft6XhU"/>
+        <updated>2026-10-19T09:05:07.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.youtube.com/watch?v=Ndftcft6XhU
+Comments URL: https://news.ycombinator.com/item?id=50150089
+Points: 536
+# Comments: 110]]></summary>
+        <author>
+            <name>hakonjdjohnsen</name>
         </author>
     </entry>
     <entry>
@@ -134,6 +160,19 @@ Points: 526
 # Comments: 731]]></summary>
         <author>
             <name>mdp2021</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[It's still ok to enjoy programming]]></title>
+        <id>https://news.ycombinator.com/item?id=50134472</id>
+        <link href="https://chriskiehl.com/article/it-is-still-ok-to-enjoy-programming"/>
+        <updated>2026-10-17T19:53:20.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://chriskiehl.com/article/it-is-still-ok-to-enjoy-programming
+Comments URL: https://news.ycombinator.com/item?id=50134472
+Points: 590
+# Comments: 514]]></summary>
+        <author>
+            <name>goostavos</name>
         </author>
     </entry>
     <entry>
@@ -2663,58 +2702,6 @@ Points: 501
 # Comments: 373]]></summary>
         <author>
             <name>paimapi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Samsung is expected to more than double output of its HBM4 and HBM4E DRAM]]></title>
-        <id>https://news.ycombinator.com/item?id=49778029</id>
-        <link href="https://en.sedaily.com/finance/2026/09/20/samsung-to-double-hbm4-output-next-year-sources-say"/>
-        <updated>2026-09-20T17:38:50.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://en.sedaily.com/finance/2026/09/20/samsung-to-double-hbm4-output-next-year-sources-say
-Comments URL: https://news.ycombinator.com/item?id=49778029
-Points: 530
-# Comments: 399]]></summary>
-        <author>
-            <name>giuliomagnifico</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ChatGPT now knows what you do on other websites via ad collector]]></title>
-        <id>https://news.ycombinator.com/item?id=49776729</id>
-        <link href="https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector/"/>
-        <updated>2026-09-20T15:18:44.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector/
-Comments URL: https://news.ycombinator.com/item?id=49776729
-Points: 501
-# Comments: 290]]></summary>
-        <author>
-            <name>lmbbuchodi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pirate Face Rescues LLM Models from Deletion]]></title>
-        <id>https://news.ycombinator.com/item?id=49776699</id>
-        <link href="https://pirateface.co/"/>
-        <updated>2026-09-20T15:16:07.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://pirateface.co/
-Comments URL: https://news.ycombinator.com/item?id=49776699
-Points: 537
-# Comments: 143]]></summary>
-        <author>
-            <name>skepticalgenius</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Qwen Image 2.1]]></title>
-        <id>https://news.ycombinator.com/item?id=49775499</id>
-        <link href="https://qwen.ai/blog?id=qwen-image-2.1"/>
-        <updated>2026-09-20T13:09:25.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://qwen.ai/blog?id=qwen-image-2.1
-Comments URL: https://news.ycombinator.com/item?id=49775499
-Points: 526
-# Comments: 157]]></summary>
-        <author>
-            <name>jmillikin</name>
         </author>
     </entry>
     <entry>
