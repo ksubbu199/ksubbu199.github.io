@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-10-20T14:42:07.327Z</updated>
+    <updated>2026-10-20T18:56:00.808Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -30,6 +30,32 @@ Points: 629
 # Comments: 177]]></summary>
         <author>
             <name>ds</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MiniMax M3.1 Flash]]></title>
+        <id>https://news.ycombinator.com/item?id=50154540</id>
+        <link href="https://www.minimax.io/blog/minimax-m31f"/>
+        <updated>2026-10-19T16:39:09.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.minimax.io/blog/minimax-m31f
+Comments URL: https://news.ycombinator.com/item?id=50154540
+Points: 506
+# Comments: 215]]></summary>
+        <author>
+            <name>jtg</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DeepSeek banned from U.S. federal civilian agencies under new DHS order]]></title>
+        <id>https://news.ycombinator.com/item?id=50154244</id>
+        <link href="https://www.reuters.com/technology/us-banning-chinese-ai-deepseek-government-agency-it-systems-2026-10-19/"/>
+        <updated>2026-10-19T16:16:46.000Z</updated>
+        <summary type="html"><![CDATA[https://public-inspection.federalregister.gov/2026-21447.pdf
+Comments URL: https://news.ycombinator.com/item?id=50154244
+Points: 530
+# Comments: 458]]></summary>
+        <author>
+            <name>cmrdporcupine</name>
         </author>
     </entry>
     <entry>
