@@ -36,6 +36,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://news.ycombinator.com/item?id=50165208",
+          "author": "evanb",
+          "description": "Article URL: https://teddysvoronos.com/2026-10-19-apple-broke-an-essential-presentation-feature-of-ipads/\nComments URL: https://news.ycombinator.com/item?id=50165208\nPoints: 541\n# Comments: 269",
+          "link": "https://teddysvoronos.com/2026-10-19-apple-broke-an-essential-presentation-feature-of-ipads/",
+          "publishedOn": "2026-10-20T12:17:28.000Z",
+          "wordCount": 1377,
+          "title": "Apple broke an essential presentation feature of iPads",
+          "imageUrl": "https://teddysvoronos.com/assets/img/headshot-nav.jpg"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=50163277",
           "author": "ggcr",
           "description": "Article URL: https://github.com/deepseek-ai/DeepInfer\nComments URL: https://news.ycombinator.com/item?id=50163277\nPoints: 1236\n# Comments: 437",
@@ -1794,36 +1804,6 @@
           "wordCount": 2599,
           "title": "Transformers Explained Visually",
           "imageUrl": "https://poloclub.github.io/transformer-explainer/preview/summary.png"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=49788838",
-          "author": "meetpateltech",
-          "description": "Article URL: https://x.ai/news/grok-4-7\nComments URL: https://news.ycombinator.com/item?id=49788838\nPoints: 519\n# Comments: 435",
-          "link": "https://x.ai/news/grok-4-7",
-          "publishedOn": "2026-09-21T15:50:15.000Z",
-          "wordCount": 5669,
-          "title": "Grok 4.7",
-          "imageUrl": "https://x.ai/images/news/grok-4-7-og.webp"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=49787726",
-          "author": "zer0tonin",
-          "description": "Article URL: https://alicegg.tech/2026/09/21/attention\nComments URL: https://news.ycombinator.com/item?id=49787726\nPoints: 544\n# Comments: 155",
-          "link": "https://alicegg.tech/2026/09/21/attention",
-          "publishedOn": "2026-09-21T14:26:56.000Z",
-          "wordCount": 685,
-          "title": "Attention is all you have",
-          "imageUrl": "https://www.alicegg.tech/assets/2026-09-21-attention/tetris.jpg"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=49787436",
-          "author": "chmaynard",
-          "description": "Article URL: https://bcantrill.dtrace.org/2026/09/20/what-sun-got-wrong/\nComments URL: https://news.ycombinator.com/item?id=49787436\nPoints: 521\n# Comments: 309",
-          "link": "https://bcantrill.dtrace.org/2026/09/20/what-sun-got-wrong/",
-          "publishedOn": "2026-09-21T14:03:18.000Z",
-          "wordCount": 795,
-          "title": "What Sun got wrong",
-          "imageUrl": null
         }
       ]
     },

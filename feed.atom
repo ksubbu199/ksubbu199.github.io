@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-10-21T01:18:49.314Z</updated>
+    <updated>2026-10-21T07:07:10.363Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -43,6 +43,19 @@ Points: 622
 # Comments: 336]]></summary>
         <author>
             <name>galadran</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple broke an essential presentation feature of iPads]]></title>
+        <id>https://news.ycombinator.com/item?id=50165208</id>
+        <link href="https://teddysvoronos.com/2026-10-19-apple-broke-an-essential-presentation-feature-of-ipads/"/>
+        <updated>2026-10-20T12:17:28.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://teddysvoronos.com/2026-10-19-apple-broke-an-essential-presentation-feature-of-ipads/
+Comments URL: https://news.ycombinator.com/item?id=50165208
+Points: 541
+# Comments: 269]]></summary>
+        <author>
+            <name>evanb</name>
         </author>
     </entry>
     <entry>
@@ -2744,45 +2757,6 @@ Points: 516
 # Comments: 78]]></summary>
         <author>
             <name>aray07</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Grok 4.7]]></title>
-        <id>https://news.ycombinator.com/item?id=49788838</id>
-        <link href="https://x.ai/news/grok-4-7"/>
-        <updated>2026-09-21T15:50:15.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://x.ai/news/grok-4-7
-Comments URL: https://news.ycombinator.com/item?id=49788838
-Points: 519
-# Comments: 435]]></summary>
-        <author>
-            <name>meetpateltech</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Attention is all you have]]></title>
-        <id>https://news.ycombinator.com/item?id=49787726</id>
-        <link href="https://alicegg.tech/2026/09/21/attention"/>
-        <updated>2026-09-21T14:26:56.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://alicegg.tech/2026/09/21/attention
-Comments URL: https://news.ycombinator.com/item?id=49787726
-Points: 544
-# Comments: 155]]></summary>
-        <author>
-            <name>zer0tonin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What Sun got wrong]]></title>
-        <id>https://news.ycombinator.com/item?id=49787436</id>
-        <link href="https://bcantrill.dtrace.org/2026/09/20/what-sun-got-wrong/"/>
-        <updated>2026-09-21T14:03:18.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://bcantrill.dtrace.org/2026/09/20/what-sun-got-wrong/
-Comments URL: https://news.ycombinator.com/item?id=49787436
-Points: 521
-# Comments: 309]]></summary>
-        <author>
-            <name>chmaynard</name>
         </author>
     </entry>
     <entry>
