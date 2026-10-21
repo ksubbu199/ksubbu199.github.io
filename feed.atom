@@ -2,10 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-10-21T18:24:13.138Z</updated>
+    <updated>2026-10-21T22:07:33.689Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Today's PHP security release, and how we're strengthening security]]></title>
+        <id>https://news.ycombinator.com/item?id=50182987</id>
+        <link href="https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/"/>
+        <updated>2026-10-21T15:48:56.000Z</updated>
+        <summary type="html"><![CDATA[Related ongoing thread: PHP 8.2.35 - https://news.ycombinator.com/item?id=50180873
+(links to more at https://news.ycombinator.com/item?id=50184935)
+Comments URL: https://news.ycombinator.com/item?id=50182987
+Points: 537
+# Comments: 274]]></summary>
+        <author>
+            <name>ejohnso49</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[PHP 8.2.35]]></title>
         <id>https://news.ycombinator.com/item?id=50180873</id>
@@ -2797,19 +2811,6 @@ Points: 536
 # Comments: 354]]></summary>
         <author>
             <name>sohkamyung</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I said no and Apple said yes]]></title>
-        <id>https://news.ycombinator.com/item?id=49797982</id>
-        <link href="https://dbushell.com/2026/09/22/apple-intelligence/"/>
-        <updated>2026-09-22T08:04:55.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://dbushell.com/2026/09/22/apple-intelligence/
-Comments URL: https://news.ycombinator.com/item?id=49797982
-Points: 706
-# Comments: 566]]></summary>
-        <author>
-            <name>thatslast</name>
         </author>
     </entry>
     <entry>

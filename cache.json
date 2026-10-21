@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=50182987",
+          "author": "ejohnso49",
+          "description": "Related ongoing thread: PHP 8.2.35 - https://news.ycombinator.com/item?id=50180873\n(links to more at https://news.ycombinator.com/item?id=50184935)\nComments URL: https://news.ycombinator.com/item?id=50182987\nPoints: 537\n# Comments: 274",
+          "link": "https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/",
+          "publishedOn": "2026-10-21T15:48:56.000Z",
+          "wordCount": 2027,
+          "title": "Today's PHP security release, and how we're strengthening security",
+          "imageUrl": "https://thephp.foundation/assets/share/2026-10-21-todays-php-security-release-and-how-were-strengthening-php-security.png"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=50180873",
           "author": "tuyuri",
           "description": "Article URL: https://github.com/php/php-src/releases/tag/php-8.2.35\nComments URL: https://news.ycombinator.com/item?id=50180873\nPoints: 796\n# Comments: 456",
@@ -1814,16 +1824,6 @@
           "wordCount": 3601,
           "title": "OpenAI GPT–6 Astra breaks Enigma message that has resisted solution since 2005",
           "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=49797982",
-          "author": "thatslast",
-          "description": "Article URL: https://dbushell.com/2026/09/22/apple-intelligence/\nComments URL: https://news.ycombinator.com/item?id=49797982\nPoints: 706\n# Comments: 566",
-          "link": "https://dbushell.com/2026/09/22/apple-intelligence/",
-          "publishedOn": "2026-09-22T08:04:55.000Z",
-          "wordCount": 2131,
-          "title": "I said no and Apple said yes",
-          "imageUrl": "https://dbushell.com/images/articles/2026-09-22-apple-intelligence.png"
         }
       ]
     },
