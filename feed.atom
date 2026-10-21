@@ -2,10 +2,62 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-10-21T07:07:10.363Z</updated>
+    <updated>2026-10-21T13:28:18.308Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[With the festive season around the corner, we’re getting ready to tap our cards wherever we go!]]></title>
+        <id>https://www.youtube.com/shorts/CdwWNBAaJXQ</id>
+        <link href="https://www.youtube.com/shorts/CdwWNBAaJXQ"/>
+        <updated>2026-10-21T12:36:48.000Z</updated>
+        <summary type="html"><![CDATA[At the Global Fintech Fest, Mastercard showed us how technology is making digital payments safer, from detecting fraud in milliseconds to the future of Agent...]]></summary>
+        <author>
+            <name>Think School</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fragments: October 21]]></title>
+        <id>https://martinfowler.com/fragments/2026-10-21.html</id>
+        <link href="https://martinfowler.com/fragments/2026-10-21.html"/>
+        <updated>2026-10-21T10:51:00.000Z</updated>
+        <summary type="html"><![CDATA[Gergely Orosz is frustrated at those that entered his explicitly “No AI” essay competition and used AI. He goes on to say:
+When I start to suspect some part is AI about someone I don’t know: how can I tell how much of it is? And how much time and effort do I want to invest to figure out?
+I fear most people do not realize this last part: that when it takes time and effort from others to figure out what % is AI, and what % is YOU, then I will simply assume it’s probably 100% AI and 0% you
+So when producing anything that is meant for other humans, if you use even a little AI, you risk the assumption that it is all AI and pointless to pay attention to
+In general, I agree with him, and react much the same. Once I hear LLM Voice, I flip the bozo bit and check out of the post.
+But as I do this I …]]></summary>
+        <author>
+            <name>Martin Fowler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The 1.5°C goal of the Paris Agreement is no longer viable]]></title>
+        <id>https://news.ycombinator.com/item?id=50177911</id>
+        <link href="https://unric.org/en/unep-emissions-gap-report-2026-1-5-degree-overshoot/"/>
+        <updated>2026-10-21T09:07:49.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://unric.org/en/unep-emissions-gap-report-2026-1-5-degree-overshoot/
+Comments URL: https://news.ycombinator.com/item?id=50177911
+Points: 502
+# Comments: 559]]></summary>
+        <author>
+            <name>velo_aprx</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Upcoming critical PHP security release (CVE-2026-109618 / -109619)]]></title>
+        <id>https://news.ycombinator.com/item?id=50172041</id>
+        <link href="https://news-web.php.net/php.announce/509"/>
+        <updated>2026-10-20T20:15:50.000Z</updated>
+        <summary type="html"><![CDATA[https://cert.europa.eu/publications/security-advisories/2026...
+https://news.ycombinator.com/item?id=50167754
+Comments URL: https://news.ycombinator.com/item?id=50172041
+Points: 1274
+# Comments: 526]]></summary>
+        <author>
+            <name>xd</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SimCity, but with Permits]]></title>
         <id>https://news.ycombinator.com/item?id=50170593</id>
@@ -2705,58 +2757,6 @@ Points: 706
 # Comments: 566]]></summary>
         <author>
             <name>thatslast</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Spymarks, Not Watermarks]]></title>
-        <id>https://news.ycombinator.com/item?id=49794615</id>
-        <link href="https://brand.io/article/spymarks/"/>
-        <updated>2026-09-21T23:03:49.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://brand.io/article/spymarks/
-Comments URL: https://news.ycombinator.com/item?id=49794615
-Points: 564
-# Comments: 135]]></summary>
-        <author>
-            <name>possibilistic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I don't want to read what you didn't write]]></title>
-        <id>https://news.ycombinator.com/item?id=49794330</id>
-        <link href="https://blog.colinbreck.com/i-dont-want-to-read-what-you-didnt-write/"/>
-        <updated>2026-09-21T22:30:41.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://blog.colinbreck.com/i-dont-want-to-read-what-you-didnt-write/
-Comments URL: https://news.ycombinator.com/item?id=49794330
-Points: 655
-# Comments: 248]]></summary>
-        <author>
-            <name>mooreds</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Xiaomi MiMo v2.6]]></title>
-        <id>https://news.ycombinator.com/item?id=49792730</id>
-        <link href="https://mimo.xiaomi.com/mimo-v2-6"/>
-        <updated>2026-09-21T20:12:12.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://mimo.xiaomi.com/mimo-v2-6
-Comments URL: https://news.ycombinator.com/item?id=49792730
-Points: 617
-# Comments: 310]]></summary>
-        <author>
-            <name>volf_</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Transformers Explained Visually]]></title>
-        <id>https://news.ycombinator.com/item?id=49792342</id>
-        <link href="https://poloclub.github.io/transformer-explainer/"/>
-        <updated>2026-09-21T19:43:49.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://poloclub.github.io/transformer-explainer/
-Comments URL: https://news.ycombinator.com/item?id=49792342
-Points: 516
-# Comments: 78]]></summary>
-        <author>
-            <name>aray07</name>
         </author>
     </entry>
     <entry>

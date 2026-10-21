@@ -6,6 +6,26 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=50177911",
+          "author": "velo_aprx",
+          "description": "Article URL: https://unric.org/en/unep-emissions-gap-report-2026-1-5-degree-overshoot/\nComments URL: https://news.ycombinator.com/item?id=50177911\nPoints: 502\n# Comments: 559",
+          "link": "https://unric.org/en/unep-emissions-gap-report-2026-1-5-degree-overshoot/",
+          "publishedOn": "2026-10-21T09:07:49.000Z",
+          "wordCount": 13710,
+          "title": "The 1.5°C goal of the Paris Agreement is no longer viable",
+          "imageUrl": "https://e4k4c4x9.delivery.rocketcdn.me/en/wp-content/uploads/sites/15/2026/10/city-smog.jpg"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=50172041",
+          "author": "xd",
+          "description": "https://cert.europa.eu/publications/security-advisories/2026...\nhttps://news.ycombinator.com/item?id=50167754\nComments URL: https://news.ycombinator.com/item?id=50172041\nPoints: 1274\n# Comments: 526",
+          "link": "https://news-web.php.net/php.announce/509",
+          "publishedOn": "2026-10-20T20:15:50.000Z",
+          "wordCount": null,
+          "title": "Upcoming critical PHP security release (CVE-2026-109618 / -109619)",
+          "imageUrl": null
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=50170593",
           "author": "pcai",
           "description": "Article URL: https://permit.petercai.com/\nComments URL: https://news.ycombinator.com/item?id=50170593\nPoints: 540\n# Comments: 285",
@@ -1764,46 +1784,6 @@
           "wordCount": 2131,
           "title": "I said no and Apple said yes",
           "imageUrl": "https://dbushell.com/images/articles/2026-09-22-apple-intelligence.png"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=49794615",
-          "author": "possibilistic",
-          "description": "Article URL: https://brand.io/article/spymarks/\nComments URL: https://news.ycombinator.com/item?id=49794615\nPoints: 564\n# Comments: 135",
-          "link": "https://brand.io/article/spymarks/",
-          "publishedOn": "2026-09-21T23:03:49.000Z",
-          "wordCount": 1342,
-          "title": "Spymarks, Not Watermarks",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=49794330",
-          "author": "mooreds",
-          "description": "Article URL: https://blog.colinbreck.com/i-dont-want-to-read-what-you-didnt-write/\nComments URL: https://news.ycombinator.com/item?id=49794330\nPoints: 655\n# Comments: 248",
-          "link": "https://blog.colinbreck.com/i-dont-want-to-read-what-you-didnt-write/",
-          "publishedOn": "2026-09-21T22:30:41.000Z",
-          "wordCount": 3104,
-          "title": "I don't want to read what you didn't write",
-          "imageUrl": "https://storage.ghost.io/c/d3/13/d313bae5-6633-4ef2-8565-d9e72c1a5da1/content/images/size/w1200/2026/09/i-dont-want-to-read-what-you-didnt-write.jpg"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=49792730",
-          "author": "volf_",
-          "description": "Article URL: https://mimo.xiaomi.com/mimo-v2-6\nComments URL: https://news.ycombinator.com/item?id=49792730\nPoints: 617\n# Comments: 310",
-          "link": "https://mimo.xiaomi.com/mimo-v2-6",
-          "publishedOn": "2026-09-21T20:12:12.000Z",
-          "wordCount": 722,
-          "title": "Xiaomi MiMo v2.6",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=49792342",
-          "author": "aray07",
-          "description": "Article URL: https://poloclub.github.io/transformer-explainer/\nComments URL: https://news.ycombinator.com/item?id=49792342\nPoints: 516\n# Comments: 78",
-          "link": "https://poloclub.github.io/transformer-explainer/",
-          "publishedOn": "2026-09-21T19:43:49.000Z",
-          "wordCount": 2599,
-          "title": "Transformers Explained Visually",
-          "imageUrl": "https://poloclub.github.io/transformer-explainer/preview/summary.png"
         }
       ]
     },
@@ -1902,6 +1882,16 @@
       "feedUrl": "https://martinfowler.com/feed.atom",
       "siteUrl": "https://martinfowler.com/feed.atom",
       "articles": [
+        {
+          "id": "https://martinfowler.com/fragments/2026-10-21.html",
+          "author": null,
+          "description": "Gergely Orosz is frustrated at those that entered his explicitly “No AI” essay competition and used AI. He goes on to say:\nWhen I start to suspect some part is AI about someone I don’t know: how can I tell how much of it is? And how much time and effort do I want to invest to figure out?\nI fear most people do not realize this last part: that when it takes time and effort from others to figure out what % is AI, and what % is YOU, then I will simply assume it’s probably 100% AI and 0% you\nSo when producing anything that is meant for other humans, if you use even a little AI, you risk the assumption that it is all AI and pointless to pay attention to\nIn general, I agree with him, and react much the same. Once I hear LLM Voice, I flip the bozo bit and check out of the post.\nBut as I do this I …",
+          "link": "https://martinfowler.com/fragments/2026-10-21.html",
+          "publishedOn": "2026-10-21T10:51:00.000Z",
+          "wordCount": 1238,
+          "title": "Fragments: October 21",
+          "imageUrl": "https://martinfowler.com/fragments/fragments-thumb.png"
+        },
         {
           "id": "https://martinfowler.com/articles/software-meets-hardware.html",
           "author": null,
@@ -2062,6 +2052,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKZozRVHRYsYHGEyNKuhhdA",
       "siteUrl": "https://www.youtube.com/channel/UCKZozRVHRYsYHGEyNKuhhdA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/shorts/CdwWNBAaJXQ",
+          "author": null,
+          "description": "At the Global Fintech Fest, Mastercard showed us how technology is making digital payments safer, from detecting fraud in milliseconds to the future of Agent...",
+          "link": "https://www.youtube.com/shorts/CdwWNBAaJXQ",
+          "publishedOn": "2026-10-21T12:36:48.000Z",
+          "wordCount": 3501,
+          "title": "With the festive season around the corner, we’re getting ready to tap our cards wherever we go!",
+          "imageUrl": "https://i.ytimg.com/vi/CdwWNBAaJXQ/oardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLDvNoVHqVsCz6JxFBwwfTrwxpiFiA"
+        },
         {
           "id": "https://www.youtube.com/shorts/Lehkr4NIBXE",
           "author": null,
