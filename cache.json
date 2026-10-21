@@ -6,6 +6,36 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=50170593",
+          "author": "pcai",
+          "description": "Article URL: https://permit.petercai.com/\nComments URL: https://news.ycombinator.com/item?id=50170593\nPoints: 540\n# Comments: 285",
+          "link": "https://permit.petercai.com/",
+          "publishedOn": "2026-10-20T18:29:09.000Z",
+          "wordCount": 724,
+          "title": "SimCity, but with Permits",
+          "imageUrl": "https://permit.petercai.com/marketing/og.jpg"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=50168396",
+          "author": "ilreb",
+          "description": "Article URL: https://mistral.ai/news/voxtral-3/\nComments URL: https://news.ycombinator.com/item?id=50168396\nPoints: 521\n# Comments: 140",
+          "link": "https://mistral.ai/news/voxtral-3/",
+          "publishedOn": "2026-10-20T16:02:07.000Z",
+          "wordCount": 4658,
+          "title": "Voxtral 3",
+          "imageUrl": "https://mistral.ai/cms-media/api/media/file/hero-blog-voxtral.png"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=50166579",
+          "author": "galadran",
+          "description": "Article URL: https://emudhra.we-have-a-problem.com/\nComments URL: https://news.ycombinator.com/item?id=50166579\nPoints: 622\n# Comments: 336",
+          "link": "https://emudhra.we-have-a-problem.com/",
+          "publishedOn": "2026-10-20T13:58:33.000Z",
+          "wordCount": 1687,
+          "title": "EMudhra Intermediate CA Compromise",
+          "imageUrl": null
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=50163277",
           "author": "ggcr",
           "description": "Article URL: https://github.com/deepseek-ai/DeepInfer\nComments URL: https://news.ycombinator.com/item?id=50163277\nPoints: 1236\n# Comments: 437",
@@ -34,6 +64,16 @@
           "wordCount": 1667,
           "title": "MiniMax M3.1 Flash",
           "imageUrl": "https://filecdn.minimax.chat/public/m31-flash-zh-1-1792403273121.png?x-oss-process=image/format,webp"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=50154518",
+          "author": "phoronixrly",
+          "description": "Article URL: https://po-ru.com/2026/10/18/why-im-no-longer-updating-this-repository\nComments URL: https://news.ycombinator.com/item?id=50154518\nPoints: 503\n# Comments: 497",
+          "link": "https://po-ru.com/2026/10/18/why-im-no-longer-updating-this-repository",
+          "publishedOn": "2026-10-19T16:37:10.000Z",
+          "wordCount": 563,
+          "title": "I no longer care to work on any Ruby gems so I've archived all my repositories",
+          "imageUrl": null
         },
         {
           "id": "https://news.ycombinator.com/item?id=50154244",
@@ -144,6 +184,16 @@
           "wordCount": 917,
           "title": "Someone behind the software",
           "imageUrl": "https://karrisaarinen.com/static/linear-assets/081de7ffce667bb13cb63d8b2a1d312e19d747ea1d3818af2c5cc1e5a9445e21.webp"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=50141581",
+          "author": "noriax86",
+          "description": "Article URL: https://github.com/tywr/Nordwand-Mono\nComments URL: https://news.ycombinator.com/item?id=50141581\nPoints: 542\n# Comments: 151",
+          "link": "https://github.com/tywr/Nordwand-Mono",
+          "publishedOn": "2026-10-18T14:48:01.000Z",
+          "wordCount": 2740,
+          "title": "Nordwand Mono – A monospace font for coders and adventurers",
+          "imageUrl": "https://opengraph.githubassets.com/dd97b38e37556e04a825da7265bb096b4148aa44fd872df71b3d51bac47cb287/tywr/Nordwand-Mono"
         },
         {
           "id": "https://news.ycombinator.com/item?id=50138531",
@@ -1774,26 +1824,6 @@
           "wordCount": 795,
           "title": "What Sun got wrong",
           "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=49785429",
-          "author": "Bluestein",
-          "description": "Article URL: https://zuckoff.app/\nComments URL: https://news.ycombinator.com/item?id=49785429\nPoints: 583\n# Comments: 249",
-          "link": "https://zuckoff.app/",
-          "publishedOn": "2026-09-21T10:33:14.000Z",
-          "wordCount": 2075,
-          "title": "ZuckOff Know when a camera is in the room",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=49784336",
-          "author": "DeepLogin",
-          "description": "Article URL: https://consumerrights.wiki/w/Disney%2B_ad_policy_change\nComments URL: https://news.ycombinator.com/item?id=49784336\nPoints: 501\n# Comments: 354",
-          "link": "https://consumerrights.wiki/w/Disney%2B_ad_policy_change",
-          "publishedOn": "2026-09-21T07:55:28.000Z",
-          "wordCount": 1514,
-          "title": "Disney+: New user agreement allows ads before movies in all subscriptions",
-          "imageUrl": "https://consumerrights.wiki/images/logo/new_fixed_logo.png"
         }
       ]
     },

@@ -2,10 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-10-20T22:08:40.040Z</updated>
+    <updated>2026-10-21T01:18:49.314Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[SimCity, but with Permits]]></title>
+        <id>https://news.ycombinator.com/item?id=50170593</id>
+        <link href="https://permit.petercai.com/"/>
+        <updated>2026-10-20T18:29:09.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://permit.petercai.com/
+Comments URL: https://news.ycombinator.com/item?id=50170593
+Points: 540
+# Comments: 285]]></summary>
+        <author>
+            <name>pcai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Voxtral 3]]></title>
+        <id>https://news.ycombinator.com/item?id=50168396</id>
+        <link href="https://mistral.ai/news/voxtral-3/"/>
+        <updated>2026-10-20T16:02:07.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://mistral.ai/news/voxtral-3/
+Comments URL: https://news.ycombinator.com/item?id=50168396
+Points: 521
+# Comments: 140]]></summary>
+        <author>
+            <name>ilreb</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EMudhra Intermediate CA Compromise]]></title>
+        <id>https://news.ycombinator.com/item?id=50166579</id>
+        <link href="https://emudhra.we-have-a-problem.com/"/>
+        <updated>2026-10-20T13:58:33.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://emudhra.we-have-a-problem.com/
+Comments URL: https://news.ycombinator.com/item?id=50166579
+Points: 622
+# Comments: 336]]></summary>
+        <author>
+            <name>galadran</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[DeepSeek just open-sourced its inference engine]]></title>
         <id>https://news.ycombinator.com/item?id=50163277</id>
@@ -43,6 +82,19 @@ Points: 506
 # Comments: 215]]></summary>
         <author>
             <name>jtg</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I no longer care to work on any Ruby gems so I've archived all my repositories]]></title>
+        <id>https://news.ycombinator.com/item?id=50154518</id>
+        <link href="https://po-ru.com/2026/10/18/why-im-no-longer-updating-this-repository"/>
+        <updated>2026-10-19T16:37:10.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://po-ru.com/2026/10/18/why-im-no-longer-updating-this-repository
+Comments URL: https://news.ycombinator.com/item?id=50154518
+Points: 503
+# Comments: 497]]></summary>
+        <author>
+            <name>phoronixrly</name>
         </author>
     </entry>
     <entry>
@@ -202,6 +254,19 @@ Points: 536
 # Comments: 193]]></summary>
         <author>
             <name>tosh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nordwand Mono – A monospace font for coders and adventurers]]></title>
+        <id>https://news.ycombinator.com/item?id=50141581</id>
+        <link href="https://github.com/tywr/Nordwand-Mono"/>
+        <updated>2026-10-18T14:48:01.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://github.com/tywr/Nordwand-Mono
+Comments URL: https://news.ycombinator.com/item?id=50141581
+Points: 542
+# Comments: 151]]></summary>
+        <author>
+            <name>noriax86</name>
         </author>
     </entry>
     <entry>
@@ -2718,32 +2783,6 @@ Points: 521
 # Comments: 309]]></summary>
         <author>
             <name>chmaynard</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ZuckOff Know when a camera is in the room]]></title>
-        <id>https://news.ycombinator.com/item?id=49785429</id>
-        <link href="https://zuckoff.app/"/>
-        <updated>2026-09-21T10:33:14.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://zuckoff.app/
-Comments URL: https://news.ycombinator.com/item?id=49785429
-Points: 583
-# Comments: 249]]></summary>
-        <author>
-            <name>Bluestein</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Disney+: New user agreement allows ads before movies in all subscriptions]]></title>
-        <id>https://news.ycombinator.com/item?id=49784336</id>
-        <link href="https://consumerrights.wiki/w/Disney%2B_ad_policy_change"/>
-        <updated>2026-09-21T07:55:28.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://consumerrights.wiki/w/Disney%2B_ad_policy_change
-Comments URL: https://news.ycombinator.com/item?id=49784336
-Points: 501
-# Comments: 354]]></summary>
-        <author>
-            <name>DeepLogin</name>
         </author>
     </entry>
     <entry>
