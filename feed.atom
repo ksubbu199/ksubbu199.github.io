@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-10-21T13:28:18.308Z</updated>
+    <updated>2026-10-21T18:24:13.138Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[PHP 8.2.35]]></title>
+        <id>https://news.ycombinator.com/item?id=50180873</id>
+        <link href="https://github.com/php/php-src/releases/tag/php-8.2.35"/>
+        <updated>2026-10-21T13:45:33.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://github.com/php/php-src/releases/tag/php-8.2.35
+Comments URL: https://news.ycombinator.com/item?id=50180873
+Points: 796
+# Comments: 456]]></summary>
+        <author>
+            <name>tuyuri</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[With the festive season around the corner, we’re getting ready to tap our cards wherever we go!]]></title>
         <id>https://www.youtube.com/shorts/CdwWNBAaJXQ</id>
@@ -32,6 +45,19 @@ But as I do this I …]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Eight Bits of Trust; eMudhra's CA keys cracked in milliseconds]]></title>
+        <id>https://news.ycombinator.com/item?id=50177916</id>
+        <link href="https://scotthelme.co.uk/eight-bits-of-trust-emudhras-ca-keys-cracked-in-milliseconds/"/>
+        <updated>2026-10-21T09:08:08.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://scotthelme.co.uk/eight-bits-of-trust-emudhras-ca-keys-cracked-in-milliseconds/
+Comments URL: https://news.ycombinator.com/item?id=50177916
+Points: 670
+# Comments: 311]]></summary>
+        <author>
+            <name>hkc</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[The 1.5°C goal of the Paris Agreement is no longer viable]]></title>
         <id>https://news.ycombinator.com/item?id=50177911</id>
         <link href="https://unric.org/en/unep-emissions-gap-report-2026-1-5-degree-overshoot/"/>
@@ -42,6 +68,33 @@ Points: 502
 # Comments: 559]]></summary>
         <author>
             <name>velo_aprx</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Future of CSS]]></title>
+        <id>https://news.ycombinator.com/item?id=50175070</id>
+        <link href="https://www.joshwcomeau.com/css/interop-2027/"/>
+        <updated>2026-10-21T01:47:28.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.joshwcomeau.com/css/interop-2027/
+Comments URL: https://news.ycombinator.com/item?id=50175070
+Points: 565
+# Comments: 243]]></summary>
+        <author>
+            <name>soheilpro</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Security advisory: Critical remote code execution vulnerabilities, update now]]></title>
+        <id>https://news.ycombinator.com/item?id=50172041</id>
+        <link href="https://www.php.net/archive/2026.php#2026-10-21-5"/>
+        <updated>2026-10-20T20:15:50.000Z</updated>
+        <summary type="html"><![CDATA[https://cert.europa.eu/publications/security-advisories/2026...
+https://news.ycombinator.com/item?id=50167754
+Comments URL: https://news.ycombinator.com/item?id=50172041
+Points: 1468
+# Comments: 633]]></summary>
+        <author>
+            <name>xd</name>
         </author>
     </entry>
     <entry>
