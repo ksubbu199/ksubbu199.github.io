@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-10-22T18:19:05.026Z</updated>
+    <updated>2026-10-22T22:07:19.787Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -23,6 +23,19 @@
         <summary type="html"><![CDATA[Git had too many performance problems at 30,000 PRs per day, so Anthropic built its own. I talked with the team, including asking why they didn’t open source its new system, ‘Scion.’]]></summary>
         <author>
             <name>Ivan Klaric</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Quad9 (DNS Resolver) to Exit France]]></title>
+        <id>https://news.ycombinator.com/item?id=50195959</id>
+        <link href="https://quad9.net/news/blog/au-revoir-france/"/>
+        <updated>2026-10-22T14:32:38.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://quad9.net/news/blog/au-revoir-france/
+Comments URL: https://news.ycombinator.com/item?id=50195959
+Points: 829
+# Comments: 310]]></summary>
+        <author>
+            <name>farrokhi</name>
         </author>
     </entry>
     <entry>
@@ -2878,19 +2891,6 @@ Points: 510
 # Comments: 113]]></summary>
         <author>
             <name>avidly</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Jev in 25 Lines of Python]]></title>
-        <id>https://news.ycombinator.com/item?id=49812769</id>
-        <link href="https://www.nobodywho.ai/posts/jev-in-25-lines/"/>
-        <updated>2026-09-23T07:26:23.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.nobodywho.ai/posts/jev-in-25-lines/
-Comments URL: https://news.ycombinator.com/item?id=49812769
-Points: 546
-# Comments: 168]]></summary>
-        <author>
-            <name>bashbjorn</name>
         </author>
     </entry>
     <entry>
