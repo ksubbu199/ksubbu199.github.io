@@ -2,10 +2,58 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-10-22T07:08:55.554Z</updated>
+    <updated>2026-10-22T13:29:26.675Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[3 Things They Won't Tell You! | What the 528-Page DRHP Reveals  About Jio IPO]]></title>
+        <id>https://www.youtube.com/watch?v=d5Nu2Fg37no</id>
+        <link href="https://www.youtube.com/watch?v=d5Nu2Fg37no"/>
+        <updated>2026-10-22T07:11:39.000Z</updated>
+        <author>
+            <name>Think School</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[mitmproxy adds --emudhra option]]></title>
+        <id>https://news.ycombinator.com/item?id=50189232</id>
+        <link href="https://github.com/mitmproxy/mitmproxy/commit/169234499088fc2c414644a67efaed3d64ae2e3b"/>
+        <updated>2026-10-21T23:51:37.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://github.com/mitmproxy/mitmproxy/commit/169234499088fc2c414644a67efaed3d64ae2e3b
+Comments URL: https://news.ycombinator.com/item?id=50189232
+Points: 538
+# Comments: 130]]></summary>
+        <author>
+            <name>ahlCVA</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[There isn't an easy exploit for this PHP vulnerability]]></title>
+        <id>https://news.ycombinator.com/item?id=50188948</id>
+        <link href="https://eliastaylor.com/noexploit/"/>
+        <updated>2026-10-21T23:13:27.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://eliastaylor.com/noexploit/
+Comments URL: https://news.ycombinator.com/item?id=50188948
+Points: 571
+# Comments: 361]]></summary>
+        <author>
+            <name>zkldi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Security Disclosure]]></title>
+        <id>https://news.ycombinator.com/item?id=50188228</id>
+        <link href="https://blog.railway.com/p/security-disclosure-wednesday-october-21st"/>
+        <updated>2026-10-21T21:58:03.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://blog.railway.com/p/security-disclosure-wednesday-october-21st
+Comments URL: https://news.ycombinator.com/item?id=50188228
+Points: 515
+# Comments: 299]]></summary>
+        <author>
+            <name>passenger</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Meta ordered to pay $25B penalty in New Mexico Cambridge Analytica case]]></title>
         <id>https://news.ycombinator.com/item?id=50184820</id>
@@ -57,6 +105,19 @@ Points: 510
 # Comments: 494]]></summary>
         <author>
             <name>robtherobber</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor]]></title>
+        <id>https://news.ycombinator.com/item?id=50181114</id>
+        <link href="https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/"/>
+        <updated>2026-10-21T14:00:26.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/
+Comments URL: https://news.ycombinator.com/item?id=50181114
+Points: 551
+# Comments: 179]]></summary>
+        <author>
+            <name>abhisek</name>
         </author>
     </entry>
     <entry>
