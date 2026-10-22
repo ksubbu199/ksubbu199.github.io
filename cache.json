@@ -6,6 +6,26 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=50195110",
+          "author": "bo0tzz",
+          "description": "Article URL: https://emudhra.com/en/press-release/emudhra-to-exit-global-ssl-tls-certificate-business\nComments URL: https://news.ycombinator.com/item?id=50195110\nPoints: 641\n# Comments: 469",
+          "link": "https://emudhra.com/en/press-release/emudhra-to-exit-global-ssl-tls-certificate-business",
+          "publishedOn": "2026-10-22T13:33:39.000Z",
+          "wordCount": 2066,
+          "title": "eMudhra to exit global SSL/TLS certificate business",
+          "imageUrl": "/images/press-release/thumbs/emudhra-to-exit-global-ssl-tls-certificate-business.jpg"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=50192536",
+          "author": "ledoge",
+          "description": "Article URL: https://pepsipu.com/blog/2026-10-switch2-jailbreak-ns2jb/\nComments URL: https://news.ycombinator.com/item?id=50192536\nPoints: 541\n# Comments: 199",
+          "link": "https://pepsipu.com/blog/2026-10-switch2-jailbreak-ns2jb/",
+          "publishedOn": "2026-10-22T08:01:52.000Z",
+          "wordCount": 2743,
+          "title": "Jailbreaking the Switch 2",
+          "imageUrl": null
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=50189232",
           "author": "ahlCVA",
           "description": "Article URL: https://github.com/mitmproxy/mitmproxy/commit/169234499088fc2c414644a67efaed3d64ae2e3b\nComments URL: https://news.ycombinator.com/item?id=50189232\nPoints: 538\n# Comments: 130",
@@ -34,6 +54,16 @@
           "wordCount": 1515,
           "title": "Security Disclosure",
           "imageUrl": "https://cms.railway.com/media/cf05de70-b435-4fe9-8d52-540e0b585874-blog-security-disclosure-wednesday-october-21st.png?w=1200&q=90"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=50186037",
+          "author": "kuberwastaken",
+          "description": "Article URL: https://claude.com/product/claude-duet\nComments URL: https://news.ycombinator.com/item?id=50186037\nPoints: 525\n# Comments: 486",
+          "link": "https://claude.com/product/claude-duet",
+          "publishedOn": "2026-10-21T19:14:01.000Z",
+          "wordCount": 14726,
+          "title": "Claude Duet",
+          "imageUrl": "https://claude.com/static/claude-duet/og.jpg"
         },
         {
           "id": "https://news.ycombinator.com/item?id=50184820",
@@ -2056,6 +2086,16 @@
       "siteUrl": "https://blog.pragmaticengineer.com/",
       "articles": [
         {
+          "id": "6ad9d6a8c85f710001b1d77a",
+          "author": "Ivan Klaric",
+          "description": "Git had too many performance problems at 30,000 PRs per day, so Anthropic built its own. I talked with the team, including asking why they didn’t open source its new system, ‘Scion.’",
+          "link": "https://blog.pragmaticengineer.com/the-pulse-anthropic-builds-its-own-source-control-system/",
+          "publishedOn": "2026-10-22T14:52:25.000Z",
+          "wordCount": 3138,
+          "title": "The Pulse: Anthropic builds its own source control system",
+          "imageUrl": null
+        },
+        {
           "id": "6ad06b769f87750001f8bf33",
           "author": "Ivan Klaric",
           "description": "Ramp and Stripe built platforms for non-engineers to build internal websites and tools with, and both are taking off in those workplaces. I expect more companies to do the same.",
@@ -2269,6 +2309,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC_ML5xP23TOWKUcc-oAE_Eg",
       "siteUrl": "https://www.youtube.com/channel/UC_ML5xP23TOWKUcc-oAE_Eg",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=MCbMko4IXKw",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=MCbMko4IXKw",
+          "publishedOn": "2026-10-22T15:00:07.000Z",
+          "wordCount": null,
+          "title": "Everyone hand-waves VPN, lets fix that",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=rnJrc1QOFME",
           "author": null,

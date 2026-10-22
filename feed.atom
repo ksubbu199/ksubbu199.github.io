@@ -2,10 +2,55 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-10-22T13:29:26.675Z</updated>
+    <updated>2026-10-22T18:19:05.026Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Everyone hand-waves VPN, lets fix that]]></title>
+        <id>https://www.youtube.com/watch?v=MCbMko4IXKw</id>
+        <link href="https://www.youtube.com/watch?v=MCbMko4IXKw"/>
+        <updated>2026-10-22T15:00:07.000Z</updated>
+        <author>
+            <name>Hussein Nasser</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Pulse: Anthropic builds its own source control system]]></title>
+        <id>6ad9d6a8c85f710001b1d77a</id>
+        <link href="https://blog.pragmaticengineer.com/the-pulse-anthropic-builds-its-own-source-control-system/"/>
+        <updated>2026-10-22T14:52:25.000Z</updated>
+        <summary type="html"><![CDATA[Git had too many performance problems at 30,000 PRs per day, so Anthropic built its own. I talked with the team, including asking why they didn’t open source its new system, ‘Scion.’]]></summary>
+        <author>
+            <name>Ivan Klaric</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[eMudhra to exit global SSL/TLS certificate business]]></title>
+        <id>https://news.ycombinator.com/item?id=50195110</id>
+        <link href="https://emudhra.com/en/press-release/emudhra-to-exit-global-ssl-tls-certificate-business"/>
+        <updated>2026-10-22T13:33:39.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://emudhra.com/en/press-release/emudhra-to-exit-global-ssl-tls-certificate-business
+Comments URL: https://news.ycombinator.com/item?id=50195110
+Points: 641
+# Comments: 469]]></summary>
+        <author>
+            <name>bo0tzz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jailbreaking the Switch 2]]></title>
+        <id>https://news.ycombinator.com/item?id=50192536</id>
+        <link href="https://pepsipu.com/blog/2026-10-switch2-jailbreak-ns2jb/"/>
+        <updated>2026-10-22T08:01:52.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://pepsipu.com/blog/2026-10-switch2-jailbreak-ns2jb/
+Comments URL: https://news.ycombinator.com/item?id=50192536
+Points: 541
+# Comments: 199]]></summary>
+        <author>
+            <name>ledoge</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[3 Things They Won't Tell You! | What the 528-Page DRHP Reveals  About Jio IPO]]></title>
         <id>https://www.youtube.com/watch?v=d5Nu2Fg37no</id>
@@ -52,6 +97,19 @@ Points: 515
 # Comments: 299]]></summary>
         <author>
             <name>passenger</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Claude Duet]]></title>
+        <id>https://news.ycombinator.com/item?id=50186037</id>
+        <link href="https://claude.com/product/claude-duet"/>
+        <updated>2026-10-21T19:14:01.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://claude.com/product/claude-duet
+Comments URL: https://news.ycombinator.com/item?id=50186037
+Points: 525
+# Comments: 486]]></summary>
+        <author>
+            <name>kuberwastaken</name>
         </author>
     </entry>
     <entry>
