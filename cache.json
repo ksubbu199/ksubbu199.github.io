@@ -6,6 +6,26 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=50202681",
+          "author": "psxuaw",
+          "description": "Article URL: https://codeandcake.dev/posts/2026-10-22-docker-is-weird\nComments URL: https://news.ycombinator.com/item?id=50202681\nPoints: 593\n# Comments: 254",
+          "link": "https://codeandcake.dev/posts/2026-10-22-docker-is-weird",
+          "publishedOn": "2026-10-22T23:45:56.000Z",
+          "wordCount": 602,
+          "title": "Docker is weird",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=50202285",
+          "author": "sohkamyung",
+          "description": "Article URL: https://edjefferson.com/localwiki/\nComments URL: https://news.ycombinator.com/item?id=50202285\nPoints: 610\n# Comments: 133",
+          "link": "https://edjefferson.com/localwiki/",
+          "publishedOn": "2026-10-22T23:01:18.000Z",
+          "wordCount": 149,
+          "title": "Local Wikipedia: Wikipedia, but only for things a half hour walk from you",
+          "imageUrl": "https://edjefferson.com/localwiki/share.png"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=50195959",
           "author": "farrokhi",
           "description": "Article URL: https://quad9.net/news/blog/au-revoir-france/\nComments URL: https://news.ycombinator.com/item?id=50195959\nPoints: 829\n# Comments: 310",
@@ -34,6 +54,16 @@
           "wordCount": 1060,
           "title": "Woman charged with computer fraud due to scam CashApp account being in her name",
           "imageUrl": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/10/CASHAPP_B.jpg"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=50193416",
+          "author": "petecooper",
+          "description": "I posted here about the then-upcoming PHP RCEs related to CVE-2026-109618 & CVE-2026-109619. I appreciate this has had considerable knock-on effects with the schedule for co-ordinated disclosure, and created additional workload.\nI am truly sorry. I take full responsibility for my actions.\nIt was not remotely my intention to cause any of the subsequent side effects.\nAt the time of posting, I didn't know about any embargo. My contact had told me there was no embargo, and her contact had told her the same thing.\nAs someone who follows the 4-weekly PHP release cycle and compiles it from source, my intention was to alert others in a similar position to be aware of the importance/urgency of the updates.\nThat clearly backfired in a pretty wild fashion. I have learned my lesson.\nComments URL: https://news.ycombinator.com/item?id=50193416\nPoints: 615\n# Comments: 228",
+          "link": "https://news.ycombinator.com/item?id=50193416",
+          "publishedOn": "2026-10-22T10:11:44.000Z",
+          "wordCount": 12039,
+          "title": "Tell HN: I unknowingly broke the PHP RCE embargo. I am sorry.",
+          "imageUrl": null
         },
         {
           "id": "https://news.ycombinator.com/item?id=50192536",
@@ -1834,26 +1864,6 @@
           "wordCount": null,
           "title": "Meta takes down a critical video about meta AI Glasses after filming at Meta",
           "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=49823738",
-          "author": "MitPitt",
-          "description": "A joke tool that abuses OpenType's ligature feature to mix fonts. It works pretty fast on client-side by loading Python in WASM.\nComments URL: https://news.ycombinator.com/item?id=49823738\nPoints: 575\n# Comments: 80",
-          "link": "https://bastardica.mitpit.com/",
-          "publishedOn": "2026-09-23T22:53:28.000Z",
-          "wordCount": 262,
-          "title": "Show HN: Make cursed fonts like Times New Bastard",
-          "imageUrl": "https://bastardica.mitpit.com/scr2.png"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=49823582",
-          "author": "aaronday",
-          "description": "Article URL: https://www.qualcomm.com/news/onq/2026/09/snapdragon-summit-agentic-ai-pcs-linux\nComments URL: https://news.ycombinator.com/item?id=49823582\nPoints: 576\n# Comments: 244",
-          "link": "https://www.qualcomm.com/news/onq/2026/09/snapdragon-summit-agentic-ai-pcs-linux",
-          "publishedOn": "2026-09-23T22:38:16.000Z",
-          "wordCount": 162,
-          "title": "Linux support is coming to Snapdragon X2 series",
-          "imageUrl": "https://s7d1.scene7.com/is/image/dmqualcommprod/snapdragon-summit-agentic-ai-pcs-linux"
         }
       ]
     },
