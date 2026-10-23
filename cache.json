@@ -6,6 +6,36 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=50212065",
+          "author": "Jowsey",
+          "description": "https://www.kimi.com/code/docs/en/kimi-code/models.html\nhttps://artificialanalysis.ai/models/kimi-k3-1-pro\nhttps://www.modelcompare.ai/blog/china-open-source-ai\nComments URL: https://news.ycombinator.com/item?id=50212065\nPoints: 557\n# Comments: 337",
+          "link": "https://www.kimi.ai/blog/kimi-k3-1-pro",
+          "publishedOn": "2026-10-23T16:59:08.000Z",
+          "wordCount": 16065,
+          "title": "Kimi K3.1 Pro and K3.1 Pro Highspeed",
+          "imageUrl": "https://kimi-img.kimi.ai/pub/slides/kimi-fs/managed-assets/9558f8d5-08fc-42de-8e4e-339076e03895.webp"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=50211474",
+          "author": "pavel_lishin",
+          "description": "Article URL: https://blog.calif.io/p/iphone\nComments URL: https://news.ycombinator.com/item?id=50211474\nPoints: 622\n# Comments: 415",
+          "link": "https://blog.calif.io/p/iphone",
+          "publishedOn": "2026-10-23T16:21:50.000Z",
+          "wordCount": 641,
+          "title": "Today, we hacked what we'd set out to hack: the iPhone",
+          "imageUrl": "https://substackcdn.com/image/youtube/w_728,c_limit/_GJVKVNMczM"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=50208837",
+          "author": "hubraumhugo",
+          "description": "Article URL: https://www.kadoa.com/energy-prices/insights/investor-owned-utilities\nComments URL: https://news.ycombinator.com/item?id=50208837\nPoints: 514\n# Comments: 374",
+          "link": "https://www.kadoa.com/energy-prices/insights/investor-owned-utilities",
+          "publishedOn": "2026-10-23T13:41:10.000Z",
+          "wordCount": 877,
+          "title": "Investor-owned utilities charge 23% more for electricity than public providers",
+          "imageUrl": "https://kadoa-datasets.b-cdn.net/energy-prices/data/2026-10-23T19-20-05-967f73dc/og-investor-owned-utilities.png"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=50202681",
           "author": "psxuaw",
           "description": "Article URL: https://codeandcake.dev/posts/2026-10-22-docker-is-weird\nComments URL: https://news.ycombinator.com/item?id=50202681\nPoints: 593\n# Comments: 254",
@@ -24,6 +54,26 @@
           "wordCount": 149,
           "title": "Local Wikipedia: Wikipedia, but only for things a half hour walk from you",
           "imageUrl": "https://edjefferson.com/localwiki/share.png"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=50201259",
+          "author": "ck2",
+          "description": "Article URL: https://www.vanityfair.com/story/jared-kushner-hacked-phone-secret-negotiations\nComments URL: https://news.ycombinator.com/item?id=50201259\nPoints: 514\n# Comments: 214",
+          "link": "https://www.vanityfair.com/story/jared-kushner-hacked-phone-secret-negotiations",
+          "publishedOn": "2026-10-22T21:24:41.000Z",
+          "wordCount": 33834,
+          "title": "Jared Kushner Hacked Phone Reveals Secret Negotiations, Millions in Transactions",
+          "imageUrl": "https://media.vanityfair.com/photos/6ad91087dc03a09d237f39fb/16:9/w_1280,c_limit/vfoctober_kushner_money_tout.jpg"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=50200997",
+          "author": "ex-aws-dude",
+          "description": "Title is a bit of an exaggeration but the question is more: if the frontier models are so good, why even sell them as your primary money maker?\nCouldn't OpenAI or Anthropic make a lot more money by just starting companies themselves that leverage the models and building their own products?\nIs selling tokens really the best strategy?\nEspecially with commodification and prices declining wouldn't that indicate there is more money to be made on the application-side of the models rather than the utility side\nComments URL: https://news.ycombinator.com/item?id=50200997\nPoints: 567\n# Comments: 614",
+          "link": "https://news.ycombinator.com/item?id=50200997",
+          "publishedOn": "2026-10-22T21:03:55.000Z",
+          "wordCount": 35740,
+          "title": "Ask HN: If the models are so good, why doesn't OpenAI just start 100 companies?",
+          "imageUrl": null
         },
         {
           "id": "https://news.ycombinator.com/item?id=50197313",
@@ -1873,16 +1923,6 @@
           "publishedOn": "2026-09-24T10:39:19.000Z",
           "wordCount": null,
           "title": "Two-tier encryption in the UK",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=49827794",
-          "author": "pieterr",
-          "description": "Article URL: https://www.reddit.com/r/facebook/comments/1wotwrk/meta_takes_down_a_critical_video_about_meta_ai/\nComments URL: https://news.ycombinator.com/item?id=49827794\nPoints: 566\n# Comments: 338",
-          "link": "https://www.reddit.com/r/facebook/comments/1wotwrk/meta_takes_down_a_critical_video_about_meta_ai/",
-          "publishedOn": "2026-09-24T08:23:03.000Z",
-          "wordCount": null,
-          "title": "Meta takes down a critical video about meta AI Glasses after filming at Meta",
           "imageUrl": null
         }
       ]
