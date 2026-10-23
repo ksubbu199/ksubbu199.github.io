@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-10-22T22:07:19.787Z</updated>
+    <updated>2026-10-23T01:14:08.027Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -71,6 +71,19 @@ Points: 541
         <updated>2026-10-22T07:11:39.000Z</updated>
         <author>
             <name>Think School</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WorldTUI: I trained a 360M model to pretend to be a terminal]]></title>
+        <id>https://news.ycombinator.com/item?id=50190363</id>
+        <link href="https://simedw.com/2026/10/21/world-model-terminal/"/>
+        <updated>2026-10-22T02:18:41.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://simedw.com/2026/10/21/world-model-terminal/
+Comments URL: https://news.ycombinator.com/item?id=50190363
+Points: 503
+# Comments: 156]]></summary>
+        <author>
+            <name>alphax314</name>
         </author>
     </entry>
     <entry>
