@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-10-23T21:51:44.052Z</updated>
+    <updated>2026-10-24T00:16:59.733Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -45,6 +45,19 @@ Points: 514
 # Comments: 374]]></summary>
         <author>
             <name>hubraumhugo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple Music 404 Not Found]]></title>
+        <id>https://news.ycombinator.com/item?id=50207910</id>
+        <link href="https://music.apple.com/this-url-doesnt-exist"/>
+        <updated>2026-10-23T12:28:47.000Z</updated>
+        <summary type="html"><![CDATA[https://www.macrumors.com/2026/10/23/apple-music-has-a-hidde...
+Comments URL: https://news.ycombinator.com/item?id=50207910
+Points: 519
+# Comments: 178]]></summary>
+        <author>
+            <name>frizlab</name>
         </author>
     </entry>
     <entry>
@@ -2966,19 +2979,6 @@ Points: 763
 more…]]></summary>
         <author>
             <name>Martin Fowler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Two-tier encryption in the UK]]></title>
-        <id>https://news.ycombinator.com/item?id=49828731</id>
-        <link href="https://macanorak.com/two-tier-encryption-in-the-uk/"/>
-        <updated>2026-09-24T10:39:19.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://macanorak.com/two-tier-encryption-in-the-uk/
-Comments URL: https://news.ycombinator.com/item?id=49828731
-Points: 500
-# Comments: 458]]></summary>
-        <author>
-            <name>ReturnoftheHack</name>
         </author>
     </entry>
     <entry>
