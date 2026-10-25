@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-10-24T22:54:45.251Z</updated>
+    <updated>2026-10-25T00:51:45.193Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -17,6 +17,19 @@ Points: 519
 # Comments: 184]]></summary>
         <author>
             <name>privacyishuman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dessa: Conversation Model trained only on speech]]></title>
+        <id>https://news.ycombinator.com/item?id=50213925</id>
+        <link href="https://block.xyz/dessa"/>
+        <updated>2026-10-23T19:09:54.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://block.xyz/dessa
+Comments URL: https://news.ycombinator.com/item?id=50213925
+Points: 502
+# Comments: 192]]></summary>
+        <author>
+            <name>dsr12</name>
         </author>
     </entry>
     <entry>
@@ -2893,19 +2906,6 @@ Points: 504
 # Comments: 502]]></summary>
         <author>
             <name>silveraxe93</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PipePipe: NewPipe hard fork implementing SponsorBlock]]></title>
-        <id>https://news.ycombinator.com/item?id=49842764</id>
-        <link href="https://github.com/InfinityLoop1308/PipePipe"/>
-        <updated>2026-09-25T10:55:40.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://github.com/InfinityLoop1308/PipePipe
-Comments URL: https://news.ycombinator.com/item?id=49842764
-Points: 501
-# Comments: 285]]></summary>
-        <author>
-            <name>Qision</name>
         </author>
     </entry>
     <entry>
