@@ -16,6 +16,16 @@
           "imageUrl": "https://www.apollo.com/content/dam/apolloaem/apollo-default-page-share-image/apollo-og-image.png"
         },
         {
+          "id": "https://news.ycombinator.com/item?id=50218633",
+          "author": "testing22321",
+          "description": "Article URL: https://twitter.com/log4j/status/2113014142600953868?s=46\nComments URL: https://news.ycombinator.com/item?id=50218633\nPoints: 507\n# Comments: 210",
+          "link": "https://twitter.com/log4j/status/2113014142600953868?s=46",
+          "publishedOn": "2026-10-24T05:49:57.000Z",
+          "wordCount": 1530,
+          "title": "Root shell on Samsung TV",
+          "imageUrl": "https://pbs.twimg.com/media/HVLvKWgXIAAWNTX?format=webp&name=large"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=50217495",
           "author": "privacyishuman",
           "description": "Article URL: https://grapheneos.social/@GrapheneOS/117492375462459244\nComments URL: https://news.ycombinator.com/item?id=50217495\nPoints: 519\n# Comments: 184",
@@ -1884,26 +1894,6 @@
           "wordCount": 965,
           "title": "Breaking Up with Google Play: Why Conversations Is Now Free",
           "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=49849985",
-          "author": "specked-citrus",
-          "description": "Article URL: https://swarmtraces.org/\nComments URL: https://news.ycombinator.com/item?id=49849985\nPoints: 557\n# Comments: 350",
-          "link": "https://swarmtraces.org/",
-          "publishedOn": "2026-09-25T21:09:27.000Z",
-          "wordCount": 6875,
-          "title": "Revealing the details of how OpenAI agents hacked Hugging Face",
-          "imageUrl": "https://swarmtraces.org/assets/opengraph-preview.jpg?v=77a1f50796"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=49848269",
-          "author": "Ardakilic",
-          "description": "Article URL: https://ollaya.dev/\nComments URL: https://news.ycombinator.com/item?id=49848269\nPoints: 505\n# Comments: 126",
-          "link": "https://ollaya.dev/",
-          "publishedOn": "2026-09-25T18:33:50.000Z",
-          "wordCount": 876,
-          "title": "Ollaya – Ollama for open-source, Jev-style decision models",
-          "imageUrl": "https://ollaya.dev/static/og.png?v=7bd2eae221"
         }
       ]
     },
