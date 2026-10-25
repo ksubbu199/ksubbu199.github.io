@@ -6,6 +6,26 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=50225695",
+          "author": "ltratt",
+          "description": "Article URL: https://danluu.com/ambitious/\nComments URL: https://news.ycombinator.com/item?id=50225695\nPoints: 548\n# Comments: 504",
+          "link": "https://danluu.com/ambitious/",
+          "publishedOn": "2026-10-24T21:47:31.000Z",
+          "wordCount": 6747,
+          "title": "We should be more ambitious with the software we build",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=50224916",
+          "author": "cloudlandsdev",
+          "description": "Made this because I'm curious if anyone out there has figured out how to actually use this PHP RCE we spent the last few days panicking over. Have fun!\nComments URL: https://news.ycombinator.com/item?id=50224916\nPoints: 539\n# Comments: 333",
+          "link": "https://stealmybitcoin.com/",
+          "publishedOn": "2026-10-24T20:30:31.000Z",
+          "wordCount": 1220,
+          "title": "Show HN: Steal My Bitcoin",
+          "imageUrl": null
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=50224463",
           "author": "the-mitr",
           "description": "Article URL: https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector\nComments URL: https://news.ycombinator.com/item?id=50224463\nPoints: 521\n# Comments: 535",
@@ -134,6 +154,16 @@
           "wordCount": 35740,
           "title": "Ask HN: If the models are so good, why doesn't OpenAI just start 100 companies?",
           "imageUrl": null
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=50198675",
+          "author": "niemandhier",
+          "description": "Article URL: https://github.com/NVIDIA/OpenShell\nComments URL: https://news.ycombinator.com/item?id=50198675\nPoints: 500\n# Comments: 217",
+          "link": "https://github.com/NVIDIA/OpenShell",
+          "publishedOn": "2026-10-22T17:44:06.000Z",
+          "wordCount": 3196,
+          "title": "OpenShell – A safe, private runtime for fleets of autonomous AI agents",
+          "imageUrl": "https://opengraph.githubassets.com/3fe4d2b9e9e3ae7f379d32ba347d8ed83e8d97bd72e2d5d36cc27af84aa80cdd/NVIDIA/OpenShell"
         },
         {
           "id": "https://news.ycombinator.com/item?id=50197313",

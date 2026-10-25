@@ -2,10 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-10-25T10:49:22.259Z</updated>
+    <updated>2026-10-25T14:50:25.492Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[We should be more ambitious with the software we build]]></title>
+        <id>https://news.ycombinator.com/item?id=50225695</id>
+        <link href="https://danluu.com/ambitious/"/>
+        <updated>2026-10-24T21:47:31.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://danluu.com/ambitious/
+Comments URL: https://news.ycombinator.com/item?id=50225695
+Points: 548
+# Comments: 504]]></summary>
+        <author>
+            <name>ltratt</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Steal My Bitcoin]]></title>
+        <id>https://news.ycombinator.com/item?id=50224916</id>
+        <link href="https://stealmybitcoin.com/"/>
+        <updated>2026-10-24T20:30:31.000Z</updated>
+        <summary type="html"><![CDATA[Made this because I'm curious if anyone out there has figured out how to actually use this PHP RCE we spent the last few days panicking over. Have fun!
+Comments URL: https://news.ycombinator.com/item?id=50224916
+Points: 539
+# Comments: 333]]></summary>
+        <author>
+            <name>cloudlandsdev</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[No signs of AI payoff outside the tech sector]]></title>
         <id>https://news.ycombinator.com/item?id=50224463</id>
@@ -178,6 +204,19 @@ Points: 567
 # Comments: 614]]></summary>
         <author>
             <name>ex-aws-dude</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenShell – A safe, private runtime for fleets of autonomous AI agents]]></title>
+        <id>https://news.ycombinator.com/item?id=50198675</id>
+        <link href="https://github.com/NVIDIA/OpenShell"/>
+        <updated>2026-10-22T17:44:06.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://github.com/NVIDIA/OpenShell
+Comments URL: https://news.ycombinator.com/item?id=50198675
+Points: 500
+# Comments: 217]]></summary>
+        <author>
+            <name>niemandhier</name>
         </author>
     </entry>
     <entry>
