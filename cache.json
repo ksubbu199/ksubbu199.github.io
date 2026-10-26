@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=50245524",
+          "author": "doctorzook",
+          "description": "Article URL: https://www.seattletimes.com/business/microsoft/microsoft-offers-mass-buyouts-for-roughly-a-quarter-of-its-workforce/\nComments URL: https://news.ycombinator.com/item?id=50245524\nPoints: 557\n# Comments: 484",
+          "link": "https://www.seattletimes.com/business/microsoft/microsoft-offers-mass-buyouts-for-roughly-a-quarter-of-its-workforce/",
+          "publishedOn": "2026-10-26T15:35:12.000Z",
+          "wordCount": 5070,
+          "title": "Microsoft offers mass buyouts for roughly a quarter of its workforce",
+          "imageUrl": "https://images.seattletimes.com/wp-content/uploads/2026/10/10262026_Microsoft_tzr_081156.jpg?d=1200x630"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=50242939",
           "author": "SiNTEx",
           "description": "Article URL: https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm\nComments URL: https://news.ycombinator.com/item?id=50242939\nPoints: 822\n# Comments: 741",
@@ -24,6 +34,16 @@
           "wordCount": 11212,
           "title": "Dolly Parton's Imagination Library",
           "imageUrl": null
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=50234232",
+          "author": "tdeck",
+          "description": "Article URL: https://theintercept.com/2026/10/01/oregon-police-misconduct-public-records-cost-fee/\nComments URL: https://news.ycombinator.com/item?id=50234232\nPoints: 508\n# Comments: 144",
+          "link": "https://theintercept.com/2026/10/01/oregon-police-misconduct-public-records-cost-fee/",
+          "publishedOn": "2026-10-25T18:04:11.000Z",
+          "wordCount": 2925,
+          "title": "Oregon Police Are Charging a Local News Outlet $2.5M for Records About One Cop",
+          "imageUrl": "https://theintercept.com/wp-content/uploads/2026/10/Screenshot-2026-10-01-at-4.14.38-PM-e1790885738599.png?fit=1436%2C718&w=1200&h=800"
         },
         {
           "id": "https://news.ycombinator.com/item?id=50233929",
@@ -1964,16 +1984,6 @@
           "wordCount": 7018,
           "title": "Ember-1",
           "imageUrl": "https://fireworks.ai/images/OpenGraph.png"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=49863864",
-          "author": "papergirl",
-          "description": "Article URL: https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal/\nComments URL: https://news.ycombinator.com/item?id=49863864\nPoints: 585\n# Comments: 556",
-          "link": "https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal/",
-          "publishedOn": "2026-09-27T06:19:33.000Z",
-          "wordCount": 3012,
-          "title": "Unsealed Briefs in Authors’ Case v. Microsoft/OpenAI",
-          "imageUrl": "https://authorsguild.org/app/uploads/2026/09/OpenAI-Day-2-Advocacy-Rectangle.jpg"
         }
       ]
     },
