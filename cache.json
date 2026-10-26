@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=50242939",
+          "author": "SiNTEx",
+          "description": "Article URL: https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm\nComments URL: https://news.ycombinator.com/item?id=50242939\nPoints: 822\n# Comments: 741",
+          "link": "https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm",
+          "publishedOn": "2026-10-26T13:04:50.000Z",
+          "wordCount": null,
+          "title": "Anthropic S-1",
+          "imageUrl": null
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=50234474",
           "author": "jumploops",
           "description": "With today's news, I thought I'd share this great program:\n“When I was growing up in the hills of East Tennessee, I knew my dreams would come true. I know there are children in your community with their own dreams. They dream of becoming a doctor or an inventor or a minister. Who knows, maybe there is a little girl whose dream is to be a writer and singer.\nThe seeds of these dreams are often found in books and the seeds you help plant in your community can grow across the world.”\nComments URL: https://news.ycombinator.com/item?id=50234474\nPoints: 540\n# Comments: 93",
@@ -13,6 +23,16 @@
           "publishedOn": "2026-10-25T18:23:54.000Z",
           "wordCount": 11212,
           "title": "Dolly Parton's Imagination Library",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=50233929",
+          "author": "Tomte",
+          "description": "Article URL: https://talkweb.eu/openweb/4558/\nComments URL: https://news.ycombinator.com/item?id=50233929\nPoints: 529\n# Comments: 261",
+          "link": "https://talkweb.eu/openweb/4558/",
+          "publishedOn": "2026-10-25T17:30:55.000Z",
+          "wordCount": 3425,
+          "title": "I refuse to accept a censored Internet. Join Me at FOSDEM 27",
           "imageUrl": null
         },
         {
@@ -2034,18 +2054,7 @@
       "title": "Julia Evans",
       "feedUrl": "https://jvns.ca/atom.xml",
       "siteUrl": "https://jvns.ca/atom.xml",
-      "articles": [
-        {
-          "id": "https://jvns.ca/blog/2026/09/27/replacing-the-old-battery-on-rechargeable-bike-lights/",
-          "author": null,
-          "description": "Hello! Recently I needed bike lights for my bike. And I remembered that I\nalready had rechargeable bike lights that I bought ten years ago, that I hadn’t\ntried in a long time. I tried to recharge them, but after fully charging them,\nthey only worked for maybe 5 minutes before they turned off again.\nI don’t know much about electronics, but I’ve been curious about whether it’s\npossible to fix old electronics for a long time, and this seemed like the\nperfect repair project because I might just need to replace the battery.\nSo I went to the local queer makerspace where I’m a member to use the soldering\niron and try to do it! I don’t know much about electronics and this post does\nnot contain any safety advice because I don’t know much about safety.\nI think it’s nice to do projects in a community…",
-          "link": "https://jvns.ca/blog/2026/09/27/replacing-the-old-battery-on-rechargeable-bike-lights/",
-          "publishedOn": "2026-09-27T00:00:00.000Z",
-          "wordCount": 1222,
-          "title": "Replacing the old battery on rechargeable bike lights",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Martin Fowler",
