@@ -6,6 +6,26 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=50259604",
+          "author": "helterskelter2",
+          "description": "Article URL: https://www.wired.com/story/the-us-government-is-hiding-a-secret-court-ruling-about-how-it-spies-on-americans/\nComments URL: https://news.ycombinator.com/item?id=50259604\nPoints: 516\n# Comments: 164",
+          "link": "https://www.wired.com/story/the-us-government-is-hiding-a-secret-court-ruling-about-how-it-spies-on-americans/",
+          "publishedOn": "2026-10-27T14:06:42.000Z",
+          "wordCount": 29019,
+          "title": "US Government is hiding a secret court ruling about how it spies on Americans",
+          "imageUrl": "https://media.wired.com/photos/6adbe0039bde53c96a68d73b/191:100/w_1280,c_limit/Security_Trump%20Officials%20are%20Sitting%20on%20a%20Secret%20Surveillance%20Court%20Ruling_v1.jpg"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=50257325",
+          "author": "oorestisime",
+          "description": "Article URL: https://oioannou.com/blog/ai-promised-less-work/\nComments URL: https://news.ycombinator.com/item?id=50257325\nPoints: 592\n# Comments: 566",
+          "link": "https://oioannou.com/blog/ai-promised-less-work/",
+          "publishedOn": "2026-10-27T11:08:14.000Z",
+          "wordCount": 1687,
+          "title": "AI promised less work. I've never worked more",
+          "imageUrl": "https://oioannou.com/img/blog-by-orestis.jpg"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=50251661",
           "author": "vok",
           "description": "See also: Announcing three new discoveries in mathematics, computer science, and physics - https://news.ycombinator.com/item?id=50251344\nComments URL: https://news.ycombinator.com/item?id=50251661\nPoints: 689\n# Comments: 256",
@@ -36,6 +56,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://news.ycombinator.com/item?id=50248055",
+          "author": "enlyth",
+          "description": "Article URL: https://blog.enlyth.com/posts/oldest-windows-gui-app-win-11/\nComments URL: https://news.ycombinator.com/item?id=50248055\nPoints: 519\n# Comments: 310",
+          "link": "https://blog.enlyth.com/posts/oldest-windows-gui-app-win-11/",
+          "publishedOn": "2026-10-26T17:56:55.000Z",
+          "wordCount": 599,
+          "title": "Oldest GUI application that still runs on Windows 11",
+          "imageUrl": null
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=50245831",
           "author": "edent",
           "description": "Article URL: https://css-tricks.com/css-tricks-has-a-new-owner/\nComments URL: https://news.ycombinator.com/item?id=50245831\nPoints: 510\n# Comments: 108",
@@ -54,6 +84,16 @@
           "wordCount": 5070,
           "title": "Microsoft offers mass buyouts for roughly a quarter of its workforce",
           "imageUrl": "https://images.seattletimes.com/wp-content/uploads/2026/10/10262026_Microsoft_tzr_081156.jpg?d=1200x630"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=50245385",
+          "author": "geox",
+          "description": "Article URL: https://www.bbc.com/future/article/20261023-how-solar-became-bigger-than-nuclear\nComments URL: https://news.ycombinator.com/item?id=50245385\nPoints: 503\n# Comments: 709",
+          "link": "https://www.bbc.com/future/article/20261023-how-solar-became-bigger-than-nuclear",
+          "publishedOn": "2026-10-26T15:26:17.000Z",
+          "wordCount": 10608,
+          "title": "Solar power is becoming bigger than nuclear",
+          "imageUrl": "https://ychef.files.bbci.co.uk/624x351/p0pjn1gz.jpg"
         },
         {
           "id": "https://news.ycombinator.com/item?id=50245138",
@@ -2024,16 +2064,6 @@
           "wordCount": 15655,
           "title": "Coding is not solved",
           "imageUrl": "https://substackcdn.com/image/fetch/$s_!-Pk4!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F409bf75a-d9ef-4adf-b242-bee9d2664a24_1280x1247.jpeg"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=49872723",
-          "author": "Eric_Gullichsen",
-          "description": "Article URL: https://colo.to/nvidia-stock-narrative.html\nComments URL: https://news.ycombinator.com/item?id=49872723\nPoints: 1010\n# Comments: 425",
-          "link": "https://colo.to/nvidia-stock-narrative.html",
-          "publishedOn": "2026-09-28T02:05:13.000Z",
-          "wordCount": 1122,
-          "title": "Owed a billion dollars in Nvidia stock",
-          "imageUrl": null
         }
       ]
     },
