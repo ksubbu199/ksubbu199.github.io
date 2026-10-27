@@ -6,6 +6,46 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=50251661",
+          "author": "vok",
+          "description": "See also: Announcing three new discoveries in mathematics, computer science, and physics - https://news.ycombinator.com/item?id=50251344\nComments URL: https://news.ycombinator.com/item?id=50251661\nPoints: 689\n# Comments: 256",
+          "link": "https://github.com/openai/math/blob/main/preprints/The-Exponential-Time-Hypothesis-is-False-October-25-2026/paper.pdf",
+          "publishedOn": "2026-10-26T21:59:15.000Z",
+          "wordCount": 297,
+          "title": "The Exponential Time Hypothesis Is False [pdf]",
+          "imageUrl": "https://opengraph.githubassets.com/aec1eb63fe3237b659f01a0f96a3a4660c0a63afe38124521542e712948125c9/openai/math"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=50251344",
+          "author": "jonluca",
+          "description": "Related:\nThe Exponential Time Hypothesis Is False [pdf] - https://news.ycombinator.com/item?id=50251661\nComments URL: https://news.ycombinator.com/item?id=50251344\nPoints: 1006\n# Comments: 553",
+          "link": "https://openai.com/index/building-scientific-understanding-with-academic-communities/",
+          "publishedOn": "2026-10-26T21:35:28.000Z",
+          "wordCount": null,
+          "title": "Three new discoveries in mathematics, computer science, and physics",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=50248124",
+          "author": "meetpateltech",
+          "description": "https://developers.openai.com/api/docs/models/gpt-6.1-terra\nComments URL: https://news.ycombinator.com/item?id=50248124\nPoints: 606\n# Comments: 386",
+          "link": "https://openai.com/index/introducing-gpt-6-1-terra/",
+          "publishedOn": "2026-10-26T18:01:17.000Z",
+          "wordCount": null,
+          "title": "GPT-6.1 Terra",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=50245831",
+          "author": "edent",
+          "description": "Article URL: https://css-tricks.com/css-tricks-has-a-new-owner/\nComments URL: https://news.ycombinator.com/item?id=50245831\nPoints: 510\n# Comments: 108",
+          "link": "https://css-tricks.com/css-tricks-has-a-new-owner/",
+          "publishedOn": "2026-10-26T15:51:23.000Z",
+          "wordCount": 4028,
+          "title": "CSS-Tricks has a new owner",
+          "imageUrl": "https://css-tricks.com/wp-content/uploads/2019/12/css-tricks-logo-gradient-outline.png"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=50245524",
           "author": "doctorzook",
           "description": "Article URL: https://www.seattletimes.com/business/microsoft/microsoft-offers-mass-buyouts-for-roughly-a-quarter-of-its-workforce/\nComments URL: https://news.ycombinator.com/item?id=50245524\nPoints: 557\n# Comments: 484",
@@ -1994,26 +2034,6 @@
           "wordCount": 1122,
           "title": "Owed a billion dollars in Nvidia stock",
           "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=49870367",
-          "author": "sancho-panza",
-          "description": "Article URL: https://sancho.bearblog.dev/google-weird/\nComments URL: https://news.ycombinator.com/item?id=49870367\nPoints: 564\n# Comments: 302",
-          "link": "https://sancho.bearblog.dev/google-weird/",
-          "publishedOn": "2026-09-27T20:12:54.000Z",
-          "wordCount": 1301,
-          "title": "When did Google get so weird?",
-          "imageUrl": "/static/og-image.png"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=49868830",
-          "author": "gmays",
-          "description": "Article URL: https://fireworks.ai/blog/ember-1\nComments URL: https://news.ycombinator.com/item?id=49868830\nPoints: 564\n# Comments: 241",
-          "link": "https://fireworks.ai/blog/ember-1",
-          "publishedOn": "2026-09-27T17:31:53.000Z",
-          "wordCount": 7018,
-          "title": "Ember-1",
-          "imageUrl": "https://fireworks.ai/images/OpenGraph.png"
         }
       ]
     },
@@ -2251,6 +2271,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKZozRVHRYsYHGEyNKuhhdA",
       "siteUrl": "https://www.youtube.com/channel/UCKZozRVHRYsYHGEyNKuhhdA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=wTsNjvuTi4U",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=wTsNjvuTi4U",
+          "publishedOn": "2026-10-27T13:29:25.000Z",
+          "wordCount": null,
+          "title": "Why Is JPMorgan So Powerful? How Jamie Dimon Built an Empire While Wall Street Collapsed",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=d5Nu2Fg37no",
           "author": null,
