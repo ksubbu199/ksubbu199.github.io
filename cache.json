@@ -6,6 +6,26 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=50272749",
+          "author": "zzzeek",
+          "description": "Article URL: https://www.wired.com/story/ice-is-running-one-of-the-largest-anti-left-surveillance-operations-in-us-history/\nComments URL: https://news.ycombinator.com/item?id=50272749\nPoints: 946\n# Comments: 665",
+          "link": "https://www.wired.com/story/ice-is-running-one-of-the-largest-anti-left-surveillance-operations-in-us-history/",
+          "publishedOn": "2026-10-28T12:49:45.000Z",
+          "wordCount": 30931,
+          "title": "ICE Is Running One of the Largest Anti-Left Surveillance Ops in US History",
+          "imageUrl": "https://media.wired.com/photos/6adf8486990ea20354efad62/191:100/w_1280,c_limit/Security_ICE%20Is%20Carrying%20Out%20%E2%80%98Cointelpro%202.0%E2%80%99_v2.jpg"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=50271640",
+          "author": "galadran",
+          "description": "Article URL: https://emudhra.we-have-a-problem.com/apple.html\nComments URL: https://news.ycombinator.com/item?id=50271640\nPoints: 771\n# Comments: 295",
+          "link": "https://emudhra.we-have-a-problem.com/apple.html",
+          "publishedOn": "2026-10-28T11:03:40.000Z",
+          "wordCount": 686,
+          "title": "Apple's git still trusts the compromised eMudhra certificates",
+          "imageUrl": null
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=50261998",
           "author": "deaux",
           "description": "Article URL: https://ghostty.org/docs/install/release-notes/1-4-0\nComments URL: https://news.ycombinator.com/item?id=50261998\nPoints: 641\n# Comments: 198",
@@ -2121,6 +2141,16 @@
       "feedUrl": "https://martinfowler.com/feed.atom",
       "siteUrl": "https://martinfowler.com/feed.atom",
       "articles": [
+        {
+          "id": "https://martinfowler.com/fragments/2026-10-28.html",
+          "author": null,
+          "description": "Andrej Karpathy sees a widening gap in how people see LLM capabilities.\nThe general public has mostly not interacted with these systems. When they have, it looks like a derpy chatbot. The majority of professionals still see only a modest uplift. And a small sliver of professionals are experiencing the vertigo of the curve going vertical. And it is all happening at the same time.\nMany of my colleagues are living in a world where LLM capabilities are stunning, but it’s easy to forget that’s not what most people experience. One thing I do is use free-tier LLM chatbots, and I’m still finding that while most of the time they are useful, their unreliability undermines much of that usefulness. Yes, you can argue that I’m not using frontier tools or a forceful enough harness, but that’s true of mo…",
+          "link": "https://martinfowler.com/fragments/2026-10-28.html",
+          "publishedOn": "2026-10-28T12:55:00.000Z",
+          "wordCount": 2154,
+          "title": "Fragments: October 28",
+          "imageUrl": "https://martinfowler.com/fragments/fragments-thumb.png"
+        },
         {
           "id": "https://martinfowler.com/fragments/2026-10-21.html",
           "author": null,

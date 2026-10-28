@@ -2,10 +2,48 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-10-28T10:59:45.343Z</updated>
+    <updated>2026-10-28T17:06:35.007Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Fragments: October 28]]></title>
+        <id>https://martinfowler.com/fragments/2026-10-28.html</id>
+        <link href="https://martinfowler.com/fragments/2026-10-28.html"/>
+        <updated>2026-10-28T12:55:00.000Z</updated>
+        <summary type="html"><![CDATA[Andrej Karpathy sees a widening gap in how people see LLM capabilities.
+The general public has mostly not interacted with these systems. When they have, it looks like a derpy chatbot. The majority of professionals still see only a modest uplift. And a small sliver of professionals are experiencing the vertigo of the curve going vertical. And it is all happening at the same time.
+Many of my colleagues are living in a world where LLM capabilities are stunning, but it’s easy to forget that’s not what most people experience. One thing I do is use free-tier LLM chatbots, and I’m still finding that while most of the time they are useful, their unreliability undermines much of that usefulness. Yes, you can argue that I’m not using frontier tools or a forceful enough harness, but that’s true of mo…]]></summary>
+        <author>
+            <name>Martin Fowler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ICE Is Running One of the Largest Anti-Left Surveillance Ops in US History]]></title>
+        <id>https://news.ycombinator.com/item?id=50272749</id>
+        <link href="https://www.wired.com/story/ice-is-running-one-of-the-largest-anti-left-surveillance-operations-in-us-history/"/>
+        <updated>2026-10-28T12:49:45.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.wired.com/story/ice-is-running-one-of-the-largest-anti-left-surveillance-operations-in-us-history/
+Comments URL: https://news.ycombinator.com/item?id=50272749
+Points: 946
+# Comments: 665]]></summary>
+        <author>
+            <name>zzzeek</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple's git still trusts the compromised eMudhra certificates]]></title>
+        <id>https://news.ycombinator.com/item?id=50271640</id>
+        <link href="https://emudhra.we-have-a-problem.com/apple.html"/>
+        <updated>2026-10-28T11:03:40.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://emudhra.we-have-a-problem.com/apple.html
+Comments URL: https://news.ycombinator.com/item?id=50271640
+Points: 771
+# Comments: 295]]></summary>
+        <author>
+            <name>galadran</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ghostty 1.4]]></title>
         <id>https://news.ycombinator.com/item?id=50261998</id>
