@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-10-28T04:14:27.298Z</updated>
+    <updated>2026-10-28T10:59:45.343Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -33,6 +33,19 @@ Points: 647
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Anthropic trained Claude on illegally obtained Stanford professors' books]]></title>
+        <id>https://news.ycombinator.com/item?id=50260814</id>
+        <link href="https://stanforddaily.com/2026/10/27/professors-books-pirated-to-train-claude/"/>
+        <updated>2026-10-27T15:28:26.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://stanforddaily.com/2026/10/27/professors-books-pirated-to-train-claude/
+Comments URL: https://news.ycombinator.com/item?id=50260814
+Points: 525
+# Comments: 275]]></summary>
+        <author>
+            <name>car</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[US Government is hiding a secret court ruling about how it spies on Americans]]></title>
         <id>https://news.ycombinator.com/item?id=50259604</id>
         <link href="https://www.wired.com/story/the-us-government-is-hiding-a-secret-court-ruling-about-how-it-spies-on-americans/"/>
@@ -52,6 +65,19 @@ Points: 516
         <updated>2026-10-27T13:29:25.000Z</updated>
         <author>
             <name>Think School</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Python's experimental JIT to be removed]]></title>
+        <id>https://news.ycombinator.com/item?id=50257419</id>
+        <link href="https://lwn.net/SubscriberLink/1102102/0c00e4d550f25f8c/"/>
+        <updated>2026-10-27T11:17:57.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://lwn.net/SubscriberLink/1102102/0c00e4d550f25f8c/
+Comments URL: https://news.ycombinator.com/item?id=50257419
+Points: 514
+# Comments: 281]]></summary>
+        <author>
+            <name>f311a</name>
         </author>
     </entry>
     <entry>
@@ -3041,58 +3067,6 @@ Points: 557
 # Comments: 487]]></summary>
         <author>
             <name>barry-cotter</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Jeff – Jev-compatible 0.8B decision models, trained at home, ~30 ms]]></title>
-        <id>https://news.ycombinator.com/item?id=49883844</id>
-        <link href="https://github.com/firelex/jeff"/>
-        <updated>2026-09-28T20:23:36.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://github.com/firelex/jeff
-Comments URL: https://news.ycombinator.com/item?id=49883844
-Points: 506
-# Comments: 192]]></summary>
-        <author>
-            <name>firelex</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[It's Time to Investigate the AI Labs]]></title>
-        <id>https://news.ycombinator.com/item?id=49883471</id>
-        <link href="https://calnewport.com/its-time-to-investigate-the-ai-labs/"/>
-        <updated>2026-09-28T19:53:35.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://calnewport.com/its-time-to-investigate-the-ai-labs/
-Comments URL: https://news.ycombinator.com/item?id=49883471
-Points: 517
-# Comments: 212]]></summary>
-        <author>
-            <name>ibobev</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sonnet 5.5]]></title>
-        <id>https://news.ycombinator.com/item?id=49881850</id>
-        <link href="https://www.anthropic.com/claude-sonnet-5-5"/>
-        <updated>2026-09-28T17:58:11.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.anthropic.com/claude-sonnet-5-5
-Comments URL: https://news.ycombinator.com/item?id=49881850
-Points: 519
-# Comments: 348]]></summary>
-        <author>
-            <name>D2OQZG8l5BI1S06</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Windows 11½]]></title>
-        <id>https://news.ycombinator.com/item?id=49881747</id>
-        <link href="https://definitelynotwindows.com/"/>
-        <updated>2026-09-28T17:51:24.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://definitelynotwindows.com/
-Comments URL: https://news.ycombinator.com/item?id=49881747
-Points: 508
-# Comments: 169]]></summary>
-        <author>
-            <name>jjbinx007</name>
         </author>
     </entry>
     <entry>

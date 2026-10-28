@@ -26,6 +26,16 @@
           "imageUrl": "https://lh3.googleusercontent.com/i7iotPkcMbMubxRzAdriO5wsIsowROonBvjLNnmPbOaRgEb1k4LKTBqay5VrcPpZi0R4il_bYCCsPYQ0Gy_-XbAw66azAGEfE-E6_9Izz5apP0BMJVE=w1200-h630-n-nu-rw"
         },
         {
+          "id": "https://news.ycombinator.com/item?id=50260814",
+          "author": "car",
+          "description": "Article URL: https://stanforddaily.com/2026/10/27/professors-books-pirated-to-train-claude/\nComments URL: https://news.ycombinator.com/item?id=50260814\nPoints: 525\n# Comments: 275",
+          "link": "https://stanforddaily.com/2026/10/27/professors-books-pirated-to-train-claude/",
+          "publishedOn": "2026-10-27T15:28:26.000Z",
+          "wordCount": 7830,
+          "title": "Anthropic trained Claude on illegally obtained Stanford professors' books",
+          "imageUrl": "https://stanforddaily.com/wp-content/uploads/2026/10/Green-Library.png"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=50259604",
           "author": "helterskelter2",
           "description": "Article URL: https://www.wired.com/story/the-us-government-is-hiding-a-secret-court-ruling-about-how-it-spies-on-americans/\nComments URL: https://news.ycombinator.com/item?id=50259604\nPoints: 516\n# Comments: 164",
@@ -34,6 +44,16 @@
           "wordCount": 29019,
           "title": "US Government is hiding a secret court ruling about how it spies on Americans",
           "imageUrl": "https://media.wired.com/photos/6adbe0039bde53c96a68d73b/191:100/w_1280,c_limit/Security_Trump%20Officials%20are%20Sitting%20on%20a%20Secret%20Surveillance%20Court%20Ruling_v1.jpg"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=50257419",
+          "author": "f311a",
+          "description": "Article URL: https://lwn.net/SubscriberLink/1102102/0c00e4d550f25f8c/\nComments URL: https://news.ycombinator.com/item?id=50257419\nPoints: 514\n# Comments: 281",
+          "link": "https://lwn.net/SubscriberLink/1102102/0c00e4d550f25f8c/",
+          "publishedOn": "2026-10-27T11:17:57.000Z",
+          "wordCount": 3278,
+          "title": "Python's experimental JIT to be removed",
+          "imageUrl": null
         },
         {
           "id": "https://news.ycombinator.com/item?id=50257325",
@@ -2014,46 +2034,6 @@
           "wordCount": 7214,
           "title": "You are no longer invited to dinner",
           "imageUrl": "https://substackcdn.com/image/fetch/$s_!Hczb!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fefc21223-6d44-45bb-84be-7a80c50acc8a_2014x1332.png"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=49883844",
-          "author": "firelex",
-          "description": "Article URL: https://github.com/firelex/jeff\nComments URL: https://news.ycombinator.com/item?id=49883844\nPoints: 506\n# Comments: 192",
-          "link": "https://github.com/firelex/jeff",
-          "publishedOn": "2026-09-28T20:23:36.000Z",
-          "wordCount": 5081,
-          "title": "Jeff – Jev-compatible 0.8B decision models, trained at home, ~30 ms",
-          "imageUrl": "https://opengraph.githubassets.com/22445b3e93ddf342e5a8aa28dd2b79326bedff3ebc5a68c74c63831e4acef858/firelex/jeff"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=49883471",
-          "author": "ibobev",
-          "description": "Article URL: https://calnewport.com/its-time-to-investigate-the-ai-labs/\nComments URL: https://news.ycombinator.com/item?id=49883471\nPoints: 517\n# Comments: 212",
-          "link": "https://calnewport.com/its-time-to-investigate-the-ai-labs/",
-          "publishedOn": "2026-09-28T19:53:35.000Z",
-          "wordCount": 3304,
-          "title": "It's Time to Investigate the AI Labs",
-          "imageUrl": "https://calnewport.com/wp-content/uploads/2026/09/16ALTMAN-sub-bzfh-superJumbo-v2-e1790369119788.webp"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=49881850",
-          "author": "D2OQZG8l5BI1S06",
-          "description": "Article URL: https://www.anthropic.com/claude-sonnet-5-5\nComments URL: https://news.ycombinator.com/item?id=49881850\nPoints: 519\n# Comments: 348",
-          "link": "https://www.anthropic.com/claude-sonnet-5-5",
-          "publishedOn": "2026-09-28T17:58:11.000Z",
-          "wordCount": 5997,
-          "title": "Sonnet 5.5",
-          "imageUrl": "https://www-cdn.anthropic.com/images/4zrzovbb/website/eaa6046f4ae8c88e368c3c530c4c1312f7ff6f2e-1200x630.jpg"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=49881747",
-          "author": "jjbinx007",
-          "description": "Article URL: https://definitelynotwindows.com/\nComments URL: https://news.ycombinator.com/item?id=49881747\nPoints: 508\n# Comments: 169",
-          "link": "https://definitelynotwindows.com/",
-          "publishedOn": "2026-09-28T17:51:24.000Z",
-          "wordCount": 19932,
-          "title": "Windows 11½",
-          "imageUrl": "https://definitelynotwindows.com/social-preview.png"
         }
       ]
     },
