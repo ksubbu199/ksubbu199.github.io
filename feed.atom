@@ -2,10 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-10-28T17:06:35.007Z</updated>
+    <updated>2026-10-28T22:14:20.314Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Why is this fingerprinting script creating bioweapons?]]></title>
+        <id>https://news.ycombinator.com/item?id=50276998</id>
+        <link href="https://nullpt.rs/fingerprinting-bioweapons"/>
+        <updated>2026-10-28T17:13:29.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://nullpt.rs/fingerprinting-bioweapons
+Comments URL: https://news.ycombinator.com/item?id=50276998
+Points: 539
+# Comments: 120]]></summary>
+        <author>
+            <name>hazebooth</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gemini 4 Carbon]]></title>
+        <id>https://news.ycombinator.com/item?id=50276792</id>
+        <link href="https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/"/>
+        <updated>2026-10-28T17:01:23.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/
+Comments URL: https://news.ycombinator.com/item?id=50276792
+Points: 686
+# Comments: 557]]></summary>
+        <author>
+            <name>acossta</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Fragments: October 28]]></title>
         <id>https://martinfowler.com/fragments/2026-10-28.html</id>
@@ -42,6 +68,19 @@ Points: 771
 # Comments: 295]]></summary>
         <author>
             <name>galadran</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Survival LLM: AI assistant and emergency library that runs on your own computer]]></title>
+        <id>https://news.ycombinator.com/item?id=50264853</id>
+        <link href="https://www.brangus.io/survival-llm"/>
+        <updated>2026-10-27T19:55:06.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.brangus.io/survival-llm
+Comments URL: https://news.ycombinator.com/item?id=50264853
+Points: 509
+# Comments: 193]]></summary>
+        <author>
+            <name>Luc</name>
         </author>
     </entry>
     <entry>
