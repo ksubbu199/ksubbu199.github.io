@@ -2,10 +2,93 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-10-29T09:25:26.389Z</updated>
+    <updated>2026-10-29T16:37:38.976Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Trump's Midterm Election Defeat? How OpenAI and Anthropic Are Fighting to Shape the Future of AI]]></title>
+        <id>https://www.youtube.com/watch?v=bQLQSraqOwk</id>
+        <link href="https://www.youtube.com/watch?v=bQLQSraqOwk"/>
+        <updated>2026-10-29T15:10:51.000Z</updated>
+        <author>
+            <name>Think School</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bliki: LLM Voice]]></title>
+        <id>https://martinfowler.com/bliki/LLM-Voice.html</id>
+        <link href="https://martinfowler.com/bliki/LLM-Voice.html"/>
+        <updated>2026-10-29T14:28:00.000Z</updated>
+        <summary type="html"><![CDATA[Sometimes when I read a post, I get the growing feeling that I'm reading
+  the output of an LLM. I can't necessarily define why, although there are the common
+  tells (it's not the em-dashes, it's the load-bearing tapestries). As I
+  do this my desire to read on atrophies, sometimes to the point of revulsion
+There are tools out there that claim to be able to tell the difference
+  between LLM-written prose and the old-fashioned biological product. I'm wary
+  of them, partly due skeptism about their accuracy, but also because it rather
+  misses the point. The reaction to LLM-Voice is a human one, that sense that we
+  are in an uncanny
+  valley of prose. By the time I'd reach for a tool to tell me what I'm
+  reading, it's already too late, even if it confidently tells me there's no LLM
+  pres…]]></summary>
+        <author>
+            <name>Martin Fowler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why are good developers so wary of agentic development?]]></title>
+        <id>https://martinfowler.com/rachels-ramblings/good-devs-wary.html</id>
+        <link href="https://martinfowler.com/rachels-ramblings/good-devs-wary.html"/>
+        <updated>2026-10-29T13:50:00.000Z</updated>
+        <summary type="html"><![CDATA[TL;DR
+Good developers’ caution about agentic development comes from knowing that built isn’t the same as working in production.
+
+I’ve been surprised by how many excellent developers have been hesitant to go all in on coding agents. These are people who usually try new ways of working before anyone else and in many cases invent new tools and practices that support building the application well. So why have we had so much reluctance?
+The easy (lazy?) answer is that they love writing code, or they’re worried about their jobs. I’m sure that’s true for some people, some of the time. And I know it is true for some of the developers I talk to but I always felt there was something else, another fear hiding behind those obvious ones. When we put together the Technology Radar every six months I try …]]></summary>
+        <author>
+            <name>Martin Fowler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Claude Code regularly sends each background agent’s transcript to its model]]></title>
+        <id>https://news.ycombinator.com/item?id=50284255</id>
+        <link href="https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce"/>
+        <updated>2026-10-29T03:33:42.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce
+Comments URL: https://news.ycombinator.com/item?id=50284255
+Points: 527
+# Comments: 211]]></summary>
+        <author>
+            <name>NikZaal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Qwenputer: A functioning, deterministic RISC-V CPU inside Qwen3.5]]></title>
+        <id>https://news.ycombinator.com/item?id=50282838</id>
+        <link href="https://divagr.com/blog/qwenputer"/>
+        <updated>2026-10-29T00:25:45.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://divagr.com/blog/qwenputer
+Comments URL: https://news.ycombinator.com/item?id=50282838
+Points: 647
+# Comments: 136]]></summary>
+        <author>
+            <name>csmantle</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[StackOverflow now gets fewer than 1000 questions a month]]></title>
+        <id>https://news.ycombinator.com/item?id=50282454</id>
+        <link href="https://data.stackexchange.com/stackoverflow/query/1926661#graph?t=1"/>
+        <updated>2026-10-28T23:35:02.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://data.stackexchange.com/stackoverflow/query/1926661#graph?t=1
+Comments URL: https://news.ycombinator.com/item?id=50282454
+Points: 698
+# Comments: 596]]></summary>
+        <author>
+            <name>babelfish</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Why is this fingerprinting script creating bioweapons?]]></title>
         <id>https://news.ycombinator.com/item?id=50276998</id>
@@ -43,6 +126,32 @@ Points: 686
 # Comments: 557]]></summary>
         <author>
             <name>acossta</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CNC Stone Carving]]></title>
+        <id>https://news.ycombinator.com/item?id=50274409</id>
+        <link href="https://carmelitegothic.com/cnc-stone-carving/"/>
+        <updated>2026-10-28T14:38:22.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://carmelitegothic.com/cnc-stone-carving/
+Comments URL: https://news.ycombinator.com/item?id=50274409
+Points: 514
+# Comments: 141]]></summary>
+        <author>
+            <name>bschne</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Emacs Turns 50]]></title>
+        <id>https://news.ycombinator.com/item?id=50273171</id>
+        <link href="https://www.technologyreview.com/2026/10/20/1145399/emacs-turns-50/"/>
+        <updated>2026-10-28T13:25:11.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.technologyreview.com/2026/10/20/1145399/emacs-turns-50/
+Comments URL: https://news.ycombinator.com/item?id=50273171
+Points: 503
+# Comments: 220]]></summary>
+        <author>
+            <name>internet_points</name>
         </author>
     </entry>
     <entry>
@@ -168,6 +277,19 @@ Points: 514
 # Comments: 281]]></summary>
         <author>
             <name>f311a</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wikipedia's Cleanup of AI-Generated Content]]></title>
+        <id>https://news.ycombinator.com/item?id=50257326</id>
+        <link href="https://spectrum.ieee.org/wikipedia-wikiproject-ai-writing-cleanup"/>
+        <updated>2026-10-27T11:08:15.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://spectrum.ieee.org/wikipedia-wikiproject-ai-writing-cleanup
+Comments URL: https://news.ycombinator.com/item?id=50257326
+Points: 513
+# Comments: 239]]></summary>
+        <author>
+            <name>rbanffy</name>
         </author>
     </entry>
     <entry>
@@ -3006,58 +3128,6 @@ Points: 501
 # Comments: 378]]></summary>
         <author>
             <name>marjancek</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Livenerf: Has Opus 5.5 been nerfed yet?]]></title>
-        <id>https://news.ycombinator.com/item?id=49901736</id>
-        <link href="https://github.com/ninjahawk/livenerf"/>
-        <updated>2026-09-29T22:36:14.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://github.com/ninjahawk/livenerf
-Comments URL: https://news.ycombinator.com/item?id=49901736
-Points: 782
-# Comments: 329]]></summary>
-        <author>
-            <name>bryan0</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dots: Always-on agents]]></title>
-        <id>https://news.ycombinator.com/item?id=49896604</id>
-        <link href="https://openai.com/index/introducing-dots/"/>
-        <updated>2026-09-29T17:07:57.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://openai.com/index/introducing-dots/
-Comments URL: https://news.ycombinator.com/item?id=49896604
-Points: 700
-# Comments: 566]]></summary>
-        <author>
-            <name>alvis</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price]]></title>
-        <id>https://news.ycombinator.com/item?id=49896586</id>
-        <link href="https://openai.com/index/introducing-gpt-6-1-sol/"/>
-        <updated>2026-09-29T17:06:45.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://openai.com/index/introducing-gpt-6-1-sol/
-Comments URL: https://news.ycombinator.com/item?id=49896586
-Points: 662
-# Comments: 594]]></summary>
-        <author>
-            <name>crorella</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DraftKings Is Using AI to Behaviorally Target Chronic Gamblers]]></title>
-        <id>https://news.ycombinator.com/item?id=49896050</id>
-        <link href="https://www.eff.org/deeplinks/2026/09/draftkings-using-ai-supercharge-harms-online-behavioral-advertising"/>
-        <updated>2026-09-29T16:30:48.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.eff.org/deeplinks/2026/09/draftkings-using-ai-supercharge-harms-online-behavioral-advertising
-Comments URL: https://news.ycombinator.com/item?id=49896050
-Points: 500
-# Comments: 345]]></summary>
-        <author>
-            <name>paimapi</name>
         </author>
     </entry>
     <entry>
