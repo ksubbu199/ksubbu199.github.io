@@ -16,6 +16,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://news.ycombinator.com/item?id=50276940",
+          "author": "etothet",
+          "description": "https://www.apple.com/newsroom/2026/10/apple-unveils-groundb...\nComments URL: https://news.ycombinator.com/item?id=50276940\nPoints: 504\n# Comments: 860",
+          "link": "https://www.apple.com/macbook-pro/proled-xdr-display/",
+          "publishedOn": "2026-10-28T17:10:37.000Z",
+          "wordCount": 18361,
+          "title": "MacBook Pro with PROLED XDR Display and Touch",
+          "imageUrl": "https://www.apple.com/v/macbook-pro/proled-xdr-display/a/images/meta/mbp_proled_xdr__f7755bx607yq_og.png?202610271513"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=50276792",
           "author": "acossta",
           "description": "Article URL: https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/\nComments URL: https://news.ycombinator.com/item?id=50276792\nPoints: 686\n# Comments: 557",
@@ -2044,46 +2054,6 @@
           "wordCount": 1783,
           "title": "DraftKings Is Using AI to Behaviorally Target Chronic Gamblers",
           "imageUrl": "https://www.eff.org/files/banner_library/mobile-privacy.png"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=49893509",
-          "author": "plesiv",
-          "description": "Article URL: https://america.gov/\nComments URL: https://news.ycombinator.com/item?id=49893509\nPoints: 698\n# Comments: 599",
-          "link": "https://america.gov/",
-          "publishedOn": "2026-09-29T14:04:57.000Z",
-          "wordCount": null,
-          "title": "America.gov",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=49892245",
-          "author": "rbanffy",
-          "description": "Article URL: https://spectrum.ieee.org/delhi-electricity-loss\nComments URL: https://news.ycombinator.com/item?id=49892245\nPoints: 551\n# Comments: 300",
-          "link": "https://spectrum.ieee.org/delhi-electricity-loss",
-          "publishedOn": "2026-09-29T12:43:29.000Z",
-          "wordCount": 14362,
-          "title": "How Delhi cut electricity loss from 50 to 5 percent",
-          "imageUrl": "https://spectrum.ieee.org/media-library/image.jpg?id=67793961&width=1200&height=600&coordinates=0%2C250%2C0%2C250"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=49891480",
-          "author": "ilamont",
-          "description": "Article URL: https://www.theguardian.com/technology/2026/sep/29/trial-live-facial-recognition-cameras-london-stations-false-positive\nComments URL: https://news.ycombinator.com/item?id=49891480\nPoints: 505\n# Comments: 301",
-          "link": "https://www.theguardian.com/technology/2026/sep/29/trial-live-facial-recognition-cameras-london-stations-false-positive",
-          "publishedOn": "2026-09-29T11:35:18.000Z",
-          "wordCount": 4966,
-          "title": "500k facial scans at UK stations yield no arrests, 1 false positive",
-          "imageUrl": "https://i.guim.co.uk/img/media/59a72cd2826be7e1e72f407ba3a515ec43697227/546_44_4210_3370/master/4210.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=0c92b09e04de7a9aa71a1822d47b9589"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=49891295",
-          "author": "barry-cotter",
-          "description": "Article URL: https://www.derekthompson.org/p/the-death-of-the-american-host\nComments URL: https://news.ycombinator.com/item?id=49891295\nPoints: 557\n# Comments: 487",
-          "link": "https://www.derekthompson.org/p/the-death-of-the-american-host",
-          "publishedOn": "2026-09-29T11:14:45.000Z",
-          "wordCount": 7214,
-          "title": "You are no longer invited to dinner",
-          "imageUrl": "https://substackcdn.com/image/fetch/$s_!Hczb!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fefc21223-6d44-45bb-84be-7a80c50acc8a_2014x1332.png"
         }
       ]
     },
@@ -2250,26 +2220,6 @@
           "wordCount": 3361,
           "title": "Principles for effective slides",
           "imageUrl": "https://martinfowler.com/articles/never-send-slides/index/card.png"
-        },
-        {
-          "id": "https://martinfowler.com/bliki/SensibleDefault.html",
-          "author": null,
-          "description": "A Sensible Default is a practice that, absent some overriding context,\n  should be used when carrying out a certain kind of task. In software\n  development such sensible defaults might include things like “use version\n  control”, “separate UI logic from domain logic”, “automate deployment\n  pipelines”.\nThe term “sensible default” is a deliberate contrast to “best practice”.\n  Folks dislike calling things “best practice” because that term implies a\n  general presumption that the best practice is something we should always\n  expect to do. A “sensible default”, however, is something that should be\n  reassessed in a new context, something that can (and should) be overridden\n  when circumstances change.\nI first heard the term when it was popularized within Thoughtworks by Evan\n  Bottcher. He go…",
-          "link": "https://martinfowler.com/bliki/SensibleDefault.html",
-          "publishedOn": "2026-09-29T13:43:00.000Z",
-          "wordCount": 441,
-          "title": "Bliki: Sensible Default",
-          "imageUrl": "https://martinfowler.com/logo-sq.png"
-        },
-        {
-          "id": "https://martinfowler.com/fragments/2026-09-29.html",
-          "author": null,
-          "description": "Simon Willison:\nThe more time I spend working with coding agents, the more convinced I am that they make software engineering even harder\nWe can do amazing things with them, but unlocking their full potential requires extraordinary discipline and knowledge\nThis has been a constant impression I get from following Willison’s writing. While things like vibe coding get a lot of attention, the real strength of agentic programming relies on more sophisticated techniques - and these are not easy to learn or execute. It’s a reason I’m wary of extrapolating my own dabblings into firm opinions about how to use the genie.\n ❄                ❄                ❄                ❄                ❄\nHarper Reed explored what turns agents into hackers by creating a breakaway agent\nIt ran and ran attacking all…",
-          "link": "https://martinfowler.com/fragments/2026-09-29.html",
-          "publishedOn": "2026-09-29T12:41:00.000Z",
-          "wordCount": 1019,
-          "title": "Fragments: September 29",
-          "imageUrl": "https://martinfowler.com/fragments/fragments-thumb.png"
         }
       ]
     },
