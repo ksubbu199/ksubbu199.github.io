@@ -6,6 +6,26 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=50294702",
+          "author": "j4mie",
+          "description": "https://archive.ph/y4Egm\nhttps://en.wikipedia.org/wiki/Patrick_Stewart\nComments URL: https://news.ycombinator.com/item?id=50294702\nPoints: 1464\n# Comments: 284",
+          "link": "https://www.nytimes.com/2026/10/29/arts/television/patrick-stewart-dead.html",
+          "publishedOn": "2026-10-29T19:41:39.000Z",
+          "wordCount": null,
+          "title": "Patrick Stewart has died",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=50289418",
+          "author": "kuberwastaken",
+          "description": "Article URL: https://mistral.ai/news/mistral-large-4-oss/\nComments URL: https://news.ycombinator.com/item?id=50289418\nPoints: 998\n# Comments: 293",
+          "link": "https://mistral.ai/news/mistral-large-4-oss/",
+          "publishedOn": "2026-10-29T14:13:21.000Z",
+          "wordCount": 4413,
+          "title": "We're releasing the weights of Mistral Large 4",
+          "imageUrl": "https://mistral.ai/cms-media/api/media/file/cover-mistral-sovereign%20copie.webp"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=50284255",
           "author": "NikZaal",
           "description": "Article URL: https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce\nComments URL: https://news.ycombinator.com/item?id=50284255\nPoints: 527\n# Comments: 211",
@@ -2064,16 +2084,6 @@
           "wordCount": 1860,
           "title": "You said no MCP",
           "imageUrl": "https://earendil.com/static/og/posts/you-said-no-mcp.png"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=49905487",
-          "author": "marjancek",
-          "description": "Article URL: https://tomwojcik.com/posts/2026-09-21/september-2026-the-world-today/\nComments URL: https://news.ycombinator.com/item?id=49905487\nPoints: 501\n# Comments: 378",
-          "link": "https://tomwojcik.com/posts/2026-09-21/september-2026-the-world-today/",
-          "publishedOn": "2026-09-30T07:12:31.000Z",
-          "wordCount": 15354,
-          "title": "September 2026: The world today, as seen by one Polish guy",
-          "imageUrl": "https://tomwojcik.com/og/september-2026-the-world-today.jpg"
         }
       ]
     },
