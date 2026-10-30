@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=50302334",
+          "author": "dsr_",
+          "description": "Article URL: https://cyberplace.social/@GossiTheDog/117528831681803563\nComments URL: https://news.ycombinator.com/item?id=50302334\nPoints: 641\n# Comments: 17",
+          "link": "https://cyberplace.social/@GossiTheDog/117528831681803563",
+          "publishedOn": "2026-10-30T11:05:53.000Z",
+          "wordCount": 257,
+          "title": "Backdoors in official Claude Code extensions",
+          "imageUrl": null
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=50296470",
           "author": "Tiberium",
           "description": "Article URL: https://arkm.com/explorer/entity/21a94755-f604-45e5-9501-6542e23005e8\nComments URL: https://news.ycombinator.com/item?id=50296470\nPoints: 691\n# Comments: 418",
@@ -24,6 +34,16 @@
           "wordCount": null,
           "title": "Patrick Stewart has died",
           "imageUrl": null
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=50290177",
+          "author": "ibobev",
+          "description": "Article URL: https://martinfowler.com/bliki/LLM-Voice.html\nComments URL: https://news.ycombinator.com/item?id=50290177\nPoints: 546\n# Comments: 292",
+          "link": "https://martinfowler.com/bliki/LLM-Voice.html",
+          "publishedOn": "2026-10-29T14:57:55.000Z",
+          "wordCount": 1195,
+          "title": "LLM Voice",
+          "imageUrl": "https://martinfowler.com/logo-sq.png"
         },
         {
           "id": "https://news.ycombinator.com/item?id=50289418",
@@ -2311,6 +2331,26 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKZozRVHRYsYHGEyNKuhhdA",
       "siteUrl": "https://www.youtube.com/channel/UCKZozRVHRYsYHGEyNKuhhdA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/shorts/po0sAV_QCNM",
+          "author": null,
+          "description": "Could Sri Lanka’s real estate market have delivered better returns than Mumbai and Delhi?Kumar Sangakkara shares his perspective on what makes Sri Lanka an i...",
+          "link": "https://www.youtube.com/shorts/po0sAV_QCNM",
+          "publishedOn": "2026-10-30T15:15:20.000Z",
+          "wordCount": 3226,
+          "title": "Sri Lanka vs Mumbai: Where Should You Invest?",
+          "imageUrl": "https://i.ytimg.com/vi/po0sAV_QCNM/oardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLBldm0AlbmMR7C74HBpmsMYiOCEVQ"
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=DHzC4VVmolk",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=DHzC4VVmolk",
+          "publishedOn": "2026-10-30T15:04:11.000Z",
+          "wordCount": null,
+          "title": "Hospitals or Profit Machines? | How Private Equity Made Millions While American Hospitals Collapsed",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=bQLQSraqOwk",
           "author": null,
