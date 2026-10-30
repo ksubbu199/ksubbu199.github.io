@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=50302814",
+          "author": "DeepLogin",
+          "description": "Article URL: https://progressives.house.gov/2026/10/reps-casar-waters-lead-democratic-resolution-opposing-a-i-bubble-bailout-for-big-tech-commit-to-protecting-american-people-instead\nComments URL: https://news.ycombinator.com/item?id=50302814\nPoints: 604\n# Comments: 445",
+          "link": "https://progressives.house.gov/2026/10/reps-casar-waters-lead-democratic-resolution-opposing-a-i-bubble-bailout-for-big-tech-commit-to-protecting-american-people-instead",
+          "publishedOn": "2026-10-30T12:08:00.000Z",
+          "wordCount": 5047,
+          "title": "US Reps Lead Democratic Resolution Opposing A.I. Bubble Bailout for Big Tech",
+          "imageUrl": null
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=50302334",
           "author": "dsr_",
           "description": "Article URL: https://cyberplace.social/@GossiTheDog/117528831681803563\nComments URL: https://news.ycombinator.com/item?id=50302334\nPoints: 641\n# Comments: 17",
@@ -14,6 +24,26 @@
           "wordCount": 257,
           "title": "Backdoors in official Claude Code extensions",
           "imageUrl": null
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=50301462",
+          "author": "solarist",
+          "description": "Article URL: https://elect.horse/\nComments URL: https://news.ycombinator.com/item?id=50301462\nPoints: 522\n# Comments: 145",
+          "link": "https://elect.horse/",
+          "publishedOn": "2026-10-30T09:14:34.000Z",
+          "wordCount": 211,
+          "title": "elect.horse",
+          "imageUrl": "https://elect.horse/og-image.png"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=50300683",
+          "author": "_chall",
+          "description": "https://cursor.com/blog/claude-code-extension-security-notic...\nComments URL: https://news.ycombinator.com/item?id=50300683\nPoints: 597\n# Comments: 407",
+          "link": "https://phorion.io/blog/offical-claude-code-vsx-compromise/",
+          "publishedOn": "2026-10-30T07:09:12.000Z",
+          "wordCount": 2825,
+          "title": "Backdoor in Claude Code for VS Code extension on the Cursor Marketplace",
+          "imageUrl": "https://phorion.io/images/default-social-card.png"
         },
         {
           "id": "https://news.ycombinator.com/item?id=50296470",
@@ -34,6 +64,16 @@
           "wordCount": null,
           "title": "Patrick Stewart has died",
           "imageUrl": null
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=50291054",
+          "author": "ea016",
+          "description": "Article URL: https://sidbala.com/h-264-is-magic/\nComments URL: https://news.ycombinator.com/item?id=50291054\nPoints: 502\n# Comments: 166",
+          "link": "https://sidbala.com/h-264-is-magic/",
+          "publishedOn": "2026-10-29T15:53:03.000Z",
+          "wordCount": 2893,
+          "title": "H.264 Is Magic (2016)",
+          "imageUrl": "https://storage.ghost.io/c/55/d9/55d91d94-f430-41c7-b2da-d3e4e9822c0b/content/images/size/w1200/2016/11/Artboard.jpg"
         },
         {
           "id": "https://news.ycombinator.com/item?id=50290177",
@@ -2284,6 +2324,16 @@
       "feedUrl": "https://blog.pragmaticengineer.com/rss/",
       "siteUrl": "https://blog.pragmaticengineer.com/",
       "articles": [
+        {
+          "id": "6ae30eb2e8571500017259da",
+          "author": "Ivan Klaric",
+          "description": "A month’s worth of security breaches in a single day – will things get worse before they improve?",
+          "link": "https://blog.pragmaticengineer.com/the-pulse-time-to-rethink-software-security-because-of-ai/",
+          "publishedOn": "2026-10-30T16:49:15.000Z",
+          "wordCount": 3784,
+          "title": "The Pulse: Time to rethink software security because of AI?",
+          "imageUrl": null
+        },
         {
           "id": "6ad9d6a8c85f710001b1d77a",
           "author": "Ivan Klaric",
