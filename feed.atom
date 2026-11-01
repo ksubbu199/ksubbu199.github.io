@@ -2,10 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-10-31T22:13:20.370Z</updated>
+    <updated>2026-11-01T01:53:20.614Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[HackerTube: YouTube built from videos recommended by HN]]></title>
+        <id>https://news.ycombinator.com/item?id=50319510</id>
+        <link href="https://karpathy.bearblog.dev/hacker-tube/"/>
+        <updated>2026-10-31T19:56:53.000Z</updated>
+        <summary type="html"><![CDATA[YouTube-style UI over 6,454 videos sourced from 39,834 HN comments since 2007.
+https://hackertube.org/
+Comments URL: https://news.ycombinator.com/item?id=50319510
+Points: 715
+# Comments: 241]]></summary>
+        <author>
+            <name>karpathy</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Israel's Election Shock! | How Netanyahu Lost His Majority and Why the World Is Watching?]]></title>
         <id>https://www.youtube.com/watch?v=Ub4ZmBuSA7Q</id>
