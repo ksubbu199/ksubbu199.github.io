@@ -6,6 +6,26 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=50324388",
+          "author": "giuliomagnifico",
+          "description": "Article URL: https://www.visitnorway.com/plan-your-trip/travel-tips-a-z/norwegian-scenic-routes/worlds-best-toilets/\nComments URL: https://news.ycombinator.com/item?id=50324388\nPoints: 592\n# Comments: 338",
+          "link": "https://www.visitnorway.com/plan-your-trip/travel-tips-a-z/norwegian-scenic-routes/worlds-best-toilets/",
+          "publishedOn": "2026-11-01T10:47:58.000Z",
+          "wordCount": null,
+          "title": "Restrooms along the Norwegian Scenic Routes",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=50320963",
+          "author": "ecares",
+          "description": "Article URL: https://www.smithsonianmag.com/science-nature/italian-farmer-found-unknown-seeds-attic-with-nothing-lose-planted-them-result-biblical-180989644/\nComments URL: https://news.ycombinator.com/item?id=50320963\nPoints: 592\n# Comments: 173",
+          "link": "https://www.smithsonianmag.com/science-nature/italian-farmer-found-unknown-seeds-attic-with-nothing-lose-planted-them-result-biblical-180989644/",
+          "publishedOn": "2026-10-31T22:41:06.000Z",
+          "wordCount": 3570,
+          "title": "An Italian farmer found some unknown seeds in his attic and planted them",
+          "imageUrl": "https://th-thumbnailer.cdn-si-edu.com/_-X8sWyx82CD0eX5ZxIF7dcS2X8=/fit-in/1600x0/filters:focal(1181x787:1182x788)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/37/95/3795362b-64a6-4d5f-b7df-67aa18192521/l2190910.jpg"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=50319510",
           "author": "karpathy",
           "description": "YouTube-style UI over 6,454 videos sourced from 39,834 HN comments since 2007.\nhttps://hackertube.org/\nComments URL: https://news.ycombinator.com/item?id=50319510\nPoints: 715\n# Comments: 241",
@@ -14,6 +34,16 @@
           "wordCount": 1038,
           "title": "HackerTube: YouTube built from videos recommended by HN",
           "imageUrl": "https://bearblog.dev/static/og-image.png"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=50319143",
+          "author": "oger",
+          "description": "Article URL: https://atlasum.net/blog/cve-2026-98432-linux-ipv4-tcp-uaf\nComments URL: https://news.ycombinator.com/item?id=50319143\nPoints: 585\n# Comments: 287",
+          "link": "https://atlasum.net/blog/cve-2026-98432-linux-ipv4-tcp-uaf",
+          "publishedOn": "2026-10-31T19:16:30.000Z",
+          "wordCount": 16367,
+          "title": "TCP Use-After-Free: CVE-2026-98432 / CVSS 9.8",
+          "imageUrl": "https://atlasum.net/blog/cve-2026-98432-linux-ipv4-tcp-uaf/opengraph-image"
         },
         {
           "id": "https://news.ycombinator.com/item?id=50314654",
@@ -2064,16 +2094,6 @@
           "wordCount": 5582,
           "title": "Kolibri: A Sovereign Open-Weight Model",
           "imageUrl": "https://aleph-alpha.com/_astro/00-cover.Du35XCGh_zJqw.jpeg"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=49941114",
-          "author": "34679",
-          "description": "Article URL: https://www.extrabigassintelligence.com/\nComments URL: https://news.ycombinator.com/item?id=49941114\nPoints: 505\n# Comments: 124",
-          "link": "https://www.extrabigassintelligence.com/",
-          "publishedOn": "2026-10-03T03:19:10.000Z",
-          "wordCount": 12,
-          "title": "Extra Big Ass Intelligence",
-          "imageUrl": null
         }
       ]
     },
