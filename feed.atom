@@ -2,10 +2,48 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-11-02T07:16:32.623Z</updated>
+    <updated>2026-11-02T17:51:32.082Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[WTF Ubuntu?]]></title>
+        <id>https://news.ycombinator.com/item?id=50337608</id>
+        <link href="https://chalmovsky.com/posts/wtf-ubuntu"/>
+        <updated>2026-11-02T14:52:00.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://chalmovsky.com/posts/wtf-ubuntu
+Comments URL: https://news.ycombinator.com/item?id=50337608
+Points: 725
+# Comments: 364]]></summary>
+        <author>
+            <name>chalmovsky</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to build a ₹100 crore brand in India!]]></title>
+        <id>https://www.youtube.com/shorts/rmBNnDlJrYk</id>
+        <link href="https://www.youtube.com/shorts/rmBNnDlJrYk"/>
+        <updated>2026-11-02T08:00:01.000Z</updated>
+        <summary type="html"><![CDATA[Starting a brand in India is easy. Scaling one is almost impossible. Deepak Shahdadpuri, Managing Director of DSG Consumer Partners and the investor behind V...]]></summary>
+        <author>
+            <name>Think School</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ask HN: Which TV do you recommend for privacy?]]></title>
+        <id>https://news.ycombinator.com/item?id=50328896</id>
+        <link href="https://news.ycombinator.com/item?id=50328896"/>
+        <updated>2026-11-01T19:35:27.000Z</updated>
+        <summary type="html"><![CDATA[I haven’t owned a TV in years and would like one that respects my privacy. Are there any TV’s which do this well? I am looking for something in the 60”to 80”range and would like a 4k display with at least 60hz display. I don’t mind paying a premium.
+I have heard good things about Apple TV as a better alternative to most smart TV native apps. Would some TV’s pair better with this than others for privacy? I don’t want the TV doing anything other than being the display for Apple TV.
+I am curious what success others have had.
+Comments URL: https://news.ycombinator.com/item?id=50328896
+Points: 631
+# Comments: 750]]></summary>
+        <author>
+            <name>LecroJS</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Show HN: HackerBooks – HackerTube, but for books mentioned on HN]]></title>
         <id>https://news.ycombinator.com/item?id=50326821</id>
@@ -20,6 +58,19 @@ Points: 821
 # Comments: 166]]></summary>
         <author>
             <name>roansh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lenovo's 'encrypted' fingerprint USB is just an unencrypted SD card in a case]]></title>
+        <id>https://news.ycombinator.com/item?id=50326099</id>
+        <link href="https://www.reddit.com/r/technology/comments/1xl2pr3/lenovos_encrypted_fingerprint_usb_drive_is_just/"/>
+        <updated>2026-11-01T14:34:43.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.reddit.com/r/technology/comments/1xl2pr3/lenovos_encrypted_fingerprint_usb_drive_is_just/
+Comments URL: https://news.ycombinator.com/item?id=50326099
+Points: 547
+# Comments: 170]]></summary>
+        <author>
+            <name>entryleveljobsc</name>
         </author>
     </entry>
     <entry>
@@ -104,6 +155,19 @@ Points: 665
 # Comments: 386]]></summary>
         <author>
             <name>input_sh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Postgres 19 is late because so many more bugs are being found now]]></title>
+        <id>https://news.ycombinator.com/item?id=50312408</id>
+        <link href="http://rhaas.blogspot.com/2026/10/postgres-19-is-late-and-its-ais-fault.html"/>
+        <updated>2026-10-31T01:38:56.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: http://rhaas.blogspot.com/2026/10/postgres-19-is-late-and-its-ais-fault.html
+Comments URL: https://news.ycombinator.com/item?id=50312408
+Points: 768
+# Comments: 454]]></summary>
+        <author>
+            <name>soheilpro</name>
         </author>
     </entry>
     <entry>
@@ -3102,61 +3166,6 @@ Points: 525
 # Comments: 261]]></summary>
         <author>
             <name>snehesht</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tell HN: Bob Cringely has died]]></title>
-        <id>https://news.ycombinator.com/item?id=49949438</id>
-        <link href="https://news.ycombinator.com/item?id=49949438"/>
-        <updated>2026-10-04T00:50:52.000Z</updated>
-        <summary type="html"><![CDATA[I heard from a friend of the family that Bob passed away in his sleep early Saturday. Very sad news. Bob, who's real name was Mark Stevens, was an early employee of Apple and was best known for his PBS documentaries, especially "Triumph of the Nerds". He will be missed.
-Comments URL: https://news.ycombinator.com/item?id=49949438
-Points: 640
-# Comments: 126]]></summary>
-        <author>
-            <name>paveworld</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[We're going to need default hard budget caps on pretty much everything]]></title>
-        <id>https://news.ycombinator.com/item?id=49949235</id>
-        <link href="https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/"/>
-        <updated>2026-10-04T00:20:16.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/
-Comments URL: https://news.ycombinator.com/item?id=49949235
-Points: 524
-# Comments: 271]]></summary>
-        <author>
-            <name>elffjs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Get to $1 Million With Just 20 Clients!]]></title>
-        <id>https://www.youtube.com/shorts/86nTiG4Het0</id>
-        <link href="https://www.youtube.com/shorts/86nTiG4Het0"/>
-        <updated>2026-10-03T16:45:17.000Z</updated>
-        <summary type="html"><![CDATA[Your sales team isn't closing, so you blame the salespeople. According to Saad, that's usually the wrong fix.In this episode, Saad, who built a ₹50 crore ser...]]></summary>
-        <author>
-            <name>Think School</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build a ₹50 CRORE Business in 2 Years!]]></title>
-        <id>https://www.youtube.com/shorts/NDEpHf44LpE</id>
-        <link href="https://www.youtube.com/shorts/NDEpHf44LpE"/>
-        <updated>2026-10-03T16:30:33.000Z</updated>
-        <summary type="html"><![CDATA[What if the reason your business isn't growing has almost nothing to do with your salespeople? Saad reveals the hidden system behind a ₹50 crore service busi...]]></summary>
-        <author>
-            <name>Think School</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HOW TO SELL ANY SERVICE TO ANYONE |  The System Saad Used to Build a ₹50 Crore Service Business]]></title>
-        <id>https://www.youtube.com/watch?v=M2OYgUoQwyk</id>
-        <link href="https://www.youtube.com/watch?v=M2OYgUoQwyk"/>
-        <updated>2026-10-03T14:57:53.000Z</updated>
-        <author>
-            <name>Think School</name>
         </author>
     </entry>
     <entry>

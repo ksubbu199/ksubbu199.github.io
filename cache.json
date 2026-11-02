@@ -6,6 +6,26 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=50337608",
+          "author": "chalmovsky",
+          "description": "Article URL: https://chalmovsky.com/posts/wtf-ubuntu\nComments URL: https://news.ycombinator.com/item?id=50337608\nPoints: 725\n# Comments: 364",
+          "link": "https://chalmovsky.com/posts/wtf-ubuntu",
+          "publishedOn": "2026-11-02T14:52:00.000Z",
+          "wordCount": 482,
+          "title": "WTF Ubuntu?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=50328896",
+          "author": "LecroJS",
+          "description": "I haven’t owned a TV in years and would like one that respects my privacy. Are there any TV’s which do this well? I am looking for something in the 60”to 80”range and would like a 4k display with at least 60hz display. I don’t mind paying a premium.\nI have heard good things about Apple TV as a better alternative to most smart TV native apps. Would some TV’s pair better with this than others for privacy? I don’t want the TV doing anything other than being the display for Apple TV.\nI am curious what success others have had.\nComments URL: https://news.ycombinator.com/item?id=50328896\nPoints: 631\n# Comments: 750",
+          "link": "https://news.ycombinator.com/item?id=50328896",
+          "publishedOn": "2026-11-01T19:35:27.000Z",
+          "wordCount": 40769,
+          "title": "Ask HN: Which TV do you recommend for privacy?",
+          "imageUrl": null
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=50326821",
           "author": "roansh",
           "description": "Saw Karpathy's HackerTube and wanted the same thing for books. So I had Claude build one (Opus 5.5).\nIt's ~16.5k books that at least two different HN commenters brought up, from 2007 till now. Each book links back to the comments that mentioned it. Data is downloadable from the about page.\nTo be clear: Claude wrote almost all of it, including the data pipeline and the site. I mostly steered and made calls, bought the domain name, etc.\nIt counts mentions, so it's not perfect (praising a book and trashing it both count). If your favourite book is missing or matched to the wrong thing, tell me.\nComments URL: https://news.ycombinator.com/item?id=50326821\nPoints: 821\n# Comments: 166",
@@ -13,6 +33,16 @@
           "publishedOn": "2026-11-01T15:58:28.000Z",
           "wordCount": 141,
           "title": "Show HN: HackerBooks – HackerTube, but for books mentioned on HN",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=50326099",
+          "author": "entryleveljobsc",
+          "description": "Article URL: https://www.reddit.com/r/technology/comments/1xl2pr3/lenovos_encrypted_fingerprint_usb_drive_is_just/\nComments URL: https://news.ycombinator.com/item?id=50326099\nPoints: 547\n# Comments: 170",
+          "link": "https://www.reddit.com/r/technology/comments/1xl2pr3/lenovos_encrypted_fingerprint_usb_drive_is_just/",
+          "publishedOn": "2026-11-01T14:34:43.000Z",
+          "wordCount": null,
+          "title": "Lenovo's 'encrypted' fingerprint USB is just an unencrypted SD card in a case",
           "imageUrl": null
         },
         {
@@ -63,6 +93,16 @@
           "publishedOn": "2026-10-31T10:21:30.000Z",
           "wordCount": null,
           "title": "Serbia just elected the world's brainiest parliament",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=50312408",
+          "author": "soheilpro",
+          "description": "Article URL: http://rhaas.blogspot.com/2026/10/postgres-19-is-late-and-its-ais-fault.html\nComments URL: https://news.ycombinator.com/item?id=50312408\nPoints: 768\n# Comments: 454",
+          "link": "http://rhaas.blogspot.com/2026/10/postgres-19-is-late-and-its-ais-fault.html",
+          "publishedOn": "2026-10-31T01:38:56.000Z",
+          "wordCount": null,
+          "title": "Postgres 19 is late because so many more bugs are being found now",
           "imageUrl": null
         },
         {
@@ -2074,26 +2114,6 @@
           "wordCount": 5297,
           "title": "Run Qwen 3.8 Flash Next (125B) on consumer hardware (RTX 4090) at 100T/s",
           "imageUrl": "https://opengraph.githubassets.com/cb9a3aade9276b80b7d220437ed599ea9a5253754ce2cf4d2f7baa39d909c5c7/Niko1221/Strata"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=49949438",
-          "author": "paveworld",
-          "description": "I heard from a friend of the family that Bob passed away in his sleep early Saturday. Very sad news. Bob, who's real name was Mark Stevens, was an early employee of Apple and was best known for his PBS documentaries, especially \"Triumph of the Nerds\". He will be missed.\nComments URL: https://news.ycombinator.com/item?id=49949438\nPoints: 640\n# Comments: 126",
-          "link": "https://news.ycombinator.com/item?id=49949438",
-          "publishedOn": "2026-10-04T00:50:52.000Z",
-          "wordCount": 5578,
-          "title": "Tell HN: Bob Cringely has died",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=49949235",
-          "author": "elffjs",
-          "description": "Article URL: https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/\nComments URL: https://news.ycombinator.com/item?id=49949235\nPoints: 524\n# Comments: 271",
-          "link": "https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/",
-          "publishedOn": "2026-10-04T00:20:16.000Z",
-          "wordCount": 1245,
-          "title": "We're going to need default hard budget caps on pretty much everything",
-          "imageUrl": null
         }
       ]
     },
@@ -2332,6 +2352,16 @@
       "siteUrl": "https://www.youtube.com/channel/UCKZozRVHRYsYHGEyNKuhhdA",
       "articles": [
         {
+          "id": "https://www.youtube.com/shorts/rmBNnDlJrYk",
+          "author": null,
+          "description": "Starting a brand in India is easy. Scaling one is almost impossible. Deepak Shahdadpuri, Managing Director of DSG Consumer Partners and the investor behind V...",
+          "link": "https://www.youtube.com/shorts/rmBNnDlJrYk",
+          "publishedOn": "2026-11-02T08:00:01.000Z",
+          "wordCount": 3585,
+          "title": "How to build a ₹100 crore brand in India!",
+          "imageUrl": "https://i.ytimg.com/vi/rmBNnDlJrYk/oardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLCxRCGkg4vmZFgLbeunWPOgRLN7BQ"
+        },
+        {
           "id": "https://www.youtube.com/watch?v=mfvOJYW25JQ",
           "author": null,
           "description": "",
@@ -2480,36 +2510,6 @@
           "wordCount": 3545,
           "title": "Saad’s Secret to Blowing Up on Instagram",
           "imageUrl": "https://i.ytimg.com/vi/lP4enqLb-uM/oar2.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLDAa5cgS8sHCmp2Ou49NqCq4Rjwfg&usqp=CCk"
-        },
-        {
-          "id": "https://www.youtube.com/shorts/86nTiG4Het0",
-          "author": null,
-          "description": "Your sales team isn't closing, so you blame the salespeople. According to Saad, that's usually the wrong fix.In this episode, Saad, who built a ₹50 crore ser...",
-          "link": "https://www.youtube.com/shorts/86nTiG4Het0",
-          "publishedOn": "2026-10-03T16:45:17.000Z",
-          "wordCount": 3706,
-          "title": "Get to $1 Million With Just 20 Clients!",
-          "imageUrl": "https://i.ytimg.com/vi/86nTiG4Het0/oardefault.jpg?sqp=-oaymwEoCJUDENAFSFqQAgHyq4qpAxcIARUAAAAAJQAAyEI9AICiQ3gBuALzGA==&rs=AOn4CLAZSDblWO-gXTIpOo3ywVm9upodYA&usqp=CCk"
-        },
-        {
-          "id": "https://www.youtube.com/shorts/NDEpHf44LpE",
-          "author": null,
-          "description": "What if the reason your business isn't growing has almost nothing to do with your salespeople? Saad reveals the hidden system behind a ₹50 crore service busi...",
-          "link": "https://www.youtube.com/shorts/NDEpHf44LpE",
-          "publishedOn": "2026-10-03T16:30:33.000Z",
-          "wordCount": 3560,
-          "title": "How to Build a ₹50 CRORE Business in 2 Years!",
-          "imageUrl": "https://i.ytimg.com/vi/NDEpHf44LpE/oardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLBQsJ9yhtqmGBLa6KGiEGRpfU8Q1A&usqp=CCk"
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=M2OYgUoQwyk",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=M2OYgUoQwyk",
-          "publishedOn": "2026-10-03T14:57:53.000Z",
-          "wordCount": null,
-          "title": "HOW TO SELL ANY SERVICE TO ANYONE |  The System Saad Used to Build a ₹50 Crore Service Business",
-          "imageUrl": null
         }
       ]
     },
