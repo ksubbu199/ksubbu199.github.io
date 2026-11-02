@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=50326821",
+          "author": "roansh",
+          "description": "Saw Karpathy's HackerTube and wanted the same thing for books. So I had Claude build one (Opus 5.5).\nIt's ~16.5k books that at least two different HN commenters brought up, from 2007 till now. Each book links back to the comments that mentioned it. Data is downloadable from the about page.\nTo be clear: Claude wrote almost all of it, including the data pipeline and the site. I mostly steered and made calls, bought the domain name, etc.\nIt counts mentions, so it's not perfect (praising a book and trashing it both count). If your favourite book is missing or matched to the wrong thing, tell me.\nComments URL: https://news.ycombinator.com/item?id=50326821\nPoints: 821\n# Comments: 166",
+          "link": "https://hackerbooks.org/",
+          "publishedOn": "2026-11-01T15:58:28.000Z",
+          "wordCount": 141,
+          "title": "Show HN: HackerBooks – HackerTube, but for books mentioned on HN",
+          "imageUrl": null
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=50324388",
           "author": "giuliomagnifico",
           "description": "Article URL: https://www.visitnorway.com/plan-your-trip/travel-tips-a-z/norwegian-scenic-routes/worlds-best-toilets/\nComments URL: https://news.ycombinator.com/item?id=50324388\nPoints: 592\n# Comments: 338",
@@ -2084,16 +2094,6 @@
           "wordCount": 1245,
           "title": "We're going to need default hard budget caps on pretty much everything",
           "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=49942706",
-          "author": "bastitx",
-          "description": "tech report: https://aleph-alpha.com/downloads/tech-report.pdf\nadditional paper: https://tej.as/blog/aleph-alpha-kolibri\nComments URL: https://news.ycombinator.com/item?id=49942706\nPoints: 546\n# Comments: 308",
-          "link": "https://aleph-alpha.com/en/blog/kolibri-has-landed-a-sovereign-open-weight-model/",
-          "publishedOn": "2026-10-03T09:36:04.000Z",
-          "wordCount": 5582,
-          "title": "Kolibri: A Sovereign Open-Weight Model",
-          "imageUrl": "https://aleph-alpha.com/_astro/00-cover.Du35XCGh_zJqw.jpeg"
         }
       ]
     },
