@@ -2,10 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-11-03T07:36:18.776Z</updated>
+    <updated>2026-11-03T15:51:22.506Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The 'Astra can read and write weights to improve Qwen' post is misleading]]></title>
+        <id>https://news.ycombinator.com/item?id=50351111</id>
+        <link href="https://honnibal.dev/blog/astra-read-write-misleading"/>
+        <updated>2026-11-03T12:21:17.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://honnibal.dev/blog/astra-read-write-misleading
+Comments URL: https://news.ycombinator.com/item?id=50351111
+Points: 509
+# Comments: 115]]></summary>
+        <author>
+            <name>syllogism</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ubuntu still has not released patch for Linux 0day RCE in almost 3 weeks]]></title>
+        <id>https://news.ycombinator.com/item?id=50341462</id>
+        <link href="https://freenode.net/article/ubuntu-lts-kernels-still-unfixed-for-critical-cve-2026-98432"/>
+        <updated>2026-11-02T18:39:38.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://freenode.net/article/ubuntu-lts-kernels-still-unfixed-for-critical-cve-2026-98432
+Comments URL: https://news.ycombinator.com/item?id=50341462
+Points: 576
+# Comments: 174]]></summary>
+        <author>
+            <name>majorchord</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Astra can read and write weights to improve Qwen]]></title>
         <id>https://news.ycombinator.com/item?id=50341174</id>
@@ -3179,32 +3205,6 @@ I don’t know what was on their mind, but their post immediately made me think 
 I use the term “nurture” here deliberately. We talk of building software, but building implies a degree of determinism. When w…]]></summary>
         <author>
             <name>Martin Fowler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Turn off Apple Intelligence on macOS 27 and get its disk space back]]></title>
-        <id>https://news.ycombinator.com/item?id=49957116</id>
-        <link href="https://github.com/omlahore/RemoveMacAI"/>
-        <updated>2026-10-04T19:42:25.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://github.com/omlahore/RemoveMacAI
-Comments URL: https://news.ycombinator.com/item?id=49957116
-Points: 541
-# Comments: 360]]></summary>
-        <author>
-            <name>privacyisntdead</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Improper redaction reveals Google Data Center water and electricity usage]]></title>
-        <id>https://news.ycombinator.com/item?id=49957068</id>
-        <link href="https://www.1011now.com/2026/09/30/more-questions-than-answers-about-lincolns-google-data-center-water-electricity-usage/"/>
-        <updated>2026-10-04T19:37:05.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.1011now.com/2026/09/30/more-questions-than-answers-about-lincolns-google-data-center-water-electricity-usage/
-Comments URL: https://news.ycombinator.com/item?id=49957068
-Points: 515
-# Comments: 670]]></summary>
-        <author>
-            <name>sensanaty</name>
         </author>
     </entry>
     <entry>
