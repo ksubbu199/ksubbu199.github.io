@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=50354960",
+          "author": "sidgarimella",
+          "description": "Article URL: https://github.com/postmanlabs/postman-app-support/issues/14370\nComments URL: https://news.ycombinator.com/item?id=50354960\nPoints: 780\n# Comments: 260",
+          "link": "https://github.com/postmanlabs/postman-app-support/issues/14370",
+          "publishedOn": "2026-11-03T17:22:37.000Z",
+          "wordCount": 6828,
+          "title": "Postman silently auto-installs AI plugins and attempts to share all API data",
+          "imageUrl": "https://opengraph.githubassets.com/9c975b46a738390ff5242d715cb750b81b4bc712e318d2a941418ea86cb87095/postmanlabs/postman-app-support/issues/14370"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=50351111",
           "author": "syllogism",
           "description": "Article URL: https://honnibal.dev/blog/astra-read-write-misleading\nComments URL: https://news.ycombinator.com/item?id=50351111\nPoints: 509\n# Comments: 115",
@@ -2124,26 +2134,6 @@
           "wordCount": 998,
           "title": "Web Search API",
           "imageUrl": "https://developers.cloudflare.com/changelog/post/2026-10-02-introducing-web-search-api/og.png?v=1deaa8fb09156b56"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=49962012",
-          "author": "clan",
-          "description": "Article URL: https://www.cpr.dk/cpr-nyt/nyhedsarkiv/2026/okt/omfattende-uautoriseret-adgang-til-borgeres-cpr-oplysninger\nComments URL: https://news.ycombinator.com/item?id=49962012\nPoints: 501\n# Comments: 350",
-          "link": "https://www.cpr.dk/cpr-nyt/nyhedsarkiv/2026/okt/omfattende-uautoriseret-adgang-til-borgeres-cpr-oplysninger",
-          "publishedOn": "2026-10-05T08:09:36.000Z",
-          "wordCount": 265,
-          "title": "Denmark data breach exposes 8.8M people's personal data",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=49961057",
-          "author": "emptybits",
-          "description": "Article URL: https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html\nComments URL: https://news.ycombinator.com/item?id=49961057\nPoints: 633\n# Comments: 504",
-          "link": "https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html",
-          "publishedOn": "2026-10-05T05:37:40.000Z",
-          "wordCount": 6373,
-          "title": "Anthropic reported diary entry to police, woman faces felony charge",
-          "imageUrl": "https://www.techspot.com/images2/news/bigimage/2026/10/2026-10-04-image-9.jpg"
         }
       ]
     },
@@ -2310,16 +2300,6 @@
           "wordCount": 4154,
           "title": "Are Harnesses Worth the Cost?",
           "imageUrl": "https://martinfowler.com/articles/exploring-gen-ai/donkey-card.png"
-        },
-        {
-          "id": "https://martinfowler.com/fragments/2026-10-04.html",
-          "author": null,
-          "description": "In response to my last fragments (probably the bit about us worrying if LLMs have consciousness when we when we should be wondering why they don’t have a conscience) “Metalanguage” replied:\nwe shipped the id and forgot the superego. classic software lifecycle.\nI don’t know what was on their mind, but their post immediately made me think of the classic 1956 movie Forbidden Planet. Plenty of sci-fi, and other literature, have explored humans creating technology with unintended behavior, going back at least to Mary Shelly. But that movie was particularly influential on sci-fi film-making and in the heart of its story is what happens when we nurture a thinking machine.\nI use the term “nurture” here deliberately. We talk of building software, but building implies a degree of determinism. When w…",
-          "link": "https://martinfowler.com/fragments/2026-10-04.html",
-          "publishedOn": "2026-10-05T04:28:00.000Z",
-          "wordCount": 1707,
-          "title": "Fragments: October  4",
-          "imageUrl": "https://martinfowler.com/fragments/fragments-thumb.png"
         }
       ]
     },

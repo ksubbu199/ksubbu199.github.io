@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-11-03T15:51:22.506Z</updated>
+    <updated>2026-11-03T21:30:52.864Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Postman silently auto-installs AI plugins and attempts to share all API data]]></title>
+        <id>https://news.ycombinator.com/item?id=50354960</id>
+        <link href="https://github.com/postmanlabs/postman-app-support/issues/14370"/>
+        <updated>2026-11-03T17:22:37.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://github.com/postmanlabs/postman-app-support/issues/14370
+Comments URL: https://news.ycombinator.com/item?id=50354960
+Points: 780
+# Comments: 260]]></summary>
+        <author>
+            <name>sidgarimella</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The 'Astra can read and write weights to improve Qwen' post is misleading]]></title>
         <id>https://news.ycombinator.com/item?id=50351111</id>
@@ -3166,45 +3179,6 @@ Points: 509
 # Comments: 234]]></summary>
         <author>
             <name>tosh</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Denmark data breach exposes 8.8M people's personal data]]></title>
-        <id>https://news.ycombinator.com/item?id=49962012</id>
-        <link href="https://www.cpr.dk/cpr-nyt/nyhedsarkiv/2026/okt/omfattende-uautoriseret-adgang-til-borgeres-cpr-oplysninger"/>
-        <updated>2026-10-05T08:09:36.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.cpr.dk/cpr-nyt/nyhedsarkiv/2026/okt/omfattende-uautoriseret-adgang-til-borgeres-cpr-oplysninger
-Comments URL: https://news.ycombinator.com/item?id=49962012
-Points: 501
-# Comments: 350]]></summary>
-        <author>
-            <name>clan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Anthropic reported diary entry to police, woman faces felony charge]]></title>
-        <id>https://news.ycombinator.com/item?id=49961057</id>
-        <link href="https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html"/>
-        <updated>2026-10-05T05:37:40.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html
-Comments URL: https://news.ycombinator.com/item?id=49961057
-Points: 633
-# Comments: 504]]></summary>
-        <author>
-            <name>emptybits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fragments: October  4]]></title>
-        <id>https://martinfowler.com/fragments/2026-10-04.html</id>
-        <link href="https://martinfowler.com/fragments/2026-10-04.html"/>
-        <updated>2026-10-05T04:28:00.000Z</updated>
-        <summary type="html"><![CDATA[In response to my last fragments (probably the bit about us worrying if LLMs have consciousness when we when we should be wondering why they don’t have a conscience) “Metalanguage” replied:
-we shipped the id and forgot the superego. classic software lifecycle.
-I don’t know what was on their mind, but their post immediately made me think of the classic 1956 movie Forbidden Planet. Plenty of sci-fi, and other literature, have explored humans creating technology with unintended behavior, going back at least to Mary Shelly. But that movie was particularly influential on sci-fi film-making and in the heart of its story is what happens when we nurture a thinking machine.
-I use the term “nurture” here deliberately. We talk of building software, but building implies a degree of determinism. When w…]]></summary>
-        <author>
-            <name>Martin Fowler</name>
         </author>
     </entry>
     <entry>
