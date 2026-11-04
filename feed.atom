@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-11-04T08:40:25.180Z</updated>
+    <updated>2026-11-04T16:52:04.594Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[AI is forcing us to pay off 40 years of technical debt]]></title>
+        <id>https://news.ycombinator.com/item?id=50364336</id>
+        <link href="https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability"/>
+        <updated>2026-11-04T11:52:17.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability
+Comments URL: https://news.ycombinator.com/item?id=50364336
+Points: 577
+# Comments: 381]]></summary>
+        <author>
+            <name>pseudolus</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Qwen 3.8 27B on my laptop can interpret model weights, too]]></title>
         <id>https://news.ycombinator.com/item?id=50355251</id>
@@ -57,6 +70,23 @@ Points: 608
 # Comments: 429]]></summary>
         <author>
             <name>ceejayoz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenAI seems to be silently re-enabling model training on Codex chats]]></title>
+        <id>https://news.ycombinator.com/item?id=50352757</id>
+        <link href="https://news.ycombinator.com/item?id=50352757"/>
+        <updated>2026-11-03T14:53:41.000Z</updated>
+        <summary type="html"><![CDATA[My company is pretty paranoid about leaking IP to the frontier labs through prompts, so we've all been diligent about disabling data sharing in Codex/Claude Code/etc. But yesterday my coworkers and I noticed that the setting had been silently reenabled in Codex. None of us knowingly opted back in.
+You can check your settings here: https://chatgpt.com/settings/data-controls. Look for "Improve the model for everyone".
+Curious if this is an isolated issue or something more widespread.
+EDIT: looks like this has been noted before https://news.ycombinator.com/item?id=49643556
+EDIT: apparently you can also turn off data sharing here: https://privacy.openai.com/policies?modal=take-control
+Comments URL: https://news.ycombinator.com/item?id=50352757
+Points: 509
+# Comments: 150]]></summary>
+        <author>
+            <name>user052919</name>
         </author>
     </entry>
     <entry>
@@ -135,6 +165,19 @@ Points: 725
 # Comments: 364]]></summary>
         <author>
             <name>chalmovsky</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fujifilm to boost tape production 5x as AI fuels archiving demand]]></title>
+        <id>https://news.ycombinator.com/item?id=50336918</id>
+        <link href="https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand/"/>
+        <updated>2026-11-02T14:02:42.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand/
+Comments URL: https://news.ycombinator.com/item?id=50336918
+Points: 520
+# Comments: 223]]></summary>
+        <author>
+            <name>bookofjoe</name>
         </author>
     </entry>
     <entry>
@@ -3183,19 +3226,6 @@ Points: 532
 # Comments: 175]]></summary>
         <author>
             <name>solarist</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ChatGPT is adding real cartoonists' signatures to fake New Yorker cartoons]]></title>
-        <id>https://news.ycombinator.com/item?id=49971846</id>
-        <link href="https://www.niemanlab.org/2026/10/chatgpt-is-adding-real-cartoonists-signatures-to-fake-new-yorker-cartoons/"/>
-        <updated>2026-10-05T22:46:45.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.niemanlab.org/2026/10/chatgpt-is-adding-real-cartoonists-signatures-to-fake-new-yorker-cartoons/
-Comments URL: https://news.ycombinator.com/item?id=49971846
-Points: 528
-# Comments: 383]]></summary>
-        <author>
-            <name>rdmuser</name>
         </author>
     </entry>
     <entry>

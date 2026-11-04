@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=50364336",
+          "author": "pseudolus",
+          "description": "Article URL: https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability\nComments URL: https://news.ycombinator.com/item?id=50364336\nPoints: 577\n# Comments: 381",
+          "link": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability",
+          "publishedOn": "2026-11-04T11:52:17.000Z",
+          "wordCount": 12701,
+          "title": "AI is forcing us to pay off 40 years of technical debt",
+          "imageUrl": "https://spectrum.ieee.org/media-library/image.jpg?id=68544156&width=1200&height=600&coordinates=0%2C312%2C0%2C313"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=50355251",
           "author": "theanonymousone",
           "description": "Article URL: https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/\nComments URL: https://news.ycombinator.com/item?id=50355251\nPoints: 597\n# Comments: 177",
@@ -43,6 +53,16 @@
           "publishedOn": "2026-11-03T15:25:47.000Z",
           "wordCount": null,
           "title": "Google will turn off search for schools that reject AI",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=50352757",
+          "author": "user052919",
+          "description": "My company is pretty paranoid about leaking IP to the frontier labs through prompts, so we've all been diligent about disabling data sharing in Codex/Claude Code/etc. But yesterday my coworkers and I noticed that the setting had been silently reenabled in Codex. None of us knowingly opted back in.\nYou can check your settings here: https://chatgpt.com/settings/data-controls. Look for \"Improve the model for everyone\".\nCurious if this is an isolated issue or something more widespread.\nEDIT: looks like this has been noted before https://news.ycombinator.com/item?id=49643556\nEDIT: apparently you can also turn off data sharing here: https://privacy.openai.com/policies?modal=take-control\nComments URL: https://news.ycombinator.com/item?id=50352757\nPoints: 509\n# Comments: 150",
+          "link": "https://news.ycombinator.com/item?id=50352757",
+          "publishedOn": "2026-11-03T14:53:41.000Z",
+          "wordCount": 7704,
+          "title": "OpenAI seems to be silently re-enabling model training on Codex chats",
           "imageUrl": null
         },
         {
@@ -103,6 +123,16 @@
           "publishedOn": "2026-11-02T14:52:00.000Z",
           "wordCount": 482,
           "title": "WTF Ubuntu?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=50336918",
+          "author": "bookofjoe",
+          "description": "Article URL: https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand/\nComments URL: https://news.ycombinator.com/item?id=50336918\nPoints: 520\n# Comments: 223",
+          "link": "https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand/",
+          "publishedOn": "2026-11-02T14:02:42.000Z",
+          "wordCount": null,
+          "title": "Fujifilm to boost tape production 5x as AI fuels archiving demand",
           "imageUrl": null
         },
         {
@@ -2143,16 +2173,6 @@
           "publishedOn": "2026-10-06T09:48:46.000Z",
           "wordCount": null,
           "title": "Nobel Prize in Physics 2026: Francis Halzen",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=49971846",
-          "author": "rdmuser",
-          "description": "Article URL: https://www.niemanlab.org/2026/10/chatgpt-is-adding-real-cartoonists-signatures-to-fake-new-yorker-cartoons/\nComments URL: https://news.ycombinator.com/item?id=49971846\nPoints: 528\n# Comments: 383",
-          "link": "https://www.niemanlab.org/2026/10/chatgpt-is-adding-real-cartoonists-signatures-to-fake-new-yorker-cartoons/",
-          "publishedOn": "2026-10-05T22:46:45.000Z",
-          "wordCount": null,
-          "title": "ChatGPT is adding real cartoonists' signatures to fake New Yorker cartoons",
           "imageUrl": null
         }
       ]
