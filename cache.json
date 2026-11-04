@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=50365755",
+          "author": "smalltech",
+          "description": "Article URL: https://www.theregister.com/security/2026/11/03/north-korean-fake-job-interview-led-to-63b-binance-heist/5307398\nComments URL: https://news.ycombinator.com/item?id=50365755\nPoints: 529\n# Comments: 314",
+          "link": "https://www.theregister.com/security/2026/11/03/north-korean-fake-job-interview-led-to-63b-binance-heist/5307398",
+          "publishedOn": "2026-11-04T14:09:55.000Z",
+          "wordCount": 8675,
+          "title": "North Korean fake job interview led to $6.3B Binance heist",
+          "imageUrl": "https://image.theregister.com/254036.jpg?imageId=254036&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=50364336",
           "author": "pseudolus",
           "description": "Article URL: https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability\nComments URL: https://news.ycombinator.com/item?id=50364336\nPoints: 577\n# Comments: 381",
@@ -14,6 +24,26 @@
           "wordCount": 12701,
           "title": "AI is forcing us to pay off 40 years of technical debt",
           "imageUrl": "https://spectrum.ieee.org/media-library/image.jpg?id=68544156&width=1200&height=600&coordinates=0%2C312%2C0%2C313"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=50363461",
+          "author": "jameslk",
+          "description": "If you have a personal Google AI subscription, all your saved chat history in Gemini can be used for training and there is no way to opt out unless you turn off chat history or use temporary chat sessions. These chat transcripts may even be read by human reviewers. Although Google claims to disconnect them from your account when human-reviewed, they explicitly warn not to enter confidential information.\nhttps://support.google.com/gemini/answer/16836988\n“[Gemini app activity] is used to improve Google services for everyone, including by training generative AI models, if your Keep Activity setting is on.“\nhttps://support.google.com/gemini/answer/13594961?hl=en#human_review\n“A subset of chats are reviewed by human reviewers”\nhttps://support.google.com/gemini/answer/13594961?hl=en#pn_retain_data\n“Chats reviewed by human reviewers [...] are not deleted when you delete your activity. Instead, they are retained for up to three years.”\nhttps://support.google.com/gemini/answer/13594961?hl=en#pn_data_usage\n“Please don’t enter confidential information that you wouldn’t want a reviewer to see or Google to use to improve our services, including machine-learning technologies.”\nTo disable their training on your chat sessions, you need to turn off “Keep Activity” in Gemini’s settings. Turning that off means you’ll lose any chat sessions after 72 hours.\nI learned this too late, thinking that having a paid subscription = not being turned into the product. Apparently paying is not enough.\nThank you to this user on HN for mentioning in another thread: https://news.ycombinator.com/item?id=50355424\nComments URL: https://news.ycombinator.com/item?id=50363461\nPoints: 589\n# Comments: 149",
+          "link": "https://news.ycombinator.com/item?id=50363461",
+          "publishedOn": "2026-11-04T10:10:27.000Z",
+          "wordCount": 7513,
+          "title": "Tell HN: Gemini trains on chat history, even for subscribers (personal accounts)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=50362905",
+          "author": "novaRom",
+          "description": "Article URL: https://www.mindstudio.ai/blog/linux-nvidia-rtx-spark-laptop\nComments URL: https://news.ycombinator.com/item?id=50362905\nPoints: 566\n# Comments: 261",
+          "link": "https://www.mindstudio.ai/blog/linux-nvidia-rtx-spark-laptop",
+          "publishedOn": "2026-11-04T08:46:29.000Z",
+          "wordCount": 5242,
+          "title": "Nvidia RTX Spark encrypted firmware slows inference speed to 35% on Linux",
+          "imageUrl": "https://i.mscdn.ai/o/iZl0kkZU2R9KXyy7/a/3V2ICO3oSq2QZPii/_published/generated-images/0d8c9668-cbfe-4ecf-bb31-1a7fff7102be.png?fm=auto&w=1200&h=630&fit=crop"
         },
         {
           "id": "https://news.ycombinator.com/item?id=50355251",
@@ -2163,16 +2193,6 @@
           "publishedOn": "2026-10-06T11:45:55.000Z",
           "wordCount": null,
           "title": "JetBrains reported a net financial loss first time in its tracked history",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=49976265",
-          "author": "solarist",
-          "description": "Article URL: https://www.nobelprize.org/prizes/physics/2026/\nComments URL: https://news.ycombinator.com/item?id=49976265\nPoints: 532\n# Comments: 175",
-          "link": "https://www.nobelprize.org/prizes/physics/2026/",
-          "publishedOn": "2026-10-06T09:48:46.000Z",
-          "wordCount": null,
-          "title": "Nobel Prize in Physics 2026: Francis Halzen",
           "imageUrl": null
         }
       ]

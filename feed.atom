@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-11-04T16:52:04.594Z</updated>
+    <updated>2026-11-04T22:26:00.452Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[North Korean fake job interview led to $6.3B Binance heist]]></title>
+        <id>https://news.ycombinator.com/item?id=50365755</id>
+        <link href="https://www.theregister.com/security/2026/11/03/north-korean-fake-job-interview-led-to-63b-binance-heist/5307398"/>
+        <updated>2026-11-04T14:09:55.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.theregister.com/security/2026/11/03/north-korean-fake-job-interview-led-to-63b-binance-heist/5307398
+Comments URL: https://news.ycombinator.com/item?id=50365755
+Points: 529
+# Comments: 314]]></summary>
+        <author>
+            <name>smalltech</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AI is forcing us to pay off 40 years of technical debt]]></title>
         <id>https://news.ycombinator.com/item?id=50364336</id>
@@ -17,6 +30,43 @@ Points: 577
 # Comments: 381]]></summary>
         <author>
             <name>pseudolus</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tell HN: Gemini trains on chat history, even for subscribers (personal accounts)]]></title>
+        <id>https://news.ycombinator.com/item?id=50363461</id>
+        <link href="https://news.ycombinator.com/item?id=50363461"/>
+        <updated>2026-11-04T10:10:27.000Z</updated>
+        <summary type="html"><![CDATA[If you have a personal Google AI subscription, all your saved chat history in Gemini can be used for training and there is no way to opt out unless you turn off chat history or use temporary chat sessions. These chat transcripts may even be read by human reviewers. Although Google claims to disconnect them from your account when human-reviewed, they explicitly warn not to enter confidential information.
+https://support.google.com/gemini/answer/16836988
+“[Gemini app activity] is used to improve Google services for everyone, including by training generative AI models, if your Keep Activity setting is on.“
+https://support.google.com/gemini/answer/13594961?hl=en#human_review
+“A subset of chats are reviewed by human reviewers”
+https://support.google.com/gemini/answer/13594961?hl=en#pn_retain_data
+“Chats reviewed by human reviewers [...] are not deleted when you delete your activity. Instead, they are retained for up to three years.”
+https://support.google.com/gemini/answer/13594961?hl=en#pn_data_usage
+“Please don’t enter confidential information that you wouldn’t want a reviewer to see or Google to use to improve our services, including machine-learning technologies.”
+To disable their training on your chat sessions, you need to turn off “Keep Activity” in Gemini’s settings. Turning that off means you’ll lose any chat sessions after 72 hours.
+I learned this too late, thinking that having a paid subscription = not being turned into the product. Apparently paying is not enough.
+Thank you to this user on HN for mentioning in another thread: https://news.ycombinator.com/item?id=50355424
+Comments URL: https://news.ycombinator.com/item?id=50363461
+Points: 589
+# Comments: 149]]></summary>
+        <author>
+            <name>jameslk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nvidia RTX Spark encrypted firmware slows inference speed to 35% on Linux]]></title>
+        <id>https://news.ycombinator.com/item?id=50362905</id>
+        <link href="https://www.mindstudio.ai/blog/linux-nvidia-rtx-spark-laptop"/>
+        <updated>2026-11-04T08:46:29.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.mindstudio.ai/blog/linux-nvidia-rtx-spark-laptop
+Comments URL: https://news.ycombinator.com/item?id=50362905
+Points: 566
+# Comments: 261]]></summary>
+        <author>
+            <name>novaRom</name>
         </author>
     </entry>
     <entry>
@@ -3213,19 +3263,6 @@ Points: 545
 # Comments: 488]]></summary>
         <author>
             <name>thw_9a83c</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nobel Prize in Physics 2026: Francis Halzen]]></title>
-        <id>https://news.ycombinator.com/item?id=49976265</id>
-        <link href="https://www.nobelprize.org/prizes/physics/2026/"/>
-        <updated>2026-10-06T09:48:46.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.nobelprize.org/prizes/physics/2026/
-Comments URL: https://news.ycombinator.com/item?id=49976265
-Points: 532
-# Comments: 175]]></summary>
-        <author>
-            <name>solarist</name>
         </author>
     </entry>
     <entry>
