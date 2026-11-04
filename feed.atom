@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-11-04T01:54:59.549Z</updated>
+    <updated>2026-11-04T08:40:25.180Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Qwen 3.8 27B on my laptop can interpret model weights, too]]></title>
+        <id>https://news.ycombinator.com/item?id=50355251</id>
+        <link href="https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/"/>
+        <updated>2026-11-03T17:40:00.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/
+Comments URL: https://news.ycombinator.com/item?id=50355251
+Points: 597
+# Comments: 177]]></summary>
+        <author>
+            <name>theanonymousone</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Postman silently auto-installs AI plugins and attempts to share all API data]]></title>
         <id>https://news.ycombinator.com/item?id=50354960</id>
@@ -17,6 +30,33 @@ Points: 780
 # Comments: 260]]></summary>
         <author>
             <name>sidgarimella</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stringman, an $800 open-source room scale gripper robot]]></title>
+        <id>https://news.ycombinator.com/item?id=50354358</id>
+        <link href="https://neufangled.com/"/>
+        <updated>2026-11-03T16:47:29.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://neufangled.com/
+Comments URL: https://news.ycombinator.com/item?id=50354358
+Points: 557
+# Comments: 192]]></summary>
+        <author>
+            <name>nharada</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google will turn off search for schools that reject AI]]></title>
+        <id>https://news.ycombinator.com/item?id=50353192</id>
+        <link href="https://www.nytimes.com/2026/11/03/us/google-search-schools-restrict-ai.html"/>
+        <updated>2026-11-03T15:25:47.000Z</updated>
+        <summary type="html"><![CDATA[https://archive.ph/RuwsB
+https://blog.google/products-and-platforms/products/educatio...
+Comments URL: https://news.ycombinator.com/item?id=50353192
+Points: 608
+# Comments: 429]]></summary>
+        <author>
+            <name>ceejayoz</name>
         </author>
     </entry>
     <entry>
@@ -69,6 +109,19 @@ Here's a video of Dave from YC trying it out: https://www.youtube.com/watch?v=9Q
 Arnav and I were …]]></summary>
         <author>
             <name>aarushyadav</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jailbreaking my car's navigation system just so I can change the time]]></title>
+        <id>https://news.ycombinator.com/item?id=50339288</id>
+        <link href="https://blog.nns.ee/2026/11/02/renault-hack/"/>
+        <updated>2026-11-02T16:29:19.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://blog.nns.ee/2026/11/02/renault-hack/
+Comments URL: https://news.ycombinator.com/item?id=50339288
+Points: 773
+# Comments: 308]]></summary>
+        <author>
+            <name>xx_ns</name>
         </author>
     </entry>
     <entry>
@@ -3143,42 +3196,6 @@ Points: 528
 # Comments: 383]]></summary>
         <author>
             <name>rdmuser</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Beam: Reflection's 501B open-weight model]]></title>
-        <id>https://news.ycombinator.com/item?id=49969183</id>
-        <link href="https://reflection.ai/blog/introducing-beam"/>
-        <updated>2026-10-05T19:16:35.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://reflection.ai/blog/introducing-beam
-Comments URL: https://news.ycombinator.com/item?id=49969183
-Points: 521
-# Comments: 164]]></summary>
-        <author>
-            <name>Philpax</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Saad’s Secret to Blowing Up on Instagram]]></title>
-        <id>https://www.youtube.com/shorts/lP4enqLb-uM</id>
-        <link href="https://www.youtube.com/shorts/lP4enqLb-uM"/>
-        <updated>2026-10-05T13:48:29.000Z</updated>
-        <summary type="html"><![CDATA[How do you blow up on Instagram without spending money on ads?Saad Khaja reveals his content strategy and shows how just 6 organic videos helped a page gener...]]></summary>
-        <author>
-            <name>Think School</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Web Search API]]></title>
-        <id>https://news.ycombinator.com/item?id=49963171</id>
-        <link href="https://developers.cloudflare.com/changelog/post/2026-10-02-introducing-web-search-api/"/>
-        <updated>2026-10-05T10:47:06.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://developers.cloudflare.com/changelog/post/2026-10-02-introducing-web-search-api/
-Comments URL: https://news.ycombinator.com/item?id=49963171
-Points: 509
-# Comments: 234]]></summary>
-        <author>
-            <name>tosh</name>
         </author>
     </entry>
     <entry>

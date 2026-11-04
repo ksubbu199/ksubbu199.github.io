@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=50355251",
+          "author": "theanonymousone",
+          "description": "Article URL: https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/\nComments URL: https://news.ycombinator.com/item?id=50355251\nPoints: 597\n# Comments: 177",
+          "link": "https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/",
+          "publishedOn": "2026-11-03T17:40:00.000Z",
+          "wordCount": 1971,
+          "title": "Qwen 3.8 27B on my laptop can interpret model weights, too",
+          "imageUrl": null
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=50354960",
           "author": "sidgarimella",
           "description": "Article URL: https://github.com/postmanlabs/postman-app-support/issues/14370\nComments URL: https://news.ycombinator.com/item?id=50354960\nPoints: 780\n# Comments: 260",
@@ -14,6 +24,26 @@
           "wordCount": 6828,
           "title": "Postman silently auto-installs AI plugins and attempts to share all API data",
           "imageUrl": "https://opengraph.githubassets.com/9c975b46a738390ff5242d715cb750b81b4bc712e318d2a941418ea86cb87095/postmanlabs/postman-app-support/issues/14370"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=50354358",
+          "author": "nharada",
+          "description": "Article URL: https://neufangled.com/\nComments URL: https://news.ycombinator.com/item?id=50354358\nPoints: 557\n# Comments: 192",
+          "link": "https://neufangled.com/",
+          "publishedOn": "2026-11-03T16:47:29.000Z",
+          "wordCount": 5651,
+          "title": "Stringman, an $800 open-source room scale gripper robot",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=50353192",
+          "author": "ceejayoz",
+          "description": "https://archive.ph/RuwsB\nhttps://blog.google/products-and-platforms/products/educatio...\nComments URL: https://news.ycombinator.com/item?id=50353192\nPoints: 608\n# Comments: 429",
+          "link": "https://www.nytimes.com/2026/11/03/us/google-search-schools-restrict-ai.html",
+          "publishedOn": "2026-11-03T15:25:47.000Z",
+          "wordCount": null,
+          "title": "Google will turn off search for schools that reject AI",
+          "imageUrl": null
         },
         {
           "id": "https://news.ycombinator.com/item?id=50351111",
@@ -54,6 +84,16 @@
           "wordCount": 14556,
           "title": "Show HN: Subvocal – Talk to your computer without making noise",
           "imageUrl": null
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=50339288",
+          "author": "xx_ns",
+          "description": "Article URL: https://blog.nns.ee/2026/11/02/renault-hack/\nComments URL: https://news.ycombinator.com/item?id=50339288\nPoints: 773\n# Comments: 308",
+          "link": "https://blog.nns.ee/2026/11/02/renault-hack/",
+          "publishedOn": "2026-11-02T16:29:19.000Z",
+          "wordCount": 2446,
+          "title": "Jailbreaking my car's navigation system just so I can change the time",
+          "imageUrl": "https://blog.nns.ee/img/logo.png"
         },
         {
           "id": "https://news.ycombinator.com/item?id=50337608",
@@ -2114,26 +2154,6 @@
           "wordCount": null,
           "title": "ChatGPT is adding real cartoonists' signatures to fake New Yorker cartoons",
           "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=49969183",
-          "author": "Philpax",
-          "description": "Article URL: https://reflection.ai/blog/introducing-beam\nComments URL: https://news.ycombinator.com/item?id=49969183\nPoints: 521\n# Comments: 164",
-          "link": "https://reflection.ai/blog/introducing-beam",
-          "publishedOn": "2026-10-05T19:16:35.000Z",
-          "wordCount": 8228,
-          "title": "Beam: Reflection's 501B open-weight model",
-          "imageUrl": "https://cdn.sanity.io/images/sp40emik/production/771cfe201a3d24d7a340c3372e6a1654ec1a6e42-1800x1013.png"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=49963171",
-          "author": "tosh",
-          "description": "Article URL: https://developers.cloudflare.com/changelog/post/2026-10-02-introducing-web-search-api/\nComments URL: https://news.ycombinator.com/item?id=49963171\nPoints: 509\n# Comments: 234",
-          "link": "https://developers.cloudflare.com/changelog/post/2026-10-02-introducing-web-search-api/",
-          "publishedOn": "2026-10-05T10:47:06.000Z",
-          "wordCount": 998,
-          "title": "Web Search API",
-          "imageUrl": "https://developers.cloudflare.com/changelog/post/2026-10-02-introducing-web-search-api/og.png?v=1deaa8fb09156b56"
         }
       ]
     },
@@ -2510,16 +2530,6 @@
           "wordCount": null,
           "title": "A strange shift in IT | Why the industry is changing faster than anyone expected?",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/shorts/lP4enqLb-uM",
-          "author": null,
-          "description": "How do you blow up on Instagram without spending money on ads?Saad Khaja reveals his content strategy and shows how just 6 organic videos helped a page gener...",
-          "link": "https://www.youtube.com/shorts/lP4enqLb-uM",
-          "publishedOn": "2026-10-05T13:48:29.000Z",
-          "wordCount": 3545,
-          "title": "Saad’s Secret to Blowing Up on Instagram",
-          "imageUrl": "https://i.ytimg.com/vi/lP4enqLb-uM/oar2.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLDAa5cgS8sHCmp2Ou49NqCq4Rjwfg&usqp=CCk"
         }
       ]
     },
