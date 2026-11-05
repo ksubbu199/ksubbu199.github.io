@@ -16,6 +16,26 @@
           "imageUrl": null
         },
         {
+          "id": "https://news.ycombinator.com/item?id=50367125",
+          "author": "rbanffy",
+          "description": "Article URL: https://www.tomshardware.com/pc-components/cpus/amd-expects-to-outsell-intel-in-q4-for-the-first-time-in-history-usd17b-guidance-would-exceed-intels-projections\nComments URL: https://news.ycombinator.com/item?id=50367125\nPoints: 551\n# Comments: 200",
+          "link": "https://www.tomshardware.com/pc-components/cpus/amd-expects-to-outsell-intel-in-q4-for-the-first-time-in-history-usd17b-guidance-would-exceed-intels-projections",
+          "publishedOn": "2026-11-04T15:38:34.000Z",
+          "wordCount": 48514,
+          "title": "AMD expects to outsell Intel in Q4 for the first time in history",
+          "imageUrl": "https://cdn.mos.cms.futurecdn.net/9RbcgLQz2F5o3E3DkoVzeG-1920-80.jpg"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=50366999",
+          "author": "abrarthought",
+          "description": "Article URL: https://huggingface.co/moonshotai/Kimi-K3.1-Pro\nComments URL: https://news.ycombinator.com/item?id=50366999\nPoints: 549\n# Comments: 153",
+          "link": "https://huggingface.co/moonshotai/Kimi-K3.1-Pro",
+          "publishedOn": "2026-11-04T15:30:30.000Z",
+          "wordCount": 2764,
+          "title": "Kimi K3.1 Pro model weights are out",
+          "imageUrl": "https://cdn-thumbnails.huggingface.co/social-thumbnails/models/moonshotai/Kimi-K3.1-Pro.png"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=50365755",
           "author": "smalltech",
           "description": "Article URL: https://www.theregister.com/security/2026/11/03/north-korean-fake-job-interview-led-to-63b-binance-heist/5307398\nComments URL: https://news.ycombinator.com/item?id=50365755\nPoints: 529\n# Comments: 314",
@@ -2163,26 +2183,6 @@
           "publishedOn": "2026-10-07T01:41:03.000Z",
           "wordCount": null,
           "title": "I hired an illustrator to draw my house. Now it's my Home Assistant dashboard",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=49984923",
-          "author": "OfficialTurkey",
-          "description": "https://github.com/openai/math\nhttps://github.com/openai/math/tree/main/preprints\nComments URL: https://news.ycombinator.com/item?id=49984923\nPoints: 915\n# Comments: 837",
-          "link": "https://openai.com/index/sharing-ai-progress-in-mathematics/",
-          "publishedOn": "2026-10-06T22:17:21.000Z",
-          "wordCount": null,
-          "title": "Sharing AI progress in mathematics",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=49982498",
-          "author": "IvanK_net",
-          "description": "I am a developer of https://www.photopea.com, a popular photo editor that runs in a web browser.\nMany people are asking AI models to take the Javascript code from my website, remove all ads from it, and they publish such a \"new product\" on Github for everyone to download.\nThere exist tens of such repositories on Github. I want my website to be the only source of a stable version of my program Photopea. I even received emails from people complaining about something in Photopea, and it took several emails to figure out that they are not using Photopea.com (so it ruins my reputation a little).\nI reported it to Github on the 4th of September 2026: https://www.photopea.com/g/XKoqqIGv\nToday, a month later, I received this response:\nThank you for submitting a DMCA takedown notice. We've reviewed the information you've provided, and based on the facts presented to us, we're unable to confirm a violation of 17 U.S. Code § 1201.\nWhat do you think I could do? Do you think I should look for a lawyer to deal with it outside the digital world? I really doubt that a real person ever looked at my report, and they probably send this response automatically to 99% of people.\nComments URL: https://news.ycombinator.com/item?id=49982498\nPoints: 505\n# Comments: 297",
-          "link": "https://news.ycombinator.com/item?id=49982498",
-          "publishedOn": "2026-10-06T18:54:01.000Z",
-          "wordCount": 18677,
-          "title": "Tell HN: GitHub refuses to remove cracked copies of my software after a month",
           "imageUrl": null
         }
       ]
