@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=50371246",
+          "author": "Rasbora",
+          "description": "Article URL: https://layer3intel.com/blog/residential-proxies-white-house-network\nComments URL: https://news.ycombinator.com/item?id=50371246\nPoints: 718\n# Comments: 229",
+          "link": "https://layer3intel.com/blog/residential-proxies-white-house-network",
+          "publishedOn": "2026-11-04T20:45:18.000Z",
+          "wordCount": null,
+          "title": "Residential proxies detected on White House network",
+          "imageUrl": null
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=50365755",
           "author": "smalltech",
           "description": "Article URL: https://www.theregister.com/security/2026/11/03/north-korean-fake-job-interview-led-to-63b-binance-heist/5307398\nComments URL: https://news.ycombinator.com/item?id=50365755\nPoints: 529\n# Comments: 314",
@@ -44,6 +54,16 @@
           "wordCount": 5242,
           "title": "Nvidia RTX Spark encrypted firmware slows inference speed to 35% on Linux",
           "imageUrl": "https://i.mscdn.ai/o/iZl0kkZU2R9KXyy7/a/3V2ICO3oSq2QZPii/_published/generated-images/0d8c9668-cbfe-4ecf-bb31-1a7fff7102be.png?fm=auto&w=1200&h=630&fit=crop"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=50358562",
+          "author": "paddingtone",
+          "description": "Article URL: https://webkit.org/blog/18541/introducing-adaptive-dark-mode/\nComments URL: https://news.ycombinator.com/item?id=50358562\nPoints: 500\n# Comments: 259",
+          "link": "https://webkit.org/blog/18541/introducing-adaptive-dark-mode/",
+          "publishedOn": "2026-11-03T21:39:05.000Z",
+          "wordCount": 1565,
+          "title": "Safari introduces Adaptive Dark Mode in 27.3",
+          "imageUrl": "https://webkit.org/wp-content/uploads/Demo-of-Adaptive-Dark-Mode_light-1024x654.png"
         },
         {
           "id": "https://news.ycombinator.com/item?id=50355251",
@@ -2163,36 +2183,6 @@
           "publishedOn": "2026-10-06T18:54:01.000Z",
           "wordCount": 18677,
           "title": "Tell HN: GitHub refuses to remove cracked copies of my software after a month",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=49978116",
-          "author": "j-bu",
-          "description": "Article URL: https://mistral.ai/news/mistral-large-4/\nComments URL: https://news.ycombinator.com/item?id=49978116\nPoints: 515\n# Comments: 5",
-          "link": "https://mistral.ai/news/mistral-large-4/",
-          "publishedOn": "2026-10-06T13:25:50.000Z",
-          "wordCount": 2945,
-          "title": "Mistral Large 4: \"Le Chonk\"",
-          "imageUrl": "https://mistral.ai/cms-media/api/media/file/cover-mistral-sovereign%20copie.webp"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=49977979",
-          "author": "Philpax",
-          "description": "https://docs.mistral.ai/models/mistral-large-4-0\nComments URL: https://news.ycombinator.com/item?id=49977979\nPoints: 1123\n# Comments: 720",
-          "link": "https://mistral.ai/news/mistral-large-4//",
-          "publishedOn": "2026-10-06T13:15:49.000Z",
-          "wordCount": 2945,
-          "title": "Mistral Large 4",
-          "imageUrl": "https://mistral.ai/cms-media/api/media/file/cover-mistral-sovereign%20copie.webp"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=49977072",
-          "author": "thw_9a83c",
-          "description": "Article URL: https://www.helgilibrary.com/companies/jetbrains\nComments URL: https://news.ycombinator.com/item?id=49977072\nPoints: 545\n# Comments: 488",
-          "link": "https://www.helgilibrary.com/companies/jetbrains",
-          "publishedOn": "2026-10-06T11:45:55.000Z",
-          "wordCount": null,
-          "title": "JetBrains reported a net financial loss first time in its tracked history",
           "imageUrl": null
         }
       ]
