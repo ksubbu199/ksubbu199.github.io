@@ -6,6 +6,46 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=50391456",
+          "author": "PLenz",
+          "description": "Article URL: https://www.nbcnews.com/tech/tech-news/tesla-wind-cybertruck-production-years-poor-sales-markets-rcna607817\nComments URL: https://news.ycombinator.com/item?id=50391456\nPoints: 661\n# Comments: 1439",
+          "link": "https://www.nbcnews.com/tech/tech-news/tesla-wind-cybertruck-production-years-poor-sales-markets-rcna607817",
+          "publishedOn": "2026-11-06T12:13:51.000Z",
+          "wordCount": 8749,
+          "title": "Tesla to wind down Cybertruck production",
+          "imageUrl": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-02/250213-Cybertruck-aa-1045-dd55f3.jpg"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=50390124",
+          "author": "microtonal",
+          "description": "Article URL: https://github.com/PrivSec-dev/banking-apps-compat-report/issues/105\nComments URL: https://news.ycombinator.com/item?id=50390124\nPoints: 599\n# Comments: 390",
+          "link": "https://github.com/PrivSec-dev/banking-apps-compat-report/issues/105",
+          "publishedOn": "2026-11-06T09:27:12.000Z",
+          "wordCount": 7047,
+          "title": "Dutch 'idealist' bank ASN blocks non-Google Android, including GrapheneOS",
+          "imageUrl": "https://opengraph.githubassets.com/bde954f69e7d5b7f813e071ee8162134dfe901df1856b27e43c6803d1e9300da/PrivSec-dev/banking-apps-compat-report/issues/105"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=50389333",
+          "author": "ppmpreetham",
+          "description": "Article URL: https://github.com/ppmpreetham/BUI\nComments URL: https://news.ycombinator.com/item?id=50389333\nPoints: 636\n# Comments: 260",
+          "link": "https://github.com/ppmpreetham/BUI",
+          "publishedOn": "2026-11-06T07:40:35.000Z",
+          "wordCount": 37384,
+          "title": "Blender's UI and Runtime: Much Faster Than GPUI",
+          "imageUrl": "https://opengraph.githubassets.com/888cc558c87f28b4a958dc0ef991ef6e02becf29107bc6e535467101391aef79/ppmpreetham/BUI"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=50389222",
+          "author": "1659447091",
+          "description": "Article URL: https://www.reuters.com/business/world-at-work/britain-make-salary-disclosure-job-ads-mandatory-2026-11-05/\nComments URL: https://news.ycombinator.com/item?id=50389222\nPoints: 537\n# Comments: 416",
+          "link": "https://www.reuters.com/business/world-at-work/britain-make-salary-disclosure-job-ads-mandatory-2026-11-05/",
+          "publishedOn": "2026-11-06T07:22:04.000Z",
+          "wordCount": null,
+          "title": "Britain to make salary disclosure in job ads mandatory",
+          "imageUrl": null
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=50385272",
           "author": "motoroco",
           "description": "Article URL: https://github.com/anthropics/claude-code/issues/107757\nComments URL: https://news.ycombinator.com/item?id=50385272\nPoints: 936\n# Comments: 309",
@@ -2183,16 +2223,6 @@
           "publishedOn": "2026-10-08T09:48:18.000Z",
           "wordCount": 2318,
           "title": "Yes, and",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=50002008",
-          "author": "ent101",
-          "description": "Article URL: https://mathstodon.xyz/@tao/117395269325940185\nComments URL: https://news.ycombinator.com/item?id=50002008\nPoints: 542\n# Comments: 542",
-          "link": "https://mathstodon.xyz/@tao/117395269325940185",
-          "publishedOn": "2026-10-08T05:14:14.000Z",
-          "wordCount": 369,
-          "title": "“Math 2.0” will need to value mathematical progress more holistically",
           "imageUrl": null
         }
       ]
