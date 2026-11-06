@@ -6,6 +6,46 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=50385272",
+          "author": "motoroco",
+          "description": "Article URL: https://github.com/anthropics/claude-code/issues/107757\nComments URL: https://news.ycombinator.com/item?id=50385272\nPoints: 936\n# Comments: 309",
+          "link": "https://github.com/anthropics/claude-code/issues/107757",
+          "publishedOn": "2026-11-05T22:17:15.000Z",
+          "wordCount": 6706,
+          "title": "Claude Code sends your email address to websites",
+          "imageUrl": "https://opengraph.githubassets.com/63caeb8c270a61ee879805b399df8fd89e57303185112d9096eb88c0f2d7352b/anthropics/claude-code/issues/107757"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=50383740",
+          "author": "elashri",
+          "description": "Article URL: https://kagi.com/changelog#11820\nComments URL: https://news.ycombinator.com/item?id=50383740\nPoints: 648\n# Comments: 329",
+          "link": "https://kagi.com/changelog#11820",
+          "publishedOn": "2026-11-05T20:03:34.000Z",
+          "wordCount": 26257,
+          "title": "Search for everyone",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=50383739",
+          "author": "mkeeter",
+          "description": "Article URL: https://www.salon.com/2026/11/05/goodbye-from-salon/\nComments URL: https://news.ycombinator.com/item?id=50383739\nPoints: 556\n# Comments: 211",
+          "link": "https://www.salon.com/2026/11/05/goodbye-from-salon/",
+          "publishedOn": "2026-11-05T20:03:29.000Z",
+          "wordCount": 1034,
+          "title": "Goodbye from Salon",
+          "imageUrl": "https://www.salon.com/app/uploads/2026/11/Salon-Logos-Background-2.jpg"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=50379704",
+          "author": "pantalaimon",
+          "description": "Article URL: https://alpinelinux.org/posts/2026-11-05-openssh-password-authentication-bypass/\nComments URL: https://news.ycombinator.com/item?id=50379704\nPoints: 620\n# Comments: 2",
+          "link": "https://alpinelinux.org/posts/2026-11-05-openssh-password-authentication-bypass/",
+          "publishedOn": "2026-11-05T14:44:20.000Z",
+          "wordCount": 1106,
+          "title": "Alpine Linux Security Advisory: OpenSSH-server password authentication bypass",
+          "imageUrl": null
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=50378228",
           "author": "josemrb",
           "description": "Article URL: https://sshhole.com\nComments URL: https://news.ycombinator.com/item?id=50378228\nPoints: 1721\n# Comments: 463",
@@ -44,6 +84,16 @@
           "wordCount": 2764,
           "title": "Kimi K3.1 Pro model weights are out",
           "imageUrl": "https://cdn-thumbnails.huggingface.co/social-thumbnails/models/moonshotai/Kimi-K3.1-Pro.png"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=50366117",
+          "author": "eggbrain",
+          "description": "I'm curious how people on HN are using AI day to day, and came up with a list of questions I thought could be interesting to know. No need to answer every question of course, just wanted to get a gut feel how people are using AI.\n1) What AI subscriptions are you personally paying for? (Claude, ChatGPT/Codex, Cursor, etc)\n- Which tiers?\n- Have you purchased multiple subscriptions from the same provider (eg two Claude accounts)?\n2) Are you using models outside (or instead) of those subscriptions? For example, pay-as-you-go APIs, OpenRouter, or locally hosted models.\n- Which models and providers?\n3) What coding harnesses and interfaces are you using? Are you sticking with the default CLIs or IDE integrations, or using alternatives like OpenCode, Pi, Aider, Muse Code, or custom-built harnesses?\n- What made you switch harnesses (if you switched)?\n4) Are you using any agent orchestration or swarm tools?\n- For example, Munder Difflin, Gas Town, Ruflo, or something custom.\n5) Are you using broader agent platforms like OpenClaw / Hermes Agent / Grok bot / Dots / Muse?\n- If you are using them, what are your main use cases?\n-----\nI know my workflow has differed significantly from a year ago, and so it would be interesting to capture a snapshot today of what people are using and why.\nComments URL: https://news.ycombinator.com/item?id=50366117\nPoints: 520\n# Comments: 641",
+          "link": "https://news.ycombinator.com/item?id=50366117",
+          "publishedOn": "2026-11-04T14:37:22.000Z",
+          "wordCount": 60087,
+          "title": "Ask HN: What's your current AI agentic setup?",
+          "imageUrl": null
         },
         {
           "id": "https://news.ycombinator.com/item?id=50365755",
@@ -123,6 +173,16 @@
           "publishedOn": "2026-11-03T16:47:29.000Z",
           "wordCount": 5651,
           "title": "Stringman, an $800 open-source room scale gripper robot",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=50353229",
+          "author": "rbanffy",
+          "description": "Article URL: https://arstechnica.com/tech-policy/2026/10/trump-admin-sues-utah-to-save-kalshi-from-the-states-total-ban-on-gambling/\nComments URL: https://news.ycombinator.com/item?id=50353229\nPoints: 501\n# Comments: 493",
+          "link": "https://arstechnica.com/tech-policy/2026/10/trump-admin-sues-utah-to-save-kalshi-from-the-states-total-ban-on-gambling/",
+          "publishedOn": "2026-11-03T15:29:15.000Z",
+          "wordCount": null,
+          "title": "Kalshi and its co-founders face felony charges for violating Utah gambling laws",
           "imageUrl": null
         },
         {
@@ -2124,66 +2184,6 @@
           "wordCount": 2690,
           "title": "Margaret Hamilton has died",
           "imageUrl": "https://news.mit.edu/sites/default/files/images/202610/margaret-hamilton-portrait-toan-trinh-mit-technology-review-A1_1.png"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=49996437",
-          "author": "sfkgtbor",
-          "description": "Article URL: https://www.anthropic.com/claude-haiku-5-5\nComments URL: https://news.ycombinator.com/item?id=49996437\nPoints: 572\n# Comments: 275",
-          "link": "https://www.anthropic.com/claude-haiku-5-5",
-          "publishedOn": "2026-10-07T18:01:32.000Z",
-          "wordCount": 3508,
-          "title": "Claude Haiku 5.5",
-          "imageUrl": "https://www-cdn.anthropic.com/images/4zrzovbb/website/89e9b0fbfe0181f6ca565d913686ce8e49b5e9c2-1200x630.jpg"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=49996425",
-          "author": "joshuawright11",
-          "description": "Article URL: https://openai.com/index/gpt-6-for-everyone/\nComments URL: https://news.ycombinator.com/item?id=49996425\nPoints: 510\n# Comments: 268",
-          "link": "https://openai.com/index/gpt-6-for-everyone/",
-          "publishedOn": "2026-10-07T18:00:58.000Z",
-          "wordCount": null,
-          "title": "GPT‑6 and Intelligent UI for everyone",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=49995495",
-          "author": "ck2",
-          "description": "https://x.com/NomadsGalaxy/status/2107284088247689290\nComments URL: https://news.ycombinator.com/item?id=49995495\nPoints: 699\n# Comments: 424",
-          "link": "https://www.dexerto.com/entertainment/man-discovers-his-parents-coffee-machine-used-1tb-of-data-in-10-days-3416399/",
-          "publishedOn": "2026-10-07T16:56:30.000Z",
-          "wordCount": 3452,
-          "title": "Man discovers his parents' coffee machine used 1TB of data in 10 days",
-          "imageUrl": "https://www.dexerto.com/cdn-image/wp-content/uploads/2026/10/07/coffee-maker-stock-photo.jpg"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=49994443",
-          "author": "SpeakingOfBrad",
-          "description": "Article URL: https://bigwords.page/\nComments URL: https://news.ycombinator.com/item?id=49994443\nPoints: 507\n# Comments: 142",
-          "link": "https://bigwords.page/",
-          "publishedOn": "2026-10-07T15:44:21.000Z",
-          "wordCount": 313,
-          "title": "Show HN: Bigwords.page – Turn any screen into a sign. The URL is the app",
-          "imageUrl": "https://bigwords.page/og.png"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=49993914",
-          "author": "DeepLogin",
-          "description": "Article URL: https://www.classaction.org/news/visa-mastercard-major-banks-facing-new-litigation-over-anticompetitive-merchant-credit-card-transaction-fees\nComments URL: https://news.ycombinator.com/item?id=49993914\nPoints: 546\n# Comments: 392",
-          "link": "https://www.classaction.org/news/visa-mastercard-major-banks-facing-new-litigation-over-anticompetitive-merchant-credit-card-transaction-fees",
-          "publishedOn": "2026-10-07T15:09:59.000Z",
-          "wordCount": 1649,
-          "title": "Visa, Mastercard, major banks facing new litigation over 'anticompetitive' fees",
-          "imageUrl": "https://www.classaction.org/media/twitter-newswire-default.png"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=49991227",
-          "author": "AshleysBrain",
-          "description": "Article URL: https://developer.chrome.com/blog/jpeg-xl-in-chrome\nComments URL: https://news.ycombinator.com/item?id=49991227\nPoints: 549\n# Comments: 366",
-          "link": "https://developer.chrome.com/blog/jpeg-xl-in-chrome",
-          "publishedOn": "2026-10-07T11:25:02.000Z",
-          "wordCount": 1320,
-          "title": "Shipping JPEG XL in Chrome",
-          "imageUrl": "https://developer.chrome.com/static/blog/jpeg-xl-in-chrome/images/cover.png"
         }
       ]
     },

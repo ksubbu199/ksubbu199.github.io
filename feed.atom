@@ -2,10 +2,62 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-11-06T00:47:18.898Z</updated>
+    <updated>2026-11-06T07:41:07.053Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Claude Code sends your email address to websites]]></title>
+        <id>https://news.ycombinator.com/item?id=50385272</id>
+        <link href="https://github.com/anthropics/claude-code/issues/107757"/>
+        <updated>2026-11-05T22:17:15.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://github.com/anthropics/claude-code/issues/107757
+Comments URL: https://news.ycombinator.com/item?id=50385272
+Points: 936
+# Comments: 309]]></summary>
+        <author>
+            <name>motoroco</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Search for everyone]]></title>
+        <id>https://news.ycombinator.com/item?id=50383740</id>
+        <link href="https://kagi.com/changelog#11820"/>
+        <updated>2026-11-05T20:03:34.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://kagi.com/changelog#11820
+Comments URL: https://news.ycombinator.com/item?id=50383740
+Points: 648
+# Comments: 329]]></summary>
+        <author>
+            <name>elashri</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Goodbye from Salon]]></title>
+        <id>https://news.ycombinator.com/item?id=50383739</id>
+        <link href="https://www.salon.com/2026/11/05/goodbye-from-salon/"/>
+        <updated>2026-11-05T20:03:29.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.salon.com/2026/11/05/goodbye-from-salon/
+Comments URL: https://news.ycombinator.com/item?id=50383739
+Points: 556
+# Comments: 211]]></summary>
+        <author>
+            <name>mkeeter</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Alpine Linux Security Advisory: OpenSSH-server password authentication bypass]]></title>
+        <id>https://news.ycombinator.com/item?id=50379704</id>
+        <link href="https://alpinelinux.org/posts/2026-11-05-openssh-password-authentication-bypass/"/>
+        <updated>2026-11-05T14:44:20.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://alpinelinux.org/posts/2026-11-05-openssh-password-authentication-bypass/
+Comments URL: https://news.ycombinator.com/item?id=50379704
+Points: 620
+# Comments: 2]]></summary>
+        <author>
+            <name>pantalaimon</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Data Product Platform Navigator]]></title>
         <id>https://martinfowler.com/articles/data-product-platform-nav.html</id>
@@ -92,6 +144,32 @@ Points: 549
 # Comments: 153]]></summary>
         <author>
             <name>abrarthought</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ask HN: What's your current AI agentic setup?]]></title>
+        <id>https://news.ycombinator.com/item?id=50366117</id>
+        <link href="https://news.ycombinator.com/item?id=50366117"/>
+        <updated>2026-11-04T14:37:22.000Z</updated>
+        <summary type="html"><![CDATA[I'm curious how people on HN are using AI day to day, and came up with a list of questions I thought could be interesting to know. No need to answer every question of course, just wanted to get a gut feel how people are using AI.
+1) What AI subscriptions are you personally paying for? (Claude, ChatGPT/Codex, Cursor, etc)
+- Which tiers?
+- Have you purchased multiple subscriptions from the same provider (eg two Claude accounts)?
+2) Are you using models outside (or instead) of those subscriptions? For example, pay-as-you-go APIs, OpenRouter, or locally hosted models.
+- Which models and providers?
+3) What coding harnesses and interfaces are you using? Are you sticking with the default CLIs or IDE integrations, or using alternatives like OpenCode, Pi, Aider, Muse Code, or custom-built harnesses?
+- What made you switch harnesses (if you switched)?
+4) Are you using any agent orchestration or swarm tools?
+- For example, Munder Difflin, Gas Town, Ruflo, or something custom.
+5) Are you using broader agent platforms like OpenClaw / Hermes Agent / Grok bot / Dots / Muse?
+- If you are using them, what are your main use cases?
+-----
+I know my workflow has differed significantly from a year ago, and so it would be interesting to capture a snapshot today of what people are using and why.
+Comments URL: https://news.ycombinator.com/item?id=50366117
+Points: 520
+# Comments: 641]]></summary>
+        <author>
+            <name>eggbrain</name>
         </author>
     </entry>
     <entry>
@@ -207,6 +285,19 @@ Points: 557
 # Comments: 192]]></summary>
         <author>
             <name>nharada</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kalshi and its co-founders face felony charges for violating Utah gambling laws]]></title>
+        <id>https://news.ycombinator.com/item?id=50353229</id>
+        <link href="https://arstechnica.com/tech-policy/2026/10/trump-admin-sues-utah-to-save-kalshi-from-the-states-total-ban-on-gambling/"/>
+        <updated>2026-11-03T15:29:15.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://arstechnica.com/tech-policy/2026/10/trump-admin-sues-utah-to-save-kalshi-from-the-states-total-ban-on-gambling/
+Comments URL: https://news.ycombinator.com/item?id=50353229
+Points: 501
+# Comments: 493]]></summary>
+        <author>
+            <name>rbanffy</name>
         </author>
     </entry>
     <entry>
@@ -3201,84 +3292,6 @@ Points: 781
 # Comments: 91]]></summary>
         <author>
             <name>muglug</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Claude Haiku 5.5]]></title>
-        <id>https://news.ycombinator.com/item?id=49996437</id>
-        <link href="https://www.anthropic.com/claude-haiku-5-5"/>
-        <updated>2026-10-07T18:01:32.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.anthropic.com/claude-haiku-5-5
-Comments URL: https://news.ycombinator.com/item?id=49996437
-Points: 572
-# Comments: 275]]></summary>
-        <author>
-            <name>sfkgtbor</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GPT‑6 and Intelligent UI for everyone]]></title>
-        <id>https://news.ycombinator.com/item?id=49996425</id>
-        <link href="https://openai.com/index/gpt-6-for-everyone/"/>
-        <updated>2026-10-07T18:00:58.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://openai.com/index/gpt-6-for-everyone/
-Comments URL: https://news.ycombinator.com/item?id=49996425
-Points: 510
-# Comments: 268]]></summary>
-        <author>
-            <name>joshuawright11</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Man discovers his parents' coffee machine used 1TB of data in 10 days]]></title>
-        <id>https://news.ycombinator.com/item?id=49995495</id>
-        <link href="https://www.dexerto.com/entertainment/man-discovers-his-parents-coffee-machine-used-1tb-of-data-in-10-days-3416399/"/>
-        <updated>2026-10-07T16:56:30.000Z</updated>
-        <summary type="html"><![CDATA[https://x.com/NomadsGalaxy/status/2107284088247689290
-Comments URL: https://news.ycombinator.com/item?id=49995495
-Points: 699
-# Comments: 424]]></summary>
-        <author>
-            <name>ck2</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: Bigwords.page – Turn any screen into a sign. The URL is the app]]></title>
-        <id>https://news.ycombinator.com/item?id=49994443</id>
-        <link href="https://bigwords.page/"/>
-        <updated>2026-10-07T15:44:21.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://bigwords.page/
-Comments URL: https://news.ycombinator.com/item?id=49994443
-Points: 507
-# Comments: 142]]></summary>
-        <author>
-            <name>SpeakingOfBrad</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Visa, Mastercard, major banks facing new litigation over 'anticompetitive' fees]]></title>
-        <id>https://news.ycombinator.com/item?id=49993914</id>
-        <link href="https://www.classaction.org/news/visa-mastercard-major-banks-facing-new-litigation-over-anticompetitive-merchant-credit-card-transaction-fees"/>
-        <updated>2026-10-07T15:09:59.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.classaction.org/news/visa-mastercard-major-banks-facing-new-litigation-over-anticompetitive-merchant-credit-card-transaction-fees
-Comments URL: https://news.ycombinator.com/item?id=49993914
-Points: 546
-# Comments: 392]]></summary>
-        <author>
-            <name>DeepLogin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Shipping JPEG XL in Chrome]]></title>
-        <id>https://news.ycombinator.com/item?id=49991227</id>
-        <link href="https://developer.chrome.com/blog/jpeg-xl-in-chrome"/>
-        <updated>2026-10-07T11:25:02.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://developer.chrome.com/blog/jpeg-xl-in-chrome
-Comments URL: https://news.ycombinator.com/item?id=49991227
-Points: 549
-# Comments: 366]]></summary>
-        <author>
-            <name>AshleysBrain</name>
         </author>
     </entry>
     <entry>
