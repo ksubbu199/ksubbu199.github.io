@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-11-07T01:38:17.342Z</updated>
+    <updated>2026-11-07T08:23:15.177Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Libghostty 1.0]]></title>
+        <id>https://news.ycombinator.com/item?id=50399933</id>
+        <link href="https://mitchellh.com/writing/libghostty-1-0"/>
+        <updated>2026-11-06T23:30:52.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://mitchellh.com/writing/libghostty-1-0
+Comments URL: https://news.ycombinator.com/item?id=50399933
+Points: 540
+# Comments: 91]]></summary>
+        <author>
+            <name>mfiguiere</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Tesla to wind down Cybertruck production]]></title>
         <id>https://news.ycombinator.com/item?id=50391456</id>
@@ -76,6 +89,19 @@ Points: 537
 # Comments: 416]]></summary>
         <author>
             <name>1659447091</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cuban: Facebook knowingly runs AI deepfake scam ads; docs say $16B fraud revenue]]></title>
+        <id>https://news.ycombinator.com/item?id=50385870</id>
+        <link href="https://finance.yahoo.com/technology/ai/articles/mark-cuban-says-facebook-knowingly-213000020.html"/>
+        <updated>2026-11-05T23:09:57.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://finance.yahoo.com/technology/ai/articles/mark-cuban-says-facebook-knowingly-213000020.html
+Comments URL: https://news.ycombinator.com/item?id=50385870
+Points: 506
+# Comments: 224]]></summary>
+        <author>
+            <name>randycupertino</name>
         </author>
     </entry>
     <entry>
@@ -3282,75 +3308,6 @@ Points: 682
 # Comments: 216]]></summary>
         <author>
             <name>splintersio</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Theranos.world]]></title>
-        <id>https://news.ycombinator.com/item?id=50009295</id>
-        <link href="https://www.theranos.world/"/>
-        <updated>2026-10-08T17:51:49.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.theranos.world/
-Comments URL: https://news.ycombinator.com/item?id=50009295
-Points: 517
-# Comments: 188]]></summary>
-        <author>
-            <name>kbyatnal</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Whistle: Speech to Text in 16.9 MB]]></title>
-        <id>https://news.ycombinator.com/item?id=50008427</id>
-        <link href="https://cactuscompute.com/blog/whistle"/>
-        <updated>2026-10-08T16:59:39.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://cactuscompute.com/blog/whistle
-Comments URL: https://news.ycombinator.com/item?id=50008427
-Points: 575
-# Comments: 128]]></summary>
-        <author>
-            <name>gmays</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Pulse: Firebase’s global outage & poor response]]></title>
-        <id>6ac768715c3b8b00012d84b0</id>
-        <link href="https://blog.pragmaticengineer.com/the-pulse-firebases-global-outage-poor-response/"/>
-        <updated>2026-10-08T16:56:37.000Z</updated>
-        <summary type="html"><![CDATA[The Firebase iOS SDK crashed after a backend change, crashing all apps which used Firebase analytics for 2-6 hours. Google didn’t update the status page, but did offer a postmortem 4 days later.]]></summary>
-        <author>
-            <name>Ivan Klaric</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Trump administration is suspending Microsoft from a green card program]]></title>
-        <id>https://news.ycombinator.com/item?id=50006832</id>
-        <link href="https://apnews.com/article/h1b-visa-program-vance-microsoft-e7b3a407f822702b269ee277d21343ea"/>
-        <updated>2026-10-08T15:15:00.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://apnews.com/article/h1b-visa-program-vance-microsoft-e7b3a407f822702b269ee277d21343ea
-Comments URL: https://news.ycombinator.com/item?id=50006832
-Points: 776
-# Comments: 1351]]></summary>
-        <author>
-            <name>alephnerd</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tell HN: I've been paying for a rural Tanzanian's education for 10 years]]></title>
-        <id>https://news.ycombinator.com/item?id=50006366</id>
-        <link href="https://news.ycombinator.com/item?id=50006366"/>
-        <updated>2026-10-08T14:39:47.000Z</updated>
-        <summary type="html"><![CDATA[Ten years ago I was 19 and traveling through East Africa, and I spent a summer in Ibumila, a village in the Njombe highlands of Tanzania. There's no school in the village. The nearest one is a boarding school an hour away that costs a few hundred dollars a year, which is out of reach for most families there and was about two weeks of summer job money for me. The daughter of the family I stayed with, Anwarite, was 11. I offered to pay her fees and told myself I'd keep paying as long as she wanted to keep going.
-This summer she graduated from the University of Dar es Salaam with a degree in Language Studies, and last week she told me she'd been accepted into a Master of Arts in Swahili program there. Roughly 2% of people from Njombe ever finish a university degree. Her goal is to get a PhD a…]]></summary>
-        <author>
-            <name>lukehandcool</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A strange shift in IT | Why the industry is changing faster than anyone expected?]]></title>
-        <id>https://www.youtube.com/watch?v=g01HPntRJpY</id>
-        <link href="https://www.youtube.com/watch?v=g01HPntRJpY"/>
-        <updated>2026-10-08T14:02:50.000Z</updated>
-        <author>
-            <name>Think School</name>
         </author>
     </entry>
     <entry>
