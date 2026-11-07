@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-11-07T08:23:15.177Z</updated>
+    <updated>2026-11-07T15:26:48.856Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -17,6 +17,19 @@ Points: 540
 # Comments: 91]]></summary>
         <author>
             <name>mfiguiere</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost]]></title>
+        <id>https://news.ycombinator.com/item?id=50397429</id>
+        <link href="https://hightouch.com/blog/llm-judges-identity-resolution"/>
+        <updated>2026-11-06T19:48:51.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://hightouch.com/blog/llm-judges-identity-resolution
+Comments URL: https://news.ycombinator.com/item?id=50397429
+Points: 530
+# Comments: 126]]></summary>
+        <author>
+            <name>theanomaly</name>
         </author>
     </entry>
     <entry>
