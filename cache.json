@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=50403097",
+          "author": "infwhispers",
+          "description": "Article URL: https://8rank.ai/game/apple-intelligence-personal-knowledge-graph\nComments URL: https://news.ycombinator.com/item?id=50403097\nPoints: 557\n# Comments: 327",
+          "link": "https://8rank.ai/game/apple-intelligence-personal-knowledge-graph",
+          "publishedOn": "2026-11-07T09:46:03.000Z",
+          "wordCount": 20129,
+          "title": "Every Mac comes with an (undocumented) family member classifier",
+          "imageUrl": "https://8rank.ai/og-apple-intelligence-personal-knowledge-graph.png"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=50403052",
           "author": "fluxusars",
           "description": "Article URL: https://nfsu2.xyz/\nComments URL: https://news.ycombinator.com/item?id=50403052\nPoints: 619\n# Comments: 180",
@@ -2204,16 +2214,6 @@
           "wordCount": 837,
           "title": "Deno Is Joining Cloudflare",
           "imageUrl": "https://deno.com/blog/cloudflare/deno-cf-balanced-og.webp"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=50018088",
-          "author": "splintersio",
-          "description": "Article URL: https://iminafleeting.com/\nComments URL: https://news.ycombinator.com/item?id=50018088\nPoints: 682\n# Comments: 216",
-          "link": "https://iminafleeting.com/",
-          "publishedOn": "2026-10-09T09:21:48.000Z",
-          "wordCount": null,
-          "title": "Sorry, I'm in a meeting",
-          "imageUrl": null
         }
       ]
     },
