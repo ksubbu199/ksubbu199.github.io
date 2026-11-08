@@ -2,10 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-11-08T11:42:46.993Z</updated>
+    <updated>2026-11-08T17:39:31.057Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Goodbye Claude, hello Pi]]></title>
+        <id>https://news.ycombinator.com/item?id=50410107</id>
+        <link href="https://caleb.software/posts/claude-to-pi.html"/>
+        <updated>2026-11-08T03:11:48.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://caleb.software/posts/claude-to-pi.html
+Comments URL: https://news.ycombinator.com/item?id=50410107
+Points: 557
+# Comments: 350]]></summary>
+        <author>
+            <name>karagenit</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Claude Code's "Don't Ask Again" exposes passwords in 1,122 public GitHub files]]></title>
+        <id>https://news.ycombinator.com/item?id=50407882</id>
+        <link href="https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again"/>
+        <updated>2026-11-07T20:45:32.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again
+Comments URL: https://news.ycombinator.com/item?id=50407882
+Points: 504
+# Comments: 367]]></summary>
+        <author>
+            <name>shmulc</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What I run on my $10 USD OpenStick homelab]]></title>
         <id>https://news.ycombinator.com/item?id=50406670</id>
@@ -17,6 +43,19 @@ Points: 608
 # Comments: 114]]></summary>
         <author>
             <name>LaurensBER</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple’s grey list: Words and phrases your iPhone won’t help you spell]]></title>
+        <id>https://news.ycombinator.com/item?id=50406111</id>
+        <link href="https://www.theguardian.com/technology/2026/nov/06/struggling-to-spell-male-chauvinist-pig-apple-grey-list-means-your-iphone-wont-help-you"/>
+        <updated>2026-11-07T17:06:36.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.theguardian.com/technology/2026/nov/06/struggling-to-spell-male-chauvinist-pig-apple-grey-list-means-your-iphone-wont-help-you
+Comments URL: https://news.ycombinator.com/item?id=50406111
+Points: 509
+# Comments: 322]]></summary>
+        <author>
+            <name>user_7832</name>
         </author>
     </entry>
     <entry>
@@ -3247,32 +3286,6 @@ Points: 506
 # Comments: 281]]></summary>
         <author>
             <name>LucidLynx</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Lightbulb Computer]]></title>
-        <id>https://news.ycombinator.com/item?id=50029487</id>
-        <link href="https://lightbulbcomputer.com/"/>
-        <updated>2026-10-10T04:12:26.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://lightbulbcomputer.com/
-Comments URL: https://news.ycombinator.com/item?id=50029487
-Points: 541
-# Comments: 88]]></summary>
-        <author>
-            <name>oskarth</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[REA Reverse – Engineer Anything]]></title>
-        <id>https://news.ycombinator.com/item?id=50028275</id>
-        <link href="https://rea.tools/"/>
-        <updated>2026-10-10T00:37:07.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://rea.tools/
-Comments URL: https://news.ycombinator.com/item?id=50028275
-Points: 554
-# Comments: 243]]></summary>
-        <author>
-            <name>modinfo</name>
         </author>
     </entry>
     <entry>

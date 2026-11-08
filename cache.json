@@ -6,6 +6,26 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=50410107",
+          "author": "karagenit",
+          "description": "Article URL: https://caleb.software/posts/claude-to-pi.html\nComments URL: https://news.ycombinator.com/item?id=50410107\nPoints: 557\n# Comments: 350",
+          "link": "https://caleb.software/posts/claude-to-pi.html",
+          "publishedOn": "2026-11-08T03:11:48.000Z",
+          "wordCount": 1107,
+          "title": "Goodbye Claude, hello Pi",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=50407882",
+          "author": "shmulc",
+          "description": "Article URL: https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again\nComments URL: https://news.ycombinator.com/item?id=50407882\nPoints: 504\n# Comments: 367",
+          "link": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
+          "publishedOn": "2026-11-07T20:45:32.000Z",
+          "wordCount": null,
+          "title": "Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
+          "imageUrl": null
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=50406670",
           "author": "LaurensBER",
           "description": "Article URL: https://blog.bosscher.ch/posts/openstick/\nComments URL: https://news.ycombinator.com/item?id=50406670\nPoints: 608\n# Comments: 114",
@@ -14,6 +34,16 @@
           "wordCount": 4072,
           "title": "What I run on my $10 USD OpenStick homelab",
           "imageUrl": "https://blog.bosscher.ch/posts/openstick/index.png"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=50406111",
+          "author": "user_7832",
+          "description": "Article URL: https://www.theguardian.com/technology/2026/nov/06/struggling-to-spell-male-chauvinist-pig-apple-grey-list-means-your-iphone-wont-help-you\nComments URL: https://news.ycombinator.com/item?id=50406111\nPoints: 509\n# Comments: 322",
+          "link": "https://www.theguardian.com/technology/2026/nov/06/struggling-to-spell-male-chauvinist-pig-apple-grey-list-means-your-iphone-wont-help-you",
+          "publishedOn": "2026-11-07T17:06:36.000Z",
+          "wordCount": 4555,
+          "title": "Apple’s grey list: Words and phrases your iPhone won’t help you spell",
+          "imageUrl": "https://i.guim.co.uk/img/media/28e97d03d0abcd9f1e2eb53b873f17079a1a7f82/998_270_3911_3129/master/3911.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ae2dd9194072b73ebb69c7269d955ba3"
         },
         {
           "id": "https://news.ycombinator.com/item?id=50403097",
@@ -2154,26 +2184,6 @@
           "wordCount": 371,
           "title": "Lobbying is corruption",
           "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=50029487",
-          "author": "oskarth",
-          "description": "Article URL: https://lightbulbcomputer.com/\nComments URL: https://news.ycombinator.com/item?id=50029487\nPoints: 541\n# Comments: 88",
-          "link": "https://lightbulbcomputer.com/",
-          "publishedOn": "2026-10-10T04:12:26.000Z",
-          "wordCount": 1897,
-          "title": "The Lightbulb Computer",
-          "imageUrl": "https://lightbulbcomputer.com/social-preview.jpg"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=50028275",
-          "author": "modinfo",
-          "description": "Article URL: https://rea.tools/\nComments URL: https://news.ycombinator.com/item?id=50028275\nPoints: 554\n# Comments: 243",
-          "link": "https://rea.tools/",
-          "publishedOn": "2026-10-10T00:37:07.000Z",
-          "wordCount": 1597,
-          "title": "REA Reverse – Engineer Anything",
-          "imageUrl": "https://rea.tools/assets/social-card.png"
         }
       ]
     },
