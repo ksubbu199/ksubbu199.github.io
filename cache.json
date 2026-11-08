@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=50406670",
+          "author": "LaurensBER",
+          "description": "Article URL: https://blog.bosscher.ch/posts/openstick/\nComments URL: https://news.ycombinator.com/item?id=50406670\nPoints: 608\n# Comments: 114",
+          "link": "https://blog.bosscher.ch/posts/openstick/",
+          "publishedOn": "2026-11-07T18:12:12.000Z",
+          "wordCount": 4072,
+          "title": "What I run on my $10 USD OpenStick homelab",
+          "imageUrl": "https://blog.bosscher.ch/posts/openstick/index.png"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=50403097",
           "author": "infwhispers",
           "description": "Article URL: https://8rank.ai/game/apple-intelligence-personal-knowledge-graph\nComments URL: https://news.ycombinator.com/item?id=50403097\nPoints: 557\n# Comments: 327",
@@ -2164,16 +2174,6 @@
           "wordCount": 1597,
           "title": "REA Reverse – Engineer Anything",
           "imageUrl": "https://rea.tools/assets/social-card.png"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=50026555",
-          "author": "gumby",
-          "description": "Article URL: https://gizmodo.com/youtuber-says-cops-paid-him-a-visit-after-he-built-flock-style-camera-to-track-cops-2000824306\nComments URL: https://news.ycombinator.com/item?id=50026555\nPoints: 570\n# Comments: 308",
-          "link": "https://gizmodo.com/youtuber-says-cops-paid-him-a-visit-after-he-built-flock-style-camera-to-track-cops-2000824306",
-          "publishedOn": "2026-10-09T21:06:59.000Z",
-          "wordCount": null,
-          "title": "YouTuber Says Cops Visited Him After He Built a Flock-Style Camera to Track Cops",
-          "imageUrl": null
         }
       ]
     },
@@ -2569,16 +2569,6 @@
           "publishedOn": "2026-10-12T12:40:58.000Z",
           "wordCount": null,
           "title": "India's Biggest Economic Threat | Why Jaishankar Is Warning Every Indian About the 4F Crisis?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=5PyTHJGkYWk",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=5PyTHJGkYWk",
-          "publishedOn": "2026-10-09T14:04:12.000Z",
-          "wordCount": null,
-          "title": "Strange Fall of Oracle | How a $300 Billion AI Deal Changed Everything?",
           "imageUrl": null
         }
       ]
