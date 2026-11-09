@@ -6,6 +6,56 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=50424581",
+          "author": "vismit2000",
+          "description": "Article URL: https://www.foldableflight.com\nComments URL: https://news.ycombinator.com/item?id=50424581\nPoints: 678\n# Comments: 120",
+          "link": "https://www.foldableflight.com/",
+          "publishedOn": "2026-11-09T12:19:22.000Z",
+          "wordCount": 23644,
+          "title": "Fold Epic Paper Airplanes",
+          "imageUrl": "https://static.wixstatic.com/media/0641fb_4ff6a49def494e379b4f3b585c4ac4a8%7Emv2_d_2482_1412_s_2.jpg/v1/fit/w_2500,h_1330,al_c/0641fb_4ff6a49def494e379b4f3b585c4ac4a8%7Emv2_d_2482_1412_s_2.jpg"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=50422069",
+          "author": "rzk",
+          "description": "Article URL: https://twitter.com/shanemelaugh/status/2119192075505893695\nComments URL: https://news.ycombinator.com/item?id=50422069\nPoints: 561\n# Comments: 395",
+          "link": "https://twitter.com/shanemelaugh/status/2119192075505893695",
+          "publishedOn": "2026-11-09T07:04:25.000Z",
+          "wordCount": 2353,
+          "title": "Is Opus 5.5 nerfed? Thinking patterns changed on November 3",
+          "imageUrl": "https://pbs.twimg.com/media/HWjhsqYWMAALhKb?format=webp&name=large"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=50419215",
+          "author": "infosecau",
+          "description": "See also: https://samcurry.net/forgerock\nComments URL: https://news.ycombinator.com/item?id=50419215\nPoints: 592\n# Comments: 319",
+          "link": "https://shubs.io/unlocking-any-car-from-x-brand-in-most-of-the-world/",
+          "publishedOn": "2026-11-09T00:10:50.000Z",
+          "wordCount": 2460,
+          "title": "Unlocking any car from X brand in most of the world",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=50418975",
+          "author": "matteoraso",
+          "description": "Article URL: https://matteoraso.github.io/im-not-convinced-the-ai-bubble-exists.html#im-not-convinced-the-ai-bubble-exists\nComments URL: https://news.ycombinator.com/item?id=50418975\nPoints: 533\n# Comments: 906",
+          "link": "https://matteoraso.github.io/im-not-convinced-the-ai-bubble-exists.html#im-not-convinced-the-ai-bubble-exists",
+          "publishedOn": "2026-11-08T23:44:36.000Z",
+          "wordCount": 2922,
+          "title": "I'm not convinced the AI bubble exists",
+          "imageUrl": "images/profile.jpg"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=50418176",
+          "author": "dcoulmbe",
+          "description": "Article URL: https://ketchup3d.github.io/app/\nComments URL: https://news.ycombinator.com/item?id=50418176\nPoints: 715\n# Comments: 218",
+          "link": "https://ketchup3d.github.io/app/",
+          "publishedOn": "2026-11-08T22:35:35.000Z",
+          "wordCount": 734,
+          "title": "KetchUp – Open-source SketchUp alternative built with Rust and WebGPU",
+          "imageUrl": "https://ketchup3d.github.io/app/assets/screenshots/ketchup.jpg?v=0.6.5-r2"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=50418016",
           "author": "karimf",
           "description": "https://www.axios.com/2026/11/08/nvidia-ceo-jensen-huang-aff..., https://archive.ph/Hxn5h\nhttps://www.nytimes.com/2026/11/06/us/politics/chinese-spy-a..., https://archive.ph/atMcp\nhttps://www.cnn.com/2026/11/08/business/nvidia-investigation...\nComments URL: https://news.ycombinator.com/item?id=50418016\nPoints: 635\n# Comments: 661",
@@ -14,6 +64,16 @@
           "wordCount": 1174,
           "title": "Nvidia CEO Jensen Huang's letter to staff about affair",
           "imageUrl": "https://iprsoftwaremedia.com/219/files/202512/692f56983d6332f89cbbc58b_nvidia-logo-horiz-wht-16x9/nvidia-logo-horiz-wht-16x9_44a60e3f-c4e5-4d8a-879f-ec5121ad6f4b-prv.png?v=44a60e3f-c4e5-4d8a-879f-ec5121ad6f4b"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=50416158",
+          "author": "xmddmx",
+          "description": "Article URL: https://mailroute.net/blog/outlook-rejecting-email-without-dmarc\nComments URL: https://news.ycombinator.com/item?id=50416158\nPoints: 524\n# Comments: 348",
+          "link": "https://mailroute.net/blog/outlook-rejecting-email-without-dmarc",
+          "publishedOn": "2026-11-08T19:20:32.000Z",
+          "wordCount": 3505,
+          "title": "Outlook.com is rejecting email from domains without DMARC",
+          "imageUrl": "https://mailroute.net/og-default.png"
         },
         {
           "id": "https://news.ycombinator.com/item?id=50415628",
@@ -2184,16 +2244,6 @@
           "wordCount": null,
           "title": "Bot traffic from Yandex",
           "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=50040547",
-          "author": "defly",
-          "description": "Article URL: https://status.yandex.cloud/en/incidents/2136\nComments URL: https://news.ycombinator.com/item?id=50040547\nPoints: 522\n# Comments: 629",
-          "link": "https://status.yandex.cloud/en/incidents/2136",
-          "publishedOn": "2026-10-11T07:34:45.000Z",
-          "wordCount": 139,
-          "title": "3rd Yandex Cloud Data Center Was Hit",
-          "imageUrl": "https://yastatic.net/s3/home-static/_/90/9034470dfcb0bea0db29a281007b8a38.png"
         }
       ]
     },
@@ -2624,18 +2674,7 @@
       "title": "Lea Verou’s blog",
       "feedUrl": "https://lea.verou.me/feed.xml",
       "siteUrl": "https://lea.verou.me/feed.xml",
-      "articles": [
-        {
-          "id": "https://lea.verou.me/blog/2026/icons/",
-          "author": null,
-          "description": "-->\nI’ve always had a soft spot for icons1.\nNot only do they add polish to a UI, they can also tangibly improve usability.\nFamiliar icons help users find what they need quickly, since we recognize pictures much faster than we read words.\nAnd as a web architect at heart, the current dominant ways we have to include icons on the Web make me sad.\nWhile there are many, many different ways to include icons in a Web UI, each with different performance characteristics, by far the most common ones involve adding inline SVG to the HTML.\nFor example, a trash icon might be included like this:\n<button>\n<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-…",
-          "link": "https://lea.verou.me/blog/2026/icons/",
-          "publishedOn": "2026-10-11T00:00:00.000Z",
-          "wordCount": 6012,
-          "title": "The best way to use icons in Web UIs",
-          "imageUrl": "https://lea.verou.me/blog/2026/icons/images/image.png"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Ben Hoyt's technical writing",

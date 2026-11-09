@@ -2,10 +2,75 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-11-09T09:12:08.599Z</updated>
+    <updated>2026-11-09T20:26:43.555Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Fold Epic Paper Airplanes]]></title>
+        <id>https://news.ycombinator.com/item?id=50424581</id>
+        <link href="https://www.foldableflight.com/"/>
+        <updated>2026-11-09T12:19:22.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.foldableflight.com
+Comments URL: https://news.ycombinator.com/item?id=50424581
+Points: 678
+# Comments: 120]]></summary>
+        <author>
+            <name>vismit2000</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Is Opus 5.5 nerfed? Thinking patterns changed on November 3]]></title>
+        <id>https://news.ycombinator.com/item?id=50422069</id>
+        <link href="https://twitter.com/shanemelaugh/status/2119192075505893695"/>
+        <updated>2026-11-09T07:04:25.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://twitter.com/shanemelaugh/status/2119192075505893695
+Comments URL: https://news.ycombinator.com/item?id=50422069
+Points: 561
+# Comments: 395]]></summary>
+        <author>
+            <name>rzk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Unlocking any car from X brand in most of the world]]></title>
+        <id>https://news.ycombinator.com/item?id=50419215</id>
+        <link href="https://shubs.io/unlocking-any-car-from-x-brand-in-most-of-the-world/"/>
+        <updated>2026-11-09T00:10:50.000Z</updated>
+        <summary type="html"><![CDATA[See also: https://samcurry.net/forgerock
+Comments URL: https://news.ycombinator.com/item?id=50419215
+Points: 592
+# Comments: 319]]></summary>
+        <author>
+            <name>infosecau</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I'm not convinced the AI bubble exists]]></title>
+        <id>https://news.ycombinator.com/item?id=50418975</id>
+        <link href="https://matteoraso.github.io/im-not-convinced-the-ai-bubble-exists.html#im-not-convinced-the-ai-bubble-exists"/>
+        <updated>2026-11-08T23:44:36.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://matteoraso.github.io/im-not-convinced-the-ai-bubble-exists.html#im-not-convinced-the-ai-bubble-exists
+Comments URL: https://news.ycombinator.com/item?id=50418975
+Points: 533
+# Comments: 906]]></summary>
+        <author>
+            <name>matteoraso</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[KetchUp – Open-source SketchUp alternative built with Rust and WebGPU]]></title>
+        <id>https://news.ycombinator.com/item?id=50418176</id>
+        <link href="https://ketchup3d.github.io/app/"/>
+        <updated>2026-11-08T22:35:35.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://ketchup3d.github.io/app/
+Comments URL: https://news.ycombinator.com/item?id=50418176
+Points: 715
+# Comments: 218]]></summary>
+        <author>
+            <name>dcoulmbe</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Nvidia CEO Jensen Huang's letter to staff about affair]]></title>
         <id>https://news.ycombinator.com/item?id=50418016</id>
@@ -19,6 +84,19 @@ Points: 635
 # Comments: 661]]></summary>
         <author>
             <name>karimf</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Outlook.com is rejecting email from domains without DMARC]]></title>
+        <id>https://news.ycombinator.com/item?id=50416158</id>
+        <link href="https://mailroute.net/blog/outlook-rejecting-email-without-dmarc"/>
+        <updated>2026-11-08T19:20:32.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://mailroute.net/blog/outlook-rejecting-email-without-dmarc
+Comments URL: https://news.ycombinator.com/item?id=50416158
+Points: 524
+# Comments: 348]]></summary>
+        <author>
+            <name>xmddmx</name>
         </author>
     </entry>
     <entry>
@@ -3271,37 +3349,6 @@ Points: 513
 # Comments: 198]]></summary>
         <author>
             <name>walrus01</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[3rd Yandex Cloud Data Center Was Hit]]></title>
-        <id>https://news.ycombinator.com/item?id=50040547</id>
-        <link href="https://status.yandex.cloud/en/incidents/2136"/>
-        <updated>2026-10-11T07:34:45.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://status.yandex.cloud/en/incidents/2136
-Comments URL: https://news.ycombinator.com/item?id=50040547
-Points: 522
-# Comments: 629]]></summary>
-        <author>
-            <name>defly</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The best way to use icons in Web UIs]]></title>
-        <id>https://lea.verou.me/blog/2026/icons/</id>
-        <link href="https://lea.verou.me/blog/2026/icons/"/>
-        <updated>2026-10-11T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[-->
-I’ve always had a soft spot for icons1.
-Not only do they add polish to a UI, they can also tangibly improve usability.
-Familiar icons help users find what they need quickly, since we recognize pictures much faster than we read words.
-And as a web architect at heart, the current dominant ways we have to include icons on the Web make me sad.
-While there are many, many different ways to include icons in a Web UI, each with different performance characteristics, by far the most common ones involve adding inline SVG to the HTML.
-For example, a trash icon might be included like this:
-<button>
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-…]]></summary>
-        <author>
-            <name>Lea Verou’s blog</name>
         </author>
     </entry>
     <entry>
