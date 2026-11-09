@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-11-08T21:43:41.182Z</updated>
+    <updated>2026-11-09T01:27:04.427Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Goldman Sachs is pulling Claude Code from its bankers and traders]]></title>
+        <id>https://news.ycombinator.com/item?id=50415628</id>
+        <link href="https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers"/>
+        <updated>2026-11-08T18:16:07.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers
+Comments URL: https://news.ycombinator.com/item?id=50415628
+Points: 585
+# Comments: 354]]></summary>
+        <author>
+            <name>TheWiggles</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Goodbye Claude, hello Pi]]></title>
         <id>https://news.ycombinator.com/item?id=50410107</id>
@@ -3273,19 +3286,6 @@ Points: 523
 # Comments: 173]]></summary>
         <author>
             <name>JumpCrisscross</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lobbying is corruption]]></title>
-        <id>https://news.ycombinator.com/item?id=50032556</id>
-        <link href="https://carette.xyz/posts/lobbying_and_corruption/"/>
-        <updated>2026-10-10T13:05:58.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://carette.xyz/posts/lobbying_and_corruption/
-Comments URL: https://news.ycombinator.com/item?id=50032556
-Points: 506
-# Comments: 281]]></summary>
-        <author>
-            <name>LucidLynx</name>
         </author>
     </entry>
     <entry>

@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=50415628",
+          "author": "TheWiggles",
+          "description": "Article URL: https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers\nComments URL: https://news.ycombinator.com/item?id=50415628\nPoints: 585\n# Comments: 354",
+          "link": "https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers",
+          "publishedOn": "2026-11-08T18:16:07.000Z",
+          "wordCount": 16075,
+          "title": "Goldman Sachs is pulling Claude Code from its bankers and traders",
+          "imageUrl": "https://www.thestateofai.com/media/uploads/33f913ce812c4074d207c01b6df1858a692e6bc3229dadbfcd4f56b61722a538.png"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=50410107",
           "author": "karagenit",
           "description": "Article URL: https://caleb.software/posts/claude-to-pi.html\nComments URL: https://news.ycombinator.com/item?id=50410107\nPoints: 557\n# Comments: 350",
@@ -2174,16 +2184,6 @@
           "wordCount": 59,
           "title": "A city-building game in which the city would prefer you didn't",
           "imageUrl": "https://housing.over.pizza/share-card.png"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=50032556",
-          "author": "LucidLynx",
-          "description": "Article URL: https://carette.xyz/posts/lobbying_and_corruption/\nComments URL: https://news.ycombinator.com/item?id=50032556\nPoints: 506\n# Comments: 281",
-          "link": "https://carette.xyz/posts/lobbying_and_corruption/",
-          "publishedOn": "2026-10-10T13:05:58.000Z",
-          "wordCount": 371,
-          "title": "Lobbying is corruption",
-          "imageUrl": null
         }
       ]
     },
