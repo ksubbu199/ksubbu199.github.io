@@ -2,10 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-11-09T20:26:43.555Z</updated>
+    <updated>2026-11-10T03:11:27.212Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[USPS now offers official ZIP Code boundary polygons]]></title>
+        <id>https://news.ycombinator.com/item?id=50431058</id>
+        <link href="https://postalpro.usps.com/zcb"/>
+        <updated>2026-11-09T19:58:59.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://postalpro.usps.com/zcb
+Comments URL: https://news.ycombinator.com/item?id=50431058
+Points: 504
+# Comments: 261]]></summary>
+        <author>
+            <name>munro</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Claude Fable 5.2 and Mythos 5.2]]></title>
+        <id>https://news.ycombinator.com/item?id=50429906</id>
+        <link href="https://www.anthropic.com/claude-fable-and-mythos-5-2"/>
+        <updated>2026-11-09T18:56:29.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.anthropic.com/claude-fable-and-mythos-5-2
+Comments URL: https://news.ycombinator.com/item?id=50429906
+Points: 964
+# Comments: 6]]></summary>
+        <author>
+            <name>meetpateltech</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Fold Epic Paper Airplanes]]></title>
         <id>https://news.ycombinator.com/item?id=50424581</id>
@@ -3323,32 +3349,6 @@ Points: 571
 # Comments: 305]]></summary>
         <author>
             <name>gregsadetsky</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Terence Tao: Math 2.0 [pdf]]]></title>
-        <id>https://news.ycombinator.com/item?id=50043026</id>
-        <link href="https://teorth.github.io/tao-web/slides/math-2-0-caltech-2026.pdf"/>
-        <updated>2026-10-11T13:16:45.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://teorth.github.io/tao-web/slides/math-2-0-caltech-2026.pdf
-Comments URL: https://news.ycombinator.com/item?id=50043026
-Points: 522
-# Comments: 517]]></summary>
-        <author>
-            <name>Anon84</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bot traffic from Yandex]]></title>
-        <id>https://news.ycombinator.com/item?id=50041619</id>
-        <link href="https://radar.cloudflare.com/bots/as13238?dateRange=7d"/>
-        <updated>2026-10-11T10:27:53.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://radar.cloudflare.com/bots/as13238?dateRange=7d
-Comments URL: https://news.ycombinator.com/item?id=50041619
-Points: 513
-# Comments: 198]]></summary>
-        <author>
-            <name>walrus01</name>
         </author>
     </entry>
     <entry>

@@ -6,6 +6,26 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=50431058",
+          "author": "munro",
+          "description": "Article URL: https://postalpro.usps.com/zcb\nComments URL: https://news.ycombinator.com/item?id=50431058\nPoints: 504\n# Comments: 261",
+          "link": "https://postalpro.usps.com/zcb",
+          "publishedOn": "2026-11-09T19:58:59.000Z",
+          "wordCount": 883,
+          "title": "USPS now offers official ZIP Code boundary polygons",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=50429906",
+          "author": "meetpateltech",
+          "description": "Article URL: https://www.anthropic.com/claude-fable-and-mythos-5-2\nComments URL: https://news.ycombinator.com/item?id=50429906\nPoints: 964\n# Comments: 6",
+          "link": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
+          "publishedOn": "2026-11-09T18:56:29.000Z",
+          "wordCount": 12978,
+          "title": "Claude Fable 5.2 and Mythos 5.2",
+          "imageUrl": "https://www-cdn.anthropic.com/images/4zrzovbb/website/b2dab182c77b4ccfd36423470106915b20f676ae-1200x630.jpg"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=50424581",
           "author": "vismit2000",
           "description": "Article URL: https://www.foldableflight.com\nComments URL: https://news.ycombinator.com/item?id=50424581\nPoints: 678\n# Comments: 120",
@@ -2223,26 +2243,6 @@
           "publishedOn": "2026-10-11T18:01:16.000Z",
           "wordCount": null,
           "title": "NYC's \"Click to Cancel\" rule is now in effect",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=50043026",
-          "author": "Anon84",
-          "description": "Article URL: https://teorth.github.io/tao-web/slides/math-2-0-caltech-2026.pdf\nComments URL: https://news.ycombinator.com/item?id=50043026\nPoints: 522\n# Comments: 517",
-          "link": "https://teorth.github.io/tao-web/slides/math-2-0-caltech-2026.pdf",
-          "publishedOn": "2026-10-11T13:16:45.000Z",
-          "wordCount": 11183,
-          "title": "Terence Tao: Math 2.0 [pdf]",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=50041619",
-          "author": "walrus01",
-          "description": "Article URL: https://radar.cloudflare.com/bots/as13238?dateRange=7d\nComments URL: https://news.ycombinator.com/item?id=50041619\nPoints: 513\n# Comments: 198",
-          "link": "https://radar.cloudflare.com/bots/as13238?dateRange=7d",
-          "publishedOn": "2026-10-11T10:27:53.000Z",
-          "wordCount": null,
-          "title": "Bot traffic from Yandex",
           "imageUrl": null
         }
       ]
