@@ -2,10 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-11-11T01:01:13.387Z</updated>
+    <updated>2026-11-11T08:53:29.399Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Candidate Statement for the 2026 W3C TAG Election]]></title>
+        <id>https://lea.verou.me/blog/2026/tag/</id>
+        <link href="https://lea.verou.me/blog/2026/tag/"/>
+        <updated>2026-11-11T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Group photo of the W3C TAG in July 2022 with me to the left of Sir Tim Berners-Lee (inventor of the Web and TAG chair emeritus).
+Photo credit: Dan Appelquist
+I had the great honor of being elected to the TAG by the W3C membership in 2020 and again in 2022, serving two terms from 2021 to 2025.
+After a two-year break, this year I’m running to return, thanks to Google, Microsoft, and OpenJS Foundation pooling resources to make it possible. 💙
+The W3C Technical Architecture Group (TAG) is the Working Group that ensures that Web Platform technologies are usable and follow consistent design principles, whether they are created inside or outside W3C. It advocates for the needs of everyone who uses the Web and everyone who works on the Web.
+If you work for a company that is a W3C Member, please co…]]></summary>
+        <author>
+            <name>Lea Verou’s blog</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[.name Grandfathered]]></title>
         <id>https://news.ycombinator.com/item?id=50442736</id>
@@ -78,6 +93,19 @@ Points: 510
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[AI usage generates a fragile codebase]]></title>
+        <id>https://news.ycombinator.com/item?id=50438318</id>
+        <link href="https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase/"/>
+        <updated>2026-11-10T10:25:58.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase/
+Comments URL: https://news.ycombinator.com/item?id=50438318
+Points: 524
+# Comments: 498]]></summary>
+        <author>
+            <name>plun9</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Amazon saves millions by replacing Sonnet 4.6 with Strands Decider]]></title>
         <id>https://news.ycombinator.com/item?id=50436640</id>
         <link href="https://strandsagents.com/blog/amazon-saves-millions-replacing-sonnet-with-strands-decider/"/>
@@ -114,6 +142,19 @@ Points: 964
 # Comments: 6]]></summary>
         <author>
             <name>meetpateltech</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[E-means: Outperforming k-means in one-tenth the epochs]]></title>
+        <id>https://news.ycombinator.com/item?id=50429734</id>
+        <link href="https://e-means.github.io/"/>
+        <updated>2026-11-09T18:45:43.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://e-means.github.io/
+Comments URL: https://news.ycombinator.com/item?id=50429734
+Points: 500
+# Comments: 78]]></summary>
+        <author>
+            <name>porridgeraisin</name>
         </author>
     </entry>
     <entry>
@@ -3287,67 +3328,6 @@ Points: 570
 # Comments: 454]]></summary>
         <author>
             <name>layer8</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Codex CLI installs a persistent, self-updating background daemon by default]]></title>
-        <id>https://news.ycombinator.com/item?id=50060694</id>
-        <link href="https://github.com/openai/codex/issues/48195"/>
-        <updated>2026-10-12T18:29:04.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://github.com/openai/codex/issues/48195
-Comments URL: https://news.ycombinator.com/item?id=50060694
-Points: 550
-# Comments: 273]]></summary>
-        <author>
-            <name>whimblepop</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Muse Wonder]]></title>
-        <id>https://news.ycombinator.com/item?id=50059115</id>
-        <link href="https://research.meta.ai/blog/muse-wonder"/>
-        <updated>2026-10-12T16:48:01.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://research.meta.ai/blog/muse-wonder
-Comments URL: https://news.ycombinator.com/item?id=50059115
-Points: 516
-# Comments: 285]]></summary>
-        <author>
-            <name>meetpateltech</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Modern Web App in C]]></title>
-        <id>https://news.ycombinator.com/item?id=50058528</id>
-        <link href="https://prophitt.me/writing/a-modern-web-app-in-c"/>
-        <updated>2026-10-12T16:13:10.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://prophitt.me/writing/a-modern-web-app-in-c
-Comments URL: https://news.ycombinator.com/item?id=50058528
-Points: 547
-# Comments: 228]]></summary>
-        <author>
-            <name>prophittcorey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GLM-Legal]]></title>
-        <id>https://news.ycombinator.com/item?id=50058507</id>
-        <link href="https://z.ai/blog/glm-legal"/>
-        <updated>2026-10-12T16:11:45.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://z.ai/blog/glm-legal
-Comments URL: https://news.ycombinator.com/item?id=50058507
-Points: 549
-# Comments: 313]]></summary>
-        <author>
-            <name>ilreb</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[India's Biggest Economic Threat | Why Jaishankar Is Warning Every Indian About the 4F Crisis?]]></title>
-        <id>https://www.youtube.com/watch?v=e1cwjeP5Ofs</id>
-        <link href="https://www.youtube.com/watch?v=e1cwjeP5Ofs"/>
-        <updated>2026-10-12T12:40:58.000Z</updated>
-        <author>
-            <name>Think School</name>
         </author>
     </entry>
     <entry>
