@@ -6,6 +6,26 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=50452455",
+          "author": "eyvindn",
+          "description": "Article URL: https://pietromiotti.com/latest/maya-site/?maya\nComments URL: https://news.ycombinator.com/item?id=50452455\nPoints: 648\n# Comments: 249",
+          "link": "https://pietromiotti.com/latest/maya-site/?maya",
+          "publishedOn": "2026-11-11T12:05:22.000Z",
+          "wordCount": 1493,
+          "title": "Google SWE points 48 AI agents at NASA Lidar, finds unmapped Maya pyramid in 72h",
+          "imageUrl": "https://pietromiotti.com/latest/maya-site/forest-vs-lidar.jpg"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=50445401",
+          "author": "NaOH",
+          "description": "Article URL: https://www.theautopian.com/scion-is-back-and-its-going-to-sell-a-freaking-kei-truck-in-america/\nComments URL: https://news.ycombinator.com/item?id=50445401\nPoints: 535\n# Comments: 370",
+          "link": "https://www.theautopian.com/scion-is-back-and-its-going-to-sell-a-freaking-kei-truck-in-america/",
+          "publishedOn": "2026-11-10T19:50:46.000Z",
+          "wordCount": 8785,
+          "title": "Scion is back and is going to sell a kei truck in America",
+          "imageUrl": "https://images-stag.jazelc.com/uploads/theautopian-m2en/20261110110448/ScionByToyota_Family_TS3.jpg"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=50442736",
           "author": "p4bl0",
           "description": "Previously: .name Termination - https://news.ycombinator.com/item?id=49550772 - Sept 2026 (547 comments)\nComments URL: https://news.ycombinator.com/item?id=50442736\nPoints: 663\n# Comments: 154",
@@ -2194,16 +2214,6 @@
           "wordCount": 6922,
           "title": "11 year old unsoundness bugs found in Rust borrow checker",
           "imageUrl": "https://opengraph.githubassets.com/527ed16f3c9f045366b9ea42e29f199fbb28666619b05d90dcc5b3598440fbe4/rust-lang/rust/issues/164250"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=50063427",
-          "author": "layer8",
-          "description": "Article URL: https://yyhh.org/blog/2026/10/ai-is-a-tool/\nComments URL: https://news.ycombinator.com/item?id=50063427\nPoints: 570\n# Comments: 454",
-          "link": "https://yyhh.org/blog/2026/10/ai-is-a-tool/",
-          "publishedOn": "2026-10-12T21:40:18.000Z",
-          "wordCount": 913,
-          "title": "AI is a tool and using it well takes skill",
-          "imageUrl": null
         }
       ]
     },
@@ -2291,6 +2301,16 @@
       "feedUrl": "https://martinfowler.com/feed.atom",
       "siteUrl": "https://martinfowler.com/feed.atom",
       "articles": [
+        {
+          "id": "https://martinfowler.com/articles/tests-as-data.html",
+          "author": null,
+          "description": "Automated testing in the age of AI coding assistants is problematic:\n     when AI agents write both production and test code, developers risk losing\n     the assurance that automated tests protect against functional errors.\n     Matteo Vaccari makes three claims: (1) when AI writes the\n     code, developers become its customers; (2) therefore customer tests, not\n     developer tests, become the primary contract between humans and AI; (3)\n     moving that contract into test data rather than test code makes it easier\n     to protect it from unexpected modifications by coding agents. All of this\n     optimizes for human-readable tests that establish a contract between humans\n     and AI. While in the past DSL parsers and custom test runners were\n     expensive to write and maintain, now AI makes them cheap.\nmore…",
+          "link": "https://martinfowler.com/articles/tests-as-data.html",
+          "publishedOn": "2026-11-11T15:17:00.000Z",
+          "wordCount": 8857,
+          "title": "Tests as data: ensuring AI-generated code does what we want",
+          "imageUrl": "https://martinfowler.com/articles/tests-as-data/card.png"
+        },
         {
           "id": "https://martinfowler.com/fragments/2026-11-10.html",
           "author": null,

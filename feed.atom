@@ -2,10 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-11-11T08:53:29.399Z</updated>
+    <updated>2026-11-11T16:54:33.074Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Tests as data: ensuring AI-generated code does what we want]]></title>
+        <id>https://martinfowler.com/articles/tests-as-data.html</id>
+        <link href="https://martinfowler.com/articles/tests-as-data.html"/>
+        <updated>2026-11-11T15:17:00.000Z</updated>
+        <summary type="html"><![CDATA[Automated testing in the age of AI coding assistants is problematic:
+     when AI agents write both production and test code, developers risk losing
+     the assurance that automated tests protect against functional errors.
+     Matteo Vaccari makes three claims: (1) when AI writes the
+     code, developers become its customers; (2) therefore customer tests, not
+     developer tests, become the primary contract between humans and AI; (3)
+     moving that contract into test data rather than test code makes it easier
+     to protect it from unexpected modifications by coding agents. All of this
+     optimizes for human-readable tests that establish a contract between humans
+     and AI. While in the past DSL parsers and custom test runners were
+     expensive to write and maintain, now AI makes them cheap.
+more…]]></summary>
+        <author>
+            <name>Martin Fowler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google SWE points 48 AI agents at NASA Lidar, finds unmapped Maya pyramid in 72h]]></title>
+        <id>https://news.ycombinator.com/item?id=50452455</id>
+        <link href="https://pietromiotti.com/latest/maya-site/?maya"/>
+        <updated>2026-11-11T12:05:22.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://pietromiotti.com/latest/maya-site/?maya
+Comments URL: https://news.ycombinator.com/item?id=50452455
+Points: 648
+# Comments: 249]]></summary>
+        <author>
+            <name>eyvindn</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Candidate Statement for the 2026 W3C TAG Election]]></title>
         <id>https://lea.verou.me/blog/2026/tag/</id>
@@ -19,6 +53,19 @@ The W3C Technical Architecture Group (TAG) is the Working Group that ensures tha
 If you work for a company that is a W3C Member, please co…]]></summary>
         <author>
             <name>Lea Verou’s blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Scion is back and is going to sell a kei truck in America]]></title>
+        <id>https://news.ycombinator.com/item?id=50445401</id>
+        <link href="https://www.theautopian.com/scion-is-back-and-its-going-to-sell-a-freaking-kei-truck-in-america/"/>
+        <updated>2026-11-10T19:50:46.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.theautopian.com/scion-is-back-and-its-going-to-sell-a-freaking-kei-truck-in-america/
+Comments URL: https://news.ycombinator.com/item?id=50445401
+Points: 535
+# Comments: 370]]></summary>
+        <author>
+            <name>NaOH</name>
         </author>
     </entry>
     <entry>
@@ -3315,19 +3362,6 @@ Points: 506
 # Comments: 288]]></summary>
         <author>
             <name>formerly_proven</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI is a tool and using it well takes skill]]></title>
-        <id>https://news.ycombinator.com/item?id=50063427</id>
-        <link href="https://yyhh.org/blog/2026/10/ai-is-a-tool/"/>
-        <updated>2026-10-12T21:40:18.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://yyhh.org/blog/2026/10/ai-is-a-tool/
-Comments URL: https://news.ycombinator.com/item?id=50063427
-Points: 570
-# Comments: 454]]></summary>
-        <author>
-            <name>layer8</name>
         </author>
     </entry>
     <entry>
