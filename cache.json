@@ -6,6 +6,26 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=50442736",
+          "author": "p4bl0",
+          "description": "Previously: .name Termination - https://news.ycombinator.com/item?id=49550772 - Sept 2026 (547 comments)\nComments URL: https://news.ycombinator.com/item?id=50442736\nPoints: 663\n# Comments: 154",
+          "link": "https://neil.fraser.name/news/2026/11/10/",
+          "publishedOn": "2026-11-10T16:37:44.000Z",
+          "wordCount": 480,
+          "title": ".name Grandfathered",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=50441707",
+          "author": "skittleson",
+          "description": "Article URL: https://docodethatmatters.com/home-automation-overnight-success/\nComments URL: https://news.ycombinator.com/item?id=50441707\nPoints: 675\n# Comments: 244",
+          "link": "https://docodethatmatters.com/home-automation-overnight-success/",
+          "publishedOn": "2026-11-10T15:25:20.000Z",
+          "wordCount": 3254,
+          "title": "Smart home devices should work without the internet",
+          "imageUrl": "https://docodethatmatters.com/images/home-automation/t1-07.webp"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=50439193",
           "author": "ilreb",
           "description": "Article URL: https://deepmind.google/blog/introducing-alphaproof-code/\nComments URL: https://news.ycombinator.com/item?id=50439193\nPoints: 510\n# Comments: 164",
@@ -2203,36 +2223,6 @@
           "publishedOn": "2026-10-12T16:11:45.000Z",
           "wordCount": 2,
           "title": "GLM-Legal",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=50055304",
-          "author": "Zeekaas",
-          "description": "https://www.reuters.com/business/retail-consumer/french-supe..., https://www.bbc.com/news/articles/crq5nzxv9q4yo, https://www.lemonde.fr/en/france/article/2026/10/12/french-s...\nRelated:\nhttps://www.claroty.com/team82/research/freeze-the-controlle...\nI think the military commissary's freezers were hacked - https://news.ycombinator.com/item?id=49508506 - Aug 2026 (239 comments)\nComments URL: https://news.ycombinator.com/item?id=50055304\nPoints: 673\n# Comments: 800",
-          "link": "https://www.tomshardware.com/tech-industry/cyber-security/unprecedented-cyberattack-cripples-supermarket-fridges-across-europe-as-hackers-activate-automatic-defrosting-delivery-and-store-prices-also-impacted-by-incident",
-          "publishedOn": "2026-10-12T12:16:42.000Z",
-          "wordCount": 47116,
-          "title": "Hackers activate automatic defrosting in supermarket fridges across Europe",
-          "imageUrl": "https://cdn.mos.cms.futurecdn.net/o7hTqTruL84oHxvg6pYS3K-2000-80.jpg"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=50054207",
-          "author": "Betelbuddy",
-          "description": "Article URL: https://www.bbc.com/news/articles/c64g1l5389kvo\nComments URL: https://news.ycombinator.com/item?id=50054207\nPoints: 553\n# Comments: 186",
-          "link": "https://www.bbc.com/news/articles/c64g1l5389kvo",
-          "publishedOn": "2026-10-12T10:21:27.000Z",
-          "wordCount": 9229,
-          "title": "Deloitte falsified documents to evade tax on Abramovich's wealth",
-          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/abc3/live/b06f9880-c621-11f1-bc2e-018d645d8d21.jpg"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=50054092",
-          "author": "thm",
-          "description": "https://www.heise.de/en/news/Crypto-thieves-sell-hardware-wa...\nhttps://crypto.news/ledger-confirms-hidden-chip-in-crypto-wa...\nhttps://www.youtube.com/watch?v=8JnHdr30v4g\nhttps://www.youtube.com/watch?v=Nf4FEFlgv3Q\nhttps://www.tibane.net/research/ledger-nano-x-implant\nComments URL: https://news.ycombinator.com/item?id=50054092\nPoints: 721\n# Comments: 452",
-          "link": "https://www.bleepingcomputer.com/news/security/ledger-confirms-hardware-wallet-spy-implant-behind-crypto-thefts/",
-          "publishedOn": "2026-10-12T10:09:37.000Z",
-          "wordCount": null,
-          "title": "Ledger confirms spy chip implant behind wallet crypto thefts",
           "imageUrl": null
         }
       ]
