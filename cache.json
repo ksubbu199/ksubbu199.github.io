@@ -6,6 +6,26 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=50467087",
+          "author": "lldb",
+          "description": "Article URL: https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition\nComments URL: https://news.ycombinator.com/item?id=50467087\nPoints: 563\n# Comments: 404",
+          "link": "https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition",
+          "publishedOn": "2026-11-12T13:52:29.000Z",
+          "wordCount": 1413,
+          "title": "NVIDIA Announces CEO Transition",
+          "imageUrl": "https://nvidianews.nvidia.com/media/sites/219/images/social-image.jpg"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=50459745",
+          "author": "zenincognito",
+          "description": "Article URL: https://www.mcmillen.dev/sigbovik/\nComments URL: https://news.ycombinator.com/item?id=50459745\nPoints: 511\n# Comments: 64",
+          "link": "https://www.mcmillen.dev/sigbovik/",
+          "publishedOn": "2026-11-11T22:34:23.000Z",
+          "wordCount": 473,
+          "title": "93% of paint splatters are valid Perl programs (2019)",
+          "imageUrl": null
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=50459703",
           "author": "jbredeche",
           "description": "Article URL: https://www.wsj.com/business/nvidia-is-preparing-to-oust-nvidia-ceo-jensen-huang-30f421ad\nComments URL: https://news.ycombinator.com/item?id=50459703\nPoints: 787\n# Comments: 1128",
@@ -16,6 +36,26 @@
           "imageUrl": null
         },
         {
+          "id": "https://news.ycombinator.com/item?id=50458900",
+          "author": "herpderperator",
+          "description": "Article URL: https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/\nComments URL: https://news.ycombinator.com/item?id=50458900\nPoints: 609\n# Comments: 632",
+          "link": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/",
+          "publishedOn": "2026-11-11T21:24:35.000Z",
+          "wordCount": 2275,
+          "title": "United Airlines bans AI agents from booking flights on behalf of travelers",
+          "imageUrl": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/11/11/abfecdbe-5571-42df-95f8-6c22131067aa/thumbnail/1200x630/526b47f241e8e11c31cb47bc82f1f68c/gettyimages-2296986024-1.jpg"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=50456791",
+          "author": "iamdelirium",
+          "description": "Article URL: https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/\nComments URL: https://news.ycombinator.com/item?id=50456791\nPoints: 500\n# Comments: 148",
+          "link": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
+          "publishedOn": "2026-11-11T18:32:42.000Z",
+          "wordCount": 4592,
+          "title": "Gemini Decisions API",
+          "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini__decisions__blog-header_2784x1566.width-1300.png"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=50456631",
           "author": "super_linear",
           "description": "https://www.aboutamazon.com/news/aws/how-autonomous-ai-agent...\nhttps://www.allthingsdistributed.com/2026/11/aws-emulator-an...\nComments URL: https://news.ycombinator.com/item?id=50456631\nPoints: 766\n# Comments: 227",
@@ -24,6 +64,16 @@
           "wordCount": 5126,
           "title": "AWS emulator",
           "imageUrl": "https://opengraph.githubassets.com/81073601daaea6d0d15b447cb1729fb824ee654726edb05bcbeaec352964aac0/aws/aws-emulator"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=50455394",
+          "author": "mbac32768",
+          "description": "Article URL: https://michael.bacarella.com/2026/11/10/false-smoke-alarm-jane-street-datacenter/\nComments URL: https://news.ycombinator.com/item?id=50455394\nPoints: 531\n# Comments: 255",
+          "link": "https://michael.bacarella.com/2026/11/10/false-smoke-alarm-jane-street-datacenter/",
+          "publishedOn": "2026-11-11T16:38:44.000Z",
+          "wordCount": 1881,
+          "title": "A false smoke alarm almost drowned Jane Street's only NYC datacenter",
+          "imageUrl": "https://michael.bacarella.com/assets/mbacface.jpg"
         },
         {
           "id": "https://news.ycombinator.com/item?id=50452455",
@@ -2214,26 +2264,6 @@
           "wordCount": 12472,
           "title": "AOSP Source Releases Are So Late Developers Disassemble Libraries to Report Bugs",
           "imageUrl": "https://opengraph.githubassets.com/4d2e44ac42801498f07c726c9e6d61fa738b049bb89160d65e58caab75e48ae4/android/ndk/issues/2260"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=50078141",
-          "author": "forthwall",
-          "description": "https://x.com/OpenAINewsroom/status/2110095403198849132\nComments URL: https://news.ycombinator.com/item?id=50078141\nPoints: 600\n# Comments: 497",
-          "link": "https://sfstandard.com/2026/10/13/openai-engineer-arrested-alleged-bugging-executive-conference-room/",
-          "publishedOn": "2026-10-13T20:23:55.000Z",
-          "wordCount": 14479,
-          "title": "OpenAI engineer arrested in bugging of executive conference room",
-          "imageUrl": "https://assets.sfstandard.com/image/994911177489/image_q73l9v67ul4sd7jt6h5u5rm001/-C100.00%25x78.71%25%2C0.00%25%2C7.09%25-S1200x630-FPNG"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=50077020",
-          "author": "talccc",
-          "description": "Guitoro is a free browser guitar using recordings of real instruments. You can strum with your keyboard, mouse, or touchscreen, choose acoustic, classical, electric guitar or bass, and see chord fingering and each stroke. Song practice can be slowed to 20%, and there are free chord tools and tuners. No signup or download.\n1 minute video demo: https://youtu.be/DtcluMLdSgs\nI would love feedback on how the strumming feels and sounds.\nComments URL: https://news.ycombinator.com/item?id=50077020\nPoints: 535\n# Comments: 148",
-          "link": "https://guitoro.com/",
-          "publishedOn": "2026-10-13T19:11:48.000Z",
-          "wordCount": 5466,
-          "title": "Show HN: Guitoro, a virtual guitar you strum with your keyboard",
-          "imageUrl": "https://guitoro.com/brand/guitoro-social.png?v=gold-cutout-medium"
         }
       ]
     },
@@ -2321,6 +2351,16 @@
       "feedUrl": "https://martinfowler.com/feed.atom",
       "siteUrl": "https://martinfowler.com/feed.atom",
       "articles": [
+        {
+          "id": "https://martinfowler.com/bliki/GeneratedGlossary.html",
+          "author": null,
+          "description": "When we use LLMs in a specialized domain, such as the operations of any\n  reasonably-large organization, there is a lot of specialized vocabulary. Such\n  words and specialized meanings will be foreign to an LLM because they aren't\n  in its training set, making it harder for the LLM to be effective when doing\n  tasks in that domain. One technique to aid this is to use an LLM to generate a\n  glossary of the terminology in that domain, and make this glossary available\n  for any LLMs doing work in those circumstances.\nThe sources for the LLM can be any material within the organization\n  concerned such as documents, emails, and chat logs. In some cases getting\n  transcripts of audio or video may be helpful, although most organizations\n  generate enough text to do the job.\nThe glossary-generatin…",
+          "link": "https://martinfowler.com/bliki/GeneratedGlossary.html",
+          "publishedOn": "2026-11-12T14:15:00.000Z",
+          "wordCount": 924,
+          "title": "Bliki: Generated Glossary",
+          "imageUrl": "https://martinfowler.com/logo-sq.png"
+        },
         {
           "id": "https://martinfowler.com/articles/tests-as-data.html",
           "author": null,
