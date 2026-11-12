@@ -8,12 +8,32 @@
         {
           "id": "https://news.ycombinator.com/item?id=50467087",
           "author": "lldb",
+          "description": "https://nvidianews.nvidia.com/news/nvidia-announces-ceo-tran...\nhttps://www.reuters.com/business/retail-consumer/nvidia-ceo-..., https://www.reuters.com/live/nvidia-live-board-meets-fate-ce...\nhttps://www.nytimes.com/live/2026/11/12/business/nvidia-jens...\nComments URL: https://news.ycombinator.com/item?id=50467087\nPoints: 2430\n# Comments: 2362",
+          "link": "https://apnews.com/article/nvidia-megaspeed-china-singapore-huang-5403f152a601cf82ce939f1d24fffa0f",
+          "publishedOn": "2026-11-12T13:52:29.000Z",
+          "wordCount": null,
+          "title": "Jensen Huang resigns",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=50467087",
+          "author": "lldb",
           "description": "Article URL: https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition\nComments URL: https://news.ycombinator.com/item?id=50467087\nPoints: 563\n# Comments: 404",
           "link": "https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition",
           "publishedOn": "2026-11-12T13:52:29.000Z",
           "wordCount": 1413,
           "title": "NVIDIA Announces CEO Transition",
           "imageUrl": "https://nvidianews.nvidia.com/media/sites/219/images/social-image.jpg"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=50465829",
+          "author": "josephljohnston",
+          "description": "Article URL: https://ipo.anthropic.com/us/\nComments URL: https://news.ycombinator.com/item?id=50465829\nPoints: 728\n# Comments: 739",
+          "link": "https://ipo.anthropic.com/us/",
+          "publishedOn": "2026-11-12T11:46:41.000Z",
+          "wordCount": 1123,
+          "title": "Anthropic IPO",
+          "imageUrl": "https://ipo.anthropic.com/assets/share-image-eAr8nJRP.jpg"
         },
         {
           "id": "https://news.ycombinator.com/item?id=50459745",
@@ -174,6 +194,16 @@
           "wordCount": 21802,
           "title": "AI usage generates a fragile codebase",
           "imageUrl": "https://www.evanxmerz.com/images/ai-codebases-are-a-house-of-cards.jpg"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=50438261",
+          "author": "tosh",
+          "description": "Article URL: https://github.com/janestreet/agent_skills/blob/master/socratic-tutor/SKILL.md\nComments URL: https://news.ycombinator.com/item?id=50438261\nPoints: 629\n# Comments: 143",
+          "link": "https://github.com/janestreet/agent_skills/blob/master/socratic-tutor/SKILL.md",
+          "publishedOn": "2026-11-10T10:18:22.000Z",
+          "wordCount": 3737,
+          "title": "Socratic Tutor",
+          "imageUrl": "https://opengraph.githubassets.com/c01679f698c4ef65a015956df7e987ecd73c4be95631b50673bfdf1f2e2c958a/janestreet/agent_skills"
         },
         {
           "id": "https://news.ycombinator.com/item?id=50436640",
@@ -2234,36 +2264,6 @@
           "wordCount": 1630,
           "title": "Passkeys are not a trap",
           "imageUrl": "https://storage.ghost.io/c/ee/88/ee889f88-37ef-43e5-9180-f9b88ee6261d/content/images/size/w1200/2026/10/passkeys-trap.png"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=50084757",
-          "author": "sighborg",
-          "description": "Article URL: https://www.not-ship.com/how-amazon-pushes-up-prices-all-across-the-internet/\nComments URL: https://news.ycombinator.com/item?id=50084757\nPoints: 637\n# Comments: 545",
-          "link": "https://www.not-ship.com/how-amazon-pushes-up-prices-all-across-the-internet/",
-          "publishedOn": "2026-10-14T09:28:17.000Z",
-          "wordCount": 2047,
-          "title": "Amazon pushes up prices across the Internet",
-          "imageUrl": "https://storage.ghost.io/c/f0/60/f060ef3f-d4e0-4af4-9255-1373fbf0a44f/content/images/size/w1200/2026/10/featured_02.png"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=50084240",
-          "author": "otobrglez",
-          "description": "Article URL: https://typeof.net/Iosevka/\nComments URL: https://news.ycombinator.com/item?id=50084240\nPoints: 638\n# Comments: 271",
-          "link": "https://typeof.net/Iosevka/",
-          "publishedOn": "2026-10-14T08:27:59.000Z",
-          "wordCount": 1587,
-          "title": "Iosevka is an open-source, sans-serif and slab-serif monospace font",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=50083130",
-          "author": "tharen",
-          "description": "Article URL: https://github.com/android/ndk/issues/2260\nComments URL: https://news.ycombinator.com/item?id=50083130\nPoints: 503\n# Comments: 250",
-          "link": "https://github.com/android/ndk/issues/2260",
-          "publishedOn": "2026-10-14T06:18:01.000Z",
-          "wordCount": 12472,
-          "title": "AOSP Source Releases Are So Late Developers Disassemble Libraries to Report Bugs",
-          "imageUrl": "https://opengraph.githubassets.com/4d2e44ac42801498f07c726c9e6d61fa738b049bb89160d65e58caab75e48ae4/android/ndk/issues/2260"
         }
       ]
     },
@@ -2474,6 +2474,16 @@
       "feedUrl": "https://blog.pragmaticengineer.com/rss/",
       "siteUrl": "https://blog.pragmaticengineer.com/",
       "articles": [
+        {
+          "id": "6aec73282f23c10001da42a7",
+          "author": "Ivan Klaric",
+          "description": "The resiliency startup has slashed the amount it spends on AI; down from $4,500 per dev, per month, in August, to $1,600 now.",
+          "link": "https://blog.pragmaticengineer.com/the-pulse-details-of-incident-ios-ai-spend/",
+          "publishedOn": "2026-11-12T19:00:11.000Z",
+          "wordCount": 2338,
+          "title": "The Pulse: Details of incident.io’s AI spend",
+          "imageUrl": null
+        },
         {
           "id": "6ae30eb2e8571500017259da",
           "author": "Ivan Klaric",

@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-11-12T14:45:51.281Z</updated>
+    <updated>2026-11-12T21:44:37.398Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The Pulse: Details of incident.io’s AI spend]]></title>
+        <id>6aec73282f23c10001da42a7</id>
+        <link href="https://blog.pragmaticengineer.com/the-pulse-details-of-incident-ios-ai-spend/"/>
+        <updated>2026-11-12T19:00:11.000Z</updated>
+        <summary type="html"><![CDATA[The resiliency startup has slashed the amount it spends on AI; down from $4,500 per dev, per month, in August, to $1,600 now.]]></summary>
+        <author>
+            <name>Ivan Klaric</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Bliki: Generated Glossary]]></title>
         <id>https://martinfowler.com/bliki/GeneratedGlossary.html</id>
@@ -28,6 +38,21 @@ The glossary-generatin…]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Jensen Huang resigns]]></title>
+        <id>https://news.ycombinator.com/item?id=50467087</id>
+        <link href="https://apnews.com/article/nvidia-megaspeed-china-singapore-huang-5403f152a601cf82ce939f1d24fffa0f"/>
+        <updated>2026-11-12T13:52:29.000Z</updated>
+        <summary type="html"><![CDATA[https://nvidianews.nvidia.com/news/nvidia-announces-ceo-tran...
+https://www.reuters.com/business/retail-consumer/nvidia-ceo-..., https://www.reuters.com/live/nvidia-live-board-meets-fate-ce...
+https://www.nytimes.com/live/2026/11/12/business/nvidia-jens...
+Comments URL: https://news.ycombinator.com/item?id=50467087
+Points: 2430
+# Comments: 2362]]></summary>
+        <author>
+            <name>lldb</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[NVIDIA Announces CEO Transition]]></title>
         <id>https://news.ycombinator.com/item?id=50467087</id>
         <link href="https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition"/>
@@ -38,6 +63,19 @@ Points: 563
 # Comments: 404]]></summary>
         <author>
             <name>lldb</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Anthropic IPO]]></title>
+        <id>https://news.ycombinator.com/item?id=50465829</id>
+        <link href="https://ipo.anthropic.com/us/"/>
+        <updated>2026-11-12T11:46:41.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://ipo.anthropic.com/us/
+Comments URL: https://news.ycombinator.com/item?id=50465829
+Points: 728
+# Comments: 739]]></summary>
+        <author>
+            <name>josephljohnston</name>
         </author>
     </entry>
     <entry>
@@ -315,6 +353,19 @@ Points: 524
 # Comments: 498]]></summary>
         <author>
             <name>plun9</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Socratic Tutor]]></title>
+        <id>https://news.ycombinator.com/item?id=50438261</id>
+        <link href="https://github.com/janestreet/agent_skills/blob/master/socratic-tutor/SKILL.md"/>
+        <updated>2026-11-10T10:18:22.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://github.com/janestreet/agent_skills/blob/master/socratic-tutor/SKILL.md
+Comments URL: https://news.ycombinator.com/item?id=50438261
+Points: 629
+# Comments: 143]]></summary>
+        <author>
+            <name>tosh</name>
         </author>
     </entry>
     <entry>
@@ -3372,45 +3423,6 @@ Points: 513
 more…]]></summary>
         <author>
             <name>Martin Fowler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon pushes up prices across the Internet]]></title>
-        <id>https://news.ycombinator.com/item?id=50084757</id>
-        <link href="https://www.not-ship.com/how-amazon-pushes-up-prices-all-across-the-internet/"/>
-        <updated>2026-10-14T09:28:17.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.not-ship.com/how-amazon-pushes-up-prices-all-across-the-internet/
-Comments URL: https://news.ycombinator.com/item?id=50084757
-Points: 637
-# Comments: 545]]></summary>
-        <author>
-            <name>sighborg</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Iosevka is an open-source, sans-serif and slab-serif monospace font]]></title>
-        <id>https://news.ycombinator.com/item?id=50084240</id>
-        <link href="https://typeof.net/Iosevka/"/>
-        <updated>2026-10-14T08:27:59.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://typeof.net/Iosevka/
-Comments URL: https://news.ycombinator.com/item?id=50084240
-Points: 638
-# Comments: 271]]></summary>
-        <author>
-            <name>otobrglez</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AOSP Source Releases Are So Late Developers Disassemble Libraries to Report Bugs]]></title>
-        <id>https://news.ycombinator.com/item?id=50083130</id>
-        <link href="https://github.com/android/ndk/issues/2260"/>
-        <updated>2026-10-14T06:18:01.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://github.com/android/ndk/issues/2260
-Comments URL: https://news.ycombinator.com/item?id=50083130
-Points: 503
-# Comments: 250]]></summary>
-        <author>
-            <name>tharen</name>
         </author>
     </entry>
     <entry>
