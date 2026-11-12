@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-11-11T23:18:23.592Z</updated>
+    <updated>2026-11-12T05:56:00.058Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Nvidia is preparing to oust Jensen Huang]]></title>
+        <id>https://news.ycombinator.com/item?id=50459703</id>
+        <link href="https://www.wsj.com/business/nvidia-is-preparing-to-oust-nvidia-ceo-jensen-huang-30f421ad"/>
+        <updated>2026-11-11T22:31:06.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.wsj.com/business/nvidia-is-preparing-to-oust-nvidia-ceo-jensen-huang-30f421ad
+Comments URL: https://news.ycombinator.com/item?id=50459703
+Points: 787
+# Comments: 1128]]></summary>
+        <author>
+            <name>jbredeche</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS emulator]]></title>
+        <id>https://news.ycombinator.com/item?id=50456631</id>
+        <link href="https://github.com/aws/aws-emulator"/>
+        <updated>2026-11-11T18:21:38.000Z</updated>
+        <summary type="html"><![CDATA[https://www.aboutamazon.com/news/aws/how-autonomous-ai-agent...
+https://www.allthingsdistributed.com/2026/11/aws-emulator-an...
+Comments URL: https://news.ycombinator.com/item?id=50456631
+Points: 766
+# Comments: 227]]></summary>
+        <author>
+            <name>super_linear</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Tests as data: ensuring AI-generated code does what we want]]></title>
         <id>https://martinfowler.com/articles/tests-as-data.html</id>
@@ -28,6 +55,19 @@ more…]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[My AI agents found an unmapped Maya site?]]></title>
+        <id>https://news.ycombinator.com/item?id=50452455</id>
+        <link href="https://pietromiotti.com/latest/maya-site"/>
+        <updated>2026-11-11T12:05:22.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://pietromiotti.com/latest/maya-site
+Comments URL: https://news.ycombinator.com/item?id=50452455
+Points: 957
+# Comments: 350]]></summary>
+        <author>
+            <name>eyvindn</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Google SWE points 48 AI agents at NASA Lidar, finds unmapped Maya pyramid in 72h]]></title>
         <id>https://news.ycombinator.com/item?id=50452455</id>
         <link href="https://pietromiotti.com/latest/maya-site/?maya"/>
@@ -38,6 +78,19 @@ Points: 648
 # Comments: 249]]></summary>
         <author>
             <name>eyvindn</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tim Peters has died]]></title>
+        <id>https://news.ycombinator.com/item?id=50450488</id>
+        <link href="https://discuss.python.org/t/in-memoriam-tim-peters-1952-2026/110028"/>
+        <updated>2026-11-11T07:03:17.000Z</updated>
+        <summary type="html"><![CDATA[https://www.reddit.com/r/Python/s/2Cm5dBcvQw
+Comments URL: https://news.ycombinator.com/item?id=50450488
+Points: 1029
+# Comments: 111]]></summary>
+        <author>
+            <name>ayhanfuat</name>
         </author>
     </entry>
     <entry>
@@ -56,6 +109,19 @@ If you work for a company that is a W3C Member, please co…]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Apple has new Mac app coming to make running local AI models easy]]></title>
+        <id>https://news.ycombinator.com/item?id=50446520</id>
+        <link href="https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/"/>
+        <updated>2026-11-10T21:25:03.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/
+Comments URL: https://news.ycombinator.com/item?id=50446520
+Points: 526
+# Comments: 533]]></summary>
+        <author>
+            <name>linolevan</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Scion is back and is going to sell a kei truck in America]]></title>
         <id>https://news.ycombinator.com/item?id=50445401</id>
         <link href="https://www.theautopian.com/scion-is-back-and-its-going-to-sell-a-freaking-kei-truck-in-america/"/>
@@ -66,6 +132,19 @@ Points: 535
 # Comments: 370]]></summary>
         <author>
             <name>NaOH</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Starlink Mini 2]]></title>
+        <id>https://news.ycombinator.com/item?id=50444129</id>
+        <link href="https://starlink.com/mini-2"/>
+        <updated>2026-11-10T18:22:32.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://starlink.com/mini-2
+Comments URL: https://news.ycombinator.com/item?id=50444129
+Points: 506
+# Comments: 591]]></summary>
+        <author>
+            <name>robertjfclarke</name>
         </author>
     </entry>
     <entry>
@@ -163,6 +242,19 @@ Points: 656
 # Comments: 229]]></summary>
         <author>
             <name>aloukissas</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fable 5.2 one-shotted my nephew's dream game]]></title>
+        <id>https://news.ycombinator.com/item?id=50433659</id>
+        <link href="https://notesbylex.com/fable-5-2-one-shotted-my-nephews-dream-game"/>
+        <updated>2026-11-09T23:08:13.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://notesbylex.com/fable-5-2-one-shotted-my-nephews-dream-game
+Comments URL: https://news.ycombinator.com/item?id=50433659
+Points: 502
+# Comments: 449]]></summary>
+        <author>
+            <name>lexandstuff</name>
         </author>
     </entry>
     <entry>
@@ -3261,107 +3353,6 @@ Points: 535
 # Comments: 148]]></summary>
         <author>
             <name>talccc</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gemini 4 Argon]]></title>
-        <id>https://news.ycombinator.com/item?id=50073879</id>
-        <link href="https://deepmind.google/models/gemini/"/>
-        <updated>2026-10-13T16:03:16.000Z</updated>
-        <summary type="html"><![CDATA[See also: Gemini 4 Argon for Robotics - https://news.ycombinator.com/item?id=50074869
-Comments URL: https://news.ycombinator.com/item?id=50073879
-Points: 957
-# Comments: 737]]></summary>
-        <author>
-            <name>737max</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Redesigning source control at Anthropic]]></title>
-        <id>https://news.ycombinator.com/item?id=50073633</id>
-        <link href="https://www.anthropic.com/engineering/redesigning-source-control"/>
-        <updated>2026-10-13T15:49:56.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.anthropic.com/engineering/redesigning-source-control
-Comments URL: https://news.ycombinator.com/item?id=50073633
-Points: 509
-# Comments: 506]]></summary>
-        <author>
-            <name>Philpax</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Craft of Practitioner Voice]]></title>
-        <id>https://martinfowler.com/articles/practitioner-voice.html#TheCraftOfPractitionerVoice</id>
-        <link href="https://martinfowler.com/articles/practitioner-voice.html#TheCraftOfPractitionerVoice"/>
-        <updated>2026-10-13T14:06:00.000Z</updated>
-        <summary type="html"><![CDATA[A couple of months ago Jim Highsmith explained how
-      practitioners writing for each other forms a distinct style of writing. He
-      now adds a section to the article with more detail on the craft of how we
-      write in this style. How the writer shows up in the prose, its four
-      principles, the role of story, how to sensibly use AI, three levels of
-      editing, and clarity of the audience.
-more…]]></summary>
-        <author>
-            <name>Martin Fowler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Are Harnesses Worth the Cost?]]></title>
-        <id>https://martinfowler.com/articles/are-harnesses-worth-the-cost.html</id>
-        <link href="https://martinfowler.com/articles/are-harnesses-worth-the-cost.html"/>
-        <updated>2026-10-13T13:35:00.000Z</updated>
-        <summary type="html"><![CDATA[Naresh Jain compares coding agents building the same
-      API service with and without a behavioral harness. A frontier model, GPT-6
-      Sol, passed every external evaluation either way. But a cost-optimized
-      model, GPT-6 Luna, succeeded in only 3 of 10 unharnessed runs and all 10
-      with the harness. While adding the harness increased token usage and
-      runtime for Luna, the harnessed Luna runs achieved the same 10-for-10
-      reliability as GPT-6 Sol while costing 33% less per run ($0.273 vs
-      $0.406). This experiment suggests a behavioral harness might be a
-      practical way to get dependable results from smaller, cost-optimized
-      models.
-more…]]></summary>
-        <author>
-            <name>Martin Fowler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Apple HomeView]]></title>
-        <id>https://news.ycombinator.com/item?id=50071017</id>
-        <link href="https://www.apple.com/apple-homeview/"/>
-        <updated>2026-10-13T13:02:12.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.apple.com/apple-homeview/
-Comments URL: https://news.ycombinator.com/item?id=50071017
-Points: 646
-# Comments: 770]]></summary>
-        <author>
-            <name>etothet</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Firefox Enterprise]]></title>
-        <id>https://news.ycombinator.com/item?id=50070302</id>
-        <link href="https://www.firefox.com/en-US/enterprise/"/>
-        <updated>2026-10-13T12:00:42.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.firefox.com/en-US/enterprise/
-Comments URL: https://news.ycombinator.com/item?id=50070302
-Points: 631
-# Comments: 258]]></summary>
-        <author>
-            <name>recvonline</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[11 year old unsoundness bugs found in Rust borrow checker]]></title>
-        <id>https://news.ycombinator.com/item?id=50069499</id>
-        <link href="https://github.com/rust-lang/rust/issues/164250"/>
-        <updated>2026-10-13T10:27:00.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://github.com/rust-lang/rust/issues/164250
-Comments URL: https://news.ycombinator.com/item?id=50069499
-Points: 506
-# Comments: 288]]></summary>
-        <author>
-            <name>formerly_proven</name>
         </author>
     </entry>
     <entry>
