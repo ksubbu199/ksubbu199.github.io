@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=50471731",
+          "author": "dkpk",
+          "description": "https://www.abc.net.au/news/2026-11-13/microsoft-outage-affe...\nhttps://www.reddit.com/r/sysadmin/comments/1xuje83/microsoft...\nhttps://downdetector.com/status/microsoft-365/\nComments URL: https://news.ycombinator.com/item?id=50471731\nPoints: 526\n# Comments: 480",
+          "link": "https://status.cloud.microsoft/",
+          "publishedOn": "2026-11-12T18:20:48.000Z",
+          "wordCount": 12,
+          "title": "Service degradation on Microsoft 365",
+          "imageUrl": null
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=50467087",
           "author": "lldb",
           "description": "https://nvidianews.nvidia.com/news/nvidia-announces-ceo-tran...\nhttps://www.reuters.com/business/retail-consumer/nvidia-ceo-..., https://www.reuters.com/live/nvidia-live-board-meets-fate-ce...\nhttps://www.nytimes.com/live/2026/11/12/business/nvidia-jens...\nComments URL: https://news.ycombinator.com/item?id=50467087\nPoints: 2430\n# Comments: 2362",
@@ -2450,16 +2460,6 @@
           "wordCount": 3316,
           "title": "When Software Meets Hardware",
           "imageUrl": "https://martinfowler.com/articles/software-meets-hardware/card.png"
-        },
-        {
-          "id": "https://martinfowler.com/articles/never-send-slides/build-your-slide-template.html",
-          "author": null,
-          "description": "Building a slide template starts with three foundational choices —\n      colours, fonts and layouts. Sumeet Gayathri Moghe covers\n      the basics of color theory and how to build a reusable palette, the\n      essentials of typography, including serif, sans-serif, handwritten and\n      monospace fonts, plus the finer points of kerning and leading, and why a\n      near-blank layout might serve you better than the prescribed layouts that\n      ship with your slideware.\nmore…",
-          "link": "https://martinfowler.com/articles/never-send-slides/build-your-slide-template.html",
-          "publishedOn": "2026-10-14T14:20:00.000Z",
-          "wordCount": 3091,
-          "title": "Build your slide template",
-          "imageUrl": "https://martinfowler.com/articles/never-send-slides/index/card.png"
         }
       ]
     },

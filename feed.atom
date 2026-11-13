@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-11-12T21:44:37.398Z</updated>
+    <updated>2026-11-13T02:24:50.700Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -14,6 +14,21 @@
         <summary type="html"><![CDATA[The resiliency startup has slashed the amount it spends on AI; down from $4,500 per dev, per month, in August, to $1,600 now.]]></summary>
         <author>
             <name>Ivan Klaric</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Service degradation on Microsoft 365]]></title>
+        <id>https://news.ycombinator.com/item?id=50471731</id>
+        <link href="https://status.cloud.microsoft/"/>
+        <updated>2026-11-12T18:20:48.000Z</updated>
+        <summary type="html"><![CDATA[https://www.abc.net.au/news/2026-11-13/microsoft-outage-affe...
+https://www.reddit.com/r/sysadmin/comments/1xuje83/microsoft...
+https://downdetector.com/status/microsoft-365/
+Comments URL: https://news.ycombinator.com/item?id=50471731
+Points: 526
+# Comments: 480]]></summary>
+        <author>
+            <name>dkpk</name>
         </author>
     </entry>
     <entry>
@@ -3406,23 +3421,6 @@ Points: 513
 # Comments: 676]]></summary>
         <author>
             <name>speckx</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Build your slide template]]></title>
-        <id>https://martinfowler.com/articles/never-send-slides/build-your-slide-template.html</id>
-        <link href="https://martinfowler.com/articles/never-send-slides/build-your-slide-template.html"/>
-        <updated>2026-10-14T14:20:00.000Z</updated>
-        <summary type="html"><![CDATA[Building a slide template starts with three foundational choices —
-      colours, fonts and layouts. Sumeet Gayathri Moghe covers
-      the basics of color theory and how to build a reusable palette, the
-      essentials of typography, including serif, sans-serif, handwritten and
-      monospace fonts, plus the finer points of kerning and leading, and why a
-      near-blank layout might serve you better than the prescribed layouts that
-      ship with your slideware.
-more…]]></summary>
-        <author>
-            <name>Martin Fowler</name>
         </author>
     </entry>
     <entry>
