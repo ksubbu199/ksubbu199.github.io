@@ -6,6 +6,26 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=50477231",
+          "author": "lavendermon",
+          "description": "Article URL: https://www.wired.com/story/nvidia-employees-petition-for-jensen-huangs-return/\nComments URL: https://news.ycombinator.com/item?id=50477231\nPoints: 601\n# Comments: 447",
+          "link": "https://www.wired.com/story/nvidia-employees-petition-for-jensen-huangs-return/",
+          "publishedOn": "2026-11-13T02:16:24.000Z",
+          "wordCount": 25270,
+          "title": "Nvidia employees petition to bring back Jensen Huang",
+          "imageUrl": "https://media.wired.com/photos/6af6533dc5d481da1362b330/191:100/w_1280,c_limit/Petition-Bring-Back-Jensen-Business-2299493060.jpg"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=50472038",
+          "author": "mbStavola",
+          "description": "Article URL: https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/\nComments URL: https://news.ycombinator.com/item?id=50472038\nPoints: 692\n# Comments: 260",
+          "link": "https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/",
+          "publishedOn": "2026-11-12T18:39:05.000Z",
+          "wordCount": 2050,
+          "title": "Rust 1.100",
+          "imageUrl": "https://www.rust-lang.org/static/images/rust-social-wide.jpg"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=50471731",
           "author": "dkpk",
           "description": "https://www.abc.net.au/news/2026-11-13/microsoft-outage-affe...\nhttps://www.reddit.com/r/sysadmin/comments/1xuje83/microsoft...\nhttps://downdetector.com/status/microsoft-365/\nComments URL: https://news.ycombinator.com/item?id=50471731\nPoints: 526\n# Comments: 480",
@@ -14,6 +34,26 @@
           "wordCount": 12,
           "title": "Service degradation on Microsoft 365",
           "imageUrl": null
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=50471431",
+          "author": "dvaplima",
+          "description": "Article URL: https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/\nComments URL: https://news.ycombinator.com/item?id=50471431\nPoints: 531\n# Comments: 333",
+          "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/",
+          "publishedOn": "2026-11-12T18:01:48.000Z",
+          "wordCount": 5817,
+          "title": "Gemini 4 Hydrogen",
+          "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-4-hydrogen__key-art__lockup__16-9.width-1300.jpg"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=50470488",
+          "author": "simpsoka",
+          "description": "https://x.com/simpsoka/status/2115254318161182876\nComments URL: https://news.ycombinator.com/item?id=50470488\nPoints: 533\n# Comments: 183",
+          "link": "https://github.com/simpsoka/zigzag",
+          "publishedOn": "2026-11-12T17:02:42.000Z",
+          "wordCount": 15095,
+          "title": "Show HN: My $300 embroidery machine needed a subscription, so I built my own app",
+          "imageUrl": "https://opengraph.githubassets.com/ef4d378a55568368f1387dfa49193a484c9a9a63fe20d38506cf1c1fe9a1f8d4/simpsoka/zigzag"
         },
         {
           "id": "https://news.ycombinator.com/item?id=50467087",
@@ -2184,96 +2224,6 @@
           "wordCount": 26534,
           "title": "AdFection: Targeted ads turned into a pipeline for zero-click mercenary spyware",
           "imageUrl": "https://citizenlab.ca/wp-content/uploads/2026/10/discover-report_updated-01-e1792025505984.png"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=50096142",
-          "author": "donohoe",
-          "description": "Article URL: https://tinylittleoffice.com/\nComments URL: https://news.ycombinator.com/item?id=50096142\nPoints: 537\n# Comments: 120",
-          "link": "https://tinylittleoffice.com/",
-          "publishedOn": "2026-10-14T22:10:08.000Z",
-          "wordCount": 326,
-          "title": "Tiny Little Office",
-          "imageUrl": "https://tinylittleoffice.com/og.png"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=50094994",
-          "author": "gmays",
-          "description": "Article URL: https://anoma.ly/notes/opencode-2-0/\nComments URL: https://news.ycombinator.com/item?id=50094994\nPoints: 583\n# Comments: 225",
-          "link": "https://anoma.ly/notes/opencode-2-0/",
-          "publishedOn": "2026-10-14T20:48:24.000Z",
-          "wordCount": 15748,
-          "title": "OpenCode 2.0",
-          "imageUrl": "https://anoma.ly/notes/og/opencode-2-0.png"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=50093568",
-          "author": "jjmaxwell4",
-          "description": "Article URL: https://jjmaxwell4.com/writing/things-to-know-when-you-get-cancer/\nComments URL: https://news.ycombinator.com/item?id=50093568\nPoints: 611\n# Comments: 161",
-          "link": "https://jjmaxwell4.com/writing/things-to-know-when-you-get-cancer/",
-          "publishedOn": "2026-10-14T19:26:30.000Z",
-          "wordCount": 4807,
-          "title": "Things to know when you get cancer – 2026 Edition",
-          "imageUrl": "https://jjmaxwell4.com/open-graph/things-to-know-when-you-get-cancer.png"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=50093180",
-          "author": "ivewonyoung",
-          "description": "Article URL: https://www.telegraph.co.uk/news/2026/10/13/suicide-rates-highest-ever-among-middle-aged-men/\nComments URL: https://news.ycombinator.com/item?id=50093180\nPoints: 518\n# Comments: 744",
-          "link": "https://www.telegraph.co.uk/news/2026/10/13/suicide-rates-highest-ever-among-middle-aged-men/",
-          "publishedOn": "2026-10-14T19:03:58.000Z",
-          "wordCount": 2091,
-          "title": "Suicide rates highest ever among middle-aged men",
-          "imageUrl": "https://www.telegraph.co.uk/content/dam/briefs/2026/10/13/TELEMMGLPICT000507183811_17919022221720_trans_NvBQzQNjv4BqrnykcIhNBTQGIhNzmTaT-cLZq-j_VIcNfiYtpwBx7zI.jpeg?impolicy=OG-Standard"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=50091788",
-          "author": "latexr",
-          "description": "Article URL: https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html\nComments URL: https://news.ycombinator.com/item?id=50091788\nPoints: 683\n# Comments: 301",
-          "link": "https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html",
-          "publishedOn": "2026-10-14T17:45:23.000Z",
-          "wordCount": 7624,
-          "title": "AI agents aren't 'going rogue.' Frontier labs are skipping security basics",
-          "imageUrl": "https://www.csoonline.com/wp-content/uploads/2026/10/4234854-0-28632700-1792004597-shutterstock_2472843149.jpg?quality=50&strip=all&w=1024"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=50090349",
-          "author": "Brajeshwar",
-          "description": "Article URL: https://www.androidauthority.com/google-auto-phone-number-verification-android-3723117/\nComments URL: https://news.ycombinator.com/item?id=50090349\nPoints: 501\n# Comments: 145",
-          "link": "https://www.androidauthority.com/google-auto-phone-number-verification-android-3723117/",
-          "publishedOn": "2026-10-14T16:28:51.000Z",
-          "wordCount": null,
-          "title": "Google is silently linking your phone number across all signed-in accounts",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=50090246",
-          "author": "bhrlady",
-          "description": "Article URL: https://prospect.org/2026/10/14/ice-planning-nightmare-domestic-spy-program-ero-one/\nComments URL: https://news.ycombinator.com/item?id=50090246\nPoints: 511\n# Comments: 316",
-          "link": "https://prospect.org/2026/10/14/ice-planning-nightmare-domestic-spy-program-ero-one/",
-          "publishedOn": "2026-10-14T16:24:11.000Z",
-          "wordCount": 8978,
-          "title": "ICE Planning $100M 'Nightmare' Domestic Spy Program",
-          "imageUrl": "https://i0.wp.com/prospect.org/wp-content/uploads/2026/10/Wimbish-ERO-ONE-101426.jpg?fit=2145%2C1398&ssl=1"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=50089921",
-          "author": "hubraumhugo",
-          "description": "Article URL: https://www.dataforprogress.org/blog/2026/9/29/americans-social-activity-has-steeply-declined-in-the-past-30-years\nComments URL: https://news.ycombinator.com/item?id=50089921\nPoints: 549\n# Comments: 529",
-          "link": "https://www.dataforprogress.org/blog/2026/9/29/americans-social-activity-has-steeply-declined-in-the-past-30-years",
-          "publishedOn": "2026-10-14T16:09:00.000Z",
-          "wordCount": 3329,
-          "title": "Americans' social activity has steeply declined in the past 30 years",
-          "imageUrl": "http://static1.squarespace.com/static/5aa9be92f8370a24714de593/t/6aba933e8ee596665cfd1976/1790612286756/Copy+of+Poll_+Personally+Knowing+a+Transgender+Person+Correlates+With+Increased+Sympathy+for+Transgender+People+and+Support+for+LGBTQ%2B+Issues.png?format=1500w"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=50088935",
-          "author": "speckx",
-          "description": "Article URL: https://scotthelme.co.uk/passkeys-are-not-a-trap/\nComments URL: https://news.ycombinator.com/item?id=50088935\nPoints: 513\n# Comments: 676",
-          "link": "https://scotthelme.co.uk/passkeys-are-not-a-trap/",
-          "publishedOn": "2026-10-14T15:15:45.000Z",
-          "wordCount": 1630,
-          "title": "Passkeys are not a trap",
-          "imageUrl": "https://storage.ghost.io/c/ee/88/ee889f88-37ef-43e5-9180-f9b88ee6261d/content/images/size/w1200/2026/10/passkeys-trap.png"
         }
       ]
     },

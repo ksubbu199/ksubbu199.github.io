@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-11-13T02:24:50.700Z</updated>
+    <updated>2026-11-13T10:35:19.919Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Nvidia employees petition to bring back Jensen Huang]]></title>
+        <id>https://news.ycombinator.com/item?id=50477231</id>
+        <link href="https://www.wired.com/story/nvidia-employees-petition-for-jensen-huangs-return/"/>
+        <updated>2026-11-13T02:16:24.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.wired.com/story/nvidia-employees-petition-for-jensen-huangs-return/
+Comments URL: https://news.ycombinator.com/item?id=50477231
+Points: 601
+# Comments: 447]]></summary>
+        <author>
+            <name>lavendermon</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Pulse: Details of incident.io’s AI spend]]></title>
         <id>6aec73282f23c10001da42a7</id>
@@ -14,6 +27,19 @@
         <summary type="html"><![CDATA[The resiliency startup has slashed the amount it spends on AI; down from $4,500 per dev, per month, in August, to $1,600 now.]]></summary>
         <author>
             <name>Ivan Klaric</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rust 1.100]]></title>
+        <id>https://news.ycombinator.com/item?id=50472038</id>
+        <link href="https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/"/>
+        <updated>2026-11-12T18:39:05.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/
+Comments URL: https://news.ycombinator.com/item?id=50472038
+Points: 692
+# Comments: 260]]></summary>
+        <author>
+            <name>mbStavola</name>
         </author>
     </entry>
     <entry>
@@ -29,6 +55,32 @@ Points: 526
 # Comments: 480]]></summary>
         <author>
             <name>dkpk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gemini 4 Hydrogen]]></title>
+        <id>https://news.ycombinator.com/item?id=50471431</id>
+        <link href="https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/"/>
+        <updated>2026-11-12T18:01:48.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/
+Comments URL: https://news.ycombinator.com/item?id=50471431
+Points: 531
+# Comments: 333]]></summary>
+        <author>
+            <name>dvaplima</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: My $300 embroidery machine needed a subscription, so I built my own app]]></title>
+        <id>https://news.ycombinator.com/item?id=50470488</id>
+        <link href="https://github.com/simpsoka/zigzag"/>
+        <updated>2026-11-12T17:02:42.000Z</updated>
+        <summary type="html"><![CDATA[https://x.com/simpsoka/status/2115254318161182876
+Comments URL: https://news.ycombinator.com/item?id=50470488
+Points: 533
+# Comments: 183]]></summary>
+        <author>
+            <name>simpsoka</name>
         </author>
     </entry>
     <entry>
@@ -3304,123 +3356,6 @@ Points: 501
 # Comments: 670]]></summary>
         <author>
             <name>jcomp</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tiny Little Office]]></title>
-        <id>https://news.ycombinator.com/item?id=50096142</id>
-        <link href="https://tinylittleoffice.com/"/>
-        <updated>2026-10-14T22:10:08.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://tinylittleoffice.com/
-Comments URL: https://news.ycombinator.com/item?id=50096142
-Points: 537
-# Comments: 120]]></summary>
-        <author>
-            <name>donohoe</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenCode 2.0]]></title>
-        <id>https://news.ycombinator.com/item?id=50094994</id>
-        <link href="https://anoma.ly/notes/opencode-2-0/"/>
-        <updated>2026-10-14T20:48:24.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://anoma.ly/notes/opencode-2-0/
-Comments URL: https://news.ycombinator.com/item?id=50094994
-Points: 583
-# Comments: 225]]></summary>
-        <author>
-            <name>gmays</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Things to know when you get cancer – 2026 Edition]]></title>
-        <id>https://news.ycombinator.com/item?id=50093568</id>
-        <link href="https://jjmaxwell4.com/writing/things-to-know-when-you-get-cancer/"/>
-        <updated>2026-10-14T19:26:30.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://jjmaxwell4.com/writing/things-to-know-when-you-get-cancer/
-Comments URL: https://news.ycombinator.com/item?id=50093568
-Points: 611
-# Comments: 161]]></summary>
-        <author>
-            <name>jjmaxwell4</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Suicide rates highest ever among middle-aged men]]></title>
-        <id>https://news.ycombinator.com/item?id=50093180</id>
-        <link href="https://www.telegraph.co.uk/news/2026/10/13/suicide-rates-highest-ever-among-middle-aged-men/"/>
-        <updated>2026-10-14T19:03:58.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.telegraph.co.uk/news/2026/10/13/suicide-rates-highest-ever-among-middle-aged-men/
-Comments URL: https://news.ycombinator.com/item?id=50093180
-Points: 518
-# Comments: 744]]></summary>
-        <author>
-            <name>ivewonyoung</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI agents aren't 'going rogue.' Frontier labs are skipping security basics]]></title>
-        <id>https://news.ycombinator.com/item?id=50091788</id>
-        <link href="https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html"/>
-        <updated>2026-10-14T17:45:23.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html
-Comments URL: https://news.ycombinator.com/item?id=50091788
-Points: 683
-# Comments: 301]]></summary>
-        <author>
-            <name>latexr</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google is silently linking your phone number across all signed-in accounts]]></title>
-        <id>https://news.ycombinator.com/item?id=50090349</id>
-        <link href="https://www.androidauthority.com/google-auto-phone-number-verification-android-3723117/"/>
-        <updated>2026-10-14T16:28:51.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.androidauthority.com/google-auto-phone-number-verification-android-3723117/
-Comments URL: https://news.ycombinator.com/item?id=50090349
-Points: 501
-# Comments: 145]]></summary>
-        <author>
-            <name>Brajeshwar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ICE Planning $100M 'Nightmare' Domestic Spy Program]]></title>
-        <id>https://news.ycombinator.com/item?id=50090246</id>
-        <link href="https://prospect.org/2026/10/14/ice-planning-nightmare-domestic-spy-program-ero-one/"/>
-        <updated>2026-10-14T16:24:11.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://prospect.org/2026/10/14/ice-planning-nightmare-domestic-spy-program-ero-one/
-Comments URL: https://news.ycombinator.com/item?id=50090246
-Points: 511
-# Comments: 316]]></summary>
-        <author>
-            <name>bhrlady</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Americans' social activity has steeply declined in the past 30 years]]></title>
-        <id>https://news.ycombinator.com/item?id=50089921</id>
-        <link href="https://www.dataforprogress.org/blog/2026/9/29/americans-social-activity-has-steeply-declined-in-the-past-30-years"/>
-        <updated>2026-10-14T16:09:00.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.dataforprogress.org/blog/2026/9/29/americans-social-activity-has-steeply-declined-in-the-past-30-years
-Comments URL: https://news.ycombinator.com/item?id=50089921
-Points: 549
-# Comments: 529]]></summary>
-        <author>
-            <name>hubraumhugo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Passkeys are not a trap]]></title>
-        <id>https://news.ycombinator.com/item?id=50088935</id>
-        <link href="https://scotthelme.co.uk/passkeys-are-not-a-trap/"/>
-        <updated>2026-10-14T15:15:45.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://scotthelme.co.uk/passkeys-are-not-a-trap/
-Comments URL: https://news.ycombinator.com/item?id=50088935
-Points: 513
-# Comments: 676]]></summary>
-        <author>
-            <name>speckx</name>
         </author>
     </entry>
     <entry>
