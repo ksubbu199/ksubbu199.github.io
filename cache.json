@@ -2194,56 +2194,6 @@
           "wordCount": null,
           "title": "What I self-host",
           "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=50107379",
-          "author": "bigwheels",
-          "description": "https://dev.meta.ai/resources/blog/build-with-muse-spark-ope...\nhttps://huggingface.co/meta-models/Muse-Spark-Open-816B-A42B\nhttps://9to5mac.com/2026/10/15/meta-launches-new-muse-spark-...\nComments URL: https://news.ycombinator.com/item?id=50107379\nPoints: 713\n# Comments: 378",
-          "link": "https://research.meta.ai/blog/muse-spark-open",
-          "publishedOn": "2026-10-15T17:47:39.000Z",
-          "wordCount": 3194,
-          "title": "Muse Spark Open",
-          "imageUrl": "https://research.meta.ai/articles/muse-spark-open/social/muse-spark-1-2-open-weights-social-v2.webp"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=50106023",
-          "author": "zlandes86",
-          "description": "Article URL: https://zachlandes.com/trolley-problem/\nComments URL: https://news.ycombinator.com/item?id=50106023\nPoints: 577\n# Comments: 230",
-          "link": "https://zachlandes.com/trolley-problem/",
-          "publishedOn": "2026-10-15T16:24:52.000Z",
-          "wordCount": 16917,
-          "title": "Jev meets the Trolley Problem",
-          "imageUrl": "https://zachlandes.com/assets/og/trolley-problem.jpg"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=50105647",
-          "author": "themgt",
-          "description": "https://twitter.com/nickcammarata/status/2110757819427574056\nComments URL: https://news.ycombinator.com/item?id=50105647\nPoints: 582\n# Comments: 217",
-          "link": "https://already-clean.goodfire.com/",
-          "publishedOn": "2026-10-15T16:04:01.000Z",
-          "wordCount": 99445,
-          "title": "Neural networks are clean",
-          "imageUrl": "https://already-clean.goodfire.com/assets/social/city-and-knot-20261015.png"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=50103338",
-          "author": "FinalDestiny",
-          "description": "Article URL: https://github.com/fyzugx/DEsk\nComments URL: https://news.ycombinator.com/item?id=50103338\nPoints: 555\n# Comments: 221",
-          "link": "https://github.com/fyzugx/DEsk",
-          "publishedOn": "2026-10-15T13:23:44.000Z",
-          "wordCount": 10998,
-          "title": "Wayland desktop for Linux with skeuomorphic design",
-          "imageUrl": "https://opengraph.githubassets.com/65152faa74697ae273aef8abb2638b2ac74e8a229ab18a401b6e538e8e01f408/fyzugx/DEsk"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=50103000",
-          "author": "chunkyslink",
-          "description": "https://www.theverge.com/tech/1011956/discover-tech-zero-cli...\nComments URL: https://news.ycombinator.com/item?id=50103000\nPoints: 502\n# Comments: 1",
-          "link": "https://www.theguardian.com/technology/2026/oct/15/israeli-firm-digital-ads-enabling-installation-of-zero-click-spyware-researchers-say",
-          "publishedOn": "2026-10-15T12:58:32.000Z",
-          "wordCount": 4567,
-          "title": "Online ads weaponised to deliver ‘zero-click’ spyware, researchers say",
-          "imageUrl": "https://i.guim.co.uk/img/media/3035c44f5ae09be7cb6b5806453ff11e9db3e89f/401_440_2305_1844/master/2305.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=934fb19a9352c330577175c1f90d49df"
         }
       ]
     },
@@ -2420,16 +2370,6 @@
           "wordCount": 1238,
           "title": "Fragments: October 21",
           "imageUrl": "https://martinfowler.com/fragments/fragments-thumb.png"
-        },
-        {
-          "id": "https://martinfowler.com/articles/software-meets-hardware.html",
-          "author": null,
-          "description": "When software meets hardware, engineering principles remain largely the\n    same, but the sensible defaults often change. Kuldeep Singh\n    describes our experience modernizing a large IoT fleet of battery-powered\n    sensors. Our familiar principles remained important; what changed was how we\n    applied them. These practices emerged through experiments, failures, and\n    operational experience—each challenge helping us replace a reasonable\n    assumption with a more sensible default. \nmore…",
-          "link": "https://martinfowler.com/articles/software-meets-hardware.html",
-          "publishedOn": "2026-10-15T13:25:00.000Z",
-          "wordCount": 3316,
-          "title": "When Software Meets Hardware",
-          "imageUrl": "https://martinfowler.com/articles/software-meets-hardware/card.png"
         }
       ]
     },
@@ -2472,16 +2412,6 @@
           "publishedOn": "2026-10-22T14:52:25.000Z",
           "wordCount": 3138,
           "title": "The Pulse: Anthropic builds its own source control system",
-          "imageUrl": null
-        },
-        {
-          "id": "6ad06b769f87750001f8bf33",
-          "author": "Ivan Klaric",
-          "description": "Ramp and Stripe built platforms for non-engineers to build internal websites and tools with, and both are taking off in those workplaces. I expect more companies to do the same.",
-          "link": "https://blog.pragmaticengineer.com/the-pulse-new-trend-of-building-internal-vibe-coding-apps-at-tech-companies/",
-          "publishedOn": "2026-10-15T17:01:10.000Z",
-          "wordCount": 1563,
-          "title": "The Pulse: new trend of building “internal vibe-coding apps” at tech companies",
           "imageUrl": null
         }
       ]
@@ -2640,26 +2570,6 @@
           "wordCount": 3500,
           "title": "Sri Lanka: The Next Big Goldmine Opportunity?",
           "imageUrl": "https://i.ytimg.com/vi/Lehkr4NIBXE/oar2.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLA56ui1sM8KQ6p6CpqcBA6Scbklig"
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=dbM8AMmEdgY",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=dbM8AMmEdgY",
-          "publishedOn": "2026-10-15T13:28:48.000Z",
-          "wordCount": null,
-          "title": "How to Earn Millions From Luxury Real Estate: Sri Lanka vs Dubai vs Bali",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/shorts/AD0zW9tqHpA",
-          "author": null,
-          "description": "Sri Lanka Real Estate vs Mumbai: Where Can You Earn More?Can Sri Lanka offer better real estate returns than Mumbai?In this snippet from our upcoming podcast...",
-          "link": "https://www.youtube.com/shorts/AD0zW9tqHpA",
-          "publishedOn": "2026-10-15T12:40:19.000Z",
-          "wordCount": 3554,
-          "title": "Sri Lanka vs Dubai vs Thailand: Which Is the Safest Real Estate Bet for Indians?",
-          "imageUrl": "https://i.ytimg.com/vi/AD0zW9tqHpA/hq720.jpg?sqp=-oaymwEoCJUDENAFSFryq4qpAxoIARUAAAAAJQAAyEI9AICiQ3gB0AEBuALzGA==&rs=AOn4CLCRK336O2ih9HUDAqFFbYrpz0MnZw"
         }
       ]
     },
