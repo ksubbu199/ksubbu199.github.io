@@ -6,6 +6,26 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=50489641",
+          "author": "zulln",
+          "description": "https://www.fly.faa.gov/adv/adv_otherdis?adv_date=11132026&a...\nhttps://www.nytimes.com/live/2026/11/13/us/ground-stop-natio...\nComments URL: https://news.ycombinator.com/item?id=50489641\nPoints: 1101\n# Comments: 669",
+          "link": "https://www.nbcnews.com/news/us-news/faa-orders-nationwide-ground-stop-departing-flights-reasons-safety-rcna609247",
+          "publishedOn": "2026-11-13T21:05:53.000Z",
+          "wordCount": 14214,
+          "title": "FAA issues national ground stop",
+          "imageUrl": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-11/261113-ohare-airport-sjr-1605-99076a.jpg"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=50486482",
+          "author": "mksaunders2",
+          "description": "Article URL: https://twitter.com/LibreOffice/status/2121205272479998268\nComments URL: https://news.ycombinator.com/item?id=50486482\nPoints: 797\n# Comments: 250",
+          "link": "https://twitter.com/LibreOffice/status/2121205272479998268",
+          "publishedOn": "2026-11-13T17:09:58.000Z",
+          "wordCount": 1745,
+          "title": "LibreOffice actually works 365 days a year",
+          "imageUrl": "https://pbs.twimg.com/profile_images/1643630535338598402/3ya2QWR3_400x400.jpg"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=50477231",
           "author": "lavendermon",
           "description": "Article URL: https://www.wired.com/story/nvidia-employees-petition-for-jensen-huangs-return/\nComments URL: https://news.ycombinator.com/item?id=50477231\nPoints: 601\n# Comments: 447",
@@ -14,6 +34,16 @@
           "wordCount": 25270,
           "title": "Nvidia employees petition to bring back Jensen Huang",
           "imageUrl": "https://media.wired.com/photos/6af6533dc5d481da1362b330/191:100/w_1280,c_limit/Petition-Bring-Back-Jensen-Business-2299493060.jpg"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=50474959",
+          "author": "scottjg",
+          "description": "Article URL: https://scottjg.com/posts/2026-11-11-reverse-engineering-my-coway-air-purifier-to-ditch-the-cloud/\nComments URL: https://news.ycombinator.com/item?id=50474959\nPoints: 655\n# Comments: 192",
+          "link": "https://scottjg.com/posts/2026-11-11-reverse-engineering-my-coway-air-purifier-to-ditch-the-cloud/",
+          "publishedOn": "2026-11-12T22:03:09.000Z",
+          "wordCount": 6489,
+          "title": "Reverse engineering my Coway air purifier to ditch the cloud",
+          "imageUrl": "https://scottjg.com/posts/2026-11-11-reverse-engineering-my-coway-air-purifier-to-ditch-the-cloud/coway-airmega-icons-cover.jpg"
         },
         {
           "id": "https://news.ycombinator.com/item?id=50472038",
@@ -2214,16 +2244,6 @@
           "wordCount": 4567,
           "title": "Online ads weaponised to deliver ‘zero-click’ spyware, researchers say",
           "imageUrl": "https://i.guim.co.uk/img/media/3035c44f5ae09be7cb6b5806453ff11e9db3e89f/401_440_2305_1844/master/2305.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=934fb19a9352c330577175c1f90d49df"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=50101813",
-          "author": "jcomp",
-          "description": "https://www.theguardian.com/technology/2026/oct/15/israeli-f...\nhttps://www.theverge.com/tech/1011956/discover-tech-zero-cli...\nComments URL: https://news.ycombinator.com/item?id=50101813\nPoints: 501\n# Comments: 670",
-          "link": "https://citizenlab.ca/research/how-discover-tech-turned-targeted-ads-into-a-pipeline-for-spyware/",
-          "publishedOn": "2026-10-15T10:43:36.000Z",
-          "wordCount": 26534,
-          "title": "AdFection: Targeted ads turned into a pipeline for zero-click mercenary spyware",
-          "imageUrl": "https://citizenlab.ca/wp-content/uploads/2026/10/discover-report_updated-01-e1792025505984.png"
         }
       ]
     },
