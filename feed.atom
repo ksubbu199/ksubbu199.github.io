@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-11-14T07:22:41.395Z</updated>
+    <updated>2026-11-14T14:47:22.794Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs]]></title>
+        <id>https://news.ycombinator.com/item?id=50493251</id>
+        <link href="https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus"/>
+        <updated>2026-11-14T02:52:59.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus
+Comments URL: https://news.ycombinator.com/item?id=50493251
+Points: 809
+# Comments: 478]]></summary>
+        <author>
+            <name>speckx</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[FAA issues national ground stop]]></title>
         <id>https://news.ycombinator.com/item?id=50489641</id>
@@ -76,6 +89,19 @@ Points: 655
         <summary type="html"><![CDATA[The resiliency startup has slashed the amount it spends on AI; down from $4,500 per dev, per month, in August, to $1,600 now.]]></summary>
         <author>
             <name>Ivan Klaric</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gemini 4 Hydrogen and Orchestrator]]></title>
+        <id>https://news.ycombinator.com/item?id=50472260</id>
+        <link href="https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/"/>
+        <updated>2026-11-12T18:52:01.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/
+Comments URL: https://news.ycombinator.com/item?id=50472260
+Points: 501
+# Comments: 161]]></summary>
+        <author>
+            <name>jonbaer</name>
         </author>
     </entry>
     <entry>
@@ -3242,42 +3268,6 @@ Points: 512
 # Comments: 439]]></summary>
         <author>
             <name>speckx</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tesla Roadster]]></title>
-        <id>https://news.ycombinator.com/item?id=50112657</id>
-        <link href="https://www.tesla.com/roadster"/>
-        <updated>2026-10-16T01:32:45.000Z</updated>
-        <summary type="html"><![CDATA[https://www.youtube.com/watch?v=7p5LxFdc-Qg
-https://twitter.com/Tesla/status/2110788059008819215
-Comments URL: https://news.ycombinator.com/item?id=50112657
-Points: 634
-# Comments: 1037]]></summary>
-        <author>
-            <name>shekhar101</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What I self-host]]></title>
-        <id>https://news.ycombinator.com/item?id=50109715</id>
-        <link href="https://viceconsole.fyi/blog/2026/10/10/what-i-self-host/"/>
-        <updated>2026-10-15T20:23:25.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://viceconsole.fyi/blog/2026/10/10/what-i-self-host/
-Comments URL: https://news.ycombinator.com/item?id=50109715
-Points: 502
-# Comments: 315]]></summary>
-        <author>
-            <name>BrunoBernardino</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Don't lose the joy of software to AI]]></title>
-        <id>https://www.youtube.com/watch?v=rnJrc1QOFME</id>
-        <link href="https://www.youtube.com/watch?v=rnJrc1QOFME"/>
-        <updated>2026-10-15T15:00:39.000Z</updated>
-        <author>
-            <name>Hussein Nasser</name>
         </author>
     </entry>
     <entry>

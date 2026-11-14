@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=50493251",
+          "author": "speckx",
+          "description": "Article URL: https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus\nComments URL: https://news.ycombinator.com/item?id=50493251\nPoints: 809\n# Comments: 478",
+          "link": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
+          "publishedOn": "2026-11-14T02:52:59.000Z",
+          "wordCount": 3056,
+          "title": "Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
+          "imageUrl": "https://www.techpowerup.com/img/ooCln2q3jkKNGHen.jpg"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=50489641",
           "author": "zulln",
           "description": "https://www.fly.faa.gov/adv/adv_otherdis?adv_date=11132026&a...\nhttps://www.nytimes.com/live/2026/11/13/us/ground-stop-natio...\nComments URL: https://news.ycombinator.com/item?id=50489641\nPoints: 1101\n# Comments: 669",
@@ -44,6 +54,16 @@
           "wordCount": 6489,
           "title": "Reverse engineering my Coway air purifier to ditch the cloud",
           "imageUrl": "https://scottjg.com/posts/2026-11-11-reverse-engineering-my-coway-air-purifier-to-ditch-the-cloud/coway-airmega-icons-cover.jpg"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=50472260",
+          "author": "jonbaer",
+          "description": "Article URL: https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/\nComments URL: https://news.ycombinator.com/item?id=50472260\nPoints: 501\n# Comments: 161",
+          "link": "https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/",
+          "publishedOn": "2026-11-12T18:52:01.000Z",
+          "wordCount": 3480,
+          "title": "Gemini 4 Hydrogen and Orchestrator",
+          "imageUrl": "https://antigravity.google/assets/image/blog/4-Hydrogen---Wide.png"
         },
         {
           "id": "https://news.ycombinator.com/item?id=50472038",
@@ -2174,26 +2194,6 @@
           "wordCount": 5357,
           "title": "90% of US working hours are spent on tasks not covered well by AI benchmarks",
           "imageUrl": "https://www.mercor.com/mercor-logo-white.png"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=50112657",
-          "author": "shekhar101",
-          "description": "https://www.youtube.com/watch?v=7p5LxFdc-Qg\nhttps://twitter.com/Tesla/status/2110788059008819215\nComments URL: https://news.ycombinator.com/item?id=50112657\nPoints: 634\n# Comments: 1037",
-          "link": "https://www.tesla.com/roadster",
-          "publishedOn": "2026-10-16T01:32:45.000Z",
-          "wordCount": null,
-          "title": "Tesla Roadster",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=50109715",
-          "author": "BrunoBernardino",
-          "description": "Article URL: https://viceconsole.fyi/blog/2026/10/10/what-i-self-host/\nComments URL: https://news.ycombinator.com/item?id=50109715\nPoints: 502\n# Comments: 315",
-          "link": "https://viceconsole.fyi/blog/2026/10/10/what-i-self-host/",
-          "publishedOn": "2026-10-15T20:23:25.000Z",
-          "wordCount": null,
-          "title": "What I self-host",
-          "imageUrl": null
         }
       ]
     },
@@ -2586,16 +2586,6 @@
           "publishedOn": "2026-10-22T15:00:07.000Z",
           "wordCount": null,
           "title": "Everyone hand-waves VPN, lets fix that",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=rnJrc1QOFME",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=rnJrc1QOFME",
-          "publishedOn": "2026-10-15T15:00:39.000Z",
-          "wordCount": null,
-          "title": "Don't lose the joy of software to AI",
           "imageUrl": null
         }
       ]
