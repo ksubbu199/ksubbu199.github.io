@@ -26,6 +26,16 @@
           "imageUrl": "https://www.crissyfield.de/images/research-lovable-opengraph.jpg"
         },
         {
+          "id": "https://news.ycombinator.com/item?id=50496976",
+          "author": "mrkn1",
+          "description": "Article URL: https://tube.kockatoo.org/w/fFinNHfanLT7aBEb2B8y4c\nComments URL: https://news.ycombinator.com/item?id=50496976\nPoints: 503\n# Comments: 111",
+          "link": "https://tube.kockatoo.org/w/fFinNHfanLT7aBEb2B8y4c",
+          "publishedOn": "2026-11-14T13:43:28.000Z",
+          "wordCount": 570,
+          "title": "KDE: The documentary [video]",
+          "imageUrl": "https://tube.kockatoo.org/lazy-static/thumbnails/02935b80-28d9-4fd7-bc33-9d0cb76f2e80.webp"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=50496602",
           "author": "gslin",
           "description": "Article URL: https://www.eff.org/deeplinks/2026/11/tech-companies-are-trying-shift-entire-concept-privacy-again\nComments URL: https://news.ycombinator.com/item?id=50496602\nPoints: 512\n# Comments: 182",
@@ -2184,46 +2194,6 @@
           "wordCount": 968,
           "title": "DeepSeek-v4.1-Flash-1017",
           "imageUrl": "https://cdn-thumbnails.huggingface.co/social-thumbnails/models/deepseek-ai/DeepSeek-V4.1-Flash-1017.png"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=50126253",
-          "author": "alkyon",
-          "description": "https://archive.ph/zIPG4\nComments URL: https://news.ycombinator.com/item?id=50126253\nPoints: 519\n# Comments: 108",
-          "link": "https://www.nature.com/articles/d41586-026-03266-x",
-          "publishedOn": "2026-10-16T23:38:27.000Z",
-          "wordCount": 3356,
-          "title": "Bleached corals thrive within days when touching healthy neighbour",
-          "imageUrl": "https://media.nature.com/lw1200/magazine-assets/d41586-026-03266-x/d41586-026-03266-x_53851622.jpg"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=50122878",
-          "author": "speckx",
-          "description": "https://twitter.com/heyyalexwang/status/2111158818730397932\nComments URL: https://news.ycombinator.com/item?id=50122878\nPoints: 511\n# Comments: 120",
-          "link": "https://alexwang.ai/posts/associative-memory/",
-          "publishedOn": "2026-10-16T19:01:17.000Z",
-          "wordCount": 8095,
-          "title": "You could have invented transformers from memory",
-          "imageUrl": "https://alexwang.ai/images/share-card_hu_ba29a66ace5a286c.jpg"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=50122800",
-          "author": "ahlCVA",
-          "description": "https://words.filippo.io/seeds-solved/\nComments URL: https://news.ycombinator.com/item?id=50122800\nPoints: 508\n# Comments: 212",
-          "link": "https://www.anthropic.com/research/ecdsa-curve-origins",
-          "publishedOn": "2026-10-16T18:55:59.000Z",
-          "wordCount": 5496,
-          "title": "Claude reveals ECDSA curve origins",
-          "imageUrl": "https://www-cdn.anthropic.com/images/4zrzovbb/website/dac862860da089b5a053e6ad2105b422d01fefe1-1200x630.jpg"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=50121179",
-          "author": "speckx",
-          "description": "Article URL: https://www.mercor.com/research/labor-index/benchmark-map/\nComments URL: https://news.ycombinator.com/item?id=50121179\nPoints: 512\n# Comments: 439",
-          "link": "https://www.mercor.com/research/labor-index/benchmark-map/",
-          "publishedOn": "2026-10-16T17:08:38.000Z",
-          "wordCount": 5357,
-          "title": "90% of US working hours are spent on tasks not covered well by AI benchmarks",
-          "imageUrl": "https://www.mercor.com/mercor-logo-white.png"
         }
       ]
     },
@@ -2451,6 +2421,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKZozRVHRYsYHGEyNKuhhdA",
       "siteUrl": "https://www.youtube.com/channel/UCKZozRVHRYsYHGEyNKuhhdA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=kT6Yq0PevPI",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=kT6Yq0PevPI",
+          "publishedOn": "2026-11-15T06:30:07.000Z",
+          "wordCount": null,
+          "title": "Dark Side of Anthropic's IPO | What Wall Street Isn't Telling You & How It Changes Everything!",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=hidRAm8JcFI",
           "author": null,
