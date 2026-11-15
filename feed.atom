@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-11-15T19:15:09.774Z</updated>
+    <updated>2026-11-15T23:46:01.397Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -79,6 +79,19 @@ Points: 512
 # Comments: 182]]></summary>
         <author>
             <name>gslin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Monkey Island: all 13 versions side by side]]></title>
+        <id>https://news.ycombinator.com/item?id=50493904</id>
+        <link href="https://monkeyisland.pages.dev/"/>
+        <updated>2026-11-14T04:23:30.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://monkeyisland.pages.dev/
+Comments URL: https://news.ycombinator.com/item?id=50493904
+Points: 500
+# Comments: 156]]></summary>
+        <author>
+            <name>maximilianburke</name>
         </author>
     </entry>
     <entry>
@@ -3277,33 +3290,6 @@ Points: 500
 # Comments: 315]]></summary>
         <author>
             <name>xbmcuser</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DeepSeek: DeepSeek v4.1 Flash 1017]]></title>
-        <id>https://news.ycombinator.com/item?id=50129121</id>
-        <link href="https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017"/>
-        <updated>2026-10-17T08:37:46.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017
-Comments URL: https://news.ycombinator.com/item?id=50129121
-Points: 511
-# Comments: 5]]></summary>
-        <author>
-            <name>theanonymousone</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DeepSeek-v4.1-Flash-1017]]></title>
-        <id>https://news.ycombinator.com/item?id=50129045</id>
-        <link href="https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017"/>
-        <updated>2026-10-17T08:21:25.000Z</updated>
-        <summary type="html"><![CDATA[https://api-docs.deepseek.com/news/news261017/
-https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017
-Comments URL: https://news.ycombinator.com/item?id=50129045
-Points: 581
-# Comments: 517]]></summary>
-        <author>
-            <name>theykk</name>
         </author>
     </entry>
     <entry>
