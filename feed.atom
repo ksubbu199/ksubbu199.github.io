@@ -2,10 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-11-16T04:58:45.705Z</updated>
+    <updated>2026-11-16T13:29:54.043Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Qwen4-Max]]></title>
+        <id>https://news.ycombinator.com/item?id=50513215</id>
+        <link href="https://qwen.ai/blog?id=qwen4-max"/>
+        <updated>2026-11-16T02:14:44.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://qwen.ai/blog?id=qwen4-max
+Comments URL: https://news.ycombinator.com/item?id=50513215
+Points: 639
+# Comments: 287]]></summary>
+        <author>
+            <name>ilreb</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft 365 outage leads to chlorine gas poisoning of 15 hotel guests]]></title>
+        <id>https://news.ycombinator.com/item?id=50509411</id>
+        <link href="https://www1.wdr.de/nrw/rheinland/rhein-erft-kreis/technischer-defekt-chlor-phantasialand-100.html"/>
+        <updated>2026-11-15T18:36:10.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www1.wdr.de/nrw/rheinland/rhein-erft-kreis/technischer-defekt-chlor-phantasialand-100.html
+Comments URL: https://news.ycombinator.com/item?id=50509411
+Points: 584
+# Comments: 251]]></summary>
+        <author>
+            <name>DeepLogin</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[All AI-generated code should be Open Source]]></title>
         <id>https://news.ycombinator.com/item?id=50507303</id>
@@ -17,6 +43,19 @@ Points: 726
 # Comments: 388]]></summary>
         <author>
             <name>jcubic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lutnick Pushed to Weaken Chip Rules That Overlap with His Family Business]]></title>
+        <id>https://news.ycombinator.com/item?id=50506180</id>
+        <link href="https://www.nytimes.com/2026/11/15/us/politics/lutnick-pushed-to-weaken-chip-rules-that-overlap-with-his-family-business.html"/>
+        <updated>2026-11-15T11:40:51.000Z</updated>
+        <summary type="html"><![CDATA[https://wallhop.io/https://www.nytimes.com/2026/11/15/us/pol...
+Comments URL: https://news.ycombinator.com/item?id=50506180
+Points: 506
+# Comments: 242]]></summary>
+        <author>
+            <name>JumpCrisscross</name>
         </author>
     </entry>
     <entry>
@@ -3225,58 +3264,6 @@ Points: 507
 # Comments: 251]]></summary>
         <author>
             <name>fagnerbrack</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Zuckerberg's Meta Takes Down No Kings Instagram During Protest Day]]></title>
-        <id>https://news.ycombinator.com/item?id=50136881</id>
-        <link href="https://meidasnews.com/news/zuckerbergs-meta-takes-down-no-kings-instagram-during-massive-protest-day"/>
-        <updated>2026-10-18T01:18:50.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://meidasnews.com/news/zuckerbergs-meta-takes-down-no-kings-instagram-during-massive-protest-day
-Comments URL: https://news.ycombinator.com/item?id=50136881
-Points: 511
-# Comments: 304]]></summary>
-        <author>
-            <name>DeepLogin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[There's never been a better time to go into math (by: 3blue1brown) [video]]]></title>
-        <id>https://news.ycombinator.com/item?id=50136150</id>
-        <link href="https://www.youtube.com/watch?v=LKrwhjOI8Nc"/>
-        <updated>2026-10-17T23:26:35.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.youtube.com/watch?v=LKrwhjOI8Nc
-Comments URL: https://news.ycombinator.com/item?id=50136150
-Points: 526
-# Comments: 731]]></summary>
-        <author>
-            <name>mdp2021</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[It's still ok to enjoy programming]]></title>
-        <id>https://news.ycombinator.com/item?id=50134472</id>
-        <link href="https://chriskiehl.com/article/it-is-still-ok-to-enjoy-programming"/>
-        <updated>2026-10-17T19:53:20.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://chriskiehl.com/article/it-is-still-ok-to-enjoy-programming
-Comments URL: https://news.ycombinator.com/item?id=50134472
-Points: 590
-# Comments: 514]]></summary>
-        <author>
-            <name>goostavos</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenCode Hacked: User credentials leaked]]></title>
-        <id>https://news.ycombinator.com/item?id=50133401</id>
-        <link href="https://twitter.com/opencode/status/2111516673953935833"/>
-        <updated>2026-10-17T18:01:41.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://twitter.com/opencode/status/2111516673953935833
-Comments URL: https://news.ycombinator.com/item?id=50133401
-Points: 682
-# Comments: 119]]></summary>
-        <author>
-            <name>pranshuchittora</name>
         </author>
     </entry>
     <entry>

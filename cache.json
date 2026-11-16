@@ -6,6 +6,26 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=50513215",
+          "author": "ilreb",
+          "description": "Article URL: https://qwen.ai/blog?id=qwen4-max\nComments URL: https://news.ycombinator.com/item?id=50513215\nPoints: 639\n# Comments: 287",
+          "link": "https://qwen.ai/blog?id=qwen4-max",
+          "publishedOn": "2026-11-16T02:14:44.000Z",
+          "wordCount": 269,
+          "title": "Qwen4-Max",
+          "imageUrl": "https://img.alicdn.com/imgextra/i4/O1CN01OXv3EM1FN8t9W4P79_!!6000000000474-2-tps-80-80.png"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=50509411",
+          "author": "DeepLogin",
+          "description": "Article URL: https://www1.wdr.de/nrw/rheinland/rhein-erft-kreis/technischer-defekt-chlor-phantasialand-100.html\nComments URL: https://news.ycombinator.com/item?id=50509411\nPoints: 584\n# Comments: 251",
+          "link": "https://www1.wdr.de/nrw/rheinland/rhein-erft-kreis/technischer-defekt-chlor-phantasialand-100.html",
+          "publishedOn": "2026-11-15T18:36:10.000Z",
+          "wordCount": 1858,
+          "title": "Microsoft 365 outage leads to chlorine gas poisoning of 15 hotel guests",
+          "imageUrl": "https://www1.wdr.de/nrw/koeln/phantasialand-134~_v-gseagaleriexl.jpg"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=50507303",
           "author": "jcubic",
           "description": "Article URL: https://jakub.jankiewicz.org/blog/ai-code-open-source/\nComments URL: https://news.ycombinator.com/item?id=50507303\nPoints: 726\n# Comments: 388",
@@ -14,6 +34,16 @@
           "wordCount": 1037,
           "title": "All AI-generated code should be Open Source",
           "imageUrl": "https://jakub.jankiewicz.org/img/en/ai-code-open-source.png"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=50506180",
+          "author": "JumpCrisscross",
+          "description": "https://wallhop.io/https://www.nytimes.com/2026/11/15/us/pol...\nComments URL: https://news.ycombinator.com/item?id=50506180\nPoints: 506\n# Comments: 242",
+          "link": "https://www.nytimes.com/2026/11/15/us/politics/lutnick-pushed-to-weaken-chip-rules-that-overlap-with-his-family-business.html",
+          "publishedOn": "2026-11-15T11:40:51.000Z",
+          "wordCount": 8885,
+          "title": "Lutnick Pushed to Weaken Chip Rules That Overlap with His Family Business",
+          "imageUrl": "https://static01.nyt.com/images/2026/11/14/multimedia/14dc-lutnick-commerce-01-bqtl/14dc-lutnick-commerce-01-bqtl-facebookJumbo.jpg"
         },
         {
           "id": "https://news.ycombinator.com/item?id=50502988",
@@ -2154,46 +2184,6 @@
           "wordCount": 1191,
           "title": "DeepSeek search and fetch – $0.75 per 1000 successful requests",
           "imageUrl": "https://api-docs.deepseek.com/img/deepseek-social-card.jpeg"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=50136881",
-          "author": "DeepLogin",
-          "description": "Article URL: https://meidasnews.com/news/zuckerbergs-meta-takes-down-no-kings-instagram-during-massive-protest-day\nComments URL: https://news.ycombinator.com/item?id=50136881\nPoints: 511\n# Comments: 304",
-          "link": "https://meidasnews.com/news/zuckerbergs-meta-takes-down-no-kings-instagram-during-massive-protest-day",
-          "publishedOn": "2026-10-18T01:18:50.000Z",
-          "wordCount": null,
-          "title": "Zuckerberg's Meta Takes Down No Kings Instagram During Protest Day",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=50136150",
-          "author": "mdp2021",
-          "description": "Article URL: https://www.youtube.com/watch?v=LKrwhjOI8Nc\nComments URL: https://news.ycombinator.com/item?id=50136150\nPoints: 526\n# Comments: 731",
-          "link": "https://www.youtube.com/watch?v=LKrwhjOI8Nc",
-          "publishedOn": "2026-10-17T23:26:35.000Z",
-          "wordCount": null,
-          "title": "There's never been a better time to go into math (by: 3blue1brown) [video]",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=50134472",
-          "author": "goostavos",
-          "description": "Article URL: https://chriskiehl.com/article/it-is-still-ok-to-enjoy-programming\nComments URL: https://news.ycombinator.com/item?id=50134472\nPoints: 590\n# Comments: 514",
-          "link": "https://chriskiehl.com/article/it-is-still-ok-to-enjoy-programming",
-          "publishedOn": "2026-10-17T19:53:20.000Z",
-          "wordCount": 493,
-          "title": "It's still ok to enjoy programming",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=50133401",
-          "author": "pranshuchittora",
-          "description": "Article URL: https://twitter.com/opencode/status/2111516673953935833\nComments URL: https://news.ycombinator.com/item?id=50133401\nPoints: 682\n# Comments: 119",
-          "link": "https://twitter.com/opencode/status/2111516673953935833",
-          "publishedOn": "2026-10-17T18:01:41.000Z",
-          "wordCount": 1423,
-          "title": "OpenCode Hacked: User credentials leaked",
-          "imageUrl": "https://pbs.twimg.com/profile_images/1973794620233433088/nBn75BTm_400x400.png"
         }
       ]
     },
