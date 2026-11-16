@@ -2,10 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-11-16T13:29:54.043Z</updated>
+    <updated>2026-11-16T23:13:16.440Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Technical issue at JPMorgan Chase triggers online banking delays for US banks]]></title>
+        <id>https://news.ycombinator.com/item?id=50521045</id>
+        <link href="https://apnews.com/article/bank-outage-chase-wells-fargo-truist-50fee2693c22f597fa6ca51a97ef2cda"/>
+        <updated>2026-11-16T18:31:30.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://apnews.com/article/bank-outage-chase-wells-fargo-truist-50fee2693c22f597fa6ca51a97ef2cda
+Comments URL: https://news.ycombinator.com/item?id=50521045
+Points: 665
+# Comments: 527]]></summary>
+        <author>
+            <name>samk3nny</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Many of Amazon’s Black Friday and Cyber Monday “deals” offered no savings]]></title>
+        <id>https://news.ycombinator.com/item?id=50517488</id>
+        <link href="http://groundworkcollaborative.org/news/amazons-decoy-deals-groundwork-investigation-reveals-nearly-1-in-3-black-friday-and-cyber-monday-deals-advertised-by-amazon-offered-no-savings-to-shoppers-nearly-1-in-10-w/"/>
+        <updated>2026-11-16T13:39:07.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: http://groundworkcollaborative.org/news/amazons-decoy-deals-groundwork-investigation-reveals-nearly-1-in-3-black-friday-and-cyber-monday-deals-advertised-by-amazon-offered-no-savings-to-shoppers-nearly-1-in-10-w/
+Comments URL: https://news.ycombinator.com/item?id=50517488
+Points: 787
+# Comments: 477]]></summary>
+        <author>
+            <name>DeepLogin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to make almost anything]]></title>
+        <id>https://news.ycombinator.com/item?id=50514470</id>
+        <link href="https://pub.cba.mit.edu/863.26/site/"/>
+        <updated>2026-11-16T05:50:37.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://pub.cba.mit.edu/863.26/site/
+Comments URL: https://news.ycombinator.com/item?id=50514470
+Points: 822
+# Comments: 138]]></summary>
+        <author>
+            <name>o4c</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Qwen4-Max]]></title>
         <id>https://news.ycombinator.com/item?id=50513215</id>
@@ -17,6 +56,19 @@ Points: 639
 # Comments: 287]]></summary>
         <author>
             <name>ilreb</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Universal XSS in uBlock Origin from website-driven element picker]]></title>
+        <id>https://news.ycombinator.com/item?id=50513160</id>
+        <link href="https://iter.ca/post/ubo-uxss/"/>
+        <updated>2026-11-16T02:04:48.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://iter.ca/post/ubo-uxss/
+Comments URL: https://news.ycombinator.com/item?id=50513160
+Points: 592
+# Comments: 169]]></summary>
+        <author>
+            <name>zaik</name>
         </author>
     </entry>
     <entry>
@@ -43,6 +95,19 @@ Points: 726
 # Comments: 388]]></summary>
         <author>
             <name>jcubic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The MacBook Pro's OLED PWM problem]]></title>
+        <id>https://news.ycombinator.com/item?id=50506719</id>
+        <link href="https://macanorak.com/the-macbook-pros-oled-pwm-problem-when-a-better-display-becomes-worse-to-use/"/>
+        <updated>2026-11-15T13:15:22.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://macanorak.com/the-macbook-pros-oled-pwm-problem-when-a-better-display-becomes-worse-to-use/
+Comments URL: https://news.ycombinator.com/item?id=50506719
+Points: 502
+# Comments: 282]]></summary>
+        <author>
+            <name>MacAnorak</name>
         </author>
     </entry>
     <entry>
@@ -3251,19 +3316,6 @@ Points: 542
 # Comments: 151]]></summary>
         <author>
             <name>noriax86</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DeepSeek search and fetch – $0.75 per 1000 successful requests]]></title>
-        <id>https://news.ycombinator.com/item?id=50138531</id>
-        <link href="https://api-docs.deepseek.com/guides/search/"/>
-        <updated>2026-10-18T06:50:36.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://api-docs.deepseek.com/guides/search/
-Comments URL: https://news.ycombinator.com/item?id=50138531
-Points: 507
-# Comments: 251]]></summary>
-        <author>
-            <name>fagnerbrack</name>
         </author>
     </entry>
     <entry>

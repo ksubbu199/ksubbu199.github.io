@@ -6,6 +6,36 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=50521045",
+          "author": "samk3nny",
+          "description": "Article URL: https://apnews.com/article/bank-outage-chase-wells-fargo-truist-50fee2693c22f597fa6ca51a97ef2cda\nComments URL: https://news.ycombinator.com/item?id=50521045\nPoints: 665\n# Comments: 527",
+          "link": "https://apnews.com/article/bank-outage-chase-wells-fargo-truist-50fee2693c22f597fa6ca51a97ef2cda",
+          "publishedOn": "2026-11-16T18:31:30.000Z",
+          "wordCount": null,
+          "title": "Technical issue at JPMorgan Chase triggers online banking delays for US banks",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=50517488",
+          "author": "DeepLogin",
+          "description": "Article URL: http://groundworkcollaborative.org/news/amazons-decoy-deals-groundwork-investigation-reveals-nearly-1-in-3-black-friday-and-cyber-monday-deals-advertised-by-amazon-offered-no-savings-to-shoppers-nearly-1-in-10-w/\nComments URL: https://news.ycombinator.com/item?id=50517488\nPoints: 787\n# Comments: 477",
+          "link": "http://groundworkcollaborative.org/news/amazons-decoy-deals-groundwork-investigation-reveals-nearly-1-in-3-black-friday-and-cyber-monday-deals-advertised-by-amazon-offered-no-savings-to-shoppers-nearly-1-in-10-w/",
+          "publishedOn": "2026-11-16T13:39:07.000Z",
+          "wordCount": 2374,
+          "title": "Many of Amazon’s Black Friday and Cyber Monday “deals” offered no savings",
+          "imageUrl": "http://groundworkcollaborative.org/wp-content/uploads/2026/11/GWC_CL_Cover_110526-1-791x1024.png"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=50514470",
+          "author": "o4c",
+          "description": "Article URL: https://pub.cba.mit.edu/863.26/site/\nComments URL: https://news.ycombinator.com/item?id=50514470\nPoints: 822\n# Comments: 138",
+          "link": "https://pub.cba.mit.edu/863.26/site/",
+          "publishedOn": "2026-11-16T05:50:37.000Z",
+          "wordCount": 209,
+          "title": "How to make almost anything",
+          "imageUrl": null
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=50513215",
           "author": "ilreb",
           "description": "Article URL: https://qwen.ai/blog?id=qwen4-max\nComments URL: https://news.ycombinator.com/item?id=50513215\nPoints: 639\n# Comments: 287",
@@ -14,6 +44,16 @@
           "wordCount": 269,
           "title": "Qwen4-Max",
           "imageUrl": "https://img.alicdn.com/imgextra/i4/O1CN01OXv3EM1FN8t9W4P79_!!6000000000474-2-tps-80-80.png"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=50513160",
+          "author": "zaik",
+          "description": "Article URL: https://iter.ca/post/ubo-uxss/\nComments URL: https://news.ycombinator.com/item?id=50513160\nPoints: 592\n# Comments: 169",
+          "link": "https://iter.ca/post/ubo-uxss/",
+          "publishedOn": "2026-11-16T02:04:48.000Z",
+          "wordCount": 1664,
+          "title": "Universal XSS in uBlock Origin from website-driven element picker",
+          "imageUrl": null
         },
         {
           "id": "https://news.ycombinator.com/item?id=50509411",
@@ -34,6 +74,16 @@
           "wordCount": 1037,
           "title": "All AI-generated code should be Open Source",
           "imageUrl": "https://jakub.jankiewicz.org/img/en/ai-code-open-source.png"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=50506719",
+          "author": "MacAnorak",
+          "description": "Article URL: https://macanorak.com/the-macbook-pros-oled-pwm-problem-when-a-better-display-becomes-worse-to-use/\nComments URL: https://news.ycombinator.com/item?id=50506719\nPoints: 502\n# Comments: 282",
+          "link": "https://macanorak.com/the-macbook-pros-oled-pwm-problem-when-a-better-display-becomes-worse-to-use/",
+          "publishedOn": "2026-11-15T13:15:22.000Z",
+          "wordCount": null,
+          "title": "The MacBook Pro's OLED PWM problem",
+          "imageUrl": null
         },
         {
           "id": "https://news.ycombinator.com/item?id=50506180",
@@ -2174,16 +2224,6 @@
           "wordCount": 2740,
           "title": "Nordwand Mono – A monospace font for coders and adventurers",
           "imageUrl": "https://opengraph.githubassets.com/dd97b38e37556e04a825da7265bb096b4148aa44fd872df71b3d51bac47cb287/tywr/Nordwand-Mono"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=50138531",
-          "author": "fagnerbrack",
-          "description": "Article URL: https://api-docs.deepseek.com/guides/search/\nComments URL: https://news.ycombinator.com/item?id=50138531\nPoints: 507\n# Comments: 251",
-          "link": "https://api-docs.deepseek.com/guides/search/",
-          "publishedOn": "2026-10-18T06:50:36.000Z",
-          "wordCount": 1191,
-          "title": "DeepSeek search and fetch – $0.75 per 1000 successful requests",
-          "imageUrl": "https://api-docs.deepseek.com/img/deepseek-social-card.jpeg"
         }
       ]
     },
