@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-11-16T23:13:16.440Z</updated>
+    <updated>2026-11-17T06:46:38.386Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Carnegie Mellon is putting computer science courses on YouTube for free]]></title>
+        <id>https://news.ycombinator.com/item?id=50522980</id>
+        <link href="https://www.cs.cmu.edu/learn/"/>
+        <updated>2026-11-16T20:43:36.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.cs.cmu.edu/learn/
+Comments URL: https://news.ycombinator.com/item?id=50522980
+Points: 1181
+# Comments: 171]]></summary>
+        <author>
+            <name>pcompeau</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Technical issue at JPMorgan Chase triggers online banking delays for US banks]]></title>
         <id>https://news.ycombinator.com/item?id=50521045</id>
@@ -3277,45 +3290,6 @@ Points: 501
 # Comments: 236]]></summary>
         <author>
             <name>allinonai</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Namecheap just seized and disabled all my domains]]></title>
-        <id>https://news.ycombinator.com/item?id=50142866</id>
-        <link href="https://www.reddit.com/r/sysadmin/comments/1x8cycd/namecheap_just_seized_and_disabled_all_my_domains/"/>
-        <updated>2026-10-18T16:56:56.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.reddit.com/r/sysadmin/comments/1x8cycd/namecheap_just_seized_and_disabled_all_my_domains/
-Comments URL: https://news.ycombinator.com/item?id=50142866
-Points: 515
-# Comments: 268]]></summary>
-        <author>
-            <name>sashk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Someone behind the software]]></title>
-        <id>https://news.ycombinator.com/item?id=50142573</id>
-        <link href="https://karrisaarinen.com/posts/someone-behind-the-software/"/>
-        <updated>2026-10-18T16:32:00.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://karrisaarinen.com/posts/someone-behind-the-software/
-Comments URL: https://news.ycombinator.com/item?id=50142573
-Points: 536
-# Comments: 193]]></summary>
-        <author>
-            <name>tosh</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nordwand Mono – A monospace font for coders and adventurers]]></title>
-        <id>https://news.ycombinator.com/item?id=50141581</id>
-        <link href="https://github.com/tywr/Nordwand-Mono"/>
-        <updated>2026-10-18T14:48:01.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://github.com/tywr/Nordwand-Mono
-Comments URL: https://news.ycombinator.com/item?id=50141581
-Points: 542
-# Comments: 151]]></summary>
-        <author>
-            <name>noriax86</name>
         </author>
     </entry>
     <entry>

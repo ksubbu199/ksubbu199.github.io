@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=50522980",
+          "author": "pcompeau",
+          "description": "Article URL: https://www.cs.cmu.edu/learn/\nComments URL: https://news.ycombinator.com/item?id=50522980\nPoints: 1181\n# Comments: 171",
+          "link": "https://www.cs.cmu.edu/learn/",
+          "publishedOn": "2026-11-16T20:43:36.000Z",
+          "wordCount": 809,
+          "title": "Carnegie Mellon is putting computer science courses on YouTube for free",
+          "imageUrl": "https://www.cs.cmu.edu/site-images/gates_web.jpg"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=50521045",
           "author": "samk3nny",
           "description": "Article URL: https://apnews.com/article/bank-outage-chase-wells-fargo-truist-50fee2693c22f597fa6ca51a97ef2cda\nComments URL: https://news.ycombinator.com/item?id=50521045\nPoints: 665\n# Comments: 527",
@@ -2194,36 +2204,6 @@
           "wordCount": 686,
           "title": "Hybrid Reasoning Agents: LLM agents that think in latent space, act through text",
           "imageUrl": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=50142866",
-          "author": "sashk",
-          "description": "Article URL: https://www.reddit.com/r/sysadmin/comments/1x8cycd/namecheap_just_seized_and_disabled_all_my_domains/\nComments URL: https://news.ycombinator.com/item?id=50142866\nPoints: 515\n# Comments: 268",
-          "link": "https://www.reddit.com/r/sysadmin/comments/1x8cycd/namecheap_just_seized_and_disabled_all_my_domains/",
-          "publishedOn": "2026-10-18T16:56:56.000Z",
-          "wordCount": null,
-          "title": "Namecheap just seized and disabled all my domains",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=50142573",
-          "author": "tosh",
-          "description": "Article URL: https://karrisaarinen.com/posts/someone-behind-the-software/\nComments URL: https://news.ycombinator.com/item?id=50142573\nPoints: 536\n# Comments: 193",
-          "link": "https://karrisaarinen.com/posts/someone-behind-the-software/",
-          "publishedOn": "2026-10-18T16:32:00.000Z",
-          "wordCount": 917,
-          "title": "Someone behind the software",
-          "imageUrl": "https://karrisaarinen.com/static/linear-assets/081de7ffce667bb13cb63d8b2a1d312e19d747ea1d3818af2c5cc1e5a9445e21.webp"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=50141581",
-          "author": "noriax86",
-          "description": "Article URL: https://github.com/tywr/Nordwand-Mono\nComments URL: https://news.ycombinator.com/item?id=50141581\nPoints: 542\n# Comments: 151",
-          "link": "https://github.com/tywr/Nordwand-Mono",
-          "publishedOn": "2026-10-18T14:48:01.000Z",
-          "wordCount": 2740,
-          "title": "Nordwand Mono – A monospace font for coders and adventurers",
-          "imageUrl": "https://opengraph.githubassets.com/dd97b38e37556e04a825da7265bb096b4148aa44fd872df71b3d51bac47cb287/tywr/Nordwand-Mono"
         }
       ]
     },
