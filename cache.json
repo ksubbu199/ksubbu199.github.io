@@ -6,6 +6,46 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=50530163",
+          "author": "donohoe",
+          "description": "Article URL: https://www.nytimes.com/2026/11/17/upshot/school-phone-bans-study-scores.html\nComments URL: https://news.ycombinator.com/item?id=50530163\nPoints: 683\n# Comments: 344",
+          "link": "https://www.nytimes.com/2026/11/17/upshot/school-phone-bans-study-scores.html",
+          "publishedOn": "2026-11-17T11:45:51.000Z",
+          "wordCount": 8035,
+          "title": "New Evidence Shows School Phone Bans Are Gradually Improving Test Scores",
+          "imageUrl": "https://static01.nyt.com/images/2026/11/17/multimedia/17up-phone-pouch1-jlkf/17up-phone-pouch1-jlkf-facebookJumbo.jpg"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=50524767",
+          "author": "kristjansson",
+          "description": "Article URL: https://blog.report-uri.com/worlds-largest-brands-infected-with-malware-via-optimizely/\nComments URL: https://news.ycombinator.com/item?id=50524767\nPoints: 545\n# Comments: 219",
+          "link": "https://blog.report-uri.com/worlds-largest-brands-infected-with-malware-via-optimizely/",
+          "publishedOn": "2026-11-16T23:00:34.000Z",
+          "wordCount": 4084,
+          "title": "Optimizely compromised, served malware on Zoom, GitLab",
+          "imageUrl": "https://storage.ghost.io/c/2d/aa/2daa4f7f-a71b-47d2-a54c-06b8c60222ef/content/images/size/w1200/2026/11/Cybersecurity-Alert_-Malicious-Code-Injection.png"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=50524736",
+          "author": "cwaffles",
+          "description": "Article URL: https://xusheng.dev/posts/windows-coding-agent-telemetry/\nComments URL: https://news.ycombinator.com/item?id=50524736\nPoints: 683\n# Comments: 541",
+          "link": "https://xusheng.dev/posts/windows-coding-agent-telemetry/",
+          "publishedOn": "2026-11-16T22:58:20.000Z",
+          "wordCount": 1521,
+          "title": "Windows 11 is collecting data on which coding agents and developer tools you use",
+          "imageUrl": "https://xusheng.dev/posts/windows-coding-agent-telemetry/agent-names.jpeg"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=50523601",
+          "author": "lode",
+          "description": "Article URL: https://www.bugmenot.com/\nComments URL: https://news.ycombinator.com/item?id=50523601\nPoints: 670\n# Comments: 305",
+          "link": "https://www.bugmenot.com/",
+          "publishedOn": "2026-11-16T21:32:17.000Z",
+          "wordCount": 199,
+          "title": "BugMeNot has closed",
+          "imageUrl": null
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=50522980",
           "author": "pcompeau",
           "description": "Article URL: https://www.cs.cmu.edu/learn/\nComments URL: https://news.ycombinator.com/item?id=50522980\nPoints: 1181\n# Comments: 171",
@@ -2184,26 +2224,6 @@
           "wordCount": null,
           "title": "Linux 7.3",
           "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=50147233",
-          "author": "debo_",
-          "description": "Article URL: https://starcraft-shooter-2026.pages.dev/\nComments URL: https://news.ycombinator.com/item?id=50147233\nPoints: 530\n# Comments: 172",
-          "link": "https://starcraft-shooter-2026.pages.dev/",
-          "publishedOn": "2026-10-19T01:18:02.000Z",
-          "wordCount": 275,
-          "title": "Starcraft: Ashfall",
-          "imageUrl": "https://starcraft-shooter-2026.pages.dev/share-card.jpg"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=50145337",
-          "author": "allinonai",
-          "description": "https://x.com/Jiaru_Zou/status/2110400256647340476\nhttps://github.com/togethercomputer/HybridAgent\nhttps://huggingface.co/collections/togethercomputer/hybridag...\nEvaluations: https://arxiv.org/html/2610.18861v1#S5\nComments URL: https://news.ycombinator.com/item?id=50145337\nPoints: 501\n# Comments: 236",
-          "link": "https://arxiv.org/abs/2610.18861",
-          "publishedOn": "2026-10-18T20:48:14.000Z",
-          "wordCount": 686,
-          "title": "Hybrid Reasoning Agents: LLM agents that think in latent space, act through text",
-          "imageUrl": "/static/browse/0.3.4/images/arxiv-logo-fb.png"
         }
       ]
     },
@@ -2291,6 +2311,16 @@
       "feedUrl": "https://martinfowler.com/feed.atom",
       "siteUrl": "https://martinfowler.com/feed.atom",
       "articles": [
+        {
+          "id": "https://martinfowler.com/articles/deterministic-simulation-testing.html",
+          "author": null,
+          "description": "Distributed systems are hard to test because partial failures overlap\n     with live traffic and the same fault can produce different execution traces\n     on different runs. Unmesh Joshi describes how\n     deterministic simulation testing addresses this by replacing real clocks,\n     networks, and storage with simulated components driven by a single-threaded\n     execution loop. This allows simulating both hard failures and routine\n     slowdowns—such as network and disk latency spikes—and more importantly\n     makes every execution reproducible. This article explains the technique\n     using a quorum key-value store as a running example, with code from\n     Tickloom, a Java implementation of the approach.\nmore…",
+          "link": "https://martinfowler.com/articles/deterministic-simulation-testing.html",
+          "publishedOn": "2026-11-17T14:33:00.000Z",
+          "wordCount": 7999,
+          "title": "Deterministic Simulation Testing",
+          "imageUrl": "https://martinfowler.com/logo-sq.png"
+        },
         {
           "id": "https://martinfowler.com/bliki/GeneratedGlossary.html",
           "author": null,

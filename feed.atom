@@ -2,10 +2,82 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-11-17T06:46:38.386Z</updated>
+    <updated>2026-11-17T16:42:02.346Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Deterministic Simulation Testing]]></title>
+        <id>https://martinfowler.com/articles/deterministic-simulation-testing.html</id>
+        <link href="https://martinfowler.com/articles/deterministic-simulation-testing.html"/>
+        <updated>2026-11-17T14:33:00.000Z</updated>
+        <summary type="html"><![CDATA[Distributed systems are hard to test because partial failures overlap
+     with live traffic and the same fault can produce different execution traces
+     on different runs. Unmesh Joshi describes how
+     deterministic simulation testing addresses this by replacing real clocks,
+     networks, and storage with simulated components driven by a single-threaded
+     execution loop. This allows simulating both hard failures and routine
+     slowdowns—such as network and disk latency spikes—and more importantly
+     makes every execution reproducible. This article explains the technique
+     using a quorum key-value store as a running example, with code from
+     Tickloom, a Java implementation of the approach.
+more…]]></summary>
+        <author>
+            <name>Martin Fowler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New Evidence Shows School Phone Bans Are Gradually Improving Test Scores]]></title>
+        <id>https://news.ycombinator.com/item?id=50530163</id>
+        <link href="https://www.nytimes.com/2026/11/17/upshot/school-phone-bans-study-scores.html"/>
+        <updated>2026-11-17T11:45:51.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.nytimes.com/2026/11/17/upshot/school-phone-bans-study-scores.html
+Comments URL: https://news.ycombinator.com/item?id=50530163
+Points: 683
+# Comments: 344]]></summary>
+        <author>
+            <name>donohoe</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Optimizely compromised, served malware on Zoom, GitLab]]></title>
+        <id>https://news.ycombinator.com/item?id=50524767</id>
+        <link href="https://blog.report-uri.com/worlds-largest-brands-infected-with-malware-via-optimizely/"/>
+        <updated>2026-11-16T23:00:34.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://blog.report-uri.com/worlds-largest-brands-infected-with-malware-via-optimizely/
+Comments URL: https://news.ycombinator.com/item?id=50524767
+Points: 545
+# Comments: 219]]></summary>
+        <author>
+            <name>kristjansson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Windows 11 is collecting data on which coding agents and developer tools you use]]></title>
+        <id>https://news.ycombinator.com/item?id=50524736</id>
+        <link href="https://xusheng.dev/posts/windows-coding-agent-telemetry/"/>
+        <updated>2026-11-16T22:58:20.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://xusheng.dev/posts/windows-coding-agent-telemetry/
+Comments URL: https://news.ycombinator.com/item?id=50524736
+Points: 683
+# Comments: 541]]></summary>
+        <author>
+            <name>cwaffles</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BugMeNot has closed]]></title>
+        <id>https://news.ycombinator.com/item?id=50523601</id>
+        <link href="https://www.bugmenot.com/"/>
+        <updated>2026-11-16T21:32:17.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.bugmenot.com/
+Comments URL: https://news.ycombinator.com/item?id=50523601
+Points: 670
+# Comments: 305]]></summary>
+        <author>
+            <name>lode</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Carnegie Mellon is putting computer science courses on YouTube for free]]></title>
         <id>https://news.ycombinator.com/item?id=50522980</id>
@@ -3261,35 +3333,6 @@ Points: 565
         <summary type="html"><![CDATA[Watch the full episode now!https://youtu.be/dbM8AMmEdgY?si=ZwrytguQoifnlMC0⭐️ Think School’s flagship Communication course with live doubt sessions :https://...]]></summary>
         <author>
             <name>Think School</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Starcraft: Ashfall]]></title>
-        <id>https://news.ycombinator.com/item?id=50147233</id>
-        <link href="https://starcraft-shooter-2026.pages.dev/"/>
-        <updated>2026-10-19T01:18:02.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://starcraft-shooter-2026.pages.dev/
-Comments URL: https://news.ycombinator.com/item?id=50147233
-Points: 530
-# Comments: 172]]></summary>
-        <author>
-            <name>debo_</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hybrid Reasoning Agents: LLM agents that think in latent space, act through text]]></title>
-        <id>https://news.ycombinator.com/item?id=50145337</id>
-        <link href="https://arxiv.org/abs/2610.18861"/>
-        <updated>2026-10-18T20:48:14.000Z</updated>
-        <summary type="html"><![CDATA[https://x.com/Jiaru_Zou/status/2110400256647340476
-https://github.com/togethercomputer/HybridAgent
-https://huggingface.co/collections/togethercomputer/hybridag...
-Evaluations: https://arxiv.org/html/2610.18861v1#S5
-Comments URL: https://news.ycombinator.com/item?id=50145337
-Points: 501
-# Comments: 236]]></summary>
-        <author>
-            <name>allinonai</name>
         </author>
     </entry>
     <entry>
