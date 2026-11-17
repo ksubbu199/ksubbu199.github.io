@@ -2,10 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-11-17T16:42:02.346Z</updated>
+    <updated>2026-11-17T23:44:53.103Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Apple Services Down]]></title>
+        <id>https://news.ycombinator.com/item?id=50535238</id>
+        <link href="https://developer.apple.com/system-status/"/>
+        <updated>2026-11-17T17:47:14.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://developer.apple.com/system-status/
+Comments URL: https://news.ycombinator.com/item?id=50535238
+Points: 602
+# Comments: 323]]></summary>
+        <author>
+            <name>willy_k</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GPT‑6.2 Astra and Sol]]></title>
+        <id>https://news.ycombinator.com/item?id=50535230</id>
+        <link href="https://openai.com/index/introducing-gpt-6-2-astra-sol/"/>
+        <updated>2026-11-17T17:46:43.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://openai.com/index/introducing-gpt-6-2-astra-sol/
+Comments URL: https://news.ycombinator.com/item?id=50535230
+Points: 1014
+# Comments: 628]]></summary>
+        <author>
+            <name>jasondavies</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Deterministic Simulation Testing]]></title>
         <id>https://martinfowler.com/articles/deterministic-simulation-testing.html</id>
@@ -102,6 +128,19 @@ Points: 665
 # Comments: 527]]></summary>
         <author>
             <name>samk3nny</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Frame – 31.5" color ePaper display]]></title>
+        <id>https://news.ycombinator.com/item?id=50519354</id>
+        <link href="https://trmnl.com/blog/introducing-frame"/>
+        <updated>2026-11-16T16:23:22.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://trmnl.com/blog/introducing-frame
+Comments URL: https://news.ycombinator.com/item?id=50519354
+Points: 522
+# Comments: 403]]></summary>
+        <author>
+            <name>geerlingguy</name>
         </author>
     </entry>
     <entry>
@@ -3255,84 +3294,6 @@ Points: 562
 # Comments: 186]]></summary>
         <author>
             <name>iamnothere</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ask HN: How to deal with shipping AI-written code you don't understand?]]></title>
-        <id>https://news.ycombinator.com/item?id=50151036</id>
-        <link href="https://news.ycombinator.com/item?id=50151036"/>
-        <updated>2026-10-19T11:24:34.000Z</updated>
-        <summary type="html"><![CDATA[I saw this LinkedIn post from a Meta engineer and it resonated with me:
-https://www.linkedin.com/posts/ali-hamie_im-an-engineer-at-m...
-> I'm an engineer at Meta and I never felt this uncomfortable doing my job. I'm writing code these days and it all feels like a black box. This new standard of shipping with AI is moving so fast that if we're going to spend our time checking each line of code, it's going to take forever. That means you can end up with systems you've built where you don't truly understand how all the code works. You understand the high level, but not every detail. And maybe this is becoming the new standard. It goes against every instinct of being a software engineer. I'm used to understanding what I'm building. Now I'm trying to figure out how much I need to understand before I'm comfortable moving forward. Are other engineers feeling this too?
-How are you handling this?
-Comments URL: https://news.ycombinator.com/item?id=50151036
-Points: 544
-# Comments: 653]]></summary>
-        <author>
-            <name>rzk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ousted Savannah police officer gave ICE agent husband access to Flock system]]></title>
-        <id>https://news.ycombinator.com/item?id=50150750</id>
-        <link href="https://www.wjcl.com/article/savannah-police-officer-ice-agent-flock-access/74135816"/>
-        <updated>2026-10-19T10:45:14.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.wjcl.com/article/savannah-police-officer-ice-agent-flock-access/74135816
-Comments URL: https://news.ycombinator.com/item?id=50150750
-Points: 604
-# Comments: 340]]></summary>
-        <author>
-            <name>DeepLogin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Timestral: Mistral's time-series foundation models]]></title>
-        <id>https://news.ycombinator.com/item?id=50150434</id>
-        <link href="https://mistral.ai/news/timestral/"/>
-        <updated>2026-10-19T09:59:32.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://mistral.ai/news/timestral/
-Comments URL: https://news.ycombinator.com/item?id=50150434
-Points: 523
-# Comments: 97]]></summary>
-        <author>
-            <name>groar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I built a drone with only one motor [video]]]></title>
-        <id>https://news.ycombinator.com/item?id=50150089</id>
-        <link href="https://www.youtube.com/watch?v=Ndftcft6XhU"/>
-        <updated>2026-10-19T09:05:07.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://www.youtube.com/watch?v=Ndftcft6XhU
-Comments URL: https://news.ycombinator.com/item?id=50150089
-Points: 536
-# Comments: 110]]></summary>
-        <author>
-            <name>hakonjdjohnsen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Linux 7.3]]></title>
-        <id>https://news.ycombinator.com/item?id=50149392</id>
-        <link href="https://lwn.net/Articles/1101143/"/>
-        <updated>2026-10-19T07:23:57.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://lwn.net/Articles/1101143/
-Comments URL: https://news.ycombinator.com/item?id=50149392
-Points: 565
-# Comments: 256]]></summary>
-        <author>
-            <name>cjd8</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sri Lanka: The Next Big Goldmine Opportunity?]]></title>
-        <id>https://www.youtube.com/shorts/Lehkr4NIBXE</id>
-        <link href="https://www.youtube.com/shorts/Lehkr4NIBXE"/>
-        <updated>2026-10-19T05:25:35.000Z</updated>
-        <summary type="html"><![CDATA[Watch the full episode now!https://youtu.be/dbM8AMmEdgY?si=ZwrytguQoifnlMC0⭐️ Think School’s flagship Communication course with live doubt sessions :https://...]]></summary>
-        <author>
-            <name>Think School</name>
         </author>
     </entry>
     <entry>
