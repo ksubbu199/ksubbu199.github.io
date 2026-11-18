@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-11-18T16:11:54.684Z</updated>
+    <updated>2026-11-18T23:16:06.546Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Inside Deutsche Bank]]></title>
+        <id>https://news.ycombinator.com/item?id=50547620</id>
+        <link href="https://www.inside-db.com/"/>
+        <updated>2026-11-18T15:38:33.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.inside-db.com/
+Comments URL: https://news.ycombinator.com/item?id=50547620
+Points: 501
+# Comments: 180]]></summary>
+        <author>
+            <name>gyre007</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Disturbing Fall of Cybertruck: Why Tesla KILLED its own $75 Billion Truck?]]></title>
         <id>https://www.youtube.com/watch?v=UJwddV0BCt8</id>
@@ -13,6 +26,20 @@
         <updated>2026-11-18T15:27:03.000Z</updated>
         <author>
             <name>Think School</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Unauthenticated remote code execution in Nginx]]></title>
+        <id>https://news.ycombinator.com/item?id=50547374</id>
+        <link href="https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities"/>
+        <updated>2026-11-18T15:19:55.000Z</updated>
+        <summary type="html"><![CDATA[https://www.cve.org/CVERecord?id=CVE-2026-123633
+https://www.cve.org/CVERecord?id=CVE-2026-123007
+Comments URL: https://news.ycombinator.com/item?id=50547374
+Points: 1001
+# Comments: 462]]></summary>
+        <author>
+            <name>speedping</name>
         </author>
     </entry>
     <entry>
@@ -32,6 +59,19 @@
 more…]]></summary>
         <author>
             <name>Martin Fowler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DNS resolvers are the wrong place to fight piracy]]></title>
+        <id>https://news.ycombinator.com/item?id=50545958</id>
+        <link href="https://techstackups.com/articles/quad9-leaves-france-dns-blocking/"/>
+        <updated>2026-11-18T13:18:02.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://techstackups.com/articles/quad9-leaves-france-dns-blocking/
+Comments URL: https://news.ycombinator.com/item?id=50545958
+Points: 551
+# Comments: 201]]></summary>
+        <author>
+            <name>ritzaco</name>
         </author>
     </entry>
     <entry>
@@ -58,6 +98,23 @@ Points: 625
 # Comments: 473]]></summary>
         <author>
             <name>slashdev</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nudeps: bundler-like imports, none of the baggage]]></title>
+        <id>https://lea.verou.me/blog/2026/nudeps/</id>
+        <link href="https://lea.verou.me/blog/2026/nudeps/"/>
+        <updated>2026-11-18T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The goal is light-build, not no-build
+You npm install a package (e.g. vue), you write import { createApp } from "vue", and it works — as long as there is a bundler in between.
+Without one, the browser has no idea what "vue" is: it only understands URLs, and node_modules/ was never meant to be deployed.
+So even the simplest project ends up needing a bundler, only so it can use dependencies instead of reinventing the wheel.
+But bundlers add a significant tax. They process every single file, introduce several layers of abstraction between source and deployment, and these abstractions often leak:
+things that work fine in the browser can break in the build.
+Earlier this year, I published Web dependencies are broken: Can we fix them? that discusses this from a platform architecture perspective.
+…]]></summary>
+        <author>
+            <name>Lea Verou’s blog</name>
         </author>
     </entry>
     <entry>
@@ -3322,19 +3379,6 @@ Points: 541
 # Comments: 269]]></summary>
         <author>
             <name>evanb</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DeepSeek just open-sourced its inference engine]]></title>
-        <id>https://news.ycombinator.com/item?id=50163277</id>
-        <link href="https://github.com/deepseek-ai/DeepInfer"/>
-        <updated>2026-10-20T09:08:54.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://github.com/deepseek-ai/DeepInfer
-Comments URL: https://news.ycombinator.com/item?id=50163277
-Points: 1236
-# Comments: 437]]></summary>
-        <author>
-            <name>ggcr</name>
         </author>
     </entry>
     <entry>

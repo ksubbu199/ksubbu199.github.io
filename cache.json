@@ -6,6 +6,36 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=50547620",
+          "author": "gyre007",
+          "description": "Article URL: https://www.inside-db.com/\nComments URL: https://news.ycombinator.com/item?id=50547620\nPoints: 501\n# Comments: 180",
+          "link": "https://www.inside-db.com/",
+          "publishedOn": "2026-11-18T15:38:33.000Z",
+          "wordCount": 764,
+          "title": "Inside Deutsche Bank",
+          "imageUrl": "https://www.inside-db.com/content/images/size/w1200/2026/09/_DSF9639.jpg"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=50547374",
+          "author": "speedping",
+          "description": "https://www.cve.org/CVERecord?id=CVE-2026-123633\nhttps://www.cve.org/CVERecord?id=CVE-2026-123007\nComments URL: https://news.ycombinator.com/item?id=50547374\nPoints: 1001\n# Comments: 462",
+          "link": "https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities",
+          "publishedOn": "2026-11-18T15:19:55.000Z",
+          "wordCount": 29507,
+          "title": "Unauthenticated remote code execution in Nginx",
+          "imageUrl": "https://www.datocms-assets.com/75231/1794936719-img_7875.png?fm=webp"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=50545958",
+          "author": "ritzaco",
+          "description": "Article URL: https://techstackups.com/articles/quad9-leaves-france-dns-blocking/\nComments URL: https://news.ycombinator.com/item?id=50545958\nPoints: 551\n# Comments: 201",
+          "link": "https://techstackups.com/articles/quad9-leaves-france-dns-blocking/",
+          "publishedOn": "2026-11-18T13:18:02.000Z",
+          "wordCount": 3663,
+          "title": "DNS resolvers are the wrong place to fight piracy",
+          "imageUrl": "https://techstackups.com/img/articles/quad9-leaves-france/cover.jpg"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=50542705",
           "author": "grey-area",
           "description": "Article URL: https://nicolasbouliane.com/blog/death-by-ai\nComments URL: https://news.ycombinator.com/item?id=50542705\nPoints: 663\n# Comments: 606",
@@ -2204,16 +2234,6 @@
           "wordCount": 1377,
           "title": "Apple broke an essential presentation feature of iPads",
           "imageUrl": "https://teddysvoronos.com/assets/img/headshot-nav.jpg"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=50163277",
-          "author": "ggcr",
-          "description": "Article URL: https://github.com/deepseek-ai/DeepInfer\nComments URL: https://news.ycombinator.com/item?id=50163277\nPoints: 1236\n# Comments: 437",
-          "link": "https://github.com/deepseek-ai/DeepInfer",
-          "publishedOn": "2026-10-20T09:08:54.000Z",
-          "wordCount": 2475,
-          "title": "DeepSeek just open-sourced its inference engine",
-          "imageUrl": "https://opengraph.githubassets.com/dd919740abdb543fd2bc8e809134c4e12b0eaa50b668d8a8040826f24ba5c5f5/deepseek-ai/DeepInfer"
         }
       ]
     },
@@ -2645,6 +2665,16 @@
       "feedUrl": "https://lea.verou.me/feed.xml",
       "siteUrl": "https://lea.verou.me/feed.xml",
       "articles": [
+        {
+          "id": "https://lea.verou.me/blog/2026/nudeps/",
+          "author": null,
+          "description": "The goal is light-build, not no-build\nYou npm install a package (e.g. vue), you write import { createApp } from \"vue\", and it works — as long as there is a bundler in between.\nWithout one, the browser has no idea what \"vue\" is: it only understands URLs, and node_modules/ was never meant to be deployed.\nSo even the simplest project ends up needing a bundler, only so it can use dependencies instead of reinventing the wheel.\nBut bundlers add a significant tax. They process every single file, introduce several layers of abstraction between source and deployment, and these abstractions often leak:\nthings that work fine in the browser can break in the build.\nEarlier this year, I published Web dependencies are broken: Can we fix them? that discusses this from a platform architecture perspective.\n…",
+          "link": "https://lea.verou.me/blog/2026/nudeps/",
+          "publishedOn": "2026-11-18T00:00:00.000Z",
+          "wordCount": 2151,
+          "title": "Nudeps: bundler-like imports, none of the baggage",
+          "imageUrl": "https://lea.verou.me/blog/2026/nudeps/images/image.png"
+        },
         {
           "id": "https://lea.verou.me/blog/2026/tag/",
           "author": null,
