@@ -2,10 +2,77 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-11-18T06:05:04.421Z</updated>
+    <updated>2026-11-18T16:11:54.684Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Disturbing Fall of Cybertruck: Why Tesla KILLED its own $75 Billion Truck?]]></title>
+        <id>https://www.youtube.com/watch?v=UJwddV0BCt8</id>
+        <link href="https://www.youtube.com/watch?v=UJwddV0BCt8"/>
+        <updated>2026-11-18T15:27:03.000Z</updated>
+        <author>
+            <name>Think School</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Data Contracts]]></title>
+        <id>https://martinfowler.com/articles/data-contracts.html</id>
+        <link href="https://martinfowler.com/articles/data-contracts.html"/>
+        <updated>2026-11-18T14:02:00.000Z</updated>
+        <summary type="html"><![CDATA[Data contracts are a way to describe the contents and guarantees of
+     datasets. Simon Harrer and Arif Wider
+     describe in detail what they are and how to use them. They apply practices
+     from API design to data by treating them as data-providing services - such
+     as data products - whose interfaces we want to define as clearly as
+     possible. This approach significantly increases the robustness of
+     large-scale data landscapes, and gives both people and AI agents the
+     explicit, trustworthy metadata they need to work with data autonomously,
+     which is why more and more enterprises are adopting them.
+more…]]></summary>
+        <author>
+            <name>Martin Fowler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI is killing All About Berlin]]></title>
+        <id>https://news.ycombinator.com/item?id=50542705</id>
+        <link href="https://nicolasbouliane.com/blog/death-by-ai"/>
+        <updated>2026-11-18T06:47:26.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://nicolasbouliane.com/blog/death-by-ai
+Comments URL: https://news.ycombinator.com/item?id=50542705
+Points: 663
+# Comments: 606]]></summary>
+        <author>
+            <name>grey-area</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google's AI answers reducing search traffic by 40%]]></title>
+        <id>https://news.ycombinator.com/item?id=50540178</id>
+        <link href="https://revscope.co/blog/search-seo-geo-2026/"/>
+        <updated>2026-11-18T00:17:58.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://revscope.co/blog/search-seo-geo-2026/
+Comments URL: https://news.ycombinator.com/item?id=50540178
+Points: 625
+# Comments: 473]]></summary>
+        <author>
+            <name>slashdev</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Quad9's withdrawal from France: A canary in the coal mine]]></title>
+        <id>https://news.ycombinator.com/item?id=50538994</id>
+        <link href="https://blog.cloudflare.com/quad9-withdrawal-from-france/"/>
+        <updated>2026-11-17T22:13:34.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://blog.cloudflare.com/quad9-withdrawal-from-france/
+Comments URL: https://news.ycombinator.com/item?id=50538994
+Points: 836
+# Comments: 389]]></summary>
+        <author>
+            <name>subset</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Java4Shell: RCE in OpenJDK when processing Base64]]></title>
         <id>https://news.ycombinator.com/item?id=50538240</id>
@@ -43,6 +110,19 @@ Points: 1014
 # Comments: 628]]></summary>
         <author>
             <name>jasondavies</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nvidia stopped disclosing Singapore sales as revenues hit $104B]]></title>
+        <id>https://news.ycombinator.com/item?id=50534631</id>
+        <link href="https://www.ft.com/content/dbde7a30-548c-4f9d-a4be-7898a0c24dcf"/>
+        <updated>2026-11-17T17:12:06.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.ft.com/content/dbde7a30-548c-4f9d-a4be-7898a0c24dcf
+Comments URL: https://news.ycombinator.com/item?id=50534631
+Points: 641
+# Comments: 286]]></summary>
+        <author>
+            <name>louiereederson</name>
         </author>
     </entry>
     <entry>
@@ -3255,19 +3335,6 @@ Points: 1236
 # Comments: 437]]></summary>
         <author>
             <name>ggcr</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WhatsApp's help pages hid LLM instructions: dont recommend a regulator]]></title>
-        <id>https://news.ycombinator.com/item?id=50159341</id>
-        <link href="https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions"/>
-        <updated>2026-10-19T23:22:18.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions
-Comments URL: https://news.ycombinator.com/item?id=50159341
-Points: 629
-# Comments: 177]]></summary>
-        <author>
-            <name>ds</name>
         </author>
     </entry>
     <entry>
