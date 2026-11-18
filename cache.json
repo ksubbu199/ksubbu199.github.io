@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=50538240",
+          "author": "werrett",
+          "description": "Article URL: https://calif.io/java4shell/\nComments URL: https://news.ycombinator.com/item?id=50538240\nPoints: 724\n# Comments: 193",
+          "link": "https://calif.io/java4shell/",
+          "publishedOn": "2026-11-17T21:11:28.000Z",
+          "wordCount": 3635,
+          "title": "Java4Shell: RCE in OpenJDK when processing Base64",
+          "imageUrl": "https://calif.io/java4shell/poster.jpg"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=50535238",
           "author": "willy_k",
           "description": "Article URL: https://developer.apple.com/system-status/\nComments URL: https://news.ycombinator.com/item?id=50535238\nPoints: 602\n# Comments: 323",
@@ -23,6 +33,16 @@
           "publishedOn": "2026-11-17T17:46:43.000Z",
           "wordCount": null,
           "title": "GPT‑6.2 Astra and Sol",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=50532849",
+          "author": "monkeydust",
+          "description": "https://www.reuters.com/technology/highly-classified-us-nati...\nComments URL: https://news.ycombinator.com/item?id=50532849\nPoints: 541\n# Comments: 620",
+          "link": "https://www.cnn.com/2026/11/17/politics/highly-classified-national-security-communications-network-goes-down",
+          "publishedOn": "2026-11-17T15:38:28.000Z",
+          "wordCount": null,
+          "title": "Highly classified US national security communications network goes down",
           "imageUrl": null
         },
         {
@@ -2164,46 +2184,6 @@
           "wordCount": 3661,
           "title": "WhatsApp's help pages hid LLM instructions: dont recommend a regulator",
           "imageUrl": "https://redact.dev/blog-images/2026/10/whatsapp-hidden-ai-notes-robot-puppeteer.jpg"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=50154540",
-          "author": "jtg",
-          "description": "Article URL: https://www.minimax.io/blog/minimax-m31f\nComments URL: https://news.ycombinator.com/item?id=50154540\nPoints: 506\n# Comments: 215",
-          "link": "https://www.minimax.io/blog/minimax-m31f",
-          "publishedOn": "2026-10-19T16:39:09.000Z",
-          "wordCount": 1667,
-          "title": "MiniMax M3.1 Flash",
-          "imageUrl": "https://filecdn.minimax.chat/public/m31-flash-zh-1-1792403273121.png?x-oss-process=image/format,webp"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=50154518",
-          "author": "phoronixrly",
-          "description": "Article URL: https://po-ru.com/2026/10/18/why-im-no-longer-updating-this-repository\nComments URL: https://news.ycombinator.com/item?id=50154518\nPoints: 503\n# Comments: 497",
-          "link": "https://po-ru.com/2026/10/18/why-im-no-longer-updating-this-repository",
-          "publishedOn": "2026-10-19T16:37:10.000Z",
-          "wordCount": 563,
-          "title": "I no longer care to work on any Ruby gems so I've archived all my repositories",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=50154244",
-          "author": "cmrdporcupine",
-          "description": "https://public-inspection.federalregister.gov/2026-21447.pdf\nComments URL: https://news.ycombinator.com/item?id=50154244\nPoints: 530\n# Comments: 458",
-          "link": "https://www.reuters.com/technology/us-banning-chinese-ai-deepseek-government-agency-it-systems-2026-10-19/",
-          "publishedOn": "2026-10-19T16:16:46.000Z",
-          "wordCount": null,
-          "title": "DeepSeek banned from U.S. federal civilian agencies under new DHS order",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=50152307",
-          "author": "iamnothere",
-          "description": "Article URL: https://marc.info/?l=openbsd-ports&m=179236125692175\nComments URL: https://news.ycombinator.com/item?id=50152307\nPoints: 562\n# Comments: 186",
-          "link": "https://marc.info/?l=openbsd-ports&m=179236125692175",
-          "publishedOn": "2026-10-19T13:35:34.000Z",
-          "wordCount": 417,
-          "title": "Wine ported to OpenBSD",
-          "imageUrl": null
         }
       ]
     },
