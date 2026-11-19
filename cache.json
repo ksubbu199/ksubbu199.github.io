@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=50552424",
+          "author": "yigitdemirag",
+          "description": "Article URL: https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/\nComments URL: https://news.ycombinator.com/item?id=50552424\nPoints: 653\n# Comments: 563",
+          "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/",
+          "publishedOn": "2026-11-18T21:34:07.000Z",
+          "wordCount": 5836,
+          "title": "Gemini 4 Neon",
+          "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-4-neon__blog-header__sm.width-1300.png"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=50547620",
           "author": "gyre007",
           "description": "Article URL: https://www.inside-db.com/\nComments URL: https://news.ycombinator.com/item?id=50547620\nPoints: 501\n# Comments: 180",
@@ -2204,36 +2214,6 @@
           "wordCount": 724,
           "title": "SimCity, but with Permits",
           "imageUrl": "https://permit.petercai.com/marketing/og.jpg"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=50168396",
-          "author": "ilreb",
-          "description": "Article URL: https://mistral.ai/news/voxtral-3/\nComments URL: https://news.ycombinator.com/item?id=50168396\nPoints: 521\n# Comments: 140",
-          "link": "https://mistral.ai/news/voxtral-3/",
-          "publishedOn": "2026-10-20T16:02:07.000Z",
-          "wordCount": 4658,
-          "title": "Voxtral 3",
-          "imageUrl": "https://mistral.ai/cms-media/api/media/file/hero-blog-voxtral.png"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=50166579",
-          "author": "galadran",
-          "description": "Article URL: https://emudhra.we-have-a-problem.com/\nComments URL: https://news.ycombinator.com/item?id=50166579\nPoints: 622\n# Comments: 336",
-          "link": "https://emudhra.we-have-a-problem.com/",
-          "publishedOn": "2026-10-20T13:58:33.000Z",
-          "wordCount": 1687,
-          "title": "EMudhra Intermediate CA Compromise",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=50165208",
-          "author": "evanb",
-          "description": "Article URL: https://teddysvoronos.com/2026-10-19-apple-broke-an-essential-presentation-feature-of-ipads/\nComments URL: https://news.ycombinator.com/item?id=50165208\nPoints: 541\n# Comments: 269",
-          "link": "https://teddysvoronos.com/2026-10-19-apple-broke-an-essential-presentation-feature-of-ipads/",
-          "publishedOn": "2026-10-20T12:17:28.000Z",
-          "wordCount": 1377,
-          "title": "Apple broke an essential presentation feature of iPads",
-          "imageUrl": "https://teddysvoronos.com/assets/img/headshot-nav.jpg"
         }
       ]
     },

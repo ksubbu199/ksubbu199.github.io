@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-11-18T23:16:06.546Z</updated>
+    <updated>2026-11-19T06:06:15.064Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Gemini 4 Neon]]></title>
+        <id>https://news.ycombinator.com/item?id=50552424</id>
+        <link href="https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/"/>
+        <updated>2026-11-18T21:34:07.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/
+Comments URL: https://news.ycombinator.com/item?id=50552424
+Points: 653
+# Comments: 563]]></summary>
+        <author>
+            <name>yigitdemirag</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Inside Deutsche Bank]]></title>
         <id>https://news.ycombinator.com/item?id=50547620</id>
@@ -3340,45 +3353,6 @@ Points: 540
 # Comments: 285]]></summary>
         <author>
             <name>pcai</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Voxtral 3]]></title>
-        <id>https://news.ycombinator.com/item?id=50168396</id>
-        <link href="https://mistral.ai/news/voxtral-3/"/>
-        <updated>2026-10-20T16:02:07.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://mistral.ai/news/voxtral-3/
-Comments URL: https://news.ycombinator.com/item?id=50168396
-Points: 521
-# Comments: 140]]></summary>
-        <author>
-            <name>ilreb</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EMudhra Intermediate CA Compromise]]></title>
-        <id>https://news.ycombinator.com/item?id=50166579</id>
-        <link href="https://emudhra.we-have-a-problem.com/"/>
-        <updated>2026-10-20T13:58:33.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://emudhra.we-have-a-problem.com/
-Comments URL: https://news.ycombinator.com/item?id=50166579
-Points: 622
-# Comments: 336]]></summary>
-        <author>
-            <name>galadran</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Apple broke an essential presentation feature of iPads]]></title>
-        <id>https://news.ycombinator.com/item?id=50165208</id>
-        <link href="https://teddysvoronos.com/2026-10-19-apple-broke-an-essential-presentation-feature-of-ipads/"/>
-        <updated>2026-10-20T12:17:28.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://teddysvoronos.com/2026-10-19-apple-broke-an-essential-presentation-feature-of-ipads/
-Comments URL: https://news.ycombinator.com/item?id=50165208
-Points: 541
-# Comments: 269]]></summary>
-        <author>
-            <name>evanb</name>
         </author>
     </entry>
     <entry>
