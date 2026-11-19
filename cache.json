@@ -6,6 +6,26 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=50562754",
+          "author": "wslh",
+          "description": "Article URL: https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/\nComments URL: https://news.ycombinator.com/item?id=50562754\nPoints: 791\n# Comments: 1490",
+          "link": "https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/",
+          "publishedOn": "2026-11-19T17:02:40.000Z",
+          "wordCount": null,
+          "title": "Anthropic’s Nasdaq debut",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=50558533",
+          "author": "liotier",
+          "description": "Article URL: https://element.io/blog/how-the-european-commission-rolled-out-matrix-to-more-than-40-000-staff/\nComments URL: https://news.ycombinator.com/item?id=50558533\nPoints: 639\n# Comments: 308",
+          "link": "https://element.io/blog/how-the-european-commission-rolled-out-matrix-to-more-than-40-000-staff/",
+          "publishedOn": "2026-11-19T10:58:29.000Z",
+          "wordCount": 6624,
+          "title": "How the European Commission rolled out Matrix to more than 40k staff",
+          "imageUrl": "https://element.io/assets-32bb636196f91ed59d7a49190e26b42c/5ef25c0d30ee3108da4c25e9/6adb731e199252ab9c9e4dd5_matrix-conference-opengraph.jpg"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=50554045",
           "author": "ExMachina73",
           "description": "Article URL: https://violetpixel.com/blog/2026-11-17-we-need-smart-people-who-give-a-shit/\nComments URL: https://news.ycombinator.com/item?id=50554045\nPoints: 724\n# Comments: 356",
@@ -2194,26 +2214,6 @@
           "wordCount": 607,
           "title": "PHP 8.2.35",
           "imageUrl": "https://opengraph.githubassets.com/b382b97f570c6673dfdefc3fb9a0a772f2031a00c0a2d8b99a13a55cda4b0645/php/php-src/releases/tag/php-8.2.35"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=50177916",
-          "author": "hkc",
-          "description": "Article URL: https://scotthelme.co.uk/eight-bits-of-trust-emudhras-ca-keys-cracked-in-milliseconds/\nComments URL: https://news.ycombinator.com/item?id=50177916\nPoints: 670\n# Comments: 311",
-          "link": "https://scotthelme.co.uk/eight-bits-of-trust-emudhras-ca-keys-cracked-in-milliseconds/",
-          "publishedOn": "2026-10-21T09:08:08.000Z",
-          "wordCount": 2349,
-          "title": "Eight Bits of Trust; eMudhra's CA keys cracked in milliseconds",
-          "imageUrl": "https://storage.ghost.io/c/ee/88/ee889f88-37ef-43e5-9180-f9b88ee6261d/content/images/size/w1200/2026/10/emudhra.png"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=50177911",
-          "author": "velo_aprx",
-          "description": "Article URL: https://unric.org/en/unep-emissions-gap-report-2026-1-5-degree-overshoot/\nComments URL: https://news.ycombinator.com/item?id=50177911\nPoints: 502\n# Comments: 559",
-          "link": "https://unric.org/en/unep-emissions-gap-report-2026-1-5-degree-overshoot/",
-          "publishedOn": "2026-10-21T09:07:49.000Z",
-          "wordCount": 13710,
-          "title": "The 1.5°C goal of the Paris Agreement is no longer viable",
-          "imageUrl": "https://e4k4c4x9.delivery.rocketcdn.me/en/wp-content/uploads/sites/15/2026/10/city-smog.jpg"
         }
       ]
     },
@@ -2400,16 +2400,6 @@
           "wordCount": 2154,
           "title": "Fragments: October 28",
           "imageUrl": "https://martinfowler.com/fragments/fragments-thumb.png"
-        },
-        {
-          "id": "https://martinfowler.com/fragments/2026-10-21.html",
-          "author": null,
-          "description": "Gergely Orosz is frustrated at those that entered his explicitly “No AI” essay competition and used AI. He goes on to say:\nWhen I start to suspect some part is AI about someone I don’t know: how can I tell how much of it is? And how much time and effort do I want to invest to figure out?\nI fear most people do not realize this last part: that when it takes time and effort from others to figure out what % is AI, and what % is YOU, then I will simply assume it’s probably 100% AI and 0% you\nSo when producing anything that is meant for other humans, if you use even a little AI, you risk the assumption that it is all AI and pointless to pay attention to\nIn general, I agree with him, and react much the same. Once I hear LLM Voice, I flip the bozo bit and check out of the post.\nBut as I do this I …",
-          "link": "https://martinfowler.com/fragments/2026-10-21.html",
-          "publishedOn": "2026-10-21T10:51:00.000Z",
-          "wordCount": 1238,
-          "title": "Fragments: October 21",
-          "imageUrl": "https://martinfowler.com/fragments/fragments-thumb.png"
         }
       ]
     },
@@ -2424,6 +2414,16 @@
       "feedUrl": "https://blog.pragmaticengineer.com/rss/",
       "siteUrl": "https://blog.pragmaticengineer.com/",
       "articles": [
+        {
+          "id": "6afeb55033a81c00019023ec",
+          "author": "Ivan Klaric",
+          "description": "Cloud platform Railway published a detailed postmortem about their recent hack in which the attacker likely used no-safeguards AI models. Railway hardened its systems as a result.",
+          "link": "https://blog.pragmaticengineer.com/the-pulse-what-can-we-learn-from-the-railway-hack/",
+          "publishedOn": "2026-11-19T18:53:58.000Z",
+          "wordCount": 2887,
+          "title": "The Pulse: What can we learn from the Railway hack?",
+          "imageUrl": null
+        },
         {
           "id": "6aec73282f23c10001da42a7",
           "author": "Ivan Klaric",

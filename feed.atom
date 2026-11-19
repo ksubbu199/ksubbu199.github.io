@@ -2,10 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-11-19T16:19:18.441Z</updated>
+    <updated>2026-11-19T23:24:20.437Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The Pulse: What can we learn from the Railway hack?]]></title>
+        <id>6afeb55033a81c00019023ec</id>
+        <link href="https://blog.pragmaticengineer.com/the-pulse-what-can-we-learn-from-the-railway-hack/"/>
+        <updated>2026-11-19T18:53:58.000Z</updated>
+        <summary type="html"><![CDATA[Cloud platform Railway published a detailed postmortem about their recent hack in which the attacker likely used no-safeguards AI models. Railway hardened its systems as a result.]]></summary>
+        <author>
+            <name>Ivan Klaric</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Anthropic’s Nasdaq debut]]></title>
+        <id>https://news.ycombinator.com/item?id=50562754</id>
+        <link href="https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/"/>
+        <updated>2026-11-19T17:02:40.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/
+Comments URL: https://news.ycombinator.com/item?id=50562754
+Points: 791
+# Comments: 1490]]></summary>
+        <author>
+            <name>wslh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How the European Commission rolled out Matrix to more than 40k staff]]></title>
+        <id>https://news.ycombinator.com/item?id=50558533</id>
+        <link href="https://element.io/blog/how-the-european-commission-rolled-out-matrix-to-more-than-40-000-staff/"/>
+        <updated>2026-11-19T10:58:29.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://element.io/blog/how-the-european-commission-rolled-out-matrix-to-more-than-40-000-staff/
+Comments URL: https://news.ycombinator.com/item?id=50558533
+Points: 639
+# Comments: 308]]></summary>
+        <author>
+            <name>liotier</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[We need smart people who give a shit]]></title>
         <id>https://news.ycombinator.com/item?id=50554045</id>
@@ -3310,47 +3346,6 @@ Points: 796
         <summary type="html"><![CDATA[At the Global Fintech Fest, Mastercard showed us how technology is making digital payments safer, from detecting fraud in milliseconds to the future of Agent...]]></summary>
         <author>
             <name>Think School</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fragments: October 21]]></title>
-        <id>https://martinfowler.com/fragments/2026-10-21.html</id>
-        <link href="https://martinfowler.com/fragments/2026-10-21.html"/>
-        <updated>2026-10-21T10:51:00.000Z</updated>
-        <summary type="html"><![CDATA[Gergely Orosz is frustrated at those that entered his explicitly “No AI” essay competition and used AI. He goes on to say:
-When I start to suspect some part is AI about someone I don’t know: how can I tell how much of it is? And how much time and effort do I want to invest to figure out?
-I fear most people do not realize this last part: that when it takes time and effort from others to figure out what % is AI, and what % is YOU, then I will simply assume it’s probably 100% AI and 0% you
-So when producing anything that is meant for other humans, if you use even a little AI, you risk the assumption that it is all AI and pointless to pay attention to
-In general, I agree with him, and react much the same. Once I hear LLM Voice, I flip the bozo bit and check out of the post.
-But as I do this I …]]></summary>
-        <author>
-            <name>Martin Fowler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Eight Bits of Trust; eMudhra's CA keys cracked in milliseconds]]></title>
-        <id>https://news.ycombinator.com/item?id=50177916</id>
-        <link href="https://scotthelme.co.uk/eight-bits-of-trust-emudhras-ca-keys-cracked-in-milliseconds/"/>
-        <updated>2026-10-21T09:08:08.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://scotthelme.co.uk/eight-bits-of-trust-emudhras-ca-keys-cracked-in-milliseconds/
-Comments URL: https://news.ycombinator.com/item?id=50177916
-Points: 670
-# Comments: 311]]></summary>
-        <author>
-            <name>hkc</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The 1.5°C goal of the Paris Agreement is no longer viable]]></title>
-        <id>https://news.ycombinator.com/item?id=50177911</id>
-        <link href="https://unric.org/en/unep-emissions-gap-report-2026-1-5-degree-overshoot/"/>
-        <updated>2026-10-21T09:07:49.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://unric.org/en/unep-emissions-gap-report-2026-1-5-degree-overshoot/
-Comments URL: https://news.ycombinator.com/item?id=50177911
-Points: 502
-# Comments: 559]]></summary>
-        <author>
-            <name>velo_aprx</name>
         </author>
     </entry>
     <entry>
