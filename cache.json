@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=50554045",
+          "author": "ExMachina73",
+          "description": "Article URL: https://violetpixel.com/blog/2026-11-17-we-need-smart-people-who-give-a-shit/\nComments URL: https://news.ycombinator.com/item?id=50554045\nPoints: 724\n# Comments: 356",
+          "link": "https://violetpixel.com/blog/2026-11-17-we-need-smart-people-who-give-a-shit/",
+          "publishedOn": "2026-11-18T23:53:49.000Z",
+          "wordCount": 1327,
+          "title": "We need smart people who give a shit",
+          "imageUrl": null
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=50552424",
           "author": "yigitdemirag",
           "description": "Article URL: https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/\nComments URL: https://news.ycombinator.com/item?id=50552424\nPoints: 653\n# Comments: 563",
@@ -14,6 +24,16 @@
           "wordCount": 5836,
           "title": "Gemini 4 Neon",
           "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-4-neon__blog-header__sm.width-1300.png"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=50548021",
+          "author": "gmays",
+          "description": "Article URL: https://microsoft.ai/news/microsoft-ignite-2026/\nComments URL: https://news.ycombinator.com/item?id=50548021\nPoints: 584\n# Comments: 365",
+          "link": "https://microsoft.ai/news/microsoft-ignite-2026/",
+          "publishedOn": "2026-11-18T16:08:24.000Z",
+          "wordCount": 2669,
+          "title": "Seven new models at scalable price-performance",
+          "imageUrl": "https://microsoft.ai/wp-content/uploads/2026/11/All-Up-Blog.jpg"
         },
         {
           "id": "https://news.ycombinator.com/item?id=50547620",
@@ -54,6 +74,26 @@
           "wordCount": 1149,
           "title": "AI is killing All About Berlin",
           "imageUrl": null
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=50542135",
+          "author": "throwawaysleep",
+          "description": "Article URL: https://reddit.com/r/recruitinghell/comments/1xyr6ml/interviewed_at_a_yc_startup_spent_30_hours/\nComments URL: https://news.ycombinator.com/item?id=50542135\nPoints: 503\n# Comments: 126",
+          "link": "https://reddit.com/r/recruitinghell/comments/1xyr6ml/interviewed_at_a_yc_startup_spent_30_hours/",
+          "publishedOn": "2026-11-18T05:11:30.000Z",
+          "wordCount": null,
+          "title": "Interviewed at a YC startup, found out they used my LinkedIn without permission",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=50540437",
+          "author": "DeepLogin",
+          "description": "Article URL: https://consumerrights.wiki/w/ID.me_terms_required_for_IRS_sign-in\nComments URL: https://news.ycombinator.com/item?id=50540437\nPoints: 502\n# Comments: 263",
+          "link": "https://consumerrights.wiki/w/ID.me_terms_required_for_IRS_sign-in",
+          "publishedOn": "2026-11-18T00:51:45.000Z",
+          "wordCount": 3808,
+          "title": "ID.me terms required for IRS sign-in",
+          "imageUrl": "https://consumerrights.wiki/images/logo/new_fixed_logo.png"
         },
         {
           "id": "https://news.ycombinator.com/item?id=50540178",
@@ -2174,46 +2214,6 @@
           "wordCount": 13710,
           "title": "The 1.5°C goal of the Paris Agreement is no longer viable",
           "imageUrl": "https://e4k4c4x9.delivery.rocketcdn.me/en/wp-content/uploads/sites/15/2026/10/city-smog.jpg"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=50175070",
-          "author": "soheilpro",
-          "description": "Article URL: https://www.joshwcomeau.com/css/interop-2027/\nComments URL: https://news.ycombinator.com/item?id=50175070\nPoints: 565\n# Comments: 243",
-          "link": "https://www.joshwcomeau.com/css/interop-2027/",
-          "publishedOn": "2026-10-21T01:47:28.000Z",
-          "wordCount": 10754,
-          "title": "The Future of CSS",
-          "imageUrl": "https://www.joshwcomeau.com/images/og-interop-2027.png"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=50172041",
-          "author": "xd",
-          "description": "https://cert.europa.eu/publications/security-advisories/2026...\nhttps://news.ycombinator.com/item?id=50167754\nComments URL: https://news.ycombinator.com/item?id=50172041\nPoints: 1468\n# Comments: 633",
-          "link": "https://www.php.net/archive/2026.php#2026-10-21-5",
-          "publishedOn": "2026-10-20T20:15:50.000Z",
-          "wordCount": 6212,
-          "title": "Security advisory: Critical remote code execution vulnerabilities, update now",
-          "imageUrl": "https://www.php.net/images/meta-image.png"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=50172041",
-          "author": "xd",
-          "description": "https://cert.europa.eu/publications/security-advisories/2026...\nhttps://news.ycombinator.com/item?id=50167754\nComments URL: https://news.ycombinator.com/item?id=50172041\nPoints: 1274\n# Comments: 526",
-          "link": "https://news-web.php.net/php.announce/509",
-          "publishedOn": "2026-10-20T20:15:50.000Z",
-          "wordCount": null,
-          "title": "Upcoming critical PHP security release (CVE-2026-109618 / -109619)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=50170593",
-          "author": "pcai",
-          "description": "Article URL: https://permit.petercai.com/\nComments URL: https://news.ycombinator.com/item?id=50170593\nPoints: 540\n# Comments: 285",
-          "link": "https://permit.petercai.com/",
-          "publishedOn": "2026-10-20T18:29:09.000Z",
-          "wordCount": 724,
-          "title": "SimCity, but with Permits",
-          "imageUrl": "https://permit.petercai.com/marketing/og.jpg"
         }
       ]
     },
