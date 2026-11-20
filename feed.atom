@@ -2,10 +2,91 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-11-20T14:57:29.463Z</updated>
+    <updated>2026-11-20T22:10:27.430Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Fragments: November 20]]></title>
+        <id>https://martinfowler.com/fragments/2026-11-20.html</id>
+        <link href="https://martinfowler.com/fragments/2026-11-20.html"/>
+        <updated>2026-11-20T18:38:00.000Z</updated>
+        <summary type="html"><![CDATA[Marcus Borg recounts an experiment to investigate if healthy code was cheaper for agents to review.
+Between a typical unhealthy pull request (CodeHealth 2.8) and a typical healthy one (9.7), that adds up to 22 to 35%.
+The measures of health come from CodeScene. The experiment looked at three LLMs, 465 pull requests on 246 open source repositories. Each pull request was put through a review and fix pipeline involving five agents. They also looked at which code smells led to increased costs: they highlighted Complex Method and Complex Conditional from the smells identified by CodeScene.
+Another drop of evidence that good quality code matters in agentic engineering.
+ ❄                ❄                ❄                ❄                ❄
+Gergely Orosz:
+One usage for AI: for these 100-page-long …]]></summary>
+        <author>
+            <name>Martin Fowler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hurried Announcement: Alessandro Masullo GRH]]></title>
+        <id>https://news.ycombinator.com/item?id=50579568</id>
+        <link href="https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/"/>
+        <updated>2026-11-20T18:33:14.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/
+Comments URL: https://news.ycombinator.com/item?id=50579568
+Points: 1087
+# Comments: 511]]></summary>
+        <author>
+            <name>jasondavies</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I'll never buy Framework hardware again]]></title>
+        <id>https://news.ycombinator.com/item?id=50576855</id>
+        <link href="https://poolp.org/posts/2026-11-20/ill-never-buy-framework-hardware-again/"/>
+        <updated>2026-11-20T16:06:30.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://poolp.org/posts/2026-11-20/ill-never-buy-framework-hardware-again/
+Comments URL: https://news.ycombinator.com/item?id=50576855
+Points: 739
+# Comments: 512]]></summary>
+        <author>
+            <name>unchar1</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf]]]></title>
+        <id>https://news.ycombinator.com/item?id=50574968</id>
+        <link href="https://alpo.ge/remark.pdf"/>
+        <updated>2026-11-20T14:16:21.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://alpo.ge/remark.pdf
+Comments URL: https://news.ycombinator.com/item?id=50574968
+Points: 2141
+# Comments: 1462]]></summary>
+        <author>
+            <name>iamronaldo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Frostbite: A new CPU architecture discovered, designed and verified by AI]]></title>
+        <id>https://news.ycombinator.com/item?id=50572503</id>
+        <link href="https://architectlabs.com/blog/frostbite"/>
+        <updated>2026-11-20T10:01:41.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://architectlabs.com/blog/frostbite
+Comments URL: https://news.ycombinator.com/item?id=50572503
+Points: 578
+# Comments: 307]]></summary>
+        <author>
+            <name>shioyama</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[If you can't explain something in simple terms, you don't understand it (2017)]]></title>
+        <id>https://news.ycombinator.com/item?id=50572355</id>
+        <link href="https://kottke.org/17/06/if-you-cant-explain-something-in-simple-terms-you-dont-understand-it"/>
+        <updated>2026-11-20T09:43:19.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://kottke.org/17/06/if-you-cant-explain-something-in-simple-terms-you-dont-understand-it
+Comments URL: https://news.ycombinator.com/item?id=50572355
+Points: 575
+# Comments: 277]]></summary>
+        <author>
+            <name>sammatilda</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Pulse: What can we learn from the Railway hack?]]></title>
         <id>6afeb55033a81c00019023ec</id>
@@ -3223,28 +3304,6 @@ Points: 615
 # Comments: 228]]></summary>
         <author>
             <name>petecooper</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Jailbreaking the Switch 2]]></title>
-        <id>https://news.ycombinator.com/item?id=50192536</id>
-        <link href="https://pepsipu.com/blog/2026-10-switch2-jailbreak-ns2jb/"/>
-        <updated>2026-10-22T08:01:52.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://pepsipu.com/blog/2026-10-switch2-jailbreak-ns2jb/
-Comments URL: https://news.ycombinator.com/item?id=50192536
-Points: 541
-# Comments: 199]]></summary>
-        <author>
-            <name>ledoge</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[3 Things They Won't Tell You! | What the 528-Page DRHP Reveals  About Jio IPO]]></title>
-        <id>https://www.youtube.com/watch?v=d5Nu2Fg37no</id>
-        <link href="https://www.youtube.com/watch?v=d5Nu2Fg37no"/>
-        <updated>2026-10-22T07:11:39.000Z</updated>
-        <author>
-            <name>Think School</name>
         </author>
     </entry>
     <entry>

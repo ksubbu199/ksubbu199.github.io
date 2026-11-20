@@ -6,6 +6,56 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=50579568",
+          "author": "jasondavies",
+          "description": "Article URL: https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/\nComments URL: https://news.ycombinator.com/item?id=50579568\nPoints: 1087\n# Comments: 511",
+          "link": "https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/",
+          "publishedOn": "2026-11-20T18:33:14.000Z",
+          "wordCount": 3058,
+          "title": "Hurried Announcement: Alessandro Masullo GRH",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=50576855",
+          "author": "unchar1",
+          "description": "Article URL: https://poolp.org/posts/2026-11-20/ill-never-buy-framework-hardware-again/\nComments URL: https://news.ycombinator.com/item?id=50576855\nPoints: 739\n# Comments: 512",
+          "link": "https://poolp.org/posts/2026-11-20/ill-never-buy-framework-hardware-again/",
+          "publishedOn": "2026-11-20T16:06:30.000Z",
+          "wordCount": 353,
+          "title": "I'll never buy Framework hardware again",
+          "imageUrl": "https://poolp.org/posts/2026-11-20/ill-never-buy-framework-hardware-again/featured.png"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=50574968",
+          "author": "iamronaldo",
+          "description": "Article URL: https://alpo.ge/remark.pdf\nComments URL: https://news.ycombinator.com/item?id=50574968\nPoints: 2141\n# Comments: 1462",
+          "link": "https://alpo.ge/remark.pdf",
+          "publishedOn": "2026-11-20T14:16:21.000Z",
+          "wordCount": 5333,
+          "title": "Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf]",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=50572503",
+          "author": "shioyama",
+          "description": "Article URL: https://architectlabs.com/blog/frostbite\nComments URL: https://news.ycombinator.com/item?id=50572503\nPoints: 578\n# Comments: 307",
+          "link": "https://architectlabs.com/blog/frostbite",
+          "publishedOn": "2026-11-20T10:01:41.000Z",
+          "wordCount": 8209,
+          "title": "Frostbite: A new CPU architecture discovered, designed and verified by AI",
+          "imageUrl": "https://main--gleeful-begonia-6bb5f3.netlify.app/_next/static/media/frostbite-cover.3n9ytugnquhlr.jpg"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=50572355",
+          "author": "sammatilda",
+          "description": "Article URL: https://kottke.org/17/06/if-you-cant-explain-something-in-simple-terms-you-dont-understand-it\nComments URL: https://news.ycombinator.com/item?id=50572355\nPoints: 575\n# Comments: 277",
+          "link": "https://kottke.org/17/06/if-you-cant-explain-something-in-simple-terms-you-dont-understand-it",
+          "publishedOn": "2026-11-20T09:43:19.000Z",
+          "wordCount": 997,
+          "title": "If you can't explain something in simple terms, you don't understand it (2017)",
+          "imageUrl": "http://kottke.org/plus/misc/images/feynman-blackboard.jpg"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=50563148",
           "author": "cybermango",
           "description": "Article URL: https://www.anthropic.com/research/claude-black-hole-physics\nComments URL: https://news.ycombinator.com/item?id=50563148\nPoints: 519\n# Comments: 247",
@@ -2134,16 +2184,6 @@
           "wordCount": 12039,
           "title": "Tell HN: I unknowingly broke the PHP RCE embargo. I am sorry.",
           "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=50192536",
-          "author": "ledoge",
-          "description": "Article URL: https://pepsipu.com/blog/2026-10-switch2-jailbreak-ns2jb/\nComments URL: https://news.ycombinator.com/item?id=50192536\nPoints: 541\n# Comments: 199",
-          "link": "https://pepsipu.com/blog/2026-10-switch2-jailbreak-ns2jb/",
-          "publishedOn": "2026-10-22T08:01:52.000Z",
-          "wordCount": 2743,
-          "title": "Jailbreaking the Switch 2",
-          "imageUrl": null
         }
       ]
     },
@@ -2231,6 +2271,16 @@
       "feedUrl": "https://martinfowler.com/feed.atom",
       "siteUrl": "https://martinfowler.com/feed.atom",
       "articles": [
+        {
+          "id": "https://martinfowler.com/fragments/2026-11-20.html",
+          "author": null,
+          "description": "Marcus Borg recounts an experiment to investigate if healthy code was cheaper for agents to review.\nBetween a typical unhealthy pull request (CodeHealth 2.8) and a typical healthy one (9.7), that adds up to 22 to 35%.\nThe measures of health come from CodeScene. The experiment looked at three LLMs, 465 pull requests on 246 open source repositories. Each pull request was put through a review and fix pipeline involving five agents. They also looked at which code smells led to increased costs: they highlighted Complex Method and Complex Conditional from the smells identified by CodeScene.\nAnother drop of evidence that good quality code matters in agentic engineering.\n ❄                ❄                ❄                ❄                ❄\nGergely Orosz:\nOne usage for AI: for these 100-page-long …",
+          "link": "https://martinfowler.com/fragments/2026-11-20.html",
+          "publishedOn": "2026-11-20T18:38:00.000Z",
+          "wordCount": 1646,
+          "title": "Fragments: November 20",
+          "imageUrl": "https://martinfowler.com/fragments/fragments-thumb.png"
+        },
         {
           "id": "https://martinfowler.com/articles/data-contracts.html",
           "author": null,
@@ -2529,16 +2579,6 @@
           "publishedOn": "2026-10-27T13:29:25.000Z",
           "wordCount": null,
           "title": "Why Is JPMorgan So Powerful? How Jamie Dimon Built an Empire While Wall Street Collapsed",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=d5Nu2Fg37no",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=d5Nu2Fg37no",
-          "publishedOn": "2026-10-22T07:11:39.000Z",
-          "wordCount": null,
-          "title": "3 Things They Won't Tell You! | What the 528-Page DRHP Reveals  About Jio IPO",
           "imageUrl": null
         }
       ]
