@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=50563148",
+          "author": "cybermango",
+          "description": "Article URL: https://www.anthropic.com/research/claude-black-hole-physics\nComments URL: https://news.ycombinator.com/item?id=50563148\nPoints: 519\n# Comments: 247",
+          "link": "https://www.anthropic.com/research/claude-black-hole-physics",
+          "publishedOn": "2026-11-19T17:30:44.000Z",
+          "wordCount": 11244,
+          "title": "Claude solves two open problems in the physics of black holes",
+          "imageUrl": "https://assets.claude.com/57a443b51d13727573b7c1290130d09c5f434b2c.jpg"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=50563066",
           "author": "cybermango",
           "description": "https://archive.ph/2Et0x\nhttps://clinicaltrials.gov/study/NCT06693986\nComments URL: https://news.ycombinator.com/item?id=50563066\nPoints: 701\n# Comments: 109",
@@ -2134,56 +2144,6 @@
           "wordCount": 2743,
           "title": "Jailbreaking the Switch 2",
           "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=50190363",
-          "author": "alphax314",
-          "description": "Article URL: https://simedw.com/2026/10/21/world-model-terminal/\nComments URL: https://news.ycombinator.com/item?id=50190363\nPoints: 503\n# Comments: 156",
-          "link": "https://simedw.com/2026/10/21/world-model-terminal/",
-          "publishedOn": "2026-10-22T02:18:41.000Z",
-          "wordCount": 3339,
-          "title": "WorldTUI: I trained a 360M model to pretend to be a terminal",
-          "imageUrl": "https://simedw.com/2026/10/21/world-model-terminal/images/worldtui-cowsay.jpg"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=50189232",
-          "author": "ahlCVA",
-          "description": "Article URL: https://github.com/mitmproxy/mitmproxy/commit/169234499088fc2c414644a67efaed3d64ae2e3b\nComments URL: https://news.ycombinator.com/item?id=50189232\nPoints: 538\n# Comments: 130",
-          "link": "https://github.com/mitmproxy/mitmproxy/commit/169234499088fc2c414644a67efaed3d64ae2e3b",
-          "publishedOn": "2026-10-21T23:51:37.000Z",
-          "wordCount": 2932,
-          "title": "mitmproxy adds --emudhra option",
-          "imageUrl": "https://opengraph.githubassets.com/58e827e143b21d85e7009a31985d2abfb0b0d00f7fe91a9cc999f01a4deddbbf/mitmproxy/mitmproxy/commit/169234499088fc2c414644a67efaed3d64ae2e3b"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=50188948",
-          "author": "zkldi",
-          "description": "Article URL: https://eliastaylor.com/noexploit/\nComments URL: https://news.ycombinator.com/item?id=50188948\nPoints: 571\n# Comments: 361",
-          "link": "https://eliastaylor.com/noexploit/",
-          "publishedOn": "2026-10-21T23:13:27.000Z",
-          "wordCount": 870,
-          "title": "There isn't an easy exploit for this PHP vulnerability",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=50188228",
-          "author": "passenger",
-          "description": "Article URL: https://blog.railway.com/p/security-disclosure-wednesday-october-21st\nComments URL: https://news.ycombinator.com/item?id=50188228\nPoints: 515\n# Comments: 299",
-          "link": "https://blog.railway.com/p/security-disclosure-wednesday-october-21st",
-          "publishedOn": "2026-10-21T21:58:03.000Z",
-          "wordCount": 1515,
-          "title": "Security Disclosure",
-          "imageUrl": "https://cms.railway.com/media/cf05de70-b435-4fe9-8d52-540e0b585874-blog-security-disclosure-wednesday-october-21st.png?w=1200&q=90"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=50186037",
-          "author": "kuberwastaken",
-          "description": "Article URL: https://claude.com/product/claude-duet\nComments URL: https://news.ycombinator.com/item?id=50186037\nPoints: 525\n# Comments: 486",
-          "link": "https://claude.com/product/claude-duet",
-          "publishedOn": "2026-10-21T19:14:01.000Z",
-          "wordCount": 14726,
-          "title": "Claude Duet",
-          "imageUrl": "https://claude.com/static/claude-duet/og.jpg"
         }
       ]
     },
