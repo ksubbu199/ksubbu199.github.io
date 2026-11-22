@@ -6,6 +6,26 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=50596133",
+          "author": "zdw",
+          "description": "Article URL: https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/\nComments URL: https://news.ycombinator.com/item?id=50596133\nPoints: 850\n# Comments: 504",
+          "link": "https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/",
+          "publishedOn": "2026-11-22T04:04:56.000Z",
+          "wordCount": 10783,
+          "title": "Toyota, Nissan, and Honda to standardize parts to lower costs",
+          "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/d8009593-6fd1-4860-b42e-c59e9945155a.jpeg?crop=1xw:0.75xh;0xw,0.184xh&resize=1200:*"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=50591853",
+          "author": "k__",
+          "description": "Article URL: https://github.com/ShinMegamiBoson/lookatmyquant\nComments URL: https://news.ycombinator.com/item?id=50591853\nPoints: 517\n# Comments: 127",
+          "link": "https://github.com/ShinMegamiBoson/lookatmyquant",
+          "publishedOn": "2026-11-21T18:02:19.000Z",
+          "wordCount": 9887,
+          "title": "Inkling-2-Mini in 5.4 GB Memory",
+          "imageUrl": "https://opengraph.githubassets.com/5e8acd7691fb495c2c0425969686d916c14706f71e5c265ee06e955dde0f9cc2/ShinMegamiBoson/lookatmyquant"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=50589618",
           "author": "g-b-r",
           "description": "Article URL: https://leanprover-community.github.io/blog/posts/riemann-hypothesis/\nComments URL: https://news.ycombinator.com/item?id=50589618\nPoints: 552\n# Comments: 423",
@@ -2124,26 +2144,6 @@
           "wordCount": 1530,
           "title": "Root shell on Samsung TV",
           "imageUrl": "https://pbs.twimg.com/media/HVLvKWgXIAAWNTX?format=webp&name=large"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=50217495",
-          "author": "privacyishuman",
-          "description": "Article URL: https://grapheneos.social/@GrapheneOS/117492375462459244\nComments URL: https://news.ycombinator.com/item?id=50217495\nPoints: 519\n# Comments: 184",
-          "link": "https://grapheneos.social/@GrapheneOS/117492375462459244",
-          "publishedOn": "2026-10-24T01:15:14.000Z",
-          "wordCount": 308,
-          "title": "Around a dozen banking apps began specifically permitting GrapheneOS",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=50215997",
-          "author": "cisc",
-          "description": "Article URL: https://www.bbc.com/future/article/20261019-birdwatching-rewires-the-brain-and-slows-cognitive-decline\nComments URL: https://news.ycombinator.com/item?id=50215997\nPoints: 510\n# Comments: 199",
-          "link": "https://www.bbc.com/future/article/20261019-birdwatching-rewires-the-brain-and-slows-cognitive-decline",
-          "publishedOn": "2026-10-23T22:04:55.000Z",
-          "wordCount": 9007,
-          "title": "Birdwatching rewires the brain and slows cognitive decline",
-          "imageUrl": "https://ychef.files.bbci.co.uk/624x351/p0pj6qr2.jpg"
         }
       ]
     },
@@ -2391,6 +2391,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKZozRVHRYsYHGEyNKuhhdA",
       "siteUrl": "https://www.youtube.com/channel/UCKZozRVHRYsYHGEyNKuhhdA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=uVVUI0qLUrI",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=uVVUI0qLUrI",
+          "publishedOn": "2026-11-22T08:32:55.000Z",
+          "wordCount": null,
+          "title": "Dirty Business Behind GTA VI | How Rockstar turned crime, chaos and controversy into billions!",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=UJwddV0BCt8",
           "author": null,
