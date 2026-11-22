@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=50597612",
+          "author": "happosai",
+          "description": "Article URL: https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/\nComments URL: https://news.ycombinator.com/item?id=50597612\nPoints: 775\n# Comments: 803",
+          "link": "https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/",
+          "publishedOn": "2026-11-22T08:57:34.000Z",
+          "wordCount": 3965,
+          "title": "87% of the Anthropic power will come from gas and 11% from coal in 2028",
+          "imageUrl": "https://i0.wp.com/betterdatacenterproject.com/wp-content/uploads/2026/11/anthropic-total-co2.png?fit=1200%2C1065&ssl=1"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=50596133",
           "author": "zdw",
           "description": "Article URL: https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/\nComments URL: https://news.ycombinator.com/item?id=50596133\nPoints: 850\n# Comments: 504",
@@ -14,6 +24,16 @@
           "wordCount": 10783,
           "title": "Toyota, Nissan, and Honda to standardize parts to lower costs",
           "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/d8009593-6fd1-4860-b42e-c59e9945155a.jpeg?crop=1xw:0.75xh;0xw,0.184xh&resize=1200:*"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=50594911",
+          "author": "subdomain",
+          "description": "Article URL: https://stulle.app/\nComments URL: https://news.ycombinator.com/item?id=50594911\nPoints: 532\n# Comments: 190",
+          "link": "https://stulle.app/",
+          "publishedOn": "2026-11-22T00:07:59.000Z",
+          "wordCount": 193,
+          "title": "Sandwich Simulator",
+          "imageUrl": "https://stulle.app/og.jpg"
         },
         {
           "id": "https://news.ycombinator.com/item?id=50591853",
@@ -2134,16 +2154,6 @@
           "wordCount": 5520,
           "title": "The Goose Programming Language",
           "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=50218633",
-          "author": "testing22321",
-          "description": "Article URL: https://twitter.com/log4j/status/2113014142600953868?s=46\nComments URL: https://news.ycombinator.com/item?id=50218633\nPoints: 507\n# Comments: 210",
-          "link": "https://twitter.com/log4j/status/2113014142600953868?s=46",
-          "publishedOn": "2026-10-24T05:49:57.000Z",
-          "wordCount": 1530,
-          "title": "Root shell on Samsung TV",
-          "imageUrl": "https://pbs.twimg.com/media/HVLvKWgXIAAWNTX?format=webp&name=large"
         }
       ]
     },
