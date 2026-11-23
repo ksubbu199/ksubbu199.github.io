@@ -6,6 +6,126 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=50617499",
+          "author": "tech234a",
+          "description": "Article URL: https://arm.jonpalmisc.com/\nComments URL: https://news.ycombinator.com/item?id=50617499\nPoints: 740\n# Comments: 152",
+          "link": "https://arm.jonpalmisc.com/",
+          "publishedOn": "2026-11-23T19:17:55.000Z",
+          "wordCount": 201,
+          "title": "Per Arm's request, this site will be discontinued on 4 December 2026 :(",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=50615308",
+          "author": "MrBuddyCasino",
+          "description": "Article URL: https://twitter.com/ylecun/status/2124550037912920090\nComments URL: https://news.ycombinator.com/item?id=50615308\nPoints: 931\n# Comments: 539",
+          "link": "https://twitter.com/ylecun/status/2124550037912920090",
+          "publishedOn": "2026-11-23T17:07:26.000Z",
+          "wordCount": 2542,
+          "title": "Dario is hyping the dangers so OSS models are illegal and he stays in control",
+          "imageUrl": "https://pbs.twimg.com/profile_images/1483577865056702469/rWA-3_T7_400x400.jpg"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=50614249",
+          "author": "janvdberg",
+          "description": "Article URL: https://ladybird.org/posts/alpha/\nComments URL: https://news.ycombinator.com/item?id=50614249\nPoints: 1249\n# Comments: 307",
+          "link": "https://ladybird.org/posts/alpha/",
+          "publishedOn": "2026-11-23T16:13:12.000Z",
+          "wordCount": 350,
+          "title": "Ladybird is now in alpha",
+          "imageUrl": "/assets/img/logo-new.webp"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=50611588",
+          "author": "alanwong",
+          "description": "Article URL: https://nvidianews.nvidia.com/news/nvidia-board-reinstates-jensen-huang-as-president-ceo-and-board-director\nComments URL: https://news.ycombinator.com/item?id=50611588\nPoints: 1700\n# Comments: 4",
+          "link": "https://nvidianews.nvidia.com/news/nvidia-board-reinstates-jensen-huang-as-president-ceo-and-board-director",
+          "publishedOn": "2026-11-23T14:01:23.000Z",
+          "wordCount": 1374,
+          "title": "Jensen Huang Reinstated as Nvidia CEO",
+          "imageUrl": "https://nvidianews.nvidia.com/media/sites/219/images/social-image.jpg"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=50611576",
+          "author": "jaz",
+          "description": "https://nvidianews.nvidia.com/news/nvidia-board-reinstates-j...\nhttps://www.cnbc.com/2026/11/23/nvidia-jensen-huang-congress...\nComments URL: https://news.ycombinator.com/item?id=50611576\nPoints: 1873\n# Comments: 2958",
+          "link": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html",
+          "publishedOn": "2026-11-23T14:00:18.000Z",
+          "wordCount": 16760,
+          "title": "Nvidia Reinstates Jensen Huang as CEO",
+          "imageUrl": "https://image.cnbcfm.com/api/v1/image/108353993-1787677585886-108353993-1787675816989-gettyimages-2266718431-NVIDIA_GTC.jpg?v=1795450778&w=1920&h=1080"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=50609685",
+          "author": "foohis",
+          "description": "Article URL: https://z.ai/blog/glm-5.4\nComments URL: https://news.ycombinator.com/item?id=50609685\nPoints: 1013\n# Comments: 331",
+          "link": "https://z.ai/blog/glm-5.4",
+          "publishedOn": "2026-11-23T10:06:43.000Z",
+          "wordCount": 2,
+          "title": "GLM-5.4: Toward generalized coding with our first loop transformer",
+          "imageUrl": "https://z-ai-bj.oss-cn-beijing.aliyuncs.com/prompts-rich-media-resources/5.4-blog/20261123-173242.jpeg?w=1280&h=720&fit=fill"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=50607261",
+          "author": "mmastrac",
+          "description": "Article URL: https://github.com/AFK-surf/xnulinux\nComments URL: https://news.ycombinator.com/item?id=50607261\nPoints: 594\n# Comments: 243",
+          "link": "https://github.com/AFK-surf/xnulinux",
+          "publishedOn": "2026-11-23T03:49:24.000Z",
+          "wordCount": 4048,
+          "title": "XNU Linux: Full OS X GUI Userspace on Linux",
+          "imageUrl": "https://opengraph.githubassets.com/1b24d2578927c5ca4e482268daa63d574389ae22c447e01b9a64eac245223e3f/AFK-surf/xnulinux"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=50606192",
+          "author": "SockThief",
+          "description": "Article URL: https://spelunkr.tv\nComments URL: https://news.ycombinator.com/item?id=50606192\nPoints: 917\n# Comments: 159",
+          "link": "https://spelunkr.tv/",
+          "publishedOn": "2026-11-23T01:13:51.000Z",
+          "wordCount": 199,
+          "title": "Free alternative TV network built from the Internet Archive's forgotten videos",
+          "imageUrl": "https://spelunkr.tv/og-image.png"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=50603845",
+          "author": "Retell15",
+          "description": "Article URL: https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth\nComments URL: https://news.ycombinator.com/item?id=50603845\nPoints: 741\n# Comments: 296",
+          "link": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth",
+          "publishedOn": "2026-11-22T21:01:16.000Z",
+          "wordCount": 7514,
+          "title": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
+          "imageUrl": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth/opengraph-image-17m7t5?6653c98c6cd84ba6"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=50602947",
+          "author": "greenyouse",
+          "description": "Article URL: https://www.oreilly.com/radar/what-happened-to-silicon-valley/\nComments URL: https://news.ycombinator.com/item?id=50602947\nPoints: 794\n# Comments: 443",
+          "link": "https://www.oreilly.com/radar/what-happened-to-silicon-valley/",
+          "publishedOn": "2026-11-22T19:20:15.000Z",
+          "wordCount": 8742,
+          "title": "What Happened to Silicon Valley?",
+          "imageUrl": "https://www.oreilly.com/radar/wp-content/uploads/sites/3/2026/11/What-happened-to-Silicon-Valley-Image-created-with-ChatGPT-1600x901.png"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=50602843",
+          "author": "gaws",
+          "description": "Article URL: https://www.audubon.org/magazine/birds-of-gta-6-field-guide-vice-city-wildlife\nComments URL: https://news.ycombinator.com/item?id=50602843\nPoints: 629\n# Comments: 363",
+          "link": "https://www.audubon.org/magazine/birds-of-gta-6-field-guide-vice-city-wildlife",
+          "publishedOn": "2026-11-22T19:10:34.000Z",
+          "wordCount": 3999,
+          "title": "The Birds of GTA 6: A Field Guide to Vice City and Leonida's Wildlife",
+          "imageUrl": "https://media.audubon.org/2026-11/gta-still.jpg?width=1200&height=630&auto=webp&quality=90&fit=crop&enable=upscale"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=50601525",
+          "author": "acossta",
+          "description": "Article URL: https://openai.com/index/perplexity-and-intelligence/\nComments URL: https://news.ycombinator.com/item?id=50601525\nPoints: 693\n# Comments: 440",
+          "link": "https://openai.com/index/perplexity-and-intelligence/",
+          "publishedOn": "2026-11-22T17:06:27.000Z",
+          "wordCount": 6497,
+          "title": "Perplexity and Intelligence",
+          "imageUrl": "https://images.ctfassets.net/kftzwdyauwt9/6rIIhCRSKrhIfe385Onmcz/aca2d190553c62fd5d49efb5d5ce1eb6/perplexity-and-intelligence-social.png?w=1600&h=900&fit=fill"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=50597612",
           "author": "happosai",
           "description": "Article URL: https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/\nComments URL: https://news.ycombinator.com/item?id=50597612\nPoints: 775\n# Comments: 803",
@@ -2103,56 +2223,6 @@
           "publishedOn": "2026-10-25T17:15:38.000Z",
           "wordCount": 3189,
           "title": "A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=50226419",
-          "author": "gnabgib",
-          "description": "Article URL: https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class\nComments URL: https://news.ycombinator.com/item?id=50226419\nPoints: 500\n# Comments: 534",
-          "link": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
-          "publishedOn": "2026-10-24T23:11:54.000Z",
-          "wordCount": 6766,
-          "title": "America has lost 200k of jobs in media, film and the arts. How much is AI?",
-          "imageUrl": "https://substackcdn.com/image/fetch/$s_!oz9x!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F999e3450-1df3-457d-8715-5e2e46d5121c_2886x1843.png"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=50225695",
-          "author": "ltratt",
-          "description": "Article URL: https://danluu.com/ambitious/\nComments URL: https://news.ycombinator.com/item?id=50225695\nPoints: 548\n# Comments: 504",
-          "link": "https://danluu.com/ambitious/",
-          "publishedOn": "2026-10-24T21:47:31.000Z",
-          "wordCount": 6747,
-          "title": "We should be more ambitious with the software we build",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=50224916",
-          "author": "cloudlandsdev",
-          "description": "Made this because I'm curious if anyone out there has figured out how to actually use this PHP RCE we spent the last few days panicking over. Have fun!\nComments URL: https://news.ycombinator.com/item?id=50224916\nPoints: 539\n# Comments: 333",
-          "link": "https://stealmybitcoin.com/",
-          "publishedOn": "2026-10-24T20:30:31.000Z",
-          "wordCount": 1220,
-          "title": "Show HN: Steal My Bitcoin",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=50224463",
-          "author": "the-mitr",
-          "description": "Article URL: https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector\nComments URL: https://news.ycombinator.com/item?id=50224463\nPoints: 521\n# Comments: 535",
-          "link": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector",
-          "publishedOn": "2026-10-24T19:47:19.000Z",
-          "wordCount": 1640,
-          "title": "No signs of AI payoff outside the tech sector",
-          "imageUrl": "https://www.apollo.com/content/dam/apolloaem/apollo-default-page-share-image/apollo-og-image.png"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=50224100",
-          "author": "bobbydigitales",
-          "description": "https://twitter.com/ID_AA_Carmack/status/2113704269274636568\nComments URL: https://news.ycombinator.com/item?id=50224100\nPoints: 526\n# Comments: 324",
-          "link": "https://aardappel.github.io/goose/",
-          "publishedOn": "2026-10-24T19:06:55.000Z",
-          "wordCount": 5520,
-          "title": "The Goose Programming Language",
           "imageUrl": null
         }
       ]
