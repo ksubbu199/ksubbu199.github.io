@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-11-23T23:26:17.426Z</updated>
+    <updated>2026-11-24T08:38:02.394Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
@@ -17,6 +17,19 @@ Points: 740
 # Comments: 152]]></summary>
         <author>
             <name>tech234a</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple removed my open-source app from EU App Stores after 9 years]]></title>
+        <id>https://news.ycombinator.com/item?id=50616933</id>
+        <link href="https://github.com/glushchenko/fsnotes/discussions/2056"/>
+        <updated>2026-11-23T18:48:10.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://github.com/glushchenko/fsnotes/discussions/2056
+Comments URL: https://news.ycombinator.com/item?id=50616933
+Points: 567
+# Comments: 130]]></summary>
+        <author>
+            <name>fluder</name>
         </author>
     </entry>
     <entry>
@@ -3286,60 +3299,6 @@ Points: 501
 # Comments: 618]]></summary>
         <author>
             <name>laurenth</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dolly Parton's Imagination Library]]></title>
-        <id>https://news.ycombinator.com/item?id=50234474</id>
-        <link href="https://imaginationlibrary.com/"/>
-        <updated>2026-10-25T18:23:54.000Z</updated>
-        <summary type="html"><![CDATA[With today's news, I thought I'd share this great program:
-“When I was growing up in the hills of East Tennessee, I knew my dreams would come true. I know there are children in your community with their own dreams. They dream of becoming a doctor or an inventor or a minister. Who knows, maybe there is a little girl whose dream is to be a writer and singer.
-The seeds of these dreams are often found in books and the seeds you help plant in your community can grow across the world.”
-Comments URL: https://news.ycombinator.com/item?id=50234474
-Points: 540
-# Comments: 93]]></summary>
-        <author>
-            <name>jumploops</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Oregon Police Are Charging a Local News Outlet $2.5M for Records About One Cop]]></title>
-        <id>https://news.ycombinator.com/item?id=50234232</id>
-        <link href="https://theintercept.com/2026/10/01/oregon-police-misconduct-public-records-cost-fee/"/>
-        <updated>2026-10-25T18:04:11.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://theintercept.com/2026/10/01/oregon-police-misconduct-public-records-cost-fee/
-Comments URL: https://news.ycombinator.com/item?id=50234232
-Points: 508
-# Comments: 144]]></summary>
-        <author>
-            <name>tdeck</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I refuse to accept a censored Internet. Join Me at FOSDEM 27]]></title>
-        <id>https://news.ycombinator.com/item?id=50233929</id>
-        <link href="https://talkweb.eu/openweb/4558/"/>
-        <updated>2026-10-25T17:30:55.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://talkweb.eu/openweb/4558/
-Comments URL: https://news.ycombinator.com/item?id=50233929
-Points: 529
-# Comments: 261]]></summary>
-        <author>
-            <name>Tomte</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis]]></title>
-        <id>https://news.ycombinator.com/item?id=50233779</id>
-        <link href="https://lynchlab.net/llm-skin-cancer"/>
-        <updated>2026-10-25T17:15:38.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://lynchlab.net/llm-skin-cancer
-Comments URL: https://news.ycombinator.com/item?id=50233779
-Points: 553
-# Comments: 237]]></summary>
-        <author>
-            <name>sungam</name>
         </author>
     </entry>
     <entry>
