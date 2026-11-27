@@ -6,6 +6,56 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=50660180",
+          "author": "jlelse",
+          "description": "Article URL: https://janlukas.blog/posts/ai-self-hosting\nComments URL: https://news.ycombinator.com/item?id=50660180\nPoints: 536\n# Comments: 274",
+          "link": "https://janlukas.blog/posts/ai-self-hosting",
+          "publishedOn": "2026-11-26T21:47:45.000Z",
+          "wordCount": 1702,
+          "title": "AI made self-hosting fun again",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=50655664",
+          "author": "ericmay",
+          "description": "Hopefully it’s a great day spent with your friends and family. And if it’s not, make it a great day anyway!\nComments URL: https://news.ycombinator.com/item?id=50655664\nPoints: 671\n# Comments: 141",
+          "link": "https://news.ycombinator.com/item?id=50655664",
+          "publishedOn": "2026-11-26T14:26:54.000Z",
+          "wordCount": 5548,
+          "title": "Tell HN: Happy Thanksgiving",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=50653667",
+          "author": "saikatsg",
+          "description": "Article URL: https://github.com/intel/intel-one-mono\nComments URL: https://news.ycombinator.com/item?id=50653667\nPoints: 501\n# Comments: 248",
+          "link": "https://github.com/intel/intel-one-mono",
+          "publishedOn": "2026-11-26T10:11:01.000Z",
+          "wordCount": 4411,
+          "title": "Intel One Mono font (2023)",
+          "imageUrl": "https://opengraph.githubassets.com/00f6b18d510fc024a47d7f367d990d4c893be293377a640745fb959bb2b62d66/intel/intel-one-mono"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=50648050",
+          "author": "nb-t",
+          "description": "Article URL: https://github.com/lsernau/grh-lean\nComments URL: https://news.ycombinator.com/item?id=50648050\nPoints: 554\n# Comments: 353",
+          "link": "https://github.com/lsernau/grh-lean",
+          "publishedOn": "2026-11-25T21:48:10.000Z",
+          "wordCount": 1325,
+          "title": "Much shorter version of GRH Lean verification from Anthropic",
+          "imageUrl": "https://opengraph.githubassets.com/3be937d1a0eacddbd95345088b44b83538b6c1329da41db5af48066566a09234/lsernau/grh-lean"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=50647673",
+          "author": "rmason",
+          "description": "https://archive.ph/pcUgy\nComments URL: https://news.ycombinator.com/item?id=50647673\nPoints: 662\n# Comments: 526",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features",
+          "publishedOn": "2026-11-25T21:18:02.000Z",
+          "wordCount": 4335,
+          "title": "The New York Times warns photographers not to update Photoshop over AI features",
+          "imageUrl": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2289911637.jpg?quality=90&strip=all&crop=0%2C10.232235952618%2C100%2C79.535528094764&w=1200"
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=50646108",
           "author": "Kotlopou",
           "description": "See also The matrix multiplication exponent is nine fourths [pdf] - https://news.ycombinator.com/item?id=50637220\nComments URL: https://news.ycombinator.com/item?id=50646108\nPoints: 714\n# Comments: 543",
@@ -24,6 +74,26 @@
           "wordCount": 3264,
           "title": "1Password Security Incident",
           "imageUrl": "https://images.ctfassets.net/3091ajzcmzlr/3yu0DTU3edoU7HK8MxkW54/c5e7801fb8c0d7d52295da96af7e8013/business_2x.webp"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=50643065",
+          "author": "lilytweed",
+          "description": "Article URL: https://www.reddit.com/r/singularity/comments/1y59ef1/rumor_that_openai_or_anthropic_found_a_way_to/\nComments URL: https://news.ycombinator.com/item?id=50643065\nPoints: 507\n# Comments: 381",
+          "link": "https://www.reddit.com/r/singularity/comments/1y59ef1/rumor_that_openai_or_anthropic_found_a_way_to/",
+          "publishedOn": "2026-11-25T15:08:44.000Z",
+          "wordCount": null,
+          "title": "Rumors swirling that labs might have cracked Factoring in P",
+          "imageUrl": null
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=50642086",
+          "author": "rgwohlbold",
+          "description": "Article URL: https://github.com/google-research/google-research/tree/master/cogentic_research_papers\nComments URL: https://news.ycombinator.com/item?id=50642086\nPoints: 506\n# Comments: 371",
+          "link": "https://github.com/google-research/google-research/tree/master/cogentic_research_papers",
+          "publishedOn": "2026-11-25T13:33:07.000Z",
+          "wordCount": 1406,
+          "title": "Google releases Cogentic papers on integer factorization, discrete logs and more",
+          "imageUrl": "https://opengraph.githubassets.com/12902a98436da72cc14ca9ff0ae5704b12d1a1c8318692b41b66b3fb29acad62/google-research/google-research"
         },
         {
           "id": "https://news.ycombinator.com/item?id=50638032",
@@ -2054,76 +2124,6 @@
           "wordCount": null,
           "title": "StackOverflow now gets fewer than 1000 questions a month",
           "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=50276998",
-          "author": "hazebooth",
-          "description": "Article URL: https://nullpt.rs/fingerprinting-bioweapons\nComments URL: https://news.ycombinator.com/item?id=50276998\nPoints: 539\n# Comments: 120",
-          "link": "https://nullpt.rs/fingerprinting-bioweapons",
-          "publishedOn": "2026-10-28T17:13:29.000Z",
-          "wordCount": 1827,
-          "title": "Why is this fingerprinting script creating bioweapons?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=50276940",
-          "author": "etothet",
-          "description": "https://www.apple.com/newsroom/2026/10/apple-unveils-groundb...\nComments URL: https://news.ycombinator.com/item?id=50276940\nPoints: 504\n# Comments: 860",
-          "link": "https://www.apple.com/macbook-pro/proled-xdr-display/",
-          "publishedOn": "2026-10-28T17:10:37.000Z",
-          "wordCount": 18361,
-          "title": "MacBook Pro with PROLED XDR Display and Touch",
-          "imageUrl": "https://www.apple.com/v/macbook-pro/proled-xdr-display/a/images/meta/mbp_proled_xdr__f7755bx607yq_og.png?202610271513"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=50276792",
-          "author": "acossta",
-          "description": "Article URL: https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/\nComments URL: https://news.ycombinator.com/item?id=50276792\nPoints: 686\n# Comments: 557",
-          "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/",
-          "publishedOn": "2026-10-28T17:01:23.000Z",
-          "wordCount": 8425,
-          "title": "Gemini 4 Carbon",
-          "imageUrl": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini_carbon_102726_social_share.width-1300.png"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=50274409",
-          "author": "bschne",
-          "description": "Article URL: https://carmelitegothic.com/cnc-stone-carving/\nComments URL: https://news.ycombinator.com/item?id=50274409\nPoints: 514\n# Comments: 141",
-          "link": "https://carmelitegothic.com/cnc-stone-carving/",
-          "publishedOn": "2026-10-28T14:38:22.000Z",
-          "wordCount": 3747,
-          "title": "CNC Stone Carving",
-          "imageUrl": "https://carmelitegothic.com/wp-content/uploads/2022/05/carmelite-gothic-cnc1.jpg"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=50273171",
-          "author": "internet_points",
-          "description": "Article URL: https://www.technologyreview.com/2026/10/20/1145399/emacs-turns-50/\nComments URL: https://news.ycombinator.com/item?id=50273171\nPoints: 503\n# Comments: 220",
-          "link": "https://www.technologyreview.com/2026/10/20/1145399/emacs-turns-50/",
-          "publishedOn": "2026-10-28T13:25:11.000Z",
-          "wordCount": 6704,
-          "title": "Emacs Turns 50",
-          "imageUrl": "https://wp.technologyreview.com/wp-content/uploads/2026/09/cover-mockup-thumb.jpg?resize=1200,600"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=50272749",
-          "author": "zzzeek",
-          "description": "Article URL: https://www.wired.com/story/ice-is-running-one-of-the-largest-anti-left-surveillance-operations-in-us-history/\nComments URL: https://news.ycombinator.com/item?id=50272749\nPoints: 946\n# Comments: 665",
-          "link": "https://www.wired.com/story/ice-is-running-one-of-the-largest-anti-left-surveillance-operations-in-us-history/",
-          "publishedOn": "2026-10-28T12:49:45.000Z",
-          "wordCount": 30931,
-          "title": "ICE Is Running One of the Largest Anti-Left Surveillance Ops in US History",
-          "imageUrl": "https://media.wired.com/photos/6adf8486990ea20354efad62/191:100/w_1280,c_limit/Security_ICE%20Is%20Carrying%20Out%20%E2%80%98Cointelpro%202.0%E2%80%99_v2.jpg"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=50271640",
-          "author": "galadran",
-          "description": "Article URL: https://emudhra.we-have-a-problem.com/apple.html\nComments URL: https://news.ycombinator.com/item?id=50271640\nPoints: 771\n# Comments: 295",
-          "link": "https://emudhra.we-have-a-problem.com/apple.html",
-          "publishedOn": "2026-10-28T11:03:40.000Z",
-          "wordCount": 686,
-          "title": "Apple's git still trusts the compromised eMudhra certificates",
-          "imageUrl": null
         }
       ]
     },
@@ -2310,16 +2310,6 @@
           "wordCount": 2175,
           "title": "Why are good developers so wary of agentic development?",
           "imageUrl": "https://martinfowler.com/rachels-ramblings/card.png"
-        },
-        {
-          "id": "https://martinfowler.com/fragments/2026-10-28.html",
-          "author": null,
-          "description": "Andrej Karpathy sees a widening gap in how people see LLM capabilities.\nThe general public has mostly not interacted with these systems. When they have, it looks like a derpy chatbot. The majority of professionals still see only a modest uplift. And a small sliver of professionals are experiencing the vertigo of the curve going vertical. And it is all happening at the same time.\nMany of my colleagues are living in a world where LLM capabilities are stunning, but it’s easy to forget that’s not what most people experience. One thing I do is use free-tier LLM chatbots, and I’m still finding that while most of the time they are useful, their unreliability undermines much of that usefulness. Yes, you can argue that I’m not using frontier tools or a forceful enough harness, but that’s true of mo…",
-          "link": "https://martinfowler.com/fragments/2026-10-28.html",
-          "publishedOn": "2026-10-28T12:55:00.000Z",
-          "wordCount": 2154,
-          "title": "Fragments: October 28",
-          "imageUrl": "https://martinfowler.com/fragments/fragments-thumb.png"
         }
       ]
     },
