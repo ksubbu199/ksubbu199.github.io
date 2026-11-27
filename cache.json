@@ -6,6 +6,16 @@
       "siteUrl": "https://news.ycombinator.com/newest",
       "articles": [
         {
+          "id": "https://news.ycombinator.com/item?id=50663595",
+          "author": "utiiiD",
+          "description": "Article URL: https://construct22.com/\nComments URL: https://news.ycombinator.com/item?id=50663595\nPoints: 545\n# Comments: 241",
+          "link": "https://construct22.com/",
+          "publishedOn": "2026-11-27T06:44:34.000Z",
+          "wordCount": 1203,
+          "title": "The group chat where your AI talks behind your back",
+          "imageUrl": null
+        },
+        {
           "id": "https://news.ycombinator.com/item?id=50660180",
           "author": "jlelse",
           "description": "Article URL: https://janlukas.blog/posts/ai-self-hosting\nComments URL: https://news.ycombinator.com/item?id=50660180\nPoints: 536\n# Comments: 274",
@@ -14,6 +24,16 @@
           "wordCount": 1702,
           "title": "AI made self-hosting fun again",
           "imageUrl": null
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=50659640",
+          "author": "liamg",
+          "description": "Article URL: https://lia.mg/posts/measuring-company-culture-with-slack-emoji/\nComments URL: https://news.ycombinator.com/item?id=50659640\nPoints: 505\n# Comments: 258",
+          "link": "https://lia.mg/posts/measuring-company-culture-with-slack-emoji/",
+          "publishedOn": "2026-11-26T20:49:49.000Z",
+          "wordCount": 1511,
+          "title": "Company Culture = Slack Emoji ÷ √Headcount",
+          "imageUrl": "https://lia.mg/assets/img/posts/slack-emoji-culture/header.png"
         },
         {
           "id": "https://news.ycombinator.com/item?id=50655664",
@@ -34,6 +54,16 @@
           "wordCount": 4411,
           "title": "Intel One Mono font (2023)",
           "imageUrl": "https://opengraph.githubassets.com/00f6b18d510fc024a47d7f367d990d4c893be293377a640745fb959bb2b62d66/intel/intel-one-mono"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=50651117",
+          "author": "Herrera",
+          "description": "Article URL: https://twitter.com/thsottiaux/status/2125784147889393806\nComments URL: https://news.ycombinator.com/item?id=50651117\nPoints: 502\n# Comments: 272",
+          "link": "https://twitter.com/thsottiaux/status/2125784147889393806",
+          "publishedOn": "2026-11-26T03:36:58.000Z",
+          "wordCount": 2729,
+          "title": "OpenAI cuts GPT-6.2 usage: Astra hits limits 40% faster, Sol 25% faster",
+          "imageUrl": "https://pbs.twimg.com/profile_images/2093807917833281537/2yBgpwVV_400x400.jpg"
         },
         {
           "id": "https://news.ycombinator.com/item?id=50648050",
@@ -2094,36 +2124,6 @@
           "wordCount": 4413,
           "title": "We're releasing the weights of Mistral Large 4",
           "imageUrl": "https://mistral.ai/cms-media/api/media/file/cover-mistral-sovereign%20copie.webp"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=50284255",
-          "author": "NikZaal",
-          "description": "Article URL: https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce\nComments URL: https://news.ycombinator.com/item?id=50284255\nPoints: 527\n# Comments: 211",
-          "link": "https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce",
-          "publishedOn": "2026-10-29T03:33:42.000Z",
-          "wordCount": 3741,
-          "title": "Claude Code regularly sends each background agent’s transcript to its model",
-          "imageUrl": "https://github.githubassets.com/assets/gist-og-image-54fd7dc0713e.png"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=50282838",
-          "author": "csmantle",
-          "description": "Article URL: https://divagr.com/blog/qwenputer\nComments URL: https://news.ycombinator.com/item?id=50282838\nPoints: 647\n# Comments: 136",
-          "link": "https://divagr.com/blog/qwenputer",
-          "publishedOn": "2026-10-29T00:25:45.000Z",
-          "wordCount": 4669,
-          "title": "Qwenputer: A functioning, deterministic RISC-V CPU inside Qwen3.5",
-          "imageUrl": "https://divagr.com/qwenputer/og.png"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=50282454",
-          "author": "babelfish",
-          "description": "Article URL: https://data.stackexchange.com/stackoverflow/query/1926661#graph?t=1\nComments URL: https://news.ycombinator.com/item?id=50282454\nPoints: 698\n# Comments: 596",
-          "link": "https://data.stackexchange.com/stackoverflow/query/1926661#graph?t=1",
-          "publishedOn": "2026-10-28T23:35:02.000Z",
-          "wordCount": null,
-          "title": "StackOverflow now gets fewer than 1000 questions a month",
-          "imageUrl": null
         }
       ]
     },
@@ -2361,6 +2361,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKZozRVHRYsYHGEyNKuhhdA",
       "siteUrl": "https://www.youtube.com/channel/UCKZozRVHRYsYHGEyNKuhhdA",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=l3MdD3sek44",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=l3MdD3sek44",
+          "publishedOn": "2026-11-27T16:38:36.000Z",
+          "wordCount": null,
+          "title": "It's Easier Than We Think! | How China Solved Its Air Pollution Crisis and What India Can Learn",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=kb_bOB9tHU0",
           "author": null,

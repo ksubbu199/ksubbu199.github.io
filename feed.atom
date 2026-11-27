@@ -2,10 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ksubbu199.github.io/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-11-27T06:56:39.802Z</updated>
+    <updated>2026-11-27T17:17:18.977Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ksubbu199.github.io/index.html"/>
     <link rel="self" href="https://ksubbu199.github.io/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[It's Easier Than We Think! | How China Solved Its Air Pollution Crisis and What India Can Learn]]></title>
+        <id>https://www.youtube.com/watch?v=l3MdD3sek44</id>
+        <link href="https://www.youtube.com/watch?v=l3MdD3sek44"/>
+        <updated>2026-11-27T16:38:36.000Z</updated>
+        <author>
+            <name>Think School</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The group chat where your AI talks behind your back]]></title>
+        <id>https://news.ycombinator.com/item?id=50663595</id>
+        <link href="https://construct22.com/"/>
+        <updated>2026-11-27T06:44:34.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://construct22.com/
+Comments URL: https://news.ycombinator.com/item?id=50663595
+Points: 545
+# Comments: 241]]></summary>
+        <author>
+            <name>utiiiD</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AI made self-hosting fun again]]></title>
         <id>https://news.ycombinator.com/item?id=50660180</id>
@@ -17,6 +39,19 @@ Points: 536
 # Comments: 274]]></summary>
         <author>
             <name>jlelse</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Company Culture = Slack Emoji ÷ √Headcount]]></title>
+        <id>https://news.ycombinator.com/item?id=50659640</id>
+        <link href="https://lia.mg/posts/measuring-company-culture-with-slack-emoji/"/>
+        <updated>2026-11-26T20:49:49.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://lia.mg/posts/measuring-company-culture-with-slack-emoji/
+Comments URL: https://news.ycombinator.com/item?id=50659640
+Points: 505
+# Comments: 258]]></summary>
+        <author>
+            <name>liamg</name>
         </author>
     </entry>
     <entry>
@@ -52,6 +87,19 @@ Points: 501
 # Comments: 248]]></summary>
         <author>
             <name>saikatsg</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenAI cuts GPT-6.2 usage: Astra hits limits 40% faster, Sol 25% faster]]></title>
+        <id>https://news.ycombinator.com/item?id=50651117</id>
+        <link href="https://twitter.com/thsottiaux/status/2125784147889393806"/>
+        <updated>2026-11-26T03:36:58.000Z</updated>
+        <summary type="html"><![CDATA[Article URL: https://twitter.com/thsottiaux/status/2125784147889393806
+Comments URL: https://news.ycombinator.com/item?id=50651117
+Points: 502
+# Comments: 272]]></summary>
+        <author>
+            <name>Herrera</name>
         </author>
     </entry>
     <entry>
@@ -3156,45 +3204,6 @@ I’ve been surprised by how many excellent developers have been hesitant to go 
 The easy (lazy?) answer is that they love writing code, or they’re worried about their jobs. I’m sure that’s true for some people, some of the time. And I know it is true for some of the developers I talk to but I always felt there was something else, another fear hiding behind those obvious ones. When we put together the Technology Radar every six months I try …]]></summary>
         <author>
             <name>Martin Fowler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Claude Code regularly sends each background agent’s transcript to its model]]></title>
-        <id>https://news.ycombinator.com/item?id=50284255</id>
-        <link href="https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce"/>
-        <updated>2026-10-29T03:33:42.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce
-Comments URL: https://news.ycombinator.com/item?id=50284255
-Points: 527
-# Comments: 211]]></summary>
-        <author>
-            <name>NikZaal</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Qwenputer: A functioning, deterministic RISC-V CPU inside Qwen3.5]]></title>
-        <id>https://news.ycombinator.com/item?id=50282838</id>
-        <link href="https://divagr.com/blog/qwenputer"/>
-        <updated>2026-10-29T00:25:45.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://divagr.com/blog/qwenputer
-Comments URL: https://news.ycombinator.com/item?id=50282838
-Points: 647
-# Comments: 136]]></summary>
-        <author>
-            <name>csmantle</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[StackOverflow now gets fewer than 1000 questions a month]]></title>
-        <id>https://news.ycombinator.com/item?id=50282454</id>
-        <link href="https://data.stackexchange.com/stackoverflow/query/1926661#graph?t=1"/>
-        <updated>2026-10-28T23:35:02.000Z</updated>
-        <summary type="html"><![CDATA[Article URL: https://data.stackexchange.com/stackoverflow/query/1926661#graph?t=1
-Comments URL: https://news.ycombinator.com/item?id=50282454
-Points: 698
-# Comments: 596]]></summary>
-        <author>
-            <name>babelfish</name>
         </author>
     </entry>
     <entry>
